@@ -1,0 +1,2949 @@
+********************************************************
+	DC.Title                  = LE GALANT DOUBLE, COMEDIE.
+	DC.Author                 = CORNEILLE, Thomas
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:16.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CORNEILLET_GALANTDOUBLE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE GALANT DOUBLE COMEDIE1659
+Thomas Corneille
+	
+	
+	Represente pour la premiere fois en 1659 au Theatre de l'Hotel de Bourgogne.
+	ACTEURS
+DON DIEGUE, pere de Leonor.
+DON FERNAND de Solis, amant de Leonor.
+DON JUAN de Torres, ami de Don Fernand. 
+LEONOR, fille de Don Diegue. 
+ISABELLE, amie de Leonor. 
+BEATRIX, suivante d'Isabelle. 
+JACINTE, suivante de Leonor.
+Un exempt..
+GUZMAN, valet de Don Fernand. 
+La scene est a Madrid.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Don Fernand, Gusman.
+DON FERNAND.
+Ah, Gusman  !
+GUZMAN.
+Ah, Monsieur  !
+DON FERNAND.
+Je te vois a Madrid.
+GUZMAN.
+Ce voyage longtemps m'a chagrine l'esprit,
+Et j'avais belle peur de ne le pouvoir faire.
+DON FERNAND.
+Quoi, Guzman, tu doutais du credit de mon pere ?
+GUZMAN.
+Je ne doutais de rien, mais dans la verite			[5]
+Don Cesar etait mort, et j'etais arrete.
+DON FERNAND.
+Pour huit jours de prison tu t'en dus croire quitte.
+GUZMAN.
+La prison est toujours un malencontreux gite,
+Et m'y voyant entre, je m'etais attendu
+A n'en sortir jamais que pour etre pendu,			[10]
+Dans ces occasions, pour chetif qu'il puisse etre,
+Un valet quelquefois peut payer pour son maitre.
+Comme apres le coup fait vous etiez evade,
+On n'accusait que moi d'avoir homicide.
+J'etais la fortement demeure pour les gages.			[15]
+DON FERNAND.
+Enfin  ?
+GUZMAN.
+Enfin l'argent a de grands avantages,
+Et c'est par sa vertu qu'on est tombe d'accord,
+Que sans nuire aux vivants, le mort resterait mort ;
+Mais depuis plus d'un mois que parti de Seville,
+Vous avez ici du prendre en propre une fille,			[20]
+Tout etant entre vous par lettres concerte,
+Puis-je vous demander ou vous avez ete  ?
+DON FERNAND.
+Ici. Pourquoi douter d'une chose si claire ?
+GUZMAN.
+Pour vous avoir en vain cherche chez le beau-pere.
+DON FERNAND.
+Chez Don Diegue ?
+GUZMAN.
+Oui, Monsieur.			[25]
+DON FERNAND.
+Ah, Guzman, qu'as-tu fait ?			[25]
+GUZMAN.
+Ma foi, c'est un brave homme, et j'en suis satisfait ;
+La station est douce, on y boit d'importance.
+DON FERNAND.
+Il m'attend comme gendre ?
+GUZMAN.
+Avec impatience,
+Et trouve tout en vous tellement a son gre,
+Qu'il voudrait des demain vous avoir engendre.			[30]
+Votre retardement le tient bien en cervelle.
+DON FERNAND.
+Par toi de mon depart il a su la nouvelle.
+GUZMAN.
+Il sait jusqu'au sujet qui vous l'a fait hater.
+DON FERNAND.
+Sa fille, tu l'as vue, il n'en faut point douter ?
+GUZMAN.
+Arrive d'hier au soir, je n'ai vu que le pere,			[35]
+Et ne sachant sans vous que resoudre ni faire,
+Sorti sans en rien dire avant qu'il fut leve,
+J'ai voulu voir la ville, et je vous ai trouve.
+Mais de grace, Monsieur, quelle rare aventure
+Vous fait fuir le beau-pere et l'epouse future ?			[40]
+Vous sentez-vous impropre au matrimonium ?
+DON FERNAND.
+Guzman, je laisse agir mon inclination,
+Et si de doux objets ont tente ma franchise...
+GUZMAN.
+Prenez garde, Monsieur, a cette marchandise.
+L'air de Cour rabat bien du haut prix qui s'y met,			[45]
+On ne la livre pas telle qu'on l'y promet,
+Et beaucoup attrapes par un maintien modeste,
+Pensent prendre en plein drap, qui n'achetent qu'un reste.
+DON FERNAND.
+Non, non, mon coeur n'est point novice dans ce choix,
+Et pour deux aujourd'hui brule tout a la fois.			[50]
+GUZMAN.
+Autres que Leonor votre epouse  !
+DON FERNAND.
+Autres qu'elle.
+On me la fait aimable, on me dit qu'elle est belle ;
+Mais son pere et le mien en ont en vain ma foi,
+Ils choisissaient pour eux, je veux choisir pour moi.
+GUZMAN.
+Bon, mais puisqu'a la fois deux ont l'air de vous plaire,			[55]
+Et que la confrerie est un mal necessaire,
+Prenez-les toutes deux en qualite d'epoux,
+L'une pour vos amis, l'autre sera pour vous.
+DON FERNAND.
+Au lieu de badiner, ecoute. La poursuite
+Dont pour Cesar tue l'apprehendais la suite,			[60]
+Ayant hate d'un mois mon voyage a la Cour,
+Me fit perdre d'abord tout souci de l'amour.
+Ainsi jusqu'au succes que j'en devais attendre,
+J'oubliai qu'a Madrid je venais comme gendre,
+Et sans que chez Don Diegue aucun l'ait pu savoir,			[65]
+Don Juan est celui qui m'a su recevoir.
+Me logeant, il ne fait que me rendre en sa Ville
+Ce que tu sais chez nous qu'il recut a Seville,
+Et j'ai l'heur qu'a Madrid n'etant jamais venu,
+Il est le seul encor de qui j'y sois connu.			[70]
+GUZMAN.
+Vous l'etes du beau-pere.
+DON FERNAND.
+Il a mauvaise vue,
+Je l'ai deja deux fois rencontre par la rue,
+Mais comme j'y prends garde, et qu'il me croit fort loin,
+Cet embarras a fuir me donne peu de soin.
+Cependant, Don Juan m'a fait voir une dame,			[75]
+Pour qui mon coeur soudain s'est senti tout de flamme.
+Jamais des traits plus vifs, jamais des yeux plus doux,
+N'avaient porte sur lui de si dangereux coups.
+L'air galant, enjoue...
+GUZMAN.
+Son nom est.
+DON FERNAND.
+Isabelle.
+GUZMAN.
+Et vous avez sans doute un libre acces chez elle ?			[80]
+DON FERNAND.
+Jusque-la que tantot encor elle m'attend.
+GUZMAN.
+Elle vous aime  ?
+DON FERNAND.
+Assez pour en etre content,
+Et comme elle a du bien, et depend d'elle-meme,
+Je l'aimerais autant peut-etre qu'elle m'aime,
+Si par un autre amour cet amour traverse			[85]
+Pouvait continuer comme il a commence.
+GUZMAN.
+Avouez a peu pres que mon gout est le votre,
+Tater un peu de tout, hier l'une, aujourd'hui l'autre.
+Cet amour est d'un genre assez adulterin.
+DON FERNAND.
+Non, ces deux objets seuls ont droit sur mon destin,			[90]
+Et toute autre beaute toucherait peu mon ame.
+GUZMAN.
+Quelle est cette seconde encor qui vous enflamme ?
+DON FERNAND.
+J'en ignore le nom comme la qualite.
+GUZMAN.
+Vous l'aimez seulement par curiosite ?
+DON FERNAND.
+Ce commerce ou mon coeur va plus loin qu'il ne pense,			[95]
+Est fonde de sa part sur la reconnaissance,
+Aux lieux de promenade elle vient chaque jour
+Recevoir les serments d'un reciproque amour,
+Mais sans se decouvrir.
+GUZMAN.
+Monsieur, c'est une gueuse
+Qui gagne ses habits au metier de coureuse,			[100]
+Et qui poussant le leurre autant qu'elle pourra,
+Se titrera Marquise, et vous attrapera.
+DON FERNAND.
+A la voir seulement tu jugerais mieux d'elle.
+De tout ce qu'elle fait la grace est naturelle,
+Le port noble et touchant, rien de bas, d'affecte,			[105]
+Un certain air modeste et plein de liberte,
+Je ne sais quoi de doux, l'entretien agreable,
+L'esprit vif, delicat, percant...
+GUZMAN.
+C'est la le diable.
+Ces gueuses pour piller la dupe qui leur rit,
+Monsieur, vendant le corps, achetent de l'esprit.			[110]
+DON FERNAND.
+Pour m'y voir attrape je m'y sais trop connaitre,
+Et ce que tant d'appas dans mon coeur ont fait naitre
+Pourrait pour celle-ci gagner enfin ma voix,
+Si sa famille sue autorisait mon choix.
+Au plus parfait amour je sens mon ame prete,			[115]
+Mais j'ignore qui j'aime, et c'est ce qui m'arrete.
+GUZMAN.
+La fourbe est bien en regne, et s'en sauve qui peut.
+SCENE II. Don Fernand, Jacinte, Guzman.
+JACINTE, ayant la coiffe abattue. 
+St.
+GUZMAN.
+St. Bon jour. Monsieur, est-ce a vous qu'on en veut,
+Ou si c'est moi deja que la Donzelle tente  ?
+Voyez.
+DON FERNAND.
+A l'inconnue elle sert de suivante,			[120]
+Tais-toi. Qu'heureusement je te rencontre ici  ?
+Enfin...
+JACINTE.
+Heureusement je vous rencontre aussi.
+A la poste ou pour nous vous laissez votre adresse,
+Je portais ce billet.
+DON FERNAND.
+De qui  ?
+JACINTE.
+De ma maitresse.
+Lisez-le, Don Fernand.
+GUZMAN, a Jacinte tandis que Don Fernand lit.
+Ma chere...			[125]
+JACINTE.
+Assurement.			[125]
+GUZMAN.
+Si le coeur t'en disait, je suis sans compliment.
+Ces detours, ces douceurs, dont un galant s'enivre,
+Autant de bien perdu pour ceux qui savent vivre.
+Sans tant verbaliser l'amour veut de l'effet,
+J'en ai toujours de pret, si tu m'aimes, c'est fait.			[130]
+JACINTE.
+Tu serais pris au mot, si tu n'y prends bien garde.
+GUZMAN.
+Ma foi, dans ce marche c'est moi seul qui hasarde.
+Tu vois clair en m'aimant si nous en disputons,
+Mais je suis oblige de t'aimer a tatons ;
+Avec ton nez bride de ta coiffe importune,			[135]
+Ta tenebrosite m'en pourrait bailler d'une,
+Et ton minois, de coeurs modestement filou,
+S'il n'est quelque peu singe, est peut-etre hibou.
+JACINTE.
+Il te les faut choisir.
+DON FERNAND, apres avoir lu.
+Ta maitresse m'oblige,
+Et ne peut me donner d'avis que je neglige.			[140]
+Mais ne puis-je savoir ou tu me dois mener  ?
+JACINTE.
+Ne vous preparez point a me questionner.
+Tantot au lieu marque prenez soin de vous rendre,
+Suivant votre billet je vous y viendrai prendre,
+N'attendez rien de plus.
+DON FERNAND.
+Ote-moi de souci,			[145]
+De grace...
+JACINTE.
+Voulez-vous qu'on me surprenne ici  ?
+Si quelqu'un m'y connait, ma Maitresse est perdue.
+DON FERNAND.
+Mais fais-la moi connaitre.
+JACINTE.
+Enfin vous l'avez vue  ?
+DON FERNAND.
+Oui, je sais bien qu'en elle eclatent mille appas.
+JACINTE.
+En etes-vous content  ?
+DON FERNAND.
+Qui ne le serait pas  ?			[150]
+JACINTE.
+Jugez par la du reste, et lui soyez fidele.
+DON FERNAND.
+Au moins dis moi son rang.
+JACINTE.
+Tout est egal en elle,
+La beaute, l'air, l'esprit, la qualite, le bien.
+GUZMAN.
+C'est-a-dire, Monsieur, que le tout n'y vaut rien.
+DON FERNAND.
+Maraud...
+GUZMAN.
+Vous la croyez a son apprentissage  ?			[155]
+DON FERNAND.
+Mais pourquoi se cacher  ?
+JACINTE.
+C'est qu'elle est bonne et sage,
+Et que l'on voit la fourbe un don si cavalier,
+Qu'il faut vous bien connaitre avant que de s'y fier.
+DON FERNAND.
+Non, si ma passion ne va jusqu'a l'extreme,
+Si mon coeur n'est atteint...
+JACINTE.
+Chacun en dit de meme			[160]
+Pour faire croire un feu qu'ils affectent souvent,
+Tous ont le meme style, et la plupart, du vent.
+DON FERNAND.
+Mais ta Maitresse enfin, ou qui qu'elle puisse etre,
+Se trouvera forcee a se faire connaitre ;
+Il en faudra venir a l'aveu que j'attends.			[165]
+JACINTE.
+Vous saurez le secret quand il en sera temps,
+Et pretendez en vain me voir changer de note,
+Je tiens bien le tacet.
+GUZMAN.
+La peste soit la sotte.
+Quel que fut le secret qu'on m'eut pu confier
+Je le dirais soudain de peur de l'oublier.			[170]
+DON FERNAND.
+Tu n'oses donc encor m'eclaircir l'aventure  ?
+GUZMAN.
+Elle est faite, Monsieur, en depit de Nature,
+Et le Ciel se trompant sans doute a la facon,
+Dans un moule de fille a cru faire un poisson.
+JACINTE.
+Adieu, brave causeur.
+GUZMAN.
+Adieu, chere muette.			[175]
+SCENE III. Don Fernand, Guzman.
+GUZMAN.
+Qui l'en croira, Monsieur, votre fortune est faite ;
+Esprit, naissance, bien, attraits, le choix est doux.
+DON FERNAND.
+Me voici cependant avec deux rendez-vous.
+Isabelle tantot m'attend a la meme heure.
+GUZMAN.
+Des deux occasions choisissez la meilleure,			[180]
+Allez ou votre coeur est le plus attache.
+DON FERNAND.
+Pour la Dame Inconnue il se sent plus touche ;
+Mais de peur de surprise, ignorant sa naissance,
+Autant que je le puis je le tiens en balance,
+Et comme je ne sais ce qui peut arriver,			[185]
+Si celle-ci manquait, l'autre est a conserver.
+GUZMAN.
+Mais puisqu'elle vous tient ses affaires secretes,
+Lui deviez-vous sitot decouvrir qui vous etes  ?
+Sa Suivante a d'abord fait ouir votre nom.
+DON FERNAND.
+Qu'il soit connu de tous, qu'en devinera-t-on  ?			[190]
+Il est mille Fernands dans une meme ville.
+Suffit que j'ai cache que je suis de Seville,
+Et qu'enfin me disant de Grenade, j'ai pris
+Le surnom d'Avalos pour celui de Solis.
+GUZMAN.
+Par ce nom trop tot dit, autre embarras a craindre.			[195]
+Vous aimez Isabelle, ou du moins l'osez feindre ;
+Et si cette Inconnue apprend quelque beau jour
+Qu'un Fernand Grenadin fasse en deux lieux sa cour  ?
+DON FERNAND.
+Cesar de ce peril par sa mort me delivre.
+Craignant que jusqu'ici l'on ne me sut poursuivre			[200]
+Je priai Don Juan d'abuser ses amis,
+Me nommant devant eux partout Don Dionis.
+Sous ce nom, d'Isabelle il m'assura la vue,
+Et je suis Don Fernand pour la seule Inconnue.
+Mais de quelque message on m'en vient regaler,			[205]
+Sa Suivante s'approche afin de me parler,
+Je la vois qui sourit.
+GUZMAN.
+Quoi, celle d'Isabelle,
+Votre premiere Amante  ?
+DON FERNAND.
+Oui, Guzman.
+GUZMAN.
+Qu'elle est belle !
+Monsieur, preferons-la.
+DON FERNAND.
+Tu te trouves tente ?
+GUZMAN.
+J'ai de malins instants pour la fragilite,			[210]
+Et par precaution j'essayerais du remede.
+SCENE IV. Don Fernand, Beatrix, Guzman.
+DON FERNAND.
+Aujourd'hui, Beatrix, tout a mes voeux succede.
+Ta rencontre est un bien qui doit m'etre si doux...
+BEATRIX.
+Pas tant, si je vous viens oter un rendez-vous.
+DON FERNAND.
+Que dis-tu  ?
+BEATRIX.
+Que tantot ma Maitresse Isabelle			[215]
+Ne peut, Don Dionis, vous attendre chez elle ;
+Voila ce que j'allais vous dire de sa part.
+DON FERNAND.
+J'attendrai son retour, et la verrai plus tard.
+BEATRIX.
+Non pas pour aujourd'hui, votre amour va trop vite.
+DON FERNAND.
+Au moins a son defaut accepte ma visite,			[220]
+Et si tantot sans toi par hasard elle sort...
+BEATRIX.
+Il vous plait de railler.
+DON FERNAND.
+Ah, c'est me faire tort.
+Non, a t'entretenir j'aurai la meme joie,
+Et je croirai la voir pourvu que je te voie.
+BEATRIX.
+Ma foi, je ne sais pas comme vous l'entendez,			[225]
+Mais je pense valoir ce que vous demandez.
+D'aussi bien faits que vous me verraient pour mon compte.
+GUZMAN.
+Qu'elle en sait  !
+DON FERNAND.
+Tout de bon, ton espoir me fait honte,
+Et je t'en trouve tant...
+BEATRIX.
+Que vous le baillez doux  !
+Treve, Don Dionis point de guerre entre nous,			[230]
+J'ai peut-etre de quoi vous donner votre reste.
+DON FERNAND.
+Tu tournes tout en jeu, mais je te le proteste,
+Que mon coeur sent pour toi certaine emotion...
+BEATRIX.
+De grace, arretez-la la protestation,
+Sans me charger encor d'un coeur comme le votre,			[235]
+J'ai tant de Protestants qu'ils s'etouffent l'un l'autre,
+Et dans les voeux divers qu'on me vient adresser,
+Je ne sais tantot plus ou les pouvoir placer.
+DON FERNAND.
+Ta beaute du plus fier te ferait un esclave.
+BEATRIX.
+Je sais ce que je puis, ne faites point le brave,			[240]
+Et croyez seulement que l'ayant entrepris,
+Vous seriez bien adroit si vous ne restiez pris.
+Qu'on se defende ou non de chercher a me plaire,
+Quand j'ai dessein de prendre, on ne m'echappe guere,
+Et j'arrete si bien, qu'en ce droit absolu			[245]
+Je n'ai perdu jamais que ce que j'ai voulu.
+DON FERNAND.
+Qui ne t'en croirait pas  ? Tu vaux que l'on t'admire,
+Tout est aimable en toi.
+BEATRIX.
+Vous pensez-vous en rire,
+Mais apres tout, peut-etre a m'examiner bien,
+A la qualite pres, il ne me manque rien.			[250]
+Quoi que montre d'appas ma Maitresse et la votre,
+Cette taille et ce port en valent bien quelque autre.
+Si je n'ai point les traits si doux, si delicats,
+J'ai des je ne sais quoi que la beaute n'a pas,
+Le teint, je m'en rapporte, et pour de la jeunesse,			[255]
+Je pense que me voir c'est tout.
+GUZMAN.
+La bonne piece  !
+Si quelqu'un m'entend mieux, je le quitte.
+BEATRIX.
+Jaseur,
+C'est a toi de parler avec les gens d'honneur  ?
+GUZMAN.
+Si je puis librement dire ce qui m'en semble,
+Ton honneur et le mien sont bons a mettre ensemble.			[260]
+Et quiconque des deux pourrait n'en faire qu'un.
+Ferait encor, je pense, un honneur bien commun.
+DON FERNAND.
+Tu ne te tairas point, Maraud  ?
+GUZMAN.
+Sur ma parole,
+La Matoise est, Monsieur, instruite en bonne ecole ;
+Elle vous en dira de toutes les facons,			[265]
+Et se peut aisement passer de nos lecons.
+BEATRIX.
+Oui, je m'abaisserai jusqu'a prendre les tiennes.
+GUZMAN.
+Ah  ! Mon Ange.
+BEATRIX.
+C'est la que je veux que tu viennes.
+J'ai besoin des douceurs d'un Galant tel que toi  ?
+DON FERNAND.
+Laisse-la ce badin, et ne songe qu'a moi.			[270]
+BEATRIX.
+Quoi, ne songer qu'a vous  ! Et que feraient mille autres
+Dont les voeux acceptes ont precede les votres  ?
+Chaque moment du jour peut a peine fournir
+A donner a chacun son rang de souvenir ;
+Mais je perds trop de temps, adieu, je me retire.			[275]
+DON FERNAND.
+Si tot  ?
+BEATRIX.
+Achevez donc, qu'avez-vous a me dire  ?
+DON FERNAND.
+Beatrix.
+BEATRIX.
+Est-ce tout  ? Vous me ferez gronder,
+J'ai hate.
+DON FERNAND.
+Laisse-moi du moins te regarder,
+A te voir seulement mon plaisir est extreme.
+BEATRIX.
+Vous ne m'etonnez point, j'y prends plaisir moi-meme			[280]
+Et dans plus d'un miroir on me voit chaque jour
+Aller de temps en temps me faire un peu de cour.
+DON FERNAND.
+Il est doux de s'y voir quand la copie agree.
+BEATRIX.
+Je ne m'y trouve pas tout a fait dechiree,
+Et j'en prends plus de droit d'aimer l'original.			[285]
+SCENE V. Don Fernand, Don Juan, Beatrix, Guzman.
+DON JUAN.
+Seul avec Beatrix  ? C'est n'etre pas trop mal.
+DON FERNAND.
+Venez-vous m'envier le bien que je possede  ?
+DON JUAN.
+Brulant pour sa Maitresse, il faut qu'on me la cede.
+DON FERNAND.
+Gardez qu'a l'obtenir vos efforts ne soient vains.
+BEATRIX.
+He, de grace, pour moi n'en venez pas aux mains.			[290]
+DON JUAN.
+Tu n'as qu'a decider, je pretends, il s'oppose.
+BEATRIX.
+Je pense que pour vous je sens la meme chose,
+Et crains bien que restant dans cette egalite,
+Aucun des deux jamais n'ait droit de primaute.
+Adieu.
+GUZMAN.
+Bonsoir, la Belle.			[295]
+SCENE VI. Don Fernand, Don Juan, Guzman.
+DON JUAN.
+Et Guzman la cajole  ?			[295]
+Deja  ?
+GUZMAN.
+Non pas, Monsieur, c'est que je la console.
+Ces belles ont toujours l'esprit deconcerte
+Quand on leur dit adieu sans parler de beaute ;
+Il se faut acquitter du moins de la grimace.
+DON JUAN.
+Ou l'avez-vous trouve  ?
+DON FERNAND.
+Dans cette meme place,			[300]
+Ou soudain il m'a vu changer de rendez-vous.
+DON JUAN.
+Aimant en deux endroits, ce changement est doux.
+C'est recouvrer soudain une faveur perdue.
+DON FERNAND.
+Je l'avais d'Isabelle, et l'ai de l'Inconnue.
+L'une hors du logis doit passer jusqu'au soir,			[305]
+Et sur quelques secrets l'autre cherche a me voir.
+DON JUAN.
+Vous brulez d'eclaircir celui de l'aventure  ?
+DON FERNAND.
+Cette assignation m'en donne bon augure.
+DON JUAN.
+Oui, mais je vous apporte un sujet de souci,
+Votre Beau-pere sait que vous etes ici.			[310]
+DON FERNAND.
+Que je suis arrive, Don Juan  ?
+DON JUAN.
+Que vous l'etes.
+En vain j'ai cru tenir toutes choses secretes ;
+Ayant ete des hier par Guzman averti
+Du longtemps qu'il vous sait de Seville parti,
+Et de notre amitie sachant l'etroite chaine,			[315]
+Il est venu chez moi me temoigner sa peine.
+DON FERNAND.
+Vous n'avez point alors tache de l'abuser  ?
+DON JUAN.
+Apres ce qu'il savait, qu'avais-je a deguiser ?
+Votre arrivee ici se pouvait-elle taire  ?
+DON FERNAND.
+De mon secret sans doute il est fort en colere  ?			[320]
+Qu'aura-t-il cru de moi de ne l'avoir point vu  ?
+DON JUAN.
+Que de votre combat c'est l'effet imprevu,
+Et qu'avant que le voir vous jugiez necessaire
+D'attendre quelque temps le succes de l'affaire.
+DON FERNAND.
+Quel malheur  !
+DON JUAN.
+Cependant j'ai promis qu'aujourd'hui,			[325]
+Puisque vous etiez libre, il vous verrait chez lui;
+C'est a vous d'y songer, ma parole est donnee.
+DON FERNAND.
+Quel pretexte choisir pour rompre l'hymenee ?
+L'amour me cause ici d'etranges embarras.
+DON JUAN.
+Je n'entreprendrai point d'en combattre l'appas.			[330]
+Mais voyez Leonor, elle est sage, elle est belle,
+Et ce que vous aimez vaut peut-etre moins qu'elle.
+DON FERNAND.
+Ah, ne m'en parlez point, Leonor me deplait.
+DON JUAN.
+Sans la voir, sur son nom vous en donnez l'arret  ?
+DON FERNAND.
+Je ne la puis souffrir.
+GUZMAN.
+La pauvre delaissee  !			[335]
+Monsieur, si par hasard elle etait fort pressee,
+Et qu'a vous en defaire on vous vit empeche,
+Pour vous faire plaisir je prendrai le marche.
+DON JUAN.
+Guzman a le gout bon.
+DON FERNAND.
+Il faut voir l'Inconnue ;
+En l'etat ou je suis tout depend de sa vue,			[340]
+Son destin eclairci pourra regler le mien.
+DON JUAN.
+Voyez-la, mais enfin ne precipitez rien.
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Don Diegue, Isabelle, Beatrix.
+DON DIEGUE.
+N'en soyez point surprise, o charmante Isabelle,
+D'un bruit sourd et confus j'en ai su la nouvelle,
+Et comme rien pour moi ne peut etre plus doux,			[345]
+Je m'en suis cru devoir expliquer avec vous.
+Excusez pour un fils ma tendresse de pere,
+Je sais que Don Felix s'etudie a vous plaire,
+Et j'aurai grande joie a le voir sous vos lois,
+S'il a su meriter l'honneur de votre choix.			[350]
+Vous connaissez mon bien, vous savez ma famille,
+L'amitie semble etroite entre vous et ma fille,
+Et pour elle et pour moi je le tiendrais heureux
+Que l'alliance encore en redoublat les noeuds.
+ISABELLE.
+Cet hymen propose me fait voir tant d'estime,			[355]
+Que l'espoir m'en parait a peine legitime.
+Je ne celerai point que ce peu de beaute
+M'acquiert de Don Felix quelque civilite,
+Mais, Monsieur, un dessein d'une telle importance,
+Avant qu'aller plus loin, vaut bien que l'on y pense,			[360]
+Et quoi qu'aucun n'ait droit de contraindre ma foi,
+Je dois en consulter de plus sages que moi
+Je sais de leur conseil ce que je puis attendre,
+Et c'est de Leonor que je le voudrais prendre,
+Si comme elle est sa soeur, les interets du sang			[365]
+Aupres de l'amitie n'etaient d'un autre rang.
+DON DIEGUE.
+D'un si facheux delai quelle que soit la suite,
+Je ne puis qu'admirer votre sage conduite,
+Et si vos sentiments se declarent pour nous,
+J'emploierai Leonor a les savoir de vous,			[370]
+L'Epoux qu'elle attendait, arrive de Seville,
+Va deja commencer la joie en ma famille,
+Et comblant d'heur un fils qui se sent captiver,
+C'est votre seul aveu qui la peut achever.
+Le Ciel daigne en hater l'heureuse certitude.			[375]
+SCENE II. Isabelle, Beatrix.
+BEATRIX.
+Ce choix vous va causer un peu d'inquietude ;
+Si Don Felix fait voir son amour par ses soins,
+Don Dionis pour vous n'en temoigne pas moins,
+Votre coeur doit parler c'est a vous de l'entendre.
+ISABELLE.
+En se deferant trop, il craint de se meprendre			[380]
+Ces Soupirants d'office, en tous lieux si cheris,
+Sont d'aimables Amants, mais de facheux Maris ;
+En vain la plus parfaite aura touche leur ame,
+S'ils l'adorent Maitresse, ils la meprisent Femme,
+Et leurs voeux attaches a de nouveaux appas,			[385]
+Dedaignent ce qu'ils ont pour tout ce qu'ils n'ont pas.
+Voila ce qui suspend tout ce que je propose.
+BEATRIX.
+De vrai, le mariage est une etrange chose,
+Et qui s'en peut louer, pour en bien discourir,
+Au metier de forcat n'aurait guere a souffrir.			[390]
+La chaine en est, dit-on, si rude et si pesante,
+Que qui n'en gemit point a l'ame bien constante,
+Et quand il faut choisir, jeune, galant, fleuri,
+Adroit, aimable, beau, c'est toujours un Mari,
+On est bien empeche comme on s'y doit conduire,			[395]
+Trop de precaution souvent ne fait que nuire,
+En vain pour mieux echoir on y fait cent facons,
+Puisque enfin les meilleurs ne sont jamais trop bons.
+Sans qu'un semblable choix nous chagrine d'avance,
+Il faut jeter les des au hasard de la chance,			[400]
+Et dire en risquant tout, puisque enfin on le veut,
+Dieu nous la donne bonne, et vienne ce qui peut.
+ISABELLE.
+C'est en dire un peu trop.
+BEATRIX.
+Ce n'est point la satire,
+Madame ; croyez-moi, l'on n'en saurait trop dire.
+Il est de ces reveurs, il est de ces jaloux,			[405]
+Qui se font plus de mal qu'ils n'en craignent de nous.
+Qu'une Femme s'echappe a voir un peu le monde,
+Leur chagrin en murmure, et leur depit en gronde,
+Et dans leur reverie a rendre un esprit fou,
+L'on n'est sage jamais si l'on n'est loup-garou.			[410]
+Pour moi qui ne suis pas d'humeur trop endurante,
+Si jamais un Mari l'assemblage me tente,
+Le contrat d'union dans mon petit calcul
+Aura plus d'une clause, ou demeurera nul.
+Il me sera permis de danser et de rire,			[415]
+Je verrai mes Amis sans qu'il y trouve a dire,
+Et saurai le reduire a ne rien redouter
+De toutes les douceurs qu'on me viendra conter.
+ISABELLE.
+Tu crois qu'il tiendra tout  ?
+BEATRIX.
+Et bien, quitte a se battre.
+Si j'enrage une fois il enragera quatre,			[420]
+Et me mettant au pis, je sais qu'il trouvera
+Plus de facheux moments qu'il ne m'en donnera.
+Apres tout, le meilleur est de vivre sans Maitre.
+ISABELLE.
+C'est un etat heureux, et je le sais connaitre ;
+Mais de quelque douceur qu'il flatte nos esprits,			[425]
+Le nom de vieille fille est un nom de mepris.
+BEATRIX.
+Aussi, ce qui doit bien refroidir notre envie,
+Quand on est marie, c'est pour toute sa vie,
+Et pour qui s'en repent, a vous parler sans fard,
+L'espoir de se voir veuve est un triste hasard.			[430]
+Cette faveur du Ciel est toujours trop tardive,
+Nos beaux jours sont passes quand ce grand jour arrive,
+Et le plus souvent meme abusant nos souhaits,
+Il nous rit, il nous flatte, et n'arrive jamais.
+Mais pour vos deux Amants, quel dessein est le votre  ?			[435]
+Vous sentez-vous egale, et pour l'un et pour l'autre  ?
+ISABELLE.
+Le choix, a dire vrai, n'est pas facile entre eux,
+Je tiens l'un plus galant, l'autre plus amoureux.
+D'abord Don Dionis, en m'expliquant sa flamme,
+Eblouit ma raison, charma toute mon ame ;			[440]
+Mais si j'en juge bien, je lui vois chaque jour
+Plus de galanterie avecque moins d'amour.
+De cette passion il n'a que l'habitude,
+Il en prends les dehors, soupire par etude,
+Et je crois, quand il tache a lui donner credit,			[445]
+Que son coeur ne sait rien de tout ce qu'il me dit.
+BEATRIX.
+Don Felix pourra donc emporter la balance  ?
+ISABELLE.
+Si son feu brille moins, j'y crois plus de constance,
+Et je tiens qu'a l'hymen un esprit arrete
+Doit moins chercher l'eclat que la solidite.			[450]
+BEATRIX.
+Pourquoi permettre donc que son Rival vous voie  ?
+ISABELLE.
+Pour juger mieux encor ce qu'il faut que j'en croie,
+Et c'est pour me pouvoir expliquer avec lui,
+Qu'il avait eu de moi rendez-vous aujourd'hui.
+Tu sais que Leonor a rompu la partie.			[455]
+BEATRIX.
+Ma foi, je n'aurais point peche par modestie.
+Sa visite a demain eut recu le renvoi,
+On doit a ses Amis quand on a fait pour soi.
+ISABELLE.
+Leonor seule ici me priant de l'attendre,
+C'est le moins, Beatrix, que je pouvais lui rendre.			[460]
+Mais je la vois entrer.
+SCENE III. Leonor, Isabelle, Beatrix.
+LEONOR.
+J'en use librement.
+ISABELLE.
+Songez que l'amitie defend le compliment,
+Et qu'enfin vous servir fait ma plus forte envie.
+LEONOR.
+Je viens vous confier le secret de ma vie,
+Et sais trop, que pour fuir le malheur que je crains			[465]
+Je ne pourrais le mettre en de plus sures mains.
+Vous avez deja su que mon pere a Seville
+Ne crut pas avoir fait un voyage inutile,
+Puisque la pour epoux a son retour j'appris
+Qu'il m'avait su choisir Don Fernand de Solis.			[470]
+Ignorant jusque-la ce que c'est qu'etre Amante,
+Je tins cette nouvelle assez indifferente,
+Et mon coeur libre encor n'etant point prevenu,
+Souscrivit sans murmure au choix d'un Inconnu ;
+Mais dans cet intervalle usant de sa puissance,			[475]
+L'amour s'est bien venge de mon indifference.
+Un autre Don Fernand pour troubler mon repos...
+ISABELLE.
+Un autre  ? Dites-vous  ?
+LEONOR.
+Don Fernand d'Avalos.
+Un proces qu'a la Cour il est venu poursuivre,
+L'a tire de Grenade ou le Ciel le fait vivre,			[480]
+Et mes sens en lui seul se sont sentis flattes
+De tout ce qu'on peut voir d'aimables qualites.
+Sans savoir ce qu'en moi sa rencontre fit naitre,
+Vous savez l'accident qui me le fit connaitre,
+Un jour qu'au bord du fleuve ou j'osai m'engager,			[485]
+Mes chevaux s'emportant m'eussent mise en danger,
+Si soudain a leur fougue opposant son courage,
+Il n'eut su m'epargner ce genre de naufrage.
+Je ne vous ferai point de recits superflus,
+Je le vis, il me plut ; il me vit, je lui plus.			[490]
+Une pareille ardeur dans nos coeurs sembla naitre ;
+Mais quelque effort alors qu'il fit pour me connaitre,
+Malgre ce grand service il ne put rien savoir,
+Sinon qu'en ce lieu meme il pourrait me revoir.
+Ainsi des ce moment contre toute apparence,			[495]
+Mon amour commenca par la reconnaissance,
+Et sans cesse mon coeur par de secrets discours
+S'entretint du peril pour songer au secours.
+J'aimais a me tenir cette image presente,
+J'evitais d'etre ingrate, et me rendais amante,			[500]
+Et pour me livrer mieux aux transports que je sens,
+L'Amour se prevalait de l'erreur de mes sens.
+ISABELLE.
+Mais engagee enfin a l'hymen par un pere,
+Qu'est-ce dans cet amour que votre coeur espere  ?
+LEONOR.
+Tout, si d'un beau feu l'imperieuse loi			[505]
+Pour attendre de lui ce qu'elle obtient de moi.
+C'est par ce seul motif qu'il m'a vue obstinee
+A lui taire et mon nom et de qui je suis nee,
+Et qu'a le voir souvent ayant su m'obliger,
+Avant qu'il me connut j'ai voulu l'engager.			[510]
+L'Amour, dont on sait trop jusqu'ou les droits s'etendent,
+Est toujours favorable a deux coeurs qui s'entendent,
+Et pour rompre un Hymen qui confond mon espoir,
+Pourvu qu'on l'en consulte, il a trop de pouvoir.
+ISABELLE.
+Mais l'Epoux arrive, que pouvez-vous pretendre ?			[515]
+LEONOR.
+C'est ce qu'a Don Fernand j'ai resolu d'apprendre,
+Et pour lui decouvrir cet important souci,
+Jacinte qui l'attend va l'amener ici.
+Je m'en suis cru chez vous la liberte permise.
+ISABELLE.
+Il n'est rien qu'avec moi l'amitie n'autorise.			[520]
+LEONOR.
+Le logis de derriere ouvre en un lieu desert,
+Par ou le faire entrer sans qu'il soit decouvert ;
+Jacinte en est instruite, et sait ce qu'il faut taire.
+ISABELLE.
+Cette precaution etait peu necessaire.
+Qui vit comme je fais, sans detour, sans facon,			[525]
+Brave la medisance, et craint peu le soupcon.
+Mais enfin aujourd'hui vous lui voulez tout dire  ?
+LEONOR.
+Non, mais ce seul hymen dont mon amour soupire,
+Et par ses sentiments prendre droit de juger
+Jusqu'ou pour y repondre il me doit engager.			[530]
+ISABELLE.
+Souvent un beau dehors a l'art de nous seduire.
+LEONOR.
+Aussi par vos conseils je cherche a me conduire,
+Et ce qu'il veut savoir ne lui sera connu
+Qu'apres que vous l'aurez vous-meme entretenu.
+Vous sonderez son coeur, etudierez son ame,			[535]
+Et j'eteindrai par vous, ou nourrirai ma flamme.
+SCENE IV. Leonor, Isabelle, Jacinte, Beatrix.
+JACINTE.
+Madame.
+LEONOR.
+Et bien, Jacinthe  ?
+JACINTE.
+Il attend pour entrer.
+LEONOR.
+Qu'il vienne.
+ISABELLE.
+Il ne faut pas des l'abord me montrer.
+Dans l'aise qu'il aura du dessein que vous faites
+Ses premieres douceurs doivent etre secretes.			[540]
+Quand a vous seconder vous aurez su le sien,
+Je ne refuse pas d'etre de l'entretien.
+Viens Beatrix.
+LEONOR.
+Enfin c'est en vous que j'espere.
+BEATRIX.
+Ma foi, pour un Amant voila bien du mystere.
+Je m'inquiete moins de m'en voir mille et plus,			[545]
+J'en tiens papier exact, et je dors la-dessus.
+SCENE V. Leonor, Don Fernand, Jacinte.
+JACINTE.
+Entrez, on vous attend.
+DON FERNAND.
+Madame, quelle grace,
+Et pour la meriter que faut-il que je fasse  ?
+Accorder tant de gloire a mon ardent amour  !
+LEONOR.
+Enfin a le prouver le Ciel vous offre jour.			[550]
+S'il est tel que mes yeux semblent l'avoir fait naitre,
+C'est a vous, Don Fernand, a le faire paraitre.
+Le temps presse, du Sort je crains les derniers coups,
+Et si vous n'agissez, je ne puis etre a vous.
+DON FERNAND.
+Ah, si de ce malheur je puis rompre l'atteinte,			[555]
+J'ai lieu de m'offenser de votre injuste crainte,
+Et quand les coups du Sort peuvent etre forces,
+Qui peut douter de moi ne peut m'aimer assez.
+Que pour m'oter a vous la terre conjuree
+Tienne a mon coeur charme la guerre declaree,			[560]
+Pour en favoriser les violents desseins
+Le seul aveu du votre est tout ce que je crains.
+LEONOR.
+On ne l'aura jamais, et quoi que je hasarde,
+Les effets feront voir quelle foi je vous garde,
+Et qu'il n'est rien pour vous que j'ose negliger			[565]
+Quand sous les lois d'un autre on me veut engager.
+Oui, pour vous decouvrir ce que j'ai du vous taire,
+Apprenez, Don Fernand, que je depends d'un pere,
+Qui sans m'en consulter, de mon repos jaloux,
+A voulu par ses yeux me choisir un Epoux.			[570]
+Cet hymen arrete rend ma disgrace extreme,
+Mais je vous dois la vie enfin, et je vous aime,
+Et vois avec plaisir que mon coeur en ce jour
+Ne peut fuir d'etre ingrat sans servir mon amour.
+DON FERNAND.
+Frappe trop vivement de ce grand coup de foudre,			[575]
+Le mien s'etonne, tremble, et ne sait que resoudre ;
+Mais enfin je sais bien que mon cruel ennui
+Ne redoublera point par le bonheur d'autrui.
+Quelque Epoux qu'a choisir le devoir vous convie,
+Il n'aura point ce nom que je ne sois sans vie,			[580]
+Et meme avant ce coup, s'il me doit accabler,
+Plus d'un Rival peut-etre aura lieu de trembler.
+LEONOR.
+Quoi qu'il nous faille ici conduire avec prudence,
+J'aime dans votre amour un peu de violence,
+Et si j'en dois calmer les transports furieux,			[585]
+Je ne saurais hair ce qui le prouve mieux.
+DON FERNAND.
+Mais votre nom enfin  ? Faites que je le sache.
+LEONOR.
+Quelque raison encor veut que je vous le cache.
+DON FERNAND.
+La reserve en est vaine a qui doit presumer,
+Que sachant son logis, je puis m'en informer.			[590]
+LEONOR.
+Dans un logis d'Amie on a su vous conduire ;
+De mon engagement j'ai cru devoir l'instruire,
+Et si son avis est qu'on ne vous cache rien,
+Peut-etre des ce soir vous me verrez au mien.
+DON FERNAND.
+Ainsi donc mon bonheur ne depend plus que d'elle  ?			[595]
+LEONOR.
+Je l'en croirai.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Va vite avertir Isabelle.
+DON FERNAND, bas.
+Juste Ciel, Isabelle  ! Ai-je bien entendu  ?
+Si c'est celle qui m'aime, enfin je suis perdu.
+O d'un jaloux destin attaques imprevues  !
+Sa maison peut repondre a deux diverses rues,			[600]
+C'est ici son quartier.
+LEONOR.
+Que dites-vous tout bas  ?
+DON FERNAND.
+Je me plains d'un malheur que je n'attendais pas.
+LEONOR.
+Votre amour y rencontre un peril dont je tremble.
+DON FERNAND.
+Madame, il est encor plus grand qu'il ne vous semble.
+LEONOR.
+Des conseils d'Isabelle esperons quelque fruit.			[605]
+DON FERNAND, bas.
+C'est elle-meme, elle entre, ou me vois-je reduis  ?
+SCENE VI. Isabelle, Leonor, Don Fernand, Beatrix, Jacinte.
+ISABELLE, a Beatrix.
+Nous le verrons, mais Dieux  ! Ma surprise est extreme,
+Je vois Don Dionis.
+BEATRIX.
+Madame, c'est lui-meme.
+ISABELLE.
+Il aime Leonor, et m'ose cajoler  !
+BEATRIX.
+Bons Dieux  ! Quel maitre fourbe  !
+ISABELLE.
+Il faut dissimuler.			[610]
+LEONOR, a Isabelle.
+Sachant quelle aventure a soupirer m'expose,
+Voyez en Don Fernand le sujet qui la cause.
+Vos sentiments ont droit d'en regler seuls la fin.
+DON FERNAND, a Isabelle.
+Je dois beaucoup, Madame, a mon heureux destin,
+Qui me laissant toujours inconnu ce que j'aime,			[615]
+Me fait connaitre au moins comme une autre elle-meme,
+L'amitie qui vous joint m'en persuade assez.
+ISABELLE.
+Je ne m'etonne point si vous me connaissez.
+Pour peu qu'avec un coeur l'on ait d'intelligence,
+De tout ce qu'il cherit on a la connaissance,			[620]
+Et l'amour qui du sien vous fait suivre la loi,
+Doit faire autant pour vous que l'amitie pour moi.
+J'en ai deja tire des lumieres secretes
+Qui m'ont en un moment appris ce que vous etes,
+Je sais presque de vous tout ce qu'on peut savoir.			[625]
+DON FERNAND.
+Un si brillant esprit ne se peut decevoir ;
+Mais si vous vous rendez a de justes prieres,
+Madame, faites-m'en partager les lumieres.
+De ce charmant objet j'adore la beaute
+Sans avoir pu tirer mon feu d'obscurite,			[630]
+Son nom qu'elle me cache etonne ma constance.
+ISABELLE.
+Elle vous fait grand tort par cette defiance,
+Et sur ce que de vous je puis justifier,
+Elle verra bientot comme on doit s'y fier.
+LEONOR.
+Prendre deja sa cause  ! A moins qu'il vous corrompe...			[635]
+ISABELLE.
+Vous me ferez reproche en cas que je vous trompe.
+LEONOR.
+Il faut vous l'avouer, si Don Fernand me plait,
+Des l'abord comme vous je vis tout ce qu'il est,
+Le coeur grand, l'ame belle, une entiere franchise
+Mais de ses sentiments je craignais la surprise,			[640]
+Les plus prompts quelquefois ne sont pas les meilleurs.
+ISABELLE.
+A vous dire le vrai, je le connais d'ailleurs.
+Un Ami qui d'erreur est assez incapable,
+M'en avait fait une peinture aimable,
+Dont les traits delicats ayant gagne ma foi,			[645]
+Ne m'avaient rien cache de tout ce que j'y vois.
+L'air, la mine, l'esprit, enfin tout se rapporte.
+DON FERNAND.
+Je lui suis oblige d'une estime si forte.
+ISABELLE.
+Jamais d'un vrai merite on ne fit plus de cas.
+LEONOR.
+Et c'est  ?
+ISABELLE.
+Don Dionis.			[650]
+DON FERNAND.
+Je ne le connais pas.			[650]
+ISABELLE.
+Ne le connaitre pas ! Certes cela m'etonne,
+Vous est-il inconnu, s'il ne l'est a personne  ?
+Un Cavalier civil, poli, galant, parfait,
+Qui pensant ce qu'il dit, plait dans tout ce qu'il fait,
+Point fourbe, point trompeur, point de ces laches ames			[655]
+Qui cherchent en tous lieux a promener leurs flammes,
+Et d'ailleurs il se dit de vos meilleurs Amis.
+DON FERNAND.
+L'erreur m'est favorable ou quelque abus l'a mis.
+ISABELLE.
+Deux noms divers en lui pourraient causer le votre.
+Qui m'est connu sous l'un, vous le sera sous l'autre.			[660]
+Don Dionis pourtant est le seul que je sais.
+DON FERNAND.
+Quoi qu'il ait pu dire, il vous aura dit vrai,
+S'il a su vous jurer que mon amour extreme
+Engage tous mes voeux a la beaute que j'aime.
+J'apprends qu'on la marie, et ce fatal revers			[665]
+Accable un malheureux qui languit dans ses fers.
+Ne pouvant m'eclaircir du pere ni du gendre,
+Je forme cent desseins sans savoir lequel prendre.
+Dans ces obscurites daignez me secourir,
+Vous voyez qu'a vous seule on me fait recourir.			[670]
+Soulagez les ennuis dont mon ame est pressee.
+ISABELLE.
+Je ne vais pas si vite a dire ma pensee,
+Et si de son aveu j'ose en prendre le droit,
+Je crains de l'engager a plus qu'elle ne croit.
+LEONOR.
+Non, a votre amitie tout mon coeur s'abandonne,			[675]
+Il en croira soudain quoi que son zele ordonne,
+Et pour vous donner lieu d'en mieux deliberer,
+Je vous laisse tous deux, et vais me retirer,
+Adieu.
+DON FERNAND, a Leonor.
+Souvenez-vous que mes peines cruelles
+Ne peuvent...
+LEONOR.
+Vous aurez tantot de mes nouvelles.			[680]
+BEATRIX.
+Madame, nous pouvons enfin le regaler.
+ISABELLE.
+Voyons son impudence avant que de parler.
+SCENE VII. Don Fernand, Isabelle, Beatrix.
+DON FERNAND.
+A voir quelles bontes d'abord sans me connaitre
+Vous avez bien voulu me faire ici paraitre,
+J'ai lieu de presumer que la peine ou je suis			[685]
+Vous rendra favorable a finir mes ennuis.
+C'etait pour moi sans doute une disgrace extreme
+D'aimer avec exces, et d'ignorer qui j'aime,
+Mais d'un plus rude sort j'ai tout a redouter,
+Si par votre secours je ne puis l'eviter.			[690]
+ISABELLE.
+En vain a vous cacher votre esprit s'etudie.
+De grace, jouez-vous ici la Comedie,
+Ou si vous pretendez que pour votre interet
+Mon esprit soit brouille comme le votre l'est  ?
+DON FERNAND.
+Madame, ou trouvez-vous que ce soit frenesies...			[695]
+ISABELLE.
+Oui, sans doute, il vous faut des douceurs mieux choisies,
+Et la pauvre abusee a qui vous en contez,
+Pour vous croire honnete homme, a de grandes clartes.
+Certes, votre methode est galante et nouvelle.
+Pour moi Don Dionis, et Don Fernand pour elle  ?			[700]
+Ce rare expedient a vous mettre en credit,
+D'aucun autre avant vous n'avait frappe l'esprit,
+Et ce sont en amour de subtiles adresses,
+Que prendre autant de noms que l'on fait de Maitresses.
+Un si beau stratageme en a-t-il bien dupe  ?			[705]
+DON FERNAND.
+De quel etonnement mon esprit est frappe  !
+M'amenait-on ici pour un pareil outrage  ?
+BEATRIX.
+Il fallait un peu plus vous sucrer le breuvage,
+A vous, qui Don Fernand quand vous vous avisez,
+Chez nous effrontement vous endionisez ;			[710]
+Ce sont la les moyens d'en attraper de belles.
+DON FERNAND.
+Ces facons de traiter me sont assez nouvelles.
+Madame, c'est ainsi que me jugeant discret,
+D'une aimable Inconnue on m'apprend le secret  ?
+ISABELLE.
+Elle apprendra le votre, et saura qui vous etes ;			[715]
+Mais pour vous, croyez-moi, vos affaires sont faites,
+Vous n'en saurez jamais ni le rang ni le nom.
+BEATRIX.
+Voyez le fourbe  ! Et puis, a qui se fiera-t-on  ?
+DON FERNAND.
+Mais a ce changement quel motif vous engage  ?
+ISABELLE.
+C'est trop longtemps jouer le meme personnage.			[720]
+Enfin, Don Dionis, mettons le masque bas.
+DON FERNAND.
+Quel est ce Dionis  ?
+ISABELLE.
+Quoi, vous ne l'etes pas  ?
+DON FERNAND.
+Moi  ? Si ce jeu vous plait, quel qu'en soit le mystere...
+BEATRIX.
+Payez son impudence, ou bien laissez-moi faire.
+Voyez, il nous prendra pour ses dupes, ma foi.			[725]
+DON FERNAND.
+Quelle est cette Beaute qui parle contre moi  ?
+Madame, est-ce une Amie, ou bien quelque Parente  ?
+BEATRIX.
+Faites bien l'ignorant, je ne suis que Suivante,
+Mais telle que je suis, vous ayant rencontre,
+Vous me trouviez tantot assez a votre gre.			[730]
+ISABELLE.
+Il t'en veut donc aussi  ?
+DON FERNAND.
+Je ne l'ai jamais vue.
+BEATRIX.
+Il m'a galantifiee au milieu de la rue,
+Et son coeur, s'il m'eut fait en croire ses serments,
+Se fut enregistre sur mon papier d'amant.
+La chose n'est pas vraie  ?
+DON FERNAND.
+Il est vrai qu'on me joue,			[735]
+Et qu'on ne me dit rien que je ne desavoue.
+A pas une des deux je n'ai fait les yeux doux.
+ISABELLE.
+Don Juan de Torres n'est point connu de vous  ?
+DON FERNAND.
+Je ne sais quel il est, et treve d'incartade.
+Mon nom est Don Fernand ; et mon pays, Grenade ;			[740]
+Et je viens d'un proces presser ici la fin.
+BEATRIX.
+Gardez d'etre frotte, Monsieur le Grenadin.
+Quelque temps qu'a forger vous ait coute l'histoire,
+Vous le passeriez mal si l'on m'en voulait croire.
+Entrant a l'aise ici, l'on ne vous hatait pas,			[745]
+Mais, ma foi, pour sortir vous doubleriez le pas,
+Je vous remercierais de votre effronterie.
+DON FERNAND.
+Enfin est-ce gageure, ou bien galanterie  ?
+Pretend-on quelque chose affectant ce courroux  ?
+ISABELLE.
+Non, non, Don Dionis, on ne veut rien de vous.			[750]
+DON FERNAND.
+Mais ce Don Dionis qu'en moi l'on veut connaitre...
+ISABELLE.
+Il m'importe fort peu que vous le vouliez etre,
+Pourvu qu'en le voyant vous sachiez l'avertir,
+Que je ne l'ai souffert que pour me divertir.
+De ses fades douceurs, par coeur sans doute apprises,			[755]
+Il m'a plu quelquefois d'ecouter les sottises,
+Mais loin qu'il put avoir quelques charmes pour moi,
+Mon choix a Don Felix repondait de ma foi ;
+A des Provinciaux j'aime a donner la baye.
+Adieu, mon Cavalier.
+BEATRIX.
+Voila comme on vous paye,			[760]
+Messieurs, qui venez provincialement
+Debiter la fleurette, et preter le serment.
+On vous fait bonne mine, on rit, on raille, on, cause,
+Mais les amis du coeur, dame, c'est autre chose,
+La tablature change, on parle serieux.			[765]
+DON FERNAND.
+C'est donc a qui de vous m'embarrasseras mieux  ?
+Si c'est la votre but, la piece est imparfaite.
+ISABELLE.
+C'est assez, il est temps que vous fassiez retraite.
+DON FERNAND, voulant sortir par ou on l'avait fait entrer.
+Adieu, ne croyez pas m'en avoir inquiete.
+ISABELLE, l'arretant.
+Non, non, mon Cavalier, tournez de ce cote,			[770]
+Sortez par l'autre porte, elle vous est connue.
+DON FERNAND.
+Quoi  ? Vous continuez...
+BEATRIX.
+Gagnons vite la rue,
+Le meilleur est pour vous de deloger sans bruit,
+Je vous y conduirai ; bonsoir et bonne nuit.
+
+
+			ACTE III
+
+
+SCENE PREMIERE. Don Fernand, Guzman.
+GUZMAN.
+Quoi, quand vous pretendiez l'entretenir chez elle,			[775]
+Le rendez-vous, Monsieur, etait chez Isabelle  ?
+C'est la que l'Inconnue avait su vous mander  ?
+DON FERNAND.
+C'est la que de la fourbe il a fallu m'aider,
+Et que le jeu pour moi passait la raillerie,
+Si je n'eusse aussitot payer d'effronterie.			[780]
+Quelquefois au besoin ce vice est de saison.
+GUZMAN.
+Mais comment n'avoir pas reconnu la maison  ?
+DON FERNAND.
+Comment l'aurais-je pu, si dans une autre rue
+L'on me tenait ouverte une porte inconnue,
+D'ou, sans qu'on m'ait rien dit, je me suis rencontre			[785]
+Dans un appartement ou jamais je n'entrai  ?
+Le plus fin en ma place eut donne dans le piege,
+Mais le don d'impudence est un grand privilege,
+Je l'ai mis en pratique, et je m'en suis tire.
+GUZMAN.
+C'est un talent en vous de tout temps admire ;			[790]
+Mais l'abord d'une Femme est un peril honnete,
+Lorsque prise pour dupe elle a martel en tete,
+Et vous deviez trembler ainsi pris au filet,
+D'en voir deux a la fois vous sauter au colet.
+Qui lors par impudence evite qu'on l'echine,			[795]
+En a provision, Monsieur, de la plus fine,
+C'est un pas qu'a franchir peu de gens ont appris,
+Et tout subtil qu'il est, le diable y serait pris.
+DON FERNAND.
+Aussi, pour en sortir j'aurais eu plus d'obstacle,
+Si le Ciel pour m'aider n'avait fait un miracle.			[800]
+Contre l'ordre commun il a fait qu'en ce jour,
+On avait vu la prudence accompagner l'amour,
+Et que du rendez-vous Isabelle en colere,
+Ait eu dans son depit le pouvoir de se taire.
+Ainsi pour moi le pas etait moins hasardeux			[805]
+Tant que j'ai pu me voir avec toutes les deux,
+Pour quelques mots couverts je m'en suis trouve quitte
+Mais des que l'Inconnue a fini sa visite,
+Et qu'ayant malgre moi voulu se retirer,
+Seul avec Isabelle on m'a fait demeurer,			[810]
+En me traitant de fourbe, et Suivante et Maitresse
+M'ont pense mettre alors au bout de mon adresse.
+Don Dionis en moi leur etant trop connu...
+GUZMAN.
+Je vous tiens fort heureux d'en etre revenu.
+Deux Femmes  ! Rendez grace aux heureuses Planetes			[815]
+Qui vous ont de leurs mains su tirer bragues nettes,
+Car tout autre que vous, quoi qu'adroit a mentir,
+Eut laisse la perruque avant que de sortir.
+Mais de vos feux errants les voyant eclaircies,
+Comment avez-vous pu vous les rendre adoucies,			[820]
+Et quel charme assez fort apaisant leur courroux,
+A detourner l'orage, et rabattu les coups  ?
+Pour moi, j'aurais fort craint le saut par la fenetre.
+DON FERNAND.
+J'ai feint effrontement de ne les pas connaitre,
+Et comme l'Inconnue avait dit mon vrai nom,			[825]
+Sur ce deguisement j'ai toujours tenu bon.
+De leur Don Dionis, qu'elles nommaient sans cesse,
+Pour un jeu concerte j'ai fait passer l'adresse,
+Et comme tout n'etant que pour m'embarrasser,
+Niant jusques au bout, je me suis fait chasser.			[830]
+GUZMAN.
+Vous laisserez pester Isabelle a son aise  ?
+DON FERNAND.
+Au contraire, Guzman, il faut que je l'apaise,
+Et que je fasse effort a lui mettre en l'esprit,
+Qu'elle croit trop l'erreur qui contre moi l'aigrit.
+Ayant a soutenir ce second personnage,			[835]
+Ici, pour le jouer, je l'attends au passage,
+Et sur un autre ton ayant su m'accorder,
+Comme Don Dionis, je pretends l'aborder.
+J'ai su par Don Juan qu'elle est chez une Tante,
+Et feignant tout le jour de l'avoir crue absente,			[840]
+Prive d'un rendez-vous dont je devais jouir,
+Je previendrai sa plainte, et pourrai l'eblouir.
+GUZMAN.
+Et vous la voulez croire assez dupe et novice,
+Pour ne pas decouvrir le noeud de l'artifice  ?
+DON FERNAND.
+Mais on a vu des gens se ressembler si bien,			[845]
+Qu'a les voir separes on n'y connaissait rien ;
+Si la rencontre est rare, elle est du moins possible.
+GUZMAN.
+Monsieur, dans ce dessein votre honte est visible.
+Si les traits du visage ont un rapport parfait,
+Ou la taille, ou la voix en detruisent l'effet ;			[850]
+Mais a moins que pour vous la foi n'entraine l'ame...
+DON FERNAND.
+Aussi je ne pretends abuser qu'une Femme,
+Et je n'en sache point qu'on ne puisse obliger,
+Quand on sait bien s'y prendre, a croire de leger.
+Outre que Don Juan secondant mon adresse,			[855]
+Par de nouveaux detours fera valoir la piece ;
+Pour appuyer la fourbe il est de tout instruit.
+GUZMAN.
+S'il a quelque talent, il peut faire grand fruit ;
+Qui prend de vos lecons a de hauts avantages.
+Enfin pour l'Inconnue, elle est cassee aux gages,			[860]
+Il ne s'en parle plus, c'est autant de vide  ?
+DON FERNAND.
+Mon coeur de ses attraits est toujours possede,
+Jamais un plus beau feu n'eut tant de violence.
+GUZMAN.
+Monsieur, ayez de grace un peu de conscience,
+Gardez-vous bien de suivre un conseil hasardeux,			[865]
+Qui vous les vouloir faire epouser toutes deux.
+Peut-etre punit-on en matiere pareille,
+Et celui qui consent, et celui qui conseille,
+Et je me trouverais assez peu soulage,
+Que l'on vous accourcit si j'etais allonge.			[870]
+DON FERNAND.
+Tu vas un peu trop vite en faveur d'Isabelle,
+Je la veux adoucir, non pas a cause d'elle,
+Mais de peur que l'aigreur de son ressentiment
+N'engage l'Inconnue a quelque changement.
+Elle va de ma foi lui donner mille ombrages,			[875]
+Si je ne sais jouer tous les deux personnages,
+Et faire, dans l'etat d'un noeud si surprenant,
+Tantot Don Dionis, et tantot Don Fernand.
+Voila quel est mon but.
+GUZMAN.
+Tant pis.
+DON FERNAND.
+Il te chagrine ?
+GUZMAN.
+C'est qu'en mon coeur deja l'amour prenait racine,			[880]
+Et que pour Beatrix ravi de n'en bouger,
+Si vous tournez casaque, il faut le deloger.
+DON FERNAND.
+Donc Beatrix te plait  ?
+GUZMAN.
+Monsieur par de la plaire.
+Ce serait bien mon fait, si j'etais son affaire,
+Et comme de tout temps les Belles m'ont tente,			[885]
+Je me hasarderais a l'incongruite.
+Se charger d'une Femme en est une assez haute.
+DON FERNAND.
+Vraiment, je suis fache du repos qu'elle t'ote ;
+Mais crois-tu voir en elle assez pour t'engager  ?
+GUZMAN.
+J'y vois plus qu'il ne faut pour me faire enrager.			[890]
+La Coquine a des yeux, dont la mutinerie
+Passe le plus fripon de la friponnerie,
+Et les malins regards qu'elle m'a su darder,
+Navrant un pauvre coeur, prennent sans demander.
+DON FERNAND.
+Avec toi pour l'hymen obtiens qu'elle s'engage.			[895]
+GUZMAN.
+J'y fais reflexion, treve de Mariage.
+Galante comme elle est, qui que vous epousiez,
+Quand vous en seriez saoul, vous me l'emprunteriez ;
+Mais je la vois venir, Monsieur.
+DON FERNAND.
+C'est Isabelle.
+GUZMAN.
+Peste ! Encor une fois que la friponne est belle !			[900]
+Mon coeur en tombe presque en suffocation.
+DON FERNAND.
+C'est ici qu'il me faut pousser la passion.
+SCENE II. Don Fernand, Isabelle, Beatrix, Guzman.
+DON FERNAND.
+Madame, enfin le Ciel a mon amour propice,
+N'a pu de vos desseins approuver l'injustice,
+Ni souffrir plus longtemps qu'un ordre rigoureux			[905]
+Privat de votre vue un Amant malheureux.
+Il a fait naitre expres une telle rencontre,
+Aujourd'hui malgre vous a mes yeux il vous montre,
+Et m'offre la douceur dont un destin jaloux
+M'a tantot empeche d'aller jouir chez vous.			[910]
+J'ose au moins me flatter de vous voir assez bonne,
+Pour consentir au bien que le hasard me donne,
+Et ne murmurer pas, que contre mon espoir
+Il accorde a mes voeux le plaisir de vous voir.
+ISABELLE.
+Pour vous le faire croire, il suffit de vous dire			[915]
+Que plus je vous connais, et plus je vous admire.
+Les divertissements que vous vous choisissez
+Ne trouveront jamais qui les estime assez,
+Votre agreable humeur galamment les ordonne ;
+Mais afin d'epargner votre double personne,			[920]
+A qui d'elle avec vous parlai-je maintenant  ?
+Est-ce a Don Dionis, ou bien a Don Fernand  ?
+Etes-vous de Grenade, ou venez-vous de Flandre  ?
+DON FERNAND.
+De telles questions ont droit de me surprendre ;
+Vous avez deja su par d'autres que par moi,			[925]
+Qu'en Flandre assez longtemps on m'a vu dans l'emploi,
+Le desir du repos a cause ma retraite.
+Cependant en ces lieux j'ai trouve ma defaite,
+Et mon coeur que l'amour n'avait pu surmonter,
+Charme de vos appas, n'a su leur resister ;			[930]
+Vous le savez, mais las  ! Je crains bien que votre ame
+Nr cede au repentir d'avoir souffert ma flamme,
+Et que ce rendez-vous ote cruellement,
+Ne soit deja l'arret de mon bannissement.
+ISABELLE.
+Prevenir les sujets que j'aurais de me plaindre,			[935]
+C'est fort adroitement pratiquer l'art de feindre.
+Si j'avais pu tantot tomber dans le panneau,
+Vous me feriez encor y donner de nouveau ;
+Mais quoi que mon esprit n'ait pas tant de lumieres,
+Il faut pour l'eblouir des fourbes moins grossieres,			[940]
+Et celles que par la vous pourrez attraper,
+Auront un grand talent a se laisser duper.
+DON FERNAND.
+Quelle enigme est-ce ci  ? Madame...
+ISABELLE.
+Je vous prie,
+Afin d'ennuyer moins, changez de batterie ;
+C'est assez sur ce ton, vous ne m'y prendrez pas.			[945]
+DON FERNAND, a Beatrix.
+Tout ici de mon trouble augmente l'embarras.
+Tire-moi de la peine ou tu vois qu'on me laisse ;
+Quelqu'un m'a-t-il su nuire aupres de ta Maitresse  ?
+Beatrix, quelle erreur tient ses sens obsedes  ?
+BEATRIX.
+Ah, Monsieur Don Fernand, vous vous degrenadez  ?			[950]
+Vous ne me prenez plus pour amie ou parente  !
+DON FERNAND.
+Enfin je n'ai point l'ame assez intelligente,
+Il faut s'expliquer mieux. De quoi m'accuse-t-on  ?
+Qu'ai-je dit  ? Qu'ai-je fait  ? Que croit-on de moi  ?
+GUZMAN.
+Bon.
+Voila vous parler ferme, avisez a repondre.			[955]
+ISABELLE.
+Quoi, ce que vous oyez est peu pour vous confondre  ?
+DON FERNAND.
+Faute d'y rien comprendre, on m'en voit interdit.
+BEATRIX.
+Madame, il veut, je crois, nous renverser l'esprit.
+Donc tantot tout du long me traitant d'Inconnue,
+Vous n'avez point nie de m'avoir jamais vue,			[960]
+De vous etre adouci pour m'en conter un peu  ?
+DON FERNAND.
+Moi, je l'aurais nie  ? Pourquoi ce desaveu,
+Si t'ayant malgre toi dans la rue arretee...
+BEATRIX.
+Avec combien de soin la piece est concertee  !
+Vous n'attraperez rien a prendre ce detour.			[965]
+DON FERNAND.
+Guzman.
+GUZMAN.
+Ce sont, Monsieur, gentillesses de Cour.
+Lorsque le jeu leur plait, le plus fin n'y voit goutte.
+DON FERNAND.
+Mais, Madame, de grace, eclaircissez mon doute,
+Ne puis-je au moins savoir de quoi vous vous plaignez  ?
+BEATRIX.
+De vous voir archi-fourbe, et des plus raffines.			[970]
+DON FERNAND.
+Moi  ?
+BEATRIX.
+Qui voudra l'ouir, c'est la meme innocence.
+DON FERNAND.
+Mais enfin...
+ISABELLE.
+Mais enfin quelle est votre esperance ?
+Si je sais qu'en secret d'une Inconnue epris,
+Vous etes Don Fernand, et non Don Dionis,
+Pourquoi sous ce faux nom tacher a me surprendre  ?			[975]
+Arriver de Grenade, et me parler de Flandre,
+Et de l'Armee enfin vous feignant de retour,
+Me cacher qu'un proces vous amene a la Cour  ?
+DON FERNAND.
+Ce conte pour me nuire est un froid stratageme.
+Madame, qui le fait  ?
+ISABELLE.
+J'ai tout su de vous-meme.			[980]
+DON FERNAND.
+De moi  ? Sans etre fou, pourrais-je a mes depens...
+BEATRIX.
+Ma foi, vous n'aviez pas tantot votre bon sens.
+ISABELLE.
+La rencontre chez moi vous etait imprevue.
+DON FERNAND.
+Quoi, Madame, aujourd'hui chez vous je vous ai vue  ?
+ISABELLE.
+Vous y veniez sans peine, attire par l'amour.			[985]
+DON FERNAND.
+Parle ; m'as-tu, Guzman, quitte de tout le jour  ?
+GUZMAN.
+Ah  !
+ISABELLE.
+L'honnete garant que vous faites paraitre  !
+DON FERNAND.
+Mais il vous peut...
+GUZMAN.
+Oui dea, je puis pieger mon maitre,
+Il est amant d'honneur si jamais il en fut.
+ISABELLE.
+De vos deguisements je decouvre le but,			[990]
+Pour conserver toujours quelque place en mon ame
+Vous me voulez cacher votre nouvelle flamme,
+Mais n'en croyez pas tant l'espoir que vous prenez,
+L'un pour l'autre tous deux nous ne sommes point nes.
+A la seule Inconnue adressez votre hommage.			[995]
+Aussi bien ma parole a Don Felix m'engage,
+Et jamais a vous voir je n'ai su me forcer,
+Qu'aux moments de chagrin que j'avais a passer.
+DON FERNAND.
+Ce n'est pas sans raisons que de justes alarmes,
+Etonnant mon espoir, m'en defendaient les charmes,			[1000]
+Sans chercher un pretexte aux mepris qu'on me rend.
+Le peu que je merite en est un assez grand.
+Ne dites point qu'ailleurs je partage ma flamme,
+Mais dites qu'un Rival a su toucher votre ame,
+Et que sa passion engageant votre foi,			[1005]
+Pour en remplir l'attente, il faut rompre avec moi.
+ISABELLE.
+Vous n'avez point d'intrigue avec une inconnue  ?
+DON FERNAND.
+Pour vous seule d'amour mon ame est prevenue,
+Et cette ardeur est telle...
+ISABELLE.
+On en connait le prix.
+DON FERNAND.
+Madame...
+ISABELLE.
+Adieu, c'est trop.			[1010]
+DON FERNAND.
+Retiens-la, Beatrix,			[1010]
+Aide-moi de mes feux a prouver l'innocence.
+BEATRIX.
+Je ne sais quasi plus ce qu'il faut que j'en pense.
+Madame, accordez-lui...
+ISABELLE.
+Quoi, tu peux l'ecouter  ?
+BEATRIX.
+Mais ne trouveriez-vous aucun lieu de douter  ?
+S'il est Don Fernand, comme il semble paraitre,			[1015]
+Pourquoi s'obstiner tant a ne vouloir pas l'etre  ?
+Sur quel espoir si loin pousser la fiction  ?
+ISABELLE.
+Tu te laisses gagner a la compassion,
+Et crois que jusqu'au coeur son deplaisir arrive  ?
+BEATRIX.
+C'est mon plus grand defaut, je suis trop compassive,			[1020]
+Et parmi mes galants d'amour et d'amitie,
+J'en sais sur mon papier plus de cent de pitie ;
+Il est des etourdis, que refuser d'entendre,
+C'est contraindre autant vaut sur l'heure a s'aller pendre,
+J'evite le desastre, et fais tout pour le mieux.			[1025]
+SCENE III. Don Juan, Don Fernand, Isabelle, Beatrix, Guzman.
+DON JUAN, contrefaisant l'etonne.
+Que vois-je  ? Juste Ciel  ! En croirai-je mes yeux  ?
+Vous etes ici  ? Vous  ? Ma surprise est extreme.
+DON FERNAND.
+Qui vous la peut causer  ?
+DON JUAN.
+Mais c'est vous-meme  ?
+C'est vous  ? Don Dionis  ?
+DON FERNAND.
+Que veut-on que je sois  ?
+Parlez.
+DON JUAN.
+J'en crois a peine encor ce que je vois.			[1030]
+ISABELLE.
+Mais qui de ce transport vous peut rendre capable  ?
+DON JUAN.
+Une aventure etrange, et qui semble une fable.
+Madame, a ce detour que je viens de quitter.
+Un Cavalier passant, j'ai voulu l'arreter,
+Tel que Don Dionis, memes traits de visage,			[1035]
+Meme voix, meme port c'est la vivante image,
+Et beaucoup se vetant de la meme facon,
+Son habit a laisse mon erreur sans soupcon.
+Pour m'en faire sortir, quoi qu'il est pu me dire,
+J'ai pris tout pour adresse, et cru qu'il voulait rire.			[1040]
+Et serais encor loin de m'en voir eclairci,
+Si je ne rencontrais Don Dionis ici.
+DON FERNAND.
+Son nom est Don Fernand  ?
+DON JUAN.
+Je n'ai su rien apprendre,
+Sinon que pour quelque autre on me l'aurait fait prendre,
+Et sans plus m'ecouter il a tire chemin.			[1045]
+BEATRIX.
+Madame, assurement c'est notre Grenadin.
+ISABELLE.
+Pauvre dupe  !
+BEATRIX.
+Pas tant peut-etre qu'il vous semble.
+DON FERNAND.
+Mais si le Ciel permet qu'un autre me ressemble,
+Faut-il sous ce malheur que je sois accable  ?
+GUZMAN.
+Monsieur, je suis perdu si vous etes double.			[1050]
+Ce second Dionis terriblement me choque,
+Aux depens de mon dos j'en crains bien l'equivoque.
+Si l'abordant pour vous, il prend son serieux  ?
+DON JUAN.
+Enfin jamais portrait ne ressemblera mieux.
+Tout autre y serait pris.
+ISABELLE.
+Il faut que je l'avoue,			[1055]
+Chacun de vous fait bien dans le role qu'il joue,
+Le conte avec grand art est sans doute invente.
+De grace, Don Juan, vous a-t-il bien coute  ?
+Ce rare effort d'esprit vous comblera de gloire.
+DON JUAN.
+Je ne suis point surpris qu'on ait peine a me croire,			[1060]
+Moi-meme qui m'en trouve encor tout interdit,
+Je prendrais pour un conte un semblable recit ;
+Mais il n'est rien plus vrai.
+BEATRIX.
+Vous en doutez, Madame  ?
+ISABELLE.
+Qu'il est souvent aise de tromper une Femme  !
+Simple, tu ne vois pas qu'ils s'entendent tous deux  ?			[1065]
+BEATRIX.
+Doutez, puisqu'il vous plait ; pour moi, je suis pour eux,
+Et j'ai vu tant de fois de telles ressemblances,
+Que je ne puis avoir toutes vos defiances.
+Pour s'etre tenu pret a fourber avec nous,
+Pouvait-il deviner qu'on le menait chez vous  ?			[1070]
+Y serait-il venu sachant ce qu'il hasarde  ?
+Outre que si vous-meme y voulez prendre garde,
+Quel que soit leur rapport de visage et de voix,
+L'autre semblait moins large, et plus grand de deux doigts.
+DON JUAN.
+Oui, je lui crois la taille un peu plus dechargee.			[1075]
+DON FERNAND.
+Non, non, c'est entre nous une histoire forgee,
+Madame en juge mieux, et me doit quereller,
+De peur que mon malheur ne m'oblige a parler.
+ISABELLE.
+Quels reproches de vous aurais-je lieu de craindre  ?
+DON FERNAND.
+Celui de mal aimer, ou plutot de trop feindre,			[1080]
+Et de m'avoir cache qu'un plus heureux que moi
+Etait maitre du coeur ou pretendait ma foi.
+ISABELLE.
+Si quelque autre a sur lui la victoire obtenue,
+Je pourrais opposer l'amour d'une Inconnue ;
+Mais quoi que vous fassiez j'y prends peu d'interet.			[1085]
+DON FERNAND.
+Pour l'Inconnue enfin je ne sais ce que c'est,
+Une telle aventure en vain pour moi s'applique,
+Je n'y prends point de part, mais...
+GUZMAN.
+Elle est heretique,
+Monsieur, vous perdez temps.
+BEATRIX.
+Quel serait son dessein,
+Madame  ? Pensez-vous...
+ISABELLE.
+Tu me parles en vain.			[1090]
+Je ne croirai jamais qu'un autre lui ressemble,
+Si tous deux aujourd'hui je ne les vois ensemble.
+Tantot pour m'eclaircir il peut venir chez moi.
+DON FERNAND.
+J'irai, mais Don Fernand vous repond-il de soi ?
+ISABELLE.
+Qu'un semblable souci n'ait rien qui vous tourmente.			[1095]
+Depuis une heure au plus j'ai revu son Amante,
+Qui sans savoir encor ce que je crois de lui,
+Doit chez moi de nouveau l'envoyer aujourd'hui.
+L'un ou l'autre y manquant, je sais mon personnage,
+Adieu.
+SCENE IV. Don Juan, Don Fernand, Guzman.
+GUZMAN.
+C'en est fait, Monsieur, il faut trousser bagage,			[1100]
+A l'impossible enfin nul, dit-on, n'est tenu.
+DON FERNAND.
+Va, mon talent encor ne t'est pas bien connu.
+DON JUAN.
+Quoi, vous croyez plus loin pousser l'effronterie  ?
+DON FERNAND.
+Je pretends au besoin suppleer d'industrie.
+Pour rompre l'embarras ou le hasard m'a mis,			[1105]
+Il ne faut qu'un exempt qui soit de vos amis.
+DON JUAN.
+Je puis vous en fournir.
+DON FERNAND.
+Voyons-en un de grace,
+Et nous concerterons ce qu'il faudra qu'il fasse.
+DON JUAN.
+Ce que vous meditez voudra le jour entier ;
+Ainsi puisque avec vous je suis dans ce quartier,			[1110]
+Degagez ma parole avant que de rien faire.
+Par devoir tout au moins voyons votre Beau-pere,
+Ce serait l'offenser que d'attendre a demain.
+DON FERNAND.
+Je sais qu'il faut le voir, et j'en ai le dessein,
+Mais souffrez que sans vous je lui fasse visite,			[1115]
+Allant seul, je pourrai plutot en etre quitte,
+Et s'il veut m'arreter, je feindrai que ce soir
+Un succes important m'oblige a vous revoir.
+Tu connais sa maison, Guzman  ?
+DON JUAN.
+Voici sa porte.
+DON FERNAND.
+Adieu donc, quittez-moi, je tremble qu'il ne sorte.			[1120]
+Cependant vous savez ce que j'attends de vous.
+DON JUAN.
+Fiez-vous-en a moi.
+SCENE V. Don Fernand, Guzman.
+GUZMAN.
+Vous l'allez bailler doux ?
+Faites bien le dolent d'avoir cru necessaire
+Qu'il ne partageat pas l'ennui de votre affaire  ?
+Vos excuses sans doute auront ce fondement  ?			[1125]
+DON FERNAND.
+Je vais sur son accueil regler mon compliment.
+GUZMAN.
+Mais croyez-vous chez lui comme Gendre paraitre,
+Sans que soudain ailleurs il vous fasse connaitre  ?
+Si jusqu'a l'Inconnue on fait courir ce bruit,
+Au choix de Leonor vous vous verrez reduit.			[1130]
+Isabelle de vous deja se desabuse.
+DON FERNAND.
+Il faut pour le beau-pere inventer quelque ruse,
+Et la mener si bien, qu'apres mon compliment
+Il me permette encor huit jours d'eloignement.
+Je puis chez Don Juan d'une affaire secrete			[1135]
+Pour un terme si court pretexter ma retraite,
+Pressez mon aventure, et penetrer enfin
+Quel succes de mes feux doit regler mon destin.
+GUZMAN.
+Ce sont deux volatils dont je crains bien l'issue.
+Deux beautes a la fois vous ont frappe la vue,			[1140]
+Et quittant Leonor sur l'appas d'un faux bien,
+Vous risquerez a tout, et n'attraperez rien
+DON FERNAND.
+Voyons-la, puisque au pere il faut rendre visite,
+Entrons. Mais Dieux, Guzman, que j'ai l'ame interdite  !
+GUZMAN.
+Qu'avez-vous  ?
+DON FERNAND.
+Qui jamais vit un feu plus constant  ?			[1145]
+Dans la cour de Don Diegue on m'epie, on m'attend,
+J'y vois mon inconnue avecque sa Suivante.
+GUZMAN.
+N'en doutez point, Monsieur, la chose est evidente,
+Elle a su votre hymen, et voulant l'empecher
+Ici chez le beau-pere elle vient vous chercher.			[1150]
+Voila comme un secret ne se peut jamais taire.
+SCENE VI. Don Fernand, Leonor, Jacinte, Guzman.
+LEONOR, a Jacinte.
+Que Don Fernand s'expose a venir chez mon pere  ?
+JACINTE.
+Sa passion par la se croit justifier.
+Il avait su de vous qu'on veut vous marier,
+Et d'Isabelle ensuite ayant appris le reste,			[1155]
+Il vient chercher a rompre un hymen si funeste.
+Madame, qui craint tout doit un peu hasarder.
+LEONOR.
+Il m'en croit offensee, et n'ose m'aborder.
+DON FERNAND.
+M'ayant vu pret d'entrer, Guzman, que dira-t-elle  ?
+LEONOR, a Don Fernand.
+De votre amour pour moi cette epreuve est cruelle,			[1160]
+Et je n'aurais pas cru qu'un mouvement jaloux
+Vous fit payer si mal ce que j'ai fait pour vous.
+Quoi que sur mon rapport vous ayez lieu de craindre
+Que mon pere a l'hymen ne me veuille contraindre,
+Vous avez du me croire assez de fermete			[1165]
+Pour n'en redouter pas toute l'autorite.
+Cependant c'est par vous que le sort m'assassine ;
+Vous venez chez Don Diegue assurer ma ruine,
+Et ne voulez pas voir qu'en ce pressant ennui
+C'est me perdre en effet que paraitre chez lui.			[1170]
+Qu'y venez-vous chercher, sachant ce qui se passe  ?
+Laissez-moi les moyens d'eviter ma disgrace,
+Et ne dedaignez pas, pour meriter ma foi,
+Quand j'ose tout pour vous, de faire un peu pour moi.
+DON FERNAND.
+Si vous voulez, Madame, en croire l'apparence,			[1175]
+Le sujet qui m'amene est pour vous une offense,
+Et par ce qui parait, declare contre vous
+J'ai merite l'aigreur de tout votre courroux.
+Je venais chez Don Diegue, et vous pouvez me dire
+Qu'il semble contre soi que mon amour conspire,			[1180]
+Puisque m'y hasardant, je ne pouvais douter
+Que le votre par la n'eut tout a redouter ;
+Mais j'atteste le Ciel qui voit toute mon ame,
+Qu'on ne brula jamais d'une si pure flamme,
+Et que quoi qu'en ordonne un destin trop jaloux,			[1185]
+Je perirai plutot que n'etre point a vous.
+LEONOR.
+Un semblable serment a pour moi bien des charmes ;
+Mais daignez m'epargner de puissantes alarmes,
+Et pour ne me laisser aucun lieu de souci,
+Sans vouloir voir Don Diegue eloignez-vous d'ici.			[1190]
+DON FERNAND.
+J'y consens, mais pour prix d'une amour si fidele,
+Ne puis-je...
+LEONOR.
+De ma part allez voir Isabelle,
+Et suivez un espoir qui vous est confirme,
+Si vous aimez autant que vous etes aime.
+DON FERNAND.
+Ah  ! Si vous en doutez...
+LEONOR.
+Retirez-vous, de grace,			[1195]
+Mon amour vous l'ordonne, et ma crainte vous chasse ;
+Etre ici plus longtemps ce serait me trahir.
+Adieu.
+DON FERNAND.
+Vous le voulez, et je dois obeir.
+SCENE VII. Leonor, Jacinte.
+JACINTE.
+Madame, heureusement de la ville arrivees,
+Au besoin dans la cour nous nous sommes trouvees.			[1200]
+Il eut vu votre pere, et fait peut-etre eclat.
+LEONOR.
+J'ai souffert dans mon coeur un etrange combat,
+D'un si hardi dessein je voyais tout a craindre.
+JACINTE.
+Mais puisqu'il vous connait, il n'est plus temps de feindre,
+Il faut songer a rompre, ou recevoir sa foi.			[1205]
+LEONOR.
+Viens dans mon cabinet en resoudre avec moi.
+
+
+			ACTE IV
+
+
+SCENE PREMIERE. Beatrix, Guzman
+BEATRIX, paraissant a la porte d'Isabelle 
+au meme temps que Guzman se presente pour entrer.
+Guzman vient seul ici  ! Qu'a-t-il fait de son Maitre.
+GUZMAN.
+Je suis son Lieutenant quand il ne peut paraitre,
+Avec un grand Parleur dans la rue arrete,
+Il trouve a le quitter quelque difficulte,			[1210]
+Et s'il tarde un peu trop, craignant qu'on ne l'accuse,
+Il m'envoie en tous cas en faire son excuse.
+Il saura trancher court, et peut-etre il me suit.
+BEATRIX.
+Enfin on l'attendra plutot jusqu'a la nuit.
+Mais pourquoi n'entrer pas  ? Qui t'arrete a la porte  ?			[1215]
+GUZMAN.
+J'en avais a mon gre raison valable et forte ;
+Mais on ne saurait fuir ce qui doit arriver,
+Je craignais de te voir, et tu me viens trouver.
+BEATRIX.
+Quoi, pour te faire peur suis-je assez effroyable  ?
+GUZMAN.
+Non pas, mais je te crains pourtant comme le diable,			[1220]
+Et choisirais plutot, s'il dependait de moi,
+D'etre tente par lui que de l'etre par toi.
+BEATRIX.
+Ne t'epouvante point ; si ton coeur en soupire,
+Tu t'accoutumeras.
+GUZMAN.
+Il ne coute qu'a dire ;
+Et quoi qu'un pauvre coeur soit tout perce de coups,			[1225]
+Pourvu qu'on s'accoutume il doit etre fort doux  ?
+Mais en m'accoutumant, comme j'ai l'ame prompte,
+Quand je n'en pourrai plus, ce sera pour mon compte.
+Cependant de ta part, loin de me soulager,
+Tu t'accoutumeras a me faire enrager.			[1230]
+BEATRIX.
+Tu crois donc qu'a me voir ton repos se hasarde  ?
+GUZMAN.
+Je suis tout palpitant des que je te regarde,
+Et de mes sens ravis en contemplation,
+Mes yeux seuls pres de toi gardent leur fonction,
+Peu s'en faut que mon coeur n'en soit paralytique.			[1235]
+BEATRIX.
+Pourrait-il craindre un mal que ta langue m'explique  ?
+Qui le connait si bien n'est pas pour en mourir,
+Et si je t'ai blesse, je pourrai te guerir.
+GUZMAN.
+Si tu connais assez jusqu'ou va ma blessure,
+Tu n'entreprendras pas une legere cure,			[1240]
+Et je puis t'en promettre un honneur sans egal,
+La rechute, dit-on, est pire que le mal,
+Mais a guerir le mien s'il faut que tu consentes,
+Tiens mon coeur en etat d'en avoir de frequentes,
+Et songe qu'avec toi ravi de s'embourber,			[1245]
+Il ne voudra guerir qu'afin de retomber.
+BEATRIX.
+Va, Guzman, j'aurai soin, de peur qu'il ne t'empire,
+D'avoir quelque douceur chaque jour a te dire,
+Ni langueurs ni soupirs ne te couteront rien.
+GUZMAN.
+Je crois qu'aux delicats tout cela fait grand bien,			[1250]
+Mais pour moi qui crains fort les crudites venteuses
+J'eus toujours l'estomac contraire aux viandes creuses,
+Et quand pour mes peches il en est question,
+Je n'en tate jamais sans indigestion.
+BEATRIX.
+Tu n'es donc point mon fait, ainsi que de tous ages.			[1255]
+Parmi mes Soupirants j'en ai de tous etages.
+Je recois compliment, soins, complaisance, voeux,
+Mais ce meuble d'amour est tout ce que j'en veux,
+Chacun me fait sans peine ecouter son martyre,
+J'estime les polis, et les sots me font rire.			[1260]
+C'est ainsi que l'amour dans mon coeur se nourrit.
+GUZMAN.
+Cet amour est bien jeune, on n'a guere d'esprit.
+Je sais bien qu'en effet, quand il commence a naitre,
+Ce n'est que de douceurs qu'il aime a se repaitre,
+Cet aliment alors sans peine le soutient,			[1265]
+Mais je le crois leger quand l'appetit lui vient.
+S'en tenir toujours a tu m'aimes, et je t'aime,
+Si c'est faire enrager, c'est enrager soi-meme,
+Et le simple art coquet, si des sottes l'ont eu,
+Sans de grands ragouts n'est pas grande vertu.			[1270]
+BEATRIX.
+Tu vas un peu trop loin ; encor sommes-nous faites
+Pour ouir des douceurs, ecouter des fleurettes ;
+C'est a quoi la plus prude aisement se resout,
+Mais il faut que toujours la vertu regle tout.
+GUZMAN.
+Tu me la bailles belle avec ta pruderie.			[1275]
+Enfin qu'attrape-t-on par la coquetterie,
+Et que sert la vertu que tu me veux precher,
+Si sous l'habit du vice on aime a la cacher  ?
+C'est etre sage en vain que ne la point paraitre.
+Pour moi, je sui pecheur autant qu'il le faut etre,			[1280]
+Et je ne sache rien qui me choque l'esprit,
+Comme se vendre au Diable, et s'y vendre a credit.
+BEATRIX.
+Je pense, pour t'avoir, qu'il lui doit couter bonne.
+GUZMAN.
+Ce n'est pas trop gratis, et fol est qui s'y donne.
+Mais enfin, bien plutot que je n'eusse espere.			[1285]
+D'avec son grand Parleur mon Maitre s'est tire.
+SCENE II. Don Fernand, Guzman, Beatrix.
+GUZMAN.
+Monsieur, on vous attend, mais cependant j'enrage
+D'etre avant vous ici venu faire message ;
+Avec la Beatrix pour avoir babille,
+Jusques aux intestins je me trouve grille.			[1290]
+DON FERNAND, faisant semblant de ne pas connaitre Guzman.
+Que veut dire ce fou  ?
+GUZMAN.
+Ben, et grand bien vous fasse ;
+Voyez s'il y fait chaud, je vous quitte la place,
+Pour m'oter de peril vous venez bien a point.
+DON FERNAND, le repoussant.
+Ami, les froids railleurs ne divertissent point,
+Retire-toi.
+GUZMAN.
+Chasser un homme de ma sorte  ?			[1295]
+BEATRIX.
+Voyez qu'expres pour vous j'attendais a la porte ;
+Mais comme je n'ai pas le don de deviner,
+Apprenez-moi quel nom il me faut vous donner.
+DON FERNAND.
+Le mien est Don Fernand, est-ce que l'on en doute  ?
+BEATRIX.
+Si vous ne vous nommez, Monsieur, on n'y voit goutte,			[1300]
+Et quand Don Dionis...
+DON FERNAND.
+Encor Don Dionis  ?
+Ces divertissements devraient etre finis.
+Cet Objet inconnu qui me tait sa naissance,
+Me fait de ta Maitresse implorer l'assistance,
+Et pour m'en eclaircir je suis ici venu.			[1305]
+BEATRIX.
+Ainsi donc ce valet ne vous est pas connu  ?
+DON FERNAND.
+Je ne le vis jamais, bien loin de le connaitre.
+GUZMAN.
+Quoi, vous ne seriez pas Don Dionis mon Maitre  ?
+DON FERNAND, lui donnant un soufflet.
+Maraud tu peux railler  ?
+GUZMAN.
+Monsieur vous etes prompt.
+Ah, devant Beatrix m'avoir fait un affront  ?			[1310]
+J'en ai la rage au coeur.
+BEATRIX.
+Vous avez ete vite.
+DON FERNAND.
+Il aurait vu sans toi comme je m'en acquitte,
+Et si Don Dionis m'a jamais ressemble.
+GUZMAN.
+Peste de la figure, et du Maitre Double.
+DON FERNAND, tirant sa bourse de sa poche.
+Mais avant que d'entrer, prends, et daigne me dire			[1315]
+Pour quel charmant Objet mon triste coeur soupire ;
+Je crains de ta Maitresse encor quelques refus.
+BEATRIX.
+Vous me voulez en vain eprouver la-dessus,
+Cet essai n'est pour vous qu'une faible ressource.
+DON FERNAND.
+Mais...
+BEATRIX.
+Mon coeur est ferme, n'ouvrez point votre bourse.			[1320]
+DON FERNAND.
+Au moins...
+BEATRIX.
+Encor un coup ; Monsieur, je ne prends rien,
+Vous me connaissez mal.
+GUZMAN.
+O la fille de bien  !
+Elle est incorruptible.
+DON FERNAND.
+Un present t'epouvante  !
+BEATRIX.
+Pourquoi, s'il m'en revient plus de mille de rentes  ?
+Mais il faut, quels qu'ils soient, pour les voir sans mepris,			[1325]
+Que la galanterie en fasse tout le prix.
+Je veux qu'avec tant d'art son adresse en ordonne,
+Qu'on me soit oblige de tout ce qu'on me donne,
+Et qu'on fasse si bien, que le don accepte,
+Je semble avoir encor moins recu que prete.			[1330]
+C'est assez que mon coeur connait ce que j'en pense.
+DON FERNAND.
+Pour tes adorateurs c'est trop de recompense ;
+Mais en ayant grand nombre, il est bien malaise
+Qu'ils touchent vivement un coeur si divise.
+De l'un par l'autre ainsi tu confonds le service.			[1335]
+BEATRIX.
+L'Alphabet que j'en tiens a chacun rend justice,
+Et selon les degres du merite qu'il a,
+Pour ne confondre rien, je lui fais un Nota.
+DON FERNAND.
+Le secret est galant pour ne s'y meprendre.
+BEATRIX.
+Nous avons oblige ma Maitresse a descendre ;			[1340]
+La voici qui parait.
+SCENE III. Don Fernand, Isabelle, Beatrix, Guzman.
+DON FERNAND.
+Dois-je encor redouter
+L'erreur qui contre moi vous a fait emporter  ?
+L'ordre d'une inconnue a qui mon coeur se donne,
+Veut qu'a vos volontes Don Fernand s'abandonne,
+Et dans l'obscur succes dont je presse la fin,			[1345]
+Ce que vous resoudrez reglera mon destin.
+ISABELLE.
+Vous serez Don Fernand, si vous le voulez etre,
+Lorsque Don Dionis aura voulu paraitre ;
+Vous etes tous les deux tant qu'on ne le voit pas.
+BEATRIX.
+Ne doutez plus, Madame, il n'est qu'a trente pas;			[1350]
+Son Valet qu'il envoie en ote tout scrupule.
+ISABELLE.
+Il ne me l'ote pas.
+GUZMAN.
+Je suis moins incredule,
+Et me suis trop senti de la contrefacon.
+DON FERNAND.
+Mais, Madame, pourquoi cet outrageant soupcon  ?
+Que pourrais-je esperer d'une lache imposture  ?			[1355]
+ISABELLE.
+Sans aucun interet je vois cette aventure ;
+Dionis ou Fernand, tout est egal pour moi,
+Je vous l'ai deja dit, Don Felix a ma foi ;
+Mais la Dame Inconnue a qui vous voulez plaire,
+Par beaucoup de raisons me doit etre bien chere,			[1360]
+Et si vous la trompez, je ne puis refuser
+D'employer tous mes soins a la desabuser.
+DON FERNAND.
+Jamais fidelite n'approcha de la mienne.
+ISABELLE.
+Entrons, en attendant que Don Dionis vienne ;
+C'est l'unique moyen de vous justifier.			[1365]
+SCENE IV. Isabelle, Don Fernand, Beatrix, Guzman, Un Exempt, Suite de L'Exempt.
+L'EXEMPT, saisissant l'epee de Don Fernand
+Monsieur, de par le Roi, je vous fais prisonnier.
+DON FERNAND.
+Moi  ?
+L'EXEMPT
+Vous-meme.
+DON FERNAND.
+Voyez quelle erreur est la votre,
+Messieurs, vous me prenez sans doute pour un autre.
+L'EXEMPT
+Don Fernand d'Avalos nous est assez connu.
+Vous verrez le Decret contre vous obtenu.			[1370]
+Votre Partie enfin a fait voir qu'a Grenade
+Vous avez fait tuer D. Lope d'Alvarade,
+Qu'un autre en est pour vous faussement accuse.
+GUZMAN, bas.
+Voici pour les surprendre un trait assez ruse,
+Il faut aider la Piece.
+DON FERNAND.
+Ah  ! Messieurs, je proteste...			[1375]
+L'EXEMPT
+C'est aux Juges demain que vous direz le reste,
+Ces eclaircissements passent ma fonction.
+ISABELLE.
+Mais ne pourrait-il pas vous donner caution  ?
+L'EXEMPT
+Madame, a ces rigueurs la Justice est contrainte.
+GUZMAN.
+Messieurs, pour un soufflet, je couche aussi ma plainte.			[1380]
+L'EXEMPT
+Marchons sans faire eclat.
+GUZMAN.
+Me voila satisfait ;
+Ah  ! Monsieur Don Fernand, vous payerez le soufflet.
+DON FERNAND, a Isabelle.
+Je puis fort aisement prouver mon innocence ;
+Mais en vous cependant je mets mon esperance,
+Rendez-vous favorable a seconder mes voeux.			[1385]
+GUZMAN.
+Je le verrai loger.
+SCENE V. Isabelle, Beatrix.
+BEATRIX.
+Vous vous defierez d'eux,
+Et voudrez croire encor que le tout soit adresse  ?
+ISABELLE.
+Nomme ma defiance injustice ou faiblesse,
+Condamne sur mes sens ce qu'elle a de pouvoir,
+Dans ces occasions on n'en peut trop avoir.			[1390]
+BEATRIX.
+Quoi, vous la croiriez juste, apres ce qui se passe  ?
+ISABELLE.
+Je plains de Don Fernand la facheuse disgrace ;
+Mais crois-moi, ses detours vont etre superflus,
+Puisqu'il est arrete, Don Dionis n'est plus.
+Son valet qui le suit fait voir le stratageme.			[1395]
+BEATRIX.
+J'en avais cru d'abord la ressemblance extreme,
+Mais ici tout a l'heure, a le voir de plus pres,
+J'ai fort bien remarque qu'ils n'ont pas les memes traits.
+Qui s'y veut attacher, en voit la difference.
+ISABELLE.
+Tu seras toujours folle avec ta ressemblance.			[1400]
+Enfin c'est Don Juan qui t'a gate l'esprit.
+Il n'est rien de plus vrai que ce qu'il nous dit  ?
+Voila comme tu crois si tot que l'on t'en conte
+BEATRIX.
+Bien d'autres la-dessus ont la croyance prompte,
+Et quand je m'examine, au moins vois-je de quoi			[1405]
+Meriter les soupirs qui s'adressent a moi.
+Qu'on en vienne aux transports, qu'on se plaigne, languisse,
+Pourquoi ne croire pas que l'on me rend justice  ?
+La fausse modestie est des faibles d'esprits ;
+Apres tout, il est bon de connaitre son prix.			[1410]
+Quelques voeux dont chacun a l'envi nous accable,
+Qui croit en etre digne, en devient plus aimable.
+Pour moi, qui sur moi-meme ouvre assez bien les yeux,
+Je sais ce que je vaux, et j'en crois valoir mieux ;
+J'en prends un droit d'empire, un air de confiance,			[1415]
+Qui force les plus fiers, et prend les coeurs d'avance,
+Un peu d'orgueil sied bien pour en venir a bout,
+Et pour grossir la troupe on fait armes de tout.
+Vous savez qu'en Amants je ne hais pas la foule,
+La beaute se fletrit, la jeunesse s'ecoule,			[1420]
+Et je tiens qu'en notre age il faut sans consulter
+Prendre tout, au hasard de ce qui doit rester.
+ISABELLE.
+Je te souffre l'erreur qui t'a toujours flattee ;
+Mais dans mon coeur enfin la chose est arretee,
+Et quand Don Dionis serait tel que tu crois,			[1425]
+J'ai su pour Don Felix determiner mon choix.
+Son retour a Madrid que dans peu l'on espere,
+S'il est toujours le meme, achevera l'affaire,
+Et si pour Leonor j'etais hors de souci...
+Mais je vois Don Juan.
+SCENE VI. Don Juan, Isabelle, Beatrix.
+ISABELLE.
+Qui vous fait rire ainsi  ?			[1430]
+DON JUAN.
+Je ris de l'embarras ou depuis plus d'une heure
+Avec un vieil ami Don Dionis demeure.
+Jamais plus de grands mots n'avaient encor si bien
+Fait voir le haut talent de nos diseurs de rien.
+Quoi que l'on ait pu dire, quoi qu'on ait pu faire,			[1435]
+Il a fallu l'entendre, enrager, et se taire.
+Je les viens de laisser aux compliments d'adieu.
+ISABELLE.
+Don Dionis ne fait que sortir de ce lieu.
+DON JUAN.
+Don Dionis  ?
+ISABELLE.
+Lui-meme.
+DON JUAN.
+Oui, sans doute, Madame,
+Je viens tacher encor a surprendre votre ame,			[1440]
+Mais me donnant la main, pour vous eclaircir mieux,
+A trente pas d'ici vous en croirez vos yeux.
+BEATRIX.
+J'y vais pour vous, Madame, Et si votre assurance...
+DON JUAN.
+Il n'en est pas besoin, le voici qui s'avance.
+SCENE VII. Don Fernand, Don Juan, Isabelle, Beatrix.
+BEATRIX.
+Et bien, voyez un peu les yeux de celui-ci.			[1445]
+Madame, tout de bon l'autre est-il fait ainsi,
+Et si quelque rapport a douter vous engage,
+Pourriez-vous lui trouver meme tour de visage  ?
+Ce front vous semble-t-il egalement ouvert  ?
+ISABELLE.
+Tout augmente mon trouble, et mon esprit s'y perd ;			[1450]
+Mais tu doutes en vain, Beatrix, c'est le meme.
+DON FERNAND.
+Madame, on craint toujours quand l'amour est extreme,
+Et je vous dois paraitre encor inquiete
+D'un facheux embarras qui m'a trop arrete.
+J'apprehendais chez vous de m'etre fait attendre,			[1455]
+Mais je me trouve encor le premier a m'y rendre,
+Et votre Don Fernand qu'on y faisait venir,
+Du moins, s'il s'en souvient, s'est laisse prevenir.
+ISABELLE.
+Don Fernand est venu degager sa parole.
+Vous pouvez la-dessus poursuivre votre role,			[1460]
+Il vous laisse en etat de bien l'executer.
+DON FERNAND.
+J'ai lieu d'etre surpris qu'on ait pu l'arreter.
+ISABELLE.
+Quoi, pour votre interet vous voulez qu'il s'arrete,
+Quand le pouvoir du Roi rend son excuse prete  ?
+C'est pour n'y pas ceder une trop juste loi.			[1465]
+DON FERNAND.
+Que dites-vous, Madame ? Il est mande du Roi ?
+ISABELLE.
+Que vous etes adroit a bien donner le change  !
+Mais rien de votre part ne doit sembler au etrange,
+Et la fourbe est pour vous un don si naturel...
+DON FERNAND.
+M'en accusez encor  ! Ce reproche est cruel,			[1470]
+Si votre injuste erreur vous est toujours si chere,
+Que rien sans Don Fernand ne vous peut satisfaire,
+Quoi qu'il vous opposat, deviez-vous consentir,
+Puisqu'il etait chez vous, a le laisser sortir  ?
+ISABELLE.
+Le trait est si subtil, qu'il faut que je confesse			[1475]
+Qu'on ne peut rien conduire avec plus de justesse,
+Et comme de l'Exempt je connaissais le nom,
+J'ai cru, vous arretant, que c'etait tout de bon.
+Ou l'avez-vous laisse  ?
+DON FERNAND.
+Qui, Madame  ?
+ISABELLE.
+He de grace,
+Faites voir ailleurs vos tours de passe-passe.			[1480]
+L'on me dupe d'abord, mais j'en reviens soudain.
+DON FERNAND.
+Qu'est-ce ci  ?
+DON JUAN a Don Fernand. 
+Remettez la partie a demain.
+Aussi bien pour guerir l'erreur qui la possede,
+Vous voir tous deux ensemble est l'unique remede.
+Sans une telle preuve elle n'a point de foi.			[1485]
+DON FERNAND.
+Beatrix...
+BEATRIX.
+Elle voit son erreur comme moi,
+Mais l'obstination d'une Femme a combattre,
+Est un petit Demon qui fait le diable a quatre,
+Son esprit de longtemps n'en sera delivre.
+SCENE VIII. Don Fernand, Don Juan, Isabelle, Guzman, Beatrix.
+GUZMAN.
+Enfin je suis content, le galant est coffre,			[1490]
+S'il m'a pu souffleter, il en payera l'amende.
+BEATRIX.
+Tu l'as suivi, Guzman  ?
+GUZMAN.
+Suivi ? Belle demande !
+DON FERNAND.
+Qui ? Parle, explique-toi.
+GUZMAN.
+Vous en serez surpris,
+Monsieur, votre Figure est un sot mal appris,
+Mai rejouissez-vous.
+DON FERNAND.
+Quel sujet m'y convie ?			[1495]
+Dis.
+GUZMAN.
+Vous serez roue bientot en effigie ?
+DON FERNAND.
+Maraud...
+GUZMAN.
+Votre portrait, ce Don Fernand maudit,
+D'un saut qu'on lui prepare a lieu d'etre contrit ;
+Pour vol, brulement, meurtre, on l'a mis en cloture.
+DON FERNAND.
+On l'a saisi  ?
+GUZMAN.
+Demain il aura la torture...			[1500]
+DON FERNAND.
+Quoi, ce meme Fernand qu'on dit me ressembler  ?
+GUZMAN.
+Le traitre d'un soufflet a pense m'accabler,
+Sa main pesante et large a grande experience ;
+Je l'eusse pris pour vous sans cette difference,
+Tant sur vous, aux mains pres, il est bien copie.			[1505]
+DON FERNAND.
+Il t'a battu ?
+GUZMAN.
+Monsieur, j'en suis estropie;
+Mais si pareils soufflets sont toujours dans sa manche,
+Je pretends en avoir bientot bonne revanche,
+Et venir des premiers ouir son compliment,
+Quand il haranguera patibulairement.			[1510]
+DON FERNAND.
+Madame, apres cela seriez-vous si cruelle,
+Que de douter encor...
+GUZMAN.
+Il etait avec elle,
+Monsieur, quand au collet on l'est venu gripper.
+ISABELLE.
+Certes, je vous devrais aider a me duper  ?
+Mais personne jamais n'eut moindre complaisance,			[1515]
+Vous perdez votre temps.
+DON FERNAND.
+L'etrange defiance  !
+Vous voyez, vous oyez, et vous ne croyez rien.
+ISABELLE.
+Je crois tout, mais enfin je vous connais trop bien.
+DON FERNAND.
+Quoi, c'est moi qu'en prison Guzman a vu conduire  ?
+ISABELLE.
+Guzman merite bien que vous daigniez l'instruire  ?			[1520]
+Il fait de vos lecons un merveilleux emploi.
+Tu l'as donc vu, Guzman  ?
+GUZMAN.
+Tout comme je vous vois.
+ISABELLE.
+Ou l'a-t-on fait entrer  ?
+GUZMAN.
+A deux detours de rue,
+Ici... Mais la prison vous doit etre connue.
+DON FERNAND.
+Madame...
+ISABELLE.
+C'est assez, nous nous verrons demain,			[1525]
+Adieu ; viens, Beatrix.
+DON FERNAND.
+Quel est votre dessein  ?
+Au moins de quelque espoir daignez flatter ma flamme.
+ISABELLE.
+Vous avez deja su le secret de mon ame,
+Ma foi pour Don Felix toujours se soutiendra ;
+Et pour vos interets, le temps en resoudra.			[1530]
+SCENE IX. Don Juan, Don Fernand, Guzman.
+DON JUAN.
+Elle a tant de soupcon de votre stratageme,
+Qu'elle ne veut enfin en croire qu'elle-meme,
+Et si j'en juge bien, elle va maintenant
+Jusque dans la prison demander Don Fernand.
+DON FERNAND.
+Je le crois comme vous.
+DON JUAN.
+Elle aura beau s'en plaindre,			[1535]
+Le Concierge a le mot, vous n'avez rien a craindre.
+DON FERNAND.
+Non, si mon Inconnue avecque moi d'accord
+M'avait pour assurance explique son vrai sort.
+Je ne sais que resoudre a moins de la connaitre.
+DON JUAN.
+Que chez votre Beau-pere elle ait ose paraitre  !			[1540]
+Cet effort part d'un coeur profondement atteint.
+DON FERNAND.
+Il en faut voir la fin, et l'amour m'y contraint,
+Mais comme j'en attends toujours quelque message,
+En vain votre parole a Don Diegue m'engage,
+Je ne puis aujourd'hui me resoudre a le voir.			[1545]
+Inventez quelque excuse, allez chez lui ce soir ;
+Pour en manquer pour moi vous avez trop d'adresse.
+DON JUAN.
+Il faut vous satisfaire.
+DON FERNAND.
+Adieu donc, je vous laisse,
+D'Isabelle en ce lieu j'attendrai le retour.
+SCENE X. Don Juan, Guzman.
+GUZMAN.
+Monsieur, vous faites rage en matiere d'amour ;			[1550]
+Mais quand pour Don Fernand vous prenez la parole,
+Vous pourriez retrancher quelque peu de ce role,
+J'y trouve, en le jouant, un endroit superflu.
+DON FERNAND.
+Quel  ?
+GUZMAN.
+Celui du soufflet qui m'a tres fort deplu.
+J'ai pense m'oublier, vous frappez comme un diable.			[1555]
+DON FERNAND.
+C'est pour mieux conserver partout le vraisemblable.
+GUZMAN.
+On s'y doit attacher, mais il est certain cas
+Ou vraisemblablement il ne me plairait pas ;
+J'en ai la consequence, et me connais a vivre.
+SCENE XI. Don Fernand, Jacinte, Guzman.
+JACINTE.
+Monsieur, on vous attend, et vous pouvez me suivre.			[1560]
+DON FERNAND.
+Ah  ! C'est toi. Que de joie a mon coeur amoureux  !
+JACINTE.
+Ma Maitresse m'envoie, et vous etes heureux.
+Venez sans differer.
+DON FERNAND.
+L'agreable nouvelle  !
+Mais ou la dois-je voir  ?
+JACINTE.
+Vous la verrez chez elle.
+DON FERNAND.
+Et l'obstacle du pere  ?
+JACINTE.
+Il est grand, mais enfin			[1565]
+On tient ouverte expres la porte du jardin.
+Ainsi vous entrerez sans qu'il le puisse apprendre.
+Suivez de quelque pas.
+DON FERNAND, a Gusman.
+J'avais raison d'attendre ;
+Tu vois avec quel soin on cherche a me parler.
+GUZMAN.
+Garde aussi le Vieillard pour vous mieux regaler.			[1570]
+
+
+			ACTE V
+
+
+SCENE PREMIERE. Isabelle, Leonor, Beatrix.
+ISABELLE.
+La visite ou pour vous ici je me dispense,
+Peut-etre choquera l'exacte bienseance,
+Et quand pour Don Felix on presse mon aveu,
+Je n'entre point chez vous sans en rougir un peu.
+Aussi quoi qu'a vous voir l'amitie m'autorise,			[1575]
+Je ne m'en croirais pas la liberte permise,
+Si le voyant absent, je ne venais sans peur
+De rencontrer le Frere ou je cherche la soeur.
+Vous m'avez confie votre secrete flamme,
+Et sachant ce que peut Don Fernand sue votre ame,			[1580]
+Ce serait mal repondre a ce que je vous dois,
+Que de vous refuser mon avis sur ce choix.
+LEONOR.
+En l'etat deplorable ou l'amour m'a reduite,
+J'ai bien besoin qu'on m'aide a regler ma conduite.
+Cet epoux qu'a Seville un pere m'a choisi,			[1585]
+Fait le chagrin mortel dont mon coeur est saisi.
+De moment en moment il doit ici paraitre,
+Et pleine du desordre ou vous me voyez etre,
+J'ai mande Don Fernand pour resoudre avec lui
+Ce que mon feu du sien peut attendre d'appui.			[1590]
+Comme il sait qui je suis, je n'ai plus lieu de feindre.
+ISABELLE.
+Donc a vous declarer il a su vous contraindre  ?
+LEONOR.
+Quoi, ce n'est pas de vous qu'il tient tout mon secret  ?
+ISABELLE.
+Peut-etre pour le taire est-il assez discret ;
+Mais s'il l'a su de moi, j'ai mauvaise memoire.			[1595]
+LEONOR.
+Ce qu'il a fait tantot m'obligeait a le croire.
+De l'hymen qui me perd desespere, jaloux,
+Afin d'y mettre obstacle, il est venu chez nous.
+A peine ai-je obtenu qu'il n'ait pas vu mon pere.
+ISABELLE.
+Cette chaleur d'amour ne doit pas vous deplaire,			[1600]
+Mais si son coeur pour vous nourrit des feux constants,
+Vous etes en danger de l'attendre longtemps.
+LEONOR.
+Quoi, vous doutez qu'ici Jacinte ne l'amene  ?
+ISABELLE.
+Je crains qu'a le trouver elle n'ait quelque peine,
+Tout a l'heure, a mes yeux, on vient de l'arreter.			[1605]
+LEONOR.
+Quel rude revers avais-je a redouter  ?
+Que le Sort m'est cruel  !
+ISABELLE.
+J'ai pourtant un scrupule,
+Qui sur ce point encor me laisse peu credule.
+Je viens de la prison, ou de tout mon pouvoir
+J'ai tache, mais en vain, d'obtenir de le voir ;			[1610]
+Le concierge en oppose une etroite defense.
+LEONOR.
+Quel sujet avez-vous par la de defiance  ?
+ISABELLE.
+C'est que j'en ai beaucoup de me persuader
+Que jamais de la fourbe on ne sut mieux s'aider.
+Ce meme Don Fernand qui vous voit, qui vous aime,			[1615]
+Doit etre un Dionis qui m'en conte a moi-meme,
+Ou s'il ne l'etait pas, le rapport est si grand,
+Qu'il confond en effet plutot qu'il ne surprend.
+Beatrix n'y peut voir pour tant de ressemblance.
+BEATRIX.
+J'en vois autant qu'il faut, et dis ce que je pense ;			[1620]
+Mais que ce soit le meme, a quoi bon s'alarmer  ?
+Vous suffira-t-il pas qu'il sache bien aimer  ?
+LEONOR.
+En conter en tous lieux n'en est pas un bon signe.
+BEATRIX.
+De votre amour par la vous le croiriez indigne ;
+Ma foi, si la maxime avait lieu contre nous,			[1625]
+S'il est bien des galants, il serait peu d'Epoux.
+Se trouve-t-il encor de ces sottes cruelles
+Qui se fachent d'ouir que l'on se meurt pour elles,
+Et parmi tous nos droits, n'est-ce pas le plus vieux
+D'ouvrir presque l'oreille aussitot que les yeux  ?			[1630]
+Il n'est pour un Amant fidelite qui tienne,
+Tout ce qui flatte plait, de quelque part qu'il vienne,
+On ecoute, et fit-on magasin de vertu,
+Jamais pour des douceurs galant ne fut battu.
+Qu'on y trouve a redire apres tout, qu'on y glose,			[1635]
+La faculte d'ouir est une belle chose,
+Et qui jugera bien des malheurs les plus hauts,
+Trouvera qu'etre sourde est le plus grand des maux.
+Pour moi, que la fleurette a toujours rejouie,
+Je n'entretiens mes jours qu'au moyen de l'ouie,			[1640]
+Et j'en aurais deja vu le cours arrete,
+S'il m'en etait echu quatre de surdite.
+LEONOR.
+L'humeur de Beatrix n'aura jamais d'egale.
+Malgre mon deplaisir j'ecoute sa Morale ;
+Mais elle adoucit peu ce que ma flamme craint,			[1645]
+S'il faut que Don Fernand soit tel qu'on me le peint.
+BEATRIX.
+Il me semble pourtant, que sans trop de mystere
+De tout ce que je dis la consequence est claire.
+De meme qu'en tous lieux il nous plait d'ecouter,
+Les hommes de leur part prennent droit d'en conter ;			[1650]
+Mais de tant de galants dont la fleurette roule,
+Il en est toujours un qu'on met hors de la foule.
+Le coeur, quoi qu'il le cache, a son choix favori,
+On prefere, et c'est la ce qui fait un Mari.
+C'est ainsi qu'un Amant jamais ne se partage,			[1655]
+Que quelqu'une en secret n'ait toujours son hommage,
+Et que ce Don Fernand qui vous fait les yeux doux,
+Peut protester a cent, et n'adorer que vous.
+ISABELLE.
+Enfin de sa prison, ou fausse, ou veritable,
+Depend de ce qu'il est la preuve indubitable ;			[1660]
+C'est a quoi je m'arrete, et vous devez juger
+Qu'ici votre interet me peut seul engager.
+Je dois un coeur fidele aux voeux de votre Frere,
+Et quand a tous Objets son amour me prefere,
+Le mien de ce qu'il vaut par ses respects instruit...			[1665]
+Mais, Dieux  ! Je vois Jacinte, et Don Fernand la suit.
+LEONOR.
+Que me disiez-vous donc, et quelles conjectures...
+ISABELLE.
+Sur ce que vous savez prenez bien vos mesures.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et bien  ? Ce n'est pas fourbe encor que sa prison  ?
+BEATRIX.
+A la fin je crains bien que vous n'ayez raison.			[1670]
+SCENE II. Isabelle, Leonor, Don Fernand, Guzman, Jacinte, Beatrix.
+DON FERNAND, a Guzman.
+Que je trouve Isabelle avec mon Inconnue  ?
+GUZMAN.
+Nous avons tous notre heure, et la votre est venue,
+Monsieur, c'est sans remede, il faut passer le pas.
+LEONOR, a Don Fernand.
+Vous voir est un bonheur que je n'attendais pas.
+Sur un bruit, Don Fernand, qui m'avait mise en peine,			[1675]
+J'avais lieu de tenir cette esperance vaine ;
+On parlait de disgrace, et d'emprisonnement.
+DON FERNAND, montrant Isabelle.
+J'etais avec Madame en ce facheux moment,
+Mais comme dans la Cour contre la violence
+J'ai des Amis puissants qui prennent ma defense,			[1680]
+A peine ont-ils appris que j'etais arrete,
+Qu'ils ont fait de leur rang agir l'autorite.
+Leur parole donnee a cause ma sortie.
+ISABELLE.
+C'est avoir promptement dresse votre partie.
+Leur envoyer l'avis, prendre leur caution,			[1685]
+Trouver, suivre Jacinte a l'assignation,
+Le tout en moins d'une heure, et dans un temps si juste,
+Qu'il semble qu'a vos voeux chaque moment s'ajuste ;
+Qui pour aller si vite a des ressorts tout prets,
+S'il n'est quelque peu fourbe, a d'etranges secrets.			[1690]
+DON FERNAND.
+L'amour est un grand maitre, et tout le favorise.
+ISABELLE.
+Mais tout a l'heure encor ce qui fait ma surprise,
+Le Concierge semblait n'avoir pas le pouvoir
+De souffrir seulement qu'un Ami vous put voir.
+DON FERNAND.
+C'est a quoi ma Partie avait su le contraindre ;			[1695]
+Mais il a vu bientot qu'il n'avait rien a craindre,
+Et trop de gens de marque ont repondu de moi.
+LEONOR.
+Cependant il s'agit de prouver votre foi,
+On me la rend suspecte, et si je l'en veux croire,
+Je ne m'y puis fier sans hasarder ma gloire,			[1700]
+Il doit faire mal sur recevoir vos serments.
+DON FERNAND.
+Elle a concu de moi d'etranges sentiments  !
+Mais helas  ! Se peut-il, que les ayant su prendre,
+Vous doutiez d'un amour et si pur et si tendre,
+Et qu'un soupcon indigne et de vous et de moi,			[1705]
+Deshonorant mes voeux, fasse outrage a ma foi  ?
+LEONOR.
+Je tacherais en vain, Don Fernand, de vous taire,
+Qu'un mouvement secret m'en rendit l'offre chere,
+Et que rien a mon coeur ne peut etre plus doux,
+Que vous voir meriter ce qu'il ressent pour vous ;			[1710]
+Mais reduite a l'hymen qu'un pere me prepare
+Si contre mon devoir mon coeur ne se declare,
+Songez que cet effort ne se doit hasarder
+Que pour prix d'une foi qu'on veuille me garder.
+DON FERNAND.
+Ah  ! Si bruler pour vous ne fait toute ma gloire...			[1715]
+LEONOR.
+Dans ce qu'on vous impute ai-je lieu de le croire  ?
+Tout ce que Don Fernand me conte de douceurs,
+Don Dionis, dit-on, le sait conter ailleurs.
+C'est sous deux divers noms que son coeur se partage.
+DON FERNAND.
+Madame a contre moi rendu ce temoignage,			[1720]
+Je connais quelle erreur m'attire son courroux,
+Mais je suis Don Fernand, et je n'aime que vous.
+ISABELLE.
+Enfin de vos talents elle est bien informee.
+Qu'elle aime la-dessus, qu'elle se croie aimee,
+J'ai pour ses interets agi comme j'ai du.			[1725]
+DON FERNAND.
+Et d'un soupcon si bas rien ne m'a defendu  ?
+Vous n'en voulez juger qu'a mon desavantage  ?
+LEONOR.
+Mais de Don Dionis connaissant le visage,
+Croirai-je qu'en effet elle ait pu s'abuser  ?
+DON FERNAND.
+Elle est du moins trop prompte a vouloir m'accuser.			[1730]
+Si l'on en croit le bruit dot elle a connaissance,
+Avec ce Don Dionis j'ai quelque ressemblance,
+Et ce rapport de traits, sans doute surprenant,
+M'ote dans son esprit le nom de Don Fernand.
+ISABELLE.
+Un rapport si fidele a grand lieu de surprendre.			[1735]
+LEONOR.
+Mais peut-il etre tel, qu'on s'y puisse meprendre,
+Et que dans cet abus, la taille ni la voix...
+DON FERNAND.
+L'autre, dit-on, Madame, est plus haut de deux doigts.
+Aucun ne nous a vus, qui dans la ressemblance
+N'ait marque soudain beaucoup de difference,			[1740]
+Et de la verite soutenant l'interet,
+Beatrix vous dira que...
+BEATRIX.
+Non pas, s'il vous plait.
+Avec tous vos detours vous m'aviez attrape,
+Mais j'en vois l'artifice, et je suis dedupee.
+Vous savez donc ainsi vous faire prisonnier  ?			[1745]
+DON FERNAND.
+Quoi, pour me perdre mieux, veux-tu...
+BEATRIX.
+Point de quartier,
+Je connais ma sottise, elle en vaut bien une autre,
+Je le sais, mais ma foi, vous avouerez la votre,
+Et nous eclaircirons votre genre douteux.
+LEONOR.
+Ce procede pour vous n'a rien que de honteux.			[1750]
+Partout, sous divers noms, faire intrigues nouvelles  ?
+GUZMAN, bas.
+Le voila justement le cul entre deux selles ;
+Pour en embrasser trop, il l'a bien merite.
+DON FERNAND.
+Ce reproche est sensible a ma fidelite ;
+Mais si quelques soupcons vous tiennent en balance,			[1755]
+Le temps de mon amour prouvera la constance,
+Et des soins si pressants la feront eclater,
+Que vous n'aurez enfin aucun lieu d'en douter.
+LEONOR.
+En vain cette assurance a mes soupcons s'oppose.
+Don Dionis ailleurs promet la meme chose,			[1760]
+D'autres en ont oui ce qu'il dit maintenant.
+DON FERNAND.
+Laissez Don Dionis, et croyez D .Fernand ;
+Je le suis, et ma foi vous en devrait repondre.
+LEONOR.
+Mon doute me deplait, je cherche a le confondre ;
+Mais peut-on refuser de croire ce qu'on voit  ?			[1765]
+BEATRIX.
+Puisqu'il veut l'etre enfin consentez qu'il le soit,
+Madame, et seulement tachons de savoir comme
+Il nous amene ici ce brave gentilhomme.
+GUZMAN.
+Je suis laquais d'honneur, et tu me fais grand tort.
+DON FERNAND.
+C'est que m'ayant trouve...
+ISABELLE.
+Parlez pour lui d'abord  !			[1770]
+Vous viendrez au secours, s'il sait mal vous connaitre.
+Parle, a qui donc es-tu  ?
+GUZMAN.
+Moi  ? Je suis a mon Maitre.
+ISABELLE.
+Et c'est Don Dionis, que ce Maitre  ?
+GUZMAN.
+Il est vrai.
+ISABELLE.
+Est-ce lui que tu vois  ?
+GUZMAN.
+Si c'est lui  ? Je ne sais.
+Puis-je le demeler d'avecque sa figure  ?			[1775]
+DON FERNAND.
+Ce que j'ai dit, Madame, est la verite pure ;
+Don Dionis sans doute est un autre que moi.
+BEATRIX.
+Mais nous l'avons laisse tantot avecque toi.
+GUZMAN.
+L'ayant quitte depuis, je ne sais plus qu'en dire,
+On me l'a pu changer, et j'en aurais le pire.			[1780]
+ISABELLE.
+Mais tu l'aurais connu quand tu l'as aborde  ?
+GUZMAN.
+Je m'avancais vers lui quand je l'ai vu mande.
+Ainsi j'ai cru devoir le suivre a l'aventure,
+Don Dionis, tant mieux ; Don Fernand, je l'abjure.
+LEONOR.
+Pour les pouvoir surprendre, ils s'entendent trop bien.			[1785]
+JACINTE.
+Tous leurs deguisements ne vont servir de rien.
+Quand la coiffe abaissee, allant en Inconnue,
+J'ai trouve ce matin Don Fernand dans la rue ;
+Et que de ma Maitresse il a lu le billet,
+Tu m'as complimentee, en fidele Valet ;			[1790]
+Tu disais ton avis, c'etait alors ton Maitre  ?
+GUZMAN.
+J'etais avecque lui  ? Moi  ? Cela ne peut-etre,
+A moins que le doublant comme il parait ici,
+Le Diable eut pris plaisir a me doubler aussi.
+JACINTE.
+Quel impudent valet  ! Madame, je proteste...			[1795]
+BEATRIX.
+Enfin il faut ici jouer de votre reste.
+DON FERNAND, a Leonor.
+Tout semble avoir jure ma perte aupres de vous ;
+Mais je veux que du Ciel m'accable le courroux,
+Si je ne suis...
+LEONOR.
+Soyez tout ce qu'il vous plait d'etre,
+Loin de prendre interet encor a vous connaitre,			[1800]
+C'est un surcroit sensible a mes tristes ennuis,
+Qu'on vous ait malgre moi decouvert qui je suis.
+DON FERNAND.
+Moi, je le sais, Madame, et vous etes capable
+De vouloir insulter au sort d'un miserable,
+Qui du plus pur amour se sentant consumer,			[1805]
+Ignore en vous aimant qui le force d'aimer  ?
+LEONOR.
+Quoi, jaloux d'un hymen que je n'ai pu vous taire,
+Vous n'etes point venu pour parler a mon pere,
+Lui proposer de rompre  ?
+DON FERNAND.
+Ou prendre sa maison  ?
+Ou le chercher enfin si j'ignore son nom  ?			[1810]
+LEONOR.
+Ah  ! C'est trop soutenir un lache stratageme.
+Nier obstinement ce que j'ai vu moi-meme,
+Et de l'art de fourber se tenant glorieux,
+Dementir a la fois mon oreille et mes yeux  !
+Je n'en demande point une preuve plus forte,			[1815]
+Adieu. Va du Jardin le remettre a la porte,
+Jacinte, je rougis de l'avoir ecoute.
+DON FERNAND.
+Je n'avouerai jamais ce qui m'est impute ;
+Mais pour vous temoigner que ma flamme est sincere,
+Faites-moi tout a l'heure entretenir ce pere,			[1820]
+Qu'instruit de la naissance, il puisse examiner
+Si je vous ai rien dit qu'on doive soupconner.
+LEONOR.
+Enfin je ne veux point m'eclaircir davantage.
+Pour un autre a l'hymen sa parole m'engage,
+Il le veut, il l'ordonne, et je dois obeir.			[1825]
+DON FERNAND.
+O Ciel  ! Pour mon rival chercher a me trahir  !
+Madame, songez mieux...
+JACINTE.
+Parlez bas, je vous prie ;
+Madame, le bonhomme est dans la galerie,
+Je crois qu'il vient ici.
+GUZMAN.
+Monsieur, tout est perdu.
+LEONOR.
+Apres ce que j'ai fait ce malheur m'est bien du.			[1830]
+ISABELLE.
+Songez a les cacher ; s'il faut qu'il les surprenne...
+JACINTE.
+Entrez ici...
+DON FERNAND.
+Non, non, la prevoyance est vaine,
+En l'etat ou je suis il faut tout hasarder.
+LEONOR.
+N'esperez pas...
+DON FERNAND.
+L'amour saura me seconder.
+LEONOR.
+Donc a ne craindre rien le peril vous anime  ?			[1835]
+GUZMAN.
+Bon pour lui, mais pour moi, qui suis pusillanime,
+Mesdames, n'est-il point dans ce mortel danger
+Quelque endroit charitable ou me pouvoir loger  ?
+JACINTE.
+Je l'entends a sa toux, vous l'aller voir paraitre,
+Entrez vite...
+GUZMAN.
+Eh, Monsieur  !			[1840]
+DON FERNAND.
+Mon malheur ne peut croitre,			[1840]
+Il faut avec eclat justifier ma foi.
+LEONOR.
+Mais cet eclat me perd.
+DON FERNAND.
+Dieux  ! Qu'est-ce que je vois  ?
+N'est-ce pas Don Juan  ?
+GUZMAN.
+Et de plus le Beau-pere.
+DON FERNAND.
+Ou suis-je, et que croirai-je  ?
+LEONOR.
+Helas  ! Que dois-je faire  ?
+ISABELLE.
+Preparez quelque excuse, et je vous aiderai.			[1845]
+SCENE III. Don Diegue, Don Juan, Isabelle, Leonor, Don Fernand, Beatrix, Jacinte, Guzman.
+DON DIEGUE, a Don Diegue.
+D'ou nait ce changement, si vous m'avez dit vrai  ?
+J'apercois Don Fernand.
+DON FERNAND, a Don Diegue.
+Ah : Monsieur.
+LEONOR.
+Ah  ! Mon pere,
+De ma temerite vous serez en colere ;
+Mais quand vous apprendrez...
+DON DIEGUE.
+Je vois que tu rougis,
+D'avoir recu sans moi Don Fernand de Solis ;			[1850]
+Mais le titre Epoux qu'il a droit de pretendre,
+Souffre la liberte que nous te voyons prendre.
+Sans doute qu'a tes voeux mon choix a repondu  ?
+LEONOR, a Jacinte.
+Don Fernand de Solis  ! Ai-je bien entendu  ?
+DON FERNAND.
+L'Inconnue est sa fille  ! Ah  ! Guzman, quelle gloire  !			[1855]
+DON DIEGUE.
+Si ton bonheur est tel que j'ai lieu de le croire,
+Il faut que je te loue au moins d'avoir eu soin
+Que l'aimable Isabelle en put etre temoin.
+ISABELLE.
+Comme pour Leonor une forte tendresse
+Toujours dans son destin veut que je m'interesse,			[1860]
+Le choix de Don Fernand ne peut m'etre que cher,
+S'il est digne du coeur qu'il tache de toucher.
+DON FERNAND.
+C'est dont je n'ose encor me souffrir l'esperance,
+Et ce doute cruel me reduit au silence.
+Madame, quoi qu'un ppere autorise mes voeux,			[1865]
+Son aveu sans le votre en vain me rend heureux ;
+Mon coeur ne reconnait que votre seul empire.
+Parlez expliquez-vous.
+LEONOR.
+Je l'ai deja su dire,
+Mon pere ayant des droits que je ne puis trahir,
+S'il a choisi pour moi, je ne sais qu'obeir.			[1870]
+DON JUAN.
+Ainsi par cet aveu votre soupcon s'efface.
+Mais de Don Dionis obtiendrons-nous la grace  ?
+Madame...
+ISABELLE.
+C'est assez, votre jeu concerte
+N'a pas surpris en moi trop de credulite.
+DON DIEGUE, a Isabelle.
+Enfin dans le bonheur qu'ici le Ciel m'envoie,			[1875]
+Un mot de votre bouche acheverait ma joie.
+Madame, Don Felix, dont j'attends le retour...
+ISABELLE.
+Vous m'avez pour repondre accorde plus d'un jour,
+Suffit que je l'estime, et que je ne puis taire
+Que la soeur pres de moi peut beaucoup pour le Frere.			[1880]
+DON DIEGUE.
+Je ne demande rien apres ce doux espoir.
+DON JUAN.
+Il ne nous reste plus que Guzman a pourvoir ;
+C'est a lui de choisir entre les deux Suivantes.
+GUZMAN.
+Ah  ! Beatrix.
+BEATRIX.
+Et bien, est-ce fait  ?
+GUZMAN.
+Tu me tentes,
+Et si je m'arretais a jeter l'oeil sur toi,			[1885]
+Le Diable pourrait bien etre plus fin que moi.
+BEATRIX.
+Quoi, tu doutes  ?
+GUZMAN.
+Vois-tu  ? L'hymen dont tu me pries
+Doit durer un peu plus que tes friponneries.
+Pour un bail de six mois je pourrais hasarder,
+Mais ma foi, pour toujours, Dieu m'en veuille garder.			[1890]
+Tous ces friands attraits qui parent ton visage,
+Sont meubles de haut prix mal propres au menage,
+Et je tiendrais heureux qui les doit posseder,
+S'il ne fallait toujours que voir et regarder.
+Mais, chere Beatrix, qui sous l'hymen se range,			[1895]
+Fait tout comme un autre homme, il boit encor et mange.
+Partant, Jacinte, tiens.
+JACINTE.
+Tu la quittes pour moi  ?
+GUZMAN.
+Va, touche.
+BEATRIX.
+Pauvre fou  ! J'aurais voulu de toi  ?
+Dans quelle folle erreur ton esprit s'enveloppe  !
+Sais-tu que j'ai fait tirer ton horoscope,			[1900]
+Et que le moindre honneur qui me puisse etre acquis
+C'est avant qu'il soit peu d'epouser un Marquis  ?
+Peut-etre meme un Duc, ou plus.
+GUZMAN.
+Le doux augure  !
+Bonsoir, belle Marquise, ou Duchesse future.
+Le Ciel...
+DON JUAN.
+Va, Beatrix, n'ecoute plus ce fat,			[1905]
+Je vais faire eriger ma terre en Marquisat,
+Et si dans ce temps-la ta foi n'est point promise,
+Prends-en la mienne ici, je te ferai Marquise.
+Comme en toi je choisis l'objet le plus parfait,
+J'en sais qui m'ont trouve peut-etre assez bien fait,			[1910]
+Je plais ou je veux plaire, et suis assez de mise.
+BEATRIX.
+Nous n'avons pas besoin tous deux qu'on nous le dise,
+Et si je crois valoir qu'on ait des yeux pour moi
+Vous avez pour vous-meme autant de bonne foi.
+Mais, a bien prendre tout, quoi qu'un peu plus grand' Dame,			[1915]
+Je n'en serais pas mieux pour etre votre Femme,
+Et nous n'irions pas loin ensemble a communs frais,
+Qu'il ne fut question de venir au rabais.
+De l'humeur dont je suis, de l'humeur dont vous etes,
+Je crois qu'assez souvent nous ferions bourses nettes.			[1920]
+Nous sommes en defauts opposes tant soit peu,
+J'aime fort la depense, et vous aimez le jeu.
+L'un de l'autre par la nous nous verrions les dupes ;
+Je voudrais de l'argent pour acheter des jupes,
+Et loin de m'en fournir comme j'aurais pense,			[1925]
+Peut-etre ce jour-la vous auriez tout masse ;
+Un point, ou de Venise, ou de quelque autre mode,
+Serait d'un tope et tingue une suite incommode,
+Et vous enrageriez cent fois tout votre saoul,
+Quand vous me verriez brave, et n'auriez pas le sou.			[1930]
+Si la necessite se trouvait trop pressante,
+On prendrait au besoin un peu d'argent en rente,
+La somme doublerait, elle ferait eclat,
+Et la terre saisie, adieu le Marquisat.
+Voila comme le tout s'en irait en fumee.			[1935]
+DON JUAN.
+Je n'ai pas avec toi mechante renommee.
+Puisque tu me connais, n'allons pas plus avant,
+Aussi bien nous pourrions nous quereller souvent,
+Au lieu que demeurant aux termes ou nous sommes,
+Tu verras que je suis le plus ardent des hommes,			[1940]
+Et que tant que le jeu me laissera de quoi,
+Si tu prends a credit, j'irai payer pour toi.
+
+	==================================================

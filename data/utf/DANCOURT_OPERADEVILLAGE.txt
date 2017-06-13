@@ -1,0 +1,616 @@
+********************************************************
+	DC.Title                  = L'OPERA DE VILLAGE, COMEDIE.
+	DC.Author                 = DANCOURT, Florent Carton dit
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:14.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/DANCOURT_OPERADEVILLAGE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'OPERA DE VILLAGE COMEDIEM. CC. XCIII
+Par Dancourt
+	
+	
+	Representee pour la premiere fois le 18 Aout 1693 au Theatre de la rue des Fosses Saint-Germain.
+	ACTEURS.
+THIBAUT, Fermier.
+LOUISON, fille de Thibaut.
+COLIN, neveu de Thibaut.
+MARTINE, soeur de Colin.
+LA FLECHE, Valet de Chambre d'un Colonel.
+GALOCHE.
+LE MAGISTER.
+LE CARILLONNEUR.
+LE MENESTRIER.
+LA NYMPHE DU CHATEAU.
+CLAUDINE.
+PIERROT.
+Troupes de Paysans et de Paysannes.
+La Scene est dans un Village, proche de Lyon..
+
+
+
+			
+
+
+SCENE I. Thibaut, Colin.
+COLIN.
+Palsangoi, mon oncle, il n'en faut pas faire a deux fois. Notre nouveau Seigneur arrive aujourd'hui ; He morgue, que la petite rejouissance que je l'y voulons bailler, serve aux fiancailles de ma cousine Louison, avec ce grand Nicodeme de Piarrot. M'est avis que son pere, notre Bailli, se porte un tantinet mieux que de coutume ; et si vous l'y marmuriez queuque chose de ce mariage, je crois, Dieu me pardonne, que ce serait une affaire bientot batie.
+THIBAUT.
+Il vient de m'envoyer prier de passer cheux lui, notre Bailli, et ce pourrait bian etre pour ca. Oui, mon neveu Colin, ce grand Piarrot-la est bian assotte de notre fille Louison.
+COLIN.
+Morgue, mon oncle, a la bonne heure. Ne barguignez pas a vous en defaire. Ma cousine est diablement fringante, oui ; et quand les oisiaux sont drus une fois, tatigue ils sont bientot deniches, voyez-vous.
+THIBAUT.
+Louison est une fille sage, neveu : et si je precipite de la marier, ce n'est pas que j'aie apprehension.
+COLIN.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)He non, d'accord, il n'y a point d'apprehension a avoir : mais il est toujours bon de prendre garde. Il y a ici deux droles qui n'y restont pas pour enfiler des parles : ils la lorgnons, et ils ne la lorgnons pas pour des preunes.
+THIBAUT.
+Je n'ai point remarque qu'ils la lorgnifiaient, moi, et je ne vois pas.
+COLIN.
+Vous avez donc la barlue, mon oncle. Car je sais fort bian moi, que ce petit Monsieur Bouvillon qui fait tant le grand seigneur, avec son factotum, Monsieur Galoche, en voulont a queuque fille ; et comme ma cousine est la plus gentille du Bourg. Tenez, mon oncle, je me donne au diable, il ne faut point s'affier a ces gens-la.
+THIBAUT.
+Morgue que tu es defiant, Colin. Tu as peur de ton ombre.
+COLIN.
+Mais aussi, que faisont-ils ici ? Au lieu d'aller ou ils ont affaire, ils demeuront dans notre Village a manger bian de l'argent au cabaret. La peste m'etouffe, il y a la-dessous queuque manigance.
+THIBAUT.
+Est-ce que tu ne sais pas qu'ils attendont une recrue de filles, pour etablir ce buriau de musique qu'ils allont avoir a trois lieues d'ici ?
+COLIN.
+Et c'est justement ca qui me chagrine, ils enroleront peut-etre la cousine, et ils l'emmeneront peut-etre avec la recrue.
+THIBAUT.
+Paix, tais-toi, voila le factotum.
+SCENE II. Thibaut, Colin, Galoche.
+GALOCHE.
+Serviteur a Monsieur Thibaut, et a Monsieur Colin.
+THIBAUT.
+Je vous baisons les mains de bien bon cour, Monsieur Galoche.
+COLIN.
+Morgue, je ne l'y baise rien, moi, mon oncle ; son menton pointu et sa face ambicoin m'affligent ; serviteur.
+GALOCHE.
+Monsieur Colin me parait de mauvaise humeur aujourd'hui.
+THIBAUT.
+C'est un petit mievre qui fait le fantasque, comme vous voyez.
+GALOCHE.
+He bien, Monsieur Thibaut, c'est donc aujourd'hui que votre Monsieur le Marquis vient prendre possession de sa nouvelle Seigneurie ?
+THIBAUT.
+On nous le fait esperer, Monsieur Galoche : et vous ne serez pas fache de voir cette petite sarimonie-la.
+GALOCHE.
+Non vraiment. C'est une des raisons qui nous ont fait demeurer ici, Monsieur Bouvillon et moi, et nous nous promettons beaucoup d'une petite espece de fete qu'on dit que vous lui preparez.
+THIBAUT.
+Oh Dame, nos Opera ne sont pas daignes des votres. A gens de villages, trompettes de bois, Monsieur Galoche, vous vous gobargerez de nous peut-etre : mais qu'importe, aux champs, comme aux champs, je sommes a la campagne ; je chanterons, je danserons, avec votre parmission, da, Monsieur Galoche : je ferons tout ce que je pourrons. Enfin, n'an dit que notte Monsieur le Marquis aime la musique et la danse comme un enrage.
+GALOCHE.
+Votre fille, l'aimable Louison, sera sans doute, une des Actrices du divertissement ?
+THIBAUT.
+Je le pretends bien comme ca. Depuis cinquante ans je sommes les Farmiers du Chateau, de pere en fils : c'est a nous de faire les honneurs de la fete.
+GALOCHE.
+Assurement. Vous avez donc dispose toutes choses ?
+THIBAUT.
+Ecoutez, Monsieur Galoche, je ne sais comme cela ira franchement ; et si vous voulez fourrer un tantinet votre nez, vous qui etes du metier, ca n'en serait peut-etre pas plus mal, non.
+GALOCHE.
+Qu'est-ce que votre divertissement ?
+THIBAUT.
+Morgue, je n'en sais rian ; car quoique je soyons tous gens d'esprit, c'est pourtant un jeune gars de Paris qui a manigance la chose.
+GALOCHE.
+Et qui est-il, ce jeune gars ?
+THIBAUT.
+C'est le factotum d'un Colonel qui passa dernierement ici, comme vous etes le factotum de Monsieur de Bouvillon, vous ; et il attend une recrue d'hommes, justement tout comme vous attendez une recrue de filles. Il entend morgue la danse et la musique a merveilles.
+GALOCHE.
+C'est donc lui qui a regle toutes vos affaires ?
+THIBAUT.
+Ma foi, chacun y a mis du sian, il n'a baille que le sujet, notre Magister a fait des vars, notre Carillonneur de la musique, notre Menestrier des ballets, et moi j'y chante ; ca ne sera pas drole ?
+GALOCHE.
+Assurement.
+THIBAUT.
+Tout ce qui m'en deplait, c'est que le Carilloneus dit sue les vars ne sont pas bons, le Magister dit que la musique ne vaut pas le diable, et le Menestrier dit qu'ils avons raison : a ce compte-la, Monsieur Galoche, le jeu ne vaudrait pas la chandelle. He, pargue tenez, tenez, vela le factotum du Colonel. Notte Bailli m'attend, je vais voir ce qu'il me veut : de factotum a factotum il n'y a que la main, je vous laisse ensemble.
+SCENE III. La Fleche, Thibaut, Colin, Galoche.
+GALOCHE.
+Voila un visage qui ne m'est pas inconnu.
+LA FLECHE, arretant Thibaut.
+Ou allez-vous donc, Monsieur Thibaut ?
+THIBAUT.
+Je vais faire un tour, j'ai une petite affaire ; en attendant que je revienne, contez a ce Monsieur, pour vous divartir, toues les belles choses que j'allons faire.
+SCENE IV. La Fleche, Galoche.
+LA FLECHE.
+Je connais cet homme-la, si je ne me trompe.
+GALOCHE.
+C'est lui-meme.
+LA FLECHE.
+Justement.
+GALOCHE.
+Monsieur de la F.
+LA FLECHE.
+Monsieur Ga.
+GALOCHE.
+Fleche.
+LA FLECHE.
+Loche.
+GALOCHE.
+He ! Que faites-vous en ce pays, Monsieur de la Fleche ?
+LA FLECHE.
+Palsambleu, qu'y faites-vous vous-meme ? Un Prevot d'opera sur la route de Piemont ! Venez-vous voir une bataille, Monsieur Galoche ?
+GALOCHE.
+Il n'y a, ma foi, rien qui ne se put faire, Je n'en ai jamais vu, premierement.
+LA FLECHE.
+Et vous ferez bien de n'en jamais voir. Quelque coup de mousquet ou dans les reins, ou dans les jambes, gaterait furieusement votre fortune : dans la tete encore, ce ne serait qu'une bagatelle, et vous n'y perdriez pas grand'chose.
+GALOCHE.
+Monsieur de la Fleche est toujours railleur.
+LA FLECHE.
+He vous etes fait a la raillerie, il y a longtemps que vous l'entendez ; c'est ce qui vous a le plus fait connaitre.
+GALOCHE.
+Mais serieusement que faites-vous ici ?
+LA FLECHE.
+J'attends l'equipage de mon maitre. Il a pris les devants, le bagage vient derriere, et je suis par consequent dans le milieu.
+GALOCHE.
+Avouez-moi de bonne foi la chose, la petite fille de Monsieur Thibaut a bonne part au sejour que vous faites dans ce Village ? Votre maitre y a passe, et je soupconne.
+LA FLECHE.
+Palsambleu, je vous trouve admirable. S'il y avait a soupconner quelque chose ? Vous vous melez de plus d'un metier, Monsieur Galoche. Enfin Monsieur Bouvillon est ici, a ce que j'ai oui dire ; c'est un chercheur d'aventures, et vous ne lui etes pas inutile.
+GALOCHE.
+Vous m'offensez, Monsieur de la Fleche.
+LA FLECHE.
+Nous savons un peu vos allures, vous etes bon prince, Monsieur Galoche, et je veux bien vous l'avouer, puisque aussi bien vous vous en doutez : c'est a la petite fille en question que nous en voulons. S'il vous arrive de l'approcher, ni de dire un mot du secret que je vous confie, je ne vous menace point, Dieu m'en garde, je sais tout le respect que merite Monsieur Galoche : mais voila un justaucorps que mon maitre vous donna l'annee passee, je suis encore en droit de le nettoyer, prenez-y garde.
+GALOCHE.
+Monsieur, Monsieur de la Fleche, il me fera raison de la maniere.
+LA FLECHE.
+Bon, parce qu'il vous fait souper avec lui quelquefois, vous croyez qu'il est de vos amis ; cous connaissez bien peu les gens de qualite, vous les rejouissez, ils vous souffrent dans leurs debauches ; ils vous noieraient le lendemain, pour satisfaire leur moindre caprice.
+GALOCHE.
+S'il ne me veut pas faire justice, Monsieur Bouvillon n'est pas sans credit.
+LA FLECHE.
+Ah, morbleu ! Oui, le credit de Monsieur Bouvillon ! Dites-lui que mon maitre aime la petite fille, il ne la regardera qu'avec respect, sur ma parole. Il sait ce qu'il en coute pour se mal adresser, et chat echaude, craint l'eau froide.
+GALOCHE.
+Cela suffit, Monsieur de la Fleche, faites de votre cote tous vos efforts, sur que nous n'epargnerons rien du notre.
+LA FLECHE.
+Vous n'avez qu'a faire la moindre demarche, je devine ou cela aboutira.
+SCENE V.
+LA FLECHE.
+Ce maroufle-la ne laisse pas de me chagriner, il est style a attraper des petites filles. Baste, mon maitre vient d'arriver, toute la question est d'emmener la petite fille : mais pour le faire a moins de risque, il faut jeter sur nos rivaux les soupcons de l'enlevement. Le neveu Colin est deja prevenu contre eux, donnons au pere la meme defiance. Le voici de retour fort a propos.
+SCENE VI. La Fleche, Thibaut.
+THIBAUT.
+He bien, qu'est-ce, Monsieur de la Fleche ? Qu'a-vous donc fait de ce Monsieur avec qui je vous ai embouche ?
+LA FLECHE.
+Ah vraiment, ce que j'en ai fait ? Si vous saviez ce qu'il a voulu faire de moi, vous seriez dans une belle colere.
+THIBAUT.
+He, morgue, qu'aurait-il fait, dites ?
+LA FLECHE.
+Il m'a voulu corrompre, et me mettre d'une partie qu'ils ont projetee.
+THIBAUT.
+Accoutez, le neveu Colin dit qu'il ne faut point trop s'affier a ces droles-la.
+LA FLECHE.
+Il a bien raison. Ils ont dessein, Monsieur Bouvillon et lui, d'enlever votre fille, et il me sollicitait de leur preter main forte.
+THIBAUT.
+D'enlever ma fille ! Ce n'est que ca ! Par la morguoi je les en depite.
+LA FLECHE.
+Prenez-y garde, vous dis-je.
+THIBAUT.
+Je les en depite, encore un coup, ma fille est mariee.
+LA FLECHE.
+Votre fille est mariee ?
+THIBAUT.
+Parguene autant vaut, puisqu'elle est promise. Je vians de donner ma parole au Bailli pour son petit fils Piarrot, qui est grand comme une parche. Tatigue que c'est un beau brin d'homme.
+LA FLECHE.
+Ne nous voila pas mal, surcroit d'embarras ; le grand Pierrot.
+THIBAUT.
+Vela ma fille, ne lui parlez de rian. Je voulons que ce soit son pretendu qui ly dise les premieres paroles.
+LA FLECHE.
+Je suis discret, ne vous mettez pas en peine ?
+SCENE VII. Thibaut, Louison, La Fleche.
+THIBAUT.
+He bien, Louison, comment te va ? Queu reve as-tu fait cette nuit, mon enfant ?
+LOUISON.
+Je ne m'en souviens pas tout a fait, mon pere, je sais seulement que j'ai reve des choses qui m'ont fait beaucoup plaisir.
+THIBAUT.
+Cela est admirable : queu prevoyance ! On a beau dire, il y a toujours morgue du vrai dans les songes.
+LA FLECHE.
+Assurement.
+THIBAUT.
+Lui dirai-je la chose ? La langue me demange. Non, palsanguenne, il faut la mordre, je sommes convenus du contraire.
+LOUISON.
+Que dites-vous, mon pere ?
+THIBAUT.
+Rien, Louison, ce n'est qu'une bagatelle. Oh ca, Monsieur de la Fleche, comme vous entendez mieux ca qu'un autre, faites-ly un peu chanter ces petites droleries. Alle est la parle du pays, voyez-vous, et je serai bien aise qu'alle fasse mieux que pas une.
+LA FLECHE.
+Oh, pour cela, je vous en reponds : songez seulement a la repetition que vous devez faire.
+THIBAUT.
+Ca est tout songe. Je prierons ce Monsieur Galoche de s'y trouver, ca sera des marveilles.
+LA FLECHE.
+Oui ; mais si vous m'en croyez, allez vous-meme prendre un peu garde que la musique ne s'enivre : elle est sujette a cela ordinairement.
+THIBAUT.
+J'y aurai l'oil ; mais, je vous prie, faites chanter Louison, pour voir comme ca fera, seulement.
+LA FLECHE, a Louison.
+Cela est fort bien. J'ai quelque chose a vous dire.
+LOUISON.
+Mon pere.
+LA FLECHE, a Louison.
+J'ai a vous parler, vous dis-je.
+THIBAUT.
+He bien, quoi, mon pere ?
+LOUISON.
+Je ne saurais chanter devant vous, je suis toute honteuse.
+THIBAUT.
+Morgue, comment feras-tu donc devant les autres ? Il faut s'enhardir, mon enfant.
+LA FLECHE.
+Laissez-moi la faire chanter en particulier, je l'enhardirai sur ma parole.
+THIBAUT.
+Morgue, je vous en prie, Monsieur de la Fleche. Si alle allait faire la sotte devant Monsieur le Marquis, cela ne vaudrait pas le diable.
+LA FLECHE.
+Ne vous mettez pas en peine. Vous n'avez point encore achete de petits rubans pour vos danseurs, comme je vous avais dit.
+THIBAUT.
+Je n'y avais pas songe.
+LA FLECHE.
+Allez donc vite devaliser tous vos petits Merciers ; c'est le bel air de la danse que les rubans : et tel que vous voyez Monsieur Galoche, il en devalise tous les ans toutes les garde-robes de sa connaissance, aussi est-il bien aime de tous les valets de chambre.
+THIBAUT.
+He bian donc, je m'en vais faite rafle dans toutes les boutiques ; mais au moins, ayez soin de ma fille, je vous la baille en garde.
+LA FLECHE.
+Elle est en bonnes mains, je vous en reponds.
+SCENE VIII. La Fleche, Louison.
+LOUISON.
+He bien, mon pauvre la Fleche, qu'as-tu a me dire ?
+LA FLECHE.
+J'ai bien des nouvelles a vous apprendre.
+LOUISON.
+Et quoi encore ?
+LA FLECHE.
+Mon Maitre est arrive depuis une heure.
+LOUISON.
+Il est arrive ! Ou est-ce qu'il est ?
+LA FLECHE.
+Je n'ai pas voulu qu'il parut dans le Village. Je lui ai dit de demeurer au bout de a grande allee du Chateau, a cote du petit bois : voyez si vous voulez lui venir parler, et consentir qu'il vous emmene avec lui dans sa chaise de poste ?
+LOUISON.
+Qu'il m'emmene ! Je ne consentirai point a cela, je crains trop la medisance. Des qu'une fille s'en va avec un homme, on en dit d'abord mille sottises. Oh dame, il y a de mechantes langues dans notre Village, voyez-vous.
+LA FLECHE.
+Cela est horrible ; mais cependant, si vous aimiez veritablement mon Maitre.
+LOUISON.
+Je l'aime bien, mais.
+LA FLECHE.
+Quoi, mais ?
+LOUISON.
+S'il m'enlevait, serait-ce pour m'epouser ?
+LA FLECHE.
+He vraiment oui. Est-ce qu'on enleve pour autre chose ?
+LOUISON.
+Et s'il m'epousait, serait-ce pour toujours, et ne se demarierait-il point.
+LA FLECHE.
+Et quand il le voudrait, le pourrait-il ? C'est un garcon qui n'a ni pere ni mere, et qui est en age d'epouser vingt femmes.
+LOUISON.
+Voici ma cousine, laisse-nous.
+LA FLECHE.
+Mais quelle reponse faire a mon maitre ? Si je ne la lui porte, il viendra la chercher lui-meme.
+LOUISON.
+Laisse-nous, te dis-je, et reviens ici dans un moment, j'aurai quelque chose a te dire.
+SCENE IX. Martine, Louison.
+MARTINE.
+Ah, ma cousine, je t'apporte une bonne nouvelle !
+LOUISON.
+Qu'est-ce qu'il y a ?
+MARTINE.
+Rejouis-toi, tu vas etre mariee.
+LOUISON.
+Il y a bien la de quoi se rejouir, vraiment.
+MARTINE.
+Assurement, il y a de quoi se rejouir : que peut-on souhaiter de mieux a notre age ! A qui en as-tu donc ? Te voila bien reveuse ?
+LOUISON.
+J'ai quelque chose dans la tete, qui m'embarrasse, ma cousine.
+MARTINE.
+Ne serais-tu pas amoureuse de quelque Monsieur ? Hem ? Tu ne dis mot : j'ai devine, n'est-ce pas ?
+LOUISON.
+Puisque tu t'en doutes, je veux bien te le dire ; mais, n'en parle a personne, ma cousine.
+MARTINE.
+Et qui est-ce encore ?
+LOUISON.
+Ce jeune Comte qui passa il y a huit jours par ici.
+MARTINE.
+Qui logeait chez nous quand tu y vins.
+LOUISON.
+Oui.
+MARTINE.
+Qui fut si ravi de te voir ?
+LOUISON.
+Lui-meme.
+MARTINE.
+Et dont le valet de chambre est encore chez nous a attendre son equipage ?
+LOUISON.
+Justement.
+MARTINE.
+Ce Monsieur le Comte ne t'epousera point, ma cousine, il est de qualite.
+LOUISON.
+Qu'est-ce que la qualite fait, quand on aime bien ? Il est ici depuis une heure, et il veut m'emmener avec lui ; conseille-moi, que faut-il que je fasse ?
+MARTINE.
+Garde-toi bien d'y consentir.
+LOUISON.
+J'aurais pourtant bien du penchant pour cela, ma cousine.
+MARTINE.
+Je ne te conseille pas de le faire.
+LOUISON.
+Tant pis, c'est que tu ne m'aimes pas autant que je t'aime ; et si tu etais a ma place, ma cousine, je te conseillerais, tout au moins, d'aller lui parler au bout de la grande allee, ou il m'attend.
+MARTINE.
+Il t'emmenerait.
+LOUISON.
+He bien, ce ne sera pas ma faute ; car, je n'irais, moi, que pour lui parler ; et s'il me faisait quelque violence, on n'est pas responsable de cela, ma cousine.
+MARTINE.
+Voila son valet de chambre.
+SCENE X. Louison, Martine, La Fleche.
+LA FLECHE.
+He bien, avez-vous pris vos decisions ?
+LOUISON.
+Mon pauvre la Fleche, je suis bien embarrassee !
+LA FLECHE.
+Est-ce la cousine qui vous gene ? Je vais vous en defaire, vous n'avez qu'a dire.
+LOUISON.
+Non, non, je n'ai rien de cache pour elle, et je lui ai tout dit.
+LA FLECHE.
+Et vous avez tout gate. Mais enfin, viendrez-vous parler a mon Maitre ?
+MARTINE.
+Garde-t-en bien, ma cousine.
+LOUISON.
+Et pourquoi ?
+MARTINE.
+S'il va t'enlever ?
+LOUISON.
+Viens avec moi, il ne nous enlevera pas toutes deux ensemble.
+MARTINE.
+Que fait-on. Ce sont de terribles gens que ces jeunes Officiers, il ne faut s'y fier que de la bonne sorte.
+LA FLECHE.
+He bien, en cas qu'il vous enleve, je consens a vous epouser, moi.
+MARTINE.
+Je ne veux point epouser un valet de chambre.
+LA FLECHE.
+Qu'est-ce a dire un valet de chambre ? Vous epouserez le cousin de mon maitre.
+MARTINE.
+Comment donc, le cousin de votre maitre ?
+LA FLECHE.
+He, vraiment oui, si Clitandre epouse votre cousine, vous deviendrez la cousine de Clitandre.
+MARTINE.
+He bien ?
+LA FLECHE.
+Et si je vous epouse, ne serai-je pas aussi leur cousin, moi ? Il n'y a rien de plus clair, nous serons tous cousins et cousines.
+LOUISON.
+Il a raison, viens seulement.
+MARTINE.
+Mais mon frere Colin est alle au-devant de Monsieur le Marquis, s'il nous trouve en chemin.
+LA FLECHE.
+Il ne vous trouvera point, ne craignez rien, les Acteurs du divertissement vont venir repeter ici.
+LOUISON.
+Il faut donc que nous demeurions, car nous en sommes.
+LA FLECHE.
+On vous fera repeter en particulier, ne vous mettez pas en peine. Je crois que voici votre pere, je vais l'amuser un moment, et j'irai tout aussitot vous rejoindre.
+LOUISON.
+Au moins venez le plus tot que vous pourrez, mon cousin.
+LA FLECHE.
+Je suis a vous dans un moment, ma cousine, allez vite.
+SCENE XI.
+LA FLECHE, seul.
+Parbleu ne me voila pas mal en cousine et en femme ; ne nous hatons pourtant pas pour le mariage, et allons doucement pour l'enlevement. Ces sortes d'affaires sont un peu trop delicates pour nous autres ; et pendant qu'on fait le proces du maitre, le valet de chambre est pendu par provision. Ne nous embarquons point mal a propos ; attendons sans faire semblant de rien, le denouement de l'aventure.
+SCENE XII. Thibaut, La Fleche.
+THIBAUT.
+Vela tout notre monde, ou peu s'en faut, qui venont sur mes talons. Allons, Monsieur de la Fleche, c'est a ce coup qu'il en faut decoudre ; notte Monsieur le Marquis va arriver, j'avons deja depute le neveu Colin au-devant de ly, je voulons, morgue, dres qu'il sera venu, l'y aller faire la reverence en musique.
+LA FLECHE.
+Ce sera fort bien fait, vous avez raison.
+THIBAUT.
+Nos garcons et nos filles avons tretous mis leurs habits des Dimanches : ca essayons un peu nos petites droleries tout comme si c'etait tout de bon. Mais, a propos, morgue, qu'avez-vous fait de ma fille, Monsieur de la Fleche, m'est avis que je vous l'avais baille en garde ?
+LA FLECHE.
+Oui, je la faisais chanter comme vous m'en avez prie ; mais sa cousine Martine est venue qui l'a emmenee : elles sont allees quelque part ensemble, apparemment.
+THIBAUT.
+Ces filles avont toujours queuque chose a se dire ; c'est une sotte engeance, on est bienheureux d'en etre defait.
+LA FLECHE.
+Oh, assurement ! Et on ne peut trop recompenser ceux qui nous aident a nous en defaire meme.
+THIBAUT.
+Oh ! C'est morgue bian dit : mais pourtant comment ferons-je ? Car j'avons affaire d'elles.
+LA FLECHE.
+Quelques chanteuses subalternes feront leurs roles. Les chanteuses d'importance ne se trouvent pas aux repetitions, si regulierement que les autres.
+THIBAUT.
+He bian soit, je commencerons toujours, vela deja les entrepreneux du divertissement.
+SCENE XIII. Thibaut, La Fleche, Le Magister, Le Carillonneur, Le Menestrier.
+THIBAUT.
+Oh, ca, Monsieur notre Magister, par ou faut-il que je commencions, s'il vous plait ?
+LE MAGISTER, ivre.
+Faut commencer par le commencement, Monsieur Thibaut, et nous finirons par la fin. Je reglerai cela, laissez-nous faire.
+LA FLECHE.
+Monsieur le Magister se porte bien.
+LE CARILLONNEUR, ivre.
+Vous reglerez ca ! De quel droit, s'il vous plait ? C'est a moi de regler ; car j'ai fait la musique, moi, et la musique.
+LE MENESTRIER, ivre. 
+Monsieur le Carillonneur, je ne serai donc qu'un sot, moi qui ai fait la danse ? Est-ce que la danse est une carogne, a votre avis ?
+LA FLECHE.
+Tout votre Opera est ivre, Monsieur Thibaut, je vous avais bien dit d'y prendre garde.
+THIBAUT.
+Morgue c'est ce qu'il me semble : mais tatigue, qu'est-ce que tout ca veut dire ? Est-ce que je suis un chien, moi, qui vous mets en besogne ?
+LA FLECHE.
+Monsieur Thibaut a raison, Messieurs ; c'est lui au nom de qui tout se fait, et c'est a ses ordres que vous devez vous soumettre. Allons, voyez, Monsieur Thibaut, a mettre les choses par ordre : vous n'avez qu'a parler, vous etes le maitre.
+THIBAUT.
+Moi, morgue, qu'ils en fassent a leur tete : je sis le maitre, vela qui est bien ; mais qu'est-ce que ca fait ? Je ne sais pas par quel bout m'y prendre.
+LA FLECHE.
+Tant pis, vraiment : s'il est ainsi, votre divertissement ira a tous les diables.
+THIBAUT.
+Oh, point, point, vela a propos Monsieur Galoche a qui je vas donner cette commission-la, a moins que vous ne vouliez la prendre.
+LA FLECHE.
+Moi ? Non. Je vous ai donne le sujet, cela suffit. Je n'entends rien au reste.
+SCENE XIV. Thibaut, La Fleche, Galoche, Le Menestrier, Le Magister, etc.
+THIBAUT.
+Soyez le bian venu. J'avons besoin de vous, Monsieur Galoche, et vous m'avez promis de mettre un tantinet le nez dans nos affaires : morgue, taillez, rognez comme il vous plaira, je ne sommes pas difficiles ; je trouverons tout bian, faites seulement.
+GALOCHE.
+Volontiers. Mais Monsieur de la Fleche s'acquitterait bien mieux que moi.
+LA FLECHE.
+C'est votre metier, Monsieur Galoche.
+LE CARILLONNEUR.
+Qu'il ne se mele que de celui-la, personne n'aura rien a ly dire.
+THIBAUT.
+Mais a propos, il faudrait que queuqu'un se boutit a la place de Monsieur le Marquis ; car c'est pour ly que la fete se fait.
+LA FLECHE.
+He bien : Monsieur le Marquis, ce sera l'assemblee.
+THIBAUT.
+He bien : que l'assemblee accoute donc mieux qu'il n'accoutera ly meme. Allons, enfant, baillez-nous du meilleur, et que les Menestriers brimballiont un peu l'ouverture.
+LA FLECHE.
+Et je vais cependant changer d'habit, moi, pour notre entree.
+GALOCHE.
+Voyons d'abord votre Prologue.
+THIBAUT.
+Qu'est-ce que c'est que le Prologue ? M'est avis que je n'avons point de ca, Monsieur le Magister ?
+GALOCHE.
+Vous n'avez point de Prologue ?
+THIBAUT.
+Non, palsangue, et qu'est-ce qu'un prologue ?
+GALOCHE.
+C'est l'essentiel d'un divertissement, qui suit immediatement l'ouverture, et qui sert de base a plusieurs actes qui sont meles d'intermedes, ou d'especes de fetes qui conviennent au sujet.
+THIBAUT.
+Vela morgue bian des affaires que j'avons oubliees, Monsieur le Magister. Je vous le disais bian tantot, Monsieur Galoche, Je n'y charchons point tant de facons, ablativo tout en un tas, j'avons tout mis ensemble. Allons donc, morgue cette ouverture.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)THIBAUT.
+Que veut celle-ci, par exemple ?
+LA NYMPHE CHANTE.
+Je sis la Nymphe du Chatiau.
+D'un vieux Seigneur l'himeur trop minagere,
+Faisait argent de tout ce que j'ons de plus biau,
+Aussi me vela faite en Nymphe potagere ;
+Mais le nouviau venu ne veut vignes ni bleds.			[5]
+Il fera de biaux jardinages
+De tous nos meilleurs paturages
+En parterre, il boutra nos pres,
+Choux et poiriaux seront sables.
+THIBAUT.
+Qu'en dites-vous ?
+GALOCHE.
+Il faudrait la un chour qui repetat les quatre derniers vers, cela ferait des merveilles.
+THIBAUT.
+Oh, cela serait trop biau, Monsieur Galoche, vous en seriez jaloux, peut-etre.
+GALOCHE.
+Mais, il nous faut quelque entree apres ce recit.
+THIBAUT.
+He, morgue, il y en aura aussi, baillez-vous de l'air, vous n'etoufferai pas, Monsieur Galoche.
+GALOCHE.
+He bien, quelle danse avez-vous ? Voyons.
+THIBAUT.
+Quelle danse ? Palsangoi je fons danser tous les Etats du Village. Notte Carilloneux danse pour la Justice, notte Menestrier pour les Dimes, Monsieur de la Fleche pour la Noblesse, le neveu Colin pour les Bourgeois, ly ; stanpandant ils sont quatre, ca ne fait-il pas le compte, Monsieur Galoche ?
+GALOCHE.
+Cela doit etre fort joli, voyons.
+THIBAUT.
+Oh ! Il faut que je chante auparavant, s'il vous plait ; car c'est moi qui fais la harangue.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monseigneur, tout de meme			[10]
+Que le Lait ne vaut pas tant que la creme,
+Tout de meme, il nous est avis
+Que vous etes la creme des Marquis.
+Tout le Village, tout le Village
+Venons vous rendre leur hommage ;			[15]
+Votre presence, Monseigneur,
+Nous boute a tous la joie au cour.
+Allons, a vous, Messieurs le jarret souple.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)THIBAUT.
+Vela du plus fin, Monsieur Galoche ; qu'en dites-vous ?
+GALOCHE.
+Assurement, voila du plus fin, et nous avons interet qu'on ne fasse point de jolies choses si proche d'une Ville ou nous avons dessein de nous etablir. Je vais rendre compte a mon associe de ce que j'ai vu.
+THIBAUT.
+Oh palsanguenne ; allez, si cela ne vous accommode pas, on s'en gobarge.
+GALOCHE.
+Vous avez la encore une symphonie des plus complete ; et a moins que vous ne nous envoyiez votre petite fille Louison nous faire quelques civilites la-dessus, je ne prevois pas que nous laissions passer votre divertissement.
+THIBAUT.
+Vous envoyer ma fille ! Oh palsangoi, si vous attendez apres cela, vous attendrez longtemps, Monsieur Galoche.
+GALOCHE.
+Je vais donc avertir mon associe.
+THIBAUT.
+Au diable, Monsieur Galoche, au diable. Ca, Claudine.
+SCENE XV. Thibaut, Colin, Le Magister, etc.
+COLIN.
+Oh ! Palsangoi, vous chantez-la bian a votre aise ; mais voici d'autres chansons, mon oncle.
+THIBAUT.
+Qu'est-ce qu'il y a ?
+COLIN.
+Tatigue, vous avez fait de belles affaires.
+LA FLECHE, a part.
+Nous approchons du denouement.
+THIBAUT.
+He parle donc, neveu, qu'est-ce que tu veux dire ?
+COLIN.
+N'etais-je pas assez bon pour aller tout seul au-devant de notte Monsieur le Marquis ? Pourquoi y envoyer ma soeur Martine et la cousine Louison.
+LA FLECHE, a part.
+C'est justement l'affaire, tenons ferme.
+THIBAUT.
+Ma fille et ma niece ?
+COLIN.
+He, morgue oui, votre fille et votre niece. Oh palsanguenne, allez, alles sont cause d'un biau grabuge.
+THIBAUT.
+Explique-toi donc ?
+COLIN.
+Patience.
+LA FLECHE, a part.
+Comment cela aura-t-il fini ?
+COLIN.
+Je m'en allais tout bellement au-devant de notte Monsieur le Marquis sur notte grand jument qui est pleine : j'ai trouve envars ici a l'autre bout de la grande allee un jeune Monsieur que je connais de visage, qui enfarmait Martine et Louison dans une petite charrette de cuir, comme dans un coffre.
+THIBAUT.
+Que veut dire ceci ?
+COLIN.
+Je leur ai demande ou alles allions : au-devant de Monsieur le Marquis, m'ont-elles fait. C'est moi qui sis le depite du Village, c'ai-je fait ; je sommes les depitees des filles, m'ont-elles fait. J'alliemes comme ca tout en disputant ensemble : mais ce Monsieur n'aime pas la compagnie ; car il m'a sangle cinq ou six coups de fouet sur les epaules, et il m'a prie brusquement de me retirer. Je n'en ai voulu rian faire ; bref, tantia que pour le faite court, je sommes arrives au detour, ou j'avons trouve nez a nez le carrosse de Monsieur le Marquis. Son premier laquais le cousin la Brie, est venu a mon secours avec ses camarades, le Monsieur a tire l'epee, Monsieur le Marquis est descendu et moi, je les ai laisses tous la, qui se battont comme des enrages. Ne voulez-vous pas les venir separer ?
+THIBAUT.
+Si je le voulons ? Ma hallebarde ?
+LA FLECHE.
+Je n'ai point trop mal fait de demeurer.
+COLIN.
+Attendez. Vela ma soeur Martine.
+SCENE XVI. Thibaut, Colin, Martine, La Fleche, Le Magister, etc.
+ENTREE.
+MARTINE.
+Ne vous alarmez point, mon oncle, ce Monsieur qui enlevait ma cousine, ne l'enlevait que pour l'epouser : c'est un des meilleurs amis de notte Monsieur le Marquis, et son neveu, je pense. Ils viennent tous d'entrer au Chateau, ou ils disent que vous alliez les trouver, pour leur donner ce petit divertissement que vous avez prepare.
+THIBAUT.
+He, morgue, je n'ons pas encore repete. Ils venont trop tot, qu'ils se donnions patience, j'allions voir comment ca ira. Allons Claudine, courage, et tremoussons-nous bien tretous d'importance.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vivons sans inquietude,
+Je prenons le temps comme il vient,
+Je ne sons coquettes, ni prudes,			[20]
+Mais, j'aimons bien quand l'amour nous tient.
+Je nous font une habitude
+D'etre joyeux soir et matin ;
+Rire et chanter, c'est toute notre etude,
+Et si j'ons peu d'esprit ; du moins, j'ons bon instinct.			[25]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PIERROT.
+La bonne chose que le vin !
+Morgue, se peut-il qu'on s'en lasse ?
+Avec un verre a la main
+On a toujours bonne grace.
+La bonne chose que le vin !			[30]
+Morgue, se peut-il qu'on s'en lasse ?
+THIBAUT.
+Qui s'en lasse est un vilain,
+Je bois toujours a pleine tasse,
+Et je n'en repands jamais brin.
+La bonne chose que le vin !			[35]
+Morgue, se peut-il qu'on s'en lasse ?
+PIERROT.
+A la sante de Catin,
+Elle en deviendra plus grasse.
+THIBAUT.
+Volontiers.
+PIERROT.
+Allons.
+THIBAUT.
+Tope.
+PIERROT.
+Masse.
+TOUS DEUX. 
+La bonne chose que le vin !
+Morgue, se peut-il qu'on s'en lasse ?			[40]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PIERROT.
+Tant que l'y aura des vignes et des vignerons,
+L'y aura de la vandange et des biberons.
+CLAUDINE.
+Tant que l'y aura des filles, l'y aura des garcons.
+PIERROT.
+Morgue, vive les vignes et les vignerons,
+CLAUDINE.
+Vive aussi les filles, vive aussi les garcons.			[45]
+ENSEMBLE.
+Les uns pour les autres, tretous je vivons,
+Et jamais par faute je ne chomerons.
+PIERROT.
+Morgue, vive les vignes et les vignerons,
+CLAUDINE.
+Vive aussi les filles, vive les garcons.
+LA FLECHE.
+Ma foi, vivat, monsieur Thibaut.
+THIBAUT.
+Ca n'est peut-etre pas trop biau, mais c'est a ce factotum de Monsieur Galoche qu'il faut s'en prendre.
+
+	==================================================

@@ -1,0 +1,362 @@
+********************************************************
+	DC.Title                  = L'AUGMENTATION DE LA BAGUETTE, COMEDIE EN UN ACTE
+	DC.Author                 = REGNARD, DUFRESNY
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:18.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/DUFRESNYREGNARD_AUGMENTATIONBAGUETTE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'AUGMENTATION DE LA BAGUETTE COMEDIE EN UN ACTE1693
+REGNARD et DUFRESNY
+	
+	
+	Representee pour la premiere fois le 10 janvier 1693 en societe.
+	AVERTISSEMENT DE L'EDITEUR SUR LA BAGUETTE DE VULCAIN, ET SUR L'AUGMENTATION DE LA BAGUETTE. [1823]
+Cette piece, que Regnard fit en societe avec Dufresny, fut jouee pour la premiere fois le 10 janvier 1693. 
+On lit dans les Anecdotes dramatiques qu'elle eut un succes prodigieux dans sa nouveaute, et rien ne le prouve mieux que l'addition que les auteurs y firent sous le titre d'Augmentation a la Baguette de Vulcain. La piece fit passer l'Augmentation, comme un tonneau de vin vieux en fait debiter plusieurs de vin nouveau. Cette comparaison est des auteurs eux-memes. L'Augmentation commence par le conte d'un cabaretier qui avait un muid de bon vin vieux : tout le monde en voulait avoir ; et il s'avisa, pour le perpetuer, de remplacer sans cesse par du vin nouveau ce qu'il otait du tonneau. Le conte est applique a la piece. La Baguette de Vulcain est le bon vin vieux, que le public savoure depuis trois mois, et qui doit faire passer plusieurs scenes ajoutees, qui sont le vin nouveau. 
+Ce n'est pas cependant que ces trois scenes soient inferieures a la piece ; elles sont episodiques comme les autres, et toutes roulent sur des demandes etrangeres les unes aux autres, que Roger et le Druide sont charges de decider. Il faut meme qu'a la representation on ait insere les scenes de l'Augmentation dans la piece ; non seulement les deux couplets ajoutes au Vaudeville le demandaient, mais la question de Belise a Roger : « Jouez-vous encore aujourd'hui votre Baguette de Vulcain ? » (Scene premiere de l'Augmentation) ne peut se faire qu'avant que la Baguette soit jouee. 
+Le titre de la piece est pris de la Baguette divinatoire, qui, dans les mains du nomme Jacques Aymar, avait alors beaucoup de reputation dans Paris. Mais la piece ne remplit pas son titre ; car il n'y a qu'une seule circonstance ou la Baguette produise l'effet qui lui est propre ; c'est quand elle fait trouver le mari de Melisse. 
+Au reste, toute la fortune de la Baguette nous parait devoir etre attribuee a cette scene, et a celle ou les moeurs du temps sont mises en opposition avec celles que l'on suppose avoir existe deux cents ans auparavant ; encore peut-on dire que l'ignorance de Roger sur ces moeurs anciennes est bien deplacee : il vivait sans doute dans le temps que Bradamante a ete enchantee, puisqu'il etait son amant.
+
+ACTEURS du PROLOGUE
+ROGER. Arlequin.
+PERSONNAGES DE LA COMEDIE
+ROGER. Arlequin.
+BELISE. Colombine.
+ANGELIQUE. Isabelle.
+NIGAUDIN. Mezzetin.
+LE DRUIDE.
+LA FEMME DE NIGAUDIN, personnage muet.
+
+
+
+
+			
+
+
+PROLOGUE DE L'AUGMENTATION DE LA BAGUETTE.
+ARLEQUIN, en habit de Roger, au parterre. 
+Tandis que nos musiciens prendront haleine, il ne vous deplaira pas, messieurs, que je vous fasse un petit conte.
+Le Cabaretier.
+CONTE.
+Ces jours gras, un cabaretier, 
+Des plus fripons de son metier, 
+Avait un muid, pour tout potage, 
+D'un bon vin vieux de l'Hermitage. 
+Un voisin curieux en voulut un flacon ; 			[5]
+Les voisins du voisin le trouverent si bon, 
+Qu'ils en firent tirer mainte et mainte bouteille. 
+Mon scelerat, croyant faire merveille, 
+Et perpetuer son tonneau, 
+Le remplissait de vin nouveau. 			[10]
+Les fins gourmets entraient en danse, 
+L'argent venait en abondance ; 
+Bref, la piece eut tant de credit, 
+Qu'il ne fut ni grand ni petit, 
+Qui n'en voulut boire chopine. 			[15]
+Mon matois faisait bonne mine ; 
+Plus le vin vieux il debitait, 
+Et plus le vin nouveau marchait, 
+Esperant, par ce stratageme, 
+S'engraisser pendant le careme : 			[20]
+Mais par malheur le bon vin vieux s'usa, 
+Et le nouveau du tonneau s'empara ; 
+Tant qu'a la fin, pour finir mon histoire, 
+Personne n'en voulut plus boire. 
+A l'application. 
+Nous sommes, ne vous en deplaise, 			[25]
+Ce fripon de cabaretier, 
+Qui depuis trois mois, a notre aise, 
+Faisant valoir notre metier, 
+Allongeons notre comedie, 
+Et qui melons dans le tonneau 			[30]
+Quelques pintes de vin nouveau, 
+Pour vous le faire enfin boire jusqu'a la lie. 
+Le parterre, qui seul regle notre destin, 
+Est ce fin gourmet de voisin 
+Qui nous attire l'abondance ; 			[35]
+Mais aussi, par reconnaissance, 
+Pour quinze sous nous lui donnons 
+Pareil vin qu'au theatre un ecu nous vendons. 
+Nous allons vous donner encor quelques bouteilles 
+De ce rape par les oreilles : 			[40]
+Messieurs, nous serons trop heureux 
+Si le vin nouveau passe a la faveur du vieux. 
+SCENE I. Belise, Roger, Le Druide.
+BELISE.
+Hola ! Ho, quelqu'un ! Portier, limonadier, ouvreuses de loges ! Depuis trois mois on ne saurait trouver a se placer dans cet hotel de Bourgogne.
+ROGER, au parterre. 
+Voila une de ces bouteilles de vin que je vous avais promises ; mais elle me parait bien aigre. 
+BELISE.
+Bonjour, monsieur ; jouez-vous encore aujourd'hui votre Baguette de Vulcain ? 
+ROGER.
+Si nous la jouons ? Je le crois, ma foi ; et il ne tiendra qu'a ces messieurs 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que nous ne la jouions encore trois mois. Apparemment, madame, que vous cherchez votre mari ? Est-il dans le cas de la baguette ? 
+BELISE.
+Moi, un mari ? Moi, chercher mari ? Est-ce que j'ai l'air d'une femme a mari ? 
+ROGER.
+Je vous demande pardon ; je vois bien que vous n'etes qu'une femme a galant. 
+BELISE.
+Un bel esprit comme moi, me soupconner de degenerer jusqu'aux etres materiels ! Apprenez, mon ami, que j'ai epouse l'antique, et que je n'aurai jamais dautres maris que Juvenal, Horace, Virgile, et surtout le bon homme Homere. 
+ROGER.
+Vous avez fait la de belles epousailles ! Avec de pareils maris, vous aurez bien de la peine a reparer les torts que la guerre cause au genre humain. 
+BELISE.
+Assez de filles se chargeront de ce soin-la ; pour moi, je passe mes jours avec les livres, et je ne m'endors point que je n'aie une douzaine d'auteurs anciens sous mon chevet. 
+ROGER.
+On ne dispute pas des gouts ; mais je connais des femmes aussi spirituelles que vous qui dorment plus volontiers avec des modernes. 
+BELISE.
+On dit que dans votre comedie vous faites une comparaison du vieux temps avec le nouveau. Cela n'aurait-il pas quelque rapport avec le parallele des anciens et des modernes, qui partage a present tous nos beaux esprits ? Quel parti prenez-vous dans cette dispute-la, vous autres comediens ? 
+ROGER.
+Mais, madame, je vous en fais juge vous-meme. En mille ans, les auteurs anciens ne nous produiraient pas un verre d'eau ; et ce sont les modernes, comme vous voyez, qui font bouillir notre marmite. 
+BELISE.
+Si je savais que vous parlassiez serieusement, et que vous prissiez le parti des modernes... 
+ROGER.
+Eh ! Que feriez-vous ? 
+BELISE.
+Ce que je ferais ! Je troublerais vos spectacles, je louerais des gens pour siffler, et je vous empecherais de parler francais, jusqu'a ce que Pasquariel eut ete recu, pour son beau langage, a l'Academie. 
+ROGER.
+L'herbe aurait tout le temps de croitre dans le parterre. Mais vous entrez bien chaudement dans les interets de l'antiquite. 
+BELISE.
+Si j'y entre chaudement ! Vous ne savez donc pas que je suis le flambeau fatal qui vient d'allumer la guerre parmi les gens de lettres ? 
+ROGER.
+Je ne croyais pas que cette nation-la fut belliqueuse. 
+BELISE.
+Que dites-vous ? Dans le dernier combat, trois de nos chefs furent blesses a mort d'un seul coup d'epigramme. 
+ROGER.
+Si on charge une fois les sonnets a cartouche, il en demeurera bien sur le carreau : les Invalides ne suffiront pas pour les blesses ; il en faudra mener quelques uns aux Petites-Maisons. 
+BELISE.
+Je soutiendrai les anciens envers et contre tous. 
+ROGER.
+J'ai a vous dire qu'il est inutile de vous tant echauffer ; cette guerre-la est terminee. 
+BELISE.
+Cela ne se peut. On ne fait rien a l'Academie sans me consulter. 
+ROGER.
+Je ne sais pas si cela se peut ; mais je sais bien que voila l'arret que je porte dans ma poche. Lisez. 
+BELISE.
+Voyons.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ces jours passes, en bonne compagnie, 
+Trois heros de l'Academie 
+S'echauffaient sur le differend 			[45]
+Qui tient tout Paris en suspens. 
+Des modernes auteurs l'un prenait la defense ; 
+L'autre des anciens soutenait les raisons : 
+Le plus savant des trois prit en main la balance ; 
+Et moi, dit-il, je suis pour les jetons. 			[50]
+Oh ! Je ne n'arrete pas a cette decision-la. 
+ROGER.
+Voila le Druide, qui est un antique, qui vous en donnera une autre.
+LE DRUIDE chante. 
+En vain une fille, a votre age, 
+Donne son suffrage 
+Pour l'antiquite, 
+Son esprit a beau faire, 
+Son cur plus sincere 			[55]
+Decide pour la nouveaute.
+ROGER.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Juvenal, Horace et Virgile,
+En bon francais, sont des nigauds ;
+Il vous faut un mari, la fille,
+Mais un mari de chair et d'os.			[60]
+SCENE II. Angelique, Roger, Le Druide.
+ANGELIQUE.
+Ah, monsieur l'enchanteur ! J'ai recours a votre sorcellerie. 
+ROGER.
+Voila un jeune tendron qui ne serait pas mauvais a enchanter, et je melerais volontiers ma magie noire avec sa magie blanche. 
+ANGELIQUE.
+On dit que vous avez reveille une fille qui dormait depuis deux cents ans. Ne pourriez-vous point endormir ma mere pour la moitie de ce temps-la ? 
+ROGER.
+Endormir une mere ! J'aimerais mieux avoir dix maris a bercer. 
+ANGELIQUE.
+Faites-la donc dormir seulement deux ou trois jours, pour me donner le temps de me marier sans lui en rien dire. 
+ROGER.
+Le bon naturel de fille ! Helas ! Une pauvre petite mineure qui cherche a s'emanciper ! Cela me fend le coeur ! 
+ANGELIQUE.
+Oh ! Je l'en avertirai, sitot qu'elle sera eveillee. 
+ROGER.
+Cela est dans l'ordre. 
+ANGELIQUE.
+Il n'y a plus moyen de durer avec cette femme-la : elle veut que je vive dans la regularite ou l'on etait de son temps ; et cela ne s'accommode pas avec la reforme de celui-ci. 
+ROGER.
+Je vous sais bon gre, a votre age, d'aimer la reforme. 
+ANGELIQUE.
+Elle veut m'habiller a sa fantaisie. Le dernier corps qu'elle m'a fait faire me va jusqu'au menton ; et vous savez qu'une fille aimerait autant n'avoir point de gorge que de ne la pas montrer. 
+ROGER.
+C'est que les filles d'aujourd'hui aiment le grand air. 
+ANGELIQUE.
+Elle me controle sur tout. Croiriez-vous qu'elle me defend de manger d'aucun ragout ? Elle dit qu'autrefois les femmes ne vivaient que de fruit et de laitage. 
+ROGER.
+C'est a peu pres la meme chose a present, excepte que le fruit que mangent les dames est un peu plus epice ; et elles ont trouve le moyen de se rafraichir avec des jambons de Mayence, des mortadelles et des cervelas de la rue des Barres. Pour leur laitage, c'est ordinairement du vin de Champagne comme il sort du tonneau. 
+ANGELIQUE.
+Du vin de Champagne ! Fi donc ! Cela gate le teint ; et je n'en bois plus depuis que ma cousine m'a appris a boire du ratafia. 
+ROGER.
+Vous avez la une jolie cousine. 
+ANGELIQUE.
+Vous ne voulez donc point endormir ma mere ? 
+ROGER.
+Non ; car dans la colere ou je suis contre elle, si je l'endormais une fois, elle courrait risque de ne s'eveiller de sa vie. 
+ANGELIQUE.
+Apprenez-moi donc ce qu'il faut faire pour l'empecher de gronder. 
+ROGER.
+Voila le Druide, qui est homme expert dans ces cas-la ; il va vous satisfaire.
+LE DRUIDE chante. 
+Mere qui gronde, 
+Qui tempete et qui fronde, 
+Fait son emploi dans le monde 
+Quand elle est sur son retour. 
+Fille qui la laisse dire, 			[65]
+Et qui n'en fait que rire, 
+Fait sa charge a son tour.
+ROGER.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand mere sauvage 
+Dit dans ses lecons 
+Que fille a votre age 			[70]
+Doit fuir les garcons, 
+Vous devez repondre : 
+C'est ce que j'ai resolu 
+Lanturelu, lanturelu, lanturelu. 
+SCENE III. Nigaudin, La Femme de Nigaudin, personnage muet, Roger, Le Druide.
+NIGAUDIN.
+Bonjour, monsieur. Quand je vous vois, 			[75]
+Je ne puis m'empecher de rire.
+ROGER.
+M'as-tu deja vu quelquefois ? 
+NIGAUDIN.
+Par ma foi, je ne sais qu'en dire. 
+Or donc, pour revenir a mon premier discours... 
+Mais vous m'interrompez toujours.			[80]
+ROGER.
+J'aurais vraiment grand tort ; la harangue est jolie. 
+NIGAUDIN.
+Vous saurez donc, monsieur, qu'on a sa fantaisie ; 
+Tantot on est garcon, tantot on ne l'est plus. 
+Il n'est rien tel que les cocus ; 
+Car ils le sont toute leur vie.
+ROGER.
+Demandez-le plutot a monsieur que voila. 			[85]
+NIGAUDIN, montrant sa femme, qui est fort laide. 
+Vous voyez bien cette poulette-la, 
+C'est ma femme, quoi qu'on en dise. 
+Savez-vous pourquoi je l'ai prise ? 
+ROGER.
+Pour son bien, ses parents ? 
+NIGAUDIN.
+Non, c'est pour sa beaute.
+ROGER.
+Qui diable s'en serait doute ? 			[90]
+NIGAUDIN.
+Mais regardez-la bien ; c'est elle 
+Qui me fait bouillir la cervelle : 
+Je croyais qu'au bout de neuf mois 
+Une femelle au moins un enfant devait rendre.
+ROGER.
+Combien t'a-t-elle fait attendre ? 			[95]
+Un an ? 
+NIGAUDIN.
+Oh !
+ROGER.
+Deux ans ?
+NIGAUDIN.
+Oh ! 
+ROGER.
+Dix ans ? 
+NIGAUDIN.
+Oh ! Que nenni. 
+Elle a mis tout au plus quatre mois et demi, 
+Et je crains quelque stratageme.
+ROGER.
+C'est bien peu ; mais avec une femme qu'on aime, 
+Il ne faut pas entrer dans un calcul bourgeois, 			[100]
+Ni prendre garde a trois ou quatre mois.
+NIGAUDIN.
+C'est pourtant le hic de l'affaire. 
+C'est ce qui fait que bien souvent 
+On n'est pas pere d'un enfant, 
+Quoiqu'on soit mari de sa mere.			[105]
+ROGER.
+Tu n'eprouves pas seul un pareil accident ; 
+Et si l'on comptait bien l'absence ou la presence 
+De la plupart de nos maris, 
+On trouverait que dans Paris 
+Il serait peu d'enfants dont la naissance 			[110]
+Ne vint ou trop tot ou trop tard, 
+A moins que l'on ne fit un almanach batard.
+NIGAUDIN.
+Vous ne croyez donc pas que la progeniture 
+Soit tout a fait de ma manufacture ? 
+ROGER.
+Il faut toujours s'en faire honneur, 			[115]
+Et peut-etre en es-tu l'auteur. 
+Il est des enfants vifs qui cherchent la lumiere 
+Presque aussitot qu'ils sont concus ; 
+Et les femmes d'esprit sur pareille matiere 
+Font aisement des impromptus.			[120]
+NIGAUDIN.
+Cet enfant est venu, tout franc, trop a la hate, 
+Et je crois n'avoir pas mis la main a la pate.
+ROGER.
+Mais quel age avait-il ? 
+NIGAUDIN.
+Je vous l'ai deja dit ; 
+Quatre mois et demi. 
+ROGER.
+Qu'est-ce qu'il me lanterne ? 
+Ton enfant est produit a terme. 			[125]
+A quoi bon faire tant de bruit ? 
+Quatre mois et demi de jour, autant de nuit ; 
+A neuf mois le total se monte. 
+He bien, n'est-ce pas la ton compte ? 
+NIGAUDIN.
+Vous avez raison cette fois. 			[130]
+Je suis bien plus heureux que je ne le pensais. 
+Viens, ma pouponne ; 
+Viens, ma bouchonne, 
+Que je repare ton honneur.
+ROGER.
+Le Druide va te calmer l'esprit par un petit couplet de chanson.
+LE DRUIDE chante. 
+Vous n'avez pas besoin qu'on vous console ; 			[135]
+Elle a tout l'air d'une femme d'honneur : 
+J'en jurerais presque sur sa parole ; 
+Mais j'aime mieux jurer sur sa laideur. 
+ROGER chante. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Au temps passe, 
+On n'achetait que les belles ; 			[140]
+Mais tout a change, 
+Toureloure, loure, loure ; 
+Il ne reste point de bete au marche. 
+DIVERTISSEMENT.
+Tous les personnages se joignent, et font une danse. On reprend l'air qui est a la fin de la Baguette.
+LE DRUIDE. 
+La verte jeunesse, 
+Qui tourne a tout vent, etc. 			[145]
+BELISE.
+Pour moi l'hymenee 
+N'a point de douceurs ; 
+Je suis destinee 
+A l'amour des auteurs : 
+Pour eux je veux vivre ; 			[150]
+Car dans ce temps-ci, 
+Il n'est point de livre 
+Si froid qu'un mari.
+ANGELIQUE.
+Ma mere a mon age, 
+A ce que l'on dit, 			[155]
+Fit son mariage 
+A fort petit bruit ; 
+Je puis, ce me semble, 
+Par bonnes raisons, 
+Suivre son exemple, 			[160]
+Non pas ses lecons. 
+
+	==================================================

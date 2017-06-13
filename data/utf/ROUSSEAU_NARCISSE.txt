@@ -1,0 +1,791 @@
+********************************************************
+	DC.Title                  = NARCISSE OU L'AMANT DE LUI-MEME, COMEDIE
+	DC.Author                 = ROUSSEAU, Jean-Jacques
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 07/06/2016 a 15:20:45.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/ROUSSEAU_NARCISSE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+NARCISSE OU L'AMANT DE LUI-MEMECOMEDIE1752
+par Mr ROUSSEAU
+	
+	
+	Represente pour la premiere fois le 18 decembre 1752 au Theatre de la rue des Fosses Saint-Germain.
+	Preface
+J'ai ecrit cette comedie a l'age de dix-huit ans, et je me suis garde de la montrer, aussi longtemps que j'ai tenu quelque compte de la reputation d'Auteur. Je me suis enfin senti 1e courage de la publier, mais je n'aurai jamais celui d'en rien dire. Ce n'est donc pas de ma piece, mais de moi-meme qu'il s'agit ici.
+Il faut, malgre ma repugnance, que je parle de moi ; il faut que je convienne des torts que l'on m'attribue, ou que je m'en justifie. Les armes ne seront pas egales, je le sens bien ; car on l'attaquera avec des plaisanteries, et je ne me defendrai qu'avec des raisons : mais pourvu que je convainque mes adversaires, je me soucie tres peu de les persuader ; en travaillant a meriter ma propre estime, j'ai appris a me passer de celle des autres, qui, pour la plupart, se passent biens de la mienne. Mais s'il m'importe guere qu'on pense bien ou mal de moi, il m'importe que personne n'ait droit d'en mal penser, et il importe a la verite que j'ai soutenue, que son defenseur ne soit point accuse justement de ne lui avoir prete son secours que par caprice ou par vanite. Sans l'aimer et sans la connaitre.
+Le parti que j'ai pris dans la question que j'examinais il y a quelques annees, n'a pas manque de me susciter une multitude d'adversaires. On m'assure que plusieurs trouvent mauvais que j'appelle mes adversaires, et cela me parait assez croyable dans un siecle ou l'on n'ose plus rien appeler par son nom. J'apprends aussi que chacun de mes adversaires se plaint, quand reponds a d'autres objections que les siennes, que je perds temps a me battre contre des chimeres ; ce qui me prouve une chose dont je me doutais deja bien, savoir qu'ils ne perdent point le leur a s'ecouter les uns les autres. Quant a moi, c'est une peine que j'ai cru devoir prendre, et j'ai lu les nombreux ecrits qu'ils ont publies contre moi, depuis la premiere reponse dont je fus honore, jusqu'aux quatre sermons Allemands dont l'un commence a peu pres de cette maniere : Mes freres, si Socrate revenait parmi nous, et qu'il ait l'etat florissant ou les sciences sont en Europe ; que dis-je, en Europe ? en Allemagne ; que dis-je, en Allemagne ? en Saxe : que dis-je, en Saxe ? a Leipzig, que dis-je, a Leipzig ? dans cette Universite. Alors saisi d'etonnement, et penetre de respect, Socrate s'assoirait modestement parmi nos ecoliers ; et recevant nos lecons avec humilite, il perdrait bientot avec nous ignorance dont il se plaignait si justement. J'ai lu tout cela et n'y ai fait que peu de reponses ; peut-etre en ai-je encore trop fait, mais je suis fort aise que ces Messieurs les aient trouvees assez agreables pour etre jaloux de la preference. Pour les gens qui sont choques du mot d'adversaires, je consens de bon coeur a le leur abandonner, pourvu qu'ils veuillent bien m'en indiquer un autre par lequel je puisse designer, non seulement tous ceux qui ont combattu mon sentiment, soit par ecrit, soit plus prudemment et plus a leur aise dans les cercles de femmes et de beaux esprits, ou ils etaient bien surs que je n'irais pas me defendre, mais encore ceux qui feignant aujourd'hui de croire que je n'ai point d'adversaires, trouvaient d'abord sans replique les reponses de mes adversaires, puis quand j'ai replique, m'ont blame de l'avoir fait, parce que, selon eux, un ne m'avait point attaque. En attendant, ils permettront que je continue d'appeler mes adversaires mes adversaires ; car, malgre la politesse de mon siecle, je suis grossier comme les Macedoniens de Philippe, plus attentifs peut-etre a l'interet des gens de lettres qu'a l'honneur de la litterature. Je l'avais prevu, et je m'etais bien doute que leur conduite en cette occasion prouverait en ma saveur plus que tous mes discours. En effet, ils n'ont deguise ni leur surprise ni leur chagrin de ce qu'une Academie s'etait montree integre si mal a propos. Ils n'ont epargne contre elle ni les invectives indiscretes, ni meme les faussetes. On peut voir, dans le Mercure d'Aout 1752, le desaveu de l'Academie de Dijon, au sujet de je ne sais quel ecrit attribue faussement par l'Auteur a l'un des membres de cette Academie, pour tacher d'affaiblir le poids de son jugement. Je n'ai pas non plus ete oublie dans leurs declamations. Plusieurs ont entrepris de me refuter hautement : les sages ont pu voir avec quelle force, et le public avec quel succes ils l'ont fait. D'autres plus adroits, connaissant le danger de combattre directement des verites demontrees, ont habilement detourne sur ma personne une attention qu'il ne fallait donner qu'a mes raisons, et l'examen des accusations qu'ils m'ont intentees a fait oublier les accusations plus graves que je leur intentais moi-meme. C'est donc a ceux-ci qu'il faut repondre une fois.
+Ils pretendent que je ne pense pas un mot des verites que j'ai soutenues, et qu'en demontrant une proposition, je ne laissais pas de croire le contraire. C'est-a-dire j'ai prouve des choses si extravagantes, qu'on peut affirmer que je n'ai pu les soutenir que par jeu. Voila un bel honneur qu'ils font en cela a la science qui sert de fondement a toutes les autres ; et l'on doit croire que l'art de raisonner sert de beaucoup a la decouverte de la verite, quand on le voit employer avec succes a demontrer des folies !
+Ils pretendent que le ne pense pas un mot des verites que j'ai soutenues ; c'est sans doute de leur part une maniere nouvelle et commode de repondre a des arguments sans reponse, de refuter les demonstrations meme d'Euclide, et tout ce qu'il y a de demontre dans l'univers. Il me semble, a moi, que ceux qui m'accusent si temerairement de parler contre ma pensee, ne se sont pas eux-memes un grand scrupule de parler contre la leur : car ils n'ont assurement rien trouve dans mes ecrits ni dans ma conduite qui ait du leur inspirer cette idee, comme je le prouverai bientot ; et il ne leur est pas permis d'ignorer que des qu'un homme pane serieusement, on doit penser qu'il croit ce qu'il dit, a moins que ses actions ou ses discours ne le dementent, encore cela meme ne suffit-il pas toujours pour s'assurer qu'il n'en croit rien.
+Ils peuvent donc crier autant qu'il leur plaira, qu'en me declarant contre les sciences j'ai parle contre mon sentiment ; a une assertion aussi temeraire, denuee egalement de preuve et de vraisemblance, je ne fais qu'une reponse ; elle est courte et energique, et je les prie de se la tenir pour faite.
+Ils pretendent encore que ma conduite est en contradiction avec mes principes, et il ne faut pas douter qu'ils n'emploient cette seconde instance a etablir la premiere ; car il y a beaucoup de gens qui savent trouver des preuves a ce qui n'est pas. Ils diront donc qu'en faisant de la musique et des vers, on a mauvaise grace a deprimer les beaux-arts, et qu'il y a dans les belles-lettres que j'affecte de mepriser mille occupations plus louables que d'ecrire des Comedies. Il faut repondre aussi a cette accusation.
+Premierement, quand meme on l'admettrait dans toute sa rigueur, je dis qu'elle prouverait que je me conduis mal, mais non que je ne parle pas de bonne-foi. S'il etait permis de tirer des actions des hommes la preuve de leurs sentiments, il faudrait dire que l'amour de la justice est banni de tous les coeurs et qu'il n'y a pas un seul chretien sur la terre. Qu'on me montre des hommes qui agissent toujours consequemment a leurs maximes, et je passe condamnation sur les miennes. Tel est le sort de l'humanite, la raison nous montre le but et les passions nous en ecartent. Quand il serait, vrai que je n'agis pas selon mes principes, on n'aurait donc pas raison de m'accuser pour cela seul de parler contre mon sentiment, ni d'accuser mes principes de faussete.
+Mais si je voulais passer condamnation sur ce point, il me suffirait de comparer les temps pour concilier les choses. Je n'ai pas toujours eu le bonheur de penser comme je sais. Longtemps seduit par les prejuges de mon siecle, je prenais l'etude pour la seule occupation digne d'un sage, je ne regardais les sciences qu'avec respect, et les savants qu'avec admiration [ Toutes les fois que je songe a mon ancienne simplicite, je ne puis n'empecher d'en rire. Je ne lisais pas un livre de morale ou de philosophie, que je ne crusse y voir l'ame et les principes de l'auteur. Je regardais tous ces graves ecrivains comme des hommes modestes, sages, vertueux, irreprochables. Je me formais de leur commerce des idees angeliques, et je n'aurais approche de la maison de l'un d'eux que comme d'un sanctuaire. Enfin je les ai vus ; ce prejuge puerile, s'est dissipe, et c'est la seule erreur dont ils m'aient gueri.]. Je ne comprenais pas qu'on put s'egarer en demontrant toujours, ni mal faire en parlant toujours de sagesse. Ce n'est qu'apres avoir vu les choses de pres que j'ai appris a les estimer cc qu'elles valent ; et quoique dans mes recherches j'aie toujours trouve, satis loquentiae, sapientiae parum, il m'a fallu bien des reflexions, bien des observations et bien du temps pour detruire en moi l'illusion de toute cette, vaine pompe scientifique. Il n'est pas etonnant que durant ces temps de prejuges et d'erreurs ou j'estimais tant la qualite d'Auteur j'aie quelquefois aspire a l'obtenir moi-meme. C'est alors que furent composes les Vers et la plupart des autres Ecrits qui sont sortis de ma plume, et entr'autres cette petite comedie. Il y aurait peut-etre de la durete a me reprocher aujourd'hui ces amusements de ma jeunesse, et on aurait tort au moins de m'accuser d'avoir contredit en cela des principes qui n'etaient pas encore les miens. Il y a longtemps que je ne mets plus a toutes ces choses aucune espece de pretention ; et hasarder de les donner au Public dans ces circonstances, apres avoir eu la prudence de les garder si longtemps, c'est dire assez que je dedaigne egalement la louange et le blame qui peuvent leur etre dus ; car je ne pense plus comme l'Auteur dont ils sont l'ouvrage. Ce sont des enfants illegitimes que l'on caresse encore avec plaisir en rougissant d'en etre le pere, a qui l'on fait ses derniers adieux, et qu'on envoie chercher fortune, sans beaucoup s'embarrasser de ce qu'ils deviendront.
+Mais c'est trop raisonner d'apres des suppositions chimeriques. Si l'on m'accuse sans raison de cultiver les Lettres que je meprise, je m'en defends sans necessite ; car quand le fait serait vrai, il n'y aurait en cela aucune inconsequence : c'est ce qui me reste a prouver.
+Je suivrai pour cela, selon ma coutume, la methode simple et facile qui convient a la verite. J'etablirai de nouveau l'etat de la question, j'exposerai de nouveau mon sentiment ; et j'attendrai que sur cet expose on veuille me montrer en quoi mes actions dementent mes discours. Mes adversaires de leur cote n'auront garde de demeurer sans reponse, eux qui possedent l'art merveilleux de disputer pour et contre sur toutes sortes de sujets. Ils commenceront, selon leur coutume, par etablir une autre question a leur fantaisie ; ils me la seront resoudre comme il leur conviendra : pour m'attaquer plus commodement, ils me feront raisonner, non a ma maniere, mais a la leur : ils detourneront habilement les yeux Lecteur de l'objet essentiel pour les fixer a droite a gauche ; ils combattront un fantome et pretendront m'avoir vaincu : mais j'aurai fait. Ce que je dois faire, et je commence.
+«La science n'est bonne a rien, et ne fait jamais, que du mal, car elle est mauvaise par sa nature. Elle n'est pas moins inseparable du vice que l'ignorance de la vertu. Tous les peuples lettres ont toujours ete corrompus ; tous les peuples ignorants ont ete vertueux : en un mot, il n'y a de vices que parmi les savants, ni d'homme vertueux que celui qui ne fait rien Il y a donc un moyen pour nous de redevenir honnetes gens ; c'est de nous hater de proscrire la science et les savants, de bruler nos bibliotheques, fermer nos academies, nos colleges, nos universites, et de nous replonger dans toute la barbarie des premiers siecles.»
+Voila ce que mes adversaires ont tres bien refute : mais aussi jamais n'ai-je dit ni pense un seul mot de tout cela, et l'on ne saurait rien imaginer de plus oppose a mon systeme que cette absurde doctrine qu'ils ont la bonte de m'attribuer. Mais voici ce que j'ai dit et qu'on n'a point refute.
+Il s'agissait de savoir si le retablissement des sciences et des arts a contribue a epurer nos moeurs.
+En montrant, comme je l'ai fait, que nos moeurs ne se sont point epurees, la question etait a-peu-pres resolue.
+Mais elle en renfermait implicitement une autre plus generale et plus importante, sur l'influence que la culture des sciences doit avoir en toute occasion sur les moeurs des peuples. C'est celle-ci, dont la premiere n'est qu'une consequence, que je me proposai d'examiner avec soin.
+Je commencai par les faits, et je montrai que les moeurs ont degenere chez tous les peuples du monde, a mesure que le gout de l'etude et des Lettres s'est etendu parmi eux.
+Ce n'etait pas assez ; car sans pouvoir nier que ces choses eussent toujours marche ensemble, on pouvait nier que l'une eut amene l'autre : je m'appliquai donc a montrer cette liaison necessaire. Je fis voir que la source de nos erreurs sur ce point vient de ce que nous confondons nos vaines et trompeuses connaissances avec la souveraine Intelligence qui voit d'un coup-d'oeil la verite de toutes choses. La science, prise d'une maniere abstraite merite toutes notre admiration. La folle science des hommes n'est digne de risee et de mepris.
+Le gout des Lettres annonce toujours chez un peuple un commencement de corruption qu'il accelere tres promptement. Car ce gout ne peut naitre ainsi dans toute une nation que de deux mauvaises sources que l'etude entretient et grossit a son tour ; savoir, l'oisivete et le desir de se distinguer. Dans un Etat bien constitue, chaque citoyen a ses devoirs a remplir : et ces soins importants lui sont trop chers pour lui laisser le loisir de vaque a de frivoles speculations. Dans un Etat bien constitue tous les citoyens sont si egaux, que nul ne peut etre prefere aux autres comme le plus savant ni meme comme le plus habile, mais tout plus comme le meilleur : encore cette derniere distinction est-elle souvent dangereuse ; car elle fait des fourbes et des hypocrites.
+Le gout des Lettres, qui nait du desir de se distinguer, produit necessairement des maux infiniment plus dangereux que tout le bien qu'elles sont n'est utile ; c'est de rendre a la fin ceux qui s'y livrent tres peu scrupuleux sur les moyens reussir. Les premiers Philosophes se firent une grande reputation en enseignant aux hommes la pratique de leurs devoirs et principes de la vertu. Mais bientot ces preceptes etant devenus communs, il fallut se distinguer en frayant des routes contraires. Telle est l'origine des systemes absurdes des Leucippe, des Diogene, des Pyrrhon, des Protagore, des Lucrece. Les Hobbes, les Mandeville et mille autres ont affecte de se distinguer meme parmi nous ; et leur dangereuse doctrine a tellement fructifie, que quoiqu'il nous reste de vrais philosophes, ardents a rappeler dans nos coeurs les lois de l'humanite et de la vertu, on est epouvante de voir jusqu'a quel point notre siecle raisonneur a pousse dans les maximes le mepris de l'homme et du citoyen.
+Le gout des lettres, de la philosophie et des beaux-arts, aneantit l'amour de nos premiers devoirs et de la veritable gloire. Quand une fois les talents ont envahi les honneurs dus a la vertu, chacun veut etre un homme agreable, et nul ne se soucie d'etre homme de bien. De-la nait encore cette autre inconsequence qu'on ne recompense dans les hommes que les qualites qui ne dependent pas d'eux : car nos talents naissent avec nous, nos vertus seules nous appartiennent.
+Les premiers et presque les uniques soins qu'on donne a notre education, sont les fruits et les semences de ces ridicules prejuges. C'est pour nous enseigner les Lettres qu'on tourmente notre miserable jeunesse : nous savons toutes les regles de la grammaire avant que d'avoir oui parler des devoirs de l'homme : nous savons tout ce qui s'est fait jusqu'a present avant qu'on nous ait dit un mot de ce que nous devons faire ; et pourvu qu'on exerce notre babil, personne se soucie que nous sachions agir ni penser. En un mot, il n'est prescrit d'etre savant que dans les choses qui ne peuvent nous servir de rien ; et nos enfants sont precisement eleves comme les anciens athletes des jeux publics, qui, destinant leurs membres robustes a un exercice inutile et superflu, se gardaient de les employer jamais a aucun travail profitable.
+Le gout des Lettres, de la philosophie et des beaux-arts, amollit les corps et les ames. Le travail du cabinet rend les hommes delicats, affaiblit leur temperament, et l'ame garde difficilement sa vigueur quand le corps a perdu la sienne. L'etude use la machine, epuise les esprits, detruit la force, enerve le courage, et cela seul montre assez qu'elle n'est pas faite pour nous : c'est ainsi qu'on devient lache et pusillanime, incapable de resister egalement a la peine et aux passions. Chacun fait combien les habitants des villes sont peu propres a soutenir les travaux de la guerre, et l'on n'ignore pas quelle est la reputation des gens de lettres en fait de bravoure.
+Or rien n'est plus justement suspect que l'honneur d'un poltron.
+Tant de reflexions sur la faiblesse de notre nature ne servent souvent qu'a nous detourner des entreprises genereuses. A force de mediter sur les miseres de l'humanite, notre imagination nous accable de leur poids, et trop de prevoyance nous ote le courage en nous otant la securite. C'est bien en vain crue nous pretendons nous munir contre les accidents imprevus : « Si la science essayant de nous armer de nouvelles defenses contre les inconvenients naturels, nous a plus imprime en la fantaisie leur grandeur et poids, qu'elle n'a ses raisons et vaines subtilites a nous en couvrir. »
+Le gout de la philosophie relache tous les liens d'estime et de bienveillance qui attachent les hommes a la societe, et c'est peut-etre le plus dangereux des maux qu'elle engendre. Le charme de l'etude rend bientot insipide tout autre attachement. De plus, a force de reflechir sur l'humanite, a force d'observer les hommes, le Philosophe apprend a les apprecier selon leur valeur, et il est difficile d'avoir bien de l'affection pour ce qu'on meprise. Bientot il reunit en sa personne tout l'interet que les hommes vertueux partagent avec leurs semblables : son mepris pour les autres tourne au profit de son orgueil ; son amour-propre augmente en meme proportion que son indifference pour le reste de l'univers. La famille, la patrie deviennent pour lui des mots vides de sens : il n'est ni parent, ni citoyen, ni homme ; il est Philosophe.
+En meme temps que la culture des sciences retire en quelque sorte de la presse le coeur du Philosophie, elle y engage en un autre sens celui de l'homme de Lettres et toujours avec un egal prejudice pour la vertu. Tout homme qui s'occupe des talents agreables veut plaire, etre admire, et il veut etre admire plus qu'un autre. Les applaudissements publics appartiennent a lui seul : je dirais qu'il fait tout pour les obtenir, s'il ne faisait encore plus pour en priver ses concurrents. De-la naissent d'un cote les raffinements du gout et de la politesse ; vile et basse flatterie, soins seducteurs, insidieux, pueriles, qui, a la longue, rapetissent l'ame et corrompent le coeur ; et de l'autre, les jalousies, les rivalites, les haines d'Artistes si renommees, la perfide calomnie, la fourberie, la trahison, et tout ce que le vice a de plus lache ; de plus odieux. Si le Philosophe meprise les hommes, l'Artiste s'en fait bientot mepriser, et tous deux concourent enfin a les rendre meprisables.
+Il y a plus ; et de toutes les verites que j'ai proposees a la consideration des sages, voici la plus etonnante et la plus cruelle. Nos ecrivains regardent tous comme le chef-d'oeuvre de la politique de notre siecle les sciences, les arts, le luxe, le commerce, les lois, et les autres liens qui resserrant entre les hommes les noeuds de la societe par l'interet personnel, les mettent tous dans une dependance mutuelle, leur donnent des besoins reciproques, et des interets communs, et obligent chacun d'eux de concourir au bonheur des autres pour pouvoir faire le sien. Ces idees sont belles, sans doute, et presentees sous un jour favorable : mais en les examinant avec attention et sans partialite, on trouve beaucoup a rabattre des avantages qu'elles semblent presenter d'abord.
+C'est donc une chose bien merveilleuse que d'avoir mis les hommes dans l'impossibilite de vivre entr'eux sans se prevenir, se supplanter, se tromper, se trahir, se detruire mutuellement ! II faut desormais se garder de nous laisser jamais voir tels que nous sommes : car pour deux hommes dont les interets s'accordent, cent mille peut-etre leur sont opposes, et il n'y a d'autre moyen pour reussir que de tromper ou perdre tous ces gens-la. Voila la source funeste des violences, des trahisons, des perfidies, de toutes les horreurs qu'exige necessairement un etat de choses ou chacun feignant de travailler a la fortune ou a la reputation des autres, ne cherche qu'a elever la sienne au-dessus d'eux et a leurs depens.
+Qu'avons-nous gagne a cela ? Beaucoup de babil, des riches et des raisonneurs, c'est-a-dire, des ennemis de la vertu et du sens-commun. En revanche, nous avons perdu l'innocence et les moeurs. La foule rampe dans la misere ; tous sont les esclaves du vice. Les crimes non commis sont deja dans le fond des coeurs, et il ne manque a leur execution que l'assurance de l'impunite. Etrange et funeste constitution ou les richesses accumulees facilitent toujours les moyens d'en accumuler de plus grandes, et ou il est impossible a celui qui n'a rien d'acquerir quelque chose ; ou l'homme de bien n'a nul moyen de sortir de la misere ; ou les plus fripons sont les plus honores et qu'il faut necessairement renoncer a la vertu pour devenir un honnete homme ! Je sais que les declamateurs ont dit cent fois tout cela ; mais ils le disaient en declamant, et moi je le dis sur des raisons ; ils ont apercu le mal, et moi j'en decouvre les causes, et je fais voir surtout une chose tres consolante et tres utile en montrant que tous ces vices n'appartiennent pas tant a l'homme, qu'a l'homme mal gouverne.
+Telles sont les verites que j'ai developpees et que j'ai tache de prouver dans les divers ecrits que j'a publies sur cette matiere. Voici maintenant les conclusions que j'en ai tirees.
+La science n'est point faite pour l'homme en general. Il s'egare sans cesse dans sa recherche ; et s'il l'obtient quelquefois, ce n'est presque jamais qu'a son prejudice. Il est ne pour agir et penser, et non pour reflechir. La reflexion ne sert qu'a le rendre malheureux sans le rendre meilleur ni plus sage : elle lui fait regretter les biens passes et l'empeche de jouir du present : elle lui presente l'avenir heureux pour le seduire par l'imagination et le tourmenter par les desirs, et l'avenir malheureux pour le lui faire sentir d'avance. L'etude corrompt ses moeurs, altere sa sante, detruit son temperament, et gate souvent sa raison ; si elle lui apprenait quelque chose, je le trouverais encore fort mal dedommage.
+J'avoue qu'il y a quelques genies sublimes qui savent penetrer a travers les voiles dont la verite s'enveloppe ; quelques ames privilegiees, capables des resister a la betise de la vanite, a la basse jalousie, et aux autres passions qu'engendre le gout des Lettres. Le petit nombre de ceux qui ont le bonheur de reunir ces qualites, est la lumiere et l'honneur du genre-humain ; c'est a eux seuls qu'il convient pour le bien de tous de s'exercer a l'etude, et cette exception meme confirme la regle ; car si tous les hommes etaient des Socrates, la science alors ne leur serait pas nuisible, mais ils n'auraient aucun besoin d'elle.
+Tout peuple qui a des moeurs, et qui par consequent respect ses lois et ne veut point raffiner sur ses anciens usages, doit le garantir avec soin des sciences, et surtout des savants, dont les maximes sentencieuses et dogmatiques lui apprendraient bientot a mepriser ses usages et ses lois ; ce qu'une nation ne peut jamais faire sans se corrompre. Le moindre changement dans les coutumes, fut-il meme avantageux a certains egards, tourne toujours au prejudice des moeurs. Car les coutumes sont la morale du peuple ; et des qu'il cesse de les respecter, il n'a plus de regle que ses passions ni de frein que les lois, qui peuvent quelquefois contenir les mechants, mais jamais les rendre bons. D'ailleurs, quand la philosophe a une fois appris au peuple a mepriser ses coutumes, il trouve bientot le secret d'eluder ses lois. Je dis donc qu'il en est des moeurs d'un peuple comme de l'honneur d'un homme ; c'est un tresor qu'il faut conserver, mais qu'on ne recouvre plus quand on l'a perdu.
+Mais quand un peuple est une fois corrompu a un certain point, soit que les sciences y aient contribue ou non, faut-il les bannir ou l'en preserver pour le rendre meilleur ou pour l'empecher de devenir pire ? C'est une autre question dans laquelle je me suis positivement declare pour la negative. Car premierement, puisqu'un peuple vicieux ne revient jamais a la vertu, il ne s'agit pas de rendre bons ceux qui ne le sont plus, mais de conserver tels ceux qui ont le bonheur de l'etre. En second lieu, les memes causes qui ont corrompu les peuples servent quelquefois a prevenir une plus grande corruption ; c'est ainsi que celui qui s'est gate le temperament par un usage indiscret de la medecine, est force de recourir encore aux medecins pour se conserver en vie ; c'est ainsi que les arts et les sciences apres avoir fait eclore les vices, sont necessaires pour les empecher de se tourner en crimes ; elles les couvrent au moins d'un vernis qui ne permet pas au poison de s'exhaler aussi librement. Elles detruisent la vertu, mais elles en laissent le simulacre public qui est toujours une belle chose. Elles introduisent a sa place la politesse et les bienseances, et a la crainte de paraitre mechant, elles substituent celle de paraitre ridicule.
+Mon avis est donc, et je l'ai deja dit plus d'une fois, de laisser subsister et meme d'entretenir avec soin les l'academies, les colleges, les universites, les bibliotheques, les spectacles, et tous les autres amusements qui peuvent faire quelque diversion a la mechancete des hommes, et les empecher d'occuper leur oisivete a des choses plus dangereuses. Car dans une contree ou il ne serait plus question d'honnetes gens ni de bonnes moeurs, il vaudrait encore mieux vivre avec des fripons qu'avec des brigands.
+Je demande maintenant ou est la contradiction de cultiver moi-meme des gouts dont j'approuve le progres ? Il ne s'agit plus de porter les peuples a bien faire, il faut seulement les distraire de faire le mal ; il faut les occuper a des niaiseries pour les detourner des mauvaises actions ; il faut les amuser au lieu de les precher. Si mes Ecrits ont edifie le petit nombre des bons, je leur ai fait tout le bien qui dependait de moi, et c'est peut-etre les servir utilement encore que d'offrir aux autres des objets de distraction qui les empechent de songer a eux. Je m'estimerais trop heureux d'avoir tous les jours une Piece a faire siffler, si je pouvais a ce prix contenir pendant deux heures les mauvais desseins d'un seul des Spectateurs, et sauver l'honneur de la fille ou de la femme de son ami, le secret de son confident, ou la fortune de son creancier. Lorsqu'il n'y a plus de moeurs, il ne faut songer qu'a la police ; et l'on fait assez que la Musique et les spectacles en sont un des plus importants objets.
+S'il reste quelque difficulte a ma justification, j'ose le dire hardiment, ce n'est vis-a-vis ni du public ni de mes adversaires ; c'est vis-a-vis de moi seul : car ce n'est qu'en m'observant moi-meme que je puis juger si je dois me compter dans le petit nombre, et si mon ame est en etat de soutenir le faix des exercices litteraires. J'en ai senti plus d'une fois le danger ; plus d'une fois je les ai abandonnes dans le dessein de ne les plus reprendre, et renoncant a leur charme seducteur, j'ai sacrifie a la paix de mon coeur les seuls plaisirs qui pouvaient encore le flatter. Si dans les langueurs qui m'accablent, si sur la fin d'une carriere penible et douloureuse, j'ai ose les reprendre encore quelques moments pour charmer mes maux, je crois au moins n'y avoir mis ni allez d'interet ni assez de pretention, pour meriter a cet egard les justes reproches que j'ai faits aux gens de Lettres.
+Il me fallait une epreuve pour achever la connaissance de moi-meme, et je l'ai faite sans balancer. Apres avoir reconnu la situation de mon ame dans les succes litteraires, il me redoit a l'examiner dans les revers. Je sais maintenant qu'en penser, et je puis mettre le public au pire. Ma piece a eu le fort qu'elle meritait et que j'avais prevu ; mais, a l'ennui pres qu'elle m'a cause, je suis sorti de la representation bien plus content de moi et a plus juste titre que si elle eut reussi.
+Je conseille donc a ceux qui sont si ardents a chercher des reproches a me faire, de vouloir mieux etudier mes principes et mieux observer ma conduite, avent que de m'y taxer de contradiction et d'inconsequence. S'ils s'apercoivent jamais que je commence a briguer les suffrages du public, ou que je tire vante d'avoir fait de jolies chansons, ou que je rougisse d'avoir ecrit de mauvaises Comedies, ou que je cherche a nuire a la gloire de mes concurrents, ou que j'affecte de mal parler des grands hommes de mon siecle pour tacher de m'elever a leur niveau en les rabaissant au mien, ou que j'aspire a des places d'Academie, ou que j'aille faire ma cour aux femmes qui donnent le ton, ou que j'encense la sottise des grands, ou que cessant de vouloir vivre du travail de mes mains, je tienne a ignominie le metier que je me suis choisi et fasse des pas vers la fortune, s'ils remarquent en un mot que l'amour de la reputation me fasse oublier celui de la vertu, je les prie de m'en avertir et meme publiquement, et je leur promets de jeter a l'instant au feu mes ecrits et mes Livres, et de convenir de toutes les erreurs qu'il leur plaira de me reprocher.
+En attendant, j'ecrirai des livres, je ferai des vers et de la musique, si j'en ai le talent, le temps, la force et la volonte, je continuerai a dire tres franchement tout le mal que je pense des Lettres et de ceux qui les cultivent, et croirai n'en valoir pas moins pour cela. Il est vrai qu'on pourra dire quelque jour : Cet ennemi si declare des sciences et des arts, fit pourtant et publia des pieces de theatre ; et ce discours sera, je l'avoue, une satire tres amere, non de moi, mais de mon siecle.
+
+ACTEURS
+LISIMON.
+VALERE, enfant de Lisimon.
+LUCINDE, enfant de Lisimon.
+LEANDRE, frere d'Angelique, pupille de Lisimon.
+ANGELIQUE, soeur de Leandre, pupille de Lisimon.
+MARTON, suivante.
+FRONTIN, valet de Valere.
+La Scene est dans l'appartement de Valere.
+
+
+
+			
+
+
+SCENE PREMIERE. Lucinde, Marton.
+LUCINDE.
+Je viens de voir frere se promener dans le jardin, hatons-nous, avant son retour, de placer son portrait sur sa toilette.
+MARTON.
+Le voila, Mademoiselle, change dans ses ajustements de maniere a le rendre meconnaissable. Quoiqu'il soit le plus joli homme du monde, il brille ici en femme encore avec de nouvelles graces.
+LUCINDE.
+Valere est, par sa delicatesse et par l'affectation de sa parure, une espece de femme cachee sous des habits d'homme, et ce portrait, ainsi travesti, semble moins le deguiser que le rendre a son etat naturel.
+MARTON.
+Eh bien, ou est le mal ? Puisque les femmes aujourd'hui cherchent a se rapprocher des hommes, n'est-il pas convenable que ceux-ci fassent la moitie du chemin, et qu'ils tachent de gagner en agrements autant qu'elles en solidite ? Grace a la mode, tout s'en mettra plus aisement de niveau.
+LUCINDE.
+Je ne puis me faire a des modes aussi ridicules. Peut-etre notre sexe aura-t-il le bonheur de n'en plaire pas moins, quoiqu'il devienne plus estimable. Mais pour les hommes, je plains leur aveuglement. Que pretend cette jeunesse etourdie en usurpant tous nos droits ? Esperent-ils de mieux plaire aux femmes en s'efforcant de leur ressembler ?
+MARTON.
+Pour celui-la, ils auraient torts, et les femmes se haissent trop mutuellement pour aimer ce qui leur ressemble. Mais revenons au portrait. Ne craignez-vous point que cette petite raillerie ne fache Monsieur le Chevalier ?
+LUCINDE.
+Non, Marton ; mon frere est naturellement bon, il est meme raisonnable, a son defaut pres. Il sentira qu'en lui faisant par ce portrait un reproche muet et badin, je ne songe qu'a le guerir d'un travers qui choque jusqu'a cette tendre Angelique, cette aimable pupille de mon pere que Valere epouse aujourd'hui. C'est lui rendre service que de corriger les defauts de son amant, et tu sais combien j'ai besoin des soins de cette chere amie pour me delivrer de Leandre, son frere, que mon pere veut aussi me faire epouser.
+MARTON.
+Si bien que ce jeune inconnu, ce Cleonte que vous vites l'ete dernier a Passy, vous tient toujours fort au coeur ?
+LUCINDE.
+Je ne m'en defends point ; je compte meme sur la parole qu'il m'a donne de reparaitre bientot, et sur la promesse que m'a faite Angelique d'engager son frere a renoncer a moi.
+MARTON.
+Bon, renoncer ! Songez que vos yeux auront plus de force pour ferrer cet engagement, qu'Angelique n'en saurait avoir pour le rompre.
+LUCINDE.
+Sans disputer sur tes flatteries, je te dirai que comme Leandre ne m'a jamais vue, il sera aise a sa soeur de le prevenir, et de lui faire entendre que ne pouvant etre heureux avec une femme dont le coeur est engage ailleurs, il ne saurait mieux faire que de s'en degager par un refus honnete.
+MARTON.
+Un refus honnete ! Ah ! Mademoiselle, refuser une femme faite comme vous avec quarante mille ecus, c'est une honnetete dont jamais Leandre ne sera capable. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si elle savait que Leandre et Cleonte ne sont que la meme personne, un tel refus changerait bien d'epithete.
+LUCINDE.
+Ah ! Marton, j'entends du bruit ; cachons vite ce portrait. C'est, sans doute, mon frere qui revient, et en nous amusant a jaser, nous nous sommes ote le loisir d'executer notre projet.
+MARTON.
+Non, c'est Angelique.
+SCENE II. Angelique, Lucinde, Marton.
+ANGELIQUE.
+Ma chere Lucinde, vous savez avec quelle repugnance je me pretai a votre projet quand vous fites changer la parure du portrait de Valere en des ajustements de femme. A present que je vous vois prete a l'executer, je tremble que le deplaisir de se voir jouer indispose contre nous. Renoncons, je vous prie, a ce frivole badinage. Je sens que je ne puis trouver de gout a m'egayer au risque du repos de mon coeur.
+LUCINDE.
+Que vous etes timide ! Valere vous aime trop pour prendre en mauvaise part tout ce qui lui viendra de la votre, tant que vous ne serez que sa maitresse. Songez que vous n'avez plus qu'un jour a donner carriere a vos fantaisies, et que le tour des siennes ne viendra que trop tot. D'ailleurs, il est question de le guerir d'un faible qui l'expose a la raillerie, et voila proprement l'ouvrage d'une maitresse. Nous pouvons corriger les defauts d'un amant. Mais, helas !  Il faut supporter ceux d'un mari.
+ANGELIQUE.
+Que lui trouvez-vous apres tout de si ridicule ? Puisqu'il est aimable, a-t-il si grand tort de s'aimer, et ne lui en donnons-nous pas l'exemple ? Il cherche a plaire. Ah ! Si c'est un defaut, quelle vertu plus charmante un homme pourrait-il apporter dans la societe !
+MARTON.
+Surtout, dans la societe des femmes.
+ANGELIQUE.
+Enfin, Lucinde, si vous m'en croyez, nous supprimerons et le portrait, et tout cet air de raillerie qui peut aussi bien passer pour une insulte que pour une correction.
+LUCINDE.
+Oh ! Non. Je ne perds pas ainsi les frais de mon industrie. Mais je veux bien courir seule les risques d'un succes, et rien ne vous oblige d'etre complice dans une affaire dont vous pouvez n'etre que temoin.
+MARTON.
+Belle distinction !
+LUCINDE.
+Je me rejouis de voir la contenance de Valere. De quelque maniere qu'il prenne la chose, cela fera toujours une scene assez plaisante.
+MARTON.
+J'entends. Le pretexte est de corriger Valere : mais le vrai motif est de rire a ses depens. Voila le genie et le bonheur des femmes. Elles corrigent souvent les ridicules en ne songeant qu'a s'en amuser.
+ANGELIQUE.
+Enfin, vous le voulez, mais je vous avertis que vous me repondrez de l'evenement.
+LUCINDE.
+Soit.
+ANGELIQUE.
+Depuis que nous sommes ensemble, vous m'avez fait cent pieces dont je vous dois la punition. Si cette affaire-ci me cause la moindre tracasserie avec Valere, prenez garde a vous.
+LUCINDE.
+Oui, oui.
+ANGELIQUE.
+Songez un peu a Leandre.
+LUCINDE.
+Ah !  Ma chere Angelique.
+ANGELIQUE.
+Oh, si vous me brouillez avec votre frere, je vous jure que vous epouserez le mien. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Marton, vous m'avez promis le secret.
+MARTON, bas.
+Ne craignez rien.
+LUCINDE.
+Enfin, je...
+MARTON.
+J'entends la voix du Chevalier. Prenez au plus tot votre parti, a moins que vous ne vouliez lui donner un cercle de filles a sa toilette.
+LUCINDE.
+Il faut bien eviter qu'il nous apercoive. Elle met le portrait sur la toilette. Voila le piege tendu.
+MARTON.
+Je veux un peu guetter mon homme pour voir.
+LUCINDE.
+Paix. Sauvons nous.
+ANGELIQUE.
+Que j'ai de mauvais pressentiments de tout ceci !
+SCENE III. Valere, Frontin.
+VALERE.
+Sangaride, ce jour est un grand jour vous.
+FRONTIN.
+Sangaride ; c'est-a-dire, Angelique. Oui, c'est un grand jour que celui de la noce, et qui meme allonge diablement tous ceux qui le suivent.
+VALERE.
+Que je vais gouter de plaisir a rendre Angelique heureuse !
+FRONTIN.
+Auriez-vous envie de la rendre veuve ?
+VALERE.
+Mauvais plaisant. Tu sais a quel point je l'aime. Dis-moi, que connais-tu qui puisse manquer a sa felicite ? Avec beaucoup d'amour, quelque peu d'esprit, et une figure, comme tu vois, on peut, je pense, se tenir toujours assez sur de plaire.
+FRONTIN.
+La chose est indubitable, et vous en avez fait sur vous-meme la premiere experience.
+VALERE.
+Ce que je plains en tout cela, c'est je ne sais combien de petites personnes que mon mariage sera secher de regret, qui vont ne savoir plus que faire de leur coeur.
+FRONTIN.
+Oh ! Que si. Celles qui vous ont aime, par exemple, s'occuperont a bien detester votre chere moitie. Les autres... Mais ou diable les prendre, ces autres-la ?
+VALERE.
+La matinee s'avance ; il est temps de m'habiller pour aller voir Angelique. Allons. Il se met a sa toilette. Comment me trouves-tu ce matin ? Je n'ai point de feu dans les yeux ; j'ai le teint battu ; il semble que je ne suis point a l'ordinaire.
+FRONTIN.
+A l'ordinaire ! Non, vous etes seulement a votre ordinaire.
+VALERE.
+C'est une fort mechante habitude que l'usage du rouge ; a la fin je ne pourrai m'en passer, et je serai du dernier mal sans cela. Ou est donc ma boite a mouches ? Mais que vois-je la ? Un portrait.... Ah ! Frontin ; le charmant objet... Ou as-tu pris ce portrait ?
+FRONTIN.
+Moi ? Je veux etre perdu si je sais de quoi vous me parlez.
+VALERE.
+Quoi ! Ce n'est pas toi qui a mis ce portrait sur ma toilette ?
+FRONTIN.
+Non, que je meure.
+VALERE.
+Qui serait-ce donc ?
+FRONTIN.
+Ma foi, je n'en sais rien. Ce ne peut etre que le diable ou vous.
+VALERE.
+A d'autres. On t'a paye pour te taire... Sais-tu bien que la comparaison de cet objet nuit a Angelique ? Voila d'honneur, la plus jolie figure que j'aie vue de ma vie. Quels yeux, Frontin... Je crois qu'ils ressemblent aux miens.
+FRONTIN.
+C'est tout dire.
+VALERE.
+Je lui trouve beaucoup de mon air. Elle est, ma foi, charmante... Ah ! Si l'esprit soutient tout cela... Mais son gout me repond de son esprit. La friponne est connaisseuse en merite !
+FRONTIN.
+Que diable ! Voyons donc toutes ces merveilles.
+VALERE.
+Tiens, tiens. Penses-tu me duper avec ton air niais ? Me crois-tu novice en aventures ?
+FRONTIN.
+Ne me trompe-je point ! C'est lui... c'est lui-meme. Comme le voila pare ! Que de fleurs ! Que de pompons ! C'est sans doute quelque tour de Lucinde ; Marton y sera tout au moins de moitie. Ne troublons point leur badinage. Mes discretions precedentes m'ont coute trop cher.
+VALERE.
+He bien ? Monsieur Frontin reconnaitrait-il l'original de cette peinture ?
+FRONTIN.
+Pouh ! Si je le connais ! Quelques centaines de coups de pied au cul, et autant de soufflets que j'ai eu l'honneur d'en recevoir en detail, ont bien cimente la connaissance.
+VALERE.
+Une fille, des coups de pied ! Cela est un peu gaillard.
+FRONTIN.
+Ce sont de petites impatiences domestiques qui la prennent a propos de rien.
+VALERE.
+Comment ? L'aurais-tu servie ?
+FRONTIN.
+Oui, Monsieur ; et j'ai meme l'honneur d'etre toujours son tres humble serviteur.
+VALERE.
+Il serait assez plaisant qu'il y eut dans Paris une jolie qui ne fut pas de ma connaissance ! Parle-moi sincerement. L'original est-il aussi aimable que le portrait ?
+FRONTIN.
+Comment, aimable ! Savez-vous, Monsieur, que si quelqu'un pouvait approcher de vos perfections, je ne trouverais qu'elle seule a vous comparer.
+VALERE, considerant le portrait. 
+Mon coeur n'y resiste pas... Frontin, dis-moi le nom de cette belle.
+FRONTIN, a part.
+Ah ! Ma foi, me voila pris sans verd.
+VALERE.
+Comment s'appelle-t-elle ? Parle donc.
+FRONTIN.
+Elle s'appelle... elle s'appelle... elle ne s'appelle point. C'est une fille anonyme, comme tant d'autres.
+VALERE.
+Dans quels tristes soupcons me jette ce coquin ! Se pourrait-il que des traits aussi charmants ne fussent que ceux d'une grisette ?
+FRONTIN.
+Pourquoi non ? La beaute se plait a parer des visages qui ne tirent leur fierte que d'elle.
+VALERE.
+Quoi, c'est...
+FRONTIN.
+Une petite personne bien coquette, bien minaudiere, bien vaine sans grand sujet de l'etre : en un mot, un vrai petit-maitre femelle.
+VALERE.
+Voila comment ces faquins de valets parlent des gens qu'ils ont servis. Il faut voir cependant. Dis-moi ou elle demeure ?
+FRONTIN.
+Bon, demeurer ? Est-ce que cela demeure jamais ?
+VALERE.
+Si tu m'impatiente... Ou loge-t-elle, maraud ?
+FRONTIN.
+Ma foi, Monsieur, a ne vous point mentir, vous le savez tout aussi bien que moi.
+VALERE.
+Comment ?
+FRONTIN.
+Je vous jure que je ne connais pas mieux que vous l'original de ce portrait.
+VALERE.
+Ce n'est pas toi qui l'as place la ?
+FRONTIN.
+Non, la peste m'etouffe.
+VALERE.
+Ces idees que tu m'en as donnees...
+FRONTIN.
+Ne voyez-vous pas que vous me les fournissiez vous-meme ? Est-ce qu'il y a quelqu'un dans le monde aussi ridicule que cela ?
+VALERE.
+Quoi ! Je ne pourrai decouvrir d'ou vient ce portrait ? Le mystere et la difficulte irritent mon empressement. Car, je te l'avoue, j'en suis tres reellement epris. 
+FRONTIN, a part.
+La chose est impayable ! Le voila amoureux de lui-meme.
+VALERE.
+Cependant, Angelique, la charmante Angelique ... En verite, je ne comprends rien a mon coeur, et je veux voir cette nouvelle maitresse avant que de rien determiner sur mon mariage.
+FRONTIN.
+Comment, Monsieur ? Vous ne... Ah ! Vous vous moquez.
+VALERE.
+Non, je te dis tres serieusement que je ne saurais offrir ma main a Angelique, tant que l'incertitude de mes sentiments sera un obstacle a notre bonheur mutuel. Je ne puis l'epouser aujourd'hui ; c'est un point resolu.
+FRONTIN.
+Oui, chez vous. Mais Monsieur votre pere qui a fait aussi ses petites resolutions a part est l'homme du monde le moins propre a ceder aux votres ; vous savez que son faible n'est pas la complaisance.
+VALERE.
+Il faut la trouver a quelque prix que ce soit. Allons, Frontin, courons, cherchons partout.
+FRONTIN.
+Allons, courons, volons ; faisons l'inventaire et le signalement de toutes les jolies filles de Paris. Peste, le bon petit livre que nous aurions-la ! Livre rare, dont la lecture n'endormirait pas !
+VALERE.
+Hatons-nous. Vices achever de m'habiller.
+FRONTIN.
+Attendez, voici tout a propos Monsieur votre pere. Proposons-lui d'etre de la partie.
+VALERE.
+Tais-toi, bourreau. Le malheureux contretemps.
+SCENE IV. Lisimon, Valere, Frontin.
+LISIMON, qui doit toujours avoir le ton brusque. 
+He ben, mon fils ?
+VALERE.
+Frontin, un siege a Monsieur.
+LISIMON.
+Je veux rester debout. Je n'ai que deux mots a te dire.
+VALERE.
+Je ne saurais, Monsieur, vous ecouter que vous ne soyez assis.
+LISIMON.
+Que diable ! Il ne me plait pas, moi. Vous verrez que l'impertinent fera des compliments avec son pere.
+VALERE.
+Le respect...
+LISIMON.
+Oh ! Le respect consiste a m'obeir et a ne me point gener. Mais, qu'est-ce ? Encore en deshabille ? Un jour de noces ? Voila qui est joli ! Angelique n'a donc point encore recu ta visite ?
+VALERE.
+J'achevais de me coiffer, et j'allais m'habiller pour me presenter decemment devant elle.
+LISIMON.
+Faut-il tant d'appareil pour nouer des cheveux et mettre un habit. Parbleu, dans ma jeunesse, nous usions mieux du temps et sans perdre les trois quarts de la journee a faire la roue devant un miroir, nous savions a plus juste titre avancer nos affaires aupres des belles.
+VALERE.
+Il semble, cependant, que quand on veut etre aime, on ne saurait prendre trop de soin pour se rendre aimable, et qu'une parure si negligee ne devait pas annoncer des amants bien occupes du soin de plaire.
+LISIMON.
+Pure sottise. Un peu de negligence sied quelquefois bien quand on aime. Les femmes nous tenaient plus de compte de nos empressements que du temps que nous aurions perdu a notre toilette, et sans affecter tant de delicatesse dans la parure, nous en avions davantage dans le coeur. Mais laissons cela. J'avais pense a differer ton mariage jusqu'a l'arrivee de Leandre, afin qu'il eut le plaisir d'y assister, et que j'eusse, moi, celui de faire tes noces et celles de ta soeur en un meme jour.
+VALERE, bas.
+Frontin, quel bonheur !
+FRONTIN.
+Oui, un mariage recule ; c'est toujours autant de gagne sur le repentir.
+LISIMON.
+Qu'en dis-tu, Valere ? Il semble qu'il ne serait pas seant de marier la soeur sans attendre le frere, puisqu'il est en chemin.
+VALERE.
+Je dis, mon pere, qu'on ne peut rien de mieux penser.
+LISIMON.
+Ce delai ne te serait donc pas de peine ?
+VALERE.
+L'empressement de vous obeir surmontera toujours toutes mes repugnances.
+LISIMON.
+C'etait pourtant dans la crainte de te mecontenter que je ne te l'avais pas propose.
+VALERE.
+Votre volonte n'est pas moins la regle de mes desirs que celle de mes actions. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Frontin, quel bonhomme de pere !
+LISIMON.
+Je suis charme de te trouver si docile, tu en auras le merite a bon marche ; car, par une lettre que je recois a l'instant, Leandre m'apprend qu'il arrive aujourd'hui.
+VALERE.
+He bien, mon pere ?
+LISIMON.
+He bien, mon fils, par ce moyen rien ne sera derange.
+VALERE.
+Comment, vous voudriez le marier en arrivant ?
+FRONTIN.
+Marier un homme tout botte !
+LISIMON.
+Non pas cela ; puisque, d'ailleurs, Lucinde et lui ne s'etant jamais vus, il faut bien leur laisser le loisir de faire connaissance : mais il assistera au mariage de sa soeur, et je n'aurai pas la durete de faire languir un fils aussi complaisant.
+VALERE.
+Monsieur...
+LISIMON.
+Ne crains rien ; je connais et j'approuve trop ton empressement pour te jouer un aussi mauvais tour.
+VALERE.
+Mon pere... 
+LISIMON.
+Laissons cela, te dis-je, je devine tout ce que tu pourrais me dire.
+VALERE.
+Mais, mon pere... J'ai fait... Des reflexions...
+LISIMON.
+Des reflexions, toi ? J'avais tort. Je n'aurais pas devine celui-la. Sur quoi donc, s'il vous plait, roulent vos meditations sublimes ?
+VALERE.
+Sur les inconvenients du mariage.
+FRONTIN.
+Voila un texte qui fournit.
+LISIMON.
+Un sot peut reflechir quelquefois ; mais ce n'est jamais qu'apres la sottise. Je reconnais la mon fils.
+VALERE.
+Comment, apres la sottise ? Mais je ne suis pas encore marie.
+LISIMON.
+Apprenez, Monsieur le philosophe, qu'il n'y a nulle difference de ma volonte a l'acte. Vous pouviez moraliser quand je vous proposai la chose, et que vous en etiez vous-meme si empresse. J'aurais de bon coeur ecoute vos raisons. Car, vous savez si je suis complaisant.
+FRONTIN.
+Oh ! Oui monsieur, nous sommes la-dessus en etat de vous rendre justice.
+LISIMON.
+Mais aujourd'hui que tout est arrete, vous pouvez speculer a votre aise ; ce sera, s'il vous plait, sans prejudice de la noce.
+VALERE.
+La contrainte redouble ma repugnance. Songez, je vous supplie, a l'importance de l'affaire. Daignez m'accorder quelques jours...
+LISIMON.
+Adieu, mon fils ; tu seras marie ce soir, ou tu m'entends... Comme j'etais la dupe de la fausse deference du pendard !
+SCENE V. Valere, Frontin.
+VALERE.
+Ciel ! Dans quelle peine me jette son inflexibilite !
+FRONTIN.
+Oui, marie ou desherite ! Epouser une femme ou la misere ! On balancerait a moins.
+VALERE.
+Moi, balancer ! Non ; mon choix etait encore incertain ; l'opiniatrete de mon pere l'a determine.
+FRONTIN.
+En faveur d'Angelique ?
+VALERE.
+Tout au contraire.
+FRONTIN.
+Je vous felicite, Monsieur, d'une resolution aussi heroique. Vous allez mourir de faim en digne martyr de la liberte. Mais s'il etait question d'epouser le portrait ? Hem ! Le mariage ne vous paraitrait plus si affreux ?
+VALERE.
+Non ; mais si mon pere pretendait m'y forcer, je crois que j'y resisterais avec la meme fermete, et je sens que mon coeur me ramenerait vers Angelique sitot qu'on m'en voudrait eloigner.
+FRONTIN.
+Quelle docilite ! Si vous n'heritez pas des biens de Monsieur votre pere, vous heriterez au moins de ses vertus. Regardant le portrait. Ah !
+VALERE.
+Qu'as-tu ?
+FRONTIN.
+Depuis notre disgrace, ce portrait me semble avoir pris une physionomie famelique, un certain air allonge.
+VALERE.
+C'est trop perdre de temps a des impertinences. Nous devrions deja avoir couru la moitie de Paris. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FRONTIN.
+Au train dont vous allez, vous courrez bientot les champs. Attendons, cependant, le denouement de tout ceci ; et pour feindre de mon cote une recherche imaginaire, allons-nous cacher dans un cabaret.
+SCENE VI. Angelique, Marton.
+MARTON.
+Ah ! Ah, ah, ah ! La plaisante scene ? Qui l'eut jamais prevue ? Que vous avez perdu, Mademoiselle, a n'etre point ici cachee avec moi quand il s'est si bien epris de ses propres charmes !
+ANGELIQUE.
+Il s'est vu par mes yeux.
+MARTON.
+Quoi ! Vous auriez la faiblesse de conserver des sentiments pour un homme capable d'un pareil travers ?
+ANGELIQUE.
+Il te parait donc bien coupable ! Qu'a-t-on, cependant, a lui reprocher que le vice universel de son age ? Ne crois pas pourtant qu'insensible a l'outrage du Chevalier, je souffre qu'il me prefere ainsi le premier visage qui le frappe agreablement. J'ai trop d'amour pour n'avoir pas de la delicatesse, et Valere me sacrifiera ses folies des ce jour, ou je sacrifierai mon amour a ma raison.
+MARTON.
+Je crains bien que l'un ne soit aussi difficile que l'autre.
+ANGELIQUE.
+Voici Lucinde. Mon frere doit arriver aujourd'hui. Prends bien garde qu'elle ne le soupconne d'etre son inconnu jusqu'a ce qu'il en soit temps.
+SCENE VII. Lucinde, Angelique, Marton.
+MARTON.
+Je gage, Mademoiselle, que vous ne devineriez jamais quel a ete l'effet du portrait ? Vous en rirez surement.
+LUCINDE.
+Eh ! Marron, laissons-la le portrait ; j'ai bien d'autres choses en tete. Ma chere Angelique, je suis desolee, je suis mourante. Voici l'instant ou j'ai besoin de tout votre secours. Mon pere vient de m'annoncer l'arrivee de Leandre. Il veut que je me dispose a le recevoir aujourd'hui et a lui donner la main dans huit jours.
+ANGELIQUE.
+Que trouvez-vous donc-la de si terrible ?
+MARTON.
+Comment, terrible !  Vouloir marier une belle personne de dix-huit ans avec un homme de vingt-deux, riche et bienfait !  La verite, cela fait peur, et il n'y a point de fille en age de raison a qui l'idee d'un tel mariage ne donnat la fievre.
+LUCINDE.
+Je ne veux rien cacher ; j'ai recu en meme temps une lettre de Cleonte ; il sera incessamment a Paris ; il va faire agir aupres de mon pere ; il me conjure de differer mon mariage : enfin, il m'aime toujours. Ah, ma chere, serez-vous insensible aux alarmes de mon coeur et cette amitie que vous m'avez juree...
+ANGELIQUE.
+Plus cette amitie m'est chere, et plus je dois souhaiter d'en voir resserrer les noeuds par votre mariage avec mon frere. Cependant, Lucinde, votre repos est le premier de mes desirs, et mes voeux sont encore plus conformes aux votres que vous ne pensez.
+LUCINDE.
+Daignez donc vous rappeler vos promesses. Faites bien comprendre a Leandre que mon coeur ne saurait etre a lui, que...
+MARTON.
+Mon Dieu ! Ne jurons de rien. Les hommes ont tant de ressources et les femmes tant d'inconstance, que si Leandre se mettait bien dans la tete de vous plaire, qu'il en viendrait a bout malgre vous.
+LUCINDE.
+Marton !
+MARTON.
+Je ne lui donne pas deux jours pour supplanter votre inconnu sans vous en laisser meme le moindre regret.
+LUCINDE.
+Allons, continuez... Chere Angelique, je compte sur vos soins ; et dans le trouble qui m'agite, je cours tout tenter aupres de mon pere pour differer, s'il est possible, un hymen que la preoccupation de mon coeur me fait envisager avec effroi. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ANGELIQUE.
+Je devrais l'arreter. Mais Lisimon n'est pas un homme a ceder aux sollicitations de sa fille, et toutes ses prieres ne feront qu'affermir ce mariage qu'elle-meme souhaite d'autant plus qu'elle parait le craindre. Si je me plais a jouir pendant quelques instants de ses inquietudes, c'est pour lui en rendre l'evenement plus doux. Quelle autre vengeance pourrait etre autorisee par l'amitie ?
+MARTON.
+Je vais la suivre ; et sans trahir notre secret, l'empecher, s'il se peut, de faire quelque folie.
+SCENE VIII.
+ANGELIQUE.
+Insensee que je suis ! Mon esprit s'occupe a des badineries pendant que j'ai tant d'affaires avec mon coeur. Helas ! Peut-etre qu'en ce moment Valere confirme son infidelite. Peut etre qu'instruit de tout et honteux de s'etre laisse surprendre, il offre par depit son coeur a quelque autre objet. Car voila les hommes ; ils ne se vengent jamais avec plus d'emportement que quand ils ont le plus de tort. Mais le voici, bien occupe de son portrait.
+SCENE IX. Angelique, Valere.
+VALERE, sans voir Angelique.
+Je cours sans savoir ou je dois chercher cet objet charmant. L'amour ne guidera-t-il point mes pas ?
+ANGELIQUE, a part.
+Ingrat ! Il ne les conduit que trop bien.
+VALERE.
+Ainsi l'amour a toujours ses peines. Il faut que je les eprouve a chercher la beaute que j'aime, ne pouvant en trouver a me faire aimer.
+ANGELIQUE, a part.
+Quelle impertinence ! Helas ! Comment peut-on etre si fat et si aimable tout a la fois ?
+VALERE.
+Il faut attendre Frontin ; il aura peut-etre mieux reussi. En tout cas, Angelique m'adore...
+ANGELIQUE, a part.
+Ah, traitre ! Tu connais trop mon faible.
+VALERE.
+Apres tout, je sens toujours que je ne perdrai rien aupres d'elle : le coeur, les appas, tout s'y trouve.
+ANGELIQUE, a part.
+Il me sera l'honneur de m'agreer pour son pis-aller.
+VALERE.
+Que j'eprouve de bizarrerie dans mes sentiments ! Je renonce a la possession d'un objet charmant et auquel, dans le fond, mon penchant me ramene encore. Je m'expose a la disgrace de mon pere pour m'enteter d'une belle, peut-etre indigne de mes soupirs, peut-etre imaginaire, sur la seule foi d'un portrait tombe des nues et flatte a coup sur. Quel caprice ! Quelle folie ! Mais quoi ! La folie et les caprices ne sont-ils pas le relief d'un homme aimable ? Regardant le portrait. Que de graces !... Quels traits !... Que cela est enchante ! Que cela est divin ! Ah ! Qu'Angelique ne se flatte pas de soutenir la comparaison avec tant de charmes.
+ANGELIQUE, saisissant le portrait.
+Je n'ai garde assurement. Mais qu'il me soit permis de partager votre admiration. La connaissance des charmes de cette heureuse rivale adoucira du moins la honte de ma defaite.
+VALERE.
+O ciel !
+ANGELIQUE.
+Qu'avez-vous donc ? Vous paraissez tout interdit. Je n'aurais jamais cru qu'un petit-maitre soit si aise a decontenancer.
+VALERE.
+Ah ! Cruelle, vous connaissez tout l'ascendant que vous avez sur moi, et vous m'outragez sans que je puisse repondre.
+ANGELIQUE.
+C'est fort mal fait, en verite ; et regulierement vous devriez me dire des injures. Allez, Chevalier, j'ai pitie de votre embarras. Voila votre portrait ; et je suis d'autant moins fachee que vous en aimiez l'original, que vos sentiments sont sur ce point tout a fait d'accord avec les miens.
+VALERE.
+Quoi ! Vous connaissez la personne ?
+ANGELIQUE.
+Non seulement je la connais, mais je puis vous dire qu'elle est ce que j'ai de plus cher au monde.
+VALERE.
+Vraiment, voici du nouveau, et le langage est un peu singulier dans la bouche d'une rivale.
+ANGELIQUE.
+Je ne sais ! Mais il est sincere. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)S'il se pique, je triomphe.
+VALERE.
+Elle a donc bien du merite ?
+ANGELIQUE.
+Il ne tient qu'a elle d'en avoir infiniment.
+VALERE.
+Point de defaut, sans doute.
+ANGELIQUE.
+Oh ! Beaucoup. C'est une petite personne bizarre, capricieuse, eventee, etourdie, volage, et surtout d'une vanite insupportable. Mais quoi ! Elle est aimable avec tout cela, et je predis d'avance que vous l'aimerez jusqu'au tombeau.
+VALERE.
+Vous y consentez donc ?
+ANGELIQUE.
+Oui.
+VALERE.
+Cela ne vous fachera point ?
+ANGELIQUE.
+Non.
+VALERE, a part.
+Son indifference me desespere. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oserai-je me flatter qu'en ma saveur vous voudrez bien resserrer encore votre union avec elle.
+ANGELIQUE.
+C'est tout ce que je demande.
+VALERE, outre.
+Vous dites tout cela avec une tranquillite qui me charme.
+ANGELIQUE.
+Comment donc ? Vous vous plaigniez tout a l'heure de mon enjouement, et a present vous vous fachez de mon sang-froid. Je ne sais plus quel ton prendre avec vous.
+VALERE, bas. 
+Je creve de depit. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mademoiselle m'accorde-t-elle la faveur de me faire faire connaissance avec elle ?
+ANGELIQUE.
+Voila, par exemple, un genre de service que je suis bien sure que vous n'attendez pas de moi : mais je veux passer votre esperance, et je vous le promets encore.
+VALERE.
+Ce sera bientot, au moins ?
+ANGELIQUE.
+Peut-etre des aujourd'hui.
+VALERE.
+Je n'y puis plus tenir. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ANGELIQUE, a part.
+Je commence a bien augurer de tout ceci ; il a trop de depit pour n'avoir plus d'amour. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ou allez-vous, Valere ?
+VALERE.
+Je vois que ma presence vous gene, et je vais vous ceder la place.
+ANGELIQUE.
+Ah ! Point. Je vais me retirer moi-meme : il que n'est pas juste que je vous chasse de chez vous.
+VALERE.
+Allez, allez ; souvenez-vous que qui n'aime rien ne merite pas d'etre aime.
+ANGELIQUE.
+Il vaut encore mieux n'aimer rien que d'etre amoureux de soi-meme.
+SCENE X.
+VALERE.
+Amoureux de soi-meme ! Est-ce un crime de sentir un peu ce qu'on vaut ? Je suis cependant bien pique. Est-il possible qu'on perde un amant tel que moi sans douleur ? On dirait qu'elle me regarde comme un homme ordinaire. Helas ! Je me deguise en vain le trouble de mon coeur, et je tremble de l'aimer encore apres son inconstance. Mais non ; tout mon coeur n'est qu'a ce charmant objet. Courons tenter de nouvelles recherches, et joignons au soin de faire mon bonheur, celui d'exciter la jalouse d'Angelique. Mais voici Frontin.
+SCENE XI. Valere, Frontin, ivre.
+FRONTIN.
+Que diable ! Je ne fais, pourquoi je ne puis me tenir ; j'ai pourtant fait de mon mieux pour prendre des forces.
+VALERE.
+Eh bien, Frontin, as-tu trouve ?
+FRONTIN.
+Oh ! Oui, Monsieur.
+VALERE.
+Ah ? Ciel ! Serait-il possible ?
+FRONTIN.
+Aussi j'ai bien eu de la peine.
+VALERE.
+Hate-toi donc de me dire...
+FRONTIN.
+Il m'a fallu courir tous les cabarets du quartier.
+VALERE.
+Des cabarets !
+FRONTIN.
+Mais j'ai reussi au-dela de mes esperances.
+VALERE.
+Conte-moi donc...
+FRONTIN.
+C'etait un feu... Une mousse...
+VALERE.
+Que diable barbouille cet animal ?
+FRONTIN.
+Attendez que je reprenne la chose par ordre.
+VALERE.
+Tais-toi, ivrogne, faquin ; ou reponds-moi sur les ordres que je t'ai donnes au sujet de l'original du portrait.
+FRONTIN.
+Ah ! Oui, l'original. Justement. Rejouissez-vous, Rejouissez-vous, vous dis-je.
+VALERE.
+He bien ?
+FRONTIN.
+Il n'est deja ni a la Croix-blanche, ni au Lion-d'or, ni a la Pomme de pin, ni...
+VALERE.
+Bourreau, finiras-tu ?
+FRONTIN.
+Patience. Puisqu'il n'est pas-la, il faut qu'il soit ailleurs ; et... Oh ! Je le trouverai, je le trouverai...
+VALERE.
+Il me prend des demangeaisons de l'assommer ; sortons.
+SCENE XII.
+FRONTIN.
+Me voila, en effet, assez joli garcon... Ce plancher est diablement raboteux. Ou en etais-je ? Ma foi, je n'y suis plus. Ah ! Si fait...
+SCENE XIII. Lucinde, Frontin.
+LUCINDE.
+Frontin, ou est ton maitre ?
+FRONTIN.
+Mais, je crois qu'il se cherche actuellement.
+LUCINDE.
+Comment, il se cherche ?
+FRONTIN.
+Oui, il se cherche pour s'epouser.
+LUCINDE.
+Qu'est ce que c'est que ce galimatias ?
+FRONTIN.
+Ce galimatias ! Vous n'y comprenez donc rien ?
+LUCINDE.
+Non, en verite.
+FRONTIN.
+Ma foi, ni moi non plus : je vais pourtant vous l'expliquer, si vous voulez.
+LUCINDE.
+Comment m'expliquer ce que tu ne comprends pas ?
+FRONTIN.
+Oh ! Dame, j'ai fait mes etudes, moi.
+LUCINDE.
+Il est ivre, je crois. Eh ! Frontin, je t'en prie, rappelle un peu ton bon sens ; tache de te faire entendre.
+FRONTIN.
+Pardi rien n'est plus aise. Tenez. C'est un portrait... metamor... non, metaphor... oui, metaphorise. C'est mon maitre, c'est une fille... Vous avez fait un certain melange... Car j'ai devine tout ca, moi. He bien, peut-on parler plus clairement ?
+LUCINDE.
+Non, cela n'est pas possible.
+FRONTIN.
+Il n'y a que mon maitre qui n'y comprenne rien. Car il est devenu amoureux de sa ressemblance.
+LUCINDE.
+Quoi ! Sans se reconnaitre ?
+FRONTIN.
+Oui, et c'est bien ce qu'il y a d'extraordinaire.
+LUCINDE.
+Ah ! Je comprends tout le reste. Et qui pouvait prevoir cela ? Cours vite, mon pauvre Frontin, vole chercher ton maitre et dis-lui que j'ai les choses les plus pressantes a lui communiquer. Prends garde, surtout, de ne lui point parler de tes devinations. Tiens, voila pour...
+FRONTIN.
+Pour boire, n'est-ce pas ?
+LUCINDE.
+Oh non, tu n'en as pas de besoin.
+FRONTIN.
+Ce sera par precaution.
+SCENE XIV.
+LUCINDE.
+Ne balancons pas un instant, avouons tout ; et quoiqu'il m'en puisse arriver, ne souffrons pas qu'un frere si cher se donne en ridicule par les moyens memes que j'avais employes pour l'en guerir. Que je fuis malheureuse ! J'ai desoblige mon frere ; mon pere irrite de ma resistance n'en est que plus absolu ; mon amant absent n'est point en etat de me secourir ; je crains les trahisons d'une amie, et les precautions d'un homme que je ne puis souffrir : car je le hais surement, et je sens que je prefererais la mort a Leandre.
+SCENE XV. Angelique, Lucinde, Marton.
+ANGELIQUE.
+Consolez-vous, Lucinde, Leandre ne veut pas vous faire mourir. Je vous avoue, cependant, qu'il a voulu vous voir sans que vous le sussiez.
+LUCINDE.
+Helas ! Tant pis.
+ANGELIQUE.
+Mais savez-vous bien que voila un tant pis qui n'est pas trop modeste ?
+MARTON.
+C'est une petite veine du sang fraternel.
+LUCINDE.
+Mon Dieu, que vous etes mechantes ! Apres cela, qu'a-t-il dit ?
+ANGELIQUE.
+Il m'a dit qu'il serait au desespoir de vous obtenir contre votre gre.
+MARTON.
+Il a meme ajoute que votre resistance lui faisait plaisir en quelque maniere. Mais il a dit cela d'un certain air... Savez-vous qu'a bien juger de vos sentiments pour lui, je gagerais qu'il n'est guere en reste avec vous. Haissez-le toujours de meme, il ne vous rendra pas mal le change.
+LUCINDE.
+Voila une facon de m'obeir qui n'est pas trop polie.
+MARTON.
+Pour etre poli avec les autres femmes, il ne faut pas toujours etre si obeissant.
+ANGELIQUE.
+La seule condition qu'il a mise a sa renonciation est que vous recevrez sa visite d'adieu.
+LUCINDE.
+Oh, pour cela non ; je l'en quitte.
+ANGELIQUE.
+Ah ! Vous ne sauriez lui refuser cela. C'est d'ailleurs un engagement que j'ai pris avec lui. Je vous avertis meme confidemment qu'il compte beaucoup sur le succes de cette entrevue, et qu'il ose esperer qu'apres avoir paru a vos yeux vous ne resisterez plus cette alliance.
+LUCINDE.
+Il a donc bien de la vante.
+MARTON.
+Il se flatte de vous apprivoiser.
+ANGELIQUE.
+Et ce n'est que sur cet espoir qu'il a consenti au traite que je lui ai propose.
+MARTON.
+Je vous reponds qu'il n'accepte le marche que parce qu'il est bien sur que vous ne le prendrez pas au mot.
+LUCINDE.
+Il faut etre d'une fatuite bien insupportable. He bien, il n'a qu'a paraitre : je serai curieuse de voir comment il s'y prendra pour etaler ses charmes, et je vous donne ma parole qu'il sera recu d'un air... Faites le venir. Il a besoin d'une lecon ; comptez qu'il la recevra... instructive.
+ANGELIQUE.
+Voyez-vous, ma chere Lucinde, on ne tient pas tout ce qu'on se propose ; je gage que vous vous radoucirez.
+MARTON.
+Les hommes sont furieusement adroits ; vous verrez qu'on vous apaisera.
+LUCINDE.
+Soyez en repos la-dessus.
+ANGELIQUE.
+Prenez-y garde, au moins ; vous ne direz pas qu'on ne vous a point avertie.
+MARTON.
+Ce ne sera pas notre faute si vous vous laissez surprendre.
+LUCINDE.
+En verite, je crois que vous voulez me faire devenir folle.
+ANGELIQUE, bas a Marton. 
+La voila au point. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Puisque vous le voulez donc, Marton va vous l'amener.
+LUCINDE.
+Comment ?
+MARTON.
+Nous l'avons laisse dans l'antichambre, il va etre ici a l'instant.
+LUCINDE.
+O cher Cleonte ! Que ne peux-tu voir la maniere dont je recois tes rivaux.
+SCENE XVI. Angelique, Lucinde, Marton, Leandre.
+ANGELIQUE.
+Approchez, Leandre, venez apprendre a Lucinde a mieux connaitre son propre coeur ; elle croit vous hair, et va faire tous les efforts pour vous mal recevoir : mais je vous reponds, moi, que toutes ces marques apparentes de haine sont en effet autant de preuves reelles de son amour pour vous.
+LUCINDE, toujours sans regarder Leandre. 
+Sur ce pied-la, il doit s'estimer bien favorite, je vous assure ; le mauvais petit esprit !
+ANGELIQUE.
+Allons, Lucinde, faut-il que la colere vous empeche de regarder les gens ?
+LEANDRE.
+Si mon amour excite votre haine, connaissez combien je suis criminel. Il se jette aux genoux de Lucinde.
+LUCINDE.
+Ah ! Cleonte ! Ah ! Mechante Angelique !
+LEANDRE.
+Leandre vous a trop deplu pour que j'ose me prevaloir sous ce nom des graces que j'ai recues sous celui de Cleonte. Mais si le motif de mon deguisement en peut justifier l'effet, vous le pardonnerez a la delicatesse d'un coeur dont le faible est de vouloir etre aime pour lui-meme.
+LUCINDE.
+Levez-vous, Leandre ; un exces de delicatesse n'offense que les coeurs qui en manquent, et le mien est aussi content de l'epreuve que le votre doit l'etre du succes. Mais vous, Angelique ! Ma chere Angelique a eu la cruaute de se faire un amusement de mes peines ?
+ANGELIQUE.
+Vraiment il vous sierait bien de vous plaindre ! Helas ! Vous etes heureux l'un et l'autre, tandis que je suis en proie aux alarmes.
+LEANDRE.
+Quoi ! Ma chere soeur, vous avez songe a mon bonheur, pendant meme que vous aviez des inquietudes sur le votre. Ah ! C'est une bonte que je n'oublierai jamais. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVII. Leandre, Valere, Angelique, Lucinde, Marton.
+VALERE.
+Que ma presence ne vous gene point. Comment, Mademoiselle ? Je ne connaissais pas toutes vos conquetes ni l'heureux objet de votre preference, et j'aurai soin de me souvenir par humilite qu'apres avoir soupire le plus constamment, Valere a ete le plus maltraite.
+ANGELIQUE.
+Ce serait mieux fait que vous ne pensez, et vous auriez besoin en effet de quelques lecons de modestie.
+VALERE.
+Quoi ! Vous osez joindre la raillerie a l'outrage, et vous avez le front de vous applaudir quand vos devriez mourir de honte ?
+ANGELIQUE.
+Ah ! Vous vous fachez ; je vous laisse ; je n'aime pas les injures.
+VALERE.
+Non, vous demeurerez ; il faut que je jouisse de toute votre honte.
+ANGELIQUE.
+He bien, jouissez.
+VALERE.
+Car, j'espere que vous n'aurez pas la hardiesse de tentee votre justification.
+ANGELIQUE.
+N'ayez pas peur.
+VALERE.
+Et que vous ne vous flattez pas que je conserve encore les moindres sentiments en votre faveur.
+ANGELIQUE.
+Mon opinion la-dessus ne changera rien a la chose.
+VALERE.
+Je vous declare que je ne veux plus avoir pour vous que de la haine.
+ANGELIQUE.
+C'est fort bien fait.
+VALERE, tirant le portrait.
+Et voici desormais l'unique objet de tout mon amour.
+ANGELIQUE.
+Vous avez raison. Et moi je vous declare que j'ai pour Monsieur, montrant son frere, un attachement qui n'est des gueres inferieur au votre pour l'original de ce portrait.
+VALERE.
+L'ingrat ! Helas, il ne me reste plus qu'a mourir.
+ANGELIQUE.
+Valere, ecoutez. J'ai pitie de l'etat ou je vous vois. Vous devez convenir que vous etes le plus injuste des hommes, de vous emporter sur une apparence d'infidelite dont vous m'avez vous-meme donne l'exemple ; mais ma bonte veut bien encore aujourd'hui passer par-dessus vos travers.
+VALERE.
+Vous verrez qu'on me fera la grace de me pardonner !
+ANGELIQUE.
+En verite, vous ne le meritez guere. Je vais cependant vous apprendre a quel prix je puis m'y resoudre. Vous m'avez ci-devant temoigne des sentiments que j'ai payes d'un retour trop tendre pour un ingrat. Malgre cela, vous m'avez indignement outragee par un amour extravagant concu sur un simple portrait avec toute la legerete, et j'ose dire, toute l'etourderie de votre age et de votre caractere, il n'est pas temps d'examiner si j'ai du vous imiter, et ce n'est pas a vous qui etes coupable qu'il conviendrait de blamer ma conduite.
+VALERE.
+Ce n'est pas a moi, grands dieux ! Mais voyons ces beaux discours.
+ANGELIQUE.
+Le voici. Je vous ai dit que je connaissais l'objet de votre nouvel amour, et cela est vrai. J'ai ajoute que je l'aimais tendrement, et cela n'est encore que trop vrai. En vous avouant son merite, je ne vous ai point deguise ses defauts. J'ai fait plus, je vous ai promis de vous le faire connaitre, et je vous engage a present ma parole de le faire des aujourd'hui, des cette heure meme : car je vous avertis qu'il est plus pres de vous que vous ne pensez.
+VALERE.
+Qu'entends-je ? Quoi, la...
+ANGELIQUE.
+Ne m'interrompez point, je vous prie. Enfin, la verite me force encore a vous repeter que cette personne vous aime avec ardeur, et je puis vous repondre de son attachement comme du mien propre. C'est a vous maintenant de choisir entre elle et moi, celle a qui vous destinez toute votre tendresse : choisissez, Chevalier ; mais choisissez des cet instant et sans retour.
+MARTON.
+Le voila, ma foi, bien embarrasse. L'alternative est plaisante. Croyez-moi, Monsieur, choisissez le portrait ; c'est le moyen d'etre a l'abri des rivaux.
+LUCINDE.
+Ah ! Valere, faut-il balancer si longtemps pour suivre les impressions du coeur ?
+VALERE aux pieds d'Angelique et jetant le portrait. 
+C'est est fait ; vous avez vaincu, belle Angelique, et je sens combien les sentiments qui naissent du caprice sont inferieurs a ceux que vous inspirez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais, helas ! Quand tout mon coeur revient a vous, puis-je me flatter qu'il me ramenera le votre ?
+ANGELIQUE.
+Vous pourrez juger de ma reconnaissance par le sacrifice que vous venez de me faire. Levez-vous, Valere, et considerez bien ces traits.
+LEANDRE regardant aussi.
+Attendez donc ! Mais je crois reconnaitre cet objet... C'est... Oui, ma foi, c'est lui...
+VALERE.
+Qui, lui ? Dites donc, elle. C'est une femme a qui je renonce, comme a toutes les femmes de l'univers, sur qui Angelique l'emportera toujours.
+ANGELIQUE.
+Oui, Valere ; c'etait une femme jusqu'ici : mais j'espere que ce sera desormais un homme superieur a ces petites faiblesses qui degradaient son sexe son caractere.
+VALERE.
+Dans quelle etrange surprise vous me jetez !
+ANGELIQUE.
+Vous devriez d'autant moins meconnaitre cet objet que vous avez eu avec lui le commerce le plus intime, et qu'assurement on ne vous accusera pas de l'avoir neglige. Otez a cette tete cette parure etrange que votre soeur y a fait ajouter...
+VALERE.
+Ah ! Que vois-je ?
+MARTON.
+La chose n'est-elle pas claire ? Vous voyez le portrait, et voila l'original.
+VALERE.
+O ciel ! Et je ne meurs pas de honte !
+MARTON.
+Eh, Monsieur, vous etes peut-etre le seul de votre ordre qui la connaissiez.
+ANGELIQUE.
+Ingrat ! Avais-je tort de vous dire que j'aimais l'original de ce portrait ?
+VALERE.
+Et moi je ne veux plus l'aimer que par qu'il vous adore.
+ANGELIQUE.
+Vous voulez bien que pour affermir notre reconciliation je vous presente Leandre mon frere.
+LEANDRE.
+Souffrez, Monsieur...
+VALERE.
+Dieux ! Quel comble de felicite ! Quoi ! Meme quand j'etais ingrat, Angelique n'etait pas infidele ?
+LUCINDE.
+Que je prends de part a votre bonheur ! Et que le mien meme en est augmente !
+SCENE XVIII. Lisimon. Les Acteurs de la Scene precedente.
+LISIMON.
+Ah ! Vous voici tous rassembles sort a propos. Valere et Lucinde ayant tous deux resiste a leurs mariages, j'avais d'abord resolu de les y contraindre. Mais j'ai reflechi qu'il faut quelquefois etre bon pere, et que la violence ne fait pas toujours des mariages heureux. J'ai donc pris le parti de rompre des aujourd'hui tout ce qui avait ete arrete ; et voici les nouveaux arrangements que j'y substitue. Angelique m'epousera ; Lucinde ira dans un couvent ; Valere sera desherite, et quant a vous, Leandre, vous prendrez patience, s'il vous plait.
+MARTON.
+Fort bien, ma foi ! Voila qui est toise, on ne peut pas mieux.
+LISIMON.
+Qu'est-ce donc ? Vous voila tout interdits ! Est-ce que ce projet ne vous accommode pas ?
+MARTON.
+Voyez si pas un d'eux desserrera les dents ! La peste des sots amants et de la sotte jeunesse dont l'inutile babil ne tarit point, et qui ne savent trouver un mot dans une occasion necessaire !
+LISIMON.
+Allons, vous savez tous mes intentions ; vous n'avez qu'a vous y conformer.
+LEANDRE.
+Eh, Monsieur ! Daignez suspendre votre courroux. Ne lisez-vous pas le repentir des coupables dans leurs yeux et dans leur embarras, et voulez-vous confondre les innocents dans la meme punition ?
+LISIMON.
+Ca, je veux bien avoir la faiblesse d'eprouver leur obeissance encore une fois. Voyons un peu. Eh bien, Monsieur Valere, faites-vous toujours des reflexions ?
+VALERE.
+Oui, mon pere ; mais au lieu des peines du mariage, elles ne m'en offrent plus que les plaisirs.
+LISIMON.
+Oh, oh ! Vous avez bien change de langage ! Et toi, Lucinde, aimes-tu toujours bien ta liberte ?
+LUCINDE.
+Je sens, mon pere, qu'il peut etre doux de la perdre sous les lois du devoir.
+LISIMON.
+Ah ! Les voila tous raisonnables. J'en suis charme. Embrassez-moi, mes enfants, et allons conclure ces heureux hymenees. Ce que c'est qu'un coup d'autorite frappe a propos !
+VALERE.
+Venez, belle Angelique ; vous m'avez gueri d'un ridicule qui faisait la honte de ma jeunesse ; et je vais desormais eprouver pres de vous que quand on aime bien, on ne songe plus a soi-meme.
+
+	==================================================

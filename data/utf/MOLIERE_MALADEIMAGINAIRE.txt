@@ -1,0 +1,2796 @@
+********************************************************
+	DC.Title                  = LE MALADE IMAGINAIRE, COMEDIE.
+	DC.Author                 = MOLIERE
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 14/06/2016 a 16:07:20.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/MOLIERE_MALADEIMAGINAIRE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE MALADE IMAGINAIRE COMEDIE MELEE DE MUSIQUE ET DE DANSES Corrigee sur l'original de l'auteur, de toutes les fausse additions et suppositions des scenes entieres, faites dans les editions precedentes.Represente pour la premiere fois, sur le Theatre de la Salle du Palais-Royal, le dixieme Fevrier 1673 par la Troupe du Roi.M. DC. LXXXII. AVEC PRIVILEGE DU ROI.
+Par Monsieur de MOLIERE
+	A PARIS, Chez DENYS THIERRY, Rue Saint-Jacques, a l'enseigne de la Ville de Paris, CLAUDE BARBIN, au Palais sur le second perron de la Sainte-Chapelle et PIERRE TRABOUILLET, au Palais dans la Galerie des Prisonniers, a l'image Saint-Hubert, et a la Fortune, proche le Greffe des Eaux et Forets.
+	Acheve d'imprimer pour la premiere fois, le dernier jour d'octobre mille six cent quatre-vingt-deux.
+	Representee pour la premiere fois sur le Theatre de la salle du Palais-Royal le 10 fevrier 1673 par la Troupe du Roi.
+	PERSONNAGES du PROLOGUE
+FLORE.
+PAN.
+FAUNES.
+CLIMENE.
+DAPHNE.
+TIRCIS.
+DORILAS.
+DEUX ZEPHYRS.
+TROUPE DE BERGERS.
+TROUPE DE BERGERES.
+PERSONNAGES de la COMEDIE
+ARGAN, malade imaginaire.
+BELINE, seconde femme d'Argan.
+ANGELIQUE, fille d'Argan, et amante de Cleante.
+LOUISON, petite fille d'Argan, et soeur d'Angelique..
+BERALDE, frere d'Argan.
+CLEANTE, amant d'Angelique.
+MONSIEUR DIAFOIRUS, medecin.
+THOMAS DIAFOIRUS, son fils, et amant d'Angelique.
+MONSIEUR PURGON, medecin d'Argan. 
+MONSIEUR FLEURANT, apothicaire.
+MONSIEUR BONNEFOY, notaire.
+TOINETTE, servante.
+La scene est a Paris.
+
+
+
+			LE PROLOGUE
+
+Apres les glorieuses fatigues et les exploits victorieux de notre auguste monarque, il est bien juste que tous ceux qui se melent d'ecrire travaillent ou a ses louanges, ou a son divertissement. C'est ce qu'ici l'on a voulu faire, et ce prologue est un essai des louanges de ce grand prince, qui donne entree a la comedie du Malade imaginaire, dont le projet a ete fait pour le delasser de ses nobles travaux. 
+La decoration represente un lieu champetre fort agreable.
+
+EGLOGUE EN MUSIQUE ET EN DANSE. Flore, Pan, Climene, Daphne, Tircis, Dorilas, deux Zephirs, troupe de Bergeres et de Bergers.
+FLORE.
+Quittez, quittez vos troupeaux, 
+Venez Bergers, venez Bergeres, 
+Accourez, accourez sous ces tendres ormeaux : 
+Je viens vous annoncer des nouvelles bien cheres, 
+Et rejouir tous ces hameaux. 			[5]
+Quittez, quittez vos troupeaux, 
+Venez Bergers, venez Bergeres, 
+Accourez, accourez, sous ces tendres ormeaux. 
+CLIMENE et DAPHNE.
+Berger laissons la tes feux, 
+Voila Flore qui nous appelle. 			[10]
+TIRCIS et DORILAS.
+Mais au moins dis-moi, cruelle.
+TIRCIS.
+Si d'un peu d'amitie tu payeras mes voeux ? 
+DORILAS.
+Si tu seras sensible a mon ardeur fidele ? 
+CLIMENE et DAPHNE.
+Voila Flore qui nous appelle. 
+TIRCIS et DORILAS.
+Ce n'est qu'un mot, un mot, un seul mot que je veux. 			[15]
+TIRCIS.
+Languirai-je toujours dans ma peine mortelle ? 
+DORILAS.
+Puis-je esperer qu'un jour tu me rendras heureux ? 
+CLIMENE et DAPHNE.
+Voila Flore qui nous appelle.
+ENTREE de BALLET.
+Toute la troupe des Bergers et des Bergeres va se placer en cadence autour de Flore.
+CLIMENE.
+Quelle nouvelle parmi nous, 
+Deesse, doit jeter tant de rejouissance ? 			[20]
+DAPHNE.
+Nous brulons d'apprendre de vous 
+Cette nouvelle d'importance.
+DORILAS.
+D'ardeur nous en soupirons tous. 
+CLIMENE et DAPHNE.
+Nous en mourons d'impatience. 
+FLORE.
+La voici, silence, silence.			[25]
+Vos voeux sont exauces, LOUIS est de retour, 
+Il ramene en ces lieux les Plaisirs et l'Amour, 
+Et vous voyez finir vos mortelles alarmes. 
+Par ses vastes exploits son bras voit tout soumis,
+Il quitte les armes, 			[30]
+Faute d'ennemis. 
+TOUS.
+Ah quelle douce nouvelle ! 
+Qu'elle est grande ! Qu'elle est belle !
+Que de plaisirs ! Que de ris ! Que de jeux ! 
+Que de succes heureux ! 			[35]
+Et que le Ciel a bien rempli nos voeux ! 
+Ah quelle douce nouvelle ! 
+Qu'elle est grande ! Qu'elle est belle ! 
+AUTRE ENTREE DE BALLET.
+Tous les Bergers et Bergeres expriment par des danses les transports de leur joie.
+FLORE.
+De vos flutes bocageres 
+Reveillez les plus beaux sons ;			[40]
+LOUIS offre a vos chansons 
+La plus belle des matieres. 
+Apres cent combats, 
+Ou cueille son bras, 
+Une ample victoire : 			[45]
+Formez entre vous 
+Cent combats plus doux, 
+Pour chanter sa gloire.
+TOUS.
+Formons entre nous 
+Cent combats plus doux,			[50]
+Pour chanter sa gloire. 
+FLORE.
+Mon jeune amant dans ce bois,
+Des presents de mon empire 
+Prepare un prix a la voix,
+Qui saura le mieux nous dire 			[55]
+Les vertus et les Exploits 
+Du plus Auguste des Rois. 
+CLIMENE.
+Si Tircis a l'avantage, 
+DAPHNE.
+Si Dorilas est vainqueur 
+CLIMENE.
+A le cherir je m'engage. 			[60]
+DAPHNE.
+Je me donne a son ardeur. 
+TIRCIS.
+O tres chere esperance ! 
+DORILAS.
+O mot plein de douceur ! 
+TOUS DEUX.
+Plus beau sujet, plus belle recompense
+Peuvent-ils animer un coeur ? 			[65]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)TIRCIS.
+Quand la neige fondue enfle un torrent fameux, 
+Contre l'effort soudain de ses flots ecumeux 
+Il n'est rien d'assez solide ; 
+Digues, chateaux, villes, et bois, 
+Hommes, et troupeaux a la fois, 			[70]
+Tout cede au courant qui le guide,
+Tel, et plus fier et plus rapide, 
+Marche LOUIS dans ses Exploits. 
+BALLET.
+Les Bergers et Bergeres du cote de Tircis, dansent autour de lui sur une ritournelle, pour exprimer leurs applaudissements.
+DORILAS.
+Le foudre menacant, qui perce avec fureur 
+L'affreuse obscurite de la nue enflammee, 			[75]
+Fait d'epouvante et d'horreur 
+Trembler le plus ferme coeur : 
+Mais a la tete d'une armee 
+LOUIS jette plus de terreur. 
+BALLET.
+Les Bergers et Bergeres su cote de Dorilas, font de meme que les autres.
+TIRCIS.
+Des fabuleux exploits que la Grece a chantes, 			[80]
+Par un brillant amas de belles verites 
+Nous voyons la gloire effacee, 
+Et tous ces fameux demi-dieux, 
+Que vante l'histoire passee 
+Ne sont point a notre pensee 			[85]
+Ce que Louis est a nos yeux. 
+BALLET.
+Les Bergers et Bergeres de son cote font encore la meme chose.
+DORILAS.
+LOUIS fait a nos temps, par ses faits inouis, 
+Croire tous les beaux faits que nous chante l'histoire 
+Des siecles evanouis : 
+Mais nos neveux, dans leur gloire, 			[90]
+N'auront rien qui fasse croire 
+Tous les beaux faits de LOUIS. 
+BALLET.
+Les Bergeres de son cote font encore de meme, apres quoi les deux partis se melent.
+PAN, suivi de six Faunes.
+Laissez, laissez, Bergers, ce dessein temeraire,
+He, Que voulez-vous faire ? 
+Chanter sur vos chalumeaux,			[95]
+Ce qu'Apollon sur sa lyre
+Avec ses chants les plus beaux, 
+N'entreprendrait pas de dire ? 
+C'est donner trop d'essor au feu qui vous inspire, 
+C'est monter vers les Cieux sur des ailes de cire, 			[100]
+Pour tomber dans le fond des Eaux. 
+Pour chanter de LOUIS l'intrepide courage ; 
+Il n'est point d'assez docte voix, 
+Point de mots assez grands pour en tracer l'image ; 
+Le silence est le langage 			[105]
+Qui doit louer ses Exploits. 
+Consacrez d'autres soins a sa pleine Victoire ; 
+Vos louanges n'ont rien qui flatte ses desirs, 
+Laissez, laissez-la sa gloire, 
+Ne songez qu'a ses plaisirs. 			[110]
+TOUS.
+Laissons, laissons la sa gloire
+Ne songeons qu'a ses plaisirs. 
+FLORE.
+Bien que, pour etaler ses vertus immortelles
+La force manque a vos esprits.
+Ne laissez pas tous deux de recevoir le prix.			[115]
+Dans les choses grandes et belles
+Il suffit d'avoir entrepris. 
+ENTREE DE BALLET.
+Les deux zephyrs dansent avec deux couronnes de fleurs a la main, qu'ils viennent donner ensuite aux deux bergers.
+CLIMENE et DAPHNE, en leur donnant la main.
+Dans les choses grandes et belles 
+Il suffit d'avoir entrepris. 
+TIRCIS et DORILAS.
+Ha ! Que d'un doux succes notre audace est suivie ! 			[120]
+FLORE et PAN.
+Ce qu'on fait pour LOUIS, on ne le perd jamais. 
+LES QUATRE AMANTS.
+Au soin de ses plaisirs donnons-nous desormais. 
+FLORE et PAN.
+Heureux, heureux, qui peut lui consacrer sa vie.
+TOUS.
+Joignons tous dans ces bois 
+Nos flutes et nos voix, 			[125]
+Ce jour nous y convie,
+Et faisons aux echos redire mille fois,
+LOUIS est le plus grand des rois.
+Heureux, heureux, qui peut lui consacrer sa vie.
+DERNIERE ET GRANDRE ENTREE DE BALLET.
+Faune, Bergers et Bergeres tous se melent, et il se fait entre eux des jeux de danse, apres quoi ils se vont preparer pour la Comedie.
+
+
+			AUTRE PROLOGUE
+
+
+***
+PLAINTE DE LA BERGERE.
+
+
+	Votre plus haut savoir n'est que pure chimere, 
+	Vains et peu sages medecins,
+	Vous ne pouvez guerir par vos grands mots Latins 
+	La douleur qui me desespere.
+	Votre plus haut savoir n'est que pure chimere. 
+
+
+	Helas ! Helas ! Je n'ose decouvrir 
+	Mon amoureux martyre, 
+	Au Berger pour qui je soupire, 
+	Et qui seul peut me secourir. 
+	Ne pretendez pas le finir, 
+	Ignorants medecins, vous ne sauriez le faire,
+	Votre plus haut savoir n'est que pure chimere. 
+
+
+	Ces remedes peu surs, dont le simple vulgaire 
+	Croit que vous connaissez l'admirable vertu, 
+	Pour les maux que je sens n'ont rien de salutaire,
+	Et tout votre caquet ne peut etre recu,
+	Que d'un MALADE IMAGINAIRE. 
+	Votre plus haut savoir n'est que pure chimere, 
+	Vains et peu sages, etc. 
+
+			[0]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			ACTE I
+
+
+SCENE I.
+ARGAN, seul dans sa chambre assis, une table devant lui, compte des parties d'apothicaire avec des jetons ; il fait parlant a lui-meme les dialogues suivants. 
+Trois et deux font cinq, et cinq font dix, et dix font vingt. Trois et deux font cinq. Plus, du vingt-quatrieme, un petit clystere insinuatif, preparatif, et remolliant, pour amollir, humecter, et rafraichir les entrailles de Monsieur. Ce qui me plait de Monsieur Fleurant, mon apothicaire, c'est que ses parties sont toujours fort civiles : les entrailles de Monsieur, trente sols." Oui, mais Monsieur Fleurant, ce n'est pas tout que d'etre civil, il faut etre aussi raisonnable, et ne pas ecorcher les malades. Trente sols un lavement, e suis votre serviteur, je vous l'ai deja dit. Vous ne me les avez mis dans les autres parties qu'a vingt sols, et vingt sols en langage d'apothicaire, c'est-a-dire dix sols ; les voila, dix sols. Plus, dudit jour, un bon clystere detersif, compose avec catholicon double, rhubarbe, miel rosat, et autres, suivant l'ordonnance, pour balayer, laver, et nettoyer le bas-ventre de Monsieur, trente sols ; avec votre permission dix sols. Plus, dudit jour, le soir, un julep hepatique, soporatif, et somnifere, compose pour faire dormir Monsieur, trente-cinq sols ; je ne me plains pas de celui-la, car il me fit bien dormir. Dix, quinze, seize et dix-sept sols, six deniers. Plus du vingt-cinquieme, une bonne medecine purgative et corroborative, composee de casse recente avec sene levantin, et autres, suivant l'ordonnance de Monsieur Purgon, pour expulser et evacuer la bile de Monsieur, quatre livres. Ah ! Monsieur Fleurant, c'est se moquer, il faut vivre avec les malades. Monsieur Purgon ne vous a pas ordonne de mettre quatre francs. Mettez, mettez trois livres, s'il vous plait. Vingt et trente sols. Plus, dudit jour, une potion anodine et astringente, pour faire reposer Monsieur, trente sols. Bon... dix et quinze sols. Plus du vingt-sixieme, un clystere carminatif, pour chasser les vents de Monsieur, trente sols. Dix sols, Monsieur Fleurant. Plus, le clystere de Monsieur reitere le soir, comme dessus, trente sols. Monsieur Fleurant, dix sols. Plus du vingt-septieme, une bonne medecine composee pour hater d'aller, et chasser dehors les mauvaises humeurs de Monsieur, trois livres. Bon, vingt, et trente sols : je suis bien aise que vous soyez raisonnable. Plus du vingt-huitieme, une prise de petit-lait clarifie, et dulcore, pour adoucir, lenifier, temperer, et rafraichir le sang de Monsieur, vingt sols. Bon, dix sols. Plus une potion cordiale et preservative, composee avec douze grains de bezoard, sirops de limon et grenade, et autres, suivant l'ordonnance, cinq livres. Ah ! Monsieur Fleurant, tout doux, s'il vous plait, si vous en usez comme cela, on ne voudra plus etre malade, contentez-vous de quatre francs ; vingt et quarante sols. Trois et deux font cinq, et cinq font dix, et dix font vingt. Soixante et trois livres, quatre sols, six deniers. Si bien donc, que de ce mois j'ai pris une, deux, trois, quatre, cinq, six, sept et huit medecines ; et un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix, onze et douze lavements ; et l'autre mois il y avait douze medecines, et vingt lavements. Je ne m'etonne pas si je ne me porte pas si bien ce mois-ci, que l'autre. Je le dirai a Monsieur Purgon, afin qu'il mette ordre a cela. Allons, qu'on m'ote tout ceci, il n'y a personne ; j'ai beau dire, on me laisse toujours seul ; il n'y a pas moyen de les arreter ici.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ils n'entendent point, et ma sonnette ne fait pas assez de bruit. Drelin, drelin, drelin : point d'affaire. Drelin, drelin, drelin : ils sont sourds. Toinette ! Drelin, drelin, drelin : tout comme si je ne sonnais point. Chienne, coquine, drelin, drelin, drelin ; j'enrage. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Drelin, drelin, drelin. Carogne, a tous les diables ! Est-il possible qu'on laisse comme cela un pauvre malade tout seul ! Drelin, drelin, drelin ; voila qui est pitoyable ! Drelin, drelin, drelin. Ah ! Mon Dieu, ils me laisseront ici mourir. Drelin, drelin, drelin. 
+SCENE II. Toinette, Argan.
+TOINETTE, en entrant dans la chambre.
+On y va. 
+ARGAN.
+Ah ! Chienne ! Ah carogne... ! 
+TOINETTE, faisant semblant de s'etre cogne la tete.
+Diantre soit fait de votre impatience, vous pressez si fort les personnes, que je me suis donne un grand coup de la tete contre la carne d'un volet. 
+ARGAN, en colere.
+Ah ! Traitresse... !
+TOINETTE, pour l'interrompre et l'empecher de crier, se plaint toujours, en disant.
+Ha ! 
+ARGAN.
+Il y a... 
+TOINETTE.
+Ha ! 
+ARGAN.
+Il y a une heure... 
+TOINETTE.
+Ha ! 
+ARGAN.
+Tu m'as laisse... 
+TOINETTE.
+Ha ! 
+ARGAN.
+Tais-toi donc, coquine, que je te querelle. 
+TOINETTE.
+Camon, ma foi, j'en suis d'avis, apres ce que je me suis fait. 
+ARGAN.
+Tu m'as fait egosiller, carogne. 
+TOINETTE.
+Et vous m'avez fait, vous, casser la tete, l'un vaut bien l'autre. Quitte, a quitte, si vous voulez. 
+ARGAN.
+Quoi, coquine... 
+TOINETTE.
+Si vous querellez, je pleurerai. 
+ARGAN.
+Me laisser, traitresse... 
+TOINETTE, toujours pour l'interrompre.
+Ha ! 
+ARGAN.
+Chienne, tu veux... 
+TOINETTE.
+Ha ! 
+ARGAN.
+Quoi il faudra encore que je n'aie pas le plaisir de la quereller. 
+TOINETTE.
+Querellez tout votre soul, je le veux bien. 
+ARGAN.
+Tu m'en empeches, chienne, en m'interrompant a tous coups. 
+TOINETTE.
+Si vous avez le plaisir de quereller, il faut bien que de mon cote, j'aie le plaisir de pleurer ; chacun le sien, ce n'est pas trop. Ha ! 
+ARGAN.
+Allons, il faut en passer par la. Ote-moi ceci, coquine, ote-moi ceci. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mon lavement d'aujourd'hui a-t-il bien opere ? 
+TOINETTE.
+Votre lavement ? 
+ARGAN.
+Oui. Ai-je bien fait de la bile ? 
+TOINETTE.
+Ma foi ! Je ne me mele point de ces affaires-la : c'est a Monsieur Fleurant a y mettre le nez, puisqu'il en a le profit. 
+ARGAN.
+Qu'on ait soin de me tenir un bouillon pret, pour l'autre que je dois tantot prendre. 
+TOINETTE.
+Ce Monsieur Fleurant-la et ce Monsieur Purgon s'egayent bien sur votre corps ; ils ont en vous une bonne vache a lait ; et je	voudrais bien leur demander quel mal vous avez, pour vous faire tant de remedes. 
+ARGAN.
+Taisez-vous, ignorante, ce n'est pas a vous a controler les ordonnances de la medecine. Qu'on me fasse venir ma fille Angelique, j'ai a lui dire quelque chose. 
+TOINETTE.
+La voici qui vient d'elle-meme : elle a devine votre pensee. 
+SCENE III. Angelique, Toinette, Argan.
+ARGAN.
+Approchez, Angelique, vous venez a propos ; je voulais vous parler. 
+ANGELIQUE.
+Me voila prete a vous ouir. 
+ARGAN, courant au bassin.
+Attendez. Donnez-moi mon baton. Je vais revenir tout a l'heure. 
+TOINETTE, en le raillant.
+Allez vite, Monsieur, allez. Monsieur Fleurant nous donne des affaires. 
+SCENE IV. Angelique, Toinette.
+ANGELIQUE, la regardant d'un oeil languissant, lui dit confidemment.
+Toinette. 
+TOINETTE.
+Quoi ? 
+ANGELIQUE.
+Regarde-moi un peu. 
+TOINETTE.
+He bien je vous regarde. 
+ANGELIQUE.
+Toinette. 
+TOINETTE.
+He bien, quoi, Toinette ? 
+ANGELIQUE.
+Ne devines-tu point de quoi je veux parler ? 
+TOINETTE.
+Je m'en doute assez : de notre jeune amant ; car c'est sur lui, depuis six jours, que roulent tous nos entretiens ; et vous n'etes point bien si vous n'en parlez a toute heure. 
+ANGELIQUE.
+Puisque tu connais cela, que n'es-tu donc la premiere a m'en entretenir, et que ne m'epargnes-tu la peine de te jeter sur ce discours ? 
+TOINETTE.
+Vous ne m'en donnez pas le temps, et vous avez des soins la-dessus, qu'il est difficile de prevenir. 
+ANGELIQUE.
+Je t'avoue que je ne saurais me lasser de te parler de lui, et que mon coeur profite avec chaleur de tous les moments de s'ouvrir a toi. Mais dis-moi, condamnes-tu, Toinette, les sentiments que j'ai pour lui ? 
+TOINETTE.
+Je n'ai garde. 
+ANGELIQUE.
+Ai-je tort de m'abandonner a ces douces impressions ? 
+TOINETTE.
+Je ne dis pas cela. 
+ANGELIQUE.
+Et voudrais-tu que je fusse insensible aux tendres protestations de cette passion ardente qu'il temoigne pour moi ? 
+TOINETTE.
+A Dieu ne plaise ! 
+ANGELIQUE.
+Dis-moi un peu, ne trouves-tu pas comme moi, quelque chose du Ciel, quelque effet du destin, dans l'aventure inopinee de notre connaissance ? 
+TOINETTE.
+Oui. 
+ANGELIQUE.
+Ne trouves-tu pas que cette action d'embrasser ma defense sans me connaitre, est tout a fait d'un honnete homme ? 
+TOINETTE.
+Oui. 
+ANGELIQUE.
+Que l'on ne peut pas en user plus genereusement ? 
+TOINETTE.
+D'accord. 
+ANGELIQUE.
+Et qu'il fit tout cela de la meilleure grace du monde ? 
+TOINETTE.
+Oh, oui. 
+ANGELIQUE.
+Ne trouves-tu pas, Toinette, qu'il est bien fait de sa personne ? 
+TOINETTE.
+Assurement. 
+ANGELIQUE.
+Qu'il a l'air le meilleur du monde ? 
+TOINETTE.
+Sans doute. 
+ANGELIQUE.
+Que ses discours, comme ses actions, ont quelque chose de noble ? 
+TOINETTE.
+Cela est sur. 
+ANGELIQUE.
+Qu'on ne peut rien entendre de plus passionne que tout ce qu'il me dit ? 
+TOINETTE.
+Il est vrai. 
+ANGELIQUE.
+Et qu'il n'est rien de plus facheux que la contrainte ou l'on me tient, qui bouche tout commerce aux doux empressements de cette mutuelle ardeur que le Ciel nous inspire ? 
+TOINETTE.
+Vous avez raison. 
+ANGELIQUE.
+Mais, ma pauvre Toinette, crois-tu qu'il m'aime autant qu'il me le dit ? 
+TOINETTE.
+Eh, eh, ces choses-la parfois sont un peu sujettes a caution. Les grimaces d'amour ressemblent fort a la verite ; et j'ai vu de	grands comediens la-dessus. 
+ANGELIQUE.
+Ah ! Toinette, que dis-tu la ? Helas ! De la facon qu'il parle, serait-il bien possible qu'il ne me dit pas vrai ?
+TOINETTE.
+En tout cas, vous en serez bientot eclaircie ; et la resolution ou il vous ecrivit hier, qu'il etait de vous faire demander en mariage est une prompte voie a vous faire connaitre s'il vous dit vrai, ou non. C'en sera la la bonne preuve. 
+ANGELIQUE.
+Ah ! Toinette, si celui-la me trompe, je ne croirai de ma vie aucun homme. 
+TOINETTE.
+Voila votre pere qui revient. 
+SCENE V. Argan, Angelique, Toinette.
+ARGAN, se met dans sa chaise.
+O ca, ma fille, je vais vous dire une nouvelle, ou peut-etre ne vous attendez-vous pas. On vous demande en mariage. Qu'est-ce que cela ? Vous riez. Cela est plaisant, oui, ce mot de mariage. Il n'y a rien de plus drole pour les jeunes filles. Ah ! Nature, nature ! A ce que je puis voir, ma fille, je n'ai que faire de vous demander si vous voulez bien vous marier. 
+ANGELIQUE.
+Je dois faire, mon pere, tout ce qu'il vous plaira de m'ordonner. 
+ARGAN.
+Je suis bien aise d'avoir une fille si obeissante. La chose est donc conclue, et je vous ai promise. 
+ANGELIQUE.
+C'est a moi, mon pere, de suivre aveuglement toutes vos volontes. 
+ARGAN.
+Ma femme, votre belle-mere, avait envie que je vous fisse religieuse, et votre petite soeur Louison aussi, et de tout temps elle a ete aheurtee a cela.
+TOINETTE, tout bas.
+La bonne bete a ses raisons. 
+ARGAN.
+Elle ne voulait point consentir a ce mariage, mais je l'ai emporte, et ma parole est donnee. 
+ANGELIQUE.
+Ah ! Mon pere, que je vous suis obligee de toutes vos bontes. 
+TOINETTE.
+En verite, je vous sais bon gre de cela, et voila l'action la plus sage que vous ayez faite de votre vie. 
+ARGAN.
+Je n'ai point encore vu la personne ; mais on m'a dit que j'en serais content, et toi aussi. 
+ANGELIQUE.
+Assurement, mon pere. 
+ARGAN.
+Comment l'as-tu vu ? 
+ANGELIQUE.
+Puisque votre consentement m'autorise a vous pouvoir ouvrir mon coeur, je ne feindrai point de vous dire, que le hasard nous a fait connaitre il y a six jours, et que la demande qu'on vous a faite est un effet de l'inclination, que des cette premiere vue nous avons prise l'un pour l'autre. 
+ARGAN.
+Ils ne m'ont pas dit cela, mais j'en suis bien aise, et c'est tant mieux que les choses soient de la sorte. Ils disent que c'est un grand jeune garcon bien fait. 
+ANGELIQUE.
+Oui, mon pere. 
+ARGAN.
+De belle taille. 
+ANGELIQUE.
+Sans doute. 
+ARGAN.
+Agreable de sa personne. 
+ANGELIQUE.
+Assurement. 
+ARGAN.
+De bonne physionomie. 
+ANGELIQUE.
+Tres bonne. 
+ARGAN.
+Sage, et bien ne. 
+ANGELIQUE.
+Tout a fait. 
+ARGAN.
+Fort honnete. 
+ANGELIQUE.
+Le plus honnete du monde. 
+ARGAN.
+Qui parle bien latin, et grec. 
+ANGELIQUE.
+C'est ce que je ne sais pas. 
+ARGAN.
+Et qui sera recu medecin dans trois jours. 
+ANGELIQUE.
+Lui, mon pere ? 
+ARGAN.
+Oui. Est-ce qu'il ne te l'a pas dit ? 
+ANGELIQUE.
+Non vraiment. Qui vous l'a dit a vous ? 
+ARGAN.
+Monsieur Purgon. 
+ANGELIQUE.
+Est-ce que Monsieur Purgon le connait ? 
+ARGAN.
+La belle demande ! Il faut bien qu'il le connaisse, puisque c'est son neveu. 
+ANGELIQUE.
+Cleante, neveu de Monsieur Purgon.
+ARGAN.
+Quel Cleante ? Nous parlons de celui pour qui l'on t'a demandee en mariage. 
+ANGELIQUE.
+He, oui. 
+ARGAN.
+He bien, c'est le neveu de Monsieur Purgon, qui est le fils de son beau-frere le medecin, Monsieur Diafoirus ; et ce fils s'appelle Thomas Diafoirus, et non pas Cleante ; et nous avons conclu ce mariage-la ce matin, Monsieur Purgon, Monsieur Fleurant et moi, et demain, ce gendre pretendu doit m'etre amene par son pere. Qu'est-ce ? Vous voila toute ebaubie ? 
+ANGELIQUE.
+C'est, mon pere, que je connais que vous avez parle d'une personne, et que j'ai entendu une autre. 
+TOINETTE.
+Quoi ? Monsieur, vous auriez fait ce dessein burlesque ? Et avec tout le bien que vous avez, vous voudriez marier votre fille avec un medecin ? 
+ARGAN.
+Oui. De quoi te meles-tu, coquine, impudente que tu es ? 
+TOINETTE.
+Mon Dieu ! Tout doux : vous allez d'abord aux invectives. Est-ce que nous ne pouvons pas raisonner ensemble sans nous emporter ? La, parlons de sang-froid. Quelle est votre raison, s'il vous plait, pour un tel mariage ?
+ARGAN.
+Ma raison est que, me voyant infirme, et malade comme je suis, je veux me faire un gendre et des allies medecins, afin de m'appuyer de bons secours contre ma maladie, d'avoir dans ma famille les sources des remedes qui me sont necessaires, et d'etre a meme des consultations, et des ordonnances. 
+TOINETTE.
+He bien ! Voila dire une raison, et il y a plaisir a se repondre doucement les uns aux autres. Mais, Monsieur, mettez la main a la conscience. Est-ce que vous etes malade ? 
+ARGAN.
+Comment, coquine, si je suis malade ? Si je suis malade, impudente ? 
+TOINETTE.
+He bien ! Oui, Monsieur, vous etes malade, n'ayons point de querelle la-dessus. Oui, vous etes fort malade, j'en demeure d'accord, et plus malade que vous ne pensez ; voila qui est fait. Mais votre fille doit epouser un mari pour elle ; et, n'etant point malade, il n'est pas necessaire de lui donner un medecin. 
+ARGAN.
+C'est pour moi que je lui donne ce medecin ; et une fille de bon naturel doit etre ravie d'epouser ce qui est utile a la sante de	son pere. 
+TOINETTE.
+Ma foi, Monsieur, voulez-vous qu'en amie je vous donne un conseil ? 
+ARGAN.
+Quel est-il ce conseil ? 
+TOINETTE.
+De ne point songer a ce mariage-la. 
+ARGAN.
+He la raison ? 
+TOINETTE.
+La raison, c'est que votre fille n'y consentira point. 
+ARGAN.
+Elle n'y consentira point ? 
+TOINETTE.
+Non. 
+ARGAN.
+Ma fille ? 
+TOINETTE.
+Votre fille. Elle vous dira qu'elle n'a que faire de Monsieur Diafoirus, ni de son fils Thomas Diafoirus, ni de tous les Diafoirus du monde. 
+ARGAN.
+J'en ai affaire, moi, outre que le parti est plus avantageux qu'on ne pense. Monsieur Diafoirus n'a que ce fils-la pour tout heritier ; et de plus, Monsieur Purgon, qui n'a ni femme, ni enfants, lui donne tout son bien, en faveur de ce mariage ; et Monsieur Purgon est un homme qui a huit mille bonnes livres de rente. 
+TOINETTE.
+Il faut qu'il ait tue bien des gens, pour s'etre fait si riche. 
+ARGAN.
+Huit mille livres de rente sont quelque chose, sans compter le bien du pere. 
+TOINETTE.
+Monsieur, tout cela est bel et bon ; mais j'en reviens toujours la : je vous conseille, entre nous, de lui choisir un autre mari,	et elle n'est point faite pour etre Madame Diafoirus. 
+ARGAN.
+Et je veux, moi, que cela soit. 
+TOINETTE.
+Eh fi, ne dites pas cela. 
+ARGAN.
+Comment, que je ne dise pas cela ? 
+TOINETTE.
+He non ! 
+ARGAN.
+Et pourquoi ne le dirai-je pas ? 
+TOINETTE.
+On dira que vous ne songez pas a ce que vous dites. 
+ARGAN.
+On dira ce qu'on voudra, mais je vous dis que je veux qu'elle execute la parole que j'ai donnee.
+TOINETTE.
+Non, je suis sure qu'elle ne le fera pas. 
+ARGAN.
+Je l'y forcerai bien. 
+TOINETTE.
+Elle ne le fera pas, vous dis-je. 
+ARGAN.
+Elle le fera, ou je la mettrai dans un couvent. 
+TOINETTE.
+Vous ? 
+ARGAN.
+Moi. 
+TOINETTE.
+Bon. 
+ARGAN.
+Comment, bon ?
+TOINETTE.
+Vous ne la mettrez point dans un couvent. 
+ARGAN.
+Je ne la mettrai point dans un couvent ? 
+TOINETTE.
+Non.
+ARGAN.
+Non.
+TOINETTE.
+Non.
+ARGAN.
+Ouais, voici qui est plaisant. Je ne mettrai pas ma fille dans un convent, si je veux ? 
+TOINETTE.
+Non, vous dis-je. 
+ARGAN.
+Qui m'en empechera ? 
+TOINETTE.
+Vous-meme. 
+ARGAN.
+Moi ? 
+TOINETTE.
+Oui, vous n'aurez pas ce coeur-la. 
+ARGAN.
+Je l'aurai. 
+TOINETTE.
+Vous vous moquez. 
+ARGAN.
+Je ne me moque point. 
+TOINETTE.
+La tendresse paternelle vous prendra. 
+ARGAN.
+Elle ne me prendra point. 
+TOINETTE.
+Une petite larme, ou deux, des bras jetes au cou, un mon petit Papa mignon, prononce tendrement, sera assez pour vous toucher. 
+ARGAN.
+Tout cela ne fera rien.
+TOINETTE.
+Oui, oui.
+ARGAN.
+Je vous dis que je n'en demordrai point. 
+TOINETTE.
+Bagatelles.
+ARGAN.
+Il ne faut point dire bagatelles. 
+TOINETTE.
+Mon Dieu ! Je vous connais, vous etes bon naturellement. 
+ARGAN, avec emportement.
+Je ne suis point bon, et je suis mechant quand je veux. 
+TOINETTE.
+Doucement, Monsieur : vous ne songez pas que vous etes malade. 
+ARGAN.
+Je lui commande absolument de se preparer a prendre le mari que je dis. 
+TOINETTE.
+Et moi, je lui defends absolument d'en faire rien. 
+ARGAN.
+Ou est-ce donc que nous sommes ? Et quelle audace est-ce la a une coquine de servante, de parler de la sorte devant son maitre ? 
+TOINETTE.
+Quand un maitre ne songe pas a ce qu'il fait, une servante bien sensee est en droit de le redresser. 
+ARGAN, court apres Toinette.
+Ah ! Insolente, il faut que je t'assomme. 
+TOINETTE, se sauve de lui.
+Il est de mon devoir de m'opposer aux choses qui vous peuvent deshonorer. 
+ARGAN, en colere, court apres elle autour de sa chaise, son baton a la main.
+Viens, viens, que je t'apprenne a parler. 
+TOINETTE, courant et se sauvant du cote de la chaise ou n'est pas Argan.
+Je m'interesse, comme je dois, a ne vous point laisser faire de folie. 
+ARGAN.
+Chienne ! 
+TOINETTE.
+Non, je ne consentirai jamais a ce mariage. 
+ARGAN.
+Pendarde ! 
+TOINETTE.
+Je ne veux point qu'elle epouse votre Thomas Diafoirus. 
+ARGAN.
+Carogne ! 
+TOINETTE.
+Et elle m'obeira plutot qu'a vous. 
+ARGAN.
+Angelique, tu ne veux pas m'arreter cette coquine-la ? 
+ANGELIQUE.
+Eh, mon pere, ne vous faites point malade. 
+ARGAN.
+Si tu ne me l'arretes, je te donnerai ma malediction. 
+TOINETTE.
+Et moi je la desheriterai, si elle vous obeit. 
+ARGAN, se jette dans sa chaise, etant las de courir apres elle.
+Ah ! Ah ! Je n'en puis plus. Voila pour me faire mourir 
+SCENE VI. Beline, Angelique, Toinette, Argan.
+ARGAN.
+Ah ! Ma femme, approchez. 
+BELINE.
+Qu'avez-vous, mon pauvre mari ? 
+ARGAN.
+Venez-vous-en ici a mon secours ?
+BELINE.
+Qu'est-ce que c'est donc qu'il y a, mon petit fils ? 
+ARGAN.
+Mamie. 
+BELINE.
+Mon ami. 
+ARGAN.
+On vient de me mettre en colere.
+BELINE.
+Helas ! Pauvre petit mari. Comment donc, mon ami ? 
+ARGAN.
+Votre coquine de Toinette est devenue plus insolente que jamais. 
+BELINE.
+Ne vous passionnez donc point.
+ARGAN.
+Elle m'a fait enrager, mamie.
+BELINE.
+Doucement, mon fils. 
+ARGAN.
+Elle a contrecarre, une heure durant, les choses que je veux faire. 
+BELINE.
+La, la, tout doux. 
+ARGAN.
+Et a eu l'effronterie de me dire que je ne suis point malade. 
+BELINE.
+C'est une impertinente. 
+ARGAN.
+Vous savez, mon coeur, ce qui en est. 
+BELINE.
+Oui, mon coeur, elle a tort. 
+ARGAN.
+Mamour, cette coquine-la me fera mourir. 
+BELINE.
+Eh la, eh la.
+ARGAN.
+Elle est la cause de toute la bile que je fais. 
+BELINE.
+Ne vous fachez point tant. 
+ARGAN.
+Et il y a je ne sais combien que je vous dis de me la chasser. 
+BELINE.
+Mon Dieu, mon fils, il n'y a point de serviteurs, et de servantes qui n'aient leurs defauts. On est contraint parfois de souffrir leurs mauvaises qualites a cause des bonnes. Celle-ci est adroite, soigneuse, diligente, et surtout fidele ; et vous savez qu'il faut maintenant de grandes precautions pour les gens que l'on prend. Hola, Toinette. 
+TOINETTE.
+Madame. 
+BELINE.
+Pourquoi donc est-ce que vous mettez mon mari en colere ? 
+TOINETTE, d'un ton doucereux.
+Moi, Madame, helas ! Je ne sais pas ce que vous me voulez dire, et je ne songe qu'a complaire a Monsieur en toutes choses. 
+ARGAN.
+Ah ! La traitresse.
+TOINETTE.
+Il nous a dit qu'il voulait donner sa fille en mariage au fils de Monsieur Diafoirus ; je lui ai repondu que je trouvais le parti	avantageux pour elle ; mais que je croyais qu'il ferait mieux de la mettre dans un couvent. 
+BELINE.
+Il n'y a pas grand mal a cela, et je trouve qu'elle a raison. 
+ARGAN.
+Ah ! Mamour, vous la croyez ; c'est une scelerate. Elle m'a dit cent insolences. 
+BELINE.
+He bien je vous crois, mon ami. La, remettez-vous. Ecoutez, Toinette, si vous fachez jamais mon mari, je vous mettrai dehors. Ca, donnez-moi son manteau, fourre et des oreillers, que je l'accommode dans sa chaise. Vous voila je ne sais comment. Enfoncez bien votre bonnet jusque sur vos oreilles ; il n'y a rien qui enrhume tant, que de prendre l'air par les oreilles. 
+ARGAN.
+Ah ! Mamie, que je vous suis oblige de tous les soins que vous prenez de moi.
+BELINE, accommodant les oreillers qu'elle met autour d'Argan.
+Levez-vous, que je mette ceci sous vous. Mettons celui-ci pour vous appuyer, et celui-la de l'autre cote. Mettons celui-ci derriere votre dos, et cet autre-la pour soutenir votre tete. 
+TOINETTE, lui mettant rudement un oreiller sur la tete, et puis fuyant.
+Et celui-ci pour vous garder du serein. 
+ARGAN, se leve en colere, et jette tous les oreillers a Toinette.
+Ah !Coquine, tu veux m'etouffer. 
+BELINE.
+Eh la, eh la ! Qu'est-ce que c'est donc ? 
+ARGAN, tout essouffle, se jette dans sa chaise.
+Ah, ah, ah ! Je n'en puis plus. 
+BELINE.
+Pourquoi vous emporter ainsi ? Elle a cru faire bien. 
+ARGAN.
+Vous ne connaissez pas, mamour, la malice de la pendarde. Ah ! Elle m'a mis tout hors de moi ; et il faudra plus de huit medecines, et de douze lavements, pour reparer tout ceci. 
+BELINE.
+La, la, mon petit ami, apaisez-vous un peu. 
+ARGAN.
+Mamie, vous etes toute ma consolation. 
+BELINE.
+Pauvre petit fils. 
+ARGAN.
+Pour tacher de reconnaitre l'amour que vous me portez, je veux, mon coeur, comme je vous ai dit, faire mon testament. 
+BELINE.
+Ah ! Mon ami, ne parlons point de cela, je vous prie, je ne saurais souffrir cette pensee ; et le seul mot de testament me fait tressaillir de douleur. 
+ARGAN.
+Je vous avais dit de parler pour cela a votre notaire. 
+BELINE.
+Le voila la-dedans, que j'ai amene avec moi. 
+ARGAN.
+Faites-le donc entrer, mamour. 
+BELINE.
+Helas ! Mon ami, quand on aime bine un mari, on est guere en etat de songer a tout cela.
+SCENE VII. Le Notaire, Beline, Argan.
+ARGAN.
+Approchez, Monsieur de Bonnefoy, approchez. Prenez un siege, s'il vous plait. Ma femme m'a dit, Monsieur, que vous etiez fort honnete homme, et tout a fait de ses amis ; et je l'ai chargee de vous parler pour un testament que je veux faire. 
+BELINE.
+Helas ! Je ne suis point capable de parler de ces choses-la. 
+LE NOTAIRE.
+Elle m'a, Monsieur, explique vos intentions, et le dessein ou vous etes pour elle ; et j'ai a vous dire la-dessus que vous ne sauriez rien donner a votre femme par votre testament. 
+ARGAN.
+Mais pourquoi ? 
+LE NOTAIRE.
+La Coutume y resiste. Si vous etiez en pays de Droit ecrit, cela se pourrait faire ; mais a Paris, et dans les pays coutumiers, au moins dans la plupart, c'est ce qui ne se peut, et la disposition serait nulle. Tout l'avantage qu'homme et femme conjoints par mariage se peuvent faire l'un a l'autre, c'est un don mutuel entre-vifs ; encore faut-il qu'il n'y ait enfants, soit des deux conjoints, ou de l'un d'eux, lors du deces du premier mourant. 
+ARGAN.
+Voila une coutume bien impertinente, qu'un mari ne puisse rien laisser a une femme dont il est aime tendrement, et qui prend de lui tant de soin. J'aurais envie de consulter mon avocat, pour voir comment je pourrais faire. 
+LE NOTAIRE.
+Ce n'est point a des avocats qu'il faut aller, car ils sont d'ordinaire severes la-dessus, et s'imaginent que c'est un grand crime, que de disposer en fraude de la loi. Ce sont gens de difficultes, et qui sont ignorants des detours de la conscience. Il y a d'autres personnes a consulter, qui sont bien plus accommodantes ; qui ont des expedients pour passer doucement par-dessus la loi, et rendre juste ce qui n'est pas permis ; qui savent aplanir les difficultes d'une affaire, et trouver des moyens d'eluder la coutume par quelque avantage indirect. Sans cela, ou en serions-nous tous les jours ; il faut de la facilite dans les choses, autrement nous ne ferions rien, et je ne donnerais pas un sou de notre metier. 
+ARGAN.
+Ma femme m'avait bien dit, Monsieur, que vous etiez fort habile, et fort honnete homme. Comment puis-je faire, s'il vous plait, pour lui donner mon bien, et en frustrer mes enfants ? 
+LE NOTAIRE.
+Comment vous pouvez faire ? Vous pouvez choisir doucement un ami intime de votre femme, auquel vous donnerez en bonne forme par votre testament tout ce que vous pouvez ; et cet ami ensuite lui rendra tout. Vous pouvez encore contracter un grand nombre d'obligations, non suspectes, au profit de divers creanciers, qui preteront leur nom a votre femme, et entre les mains de laquelle ils mettront leur declaration que ce qu'ils en ont fait n'a ete que pour lui faire plaisir. Vous pouvez aussi, pendant que vous etes en vie, mettre entre ses mains de l'argent comptant, ou des billets que vous pourrez avoir, payables au porteur. 
+BELINE.
+Mon Dieu ! Il ne faut point vous tourmenter de tout cela. S'il vient faute de vous, mon fils, je ne veux plus rester au monde. 
+ARGAN.
+Mamie ! 
+BELINE.
+Oui, mon ami, si je suis assez malheureuse pour vous perdre... 
+ARGAN.
+Ma chere femme ! 
+BELINE.
+La vie ne me sera plus de rien. 
+ARGAN.
+Mamour ! 
+BELINE.
+Et je suivrai vos pas, pour vous faire connaitre la tendresse que j'ai pour vous. 
+ARGAN.
+Mamie, vous me fendez le coeur. Consolez-vous, je vous en prie. 
+BELINE.
+Ces larmes sont hors de saison, et les choses n'en sont point encore la. 
+ARGAN.
+Ah ! Monsieur, vous ne savez pas ce que c'est qu'un mari, qu'on aime tendrement. 
+BELINE.
+Tout le regret que j'aurai, si je meurs, mamie, c'est de n'avoir point un enfant de vous. Monsieur Purgon m'avait dit qu'il m'en ferait faire un. 
+LE NOTAIRE.
+Cela pourra venir encore. 
+ARGAN.
+Il faut faire mon testament, mamour, de la facon que Monsieur dit ; mais, par precaution, je veux vous mettre entre les vingt mille francs en or, que j'ai dans le lambris de mon alcove, et deux billets payables au porteur, qui me sont dus, l'un par Monsieur Damon, et l'autre par Monsieur Gerante.
+BELINE.
+Non, non, je ne veux point de tout cela. Ah ! Combien dites-vous qu'il y a dans votre alcove ? 
+ARGAN.
+Vingt mille francs, mamour. 
+BELINE.
+Ne me parlez point de bien, je vous prie. Ah ! De combien sont les deux billets ? 
+ARGAN.
+Ils sont, mamie, l'un de quatre mille francs, et l'autre de six. 
+BELINE.
+Tous les biens du monde, mon ami, ne me sont rien, au prix de vous. 
+LE NOTAIRE.
+Voulez-vous que nous procedions au testament ? 
+ARGAN.
+Oui, Monsieur ; mais nous serons mieux dans mon petit cabinet. Mamour, conduisez-moi, je vous prie. 
+BELINE.
+Allons, mon pauvre petit fils.
+SCENE VIII. Angelique, Toinette.
+TOINETTE.
+Les voila avec un notaire, et j'ai oui parler de testament. Votre belle-mere ne s'endort point, et c'est sans doute quelque conspiration contre vos interets, ou elle pousse votre pere. 
+ANGELIQUE.
+Qu'il dispose de son bien a sa fantaisie, pourvu qu'il ne dispose point de mon coeur. Tu vois, Toinette, les desseins violents que l'on fait sur lui. Ne m'abandonne point, je te prie, dans l'extremite ou je suis. 
+TOINETTE.
+Moi ? Vous abandonner, j'aimerais mieux mourir. Votre belle-mere a beau me faire sa confidente, et me vouloir jeter dans ses interets, je n'ai jamais pu avoir d'inclination pour elle, et j'ai toujours ete de votre parti. Laissez-moi faire, j'emploierai toute chose pour vous servir ; mais pour vous servir avec plus d'effet, je veux changer de batterie, couvrir le zele que j'ai pour vous, et feindre d'entrer dans les sentiments de votre pere, et de votre belle-mere. 
+ANGELIQUE.
+Tache, je t'en conjure, de faire donner avis a Cleante du mariage qu'on a conclu.
+TOINETTE.
+Je n'ai personne a employer a cet office, que le vieux usurier Polichinelle, mon amant, et il m'en coutera pour cela quelques	paroles de douceur, que je veux bien depenser pour vous. Pour aujourd'hui il est trop tard ; mais demain du grand matin, je l'enverrai querir, et il sera ravi de... 
+BELINE.
+Toinette. 
+TOINETTE.
+Voila qu'on m'appelle. Bonsoir. Reposez-vous sur moi. 
+
+
+			PREMIER INTERMEDE
+
+
+***
+Polichinelle, dans la nuit, vient pour donner une serenade a sa maitresse. Il est interrompu d'abord par des violons, contre lesquels il se met en colere, et ensuite par le Guet, compose de musiciens et de danseurs.
+POLICHINELLE.
+O amour, amour, amour, amour ! Pauvre Polichinelle, quelle diable de fantaisie t'es-tu alle mettre dans la cervelle ? A quoi t'amuses-tu, miserable insense que tu es ? Tu quittes le soin de ton negoce, et tu laisses aller tes affaires a l'abandon. Tu ne manges plus, tu ne bois presque plus, tu perds le repos de la nuit ; et tout cela pour qui ? Pour une dragonne, franche dragonne ; une diablesse qui te rembarre, et se moque de tout ce que tu peux lui dire. Mais il n'y a point a raisonner la-dessus : tu le veux, amour ; il faut etre fou comme beaucoup d'autres. Cela n'est pas le mieux du monde a un homme de mon age : mais qu'y faire ? On n'est pas sage quand on veut, et les vieilles cervelles se demontent comme les jeunes. 
+Je viens voir si je ne pourrai point adoucir ma tigresse par une serenade. Il n'y a rien parfois qui soit si touchant qu'un amant qui vient chanter ses doleances aux gonds et aux verrous de la porte de sa maitresse. Voici de quoi accompagner ma voix. O nuit ! O chere nuit ! Porte mes plaintes amoureuses jusque dans le lit de mon inflexible. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+	Notte e di v' amo e v' adoro, 
+	Cerco' un si per mio ristoro ; 
+	Ma se voi dite di no, 
+	Bell' ingrata, io moriro. 
+
+
+	Fra la speranza 
+	S' afflige il cuore, 
+	In lontananza 
+	Consum a l'hore ; 
+	Si dolce inganmo 
+	Che mi figura 
+	Breve l'affanno 
+	Ahi troppo dur, 
+	Cosi per tropp' amar languisco e muoro. 
+	Notte e di v' amo e v' adoro, 
+	Cerco' un si per mio ristoro ; 
+	Ma se voi dite di no, 
+	Bell' ingrata, io moriro. 
+
+
+	Se non dormite, 
+	Almen pensate 
+	Alle ferite 
+	Ch' al cuor mi fate ; 
+	Deh almen fingete, 
+	Per mio conforto, 
+	Se m' uccidete, 
+	D' haver il torto : 
+	Vostra pieta mi scemera il martoro. 
+	Notte e di v' amo e vadoro, 
+	Cerco un si per mio ristoro, 
+	Ma se voi dite di no, 
+	Bell' ingrata, io moriro. 
+
+			[0]
+UNE VIEILLE se presente a la fenetre, et repond au seignor Polichinelle en se moquant de lui.
+
+
+	Zerbinetti, ch' ogn' hor con finti sguardi, 
+	Mentiti desiri, 
+	Fallaci sospiri, 
+	Accenti Buggiardi, 
+	Di fede vi preggiate, 
+	Ah che non m' ingannate, 
+	Che gia so per prova 
+	Ch' in voi non si trova 
+	Constanza ne fede : 
+	Oh quanto e pazza colei che vi crede ! 
+
+
+	Quei sguardi languidi 
+	Non m' innamorano, 
+	Quei sospir fervidi 
+	Piu non m' infiammano, 
+	Vel giuro a fe. 
+	Zerbino misero, 
+	Del vostro piangere 
+	Il mio cor libero 
+	Vuol sempre ridere, 
+	Credet' a me : 
+	Che gia so per prova 
+	Ch' in voi non si trova 
+	Constanza ne fede : 
+	Oh ! quanto e pazza colei che vi crede ! 
+
+			[0]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)POLICHINELLE.
+Quelle impertinente harmonie vient interrompre ici ma voix ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Paix la, taisez-vous, violons. Laissez-moi me plaindre a mon aise des cruautes de mon inexorable. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Taisez-vous vous dis-je. C'est moi qui veux chanter. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Paix donc ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ouais ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ahi ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Est-ce pour rire ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah que de bruit ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le diable vous emporte ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'enrage. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous ne vous tairez pas ? Ah, Dieu soit loue ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Encore ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Peste des violons ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La sotte musique que voila ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La, la, la, la, la, la. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La, la, la, la, la, la. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La, la, la, la, la, la. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La, la, la, la, la, la. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La, la, la, la, la, la. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Par ma foi ! Cela me divertit. Poursuivez, Messieurs les Violons, vous me ferez plaisir. Allons donc, continuez. Je vous en prie. Voila le moyen de les faire taire. La musique est accoutumee a ne point faire ce qu'on veut. Ho sus, a nous ! Avant que de chanter, il faut que je prelude un peu, et joue quelque piece, afin de mieux prendre mon ton. Plan, plan, plan. Plin, plin, plin. Voila un temps facheux pour mettre un luth d'accord. Plin, plin, plin. Plin, tan, plan. Plin, plin. Les cordes ne tiennent point par ce temps-la. Plin, plan. J'entends du bruit, mettons mon luth contre la porte. 
+ARCHERS, passant dans la rue, accourent au bruit qu'ils entendent et demandent :
+Qui va la, qui va la ? 
+POLICHINELLE, tout bas :
+Qui diable est cela ? Est-ce que c'est la mode de parler en musique ? 
+ARCHERS.
+Qui va la, qui va la, qui va la ? 
+POLICHINELLE, epouvante.
+Moi, moi, moi. 
+ARCHERS.
+Qui va la, qui va la ? Vous dis-je. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Moi, moi, vous dis-je. 
+ARCHERS.
+Et qui toi, et qui toi ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Moi, moi, moi, moi, moi, moi. 
+ARCHERS.
+Dis ton nom, dis ton nom, sans davantage attendre. 
+POLICHINELLE, feignant d'etre bien hardi.
+Mon nom est : Va te faire pendre. 
+ARCHERS.
+Ici, camarades, ici. Saisissons l'insolent qui nous repond ainsi. 
+ENTREE DE BALLET.
+Tout le Guet vient, qui cherche Polichinelle dans la nuit. Violons et Danseurs.
+POLICHINELLE.
+Qui va la ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qui sont les coquins que j'entends ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Euh ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Hola, mes laquais, mes gens.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Par la mort.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Par la sang.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'en jetterai par terre. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Champagne, Poitevin, Picard, Basque, Breton ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Donnez-moi mon mousqueton. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Poue. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah, ah, ah, ah, comme je leur ai donne l'epouvante. Voila de sottes gens d'avoir peur de moi qui ai peur des autres. Ma foi il n'est que de jouer d'adresse en ce monde. Si je n'avais tranche du grand seigneur, et n'avais fait le brave, ils n'auraient pas manque de me happer. Ah, ah, ah.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARCHERS.
+Nous le tenons, a nous, camarades, a nous, depechez, de la lumiere. 
+BALLET.
+Tout le Guet vient avec des lanternes.
+POLICHINELLE.
+Messieurs, c'est que j'etais ivre. 
+ARCHERS.
+Non, non, non, point de raison ; 
+Il faut vous apprendre a vivre. 
+En prison, vite, en prison. 			[210]
+POLICHINELLE.
+Messieurs, je ne suis point voleur. 
+ARCHERS.
+En prison. 
+POLICHINELLE.
+Je suis un bourgeois de la ville. 
+ARCHERS.
+En prison. 
+POLICHINELLE.
+Qu'ai-je fait ? 
+ARCHERS.
+En prison, vite, en prison. 
+POLICHINELLE.
+Messieurs, laissez-moi aller. 
+ARCHERS.
+Non. 
+POLICHINELLE.
+Je vous prie. 
+ARCHERS.
+Non. 
+POLICHINELLE.
+Eh ! 
+ARCHERS.
+Non. 
+POLICHINELLE.
+De grace. 
+ARCHERS.
+Non, non. 
+POLICHINELLE.
+Messieurs. 
+ARCHERS.
+Non, non, non. 
+POLICHINELLE.
+S'il vous plait. 
+ARCHERS.
+Non, non. 
+POLICHINELLE.
+Par charite. 
+ARCHERS.
+Non, non. 
+POLICHINELLE.
+Au nom du Ciel ! 
+ARCHERS.
+Non, non. 
+POLICHINELLE.
+Misericorde ! 
+ARCHERS.
+Non, non, non, point de raison.
+Il faut vous apprendre a vivre, 
+En prison vite, en prison. 
+POLICHINELLE.
+Eh ! N'est-il rien, Messieurs, qui soit capable d'attendrir vos ames ? 
+ARCHERS.
+Il est aise de nous toucher, 
+Et nous sommes humains plus qu'on ne saurait croire,			[215]
+Donnez-nous doucement six pistoles pour boire ;
+Nous allons vous lacher. 
+POLICHINELLE.
+Helas, Messieurs, je vous assure que je n'ai pas un sou sur moi. 
+ARCHERS.
+Au defaut de six pistoles, 
+Choisissez donc sans facon
+D'avoir trente croquignoles, 			[220]
+Ou douze coups de baton. 
+POLICHINELLE.
+Si c'est une necessite, et qu'il faille en passer par la, je choisis les croquignoles. 
+ARCHERS.
+Allons, preparez-vous, 
+Et comptez bien les coups. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)POLICHINELLE.
+Un et deux, trois et quatre, cinq et six, sept et huit, neuf et dix, onze et douze, et treize, et quatorze, et quinze. 
+ARCHERS.
+Ah, ah, vous en voulez passer ; 
+Allons, c'est a recommencer. 			[225]
+POLICHINELLE.
+Ah, Messieurs, ma pauvre tete n'en peut plus, et vous venez de me la rendre comme une pomme cuite. J'aime mieux encore les coups de baton, que de recommencer. 
+ARCHERS.
+Soit, puisque le baton est pour vous plus charmant, 
+Vous aurez contentement. 
+BALLET.
+Les Archers danseurs lui donnent des coups de baton en cadence.
+POLICHINELLE.
+Un, deux, trois, quatre, cinq, six, ah, ah, ah, je n'y saurais plus resister. Tenez, Messieurs, voila six pistoles que je vous donne. 
+ARCHERS.
+Ah, l'honnete homme ! Ah, l'ame noble et belle ! 
+Adieu, Seigneur, adieu, Seigneur Polichinelle. 
+POLICHINELLE.
+Messieurs, je vous donne le bonsoir. 
+ARCHERS.
+Adieu, Seigneur, adieu, Seigneur Polichinelle. 			[230]
+POLICHINELLE.
+Votre serviteur. 
+ARCHERS.
+Adieu, Seigneur, adieu, Seigneur Polichinelle. 
+POLICHINELLE.
+Tres humble valet. 
+ARCHERS.
+Adieu, Seigneur, adieu, Seigneur Polichinelle.
+POLICHINELLE.
+Jusqu'au revoir. 
+BALLET.
+Ils dansent tous, en rejouissance de l'argent qu'ils ont recu. Le theatre change et represente la meme chambre.
+
+
+			ACTE II
+
+
+SCENE I. Toinette, Cleante.
+TOINETTE.
+Que demandez-vous, Monsieur ? 
+CLEANTE.
+Ce que je demande ? 
+TOINETTE.
+Ah, ah, c'est vous ? Quelle surprise ! Que venez-vous faire ceans ? 
+CLEANTE.
+Savoir ma destinee ; parler a l'aimable Angelique ; consulter les sentiments de son coeur ; et lui demander ses resolutions sur ce mariage fatal, dont on m'a averti. 
+TOINETTE.
+Oui, mais on ne parle pas comme cela de but en blanc a Angelique ; il faut des mysteres ; et l'on vous a dit l'etroite garde ou elle est retenue, qu'on ne la laisse ni sortir, ni parler a personne, et que ce ne fut que la curiosite d'une vieille tante qui nous fit accorder la liberte d'aller a cette comedie, qui donna lieu a la naissance de votre passion, et nous nous sommes bien garde[e]s de parler de cette aventure.
+CLEANTE.
+Aussi ne viens-je pas ici comme Cleante, et sous l'apparence de son amant, mais comme ami de son maitre de musique, dont j'ai	obtenu le pouvoir de dire qu'il m'envoie a sa place. 
+TOINETTE.
+Voici son pere. Retirez-vous un peu, et me laissez lui dire que vous etes la. 
+SCENE II. Argan, Toinette, Cleante.
+ARGAN.
+Monsieur Purgon m'a dit de me promener le matin dans ma chambre douze allees, et douze venues ; mais j'ai oublie a lui demander si c'est en long, ou en large. 
+TOINETTE.
+Monsieur, voila un... 
+ARGAN.
+Parle bas, pendarde, tu viens m'ebranler tout le cerveau, et tu ne songes pas qu'il ne faut point parler si haut a des malades. 
+TOINETTE.
+Je voulais vous dire, Monsieur... 
+ARGAN.
+Parle bas, te dis-je. 
+TOINETTE.
+Monsieur... 
+ARGAN.
+Eh ? 
+TOINETTE.
+Je vous dis que... 
+ARGAN.
+Qu'est-ce que tu dis ? 
+TOINETTE, haut.
+Je dis que voila un homme qui veut parler a vous. 
+ARGAN.
+Qu'il vienne. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLEANTE.
+Monsieur... 
+TOINETTE, raillant.
+Ne parlez pas si haut, de peur d'ebranler le cerveau de Monsieur. 
+CLEANTE.
+Monsieur, je suis ravi de vous trouver debout, et de voir que vous vous portez mieux. 
+TOINETTE, feignant d'etre en colere.
+Comment qu'il se porte mieux ? Cela est faux, Monsieur se porte toujours mal. 
+CLEANTE.
+J'ai oui dire que Monsieur etait mieux, et je lui trouve bon visage. 
+TOINETTE.
+Que voulez-vous dire avec votre bon visage ? Monsieur l'a fort mauvais, et ce sont des impertinents qui vous ont dit qu'il etait mieux. Il ne s'est jamais si mal porte. 
+ARGAN.
+Elle a raison. 
+TOINETTE.
+Il marche, dort, mange, et boit tout comme les autres ; mais cela n'empeche pas qu'il ne soit fort malade. 
+ARGAN.
+Cela est vrai. 
+CLEANTE.
+Monsieur, j'en suis au desespoir. Je viens de la part du maitre a chanter de Mademoiselle votre fille. Il s'est vu oblige d'aller a la campagne pour quelques jours ; et comme son ami intime, il m'envoie a sa place pour lui continuer ses lecons, de peur qu'en les interrompant elle ne vint a oublier ce qu'elle sait deja. 
+ARGAN.
+Fort bien. Appelez Angelique. 
+TOINETTE.
+Je crois, Monsieur, qu'il sera mieux de mener Monsieur a sa chambre. 
+ARGAN.
+Non, faites-la venir. 
+TOINETTE.
+Il ne pourra lui donner lecon, comme il faut, s'ils ne sont en particulier. 
+ARGAN.
+Si fait, si fait. 
+TOINETTE.
+Monsieur, cela ne fera que vous etourdir, et il ne faut rien pour vous emouvoir en l'etat ou vous etes, et vous ebranler le cerveau. 
+ARGAN.
+Point, point, j'aime la musique, et je serai bien aise de... Ah ! La voici. Allez-vous-en voir, vous, si ma femme est habillee. 
+SCENE III. Argan, Angelique, Cleante.
+ARGAN.
+Venez, ma fille : votre maitre de musique est alle aux champs, et voila une personne qu'il envoie a sa place pour vous montrer. 
+ANGELIQUE.
+Ah, Ciel ! 
+ARGAN.
+Qu'est-ce ? D'ou vient cette surprise ? 
+ANGELIQUE.
+C'est... 
+ARGAN.
+Quoi ? Qui vous emeut de la sorte ? 
+ANGELIQUE.
+C'est, mon pere, une aventure surprenante qui se rencontre ici. 
+ARGAN.
+Comment ? 
+ANGELIQUE.
+J'ai songe cette nuit que j'etais dans le plus grand embarras du monde, et qu'une personne faite tout comme Monsieur s'est presentee a moi, a qui j'ai demande secours, et qui m'est venue tirer de la peine ou j'etais ; et ma surprise a ete grande de voir inopinement, en arrivant ici, ce que j'ai eu dans l'idee toute la nuit. 
+CLEANTE.
+Ce n'est pas etre malheureux que d'occuper votre pensee, soit en dormant, soit en veillant, et mon bonheur serait grand sans doute, si vous etiez dans quelque peine, dont vous me jugeassiez digne de vous tirer ; et il n'y a rien que je ne fisse pour... 
+SCENE IV. Toinette, Cleante, Angelique, Argan.
+TOINETTE, par derision.
+Ma foi, Monsieur, je suis pour vous maintenant, et je me dedis de tout ce que je disais hier. Voici Monsieur Diafoirus le pere, et Monsieur Diafoirus le fils, qui viennent vous rendre visite. Que vous serez bien engendre ! Vous allez voir le garcon le mieux fait du monde, et le plus spirituel. Il n'a dit que deux mots, qui m'ont ravie, et votre fille va etre charmee de lui. 
+ARGAN, a Cleante, qui feint de vouloir s'en aller.
+Ne vous en allez point, Monsieur. C'est que je marie ma fille, et voila qu'on lui amene son pretendu mari, qu'elle n'a point encore vu. 
+CLEANTE.
+C'est m'honorer beaucoup, Monsieur, de vouloir que je sois temoin d'une entrevue si agreable. 
+ARGAN.
+C'est le fils d'un habile medecin, et le mariage se fera dans quatre jours. 
+CLEANTE.
+Fort bien. 
+ARGAN.
+Mandez-le un peu a son maitre de musique, afin qu'il se trouve a la noce. 
+CLEANTE.
+Je n'y manquerai pas. 
+ARGAN.
+Je vous y prie aussi. 
+CLEANTE.
+Vous me faites beaucoup d'honneur. 
+TOINETTE.
+Allons qu'on se range, les voici. 
+SCENE V. Monsieur Diafoirus, Thomas Diafoirus, Argan, Angelique, Cleante, Toinette.
+ARGAN, mettant la main a son bonnet sans l'oter.
+Monsieur Purgon, Monsieur, m'a defendu de decouvrir ma tete. Vous etes du metier, vous savez les consequences. 
+MONSIEUR DIAFOIRUS
+Nous sommes dans toutes nos visites pour porter secours aux malades, et non pour leur porter de l'incommodite. 
+ARGAN.
+Je recois, Monsieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MONSIEUR DIAFOIRUS.
+Nous venons ici, Monsieur... 
+ARGAN.
+Avec beaucoup de joie... 
+MONSIEUR DIAFOIRUS.
+Mon fils Thomas, et moi. 
+ARGAN.
+L'honneur que vous me faites. 
+MONSIEUR DIAFOIRUS.
+Vous temoigner, Monsieur. 
+ARGAN.
+Et j'aurais souhaite. 
+MONSIEUR DIAFOIRUS.
+Le ravissement ou nous sommes. 
+ARGAN.
+De pouvoir aller chez vous. 
+MONSIEUR DIAFOIRUS.
+De la grace que vous nous faites. 
+ARGAN.
+Pour vous en assurer. 
+MONSIEUR DIAFOIRUS.
+De vouloir bien nous recevoir. 
+ARGAN.
+Mais vous savez, Monsieur. 
+MONSIEUR DIAFOIRUS.
+Dans l'honneur, Monsieur. 
+ARGAN.
+Ce que c'est qu'un pauvre malade. 
+MONSIEUR DIAFOIRUS.
+De votre alliance. 
+ARGAN.
+Qui ne peut faire autre chose. 
+MONSIEUR DIAFOIRUS.
+Et vous assurer. 
+ARGAN.
+Que de vous dire ici. 
+MONSIEUR DIAFOIRUS.
+Que dans les choses qui dependront de notre metier. 
+ARGAN.
+Qu'il cherchera toutes les occasions. 
+MONSIEUR DIAFOIRUS.
+De meme qu'en toute autre. 
+ARGAN.
+De vous faire connaitre, Monsieur... 
+MONSIEUR DIAFOIRUS.
+Nous serons toujours prets, Monsieur. 
+ARGAN.
+Qu'il est tout a votre service. 
+MONSIEUR DIAFOIRUS.
+A vous temoigner notre zele. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons, Thomas, avancez. Faites vos compliments. 
+THOMAS DIAFOIRUS est un grand benet, nouvellement sorti des Ecoles, qui fait toutes choses de mauvaise grace, et a contre-temps.
+N'est-ce pas par le pere qu'il convient commencer ? 
+MONSIEUR DIAFOIRUS.
+Oui. 
+THOMAS DIAFOIRUS.
+Monsieur, je viens saluer, reconnaitre, cherir, et reverer en vous un second pere ; mais un second pere auquel j'ose dire que je me trouve plus redevable qu'au premier. Le premier m'a engendre ; mais vous m'avez choisi. Il m'a recu par necessite ; mais vous m'avez accepte par grace. Ce que je tiens de lui est un ouvrage de son corps ; mais ce que je tiens de vous est un ouvrage de votre volonte ; et d'autant plus que les facultes spirituelles, sont au-dessus des corporelles, d'autant plus je vous dois, et d'autant plus je tiens precieuse cette future filiation, dont je viens aujourd'hui vous rendre par avance les tres humbles et tres respectueux hommages. 
+TOINETTE.
+Vivent les colleges, d'ou l'on sort si habile homme ! 
+THOMAS DIAFOIRUS.
+Cela a-t-il bien ete, mon pere ? 
+MONSIEUR DIAFOIRUS.
+Optime. 
+ARGAN, a Angelique.
+Allons, saluez Monsieur. 
+THOMAS DIAFOIRUS.
+Baiserai-je ? 
+MONSIEUR DIAFOIRUS.
+Oui, oui. 
+THOMAS DIAFOIRUS, a Angelique.
+Madame, c'est avec justice, que le Ciel vous a concede le nom de belle-mere, puisque l'on... 
+ARGAN.
+Ce n'est pas ma femme, c'est ma fille a qui vous parlez. 
+THOMAS DIAFOIRUS.
+Ou donc est-elle ? 
+ARGAN.
+Elle va venir. 
+THOMAS DIAFOIRUS.
+Attendrai-je, mon pere, qu'elle soit venue ? 
+MONSIEUR DIAFOIRUS.
+Faites toujours le compliment de Mademoiselle. 
+THOMAS DIAFOIRUS.
+Mademoiselle, ne plus, ne moins que la statue de Memnon rendait un son harmonieux, lorsqu'elle venait a etre eclairee des rayons du soleil : tout de meme me sens-je anime d'un doux transport a l'apparition du soleil de vos beautes. Et comme les naturalistes remarquent que la fleur nommee heliotrope tourne sans cesse vers cet astre du jour, aussi mon coeur dores-en-avant tournera-t-il toujours vers les astres resplendissants de vos yeux adorables, ainsi que vers son pole unique. Souffrez donc, Mademoiselle, que j'appende aujourd'hui a l'autel de vos charmes l'offrande de ce coeur, qui ne respire et n'ambitionne autre gloire, que d'etre toute sa vie, Mademoiselle, votre tres humble, tres obeissant, et tres fidele serviteur et mari. 
+TOINETTE, en le raillant.
+Voila ce que c'est que d'etudier, on apprend a dire de belles choses. 
+ARGAN.
+Eh ! Que dites-vous de cela ? 
+CLEANTE.
+Que Monsieur fait merveilles, et que s'il est aussi bon medecin qu'il est bon orateur, il y aura plaisir a etre de ses malades. 
+TOINETTE.
+Assurement. Ce sera quelque chose d'admirable s'il fait d'aussi belles cures qu'il fait de beaux discours.
+ARGAN.
+Allons vite ma chaise, et des sieges a tout le monde. Mettez-vous la ; ma fille. Vous voyez, Monsieur, que tout le monde admire Monsieur votre fils, et je vous trouve bien heureux de vous voir un garcon comme cela. 
+MONSIEUR DIAFOIRUS.
+Monsieur, ce n'est pas parce que je suis son pere, mais je puis dire que j'ai sujet d'etre content de lui, et que tous ceux qui le voient en parlent comme d'un garcon qui n'a point de mechancete. Il n'a jamais eu l'imagination bien vive, ni ce feu d'esprit qu'on remarque dans quelques-uns, mais c'est par la que j'ai toujours bien augure de sa judiciaire, qualite requise pour l'exercice de notre art. Lorsqu'il etait petit, il n'a jamais ete ce qu'on appelle mievre et eveille. On le voyait toujours doux, paisible, et taciturne, ne disant jamais mot, et ne jouant jamais a tous ces petits jeux que l'on nomme enfantins. On eut toutes les peines du monde a lui apprendre a lire, et il avait neuf ans, qu'il ne connaissait pas encore ses lettres. Bon, disais-je en moi-meme, les arbres tardifs sont ceux qui portent les meilleurs fruits. On grave sur le marbre bien plus malaisement que sur le sable ; mais les choses y sont conservees bien plus longtemps, et cette lenteur a comprendre, cette pesanteur d'imagination, est la marque d'un bon jugement a venir. Lorsque je l'envoyai au college, il trouva de la peine ; mais il se raidissait contre les difficultes, et ses regents se louaient toujours a moi de son assiduite, et de son travail. Enfin, a force de battre le fer, il en est venu glorieusement a avoir ses licences ; et je puis dire sans vanite que depuis deux ans qu'il est sur les bancs, il n'y a point de candidat qui ait fait plus de bruit que lui dans toutes les disputes de notre Ecole. Il s'y est rendu redoutable, et il ne s'y passe point d'acte ou il n'aille argumenter a outrance pour la proposition contraire. Il est ferme dans la dispute, fort comme un turc sur ses principes, ne demord jamais de son opinion, et poursuit un raisonnement jusque dans les derniers recoins de la logique. Mais sur toute chose ce qui me plait en lui, et en quoi il suit mon exemple, c'est qu'il s'attache aveuglement aux opinions de nos anciens, et que jamais il n'a voulu comprendre ni ecouter les raisons et les experiences des pretendues decouvertes de notre siecle, touchant la circulation du sang, et autres opinions de meme farine. 
+THOMAS DIAFOIRUS. Il tire une grande these roulee de sa poche, qu'il presente a Angelique.
+J'ai contre les circulateurs soutenu une these, qu'avec la permission de Monsieur, j'ose presenter a Mademoiselle, comme un hommage que je lui dois des premices de mon esprit.
+ANGELIQUE.
+Monsieur, c'est pour moi un meuble inutile, et je ne me connais pas a ces choses-la.
+TOINETTE.
+Donnez, donnez, elle est toujours bonne a prendre pour l'image ; cela servira a parer notre chambre. 
+THOMAS DIAFOIRUS.
+Avec la permission aussi de Monsieur, je vous invite a venir voir l'un de ces jours, pour vous divertir, la dissection d'unefemme, sur quoi je dois raisonner.
+TOINETTE.
+Le divertissement sera agreable. Il y en a qui donnent la comedie a leurs maitresses ; mais donner une dissection est quelque chose de plus galant.
+MONSIEUR DIAFOIRUS.
+Au reste, pour ce qui est des qualites requises, pour le mariage et la propagation, je vous assure que, selon les regles de nos docteurs, il est tel qu'on le peut souhaiter. Qu'il possede en un degre louable la vertu prolifique et qu'il est du temperament qu'il faut pour engendrer et procreer des enfants bien conditionnes. 
+ARGAN.
+N'est-ce pas votre intention, Monsieur, de le pousser a la Cour, et d'y menager pour lui une charge de medecin ? 
+MONSIEUR DIAFOIRUS.
+A vous en parler franchement, notre metier aupres des grands ne m'a jamais paru agreable, et j'ai toujours trouve qu'il valait mieux, pour nous autres, demeurer au public. Le public est commode. Vous n'avez a repondre de vos actions a personne, et pourvu que l'on suive le courant des regles de l'art, on ne se met point en peine de tout ce qui peut arriver. Mais ce qu'il y a de facheux aupres des grands, c'est que quand ils viennent a etre malades, ils veulent absolument que leurs medecins les guerissent. 
+TOINETTE.
+Cela est plaisant, et ils sont bien impertinents de vouloir que vous autres Messieurs vous les guerissiez ; vous n'etes point	aupres d'eux pour cela ; vous n'y etes que pour recevoir vos pensions, et leur ordonner des remedes, c'est a eux a guerir s'ils peuvent. 
+MONSIEUR DIAFOIRUS.
+Cela est vrai. On n'est oblige qu'a traiter les gens dans les formes. 
+ARGAN.
+Monsieur, faites un peu chanter ma fille, devant la compagnie. 
+CLEANTE.
+J'attendais vos ordres, Monsieur, et il m'est venu en pensee, pour divertir la compagnie, de chanter avec Mademoiselle, une scene	d'un petit opera qu'on a fait depuis peu. Tenez, voila votre partie. 
+ANGELIQUE.
+Moi ? 
+CLEANTE.
+Ne vous defendez point, s'il vous plait, et me laissez vous faire comprendre ce que c'est que la scene que nous devons chanter. Je n'ai pas une voix a chanter ; mais ici il suffit que je me fasse entendre, et l'on aura la bonte de m'excuser par la necessite ou je me trouve, de faire chanter Mademoiselle. 
+ARGAN.
+Les vers sont-ils beaux ? 
+CLEANTE.
+C'est proprement ici un petit opera impromptu, et vous n'allez entendre chanter que de la prose cadencee, ou des manieres de vers	libres, tels que la passion, et la necessite peuvent faire trouver a deux personnes qui disent les choses d'eux-memes, et parlent sur-le-champ.
+ARGAN.
+Fort bien. Ecoutons. 
+CLEANTE, sous le nom d'un berger, explique a sa maitresse son amour depuis leur rencontre, et ensuite ils s'appliquent leurs pensees l'un a l'autre en chantant.
+Voici le sujet de la scene. Un Berger etait attentif aux beautes d'un spectacle, qui ne faisait que de commencer, lorsqu'il fut tire de son attention par un bruit qu'il entendit a ses cotes. Il se retourne, et voit un brutal, qui de paroles insolentes maltraitait une bergere. D'abord il prend les interets d'un sexe a qui tous les hommes doivent hommage ; et apres avoir donne au brutal le chatiment de son insolence, il vient a la Bergere, et voit une jeune personne qui, des deux plus beaux yeux qu'il eut jamais vus, versait des larmes, qu'il trouva les plus belles du monde. Helas ! dit-il en lui-meme, est-on capable d'outrager une personne si aimable ? Et quel inhumain, quel barbare ne serait touche par de telles larmes ? Il prend soin de les arreter, ces larmes, qu'il trouve si belles ; et l'aimable Bergere prend soin en meme temps de le remercier de son leger service, mais d'une maniere si charmante, si tendre, et si passionnee, que le Berger n'y peut resister ; et chaque mot, chaque regard, est un trait plein de flamme, dont son coeur se sent penetre. Est-il, disait-il, quelque chose qui puisse meriter les aimables paroles d'un tel remerciement ? Et que ne voudrait-on pas faire ; a quels services, a quels dangers, ne serait-on pas ravi de courir, pour s'attirer un seul moment des touchantes douceurs d'une ame si reconnaissante ? Tout le spectacle passe sans qu'il y donne aucune attention ; mais il se plaint qu'il est trop court, parce qu'en finissant il le separe de son adorable Bergere ; et de cette premiere vue, de ce premier moment il emporte chez lui tout ce qu'un amour de plusieurs annees peut avoir de plus violent. Le voila aussitot a sentir tous les maux de l'absence, et il est tourmente de ne plus voir ce qu'il a si peu vu. Il fait tout ce qu'il peut pour se redonner cette vue, dont il conserve, nuit et jour, une si chere idee ; mais la grande contrainte ou l'on tient sa Bergere lui en ote tous les moyens. La violence de sa passion le fait resoudre a demander en mariage l'adorable beaute sans laquelle il ne peut plus vivre, et il en obtient d'elle la permission par un billet qu'il a l'adresse de lui faire tenir. Mais dans le meme temps on l'avertit que le pere de cette belle a conclu son mariage avec un autre, et que tout se dispose pour en celebrer la ceremonie. Jugez quelle atteinte cruelle au coeur de ce triste Berger. Le voila accable d'une mortelle douleur. Il ne peut souffrir l'effroyable idee de voir tout ce qu'il aime entre les bras d'un autre, et son amour au desespoir lui fait trouver moyen de s'introduire dans la maison de sa Bergere pour apprendre ses sentiments, et savoir d'elle la destinee a laquelle il doit se resoudre. Il y rencontre les apprets de tout ce qu'il craint ; il y voit venir l'indigne rival que le caprice d'un pere oppose aux tendresses de son amour. Il le voit triomphant, ce rival ridicule, aupres de l'aimable Bergere, ainsi qu'aupres d'une conquete qui lui est assuree, et cette vue le remplit d'une colere, dont il a peine a se rendre le maitre. Il jette de douloureux regards sur celle qu'il adore, et son respect, et la presence de son pere l'empechent de lui rien dire que des yeux. Mais enfin il force toute contrainte, et le transport de son amour l'oblige a lui parler ainsi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Belle Philis, c'est trop, c'est trop souffrir ; 
+Rompons ce dur silence, et m'ouvrez vos pensees, 
+Apprenez-moi ma destinee, 
+Faut-il vivre ? Faut-il mourir ? 			[235]
+ANGELIQUE repond en chantant :
+Vous me voyez, Tircis, triste et melancolique, 
+Aux apprets de l'hymen dont vous vous alarmez, 
+Je leve au ciel les yeux, je vous regarde, je soupire, 
+C'est vous en dire assez. 
+ARGAN.
+Ouais, je ne croyais pas que ma fille fut si habile que de chanter ainsi a livre ouvert, sans hesiter. 
+CLEANTE.
+Helas ! Belle Philis, 			[240]
+Se pourrait-il que l'amoureux Tircis.
+Eut assez de bonheur,
+Pour avoir quelque place dans votre coeur ? 
+ANGELIQUE.
+Je ne m'en defends point dans cette peine extreme,
+Oui, Tircis, je vous aime. 			[245]
+CLEANTE.
+O ! Parole pleine d'appas ! 
+Ai-je bien entendu, helas ! 
+Redites-la, Philis, que je n'en doute pas. 
+ANGELIQUE.
+Oui, Tircis, je vous aime. 
+CLEANTE.
+De grace encor, Philis. 			[250]
+ANGELIQUE.
+Je vous aime. 
+CLEANTE.
+Recommencez cent fois, ne vous en lassez pas. 
+ANGELIQUE.
+Je vous aime, je vous aime, 
+Oui, Tircis, je vous aime. 
+CLEANTE.
+Dieux, rois, qui sous vos pieds regardez tout le monde, 			[255]
+Pouvez-vous comparer votre bonheur au mien ? 
+Mais, Philis, une pensee 
+Vient troubler ce doux transport : 
+Un rival, un rival... 
+ANGELIQUE.
+Ah ! Je le hais plus que la mort, 			[260]
+Et sa presence, ainsi qu'a vous, 
+M'est un cruel supplice. 
+CLEANTE.
+Mais un pere a ses voeux vous veut assujettir. 
+ANGELIQUE.
+Plutot, plutot mourir, 
+Que de jamais y consentir ; 			[265]
+Plutot, plutot mourir, plutot mourir. 
+CLEANTE.
+Et que dit le pere a tout cela ?
+ANGELIQUE.
+Il ne dit rien.
+ARGAN.
+Voila un sot pere, que ce pere-la, de souffrir toutes ces sottises-la sans rien dire. 
+CLEANTE.
+Ah ! mon amour... 
+ARGAN.
+Non, non, en voila assez. Cette comedie-la est de fort mauvais exemple. Le berger Tircis est un impertinent, et la bergere Philis une impudente, de parler de la sorte devant son pere. Montrez-moi ce papier. Ha, ha. Ou sont donc les paroles que vous avez dites ? Il n'y a la que de la musique ecrite ? 
+CLEANTE.
+Est-ce que vous ne savez pas, Monsieur, qu'on a trouve depuis peu l'invention d'ecrire les paroles avec les notes memes ? 
+ARGAN.
+Fort bien. Je suis votre serviteur, Monsieur ; jusqu'au revoir. Nous nous serions bien passes de votre impertinent d'opera. 
+CLEANTE.
+J'ai cru vous divertir. 
+ARGAN.
+Les sottises ne divertissent point. Ah ! Voici ma femme. 
+SCENE VI. Beline, Argan, Toinette, Angelique, Monsieur Diafoirus, Thomas Diafoirus
+ARGAN.
+Mamour, voila le fils de Monsieur Diafoirus. 
+THOMAS DIAFOIRUS, commence un compliment qu'il avait etudie, et la memoire lui manquant, il ne peut le continuer.
+Madame, c'est avec justice que le Ciel vous a concede le nom de belle-mere, puisque l'on voit sur votre visage... 
+BELINE.
+Monsieur, je suis ravie d'etre venue ici a propos pour avoir l'honneur de vous voir. 
+THOMAS DIAFOIRUS.
+Puisque l'on voit sur votre visage... Puisque l'on voit sur votre visage... Madame, vous m'avez interrompu dans le milieu de ma periode, et cela m'a trouble la memoire. 
+MONSIEUR DIAFOIRUS.
+Thomas, reservez cela pour une autre fois. 
+ARGAN.
+Je voudrais, mamie, que vous eussiez ete ici tantot.
+TOINETTE.
+Ah ! Madame, vous avez bien perdu de n'avoir point ete au second pere, a la statue de Memnon, et a la fleur nommee heliotrope. 
+ARGAN.
+Allons, ma fille, touchez dans la main de Monsieur, et lui donnez votre foi, comme a votre mari. 
+ANGELIQUE.
+Mon pere. 
+ARGAN.
+He bien, mon pere ? Qu'est-ce que cela veut dire ? 
+ANGELIQUE.
+De grace, ne precipitez pas les choses. Donnez-nous au moins le temps de nous connaitre, et de voir naitre en nous l'un pour l'autre cette inclination si necessaire a composer une union parfaite. 
+THOMAS DIAFOIRUS.
+Quant a moi, Mademoiselle, elle est deja toute nee en moi, et je n'ai pas besoin d'attendre davantage. 
+ANGELIQUE.
+Si vous etes si prompt, Monsieur, il n'en est pas de meme de moi, et je vous avoue que votre merite n'a pas encore fait assez	d'impression dans mon ame. 
+ARGAN.
+Ho bien, bien, cela aura tout le loisir de se faire, quand vous serez maries ensemble. 
+ANGELIQUE.
+Eh mon pere, donnez-moi du temps, je vous prie. Le mariage est une chaine ou l'on ne doit jamais soumettre un coeur par force ; et si Monsieur est honnete homme, il ne doit point vouloir accepter une personne qui serait a lui par contrainte. 
+THOMAS DIAFOIRUS.
+Nego consequentiam, Mademoiselle, et je puis etre honnete homme et vouloir bien vous accepter des mains de Monsieur votre pere. 
+ANGELIQUE.
+C'est un mechant moyen de se faire aimer de quelqu'un que de lui faire violence. 
+THOMAS DIAFOIRUS.
+Nous lisons des anciens, Mademoiselle, que leur coutume etait d'enlever par force de la maison des peres les filles qu'on menait marier, afin qu'il ne semblat pas que ce fut de leur consentement, qu'elles convolaient dans les bras d'un homme. 
+ANGELIQUE.
+Les anciens, Monsieur, sont les anciens, et nous sommes les gens de maintenant. Les grimaces ne sont point necessaires dans notre	siecle, et quand un mariage nous plait, nous savons fort bien y aller, sans qu'on nous y traine. Donnez-vous patience, si vous m'aimez, Monsieur, vous devez vouloir tout ce que je veux. 
+THOMAS DIAFOIRUS.
+Oui, Mademoiselle, jusqu'aux interets de mon amour exclusivement. 
+ANGELIQUE.
+Mais la grande marque d'amour, c'est d'etre soumis aux volontes de celle qu'on aime. 
+THOMAS DIAFOIRUS.
+Distinguo, Mademoiselle : dans ce qui ne regarde point sa possession, concedo ; mais dans ce qui la regarde, nego. 
+TOINETTE.
+Vous avez beau raisonner : Monsieur est frais emoulu du college, et il vous donnera toujours votre reste. Pourquoi tant resister, et refuser la gloire d'etre attachee au corps de la Faculte ? 
+BELINE.
+Elle a peut-etre quelque inclination en tete. 
+ANGELIQUE.
+Si j'en avais, Madame, elle serait telle que la raison et l'honnetete pourraient me le permettre. 
+ARGAN.
+Ouais, je joue ici un plaisant personnage. 
+BELINE.
+Si j'etais que de vous, mon fils, je ne forcerais point a se marier, et je sais bien ce que je ferais. 
+ANGELIQUE.
+Je sais, Madame, ce que vous voulez dire, et les bontes que vous avez pour moi ; mais peut-etre que vos conseils ne seront pas assez heureux pour etre executes. 
+BELINE.
+C'est que les filles bien sages et bien honnetes comme vous, se moquent d'etre obeissantes, et soumises aux volontes de leurs	peres. Cela etait bon autrefois. 
+ANGELIQUE.
+Le devoir d'une fille a des bornes, Madame, et la raison et les lois ne l'etendent point a toutes sortes de choses. 
+BELINE.
+C'est-a-dire que vos pensees ne sont que pour le mariage ; mais vous voulez choisir un epoux a votre fantaisie. 
+ANGELIQUE.
+Si mon pere ne veut pas me donner un mari qui me plaise, je le conjurerai au moins de ne me point forcer a en epouser un que je ne puisse pas aimer. 
+ARGAN.
+Messieurs, je vous demande pardon de tout ceci. 
+ANGELIQUE.
+Chacun a son but en se mariant. Pour moi, qui ne veux un mari que pour l'aimer veritablement, et qui pretends en faire tout l'attachement de ma vie, je vous avoue que j'y cherche quelque precaution. Il y en a d'aucunes qui prennent des maris seulement pour se tirer de la contrainte de leurs parents, et se mettre en etat de faire tout ce qu'elles voudront. Il y en a d'autres, Madame, qui font du mariage un commerce de pur interet, qui ne se marient que pour gagner des douaires, que pour s'enrichir par la mort de ceux qu'elles epousent, et courent sans scrupule de mari en mari, pour s'approprier leurs depouilles. Ces personnes-la, a la verite, n'y cherchent pas tant de facons, et regardent peu la personne. 
+BELINE.
+Je vous trouve aujourd'hui bien raisonnante, et je voudrais bien savoir ce que vous voulez dire par la. 
+ANGELIQUE.
+Moi, Madame, que voudrais-je dire que ce que je dis ? 
+BELINE.
+Vous etes si sotte, mamie, qu'on ne saurait plus vous souffrir. 
+ANGELIQUE.
+Vous voudriez bien, Madame, m'obliger a vous repondre quelque impertinence ; mais je vous avertis que vous n'aurez pas cet avantage. 
+BELINE.
+Il n'est rien d'egal a votre insolence. 
+ANGELIQUE.
+Non, Madame, vous avez beau dire. 
+BELINE.
+Et vous avez un ridicule orgueil, une impertinente presomption qui fait hausser les epaules a tout le monde. 
+ANGELIQUE.
+Tout cela, Madame, ne servira de rien. Je serai sage en depit de vous ; et pour vous oter l'esperance de pouvoir reussir dans ce	que vous voulez, je vais m'oter de votre vue. 
+ARGAN.
+Ecoute, il n'y a point de milieu a cela. Choisis d'epouser dans quatre jours, ou Monsieur, ou un couvent. Ne vous mettez pas en	peine, je la rangerai bien. 
+BELINE.
+Je suis fachee de vous quitter, mon fils, mais j'ai une affaire en ville, dont je ne puis me dispenser. Je reviendrai bientot. 
+ARAGAN.
+Allez, mamour, et passez chez votre notaire, afin qu'il expedie ce que vous savez. 
+BELINE.
+Adieu, mon petit ami. 
+ARGAN.
+Adieu, mamie. Voila une femme qui m'aime... Cela n'est pas croyable. 
+MONSIEUR DIAFOIRUS.
+Nous allons, Monsieur, prendre conge de vous. 
+ARGAN.
+Je vous prie, Monsieur, de me dire un peu comment je suis. 
+MONSIEUR DIAFOIRUS, lui tate le pouls.
+Allons, Thomas, prenez l'autre bras de Monsieur, pour voir si vous saurez porter un bon jugement de son pouls. Quid dicis ? 
+THOMAS DIAFOIRUS.
+Dico, que le pouls de Monsieur est le pouls d'un homme qui ne se porte point bien. 
+MONSIEUR DIAFOIRUS.
+Bon. 
+THOMAS DIAFOIRUS.
+Qu'il est duriuscule, pour ne pas dire dur. 
+MONSIEUR DIAFOIRUS.
+Fort bien. 
+THOMAS DIAFOIRUS.
+Repoussant. 
+MONSIEUR DIAFOIRUS.
+Bene. 
+THOMAS DIAFOIRUS.
+Et meme un peu caprisant. 
+MONSIEUR DIAFOIRUS.
+Optime. 
+THOMAS DIAFOIRUS.
+Ce qui marque une intemperie dans le parenchyme splenique, c'est-a-dire la rate. 
+MONSIEUR DIAFOIRUS.
+Fort bien. 
+ARGAN.
+Non, Monsieur Purgon dit que c'est mon foie, qui est malade. 
+MONSIEUR DIAFOIRUS.
+Eh oui, qui dit parenchyme, dit l'un et l'autre, a cause de l'etroite sympathie qu'ils ont ensemble, par le moyen du vas breve du pylore, et souvent des meats cholidoques. Il vous ordonne sans doute de manger force roti ? 
+ARGAN.
+Non, rien que du bouilli. 
+MONSIEUR DIAFOIRUS.
+Eh oui, roti, bouilli, meme chose. Il vous ordonne fort prudemment, et vous ne pouvez etre en de meilleures mains. 
+ARGAN.
+Monsieur, combien est-ce qu'il faut mettre de grains de sel dans un oeuf ? 
+MONSIEUR DIAFOIRUS.
+Six, huit, dix, par les nombres pairs ; comme dans les medicaments, par les nombres impairs. 
+ARGAN.
+Jusqu'au revoir, Monsieur. 
+SCENE VII. Beline, Argan.
+BELINE.
+Je viens, mon fils, avant que de sortir, vous donner avis d'une chose a laquelle il faut que vous preniez garde. En passant par-devant la chambre d'Angelique, j'ai vu un jeune homme avec elle, qui s'est sauve d'abord qu'il m'a vue. 
+ARGAN.
+Un jeune homme avec ma fille ? 
+BELINE.
+Oui. Votre petite fille Louison etait avec eux, qui pourra vous en dire des nouvelles. 
+ARGAN.
+Envoyez-la ici, mamour, envoyez-la ici. Ah ! L'effrontee ; je ne m'etonne plus de sa resistance. 
+SCENE VIII. Louison, Argan.
+LOUISON.
+Qu'est-ce que vous voulez, mon papa ? Ma belle-maman m'a dit que vous me demandez. 
+ARGAN.
+Oui, venez ca. Avancez la. Tournez-vous. Levez les yeux. Regardez-moi. Eh ! 
+LOUISON.
+Quoi, mon papa ? 
+ARGAN.
+La. 
+LOUISON.
+Quoi ? 
+ARGAN.
+N'avez-vous rien a me dire ? 
+LOUISON.
+Je vous dirai, si vous voulez, pour vous desennuyer, le conte de Peau d'ane, ou bien la fable du Corbeau et du Renard, qu'on m'a apprise depuis peu. 
+ARGAN.
+Ce n'est pas la ce que je demande. 
+LOUISON.
+Quoi donc ? 
+ARGAN.
+Ah ! Rusee, vous savez bien ce que je veux dire. 
+LOUISON.
+Pardonnez-moi, mon papa. 
+ARGAN.
+Est-ce la comme vous m'obeissez ? 
+LOUISON.
+Quoi ? 
+ARGAN.
+Ne vous ai-je pas recommande de me venir dire d'abord tout ce que vous voyez ? 
+LOUISON.
+Oui, mon papa. 
+ARGAN.
+L'avez-vous fait ? 
+LOUISON.
+Oui, mon papa. Je vous suis venue dire tout ce que j'ai vu. 
+ARGAN.
+Et n'avez-vous rien vu aujourd'hui ? 
+LOUISON.
+Non, mon papa. 
+ARGAN.
+Non ? 
+LOUISON.
+Non, mon papa. 
+ARGAN.
+Assurement ? 
+LOUISON.
+Assurement. 
+ARGAN.
+Oh ca ! Je m'en vais vous faire voir quelque chose, moi. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LOUISON.
+Ah ! Mon papa. 
+ARGAN.
+Ah, ah, petite masque, vous ne me dites pas que vous avez vu un homme dans la chambre de votre soeur ? 
+LOUISON.
+Mon papa ! 
+ARGAN.
+Voici qui vous apprendra a mentir. 
+LOUISON.
+Ah ! Mon papa, je vous demande pardon. C'est que ma soeur m'avait dit de ne pas vous le dire ; mais je m'en vais vous dire tout. 
+ARGAN.
+Il faut premierement que vous ayez le fouet pour avoir menti. Puis apres nous verrons au reste. 
+LOUISON.
+Pardon, mon papa ! 
+ARGAN.
+Non, non. 
+LOUISON.
+Mon pauvre papa, ne me donnez pas le fouet ! 
+ARGAN.
+Vous l'aurez. 
+LOUISON.
+Au nom de Dieu ! Mon papa, que je ne l'aie pas. 
+ARGAN, la prenant pour la fouetter.
+Allons, allons. 
+LOUISON.
+Ah ! Mon papa, vous m'avez blessee. Attendez : je suis morte. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARGAN.
+Hola ! Qu'est-ce la ? Louison, Louison. Ah ! Mon Dieu ; Louison. Ah ! Ma fille ! Ah ! Malheureux, ma pauvre fille est morte. Qu'ai-je fait, miserable ? Ah ! Chiennes de verges. La peste soit des verges ! Ah ! Ma pauvre fille, ma pauvre petite Louison. 
+LOUISON.
+La, la, mon papa, ne pleurez point tant, je ne suis pas morte tout a fait. 
+ARGAN.
+Voyez-vous la petite rusee ? Oh ca, ca, je vous pardonne pour cette fois-ci, pourvu que vous me disiez bien tout. 
+LOUISON.
+Ho, oui, mon papa. 
+ARGAN.
+Prenez-y bien garde au moins, car voila un petit doigt qui sait tout, qui me dira si vous mentez. 
+LOUISON.
+Mais, mon papa, ne dites pas a ma soeur que je vous l'ai dit. 
+ARGAN.
+Non, non. 
+LOUISON.
+C'est, mon papa, qu'il est venu un homme dans la chambre de ma soeur comme j'y etais. 
+ARGAN.
+He bien ? 
+LOUISON.
+Je lui ai demande ce qu'il demandait, et il m'a dit qu'il etait son maitre a chanter. 
+ARGAN.
+Hon, hon. Voila l'affaire. He bien ? 
+LOUISON.
+Ma soeur est venue apres. 
+ARGAN.
+He bien ? 
+LOUISON.
+Elle lui a dit sortez, sortez, sortez, mon Dieu sortez, vous me mettez au desespoir. 
+ARGAN.
+He bien ? 
+LOUISON.
+Et lui, il ne voulait pas sortir. 
+ARGAN.
+Qu'est-ce qu'il lui disait ? 
+LOUISON.
+Il lui disait je ne sais combien de choses. 
+ARGAN.
+Et quoi encore ? 
+LOUISON.
+Il lui disait tout ci, tout ca, qu'il l'aimait bien, et qu'elle etait la plus belle du monde. 
+ARGAN.
+Et puis apres ? 
+LOUISON.
+Et puis apres, il se mettait a genoux devant elle. 
+ARGAN.
+Et puis apres ? 
+LOUISON.
+Et puis apres, il lui baisait les mains. 
+ARGAN.
+Et puis apres ? 
+LOUISON.
+Et puis apres, ma belle-maman est venue a la porte, et il s'est enfui. 
+ARGAN.
+Il n'y a point autre chose ? 
+LOUISON.
+Non, mon papa. 
+ARGAN.
+Voila mon petit doigt pourtant qui gronde quelque chose. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Attendez. Eh ! Ah, ah ; oui ? Oh, oh ; voila mon petit doigt qui me dit quelque chose que vous avez vu, et que vous ne m'avez pas dit. 
+LOUISON.
+Ah ! Mon papa, votre petit doigt est un menteur. 
+ARGAN.
+Prenez garde. 
+LOUISON.
+Non, mon papa, ne le croyez pas, il ment, je vous assure. 
+ARGAN.
+Oh bien, bien, nous verrons cela. Allez-vous-en, et prenez bien garde a tout : allez. Ah ! Il n'y a plus d'enfants. Ah ! Que d'affaires ; je n'ai pas seulement le loisir de songer a ma maladie. En verite, je n'en puis plus. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX. Beralde, Argan.
+BERALDE.
+He bien ! Mon frere, qu'est-ce, comment vous portez-vous ? 
+ARGAN.
+Ah ! Mon frere, fort mal. 
+BERALDE.
+Comment fort mal ? 
+ARGAN.
+Oui, je suis dans une faiblesse si grande, que cela n'est pas croyable. 
+BERALDE.
+Voila qui est facheux. 
+ARGAN.
+Je n'ai pas seulement la force de pouvoir parler. 
+BERALDE.
+J'etais venu ici, mon frere, vous proposer un parti pour ma niece Angelique. 
+ARGAN, parlant avec emportement, et se levant de sa chaise.
+Mon frere, ne me parlez point de cette coquine-la. C'est une friponne, une impertinente, une effrontee, que je mettrai dans un couvent avant qu'il soit deux jours. 
+BERALDE.
+Ah ! Voila qui est bien. Je suis bien aise que la force vous revienne un peu, et que ma visite vous fasse du bien. Oh ca, nous parlerons d'affaires tantot. Je vous amene ici un divertissement, que j'ai rencontre, qui dissipera votre chagrin, et vous rendra l'ame mieux disposee aux choses que nous avons a dire. Ce sont des Egyptiens, vetus en Mores, qui font des danses melees de chansons, ou je suis sur que vous prendrez plaisir, et cela vaudra bien une ordonnance de Monsieur Purgon. Allons. 
+
+
+			SECOND INTERMEDE
+
+
+***
+Le frere du Malade imaginaire lui amene, pour le divertir, plusieurs Egyptiens et Egyptiennes, vetus en Mores, qui font des danses entremelees de chansons.
+PREMIERE FEMME MORE.
+
+
+	Profitez du printemps 
+	De vos beaux ans, 
+	Aimable jeunesse ; 
+	Profitez du printemps 
+	De vos beaux ans, 
+	Donnez-vous a la tendresse. 
+
+
+	Les plaisirs les plus charmants, 
+	Sans l'amoureuse flamme, 
+	Pour contenter une ame 
+	N'ont points d'attraits assez puissants. 
+
+
+	Profitez du printemps 
+	De vos beaux ans, 
+	Aimable jeunesse ; 
+	Profitez du printemps 
+	De vos beaux ans, 
+	Donnez-vous a la tendresse. 
+
+
+	Ne perdez point ces precieux moments : 
+	La beaute passe, 
+	Le temps l'efface, 
+	L'age de glace 
+	Vient a sa place, 
+	Qui nous ote le gout de ces doux passe-temps. 
+
+
+	Profitez du printemps 
+	De vos beaux ans 
+	Aimable jeunesse ; 
+	Profitez du printemps 
+	De vos beaux ans. 
+	Donnez-vous a la tendresse. 
+
+			[0]
+Seconde FEMME MORE.
+
+
+	Quand d'aimer on nous presse,
+	A quoi songez-vous ? 
+	Nos coeurs, dans la jeunesse, 
+	N'ont vers la tendresse 
+	Qu'un penchant trop doux ; 
+	L'amour a pour nous prendre 
+	De si doux attraits, 
+	Que de soi, sans attendre, 
+	On voudrait se rendre 
+	A ses premiers traits : 
+	Mais tout ce qu'on ecoute 
+	Des vives douleurs 
+	Et des pleurs 
+	Qu'il nous coute 
+	Fait qu'on en redoute 
+	Toutes les douceurs. 
+
+			[0]
+TROISIEME FEMME MORE.
+
+
+	Il est doux, a notre age, 
+	D'aimer tendrement 
+	Un amant 
+	Qui s'engage : 
+	Mais s'il est volage, 
+	Helas ! quel tourment ! 
+
+			[0]
+QUATRIEME FEMME MORE.
+
+
+	L'amant qui se degage 
+	N'est pas le malheur,
+	La douleur 
+	Et la rage, 
+	C'est que le volage 
+	Garde notre coeur. 
+
+			[0]
+SECONDE FEMME MORE.
+
+
+	Quel parti faut-il prendre 
+	Pour nos jeunes coeurs ? 
+
+			[0]
+QUATRIEME FEMME MORE.
+
+
+	Devons-nous nous y rendre 
+	Malgre ses rigueurs ? 
+
+			[0]
+ENSEMBLE.
+
+
+	Oui, suivons ses ardeurs, 
+	Ses transports, ses caprices, 
+	Ses douces langueurs ; 
+	S'il a quelques supplices, 
+	Il a cent delices 
+	Qui charment les coeurs. 
+
+			[0]
+ENTREE DE BALLET.
+Tous les Mores dansent ensemble et font sauter des singes qu'ils ont amenes avec eux.
+
+
+			ACTE III
+
+
+SCENE I. Beralde, Argan, Toinette.
+BERALDE.
+He bien ! Mon frere, qu'en dites-vous ? Cela ne vaut-il pas bien une prise de casse ? 
+TOINETTE.
+Hon, de bonne casse est bonne. 
+BERALDE.
+Oh ca, voulez-vous que nous parlions un peu ensemble ? 
+ARGAN.
+Un peu de patience, mon frere, je vais revenir. 
+TOINETTE.
+Tenez, Monsieur, vous ne songez pas que vous ne sauriez marcher sans baton. 
+ARGAN.
+Tu as raison. 
+SCENE II. Beralde, Toinette.
+TOINETTE.
+N'abandonnez pas, s'il vous plait, les interets de votre niece. 
+BERALDE.
+J'emploierai toutes choses pour lui obtenir ce qu'elle souhaite. 
+TOINETTE.
+Il faut absolument empecher ce mariage extravagant qu'il s'est mis dans la fantaisie, et j'avais songe en moi-meme, que c'aurait ete une bonne affaire, de pouvoir introduire ici un medecin a notre poste, pour le degouter de son Monsieur Purgon, et lui decrier sa conduite. Mais, comme nous n'avons personne en main pour cela, j'ai resolu de jouer un tour de ma tete. 
+BERALDE.
+Comment ? 
+TOINETTE.
+C'est une imagination burlesque. Cela sera peut-etre plus heureux que sage. Laissez-moi faire : agissez de votre cote. Voici notre homme. 
+SCENE III. Argan, Beralde.
+BERALDE.
+Vous voulez bien, mon frere, que je vous demande, avant toute chose, de ne vous point echauffer l'esprit dans notre conversation. 
+ARGAN.
+Voila qui est fait. 
+BERALDE.
+De repondre sans nulle aigreur aux choses que je pourrai vous dire. 
+ARGAN.
+Oui. 
+BERALDE.
+Et de raisonner ensemble, sur les affaires dont nous avons a parler, avec un esprit detache de toute passion. 
+ARGAN.
+Mon Dieu ! Oui. Voila bien du preambule. 
+BERALDE.
+D'ou vient, mon frere, qu'ayant le bien que vous avez, et n'ayant d'enfants qu'une fille, car je ne compte pas la petite, d'ou vient, dis-je, que vous parlez de la mettre dans un couvent ? 
+ARGAN.
+D'ou vient, mon frere, que je suis maitre dans ma famille pour faire ce que bon me semble ? 
+BERALDE.
+Votre femme ne manque pas de vous conseiller de vous defaire ainsi de vos deux filles, et je ne doute point que, par un esprit de charite elle ne fut ravie de les voir toutes deux bonnes religieuses. 
+ARGAN.
+Oh ca, nous y voici, voila d'abord la pauvre femme en jeu. C'est elle qui fait tout le mal, et tout le monde lui en veut. 
+BERALDE.
+Non, mon frere ; laissons-la la ; c'est une femme qui a les meilleures intentions du monde pour votre famille, et qui est detachee de toute sorte d'interet, qui a pour vous une tendresse merveilleuse, et qui montre pour vos enfants une affection et une bonte qui n'est pas concevable : cela est certain. N'en parlons point, et revenons a votre fille. Sur quelle pensee, mon frere, la voulez-vous donner en mariage au fils d'un medecin ? 
+ARGAN.
+Sur la pensee, mon frere, de me donner un gendre tel qu'il me faut. 
+BERALDE.
+Ce n'est point la, mon frere, le fait de votre fille, et il se presente un parti plus sortable pour elle. 
+ARGAN.
+Oui, mais celui-ci, mon frere ; est plus sortable pour moi. 
+BERALDE.
+Mais le mari qu'elle doit prendre doit-il etre, mon frere, ou pour elle, ou pour vous ? 
+ARGAN.
+Il doit etre, mon frere, et pour elle, et pour moi, et je veux mettre dans ma famille les gens dont j'ai besoin. 
+BERALDE.
+Par cette raison-la, si votre petite etait grande, vous lui donneriez en mariage un apothicaire ? 
+ARGAN.
+Pourquoi non ? 
+BERALDE.
+Est-il possible que vous serez toujours embeguine de vos apothicaires et de vos medecins, et que vous vouliez etre malade en depit des gens et de la nature ? 
+ARGAN.
+Comment l'entendez-vous, mon frere ? 
+BERALDE.
+J'entends, mon frere, que je ne vois point d'homme qui soit moins malade que vous, et que je ne demanderais point une meilleure constitution que la votre. Une grande marque que vous vous portez bien, et que vous avez un corps parfaitement bien compose ; c'est qu'avec tous les soins que vous avez pris, vous n'avez pu parvenir encore a gater la bonte de votre temperament, et que vous n'etes point creve de toutes les medecines qu'on vous a fait prendre. 
+ARGAN.
+Mais savez-vous, mon frere, que c'est cela qui me conserve, et que Monsieur Purgon dit que je succomberais, s'il etait seulement	rois jours sans prendre soin de moi ? 
+BERALDE.
+Si vous n'y prenez garde, il prendra tant de soin de vous, qu'il vous enverra en l'autre monde. 
+ARGAN.
+Mais raisonnons un peu, mon frere. Vous ne croyez donc point a la medecine ? 
+BERALDE.
+Non, mon frere, et je ne vois pas que, pour son salut, il soit necessaire d'y croire. 
+ARGAN.
+Quoi ? Vous ne tenez pas veritable une chose etablie par tout le monde, et que tous les siecles ont reveree ? 
+BERALDE.
+Bien loin de la tenir veritable, je la trouve, entre nous, une des plus grandes folies qui soit parmi les hommes ; et a regarder les choses en philosophe, je ne vois point de plus plaisante momerie, je ne vois rien de plus ridicule qu'un homme qui se veut meler d'en guerir un autre. 
+ARGAN.
+Pourquoi ne voulez-vous pas, mon frere, qu'un homme en puisse guerir un autre ? 
+BERALDE.
+Par la raison, mon frere, que les ressorts de notre machine sont des mysteres, jusques ici, ou les hommes ne voient goutte ; et que la nature nous a mis au-devant des yeux des voiles trop epais pour y connaitre quelque chose. 
+ARGAN.
+Les medecins ne savent donc rien, a votre compte ? 
+BERALDE.
+Si fait, mon frere. Ils savent la plupart de fort belles humanites ; savent parler en beau latin, savent nommer en grec toutes les maladies, les definir et les diviser ; mais, pour ce qui est de les guerir, c'est ce qu'ils ne savent point du tout. 
+ARGAN.
+Mais toujours faut-il demeurer d'accord que, sur cette matiere, les medecins en savent plus que les autres. 
+BERALDE.
+Ils savent, mon frere, ce que je vous ai dit, qui ne guerit pas de grand'chose ; et toute l'excellence de leur art consiste en un pompeux galimatias, en un specieux babil, qui vous donne des mots pour des raisons, et des promesses pour des effets. 
+ARGAN.
+Mais enfin, mon frere, il y a des gens aussi sages et aussi habiles que vous ; et nous voyons que, dans la maladie, tout le monde	a recours aux medecins. 
+BERALDE.
+C'est une marque de la faiblesse humaine, et non pas de la verite de leur art. 
+ARGAN.
+Mais il faut bien que les medecins croient leur art veritable, puisqu'ils s'en servent pour eux-memes. 
+BERALDE.
+C'est qu'il y en a parmi eux qui sont eux-memes dans l'erreur populaire, dont ils profitent, et d'autres qui en profitent sans y	etre. Votre Monsieur Purgon, par exemple, n'y sait point de finesse ; c'est un homme tout medecin, depuis la tete jusqu'aux pieds. un homme qui croit a ses regles plus qu'a toutes les demonstrations des mathematiques, et qui croirait du crime a les vouloir examiner, qui ne voit rien d'obscur dans la medecine, rien de douteux, rien de difficile, et qui, avec une impetuosite de prevention, une raideur de confiance, une brutalite de sens commun et de raison, donne au travers des purgations et des saignees, et ne balance aucune chose. Il ne lui faut point vouloir mal de tout ce qu'il pourra vous faire, c'est de la meilleure foi du monde qu'il vous expediera, et il ne fera, en vous tuant, que ce qu'il a fait a sa femme et ses enfants, et ce qu'en un besoin il ferait a lui-meme. 
+ARGAN.
+C'est que vous avez, mon frere, une dent de lait contre lui. Mais enfin venons au fait. Que faire donc quand on est malade ? 
+BERALDE.
+Rien, mon frere. 
+ARGAN.
+Rien ? 
+BERALDE.
+Rien. Il ne faut que demeurer en repos. La nature, d'elle-meme, quand nous la laissons faire, se tire doucement du desordre ou elle est tombee. C'est notre inquietude, c'est notre impatience qui gate tout, et presque tous les hommes meurent de leurs remedes, et non pas de leurs maladies. 
+ARGAN.
+Mais il faut demeurer d'accord, mon frere, qu'on peut aider cette nature par de certaines choses. 
+BERALDE.
+Mon Dieu ! Mon frere, ce sont pures idees, dont nous aimons a nous repaitre ; et, de tout temps, il s'est glisse parmi les hommes de belles imaginations, que nous venons a croire, parce qu'elles nous flattent et qu'il serait a souhaiter qu'elles fussent veritables. Lorsqu'un medecin vous parle d'aider, de secourir, de soulager la nature, de lui oter ce qui lui nuit et lui donner ce qui lui manque, de la retablir et de la remettre dans une pleine facilite de ses fonctions ; lorsqu'il vous parle de rectifier le sang, de temperer les entrailles et le cerveau, de degonfler la rate, de raccommoder la poitrine, de reparer le foie, de fortifier le coeur, de retablir et conserver la chaleur naturelle, et d'avoir des secrets pour etendre la vie a de longues annees ; il vous dit justement le roman de la medecine. Mais quand vous en venez a la verite et a l'experience, vous ne trouvez rien de tout cela, et il en est comme de ces beaux songes qui ne vous laissent au reveil que le deplaisir de les avoir crus. 
+ARGAN.
+C'est-a-dire que toute la science du monde est renfermee dans votre tete, et vous voulez en savoir plus que tous les grands medecins de notre siecle. 
+BERALDE.
+Dans les discours et dans les choses, ce sont deux sortes de personnes que vos grands medecins. Entendez-les parler, les plus habiles gens du monde ; voyez-les faire, les plus ignorants de tous les hommes. 
+ARGAN.
+Hoy ! Vous etes un grand docteur, a ce que je vois, et je voudrais bien qu'il y eut ici quelqu'un de ces Messieurs pour rembarrer vos raisonnements et rabaisser votre caquet. 
+BERALDE.
+Moi, mon frere, je ne prends point a tache de combattre la medecine, et chacun a ses perils, et fortune, peut croire tout ce	qu'il lui plait. Ce que j'en dis n'est qu'entre nous, et j'aurais souhaite de pouvoir un peu vous tirer de l'erreur ou vous etes ; et pour vous divertir vous mener voir sur ce chapitre quelqu'une des comedies de Moliere. 
+ARGAN.
+C'est un bon impertinent que votre Moliere avec ses comedies, et je le trouve bien plaisant d'aller jouer d'honnetes gens comme les medecins. 
+BERALDE.
+Ce ne sont point les medecins qu'il joue, mais le ridicule de la medecine. 
+ARGAN.
+C'est bien a lui a faire de se meler de controler la medecine ; voila un bon nigaud, un bon impertinent, de se moquer des	consultations et des ordonnances, de s'attaquer au corps des medecins, et d'aller mettre sur son theatre des personnes venerables comme ces Messieurs-la. 
+BERALDE.
+Que voulez-vous qu'il y mette, que les diverses professions des hommes ? On y met bien tous les jours les princes et les rois, qui sont d'aussi bonne maison que les medecins. 
+ARGAN.
+Par la mort non de diable, si j'etais que des medecins, je me vengerais de son impertinence ; et quand il sera malade, je le laisserais mourir sans secours. Il aurait beau faire et beau dire, je ne lui ordonnerais pas la moindre petite saignee, le moindre petit lavement, et je lui dirais, creve, creve, cela t'apprendra une autre fois a te jouer a la Faculte." 
+BERALDE.
+Vous voila bien en colere contre lui. 
+ARGAN.
+Oui, c'est un malavise, et si les medecins sont sages, ils feront ce que je dis. 
+BERALDE.
+Il sera encore plus sage que vos medecins, car il ne leur demandera point de secours. 
+ARGAN.
+Tant pis pour lui s'il n'a point recours aux remedes. 
+BERALDE.
+Il a ses raisons pour n'en point vouloir, et il soutient que cela n'est permis qu'aux gens vigoureux et robustes, et qui ont des forces de reste pour porter les remedes avec la maladie ; mais que pour lui il n'a justement de la force que pour porter son mal. 
+ARGAN.
+Les sottes raisons que voila. Tenez, mon frere, ne parlons point de cet homme-la davantage, car cela m'echauffe la bile, et vous me donneriez mon mal. 
+BERALDE.
+Je le veux bien, mon frere, et pour changer de discours, je vous dirai que, sur une petite repugnance que vous temoigne votre	fille, vous ne devez point prendre les resolutions violentes de la mettre dans un couvent. Que, pour le choix d'un gendre, il ne vous faut pas suivre aveuglement la passion qui vous emporte, et qu'on doit sur cette matiere s'accommoder un peu a l'inclination d'une fille, puisque c'est pour toute la vie, et que de la depend tout le bonheur d'un mariage. 
+SCENE IV. Monsieur Fleurant, une seringue a la main ; Argan, Beralde.
+ARGAN.
+Ah ! Mon frere, avec votre permission. 
+BERALDE.
+Comment ? Que voulez-vous faire ? 
+ARGAN.
+Prendre ce petit lavement-la, ce sera bientot fait. 
+BERALDE.
+Vous vous moquez. Est-ce que vous ne sauriez etre un moment sans lavement ou sans medecine ? Remettez cela a une autre fois, et demeurez un peu en repos. 
+ARGAN.
+Monsieur Fleurant, a ce soir, ou a demain au matin. 
+MONSIEUR FLEURANT, a Beralde.
+De quoi vous melez-vous de vous opposer aux ordonnances de la medecine, et d'empecher Monsieur de prendre mon clystere ; vous etes bien plaisant d'avoir cette hardiesse-la ? 
+BERALDE.
+Allez, Monsieur, on voit bien que vous n'avez pas accoutume de parler a des visages. 
+MONSIEUR FLEURANT.
+On ne doit point ainsi se jouer des remedes, et me faire perdre mon temps. Je ne suis venu ici que sur une bonne ordonnance, et je vais dire a Monsieur Purgon comme on m'a empeche d'executer ses ordres et de faire ma fonction. Vous verrez, vous verrez... 
+ARGAN.
+Mon frere, vous serez cause ici de quelque malheur. 
+BERALDE.
+Le grand malheur de ne pas prendre un lavement que Monsieur Purgon a ordonne. Encore un coup, mon frere, est-il possible qu'il n'y ait pas moyen de vous guerir de la maladie des medecins, et que vous vouliez etre, toute votre vie, enseveli dans leurs remedes ? 
+ARGAN.
+Mon Dieu, mon frere, vous en parlez comme un homme qui se porte bien ; mais si vous etiez a ma place, vous changeriez bien de langage. Il est aise de parler contre la medecine quand on est en pleine sante. 
+BERALDE.
+Mais quel mal avez-vous ? 
+ARGAN.
+Vous me feriez enrager. Je voudrais que vous l'eussiez, mon mal, pour voir si vous jaseriez tant. Ah ! Voici Monsieur Purgon. 
+SCENE V. Monsieur Purgon, Argan, Beralde, Toinette.
+MONSIEUR PURGON.
+Je viens d'apprendre la-bas a la porte, de jolies nouvelles. Qu'on se moque ici de mes ordonnances, et qu'on a fait refus de	prendre le remede que j'avais prescrit. 
+ARGAN.
+Monsieur, ce n'est pas... 
+MONSIEUR PURGON.
+Voila une hardiesse bien grande, une etrange rebellion d'un malade contre son medecin. 
+TOINETTE.
+Cela est epouvantable. 
+MONSIEUR PURGON.
+Un clystere que j'avais pris plaisir a composer moi-meme. 
+ARGAN.
+Ce n'est pas moi... 
+MONSIEUR PURGON.
+Invente et forme dans toutes les regles de l'art. 
+TOINETTE.
+Il a tort. 
+MONSIEUR PURGON.
+Et qui devait faire dans des entrailles un effet merveilleux.
+ARGAN.
+Mon frere ? 
+MONSIEUR PURGON.
+Le renvoyer avec mepris ! 
+ARGAN.
+C'est lui... 
+MONSIEUR PURGON.
+C'est une action exorbitante. 
+TOINETTE.
+Cela est vrai. 
+MONSIEUR PURGON.
+Un attentat enorme contre la medecine. 
+ARGAN.
+Il est cause... 
+MONSIEUR PURGON.
+Un crime de lese-Faculte, qui ne se peut assez punir.
+TOINETTE.
+Vous avez raison. 
+MONSIEUR PURGON.
+Je vous declare que je romps commerce avec vous. 
+ARGAN.
+C'est mon frere... 
+MONSIEUR PURGON.
+Que je ne veux plus d'alliance avec vous. 
+TOINETTE.
+Vous ferez bien. 
+MONSIEUR PURGON.
+Et que, pour finir toute liaison avec vous, voila la donation que je faisais a mon neveu, en faveur du mariage. 
+ARGAN.
+C'est mon frere qui a fait tout le mal. 
+MONSIEUR PURGON.
+Mepriser mon clystere ? 
+ARGAN.
+Faites-le venir, je m'en vais le prendre. 
+MONSIEUR PURGON.
+Je vous aurais tire d'affaire avant qu'il fut peu. 
+TOINETTE.
+Il ne le merite pas. 
+MONSIEUR PURGON.
+J'allais nettoyer votre corps et en evacuer entierement les mauvaises humeurs. 
+ARGAN.
+Ah mon frere ! 
+MONSIEUR PURGON.
+Et je ne voulais plus qu'une douzaine de medecines, pour vider le fond du sac. 
+TOINETTE.
+Il est indigne de vos soins. 
+MONSIEUR PURGON.
+Mais puisque vous n'avez pas voulu guerir par mes mains. 
+ARGAN.
+Ce n'est pas ma faute. 
+MONSIEUR PURGON.
+Puisque vous vous etes soustrait de l'obeissance que l'on doit a son medecin. 
+TOINETTE.
+Cela crie vengeance. 
+MONSIEUR PURGON.
+Puisque vous vous etes declare rebelle aux remedes que je vous ordonnais... 
+ARGAN.
+He point du tout. 
+MONSIEUR PURGON.
+J'ai a vous dire que je vous abandonne a votre mauvaise constitution, a l'intemperie de vos entrailles, a la corruption de votre sang, a l'acrete de votre bile et a la feculence de vos humeurs. 
+TOINETTE.
+C'est fort bien fait. 
+ARGAN.
+Mon Dieu ! 
+MONSIEUR PURGON.
+Et je veux qu'avant qu'il soit quatre jours vous deveniez dans un etat incurable. 
+ARGAN.
+Ah ! Misericorde ! 
+MONSIEUR PURGON.
+Que vous tombiez dans la bradypepsie. 
+ARGAN.
+Monsieur Purgon ! 
+MONSIEUR PURGON.
+De la bradypepsie dans la dyspepsie. 
+ARGAN.
+Monsieur Purgon ! 
+MONSIEUR PURGON.
+De la dyspepsie dans l'apepsie. 
+ARGAN.
+Monsieur Purgon ! 
+MONSIEUR PURGON.
+De l'apepsie dans la lienterie... 
+ARGAN.
+Monsieur Purgon ! 
+MONSIEUR PURGON.
+De la lienterie dans la dysenterie... 
+ARGAN.
+Monsieur Purgon ! 
+MONSIEUR PURGON.
+De la dysenterie dans l'hydropisie... 
+ARGAN.
+Monsieur Purgon ! 
+MONSIEUR PURGON.
+Et de l'hydropisie dans la privation de la vie, ou vous aura conduit votre folie. 
+SCENE VI. Argan, Beralde.
+ARGAN.
+Ah, mon Dieu ! Je suis mort. Mon frere, vous m'avez perdu. 
+BERALDE.
+Quoi ? Qu'y a-t-il ? 
+ARGAN.
+Je n'en puis plus. Je sens deja que la medecine se venge. 
+BERALDE.
+Ma foi, mon frere, vous etes fou, et je ne voudrais pas, pour beaucoup de choses qu'on vous vit faire ce que vous faites.	Tatez-vous un peu, je vous prie ; revenez a vous-meme, et ne donnez point tant a votre imagination. 
+ARGAN.
+Vous voyez, mon frere, les etranges maladies dont il m'a menace. 
+BERALDE.
+Le simple homme que vous etes ! 
+ARGAN.
+Il dit que je deviendrai incurable avant qu'il soit quatre jours.
+BERALDE.
+Et ce qu'il dit, que fait-il a la chose ? Est-ce un oracle qui a parle ? Il me semble, a vous entendre, que Monsieur Purgon tienne dans ses mains le filet de vos jours, et que d'autorite supreme il vous l'allonge et vous le raccourcisse comme il lui plait. Songez que les principes de votre vie sont en vous-meme, et que le courroux de Monsieur Purgon est aussi peu capable de vous faire mourir que ses remedes de vous faire vivre. Voici une aventure si vous voulez a vous defaire des medecins, ou si vous etes ne a ne pouvoir vous en passer, il est aise d'en avoir un autre, avec lequel, mon frere, vous puissiez courir un peu moins de risque.
+ARGAN.
+Ah ! Mon frere, il sait tout mon temperament et la maniere dont il faut me gouverner. 
+BERALDE.
+Il faut vous avouer que vous etes un homme d'une grande prevention, et que vous voyez les choses avec d'etranges yeux. 
+SCENE VII. Toinette, Argan, Beralde.
+TOINETTE.
+Monsieur, voila un medecin qui demande a vous voir. 
+ARGAN.
+Et quel medecin ? 
+TOINETTE.
+Un medecin de la medecine. 
+ARGAN.
+Je te demande qui il est ? 
+TOINETTE.
+Je ne le connais pas ; mais il me ressemble comme deux gouttes d'eau, et si je n'etais sure que ma mere etait honnete femme, je dirais que ce serait quelque petit frere qu'elle m'aurait donne depuis le trepas de mon pere. 
+ARGAN.
+Fais-le venir. 
+BERALDE.
+Vous etes servi a souhait. Un medecin vous quitte, un autre se presente. 
+ARGAN.
+J'ai bien peur que vous ne soyez cause de quelque malheur. 
+BERALDE.
+Encore ! Vous en revenez toujours la ? 
+ARGAN.
+Voyez-vous, j'ai sur le coeur toutes ces maladies-la que je ne connais point, ces... 
+SCENE VIII. Toinette, en medecin ; Argan, Beralde.
+TOINETTE.
+Monsieur, agreez que je vienne vous rendre visite, et vous offrir mes petits services pour toutes les saignees, et les purgations, dont vous aurez besoin. 
+ARGAN.
+Monsieur, je vous suis fort oblige. Par ma foi, voila Toinette elle-meme. 
+TOINETTE.
+Monsieur, je vous prie de m'excuser, j'ai oublie de donner une commission a mon valet, je reviens tout a l'heure. 
+ARGAN.
+Eh ! Ne diriez-vous pas que c'est effectivement Toinette ? 
+BERALDE.
+Il est vrai que la ressemblance est tout a fait grande. Mais ce n'est pas la premiere fois qu'on a vu de ces sortes de choses, et les histoires ne sont pleines que de ces jeux de la nature. 
+ARGAN.
+Pour moi, j'en suis surpris, et... 
+SCENE IX. Toinette, Argan, Beralde.
+TOINETTE quitte son habit de medecin si promptement qu'il est difficile de croire que ce soit elle qui a paru en medecin.
+Que voulez-vous, Monsieur ? 
+ARGAN.
+Comment ? 
+TOINETTE.
+Ne m'avez-vous pas appelee ?
+ARGAN.
+Moi ? Non. 
+TOINETTE.
+Il faut donc que les oreilles m'aient corne. 
+ARGAN.
+Demeure un peu ici pour voir comme ce medecin te ressemble. 
+TOINETTE, en sortant, dit :
+Oui, vraiment, j'ai affaire la-bas, et je l'ai assez vu. 
+ARGAN.
+Si je ne les voyais tous deux, je croirais que ce n'est qu'un. 
+BERALDE.
+J'ai lu des choses surprenantes de ces sortes de ressemblances, et nous en avons vu de notre temps ou tout le monde s'est trompe. 
+ARGAN.
+Pour moi, j'aurais ete trompe a celle-la, et j'aurais jure que c'est la meme personne. 
+SCENE X. Toinette, en medecin ; Argan, Beralde.
+TOINETTE.
+Monsieur, je vous demande pardon de tout mon coeur. 
+ARGAN.
+Cela est admirable ! 
+TOINETTE.
+Vous ne trouverez pas mauvais, s'il vous plait, la curiosite que j'ai eue de voir un illustre malade comme vous etes, et votre reputation, qui s'etend partout, peut excuser la liberte que j'ai prise. 
+ARGAN.
+Monsieur, je suis votre serviteur. 
+TOINETTE.
+Je vois, Monsieur, que vous me regardez fixement. Quel age croyez-vous bien que j'aie ? 
+ARGAN.
+Je crois que tout au plus vous pouvez avoir vingt-six ou vingt-sept ans.
+TOINETTE.
+Ah, ah, ah, ah, ah ! J'en ai quatre-vingt-dix. 
+ARGAN.
+Quatre-vingt-dix ? 
+TOINETTE.
+Oui. Vous voyez un effet des secrets de mon art, de me conserver ainsi frais et vigoureux. 
+ARGAN.
+Par ma foi ! Voila un beau jeune vieillard pour quatre-vingt-dix ans. 
+TOINETTE.
+Je suis medecin passager, qui vais de ville en ville, de province en province, de royaume en royaume, pour chercher d'illustres matieres a ma capacite, pour trouver des malades dignes de m'occuper, capables d'exercer les grands, et beaux secrets que j'ai trouves dans la medecine. Je dedaigne de m'amuser a ce menu fatras de maladies ordinaires, a ces bagatelles de rhumatisme et defluxions, a ces fievrottes, a ces vapeurs, et a ces migraines. Je veux des maladies d'importance : de bonnes fievres continues avec des transports au cerveau, de bonnes fievres pourprees, de bonnes pestes, de bonnes hydropisies formees, de bonnes pleuresies avec des inflammations de poitrine : c'est la que je me plais, c'est la que je triomphe ; et je voudrais, Monsieur, que vous eussiez toutes les maladies que je viens de dire, que vous fussiez abandonne de tous les medecins, desespere, a l'agonie, pour vous montrer l'excellence de mes remedes, et l'envie que j'aurais de vous rendre service. 
+ARGAN.
+Je vous suis oblige, Monsieur, des bontes que vous avez pour moi. 
+TOINETTE.
+Donnez-moi votre pouls. Allons donc, que l'on batte comme il faut. Ahy, je vous ferai bien aller comme vous devez. Hoy, ce pouls-la fait l'impertinent ; je vois bien que vous ne me connaissez pas encore. Qui est votre medecin ? 
+ARGAN.
+Monsieur Purgon. 
+TOINETTE.
+Cet homme-la n'est point ecrit sur mes tablettes entre les grands medecins. De quoi dit-il que vous etes malade ? 
+ARGAN.
+Il dit que c'est du foie, et d'autres disent que c'est de la rate. 
+TOINETTE.
+Ce sont tous des ignorants : c'est du poumon que vous etes malade. 
+ARGAN.
+Du poumon ? 
+TOINETTE.
+Oui. Que sentez-vous ? 
+ARGAN.
+Je sens de temps en temps des douleurs de tete. 
+TOINETTE.
+Justement, le poumon. 
+ARGAN.
+Il me semble parfois que j'ai un voile devant les yeux. 
+TOINETTE.
+Le poumon. 
+J'ai quelquefois des maux de coeur. 
+TOINETTE.
+Le poumon. 
+ARGAN.
+Je sens parfois des lassitudes par tous les membres. 
+TOINETTE.
+Le poumon. 
+ARGAN.
+Et quelquefois il me prend des douleurs dans le ventre, comme si c'etait des coliques. 
+TOINETTE.
+Le poumon. Vous avez appetit a ce que vous mangez ? 
+ARGAN.
+Oui, Monsieur. 
+TOINETTE.
+Le poumon. Vous aimez a boire un peu de vin ? 
+ARGAN.
+Oui, Monsieur. 
+TOINETTE.
+Le poumon. Il vous prend un petit sommeil apres le repas et vous etes bien aise de dormir ? 
+ARGAN.
+Oui, Monsieur. 
+TOINETTE.
+Le poumon, le poumon, vous dis-je. Que vous ordonne votre medecin pour votre nourriture ? 
+ARGAN.
+Il m'ordonne du potage. 
+TOINETTE.
+Ignorant. 
+ARGAN.
+De la volaille. 
+TOINETTE.
+Ignorant. 
+ARGAN.
+Du veau. 
+TOINETTE.
+Ignorant. 
+ARGAN.
+Des bouillons. 
+TOINETTE.
+Ignorant. 
+ARGAN.
+Des oeufs frais. 
+TOINETTE.
+Ignorant. 
+ARGAN.
+Et le soir de petits pruneaux pour lacher le ventre. 
+TOINETTE.
+Ignorant. 
+ARGAN.
+Et surtout de boire mon vin fort trempe. 
+TOINETTE.
+Ignorantus, ignoranta, ignorantum. Il faut boire votre vin pur, et pour epaissir votre sang qui est trop subtil, il faut manger de bon gros boeuf, de bon gros porc, de bon fromage de Hollande, du gruau et du riz, et des marrons et des oublies, pour coller et conglutiner. Votre medecin est une bete. Je veux vous en envoyer un de ma main, et je viendrai vous voir de temps en temps, tandis que je serai en cette ville. 
+ARGAN.
+Vous m'obligez beaucoup. 
+TOINETTE.
+Que diantre faites-vous de ce bras-la ? 
+ARGAN.
+Comment ? 
+TOINETTE.
+Voila un bras que je me ferais couper tout a l'heure, si j'etais que de vous. 
+ARGAN.
+Et pourquoi ? 
+TOINETTE.
+Ne voyez-vous pas qu'il tire a soi toute la nourriture, et qu'il empeche ce cote-la de profiter ? 
+ARGAN.
+Oui ; mais j'ai besoin de mon bras. 
+TOINETTE.
+Vous avez la aussi un oeil droit que je me ferais crever, si j'etais en votre place. 
+ARGAN.
+Crever un oeil ? 
+TOINETTE.
+Ne voyez-vous pas qu'il incommode l'autre, et lui derobe sa nourriture ? Croyez-moi, faites-vous-le crever au plus tot, vous en verrez plus clair de l'oeil gauche. 
+ARGAN.
+Cela n'est pas presse. 
+TOINETTE.
+Adieu. Je suis fache de vous quitter si tot, mais il faut que je me trouve a une grande consultation qui se doit faire, pour un homme qui mourut hier. 
+ARGAN.
+Pour un homme qui mourut hier ? 
+TOINETTE.
+Oui, pour aviser, et voir ce qu'il aurait fallu lui faire pour le guerir. Jusqu'au revoir. 
+ARGAN.
+Vous savez que les malades ne reconduisent point. 
+BERALDE.
+Voila un medecin vraiment qui parait fort habile. 
+ARGAN.
+Oui, mais il va un peu bien vite. 
+BERALDE.
+Tous les grands medecins sont comme cela. 
+ARGAN.
+Me couper un bras, et me crever un oeil, afin que l'autre se porte mieux ? J'aime bien mieux qu'il ne se porte pas si bien. La belle operation, de me rendre borgne et manchot ! 
+SCENE XI. Toinette, Argan, Beralde.
+TOINETTE.
+Allons, allons, je suis votre servante, je n'ai pas envie de rire. 
+ARGAN.
+Qu'est-ce que c'est ? 
+TOINETTE.
+Votre medecin, ma foi ! Qui me voulait tater le pouls. 
+ARGAN.
+Voyez un peu, a l'age de quatre-vingt-dix ans ! 
+BERALDE.
+Oh ca, mon frere, puisque voila votre Monsieur Purgon brouille avec vous, ne voulez-vous pas bien que je vous parle du parti qui	s'offre pour ma niece ? 
+ARGAN.
+Non, mon frere, je veux la mettre dans un couvent, puisqu'elle s'est opposee a mes volontes. Je vois bien qu'il y a quelque amourette la-dessous, et j'ai decouvert certaine entrevue secrete, qu'on ne sait pas que j'aye decouverte. 
+BERALDE.
+He bien, mon frere, quand il y aurait quelque petite inclination, cela serait-il si criminel, et rien peut-il vous offenser, quand tout ne va qu'a des choses honnetes comme le mariage ? 
+ARGAN.
+Quoi qu'il en soit, mon frere, elle sera religieuse, c'est une chose resolue. 
+BERALDE.
+Vous voulez faire plaisir a quelqu'un. 
+ARGAN.
+Je vous entends : vous en revenez toujours la, et ma femme vous tient au coeur. 
+BERALDE.
+He bien ! Oui, mon frere, puisqu'il faut parler a coeur ouvert, c'est votre femme que je veux dire ; et non plus que l'entetement de la medecine, je ne puis vous souffrir l'entetement ou vous etes pour elle, et voir que vous donniez tete baissee dans tous les pieges qu'elle vous tend. 
+TOINETTE.
+Ah ! Monsieur, ne parlez point de Madame, c'est une femme sur laquelle il n'y a rien a dire, une femme sans artifice, et qui aime Monsieur, qui l'aime... On ne peut pas dire cela. 
+ARGAN.
+Demandez-lui un peu les caresses qu'elle me fait. 
+TOINETTE.
+Cela est vrai. 
+ARGAN.
+L'inquietude que lui donne ma maladie. 
+TOINETTE.
+Assurement. 
+ARGAN.
+Et les soins et les peines qu'elle prend autour de moi. 
+TOINETTE.
+Il est certain. Voulez-vous que je vous convainque, et vous fasse voir tout a l'heure comme Madame aime Monsieur ? Monsieur, souffrez que je lui montre son bec jaune, et le tire d'erreur. 
+ARGAN.
+Comment ? 
+TOINETTE.
+Madame s'en va revenir. Mettez-vous tout etendu dans cette chaise, et contrefaites le mort. Vous verrez la douleur ou elle sera, quand je lui dirai la nouvelle. 
+ARGAN.
+Je le veux bien. 
+TOINETTE.
+Oui ; mais ne la laissez pas longtemps dans le desespoir, car elle en pourrait bien mourir. 
+ARGAN.
+Laisse-moi faire. 
+TOINETTE, a Beralde.
+Cachez-vous, vous, dans ce coin-la. 
+ARGAN.
+N'y a-t-il point quelque danger a contrefaire le mort ? 
+TOINETTE.
+Non, non : quel danger y aurait-il ? Etendez-vous la seulement. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il y aura plaisir a confondre votre frere. Voici Madame. Tenez-vous bien. 
+SCENE XII. Beline, Toinette, Argan, Beralde.
+TOINETTE, s'ecrie.
+Ah, mon Dieu ! Ah, malheur ! Quel etrange accident ! 
+BELINE.
+Qu'est-ce, Toinette ? 
+TOINETTE.
+Ah, Madame ! 
+BELINE.
+Qu'y a-t-il ? 
+TOINETTE.
+Votre mari est mort. 
+BELINE.
+Mon mari est mort ? 
+TOINETTE.
+Helas oui. Le pauvre defunt est trepasse. 
+BELINE.
+Assurement ? 
+TOINETTE.
+Assurement. Personne ne sait encore cet accident-la, et je me suis trouvee ici toute seule. Il vient de passer entre mes bras. Tenez, le voila tout de son long dans cette chaise. 
+BELINE.
+Le Ciel en soit loue ! Me voila delivree d'un grand fardeau. Que tu es sotte, Toinette, de t'affliger de cette mort ! 
+TOINETTE.
+Je pensais, Madame, qu'il fallut pleurer. 
+BELINE.
+Va, va, cela n'en vaut pas la peine. Quelle perte est-ce que la sienne, et de quoi servait-il sur la terre ? Un homme incommode a	tout le monde, malpropre, degoutant, sans cesse un lavement, ou une medecine dans le ventre, mouchant, toussant, crachant toujours, sans esprit, ennuyeux, de mauvaise humeur, fatiguant sans cesse les gens, et grondant jour et nuit servantes, et valets. 
+TOINETTE.
+Voila une belle oraison funebre. 
+BELINE.
+Il faut, Toinette, que tu m'aides a executer mon dessein, et tu peux croire qu'en me servant ta recompense est sure. Puisque, par un bonheur, personne n'est encore averti de la chose, portons-le dans son lit, et tenons cette mort cachee, jusqu'a ce que j'aie fait mon affaire. Il y a des papiers, il y a de l'argent, dont je veux me saisir, et il n'est pas juste que j'aie passe sans fruit aupres de lui mes plus belles annees. Viens, Toinette, prenons auparavant toutes ses clefs. 
+ARGAN, se levant brusquement.
+Doucement. 
+BELINE, surprise et epouvantee.
+Ahy ! 
+ARGAN.
+Oui, Madame ma femme, c'est ainsi que vous m'aimez ? 
+TOINETTE.
+Ah, ah ! Le defunt n'est pas mort. 
+ARGAN, a Beline, qui sort.
+Je suis bien aise de voir votre amitie, et d'avoir entendu le beau panegyrique que vous avez fait de moi. Voila un avis au lecteur, qui me rendra sage a l'avenir, et qui m'empechera de faire bien des choses. 
+BERALDE, sortant de l'endroit ou il etait cache.
+He bien, mon frere, vous le voyez. 
+TOINETTE.
+Par ma foi ! Je n'aurais jamais cru cela. Mais j'entends votre fille, remettez-vous comme vous etiez, et voyons de quelle maniere elle recevra votre mort. C'est une chose qu'il n'est pas mauvais d'eprouver ; et puisque vous etes en train, vous connaitrez par la les sentiments que votre famille a pour vous. 
+SCENE XIII. Angelique, Argan, Toinette, Beralde.
+TOINETTE, s'ecrie.
+O Ciel ! Ah, facheuse aventure ! Malheureuse journee ! 
+ANGELIQUE.
+Qu'as-tu, Toinette, et de quoi pleures-tu ? 
+TOINETTE.
+Helas ! J'ai de tristes nouvelles a vous donner. 
+ANGELIQUE.
+He quoi ? 
+TOINETTE.
+Votre pere est mort. 
+ANGELIQUE.
+Mon pere est mort, Toinette ? 
+TOINETTE.
+Oui, vous le voyez la. Il vient de mourir tout a l'heure d'une faiblesse qui lui a pris. 
+ANGELIQUE.
+O Ciel ! Quelle infortune ! Quelle atteinte cruelle ! Helas ! Faut-il que je perde mon pere, la seule chose qui me restait au monde ; et qu'encore, pour un surcroit de desespoir, je le perde dans un moment ou il etait irrite contre moi ? Que deviendrai-je, malheureuse, et quelle consolation trouver apres une si grande perte ? 
+SCENE XIV et derniere. Cleante, Angelique, Argan, Toinette, Beralde.
+CLEANTE.
+Qu'avez-vous donc, belle Angelique ? Et quel malheur pleurez-vous ? 
+ANGELIQUE.
+Helas ! Je pleure tout ce que dans la vie je pouvais perdre de plus cher et de plus precieux. Je pleure la mort de mon pere. 
+CLEANTE.
+O Ciel ! Quel accident ! Quel coup inopine ! Helas ! Apres la demande que j'avais conjure votre oncle de lui faire pour moi, je venais me presenter a lui, et tacher par mes respects et par mes prieres de disposer son coeur a vous accorder a mes voeux. 
+ANGELIQUE.
+Ah ! Cleante, ne parlons plus de rien. Laissons la toutes les pensees du mariage. Apres la perte de mon pere, je ne veux plus etre du monde, et j'y renonce pour jamais. Oui, mon pere, si j'ai resiste tantot a vos volontes, je veux suivre du moins une de vos intentions, et reparer par la le chagrin que je m'accuse de vous avoir donne. Souffrez, mon pere, que je vous en donne ici ma parole, et que je vous embrasse pour vous temoigner mon ressentiment. 
+ARGAN se leve.
+Ah ! Ma fille ! 
+ANGELIQUE, epouvantee.
+Ahy ! 
+ARGAN.
+Viens. N'aie point de peur, je ne suis pas mort. Va, tu es mon vrai sang, ma veritable fille, et je suis ravi d'avoir vu ton bon naturel.
+ANGELIQUE.
+Ah ! Quelle surprise agreable, mon pere ! Puisque par un bonheur extreme le Ciel vous redonne a mes voeux, souffrez qu'ici je me jette a vos pieds pour vous supplier d'une chose. Si vous n'etes pas favorable au penchant de mon coeur, si vous me refusez Cleante pour epoux, je vous conjure au moins, de ne me point forcer d'en epouser un autre. C'est toute la grace que je vous demande. 
+CLEANTE, se jette a genoux.
+Eh, Monsieur, laissez-vous toucher a ses prieres et aux miennes, et ne vous montrez point contraire aux mutuels empressements d'une si belle inclination. 
+BERALDE.
+Mon frere, pouvez-vous tenir la contre ? 
+TOINETTE.
+Monsieur, serez-vous insensible a tant d'amour ? 
+ARGAN.
+Qu'il se fasse medecin, je consens au mariage. Oui, faites-vous medecin, je vous donne ma fille. 
+CLEANTE.
+Tres volontiers, Monsieur, s'il ne tient qu'a cela pour etre votre gendre, je me ferai medecin, apothicaire meme, si vous voulez.Ce n'est pas une affaire que cela, et je ferais bien d'autres choses pour obtenir la belle Angelique. 
+BERALDE.
+Mais, mon frere, il me vient une pensee. Faites-vous medecin vous-meme. La commodite sera encore plus grande, d'avoir en vous	tout ce qu'il vous faut. 
+TOINETTE.
+Cela est vrai. Voila le vrai moyen de vous guerir bientot ; et il n'y a point de maladie si osee, que de se jouer a la personne d'un medecin.
+ARGAN.
+Je pense, mon frere, que vous vous moquez de moi : est-ce que je suis en age d'etudier ? 
+BERALDE.
+Bon, etudier ! Vous etes assez savant ; et il y en a beaucoup parmi eux, qui ne sont pas plus habiles que vous. 
+ARGAN.
+Mais il faut savoir bien parler latin, connaitre les maladies, et les remedes qu'il y faut faire. 
+BERALDE.
+En recevant la robe et le bonnet de medecin, vous apprendrez tout cela, et vous serez apres plus habile que vous ne voudrez. 
+ARGAN.
+Quoi l'on sait discourir sur les maladies quand on a cet habit-la ? 
+BERALDE.
+Oui. L'on n'a qu'a parler, avec une robe et un bonnet, tout galimatias devient savant, et toute sottise devient raison. 
+TOINETTE.
+Tenez, Monsieur, quand il n'y aurait que votre barbe, c'est deja beaucoup, et la barbe fait plus de la moitie d'un medecin. 
+CLEANTE.
+En tout cas, je suis pret a tout. 
+BERALDE.
+Voulez-vous que l'affaire se fasse tout a l'heure ? 
+ARGAN.
+Comment tout a l'heure ? 
+BERALDE.
+Oui, et dans votre maison. 
+ARGAN.
+Dans ma maison ? 
+BERALDE.
+Oui. Je connais une Faculte de mes amies, qui viendra tout a l'heure en faire la ceremonie dans votre salle. Cela ne vous coutera rien. 
+ARGAN.
+Mais, moi que dire, que repondre ? 
+BERALDE.
+On vous instruira en deux mots, et l'on vous donnera par ecrit ce que vous devez dire. Allez-vous-en vous mettre en habit decent, je vais les envoyer querir. 
+ARGAN.
+Allons, voyons cela. 
+CLEANTE.
+Que voulez-vous dire, et qu'entendez-vous avec cette faculte de vos amies... ? 
+TOINETTE.
+Quel est donc votre dessein ? 
+BERALDE.
+De nous divertir un peu ce soir. Les comediens ont fait un petit intermede de la reception d'un medecin, avec des danses et de la musique, je veux que nous en prenions ensemble le divertissement, et que mon frere y fasse le premier personnage. 
+ANGELIQUE.
+Mais, mon oncle, il me semble que vous vous jouez un peu beaucoup de mon pere. 
+BERALDE.
+Mais, ma niece, ce n'est pas tant le jouer, que s'accommoder a ses fantaisies. Tout ceci n'est qu'entre nous. Nous y pouvons aussi prendre chacun un personnage, et nous donner ainsi la comedie les uns aux autres. Le carnaval autorise cela. Allons vite preparer toutes choses.
+CLEANTE, a Angelique.
+Y consentez-vous ? 
+ANGELIQUE.
+Oui, puisque mon oncle nous conduit. 
+
+
+			TROISIEME INTERMEDE
+
+
+ENTREE DE BALLET.
+C'est une ceremonie burlesque d'un homme qu'on fait medecin en recit, chant, et danse. Plusieurs tapissiers viennent preparer la salle et placer les bancs en cadence. Ensuite de quoi toute l'assemblee, composee de huit porte-seringues, six apothicaires, vingt-deux docteurs, celui qui se fait recevoir medecin, huit chirurgiens dansants, et deux chantants, chacun entre et prend ses places selon les rangs.
+PRAESES.
+
+
+	Scavantissimi doctores, 
+	Medicina professores, 
+	Qui hic assemblati estis ;
+	Et vos altri Messiores, 
+	Sententiarum Facultatis 
+	Fideles executores, 
+	Chirurgiani et apothicari, 
+	Atque tota compania aussi, 
+	Salus, honor, et argentum, 
+	Atque bonum appetitum. 
+
+
+	Non possum docti Confreri, 
+	En moi satis admirari 
+	Qualis bona inventio 
+	Est medici professio : 
+	Quam bella chosa est et bene trovata, 
+	Medicina illa benedicta, 
+	Quae suo nomine solo, 
+	Surprenanti miraculo, 
+	Depuis si longo tempore 
+	Facit a gogo vivere 
+	Tant de gens omni genere. 
+
+
+	Per totam terram videmus 
+	Grandam vogam ubi sumus, 
+	Et quod grandes et petiti 
+	Sunt de nobis infatuti. 
+	Totus mundus, currens ad nostros remedios, 
+	Nos regardat sicut Deos ; 
+	Et nostris ordonnanciis 
+	Principes et reges soumissos viditis. 
+
+
+	Donque il est nostrae sapientiae, 
+	Boni sensus atque prudentiae, 
+	De fortement travaillare 
+	A nos bene conservare 
+	In tali credito, voga, et honore ;
+	Et prandere gardam a non recevere 
+	In nostro docto corpore 
+	Quam personas capabiles, 
+	Et totas dignas ramplire 
+	Has placas honorabiles. 
+
+
+	C'est pour cela que nunc convocati estis, 
+	Et credo quod trovabitis 
+	Dignam matieram medici 
+	In scavanti homine que voici : 
+	Lequel in choisis omnibus
+	Dono ad interrogandum, 
+	Et a fond examinandum 
+	Vostris capacitatibus. 
+
+			[0]
+PRIMUS DOCTOR.
+Si mihi licenciam dat Dominus Praeses, 
+Et tanti docti Doctores, 
+Et assistantes illustres, 
+Tres scavanti Bacheliero, 
+Quem estimo et honoro, 			[385]
+Domandabo causam et rationem, quare 
+Opium facit dormire ? 
+BACHELIERUS.
+Mihi a docto Doctore 
+Domandatur causam et rationem, quare 
+Opium facit dormire ?			[390]
+A quoi respondeo, 
+Quia est in eo 
+Virtus dormitiva, 
+Cujus est natura 
+Sensus assoupire. 			[395]
+CHORUS.
+Bene, bene, bene, bene respondere : 
+Dignus, dignus est entrare 
+In nostro docto corpore. 
+Bene, bene, respondere.
+SECUNDUS DOCTOR.
+Cum permissione Domini Praesidis, 			[400]
+Doctissimae Facultatis, 
+Et totius his nostris actis 
+Companiae assistantis, 
+Domandabo tibi, docte Bacheliere, 
+Quae sunt remedia,			[405]
+Quae in maladia 
+Ditte hydropisia 
+Convenit facere. 
+BACHELIERUS.
+Clysterium donare, 
+Postea seignare, 			[410]
+Ensuitta purgare. 
+CHORUS.
+Bene, bene, bene, bene responder. 
+Dignus, dignus est entrare 
+In nostro docto corpore. 
+TERTIUS DOCTOR.
+Si bonum semblatur Domino Praesidi, 			[415]
+Doctissimae Facultati 
+Et companiae praesenti, 
+Domandabo tibi, docte Bacheliere, 
+Quae remedia eticis,
+Pulmonicis, atque asmaticis, 			[420]
+Trovas a propos facere. 
+BACHELIERUS.
+Clysterium donare, 
+Postea seignare, 
+Ensuitta purgare. 
+CHORUS.
+Bene, bene, bene, bene respondere : 			[425]
+Dignus, dignus est entrare 
+In nostro docto corpore. 
+QUARTUS DOCTOR.
+Super illas maladias,
+Doctus Bachelierus dixit maravillas,
+Mais si non ennuyo Dominum Praesidem, 			[430]
+Doctissimam Facultatem, 
+Et totam honorabilem 
+Companiam ecoutantem ;
+Faciam illi unam quaestionem, 
+Dez hiero maladus unus 			[435]
+Tombavit in meas manus : 
+Habet grandam fievram cum redoublamentis 
+Grandam dolorem capitis, 
+Et grandum malum au cote, 
+Cum granda difficultate 			[440]
+Et poena de respirare : 
+Veillas mihi dire, 
+Docte Bacheliere, 
+Quid illi facere ? 
+BACHELIERUS.
+Clysterium donare, 			[445]
+Postea seignare, 
+Ensuitta purgare. 
+QUINTUS DOCTOR.
+Mais si maladia 
+Opiniatria 
+Non vult se garire, 			[450]
+Quid illi facere ? 
+BACHELIERUS.
+Clysterium donare, 
+Postea seignare, 
+Ensuitta purgare, reseignere, repurgare, et rechlitterisare. 
+CHORUS.
+Bene, bene, bene, bene respondere : 			[455]
+Dignus, dignus est entrare 
+In nostro docto corpore. 
+PRAESES.
+Juras gardare statuta 
+Per Facultatem praescripta, 
+Cum sensu et jugeamento ? 			[460]
+BACHELIERUS.
+Juro. 
+PRAESES.
+Essere, in omnibus
+Consultationibus, 
+Ancieni aviso, 
+Aut bono, 			[465]
+Aut mauvaiso ? 
+BACHELIERUS.
+Juro. 
+PRAESES.
+De non jamais te servire 
+De remediis aucunis, 
+Quam de ceux seulement doctae Facultatis ;			[470]
+Maladus dust-il crevare, 
+Et mori de suo malo ? 
+BACHELIERUS.
+Juro. 
+PRAESES.
+Ego, cum isto boneto 
+Venerabili et docto, 			[475]
+Dono tibi et concedo 
+Virtutem et puissanciam 
+Medicandi, 
+Purgandi, 
+Seignandi, 			[480]
+Percandi, 
+Taillandi, 
+Coupandi. 
+Et occidendi 
+Impune per totam terram. 			[485]
+ENTREE DE BALLET.
+Tous les Chirurgiens et Apothicaires viennent lui faire la reverence en cadence.
+BACHELIERUS.
+Grandes doctores doctrinae 
+De la rhubarbe et du sene : 
+Ce seroit sans douta a moi chosa folla, 
+Inepta et ridicula, 
+Si j'allaibam m'engageare 			[490]
+Vobis louangeas donare, 
+Et entreprenoibam adjoutare 
+Des lumieras au soleillo, 
+Et des etoilas au cielo, 
+Des ondas a l'Oceano ; 			[495]
+Et des rosas au printanno ; 
+Agreate qu'avec uno moto, 
+Pro toto remercimento, 
+Rendam gratiam corpori tam docto. 
+Vobis, vobis debeo 			[500]
+Bien plus qu'a naturae et qu'a patri meo : 
+Natura et pater meus 
+Hominem me habent factum :
+Mais vos me, ce qui est bien plus, 
+Avetis factum medicum, 			[505]
+Honor, favor, et gratia,
+Qui in hoc corde que voila, 
+Imprimant ressentimenta 
+Qui dureront in secula. 
+CHORUS.
+Vivat, vivat, vivat, vivat, cent fois vivat, 			[510]
+Novus Doctor, qui tam bene parlat ! 
+Mille, mille annis et manget et bibat, 
+Et seignet et tuat ! 
+ENTREE DE BALLET.
+Tous les Chirurgiens et les Apothicaires dansent au son des instruments et des voix, et des battements de mains, et des mortiers d'apothicaires.
+CHIRURGUS.
+Puisse-t-il voir doctas 
+Suas ordonnancias 			[515]
+Omnium chirurgorum 
+Et apothiquarum 
+Remplire boutiquas. 
+CHORUS.
+Vivat, vivat, vivat, vivat, cent fois vivat 
+Novus Doctor, qui tam bene parlat,			[520]
+Mille, mille annis, et manget et bibat, 
+Et seignet et tuat ! 
+CHIRURGUS.
+Puissent toti anni 
+Lui essere boni 
+Et favorabiles, 			[525]
+Et n'habere jamais 
+Quam pestas, verolas, 
+Fievras, pluresias, 
+Fluxus de sang, et dyssenterias.
+CHORUS.
+Viva, vivat, vivat, vivat, cent fois vivat 			[530]
+Novus Doctor, qui tam bene parlat,
+Mille, mille annis, et manget et bibat, 
+Et seignet et tuat.
+DERNIERE ENTREE DE BALLET.
+Des medecins, des chirurgiens et des apothicaires, qui sortent tous selon leur rang en ceremonie comme il sont entres.
+
+	==================================================

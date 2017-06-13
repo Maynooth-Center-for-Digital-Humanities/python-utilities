@@ -1,0 +1,1461 @@
+********************************************************
+	DC.Title                  = MOLIERE A LA NOUVELLE SALLE, OU LES AUDIENCES DE THALIE, COMEDIE.
+	DC.Author                 = LA HARPE, Jean-Francois de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:22.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/LAHARPE_MOLIERE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+MOLIERE A LA NOUVELLE SALLE OU LES AUDIENCES DE THALIE.COMEDIE EN UN ACTE ET EN VERS LIBRESM. DCC. LXXXII
+PAR UNE SOCIETE DE GENS DE LETTRES
+	A PARIS, De l'Imprimerie de M. LAMBERT et F. J. BAUDOUIN, rue de la Harpe, pres Saint-Come.
+	
+	Representee pour la premiere fois par les Comediens Francais, sur le nouveau Theatre du Faubourg Saint-Germain, le 12 Avril 1782.
+	PREFACE.
+(Car il en faut toujours une.)
+On ne sera pas etonne sans doute de voir une comedie faite par une "Societe de Gens de Lettres" : c'est ainsi que tout se fait aujourd'hui, meme les Almanachs. Aussi, pour n'etre pas soupconne d'avoir eu des secours de cette espece, l'Auteur d'une des plus grandes entreprises qui aient illustre ce siecle, l'Auteur de l'Ouvrage le plus repandu dans l'Europe, apres l'Almanach de Liege ; l'Auteur, en un mot, de l'Almanach des Muses, a imprime, en 1779, cette Note remarquable :  « L'Almanach des Muses a ete etabli par M. Sautreau de Marsy, SEUL, en 1765 .... Il n'a jamais eu d' "associe" pour ce Recueil. » L'on voit par cette note combien M. Sautreau de Marsy craignait de partager les honneurs de son Almanach. On a su depuis, par "la renommee", qu'il etait encore charge de la Litterature du Journal de Paris, poids immense de travail et "de gloire" fait pour cet infatigable Atlas ; mais le porte t-il SEUL, comme l'Almanach des Muses ? C'est ce qu'on n'oserait pas assurer.
+Pour "nous", "nous" sommes une Societe ; et quand meme des gens malins voudraient faire croire que c'est encore une plaisanterie, et que "nous" signifie ici, comme ailleurs, M. N., M. N. serait encore autorise a parler au pluriel pour ne pas deroger a la dignite de l'usage, qui a substitue le "nous", comme plus modeste, au "moi", proscrit par les ecrivains de Port Royal.
+Nous commencerons donc, suivant la coutume, par distribuer aux differents Membres de notre "Societe" la portion d'eloges qui leur est dUe ; mais quoiqu'il soit de regle, en ce cas, que chacun soit charge de son article, attendu qu'on sait toujours mieux que personne comment on veut etre loue ; cependant nous prendrons sur nous de louer tout le monde, pour avoir plus tot fait, et parce que le temps nous presse.
+Nous reconnaitrons d'abord les obligations infinies que nous avons a M. N., qui a lu "notre" Piece a la Comedie, comme s'il l'avait faite, et dont la verve comique, echauffee par le seul projet de la scene de M. Claque, qui a ete concue devant lui, enfanta tout d'un coup ce vers heureux :
+Je gagnais en Bravo mes vingt ecus par mois : 
+vers que nous adoptames sur le champ avec le transport de la reconnaissance, vers qui suffirait pour l'immortaliser, s'il n'etait d'ailleurs connu dans le monde par son talent pour les Harangues et les "Compliments" d'une tournure nouvelle, et pour la "Pirouette a trois temps".
+Nous avons aussi grandement profite des lumieres de M. N. dont la "modestie" nous defend de faire ici son panegyrique : ainsi, nous nous contenterons de dire qu'il a envoye plusieurs fois au Journal de Paris des "gaites innocentes", et fourni meme plus d'un article au Necrologe : ajoutez a tout cela qu'il sait d'Arithmetique tout ce qu'on en peut savoir ; d'ou l'on voit qu'il est incontestablement "un des plus beaux Genies du siecle".
+Mais, que dirons-nous de Madame N. qui nous a fourni cet heureux refrain que chante le Vaudeville en entrant sur la Scene : "Turelure lure, et flon flon flon", etc. et qui de plus a fait deux copies de la piece avec une exactitude rare, et, ce qu'on aura peine a concevoir, sans manquer a l'orthographe, si ce n'est qu'il n'y avait ni points ni virgules ? Mais, disait M. N., c'etait de peur qu'on ne l'accusat de "mettre les points sur les i".
+« Oh ! Pour le coup, voila un Calembour. » Oui Messieurs ; mais nous avons cru devoir le rapporter pour apprendre a l'Auteur des petites Affiches ce que c'est qu'un Calembour ; car quoiqu'il ne soit pas du siecle de Moliere, et qu'il soit bien de celui-ci, il a l'air d'ignorer, tout comme lui, ce qu'on appelle Calembours, puisqu'il pretend que nous en avons fait beaucoup, meme de fort mauvais. La verite est que nous n'en avons fait d'aucune espece, et que si dans la Piece imprimee, ou l'on n'a pas retranche un vers, il peut nous montrer un seul endroit qui ressemble, meme de loin, a un jeu de mots, a une pointe, a un Calembour, nous consentons, pour notre penitence, a lire tout un Chant de la Psyche de M. l'Abbe Au***, ce qui n'est peut-etre jamais arrive a personne.
+Non contents de nous accuser de Calembours, le meme Auteur nous reproche d'etre plus « Satyriques que gais ». Nous ne pouvons la-dessus repondre d'une maniere aussi peremptoire que sur le fait des Calembours. Dieu nous preserve d'entreprendre de prouver que nous sommes gais : nous sommes meme convaincus que si le Ciel nous avait fait cette grace, notre gaite n'egayerait jamais M. l'Abbe Au*** ; mais ce qu'il ne pourra pas nier, c'est que si l'ouvrage n'est pas gai, le Public qui en a ri, l'etait beaucoup.
+« Aussi pourquoi vous attaquer a leurs Hautes Puissances nos Seigneurs les Journalistes ? Ignorez-vous qu'eux seuls distribuent les succes, les reputations, les Sceptres, les Couronnes, et que rien de tout cela n'existe que pour ceux qui veulent bien le recevoir de leurs mains ? »
+Voila ce que nous ont dit, par interet pour nous, d'honnetes gens qui pretendent qu'il faut etre actuellement un profond "Politique" en Litterature pour aller au grand : sur quoi nous avons repondu qu'a la verite nous etions fort peu "Politiques", et que nous irions ou nous pourrions ; mais qu'au reste nous avions eu soin de ne pas envelopper tous les Journalistes dans un anatheme qu'ils ne meritent pas tous ; qu'on pouvait s'en rapporter au Public et a leur conscience qui les jugent avec une egale equite ; que ceux qui ont des lumieres et de l'honnetete ne nous accuseront surement pas de les avoir confondus avec ceux que nous avons places sur le Tribunal de l'Ignorance ; et qu'a l'egard de ces derniers, nous nous en soucions fort peu.
+Et la tirade du Journal de Paris ?
+C'est une pure plaisanterie, une plaisanterie meme, a ce qu'il nous 	semble, assez douce, une gaite, comme disent ces Messieurs. Ce n'est pas que nous pretendions que nos gaites vaillent les leurs. Ils s'en sont permis quelquefois d'un genre dont nous ne nous flattons pas d'approcher jamais ; ce qui n'empeche pas que nous ne rendions justice a leur feuille. Nous n'ignorons pas que des gens mal intentionnes voudraient insinuer que son plus grand merite est de paraitre tous les jours ; mais ce qui prouve le contraire, c'est que les petites Affiches ont le meme avantage, et que pourtant, en fait de genie, (car il faut toujours en revenir la) la Feuille de Paris est tres superieure aux petites Affiches.
+Nous pourrions nous etendre beaucoup davantage, mais nous voulons avoir le merite de nous arreter, meme dans une Preface. Peut-etre trouvera-t-on celle-ci deja trop longue ; mais si l'on fait reflexion que les prefaces semblent n'avoir ete inventees que pour donner aux auteurs le plaisir de parler d'eux tout a leur aise, on concevra qu'il faut leur savoir gre de finir et encore plus d'abreger.
+P. S. Bon ! voila-t-il pas que notre ami, M. Misogramme, est venu se plaindre a nous, avec bien plus d'humeur, vraiment, qu'il n'en a dans sa scene avec Moliere ? On lui a sait voir un article du Mercure ou M. de C** parle de la Comedie nouvelle que l'on joue au Theatre Francais, a-peu-pres du meme ton que l'Auteur des Affiches. Cela ne fait rien a M. Misogramme ; mais ce qui l'a mis dans une vraie colere, c'est ce qu'on dit de lui particulierement, que c'est une espece de Bourgeois Misanthrope qui declame contre ceux qui aiment, jugent et parlent des Spectacles. « Oh ! pour cela, (nous a-t-il dit) c'est une pure calomnie. Bourgeois, passe, je n'ai pas la pretention d'etre plus que je ne suis ; mais Misanthrope, il n'y a au monde que M. de C** qui s'avise de m'en accuser. Je ne vous sais point mauvais gre de m'avoir montre sur la scene tel que je suis, et de m'avoir fait dire ce que je pense ; mais je ne puis pardonner a M. de C** de me travestir si etrangement. Moi Misanthrope ! Eh ! vous savez, Messieurs, que je suis le meilleur homme du monde. Je ne demande qu'a rire, a diner gaiment, a faire mon trictrac, a pouvoir parler un peu d'affaires et de nouvelles, parce qu'enfin cela m'interesse. Je suis si loin d'etre Misanthrope, que je  veux boire avec mes Paysans, avoir mes Vassaux pour  amis, et faire un piquet avec mon Fermier. » a-t-il dans tout cela le moindre trait qui ressemble a la Misanthropie ? Ou a-t-il pris que je declame contre ceux qui aiment les Spectacles ? Je ne suis point capable de cette sottise. J'aime les Spectacles comme un autre, et j'y vais quand j'en ai le temps. A l'egard de ceux qui en parlent et en jugent tout de travers, j'ai pu en etre excede souvent, comme je le suis de la manie epidemique d'ecrire sans talent et de decider de tout sans rien savoir. Voila ce dont je me suis plaint, et, je crois, avec quelque raison et sans declamation. Serait-ce donc une injure personnelle que j'aurais faite a M. de C**, sans m'en douter ? Est-ce que je sais moi s'il juge bien ou mal les Spectacles ? En quoi l'ai-je offense ? Pourquoi, dit il, que je suis un frondeur intolerant ? Je fais grand cas de la tolerance ; mais suis-je oblige de tolerer cette rage de l'esprit qui est la maladie du jour ? Il se plaint que beaucoup de gens lui ont ferme leur porte par amour propre, lorsqu'ils devaient la lui ouvrir par reconnaissance. Cela ne peut pas me regarder, puisque je ne le connais pas, et je ne puis avoir avec lui ni amour propre ni reconnaissance, puisque je ne l'avais jamais lu ; mais un de mes amis qui l'a lu pour son malheur, m'a charge de vous remettre cette lettre, et vous prie de la rendre publique. Il y examine la maniere de juger et d'ecrire de M. de C*** je ne m'en mele point ; mais je crois qu'on peut lui dire son avis, puisqu'il aime tant a dire le sien.
+La-dessus M. Misogramme nous a remis la Lettre suivante, que nous croyons devoir publier, parce qu'elle peut faire connaitre dans quelle classe de journalistes M. de C*** doit-etre place.
+
+LETTRE D'UN AMATEUR DU SPECTACLE,
+A M***.
+Tout Paris s'obstine, Monsieur, a vous attribuer la Piece nouvelle : c'est un cadre ou vous avez fait entrer une partie des travers et des ridicules du jour. On ne peut nier que nous n'ayons besoin d'une censure de cette espece, et je vous exhorte, au nom du Public, qui vous applaudit de si bon coeur, a la continuer. En meme temps je suis charge par beaucoup d'honnetes-gens, amateurs du Theatre comme moi, de vous demander justice d'un homme qui pretend bien la faire de tout le monde, et qui depuis le Pancrace de Moliere, est bien le Juge le plus risible qui se soit avise de regenter les Arts et les Artistes. Cet homme (pour me servir de vos expressions)
+Qui prononcant en Maitre ecrit en Ecolier,
+qui se donne le titre d'homme de Lettres, quoiqu'il ne sache pas meme ecrire une phrase en Francais, est M. de C***, charge, l'on ne sait pourquoi, de l'article des Spectacles, dans le Mercure de France. Soyez sur, Monsieur, qu'il y a longtemps que la maniere etrange dont il le redige aurait ete deferee au Public, si l'on ne s'en fut abstenu par egard pour des gens de merite qui travaillent a ce Journal, et qui en verite ne devraient pas avoir M. de C*** pour Associe. Je sais qu'eux-memes en sont bien souvent embarrasses et confus, et qu'ils sentent combien il est triste qu'un article susceptible d'etre si agreable et si interessant, ne soit curieux que par l'exces du ridicule. En effet, Monsieur, si vous y jetez quelquefois les yeux, n'etes vous pas frappe de ce ton si plaisamment emphatique, de cet air d'importance dont M. de C*** parle de sa mission, des devoirs que lui impose la place qui lui est confiee, de son emploi, de son fardeau, de son courage, qui sans doute n'est pas celui dont il parle ailleurs, lorsqu'il dit en propres termes, le courage que donne la malignite ? lisez, si vous le pouvez, sa conversation avec une Madame Cloe qu'il introduit sur la scene, et vous aurez peine a comprendre qu'on parle ainsi de soi-meme ; vous le verrez se donner le titre d'Aristarque, se plaindre qu'un homme qui rend compte a souper d'une piece nouvelle, s'empare effrontement de son esprit, de l'esprit de M. de C*** ; vous verrez que la-dessus Madame Cloe lui serre la main ; vous le verrez s'etonner qu'on ait la fureur de juger les Juges, et ces juges, c'est M. de C*** chez qui l'on est trop heureux de prendre un avis, une maniere de penser, et qui s'indigne que les pauvres aient le droit d'insulter ceux qui leur font l'aumone.
+Quelque pauvre que je sois en ce genre, je vous assure, Monsieur, que je n'ai jamais eu recours aux aumones de M. de C***, et que ne faisant point usage de ses richesses, j'ai le droit de les evaluer ; ou plutot c'est vous-meme que je veux en faire Juge. Je crois bien que vous les appreciez d'avance sur ce que je viens de vous citer. Il y a un oubli de toutes les convenances qui ne peut jamais appartenir a un esprit eclaire. Aussi ce grand arbitre du theatre, qui se croit appele de toute eternite a la "Defense de l'Art Dramatique", n'a-t-il jamais la mesure juste de l'eloge ni de la critique. Il parle des actrices avec une durete indecente, des plus grands talents avec une morgue magistrale : il vous dira que le Kain donnait au role de Nicomede "une couleur de persiflage et un ton de mystification" ; qu'il excitait ce rire que la Comedie seule doit faire "eclore" ; vous voyez qu'il s'exprime comme il juge. Quoiqu'il ait passe sa vie a suivre les spectacles et a lire tous les repertoires et tous les dictionnaires dramatiques, quoique ce soit-la, comme il le dit lui-meme, l'objet de toutes "ses etudes", vous ne trouverez pas dans ses articles une seule piece bien analysee, et tout son merite se reduit a quelques observations tres communes sur le jeu des acteurs, observations qu'il ne sait pas meme enoncer dans les termes de l'Art. Vous trouverez "un debit mal attache, un point d'illusion" ; ailleurs c'est une actrice qui ressemble a une femme "persecutee par des convulsions interieures. L'interet de son jeu, de l'effet, de l'expression et de son organe, l'invite, etc. L'interet de l'effet !" Puis demandez au critique, dans quel sens il a mis ce mot, "l'interet de son jeu" : il sera bien embarrasse. Est-ce l'interet qu'elle met dans "son jeu" ? Est-ce celui qu'elle doit mettre a ce que son jeu soit bon ? Dans tous les sens, la phrase est ridicule. Est-il permis d'ecrire si mal, lorsqu'on fait les "fonctions de juge" ? Est-il permis de dire que les "nuances proscrivent toute comparaison" ; d'ignorer sa langue au point d'ecrire des phrases telles que celles-ci : « La posterite brise les arrets .... dans notre maniere de juger, il n'entre d'autres causes que celles de la verite et de l'amour du bien... L'evenement qui a reduit en cendres la Salle de l'Opeta... Ce premier malheur fait trembler pour d'autres... entourez vos conseils d'un peu de galanterie... nous sommes avides d'eclairer... du travail et du courage la rendront propre a l'emploi des Reines... les jouissances de l'ame etoufferont les sarcasmes de l'esprit .... Racine tient sur le Parnasse le rang que lui a du son genie... Cette sortie amere prouve plutot la haine de la critique, qu'elle ne parle contre la justesse d'esprit... L'homme ne avec des idees assez justes pour tenter la connaissance du coeur humain... Le but du Theatre est l'amendement des moeurs et la correction des ridicules, etc. etc. etc.
+Un Ecrivain qui tombe, presque a chaque ligne, dans ces fautes grossieres contre la Grammaire, le bon sens et le gout, dont le style n'est qu'un lourd et monotone assemblage de phrases triviales et pedantesques, et d'expressions parasites prolixement accumulees, a-t-il bonne grace a s'arroger le titre de "Critique et d'Aristarque" ? Lui sied-il bien de se faire cajoler par Moliere et par Despreaux, dans un reve ou il fait parler a ces deux grands hommes la langue de M. de C***, ou ils accueillent dans l'Elysee M. de C***, ou l'Auteur du Tartuffe sourit a M. de C***, et lui dit, "tu seras des notres" ; ou Moliere dit toujours a M. de Ch***, "ami" : ce qui doit plus que tout le reste etonner le Lecteur qui s'attend que Moliere lui dira, Maitre ; enfin, ou Boileau parle d'un "caustique impudent" qui ferait regretter la decouverte de l'impression ? Concoit-on qu'on ose mettre dans la bouche de Boileau ces plats solecismes ? Concoit-on qu'en parlant de Dancourt, on dise dans la meme page, "qu'il n'a guere travaille que dans un genre assez piquant pour le moment ou il travaillait, mais peu interessant pour la generation suivante, et ensuite que les pieces ou il peint des paysans auront du succes aussi longtemps qu'on parlera la langue Francaise". Et qui ne rirait de voir tant d'inconsequence dans un "Aristarque" ? Qui ne rirait de cette phrase qui est un modele du style qu'on appelle niais ? « Toutes les fois qu'il faut opter entre un petit mal et un grand, les bons esprits ont bientot fait leur choix. » Quand on place si bien les bons esprits, ne donne-t-on pas une grande idee du sien ? Voulez-vous un echantillon de la maniere dont M. de C*** raconte ; il raconte comme il reve. Lisez les deux Soirees, Conte qui tient lieu de l'article Spectacle, du 12 Janvier dernier. « Il est un reduit public situe au sein de la Capitale, ou se rassemblent ordinairement nos Oisifs, nos Nouvellistes et les Juges modernes de nos Arts. » Ce debut n'est-il pas bien du ton d'un Conte ? Et remarquez ces "Juges modernes" ; n'est-il pas merveilleux que les Juges anciens n'y soient pas ? « Je tournai mes pas vers ce reduit. » Un Heros de Tragedie s'exprimerait-il plus noblement, et peut-on donner une plus grande idee de M. de C*** tournant ses pas vers le caveau ?
+En voila, bien assez, Monsieur ; car apres vous avoir fait rire, je craindrais de vous ennuyer, et c'est l'effet que produisent sur "les bons esprits", les articles de M. de C***. Vous me direz que bien d'autres ecrivent et jugent dans le meme gout ; mais c'est aussi par cette raison que le Public perd quelquefois patience, et un ecrivain de cette espece nuit enfin au Journal le plus estimable.
+Je suis, etc. 
+
+PERSONNAGES.
+APOLLON.
+MELPOMENE.
+THALIE.
+MOLIERE.
+MONSIEUR BAPTISTE, ancien garcon de cafe et poete.
+MONSIEUR MISOGRAMME, negociant.
+LE VAUDEVILLE.
+LA MUSE DU DRAME.
+MUSES, etc.
+La Scene est sur le Theatre de la Comedie Francaise.
+
+
+
+			
+
+
+SCENE PREMIERE. Melpomene, Thalie, Moliere.
+THALIE.
+Oui, Melpomene et moi, qu'un meme soin rassemble,
+Nous venons en ces lieux pour y regner ensemble.
+MELPOMENE.
+Nous venons toutes deux, celebrant ce grand jour,
+Installer nos sujets dans leur nouveau sejour. 
+THALIE.
+Mais quelle faveur singuliere			[5]
+Me fait trouver ici Moliere ?
+Quel surcroit de bonheur !
+MOLIERE.
+Quoi donc ? Souffririez-vous
+Qu'on m'eut voulu priver d'un spectacle si doux ?
+Apollon m'a permis de partager la fete ;
+Je viens pour en jouir : c'est pour moi qu'on l'apprete.			[10]
+Vos eleves cheris sont mes enfants, a moi ;
+Je suis leur fondateur, leur pere.
+Avant de s'appeler Comediens du Roi,
+Ils ont ete longtemps la Troupe de Moliere.
+Je m'en souviens toujours, et ce titre, a leurs yeux ;			[15]
+J'aime a le croire au moins, est encor precieux.
+MELPOMENE.
+Ah ! Je vous suis garant de leur reconnaissance ;
+Votre nom, l'honneur de la France,
+Est a jamais sacre pour eux.
+Ils ont, comme un riche heritage,			[20]
+Garde jusqu'au fauteuil ou vous etiez assis ;
+Contre le temps et son outrage,
+Ils en defendent les debris.
+MOLIERE.
+M'apprenant leurs bontes, vous y joignez les votres ;
+Et de leur souvenir ce gage convaincant.... 			[25]
+THALIE.
+Mais vraiment, ce fauteuil en vaut bien quelques autres ;
+C'est dommage qu'il soit vacant.
+La gloire d'y sieger ne serait pas vulgaire ;
+Mais depuis bien longtemps, et c'est mon desespoir,
+Je n'y vois personne s'asseoir			[30]
+Que le Malade imaginaire.
+MELPOMENE.
+C'est qu'il est des talents qu'on ne remplace pas.
+MOLIERE.
+Je suis flatte que Melpomene
+Fasse des miens autant de cas.
+Par votre soeur Thalie amene sur la scene....			[35]
+MELPOMENE.
+Serait-elle la seule a vous apprecier ?
+J'en suis digne peut-etre, et je dois dire encore
+Que, meme sans parler de votre art que j'honore ;
+J'ai plus d'une raison de vous remercier.
+Je sais qu'autrefois le premier,			[40]
+Moliere encouragea les essais de Racine ;
+Que, demelant des l'origine
+Tout ce qui parut fait pour acquerir un nom ;
+Sur la Scene, a douze ans, il fit monter Baron.
+MOLIERE.
+J'aimai tous les talents avec idolatrie,			[45]
+Il est vrai, j'ose m'en vanter, 
+Et c'est surtout par-la que je crois meriter
+Que ma memoire soit cherie.
+Tous mes camarades jadis
+Pour moi furent autant d'amis.			[50]
+Tout nous etait commun, travaux, plaisir et gloire ;
+De tous leurs interets j'etais le defenseur,
+Aupres de ce grand Roi, qu'au sein de la victoire
+Amusait de nos jeux la paisible douceur.
+MELPOMENE.
+Eh bien, un jeune Roi, son digne successeur,			[55]
+Que l'Europe revere, et que son peuple adore,
+A fait plus aujourd'hui pour nos arts qu'il honore.
+Vous-meme l'avez vu ce temps,
+Ou nos suppots, jouets de mille changements,
+N'obtenaient qu'avec peine un asile precaire,			[60]
+Y transportaient leur Troupe errante et tributaire ;
+De la ville aux faubourgs, de quartiers en quartiers,
+Promenaient tour-a-tour leur scene et leurs foyers.
+Meme, lorsque l'on crut leur demeure fixee,
+Combien elle etait loin d'etre digne de nous !			[65]
+Tandis qu'avec eclat notre gloire annoncee
+Retentissait au loin chez des peuples jaloux,
+Que des Racines, des Corneilles,
+Ils venaient admirer les nombreuses merveilles,
+On les representait en de tristes reduits			[70]
+Incommodes, etroits, bizarrement construits,
+Qui semblaient obscurcir de leur ignominie 
+Les chef-d'oeuvres crees par les mains du genie.
+Des etrangers encor les exemples perdus,
+Etaient meme a la France un reproche de plus.			[75]
+Longtemps, a cette informe et barbare structure,
+Ils opposaient l'orgueil de leur architecture.
+Je voyais a regret ce luxe triomphant,
+Ailleurs orner en vain mon art encore enfant,
+L'Italie insulter, dans sa fiere opulence,			[80]
+Des theatres francais la grossiere indigence.
+Louis enfin, Louis, portant de toutes parts
+Ce coup-d'oeil qui console et ranime les arts,
+Venge de cet affront Melpomene et la France ;
+Ce Palais est un don de sa magnificence.			[85]
+De mon nouveau sejour je puis m'enorgueillir.
+Ces lieux, que tant de mains ont tache d'embellir,
+Sont eux-meme un spectacle ; ils offrent a la vue
+Des contours spacieux l'elegante etendue.
+Le talent y peut prendre un vol moins limite,			[90]
+La scene ; plus de pompe et plus de majeste.
+Je crois revivre enfin, tout change, et Melpomene
+Pourra renouveler les prodiges d'Athenes.
+THALIE.
+Ce bel enthousiasme est fort dans votre gout ;
+Je reconnais-la votre style.			[95]
+Thalie est a loger un peu moins difficile ;
+Elle sait, il est vrai, s'accommoder de tout ;
+Et pourvu que l'on rie, elle est fort bien partout. 
+Mais votre joie ici doit etre partagee :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vous fais compliment d'etre si bien logee.			[100]
+Je dois vous avouer pourtant
+Qu'il me reste une inquietude.
+Ce theatre pompeux, ce palais eclatant,
+S'il n'attire un concours et nombreux et constant,
+N'est qu'une belle solitude.			[105]
+Il faut de spectateurs l'orner incessamment,
+Et le Public en est le premier ornement.
+MOLIERE.
+Eh bien ! D'ou vous vient cette crainte ?
+Aux plus purs des plaisirs que l'esprit peut gouter ;
+Vous avez toutes deux consacre cette enceinte ;			[110]
+Croyez-vous que jamais on puisse la quitter ?
+THALIE.
+Eh ! Eh !
+MOLIERE.
+J'ai meme entendu dire
+Que le gout du spectacle est repandu partout.
+MELPOMENE.
+Savoir quel Spectacle et quel gout.
+THALIE.
+La mode sur ce peuple exerce un grand empire :			[115]
+Il court facilement a des plaisirs nouveaux. 
+Je vous confie ici notre commune peine :
+Nous avons de puissants rivaux,
+Et dut rougir encor la fiere Melpomene,
+Ils sont fetes de toutes parts.			[120]
+MOLIERE.
+Quels sont-ils, s'il vous plait ?
+THALIE.
+La Foire et les Remparts.
+MOLIERE.
+Je m'en etonne moins que vous ne pourriez croire.
+J'ai combattu jadis les treteaux de la Foire,
+Et jusqu'a Sganarelle il fallut m'abaisser.
+Mais, apres tout, pour votre gloire,			[125]
+C'est un moment d'eclipse, et cela doit passer.
+THALIE.
+Longtemps cette eclipse-la dure ;
+Mon cher Moliere, je vous jure
+Qu'elle n'est pas prete a cesser.
+MOLIERE.
+La raison cependant....
+THALIE.
+Oh ! La mode est plus forte.			[130]
+MOLIERE.
+Le Theatre Francais.... 
+THALIE.
+Le Boulevard l'emporte.
+MOLIERE.
+Oui, pour le peuple.
+THALIE.
+Non : hommes de tous les rangs
+Et la Ville et la Cour, les petits et les grands,
+Tout y court : autrefois la bonne compagnie,
+Donnant et l'exemple et le ton,			[135]
+Entraina par degres toute la Nation
+Vers le spectacle du genie ;
+Mais chacun a son tour, et le peuple aujourd'hui
+Rend les honnetes gens aussi peuple que lui.
+MELPOMENE.
+Ma soeur, en verite, je souffre a vous entendre.			[140]
+THALIE.
+Je sens qu'a cet aveu vous craignez de descendre.
+Moi, j'ai le coeur moins haut et l'esprit ingenu.
+Oui, sur la scene en vain votre merite brille.
+De votre Agamemnon la tragique famille,
+Avec tous ses heros, n'a jamais obtenu			[145]
+Tout le succes qu'obtient la famille Pointu.
+MELPOMENE, a Moliere.
+Vous n'aviez pas prevu du moins que le vertige 
+Allat a cet exces ; et ce qui plus m'afflige,
+C'est que tout se ressent de la contagion.
+Parmi tant de delire et de corruption,			[150]
+Comment faire gouter a la foule egaree
+Les attraits delicats d'une scene epuree ?
+De cette absurde ecole ou l'on va se gater,
+Qu'est-ce que la jeunesse enfin peut rapporter
+De grossiers jeux de mots, de plates parodies			[155]
+De la des ames engourdies,
+Des coeurs froids et fletris, des esprits degoutes :
+Ils ne sont plus emus, s'ils ne sont tourmentes.
+Il faut et des horreurs et des atrocites,
+Des monstres, en un mot, au lieu de tragedies....			[160]
+THALIE.
+Et des farces, ma soeur, au lieu de comedies.
+MOLIERE.
+Toujours, quand on se plaint, on exagere un peu.
+Je concois cependant par un si triste aveu,
+Que la satiete qui nait de l'abondance,
+De vos arts epuises affaiblit la puissance.			[165]
+Ces arts, ainsi que l'homme, a la longue alteres,
+Des ages differents parcourent les degres.
+Ils ont tout comme lui l'eclat de la jeunesse,
+Et la maturite qui mene a la vieillesse.
+Mais, ce que n'a point l'homme, on peut les rajeunir.			[170]
+Conservez cet espoir : il doit vous soutenir.
+Chez le Francais ardent, ingenieux, sensible, 
+Croyez, en bien, en mal, tout changement possible.
+Songez donc que bientot deux siecles ecoules,
+Tenant les nations a sa gloire attentives,			[175]
+En tout genre d'ecrire ont rempli ses archives
+De chef-d'oeuvres accumules.
+Sans doute a satisfaire il devient difficile :
+C'est un riche rassasie,
+Au sein de l'opulence inquiet et mobile,			[180]
+De ses propres tresors quelquefois ennuye.
+Apres les gouts uses viennent les fantaisies,
+On cherche les Lais apres les Aspasies,
+Et de la nouveaute l'invincible desir,
+Aime plus a changer qu'il ne songe a choisir.			[185]
+C'est ainsi, croyez-moi, que la nature est faite.
+Comptez sur le Francais : je connais bien ses moeurs ;
+Il quitte la Deesse et court a la grisette ;
+Mais la Deesse enfin ne perd point ses honneurs,
+Et pour les assurer, il suffit de l'exemple			[190]
+D'un Roi qui veut sur elle epancher ses faveurs,
+Qui, lui donnant un nouveau Temple,
+Lui rendra ses adorateurs.
+MELPOMENE.
+J'embrasse cet heureux presage,
+Et je veux a tous mes suivants			[195]
+Inspirer, si je puis, ces doux pressentiments,
+Faits pour ranimer leur courage.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il faut les assembler pour la solennite 
+Qui doit nous preparer un retour si prospere :
+Je vais remplir ce soin dont mon coeur est flatte,			[200]
+Et je vous laisse avec Moliere.
+SCENE II. Thalie, Moliere.
+MOLIERE.
+Eh bien, Muse, a ce qu'il parait
+Vos beaux jours sont suivis de quelque decadence ;
+Et vous concevez bien que j'y prends interet.
+Je ne saurais voir sans regret			[205]
+S'avilir les beaux-arts dont s'honorait la France.
+Dites-moi, le faux gout a donc tout corrompu ?
+Contre lui dans mon temps j'ai fait ce que j'ai pu :
+Eh, quoi ! N'en fait-on plus justice ?
+J'en serais etonne : le Parnasse, a dit-on,			[210]
+Cent Juges au lieu d'un, tous en titre d'office,
+Qui chaque jour donnent le ton,
+Regents imperieux de la Litterature :
+Jamais les ecrivains, a ce que l'on m'assure,
+N'ont ete surveilles par de plus fiers censeurs :			[215]
+Les Lettres n'ont jamais eu tant de professeurs,
+Levant incessamment leurs ferrules rigides :
+Comment peut-on broncher sous l'oeil de tant de guides ?
+Tous ces Aristarques nouveaux.... 
+THALIE.
+Eh ! que dites-vous la ? C'est un de nos fleaux.			[220]
+L'amour-propre et la faim, l'envie et l'impuissance,
+Ont sur un tribunal eleve l'ignorance,
+Et l'esprit de parti s'en est fait le soutien ;
+Sur les arts degrades il pretend qu'elle regne ;
+Depuis que chacun les enseigne,			[225]
+Personne n'y connait plus rien.
+Le dernier des grimauds, echappe du college,
+S'arroge de juger l'orgueilleux privilege,
+Et prononcant en maitre, ecrit en ecolier.
+L'appat du gain encore invite a ce metier,			[230]
+Et le talent au moins, pour derniere victoire
+Force ses ennemis a vivre de sa gloire.
+Le nombre par malheur quelquefois leur fait tort ;
+Chacun d'eux se cantonne ainsi que dans un fort.
+La, comme l'artisan au bord de sa boutique			[235]
+D'une voix empressee appelle la pratique,
+Comme le charlatan vante sur ses treteaux
+Le baume merveilleux qui guerit tout les maux :
+« Messieurs, je suis le seul... Messieurs, je suis l'unique...
+Oui, le seul infaillible... et le seul veridique...			[240]
+Mes avis seuls sont bons... les miens sont approuves...
+Croyez, Messieurs, croyez, et surtout souscrivez. »
+Voila, pour la plupart, quel est leur protocole :
+Le Public a parfois deserte leur ecole ;
+Et de ces petits arsenaux,			[245]
+Qui tonnent a grand bruit sur la double colline, 
+Il en est qui, malgre leur foudre et leurs travaux,
+Ont capitule par famine.
+MOLIERE.
+Je comprends qu'en effet l'on doit etre un peu las
+De ces satyriques fatras,			[250]
+De ces insipides brochures.
+Mais dans la foule au moins est-ce qu'il n'en est pas
+Qui savent critiquer sans fiel et sans injures ?
+THALIE.
+Oui, mais la raison seule a de faibles appas ;
+Aussi d'autres ont eu l'adresse,			[255]
+Pour piquer du public la curiosite,
+Et sa dedaigneuse paresse,
+De recourir du moins a la variete,
+A mille objets de toute espece.
+MOLIERE.
+Mais de mon temps, deja l'on s'etait avise			[260]
+D'une semblable bigarrure.
+Je m'en souviens, et De Vise ....
+THALIE.
+Vous voulez dire le Mercure.
+C'est bien autre chose aujourd'hui.
+Pour sauver aux lecteurs la fatigue et l'ennui			[265]
+Que l'on peut avoir a s'instruire,
+A la forme d'extraits on a su tout reduire. 
+D'une telle methode on fait un tres grand cas.
+L'esprit est aujourd'hui par ordre alphabetique.
+Dictionnaires, Almanachs,			[270]
+Voila tout ce qu'on lit ; mais un chef-d'oeuvre unique
+En fait d'abrege, c'est, ma foi,
+La Feuille de Paris : pour moi,
+J'en conviendrai, je l'aime a la folie.
+Vous savez qu'une these, illustre en Italie,			[275]
+Dans son titre annoncait tout ce qu'on peut savoir ;
+Cette These est la Feuille, et vous y pouvez voir,
+Et voir tous les matins, les morts, les mariages,
+L'histoire du moment, les spectacles du soir,
+Les lecons de Physique, et le prix des fourrages,			[280]
+Et des livres et des fromages,
+Le temps qu'il fit la veille, un poeme nouveau,
+Les querelles sur la Musique,
+Et la reponse et la replique,
+Et la seance Academique,			[285]
+Et puis le combat du taureau,
+La satyre et l'epithalame,
+Un trait de bienfaisance aupres d'une epigramme,
+Et le cours des effets, et la chute d'un drame.
+Le change, le marche, la coulisse, les Arts,			[290]
+Scelles, mutations, domiciles, remparts,
+Les Sciences, les Prix, les vents et les orages,
+Le beurre et les oeufs frais, le tout en quatre pages.
+MOLIERE.
+Quelle Encyclopedie, o Ciel ! qu'un tel Journal !
+Et c'est tous les matins une besogne prete ?			[295]
+THALIE.
+C'est, apres l'Almanach Royal,
+L'ouvrage qui demande une plus forte tete.
+MOLIERE.
+Vous vous egayez, Muse, et votre esprit malin
+A railler est toujours enclin.
+Le rire vous va bien : il sied a votre mine.			[300]
+Entre nous, ne pourriez-vous pas
+Aux Auteurs que l'on voit courtiser vos appas,
+Inspirer plus souvent votre gaite badine ?
+Ils ont tous de l'esprit, et beaucoup, vos Auteurs ;
+Mais je vous l'avouerai, je les trouve un peu tristes.			[305]
+Chez les morts, tout comme ailleurs,
+Nous avons nos Nouvellistes,
+Ils s'amusent a m'apporter
+De temps en temps des Comedies,
+Que l'on dit meme etre applaudies ;			[310]
+Et c'est apparemment pour m'impatienter ;
+Car cent fois un jour, je souffre le martyre
+A pouvoir deviner ce qu'on a voulu dire.
+De Pascal et de Despreaux
+Il faut bien que la langue enfin soit surannee ;			[315]
+Ce siecle etrangement l'a perfectionnee. 
+Ce sont des tournures, des mots,
+Mais des mots !... Je serais cent ans a les comprendre,
+Et je ne sais ou diable ils ont ete les prendre.
+Ils rebattent toujours certains termes abstraits,			[320]
+Qu'ils combinent entre eux d'une maniere etrange,
+Monotone assemblage, et tenebreux melange,
+Dont on ne les tire jamais :
+C'est le coeur et l'esprit, l'ame et le caractere,
+La nature, l'honneur, le devoir, le mystere....			[325]
+C'est un dialogue coupe,
+Hache, brise, heurte, qui fatigue et qui tue ;
+La phrase a tout moment demeure suspendue,
+Et le sens reste enveloppe,
+Si tant est qu'il existe... ils affectent sans cesse			[330]
+Un style d'ironie, equivoque entretien,
+Ou l'auteur entend bien finesse,
+Mais ou le Lecteur n'entend rien :
+C'est ce qu'ils ont nomme, je crois, du persiflage.
+Ce genre de gaite n'est pas a mon usage,			[335]
+Je l'avouerai sans peine, et j'en suis console ;
+Mais lorsqu'en les lisant j'ai le cerveau trouble
+De cet entortillage ou leur esprit s'occupe,
+Je me tiens pour bien persifle,
+Et je sens a l'ennui dont je suis accable,			[340]
+Que c'est moi qu'on a pris pour dupe.
+THALIE.
+Moi, je voudrais vous divertir.
+Demeurez en ces lieux : vous y verrez venir 
+Les curieux que ce jour nous attire :
+Cela pourra vous faire rire.			[345]
+C'est un emploi tout fait pour un observateur.
+La Renommee, ici, par mon ordre publie
+Les Audiences de Thalie :
+Je vous fais mon introducteur,
+Mon substitut.
+MOLIERE.
+Ce titre est pour moi trop flatteur.			[350]
+THALIE.
+Qui le merite mieux ? Adieu ; je me retire,
+Et pour parler comme ma soeur,
+Je vais donner une heure au soin de mon Empire.
+SCENE III.
+MOLIERE, seul.
+Que l'audience au moins n'aille pas m'ennuyer
+Ou bientot je la congedie.			[355]
+C'est un fardeau trop lourd, s'il faut qu'ici j'essuie
+Tous les originaux qui peuplent le foyer.
+SCENE IV. Moliere, Monsieur Baptiste.
+MONSIEUR BAPTISTE.
+Si vous etes Monsieur, un suppot de Thalie....
+MOLIERE.
+Tout pret a vous servir.
+MONSIEUR BAPTISTE.
+Je viens a son Bureau
+Offrir un ouvrage nouveau.			[360]
+Pourrai-je me flatter que votre voix l'appuie ?
+J'ai fait pour aborder des efforts superflus.
+La foule des auteurs inscrits pour etre lus
+Me force a renfermer (et c'est un long supplice !)
+Les timides essais d'une muse novice.			[365]
+Pour les talents naissants on a bien peu d'egard.
+MOLIERE.
+A votre air, j'aurais cru votre muse un peu mure.
+MONSIEUR BAPTISTE.
+Elle a pris son essor, je l'avoue, un peu tard,
+Mais sans les delais que j'endure,
+On aurait de moi, je vous jure,			[370]
+Vu plus d'une production. 
+De cet instant heureux mes voeux hatent l'approche,
+Et j'ai depuis longtemps ma reputation,
+Comme bien d'autres, dans ma poche.
+MOLIERE.
+Peut-etre le plus sur serait de l'y garder.			[375]
+Vous savez trop, Monsieur, ce qu'on peut hasarder.
+Le public fut toujours un redoutable maitre.
+MONSIEUR BAPTISTE.
+A qui le dites-vous ? Qui le peut mieux connaitre ?
+Quelqu'un a-t-il vu de plus pres
+Les revolutions du Theatre Francais ?			[380]
+Et quelqu'un mieux que moi, peut-il savoir l'histoire
+Des Pieces, des debuts, des chutes, des succes ?
+J'eus l'oreille toujours voisine des sifflets ;
+C'est de-la qu'est venu mon amour pour la gloire.
+Oui, Monsieur, le metier que j'ai fait dans Paris,			[385]
+M'a fait passer ma vie avec les beaux-esprits.
+MOLIERE.
+Quel etait donc votre etat, je vous prie ?
+MONSIEUR BAPTISTE.
+Je fus dans un cafe plus de vingt ans garcon,
+Chez Procope d'abord, et puis chez Dubuisson,
+Tout vis-a-vis la Comedie.			[390]
+C'etait-la que venaient poetes a foison.
+Je ne sais si l'instinct agissait par avance,
+Mais j'eus toujours pour eux beaucoup de bienveillance ;
+C'etait moi qui servais le cCafe de Piron.
+Il etait jovial. Je l'aimais : son genie			[395]
+Avait des moments fort heureux.
+MOLIERE.
+Par exemple, celui de la Metromanie.
+MONSIEUR BAPTISTE.
+De ce genre il n'en eut pas deux.
+MOLIERE.
+Oui ; mais c'est beaucoup d'un, et je vous le souhaite.
+MONSIEUR BAPTISTE.
+En economisant mon profit journalier,			[400]
+Revendant des billets dont j'etais le courtier,
+Donnant a lire aussi les Feuilles, la Gazette,
+Je gagnai de quoi faire une honnete retraite.
+MOLIERE.
+Vous aimiez tant votre metier :
+Comment d'y renoncer eutes-vous le courage ?			[405]
+MONSIEUR BAPTISTE.
+Ah ! Les Comediens quitterent le quartier,
+Et bientot le cafe n'eut plus d'areopage.
+J'en ai gemi longtemps : enfin dans mon depit,
+Accoutume de vivre avec des gens d'esprit,
+Et deja de leur art ayant quelque habitude,			[410]
+J'ai su mettre a profit mon temps, ma solitude...
+Je suis moi-meme auteur... Un poete indigent, 
+A qui dans le besoin j'ai prete de l'argent,
+En mourant m'a fait legataire
+De certain manuscrit, dont je suis, a bon droit,			[415]
+Devenu le proprietaire :
+C'est une comedie ; il n'est pas un endroit
+Qui ne soit travaille de nouveau : d'ou l'on voit
+Que le tout m'appartient.
+MOLIERE.
+Oh ! Je le crois bien votre.
+MONSIEUR BAPTISTE.
+L'acte avait des beautes, et lorsqu'il fut joue,			[420]
+On n'en siffla que la moitie.
+MOLIERE.
+Le reste etait meilleur ?
+MONSIEUR BAPTISTE.
+On ne joua pas l'autre.
+Mais comme je vous dis, l'ouvrage est tout nouveau.
+Voyez : c'est...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MOLIERE, lisant.
+Le Souper.
+MONSIEUR BAPTISTE.
+C'est un cadre fort beau,
+Et tout y peut entrer, je pense.			[425]
+Je vous dirai bien plus, mais avec confidence :
+Je me suis avise d'un tour ingenieux.
+De vingt pieces jadis tombees,
+Et qui n'existent plus que chez les curieux,
+J'ai pris les vers les plus heureux,			[430]
+Et de ces beautes derobees,
+J'ai fait un tout miraculeux.
+MOLIERE.
+Comment ! Vous etes plagiaire !
+Mais cela n'est pas bien.
+MONSIEUR BAPTISTE.
+Oh ! J'ai plus d'un confrere ;			[435]
+Et puis, qui le saura ? .... L'ecrit le plus mauvais
+A presque toujours quelques traits :
+Et les rendre publics serait-ce un tort extreme ?
+MOLIERE.
+Il faudrait commencer par etre en fond soi-meme.
+Je sais qu'il est d'heureux larcins			[440]
+Qu'on pardonne aux bons ecrivains ;
+Mais sur ce titre seul l'indulgence se fonde ;
+Pour oser autant qu'eux, il faut les egaler.
+Le Parnasse est comme le monde ;
+On n'y permet qu'aux riches de voler.			[445]
+D'ailleurs, comment faire un ensemble
+De ces lambeaux epars qu'au hasard on assemble ?
+MONSIEUR BAPTISTE.
+Bon ! Leur place est partout : ce sont de ces morceaux 
+Toujours vieux et toujours nouveaux,
+De ces paquets de vers ou l'acteur se deploie,			[450]
+Que des bords du theatre au parterre on envoie.
+Bien ou mal amenes, ils font des brouhahas....
+Mais ce qui m'appartient, ce qui vaut mieux encore,
+Et que dans mon ouvrage on trouve a chaque pas,
+C'est un genre d'esprit qu'aujourd'hui l'on adore,			[455]
+Et dont, pour moi, je fais grand cas :
+Les Calembours.
+MOLIERE.
+Quel mot est cela ?
+MONSIEUR BAPTISTE.
+Quoi !....
+MOLIERE.
+J'ignore
+Ce que c'est.
+MONSIEUR BAPTISTE.
+Se peut-il ? Vous ne connaissez pas.
+Les Calembours ?
+MOLIERE.
+Moi ! non.
+MONSIEUR BAPTISTE.
+Eh ! mais tout en abonde.
+Vous venez donc de l'autre monde ?			[460]
+MOLIERE.
+Peut-etre. 
+MONSIEUR BAPTISTE.
+Enfin, Monsieur, vous etes de la Cour
+De Thalie, et pouvez....
+MOLIERE.
+Ici, de cette Muse
+Je suis le Substitut, et promets dans l'instant
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De mettre entre ses mains ce depot important.
+Me le confierez-vous ?
+MONSIEUR BAPTISTE, le lui donnant.
+Qui, moi ! Que je refuse			[465]
+Un service pareil !....
+MOLIERE.
+Oui, mais a votre tour,
+Une grace.
+MONSIEUR BAPTISTE.
+Ordonnez.
+MOLIERE.
+Si cela vous amuse,
+Pourriez-vous point, Monsieur, me faire un calembour.
+MONSIEUR BAPTISTE.
+Vous voulez, je le vois, eprouver mon genie
+Pour la pointe et les jeux de mots.			[470]
+MOLIERE.
+Quoi ! ce n'est que cela ? Ce genre de saillie
+Est connu des longtemps.... 
+MONSIEUR BAPTISTE.
+Oh ! Ceux-ci sont plus beaux.
+Ils tiennent de l'enigme, ils sont faits pour surprendre,
+Et les meilleurs sont ceux qu'on peut le moins comprendre.
+Aussi, tel qui par-la s'est fait beaucoup valoir,			[475]
+Les cherche le matin pour les dire le soir.
+L'impromptu, dans ce genre, est le fruit de l'etude,
+Du talent...
+MOLIERE.
+Vous devez en avoir l'habitude.
+MONSIEUR BAPTISTE, avec colere.
+Oh ! Si c'est votre gout, parbleu, de tout cote
+Vous en pouvez avoir jusqu'a satiete.			[480]
+A la Ville, a la Cour, en vers, ainsi qu'en prose,
+En causant, en soupant, on ne fait autre chose ;
+Il faut, pour ignorer ce qu'est un Calembour,
+Etre bien dur d'oreille, ou bien plus.... Eh ! bonjour.
+Serviteur....
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'en dirais plus que je ne veux dire.			[485]
+SCENE V.
+MOLIERE, seul.
+Je ne le saurai pas.... Qui pourra m'en instruire ?
+Ce manuscrit, peut-etre... Oui, si j'en crois l'auteur....
+Mais qui nous vient encor ? Autre solliciteur
+Sans doute.... Celui-la parait fort en colere.
+SCENE VI. Moliere, Monsieur Misogramme.
+Toute cette scene doit etre jouee d'un ton brusque.
+MONSIEUR MISOGRAMME.
+Puis-je vous demander, Monsieur, sans vous deplaire,			[490]
+Si Thalie en ces lieux voudra me recevoir ?
+Il faut que je lui parle.
+MOLIERE.
+Oui, vous pourrez la voir.
+En attendant, parlez : je suis a son service,
+Que voulez-vous ?
+MONSIEUR MISOGRAMME.
+Je viens lui demander justice. 
+MOLIERE.
+Justice ! Contre qui, Monsieur ?
+MONSIEUR MISOGRAMME.
+Contre un travers			[495]
+Qui depuis trop longtemps infecte l'univers,
+Qui, dans Paris surtout, abondamment pullule,
+Et met les tetes a l'envers,
+Qu'il faut frapper enfin des traits du ridicule....
+La rage de l'esprit, de la prose et des vers,			[500]
+La rage d'imprimer, de juger et d'ecrire.
+Je n'y puis plus tenir, Monsieur, c'est un delire
+Que partout je retrouve, et qui fait mon malheur.
+MOLIERE.
+Juvenal s'en plaignait ; vous voyez bien, Monsieur,
+Que depuis longtemps on en gronde :			[505]
+C'est un de ces abus aussi vieux que le monde.
+MONSIEUR MISOGRAMME.
+Oh ! Jamais il ne sut ce qu'il est aujourd'hui ;
+La folie est au comble, aussi bien que l'ennui.
+MOLIERE.
+Et si l'on ecrit mal, qui vous, force de lire ?
+MONSIEUR MISOGRAMME.
+Cela vous est facile a dire.			[510]
+S'agit-il seulement de lecture ? Ma foi,
+Je n'ai guere le temps de lire, quant a moi, 
+Ma caisse et mes bureaux m'occupent que de reste.
+Mais savez-vous, Monsieur, que ce mal si funeste
+A pris, pour mes peches, racine en mon logis,			[515]
+Comme il la prend partout ?... Le Diable, en sa furie,
+A ma femme inspira l'amour des Beaux-esprits.
+Malgre moi, ma maison est une Academie :
+Sans cesse on y recite, on y dispute, on crie.
+L'esprit en a banni la paix et la gaite,			[520]
+Et l'aisance et la bonhomie,
+Et la joie et la liberte,
+Si necessaires dans la vie,
+Et si bonnes pour la sante.
+MOLIERE.
+L'esprit ne les vaut pas, j'en conviens.
+MONSIEUR MISOGRAMME.
+Que j'expire			[525]
+Si je mens d'un seul mot ... les matins, occupe,
+D'affaires, de calculs sans cesse enveloppe,
+Je compte a mon diner me delasser et rire,
+Et j'en ai grand besoin : au lieu de bons amis,
+Qui rendraient a l'envi mon repas agreable,			[530]
+Je vois des inconnus environner ma table
+Y sieger gravement : a peine est-on assis,
+Aussitot s'etablit une dispute en regle,
+On repete les mots de genie et de gout,
+On ne s'entend sur rien, et l'on contredit tout. 			[535]
+C'est ceci, c'est cela : c'est un sot, c'est un aigle...
+Si la dispute cesse, arrivent a propos
+Les enigmes du jour et les rebus nouveaux.
+C'est a qui le plus tot en sera l'interprete ;
+Chacun les yeux baisses reve sur son assiette.			[540]
+Moi qui voudrais ailleurs tenir table longtemps,
+Je presse mes morceaux, j'enrage entre mes dents,
+Sur de digerer mal un diner qui m'ennuie :
+Je crois, le cafe pris, faire au moins ma partie,
+En voyant apporter une table de jeu....			[545]
+Point du tout : c'est une lecture....
+De n'en jamais entendre on sait que j'ai fait voeu.
+MOLIERE.
+Pourquoi ?
+MONSIEUR MISOGRAMME.
+Quand j'ai dine, Monsieur, c'est chose sure,
+Que si l'on me lisait l'ouvrage le meilleur,
+Je ronflerais debout a cote de l'auteur.			[550]
+MOLIERE.
+Ah ! C'est une raison.
+MONSIEUR MISOGRAMME.
+Touche de ma detresse,
+Un honnete-homme alors m'offre, par politesse,
+Et pour dissiper mon chagrin,
+De faire mon trictrac dans un salon voisin.
+Autre calamite : « vous nous rompez la tete. 			[555]
+Quel bruit, pendant qu'on lit ! Et que c'est malhonnete !... »
+Que repondre ?.. Je prends ma canne et mon chapeau ;
+Pour me distraire un peu, je m'en vais au caveau.
+Je m'accoste d'un homme, a ce qui parait, sage.
+Je veux l'entretenir, comme c'est mon usage,			[560]
+D'objets interessants pour tout bon citoyen,
+De ce que l'on a fait de bien
+Dans la finance, en politique ;
+Je veux lui dire un mot de Nantes, de Bordeaux,
+De nos succes en Amerique,			[565]
+Et du retour de nos vaisseaux.
+Soudain dans le cafe fond, comme une tempete,
+L'essaim bruyant des connaisseurs.
+Un braillard qui marche a leur tete
+Donne par un seul mot le signal des clameurs :			[570]
+Que dites-vous, Messieurs, de la piece nouvelle ?
+Aussitot grands debats, effroyable querelle.
+Mon homme m'abandonne et joint nos disputeurs.
+Tous parlent a la fois : dans le bruit de leur guerre,
+On n'entendrait pas le tonnerre.			[575]
+Je me sauve effraye, je rentre en ma maison,
+En maudissant ma destinee,
+De n'avoir pu trouver, dans toute ma journee,
+Quelqu'un a qui parler raison.
+MOLIERE.
+Je ne puis tout-a-fait blamer votre colere.			[580]
+L'abus qui vous irrite est impatientant,
+Je l'avoue, et vous trouve a plaindre, presque autant 
+Que le Chrisale de Moliere.
+MONSIEUR MISOGRAMME.
+Moliere ! que me dites-vous ?
+Eh ! Que Dieu nous le rende ! Il nous vengerait tous.			[585]
+Les abus de son temps n'approchaient pas des notres.
+Chrisalde tourmente chez lui,
+Pouvait aller au moins respirer chez les autres ;
+Moi, je trouve en tous lieux le fleau que j'ai fui :
+De tous les cotes il m'assiege.			[590]
+Un camarade de College
+Mon ami, mon confrere, et que je croyais loin
+De penser a rimer, m'abordant sans temoin,
+D'un air mysterieux, tire de ses tablettes
+Le volume ignore de ses oeuvres secretes.			[595]
+Mon Commis, a sa table ecrivant de travers,
+Ne sait pas l'orthographe et sait faire de vers.
+J'entre dans mon bureau pour affaire qui presse :
+Pas une ame : ou sont-ils ? Je fais courir apres...
+Un enrage d'auteur, ce jour-la tout expres,			[600]
+Les a tous enleves pour applaudir sa piece.
+Car, Dieu merci, chez moi, de la cave au grenier ;
+Ils ont tous plus ou moins la fureur du metier.
+De leur maudit jargon j'ai l'oreille etourdie.
+Mon fils en Rhetorique a fait sa tragedie.			[605]
+C'est chez moi qu'on batit les reputations.
+On y crie a l'horreur ou bien a la merveille.
+Ma fille a quatorze ans juge deja Corneille.
+Ils ont toujours en main je ne sais quels chiffons, 
+Ou j'entends repeter d'un ton de suffisance :			[610]
+Nous croyons, nous jugeons, nous pensons, nous blamons...
+Comme le Roi, dit nous voulons.
+Tetebleu, dans toute la France,
+Il n'est point assez de sifflets,
+Assez de bonnets d'ane, assez de camouflets,			[615]
+Pour tant de ridicule et tant d'impertinence.
+MOLIERE.
+Quel remede a cela ? Chacun a ce metier,
+Peut perdre impunement de l'encre et du papier.
+Boileau l'a dit.
+MONSIEUR MISOGRAMME.
+Monsieur, c'est un mal politique ;
+C'est une epidemie, une peste publique,			[620]
+Qu'il faudrait extirper de la societe :
+C'est la faineantise et l'inutilite.
+Tel qui creve de faim a barbouiller des livres,
+Pourrait dans un bureau gagner ses huit cent livres,
+Et ferait cent fois mieux ; n'en conviendrez-vous pas ?			[625]
+MOLIERE.
+Oui ; mais la poesie a de puissants appas.
+L'imagination craint d'etre refroidie,
+L'arithmetique est seche et glace le genie.
+MONSIEUR MISOGRAMME.
+Le genie ! Oui voila leur refrain importun ; 
+Ils ont tous du genie et pas le sens commun.			[630]
+Je vous l'ai deja dit, je lis peu : je n'ai guere
+Le temps de prendre ce plaisir ;
+Mais c'en est un pour moi quand je suis de loisir,
+Un que je goute fort, du moins a ma maniere,
+J'aime les bons auteurs, Monsieur, je les revere ;			[635]
+Je sens qu'a leurs travaux l'Etat doit mettre un prix ;
+Je me tiens fort heureux qu'ils m'amusent, m'instruisent,
+Et lorsque j'ai lu leurs ecrits,
+Je crois avoir souvent pense ce qu'ils me disent.
+Mais pour un troupeau d'etourdis,			[640]
+De rimeurs ecoliers, de faiseurs de sornettes
+Parasites a table et flatteurs aux toilettes,
+Quoi de plus inutile ? Est-il en verite
+Espece plus a charge a la societe ?
+Qui les met a la mode ? Un tas de femmelettes,			[645]
+Qui veulent s'etablir protectrices d'auteurs,
+Qui rassemblent dans leur manie
+Les faux airs qu'ont produits nos ridicules moeurs,
+« Le bel esprit et la chimie,
+Le sentiment et les vapeurs. »			[650]
+Faut-il pas que chacune ait son poete en titre,
+Qu'elle fait de ses gouts et l'oracle et l'arbitre ?
+Ma femme, l'autre jour, n'a-t-elle pas voulu
+Me faire tout quitter, m'amener au spectacle,
+Me faire malgre moi crier bravo, miracle,			[655]
+Pour son cher protege, que je n'ai jamais lu,
+Par bonheur : « Ah ! Monsieur, venez, la piece est belle, 
+Nous devons a l'auteur cette marque de zele.
+Il a fait des vers pour Zizi :
+(C'est sa perruche), c'est joli			[660]
+Au possible ; il a peint Zizi d'apres nature ....
+Et puis cet homme la, c'est une creature
+Charmante, et d'un coeur excellent,
+D'une douceur de moeurs !... D'ailleurs un vrai talent, »
+Et fait pour aller loin... Il s'ensuivait qu'en somme			[665]
+Le Chantre de Zizi devait etre un grand homme.
+MOLIERE.
+Vous avez bien raison : il faut de ces tableaux
+Pour la palette de Thalie,
+Et je vois la de quoi fournir a ses pinceaux.
+MONSIEUR MISOGRAMME.
+Monsieur, si quelque bonne et franche comedie			[670]
+Ne fait justice enfin de ces originaux,
+Je prendrai mon parti : je m'enfuis dans ma terre.
+Elle est dans un canton retire, solitaire ;
+Ce sont de bonnes gens qui peuplent le pays ;
+Tant mieux : de mes vassaux je ferai mes amis.			[675]
+Il ne m'en faut pas davantage.
+Peu m'importe la mode, et j'aurai, s'il vous plait ;
+A ma table, en depit du bon ton, de l'usage,
+Mon Bailli, mes fermiers, le chantre du village,
+Qui, je l'espere au moins, ne feront point d'ouvrage,			[680]
+Et viendront faire mon piquet ;
+Et je pretends qu'aucun valet
+Ne soit recu chez moi, s'il n'a pour s'y produire
+Un bon certificat... comme il ne sait pas lire.
+SCENE VII.
+MOLIERE, seul.
+Avec un peu d'humeur il a dit verite,			[685]
+Et son bon sens parait dans sa vivacite.
+Cette foule d'auteurs est vraiment une plaie
+Dont le Pinde gemit et la raison s'effraie.
+SCENE VIII. Moliere, Monsieur Claque.
+MONSIEUR CLAQUE, il entre en se parlant a lui-meme.
+Palsambleu, celui-la pouvait-il se prevoir ?
+On dit bien vrai que dans la vie			[690]
+On ne peut du matin au soir
+Jamais compter sur rien ; mais du moins a Thalie
+J'en dirai mon avis : nous verrons si pourtant.....
+MOLIERE.
+Vous ne paraissez pas content,
+Monsieur ; puis-je savoir ?.... 			[695]
+MONSIEUR CLAQUE.
+Ah ! Monsieur, je vous prie
+De m'excuser : je ne vous voyais point....
+Ma tete est troublee a tel point !....
+Et qui diable tiendrait au revers qui m'assomme ?
+Oui, Monsieur, vous voyez un homme			[700]
+Ruine, furieux : un coup inattendu
+M'ote mon existence ; enfin j'ai tout perdu,
+Mes appointements et ma place,
+J'ose dire un etat que je m'etais forme .....
+Je suis, pour vous compter en un mot ma disgrace ;			[705]
+Un Capitaine reforme
+MOLIERE.
+Reforme ! Dans le temps ou la France est en guerre ?
+MONSIEUR CLAQUE.
+Oh ! La guerre et la paix, tous les temps m'etaient bons,
+Mes campagnes, mes garnisons,
+Mon service .... etaient au parterre.			[710]
+Je ne vous cache rien ; car au premier abord
+J'ai vu qui vous etiez : je ne m'y meprends guere ;
+Vous venez de Province, ou je me trompe fort,
+Pour debuter : voila l'habit de caractere.
+Sans doute en ce moment vous allez repeter.			[715]
+MOLIERE.
+Mais en effet ici je joue un role. 
+MONSIEUR CLAQUE.
+Eh ! mais j'en etais sur... il n'etait pas besoin
+De me le confirmer : oh ! Je flaire de loin.
+Un Debutant.
+MOLIERE, a part.
+Ma foi, le personnage est drole :
+On peut s'en amuser
+MONSIEUR CLAQUE.
+Vraiment j'ai pu juger			[720]
+Qu'ici vous etiez etranger.
+Est-il dans les foyers quelqu'un qui ne connaisse
+Monsieur Claque ?
+MOLIERE.
+Monsieur Claque !
+MONSIEUR CLAQUE.
+Eh ! Oui, c'est mon nom.
+A vos pareils je m'interesse ;
+Et si je puis vous etre bon,			[725]
+Disposez de moi. Je confesse
+Que mes moyens sont bien dechus ;
+Je ne suis pas ce que je fus.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voila de mon malheur la cause trop fatale.
+MOLIERE.
+Et qui donc l'a produit ? 
+MONSIEUR CLAQUE.
+Qui !... La nouvelle salle,			[730]
+Le parterre detruit.... Ah ! C'est detruire tout,
+La gloire, les succes, le spectacle, le gout.
+Tout un public assis ! Beau projet ! Fort utile !
+Eh ! Comment gouverner cette masse immobile,
+Lui donner desormais la vie et l'action,			[735]
+En diriger l'impulsion ?
+Mais contre cet abus hautement je reclame :
+Un parterre sans chefs, c'est comme un corps sans ame.
+MOLIERE.
+Il avait donc des chefs ?
+MONSIEUR CLAQUE.
+Comment ! Mes compagnons ;
+Et moi, Monsieur, depuis vingt ans nous y regnons.			[740]
+C'etait une tres bonne affaire,
+Tous les interesses, braves gens, comme moi.
+N'est-ce pas un honnete emploi,
+De preter aux talents un appui necessaire ?
+Les nouveautes et les debuts			[745]
+Payaient a mes travaux de bien justes tributs :
+Toute peine vaut son salaire,
+Fallait-il pas avoir mes bureaux, mes commis ?
+MOLIERE.
+Vous aviez-la, Monsieur, un petit ministere. 
+MONSIEUR CLAQUE.
+Tout debutant chez moi d'abord etait admis,			[750]
+Conduit par mes agents ou par quelques amis,
+Et du premier coup d'oeil je jugeais son physique.
+MOLIERE.
+Son physique ! Comment ! Qu'entendez-vous par-la ?
+MONSIEUR CLAQUE.
+Parbleu, la question est bonne ; mais cela
+Se comprend de soi-meme, et faut-il qu'on l'explique ?			[755]
+MOLIERE.
+Mais encor ?
+MONSIEUR CLAQUE.
+Par ce mot on entend a la fois
+Le maintien, la figure, et la taille et la voix,
+Les dons exterieurs, les qualites prescrites....
+MOLIERE.
+Mais, si vous m'aviez dit d'abord ce que vous me dites.
+Je vous aurais compris sans peine.
+MONSIEUR CLAQUE.
+Mais pourtant ;			[760]
+C'est le mot consacre, c'est le terme technique ;
+Et jamais on n'annonce actrice ou debutant,
+Qu'on ne parle de leur physique.
+MOLIERE.
+Pardon.
+MONSIEUR CLAQUE.
+Pretendez-vous que je m'exprime mal ?
+Vous etes, ce me semble, un peu provincial.			[765]
+Votre physique a vous, par exemple, est comique.
+MOLIERE.
+Je vous suis oblige, Monsieur, pour mon physique.
+MONSIEUR CLAQUE.
+Oui, je vous ai toise.... J'ai fait avec succes
+Debuter ici vingt sujets
+Qui ne vous valaient pas : plus le talent est mince,			[770]
+Plus cela coute aussi : rien n'est plus important
+Que d'avoir a Paris un debut eclatant,
+On en est beaucoup mieux paye dans la province.
+Dans ces cas-la, Monsieur, il faut s'executer :
+On fait ce qu'il en doit couter.			[775]
+J'avais mes lieutenants, mes premiers camarades
+Qui distribuaient les brigades ;
+Chacun avait son poste et repondait d'un coin :
+Moi, j'occupais le centre, et tous avaient le soin
+D'avoir toujours vers moi le regard et l'oreille ;			[780]
+Et des que j'avais dit bien, fort bien, a merveille,
+Ils faisaient un chorus !.... Et puis adroitement
+Je savais ranimer un applaudissement...
+Allez donc... beau... bravo... C'etait un tintamarre,
+Et des pieds et des mains, des cannes !... Un succes			[785]
+Fou.
+MOLIERE.
+C'est le mot.
+MONSIEUR CLAQUE.
+Cela se repandait : d'apres
+Un debut si brillant, c'etait un sujet rare.
+Vous sentez que d'avance on payait mes exploits.
+Joignez-y les Pieces nouvelles
+Que l'on faisait aller, grace a moi, telles quelles.			[790]
+Je gagnais en bravo mes vingt ecus par mois,
+Et ce n'est pas trop cher, Monsieur, en conscience.
+MOLIERE.
+Oui, cela fait surtout une honnete existence.
+MONSIEUR CLAQUE.
+Bon ! Est-il rien ici de stable et de reel ?
+Et qui n'aurait pas cru le parterre eternel ?			[795]
+Voila tous mes talents devenus inutiles :
+Avec des spectateurs sur leurs sieges tranquilles ;
+Soyez sur desormais, pour les voir applaudir,
+Qu'il faut absolument qu'on leur fasse plaisir.
+Je vois que ma carriere est a-peu-pres remplie,			[800]
+Et je vais presenter ma requete a Thalie,
+Un Memoire aux comediens.
+Des services comme les miens
+Ne sont pas, apres tout, des titres qu'on rejette ;
+Et je suis content, si j'obtiens			[805]
+Une pension de retraite.
+MOLIERE.
+La demande est trop juste. 
+MONSIEUR CLAQUE.
+Oui : c'est un attentat
+Que de priver ainsi les gens de leur etat.
+Nous verrons... Quant a vous, tout ce que je puis faire,
+C'est de vous repeter vos roles de debut.			[810]
+Je connais mon public, je sais ce qui peut plaire,
+Et je puis vous conduire au but.
+MOLIERE.
+Vous avez de cet art fait une grande etude ?
+MONSIEUR CLAQUE.
+Oh ! Non, pas trop ; mais l'habitude !
+Moi, j'en ai tant forme ! J'ai fait quelques ingrats ;			[815]
+Mais il y faut compter, et je n'en parle pas.
+Quand vous voudrez, je suis fort a votre service ...
+Chez moi ... tous les matins ... de ma profession,
+Il ne me reste plus que ce seul exercice...
+Mais que sur ma requete on me fasse justice,			[820]
+Ou dans mon indignation
+Contre la comedie... enfin je sais qu'en dire...
+Il me reste un theatre, il me reste un empire,
+Ou ma voix, ma cabale a toujours triomphe.
+Je puis les perdre encore...
+MOLIERE.
+Ou donc ?			[825]
+MONSIEUR CLAQUE.
+Dans le cafe.			[825]
+SCENE I..
+MOLIERE, seul.
+Voila de ces gens d'une espece
+Qu'on ne rencontre qu'a Paris.
+Quel metier !... Et pourtant il avait bien son prix,
+Et c'est grand dommage qu'il cesse.
+J'entends venir de ce cote			[830]
+Un nouveau personnage... Il a l'air evente.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X. Moliere, Le Vaudeville.
+LE VAUDEVILLE, chante.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le Vaudeville
+A l'honneur de vous saluer ;
+Il est tres fete par la ville :
+Daignez, s'il vous plait, agreer			[835]
+Le Vaudeville
+MOLIERE.
+Apparemment Monsieur ne parle qu'en chantant 
+LE VAUDEVILLE, il chante.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Lorsque je chante,
+Souvent le sens n'est pas trop bon,
+La rime est quelquefois mechante ;			[840]
+Mais enfin j'ai toujours raison
+Lorsque je chante.
+MOLIERE, a part.
+Il est naif, au moins ; je le trouve amusant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Thalie a dans ces lieux etabli son domaine ;
+Aupres d'elle, Monsieur, qu'est-ce qui vous amene ?			[845]
+LE VAUDEVILLE, il chante.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je suis le plus joyeux des enfants de Thalie,
+Pres d'elle je conduis Momus et la Folie ;
+Et mes chants et leurs jeux, au Theatre Francais,
+Ont souvent partage l'honneur de ses succes.
+MOLIERE.
+On m'a dit qu'autrefois on vous vit a sa cour,			[850]
+Accompagner Legrand, Fuzelier et Dancourt.
+Mais si je sais bien votre histoire,
+Votre sejour natal, votre empire est la Foire,
+Et c'est-la que vous etes ne,
+Que Panard et Vade, Piron, Favart, Le Sage ;			[855]
+De leur esprit vous ont orne.
+Pretendriez-vous davantage ? 
+LE VAUDEVILLE, il chante.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ignorez-vous jusqu'ou va ma puissance,
+Ce qu'elle obtient et d'eclat et de prix ?
+J'ai releve mon obscure naissance,			[860]
+Et suis enfin l'idole de Paris.
+J'ai triomphe, meme de l'ariette,
+Dont les attraits ont regne si longtemps ;
+Elle me cede, et sa prompte defaite
+Rend mes succes encor plus eclatants.			[865]
+MOLIERE.
+Vraiment, je vous en felicite,
+Il faut que vous ayez acquis bien du merite.
+LE VAUDEVILLE, il chante.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)D'un theatre plein d'agrement
+Je suis la gloire et l'ornement.
+J'y repete journellement			[870]
+Trois heures entieres,
+Mes chansons legeres,
+Et l'on s'ecrie a tout moment :
+C'est charmant, oh ! C'est charmant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je crois que mes atours			[875]
+Sieraient bien a Thalie,
+Je veux par mon secours
+La voir mieux accueillie, 
+Tout plein d'ardeur,
+Pour son honneur,			[880]
+Et pour son tirelire, lire,
+Et pour son toureloure, loure,
+Pour son bonheur.
+MOLIERE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je sens que ses refrains m'amusent deja moins.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur du Vaudeville, elle doit de vos soins			[885]
+Sans doute etre reconnaissante,
+Et peut de vos talents essayer la douceur.
+Je ne vous croyais pas devenu grand Seigneur ;
+Mais craignez du public la faveur inconstante,
+Souvent il prend pour gout ce qui n'est qu'engouement ;			[890]
+Il epuise un plaisir, et l'use promptement.
+Vous pouvez lui plaire un moment,
+Et ce n'est pas un grand miracle ;
+Mais enfin, vos couplets si souvent repetes,
+Trois heures de chansons et de frivolites,			[895]
+Ne sauraient former un spectacle.
+Pour un quart-d'heure, c'est fort bien ;
+Mais retenez de moi cette lecon utile :
+Il ne faut abuser de rien,
+Et pas meme du Vaudeville.			[900]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'est-ce encor ?.... Celui-la n'est pas si gai que vous. 
+SCENE XI. Moliere, Le Vaudeville, Le Muse du Drame.
+Elle a l'air d'observer le Theatre, sans regarder les Acteurs.
+Elle a l'air d'observer le Theatre, sans regarder les Acteurs.
+MOLIERE.
+Quel noir accoutrement ! Quelle mine fantasque !
+Je crois qu'il va courir le masque.
+Monsieur .... ou Madame .... entre nous,
+Je ne sais trop lequel, a votre air amphibie ....			[905]
+Ici, chercheriez-vous Thalie ?
+LA MUSE DU DRAME.
+Qui, moi ! m'en preserve le Ciel !
+Pour qui me prenez-vous ?
+MOLIERE.
+Pardon, si je m'abuse.
+LA MUSE DU DRAME.
+Je suis une dixieme Muse :
+MOLIERE.
+Qui, vous !
+LA MUSE DU DRAME.
+Moi ; rien n'est plus reel. 			[910]
+MOLIERE.
+Je ne m'en doutais pas ; et le nom de Madame ;
+Pourrait-on le savoir ?
+LA MUSE DU DRAME.
+C'est... la Muse du Drame.
+MOLIERE.
+J'en connaissais deux jusqu'ici,
+Ainsi que chacun sait, Thalie et Melpomene.
+LA MUSE DU DRAME.
+Sur moi toutes les deux ont usurpe la Scene.			[915]
+La veritable Muse, en un mot, la voici.
+MOLIERE, a part.
+Je n'ai donc pas encor connu ma souveraine.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Peut-on vous demander ce que c'est que ces mots
+Traces sur des papiers, decoupes en lambeaux ?
+LA MUSE DU DRAME.
+Ils sont puissants, sacres !.... avec une douzaine			[920]
+De ces mots-la, Monsieur, qui sont un vrai tresor,
+J'ai fait mille chef-d'oeuvre, et j'en puis faire encor.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MOLIERE.
+Ah ! Ciel !... Oh, Dieu !... Grand Dieu !... Vertu !... Crime !... Nature !... 
+LE VAUDEVILLE, il chante.
+J'aime la Nature, moi,
+J'aime la Nature.			[925]
+LA MUSE DU DRAME.
+Joignez-y force points, force exclamations,
+De longs cris douloureux, et des convulsions,
+Il ne m'en faut pas plus ; la reussite est sure :
+Jugez si j'ai forme des disciples nombreux.
+Votre emphatique Tragedie,			[930]
+Depuis deux siecles applaudie,
+Dictait dans son Ecole un code rigoureux.
+Il lui faut des moeurs heroiques,
+Des interets d'Etat, des crimes politiques,
+Des revolutions qui changent l'univers,			[935]
+De grands hommes et de beaux vers.
+Moi, j'ai mis de cote ces ressources frivoles...
+Je puis meme au besoin me passer de paroles.
+MOLIERE.
+Souvent vous feriez bien, si j'en crois ce qu'on dit.
+LA MUSE DU DRAME.
+La Pantomime me suffit :			[940]
+La Pantomime seule etablit mon empire.
+J'ai le plus grand mepris pour le talent d'ecrire.
+J'exerce un tout autre pouvoir.
+Un geste qui fait peur, un accent qui dechire, 
+La figure du desespoir... 			[945]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oui, voila tout mon art et ma seule magie.
+MOLIERE.
+Si bien que l'Auteur peut se passer de genie,
+Les acteurs de talent, les spectateurs de gout...
+C'est un genre commode, il dispense de tout.
+LA MUSE DU DRAME.
+Oui, le gout ! Le talent ! Bagatelle, folie,			[950]
+Mots denues de sens... la pitie, la terreur :
+Voila les grands ressorts !
+MOLIERE.
+Le degout et l'horreur,
+Voila les grands abus !
+LA MUSE DU DRAME.
+L'horreur, c'est ma partie
+A moi ; je ne me borne pas
+A ces vulgaires attentats,			[955]
+Dont cent fois le Theatre a revu la peinture,
+Meurtre, empoisonnement, parricide, parjure,
+Inceste, trahison... Non, des crimes nouveaux,
+Qui pourtant sont dans la nature,
+Pour la premiere fois crees sous mes pinceaux,			[960]
+Des spectacles affreux, d'incroyables tableaux : 
+Voila mes coups de maitre... Ici, je me figure,
+Dans un sujet tout neuf que je traite aujourd'hui,
+Un amant accable des peines qu'il endure,
+Qui creusera sa sepulture,			[965]
+On verra le tombeau se refermer sur lui.
+MOLIERE.
+J'ai vu sur la tragique scene
+Les personnages expirer.
+Madame, vous allez plus loin que Melpomene,
+Vous les y faites enterrer.			[970]
+LA MUSE DU DRAME, mesurant le Theatre.
+Je dessine de l'oeil un vaste cimetiere.
+MOLIERE.
+Local digne de vous !
+LA MUSE DU DRAME, se passionnant.
+La plaintive misere,
+Des enfants affames qui demandent du pain,
+Mourants dans les bras de leur mere,
+Des vieillards expirants au bord d'un grand chemin,			[975]
+Des gibets, des cachots...
+MOLIERE.
+Ah ! je perds patience,
+Il faut que j'eclate a la fin. 
+Vous prenez pour un art cette sombre demence !
+Eh ! Quoi donc ! Au Theatre on n'ira s'assembler,
+Que pour y voir accumuler,			[980]
+Dans les plus degoutantes Scenes,
+L'amas humiliant des miseres humaines ?
+Ce sont-la les tableaux qu'on veut nous etaler ?
+Non, par ces peintures affreuses,
+Trop pres de la realite,			[985]
+Par ces images douloureuses
+Qui desolent l'humanite,
+Vous corrompez sans fruit la douceur noble et pure
+D'un plaisir qui fut invente
+Pour consoler des maux que nous fait la nature.			[990]
+Ce n'est pas celle-la qu'au theatre il faut voir :
+On doit a de tels maux une pitie reelle ;
+Mais elle est amere et cruelle ;
+Il faut que l'art exerce un moins triste pouvoir,
+Qu'il emeuve mon coeur, et non qu'il le souleve :			[995]
+Le theatre n'est pas l'Hopital ou la Greve.
+Si j'y viens pour verser des pleurs,
+Ce n'est pas pour me faire un tourment de mes larmes,
+Non, c'est pour les aimer, pour y trouver des charmes,
+Et de l'illusion ressentir les douceurs.			[1000]
+A tous les mouvements dont mon ame est saisie,
+Se mele un charme heureux, ne de la poesie.
+En me faisant fremir, en me faisant pleurer,
+Elle me donne encore le plaisir d'admirer,
+Et ce doux sentiment que son art me procure, 			[1005]
+Est un nectar divin verse sur ma blessure.
+Et vous comparerez a ses puissants attraits,
+Qui fondent du theatre et la gloire et l'empire,
+Vos informes tableaux et vos hideux portraits,
+Pareils aux reves noirs d'un malade en delire ?			[1010]
+Elle anoblit la scene, et vous l'avilissez ;
+Elle attendrit les coeurs, et vous les fletrissez.
+LA MUSE DU DRAME.
+Sans daigner perdre ici mon temps a vous repondre,
+C'est par mes seuls succes que je veux vous confondre ;
+Je me flatte bientot de l'emporter sur tous,			[1015]
+Et nous verrons qui doit regner en ces lieux.... 
+SCENE XII et derniere.
+Le fond du theatre s'ouvre. On voit les statues des grands auteurs Dramatiques. Apollon est entre Melpomene et Thalie. Chacune d'elle conduit les acteurs de son genre. Les autres Muses ont aussi leur suite, qui porte des guirlandes de fleurs et des couronnes de laurier. Moliere se range a cote de Thalie, et les autres personnages de la piece sont autour d'elle. Au moment ou le rideau de l'interieur se leve, Apollon, Melpomene et Thalie disent ensemble : Nous.
+APOLLON.
+Respectez Apollon, les Muses et Moliere,
+Et ces bustes sacres que la France revere,
+Ou revivent les traits des immortels auteurs,
+De la scene francaise, appuis et fondateurs,			[1020]
+Organes et soutiens de mes lois souveraines.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Du theatre a jamais ces deux Muses sont reines :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Non que je veuille, en leur faveur,
+Vous traiter l'un et l'autre avec trop de rigueur.
+Je connais le danger d'etre si difficile.			[1025]
+Le drame serieux, le leger vaudeville, 
+Dont je blame l'abus, sans leur oter leur prix,
+Tous les deux quelquefois admis,
+Peuvent entrer dans mon domaine,
+Et suivre, mais de loin, Thalie et Melpomene.			[1030]
+Ils seront mes sujets et non mes favoris.
+J'ai souffert le burlesque, et Despreaux en gronde.
+Scarron le mit en vogue, et je l'ai vu dechoir.
+Pour satisfaire tout le monde
+Je permettrai le genre noir.			[1035]
+La nouveaute, voila surtout ce qu'on souhaite.
+Le theatre eut toujours besoin de son appui.
+Le genie embellit tous les genres qu'il traite,
+Et les eleve jusqu'a lui.
+Oui, que tous les talents accroissent mon empire :			[1040]
+Que leur rivalite, leur emulation,
+Travaille a l'affermir, et non a le detruire.
+Que ce jour, dont la pompe en ces lieux les attire,
+Consacre leur reunion.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Aux images de ces grands hommes,			[1045]
+Prodiguez de nouveaux honneurs,
+Muses, et c'est ainsi que le siecle ou nous sommes
+Peut leur donner des successeurs.
+De vos eux, de vos dons unissez les douceurs :
+Il faut de tout dans une fete ;			[1050]
+Et celle qu'ici l'on apprete
+Sera la fete des neuf soeurs. 
+MOLIERE.
+Leur zele a vous servir trouvera tout facile,
+Et pour rendre a la fois tous les gouts satisfaits,
+Surtout pour contenter Monsieur du Vaudeville,			[1055]
+Nous chanterons quelques couplets.
+On danse, et les Muses vont placer des guirlandes
+Autour des Statues, et les couronner de lauriers.
+MOLIERE, il chante.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mes Amis, un couplet de fete
+Peut, sans voix, sans art qui l'apprete,			[1060]
+Etre chante ;
+On ne s'y rend pas difficile,
+Tout ce qu'il faut au Vaudeville,
+C'est la gaite.
+THALIE, elle chante.
+Ce refrain est fait pour me plaire,			[1065]
+Mon art, mon gout, mon caractere,
+En est flatte.
+Je ne permets pas qu'on l'oublie ;
+L'heureux attribut de Thalie,
+C'est la gaite.			[1070]
+APOLLON, il chante.
+Moliere a dit dans ses ouvrages,
+A tous les rangs, a tous les ages,
+La verite ; 
+Ce qui rend la lecon si bonne,
+C'est le sel dont il l'assaisonne,			[1075]
+C'est la gaite.
+MONSIEUR MISOGRAMME, il chante.
+Des beaux-esprits ma femme est folle,
+Elle a sans doute a leur ecole,
+Bien profite,
+Pour moi, mon humeur un peu ronde,			[1080]
+Donnerait tout l'esprit du monde
+Pour la gaite.
+THALIE, a Melpomene.
+Ma soeur, vous croyez donc nous entendre et vous taire ?
+APOLLON, a Thalie.
+La majeste tragique....
+THALIE, a Melpomene.
+Oh ! Chantez, s'il vous plait.			[1085]
+Jamais la dignite meme la plus austere
+N'a deroge pour un couplet.
+MELPOMENE, elle chante.
+Parler aux coeurs est ma science,
+Emouvoir, voila ma puissance
+Et ma beaute.			[1090]
+Mais quand ma soeur seche vos larmes,
+Vous n'en sentez que mieux les charmes
+De sa gaite.
+THALIE.
+Il faut bien plus, il faut faire chanter... Madame.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allez-vous dire aussi la majeste du Drame ?			[1095]
+LA MUSE DU DRAME, chante d'un ton lamentable.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Aux sombres beautes du Drame,
+Quel coeur ne se rendrait pas ?
+De sa tenebreuse flamme
+Admirez les noirs eclats.
+Helas !			[1100]
+Helas !
+Rien n'est si beau que le Drame,
+Ah ! Que le Drame a d'appas !
+MOLIERE.
+Allons, ne troublons plus sa tristesse profonde ;
+Laissons a chacun son humeur.			[1105]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)A votre tour, Monsieur, il faut finir la ronde ;
+Vous avez par-tout cet honneur.
+LE VAUDEVILLE chante.
+Un Auteur tremble et perd courage,
+Lorsque devant vous son Ouvrage
+Est presente ;			[1110]
+Mais si la Piece est applaudie,
+Ce bruit vient lui rendre la vie
+Et la gaite.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+	==================================================

@@ -1,0 +1,2732 @@
+********************************************************
+	DC.Title                  = AMPHYTRION, COMEDIE
+	DC.Author                 = MOLIERE
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 14/06/2016 a 20:24:14.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/MOLIERE_AMPHITRYON.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+AMPHYTRION COMEDIEM. DC. LXIII. AVEC PRIVILEGE DU ROI.
+PAR J.B.P. MOLIERE
+	A PARIS, chez JEAN RIBOU, au Palais, vis a vis la porte de l'Eglise de la Sainte-Chapelle, a l'Image Saint-Louis.
+	Acheve d'imprimer pour la premiere fois le 5 mars 1668.
+	
+	MONSEIGNEUR,
+N'en deplaise a nos beaux esprits, je ne vois rien de plus ennuyeux que les epitres dedicatoires ; et votre Altesse Serenissime trouvera bon, s'il lui plait, que je suive point ici le style de ces Messieurs-la ; et refuse de me service de deux ou trois miserables pensees, qui ont ete tournee, et retournees tant de fois, qu'elles sont usees de tous les cotes. Le nom du Grand CONDE est un nom trop glorieux, pour le traite comme on fait tous les autres noms. Il ne faut que l'appliquer, ce Nom illustre, qu'a des emplois qui soient dignes de lui, et pour dire de belles choses, je voudrais parler de la mettre a la tete d'une armee, plutot qu'a la tete d'un livre : et je concois bien mieux ce qu'il est capable de faire, en l'opposant aux forces des Ennemis de cet Etat, qu'en l'opposant a la critique des ennemis d'une comedie.
+Ce n'est pas, MONSEIGNEUR, que la glorieuse approbation de V.A.S. ne fut une puissante protection pour toutes ces sortes d'ouvrages, et qu'on ne soit persuade des lumieres de votre esprit, autant que de l'intrepidite de votre coeur, et de la grandeur de votre ame; On sait par toute la Terre, que l'eclat de votre merite n'est point renferme dans les bornes de cette valeur indomptable, qui se fait des Adorateurs chez ceux memes qu'elle surmonte, qu'il s'etend, ce merite, jusqu'aux connaissances les plus fines et les plus relevees, et que les decisions de votre jugement sur tous les ouvrages d'esprit, ne manquent point d'etre suivies par le sentiment des plus delicats. Mais on sait aussi, Monseigneur, que toutes ces glorieuses approbations dont nous nous vantons au Public, ne coutent rien a faire imprimer, et que ce sont des choses dont nous disposons comme nous voulons. On sait, dis-je, qu'une epitre dedicatoire, dit tout ce qu'il lui plait ; et qu'un auteur est en pourvoir d'aller saisir les personnes les plus augustes, et de parer de leurs grands noms les premiers feuillets de son livre ; qu'il a liberte de s'y donner autant qu'il veut l'honneur de leur estime, et de se faire des protecteurs qui n'ont jamais songe a l'etre.
+Je n'abuserai pas, Monseigneur, ni de votre nom, ni de vous bontes, pour combattre les censeurs de l'Emphitryon, et m'attribuer une gloire, que je n'ai pas peut-etre meritee ; et je ne prends la liberte de vous offrir ma comedie, que pour avoir lieu de vous dire que je regarde incessamment avec une profonde veneration, les grandes qualites que vous joignez au sang auguste dont vous tenez le jour, et que je suis, MONSEIGNEUR, avec tout le respect possible, et tout le zele imaginable,
+de VOTRE ALTESSE SERENISSIME,
+Le tres humble, tres obeissant, et tres oblige serviteur, MOLIERE.
+
+ACTEURS
+MERCURE.
+LA NUIT.
+JUPITER, sous le forme d'Amphitryon.
+AMPHITRYON, general des Thebains.
+ALCMENE, femme d'Amphitryon.
+CLEANTHIS, suivante d'Alcmene et femme de Sosie.
+SOSIE, valet d'Amphitryon.
+ARGATIPHONDITAS, capitaine thebain.
+NAUCRATES, capitaine thebain.
+POLIDAS, capitaine thebain.
+POSICLES, capitaine thebain.
+La scene est a Thebes, devant la maison d'Amphitryon.
+
+
+
+			PROLOGUE
+
+
+
+Mercure, sur un nuage ; la Nuit, dans un char traine par deux chevaux.
+MERCURE
+Tout beau ! Charmante Nuit ; daignez vous arreter :
+Il est certain secours que de vous on desire,
+Et j'ai deux mots a vous dire
+De la part de Jupiter.
+LA NUIT
+Ah ! Ah ! C'est vous, seigneur Mercure !			[5]
+Qui vous eut devine la, dans cette posture ?
+MERCURE
+Ma foi ! Me trouvant las, pour ne pouvoir fournir
+Aux differents emplois ou Jupiter m'engage,
+Je me suis doucement assis sur ce nuage,
+Pour vous attendre venir.			[10]
+LA NUIT
+Vous vous moquez, Mercure, et vous n'y songez pas :
+Sied-il bien a des dieux de dire qu'ils sont las ?
+MERCURE
+Les dieux sont-ils de fer ?
+LA NUIT
+Non ; mais il faut sans cesse
+Garder le decorum de la divinite.
+Il est de certains mots dont l'usage rabaisse			[15]
+Cette sublime qualite,
+Et que, pour leur indignite,
+Il est bon qu'aux hommes on laisse.
+MERCURE
+A votre aise vous en parlez,
+Et vous avez, la belle, une chaise roulante,			[20]
+Ou par deux bons chevaux, en dame nonchalante,
+Vous vous faites trainer partout ou vous voulez.
+Mais de moi ce n'est pas de meme ;
+Et je ne puis vouloir, dans mon destin fatal,
+Aux poetes assez de mal			[25]
+De leur impertinence extreme,
+D'avoir, par une injuste loi,
+Dont on veut maintenir l'usage,
+A chaque dieu, dans son emploi,
+Donne quelque allure en partage,			[30]
+Et de me laisser a pied, moi,
+Comme un messager de village,
+Moi, qui suis, comme on sait, en terre et dans les cieux,
+Le fameux messager du souverain des dieux,
+Et qui, sans rien exagerer,			[35]
+Par tous les emplois qu'il me donne,
+Aurais besoin, plus que personne,
+D'avoir de quoi me voiturer.
+LA NUIT
+Que voulez-vous faire a cela ?
+Les poetes font a leur guise :			[40]
+Ce n'est pas la seule sottise
+Qu'on voit faire a ces messieurs-la.
+Mais contre eux toutefois votre ame a tort s'irrite,
+Et vos ailes aux pieds sont un don de leurs soins.
+MERCURE
+Oui ; mais, pour aller plus vite,			[45]
+Est-ce qu'on s'en lasse moins ?
+LA NUIT
+Laissons cela, seigneur Mercure,
+Et sachons ce dont il s'agit.
+MERCURE
+C'est Jupiter, comme je vous l'ai dit,
+Qui de votre manteau veut la faveur obscure,			[50]
+Pour certaine douce aventure
+Qu'un nouvel amour lui fournit.
+Ses pratiques, je crois, ne vous sont pas nouvelles :
+Bien souvent pour la terre il neglige les cieux ;
+Et vous n'ignorez pas que ce maitre des dieux			[55]
+Aime a s'humaniser pour des beautes mortelles,
+Et sait cent tours ingenieux,
+Pour mettre a bout les plus cruelles.
+Des yeux d'Alcmene il a senti les coups ;
+Et tandis qu'au milieu des beotiques plaines,			[60]
+Amphitryon, son epoux,
+Commande aux troupes thebaines,
+Il en a pris la forme, et recoit la-dessous
+Un soulagement a ses peines
+Dans la possession des plaisirs les plus doux.			[65]
+L'etat des maries a ses feux est propice :
+L'hymen ne les a joints que depuis quelques jours ;
+Et la jeune chaleur de leurs tendres amours
+A fait que Jupiter a ce bel artifice
+S'est avise d'avoir recours.			[70]
+Son stratageme ici se trouve salutaire ;
+Mais, pres de maint objet cheri,
+Pareil deguisement serait pour ne rien faire,
+Et ce n'est pas partout un bon moyen de plaire
+Que la figure d'un mari.			[75]
+LA NUIT
+J'admire Jupiter, et je ne comprends pas
+Tous les deguisements qui lui viennent en tete.
+MERCURE
+Il veut gouter par la toutes sortes d'etats,
+Et c'est agir en dieu qui n'est pas bete.
+Dans quelque rang qu'il soit des mortels regarde,			[80]
+Je le tiendrais fort miserable,
+S'il ne quittait jamais sa mine redoutable,
+Et qu'au faite des cieux il fut toujours guinde.
+Il n'est point, a mon gre, de plus sotte methode
+Que d'etre emprisonne toujours dans sa grandeur ;			[85]
+Et surtout aux transports de l'amoureuse ardeur
+La haute qualite devient fort incommode.
+Jupiter, qui sans doute en plaisirs se connait,
+Sait descendre du haut de sa gloire supreme ;
+Et pour entrer dans tout ce qu'il lui plait			[90]
+Il sort tout a fait de lui-meme,
+Et ce n'est plus alors Jupiter qui parait.
+LA NUIT
+Passe encore de le voir, de ce sublime etage,
+Dans celui des hommes venir,
+Prendre tous les transports que leur coeur peut fournir,			[95]
+Et se faire a leur badinage,
+Si, dans les changements ou son humeur l'engage,
+A la nature humaine il s'en voulait tenir ;
+Mais de voir Jupiter taureau,
+Serpent, cygne, ou quelque autre chose,			[100]
+Je ne trouve point cela beau,
+Et ne m'etonne pas si parfois on en cause.
+MERCURE
+Laissons dire tous les censeurs :
+Tels changements ont leurs douceurs
+Qui passent leur intelligence.			[105]
+Ce dieu sait ce qu'il fait aussi bien la qu'ailleurs ;
+Et dans les mouvements de leurs tendres ardeurs,
+Les betes ne sont pas si betes que l'on pense.
+LA NUIT
+Revenons a l'objet dont il a les faveurs.
+Si par son stratageme il voit sa flamme heureuse,			[110]
+Que peut-il souhaiter ? Et qu'est-ce que je puis ?
+MERCURE
+Que vos chevaux, par vous au petit pas reduits,
+Pour satisfaire aux voeux de son ame amoureuse,
+D'une nuit si delicieuse
+Fassent la plus longue des nuits ;			[115]
+Qu'a ses transports vous donniez plus d'espace,
+Et retardiez la naissance du jour
+Qui doit avancer le retour
+De celui dont il tient la place.
+LA NUIT
+Voila sans doute un bel emploi			[120]
+Que le grand Jupiter m'apprete,
+Et l'on donne un nom fort honnete
+Au service qu'il veut de moi.
+MERCURE
+Pour une jeune deesse,
+Vous etes bien du bon temps !			[125]
+Un tel emploi n'est bassesse
+Que chez les petites gens.
+Lorsque dans un haut rang on a l'heur de paraitre,
+Tout ce qu'on fait est toujours bel et bon ;
+Et suivant ce qu'on peut etre,			[130]
+Les choses changent de nom.
+LA NUIT
+Sur de pareilles matieres
+Vous en savez plus que moi ;
+Et pour accepter l'emploi,
+J'en veux croire vos lumieres.			[135]
+MERCURE
+He ! La, la, Madame la Nuit,
+Un peu doucement, je vous prie.
+Vous avez dans le monde un bruit
+De n'etre pas si rencherie.
+On vous fait confidente, en cent climats divers,			[140]
+De beaucoup de bonnes affaires ;
+Et je crois, a parler a sentiments ouverts,
+Que nous ne nous en devons gueres.
+LA NUIT
+Laissons ces contrarietes,
+Et demeurons ce que nous sommes :			[145]
+N'appretons point a rire aux hommes
+En nous disant nos verites.
+MERCURE
+Adieu : je vais la-bas, dans ma commission,
+Depouiller promptement la forme de Mercure,
+Pour y vetir la figure			[150]
+Du valet d'Amphitryon.
+LA NUIT
+Moi, dans cet hemisphere, avec ma suite obscure,
+Je vais faire une station.
+MERCURE
+Bonjour, la Nuit.
+LA NUIT
+Adieu, Mercure.
+
+
+			ACTE I
+
+
+SCENE PREMIERE.
+SOSIE
+Qui va la ? Heu ? Ma peur, a chaque pas, s'accroit.			[155]
+Messieurs, ami de tout le monde.
+Ah ! Quelle audace sans seconde
+De marcher a l'heure qu'il est !
+Que mon maitre, couvert de gloire,
+Me joue ici d'un vilain tour !			[160]
+Quoi ? Si pour son prochain il avait quelque amour,
+M'aurait-il fait partir par une nuit si noire ?
+Et pour me renvoyer annoncer son retour
+Et le detail de sa victoire,
+Ne pouvait-il pas bien attendre qu'il fut jour ?			[165]
+Sosie, a quelle servitude
+Tes jours sont-ils assujettis !
+Notre sort est beaucoup plus rude
+Chez les grands que chez les petits.
+Ils veulent que pour eux tout soit, dans la nature,			[170]
+Oblige de s'immoler.
+Jour et nuit, grele, vent, peril, chaleur, froidure,
+Des qu'ils parlent, il faut voler.
+Vingt ans d'assidu service
+N'en obtiennent rien pour nous ;			[175]
+Le moindre petit caprice
+Nous attire leur courroux.
+Cependant notre ame insensee
+S'acharne au vain honneur de demeurer pres d'eux,
+Et s'y veut contenter de la fausse pensee			[180]
+Qu'ont tous les autres gens que nous sommes heureux.
+Vers la retraite en vain la raison nous appelle ;
+En vain notre depit quelquefois y consent :
+Leur vue a sur notre zele
+Un ascendant trop puissant,			[185]
+Et la moindre faveur d'un coup d'oeil caressant
+Nous rengage de plus belle.
+Mais enfin, dans l'obscurite,
+Je vois notre maison, et ma frayeur s'evade.
+Il me faudrait, pour l'ambassade,			[190]
+Quelque discours premedite.
+Je dois aux yeux d'Alcmene un portrait militaire
+Du grand combat qui met nos ennemis a bas ;
+Mais comment diantre le faire,
+Si je ne m'y trouvai pas ?			[195]
+N'importe, parlons-en et d'estoc et de taille,
+Comme oculaire temoin :
+Combien de gens font-ils des recits de bataille
+Dont ils se sont tenus loin ?
+Pour jouer mon role sans peine,			[200]
+Je le veux un peu repasser.
+Voici la chambre ou j'entre en courrier que l'on mene,
+Et cette lanterne est Alcmene,
+A qui je me dois adresser.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)"Madame, Amphitryon, mon maitre, et votre epoux...			[205]
+(Bon ! Beau debut !) L'esprit toujours plein de vos charmes,
+M'a voulu choisir entre tous,
+Pour vous donner avis du succes de ses armes,
+Et du desir qu'il a de se voir pres de vous. "
+"Ha ! Vraiment, mon pauvre Sosie,			[210]
+A te revoir j'ai de la joie au coeur. "
+"Madame, ce m'est trop d'honneur,
+Et mon destin doit faire envie. "
+(Bien repondu ! ) "Comment se porte Amphitryon ? "
+"Madame, en homme de courage,			[215]
+Dans les occasions ou la gloire l'engage. "
+(Fort bien ! Belle conception ! )
+"Quand viendra-t-il, par son retour charmant,
+Rendre mon ame satisfaite ? "
+"Le plus tot qu'il pourra, Madame, assurement,			[220]
+Mais bien plus tard que son coeur ne souhaite."
+(Ah !) "Mais quel est l'etat ou la guerre l'a mis ?
+Que dit-il ? Que fait-il ? Contente un peu mon ame."
+"Il dit moins qu'il ne fait, Madame,
+Et fait trembler les ennemis."			[225]
+(Peste ! Ou prend mon esprit toutes ces gentillesses ? )
+"Que font les revoltes ? Dis-moi, quel est leur sort ? "
+"Ils n'ont pu resister, Madame, a notre effort :
+Nous les avons tailles en pieces,
+Mis Pterelas leur chef a mort,			[230]
+Pris Telebe d'assaut, et deja dans le port
+Tout retentit de nos prouesses. "
+"Ah ! Quel succes ! O dieux ! Qui l'eut pu jamais croire ?
+Raconte-moi, Sosie, un tel evenement. "
+"Je le veux bien, Madame ; et, sans m'enfler de gloire,			[235]
+Du detail de cette victoire
+Je puis parler tres savamment.
+Figurez-vous donc que Telebe,
+Madame, est de ce cote :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est une ville, en verite,			[240]
+Aussi grande quasi que Thebes.
+La riviere est comme la.
+Ici nos gens se camperent ;
+Et l'espace que voila,
+Nos ennemis l'occuperent :			[245]
+Sur un haut, vers cet endroit,
+Etait leur infanterie ;
+Et plus bas, du cote droit,
+Etait la cavalerie.
+Apres avoir aux dieux adresse les prieres,			[250]
+Tous les ordres donnes, on donne le signal.
+Les ennemis, pensant nous tailler des croupieres,
+Firent trois pelotons de leurs gens a cheval ;
+Mais leur chaleur par nous fut bientot reprimee,
+Et vous allez voir comme quoi.			[255]
+Voila notre avant-garde a bien faire animee ;
+La, les archers de Creon, notre roi ;
+Et voici le corps d'armee,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qui d'abord... Attendez : "Le corps d'armee a peur.
+J'entends quelque bruit, ce me semble.			[260]
+SCENE II.
+MERCURE, sous la forme de Sosie.
+Sous ce minois qui lui ressemble,
+Chassons de ces lieux ce causeur,
+Dont l'abord importun troublerait la douceur
+Que nos amants goutent ensemble.
+SOSIE
+Mon coeur tant soit peu se rassure,			[265]
+Et je pense que ce n'est rien.
+Crainte pourtant de sinistre aventure,
+Allons chez nous achever l'entretien.
+MERCURE
+Tu seras plus fort que Mercure,
+Ou je t'en empecherai bien.			[270]
+SOSIE
+Cette nuit en longueur me semble sans pareille.
+Il faut, depuis le temps que je suis en chemin,
+Ou que mon maitre ait pris le soir pour le matin,
+Ou que trop tard au lit le blond Phebus sommeille,
+Pour avoir trop pris de son vin.			[275]
+MERCURE
+Comme avec irreverence
+Parle des dieux ce maraud !
+Mon bras saura bien tantot
+Chatier cette insolence,
+Et je vais m'egayer avec lui comme il faut,			[280]
+En lui volant son nom, avec sa ressemblance.
+SOSIE
+Ah ! Par ma foi, j'avais raison :
+C'est fait de moi, chetive creature !
+Je vois devant notre maison
+Certain homme dont l'encolure			[285]
+Ne me presage rien de bon.
+Pour faire semblant d'assurance,
+Je veux chanter un peu d'ici.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MERCURE
+Qui donc est ce coquin qui prend tant de licence,
+Que de chanter et m'etourdir ainsi ?			[290]
+Veut-il qu'a l'etriller ma main un peu s'applique ?
+SOSIE
+Cet homme assurement n'aime pas la musique.
+MERCURE
+Depuis plus d'une semaine,
+Je n'ai trouve personne a qui rompre les os ;
+La vertu de mon bras se perd dans le repos,			[295]
+Et je cherche quelque dos,
+Pour me remettre en haleine.
+SOSIE
+Quel diable d'homme est-ce ci ?
+De mortelles frayeurs je sens mon ame atteinte.
+Mais pourquoi trembler tant aussi ?			[300]
+Peut-etre a-t-il dans l'ame autant que moi de crainte,
+Et que le drole parle ainsi
+Pour me cacher sa peur sous une audace feinte ?
+Oui, oui, ne souffrons point qu'on nous croie un oison :
+Si je ne suis hardi, tachons de le paraitre.			[305]
+Faisons-nous du coeur par raison ;
+Il est seul, comme moi ; je suis fort, j'ai bon maitre,
+Et voila notre maison.
+MERCURE
+Qui va la ?
+SOSIE
+Moi.
+MERCURE
+Qui, moi ?
+SOSIE
+Moi. Courage, Sosie !
+MERCURE
+Quel est ton sort, dis-moi ?
+SOSIE
+D'etre homme, et de parler.
+MERCURE
+Es-tu maitre ou valet ?
+SOSIE
+Comme il me prend envie.			[310]
+MERCURE
+Ou s'adressent tes pas ?
+SOSIE
+Ou j'ai dessein d'aller.
+MERCURE
+Ah ! Ceci me deplait.
+SOSIE
+J'en ai l'ame ravie.
+MERCURE
+Resolument, par force ou par amour,
+Je veux savoir de toi, traitre,
+Ce que tu fais, d'ou tu viens avant jour,			[315]
+Ou tu vas, a qui tu peux etre.
+SOSIE
+Je fais le bien et le mal tour a tour ;
+Je viens de la, vais la ; j'appartiens a mon maitre.
+MERCURE
+Tu montres de l'esprit, et je te vois en train
+De trancher avec moi de l'homme d'importance.			[320]
+Il me prend un desir, pour faire connaissance,
+De te donner un soufflet de ma main.
+SOSIE
+A moi-meme ?
+MERCURE
+A toi-meme : et t'en voila certain.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOSIE
+Ah ! Ah ! C'est tout de bon !
+MERCURE
+Non : ce n'est que pour rire,
+Et repondre a tes quolibets.			[325]
+SOSIE
+Tudieu ! L'ami, sans vous rien dire,
+Comme vous baillez des soufflets !
+MERCURE
+Ce sont la de mes moindres coups,
+De petits soufflets ordinaires.
+SOSIE
+Si j'etais aussi prompt que vous,			[330]
+Nous ferions de belles affaires.
+MERCURE
+Tout cela n'est encore rien,
+Pour y faire quelque pause :
+Nous verrons bien autre chose ;
+Poursuivons notre entretien.			[335]
+SOSIE
+Je quitte la partie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MERCURE
+Ou vas-tu ?
+SOSIE
+Que t'importe ?
+MERCURE
+Je veux savoir ou tu vas.
+SOSIE
+Me faire ouvrir cette porte.
+Pourquoi retiens-tu mes pas ?
+MERCURE
+Si jusqu'a l'approcher tu pousses ton audace,			[340]
+Je fais sur toi pleuvoir un orage de coups.
+SOSIE
+Quoi ? Tu veux, par ta menace,
+M'empecher d'entrer chez nous ?
+MERCURE
+Comment, chez nous ?
+SOSIE
+Oui, chez nous.
+MERCURE
+O le traitre !
+Tu te dis de cette maison ?			[345]
+SOSIE
+Fort bien. Amphitryon n'en est-il pas le maitre ?
+MERCURE
+He bien ! Que fait cette raison ?
+SOSIE
+Je suis son valet.
+MERCURE
+Toi ?
+SOSIE
+Moi.
+MERCURE
+Son valet ?
+SOSIE
+Sans doute.
+MERCURE
+Valet d'Amphitryon ?
+SOSIE
+D'Amphitryon, de lui.
+MERCURE
+Ton nom est... ?
+SOSIE
+Sosie.			[350]
+MERCURE
+Heu ? Comment ?			[350]
+SOSIE
+Sosie.			[350]
+MERCURE
+Ecoute :			[350]
+Sais-tu que de ma main je t'assomme aujourd'hui ?
+SOSIE
+Pourquoi ? De quelle rage est ton ame saisie ?
+MERCURE
+Qui te donne, dis-moi, cette temerite
+De prendre le nom de Sosie ?
+SOSIE
+Moi, je ne le prends point, je l'ai toujours porte.			[355]
+MERCURE
+O le mensonge horrible ! Et l'impudence extreme !
+Tu m'oses soutenir que Sosie est ton nom ?
+SOSIE
+Fort bien : je le soutiens, par la grande raison
+Qu'ainsi l'a fait des dieux la puissance supreme,
+Et qu'il n'est pas en moi de pouvoir dire non,			[360]
+Et d'etre un autre que moi-meme.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MERCURE
+Mille coups de baton doivent etre le prix
+D'une pareille effronterie.
+SOSIE
+Justice, citoyens ! Au secours ! Je vous prie.
+MERCURE
+Comment, bourreau, tu fais des cris ?			[365]
+SOSIE
+De mille coups tu me meurtris,
+Et tu ne veux pas que je crie ?
+MERCURE
+C'est ainsi que mon bras...
+SOSIE
+L'action ne vaut rien :
+Tu triomphes de l'avantage
+Que te donne sur moi mon manque de courage ;			[370]
+Et ce n'est pas en user bien.
+C'est pure fanfaronnerie
+De vouloir profiter de la poltronnerie
+De ceux qu'attaque notre bras.
+Battre un homme a jeu sur n'est pas d'une belle ame ;			[375]
+Et le coeur est digne de blame
+Contre les gens qui n'en ont pas.
+MERCURE
+He bien ! Es-tu Sosie a present ? Qu'en dis-tu ?
+SOSIE
+Tes coups n'ont point en moi fait de metamorphose ;
+Et tout le changement que je trouve a la chose,			[380]
+C'est d'etre Sosie battu.
+MERCURE
+Encore ? Cent autres coups pour cette autre impudence.
+SOSIE
+De grace, fais treve a tes coups.
+MERCURE
+Fais donc treve a ton insolence.
+SOSIE
+Tout ce qu'il te plaira ; je garde le silence :			[385]
+La dispute est par trop inegale entre nous.
+MERCURE
+Es-tu Sosie encore ? Dis, traitre !
+SOSIE
+Helas ! Je suis ce que tu veux ;
+Dispose de mon sort tout au gre de tes voeux :
+Ton bras t'en a fait le maitre.			[390]
+MERCURE
+Ton nom etait Sosie, a ce que tu disais ?
+SOSIE
+Il est vrai, jusqu'ici j'ai cru la chose claire ;
+Mais ton baton, sur cette affaire,
+M'a fait voir que je m'abusais.
+MERCURE
+C'est moi qui suis Sosie, et tout Thebes l'avoue :			[395]
+Amphitryon jamais n'en eut d'autre que moi.
+SOSIE
+Toi, Sosie ?
+MERCURE
+Oui, Sosie ; et si quelqu'un s'y joue,
+Il peut bien prendre garde a soi.
+SOSIE
+Ciel ! Me faut-il ainsi renoncer a moi-meme,
+Et par un imposteur me voir voler mon nom ?			[400]
+Que son bonheur est extreme
+De ce que je suis poltron !
+Sans cela, par la mort... !
+MERCURE
+Entre tes dents, je pense,
+Tu murmures je ne sais quoi ?
+SOSIE
+Non. Mais, au nom des dieux, donne-moi la licence			[405]
+De parler un moment a toi.
+MERCURE
+Parle.
+SOSIE
+Mais promets-moi, de grace,
+Que les coups n'en seront point.
+Signons une treve.
+MERCURE
+Passe ;
+Va, je t'accorde ce point.			[410]
+SOSIE
+Qui te jette, dis-moi, dans cette fantaisie ?
+Que te reviendra-t-il de m'enlever mon nom ?
+Et peux-tu faire enfin, quand tu serais demon,
+Que je ne sois pas moi ? Que je ne sois Sosie ?
+MERCURE, levant son baton sur Sosie.
+Comment, tu peux...
+SOSIE
+Ah ! Tout doux :			[415]
+Nous avons fait treve aux coups.
+MERCURE
+Quoi ? Pendard, imposteur, coquin...
+SOSIE
+Pour des injures,
+Dis-m'en tant que tu voudras :
+Ce sont legeres blessures,
+Et je ne m'en fache pas.			[420]
+MERCURE
+Tu te dis Sosie ?
+SOSIE
+Oui. Quelque conte frivole...
+MERCURE
+Sus, je romps notre treve, et reprends ma parole.
+SOSIE
+N'importe, je ne puis m'aneantir pour toi,
+Et souffrir un discours si loin de l'apparence.
+Etre ce que je suis est-il en ta puissance ?			[425]
+Et puis-je cesser d'etre moi ?
+S'avisa-t-on jamais d'une chose pareille ?
+Et peut-on dementir cent indices pressants ?
+Reve-je ? Est-ce que je sommeille ?
+Ai-je l'esprit trouble par des transports puissants ?			[430]
+Ne sens-je pas bien que je veille ?
+Ne suis-je pas dans mon bon sens ?
+Mon maitre Amphitryon ne m'a-t-il pas commis
+A venir en ces lieux vers Alcmene sa femme ?
+Ne lui dois-je pas faire, en lui vantant sa flamme,			[435]
+Un recit de ses faits contre nos ennemis ?
+Ne suis-je pas du port arrive tout a l'heure ?
+Ne tiens-je pas une lanterne en main ?
+Ne te trouve-je pas devant notre demeure ?
+Ne t'y parle-je pas d'un esprit tout humain ?			[440]
+Ne te tiens-tu pas fort de ma poltronnerie
+Pour m'empecher d'entrer chez nous ?
+N'as-tu pas sur mon dos exerce ta furie ?
+Ne m'as-tu pas roue de coups ?
+Ah ! Tout cela n'est que trop veritable,			[445]
+Et plut au ciel le fut-il moins !
+Cesse donc d'insulter au sort d'un miserable,
+Et laisse a mon devoir s'acquitter de ses soins.
+MERCURE
+Arrete, ou sur ton dos le moindre pas attire
+Un assommant eclat de mon juste courroux.			[450]
+Tout ce que tu viens de dire
+Est a moi, hormis les coups.
+C'est moi qu'Amphitryon depute vers Alcmene,
+Et qui du port persique arrive de ce pas ;
+Moi qui viens annoncer la valeur de son bras			[455]
+Qui nous fait remporter une victoire pleine,
+Et de nos ennemis a mis le chef a bas ;
+C'est moi qui suis Sosie enfin, de certitude,
+Fils de Dave, honnete berger ;
+Frere d'Arpage, mort en pays etranger ;			[460]
+Mari de Cleanthis la prude,
+Dont l'humeur me fait enrager ;
+Qui dans Thebes ai recu mille coups d'etriviere,
+Sans en avoir jamais dit rien,
+Et jadis en public fus marque par derriere,			[465]
+Pour etre trop homme de bien.
+SOSIE
+Il a raison. A moins d'etre Sosie,
+On ne peut pas savoir tout ce qu'il dit ;
+Et dans l'etonnement dont mon ame est saisie,
+Je commence, a mon tour, a le croire un petit.			[470]
+En effet, maintenant que je le considere,
+Je vois qu'il a de moi taille, mine, action.
+Faisons-lui quelque question,
+Afin d'eclaircir ce mystere.
+Parmi tout le butin fait sur nos ennemis,			[475]
+Qu'est-ce qu'Amphitryon obtient pour son partage ?
+MERCURE
+Cinq fort gros diamants, en noeud proprement mis,
+Dont leur chef se parait comme d'un rare ouvrage.
+SOSIE
+A qui destine-t-il un si riche present ?
+MERCURE
+A sa femme ; et sur elle il le veut voir paraitre.			[480]
+SOSIE
+Mais ou, pour l'apporter, est-il a present ?
+MERCURE
+Dans un coffret, scelle des armes de mon maitre.
+SOSIE
+Il ne ment pas d'un mot a chaque repartie,
+Et de moi je commence a douter tout de bon.
+Pres de moi, par la force, il est deja Sosie ;			[485]
+Il pourrait bien encore l'etre par la raison.
+Pourtant, quand je me tate, et que je me rappelle,
+Il me semble que je suis moi.
+Ou puis-je rencontrer quelque clarte fidele,
+Pour demeler ce que je vois ?			[490]
+Ce que j'ai fait tout seul, et que n'a vu personne,
+A moins d'etre moi-meme, on ne le peut savoir.
+Par cette question il faut que je l'etonne :
+C'est de quoi le confondre, et nous allons le voir.
+Lorsqu'on etait aux mains, que fis-tu dans nos tentes,			[495]
+Ou tu courus seul te fourrer ?
+MERCURE
+D'un jambon...
+SOSIE
+L'y voila !
+MERCURE
+Que j'allai deterrer,
+Je coupai bravement deux tranches succulentes,
+Dont je sus fort bien me bourrer ;
+Et joignant a cela d'un vin que l'on menage,			[500]
+Et dont, avant le gout, les yeux se contentaient,
+Je pris un peu de courage,
+Pour nos gens qui se battaient.
+SOSIE
+Cette preuve sans pareille
+En sa faveur conclut bien ;			[505]
+Et l'on n'y peut dire rien,
+S'il n'etait dans la bouteille.
+Je ne saurais nier, aux preuves qu'on m'expose,
+Que tu ne sois Sosie, et j'y donne ma voix.
+Mais si tu l'es, dis-moi qui tu veux que je sois ?			[510]
+Car encore faut-il bien que je sois quelque chose.
+MERCURE
+Quand je ne serai plus Sosie,
+Sois-le, j'en demeure d'accord ;
+Mais tant que je le suis, je te garantis mort,
+Si tu prends cette fantaisie.			[515]
+SOSIE
+Tout cet embarras met mon esprit sur les dents,
+Et la raison a ce qu'on voit s'oppose.
+Mais il faut terminer enfin par quelque chose ;
+Et le plus court pour moi, c'est d'entrer la dedans.
+MERCURE
+Ah ! Tu prends donc, pendard, gout a la bastonnade ?			[520]
+SOSIE
+Ah ! Qu'est-ce ci ? Grands dieux ! Il frappe un ton plus fort,
+Et mon dos, pour un mois, en doit etre malade.
+Laissons ce diable d'homme, et retournons au port.
+O juste ciel ! J'ai fait une belle ambassade !
+MERCURE
+Enfin, je l'ai fait fuir ; et sous ce traitement			[525]
+De beaucoup d'actions il a recu la peine.
+Mais je vois Jupiter, que fort civilement
+Reconduit l'amoureuse Alcmene.
+SCENE III.
+JUPITER
+Defendez, chere Alcmene, aux flambeaux d'approcher.
+Ils m'offrent des plaisirs en m'offrant votre vue ;			[530]
+Mais ils pourraient ici decouvrir ma venue,
+Qu'il est a propos de cacher.
+Mon amour, que genaient tous ces soins eclatants
+Ou me tenait lie la gloire de nos armes,
+Au devoir de ma charge a vole les instants			[535]
+Qu'il vient de donner a vos charmes.
+Ce vol qu'a vos beautes mon coeur a consacre
+Pourrait etre blame dans la bouche publique,
+Et j'en veux pour temoin unique
+Celle qui peut m'en savoir gre.			[540]
+ALCMENE
+Je prends, Amphitryon, grande part a la gloire
+Que repandent sur vous vos illustres exploits ;
+Et l'eclat de votre victoire
+Sait toucher de mon coeur les sensibles endroits ;
+Mais quand je vois que cet honneur fatal			[545]
+Eloigne de moi ce que j'aime,
+Je ne puis m'empecher, dans ma tendresse extreme,
+De lui vouloir un peu de mal,
+Et d'opposer mes voeux a cet ordre supreme
+Qui des Thebains vous fait le general.			[550]
+C'est une douce chose, apres une victoire,
+Que la gloire ou l'on voit ce qu'on aime eleve ;
+Mais parmi les perils meles a cette gloire,
+Un triste coup, helas ! Est bientot arrive.
+De combien de frayeurs a-t-on l'ame blessee,			[555]
+Au moindre choc dont on entend parler !
+Voit-on, dans les horreurs d'une telle pensee,
+Par ou jamais se consoler
+Du coup dont on est menacee ?
+Et de quelque laurier qu'on couronne un vainqueur,			[560]
+Quelque part que l'on ait a cet honneur supreme,
+Vaut-il ce qu'il en coute aux tendresses d'un coeur
+Qui peut, a tout moment, trembler pour ce qu'il aime ?
+JUPITER
+Je ne vois rien en vous dont mon feu ne s'augmente :
+Tout y marque a mes yeux un coeur bien enflamme ;			[565]
+Et c'est, je vous l'avoue, une chose charmante
+De trouver tant d'amour dans un objet aime.
+Mais, si je l'ose dire, un scrupule me gene
+Aux tendres sentiments que vous me faites voir ;
+Et pour les bien gouter, mon amour, chere Alcmene,			[570]
+Voudrait n'y voir entrer rien de votre devoir :
+Qu'a votre seule ardeur, qu'a ma seule personne,
+Je dusse les faveurs que je recois de vous.
+Et que la qualite que j'ai de votre epoux
+Ne fut point ce qui me les donne.			[575]
+ALCMENE
+C'est de ce nom pourtant que l'ardeur qui me brule
+Tient le droit de paraitre au jour,
+Et je ne comprends rien a ce nouveau scrupule
+Dont s'embarrasse votre amour.
+JUPITER
+Ah ! Ce que j'ai pour vous d'ardeur et de tendresse			[580]
+Passe aussi celle d'un epoux,
+Et vous ne savez pas, dans des moments si doux,
+Quelle en est la delicatesse.
+Vous ne concevez point qu'un coeur bien amoureux
+Sur cent petits egards s'attache avec etude,			[585]
+Et se fait une inquietude
+De la maniere d'etre heureux.
+En moi, belle et charmante Alcmene,
+Vous voyez un mari, vous voyez un amant ;
+Mais l'amant seul me touche, a parler franchement,			[590]
+Et je sens, pres de vous, que le mari le gene.
+Cet amant, de vos voeux jaloux au dernier point,
+Souhaite qu'a lui seul votre coeur s'abandonne,
+Et sa passion ne veut point
+De ce que le mari lui donne.			[595]
+Il veut de pure source obtenir vos ardeurs,
+Et ne veut rien tenir des noeuds de l'hymenee,
+Rien d'un facheux devoir qui fait agir les coeurs,
+Et par qui, tous les jours, des plus cheres faveurs
+La douceur est empoisonnee.			[600]
+Dans le scrupule enfin dont il est combattu,
+Il veut, pour satisfaire a sa delicatesse,
+Que vous le separiez d'avec ce qui le blesse,
+Que le mari ne soit que pour votre vertu,
+Et que de votre coeur, de bonte revetu,			[605]
+L'amant ait tout l'amour et toute la tendresse.
+ALCMENE
+Amphitryon, en verite,
+Vous vous moquez de tenir ce langage,
+Et j'aurais peur qu'on ne vous crut pas sage,
+Si de quelqu'un vous etiez ecoute.			[610]
+JUPITER
+Ce discours est plus raisonnable,
+Alcmene, que vous ne pensez ;
+Mais un plus long sejour me rendrait trop coupable,
+Et du retour au port les moments sont presses.
+Adieu : de mon devoir l'etrange barbarie			[615]
+Pour un temps m'arrache de vous ;
+Mais, belle Alcmene, au moins, quand vous verrez l'epoux,
+Songez a l'amant, je vous prie.
+ALCMENE
+Je ne separe point ce qu'unissent les dieux,
+Et l'epoux et l'amant me sont fort precieux.			[620]
+CLEANTHIS
+O ciel ! Que d'aimables caresses
+D'un epoux ardemment cheri !
+Et que mon traitre de mari
+Est loin de toutes ces tendresses !
+MERCURE
+La Nuit, qu'il me faut avertir,			[625]
+N'a plus qu'a plier tous ses voiles ;
+Et, pour effacer les etoiles,
+Le Soleil de son lit peut maintenant sortir.
+SCENE IV.
+CLEANTHIS
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoi ? C'est ainsi que l'on me quitte ?
+MERCURE
+Et comment donc ? Ne veux-tu pas			[630]
+Que de mon devoir je m'acquitte ?
+Et que d'Amphitryon j'aille suivre les pas ?
+CLEANTHIS
+Mais avec cette brusquerie,
+Traitre, de moi te separer !
+MERCURE
+Le beau sujet de facherie !			[635]
+Nous avons tant de temps ensemble a demeurer.
+CLEANTHIS
+Mais quoi ? Partir ainsi d'une facon brutale,
+Sans me dire un seul mot de douceur pour regale !
+MERCURE
+Diantre ! Ou veux-tu que mon esprit
+T'aille chercher des fariboles ?			[640]
+Quinze ans de mariage epuisent les paroles,
+Et depuis un long temps nous nous sommes tout dit.
+CLEANTHIS
+Regarde, traitre, Amphitryon,
+Vois combien pour Alcmene il etale de flamme,
+Et rougis la-dessus du peu de passion			[645]
+Que tu temoignes pour ta femme.
+MERCURE
+He ! Mon Dieu ! Cleanthis, ils sont encore amants.
+Il est certain age ou tout passe ;
+Et ce qui leur sied bien dans ces commencements,
+En nous, vieux maries, aurait mauvaise grace.			[650]
+Il nous ferait beau voir, attaches face a face
+A pousser les beaux sentiments !
+CLEANTHIS
+Quoi ? Suis-je hors d'etat, perfide, d'esperer
+Qu'un coeur aupres de moi soupire ?
+MERCURE
+Non, je n'ai garde de le dire ;			[655]
+Mais je suis trop barbon pour oser soupirer,
+Et je ferais crever de rire.
+CLEANTHIS
+Merites-tu, pendard, cet insigne bonheur
+De te voir pour epouse une femme d'honneur ?
+MERCURE
+Mon Dieu ! Tu n'es que trop honnete :			[660]
+Ce grand honneur ne me vaut rien.
+Ne sois point si femme de bien,
+Et me romps un peu moins la tete.
+CLEANTHIS
+Comment ? De trop bien vivre on te voit me blamer ?
+MERCURE
+La douceur d'une femme est tout ce qui me charme ;			[665]
+Et ta vertu fait un vacarme
+Qui ne cesse de m'assommer.
+CLEANTHIS
+Il te faudrait des coeurs pleins de fausses tendresses,
+De ces femmes aux beaux et louables talents,
+Qui savent accabler leurs maris de caresses,			[670]
+Pour leur faire avaler l'usage des galants.
+MERCURE
+Ma foi ! Veux-tu que je te dise ?
+Un mal d'opinion ne touche que les sots ;
+Et je prendrais pour ma devise :
+"Moins d'honneur, et plus de repos."			[675]
+CLEANTHIS
+Comment ? Tu souffrirais, sans nulle repugnance,
+Que j'aimasse un galant avec toute licence ?
+MERCURE
+Oui, si je n'etais plus de tes cris rebattu,
+Et qu'on te vit changer d'humeur et de methode.
+J'aime mieux un vice commode			[680]
+Qu'une fatigante vertu.
+Adieu, Cleanthis, ma chere ame :
+Il me faut suivre Amphitryon.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLEANTHIS
+Pourquoi, pour punir cet infame,
+Mon coeur n'a-t-il assez de resolution ?			[685]
+Ah ! Que dans cette occasion
+J'enrage d'etre honnete femme !
+
+
+			ACTE II
+
+
+SCENE PREMIERE.
+AMPHYTRION
+Viens ca, bourreau, viens ca. Sais-tu, maitre fripon,
+Qu'a te faire assommer ton discours peut suffire ?
+Et que pour te traiter comme je le desire,			[690]
+Mon courroux n'attend qu'un baton ?
+SOSIE
+Si vous le prenez sur ce ton,
+Monsieur, je n'ai plus rien a dire,
+Et vous aurez toujours raison.
+AMPHYTRION
+Quoi ? Tu veux me donner pour des verites, traitre,			[695]
+Des contes que je vois d'extravagance outres ?
+SOSIE
+Non : je suis le valet, et vous etes le maitre ;
+Il n'en sera, Monsieur, que ce que vous voudrez.
+AMPHYTRION
+Ca, je veux etouffer le courroux qui m'enflamme,
+Et tout du long t'ouir sur ta commission.			[700]
+Il faut, avant que voir ma femme,
+Que je debrouille ici cette confusion.
+Rappelle tous tes sens, rentre bien dans ton ame,
+Et reponds, mot pour mot, a chaque question.
+SOSIE
+Mais, de peur d'incongruite,			[705]
+Dites-moi, de grace, a l'avance,
+De quel air il vous plait que ceci soit traite.
+Parlerai-je, Monsieur, selon ma conscience,
+Ou comme aupres des grands on le voit usite ?
+Faut-il dire la verite,			[710]
+Ou bien user de complaisance ?
+AMPHYTRION
+Non : je ne te veux obliger
+Qu'a me rendre de tout un compte fort sincere.
+SOSIE
+Bon, c'est assez ; laissez-moi faire :
+Vous n'avez qu'a m'interroger.			[715]
+AMPHYTRION
+Sur l'ordre que tantot je t'avais su prescrire... ?
+SOSIE
+Je suis parti, les cieux d'un noir crepe voiles,
+Pestant fort contre vous dans ce facheux martyre,
+Et maudissant vingt fois l'ordre dont vous parlez.
+AMPHYTRION
+Comment, coquin ?
+SOSIE
+Monsieur, vous n'avez rien qu'a dire,			[720]
+Je mentirai, si vous voulez.
+AMPHYTRION
+Voila comme un valet montre pour nous du zele.
+Passons. Sur les chemins que t'est-il arrive ?
+SOSIE
+D'avoir une frayeur mortelle,
+Au moindre objet que j'ai trouve.			[725]
+AMPHYTRION
+Poltron !
+SOSIE
+En nous formant Nature a ses caprices ;
+Divers penchants en nous elle fait observer :
+Les uns a s'exposer trouvent mille delices ;
+Moi, j'en trouve a me conserver.
+AMPHYTRION
+Arrivant au logis... ?
+SOSIE
+J'ai, devant notre porte,			[730]
+En moi-meme voulu repeter un petit
+Sur quel ton et de quelle sorte
+Je ferais du combat le glorieux recit.
+AMPHYTRION
+Ensuite ?
+SOSIE
+On m'est venu troubler et mettre en peine.
+AMPHYTRION
+Et qui ?
+SOSIE
+Sosie, un moi, de vos ordres jaloux,			[735]
+Que vous avez du port envoye vers Alcmene,
+Et qui de nos secrets a connaissance pleine,
+Comme le moi qui parle a vous.
+AMPHYTRION
+Quels contes !
+SOSIE
+Non, monsieur, c'est la verite pure.
+Ce moi plutot que moi s'est au logis trouve ;			[740]
+Et j'etais venu, je vous jure,
+Avant que je fusse arrive.
+AMPHYTRION
+D'ou peut proceder, je te prie,
+Ce galimatias maudit ?
+Est-ce songe ? Est-ce ivrognerie ?			[745]
+Alienation d'esprit ?
+Ou mechante plaisanterie ?
+SOSIE
+Non : c'est la chose comme elle est,
+Et point du tout conte frivole.
+Je suis homme d'honneur, j'en donne ma parole,			[750]
+Et vous m'en croirez, s'il vous plait.
+Je vous dis que, croyant n'etre qu'un seul Sosie,
+Je me suis trouve deux chez nous ;
+Et que de ces deux moi, piques de jalousie,
+L'un est a la maison, et l'autre est avec vous ;			[755]
+Que le moi que voici, charge de lassitude,
+A trouve l'autre moi frais, gaillard et dispos,
+Et n'ayant d'autre inquietude
+Que de battre, et casser des os.
+AMPHYTRION
+Il faut etre, je le confesse,			[760]
+D'un esprit bien pose, bien tranquille, bien doux,
+Pour souffrir qu'un valet de chansons me repaisse.
+SOSIE
+Si vous vous mettez en courroux,
+Plus de conference entre nous :
+Vous savez que d'abord tout cesse.			[765]
+AMPHYTRION
+Non : sans emportement je te veux ecouter ;
+Je l'ai promis. Mais dis, en bonne conscience,
+Au mystere nouveau que tu me viens conter
+Est-il quelque ombre d'apparence ?
+SOSIE
+Non : vous avez raison, et la chose a chacun			[770]
+Hors de creance doit paraitre.
+C'est un fait a n'y rien connaitre,
+Un conte extravagant, ridicule, importun :
+Cela choque le sens commun ;
+Mais cela ne laisse pas d'etre.			[775]
+AMPHYTRION
+Le moyen d'en rien croire, a moins qu'etre insense ?
+SOSIE
+Je ne l'ai pas cru, moi, sans une peine extreme :
+Je me suis d'etre deux senti l'esprit blesse,
+Et longtemps d'imposteur j'ai traite ce moi-meme.
+Mais a me reconnaitre enfin il m'a force :			[780]
+J'ai vu que c'etait moi, sans aucun stratageme ;
+Des pieds jusqu'a la tete, il est comme moi fait,
+Beau, l'air noble, bien pris, les manieres charmantes ;
+Enfin deux gouttes de lait
+Ne sont pas plus ressemblantes ;			[785]
+Et n'etait que ses mains sont un peu trop pesantes,
+J'en serais fort satisfait.
+AMPHYTRION
+A quelle patience il faut que je m'exhorte !
+Mais enfin n'es-tu pas entre dans la maison ?
+SOSIE
+Bon, entre ! He ! De quelle sorte ?			[790]
+Ai-je voulu jamais entendre de raison ?
+Et ne me suis-je pas interdit notre porte ?
+AMPHYTRION
+Comment donc ?
+SOSIE
+Avec un baton :
+Dont mon dos sent encore une douleur tres forte.
+AMPHYTRION
+On t'a battu ?
+SOSIE
+Vraiment.			[795]
+AMPHYTRION
+Et qui ?			[795]
+SOSIE
+Moi.			[795]
+AMPHYTRION
+Toi, te battre ?			[795]
+SOSIE
+Oui, moi : non pas le moi d'ici,
+Mais le moi du logis, qui frappe comme quatre.
+AMPHYTRION
+Te confonde le ciel de me parler ainsi !
+SOSIE
+Ce ne sont point des badinages.
+Le moi que j'ai trouve tantot			[800]
+Sur le moi qui vous parle a de grands avantages :
+Il a le bras fort, le coeur haut ;
+J'en ai recu des temoignages,
+Et ce diable de moi m'a rosse comme il faut ;
+C'est un drole qui fait des rages.			[805]
+AMPHYTRION
+Achevons. As-tu vu ma femme ?
+SOSIE
+Non.
+AMPHYTRION
+Pourquoi ?
+SOSIE
+Par une raison assez forte.
+AMPHYTRION
+Qui t'a fait y manquer, maraud ? Explique-toi.
+SOSIE
+Faut-il le repeter vingt fois de meme sorte ?
+Moi, vous dis-je, ce moi plus robuste que moi,			[810]
+Ce moi qui s'est de force empare de la porte,
+Ce moi qui m'a fait filer doux,
+Ce moi qui le seul moi veut etre,
+Ce moi de moi-meme jaloux,
+Ce moi vaillant, dont le courroux			[815]
+Au moi poltron s'est fait connaitre,
+Enfin ce moi qui suis chez nous,
+Ce moi qui s'est montre mon maitre,
+Ce moi qui m'a roue de coups.
+AMPHYTRION
+Il faut que ce matin, a force de trop boire,			[820]
+Il se soit trouble le cerveau.
+SOSIE
+Je veux etre pendu si j'ai bu que de l'eau :
+A mon serment on m'en peut croire.
+AMPHYTRION
+Il faut donc qu'au sommeil tes sens se soient portes ?
+Et qu'un songe facheux, dans ses confus mysteres,			[825]
+T'ait fait voir toutes les chimeres
+Dont tu me fais des verites ?
+SOSIE
+Tout aussi peu. Je n'ai point sommeille,
+Et n'en ai meme aucune envie.
+Je vous parle bien eveille ;			[830]
+J'etais bien eveille ce matin, sur ma vie !
+Et bien eveille meme etait l'autre Sosie,
+Quand il m'a si bien etrille.
+AMPHYTRION
+Suis-moi. Je t'impose silence :
+C'est trop me fatiguer l'esprit ;			[835]
+Et je suis un vrai fou d'avoir la patience
+D'ecouter d'un valet les sottises qu'il dit.
+SOSIE
+Tous les discours sont des sottises,
+Partant d'un homme sans eclat ;
+Ce serait paroles exquises			[840]
+Si c'etait un grand qui parlat.
+AMPHYTRION
+Entrons, sans davantage attendre.
+Mais Alcmene parait avec tous ses appas.
+En ce moment sans doute elle ne m'attend pas,
+Et mon abord la va surprendre.			[845]
+SCENE II.
+ALCMENE
+Allons pour mon epoux, Cleanthis, vers les dieux
+Nous acquitter de nos hommages,
+Et les remercier des succes glorieux
+Dont Thebes, par son bras, goute les avantages.
+O dieux !
+AMPHYTRION
+Fasse le ciel qu'Amphitryon vainqueur			[850]
+Avec plaisir soit revu de sa femme,
+Et que ce jour favorable a ma flamme
+Vous redonne a mes yeux avec le meme coeur,
+Que j'y retrouve autant d'ardeur
+Que vous en rapporte mon ame !			[855]
+ALCMENE
+Quoi ? De retour si tot ?
+AMPHYTRION
+Certes, c'est en ce jour
+Me donner de vos feux un mauvais temoignage,
+Et ce "Quoi ? Si tot de retour ?"
+En ces occasions n'est guere le langage
+D'un coeur bien enflamme d'amour.			[860]
+J'osais me flatter en moi-meme
+Que loin de vous j'aurais trop demeure.
+L'attente d'un retour ardemment desire
+Donne a tous les instants une longueur extreme,
+Et l'absence de ce qu'on aime,			[865]
+Quelque peu qu'elle dure, a toujours trop dure.
+ALCMENE
+Je ne vois...
+AMPHYTRION
+Non, Alcmene, a son impatience
+On mesure le temps en de pareils etats ;
+Et vous comptez les moments de l'absence
+En personne qui n'aime pas.			[870]
+Lorsque l'on aime comme il faut,
+Le moindre eloignement nous tue,
+Et ce dont on cherit la vue
+Ne revient jamais assez tot.
+De votre accueil, je le confesse,			[875]
+Se plaint ici mon amoureuse ardeur,
+Et j'attendais de votre coeur
+D'autres transports de joie et de tendresse.
+ALCMENE
+J'ai peine a comprendre sur quoi
+Vous fondez les discours que je vous entends faire ;			[880]
+Et si vous vous plaignez de moi,
+Je ne sais pas, de bonne foi,
+Ce qu'il faut pour vous satisfaire.
+Hier au soir, ce me semble, a votre heureux retour,
+On me vit temoigner une joie assez tendre,			[885]
+Et rendre aux soins de votre amour
+Tout ce que de mon coeur vous aviez lieu d'attendre.
+AMPHYTRION
+Comment ?
+ALCMENE
+Ne fis-je pas eclater a vos yeux
+Les soudains mouvements d'une entiere allegresse ?
+Et le transport d'un coeur peut-il s'expliquer mieux,			[890]
+Au retour d'un epoux qu'on aime avec tendresse ?
+AMPHYTRION
+Que me dites-vous la ?
+ALCMENE
+Que meme votre amour
+Montra de mon accueil une joie incroyable ;
+Et que, m'ayant quittee a la pointe du jour,
+Je ne vois pas qu'a ce soudain retour			[895]
+Ma surprise soit si coupable.
+AMPHYTRION
+Est-ce que du retour que j'ai precipite
+Un songe, cette nuit, Alcmene, dans votre ame
+A prevenu la verite ?
+Et que m'ayant peut-etre en dormant bien traite,			[900]
+Votre coeur se croit vers ma flamme
+Assez amplement acquitte ?
+ALCMENE
+Est-ce qu'une vapeur, par sa malignite,
+Amphitryon, a dans votre ame
+Du retour d'hier au soir brouille la verite ?			[905]
+Et que du doux accueil duquel je m'acquittai
+Votre coeur pretend a ma flamme
+Ravir toute l'honnetete ?
+AMPHYTRION
+Cette vapeur dont vous me regalez
+Est un peu, ce me semble, etrange			[910]
+ALCMENE
+C'est ce qu'on peut donner pour change
+Au songe dont vous me parlez.
+AMPHYTRION
+A moins d'un songe, on ne peut pas sans doute
+Excuser ce qu'ici votre bouche me dit.
+ALCMENE
+A moins d'une vapeur qui vous trouble l'esprit,			[915]
+On ne peut pas sauver ce que de vous j'ecoute.
+AMPHYTRION
+Laissons un peu cette vapeur, Alcmene.
+ALCMENE
+Laissons un peu ce songe, Amphitryon.
+AMPHYTRION
+Sur le sujet dont il est question,
+Il n'est guere de jeu que trop loin on ne mene.			[920]
+ALCMENE
+Sans doute ; et pour marque certaine,
+Je commence a sentir un peu d'emotion.
+AMPHYTRION
+Est-ce donc que par la vous voulez essayer
+A reparer l'accueil dont je vous ai fait plainte ?
+ALCMENE
+Est-ce donc que par cette feinte			[925]
+Vous desirez vous egayer ?
+AMPHYTRION
+Ah ! De grace, cessons, Alcmene, je vous prie,
+Et parlons serieusement.
+ALCMENE
+Amphitryon, c'est trop pousser l'amusement :
+Finissons cette raillerie.			[930]
+AMPHYTRION
+Quoi ? Vous osez me soutenir en face
+Que plus tot qu'a cette heure on m'ait ici pu voir ?
+ALCMENE
+Quoi ? Vous voulez nier avec audace
+Que des hier en ces lieux vous vintes sur le soir ?
+AMPHYTRION
+Moi ! Je vins hier ?
+ALCMENE
+Sans doute ; et des devant l'aurore,			[935]
+Vous vous en etes retourne.
+AMPHYTRION
+Ciel ! Un pareil debat s'est-il pu voir encore ?
+Et qui de tout ceci ne serait etonne ?
+Sosie ?
+SOSIE
+Elle a besoin de six grains d'ellebore,
+Monsieur, son esprit est tourne.			[940]
+AMPHYTRION
+Alcmene, au nom de tous les dieux !
+Ce discours a d'etranges suites :
+Reprenez vos sens un peu mieux,
+Et pensez a ce que vous dites.
+ALCMENE
+J'y pense murement aussi ;			[945]
+Et tous ceux du logis ont vu votre arrivee.
+J'ignore quel motif vous fait agir ainsi ;
+Mais si la chose avait besoin d'etre prouvee,
+S'il etait vrai qu'on put ne s'en souvenir pas,
+De qui puis-je tenir, que de vous, la nouvelle			[950]
+Du dernier de tous vos combats ?
+Et les cinq diamants que portait Pterelas,
+Qu'a fait dans la nuit eternelle
+Tomber l'effort de votre bras ?
+En pourrait-on vouloir un plus sur temoignage ?			[955]
+AMPHYTRION
+Quoi ? Je vous ai deja donne
+Le noeud de diamants que j'eus pour mon partage,
+Et que je vous ai destine ?
+ALCMENE
+Assurement. Il n'est pas difficile
+De vous en bien convaincre.
+AMPHYTRION
+Et comment ?			[960]
+ALCMENE
+Le voici.			[960]
+AMPHYTRION
+Sosie !
+SOSIE
+Elle se moque, et je le tiens ici ;
+Monsieur, la feinte est inutile.
+AMPHYTRION
+Le cachet est entier.
+ALCMENE
+Est-ce une vision ?
+Tenez. Trouverez-vous cette preuve assez forte ?
+AMPHYTRION
+Ah ciel ! o juste ciel !
+ALCMENE
+Allez, Amphitryon,			[965]
+Vous vous moquez d'en user de la sorte,
+Et vous en devriez avoir confusion.
+AMPHYTRION
+Romps vite ce cachet.
+SOSIE, ayant ouvert le coffret.
+Ma foi, la place est vide.
+Il faut que par magie on ait su le tirer,
+Ou bien que de lui-meme il soit venu, sans guide,			[970]
+Vers celle qu'il a su qu'on en voulait parer.
+AMPHYTRION
+o dieux, dont le pouvoir sur les choses preside,
+Quelle est cette aventure ? Et qu'en puis-je augurer
+Dont mon amour ne s'intimide ?
+SOSIE
+Si sa bouche dit vrai, nous avons meme sort,			[975]
+Et de meme que moi, monsieur, vous etes double.
+AMPHYTRION
+Tais-toi.
+ALCMENE
+Sur quoi vous etonner si fort ?
+Et d'ou peut naitre ce grand trouble ?
+AMPHYTRION
+o ciel ! Quel etrange embarras !
+Je vois des incidents qui passent la nature ;			[980]
+Et mon honneur redoute une aventure
+Que mon esprit ne comprend pas.
+ALCMENE
+Songez-vous, en tenant cette preuve sensible,
+A me nier encore votre retour presse ?
+AMPHYTRION
+Non ; mais a ce retour daignez, s'il est possible,			[985]
+Me conter ce qui s'est passe.
+ALCMENE
+Puisque vous demandez un recit de la chose,
+Vous voulez dire donc que ce n'etait pas vous ?
+AMPHYTRION
+Pardonnez-moi ; mais j'ai certaine cause
+Qui me fait demander ce recit entre nous.			[990]
+ALCMENE
+Les soucis importants qui vous peuvent saisir,
+Vous ont-ils fait si vite en perdre la memoire ?
+AMPHYTRION
+Peut-etre ; mais enfin vous me ferez plaisir
+De m'en dire toute l'histoire.
+ALCMENE
+L'histoire n'est pas longue. a vous je m'avancai,			[995]
+Pleine d'une aimable surprise ;
+Tendrement je vous embrassai,
+Et temoignai ma joie a plus d'une reprise.
+AMPHITRYON, en soi-meme.
+Ah ! D'un si doux accueil je me serais passe.
+ALCMENE
+Vous me fites d'abord ce present d'importance,			[1000]
+Que du butin conquis vous m'aviez destine.
+Votre coeur, avec vehemence,
+M'etala de ses feux toute la violence,
+Et les soins importuns qui l'avaient enchaine,
+L'aise de me revoir, les tourments de l'absence,			[1005]
+Tout le souci que son impatience
+Pour le retour s'etait donne ;
+Et jamais votre amour, en pareille occurrence,
+Ne me parut si tendre et si passionne.
+AMPHITRYON, en soi-meme.
+Peut-on plus vivement se voir assassine ?			[1010]
+ALCMENE
+Tous ces transports, toute cette tendresse,
+Comme vous croyez bien, ne me deplaisaient pas ;
+Et s'il faut que je le confesse,
+Mon coeur, Amphitryon, y trouvait mille appas.
+AMPHYTRION
+Ensuite, s'il vous plait.
+ALCMENE
+Nous nous entrecoupames			[1015]
+De mille questions qui pouvaient nous toucher.
+On servit. Tete a tete ensemble nous soupames ;
+Et le souper fini, nous nous fumes coucher.
+AMPHYTRION
+Ensemble ?
+ALCMENE
+Assurement. Quelle est cette demande ?
+AMPHYTRION
+Ah ! C'est ici le coup le plus cruel de tous,			[1020]
+Et dont a s'assurer tremblait mon feu jaloux.
+ALCMENE
+D'ou vous vient a ce mot une rougeur si grande ?
+Ai-je fait quelque mal de coucher avec vous ?
+AMPHYTRION
+Non, ce n'etait pas moi, pour ma douleur sensible :
+Et qui dit qu'hier ici mes pas se sont portes,			[1025]
+Dit de toutes les faussetes
+La faussete la plus horrible.
+ALCMENE
+Amphitryon !
+AMPHYTRION
+Perfide !
+ALCMENE
+Ah ! Quel emportement !
+AMPHYTRION
+Non, non : plus de douceur et plus de deference,
+Ce revers vient a bout de toute ma constance ;			[1030]
+Et mon coeur ne respire, en ce fatal moment,
+Et que fureur et que vengeance.
+ALCMENE
+De qui donc vous vengez ? Et quel manque de foi
+Vous fait ici me traiter de coupable ?
+AMPHYTRION
+Je ne sais pas, mais ce n'etait pas moi ;			[1035]
+Et c'est un desespoir qui de tout rend capable.
+ALCMENE
+Allez, indigne epoux, le fait parle de soi,
+Et l'imposture est effroyable.
+C'est trop me pousser la-dessus,
+Et d'infidelite me voir trop condamnee.			[1040]
+Si vous cherchez, dans ces transports confus,
+Un pretexte a briser les noeuds d'un hymenee
+Qui me tient a vous enchainee,
+Tous ces detours sont superflus ;
+Et me voila determinee			[1045]
+A souffrir qu'en ce jour nos liens soient rompus.
+AMPHYTRION
+Apres l'indigne affront que l'on me fait connaitre,
+C'est bien a quoi sans doute il faut vous preparer :
+C'est le moins qu'on doit voir, et les choses peut-etre
+Pourront n'en pas la demeurer.			[1050]
+Le deshonneur est sur, mon malheur m'est visible,
+Et mon amour en vain voudrait me l'obscurcir ;
+Mais le detail encore ne m'en est pas sensible,
+Et mon juste courroux pretend s'en eclaircir.
+Votre frere deja peut hautement repondre			[1055]
+Que jusqu'a ce matin je ne l'ai point quitte :
+Je m'en vais le chercher, afin de vous confondre
+Sur ce retour qui m'est faussement impute.
+Apres, nous percerons jusqu'au fond d'un mystere
+Jusques a present inoui ;			[1060]
+Et dans les mouvements d'une juste colere,
+Malheur a qui m'aura trahi !
+SOSIE
+Monsieur...
+AMPHYTRION
+Ne m'accompagne pas,
+Et demeure ici pour m'attendre.
+CLEANTHIS
+Faut-il... ?
+ALCMENE
+Je ne puis rien entendre :			[1065]
+Laisse-moi seule, et ne suis point mes pas.
+SCENE III.
+CLEANTHIS
+Il faut que quelque chose ait brouille sa cervelle ;
+Mais le frere sur-le-champ
+Finira cette querelle.
+SOSIE
+C'est ici, pour mon maitre, un coup assez touchant,			[1070]
+Et son aventure est cruelle.
+Je crains fort pour mon fait quelque chose approchant,
+Et je m'en veux tout doux eclaircir avec elle.
+CLEANTHIS
+Voyez s'il me viendra seulement aborder !
+Mais je veux m'empecher de rien faire paraitre.			[1075]
+SOSIE
+La chose quelquefois est facheuse a connaitre,
+Et je tremble a la demander.
+Ne vaudrait-il point mieux, pour ne rien hasarder,
+Ignorer ce qu'il en peut etre ?
+Allons, tout coup vaille, il faut voir,			[1080]
+Et je ne m'en saurais defendre.
+La faiblesse humaine est d'avoir
+Des curiosites d'apprendre
+Ce qu'on ne voudrait pas savoir.
+Dieu te gard', Cleanthis !
+CLEANTHIS
+Ah ! Ah ! Tu t'en avises,			[1085]
+Traitre, de t'approcher de nous !
+SOSIE
+Mon Dieu ! Qu'as-tu ? Toujours on te voit en courroux,
+Et sur rien tu te formalises.
+CLEANTHIS
+Qu'appelles-tu sur rien, dis ?
+SOSIE
+J'appelle sur rien
+Ce qui sur rien s'appelle en vers ainsi qu'en prose ;			[1090]
+Et rien, comme tu le sais bien,
+Veut dire rien, ou peu de chose.
+CLEANTHIS
+Je ne sais qui me tient, infame,
+Que je ne t'arrache les yeux,
+Et ne t'apprenne ou va le courroux d'une femme.			[1095]
+SOSIE
+Hola ! D'ou te vient donc ce transport furieux ?
+CLEANTHIS
+Tu n'appelles donc rien le procede, peut-etre,
+Qu'avec moi ton coeur a tenu ?
+SOSIE
+Et quel ?
+CLEANTHIS
+Quoi ? Tu fais l'ingenu ?
+Est-ce qu'a l'exemple du maitre			[1100]
+Tu veux dire qu'ici tu n'es pas revenu ?
+SOSIE
+Non : je sais fort bien le contraire ;
+Mais je ne t'en fais pas le fin :
+Nous avions bu de je ne sais quel vin,
+Qui m'a fait oublier tout ce que j'ai pu faire.			[1105]
+CLEANTHIS
+Tu crois peut-etre excuser par ce trait...
+SOSIE
+Non, tout de bon, tu m'en peux croire.
+J'etais dans un etat ou je puis avoir fait
+Des choses dont j'aurais regret,
+Et dont je n'ai nulle memoire.			[1110]
+CLEANTHIS
+Tu ne te souviens point du tout de la maniere
+Dont tu m'as su traiter, etant venu du port ?
+SOSIE
+Non plus que rien. Tu peux m'en faire le rapport :
+Je suis equitable et sincere,
+Et me condamnerai moi-meme, si j'ai tort.			[1115]
+CLEANTHIS
+Comment ? Amphitryon m'ayant su disposer,
+Jusqu'a ce que tu vins j'avais pousse ma veille ;
+Mais je ne vis jamais une froideur pareille :
+De ta femme il fallut moi-meme t'aviser ;
+Et lorsque je fus te baiser,			[1120]
+Tu detournas le nez, et me donnas l'oreille.
+SOSIE
+Bon !
+CLEANTHIS
+Comment, bon ?
+SOSIE
+Mon Dieu ! Tu ne sais pas pourquoi,
+Cleanthis, je tiens ce langage :
+J'avais mange de l'ail, et fis en homme sage
+De detourner un peu mon haleine de toi.			[1125]
+CLEANTHIS
+Je te sus exprimer des tendresses de coeur ;
+Mais a tous mes discours tu fus comme une souche ;
+Et jamais un mot de douceur
+Ne te put sortir de la bouche.
+SOSIE
+Courage !
+CLEANTHIS
+Enfin ma flamme eut beau s'emanciper,			[1130]
+Sa chaste ardeur en toi ne trouva rien que glace ;
+Et dans un tel retour, je te vis la tromper,
+Jusqu'a faire refus de prendre au lit la place
+Que les lois de l'hymen t'obligent d'occuper.
+SOSIE
+Quoi ? Je ne couchai point...
+CLEANTHIS
+Non, lache.			[1135]
+SOSIE
+Est-il possible ?			[1135]
+CLEANTHIS
+Traitre, il n'est que trop assure.
+C'est de tous les affronts l'affront le plus sensible ;
+Et loin que ce matin ton coeur l'ait repare,
+Tu t'es d'avec moi separe
+Par des discours charges d'un mepris tout visible.			[1140]
+SOSIE
+Vivat Sosie !
+CLEANTHIS
+He quoi ? Ma plainte a cet effet ?
+Tu ris apres ce bel ouvrage ?
+SOSIE
+Que je suis de moi satisfait !
+CLEANTHIS
+Exprime-t-on ainsi le regret d'un outrage ?
+SOSIE
+Je n'aurais jamais cru que j'eusse ete si sage.			[1145]
+CLEANTHIS
+Loin de te condamner d'un si perfide trait,
+Tu m'en fais eclater la joie en ton visage !
+SOSIE
+Mon Dieu, tout doucement ! Si je parois joyeux,
+Crois que j'en ai dans l'ame une raison tres forte,
+Et que, sans y penser, je ne fis jamais mieux			[1150]
+Que d'en user tantot avec toi de la sorte.
+CLEANTHIS
+Traitre, te moques-tu de moi ?
+SOSIE
+Non, je te parle avec franchise.
+En l'etat ou j'etais, j'avais certain effroi,
+Dont avec ton discours mon ame s'est remise.			[1155]
+Je m'apprehendais fort, et craignais qu'avec toi
+Je n'eusse fait quelque sottise.
+CLEANTHIS
+Quelle est cette frayeur ? Et sachons donc pourquoi.
+SOSIE
+Les medecins disent, quand on est ivre,
+Que de sa femme on se doit abstenir,			[1160]
+Et que dans cet etat il ne peut provenir
+Que des enfants pesants et qui ne sauraient vivre
+Vois, si mon coeur n'eut su de froideur se munir,
+Quels inconvenients auraient pu s'en ensuivre !
+CLEANTHIS
+Je me moque des medecins,			[1165]
+Avec leurs raisonnements fades :
+Qu'ils reglent ceux qui sont malades,
+Sans vouloir gouverner les gens qui sont bien sains.
+Ils se melent de trop d'affaires,
+De pretendre tenir nos chastes feux genes ;			[1170]
+Et sur les jours caniculaires
+Ils nous donnent encore, avec leurs lois severes,
+De cent sots contes par le nez.
+SOSIE
+Tout doux !
+CLEANTHIS
+Non : je soutiens que cela conclut mal :
+Ces raisons sont raisons d'extravagantes tetes.			[1175]
+Il n'est ni vin ni temps qui puisse etre fatal
+A remplir le devoir de l'amour conjugal ;
+Et les medecins sont des betes.
+SOSIE
+Contre eux, je t'en supplie, apaise ton courroux :
+Ce sont d'honnetes gens, quoi que le monde en dise.			[1180]
+CLEANTHIS
+Tu n'es pas ou tu crois ; en vain tu files doux :
+Ton excuse n'est point une excuse de mise ;
+Et je me veux venger tot ou tard, entre nous,
+De l'air dont chaque jour je vois qu'on me meprise.
+Des discours de tantot je garde tous les coups,			[1185]
+Et tacherai d'user, lache et perfide epoux,
+De cette liberte que ton coeur m'a permise.
+SOSIE
+Quoi ?
+CLEANTHIS
+Tu m'as dit tantot que tu consentais fort,
+Lache, que j'en aimasse un autre.
+SOSIE
+Ah ! Pour cet article, j'ai tort.			[1190]
+Je m'en dedis, il y va trop du notre :
+Garde-toi bien de suivre ce transport.
+CLEANTHIS
+Si je puis une fois pourtant
+Sur mon esprit gagner la chose...
+SOSIE
+Fais a ce discours quelque pause :			[1195]
+Amphitryon revient, qui me parait content.
+SCENE IV.
+JUPITER
+Je viens prendre le temps de rapaiser Alcmene,
+De bannir les chagrins que son coeur veut garder,
+Et donner a mes feux, dans ce soin qui m'amene,
+Le doux plaisir de se raccommoder.			[1200]
+Alcmene est la-haut, n'est-ce pas ?
+CLEANTHIS
+Oui, pleine d'une inquietude
+Qui cherche de la solitude,
+Et qui m'a defendu d'accompagner ses pas.
+JUPITER
+Quelque defense qu'elle ait faite,			[1205]
+Elle ne sera pas pour moi.
+CLEANTHIS
+Son chagrin, a ce que je vois,
+A fait une prompte retraite.
+SCENE V.
+SOSIE
+Que dis-tu, Cleanthis, de ce joyeux maintien,
+Apres son fracas effroyable ?			[1210]
+CLEANTHIS
+Que si toutes nous faisions bien,
+Nous donnerions tous les hommes au diable,
+Et que le meilleur n'en vaut rien.
+SOSIE
+Cela se dit dans le courroux ;
+Mais aux hommes par trop vous etes accrochees ;			[1215]
+Et vous seriez, ma foi ! Toutes bien empechees,
+Si le diable les prenait tous.
+CLEANTHIS
+Vraiment...
+SOSIE
+Les voici. Taisons-nous.
+SCENE VI.
+JUPITER
+Voulez-vous me desesperer ?
+Helas ! Arretez, belle Alcmene.			[1220]
+ALCMENE
+Non, avec l'auteur de ma peine
+Je ne puis du tout demeurer.
+JUPITER
+De grace...
+ALCMENE
+Laissez-moi.
+JUPITER
+Quoi... ?
+ALCMENE
+Laissez-moi, vous dis-je.
+JUPITER
+Ses pleurs touchent mon ame, et sa douleur m'afflige.
+Souffrez que mon coeur...
+ALCMENE
+Non, ne suivez point mes pas.			[1225]
+JUPITER
+Ou voulez-vous aller ?
+ALCMENE
+Ou vous ne serez pas.
+JUPITER
+Ce vous est une attente vaine.
+Je tiens a vos beautes par un noeud trop serre,
+Pour pouvoir un moment en etre separe :
+Je vous suivrai partout, Alcmene.			[1230]
+ALCMENE
+Et moi, partout je vous fuirai.
+JUPITER
+Je suis donc bien epouvantable ?
+ALCMENE
+Plus qu'on ne peut dire, a mes yeux.
+Oui, je vous vois comme un monstre effroyable,
+Un monstre cruel, furieux,			[1235]
+Et dont l'approche est redoutable,
+Comme un monstre a fuir en tous lieux.
+Mon coeur souffre, a vous voir, une peine incroyable ;
+C'est un supplice qui m'accable ;
+Et je ne vois rien sous les cieux			[1240]
+D'affreux, d'horrible, d'odieux,
+Qui ne me fut plus que vous supportable.
+JUPITER
+En voila bien, helas ! Que votre bouche dit.
+ALCMENE
+J'en ai dans le coeur davantage ;
+Et pour s'exprimer tout, ce coeur a du depit			[1245]
+De ne point trouver de langage.
+JUPITER
+He ! Que vous a donc fait ma flamme,
+Pour me pouvoir, Alcmene, en monstre regarder ?
+ALCMENE
+Ah ! Juste ciel ! Cela peut-il se demander ?
+Et n'est-ce pas pour mettre a bout une ame ?			[1250]
+JUPITER
+Ah ! D'un esprit plus adouci...
+ALCMENE
+Non, je ne veux du tout vous voir, ni vous entendre.
+JUPITER
+Avez-vous bien le coeur de me traiter ainsi ?
+Est-ce la cet amour si tendre,
+Qui devait tant durer quand je vins hier ici ?			[1255]
+ALCMENE
+Non, non, ce ne l'est pas ; et vos laches injures
+En ont autrement ordonne.
+Il n'est plus, cet amour tendre et passionne ;
+Vous l'avez dans mon coeur, par cent vives blessures,
+Cruellement assassine.			[1260]
+C'est en sa place un courroux inflexible,
+Un vif ressentiment, un depit invincible,
+Un desespoir d'un coeur justement anime,
+Qui pretend vous hair, pour cet affront sensible,
+Autant qu'il est d'accord de vous avoir aime :			[1265]
+Et c'est hair autant qu'il est possible.
+JUPITER
+Helas ! Que votre amour n'avait guere de force,
+Si de si peu de chose on le peut voir mourir !
+Ce qui n'etait que jeu doit-il faire un divorce ?
+Et d'une raillerie a-t-on lieu de s'aigrir ?			[1270]
+ALCMENE
+Ah ! C'est cela dont je suis offensee,
+Et que ne peut pardonner mon courroux.
+Des veritables traits d'un mouvement jaloux
+Je me trouverais moins blessee.
+La jalousie a des impressions			[1275]
+Dont bien souvent la force nous entraine ;
+Et l'ame la plus sage, en ces occasions,
+Sans doute avec assez de peine
+Repond de ses emotions ;
+L'emportement d'un coeur qui peut s'etre abuse			[1280]
+A de quoi ramener une ame qu'il offense ;
+Et dans l'amour qui lui donne naissance
+Il trouve au moins, malgre toute sa violence,
+Des raisons pour etre excuse ;
+De semblables transports contre un ressentiment			[1285]
+Pour defense toujours ont ce qui les fait naitre,
+Et l'on donne grace aisement
+A ce dont on n'est pas le maitre.
+Mais que, de gayete de coeur,
+On passe aux mouvements d'une fureur extreme,			[1290]
+Que sans cause l'on vienne, avec tant de rigueur,
+Blesser la tendresse et l'honneur
+D'un coeur qui cherement nous aime,
+Ah ! C'est un coup trop cruel en lui-meme,
+Et que jamais n'oubliera ma douleur.			[1295]
+JUPITER
+Oui, vous avez raison, Alcmene, il se faut rendre :
+Cette action, sans doute, est un crime odieux ;
+Je ne pretends plus le defendre ;
+Mais souffrez que mon coeur s'en defende a vos yeux,
+Et donne au votre a qui se prendre			[1300]
+De ce transport injurieux.
+A vous en faire un aveu veritable,
+L'epoux, Alcmene, a commis tout le mal ;
+C'est l'epoux qu'il vous faut regarder en coupable.
+L'amant n'a point de part a ce transport brutal,			[1305]
+Et de vous offenser son coeur n'est point capable :
+Il a pour vous, ce coeur, pour jamais y penser,
+Trop de respect et de tendresse ;
+Et si de faire rien a vous pouvoir blesser
+Il avait eu la coupable faiblesse,			[1310]
+De cent coups a vos yeux il voudrait le percer.
+Mais l'epoux est sorti de ce respect soumis
+Ou pour vous on doit toujours etre ;
+A son dur procede l'epoux s'est fait connaitre,
+Et par le droit d'hymen il s'est cru tout permis ;			[1315]
+Oui, c'est lui qui sans doute est criminel vers vous,
+Lui seul a maltraite votre aimable personne :
+Haissez, detestez l'epoux,
+J'y consens, et vous l'abandonne.
+Mais, Alcmene, sauvez l'amant de ce courroux			[1320]
+Qu'une telle offense vous donne ;
+N'en jetez pas sur lui l'effet,
+Demelez-le un peu du coupable ;
+Et pour etre enfin equitable,
+Ne le punissez point de ce qu'il n'a pas fait.			[1325]
+ALCMENE
+Ah ! Toutes ces subtilites
+N'ont que des excuses frivoles,
+Et pour les esprits irrites
+Ce sont des contre-temps que de telles paroles.
+Ce detour ridicule est en vain pris par vous :			[1330]
+Je ne distingue rien en celui qui m'offense,
+Tout y devient l'objet de mon courroux,
+Et dans sa juste violence
+Sont confondus et l'amant et l'epoux.
+Tous deux de meme sorte occupent ma pensee,			[1335]
+Et des memes couleurs, par mon ame blessee,
+Tous deux ils sont peints a mes yeux :
+Tous deux sont criminels, tous deux m'ont offensee,
+Et tous deux me sont odieux.
+JUPITER
+He bien ! Puisque vous le voulez,			[1340]
+Il faut donc me charger du crime.
+Oui, vous avez raison lorsque vous m'immolez
+A vos ressentiments en coupable victime ;
+Un trop juste depit contre moi vous anime,
+Et tout ce grand courroux qu'ici vous etalez			[1345]
+Ne me fait endurer qu'un tourment legitime ;
+C'est avec droit que mon abord vous chasse,
+Et que de me fuir en tous lieux
+Votre colere me menace :
+Je dois vous etre un objet odieux,			[1350]
+Vous devez me vouloir un mal prodigieux ;
+Il n'est aucune horreur que mon forfait ne passe,
+D'avoir offense vos beaux yeux.
+C'est un crime a blesser les hommes et les dieux,
+Et je merite enfin, pour punir cette audace,			[1355]
+Que contre moi votre haine ramasse
+Tous ses traits les plus furieux.
+Mais mon coeur vous demande grace ;
+Pour vous la demander je me jette a genoux,
+Et la demande au nom de la plus vive flamme,			[1360]
+Du plus tendre amour dont une ame
+Puisse jamais bruler pour vous.
+Si votre coeur, charmante Alcmene,
+Me refuse la grace ou j'ose recourir,
+Il faut qu'une atteinte soudaine			[1365]
+M'arrache, en me faisant mourir,
+Aux dures rigueurs d'une peine
+Que je ne saurais plus souffrir.
+Oui, cet etat me desespere :
+Alcmene, ne presumez pas			[1370]
+Qu'aimant comme je fais vos celestes appas,
+Je puisse vivre un jour avec votre colere.
+Deja de ces moments la barbare longueur
+Fait sous des atteintes mortelles
+Succomber tout mon triste coeur ;			[1375]
+Et de mille vautours les blessures cruelles
+N'ont rien de comparable a ma vive douleur.
+Alcmene, vous n'avez qu'a me le declarer :
+S'il n'est point de pardon que je doive esperer,
+Cette epee aussitot, par un coup favorable,			[1380]
+Va percer a vos yeux le coeur d'un miserable,
+Ce coeur, ce traitre coeur, trop digne d'expirer,
+Puisqu'il a pu facher un objet adorable :
+Heureux, en descendant au tenebreux sejour,
+Si de votre courroux mon trepas vous ramene,			[1385]
+Et ne laisse en votre ame, apres ce triste jour,
+Aucune impression de haine
+Au souvenir de mon amour !
+C'est tout ce que j'attends pour faveur souveraine.
+ALCMENE
+Ah ! Trop cruel epoux !
+JUPITER
+Dites, parlez, Alcmene.			[1390]
+ALCMENE
+Faut-il encore pour vous conserver des bontes,
+Et vous voir m'outrager par tant d'indignites ?
+JUPITER
+Quelque ressentiment qu'un outrage nous cause,
+Tient-il contre un remords d'un coeur bien enflamme ?
+ALCMENE
+Un coeur bien plein de flamme a mille morts s'expose,			[1395]
+Plutot que de vouloir facher l'objet aime.
+JUPITER
+Plus on aime quelqu'un, moins on trouve de peine...
+ALCMENE
+Non, ne m'en parlez point : vous meritez ma haine.
+JUPITER
+Vous me haissez donc ?
+ALCMENE
+J'y fais tout mon effort ;
+Et j'ai depit de voir que toute votre offense			[1400]
+Ne puisse de mon coeur jusqu'a cette vengeance
+Faire encore aller le transport.
+JUPITER
+Mais pourquoi cette violence,
+Puisque pour vous venger je vous offre ma mort ?
+Prononcez-en l'arret, et j'obeis sur l'heure.			[1405]
+ALCMENE
+Qui ne saurait hair peut-il vouloir qu'on meure ?
+JUPITER
+Et moi, je ne puis vivre, a moins que vous quittiez
+Cette colere qui m'accable,
+Et que vous m'accordiez le pardon favorable
+Que je vous demande a vos pieds.			[1410]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Resolvez ici l'un des deux :
+Ou de punir, ou bien d'absoudre.
+ALCMENE
+Helas ! Ce que je puis resoudre
+Parait bien plus que je ne veux.
+Pour vouloir soutenir le courroux qu'on me donne,			[1415]
+Mon coeur a trop su me trahir :
+Dire qu'on ne saurait hair,
+N'est-ce pas dire qu'on pardonne ?
+JUPITER
+Ah ! Belle Alcmene, il faut que, comble d'allegresse...
+ALCMENE
+Laissez : je me veux mal de mon trop de faiblesse.			[1420]
+JUPITER
+Va, Sosie, et depeche-toi,
+Voir, dans les doux transports dont mon ame est charmee,
+Ce que tu trouveras d'officiers de l'armee,
+Et les invite a diner avec moi.
+Tandis que d'ici je le chasse,			[1425]
+Mercure y remplira sa place.
+SCENE VII.
+SOSIE
+He bien ! Tu vois, Cleanthis, ce menage :
+Veux-tu qu'a leur exemple ici
+Nous fassions entre nous un peu de paix aussi,
+Quelque petit rapatriage ?			[1430]
+CLEANTHIS
+C'est pour ton nez, vraiment ! Cela se fait ainsi.
+SOSIE
+Quoi ? Tu ne veux pas ?
+CLEANTHIS
+Non.
+SOSIE
+Il ne m'importe guere :
+Tant pis pour toi.
+CLEANTHIS
+La, la, reviens.
+SOSIE
+Non, morbleu ! Je n'en ferai rien,
+Et je veux etre, a mon tour, en colere.			[1435]
+CLEANTHIS
+Va, va, traitre, laisse-moi faire :
+On se lasse parfois d'etre femme de bien.
+
+
+			ACTE III
+
+
+SCENE PREMIERE.
+AMPHYTRION
+Oui, sans doute le sort tout expres me le cache,
+Et des tours que je fais a la fin je suis las.
+Il n'est point de destin plus cruel, que je sache :			[1440]
+Je ne saurais trouver, portant partout mes pas,
+Celui qu'a chercher je m'attache,
+Et je trouve tous ceux que je ne cherche pas.
+Mille facheux cruels, qui ne pensent pas l'etre,
+De nos faits avec moi, sans beaucoup me connaitre,			[1445]
+Viennent se rejouir, pour me faire enrager.
+Dans l'embarras cruel du souci qui me blesse,
+De leurs embrassements et de leur allegresse
+Sur mon inquietude ils viennent tous charger.
+En vain a passer je m'apprete,			[1450]
+Pour fuir leurs persecutions,
+Leur tuante amitie de tous cotes m'arrete ;
+Et tandis qu'a l'ardeur de leurs expressions
+Je reponds d'un geste de tete,
+Je leur donne tout bas cent maledictions.			[1455]
+Ah ! Qu'on est peu flatte de louange, d'honneur,
+Et de tout ce que donne une grande victoire,
+Lorsque dans l'ame on souffre une vive douleur !
+Et que l'on donnerait volontiers cette gloire,
+Pour avoir le repos du coeur !			[1460]
+Ma jalousie, a tout propos,
+Me promene sur ma disgrace ;
+Et plus mon esprit y repasse,
+Moins j'en puis debrouiller le funeste chaos.
+Le vol des diamants n'est pas ce qui m'etonne :			[1465]
+On leve les cachets, qu'on ne l'apercoit pas ;
+Mais le don qu'on veut qu'hier j'en vins faire en personne
+Est ce qui fait ici mon cruel embarras.
+La nature parfois produit des ressemblances
+Dont quelques imposteurs ont pris droit d'abuser ;			[1470]
+Mais il est hors de sens que sous ces apparences
+Un homme pour epoux se puisse supposer,
+Et dans tous ces rapports sont mille differences
+Dont se peut une femme aisement aviser.
+Des charmes de la Thessalie			[1475]
+On vante de tout temps les merveilleux effets ;
+Mais les contes fameux qui partout en sont faits,
+Dans mon esprit toujours ont passe pour folie ;
+Et ce serait du sort une etrange rigueur,
+Qu'au sortir d'une ample victoire			[1480]
+Je fusse contraint de les croire,
+Aux depens de mon propre honneur.
+Je veux la retater sur ce facheux mystere,
+Et voir si ce n'est point une vaine chimere
+Qui sur ses sens troubles ait su prendre credit.			[1485]
+Ah ! Fasse le ciel equitable
+Que ce penser soit veritable,
+Et que pour mon bonheur elle ait perdu l'esprit !
+SCENE II.
+MERCURE
+Comme l'amour ici ne m'offre aucun plaisir,
+Je m'en veux faire au moins qui soient d'autre nature,			[1490]
+Et je vais egayer mon serieux loisir
+A mettre Amphitryon hors de toute mesure.
+Cela n'est pas d'un dieu bien plein de charite ;
+Mais aussi n'est-ce pas ce dont je m'inquiete,
+Et je me sens par ma planete			[1495]
+A la malice un peu porte.
+AMPHYTRION
+D'ou vient donc qu'a cette heure on ferme cette porte ?
+MERCURE
+Hola ! Tout doucement ! Qui frappe ?
+AMPHYTRION
+Moi.
+MERCURE
+Qui, moi ?
+AMPHYTRION
+Ah ! Ouvre.
+MERCURE
+Comment, ouvre ? Et qui donc es-tu, toi,
+Qui fais tant de vacarme et parles de la sorte ?			[1500]
+AMPHYTRION
+Quoi ? Tu ne me connais pas ?
+MERCURE
+Non,
+Et n'en ai pas la moindre envie.
+AMPHYTRION
+Tout le monde perd-il aujourd'hui la raison ?
+Est-ce un mal repandu ? Sosie, hola ! Sosie !
+MERCURE
+He bien ! Sosie : oui, c'est mon nom ;			[1505]
+As-tu peur que je ne l'oublie ?
+AMPHYTRION
+Me vois-tu bien ?
+MERCURE
+Fort bien. Qui peut pousser ton bras
+A faire une rumeur si grande ?
+Et que demandes-tu la-bas ?
+AMPHYTRION
+Moi, pendard ! Ce que je demande ?			[1510]
+MERCURE
+Que ne demandes-tu donc pas ?
+Parle, si tu veux qu'on t'entende.
+AMPHYTRION
+Attends, traitre : avec un baton
+Je vais la-haut me faire entendre,
+Et de bonne facon t'apprendre			[1515]
+A m'oser parler sur ce ton.
+MERCURE
+Tout beau ! Si pour heurter tu fais la moindre instance,
+Je t'envoirai d'ici des messagers facheux.
+AMPHYTRION
+o ciel ! Vit-on jamais une telle insolence ?
+La peut-on concevoir d'un serviteur, d'un gueux ?			[1520]
+MERCURE
+He bien ! Qu'est-ce ? M'as-tu tout parcouru par ordre ?
+M'as-tu de tes gros yeux assez considere ?
+Comme il les ecarquille, et parait effare !
+Si des regards on pouvait mordre,
+Il m'aurait deja dechire.			[1525]
+AMPHYTRION
+Moi-meme je fremis de ce que tu t'appretes,
+Avec ces impudents propos.
+Que tu grossis pour toi d'effroyables tempetes !
+Quels orages de coups vont fondre sur ton dos !
+MERCURE
+L'ami, si de ces lieux tu ne veux disparaitre,			[1530]
+Tu pourras y gagner quelque contusion.
+AMPHYTRION
+Ah ! Tu sauras, maraud, a ta confusion,
+Ce que c'est qu'un valet qui s'attaque a son maitre.
+MERCURE
+Toi, mon maitre ?
+AMPHYTRION
+Oui, coquin. M'oses-tu meconnaitre ?
+MERCURE
+Je n'en reconnais point d'autre qu'Amphitryon.			[1535]
+AMPHYTRION
+Et cet Amphitryon, qui, hors moi, le peut etre ?
+MERCURE
+Amphitryon ?
+AMPHYTRION
+Sans doute.
+MERCURE
+Ah ! Quelle vision !
+Dis-nous un peu : quel est le cabaret honnete
+Ou tu t'es coiffe le cerveau ?
+AMPHYTRION
+Comment ? Encore ?
+MERCURE
+Etait-ce un vin a faire fete ?			[1540]
+AMPHYTRION
+Ciel !
+MERCURE
+Etait-il vieux, ou nouveau ?
+AMPHYTRION
+Que de coups !
+MERCURE
+Le nouveau donne fort dans la tete,
+Quand on le veut boire sans eau.
+AMPHYTRION
+Ah ! Je t'arracherai cette langue sans doute.
+MERCURE
+Passe, mon cher ami, crois-moi :			[1545]
+Que quelqu'un ici ne t'ecoute.
+Je respecte le vin : va-t'en, retire-toi,
+Et laisse Amphitryon dans les plaisirs qu'il goute.
+AMPHYTRION
+Comment Amphitryon est la dedans ?
+MERCURE
+Fort bien :
+Qui, couvert des lauriers d'une victoire pleine,			[1550]
+Est aupres de la belle Alcmene,
+A jouir des douceurs d'un aimable entretien.
+Apres le demele d'un amoureux caprice,
+Ils goutent le plaisir de s'etre rajustes.
+Garde-toi de troubler leurs douces privautes,			[1555]
+Si tu ne veux qu'il ne punisse
+L'exces de tes temerites.
+SCENE III .
+AMPHYTRION
+Ah ! Quel etrange coup m'a-t-il porte dans l'ame !
+En quel trouble cruel jette-t-il mon esprit !
+Et si les choses sont comme le traitre dit,			[1560]
+Ou vois-je ici reduits mon honneur et ma flamme ?
+A quel parti me doit resoudre ma raison ?
+Ai-je l'eclat ou le secret a prendre ?
+Et dois-je, en mon courroux, renfermer ou repandre
+Le deshonneur de ma maison ?			[1565]
+Ah ! Faut-il consulter dans un affront si rude ?
+Je n'ai rien a pretendre et rien a menager ;
+Et toute mon inquietude
+Ne doit aller qu'a me venger.
+SCENE IV.
+Sosie se releve.
+SOSIE
+Monsieur, avec mes soins tout ce que j'ai pu faire,			[1570]
+C'est de vous amener ces messieurs que voici.
+AMPHYTRION
+Ah ! Vous voila ?
+SOSIE
+Monsieur.
+AMPHYTRION
+Insolent ! Temeraire !
+SOSIE
+Quoi ?
+AMPHYTRION
+Je vous apprendrai de me traiter ainsi.
+SOSIE
+Qu'est-ce donc ? Qu'avez-vous ?
+AMPHITRYON, mettant l'epee a la main.
+Ce que j'ai, miserable ?
+SOSIE
+Hola ! Messieurs, venez donc tot.			[1575]
+NAUCRATES
+Ah ! De grace, arretez.
+SOSIE
+De quoi suis-je coupable ?
+AMPHYTRION
+Tu me le demandes, maraud ?
+Laissez-moi satisfaire un courroux legitime.
+SOSIE
+Lorsque l'on pend quelqu'un, on lui dit pourquoi c'est.
+NAUCRATES
+Daignez-nous dire au moins quel peut etre son crime.			[1580]
+SOSIE
+Messieurs, tenez bon, s'il vous plait.
+AMPHYTRION
+Comment ? Il vient d'avoir l'audace
+De me fermer ma porte au nez,
+Et de joindre encore la menace
+A mille propos effrenes !			[1585]
+Ah, coquin !
+SOSIE
+Je suis mort.
+NAUCRATES
+Calmez cette colere.
+SOSIE
+Messieurs.
+POLIDAS
+Qu'est-ce ?
+SOSIE
+M'a-t-il frappe ?
+AMPHYTRION
+Non, il faut qu'il ait le salaire
+Des mots ou tout a l'heure il s'est emancipe.
+SOSIE
+Comment cela se peut-il faire,			[1590]
+Si j'etais par votre ordre autre part occupe ?
+Ces messieurs sont ici pour rendre temoignage
+Qu'a diner avec vous je les viens d'inviter.
+NAUCRATES
+Il est vrai qu'il nous vient de faire ce message,
+Et n'a point voulu nous quitter.			[1595]
+AMPHYTRION
+Qui t'a donne cet ordre ?
+SOSIE
+Vous.
+AMPHYTRION
+Et quand ?
+SOSIE
+Apres votre paix faite,
+Au milieu des transports d'une ame satisfaite
+D'avoir d'Alcmene apaise le courroux.
+AMPHYTRION
+o ciel ! Chaque instant, chaque pas			[1600]
+Ajoute quelque chose a mon cruel martyre ;
+Et dans ce fatal embarras,
+Je ne sais plus que croire, ni que dire.
+NAUCRATES
+Tout ce que de chez vous il vient de nous conter
+Surpasse si fort la nature,			[1605]
+Qu'avant que de rien faire et de vous emporter,
+Vous devez eclaircir toute cette aventure.
+AMPHYTRION
+Allons : vous y pourrez seconder mon effort,
+Et le ciel a propos ici vous a fait rendre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voyons quelle fortune en ce jour peut m'attendre :			[1610]
+Debrouillons ce mystere, et sachons notre sort.
+Helas ! Je brule de l'apprendre,
+Et je le crains plus que la mort.
+SCENE V.
+JUPITER
+Quel bruit a descendre m'oblige ?
+Et qui frappe en maitre ou je suis ?			[1615]
+AMPHYTRION
+Que vois-je ? Justes dieux !
+NAUCRATES
+Ciel ! Quel est ce prodige ?
+Quoi ? Deux Amphitryons ici nous sont produits !
+AMPHYTRION
+Mon ame demeure transie ;
+Helas ! Je n'en puis plus : l'aventure est a bout,
+Ma destinee est eclaircie,			[1620]
+Et ce que je vois me dit tout.
+NAUCRATES
+Plus mes regards sur eux s'attachent fortement,
+Plus je trouve qu'en tout l'un a l'autre est semblable.
+SOSIE, passant du cote de Jupiter.
+Messieurs, voici le veritable ;
+L'autre est un imposteur digne de chatiment.			[1625]
+POLIDAS
+Certes, ce rapport admirable
+Suspend ici mon jugement.
+AMPHYTRION
+C'est trop etre eludes par un fourbe execrable :
+Il faut, avec ce fer, rompre l'enchantement.
+NAUCRATES
+Arretez.
+AMPHYTRION
+Laissez-moi.			[1630]
+NAUCRATES
+Dieux ! Que voulez-vous faire ?			[1630]
+AMPHYTRION
+Punir d'un imposteur les laches trahisons.
+JUPITER
+Tout beau ! L'emportement est fort peu necessaire ;
+Et lorsque de la sorte on se met en colere,
+On fait croire qu'on a de mauvaises raisons.
+SOSIE
+Oui, c'est un enchanteur qui porte un caractere			[1635]
+Pour ressembler aux maitres des maisons.
+AMPHYTRION
+Je te ferai, pour ton partage,
+Sentir par mille coups ces propos outrageants.
+SOSIE
+Mon maitre est homme de courage,
+Et ne souffrira point que l'on batte ses gens.			[1640]
+AMPHYTRION
+Laissez-moi m'assouvir dans mon courroux extreme,
+Et laver mon affront au sang d'un scelerat.
+NAUCRATES, arretant Amphitryon.
+Nous ne souffrirons point cet etrange combat
+D'Amphitryon contre lui-meme.
+AMPHYTRION
+Quoi ? Mon honneur de vous recoit ce traitement ?			[1645]
+Et mes amis d'un fourbe embrassent la defense ?
+Loin d'etre les premiers a prendre ma vengeance,
+Eux-memes font obstacle a mon ressentiment ?
+NAUCRATES
+Que voulez-vous qu'a cette vue
+Fassent nos resolutions,			[1650]
+Lorsque par deux Amphitryons
+Toute notre chaleur demeure suspendue ?
+A vous faire eclater notre zele aujourd'hui,
+Nous craignons de faillir et de vous meconnaitre.
+Nous voyons bien en vous Amphitryon paraitre,			[1655]
+Du salut des Thebains le glorieux appui ;
+Mais nous le voyons tous aussi paraitre en lui,
+Et ne saurions juger dans lequel il peut etre.
+Notre parti n'est point douteux,
+Et l'imposteur par nous doit mordre la poussiere ;			[1660]
+Mais ce parfait rapport le cache entre vous deux ;
+Et c'est un coup trop hasardeux
+Pour l'entreprendre sans lumiere.
+Avec douceur laissez-nous voir
+De quel cote peut etre l'imposture ;			[1665]
+Et des que nous aurons demele l'aventure,
+Il ne nous faudra point dire notre devoir.
+JUPITER
+Oui, vous avez raison ; et cette ressemblance
+A douter de tous deux vous peut autoriser.
+Je ne m'offense point de vous voir en balance :			[1670]
+Je suis plus raisonnable, et sais vous excuser.
+L'oeil ne peut entre nous faire de difference,
+Et je vois qu'aisement on s'y peut abuser.
+Vous ne me voyez point temoigner de colere,
+Point mettre l'epee a la main :			[1675]
+C'est un mauvais moyen d'eclaircir ce mystere,
+Et j'en puis trouver un plus doux et plus certain.
+L'un de nous est Amphitryon ;
+Et tous deux a vos yeux nous le pouvons paraitre.
+C'est a moi de finir cette confusion ;			[1680]
+Et je pretends me faire a tous si bien connaitre,
+Qu'aux pressantes clartes de ce que je puis etre,
+Lui-meme soit d'accord du sang qui m'a fait naitre,
+Il n'ait plus de rien dire aucune occasion.
+C'est aux yeux des Thebains que je veux avec vous			[1685]
+De la verite pure ouvrir la connaissance ;
+Et la chose sans doute est assez d'importance,
+Pour affecter la circonstance
+De l'eclaircir aux yeux de tous.
+Alcmene attend de moi ce public temoignage :			[1690]
+Sa vertu, que l'eclat de ce desordre outrage,
+Veut qu'on la justifie, et j'en vais prendre soin.
+C'est a quoi mon amour envers elle m'engage ;
+Et des plus nobles chefs je fais un assemblage
+Pour l'eclaircissement dont sa gloire a besoin.			[1695]
+Attendant avec vous ces temoins souhaites,
+Ayez, je vous prie, agreable
+De venir honorer la table
+Ou vous a Sosie invites.
+SOSIE
+Je ne me trompais pas. Messieurs, ce mot termine			[1700]
+Toute l'irresolution :
+Le veritable Amphitryon
+Est l'Amphitryon ou l'on dine.
+AMPHYTRION
+o ciel ! Puis-je plus bas me voir humilie ?
+Quoi ? Faut-il que j'entende ici, pour mon martyre,			[1705]
+Tout ce que l'imposteur a mes yeux vient de dire,
+Et que, dans la fureur que ce discours m'inspire,
+On me tienne le bras lie ?
+NAUCRATES
+Vous vous plaignez a tort. Permettez-nous d'attendre
+L'eclaircissement qui doit rendre			[1710]
+Les ressentiments de saison.
+Je ne sais pas s'il impose ;
+Mais il parle sur la chose
+Comme s'il avait raison.
+AMPHYTRION
+Allez, faibles amis, et flattez l'imposture :			[1715]
+Thebes en a pour moi de tout autres que vous ;
+Et je vais en trouver qui, partageant l'injure,
+Sauront preter la main a mon juste courroux.
+JUPITER
+He bien ! Je les attends, et saurai decider
+Le differend en leur presence.			[1720]
+AMPHYTRION
+Fourbe, tu crois par la peut-etre t'evader ;
+Mais rien ne te saurait sauver de ma vengeance.
+JUPITER
+A ces injurieux propos
+Je ne daigne a present repondre ;
+Et tantot je saurai confondre			[1725]
+Cette fureur, avec deux mots.
+AMPHYTRION
+Le ciel meme, le ciel ne t'y saurait soustraire,
+Et jusques aux enfers j'irai suivre tes pas.
+JUPITER
+Il ne sera pas necessaire,
+Et l'on verra tantot que je ne fuirai pas.			[1730]
+AMPHYTRION
+Allons, courons, avant que d'avec eux il sorte,
+Assembler des amis qui suivent mon courroux,
+Et chez moi venons a main forte,
+Pour le percer de mille coups.
+JUPITER
+Point de facons, je vous conjure :			[1735]
+Entrons vite dans la maison.
+NAUCRATES
+Certes, toute cette aventure
+Confond le sens et la raison.
+SOSIE
+Faites treve, messieurs, a toutes vos surprises,
+Et pleins de joie, allez tabler jusqu'a demain.			[1740]
+Que je vais m'en donner, et me mettre en beau train
+De raconter nos vaillantises !
+Je brule d'en venir aux prises,
+Et jamais je n'eus tant de faim.
+SCENE VI.
+MERCURE
+Arrete. Quoi ? Tu viens ici mettre ton nez,			[1745]
+Impudent fleureur de cuisine ?
+SOSIE
+Ah ! De grace, tout doux !
+MERCURE
+Ah ! Vous y retournez !
+Je vous ajusterai l'echine.
+SOSIE
+Helas ! Brave et genereux moi,
+Modere-toi, je t'en supplie.			[1750]
+Sosie, epargne un peu Sosie,
+Et ne te plais point tant a frapper dessus toi.
+MERCURE
+Qui de t'appeler de ce nom
+A pu te donner la licence ?
+Ne t'en ai-je pas fait une expresse defense,			[1755]
+Sous peine d'essuyer mille coups de baton ?
+SOSIE
+C'est un nom que tous deux nous pouvons a la fois
+Posseder sous un meme maitre.
+Pour Sosie en tous lieux on sait me reconnaitre ;
+Je souffre bien que tu le sois :			[1760]
+Souffre aussi que je le puisse etre.
+Laissons aux deux Amphitryons
+Faire eclater des jalousies ;
+Et parmi leurs contentions,
+Faisons en bonne paix vivre les deux Sosies.			[1765]
+MERCURE
+Non : c'est assez d'un seul, et je suis obstine
+A ne point souffrir de partage.
+SOSIE
+Du pas devant sur moi tu prendras l'avantage ;
+Je serai le cadet, et tu seras l'aine.
+MERCURE
+Non : un frere incommode, et n'est pas de mon gout,			[1770]
+Et je veux etre fils unique.
+SOSIE
+O coeur barbare et tyrannique !
+Souffre qu'au moins je sois ton ombre.
+MERCURE
+Point du tout.
+SOSIE
+Que d'un peu de pitie ton ame s'humanise ;
+En cette qualite souffre-moi pres de toi :			[1775]
+Je te serai partout une ombre si soumise,
+Que tu seras content de moi.
+MERCURE
+Point de quartier : immuable est la loi.
+Si d'entrer la dedans tu prends encore l'audace,
+Mille coups en seront le fruit.			[1780]
+SOSIE
+Las ! a quelle etrange disgrace,
+Pauvre Sosie, es-tu reduit !
+MERCURE
+Quoi ? Ta bouche se licencie
+A te donner encore un nom que je defends ?
+SOSIE
+Non, ce n'est pas moi que j'entends,			[1785]
+Et je parle d'un vieux Sosie
+Qui fut jadis de mes parents,
+Qu'avec tres grande barbarie,
+A l'heure du diner, l'on chassa de ceans.
+MERCURE
+Prends garde de tomber dans cette frenesie,			[1790]
+Si tu veux demeurer au nombre des vivants.
+SOSIE
+Que je te rosserais, si j'avais du courage,
+Double fils de putain, de trop d'orgueil enfle !
+MERCURE
+Que dis-tu ?
+SOSIE
+Rien.
+MERCURE
+Tu tiens, je crois, quelque langage.
+SOSIE
+Demandez : je n'ai pas souffle.			[1795]
+MERCURE
+Certain mot de fils de putain
+A pourtant frappe mon oreille,
+Il n'est rien de plus certain.
+SOSIE
+C'est donc un perroquet que le beau temps reveille.
+MERCURE
+Adieu. Lorsque le dos pourra te demanger,			[1800]
+Voila l'endroit ou je demeure.
+SOSIE
+o ciel ! Que l'heure de manger
+Pour etre mis dehors est une maudite heure !
+Allons, cedons au sort dans notre affliction,
+Suivons-en aujourd'hui l'aveugle fantaisie ;			[1805]
+Et par une juste union,
+Joignons le malheureux Sosie
+Au malheureux Amphitryon.
+Je l'apercois venir en bonne compagnie.
+SCENE VII.
+AMPHYTRION
+Arretez la, messieurs ; suivez-nous d'un peu loin,			[1810]
+Et n'avancez tous, je vous prie,
+Que quand il en sera besoin.
+POSICLES.
+Je comprends que ce coup doit fort toucher votre ame.
+AMPHYTRION
+Ah ! De tous les cotes mortelle est ma douleur,
+Et je souffre pour ma flamme			[1815]
+Autant que pour mon honneur.
+POSICLES.
+Si cette ressemblance est telle que l'on dit,
+Alcmene, sans etre coupable...
+AMPHYTRION
+Ah ! Sur le fait dont il s'agit,
+L'erreur simple devient un crime veritable,			[1820]
+Et, sans consentement, l'innocence y perit.
+De semblables erreurs, quelque jour qu'on leur donne,
+Touchent des endroits delicats,
+Et la raison bien souvent les pardonne,
+Que l'honneur et l'amour ne les pardonnent pas.			[1825]
+ARGATIPHONTIDAS
+Je n'embarrasse point la dedans ma pensee ;
+Mais je hais vos messieurs de leurs honteux delais ;
+Et c'est un procede dont j'ai l'ame blessee,
+Et que les gens de coeur n'approuveront jamais.
+Quand quelqu'un nous emploie, on doit, tete baissee,			[1830]
+Se jeter dans ses interets.
+Argatiphontidas ne va point aux accords.
+ecouter d'un ami raisonner l'adversaire
+Pour des hommes d'honneur n'est point un coup a faire :
+Il ne faut ecouter que la vengeance alors.			[1835]
+Le proces ne me saurait plaire ;
+Et l'on doit commencer toujours, dans ses transports,
+Par bailler, sans autre mystere,
+De l'epee au travers du corps.
+Oui, vous verrez, quoi qu'il advienne,			[1840]
+Qu'Argatiphontidas marche droit sur ce point ;
+Et de vous il faut que j'obtienne
+Que le pendard ne meure point
+D'une autre main que de la mienne.
+AMPHYTRION
+Allons.
+SOSIE
+Je viens, monsieur, subir, a vos genoux,			[1845]
+Le juste chatiment d'une audace maudite.
+Frappez, battez, chargez, accablez-moi de coups,
+Tuez-moi dans votre courroux :
+Vous ferez bien, je le merite,
+Et je n'en dirai pas un seul mot contre vous.			[1850]
+AMPHYTRION
+Leve-toi. Que fait-on ?
+SOSIE
+L'on m'a chasse tout net ;
+Et croyant a manger m'aller comme eux ebattre,
+Je ne songeais pas qu'en effet
+Je m'attendais la pour me battre.
+Oui, l'autre moi, valet de l'autre vous, a fait			[1855]
+Tout de nouveau le diable a quatre.
+La rigueur d'un pareil destin,
+Monsieur, aujourd'hui nous talonne ;
+Et l'on me des-Sosie enfin
+Comme on vous des-Amphitryonne.			[1860]
+AMPHYTRION
+Suis-moi.
+SOSIE
+N'est-il pas mieux de voir s'il vient personne ?
+SCENE VIII.
+CLEANTHIS
+o ciel !
+AMPHYTRION
+Qui t'epouvante ainsi ?
+Quelle est la peur que je t'inspire ?
+CLEANTHIS
+Las ! Vous etes la-haut, et je vous vois ici !
+NAUCRATES
+Ne vous pressez point : le voici,			[1865]
+Pour donner devant tous les clartes qu'on desire,
+Et qui, si l'on peut croire a ce qu'il vient de dire,
+Sauront vous affranchir de trouble et de souci.
+SCENE IX.
+Il vole dans le ciel.
+MERCURE
+Oui, vous l'allez voir tous ; et sachez par avance
+Que c'est le grand maitre des dieux			[1870]
+Que, sous les traits cheris de cette ressemblance,
+Alcmene a fait du ciel descendre dans ces lieux ;
+Et quant a moi, je suis Mercure,
+Qui, ne sachant que faire, ai rosse tant soit peu
+Celui dont j'ai pris la figure :			[1875]
+Mais de s'en consoler il a maintenant lieu ;
+Et les coups de baton d'un dieu
+Font honneur a qui les endure.
+SOSIE
+Ma foi ! Monsieur le dieu, je suis votre valet :
+Je me serais passe de votre courtoisie.			[1880]
+MERCURE
+Je lui donne a present conge d'etre Sosie :
+Je suis las de porter un visage si laid,
+Et je m'en vais au ciel, avec de l'ambrosie,
+M'en debarbouiller tout a fait.
+SOSIE
+Le ciel de m'approcher t'ote a jamais l'envie !			[1885]
+Ta fureur s'est par trop acharnee apres moi ;
+Et je ne vis de ma vie
+Un dieu plus diable que toi.
+SCENE X.
+Il se perd dans les nues.
+JUPITER dans une nue.
+Regarde, Amphitryon, quel est ton imposteur,
+Et sous tes propres traits vois Jupiter paraitre :			[1890]
+A ces marques tu peux aisement le connaitre ;
+Et c'est assez, je crois, pour remettre ton coeur
+Dans l'etat auquel il doit etre,
+Et retablir chez toi la paix et la douceur.
+Mon nom, qu'incessamment toute la terre adore,			[1895]
+etouffe ici les bruits qui pouvaient eclater.
+Un partage avec Jupiter
+N'a rien du tout qui deshonore ;
+Et sans doute il ne peut etre que glorieux
+De se voir le rival du souverain des dieux.			[1900]
+Je n'y vois pour ta flamme aucun lieu de murmure ;
+Et c'est moi, dans cette aventure,
+Qui, tout dieu que je suis, doit etre le jaloux.
+Alcmene est toute a toi, quelque soin qu'on emploie ;
+Et ce doit a tes feux etre un objet bien doux			[1905]
+De voir que pour lui plaire il n'est point d'autre voie
+Que de paraitre son epoux,
+Que Jupiter, orne de sa gloire immortelle,
+Par lui-meme n'a pu triompher de sa foi,
+Et que ce qu'il a recu d'elle			[1910]
+N'a par son coeur ardent ete donne qu'a toi.
+SOSIE
+Le seigneur Jupiter sait dorer la pilule.
+JUPITER
+Sors donc des noirs chagrins que ton coeur a soufferts,
+Et rends le calme entier a l'ardeur qui te brule :
+Chez toi doit naitre un fils qui, sous le nom d'Hercule,			[1915]
+Remplira de ses faits tout le vaste univers.
+L'eclat d'une fortune en mille biens feconde
+Fera connaitre a tous que je suis ton support,
+Et je mettrai tout le monde
+Au point d'envier ton sort.			[1920]
+Tu peux hardiment te flatter
+De ces esperances donnees ;
+C'est un crime que d'en douter :
+Les paroles de Jupiter
+Sont des arrets des destinees.			[1925]
+NAUCRATES
+Certes, je suis ravi de ces marques brillantes...
+SOSIE
+Messieurs, voulez-vous bien suivre mon sentiment ?
+Ne vous embarquez nullement
+Dans ces douceurs congratulantes :
+C'est un mauvais embarquement,			[1930]
+Et d'une et d'autre part, pour un tel compliment,
+Les phrases sont embarrassantes.
+Le grand dieu Jupiter nous fait beaucoup d'honneur,
+Et sa bonte sans doute est pour nous sans seconde ;
+Il nous promet l'infaillible bonheur			[1935]
+D'une fortune en mille biens feconde,
+Et chez nous il doit naitre un fils d'un tres grand coeur :
+Tout cela va le mieux du monde ;
+Mais enfin coupons aux discours,
+Et que chacun chez soi doucement se retire.			[1940]
+Sur telles affaires, toujours
+Le meilleur est de ne rien dire.
+
+	==================================================

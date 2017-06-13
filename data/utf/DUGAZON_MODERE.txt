@@ -1,0 +1,951 @@
+********************************************************
+	DC.Title                  = LE MODERE, COMEDIE EN UN ACTE ET EN VERS
+	DC.Author                 = DUGAZON, Henri
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 02/06/2016 a 19:05:39.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/DUGAZON_MODERE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE MODERE COMEDIE EN UN ACTE ET EN VERSSECONDE ANNEE DE LA REPUBLIQUE.
+PAR LE CITOYEN DUGAZON.
+	A PARIS, Chez MARADAN, Libraire, rue du Cimetiere-Saint-Andre-des-Arcs, no. 9. De l'Imprimerie de Crapelet, rue Saint Jean-de-Beauvais, no.36.
+	
+	Representee, pour la premiere fois, le 17 Brumaire de l'an second, sur le Theatre de la Republique.
+	Errata
+Page 4, huitieme vers, supprimez, Eh! 
+Page 6, troisieme vers, lisez, il m'est tres-necessaire. 
+Page 11. Ajoutez apres le vers qui commence cette page, celui-ci : 
+Mais ce ton de mepris me choque toujours.
+Page 12. Ajoutez apres le septieme vers de cette page, celui-ci : Car voila le decor d'un parfait Democrate. 
+Page 21, douzieme vers: Qu'on verroit, lisez, Qu'on voyoit. 
+
+PERSONNAGES.
+MODERANTIN, financier : habit de drap noisette, veste de satin, culotte noire, bas gris, perruque a bourse, chapeau a trois cornes, une canne. Caractere : Brusque, colere, et d'un comique tres-bouffon dans tout ce qui est moderantisme	Dugazon.
+DUVAL pere, raisonneur : fraque bleu, gilet rouge, chapeau uniforme. Caract. chaud Patriote	Desrozieres.
+DUFOUR, vieux domestique : habit de drap gris, veste et culotte noires, bas roules	Michaud.
+LESTANVILLE, fils de Moderantin : capote carree, boutonnee par en bas, trois ou quatre gilets, cravates de dentelle, fichu de soie, la queue au milieu de la taille, chapeau rond, et coiffure en muscadin, petites bottines, une badine. Caract. fatuite ridicule. Raimond. 
+DUVAL fils, en uniforme national, coiffure en jacobin. Caract. ayant toute la fierte d'un franc Republicain	Devigny. 
+FABLENVILLE, meme mise que le muscadin, mais plus raisonnable	Desprez. 
+MANETTE, vieille servante : comme Cateau du Tambour Nocturne. Caract. acariatre et bavarde la citoyenne Giverne. 
+JULIE, fourreau gris, mise decente. Caract. amoureuse	la citoyenne Desprez. 
+LES DEUX COMMISSAIRES, proprement en bons Sans-Culottes. 
+LE JUGE DE PAIX, idem, avec le chaperon. 
+GARCON PAPETIER.
+La Scene est a Paris, chez Moderantin.
+
+DACOR. Salon A©lA©gant, meublA©, secrA©taires, bureaux, etc.
+
+
+			
+
+
+SCENE PREMIERE. Dufout, Manette.
+DUFOUR, se disputant.
+Oui, je vous le soutiens, et je vous le repete :
+Si Monsieur faisait bien, il ferait maison nette.
+MANETTE.
+Mais dites-nous pourquoi, Patriote enrage ?
+DUFOUR.
+Tenez, ce mot-la seul merite le conge.
+MANETTE.
+Si l'on vous ecoutait, on en verrait de belle :			[5]
+Avec chacun ici vous etes en querelle.
+DUFOUR.
+C'est que je sais servir sans faire le flatteur ;
+Vous ne rentrez jamais sans predire un malheur.
+Que l'on tremble a Paris, ou que l'on assassine,
+L'Etat est, selon vous, tout pret de sa ruine ;			[10]
+Et si l'on vous croyait, Monsieur Moderantin
+Serait deja parti.
+MANETTE.
+Mais il part des demain.
+N'est-il pas plus heureux de rester en campagne,
+Ou de ses bons amis la foule l'accompagne,
+Gens suspects comme lui, ne se melant de rien ?			[15]
+DUFOUR.
+Qu'a flatter ses travers, pour attraper son bien.
+Vous approuvez cela, car vous etes docile.
+Approuvez-vous aussi l'amour de Lestanville ?
+Sa cousine a Duval devait s'unir un jour ;
+Son pere, avant sa mort, appuyait son amour,			[20]
+Et mon maitre devait au trepas de son frere
+D'executer du moins sa volonte derniere.
+MANETTE.
+Le fils de la maison doit etre prefere :
+Pour terminer bientot, l'on a tout prepare,
+Il ne partira pas, si Monsieur le marie.			[25]
+DUFOUR.
+Je l'avais eleve pour servir sa Patrie.
+MANETTE.
+Il faut bien a l'Etat faire des defenseurs.
+DUFOUR.
+Quoi ! De ces deux amants vous verriez la douleur !
+MANETTE.
+Ils se consoleront, l'affaire est decidee.
+DUFOUR.
+Monsieur Moderantin ne l'a pas terminee.			[30]
+MANETTE.
+Pour etablir sa niece, il prendra vos avis.
+DUFOUR.
+On l'estimerait plus, s'il les avait suivis ;
+D'un bon Republicain prenant le caractere, 
+Il pourrait eviter quelque facheuse affaire.
+MANETTE.
+Comme vieux serviteur, c'est d'apres vos sermons			[35]
+Qu'il faudrait se conduire, et suivre vos lecons ?
+DUFOUR.
+Vous ne feriez pas mal.
+MANETTE.
+Je ne suis pas si sotte,
+J'ai mon opinion ; vous etes Patriote,
+Et vous avez raison, si c'est votre plaisir.
+On est libre, a present, de penser ou d'agir ;			[40]
+Monsieur Moderantin vit a sa fantaisie,
+De le contrarier vous avez la manie :
+Mais quand on a besoin de rester en maison,
+On doit toujours trouver que son maitre a raison.
+Vous avez de l'humeur d'entendre ce langage ?			[45]
+DUFOUR.
+Je sais que vous avez du gout pour l'esclavage,
+MANETTE.
+J'ai le gout de rester ou je me trouve bien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vais a mon devoir. Adieu, bon Citoyen.
+SCENE II.
+DUFOUR, seul.
+Je veux me retirer. Ma foi, la servitude,
+En quelqu'etat qu'on soit, paroit toujours trop rude.			[50]
+Monsieur Moderantin ne sera pas content ;
+Mais je dois prevenir un triste evenement. 
+On vient de m'avertir que son patriotisme,
+Aux yeux des gens senses, n'est que charlatanisme ;
+Il est tres-suspecte, ceci finira mal.			[55]
+Je l'ai bien averti ; c'est un original
+Qui se fera coffrer, et de qui les sornettes
+Le conduiront un jour droit aux Madelonnettes.
+SCENE III. Duval fils, Dufour.
+DUVAL FILS.
+TE voila seul, Dufour : pourrois-je dire un mot
+A l'objet de mes vux ?
+DUFOUR.
+Eh ! vous n'etes pas si sot			[60]
+De saisir le moment ou son oncle est en ville ;
+Il est alle chercher Monsieur de Fablenville ;
+Il reviendra bientot, car il donne a souper
+A de vrais intrigans que je n'ose nommer.
+DUVAL FILS.
+Tu connois mon amour pour l'aimable Julie ;			[65]
+Il egale en mon cur celui de la Patrie :
+C'est t'en dire l'exces ; mais j'ai fait mon devoir.
+A Grandpre, l'an dernier, cette belle a pu voir
+Que pour la Liberte j'ai su courir aux armes ;
+Mais mon cur gemissoit d'abandonner ses charmes.			[70]
+DUFOUR.
+Vous voila de retour, et vous serez heureux.
+L'on est toujours plus sur de plaire a deux beaux yeux,
+Quand on sait allier, dans son ardeur guerriere,
+Le myrthe de l'amour au laurier militaire.
+DUVAL FILS.
+Je me suis distingue pour avoir ses appas.			[75]
+Quels efforts, cher Dufour, ne tenterois-je pas ?
+Dis-moi, quel est son oncle ?
+SCENE IV. Manette, Duval fils, Dufour.
+DUFOUR.
+Encore ici, Manette !
+MANETTE.
+Puisque vous aimez tant qu'on fasse maison nette,
+Il faut venir m'aider a ranger le salon,
+Ou l'on soupe aujourd'hui : de toute la maison			[80]
+J'ai seule le tracas.
+DUFOUR.
+Ma soi, j'en ai ma dose.
+MANETTE.
+Qui ? Lui ? De tout le jour il ne fait autre chose
+Que de censurer tout, sans rime ni raison.
+Il ne rangeroit rien dans toute la maison.
+DUFOUR.
+Suis-je ici le frotteur ?
+MANETTE.
+Et moi, suis-je frotteuse ?			[85]
+DUFOUR.
+Non, vous avez l'emploi d'etre toujours grogneuse.
+DUVAL FILS.
+Allons, mes bons amis, ne vous disputez plus, 
+Et supprimons ici des discours superflus.
+Je desire savoir quel est le caractere
+De l'oncle de Julie ; il m'est necessaire			[90]
+De le connoitre bien, pour pouvoir en ce jour
+Lui declarer enfin mes vux et mon amour.
+MANETTE.
+Pour moi, je ne sais pas medire de mon maitre.
+DUFOUR.
+Sans medisance, moi, je le ferai connoitre.
+MANETTE.
+Vous avez le talent de faire des portraits.			[95]
+DUFOUR.
+Voyons : de celui-ci connoissez-vous les traits ?
+Mon maitre est de ces gens dont tout Paris fourmille,
+Et qui, sous le manteau de pere de famille,
+Ne se melent de rien pour n'avoir aucun tort,
+Et se rangent toujours du cote du plus fort ;			[100]
+Qui, pour se dispenser de servir leur Patrie,
+Abandonnent leur ame a la vile inertie
+De se neutraliser dans un gouvernement,
+Pour n'avoir jamais part au moindre evenement ;
+Blamant tout ce qu'on fait, suivant la circonstance,			[105]
+Et sont des etrangers dans le sein de la France.
+DUVAL FILS.
+Cet homme est fort utile a la societe.
+MANETTE.
+Si chacun comme lui, restoit de son cote,
+On verroit moins de gens precher la Republique,
+Et qui n'entendent rien a la chose publique.			[110]
+DUVAL FILS.
+Mais d'apres vos discours, c'est donc un modere ? 
+DUFOUR.
+Il ne l'est pas a table ; il est sort altere,
+Sable le meilleur vin dont sa cave est remplie,
+Possede tous les gouts de bonne compagnie.
+Le spectacle, le jeu, les fetes, les repas :			[115]
+On ne le voit jamais ou le plaisir n'est pas.
+Au moindre petit bruit, il court a sa campagne,
+Ou de nos malveillans la foule l'accompagne ;
+Faisant monter sa garde, et payant ses impots,
+Il dit que tout Paris n'est peuple que de sots ;			[120]
+Que notre Liberte n'est rien qu'une chimere,
+Et que l'Egalite ne fut jamais sur terre ;
+Qu'il ne s'oppose point a tout ce qu'on fera,
+Mais que dans aucun tems il ne s'en melera.
+De ce plan bien suivi, jamais il ne s'ecarte,			[125]
+Et n'a du Citoyen, en un mot, que la carte.
+MANETTE.
+Que lui faut-il de plus pour rester en repos ?
+Je sors, et ne veux point partager vos propos ;
+J'aurois du m'en aller, je ne suis qu'une sotte.
+Monsieur Moderantin est tres-bon Patriote,			[130]
+Et vous avez grand tort de redire aujourd'hui,
+Le mal que chaque jour on dit par-tout de lui.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. Duval fils, Dufour.
+DUFOUR.
+ELLE en dit beaucoup plus par cette repartie ;
+La verite l'emporte, enfin elle est partie ; 
+Nous pouvons tous les deux parler en liberte :			[135]
+A voir des gens suspects mon maitre est entete,
+DUVAL FILS.
+Quoi ! De nos malveillanTs connoitroit-il la clique ?
+DUFOUR.
+Il en voit tres-souvent par pure politique ;
+Il pretend, si jamais ils avoient le dessus,
+Qu'ils diroient que ceans ils etoient bien recus ;			[140]
+Il croit, par ce moyen, conserver l'avantage
+De preserver ainsi sa maison du pillage.
+DUVAL FILS.
+Morbleu ! voila l'erreur qui corrompt tout Paris.
+Le vrai Republicain n'est point de cet avis,
+Le Peuple est plus puissant que ces froids egoistes ;			[145]
+De tous les malveillans on connoit les gagistes,
+Et quant aux moderes.....
+DUFOUR.
+Ils ne changeront pas.
+DUVAL fils, fermement.
+Allez, ne craignez rien, nous les mettrons au -.
+Lit-il quelques journaux ?
+DUFOUR.
+Jamais. Point de nouvelles.
+Il dit que ces papiers font naitre des querelles,			[150]
+Qu'on peut aller ailleurs, si l'on en veut avoir :
+Mais nous nous cotisons pour le journal du soir.
+DUVAL FILS.
+Me voila bien au fait. Mais parlons de Julie.
+DUFOUR.
+Depuis votreretour, je la trouve embellie ; 
+Son caractere heureux cherit la Liberte ;			[155]
+Pres d'elle on sent le prix de cette Egalite
+Qui nous fait supporter le degout du service ;
+Aussi dans la maison chacun brigue l'office
+De prevenir toujours son gout et son desir,
+Et pour nous le devoir est pres d'elle un plaisir.			[160]
+DUVAL FILS.
+Elle doit ses vertus a celles de son pere.
+DUFOUR.
+Il vous choisit pour fils, partant pour la frontiere.
+On ne prevoyait pas que son fat de neveu,
+D'un amour indiscret serait un jour l'aveu,
+Et briguerait la main qui vous fut destinee ;			[165]
+Il croyait esquiver la premiere levee.
+DUVAL FILS.
+Son pere l'avait fait inspecteur des charrois.
+DUFOUR.
+Mais on l'a mis dehors. Pour la premiere fois
+Il saura ce que c'est de monter une garde,
+Car il n'a jamais mis les pieds au corps-de-garde.			[170]
+DUVAL FILS.
+A quoi s'occupe-t-il ?
+DUFOUR.
+A dissiper son bien,
+Faisant comme son pere, et ne songeant a rien,
+De ces sots ci-devant voulant singer l'espece,
+Et ne ressemble en rien a la brave jeunesse
+Que l'on vit de tout temps preferer a Paris			[175]
+L'honneur de se montrer en face aux ennemis. 
+DUVAL FILS.
+La requisition changera sa cervelle.
+DUFOUR.
+Il ne pourra jamais manger a la gamelle.
+Mais on entre au logis, c'est un cabriolet ;
+Voici votre rival, ecoutez son caquet.			[180]
+SCENE VI. Les precedents, Lestanville.
+LESTANVILLE.
+Ma parole d'honneur, la chose est effroyable !
+Moi, m'aller caserner ! Mais je me donne au diable,
+Si l'on me voit servir avec tous ces gens-la,
+Ma parole d'honneur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Bonjour : vous voila ?
+DUVAL FILS.
+De quels gens parlez-vous ?
+LESTANVILLE.
+Mais de la populace ;			[185]
+Avec mon perruquier que veut-on que je fasse ?
+Mon porteur d'eau, mon negre, et puis le ramoneur :
+Vraiment je suis outre, ma parole d'honneur !
+DUFOUR.
+Ils en ont plus que vous.
+LESTANVILLE.
+De l'honneur !
+DUFOUR.
+Sur mon ame,
+Je ne puis retenir le courroux qui m'enflamme, 			[190]
+Je devrais etre fait a tous ces sots discours.
+.............................
+Respectez dans le peuple une importante masse,
+Que vous qualifiez du nom de populace ;
+C'est votre souverain ; et votre ramoneur			[195]
+Vaut cent fois mieux que vous, ma parole d'honneur !
+DUVAL FILS.
+Ne vous fachez donc pas.
+LESTANVILLE.
+Dans cette classe immense,
+Mon pere me l'a dit, tu recus la naissance :
+Tu defends ton parti ; mais voici mon refrain :
+Mon cocher ne sera jamais mon souverain.			[200]
+DUFOUR.
+Il ne l'est pas non plus, mais il en fait partie.
+Mais j'ai tort contre vous de faire une sortie ;
+Et si l'on m'en croyait, les gens de votre ton
+Seraient tous casernes demain a Charenton.
+LESTANVILLE, ne riant.
+Je ne puis m'en facher, l'apostrophe est gaillarde,			[205]
+Car aupres de Bercy, ce soir je suis de garde :
+Tu vois, mon cher ami, qu'on t'a bien ecoute.
+Je te crois du credit dans quelque Comite,
+Ma parole d'honneur !
+DUFOUR.
+Cessez ce persiflage :
+Votre pere parait, prenez un ton plus sage. 			[210]
+SCENE VII. Les precedents, Moderantin.
+On apporte un drapeau tricolore et des rouleaux de papiers republicains representant des bonnets, des piques, des cocardes, faisceaux ou table des droits de l'homme, etc.
+MODERANTIN, sans voir Duval.
+Accrochez tout cela, Dufour, dans le salon.
+Quand l'ecriteau civique est devant la maison,
+Il faut bien que chez moi tout le reste reponde.
+DUFOUR.
+Ce changement subit surprendra bien du monde.
+MODERANTIN.
+Bonnet de Liberte, les piques, le drapeau,			[215]
+Ma foi, l'interieur repond a l'ecriteau.
+Je ne passerai plus pour un aristocrate ;
+........................
+Qu'en dites-vous, mon fils ? Car vous avez du gout.
+LESTANVILLE.
+Arthur, depuis longtemps, a mis cela partout.			[220]
+MODERANTIN, a Dufour.
+Et toi, qu'en pense-tu ?
+DUFOUR.
+L'on dira, je vous jure,
+Qu'on ne voit le civisme en ces lieux qu'en peinture.
+MODERANTIN.
+Ma foi, c'est bien assez : allons, retire-toi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Ah ! C'est vous, Monsieur, que faites-vous chez moi ? 
+LESTANVILLE.
+Faut-il le demander ? Duval vient, je parie,			[225]
+Presenter ses respects a l'aimable Julie.
+DUVAL, fils.
+Voila le vrai motif qui conduisait mes pas ;
+Devant son oncle ici je ne m'en defends pas ;
+Mais j'esperais de plus dans cette circonstance,
+Vous faire, Citoyen, mon humble reverence.			[230]
+MODERANTIN.
+Je vous sais gre, Monsieur, de parler franchement,
+Et repondrai de meme a votre compliment.
+Vous eutes, je le sais, l'aveu de feu mon frere
+Pour epouser Julie ; et moi, tout au contraire,
+Je vis de mauvais oil cet etablissement,			[235]
+Et j'ai pris pour ma niece un autre arrangement.
+DUVAL, fils.
+Je respectai toujours vos droits sur votre niece,
+Mais la Loi les rend nuls ; et si j'ai sa tendresse,
+Elle peut a son gre se choisir un epoux ;
+Mais je mets mon bonheur a l'obtenir de vous.			[240]
+MODERANTIN.
+Vous ne l'obtiendrai point. La Loi, ce mot me pique ;
+Ils narguent les parents avec leur Republique.
+Mais moi, qui n'entends rien a ce nouveau jargon,
+Je serai maitre ici, si vous le trouvez bon.
+DUVAL, fils.
+Je vous entends fort bien, ce mot doit me suffire.			[245]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)En bon Republicain, pourtant je dois vous dire
+De ne plus vous piquer pour ce mot de la Loi.
+Soyez plus circonspect ; car tout autre que moi
+Vous serait repentir du peu de politique 
+Qui regne en vos discours sur notre Republique.			[250]
+Nous sommes dans un temps ou le Peuple irrite,
+Punit les detracteurs de notre Liberte.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Moderantin, Lestanville.
+MODERANTIN, apres s'etre bien regarde et stupefait.
+Concois-tu ce ton la ?
+LESTANVILLE.
+C'est d'une impertinence !...
+MODERANTIN.
+J'aime la Liberte.
+LESTANVILLE.
+Mais non pas la licence.
+MODERANTIN.
+Mais on ne pourra plus dire un seul mot chez soi.			[255]
+LESTANVILLE.
+Il faut se prosterner au seul nom de la Loi.
+MODERANTIN.
+Ou bien vous encourez qu'un intrus vous semonce.
+LESTANVILLE.
+Ou qu'a sa Section le soir il vous denonce.
+MODERANTIN.
+Il en est fort capable ; et c'est ta faute aussi :
+Avec cet enrage, pourquoi rester ici ? 			[260]
+LESTANVILLE.
+J'arrivais dans l'instant. Quoi ! Cela vous chagrine ?
+MODERANTIN.
+Tu sais bien que ce fat en veut a ta cousine,
+Et tu vois ton rival de sang-froid au logis,
+Et causes avec lui comme avec tes amis :
+Tu vois pourtant, tu vois a quoi ceci m'expose :			[265]
+Mais son pere parait, va-t-en vite, et pour cause.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX. Duval pere, Moderantin.
+MODERANTIN, en embrassant Duval.
+Eh ! Bonjour, mon ami : mais on ne vous voit plus ?
+DUVAL PERE.
+Au comite civil nous sommes assidus.
+MODERANTIN.
+Tout comme un autre aussi je sers bien ma Patrie,
+Mais sans fuir cependant la bonne compagnie.			[270]
+DUVAL PERE.
+Mais je ne la fuis point, car j'y passe mes jours :
+Vous entendez le Peuple en tenant ce discours.
+MODERANTIN, en riant.
+Le Peuple ! Non, ma foi, j'admire ta folie.
+DUVAL PERE.
+C'est qu'il est maintenant la bonne compagnie ;
+C'est lui seul qui defend et qui soutient nos droits,			[275]
+Combat nos ennemis, fait respecter nos lois ; 
+S'eloigne des plaisirs pour voler aux frontieres,
+Et ne s'enrichit point aux depens de ses freres :
+Il se prive de tout, et ne se plaint jamais ;
+C'est pour la Liberte, l'Egalite, la Paix,			[280]
+Que le Peuple aujourd'hui donne jusqu'a sa vie ;
+Et votre frere est mort en bonne compagnie.
+MODERANTIN.
+Vous jouez sur le mot : ne se melant de rien,
+Nous le verrions encor vivre en bon citoyen.
+DUVAL PERE.
+Comme on n'en voit que trop dans une Republique :			[285]
+Chacun doit son tribut a la chose publique,
+Et voila le sujet qui m'amene en ces lieux.
+Vous recevez chez vous des gens tres dangereux,
+Qui seront arretes ; et vous pourriez bien l'etre
+Puisqu'avec eux toujours chacun vous voit paraitre.			[290]
+MODERANTIN.
+Votre fils a l'instant m'a tenu ces propos ;
+On ne pourra donc plus frequenter ses egaux ?
+DUVAL PERE, ironiquement.
+Si ce sont vos egaux que ces gens mercenaires,
+Qui par de vils calculs augmentent nos miseres ;
+Si ce sont vos egaux que ces perturbateurs,			[295]
+De notre Republique infames detracteurs,
+Qui savent a nos lois apporter des entraves,
+Et qui seraient ravis de nous revoir esclaves ;
+Ne soyez plus surpris qu'il est tres avere
+Que vous etes suspect, etant tres modere.			[300]
+MODERANTIN.
+Voila vos sots propos, et ceux de vos semblables :
+Vous me feriez, Monsieur, donner a tous les diables. 
+Depuis quatre-vingt-neuf sedentaire a Paris,
+N'ai-je pas soutenu les droits de mon pays ?
+Jamais a mon district on ne me voit paraitre,			[305]
+Mais pour bon citoyen je me suis fait connaitre.
+Est-ce de perorer ou de crier bien fort ?
+L'honnete homme, Monsieur, pour n'avoir aucun tort,
+En revolution, en trouble populaire,
+S'il ne fait pas le bien, du moins le laisse faire ;			[310]
+Et c'est ce que j'ai fait. Qu'on me cite a present,
+Si l'on m'a jamais vu dans un rassemblement.
+Et lorsque du tocsin et de la generale
+On entendait partout la rumeur infernale,
+Je rentrais au logis : la nuit comme le jour,			[315]
+J'avais soin de fermer ma porte a double tour.
+DUVAL PERE.
+Ai-je fait comme vous quand on prit la Bastille ?
+M'a-t-on vu renfermer et mon fils et ma fille,
+J'etais a l'Arsenal, mon fils dessus le pont,
+Et ma fille au logis faisait fondre du plomb.			[320]
+MODERANTIN.
+Entend-on le canon quand on est dans la cave ?
+J'ai fait tout ce qu'il faut pour n'etre point esclave ;
+J'ai donne pistolets, espingoles, fusils,
+Deux uniformes neufs, n'ayant jamais servis ;
+J'ai prete mon serment pour l'Etat monarchique,			[325]
+Et je m'enroue en criant vive la Republique ;
+Je fais monter ma garde, et paie mes impots,
+Le quart patriotique ; et l'on tient des propos !
+Enfin, a ma facon je sers bien ma Patrie ;
+Je ne suis point l'ami de ceux qui l'ont trahie ;			[330]
+D'apres tous ces faits-la, peut-il etre avere
+Que l'on dise partout que je suis modere ? 
+DUVAL PERE.
+On ne le dirait pas, vous le dites vous-meme.
+Si chacun, comme vous, eut suivi ce systeme,
+Et de se renfermer eut suivi le parti...			[335]
+MODERANTIN.
+Vous conviendrez du moins que tout serait fini.
+DUVAL PERE.
+Que tout serait fini ! Vous etes en demence ;
+Mais nous aurions encor le despotisme en France.
+MODERANTIN.
+J'ai vecu cinquante ans sans connaitre ce nom.
+DUVAL PERE.
+En raisonnant ainsi, parlez-vous tout de bon ?			[340]
+Vous n'avez point connu le pouvoir arbitraire,
+Ni les atrocites d'un affreux ministere ?
+MODERANTIN.
+J'etais libre autrefois d'aller et de venir.
+DUVAL PERE.
+L'Etat est en danger, et vous voulez partir !
+MODERANTIN.
+Eh ! Que faire a Paris quand tout se bouleverse ?			[345]
+DUVAL PERE.
+Servir votre pays.
+MODERANTIN.
+J'ai quitte mon commerce.
+DUVAL PERE.
+Mais soutenez du moins le regime nouveau. 
+MODERANTIN.
+Je n'ai pas, comme vous, le transport au cerveau ;
+Je suis reduit a rien.
+DUVAL PERE.
+Vingt mille ecus de rente.
+MODERANTIN.
+Mais en quatre-vingt-huit j'en possedais quarante :			[350]
+Pour trouver cela beau, vous avez vos raisons :
+On a coupe mes bois, on mange mes pigeons,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et pour me consoler de mon fils qu'on emmene,
+Je n'ai pas un lapin dans toute ma garenne.
+DUVAL PERE.
+Sont-ce donc des lapins qui consolent d'un fils !			[355]
+N'est-il pas plus heureux de servir son pays ?
+Vous n'etes pas charme que votre fils repare
+Le tort qu'il se faisait, la conduite bizarre
+Qu'il avait a Paris ?
+MODERANTIN.
+Il etait aux charrois.
+DUVAL PERE.
+Il est plus glorieux de defendre les lois.			[360]
+MODERANTIN, vivement.
+On les defendra bien avec cette jeunesse ;
+C'est un tres beau decret, ma foi ! Belle prouesse.
+DUVAL PERE, avec enthousiasme.
+Vous serez etonne d'entendre ses succes :
+J'augure mieux que vous de nos jeunes Francais ;
+Dans Paris corrompu, quelques modes nouvelles,			[365]
+De tout temps, je le sais, occupent leurs cervelles ;
+Mais pour servir l'Etat, sitot qu'ils sont requis, 
+Voyez-les pleins d'ardeur pour venger leur pays,
+Les yeux etincelants, pleins de vertus guerrieres,
+Se disputer l'honneur de voler aux frontieres,			[370]
+Jemappes a confirme qu'il n'est point de remparts
+Qui ne soient emportes par ces jeunes Cesars :
+Ils ne consultent pas la force ni l'adresse,
+L'honneur est l'aiguillon qui les pousse sans cesse ;
+Ils savent tout braver, et le froid et la faim ;			[375]
+Chacun marche au combat entonnant ce refrain,
+Cher a tous les Francais, cet hymne a la Patrie,
+Et lui donne en chantant et son sang et sa vie.
+Sentez donc tout le prix des droits du citoyen :
+Pour etre libre, moi, je donnerais mon bien.			[380]
+MODERANTIN.
+Et si l'on me prend tout, n'est-ce pas meme chose ?
+Mon ami, savez-vous a combien l'on m'impose ?
+DUVAL PERE.
+A quatre mille francs ?
+MODERANTIN.
+Je ne me plaindrais pas.
+On m'en demande cinq, je suis dans l'embarras.
+DUVAL PERE, avec ironie.
+Mais en deduction il faudrait vous inscrire.			[385]
+MODERANTIN.
+Est-ce au departement ? Il n'en fera que rire.
+Quatre mille avant moi n'en ont rien obtenu ;
+L'on connait de chacun, mon cher, le revenu ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)On dira : « Citoyen, votre plainte importune,
+Et l'on vous a taxe selon votre fortune.			[390]
+Vous avez en bien-fonds, six maisons a Paris,
+Cent arpents cultives aupres de Montargis 
+Marais dans les faubourgs, une terre superbe,
+Et vous ne mangez pas tout votre ble en herbe.
+On sait que vous avez des billets au porteur »,			[395]
+Et c'est la verite, ma parole d'honneur.
+DUVAL PERE.
+Ne vous plaignez donc pas, afin qu'on vous estime,
+Et ne decriez plus notre nouveau regime.
+Pour la derniere fois je viens vous avertir ;
+Et meme, si chez vous l'on me voit revenir,			[400]
+C'est que je veux unir mon fils avec Julie :
+Car un Republicain doit fuir la compagnie
+De ces etres glaces, egoistes rampants,
+Qu'on voyait s'enrichir sous le joug des tyrans ;
+On devrait eviter les gens de cette espece,			[405]
+Les vouer au mepris ainsi que leur richesse,
+Et n'admettre jamais dans la societe
+Que les amis du Peuple et de la Liberte.
+MODERANTIN.
+Vous parlez maintenant une langue etrangere,
+On frequente toujours ceux qui font bonne chere ;			[410]
+Sur ce chapitre-la vos cris sont superflus,
+Nous sommes trop gourmands pour avoir ces vertus.
+DUVAL PERE.
+Vous devriez rougir de tenir ce langage.
+Je me rendrais coupable en restant davantage
+Mais prenez garde a vous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MODERANTIN, l'arretant.
+Vous me faites fremir.			[415]
+Ah ! Si pour m'arreter quelqu'un allait venir,
+Vous parleriez pour moi, je suis bon patriote ; 
+Mais de vos enrages je n'ai pas la marotte.
+Allons, mon cher Duval, prete-moi ton appui ;
+Je ferai le bonheur de ton fils aujourd'hui,			[420]
+Ma niece lui plait fort, je lui donne Julie ;
+Mais a la Section il faudra qu'il m'appuie,
+Et je consentirai...
+SCENE X. Les precedents, Julie.
+JULIE, qui a entendu les quatre derniers vers. 
+Non, ne l'esperez pas :
+Il ne peut a ce prix vous tirer d'embarras.
+J'aime trop votre fils, et c'est le compromettre,			[425]
+De vous justifier il ne peut se permettre ;
+Il aime son pays, cherit l'Egalite,
+Il a verse son sang pour notre Liberte :
+Vous vous vantez toujours d'avoir fait le contraire :
+Vous insultez aux pleurs que je donne a mon pere,			[430]
+Et Duval ne saurait, sans mentir a son coeur,
+Du faux patriotisme etre le protecteur.
+MODERANTIN, furieux.
+Vas donc me denoncer avec de tels reproches ;
+On n'est jamais trahi, dit-on, que par ses proches ;
+Et l'on a bien raison.
+DUVAL PERE.
+Ne vous emportez pas,			[435]
+Je vais voir si je puis vous tirer d'embarras.
+MODERANTIN.
+Parlez a votre fils, je l'ai mis en colere ; 
+Il est nouveau soldat revolutionnaire ;
+Ces Messieurs font la chasse a tous les moderes ;
+Je ne le serai plus desormais, vous verrez.			[440]
+Je veux des aujourd'hui reformer ma conduite.
+DUVAL PERE, en sortant.
+Je vais trouver mon fils.
+MODERANTIN.
+Mais revenez bien vite.
+SCENE XI. Moderantin, Julie.
+MODERANTIN.
+Et vous, loin d'adoucir ma peine et mon chagrin,
+Qui venez me narguer avec un air hautain,
+Apprenez que de moi depend votre fortune,			[445]
+Et que depuis longtemps vous m'etes importune,
+Et que votre civisme et vos beaux sentiments,
+Ne m'en imposent pas ; que vos engagements
+Qui jadis avaient eu l'aveu de votre pere,
+Ne pourront s'accomplir qu'en cherchant a me plaire.			[450]
+JULIE.
+Mon oncle, vous pouvez garder tout votre bien ;
+En m'accordant Duval, je ne demande rien.
+MODERANTIN.
+En ce cas, vous l'aurez.
+JULIE.
+Malgre votre rudesse,
+Je saurai vous cherir, vous respecter sans cesse ; 
+Mais pour flatter en vous des principes affreux,			[455]
+Qui rendraient a jamais les Francais malheureux,
+Je ne puis m'y resoudre, et j'aurai votre estime,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Malgre tous vos regrets pour votre ancien regime.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XII.
+MODERANTIN, seul.
+Elle a du caractere, et j'en suis peu surpris ;
+Mais je me garderai de suivre ses avis :			[460]
+Je veux pour la punir, qu'elle ait son Patriote,
+Elle aura des enfants qui seront Sans-culottes,
+Et nous verrons comment, dans sa belle union,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Elle dira sans bien, vive la Nation !
+SCENE XIII. Dufour, Moderantin, Manette.
+DUFOUR.
+Vous sentez du bonnet, Monsieur, l'effet magique,			[465]
+Et vous crierez bientot vive la Republique !
+MODERANTIN.
+Que venez-vous chercher ? Cessez vos sots discours.
+MANETTE.
+Il ne changera pas, il bavarde toujours.
+DUFOUR, a Moderantin.
+Vos ordres pour souper. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'elle est officieuse !
+Elle ne changera pas, elle est toujours flatteuse. 			[470]
+MANETTE.
+On mettra le couvert, Monsieur, dans le salon,
+Du linge damasse, tous les vins en flacon ;
+Vous indiquerez ceux qu'il faut mettre a la glace.
+DUFOUR.
+Laissez parler Monsieur, et finissez, de grace.
+MODERANTIN.
+Avez-vous le menu ?
+DUFOUR.
+Vous l'avez oublie.			[475]
+MODERANTIN.
+Nous serons six, ce soir, et chacun est prie.
+Vous direz au portier que pour aucune affaire,
+On ne laisse monter de la soiree entiere.
+MANETTE.
+Je m'en vais donner l'ordre, et vienne qui voudra ;
+Hors ceux qui sont pries, personne n'entrera.			[480]
+DUFOUR.
+J'ai deja prevenu, n'en prenez pas la peine.
+MODERANTIN, a Manette.
+Mettez votre couvert, ce soir, en porcelaine.
+MANETTE.
+Vous serez satisfait, et j'y vais de ce pas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIV. Dufour, Moderantin.
+DUFOUR.
+Je suis pret : dictez-moi, Monsieur, votre repas.
+MODERANTIN.
+Cette carpe du Rhin, un buisson d'ecrevisses,			[485]
+Mon pate, mon turbot ; j'oubliais mes delices ;
+Quatre entremets choisis : prenez-les chez Meau ;
+La truite saumonnee, une longe de veau.
+DUFOUR.
+Vos perdreaux ?
+MODERANTIN.
+En salmis, un autre de becasses ;
+Dites chez Veloni qu'on apporte des glaces.			[490]
+DUFOUR.
+On peut, apres cela, se passer de dessert.
+MODERANTIN.
+Trois ananas bien murs, choisis chez Wouesmert.
+DUFOUR.
+Pour un tas de fripons faire autant de depense !
+MODERANTIN.
+Montez du marasquin, du vin en abondance.
+DUFOUR.
+En boirez-vous, Messieurs, comme ces jours derniers ?			[495]
+Ma foi, vous etiez tous comme des templiers. 
+SCENE XV. Les precedents, Deux Commissaires de section.
+MODERANTIN.
+Que veulent ces Messieurs ?
+DUFOUR.
+Ce sont des Commissaires
+De notre Section.
+MODERANTIN, a Dufour, bas et effraye.
+Allez a mes affaires.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allez dire a Duval qu'il vienne dans l'instant,
+Que j'ai besoin de lui : courez-y promptement.			[500]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Puis-je savoir, Messieurs, pourquoi votre presence ?
+LE PREMIER COMMISSAIRE. 
+Le Comite, Monsieur...
+MODERANTIN, trouble.
+Lequel ?
+LE PREMIER COMMISSAIRE. 
+De bienfaisance
+Nous depute vers vous.
+LE SECOND COMMISSAIRE. 
+Comme un bon Citoyen,
+L'on a compte sur vous.
+MODERANTIN, se remettant.
+Moi, je n'ai plus de bien, 
+Ce qui m'en reste, helas ! n'est plus qu'une vetille,			[505]
+Et je n'ai pas de quoi soutenir ma famille ;
+Je me prive de tout, j'ai mis carrosse a bas.
+Demandez au portier, je ne fais qu'un repas ;
+J'ai donne, tant donne, que je suis a la gene,
+Et je suis bien fache, Messieurs, de votre peine.			[510]
+LE PREMIER COMMISSAIRE. 
+Nous avons, Citoyen, rempli notre devoir.
+LE SECOND COMMISSAIRE. 
+Dans un autre moment nous reviendrons vous voir.
+MODERANTIN.
+Non ! Ne revenez pas, ce soin serait frivole.
+Je ne puis de longtemps vous donner une obole.
+LE PREMIER COMMISSAIRE, pique. 
+On nous avait trompe, Monsieur ; et je vois bien			[515]
+Que vous serez toujours un pauvre citoyen.
+MODERANTIN, tirant son porte-feuille.
+Je puis faire un effort pour sauver la Patrie,
+Prenez ces deux corsets, c'est mon economie,
+Le bon temps reviendra...
+LE SECOND COMMISSAIRE. 
+De quel temps parlez-vous ?...
+SCENE XVI. Les precedents, Fablenville.
+FABLENVILLE.
+J'Arrive le premier, mon cher, au rendez-vous.			[520]
+Chez toi, l'on fait toujours chere tres delicate ;
+Tu le nourris toujours comme un aristocrate. 
+MODERANTIN, bas a Fablenville.
+Taisez-vous, pour raison.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ces Messieurs vont sortir.
+FABLENVILLE.
+L'abbe ne viendra pas : on vient de m'avertir
+Qu'on l'a fait arreter.
+MODERANTIN, bas.
+Que le diable l'emporte !			[525]
+FABLENVILLE.
+Nous le ferons sortir, mais par la belle porte.
+MODERANTIN, a Fablenville.
+Tu me perds, mon ami ; je suis desespere.
+FABLENVILLE.
+Toi, tu trembles toujours, tu n'es qu'un modere,
+Et dans un tour de main, c'est une chose unique,
+On lui ferait crier vive la Republique.			[530]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Soupez-vous avec nous ?
+MODERANTIN.
+Pourquoi les retenir ?
+Ces Messieurs sont presses.
+LE PREMIER COMMISSAIRE, ironiquement.
+Pour vous faire plaisir,
+Nous pourrons augmenter la bonne compagnie
+Que l'on trouve chez vous.
+MODERANTIN.
+C'est par plaisanterie...
+FABLENVILLE.
+Je ne plaisante pas. C'est chez toi, mon enfant, 			[535]
+Ou l'on peut, tu le sais, parler ouvertement ;
+Tout changera bientot, et nos gens en campagne
+Mettront a la raison messieurs de la Montagne.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Demain nous partirons pour aller a Passy.
+LE PREMIER COMMISSAIRE, au SECOND Commissaire.
+Allez vite avertir : pour moi je reste ici.			[540]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVII. Manette accourant, Moderantin, Fablenville, Le Premier Commissaire.
+MANETTE.
+Dufour vient au portier de donner un contre-ordre ;
+Il laisse entrer, sortir, il n'en veut point demordre ;
+Duval fils est reste, Monsieur, dans la maison,
+Chez votre niece enfin : trouvez-vous cela bon ?
+FABLENVILLE.
+Tu recois un Soldat revolutionnaire ?			[545]
+MODERANTIN, avec fermete.
+C'est mon neveu futur, je n'en fais pas mystere.
+LE PREMIER COMMISSAIRE.
+Le Citoyen Duval ?
+MODERANTIN, se pavanant.
+Je l'avais invite.
+LE PREMIER COMMISSAIRE.
+Serait de vos amis ?... 
+MODERANTIN, avec chaleur.
+Et j'en fais vanite !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous tairez-vous enfin ? Sentez-vous l'importance...
+FABLENVILLE.
+Vas-tu me denoncer ?
+MANETTE.
+Ayez de la prudence.			[550]
+FABLENVILLE.
+Oh ! Devant les Duval je ne dirai plus mot ;
+Sois tranquille a present ; je ne suis pas si sot.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ce Duval n'est pas sur, usons de politique,
+Et devant lui surtout, vantons la Republique.
+MODERANTIN, a Fablenville, severement.
+Monsieur, je suis surpris que vous osiez chez moi			[555]
+Tenir de tels discours.
+MANETTE.
+Paix donc.
+SCENE XVIII. Les precedents, Le Second Commissaire, Le Juge de Pais, Duval pere, Duval fils, Julie, Dufour, Gardes nationales.
+LE JUGE.
+De par la Loi.
+FABLENVILLE a Moderantin, qui tout trouble ne l'ecoute plus.
+Quoi ! Vous m'avez trahi. 
+MODERANTIN.
+Ah ! La cruelle affaire !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cher Duval, vous savez... Citoyen Commissaire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Citoyen Commissaire,
+Vous connaissez Duval, Patriote excellent...
+LE PREMIER COMMISSAIRE.
+Je doute que de vous il puisse en dire autant.			[560]
+DUVAL PERE.
+Vous m'aviez bien promis de changer de conduite,
+Eh bien, de vos travers voyez quelle est la suite ;
+Fablenville chez vous, c'est vous rendre suspect.
+MODERANTIN.
+J'eus toujours pour la Loi le plus profond respect.
+DUFOUR.
+Ceux qui sont au salon sont de la compagnie.			[565]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur en est le chef.
+MANETTE.
+Il est fou, je parie.
+FABLENVILLE.
+Y pensez-vous, Dufour ?
+DUFOUR.
+Je dis la verite.
+LE JUGE DE PAIX.
+Conduisez ces Messieurs a notre Comite.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour le salut public, il faut qu'on vous arrete.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quelques jours de prison, lui remettront la tete.			[570]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DUVAL PERE.
+Il n'est d'aucun complot, il n'etait qu'egare.
+MODERANTIN, d'un ton pleureur. 
+Oui, j'ai tort, j'en conviens ; j'etais trop modere.
+DUVAL FILS, au Juge de Paix.
+Lui-meme en fait l'aveu : son repentir sincere...
+JULIE, a Duval fils.
+Ah ! N'oubliez jamais qu'il m'a servi de pere.
+MODERANTIN, revenant a lui.
+J'en serai digne un jour : venez, Republicain,			[575]
+Mon frere, avant sa mort, vous a promis sa main,
+Et je confirme ici sa volonte derniere.
+Si je n'etais goutteux, j'irais a la frontiere ;
+Je veux me corriger, je suis de bonne-foi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Sortez de ma maison...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dufour, reste avec moi.			[580]
+DUVAL PERE, a Moderantin.
+Je vous l'avais predit, votre moderantisme
+A cause bien des maux.
+MODERANTIN.
+Je veux par mon civisme,
+Quand je serai sorti, faire tout oublier.
+Et servir de modele a tout notre quartier.
+LE JUGE DE PAIX a Moderantin.
+Les scelles sont poses.
+LE PREMIER COMMISSAIRE.
+Dufour a la consigne,			[585]
+Il est bon citoyen.
+MODERANTIN, au Juge de Paix.
+Allons, je me resigne.
+DUVAL PERE.
+Dans ces bons sentiments soyez donc affermi ;
+L'honnete homme n'est point Patriote a demi.
+Il est un vrai principe en saine politique :
+Sans la severite, l'on perd la Republique.			[590]
+MODERANTIN.
+Vous avez bien raison. Dufour, et mon repas ?
+DUFOUR.
+Nous allons le manger : allez vous mettre au pas.
+
+	==================================================

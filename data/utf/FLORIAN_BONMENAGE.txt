@@ -1,0 +1,510 @@
+********************************************************
+	DC.Title                  = LE BON MENAGE, COMEDIE
+	DC.Author                 = FLORIAN, Jean Pierre Claris de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:19.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/FLORIAN_BONMENAGE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE BON MENAGE OU LA SUITE DES DEUX BILLETSCOMEDIE EN UN ACTE ET EN PROSE
+par FLORIAN
+	
+	
+	Representee devant leurs Majestes par les Comediens francais et Italien ordinaires du Roi, le mardi 28 decembre 1782.
+	MADAME,
+Le titre de cette bagatelle peut seul excuser la hardiesse de l'offrir a Votre Majeste. Celle qui a porte sur le trone les vertus douces et simples qui font la consolation du pauvre doit sourire a la faible esquisse que j'en ai tracee. Le bon Menage appartient a Votre Majeste, par la meme raison qu'elle possede le coeur du roi et ceux de tous ses sujets.
+Je suis avec un profond respect,
+MADAME,
+De Votre Majeste,
+le tres humble et tres obeissant serviteur et sujet,
+FLORIAN
+ACTEURS
+ARLEQUIN, bourgeois de Bergame.
+ARGENTINE, femme d'Arlequin.
+L'AINE, fils d'Arlequin et d'Argentine, de l'age de sept ans.
+LE CADET fils d'Arlequin et d'Argentine, de l'age de six ans.
+ROSALBA.
+MEZZETIN.
+La scene est a Bergame, dans la maison d'Arlequin.
+
+
+
+			
+
+Le theatre represente une chambre meublee tres simplement, ou l'on voit les portraits d'Arlequin et d'Argentine. Argentine, assise, festonne ses deux enfans, sur des tabourets, sont a ses cotes l'un feuillette un livre pour en voir les estampes l'autre joue avec un jeu de cartes.
+
+SCENE I. Aargentine, Ses deux enfants.
+LE CADET, montrant a sa mere un chateau de cartes.
+Maman, regardez donc.
+ARGENTINE.
+Cela est fort joli, mon ami.
+L'AINE.
+Voyons.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah, ah, ah.
+LE CADET.
+Maman, dites donc a mon frere de me laisser tranquille : il faut que je recommence tout.
+ARGENTINE.
+Pourquoi tourmenter votre frere ? Vous ne voulez pas qu'il s'amuse ?
+L'AINE.
+Bah ! C'est un enfant ; il s'amuse a des betises.
+ARGENTINE.
+Effectivement, vous avez un an de plus que lui, et vous etes un habile garcon.
+L'AINE.
+Je m'instruis, moi je regarde des images. Quelle est celle-la, maman, ou une femme presente un aveugle un petit monsieur habille comme un chevreau ?
+ARGENTINE.
+C'est une mere qui se sert d'une ruse pour faire donner l'heritage a son fils cadet, parce qu'il etait plus doux et plus aimabte que l'aine.
+LE CADET, voulant voir l'estampe.
+Ah ! Voyons donc, mon frere : elle est bien jolie, cette image-la.
+L'AINE, tournant le feuillet.
+Non, elle n'est pas jolie.
+LE CADET.
+Maman, ou est donc mon papa ?
+ARGENTINE.
+Il est sorti pour des affaires.
+LE CADET.
+Je suis bien sur qu'il nous rapportera des joujoux.
+L'AINE.
+Oui, pour moi.
+LE CADET.
+Pour moi aussi.
+L'AINE.
+Oh ! Savoir.
+LE CADET.
+Oh ! C'est tout su.
+L'AINE.
+J'entends quelqu'un ; c'est peut-etre lui.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Non, c'est mademoiselle Rosalba.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE II. Argentine, Rosalba, Les Enfants.
+ARGENTINE.
+C'est vous, Mademoiselle ! Vous avez la bonte...
+ROSALBA.
+Es-tu seule ; ma chere amie ?
+ARGENTINE.
+Oui, mon mari vient de sortir. Avez-vous quelque chose a me dire ?
+ROSALBA.
+Assurement : fais retirer tes enfants, je t'en prie.
+ARGENTINE.
+Allez-vous-en tous deux dans l'autre chambre, et ne vous battez pas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III. Rosalba, Argentine.
+ROSALBA.
+Lelio est de retour ; il est dans la ville.
+ARGENTINE.
+Comment le savez-vous ?
+ROSALBA.
+Par la derniere lettre qu'il m'a ecrite sous ton adresse, et que tu m'as remise hier ; il m'annonce qu'il doit arriver aujourd'hui a Bergame : et je n'oserai le voir ! Ah ! Ma chere Argentine, qu'il est affreux pour une femme sensible de ne pouvoir pas voler au-devant de son mari, apres trois mois d'absence !
+ARGENTINE.
+Cela n'est que trop simple, lorsque l'on s'est mariee a l'insu de son pere.
+ROSALBA.
+Ah ! Tu sais que c'est ma tante qui a tout fait. Elle a connu le merite de Lelio ; elle a ete touchee de notre amour. Apres avoir fait inutilement tous les efforts possibles pour obtenir le consentement de mon pere, elle a pris sur elle de m'unir secretement au seul homme que je pouvais aimer.
+ARGENTINE.
+Je sais tout cela, Mademoiselle : mais madame votre tante est morte, et monsieur votre pere ignore toujours votre mariage : je suis la seule a present chargee de ce grand secret, et je n'ose vous dire combien je suis fachee d'etre la seule. Ma chere maitresse, je vous dois tout elevee aupres de vous dans la maison de monsieur votre pere vous m'avez dotee, vous m'avez mariee a un epoux qui fait le bonheur de ma vie, je tiens tout de vous seule, et je suis obligee de faire aveuglement tout ce que vous desirez : jusqu'a present vous avez recu, sous mon adresse, les lettres de Monsieur Lelio ; je n'ai jamais ose confier a mon mari que je vous rendais ce service : mais enfin.
+ROSALBA.
+Garde-t'en bien, ma chere Argentine ! Arlequin n'a point de raisons pour m'etre attache, il en a mille pour l'etre a mon pere : c'est mon pere qu'il a servi ; et son respect pour son ancien maitre lui ferait trahir mon secret. D'ailleurs je connais ton mari ; aussi babillard qu'honnete homme, il n'imagine pas que l'on puisse cacher quelque chose. Tout serait perdu s'il etait instruit. Je te supplie donc, ma chere Argentine, par la tendre amitie que j'ai toujours eue pour toi, de me jurer ici de nouveau que, quelque chose qui puisse arriver, tu ne reveleras jamais mon secret a ton mari.
+ARGENTINE.
+Je vous en donne ma parole, quoi qu'il m'en coute pour vous la donner. Votre coeur doit comprendre aisement combien il est douloureux de cacher la moindre chose a un epoux que l'on aime : c'est une espece de mensonge qui fait rougir et souffrir. Je vous conjure, ma chere maitresse, de faire cesser la peine et l'inquietude ou je suis. Vous ne doutez pas de mon zele, vous connaissez ma tendresse pour vous... Passez-moi ce terme, on n'offense personne en l'aimant : vous etes bien certaine que je ferai toujours tout ce qui pourra vous plaire ; mais cela meme vous oblige d'etre prudente pour nous deux.
+ROSALBA.
+Je le serai, ma chere amie, et j'ai grand besoin de l'etre : car enfin il faut t'avouer que je porte dans mon sein un gage de mon amour.
+ARGENTINE.
+Je n'ose m'en rejouir mais, si tout le monde le savait, j'en pleurerais de joie.
+ROSALBA.
+Je te demande un dernier service. Lelio doit etre arrive ; je suis sure que son impatience va lui faire tout hasarder pour me voir : va le trouver, va lui dire que je le supplie, que je lui ordonne de ne pas sortir de chez lui avant qu'il ait recu de mes nouvelles. Cela est important pour le succes de mes projets. Tu lui diras que je souffre autant que lui de ne le pas voir ; que je l'aime plus que ma vie ; que...
+ARGENTINE.
+Oui, oui, mademoiselle ; avant de lui dire ce que vous voulez qu'il sache, je lui dirai tout ce qu'il sait. Je comprends cela a merveille des que mon mari sera rentre, j'irai parler a Monsieur Lelio.
+ROSALBA.
+J'ai encore une priere a te faire. Mon pere est dans l'usage de me donner, pour en disposer a ma volonte, le vingtieme de tous les profits un peu considerables qu'il fait dans son commerce. Il vient de gagner cent mille ecus ; et ce matin il m'a apporte quinze mille francs dont je suis maitresse absolue. Tu ne devines pas ce que j'en veux faire ?
+ARGENTINE.
+Non.
+ROSALBA.
+Si je ne te devais pas tant, je serais bien plus hardie a te les offrir.
+ARGENTINE.
+A moi ?
+ROSALBA.
+Oui, ma bonne amie : ajoute ce plaisir a tous ceux que je te dois souffre que cette bagatelle soit mise en rente viagere sur ta tete : j'ai deja donne des ordres a mon notaire, et je t'enverrai ce soir ton contrat.
+ARGENTINE.
+Ma chere maitresse, je n'ose ni accepter ni refuser votre bienfait ;	mais...
+ROSALBA.
+Si tu me refuses, je ne veux plus de tes services.
+ARGENTINE.
+Ecoutez. Je suis heureuse, je ne manque de rien, et j'ai deja, grace a vous, assure le sort de mes enfants. Si mon mari venait a me perdre, il ne serait pas a son aise ; que ce soit lui qui profite de vos bienfaits : mon coeur et ma delicatesse y trouveront mieux leur compte.
+ROSALBA.
+A la bonne heure ; je vais des ce moment tout arranger selon tes intentions. Adieu, ma chere Argentine c'est aujourd'hui que j'ai recu de toi la plus grande marque d'amitie.
+SCENE I..
+ARGENTINE, seule.
+Je donnerais ma vie pour la voir heureuse ; mais nous ne le serons jamais tant que son pere ne saura pas tout... Mes enfants, revenez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. Argentine, Les enfants.
+ARGENTINE.
+Avons-nous ete bien sages ?
+L'AINE.
+Oh ! Oui, maman ; car nous nous sommes bien ennuyes.
+LE CADET.
+Mon papa tarde aujourd'hui bien longtemps.
+ARGENTINE.
+Il va rentrer.
+L'AINE.
+Ah ! Pour le coup, maman, c'est lui ; je l'entends.
+SCENE VI. Arlequin, Argentine, Les Deux enfants.
+Arlequin arrive avec un petit tambour d'enfant a la ceinture, sur lequel il bat d'une main ; de l'autre il joue d'une petite trompette de bois. Il fait deux ou trois fois le tour du theatre.
+LES DEUX ENFANTS, courant apres lui.
+Ah ! Papa, papa, c'est pour nous ?
+ARLEQUIN, a sa femme.
+Veux-tu danser une contre-danse a quatre ?
+ARGENTINE.
+Non, mon ami.
+ARLEQUIN, a son aine.
+Tiens, le tambour est pour toi,la trompette pour ton frere.
+LES DEUX ENFANTS, l'embrassant.
+Bien oblige, mon papa.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, a sa femme, en lui donnant un sac d'argent.
+Tiens, voila pour toi : car il faut bien t'apporter aussi quelque chose tu es le plus grand enfant de la maison.
+ARGENTINE.
+Qu'est-ce que cela, mon ami ?
+ARLEQUIN.
+Ce sont ces cinquante ecus que nous pretames a ce pauvre homme que l'on allait arreter pour ses dettes : il a travaille pour gagner cet argent-la pendant le temps qu'il aurait passe en prison a ne rien faire ; de sorte qu'il est quitte avec nous, avec son creancier nous avons fait une bonne action, et personne n'y a perdu que le geolier.
+ARGENTINE, prenant le sac.
+A te dire vrai, je n'y comptais guere.
+ARLEQUIN.
+En ce cas-la, serre-les pour les preter a un autre. J'ai encore ete chez....
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Taisez-vous donc, vous autres ; on ne s'entend pas. J'ai ete chez ta cousine : elle se plaint de toi ; elle dit qu'on ne te voit jamais, que tu es toujours renfermee avec tes enfants ou ton mari ; que tu ne penses a rien dans le monde qu'a tes enfants et a ton mari : il faut convenir qu'elle a raison ; je suis juste moi...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais voila des enfants bien bruyants.
+ARGENTINE.
+Pardi ! Pour les faire jouer doucement, tu leur apportes un tambour et une trompette.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, aux enfants.
+Allez-vous en battre la generale de l'autre cote.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VII. Arlequin, Argentine.
+ARGENTINE.
+Vas-tu rester ici, mon ami ?
+ARLEQUIN.
+Oui ; pourquoi cela ?
+ARGENTINE.
+C'est que je vais sortir.
+ARLEQUIN.
+Ou vas-tu ?
+ARGENTINE.
+Faire une commission pour mademoiselle Rosalba.
+ARLEQUIN.
+Qu'est-ce que c'est que cette commission ?
+ARGENTINE.
+Je ne peux pas te le dire, elle me l'a defendu.
+ARLEQUIN.
+Voila, par exemple, un de tes avantages sur moi ; tu sais garder un secret ; moi, je ne le sais pas. Aussi je te confie tous les miens, pour qu'ils soient en surete.
+ARGENTINE.
+Mon bon ami, tout ce que je pense t'appartient mais tu n'ignores pas les obligations que j'ai a mademoiselle Rosalba : c'est elle qui nous a maries. Il me semble qu'apres un tel bienfait je suis obligee de faire tout ce qu'elle exige, meme de te cacher quelque chose.
+ARLEQUIN.
+Ah ! Je me doute de ce que c'est. J'ai vu ce matin Monsieur Pandolfe ; il m'a dit qu'il avait donne quinze mille livres a sa fille pour en faire ce qu'elle voudrait. Mademoiselle Rosalba a le meilleur cceur du monde ; et, quand on a un bon coeur et de l'argent mignon, on a toujours des petites choses a faire en cachette.
+ARGENTINE, a part.
+Helas !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mon ami, ne parlons plus de cela, je t'en prie. Quand bien meme tu devinerais, je serais obligee de te mentir ; et tu ne voudrais pas que ma reconnaissance pour mademoiselle Rosalba me coutat si cher.
+ARLEQUIN.
+Allons, va-t'en ; je resterai avec les enfants. Les as-tu fait lire aujourd'hui ?
+ARGENTINE.
+Oui.
+ARLEQUIN.
+C'est bon ; je les ferai jouer, moi. Allons, va-t'en donc.
+ARGENTINE.
+Adieu, mon ami.
+ARLEQUIN.
+Allez-vous-en, madame, et reviens vite, au moins. Quand je cours la ville, je me passe de toi ; mais je ne peux plus m'en passer des que je ne cours plus, entends-tu ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII.
+ARLEQUIN, seul.
+Cette mademoiselle Rosalba lui donne souvent des commissions, et elle ne m'en donne jamais, a moi. Cependant elle sait bien avec quel plaisir je trotterais pour elle... Ah ! C'est qu'elle aime mieux ma femme que moi : elle a raison, j'en fais bien autant. Oh ! Arlequinet, venez-vous-en ici me tenir compagnie ; mais laissez votre tambour.
+SCENE IX. Arlequin, Les deux enfants.
+ARLEQUIN.
+Avez-vous bien lu, ce matin ?
+L'AINE.
+Oh ! Oui, mon papa.
+ARLEQUIN.
+Votre maman a-t-elle ete contente de vous ?
+LE CADET.
+Elle a dit que oui, mon papa,
+ARLEQUIN.
+Vous ne l'avez pas fait enrager ? Elle ne vous a pas grondes ni l'un ni l'autre ?
+L'AINE.
+Au contraire, mon papa, elle nous a bien baises.
+ARLEQUIN, les embrassant avec tendresse.
+Cela etant, venez me baiser aussi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand vous voudrez me rendre bien heureux, vous n'avez qu'a rendre votre mere bien contente. Elle en sait plus que nous trois, voyez-vous ; ainsi nous ne devons etre occupes que de faire tout ce qu'elle veut. Nous y trouverons son plaisir d'abord, et puis notre bien ; c'est tout ce qu'il nous faut, n'est-il pas vrai ?
+L'AINE.
+Oui, mon papa. Mais, puisque nous avons ete bien sages, vous devriez bien nous conter quelqu'un de ces beaux contes que vous savez.
+LE CADET.
+Ah oui, mon papa.
+ARLEQUIN.
+Volontiers : aussi bien nous nous ennuyons quand elle nous laisse seuls ; cela nous fera passer le temps. Allons, asseyons-nous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il y avait une fois un roi et une reine qui s'aimaient beaucoup, et que tout le monde aimait... Ceci n'est pas un conte, au moins.
+LE CADET.
+Oh ! Nous vous croyons bien, mon papa.
+L'AINE.
+Nous vous croyons comme si nous le voyions.
+ARLEQUIN.
+La reine etait aussi belle que le roi etait bon, mais ils n'avaient point d'enfants, et cela leur faisait du chagrin. Un jour que la reine etait toute seule dans sa chambre, elle entendit du bruit dans la cheminee.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La reine eut un peu peur : elle regarde, et voit descendre un beau petit carrosse traine par six petits epagneuls verts, avec les oreilles lilas. Dans le petit carrosse etait une petite vieille fee qui n'avait pas un pied de haut, et qui dit a la reine : Madame la reine, vous aurez un enfant, si vous voulez consentir a devenir laide et vieille. Pourvu que mon mari m'aime toujours, repondit la reine, j'y consens de tout mon coeur. Je suis contente de vous, repondit la petite fee ; non seulement vous aurez un enfant, mais vous en aurez deux, et vous n'en serez que plus belle. Apres cette parole, le six petits epagneuls verts remonterent la cheminee ventre a terre, et la reine eut effectivement un beau petit prince et une belle petite princesse, qui furent charmants, parce qu'ils ressemblerent a leur mere.
+L'AINE.
+Ah ! Mon papa, voila une bien jolie histoire ; mais elle est bien courte : vous devriez nous en raconter une autre.
+LE CADET.
+Oh ! Oui, mon papa ; encore une, s'il vous plait.
+ARLEQUIN.
+Un moment. Je vous ai donne, il n'y a pas longtemps, un petit livre tout rempli d'histoires : vous m'aviez promis d'en apprendre quelqu'une par coeur, m'avez-vous tenu parole ?
+L'AINE.
+Oui, mon papa j'en ai appris une bien belle.
+ARLEQUIN.
+Je crois que tu mens car tu rougis.
+L'AINE.
+Non, mon papa ; et je vais vous la raconter si vous voulez.
+ARLEQUIN.
+A la bonne heure. Tant que vous serez des enfants, mon metier est de vous amuser ; mais quand la vieillesse m'aura rendu enfant aussi, il faudra que vous m'amusiez a votre tour. Voila pourquoi vous devez vous y accoutumer de bonne heure. Voyons cette histoire.
+L'AINE.
+Ecoutez bien, mon frere. Il y avait une fois deux petits garcons, jolis, jolis comme...
+ARLEQUIN.
+Comme vous deux.
+L'AINE.
+Encore plus jolis que nous.
+ARLEQUIN.
+C'est un peu fort.
+L'AINE.
+Ces deux petits garcons avaient une bonne mere, mais ils n'avaient pas un bon pere, et ce n'etait pas comme nous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La mere de ces deux petits garcons etait tres pauvre. Un jour qu'ils etaient alles ramasser du bois pour leur mere, ils trouverent une vieille femme qui etait tombee dans un fosse et qui ne pouvait pas s'en retirer. Sur le bord du fosse etait une belle poule blanche qui cloquetait, cloquetait, comme pour demander du secours pour la vieille : les deux petits garcons se jettent dans le fosse, et en retirent la bonne femme. Aussitot la poule blanche s'en va pondre dans les chapeaux des deux petits garcons un bel oeuf d'or. La vieille, qui etait une fee, leur dit : Mes enfants pour vous recompenser de ce que vous venez de faire, ma poule vous a deja donne uu oeuf d'or mais moi, je veux vous donner ma poule a une condition cependant ; c'est que celui de vous deux qui l'aura ne pourra pas donner de ses oeufs a l'autre. L'aine lui repondit Madame, je ne veux point d'un tresor que je ne peux pas partager avec mon frere. Le cadet dit Ni moi non plus, madame. Mais il y a maniere de nous arranger donnez la poule a ma mere ; comme cela nous l'aurons tous deux. Alors, la bonne fee...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE CADET.
+Mon papa, on frappe.
+ARLEQUIN.
+Je vais ouvrir. Allez dans votre chambre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X. Arlequin. Mezztin.
+MEZZETIN.
+N'est-ce pas ici, monsieur, que demeure une Madame Argentine ?
+ARLEQUIN.
+Oui, monsieur.
+MEZZETIN.
+Est-elle chez elle, monsieur ?
+ARLEQUIN.
+Non, monsieur.
+MEZZETIN.
+Peut-on attendre, monsieur?
+ARLEQUIN.
+Non, monsieur.
+MEZZETIN.
+Vous etes son domestique monsieur ?
+ARLEQUIN.
+Oui, monsieur, son premier domestique.
+MEZZETIN.
+Vous voudrez donc bien lui donner cette lettre de la part de Monsieur Lelio, et vous prendrez te moment ou elle sera seule. Vous entendez bien ?
+ARLEQUIN.
+Non, monsieur.
+MEZZETIN.
+Je vous dis qu'il faut donner cette lettre a votre maitresse le plus secretement que vous pourrez, parce que, entre nous, je crois que c'est une lettre d'amour ; et peut-etre que madame Argentine a quelque pere ou quelque frere. Je n'en sais rien, moi ; je ne suis a Monsieur Lelio que depuis huit jours mais vous, vous devez etre au fait.
+ARLEQUIN, surpris.
+Au fait ?
+MEZZETIN.
+Oui, sans doute. Vous m'entendez ? Prenez donc des precautions pour... Enfin, vous me comprenez.
+ARLEQUIN.
+Je commence a vous comprendre.
+MEZZETIN.
+Ah ca ! N'allez pas faire quelque etourderie : je vous ai tout confie, parce que vous savez bien qu'entre nous autres nous n'avons rien de cache, et que le secret de nos maitres appartient toujours a toute la compagnie.
+ARLEQUIN.
+Sans doute.
+MEZZETIN, s'en va et revient.
+Je pense a une chose : allons attendre au cabaret le retour de Madame Argentine.
+ARLEQUIN.
+Je vous suis bien oblige ; je n'ai pas soif.
+MEZZETIN.
+Ce sera donc, pour une autre fois. Adieu, mon camarade.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, le rappelant.
+Ecoutez donc, monsieur.
+MEZZETIN.
+Quoi ?
+ARLEQUIN.
+Etes-vous marie ?
+MEZZETIN.
+Oui, depuis longtemps.
+ARLEQUIN.
+Et votre femme est jolie ?
+MEZZETIN.
+Tres jolie. Pourquoi cela ?
+ARLEQUIN.
+Pour rien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Adieu, mon camarade.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XI.
+ARLEQUIN, seul.
+Ce domestique-la est surement menteur comme un laquais ; mais pourquoi Monsieur Lelio ecrit-il a ma femme ? Voila bien l'adresse : A madame, madame Argentine. J'ai bien envie de la decacheter. Non, ce serait manquer de respect a ma femme. D'ailleurs, si je n'y trouvais rien, je serais fache de l'avoir decachetee ; et si j'y trouvais quelque chose, j'en serais encore plus fache. Il n'y a que du chagrin a gagner. Cependant... Non... Il faut etre plus que sur avant de faire voir a sa femme qu'on la soupconne. Attendons-la ; je lui donnerai cette lettre et nous verrons ce qu'elle me dira... Nous verrons... La voici.
+SCENE XII. Argentine, Arlequin.
+ARGENTINE.
+Je n'ai pas ete longtemps, mon bon ami ; du moins, j'ai fait ce que j'ai pu pour revenir tout de suite. Ou sont nos enfants ?
+ARLEQUIN.
+Ils sont de l'autre cote.
+ARGENTINE.
+Comme tu es serieux ! Que t'est-il arrive ?
+ARLEQUIN.
+Je ne sais pas encore ce qui m'est arrive.
+ARGENTINE.
+As-tu recu de mauvaises nouvelles ? Est-il venu quelqu'un ?
+ARLEQUIN.
+Oui, il est venu un domestique qui m'a laisse une lettre pour vous.
+ARGENTINE.
+Pour moi ? Et que dit cette lettre ?
+ARLEQUIN.
+Je n'en sais rien : la voila.
+ARGENTINE, regardant.
+Ah !...
+ARLEQUIN.
+Reconnaissez-vous l'ecriture ?
+ARGENTINE.
+Oui.
+ARLEQUIN.
+De gui est-elle ?
+ARGENTINE.
+Elle est...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que lui dirai-je ?
+ARLEQUIN.
+He bien. cela vous embarrasse ?
+ARGENTINE.
+Mon ami, me crois-tu capable de te tromper ?
+ARLEQUIN.
+Repondez-moi dabord ; de qui est cette lettre ?
+ARGENTINE.
+Je la crois de Monsieur Lelio.
+ARLEQUIN.
+Je le crois de meme. Ouvrez-la. La main vous tremble.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)He bien ?
+ARGENTINE, lui donne la lettre.
+Tenez, vous allez me croire coupable, vous aurez le droit de le penser et cependant le ciel m'est temoin que c'est la vertu la plus pure, le sentiment le plus honnete, qui m'empeche de me justifier.
+ARLEQUIN.
+Voyons.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cette lettre donne le frisson a tout le monde.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)« Ma chere amie, j'arrive, et j'ai besoin de toute ma raison pour ne pas voler dans tes bras. Si je ne craignais que de me perdre, rien ne me retiendrait ; mais je pourrais te compromettre, et mon amour meme est moins fort que cette crainte. Il est si important pour nous de tromper celui qui detruirait notre bonheur ! Le nom sacre qui l'attache a toi suffit a peine pour moderer ma haine. J'espere qu'un jour viendra, et ce jour n'est pas loin, ou nous pourrons nous livrer publiquement a notre amour, et devoiler a tous les yeux les liens qui nous attachent l'un a l'autre. Adieu ; tache de venir me voir si tu peux echapper aux yeux du barbare qui te veille : j'attends. Tu sais si je t'aime. LELIO. »
+Et moi, je ne sais si je dors ou si je veille mais si je dors, je fais un vilain reve et si je suis eveille. Oh ! Je le suis.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)A madame Argentine.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)A madame Argentine, Tenez, madame.
+ARGENTINE.
+Mon ami.
+ARLEQUIN.
+Je ne le suis plus, votre ami : vous m'avez trompe et c'est d'autant plus affreux, que je ne vivais que pour vous croire. Comment vous qui me parliez toujours de votre tendresse pour moi, vous qui etiez toujours pendue a mon bras ou a mon cou, vous faisiez semblant de m'aimer pour mieux me trahir vous m'embrassiez pour m'empecher d'y voir clair ! Voila ce qui m'indigne le plus ; car je ne parle pas de mariage, ce n'est rien cela aupres de l'amour.
+ARGENTINE.
+He bien !...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Non, je serai fidele a ma bienfaitrice.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vous demande, je vous supplie de suspendre votre colere ; je me justifierai, soyez-en sur, et vous serez alors...
+ARLEQUIN, avec colere.
+Comment vous serait-il possible de vous justifier ?Vous sortez sans vouloir me dire ou vous allez ; un domestique apporte cette lettre ; il me recommande de vous la donner en secret... Vous venez de l'entendre, cette lettre ; elle est claire ; il n'y a pas une seule phrase, pas un seul mot qui ne dise intelligiblement que vous etes une infidele. Elle est bien pour vous cette lettre ; voila votre nom, le vois ; je le vois, je le lis ; je n'ai pas le bonheur d'etre aveugle. Monsieur Lelio vous y donne un rendez-vous, ou vous avez couru, meme avant de le recevoir ; car vous venez de chez Monsieur Lelio, j'en suis sur, je le sais, je l'ai vu, je vous ai suivie. Osez m'assurer que vous ne venez pas de chez Monsieur Lelio.
+ARGENTINE.
+Je ne veux pas vous mentir ; il est vrai que je viens de parler a Monsieur Lelio mais...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et pourquoi me le dire ? Je n'en etais pas sur.
+ARGENTINE.
+Ecoutez-moi.
+ARLEQUIN, furieux.
+Je ne veux rien entendre ; je veux m'en aller ; je veux vous quitter... Mon parti est pris ; ma colere est passee. Je n'en ai plus de colere, parce que je n'ai plus d'amour ; je suis de sang-froid... Mais, comme je me sens le plus fort desir de meurtrir ce visage-la, qui est la cause de tous mes chagrins, vous sentez bien qu'il faut que je m'en aille... Vous sentez bien...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)N'ayez pas peur, je sais me posseder... Je ne suis plus votre mari, je suis votre ami, votre meilleur ami, et je vous parle comme un ami... Je vous abhorre, je vous deteste, je vous meprise, je ne peux plus soutenir votre vue, je ne peux plus vous regarder sans me dire : Voila une femme qui en aimait deux, et qui leur faisait croire qu'ils etaient un. Separons-nous des ce moment. Restez ici, gardez vos enfants ; je ne pourrais jamais les embrasser sans vous pleurer ; j'aime encore mieux renoncer a les embrasser. Gardez tout le bien ; il vient de vous, il me serait odieux. Je n'ai besoin de rien, je ne veux rien, je n'emporterai rien que mon coeur et comme, si je vous parlais plus longtemps, je vous le laisserais peut-etre, je vous quitte pour jamais.
+ARGENTINE court apres.
+Mon ami...
+ARLEQUIN, le repoussant.
+Laissez-moi ; je ne vous verrai plus.
+SCENE XIII.
+ARGENTINE, seule.
+Malheureuse ! Que devenir ? Que faire ? Il me croit coupable ; et je ne puis... Courons nous jeter aux pieds de mademoiselle Rosalba ; elle aura pitie des maux qu'elle me cause ; elle ira me justifier elle-meme aux yeux de mon mari ; c'est a elle. Mais la voici.
+SCENE XIV. Argentine, Rosalba.
+ARGENTINE.
+Mademoiselle...
+ROSALBA.
+Je viens de rencontrer ton mari.
+ARGENTINE.
+Ou allait-il ?
+ROSALBA.
+Chez mon pere. Je lui ai donne moi-meme ce petit contrat que j'ai fait faire pour lui, selon tes intentions ; mais a peine m'a-t-il regardee : il a pris le papier d'un air egare, et a poursuivi son chemin sans me parler. He quoi !... Tu pleures, ma chere Argentine ! Qu'est-il donc arrive ? Reponds-moi vite.
+ARGENTINE.
+Le plus affreux des malheurs. Monsieur Lelio vous a ecrit, comme a l'ordinaire, sous mon adresse. Mon mari a recu ta lettre ; il me croit coupable ; il m'abandonne : et je n'ai pas trahi votre secret.
+ROSALBA.
+O ciel ! Que me dis-tu ? Arlequin va chez mon pere ; je le connais, il lui dira tout ; et mon pere sera plus irrite que jamais contre Lelio. Peut-etre meme soupconnera-t-il la verite, et rien alors ne pourra le flechir... Ma chere amie, pardon pardon mille fois, mon amie. Je ressens tourte ta douleur ; et je me perdrai, s'il te faut, afin de te justifier mais je te supplie, je te conjure d'attendre ici que je revienne te parler.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XV.
+ARGENTINE, seule.
+Et lui... Reviendra-t-il ?... Irai-je le chercher ?... Il reviendra j'en suis sure ; mon coeur me le dit, et mon coeur ne m'a jamais trompee toutes les fois qu'il m'a parle de lui... Attendons... Je suis au supplice.... Mes enfants, revenez ; mes pauvres enfants, venez embrasser et consoler votre mere.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVI. Argentine, Les deux enfants.
+LE CADET.
+Ah ! Maman, qu'avez-vous donc ? Vous pleurez comme quand j'ai ete malade.
+L'AINE.
+Ma chere maman, avez-vous du chagrin ?
+ARGENTINE, pleurant.
+Non, mes enfants ; non, mes bons enfants ce n'est rien ; cela se passera.
+L'AINE.
+Nous avons entendu mon papa qui grondait bien fort. Est-ce lui qui vous fait pleurer comme cela ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVII. Arlequin, Argentine, Les deux enfants.
+ARGENTINE.
+Vous savez bien que jamais aucun chagrin ne peut me venir par votre papa au contraire, c'est toujours lui qui les dissipe.
+LE CADET.
+Ah ; le voila.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Venez donc vite, mon papa ; maman pleure, et elle dit que vous seul pouvez la consoler.
+ARLEQUIN, les repoussant tout doucement.
+Laissez-moi, laissez-moi.
+L'AINE.
+Ah ! Mon frere, comme il a du chagrin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARGENTINE.
+Madame, vous etes fachee de me revoir ; je le suis plus que vous : mais, comme j'ai le projet de vous oublier entierement, je viens vous rendre tout ce qui pourrait me rappeler que nous nous sommes aimes.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tout est dans ce petit sac ; je l'avais mis la.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour que tout ce que nous nous etions donne fut ensemble. Je vais vider le sac devant vous ; afin que vous n'imaginiez pas que je garde quelque chose.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici d'abord votre portrait : il n'a pas change comme vous, il est toujours joli il vous ressemblait encore ce matin ; mais il ne vous ressemble plus. Le voila, madame.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici le premier billet que vous m'avez ecrit, que Scapin me vola, et que j'eus le bonheur de rattraper. Le voila, madame je vous le rends ; je n'aime pas a vivre avec les menteurs.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici encore un vieux bouquet de violettes que je vous donnai le premier jour ou je vous lis ma declaration. Apres t'avoir porte toute la journee, vous le jetates le soir; j'allai le ramasser... Tenez, il sent encore bon... Je n'aurais jamais cru que ces violettes-la dureraient plus que votre amour. Les voila, madame.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il n'y a plus rien ; regardez. Ce petit sac, qui avait ete des annees a se remplir, s'est vide dans une minute. J'ai tout rendu. Ah ! J'oubliais ce qui doit vous etre le plus cher... La lettre de Monsieur Lelio, et puis encore un contrat que mademoiselle Rosalba vient de me donner ; car c'est surement pour vous, ce contrat-la.
+ARGENTINE.
+Non ; il est a vous.
+ARLEQUIN.
+A moi ! Qu'est-ce que cela veut dire ?
+ARGENTINE.
+Je vais vous l'expliquer, quoique ce ne soit pas le moment. Mademoiselle Rosalba a voulu me donner ce matin quinze mille francs, je lui ai demande que ce don fut pour vous seul : c'est le contrat que vous tenez.
+ARLEQUIN, jetant le contrat.
+Je n'en veux point. Avez-vous imagine que je recevrais d'une main les lettres de Monsieur Lelio et de l'autre, des presents pour me consoler ? Avez-vous cru me dedommager, avec de l'argent, de votre coeur que vous m'avez ote ? Non, madame, non ; personne n'est assez riche pour me payer ce que vous m'avez vole.
+ARGENTINE.
+Mon coeur est toujours a vous ; il n'a pas cesse d'etre a vous. Je ne peux pas en dire davantage mais vous devriez me deviner.
+ARLEQUIN.
+Vous deviner ! Cela etait bon quand nous nous aimions ce n'est que dans ce temps-la qu'on se devine.
+ARGENTINE.
+Voulez-vous m'ecouter un seul moment ?
+ARLEQUIN.
+Oh ! Parlez ; votre ami, Monsieur Lelio, s'est donne la peine d'ecrire ma reponse a tout ce que vous direz.
+ARGENTINE.
+Une femme assez malheureuse pour tromper son mari n'en vient pas au dernier crime sans lui avoir donne des sujets de plaintes moins graves ce n'est qu'a force de negliger ses devoirs qu'elle parvient a les oublier. Si j'etais capable de vous avoir trahi, avant d'en aimer un autre, j'aurais cesse de t'aimer toi-meme ; j'aurais repousse ta tendresse, j'aurais cherche a te refroidir. Et, reponds-moi, as-tu jamais remarque la moindre diminution dans mon amour pour toi, dans mon desir de te plaire, dans mon chagrin de te quitter, dans mon plaisir de te revoir ? Rappelle-toi tous les instants de ma vie ; en ai-je ete un seul sans te dire, sans te repeter, sans te prouver que je t'adore ? Ton coeur peut-il m'accuser ?
+ARLEQUIN.
+Il n'est pas question de mon coeur, il ne vous accusera, jamais La vieille habitude qu'il a de vous croire fait qu'il me parle toujours pour vous. Mais je ne l'ecoute pas. Voila la lettre qui vous condamne ; cette lettre est de Monsieur Lelio ; Monsieur Lelio vous aime ; vous vous cachez de moi pour aller voir Monsieur Lelio ; tout cela est clair... Et, tenez, Monsieur Pandolfe lui-meme, a qui je viens de tout raconter, parce que je ne peux pas garder mes chagrins moi, Monsieur Pandolfe a ete plus afflige que surpris ; il m'a dit que Monsieur Lelio s'amusait a etre l'amoureux de toutes tes femmes qu'il voyait. Car il ne faut pas que vous vous imaginiez etre la seule que Monsieur Lelio adore. Il se moque de vous tout comme des autres. Il en aime peut-etre dix dans ce moment-ci ; et cette lettre-la a servi pour une douzaine. Sans aller plus loin, Monsieur Pandolfe m'a-dit qu'il avait un peu tourne la tete a mademoiselle Rosalba.
+ARGENTINE.
+Et vous pensez que j'aurais ete capable d'enlever un amant a Mademoiselle Hosalba, a ma bienfaitrice, a celle a qui je dois tout ! Vous imaginez que j'aurais sacrifie ma tendresse pour toi, mon bonheur, mon repos, pour avoir le plaisir de chagriner Mademoiselle Rosalba ! Non, mon ami, l'amitie seule m'aurait defendue : mais je l'etais assez par mon amour, qui est aussi vif, aussi tendre, qu'au premier jour de notre mariage. Il est possible qu'une femme trompe son epoux, mais elle ne peut pas tromper son amant : l'amour est une sauvegarde encore plus sure que la vertu. Mon ami, je suis innocente, puisque je t'aime, puisque je t'adore, puisque je prefere la mort a ton indifference... Reponds-moi... A quoi penses-tu ?
+ARLEQUIN, la regardant.
+Je pense qu'il serait bien dommage que la faussete eut ce visage-la.
+ARGENTINE.
+Livre-toi au mouvement de ton coeur ; reviens a moi, reviens a celle qui n'a pas cesse d'etre a toi. Je ne me releve pas que tu ne m'aies pardonne.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LES ENFANTS.
+Ah ! Mon papa, pardonnez a notre maman.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+C'est a toi de me pardonner d'avoir pu te croire coupable.
+LES ENFANTS, a leur mere.
+Ah ! Maman, pardonnez a notre papa.
+ARGENTINE, l'embrassant.
+Enfin ; me voila heureuse ! Mon ami, je te promets qu'il ne te restera pas le moindre nuage ; je jure que tout sera eclairci...
+ARLEQUIN.
+Tout l'est puisque tu m'as embrasse.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARGENTINE.
+Non, mon ami ; j'exige de toi que tu ne me quittes pas une seule minute jusqu'au moment de ma justification... Mais voici Mademoiselle Rosalba. Comme elle est agitee ! Eh ! Mademoiselle, qu'allez-vous nous apprendre ?
+SCENE XVIII. Rosalba, Arlequin, Argentine, Les deux enfants.
+ROSALBA.
+Qu'il ne manque plus rien a mon bonheur. Laisse-moi reprendre haleine ; je ne me possede pas de joie.
+ARGENTINE.
+Je brule d'apprendre.
+ROSALBA.
+Ma tendresse pour toi pouvait seule me donner le courage que je viens d'avoir. En te quittant, j'ai couru chez mon pere ; Arlequin sortait, il lui avait tout dit, car mon pere, irrite, donnait a Lelio des noms qu'il est loin de meriter. Je me suis precipitee a ses pieds. C'est moi, me suis-je ecriee, c'est moi qui l'ai epouse ; je suis sa femme... La femme de qui ? A-t-il dit en me repoussant. La femme de Lelio. A ces paroles mes forces m'ont abandonnee, mais non pas mon pere ; il m'a relevee avec fureur et tendresse ses mains tremblaient et n'osaient pas serrer les miennes ; il semblait avoir peur de me pardonner. J'ai profite de l'instant j'ai tout avoue je lui ai dit que je portais dans mon sein le gage de notre union que cet enfant etait le sien et qu'il lui demandait par ma voix la permission de naitre pour l'aimer. Mon amie, cette idee a fait evanouir sa colere ; il est reste un moment incertain sur ce qu'il allait dire. Mes yeux etaient fixes sur les siens, mon coeur battait de toute sa force ; je le regardais sans parler ; il me regardait de meme : enfin ce silence a fini par un torrent de larmes qu'il retenait depuis longtemps. Des que je l'ai vu pleurer j'ai senti qu'il allait pardonner ; je me suis elancee a son cou ; et les premiers mots que sa bouche a prononces, en se pressant sur mon visage, ont ete : Ma fille je te pardonne.
+ARGENTINE, embrassant Rosalba avec transport.
+Ah ! Rien ne manque a mon bonheur.
+ROSALBA.
+Venez, mes amis, venez avec moi : je cours chercher Lelio ; je vais le conduire aux pieds de mon pere. Soyez les temoins d'une felicite que je dois a ma chere Argentine.
+ARLEQUIN.
+Mais je n'entends pas bien tout cela. Monsieur Lelio est donc le mari de mademoiselle Rosalba ?
+ARGENTINE.
+Voila ce grand secret que j'avais promis de te cacher. De peur qu'il ne fut decouvert, je recevais sous mon adresse tes lettres de Monsieur Lelio pour sa femme... Celle d'aujourd'hui...
+ARLEQUIN.
+Chut, chut, je comprends toute ma meprise : je ne me la pardonnerais pas si j'avais eu besoin d'explication pour me raccommoder avec toi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mes enfants, vous vous marierez un de ces jours ; si vous avez le bonheur, comme moi, de trouver une honnete femme, souvenez-vous qu'il faut toujours la croire plus que vos propres yeux. Sans cela, point de bon menage.
+
+	==================================================

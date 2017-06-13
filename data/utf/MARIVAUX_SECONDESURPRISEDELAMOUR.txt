@@ -1,0 +1,1551 @@
+********************************************************
+	DC.Title                  = LA SECONDE SUPRISE DE L'AMOUR, COMEDIE
+	DC.Author                 = MARIVAUX
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:22.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/MARIVAUX_SECONDESURPRISEDELAMOUR.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LA SECONDE SUPRISE DE L'AMOUR COMEDIEM. DCC. XXVIII. avec approbation et privilege du Roi.
+par Monsieur de MARIVAUX
+	A Paris, chez Pierre Prault, quai de Greves, au Paradis.
+	
+	Representee pour la premiere fois par les comediens francais le 31 decembre 1727.
+	Madame,
+Je ne m'attendais pas que mes ouvrages dussent jamais me procurer l'honneur infini d'en dedier un a Votre Altesse Serenissime. Rien de tout ce que j'etais capable de faire ne m'aurait paru digne de cette fortune-la. Quelle proportion, aurais-je dit, de mes faibles talents et de ceux qu'il faudrait pour amuser la delicatesse d'esprit de cette Princesse ! Je pense encore de meme ; et cependant, aujourd'hui, vous me permettez de vous faire un hommage de la Surprise de l'amour. On a meme vu Votre Altesse Serenissime s'y plaire, et en applaudir les representations. Je ne saurais me refuser de le dire aux lecteurs, et je puis effectivement en tirer vanite ; mais elle doit etre modeste, et voici pourquoi : les esprits aussi superieurs que le votre, Madame, n'exigent pas dans un ouvrage toute l'excellence qu'ils y pourraient souhaiter ; puis indulgents que les demi-esprits, ce n'est pas au poids de tout leur gout qu'ils le pesent pour l'estimer. Ils composent, pour ainsi dire, avec un auteur ; ils observent avec finesse ce qu'il est capable de faire, eu egard a ses forces ; et s'il le fait, ils sont contents, parce qu'il a ete aussi loin qu'il pouvait aller ; et voila positivement le cas ou se trouve la Surprise de l'amour. Madame, Votre Altesse Serenissime a juge qu'elle avait a peu pres le degre de bonte que je pouvais lui donner, et cela vous a suffi pour l'approuver, car autrement comment m'auriez-vous fait grace ? Ne sait-on pas dans le monde toute l'etendue de vos lumieres ? Combien d'habiles auteurs ne doivent-ils pas la beaute de leurs ouvrages a la surete de votre critique ! La finesse de votre gout n'a pas moins servi les lettres que votre protection a encourage ceux qui les ont cultivees ; et ce que je dis la, Madame, ce n'est ni l'auguste naissance de Votre Altesse Serenissime, ni le rang qu'Elle tient qui me le dicte, c'est le public qui me l'apprend, et le public ne surfait point. Pour moi, il ne me reste la-dessus qu'une reflexion a faire ; c'est qu'il est bien doux, quand on dedie un livre a une Princesse, et qu'on aime la verite, de trouver en Elle autant de qualites reelles que la flatterie oserait en feindre. 
+Je suis, avec un tres profond respect, Madame, de Votre Altesse Serenissime, le tres humble et tres obeissant serviteur, 
+DE MARIVAUX.
+ACTEURS
+LA MARQUISE, veuve.
+LE CHEVALIER.
+LE COMTE.
+LISETTE, suivante de la Marquise.
+LUBIN, valet du Chevalier.
+Monsieur HORTENSIUS, pedant.
+[La localisation de l'action n'est pas indiquee.]
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. La Marquise, Lisette.
+La Marquise, entre tristement sur la scene ; Lisette la suit sans qu'elle le sache.
+LA MARQUISE, s'arretant et soupirant. 
+Ah ! 
+LISETTE, derriere elle.
+Ah !
+LA MARQUISE.
+Qu'est-ce que j'entends la ? Ah ! C'est vous ?
+LISETTE.
+Oui, Madame.
+LA MARQUISE.
+De quoi soupirez-vous ?
+LISETTE.
+Moi ? De rien : vous soupirez, je prends cela pour une parole, et je vous reponds de meme.
+LA MARQUISE.
+Fort bien ; mais qui est-ce qui vous a dit de me suivre ?
+LISETTE.
+Qui me l'a dit, Madame ? Vous m'appelez, je viens ; vous marchez, je vous suis : j'attends le reste.
+LA MARQUISE.
+Je vous ai appelee, moi ?
+LISETTE.
+Oui, Madame.
+LA MARQUISE.
+Allez, vous revez ; retournez-vous-en, je n'ai pas besoin de vous.
+LISETTE.
+Retournez-vous-en ! Les personnes affligees ne doivent point rester seules, Madame.
+LA MARQUISE.
+Ce sont mes affaires ; laissez-moi.
+LISETTE.
+Cela ne fait qu'augmenter leur tristesse.
+LA MARQUISE.
+Ma tristesse me plait.
+LISETTE.
+Et c'est a ceux qui vous aiment a vous secourir dans cet etat-la ; je ne veux pas vous laisser mourir de chagrin.
+LA MARQUISE.
+Ah ! Voyons donc ou cela ira.
+LISETTE.
+Pardi ! Il faut bien se servir de sa raison dans la vie, et ne pas quereller les gens qui sont attaches a nous.
+LA MARQUISE.
+Il est vrai que votre zele est fort bien entendu ; pour m'empecher d'etre triste, il me met en colere.
+LISETTE.
+Eh bien, cela distrait toujours un peu : il vaut mieux quereller que soupirer.
+LA MARQUISE.
+Eh ! Laissez-moi, je dois soupirer toute ma vie.
+LISETTE.
+Vous devez, dites-vous ? Oh ! Vous ne payerez jamais cette dette-la ; vous etes trop jeune, elle ne saurait etre serieuse.
+LA MARQUISE.
+Eh ! Ce que je dis la n'est que trop vrai : il n'y a plus de consolation pour moi, il n'y en a plus ; apres deux ans de l'amour le plus tendre, epouser ce que l'on aime ; ce qu'il y avait de plus aimable au monde, l'epouser, et le perdre un mois apres !
+LISETTE.
+Un mois ! C'est toujours autant de pris. Je connais une dame qui n'a garde son mari que deux jours ; c'est cela qui est piquant.
+LA MARQUISE.
+J'ai tout perdu, vous dis-je.
+LISETTE.
+Tout perdu ! Vous me faites trembler : est-ce que tous les hommes sont morts ?
+LA MARQUISE.
+Eh ! Que m'importe qu'il reste des hommes ?
+LISETTE.
+Ah ! Madame, que dites-vous la ? Que le ciel les conserve ! Ne meprisons jamais nos ressources.
+LA MARQUISE.
+Mes ressources ! A moi, qui ne veux plus m'occuper que de ma douleur ! Moi, qui ne vis presque plus que par un effort de raison !
+LISETTE.
+Comment donc par un effort de raison ? Voila une pensee qui n'est pas de ce monde ; mais vous etes bien fraiche pour une personne qui se fatigue tant.
+LA MARQUISE.
+Je vous prie, Lisette, point de plaisanterie ; vous me divertissez quelquefois, mais je ne suis pas a present en situation de vous ecouter.
+LISETTE.
+Ah ca, Madame, serieusement, je vous trouve le meilleur visage du monde ; voyez ce que c'est : quand vous aimiez la vie, peut-etre que vous n'etiez pas si belle ; la peine de vivre vous donne un air plus vif et plus mutin dans les yeux, et je vous conseille de batailler toujours contre la vie ; cela vous reussit on ne peut pas mieux.
+LA MARQUISE.
+Que vous etes folle ! Je n'ai pas ferme l'oeil de la nuit.
+LISETTE.
+N'auriez-vous pas dormi en revant que vous ne dormiez point ? Car vous avez le teint bien repose ; mais vous etes un peu trop negligee, et je suis d'avis de vous arranger un peu la tete. La Brie, qu'on apporte ici la toilette de Madame.
+LA MARQUISE.
+Qu'est-ce que tu vas faire ? Je n'en veux point.
+LISETTE.
+Vous n'en voulez point ! vous refusez le miroir, un miroir, Madame ! Savez-vous bien que vous me faites peur ? Cela serait serieux, pour le coup, et nous allons voir cela : il ne sera pas dit que vous serez charmante impunement ; il faut que vous le voyiez, et que cela vous console, et qu'il vous plaise de vivre. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons, Madame, mettez-vous la, que je vous ajuste : tenez, le savant que vous avez pris chez vous ne vous lira point de livre si consolant que ce que vous allez voir.
+LA MARQUISE.
+Oh ! Tu m'ennuies : qu'ai-je besoin d'etre mieux que je ne suis ? Je ne veux voir personne.
+LISETTE.
+De grace, un petit coup d'oeil sur la glace, un seul petit coup d'oeil ; quand vous ne le donneriez que de cote, tatez-en seulement.
+LA MARQUISE.
+Si tu voulais bien me laisser en repos.
+LISETTE.
+Quoi ! Votre amour-propre ne dit plus mot, et vous n'etes pas a l'extremite ! Cela n'est pas naturel, et vous trichez. Faut-il vous parler franchement ? Je vous disais que vous etiez plus belle qu'a l'ordinaire ; mais la verite est que vous etes tres changee, et je voulais vous attendrir un peu pour un visage que vous abandonnez bien durement.
+LA MARQUISE.
+Il est vrai que je suis dans un terrible etat.
+LISETTE.
+Il n'y a donc qu'a emporter la toilette ? La Brie, remettez cela ou vous l'avez pris.
+LA MARQUISE.
+Je ne me pique plus ni d'agrement ni de beaute.
+LISETTE.
+Madame, la toilette s'en va, je vous en avertis.
+LA MARQUISE.
+Mais, Lisette, je suis donc bien epouvantable ?
+LISETTE.
+Extremement changee.
+LA MARQUISE.
+Voyons donc, car il faut bien que je me debarrasse de toi.
+LISETTE.
+Ah ! Je respire, vous voila sauvee : allons, courage, Madame. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA MARQUISE.
+Donne le miroir ; tu as raison, je suis bien abattue. 
+LISETTE, lui donnant le miroir. 
+Ne serait-ce pas un meurtre que de laisser deperir ce teint-la, qui n'est que lys et que rose quand on en a soin ? Rangez-moi ces cheveux qui sont epars, et qui vous cachent les yeux : ah ! Les fripons, comme ils ont encore l'oeillade assassine ; ils m'auraient deja brule, si j'etais de leur competence ; ils ne demandent qu'a faire du mal. 
+LA MARQUISE, rendant le miroir. 
+Tu reves ; on ne peut pas les avoir plus battus.
+LISETTE.
+Oui, battus. Ce sont de bons hypocrites : que l'ennemi vienne, il verra beau jeu. Mais voici, je pense, un domestique de Monsieur le Chevalier. C'est ce valet de campagne si naif, qui vous a tant diverti il y a quelques jours.
+LA MARQUISE.
+Que me veut son maitre ? Je ne vois personne.
+LISETTE.
+Il faut bien l'ecouter. 
+SCENE II. Lubin, La Marquise, Lisette.
+LUBIN.
+Madame, pardonnez l'embarras...
+LISETTE.
+Abrege, abrege, il t'appartient bien d'embarrasser Madame !
+LUBIN.
+Il vous appartient bien de m'interrompre, ma mie ; est-ce qu'il ne m'est pas libre d'etre honnete ?
+LA MARQUISE.
+Finis, de quoi s'agit-il ?
+LUBIN.
+Il s'agit, Madame, que Monsieur le Chevalier m'a dit... Ce que votre femme de chambre m'a fait oublier.
+LISETTE.
+Quel original !
+LUBIN.
+Cela est vrai ; mais quand la colere me prend, ordinairement la memoire me quitte.
+LA MARQUISE.
+Retourne donc savoir ce que tu me veux.
+LUBIN.
+Oh ! Ce n'est pas la peine, Madame, et je m'en ressouviens a cette heure ; c'est que nous arrivames hier tous deux a Paris, Monsieur le Chevalier et moi, et que nous en partons demain pour n'y revenir jamais, ce qui fait que Monsieur le Chevalier vous mande ; que vous ayez a trouver bon qu'il ne vous voie point cette apres-dinee, et qu'il ne vous assure point de ses respects, sinon ce matin, si cela ne vous deplaisait pas, pour vous dire adieu, a cause de l'incommodite de ses embarras.
+LISETTE.
+Tout ce galimatias-la signifie que Monsieur le Chevalier souhaiterait vous voir a present.
+LA MARQUISE.
+Sais-tu ce qu'il a a me dire ? Car je suis dans l'affliction. 
+LUBIN, d'un ton triste, et a la fin pleurant. 
+Il a a vous dire que vous ayez la bonte de l'entretenir un quart d'heure ; pour ce qui est d'affliction, ne vous embarrassez pas, Madame, il ne nuira pas a la votre ; au contraire, car il est encore plus triste que vous, et moi aussi ; nous faisons compassion a tout le monde.
+LISETTE.
+Mais, en effet, je crois qu'il pleure.
+LUBIN.
+Oh ! Vous ne voyez rien, je pleure bien autrement quand je suis seul ; mais je me retiens par honnetete.
+LISETTE.
+Tais-toi.
+LA MARQUISE.
+Dis a ton maitre qu'il peut venir, et que je l'attends ; et vous, Lisette, quand Monsieur Hortensius sera revenu, qu'il vienne sur-le-champ me montrer les livres qu'il a du m'acheter. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! 
+SCENE III. Lisette, Lubin.
+LISETTE.
+La voila qui soupire, et c'est toi qui en es cause, butor que tu es ; nous avons bien affaire de tes pleurs.
+LUBIN.
+Ceux qui n'en veulent pas n'ont qu'a les laisser ; ils ont fait plaisir a Madame, et Monsieur le Chevalier l'accommodera bien autrement, car il soupire encore bien mieux que moi.
+LISETTE.
+Qu'il s'en garde bien : dis-lui de cacher sa douleur, je ne t'arrete que pour cela ; ma maitresse n'en a deja que trop, et je veux tacher de l'en guerir : entends-tu ?
+LUBIN.
+Pardi ! Tu cries assez haut.
+LISETTE.
+Tu es bien brusque. Et de quoi pleurez-vous donc tous deux, peut-on le savoir ?
+LUBIN.
+Ma foi, de rien : moi, je pleure parce que je le veux bien, car si je voulais, je serais gaillard.
+LISETTE.
+Le plaisant garcon !
+LUBIN.
+Oui, mon maitre soupire parce qu'il a perdu une maitresse ; et comme je suis le meilleur coeur du monde, moi, je me suis mis a faire comme lui pour l'amuser ; de sorte que je vais toujours pleurant sans etre fache, seulement par compliment. 
+LISETTE, rit.
+Ah, ah, ah, ah ! 
+LUBIN, riant.
+Eh, eh, eh ! Tu en ris, j'en ris quelquefois de meme, mais rarement, car cela me derange ; j'ai pourtant perdu aussi une maitresse, moi ; mais comme je ne la verrai plus, je l'aime toujours sans en etre plus triste. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh, eh, eh !
+LISETTE.
+Il me divertit. Adieu ; fais ta commission, et ne manque pas d'avertir Monsieur le Chevalier de ce que je t'ai dit. 
+LUBIN, riant.
+Adieu, adieu.
+LISETTE.
+Comment donc ! Tu me lorgnes, je pense ?
+LUBIN.
+Oui-da, je te lorgne.
+LISETTE.
+Tu ne pourras plus te remettre a pleurer.
+LUBIN.
+Gageons que si... Veux-tu voir ?
+LISETTE.
+Va-t'en ; ton maitre t'attendra.
+LUBIN.
+Je ne l'en empeche pas.
+LISETTE.
+Je n'ai que faire d'un homme qui part demain : retire-toi.
+LUBIN.
+A propos, tu as raison, et ce n'est pas la peine d'en dire davantage. Adieu donc, la fille.
+LISETTE.
+Bonjour, l'ami. 
+SCENE IV.
+LISETTE, seule.
+Ce bouffon-la est amusant. Mais voici Monsieur Hortensius aussi charge de livres qu'une bibliotheque. Que cet homme-la m'ennuie avec sa doctrine ignorante ! Quelle fantaisie a Madame, d'avoir pris ce personnage-la chez elle, pour la conduire dans ses lectures et amuser sa douleur ! Que les femmes du monde ont de travers ! 
+SCENE V. Hortensius, Lisette.
+LISETTE.
+Monsieur Hortensius, Madame m'a chargee de vous dire que vous alliez lui montrer les livres que vous avez achetes pour elle. 
+HORTENSIUS.
+Je serai ponctuel a obeir, Mademoiselle Lisette ; et Madame la Marquise ne pouvait charger de ses ordres personne qui me les rendit plus dignes de ma prompte obeissance.
+LISETTE.
+Ah ! Le joli tour de phrase ! Comment ! Vous me saluez de la periode la plus galante qui se puisse, et l'on sent bien qu'elle part d'un homme qui sait sa rhetorique. 
+HORTENSIUS.
+La rhetorique que je sais la-dessus, Mademoiselle, ce sont vos beaux yeux qui me l'ont apprise.
+LISETTE.
+Mais ce que vous me dites la est merveilleux ; je ne savais pas que mes beaux yeux enseignassent la rhetorique. 
+HORTENSIUS.
+Ils ont mis mon coeur en etat de soutenir these, Mademoiselle ; et pour essai de ma science, je vais, si vous l'avez pour agreable, vous donner un petit argument en forme.
+LISETTE.
+Un argument a moi ! Je ne sais ce que c'est ; je ne veux point tater de cela : adieu. 
+HORTENSIUS.
+Arretez, voyez mon petit syllogisme, je vous assure qu'il est concluant.
+LISETTE.
+Un syllogisme ! Eh ! Que voulez-vous que je fasse de cela ? 
+HORTENSIUS.
+Ecoutez. On doit son coeur a ceux qui vous donnent le leur, je vous donne le mien : ergo, vous me devez le votre.
+LISETTE.
+Est-ce la tout ? Oh ! Je sais la rhetorique aussi, moi. Tenez : on ne doit son coeur qu'a ceux qui le prennent ; assurement vous ne prenez pas le mien : ergo, vous ne l'aurez pas. Bonjour. 
+HORTENSIUS, l'arretant.
+La raison repond...
+LISETTE.
+Oh ! Pour la raison, je ne m'en mele point, les filles de mon age n'ont point de commerce avec elle. Adieu, Monsieur Hortensius ; que le ciel vous benisse, vous, votre these et votre syllogisme. 
+HORTENSIUS.
+J'avais pourtant fait de petits vers latins sur vos beautes.
+LISETTE.
+Eh mais, Monsieur Hortensius, mes beautes n'entendent que le francais. 
+HORTENSIUS.
+On peut vous les traduire.
+LISETTE.
+Achevez donc, car j'ai hate. 
+HORTENSIUS.
+Je crois les avoir serres dans un livre. 
+LISETTE, pendant qu'il cherche, Lisette voit venir la Marquise et dit.
+Voila Madame, laissons-le chercher son papier. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)HORTENSIUS, continue en feuilletant.
+Je vous y donne le nom d'Helene, de la maniere du monde la plus poetique, et j'ai pris la liberte de m'appeler le Paris de l'aventure : les voila, cela est galant. 
+SCENE VI. La Marquise, Hortensius
+LA MARQUISE.
+Que voulez-vous dire, avec cette aventure ou vous vous appelez Paris ? A qui parliez-vous ? Voyons ce papier. 
+HORTENSIUS.
+Madame, c'est un trait de l'histoire des Grecs, dont Mademoiselle Lisette me demandait l'explication.
+LA MARQUISE.
+Elle est bien curieuse, et vous bien complaisant : ou sont les livres que vous m'avez achetes, Monsieur ? 
+HORTENSIUS.
+Je les tiens, Madame, tous bien conditionnes, et d'un prix fort raisonnable ; souhaitez-vous les voir ?
+LA MARQUISE.
+Montrez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici Monsieur le Chevalier, Madame.
+LA MARQUISE.
+Faites entrer. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Portez-les chez moi, nous les verrons tantot. 
+SCENE VII. La Marquise, Le Chevalier.
+LE CHEVALIER.
+Je vous demande pardon, Madame, d'une visite, sans doute, importune ; surtout dans la situation ou je sais que vous etes.
+LA MARQUISE.
+Ah ! Votre visite ne m'est point importune, je la recois avec plaisir ; puis-je vous rendre quelque service ? De quoi s'agit-il ? Vous me paraissez bien triste.
+LE CHEVALIER.
+Vous voyez, Madame, un homme au desespoir, et qui va se confiner dans le fond de sa province, pour y finir une vie qui lui est a charge.
+LA MARQUISE.
+Que me dites-vous la ! Vous m'inquietez ; que vous est-il donc arrive ?
+LE CHEVALIER.
+Le plus grand de tous les malheurs, le plus sensible, le plus irreparable ; j'ai perdu Angelique, et je la perds pour jamais.
+LA MARQUISE.
+Comment donc ! Est-ce qu'elle est morte ?
+LE CHEVALIER.
+C'est la meme chose pour moi. Vous savez ou elle s'etait retiree depuis huit mois pour se soustraire au mariage ou son pere voulait la contraindre ; nous esperions tous deux que sa retraite flechirait le pere : il a continue de la persecuter ; et lasse ; apparemment, de ses persecutions, accoutumee a notre absence, desesperant, sans doute, de me voir jamais a elle, elle a cede, renonce au monde, et s'est liee par des noeuds qu'elle ne peut plus rompre : il y a deux mois que la chose est faite. Je la vis la veille, je lui parlai, je me desesperai, et ma desolation, mes prieres, mon amour, tout m'a ete inutile ; j'ai ete temoin de mon malheur ; j'ai depuis toujours demeure dans le lieu, il a fallu m'en arracher, je n'en arrivai qu'avant-hier. Je me meurs, je voudrais mourir, et je ne sais pas comment je vis encore.
+LA MARQUISE.
+En verite, il semble dans le monde que les afflictions ne soient faites que pour les honnetes gens.
+LE CHEVALIER.
+Je devrais retenir ma douleur, Madame, vous n'etes que trop affligee vous-meme.
+LA MARQUISE.
+Non, Chevalier, ne vous genez point ; votre douleur fait votre eloge, je la regarde comme une vertu ; j'aime a voir un coeur estimable car cela est si rare, helas ! Il n'y a plus de moeurs, plus de sentiment dans le monde ; moi qui vous parle, on trouve etonnant que je pleure depuis six mois ; vous passerez aussi pour un homme extraordinaire, il n'y aura que moi qui vous plaindrai veritablement, et vous etes le seul qui rendra justice a mes pleurs ; vous me ressemblez, vous etes ne sensible, je le vois bien.
+LE CHEVALIER.
+Il est vrai, Madame, que mes chagrins ne m'empechent pas d'etre touche des votres.
+LA MARQUISE.
+J'en suis persuadee ; mais venons au reste : que me voulez-vous ?
+LE CHEVALIER.
+Je ne verrai plus Angelique ; elle me l'a defendu, et je veux lui obeir.
+LA MARQUISE.
+Voila comment pense un honnete homme, par exemple.
+LE CHEVALIER.
+Voici une lettre que je ne saurais lui faire tenir, et qu'elle ne recevrait point de ma part ; vous allez incessamment a votre campagne, qui est voisine du lieu ou elle est, faites-moi, je vous supplie, le plaisir de la lui donner vous-meme ; la lire est la seule grace que je lui demande ; et si, a mon tour, Madame, je pouvais jamais vous obliger... 
+LA MARQUISE, l'interrompant.
+Eh ! Qui est-ce qui en doute ? Des que vous etes capable d'une vraie tendresse, vous etes ne genereux, cela s'en va sans dire ; je sais a present votre caractere comme le mien ; les bons coeurs se ressemblent, Chevalier : mais la lettre n'est point cachetee.
+LE CHEVALIER.
+Je ne sais ce que je fais dans le trouble ou je suis : puisqu'elle ne l'est point, lisez-la, Madame, vous en jugerez mieux combien je suis a plaindre ; nous causerons plus longtemps ensemble, et je sens que votre conversation me soulage.
+LA MARQUISE.
+Tenez, sans compliment, depuis six mois je n'ai eu de moment supportable que celui-ci ; et la raison de cela, c'est qu'on aime a soupirer avec ceux qui vous entendent : lisons la lettre. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)"J'avais dessein de vous revoir encore, Angelique ; mais j'ai songe que je vous desobligerais, et je m'en abstiens : apres tout, qu'aurais-je ete chercher ? Je ne saurais le dire ; tout ce que je sais, c'est que je vous ai perdue, que je voudrais vous parler pour redoubler la douleur de ma perte, pour m'en penetrer jusqu'a mourir." 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour m'en penetrer jusqu'a mourir ! Mais cela est etonnant : ce que vous dites la, Chevalier, je l'ai pense mot pour mot dans mon affliction ; peut-on se rencontrer jusque-la ! En verite, vous me donnez bien de l'estime pour vous ! Achevons. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)"Mais c'est fait, et je ne vous ecris que pour vous demander pardon de ce qui m'echappa contre vous a notre derniere entrevue ; vous me quittiez pour jamais, Angelique, j'etais au desespoir ; et dans ce moment-la, je vous aimais trop pour vous rendre justice ; mes reproches vous couterent des larmes, je ne voulais pas les voir, je voulais que vous fussiez coupable, et que vous crussiez l'etre ; et j'avoue que j'offenserais la vertu meme. Adieu, Angelique, ma tendresse ne finira qu'avec ma vie, et je renonce a tout engagement ; j'ai voulu que vous fussiez contente de mon coeur, afin que l'estime que vous aurez pour lui excuse la tendresse dont vous m'honorates." 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allez, Chevalier, avec cette facon de sentir la, vous n'etes point a plaindre ; quelle lettre ! Autrefois le Marquis m'en ecrivit une a peu pres de meme, je croyais qu'il n'y avait que lui au monde qui en fut capable ; vous etiez son ami, et je ne m'en etonne pas.
+LE CHEVALIER.
+Vous savez combien son amitie m'etait chere.
+LA MARQUISE.
+Il ne la donnait qu'a ceux qui la meritaient :
+LE CHEVALIER.
+Que cette amitie-la me serait d'un grand secours, s'il vivait encore ! 
+LA MARQUISE, pleurant.
+Sur ce pied-la, nous l'avons donc perdu tous deux.
+LE CHEVALIER.
+Je crois que je ne lui survivrai pas longtemps.
+LA MARQUISE.
+Non, Chevalier, vivez pour me donner la satisfaction de voir son ami le regretter avec moi ; a la place de son amitie, je vous donne la mienne.
+LE CHEVALIER.
+Je vous la demande de tout mon coeur, elle sera ma ressource ; je prendrai la liberte de vous ecrire, vous voudrez bien me repondre, et c'est une esperance consolante que j'emporte en partant.
+LA MARQUISE.
+En verite, Chevalier, je souhaiterais que vous restassiez ; il n'y a qu'avec vous que ma douleur se verrait libre.
+LE CHEVALIER.
+Si je restais, je romprais avec tout le monde, et ne voudrais voir que vous.
+LA MARQUISE.
+Mais effectivement, faites-vous bien de partir ? Consultez-vous : il me semble qu'il vous sera plus doux d'etre moins eloigne d'Angelique.
+LE CHEVALIER.
+Il est vrai que je pourrais vous en parler quelquefois.
+LA MARQUISE.
+Oui, je vous plaindrais, du moins, et vous me plaindriez aussi, cela rend la douleur plus supportable.
+LE CHEVALIER.
+En verite, je crois que vous avez raison.
+LA MARQUISE.
+Nous sommes voisins.
+LE CHEVALIER.
+Nous demeurons comme dans la meme maison, puisque le meme jardin nous est commun.
+LA MARQUISE.
+Nous sommes affliges, nous pensons de meme.
+LE CHEVALIER.
+L'amitie nous sera d'un grand secours.
+LA MARQUISE.
+Nous n'avons que cette ressource-la dans les afflictions, vous en conviendrez. Aimez-vous la lecture ?
+LE CHEVALIER.
+Beaucoup.
+LA MARQUISE.
+Cela vient encore fort bien ; j'ai pris depuis quinze jours un homme a qui j'ai donne le soin de ma bibliotheque ; je n'ai pas la vanite de devenir savante, mais je suis bien aise de m'occuper : il me lit tous les jours quelque chose, nos lectures sont serieuses, raisonnables ; il y met un ordre qui m'instruit en m'amusant : voulez-vous etre de la partie ?
+LE CHEVALIER.
+Voila qui est fini, Madame ; vous me determinez ; c'est un bonheur pour moi que de vous avoir vue ; je me sens deja plus tranquille. Allons, je ne partirai point ; j'ai des livres aussi en assez grande quantite, celui qui a soin des votres les mettra tout ensemble, et je vais appeler mon valet pour changer les ordres que je lui ai donnes. Que je vous ai d'obligation ! peut-etre que vous me sauvez la raison, mon desespoir se calme, vous avez dans l'esprit une douceur qui m'etait necessaire, et qui me gagne : vous avez renonce a l'amour et moi aussi ; et votre amitie me tiendra lieu de tout, si vous etes sensible a la mienne.
+LA MARQUISE.
+Serieusement, je m'y crois presque obligee, pour vous dedommager de celle du Marquis : allez, Chevalier, faites vite vos affaires ; je vais, de mon cote, donner quelque ordre aussi ; nous nous reverrons tantot. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)En verite, ce garcon-la a un fond de probite qui me charme. 
+SCENE VIII. Le Chevalier, Lubin.
+LE CHEVALIER, seul, un moment. 
+Voila vraiment de ces esprits propres a consoler une personne affligee ; que cette femme-la a de merite ! Je ne la connaissais pas encore : quelle solidite d'esprit ! Quelle bonte de coeur ! C'est un caractere a peu pres comme celui d'Angelique, et ce sont des tresors que ces caracteres-la ; oui, je la prefere a tous les amis du monde. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Lubin ! Il me semble que je le vois dans le jardin. 
+SCENE IX. Lubin, Le Chevalier.
+LUBIN repond derriere le theatre. 
+Monsieur !... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que vous plait-il, Monsieur ?
+LE CHEVALIER.
+Qu'as-tu donc, avec cet air triste ?
+LUBIN.
+Helas ! Monsieur, quand je suis a rien faire, je m'attriste a cause de votre maitresse, et un peu a cause de la mienne ; je suis fache de ce que nous partons ; si nous restions, je serais fache de meme.
+LE CHEVALIER.
+Nous ne partons point, ainsi ne fais rien de ce que je t'avais ordonne pour notre depart.
+LUBIN.
+Nous ne partons point !
+LE CHEVALIER.
+Non, j'ai change d'avis.
+LUBIN.
+Mais, Monsieur, j'ai fait mon paquet.
+LE CHEVALIER.
+Eh bien ! tu n'as qu'a le defaire.
+LUBIN.
+J'ai dit adieu a tout le monde, je ne pourrai donc plus voir personne ?
+LE CHEVALIER.
+Eh ! Tais-toi ; rends-moi mes lettres.
+LUBIN.
+Ce n'est pas la peine, je les porterai tantot.
+LE CHEVALIER.
+Cela n'est plus necessaire, puisque je reste ici.
+LUBIN.
+Je n'y comprends rien ; c'est donc encore autant de perdu que ces lettres-la ? Mais, Monsieur, qui est-ce qui vous empeche de partir, est-ce Madame la Marquise ?
+LE CHEVALIER.
+Oui.
+LUBIN.
+Et nous ne changeons point de maison ?
+LE CHEVALIER.
+Et pourquoi en changer ?
+LUBIN.
+Ah ! Me voila perdu.
+LE CHEVALIER.
+Comment donc ?
+LUBIN.
+Vos maisons se communiquent ; de l'une on entre dans l'autre ; je n'ai plus ma maitresse ; Madame la Marquise a une femme de chambre toute agreable ; de chez vous j'irai chez elle ; crac, me voila infidele tout de plain-pied, et cela m'afflige ; pauvre Marton ! Faudra-t-il que je t'oublie ?
+LE CHEVALIER.
+Tu serais un bien mauvais coeur.
+LUBIN.
+Ah ! pour cela, oui, cela sera bien vilain, mais cela ne manquera pas d'arriver : car j'y sens deja du plaisir, et cela me met au desespoir ; encore si vous aviez la bonte de montrer l'exemple : tenez, la voila qui vient, Lisette. 
+SCENE X. Lisette, Le Comte, Le Chevalier, Lubin.
+LE COMTE.
+J'allais chez vous, Chevalier, et j'ai su de Lisette que vous etiez ici ; elle m'a dit votre affliction, et je vous assure que j'y prends beaucoup de part ; il faut tacher de se dissiper.
+LE CHEVALIER.
+Cela n'est pas aise, Monsieur le Comte. 
+LUBIN, faisant un sanglot. 
+Eh !
+LE CHEVALIER.
+Tais-toi.
+LE COMTE.
+Que lui est-il donc arrive a ce pauvre garcon ?
+LE CHEVALIER.
+Il a, dit-il, du chagrin de ce que je ne pars point, comme je l'avais resolu. 
+LUBIN, riant. 
+Et pourtant je suis bien aise de rester, a cause de Lisette.
+LISETTE.
+Cela est galant : mais, Monsieur le Chevalier, venons a ce qui nous amene, Monsieur le Comte et moi. J'etais sous le berceau pendant votre conversation avec Madame la Marquise, et j'en ai entendu une partie sans le vouloir ; votre voyage est rompu, ma maitresse vous a conseille de rester, vous etes tous deux dans la tristesse, et la conformite de vos sentiments fera que vous vous verrez souvent. Je suis attachee a ma maitresse, plus que je ne saurais vous le dire, et je suis desolee de voir qu'elle ne veut pas se consoler, qu'elle soupire et pleure toujours ; a la fin elle n'y resistera pas : n'entretenez point sa douleur, tachez meme de la tirer de sa melancolie ; voila Monsieur le Comte qui l'aime, vous le connaissez, il est de vos amis, Madame la Marquise n'a point de repugnance a le voir ; ce serait un mariage qui conviendrait, je tache de le faire reussir ; aidez-nous de votre cote, Monsieur le Chevalier, rendez ce service a votre ami, servez ma maitresse elle-meme.
+LE CHEVALIER.
+Mais, Lisette, ne me dites-vous pas que Madame la Marquise voit le Comte sans repugnance ?
+LE COMTE.
+Mais, sans repugnance, cela veut dire qu'elle me souffre ; voila tout.
+LISETTE.
+Et qu'elle recoit vos visites.
+LE CHEVALIER.
+Fort bien ; mais s'apercoit-elle que vous l'aimez ?
+LE COMTE.
+Je crois que oui.
+LISETTE.
+De temps en temps, de mon cote, je glisse de petits mots, afin qu'elle y prenne garde.
+LE CHEVALIER.
+Mais, vraiment, ces petits mots-la doivent faire un grand effet, et vous etes entre de bonnes mains, Monsieur le Comte. Et que vous dit la Marquise ? Vous repond-elle d'une facon qui promette quelque chose ?
+LE COMTE.
+Jusqu'ici, elle me traite avec beaucoup de douceur.
+LE CHEVALIER.
+Avec douceur ! Serieusement ?
+LE COMTE.
+Il me le parait. 
+LE CHEVALIER, brusquement.
+Mais sur ce pied-la, vous n'avez donc pas besoin de moi ?
+LE COMTE.
+C'est conclure d'une maniere qui m'etonne.
+LE CHEVALIER.
+Point du tout, je dis fort bien ; on voit votre amour, on le souffre, on y fait accueil, apparemment qu'on s'y plait, et je gaterais peut-etre tout si je m'en melais : cela va tout seul.
+LISETTE.
+Je vous avoue que voila un raisonnement auquel je n'entends rien.
+LE COMTE.
+J'en suis aussi surpris que vous.
+LE CHEVALIER.
+Ma foi, Monsieur le Comte, je faisais tout pour le mieux ; mais puisque vous le voulez, je parlerai, il en arrivera ce qu'il pourra : vous le voulez, malgre mes bonnes raisons ; je suis votre serviteur et votre ami.
+LE COMTE.
+Non, Monsieur, je vous suis bien oblige, et vous aurez la bonte de ne rien dire ; j'irai mon chemin. Adieu, Lisette, ne m'oubliez pas ; puisque Madame la Marquise a des affaires, je reviendrai une autre fois. 
+SCENE XI. Le Chevalier, Lisette, Lubin.
+LE CHEVALIER.
+Faites entendre raison aux gens, voila ce qui en arrive ; assurement, cela est original, il me quitte aussi froidement que s'il quittait un rival.
+LUBIN.
+Eh bien, tout coup vaille, il ne faut jurer de rien dans la vie, cela depend des fantaisies ; fournissez-vous toujours, et vive les provisions ! N'est-ce pas, Lisette ?
+LISETTE.
+Oserais-je, Monsieur le Chevalier, vous parler a coeur ouvert ?
+LE CHEVALIER.
+Parlez.
+LISETTE.
+Mademoiselle Angelique est perdue pour vous.
+LE CHEVALIER.
+Je ne le sais que trop.
+LISETTE.
+Madame la Marquise est riche, jeune et belle.
+LUBIN.
+Cela est friand.
+LE CHEVALIER.
+Apres ?
+LISETTE.
+Eh bien, Monsieur le Chevalier, tantot vous l'avez vue soupirer de ses afflictions, n'auriez-vous pas trouve qu'elle a bonne grace a soupirer ? Je crois que vous m'entendez ?
+LUBIN.
+Courage, Monsieur.
+LE CHEVALIER.
+Expliquez-vous ; qu'est-ce que cela signifie ? Que j'ai de l'inclination pour elle ?
+LISETTE.
+Pourquoi non ? Je le voudrais de tout mon coeur ; dans l'etat ou je vois ma maitresse, que m'importe par qui elle en sorte, pourvu qu'elle epouse un honnete homme ?
+LUBIN.
+C'est ma foi bien dit, il faut etre honnete homme pour l'epouser, il n'y a que les malhonnetes gens qui ne l'epouseront point. 
+LE CHEVALIER, froidement.
+Finissons, je vous prie, Lisette.
+LISETTE.
+Eh bien, Monsieur, sur ce pied-la, que n'allez-vous vous ensevelir dans quelque solitude ou l'on ne vous voie point ? Si vous saviez combien aujourd'hui votre physionomie est bonne a porter dans un desert, vous aurez le plaisir de n'y trouver rien de si triste qu'elle. Tenez, Monsieur, l'ennui, la langueur, la desolation, le desespoir, avec un air sauvage brochant sur le tout, voila le noir tableau que represente actuellement votre visage ; et je soutiens que la vue en peut rendre malade, et qu'il y a conscience a la promener par le monde. Ce n'est pas la tout : quand vous parlez aux gens, c'est du ton d'un homme qui va rendre les derniers soupirs ; ce sont des paroles qui trainent, qui vous engourdissent, qui ont un poison froid qui glace l'ame, et dont je sens que la mienne est gelee ; je n'en peux plus, et cela doit vous faire compassion. Je ne vous blame pas ; vous avez perdu votre maitresse, vous vous etes voue aux langueurs, vous avez fait voeu d'en mourir ; c'est fort bien fait, cela edifiera le monde : on parlera de vous dans l'histoire, vous serez excellent a etre cite, mais vous ne valez rien a etre vu ; ayez donc la bonte de nous edifier de plus loin.
+LE CHEVALIER.
+Lisette, je pardonne au zele que vous avez pour votre maitresse ; mais votre discours ne me plait point.
+LUBIN.
+Il est incivil.
+LE CHEVALIER.
+Mon voyage est rompu ; on ne change pas a tout moment de resolution, et je ne partirai point ; a l'egard de Monsieur le Comte, je parlerai en sa faveur a votre maitresse ; et s'il est vrai, comme je le prejuge, qu'elle ait du penchant pour lui, ne vous inquietez de rien, mes visites ne seront pas frequentes, et ma tristesse ne gatera rien ici.
+LISETTE.
+N'avez-vous que cela a me dire, Monsieur ?
+LE CHEVALIER.
+Que pourrais-je vous dire davantage ?
+LISETTE.
+Adieu, Monsieur ; je suis votre servante. 
+SCENE XII. Lubin, Le Chevalier.
+LE CHEVALIER, quelque temps serieux.
+Tout ce que j'entends la me rend la perte d'Angelique encore plus sensible.
+LUBIN.
+Ma foi, Angelique me coupe la gorge. 
+LE CHEVALIER, comme en se promenant. 
+Je m'attendais a trouver quelque consolation dans la Marquise, sa genereuse resolution de ne plus aimer me la rendait respectable ; et la voila qui va se remarier ; a la bonne heure : je la distinguais, et ce n'est qu'une femme comme une autre.
+LUBIN.
+Mettez-vous a la place d'une veuve qui s'ennuie.
+LE CHEVALIER.
+Ah ! Chere Angelique, s'il y a quelque chose au monde qui puisse me consoler, c'est de sentir combien vous etes au-dessus de votre sexe, c'est de voir combien vous meritez mon amour.
+LUBIN.
+Ah ! Marton, Marton ! Je t'oubliais d'un grand courage ; mais mon maitre ne veut pas que j'acheve ; je m'en vais donc me remettre a te regretter comme auparavant, et que le ciel m'assiste !... 
+LE CHEVALIER, se promenant. 
+Je me sens plus que jamais accable de ma douleur.
+LUBIN.
+Lisette m'avait un peu ragaillardi.
+LE CHEVALIER.
+Je vais m'enfermer chez moi ; je ne verrai que tantot la Marquise, je n'ai plus que faire ici si elle se marie : suis-je en etat de voir des fetes ? En verite, la Marquise y songe-t-elle ? Et qu'est devenue la memoire de son mari ?
+LUBIN.
+Ah ! Monsieur, qu'est-ce que vous voulez qu'elle fasse d'une memoire ?
+LE CHEVALIER.
+Quoi qu'il en soit, je lui ai dit que je ferais apporter mes livres, et l'honnetete veut que je tienne parole. Va me chercher celui qui a soin des siens : ne serait-ce pas lui qui entre ? 
+SCENE XIII. Hortensius, Lubin, Le Chevalier.
+HORTENSIUS.
+Je n'ai pas l'honneur d'etre connu de vous, Monsieur ; je m'appelle Hortensius. Madame la Marquise, dont j'ai l'avantage de diriger les lectures, et a qui j'enseigne tour a tour les belles-lettres, la morale et la philosophie, sans prejudice des autres sciences que je pourrais lui enseigner encore, m'a fait entendre, Monsieur, le desir que vous avez de me montrer vos livres, lesquels temoigneront, sans doute, l'excellence et surete de votre bon gout ; partant, Monsieur, que vous plait-il qu'il en soit ?
+LE CHEVALIER.
+Lubin va vous mener a ma bibliotheque, Monsieur, et vous pouvez en faire apporter les livres ici. 
+HORTENSIUS.
+Soit fait comme vous le commandez. 
+SCENE XIV. Lubin, Hortensius.
+HORTENSIUS.
+Eh bien, mon garcon, je vous attends.
+LUBIN.
+Un petit moment d'audience, Monsieur le docteur Hortus. 
+HORTENSIUS.
+Hortensius, Hortensius ; ne defigurez point mon nom.
+LUBIN.
+Qu'il reste comme il est, je n'ai pas envie de lui gater la taille. 
+HORTENSIUS, a part.
+Je le crois ; mais que voulez-vous ? Il faut gagner la bienveillance de tout le monde.
+LUBIN.
+Vous apprenez la morale et la philosophie a la Marquise ? 
+HORTENSIUS.
+Oui.
+LUBIN.
+A quoi cela sert-il, ces choses-la ?... 
+HORTENSIUS.
+A purger l'ame de toutes ses passions.
+LUBIN.
+Tant mieux ; faites-moi prendre un doigt de cette medecine-la, contre ma melancolie. 
+HORTENSIUS.
+Est-ce que vous avez du chagrin ?
+LUBIN.
+Tant, que j'en mourrais, sans le bon appetit qui me sauve. 
+HORTENSIUS.
+Vous avez la un puissant antidote : je vous dirai pourtant, mon ami, que le chagrin est toujours inutile, parce qu'il ne remedie a rien, et que la raison doit etre notre regle dans tous les etats.
+LUBIN.
+Ne parlons point de raison, je la sais par coeur, celle-la ; purgez-moi plutot avec de la morale. 
+HORTENSIUS.
+Je vous en dis, et de la meilleure.
+LUBIN.
+Elle ne vaut donc rien pour mon temperament ; servez-moi de la philosophie. 
+HORTENSIUS.
+Ce serait a peu pres la meme chose.
+LUBIN.
+Voyons donc les belles-lettres. 
+HORTENSIUS.
+Elles ne vous conviendraient pas : mais quel est votre chagrin ?
+LUBIN.
+C'est l'amour. 
+HORTENSIUS.
+Oh ! La philosophie ne veut pas qu'on prenne d'amour.
+LUBIN.
+Oui ; mais quand il est pris, que veut-elle qu'on en fasse ? 
+HORTENSIUS.
+Qu'on y renonce, qu'on le laisse la.
+LUBIN.
+Qu'on le laisse la ? Et s'il ne s'y tient pas ? Car il court apres vous. 
+HORTENSIUS.
+Il faut fuir de toutes ses forces.
+LUBIN.
+Bon ! Quand on a de l'amour, est-ce qu'on a des jambes ? La philosophie en fournit donc ? 
+HORTENSIUS.
+Elle nous donne d'excellents conseils.
+LUBIN.
+Des conseils ? Ah ! Le triste equipage pour gagner pays ! 
+HORTENSIUS.
+Ecoutez, voulez-vous un remede infaillible ? vous pleurez une maitresse, faites-en une autre.
+LUBIN.
+Eh ! Morbleu, que ne parlez-vous ? Voila qui est bon, cela. Gageons que c'est avec cette morale-la que vous traitez la Marquise, qui va se marier avec Monsieur le Comte ? 
+HORTENSIUS, etonne.
+Elle va se marier, dites-vous ?
+LUBIN.
+Assurement, et si nous avions voulu d'elle, nous l'aurions eu par preference, car Lisette nous l'a offert. 
+HORTENSIUS.
+Etes-vous bien sur de ce que vous me dites ?
+LUBIN.
+A telles enseignes, que Lisette nous a ensuite propose de nous retirer, parce que nous sommes tristes, et que vous etes un peu pedant, a ce qu'elle dit, et qu'il faut que la Marquise se tienne en joie. 
+HORTENSIUS, a part. 
+Bene, bene ; je te rends grace, o Fortune ! De m'avoir instruit de cela. Je me trouve bien ici, ce mariage m'en chasserait ; mais je vais soulever un orage qu'on ne pourra vaincre.
+LUBIN.
+Que marmottez-vous la dans vos dents, Docteur ? 
+HORTENSIUS.
+Rien, allons toujours chercher les livres, car le temps presse. 
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Lubin, Hortensius.
+LUBIN, charge d'une manne de livres, et s'asseyant dessus. 
+Ah ! Je n'aurais jamais cru que la science fut si pesante. 
+HORTENSIUS.
+Belle bagatelle ! J'ai bien plus de livres que tout cela dans ma tete.
+LUBIN.
+Vous ? 
+HORTENSIUS.
+Moi-meme.
+LUBIN.
+Vous etes donc le libraire et la boutique tout a la fois ? Et qu'est-ce que vous faites de tout cela dans votre tete ? 
+HORTENSIUS.
+J'en nourris mon esprit.
+LUBIN.
+Il me semble que cette nourriture-la ne lui profite point ; je l'ai trouve maigre. 
+HORTENSIUS.
+Vous ne vous y connaissez point ; mais reposez-vous un moment, vous viendrez me trouver apres dans la bibliotheque, ou je vais faire de la place a ces livres.
+LUBIN.
+Allez, allez toujours devant. 
+SCENE II. Lubin, Lisette.
+LUBIN, un moment seul, et assis. 
+Ah ! Pauvre Lubin ! J'ai bien du tourment dans le coeur ; je ne sais plus a present si c'est Marton que j'aime ou si c'est Lisette : je crois pourtant que c'est Lisette, a moins que ce ne soit Marton. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LISETTE.
+Apportez, apportez-en encore un ou deux, et mettez-les la. 
+LUBIN, assis.
+Bonjour, m'amour.
+LISETTE.
+Que fais-tu donc ici ?
+LUBIN.
+Je me repose sur un paquet de livres que je viens d'apporter pour nourrir l'esprit de Madame, car le Docteur le dit ainsi.
+LISETTE.
+La sotte nourriture ! Quand verrai-je finir toutes ces folies-la ? Va, va, porte ton impertinent ballot.
+LUBIN.
+C'est de la morale et de la philosophie ; ils disent que cela purge l'ame ; j'en ai pris une petite dose, mais cela ne m'a pas seulement fait eternuer.
+LISETTE.
+Je ne sais ce que tu viens me conter ; laisse-moi en repos, va-t'en.
+LUBIN.
+Eh ! Pardi, ce n'est donc pas pour moi que tu faisais apporter des sieges ?
+LISETTE.
+Le butor ! C'est pour Madame qui va venir ici.
+LUBIN.
+Voudrais-tu, en passant, prendre la peine de t'asseoir un moment, Mademoiselle ? Je t'en prie, j'aurais quelque chose a te communiquer.
+LISETTE.
+Eh bien, que me veux-tu, Monsieur ?
+LUBIN.
+Je te dirai, Lisette, que je viens de regarder ce qui se passe dans mon coeur, et je te confie que j'ai vu la figure de Marton qui en delogeait, et la tienne qui demandait a se nicher dedans ; je lui ai dit que je t'en parlerais, elle attend : veux-tu que je la laisse entrer ?
+LISETTE.
+Non, Lubin, je te conseille de la renvoyer ; car, dis-moi, que ferais-tu ? A quoi cela aboutirait-il ? A quoi nous servirait de nous aimer ?
+LUBIN.
+Ah ! On trouve toujours bien le debit de cela entre deux personnes.
+LISETTE.
+Non, te dis-je, ton maitre ne veut point s'attacher a ma maitresse, et ma fortune depend de demeurer avec elle, comme la tienne depend de rester avec le Chevalier.
+LUBIN.
+Cela est vrai, j'oubliais que j'avais une fortune qui est d'avis que je ne te regarde pas. Cependant, si tu me trouvais a ton gre, c'est dommage que tu n'aies pas la satisfaction de m'aimer a ton aise ; c'est un hasard qui ne se trouve pas toujours. Serais-tu d'avis que j'en touchasse un petit mot a la Marquise ? Elle a de l'amitie pour le Chevalier, le Chevalier en a pour elle ; ils pourraient fort bien se faire l'amitie de s'epouser par amour, et notre affaire irait tout de suite.
+LISETTE.
+Tais-toi, voici Madame.
+LUBIN.
+Laisse-moi faire. 
+SCENE III. La Marquise, Hortensius, Lisette, Lubin.
+LA MARQUISE.
+Lisette, allez dire la-bas qu'on ne laisse entrer personne ; je crois que voila l'heure de notre lecture, il faudrait avertir le Chevalier. Ah ! Te voila, Lubin ; ou est ton maitre ?
+LUBIN.
+Je crois, Madame, qu'il est alle soupirer chez lui.
+LA MARQUISE.
+Va lui dire que nous l'attendons.
+LUBIN.
+Oui, Madame ; et j'aurai aussi pour moi une petite bagatelle a vous proposer, dont je prendrai la liberte de vous entretenir en toute humilite, comme cela se doit.
+LA MARQUISE.
+Eh ! De quoi s'agit-il ?
+LUBIN.
+Oh ! Presque de rien ; nous parlerons de cela tantot, quand j'aurai fait votre commission.
+LA MARQUISE.
+Je te rendrai service, si je le puis. 
+SCENE IV. Hortensius, La Marquise.
+LA MARQUISE, nonchalamment.
+Eh bien, Monsieur, vous n'aimez donc pas les livres du Chevalier ? 
+HORTENSIUS.
+Non, Madame, le choix ne m'en parait pas docte ; dans dix tomes, pas la moindre citation de nos auteurs grecs ou latins, lesquels, quand on compose, doivent fournir tout le suc d'un ouvrage ; en un mot, ce ne sont que des livres modernes, remplis de phrases spirituelles ; ce n'est que de l'esprit, toujours de l'esprit, petitesse qui choque le sens commun. 
+LA MARQUISE, nonchalante.
+Mais de l'esprit ! Est-ce que les anciens n'en avaient pas ? 
+HORTENSIUS.
+Ah ! Madame, distinguo ; ils en avaient d'une maniere... Oh ! D'une maniere que je trouve admirable.
+LA MARQUISE.
+Expliquez-moi cette maniere. 
+HORTENSIUS.
+Je ne sais pas trop bien quelle image employer pour cet effet, car c'est par les images que les anciens peignaient les choses. Voici comme parle un auteur dont j'ai retenu les paroles. Representez-vous, dit-il, une femme coquette : primo, son habit est en pretintailles, au lieu de graces, je lui vois des mouches ; au lieu de visage, elle a des mines ; elle n'agit point ; elle gesticule ; elle ne regarde point, elle lorgne ; elle ne marche pas, elle voltige ; elle ne plait point, elle seduit ; elle n'occupe point, elle amuse ; on la croit belle, et moi je la tiens ridicule, et c'est a cette impertinente femme que ressemble l'esprit d'a present, dit l'auteur.
+LA MARQUISE.
+J'entends bien. 
+HORTENSIUS.
+L'esprit des anciens, au contraire, continue-t-il, ah ! c'est une beaute si male, que pour demeler qu'elle est belle, il faut se douter qu'elle l'est : simple dans ses facons, on ne dirait pas qu'elle ait vu le monde ; mais ayez seulement le courage de vouloir l'aimer, et vous parviendrez a la trouver charmante.
+LA MARQUISE.
+En voila assez, je vous comprends : nous sommes plus affectes, et les anciens plus grossiers. 
+HORTENSIUS.
+Que le ciel m'en garde, Madame ; jamais Hortensius...
+LA MARQUISE.
+Changeons de discours ; que nous lirez-vous aujourd'hui ? 
+HORTENSIUS.
+Je m'etais propose de vous lire un peu du Traite de la patience, chapitre premier, du Veuvage.
+LA MARQUISE.
+Oh ! Prenez autre chose ; rien ne me donne moins de patience que les traites qui en parlent. 
+HORTENSIUS.
+Ce que vous dites est probable.
+LA MARQUISE.
+J'aime assez l'Eloge de l'amitie, nous en lirons quelque chose. 
+HORTENSIUS.
+Je vous supplierai de m'en dispenser, Madame ; ce n'est pas la peine, pour le peu de temps que nous avons a rester ensemble, puisque vous vous mariez avec Monsieur le Comte.
+LA MARQUISE.
+Moi ! 
+HORTENSIUS.
+Oui, Madame, au moyen duquel mariage je deviens a present un serviteur superflu, semblable a ces troupes qu'on entretient pendant la guerre, et que l'on casse a la paix : je combattais vos passions, vous vous accommodez avec elles, et je me retire avant qu'on me reforme.
+LA MARQUISE.
+Vous tenez la de jolis discours ; avec vos passions ; il est vrai que vous etes assez propre a leur faire peur, mais je n'ai que faire de vous pour les combattre. Des passions avec qui je m'accommode ! En verite, vous etes burlesque. Et ce mariage, de qui le tenez-vous donc ? 
+HORTENSIUS.
+De Mademoiselle Lisette qui l'a dit a Lubin, lequel me l'a rapporte, avec cette apostille contre moi, qui est que ce mariage m'expulserait d'ici. 
+LA MARQUISE, etonnee.
+Mais qu'est-ce que cela signifie ? Le Chevalier croira que je suis folle, et je veux savoir ce qu'il a repondu : ne me cachez rien, parlez. 
+HORTENSIUS.
+Madame, je ne sais rien, la-dessus, que de tres vague.
+LA MARQUISE.
+Du vague, voila qui est bien instructif ; voyons donc ce vague. 
+HORTENSIUS.
+Je pense donc que Lisette ne disait a Monsieur le Chevalier que vous epousiez Monsieur le Comte...
+LA MARQUISE.
+Abregez les qualites. 
+HORTENSIUS.
+Qu'afin de savoir si ledit Chevalier ne voudrait pas vous rechercher lui-meme et se substituer au lieu et place dudit Comte ; et meme il appert par le recit dudit Lubin, que ladite Lisette vous a offert au sieur Chevalier.
+LA MARQUISE.
+Voila, par exemple, de ces faits incroyables ; c'est promener la main d'une femme, et dire aux gens : la voulez-vous ? Ah ! Ah ! Je m'imagine voir le Chevalier reculer de dix pas a la proposition, n'est-il pas vrai ? 
+HORTENSIUS.
+Je cherche sa reponse litterale.
+LA MARQUISE.
+Ne vous brouillez point, vous avez la memoire fort nette, ordinairement. 
+HORTENSIUS.
+L'histoire rapporte qu'il s'est d'abord ecrie dans sa surprise, et qu'ensuite il a refuse la chose.
+LA MARQUISE.
+Oh ! Pour l'exclamation, il pouvait la retrancher, ce me semble, elle me parait tres imprudente et tres impolie. J'en approuve l'esprit ; s'il pensait autrement, je ne le verrais de ma vie ; mais se recrier devant les domestiques, m'exposer a leur raillerie, ah ! C'en est un peu trop ; il n'y a point de situation qui dispense d'etre honnete. 
+HORTENSIUS.
+La remarque critique est judicieuse.
+LA MARQUISE.
+Oh ! Je vous assure que je mettrai ordre a cela. Comment donc ! Cela m'attaque directement, cela va presque au mepris. Oh ! Monsieur le Chevalier, aimez votre Angelique tant que vous voudrez ; mais que je n'en souffre pas, s'il vous plait ! Je ne veux point me marier ; mais je ne veux pas qu'on me refuse. 
+HORTENSIUS.
+Ce que vous dites est sans faute. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ceci va bon train pour moi. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais, Madame, que deviendrai-je ? Puis-je rester ici ? N'ai-je rien a craindre ?
+LA MARQUISE.
+Allez, Monsieur, je vous retiens pour cent ans : vous n'avez ici ni Comte ni Chevalier a craindre ; c'est moi qui vous en assure, et qui vous protege. Prenez votre livre, et lisons ; je n'attends personne. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. Lubin arrive ; Hortensius, La Marquise.
+LUBIN.
+Madame, Monsieur le Chevalier finit un embarras avec un homme ; il va venir, et il dit qu'on l'attende.
+LA MARQUISE.
+Va, va, quand il viendra nous le prendrons.
+LUBIN.
+Si vous le permettiez a present, Madame, j'aurais l'honneur de causer un moment avec vous.
+LA MARQUISE.
+Eh bien, que veux-tu ? Acheve.
+LUBIN.
+Oh ! Mais, je n'oserais, vous me paraissez en colere. 
+LA MARQUISE, a Hortensius.
+Moi, de la colere ? Ai-je cet air-la, Monsieur ? 
+HORTENSIUS.
+La paix regne sur votre visage.
+LUBIN.
+C'est donc que cette paix y regne d'un air fache ?
+LA MARQUISE.
+Finis, finis.
+LUBIN.
+C'est que vous saurez, Madame, que Lisette trouve ma personne assez agreable ; la sienne me revient assez, et ce serait un marche fait, si, par une bonte qui nous rendrait la vie, Madame, qui est a marier, voulait bien prendre un peu d'amour pour mon maitre qui a du merite, et qui, dans cette occasion, se comporterait a l'avenant. 
+LA MARQUISE, a Hortensius.
+Ah ! Ah ! Ecoutons ; voila qui se rapporte assez a ce que vous m'avez dit.
+LUBIN.
+On parle aussi de Monsieur le Comte, et les comtes sont d'honnetes gens ; je les considere beaucoup ; mais, si j'etais femme, je ne voudrais que des chevaliers pour mon mari : vive un cadet dans le menage !
+LA MARQUISE.
+Sa vivacite me divertit : tu as raison, Lubin ; mais malheureusement, dit-on, ton maitre ne se soucie point de moi.
+LUBIN.
+Cela est vrai, il ne vous aime pas, et je lui en ai fait la reprimande avec Lisette ; mais si vous commenciez, cela le mettrait en train. 
+LA MARQUISE, a Hortensius.
+Eh bien, Monsieur, qu'en dites-vous ? Sentez-vous la-dedans le personnage que je joue ? La sottise du Chevalier me donne-t-elle un ridicule assez complet ? 
+HORTENSIUS.
+Vous l'avez prevu avec sagacite.
+LUBIN.
+Oh ! Je ne dispute pas qu'il n'ait fait une sottise, assurement ; mais, dans l'occurrence, un honnete homme se reprend.
+LA MARQUISE.
+Tais-toi, en voila assez.
+LUBIN.
+Helas ! Madame, je serais bien fache de vous deplaire ; je vous demande seulement d'y faire reflexion. 
+SCENE VI. Lisette arrive ; les acteurs precedents.
+LISETTE.
+Je viens de donner vos ordres, Madame : on dira la-bas que vous n'y etes pas, et un moment apres...
+LA MARQUISE.
+Cela suffit ; il s'agit d'autre chose a present, approche. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et toi, reste ici, je te prie.
+LISETTE.
+Qu'est-ce que c'est donc que cette ceremonie ? 
+LUBIN, a Lisette, bas. 
+Tu vas entendre parler de ma besogne.
+LA MARQUISE.
+Mon mariage avec le Comte, quand le terminerez-vous, Lisette ? 
+LISETTE, regardant Lubin. 
+Tu es un etourdi.
+LUBIN.
+Ecoute, ecoute.
+LA MARQUISE.
+Repondez-moi donc, quand le terminerez-vous ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LISETTE, le contrefaisant. 
+Eh, eh, eh ! Pourquoi me demandez-vous cela, Madame ?
+LA MARQUISE.
+C'est que j'apprends que vous me marierez avec Monsieur le Comte, au defaut du Chevalier, a qui vous m'avez proposee, et qui ne veut point de moi, malgre tout ce que vous avez pu lui dire avec son valet, qui vient m'exhorter a avoir de l'amour pour son maitre, dans l'esperance que cela le touchera.
+LISETTE.
+J'admire le tour que prennent les choses les plus louables, quand un benet les rapporte !
+LUBIN.
+Je crois qu'on parle de moi !
+LA MARQUISE.
+Vous admirez le tour que prennent les choses ?
+LISETTE.
+Ah ca, Madame, n'allez-vous pas vous facher ? N'allez-vous pas croire que j'ai tort ?
+LA MARQUISE.
+Quoi ! vous portez la hardiesse jusque-la, Lisette ! Quoi ! Prier le Chevalier de me faire la grace de m'aimer, et tout cela pour pouvoir epouser cet imbecile-la ?
+LUBIN.
+Attrape, attrape toujours.
+LA MARQUISE.
+Qu'est-ce que c'est donc que l'amour du Comte ? Vous etes donc la confidente des passions qu'on a pour moi, et que je ne connais point ? Et qu'est-ce qui pourrait se l'imaginer ? Je suis dans les pleurs, et l'on promet mon coeur et ma main a tout le monde, meme a ceux qui n'en veulent point ; je suis rejetee, j'essuie des affronts, j'ai des amants qui esperent, et je ne sais rien de tout cela ? Qu'une femme est a plaindre dans la situation ou je suis ! Quelle perte j'ai fait ! Et comment me traite-t-on ! 
+LUBIN, a part.
+Voila notre menage renverse. 
+LA MARQUISE, a Lisette.
+Allez, je vous croyais plus de zele et plus de respect pour votre maitresse.
+LISETTE.
+Fort bien, Madame, vous parlez de zele, et je suis payee du mien ; voila ce que c'est que de s'attacher a ses maitres ; la reconnaissance n'est point faite pour eux ; si vous reussissez a les servir, ils en profitent ; et quand vous ne reussissez pas, ils vous traitent comme des miserables.
+LUBIN.
+Comme des imbeciles. 
+HORTENSIUS, a Lisette. 
+Il est vrai qu'il vaudrait mieux que cela ne fut point advenu.
+LA MARQUISE.
+Eh ! Monsieur, mon veuvage est eternel ; en verite, il n'y a point de femme au monde plus eloignee du mariage que moi, et j'ai perdu le seul homme qui pouvait me plaire ; mais, malgre tout cela, il y a de certaines aventures desagreables pour une femme. Le Chevalier m'a refusee, par exemple ; mon amour-propre ne lui en veut aucun mal ; il n'y a la-dedans, comme je vous l'ai deja dit, que le ton, que la maniere que je condamne : car, quand il m'aimerait, cela lui serait inutile ; mais enfin il m'a refusee, cela est constant, il peut se vanter de cela, il le fera peut-etre ; qu'en arrive-t-il ? Cela jette un air de rebut sur une femme, les egards et l'attention qu'on a pour elle en diminuent, cela glace tous les esprits pour elle ; je ne parle point des coeurs, car je n'en ai que faire : mais on a besoin de consideration dans la vie, elle depend de l'opinion qu'on prend de vous ; c'est l'opinion qui nous donne tout, qui nous ote tout, au point qu'apres tout ce qui m'arrive, si je voulais me remarier, je le suppose, a peine m'estimerait-on quelque chose, il ne serait plus flatteur de m'aimer ; le Comte, s'il savait ce qui s'est passe, oui, le Comte, je suis persuadee qu'il ne voudrait plus de moi. 
+LUBIN, derriere.
+Je ne serais pas si degoute.
+LISETTE.
+Et moi, Madame, je dis que le Chevalier est un hypocrite ; car, si son refus est si serieux, pourquoi n'a-t-il pas voulu servir Monsieur le Comte comme je l'en priais ? Pourquoi m'a-t-il refusee durement, d'un air inquiet et pique ?
+LA MARQUISE.
+Qu'est-ce que c'est que d'un air pique ? Quoi ? Que voulez-vous dire ? Est-ce qu'il etait jaloux ? En voici d'une autre espece.
+LISETTE.
+Oui, Madame, je l'ai cru jaloux : voila ce que c'est ; il en avait toute la mine. Monsieur s'informe comment le Comte est aupres de vous ; comment vous le recevez ; on lui dit que vous souffrez ses visites, que vous ne le recevez point mal. Point mal ! dit-il avec depit, ce n'est donc pas la peine que je m'en mele ? Qui est-ce qui n'aurait pas cru la-dessus qu'il songeait a vous pour lui-meme ? Voila ce qui m'avait fait parler, moi : eh ! Que sait-on ce qui se passe dans sa tete ? Peut-etre qu'il vous aime. 
+LUBIN, derriere.
+Il en est bien capable.
+LA MARQUISE.
+Me voila deroutee, je ne sais plus comment regler ma conduite ; car il y en a une a tenir la-dedans : j'ignore laquelle, et cela m'inquiete. 
+HORTENSIUS.
+Si vous me le permettez, Madame, je vous apprendrai un petit axiome qui vous sera, sur la chose, d'une merveilleuse instruction ; c'est que le jaloux veut avoir ce qu'il aime : or, etant manifeste que le Chevalier vous refuse...
+LA MARQUISE.
+Il me refuse ! Vous avez des expressions bien grossieres ; votre axiome ne sait ce qu'il dit ; il n'est pas encore sur qu'il me refuse.
+LISETTE.
+Il s'en faut bien ; demandez au Comte ce qu'il pense.
+LA MARQUISE.
+Comment, est-ce que le Comte etait present ?
+LISETTE.
+Il n'y etait plus ; je dis seulement qu'il croit que le Chevalier est son rival.
+LA MARQUISE.
+Ce n'est pas assez qu'il le croie, ce n'est pas assez, il faut que cela soit ; il n'y a que cela qui puisse me venger de l'affront presque public que m'a fait sa reponse ; il n'y a que cela ; j'ai besoin, pour reparations, que son discours n'ait ete qu'un depit amoureux ; dependre d'un depit amoureux ! Cela n'est-il pas comique ? Assurement : ce n'est pas que je me soucie de ce qu'on appelle la gloire d'une femme, gloire sotte, ridicule, mais recue, mais etablie, qu'il faut soutenir, et qui nous pare ; les hommes pensent comme cela, il faut penser comme les hommes, ou ne pas vivre avec eux. Ou en suis-je donc, si le Chevalier n'est point jaloux ? L'est-il ? Ne l'est-il point ? On n'en sait rien. C'est un peut-etre ; mais cette gloire en souffre, toute sotte qu'elle est, et me voila dans la triste necessite d'etre aimee d'un homme qui me deplait ; le moyen de tenir a cela ? Oh ! Je n'en demeurerai pas la, je n'en demeurerai pas la. Qu'en dites-vous, Monsieur ? Il faut que la chose s'eclaircisse absolument. 
+HORTENSIUS.
+Le mepris serait suffisant, Madame.
+LA MARQUISE.
+Eh ! Non, Monsieur, vous me conseillez mal ; vous ne savez parler que de livres.
+LUBIN.
+Il y aura du baton pour moi dans cette affaire-la. 
+LISETTE, pleurant. 
+Pour moi, Madame, je ne sais pas ou vous prenez toutes vos alarmes, on dirait que j'ai renverse le monde entier. On n'a jamais aime une maitresse autant que je vous aime ; je m'avise de tout, et puis il se trouve que j'ai fait tous les maux imaginables. Je ne saurais durer comme cela ; j'aime mieux me retirer, du moins je ne verrai point votre tristesse, et l'envie de vous en tirer ne me fera point faire d'impertinence.
+LA MARQUISE.
+Il ne s'agit pas de vos larmes ; je suis compromise, et vous ne savez pas jusqu'ou cela va. Voila le Chevalier qui vient, restez ; j'ai interet d'avoir des temoins. 
+SCENE VII. Le Chevalier, les acteurs precedents.
+LE CHEVALIER.
+Vous m'avez peut-etre attendu, Madame, et je vous prie de m'excuser ; j'etais en affaire.
+LA MARQUISE.
+Il n'y a pas grand mal, Monsieur le Chevalier ; c'est une lecture retardee, voila tout.
+LE CHEVALIER.
+J'ai cru d'ailleurs que Monsieur le Comte vous tenait compagnie, et cela me tranquillisait. 
+LUBIN, derriere. 
+Ahi ! Ahi ! Je m'enfuis. 
+LA MARQUISE, examinant le Chevalier. 
+On m'a dit que vous l'aviez vu, le Comte ?
+LE CHEVALIER.
+Oui, Madame. 
+LA MARQUISE, le regardant toujours.
+C'est un fort honnete homme.
+LE CHEVALIER.
+Sans doute, et je le crois meme d'un esprit tres propre a consoler ceux qui ont du chagrin.
+LA MARQUISE.
+Il est fort de mes amis.
+LE CHEVALIER.
+Il est des miens aussi.
+LA MARQUISE.
+Je ne savais pas que vous le connussiez beaucoup ; il vient ici quelquefois, et c'est presque le seul des amis de feu Monsieur le Marquis que je voie encore ; il m'a paru meriter cette distinction-la ; qu'en dites-vous ?
+LE CHEVALIER.
+Oui, Madame, vous avez raison, et je pense comme vous ; il est digne d'etre excepte. 
+LA MARQUISE, a Lisette, bas. 
+Trouvez-vous cet homme-la jaloux, Lisette ? 
+LE CHEVALIER, a part les premiers mots.
+Monsieur le Comte et son merite m'ennuient. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Madame, on a parle d'une lecture, et si je croyais vous deranger je me retirerais.
+LA MARQUISE.
+Puisque la conversation vous ennuie, nous allons lire.
+LE CHEVALIER.
+Vous me faites un etrange compliment.
+LA MARQUISE.
+Point du tout, et vous allez etre content. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Retirez-vous, Lisette, vous me deplaisez la. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et vous, Monsieur, ne vous ecartez point, on va vous rappeler. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour vous, Chevalier, j'ai encore un mot a vous dire avant notre lecture ; il s'agit d'un petit eclaircissement qui ne vous regarde point, qui ne touche que moi, et je vous demande en grace de me repondre avec la derniere naivete sur la question que je vais vous faire.
+LE CHEVALIER.
+Voyons, Madame, je vous ecoute.
+LA MARQUISE.
+Le Comte m'aime, je viens de le savoir, et je l'ignorais. 
+LE CHEVALIER, ironiquement. 
+Vous l'ignorez ?
+LA MARQUISE.
+Je dis la verite, ne m'interrompez point.
+LE CHEVALIER.
+Cette verite-la est singuliere.
+LA MARQUISE.
+Je n'y saurais que faire, elle ne laisse pas que d'etre ; il est permis aux gens de mauvaise humeur de la trouver comme ils voudront.
+LE CHEVALIER.
+Je vous demande pardon d'avoir dit ce que j'en pense : continuons. 
+LA MARQUISE, impatiente.
+Vous m'impatientez ! Aviez-vous cet esprit-la avec Angelique ? Elle aurait du ne vous aimer guere.
+LE CHEVALIER.
+Je n'en avais point d'autre, mais il etait de son gout, et il a le malheur de n'etre pas du votre ; cela fait une grande difference.
+LA MARQUISE.
+Vous l'ecoutiez donc quand elle vous parlait ; ecoutez-moi aussi. Lisette vous a prie de me parler pour le Comte, vous ne l'avez point voulu.
+LE CHEVALIER.
+Je n'avais garde ; le Comte est un amant, vous m'aviez dit que vous ne les aimiez point ; mais vous etes la maitresse.
+LA MARQUISE.
+Non, je ne la suis point ; peut-on, a votre avis, repondre a l'amour d'un homme qui ne vous plait pas ? Vous etes bien particulier ! 
+LE CHEVALIER, riant.
+He ! He ! He ! J'admire la peine que vous prenez pour me cacher vos sentiments ; vous craignez que je ne les critique, apres ce que vous m'avez dit : mais non, Madame, ne vous genez point ; je sais combien il vaut de compter avec le coeur humain, et je ne vois rien la que de fort ordinaire. 
+LA MARQUISE, en colere.
+Non, je n'ai de ma vie eu tant d'envie de quereller quelqu'un. Adieu. 
+LE CHEVALIER, la retenant.
+Ah ! Marquise, tout ceci n'est que conversation, et je serais au desespoir de vous chagriner ; achevez, de grace.
+LA MARQUISE.
+Je reviens. Vous etes l'homme du monde le plus estimable, quand vous voulez ; et je ne sais par quelle fatalite vous sortez aujourd'hui d'un caractere naturellement doux et raisonnable ; laissez-moi finir... Je ne sais plus ou j'en suis.
+LE CHEVALIER.
+Au Comte, qui vous deplait.
+LA MARQUISE.
+Eh bien, ce Comte qui me deplait, vous n'avez pas voulu me parler pour lui ; Lisette s'est meme imagine vous voir un air pique.
+LE CHEVALIER.
+Il en pouvait etre quelque chose.
+LA MARQUISE.
+Passe pour cela, c'est repondre, et je vous reconnais : sur cet air pique, elle a pense que je ne vous deplaisais pas. 
+LE CHEVALIER, salue en riant.
+Cela n'est pas difficile a penser.
+LA MARQUISE.
+Pourquoi ? On ne plait pas a tout le monde ; or, comme elle a cru que vous me conveniez, elle vous a propose ma main, comme si cela dependait d'elle, et il est vrai que souvent je lui laisse assez de pouvoir sur moi ; vous vous etes, dit-elle, revolte avec dedain contre la proposition.
+LE CHEVALIER.
+Avec dedain ? Voila ce qu'on appelle du fabuleux, de l'impossible.
+LA MARQUISE.
+Doucement, voici ma question : avez-vous rejete l'offre de Lisette, comme pique de l'amour du Comte, ou comme une chose qu'on rebute ? Etait-ce depit jaloux ? Car enfin, malgre nos conventions, votre coeur aurait pu etre tente du mien : ou bien etait-ce vrai dedain ?
+LE CHEVALIER.
+Commencons par rayer ce dernier, il est incroyable ; pour de la jalousie...
+LA MARQUISE.
+Parlez hardiment. 
+LE CHEVALIER, d'un air embarrasse.
+Que diriez-vous, si je m'avisais d'en avoir ?
+LA MARQUISE.
+Je dirais... que vous seriez jaloux.
+LE CHEVALIER.
+Oui, mais, Madame, me pardonneriez-vous ce que vous haissez tant ?
+LA MARQUISE.
+Vous ne l'etiez donc point ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vous entends, je l'avais bien prevu, et mon injure est averee.
+LE CHEVALIER.
+Que parlez-vous d'injure ? Ou est-elle ? Est-ce que vous etes fachee contre moi ?
+LA MARQUISE.
+Contre vous, Chevalier ? non, certes ; et pourquoi me facherais-je ? Vous ne m'entendez point, c'est a l'impertinente Lisette a qui j'en veux : je n'ai point de part a l'offre qu'elle vous a faite, et il a fallu vous l'apprendre, voila tout ; d'ailleurs, ayez de l'indifference ou de la haine pour moi, que m'importe ? J'aime bien mieux cela que de l'amour ; au moins, ne vous y trompez pas.
+LE CHEVALIER.
+Qui ? moi, Madame, m'y tromper ! Eh ! ce sont ces dispositions-la dans lesquelles je vous ai vue, qui m'ont attache a vous, vous le savez bien ; et depuis que j'ai perdu Angelique, j'oublierais presque qu'on peut aimer, si vous ne m'en parliez pas.
+LA MARQUISE.
+Oh ! Pour moi, j'en parle sans m'en ressouvenir. Allons, Monsieur Hortensius, approchez, prenez votre place ; lisez-moi quelque chose de gai, qui m'amuse. 
+SCENE VIII. Hortensius et les acteurs precedents.
+LA MARQUISE.
+Chevalier, vous etes le maitre de rester si ma lecture vous convient ; mais vous etes bien triste, et je veux tacher de me dissiper. 
+LE CHEVALIER, serieux.
+Pour moi, Madame, je n'en suis point encore aux lectures amusantes. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA MARQUISE, a Hortensius, quand il est parti..
+Qu'est-ce que c'est que votre livre ? 
+HORTENSIUS.
+Ce ne sont que des reflexions tres serieuses.
+LA MARQUISE.
+Eh bien, que ne parlez-vous donc ? Vous etes bien taciturne ! Pourquoi laisser sortir le Chevalier, puisque ce que vous allez lire lui convient ? 
+HORTENSIUS, appelle le Chavalier.
+Monsieur le Chevalier ! Monsieur le Chevalier ! 
+LE CHEVALIER, reparait.
+Que me voulez-vous ? 
+HORTENSIUS.
+Madame vous prie de revenir, je ne lirai rien de recreatif.
+LA MARQUISE.
+Que voulez-vous dire : Madame vous prie ? Je ne prie point : vous avez des reflexions... Et vous rappelez Monsieur, voila tout.
+LE CHEVALIER.
+Je m'apercois, Madame, que je faisais une impolitesse de me retirer, et je vais rester, si vous le voulez bien.
+LA MARQUISE.
+Comme il vous plaira ; asseyons-nous donc. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)HORTENSIUS, apres avoir tousse, crache, lit.
+"La raison est d'un prix a qui tout cede ; c'est elle qui fait notre veritable grandeur ; on a necessairement toutes les vertus avec elle ; enfin le plus respectable de tous les hommes, ce n'est pas le plus puissant, c'est le plus raisonnable." 
+LE CHEVALIER, s'agitant sur son siege.
+Ma foi, sur ce pied-la, le plus respectable de tous les hommes a tout l'air de n'etre qu'une chimere : quand je dis les hommes, j'entends tout le monde.
+LA MARQUISE.
+Mais, du moins, y a-t-il des gens qui sont plus raisonnables les uns que les autres.
+LE CHEVALIER.
+Hum ! Disons qui ont moins de folie, cela sera plus sur.
+LA MARQUISE.
+Eh ! De grace, laissez-moi un peu de raison, Chevalier ; je ne saurais convenir que je suis folle, par exemple...
+LE CHEVALIER.
+Vous, Madame ? Eh ! N'etes-vous pas exceptee ? Vela s'en va sans dire et c'est la regle.
+LA MARQUISE.
+Je ne suis point tentee de vous remercier ; poursuivons. 
+HORTENSIUS, lit.
+"Puisque la raison est un si grand bien, n'oublions rien pour la conserver ; fuyons les passions qui nous la derobent ; l'amour est une de celles..."
+LE CHEVALIER.
+L'amour ! L'amour ote la raison ? Cela n'est pas vrai ; je n'ai jamais ete plus raisonnable que depuis que j'en ai pour Angelique, et j'en ai excessivement.
+LA MARQUISE.
+Vous en aurez tant qu'il vous plaira, ce sont vos affaires, et on ne vous en demande pas le compte ; mais l'auteur n'a point tant de tort ; je connais des gens, moi, que l'amour rend bourrus et sauvages, et ces defauts-la n'embellissent personne, je pense. 
+HORTENSIUS.
+Si Monsieur me donnait la licence de parachever, peut-etre que...
+LE CHEVALIER.
+Petit auteur que cela, esprit superficiel... 
+HORTENSIUS, se levant.
+Petit auteur, esprit superficiel ! Un homme qui cite Seneque pour garant de ce qu'il dit, ainsi que vous le verrez plus bas, folio 24, chapitre V !
+LE CHEVALIER.
+Fut-ce chapitre mille, Seneque ne sait ce qu'il dit. 
+HORTENSIUS.
+Cela est impossible. 
+LA MARQUISE, riant.
+En verite, cela me divertit plus que ma lecture : mais, Monsieur Hortensius, en voila assez, votre livre ne plait point au Chevalier, n'en lisons plus ; une autre fois nous serons plus heureux.
+LE CHEVALIER.
+C'est votre gout, Madame, qui doit decider.
+LA MARQUISE.
+Mon gout veut bien avoir cette complaisance-la pour le votre. 
+HORTENSIUS, s'en allant.
+Seneque un petit auteur ! Par Jupiter, si je le disais, je croirais faire un blaspheme litteraire. Adieu, Monsieur.
+LE CHEVALIER.
+Serviteur, serviteur. 
+SCENE IX. Le Chevalier, La Marquise.
+LA MARQUISE.
+Vous voila brouille avec Hortensius, Chevalier ; de quoi vous avisez-vous aussi de medire de Seneque ?
+LE CHEVALIER.
+Seneque et son defenseur ne m'inquietent pas, pourvu que vous ne preniez pas leur parti, Madame.
+LA MARQUISE.
+Ah ! Je demeurerai neutre, si la querelle continue ; car je m'imagine que vous ne voudrez pas la recommencer ; nos occupations vous ennuient, n'est-il pas vrai ?
+LE CHEVALIER.
+Il faut etre plus tranquille que je ne suis, pour reussir a s'amuser.
+LA MARQUISE.
+Ne vous genez point, Chevalier, vivons sans facon ; vous voulez peut-etre seul : adieu, je vous laisse.
+LE CHEVALIER.
+Il n'y a plus de situation qui ne me soit a charge.
+LA MARQUISE.
+Je voudrais de tout mon coeur pouvoir vous calmer l'esprit. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE CHEVALIER, pendant qu'elle marche.
+Ah ! Je m'attendais a plus de repos quand j'ai rompu mon voyage ; je ne ferai plus de projets, je vois bien que je rebute le monde. 
+LA MARQUISE, s'arretant au milieu du theatre.
+Ce que je lui entends dire la me touche ; il ne serait pas genereux de le quitter dans cet etat-la. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Non, Chevalier, vous ne me rebutez point ; ne cedez point a votre douleur : tantot vous partagiez mes chagrins, vous etiez sensible a la part que je prenais aux votres, pourquoi n'etes-vous plus de meme ? C'est cela qui me rebuterait, par exemple, car la veritable amitie veut qu'on fasse quelque chose pour elle, elle veut consoler.
+LE CHEVALIER.
+Aussi aurait-elle bien du pouvoir sur moi : si je la trouvais, personne au monde n'y serait plus sensible ; j'ai le coeur fait pour elle ; mais ou est-elle ? Je m'imaginais l'avoir trouvee, me voila detrompe, et ce n'est pas sans qu'il en coute a mon coeur.
+LA MARQUISE.
+Peut-on de reproche plus injuste que celui que vous me faites ? De quoi vous plaignez-vous, voyons ? d'une chose que vous avez rendue necessaire : une etourdie vient vous proposer ma main, vous y avez de la repugnance ; a la bonne heure, ce n'est point la ce qui me choque ; un homme qui a aime Angelique peut trouver les autres femmes bien inferieures, elle a du vous rendre les yeux tres difficiles ; et d'ailleurs tout ce qu'on appelle vanite la-dessus, je n'en suis plus.
+LE CHEVALIER.
+Ah ! Madame, je regrette Angelique, mais vous m'en auriez console, si vous aviez voulu.
+LA MARQUISE.
+Je n'en ai point de preuve ; car cette repugnance dont je ne me plains point, fallait-il la marquer ouvertement ? Representez-vous cette action-la de sang-froid ; vous etes galant homme, jugez-vous ; ou est l'amitie dont vous parlez ? Car, encore une fois, ce n'est pas de l'amour que je veux, vous le savez bien, mais l'amitie n'a-t-elle pas ses sentiments, ses delicatesses ? L'amour est bien tendre, Chevalier ; eh bien, croyez qu'elle menage avec encore plus de scrupule que lui les interets de ceux qu'elle unit ensemble. Voila le portrait que je m'en suis toujours fait, voila comme je la sens, et comme vous auriez du la sentir : il me semble que l'on n'en peut rien rabattre, et vous n'en connaissez pas les devoirs comme moi : qu'il vienne quelqu'un me proposer votre main, par exemple, et je vous apprendrai comme on repond la-dessus.
+LE CHEVALIER.
+Oh ! Je suis sur que vous y seriez plus embarrasse que moi ! Car enfin, vous n'accepteriez point la proposition.
+LA MARQUISE.
+Nous n'y sommes pas, ce quelqu'un n'est pas venu, et ce n'est que pour vous dire combien je vous menagerais : cependant vous vous plaignez.
+LE CHEVALIER.
+Eh ! Morbleu, Madame, vous m'avez parle de repugnance, et je ne saurais vous souffrir cette idee-la. Tenez, je trancherai tout d'un coup la-dessus : si je n'aimais pas Angelique, qu'il faut bien que j'oublie, vous n'auriez qu'une chose a craindre avec moi, qui est que mon amitie ne devint amour, et raisonnablement il n'y aurait que cela a craindre non plus ; c'est la toute la repugnance que je me connais.
+LA MARQUISE.
+Ah ! Pour cela, c'en serait trop ; il ne faut pas, Chevalier, il ne faut pas.
+LE CHEVALIER.
+Mais ce serait vous rendre justice ; d'ailleurs, d'ou peut venir le refus dont vous m'accusez ? car enfin etait-il naturel ? C'est que le Comte vous aimait, c'est que vous le souffriez ; j'etais outre de voir cet amour venir traverser un attachement qui devait faire toute ma consolation ; mon amitie n'est point compatible avec cela, ce n'est point une amitie faite comme les autres.
+LA MARQUISE.
+Eh bien, voila qui change tout, je ne me plains plus, je suis contente ; ce que vous me dites la, je l'eprouve, je le sens ; c'est la precisement l'amitie que je demande, la voila, c'est la veritable, elle est delicate, elle est jalouse, elle a droit de l'etre ; mais que ne me parliez-vous ? Que n'etes-vous venu me dire : Qu'est-ce que c'est que le Comte ? Que fait-il chez vous ? Je vous aurais tire d'inquietude, et tout cela ne serait point arrive.
+LE CHEVALIER.
+Vous ne me verrez point faire d'inclination, a moi ; je n'y songe point avec vous.
+LA MARQUISE.
+Vraiment je vous le defends bien, ce ne sont pas la nos conditions ; je serais jalouse aussi, moi, jalouse comme nous l'entendons.
+LE CHEVALIER.
+Vous, Madame ?
+LA MARQUISE.
+Est-ce que je ne l'etais pas de cette facon-la tantot ? votre reponse a Lisette n'avait-elle pas du me choquer ?
+LE CHEVALIER.
+Vous m'avez pourtant dit de cruelles choses.
+LA MARQUISE.
+Eh ! a qui en dit-on, si ce n'est aux gens qu'on aime, et qui semblent n'y pas repondre ?
+LE CHEVALIER.
+Dois-je vous en croire ? Que vous me tranquillisez, ma chere Marquise !
+LA MARQUISE.
+Ecoutez, je n'avais pas moins besoin de cette explication-la que vous.
+LE CHEVALIER.
+Que vous me charmez ! Que vous me donnez de joie ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA MARQUISE, riant.
+On le prendrait pour mon amant, de la maniere dont il me remercie.
+LE CHEVALIER.
+Ma foi, je defie un amant de vous aimer plus que je fais ; je n'aurais jamais cru que l'amitie allat si loin, cela est surprenant ; l'amour est moins vif.
+LA MARQUISE.
+Et cependant il n'y a rien de trop.
+LE CHEVALIER.
+Non, il n'y a rien de trop ; mais il me reste une grace a vous demander. Gardez-vous Hortensius ? Je crois qu'il est fache de me voir ici, et je sais lire aussi bien que lui.
+LA MARQUISE.
+Eh bien, Chevalier, il faut le renvoyer ; voila toute la facon qu'il faut y faire.
+LE CHEVALIER.
+Et le Comte, qu'en ferons-nous ? Il m'inquiete un peu.
+LA MARQUISE.
+On le congediera aussi ; je veux que vous soyez content, je veux vous mettre en repos. Donnez-moi la main, je serais bien aise de me promener dans le jardin.
+LE CHEVALIER.
+Allons, Marquise. 
+
+
+			ACTE III
+
+
+SCENE PREMIERE.
+HORTENSIUS, seul.
+N'est-ce pas une chose etrange, qu'un homme comme moi n'ait point de fortune ! Posseder le grec et le latin, et ne pas posseder dix pistoles ? O divin Homere ! O Virgile ! Et vous gentil Anacreon ! Vos doctes interpretes ont de la peine a vivre ; bientot je n'aurai plus d'asile : j'ai vu la Marquise irritee contre le Chevalier ; mais incontinent je l'ai vue dans le jardin discourir avec lui de la maniere la plus benevole. Quels solecismes de conduite ! Est-ce que l'amour m'expulserait d'ici ? 
+SCENE II. Hortensius, Lisette, Lubin.
+LUBIN, gaillardement. 
+Tiens, Lisette, le voila bien a propos pour lui faire nos adieux. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah, ah, ah ! 
+HORTENSIUS.
+A qui en veut cet etourdi-la, avec son transport de joie ?
+LUBIN.
+Allons, gai, camarade Docteur ; comment va la philosophie ? 
+HORTENSIUS.
+Pourquoi me faites-vous cette question-la ?
+LUBIN.
+Ma foi, je n'en sais rien, si ce n'est pour entrer en conversation.
+LISETTE.
+Allons, allons, venons au fait.
+LUBIN.
+Encore un petit mot, Docteur : n'avez-vous jamais couche dans la rue ? 
+HORTENSIUS.
+Que signifie ce discours ?
+LUBIN.
+C'est que cette nuit vous en aurez le plaisir ; le vent de bise vous en dira deux mots.
+LISETTE.
+N'amusons point davantage Monsieur Hortensius. Tenez, Monsieur, voila de l'or que Madame m'a charge de vous donner, moyennant quoi, comme elle prend conge de vous, vous pouvez prendre conge d'elle. A mon egard, je salue votre erudition, et je suis votre tres humble servante. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LUBIN.
+Et moi votre serviteur. 
+HORTENSIUS.
+Quoi, Madame me renvoie ?
+LISETTE.
+Non pas, Monsieur, elle vous prie seulement de vous retirer.
+LUBIN.
+Et vous qui etes honnete, vous ne refuserez rien aux prieres de Madame. 
+HORTENSIUS.
+Savez-vous la raison de cela, Mademoiselle Lisette ?
+LISETTE.
+Non : mais en gros je soupconne que cela pourrait venir de ce que vous l'ennuyez.
+LUBIN.
+Et en detail, de ce que nous sommes bien aises de nous aimer en paix, en depit de la philosophie que vous avez dans la tete.
+LISETTE.
+Tais-toi. 
+HORTENSIUS.
+J'entends, c'est que Madame la Marquise et Monsieur le Chevalier ont de l'inclination l'un pour l'autre.
+LISETTE.
+Je n'en sais rien, ce ne sont pas mes affaires.
+LUBIN.
+Eh bien ! Tout coup vaille, quand ce serait de l'inclination, quand ce serait des passions, des soupirs, des flammes, et de la noce apres : il n'y a rien de si gaillard ; on a un coeur, on s'en sert, cela est naturel. 
+LISETTE, a Lubin.
+Finis tes sottises. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous voila averti, Monsieur ; je crois que cela suffit.
+LUBIN.
+Adieu, touchez la, et partez ferme ; il n'y aura pas de mal a doubler le pas. 
+HORTENSIUS.
+Dites a Madame que je me conformerai a ses ordres. 
+SCENE III. Lisette, Lubin.
+LISETTE.
+Enfin, le voila congedie ; c'est pourtant un amant que je perds.
+LUBIN.
+Un amant ! Quoi ! Ce vieux radoteur t'aimait ?
+LISETTE.
+Sans doute ; il voulait me faire des arguments.
+LUBIN.
+Hum !
+LISETTE.
+Des arguments, te dis-je ; mais je les ai fort bien repousses avec d'autres.
+LUBIN.
+Des arguments ! Voudrais-tu bien m'en pousser un, pour voir ce que c'est ?
+LISETTE.
+Il n'y a rien de si aise. Tiens, en voila un : tu es un joli garcon, par exemple.
+LUBIN.
+Cela est vrai.
+LISETTE.
+J'aime tout ce qui est joli, ainsi je t'aime : c'est la ce que l'on appelle un argument.
+LUBIN.
+Pardi, tu n'as que faire du Docteur pour cela, je t'en ferai aussi bien qu'un autre. Gageons un petit baiser que je t'en donne une douzaine.
+LISETTE.
+Je gagerai quand nous serons maries, parce que je serai bien aise de perdre.
+LUBIN.
+Bon ! Quand nous serons maries, j'aurai toujours gagne sans faire de gageure.
+LISETTE.
+Paix ! J'entends quelqu'un qui vient ; je crois que c'est Monsieur le Comte : Madame m'a charge d'un compliment pour lui, qui ne le rejouira pas. 
+SCENE IV. Le Comte, Lisette, Lubin.
+LE COMTE, d'un air emu.
+Bonjour, Lisette ; je viens de rencontrer Hortensius, qui m'a dit des choses bien singulieres. La Marquise le renvoie, a ce qu'il dit, parce qu'elle aime le Chevalier, et qu'elle l'epouse. Cela est-il vrai ? Je vous prie de m'instruire...
+LISETTE.
+Mais, Monsieur le Comte, je ne crois pas que cela soit, et je n'y vois pas encore d'apparence : Hortensius lui deplait, elle le congedie ; voila tout ce que j'en puis dire. 
+LE COMTE, a Lubin.
+Et toi, n'en sais-tu pas davantage ?
+LUBIN.
+Non, Monsieur le Comte, je ne sais que mon amour pour Lisette : voila toutes mes nouvelles.
+LISETTE.
+Madame la Marquise est si peu disposee a se marier, qu'elle ne veut pas meme voir d'amants : elle m'a dit de vous prier de ne point vous obstiner a l'aimer.
+LE COMTE.
+Non plus qu'a la voir, sans doute ?
+LISETTE.
+Mais je crois que cela revient au meme.
+LUBIN.
+Oui, qui dit l'un dit l'autre.
+LE COMTE.
+Que les femmes sont inconcevables ! Le Chevalier est ici, apparemment ?
+LISETTE.
+Je crois qu'oui.
+LUBIN.
+Leurs sentiments d'amitie ne permettent pas qu'ils se separent.
+LE COMTE.
+Ah ! Avertissez, je vous prie, le Chevalier, que je voudrais lui dire un mot.
+LISETTE.
+J'y vais de ce pas, Monsieur le Comte. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V.
+LE COMTE, seul.
+Qu'est-ce que cela signifie ? Est-ce de l'amour qu'ils ont l'un pour l'autre ? Le Chevalier va venir, interrogeons son coeur pour en tirer la verite. Je vais me servir d'un stratageme, qui, tout commun qu'il est, ne laisse pas souvent que de reussir. 
+SCENE VI. Le Chevalier, Le Comte.
+LE CHEVALIER.
+On m'a dit que vous me demandiez ; puis-je vous rendre quelque service, Monsieur ?
+LE COMTE.
+Oui, Chevalier, vous pouvez veritablement m'obliger.
+LE CHEVALIER.
+Pardi, si je le puis, cela vaut fait.
+LE COMTE.
+Vous m'avez dit que vous n'aimiez pas la Marquise.
+LE CHEVALIER.
+Que dites-vous la ? Je l'aime de tout mon coeur.
+LE COMTE.
+J'entends que vous n'aviez point d'amour pour elle.
+LE CHEVALIER.
+Ah ! C'est une autre affaire, et je me suis explique la-dessus.
+LE COMTE.
+Je le sais, mais etes-vous dans les memes sentiments ? Ne s'agit-il point a present d'amour, absolument ? 
+LE CHEVALIER, riant.
+Eh ! Mais, en verite, par ou jugez-vous qu'il y en ait ? Qu'est-ce que c'est que cette idee-la ?
+LE COMTE.
+Moi, je n'en juge point, je vous le demande.
+LE CHEVALIER.
+Hum ! vous avez pourtant la mine d'un homme qui le croit.
+LE COMTE.
+Eh bien, debarrassez-vous de cela ; dites-moi oui ou non. 
+LE CHEVALIER, riant.
+Eh, eh ! Monsieur le Comte, un homme d'esprit comme vous ne doit point faire de chicane sur les mots ; le oui et le non, qui ne se sont point presentes a moi, ne valent pas mieux que le langage que je vous tiens ; c'est la meme chose, assurement : il y a entre la Marquise et moi une amitie et des sentiments vraiment respectables. Etes-vous content ? Cela est-il net ? Voila du francais. 
+LE COMTE, a part.
+Pas trop... On ne saurait mieux dire, et j'ai tort ; mais il faut pardonner aux amants, ils se mefient de tout.
+LE CHEVALIER.
+Je sais ce qu'ils sont par mon experience. Revenons a vous et a vos amours, je m'interesse beaucoup a ce qui vous regarde ; mais n'allez pas encore empoisonner ce que je vais vous dire ; ouvrez-moi votre coeur. Est-ce que vous voulez continuer d'aimer la Marquise ?
+LE COMTE.
+Toujours.
+LE CHEVALIER.
+Entre nous ; il est etonnant que vous ne vous lassiez point de son indifference. Parbleu, il faut quelques sentiments dans une femme. Vous hait-elle ? On combat sa haine ; ne lui deplaisez-vous pas ? On espere ; mais une femme qui ne repond rien, comment se conduire avec elle ? Par ou prendre son coeur ? Un coeur qui ne se remue ni pour ni contre, qui n'est ni ami ni ennemi, qui n'est rien, qui est mort, le ressuscite-t-on ? Je n'en crois rien : et c'est pourtant ce que vous voulez faire. 
+LE COMTE, finement.
+Non, non, Chevalier, je vous parle confidemment, a mon tour. Je n'en suis pas tout a fait reduit a une entreprise si chimerique, et le coeur de la Marquise n'est pas si mort que vous le pensez : m'entendez-vous ? Vous etes distrait.
+LE CHEVALIER.
+Vous vous trompez, je n'ai jamais eu plus d'attention.
+LE COMTE.
+Elle savait mon amour, je lui en parlais, elle ecoutait.
+LE CHEVALIER.
+Elle ecoutait ?
+LE COMTE.
+Oui, je lui demandais du retour.
+LE CHEVALIER.
+C'est l'usage ; et a cela quelle reponse ?
+LE COMTE.
+On me disait de l'attendre.
+LE CHEVALIER.
+C'est qu'il etait tout venu. 
+LE COMTE, a part.
+Il l'aime... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cependant aujourd'hui elle ne veut pas me voir, j'attribue cela a ce que j'avais ete quelques jours sans paraitre, avant que vous arrivassiez : la Marquise est la femme de France la plus fiere.
+LE CHEVALIER.
+Ah ! Je la trouve passablement humiliee d'avoir cette fierte-la.
+LE COMTE.
+Je vous ai prie tantot de me raccommoder avec elle, et je vous en prie encore.
+LE CHEVALIER.
+Eh ! Vous vous moquez, cette femme-la vous adore.
+LE COMTE.
+Je ne dis pas cela.
+LE CHEVALIER.
+Et moi, qui ne m'en soucie guere, je le dis pour vous.
+LE COMTE.
+Ce qui m'en plait, c'est que vous le dites sans jalousie.
+LE CHEVALIER.
+Oh ! Parbleu, si cela vous plait, vous etes servi a souhait ; car je vous dirai que j'en suis charme, que je vous en felicite, et que je vous embrasserais volontiers.
+LE COMTE.
+Embrassez donc, mon cher.
+LE CHEVALIER.
+Ah ! ce n'est pas la peine ; il me suffit de m'en rejouir sincerement, et je vais vous en donner des preuves qui ne seront point equivoques.
+LE COMTE.
+Je voudrais bien vous en donner de ma reconnaissance, moi ; et si vous etiez d'humeur a accepter celle que j'imagine, ce serait alors que je serais bien sur de vous. A l'egard de la Marquise...
+LE CHEVALIER.
+Comte, finissons : vous autres amants, vous n'avez que votre amour et ses interets dans la tete, et toutes ces folies-la n'amusent point les autres. Parlons d'autre chose : de quoi s'agit-il ?
+LE COMTE.
+Dites-moi, mon cher, auriez-vous renonce au mariage ?
+LE CHEVALIER.
+Oh ! Parbleu, c'en est trop : faut-il que j'y renonce pour vous mettre en repos ? Non, Monsieur ; je vous demande grace pour ma posterite, s'il vous plait. Je n'irai point sur vos brisees, mais qu'on me trouve un parti convenable, et demain je me marie ; et qui plus est, c'est que cette Marquise, qui ne vous sort pas de l'esprit, tenez, je m'engage a la prier de la fete.
+LE COMTE.
+Ma foi, Chevalier, vous me ravissez ; je sens bien que j'ai affaire au plus franc de tous les hommes ; vos dispositions me charment. Mon cher ami, continuons : vous connaissez ma soeur ; que pensez-vous d'elle ?
+LE CHEVALIER.
+Ce que j'en pense ?... Votre question me fait ressouvenir qu'il y a longtemps que je ne l'ai vue, et qu'il faut que vous me presentiez a elle.
+LE COMTE.
+Vous m'avez dit cent fois qu'elle etait digne d'etre aimee du plus honnete homme : on l'estime, vous connaissez son bien, vous lui plairez, j'en suis sur ; et si vous ne voulez qu'un parti convenable, en voila un.
+LE CHEVALIER.
+En voila un... Vous avez raison... Oui... Votre idee est admirable : elle est amie de la Marquise, n'est-ce pas ?
+LE COMTE.
+Je crois qu'oui.
+LE CHEVALIER.
+Allons, cela est bon, et je veux que ce soit moi qui lui annonce la chose. Je crois que c'est elle qui entre, retirez-vous pour quelques moments dans ce cabinet ; vous allez voir ce qu'un rival de mon espece est capable de faire, et vous paraitrez quand je vous appellerai. Partez, point de remerciement, un jaloux n'en merite point. 
+SCENE VII.
+LE CHEVALIER, seul.
+Parbleu, Madame, je suis donc cet ami qui devait vous tenir lieu de tout : vous m'avez joue, femme que vous etes ; mais vous allez voir combien je m'en soucie. 
+SCENE VIII. La Marquise, Le Chevalier;
+LA MARQUISE.
+Le Comte, dit-on, etait avec vous, Chevalier. Vous avez ete bien longtemps ensemble, de quoi donc etait-il question ? 
+LE CHEVALIER, serieusement.
+De pures visions de sa part, Marquise ; mais des visions qui m'ont chagrine, parce qu'elles vous interessent, et dont la premiere a d'abord ete de me demander si je vous aimais.
+LA MARQUISE.
+Mais je crois que cela n'est pas douteux.
+LE CHEVALIER.
+Sans difficulte : mais prenez garde, il parlait d'amour, et non pas d'amitie. 
+LA MARQUISE.
+Ah ! Il parlait d'amour ? Il est bien curieux : a votre place, je n'aurais pas seulement voulu les distinguer, qu'il devine.
+LE CHEVALIER.
+Non pas, Marquise, il n'y avait pas moyen de jouer la-dessus, car il vous enveloppait dans ses soupcons, et vous faisait pour moi le coeur plus tendre que je ne merite ; vous voyez bien que cela etait serieux ; il fallait une reponse decisive, aussi l'ai-je faite, et l'ai bien assure qu'il se trompait et qu'absolument il ne s'agissait point d'amour entre nous deux, absolument.
+LA MARQUISE.
+Mais croyez-vous l'avoir persuade, et croyez-vous lui avoir dit cela d'un ton bien vrai, du ton d'un homme qui le sent ?
+LE CHEVALIER.
+Oh ! Ne craignez rien, je l'ai dit de l'air dont on dit la verite. Comment donc, je serais tres fache, a cause de vous, que le commerce de notre amitie rendit vos sentiments equivoques ; mon attachement pour vous est trop delicat, pour profiter de l'honneur que cela me ferait ; mais j'y ai mis bon ordre, et cela par une chose tout a fait imprevue : vous connaissez sa soeur, elle est riche, tres aimable, et de vos amies, meme.
+LA MARQUISE.
+Assez mediocrement.
+LE CHEVALIER.
+Dans la joie qu'il a eu de perdre ses soupcons, le Comte me l'a proposee ; et comme il y a des instants et des reflexions qui nous determinent tout d'un coup, ma foi j'ai pris mon parti ; nous sommes d'accord, et je dois l'epouser. Ce n'est pas la tout, c'est que je me suis encore charge de vous parler en faveur du Comte, et je vous en parle du mieux qu'il m'est possible ; vous n'aurez pas le coeur inexorable, et je ne crois pas la proposition facheuse. 
+LA MARQUISE, froidement.
+Non, Monsieur ; je vous avoue que le Comte ne m'a jamais deplu.
+LE CHEVALIER.
+Ne vous a jamais deplu ! C'est fort bien fait. Mais pourquoi donc m'avez-vous dit le contraire ?
+LA MARQUISE.
+C'est que je voulais me le cacher a moi-meme, et il l'ignore aussi.
+LE CHEVALIER.
+Point du tout, Madame, car il vous ecoute.
+LA MARQUISE.
+Lui ? 
+SCENE IX. La Marquise, Le Chevalier, Le Comte.
+LE COMTE.
+J'ai suivi les conseils du Chevalier, Madame ; permettez que mes transports vous marquent la joie ou je suis. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA MARQUISE.
+Levez-vous, Comte, vous pouvez esperer.
+LE COMTE.
+Que je suis heureux ! Et toi, Chevalier, que ne te dois-je pas ? Mais, Madame, achevez de me rendre le plus content de tous les hommes. Chevalier, joignez vos prieres aux miennes. 
+LE CHEVALIER, d'un air agite.
+Vous n'en avez pas besoin, Monsieur ; j'avais promis de parler pour vous ; j'ai tenu parole, je vous laisse ensemble, je me retire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je me meurs.
+LE COMTE.
+J'irai te retrouver chez toi. 
+SCENE X. La Marquise, le Comte.
+LE COMTE.
+Madame, il y a longtemps que mon coeur est a vous ; consentez a mon bonheur ; que cette aventure-ci vous determine : souvent il n'en faut pas davantage. J'ai ce soir affaire chez mon notaire, je pourrais vous l'amener ici, nous y souperions avec ma soeur qui doit venir vous voir ; le Chevalier s'y trouverait ; vous verriez ce qu'il vous plairait de faire ; des articles sont bientot passes, et ils n'engagent qu'autant qu'on veut ; ne me refusez pas, je vous en conjure.
+LA MARQUISE.
+Je ne saurais vous repondre, je me sens un peu indisposee ; laissez-moi me reposer, je vous prie.
+LE COMTE.
+Je vais toujours prendre les mesures qui pourront vous engager a m'assurer vos bontes. 
+SCENE XI.
+LA MARQUISE, seule.
+Ah ! Je ne sais ou j'en suis ; respirons ; d'ou vient que je soupire ? Les larmes me coulent des yeux ; je me sens saisie de la tristesse la plus profonde, et je ne sais pourquoi. Qu'ai-je affaire de l'amitie du Chevalier ? L'ingrat qu'il est, il se marie : l'infidelite d'un amant ne me toucherait point, celle d'un ami me desespere ; le Comte m'aime, j'ai dit qu'il ne me deplaisait pas ; mais ou ai-je donc ete chercher tout cela ? 
+SCENE XII. La Marquise, Lisette.
+LISETTE.
+Madame, je vous avertis qu'on vient de renvoyer Madame la Comtesse, mais elle a dit qu'elle repasserait sur le soir ; voulez-vous y etre ?
+LA MARQUISE.
+Non, jamais, Lisette ; je ne saurais.
+LISETTE.
+Etes-vous indisposee ? Madame, vous avez l'air bien abattue ; qu'avez-vous donc ?
+LA MARQUISE.
+Helas ! Lisette, on me persecute, on veut que je me marie.
+LISETTE.
+Vous marier ! A qui donc ?
+LA MARQUISE.
+Au plus haissable de tous les hommes ; a un homme que le hasard a destine pour me faire du mal, et pour m'arracher, malgre moi, des discours que j'ai tenus, sans savoir ce que je disais.
+LISETTE.
+Mais il n'est venu que le Comte.
+LA MARQUISE.
+Eh ! C'est lui-meme.
+LISETTE.
+Et vous l'epousez ?
+LA MARQUISE.
+Je n'en sais rien ; je te dis qu'il le pretend.
+LISETTE.
+Il le pretend ? Mais qu'est-ce que c'est donc que cette aventure-la ? Elle ne ressemble a rien.
+LA MARQUISE.
+Je ne saurais te la mieux dire ; c'est le Chevalier, c'est ce misanthrope-la qui est cause de cela : il m'a fache, le Comte en a profite, je ne sais comment ; ils veulent souper ce soir ici ; ils ont parle de notaire, d'articles ; je les laissais dire ; le Chevalier est sorti, il se marie aussi ; le Comte lui donne sa soeur ; car il ne manquait qu'une soeur, pour achever de me deplaire, a cet homme-la...
+LISETTE.
+Quand le Chevalier l'epouserait, que vous importe ?
+LA MARQUISE.
+Veux-tu que je sois la belle-soeur d'un homme qui m'est devenu insupportable ?
+LISETTE.
+He ! Mort de ma vie ! Ne la soyez pas, renvoyez le Comte !
+LA MARQUISE.
+He ! Sur quel pretexte ! Car enfin, quoiqu'il me fache, je n'ai pourtant rien a lui reprocher.
+LISETTE.
+Oh ! Je m'y perds, Madame ; je n'y comprends plus rien.
+LA MARQUISE.
+Ni moi non plus : je ne sais plus ou j'en suis, je ne saurais me demeler, je me meurs ! Qu'est-ce que c'est donc que cet etat-la ?
+LISETTE.
+Mais c'est, je crois, ce maudit Chevalier qui est cause de tout cela ; et pour moi je crois que cet homme-la vous aime.
+LA MARQUISE.
+Eh ! Non, Lisette ; on voit bien que tu te trompes.
+LISETTE.
+Voulez-vous m'en croire, Madame ? Ne le revoyez plus.
+LA MARQUISE.
+Eh ! Laisse-moi, Lisette, tu me persecutes aussi ! Ne me laissera-t-on jamais en repos ? En verite, la situation ou je me trouve est bien triste !
+LISETTE.
+Votre situation, je la regarde comme une enigme. 
+SCENE XIII. La Marquise, Lisette, Lubin.
+LUBIN.
+Madame, Monsieur le Chevalier, qui est dans un etat a faire compassion...
+LA MARQUISE.
+Que veut-il dire ? Demande-lui ce qu'il a, Lisette.
+LUBIN.
+Helas ! je crois que son bon sens s'en va : tantot il marche, tantot il s'arrete ; il regarde le ciel, comme s'il ne l'avait jamais vu ; il dit un mot, il en bredouille un autre, et il m'envoie savoir si vous voulez bien qu'il vous voie.
+LA MARQUISE.
+Ne me conseilles-tu pas de le voir ? Oui, n'est-ce pas ?
+LISETTE.
+Oui, Madame ; du ton dont vous me le demandez, je vous le conseille.
+LUBIN.
+Il avait d'abord fait un billet pour vous, qu'il m'a donne.
+LA MARQUISE.
+Voyons donc.
+LUBIN.
+Tout a l'heure, Madame. Quand j'ai eu ce billet, il a couru apres moi : Rends-moi le papier. Je l'ai rendu. Tiens, va le porter. Je l'ai donc repris. Rapporte le papier. Je l'ai rapporte ; ensuite, il a laisse tomber le billet en se promenant, et je l'ai ramasse sans qu'il l'ait vu, afin de vous l'apporter comme a sa bonne amie, pour voir ce qu'il a, et s'il y a quelque remede a sa peine.
+LA MARQUISE.
+Montre donc.
+LUBIN.
+Le voici ; et tenez, voila l'ecrivain qui arrive.
+SCENE XIV. La Marquise, Le Chevalier, Lisette.
+LA MARQUISE, a Lisette.
+Sors, il sera peut-etre bien aise de n'avoir point de temoins, d'etre seul.
+SCENE XV. Le Chevalier, La Marquise.
+LE CHEVALIER prend de longs detours.
+Je viens prendre conge de vous, et vous dire adieu, Madame.
+LA MARQUISE.
+Vous, Monsieur le Chevalier ? Et ou allez-vous donc ?
+LE CHEVALIER.
+Ou j'allais quand vous m'avez arrete.
+LA MARQUISE.
+Mon dessein n'etait pas de vous arreter pour si peu de temps.
+LE CHEVALIER.
+Ni le mien de vous quitter si tot, assurement.
+LA MARQUISE.
+Pourquoi donc me quittez-vous ?
+LE CHEVALIER.
+Pourquoi je vous quitte ? Eh ! Marquise, que vous importe de me perdre, des que vous epousez le Comte ?
+LA MARQUISE.
+Tenez, Chevalier, vous verrez qu'il y a encore du malentendu dans cette querelle-la : ne precipitez rien, je ne veux point que vous partiez, j'aime mieux avoir tort.
+LE CHEVALIER.
+Non, Marquise, c'en est fait ; il ne m'est plus possible de rester, mon coeur ne serait plus content du votre. 
+LA MARQUISE, avec douleur.
+Je crois que vous vous trompez.
+LE CHEVALIER.
+Si vous saviez combien je vous dis vrai ! Combien nos sentiments sont differents !...
+LA MARQUISE.
+Pourquoi differents ? Il faudrait donner un peu plus d'etendue a ce que vous dites la, Chevalier ; je ne vous entends pas bien.
+LE CHEVALIER.
+Ce n'est qu'un seul mot qui m'arrete. 
+LA MARQUISE, avec un peu d'embarras.
+Je ne puis deviner, si vous ne me le dites.
+LE CHEVALIER.
+Tantot je m'etais explique dans un billet que je vous avais ecrit.
+LA MARQUISE.
+A propos de billet, vous me faites ressouvenir que l'on m'en a apporte un quand vous etes venu. 
+LE CHEVALIER, intrigue.
+Et de qui est-il, Madame ?
+LA MARQUISE.
+Je vous le dirai. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je devais, Madame, regretter Angelique toute ma vie ; cependant, le croiriez-vous ? Je pars aussi penetre d'amour pour vous que je le fus jamais pour elle."
+LE CHEVALIER.
+Ce que vous lisez la, Madame, me regarde-t-il ?
+LA MARQUISE.
+Tenez, Chevalier, n'est-ce pas la le mot qui vous arrete ?
+LE CHEVALIER.
+C'est mon billet ! Ah ! Marquise, que voulez-vous que je devienne ?
+LA MARQUISE.
+Je rougis, Chevalier, c'est vous repondre. 
+LE CHEVALIER, lui baisant la main.
+Mon amour pour vous durera autant que ma vie.
+LA MARQUISE.
+Je ne vous le pardonne qu'a cette condition-la.
+SCENE XVI. La Marquise, Le Chevalier, Le Comte.
+LE COMTE.
+Que vois-je, Monsieur le Chevalier ? Voila de grands transports !
+LE CHEVALIER.
+Il est vrai, Monsieur le Comte ; quand vous me disiez que j'aimais Madame, vous connaissiez mieux mon coeur que moi ; mais j'etais dans la bonne foi, et je suis sur de vous paraitre excusable.
+LE COMTE.
+Et vous, Madame ?
+LA MARQUISE.
+Je ne croyais pas l'amitie si dangereuse.
+LE COMTE.
+Ah ! Ciel !
+SCENE DERNIERE. La Marquise, Le Chevalier, Lisette, Lubin.
+LISETTE.
+Madame, il y a la-bas un notaire que le Comte a amene.
+LE CHEVALIER.
+Le retiendrons-nous, Madame ?
+LA MARQUISE.
+Faites, je ne me mele plus de rien.
+LISETTE, au Chevalier.
+Ah ! je commence a comprendre : le Comte s'en va, le notaire reste, et vous vous mariez.
+LUBIN.
+Et nous aussi, et il faudra que votre contrat fasse la fondation du notre : n'est-ce pas, Lisette ? Allons, de la joie !
+
+	==================================================

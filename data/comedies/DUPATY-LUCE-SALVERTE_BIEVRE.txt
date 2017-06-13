@@ -1,0 +1,951 @@
+********************************************************
+	DC.Title                  = MONSIEUR DE BIEVRE, OU L'ABUS DE L'ESPRIT, CALEMBOURG, EN UN ACTE ET EN VAUDEVILLE
+	DC.Author                 = DUPATY, LUCE, SALVERTE...
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Théâtre, Pièces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cité en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 à 19:30:21.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/DUPATY-LUCE-SALVERTE_BIEVRE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Théâtre Classique
+***************************************************************
+
+MONSIEUR DE BIEVRE OU L'ABUS DE L'ESPRITCALEMBOURG, EN UN ACTE ET EN VAUDEVILLE.AN VII.
+Par MM. Dupaty, Luce, Salverte, Coriolis, Creuzé, Gassicourt, Legourd, Monvel, Longpérier, Alexandre et Chazet, d'après l'avis de l'éditeur.
+	À PARIS, Chez CHARON, Libraire, passage Feydeau. HUET, Libraire, rue Vivienne, N° 8.
+	DE L'IMPRIMERIE DE MIGNERET, rue Jacob, N° 1186.
+	
+	AVIS DE L'ÉDITEUR.
+C'est en dînant ensemble, que les Auteurs de cette pièce eu conçurent le plan et l'exécutèrent. Les saillies et les calembourgs que faisait naître le vin de Champagne, rappelèrent M. de Bièvre, l'auteur de "Versingentorix, de la lettre de l'abbé-vue à la Contesse-tation", de "l'Histoire du bacha Bilboquet", et de tant d'autres folies si bien effacées par le Séducteur. On cita ses bons mots, ses pointes, on en rima quelques-unes, on les mit en situation ; les scènes se formèrent, et bientôt la pièce se trouva faite, sans que personne eût la prétention de s'en dire auteur. On l'annonça au public par ce couplet : 
+De Bievre en se moquant de tout, 
+Du calembourg fit trop usage ; 
+Nos auteurs ont pris son langage 
+Pour fronder un aussi mauvais goût. 
+Ce soir de leurs muses badines, 
+Les pointes sont les seuls tributs : 
+Que pourraient-ils offrir de plus ? 
+Ils sont encor sur les épines. 
+Le public indulgent reçut l'ouvrage en riant, et voulut en connaître les auteurs ; on lui répondit par cet autre couplet. 
+Air : En quatre mots... 
+L'ouvrage que vous avez applaudi, 
+Citoyens, est de Dupaty Aidé par ses amis ; 
+En voici la liste ou verte, 
+D'abord Luce avec Salverte, 
+Et Coriolis ; 
+De plus Creuzé, 
+Gassicourt, Légouvé, 
+Monvel et Longperier.... 
+Je crois en oublier : 
+Ah ! vraiment oui, citoyens, c'est 
+Alexandre et Chazet.
+
+PERSONNAGES, ACTEURS.
+DE CHAMBRE, amant de Julie,	Citoyen FRÉDÉRIC.
+DE BIEVRE,	Citoyen BELFORD.
+JULIE DE LATOUR,	Citoyenne AUGER. 
+LAROCHE, femme de chambre de Julie. Citoyenne DELISLE
+DUBOIS, valet de M. de Bievre, Citoyen LÉGER.
+UN VALET.
+Le Théâtre représente un appartement.
+
+
+
+			
+
+
+SCÈNE PREMIÈRE. Julie, Laroche.
+LAROCHE.
+Mademoiselle, voici l'instant décisif ; deux rivaux se disputent votre main, et c'est aujourd'hui qu'il faut choisir.
+JULIE.
+Je voudrais connaître les intentions de mon oncle.
+LAROCHE.
+Et moi, je voudrais bien connaître les vôtres.
+JULIE.
+Monsieur de Chambre me paraît avoir d'excellentes qualités.
+LAROCHE.
+Oui ; mais il est bien sérieux : un mari sérieux ! Ah ! Prenez-y garde, mademoiselle.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Moi, je crois (soit dit entre nous) 
+Que, pour le bonheur d'un ménage, 
+Il ne faut jamais que l'époux 
+Affecte le maintien d'un sage. 
+Souvent la femme d'un Caton, 			[5]
+Dans un siècle comme le nôtre, 
+Laisse à son mari sa raison, 
+Et perd la sienne avec un autre.
+JULIE.
+Tu as, je le vois, une grande idée de nos forces... Mais, dis-moi, as-tu découvert quelque chose sur l'inconnu qui prétend à ma main ?
+LAROCHE.
+Monsieur votre oncle ne dit que ce qu'il veut ; je sais seulement qu'on attend un homme célèbre dans l'art des Calembourgs, et qu'on m'a donné l'ordre de préparer son appartement.
+JULIE.
+Je suis bien impatiente de savoir qui c'est.
+LAROCHE.
+Modérez, croyez-moi, votre empressement, mademoiselle.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)De l'époux qu'on n'a jamais vu, 
+On se forme une douce image ; 			[10]
+Et pour lui le c?ur prévenu 
+Du bonheur rêve le présage. 
+L'amant soumis qu'on attendait, 
+Se montre, ce n'est plus qu'un maître : 
+Pour l'aimer toujours, il faudrait 			[15]
+Ne jamais le connaître.
+JULIE.
+Trève de leçons, je n'aime point ta morale.
+LAROCHE.
+Je vous annonce Monsieur de Chambre ; la sienne vous plaira peut-être davantage.
+SCÈNE II. Chambre, Julie, Mademoiselle Laroche.
+CHAMBRE.
+Enfin, je puis vous trouver seule un instant.
+JULIE.
+Quel intérêt si puissant pouvait vous le faire désirer ?
+CHAMBRE.
+ L'impatience de voir décider mon sort. Vous savez, belle Julie, que de vous dépend tout mon bonheur. J'aurais déjà sollicité le consentement de votre oncle, si je pouvais me flatter d'obtenir le vôtre.
+JULIE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Les sentiments que l'on inspire,
+Ne doit-on pas les deviner.
+CHAMBRE.
+Dans votre c?ur je crains de lire
+L'arrêt qui doit me condamner.			[20]
+JULIE.
+Par l'amitié la plus constante 
+Je vous ai payé de retour : 
+Quoi ! votre âme n'est point contente ?
+CHAMBRE.
+L'amitié n'est pas de l'amour.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Pour prix de tant d'amour, Julie, 			[25]
+Vous m'offrez un froid sentiment ! 
+Vous ne seriez que mon amie, 
+Et moi, je serais votre amant.
+JULIE.
+Je crois répondre à votre attente 
+Par une amitié sans détour.			[30]
+CHAMBRE.
+Laissez ce mot qui me tourmente : 
+L'amitié...
+LAROCHE, finement. 
+Promet de l'amour, 
+L'amitié promet de l'amour.
+CHAMBRE.
+Ah ! Combien je me croirais heureux, si cette promesse était partie de votre c?ur !
+JULIE, avec sentiment. 
+Je pouvais la démentir.
+CHAMBRE.
+Julie !... Je vous connais trop généreuse pour me laisser un espoir que vous n'auriez pas dessein de couronner.
+JULIE.
+Suis-je maîtresse de mon sort ? Vous savez qu'un oncle a sur moi toute la puissance d'un père, et vous n'ignorez pas qu'il a déjà reçu les propositions d'un de vos rivaux.
+CHAMBRE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Si les talents, si la naissance, 
+De votre oncle fixaient le choix, 			[35]
+À mériter la préférence 
+Peut-être aurais-je moins de droits ; 
+Mais il vous aime, et son suffrage 
+Va combler mes voeux aujourd'hui, 
+Puisqu'il doit préférer celui 			[40]
+Qui sait vous chérir davantage.
+JULIE.
+J'en accepte l'augure. Mais j'oublie que la santé de mon oncle réclame ma présence. Je vous quitte.
+CHAMBRE.
+Souffrez que je vous accompagne auprès de lui, et qu'en partageant vos soins, je m'efforce à le disposer en ma faveur.
+SCÈNE III.
+MADEMOISELLE LAROCHE, seule.
+Voilà bien les amants ; un seul mot, et ils se croient sûrs du succès.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)De l'aveu qu'ils viennent de faire, 
+Chacun d'eux semble satisfait : 
+Mais qui va si vite en affaire, 
+N'arrive pas toujours au fait. 			[45]
+Les deux amants auront beau faire, 
+Sans le cher oncle rien n'est fait ; 
+Et l'intérêt pourra défaire 
+Ce que l'amour croit avoir fait.
+SCÈNE IV. Mademoiselle Laroche, Dubois.
+LAROCHE.
+Quelqu'un vient de ce côté... Un valet en livrée... Je ne reconnais point cet habit-là... Eh ! C'est monsieur Dubois.
+DUBOIS.
+Quelle est la jolie bouche qui décline aussi bien mon nom ? Oh ! La charmante rencontre ! Quoi ! C'est toi, mon adorable ?
+LAROCHE.
+Dubois est un peu familier. Il me parlait plus poliment avant de porter cet habit.
+DUBOIS.
+Tu as raison, ma chère ; mais alors je n'étais pas homme... de condition.
+LAROCHE.
+Monsieur veut dire en condition. Sais-tu qu'il y a cinq ans que nous ne nous sommes rencontrés, Dubois ?
+DUBOIS.
+Oui, vraiment. Depuis notre dernière entrevue, il nous est tombé à chacun un lustre sur la tête : cela ne m'a pas empêché de faire bien des métiers.
+LAROCHE.
+Voyons : lesquels ?
+DUBOIS.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)D'abord, commis à la barrière.			[50]
+LAROCHE.
+Pour parler toujours poliment ?
+DUBOIS.
+Ensuite garçon d'un libraire,
+LAROCHE.
+Afin de lire couramment ?
+DUBOIS.
+À Pézenas, je fus dentiste.
+LAROCHE.
+Aussi, dis-tu la vérité. 			[55]
+Est-ce tout ?
+DUBOIS.
+Oh ! Que non... 
+Des courtiers, je grossis la liste.
+LAROCHE.
+Pour faire un cours de probité ?
+DUBOIS.
+Et toi, ma belle, as-tu changé de condition ?
+LAROCHE.
+Moi ! J'ai fait aussi quatre maisons... D'abord.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Chez une dévote discrète ;
+DUBOIS.
+Aussi, tu ne médis jamais ?
+LAROCHE.
+Puis j'entrai chez une coquette :			[60]
+DUBOIS.
+L'art n'est pour rien dans tes attraits ?
+LAROCHE.
+Après, dans une hôtellerie.
+DUBOIS.
+Chacun te paya son écot. 
+Et tu fus en dernier ?
+LAROCHE.
+Dans un bureau de loterie.
+DUBOIS.
+M'as-tu gardé quelque bon lot ? 			[65]
+À propos, qu'est devenu Frontin, mon ci-devant rival ?
+LAROCHE.
+Ah ! Celui qui voulait emporter aux îles une cargaison de vin de Champagne ?
+DUBOIS.
+Sans doute pour que son vaisseau ne manquât pas de mousse.
+LAROCHE.
+Il ne m'a pas écrit.
+DUBOIS.
+Il n'a pas écrit ! C'est qu'en arrivant au port, il aura jeté l'ancre.
+LAROCHE.
+Je vois que tu es aussi mauvais sujet qu'autrefois.
+DUBOIS.
+Je pouvais jadis avoir des défauts ; mais maintenant je suis... Je suis un homme de qualité.
+LAROCHE.
+Tu le suis... Et tu le nommes ?
+DUBOIS.
+Monsieur de Bièvre, aimable courtisan, professeur de calembourgs, homme de lettres à la mode ; c'est pour le devenir que je suis entré chez lui.
+LAROCHE.
+Devenir homme de lettres ! Toi, Dubois....
+DUBOIS.
+Oui, je suis Dubois.... Dont on les fait ; d'ailleurs, cela n'est pas difficile à présent.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ne voit-on pas aujourd'hui 
+Des emprunts de toute espèce ? 
+On emprunte la richesse, 
+Même la femme d'autrui. 
+Combien de belles vantées, 			[70]
+N'ont que grâces empruntées ! 
+Combien de vertus citées 
+Des m?urs empruntent l'habit ! 
+On emprunte sa coiffure, 
+Et maint auteur qui figure 			[75]
+N'a pu se mettre en crédit, 
+Qu'en empruntant son esprit. 
+Près de mon maître, il ne faut que de la mémoire.
+LAROCHE.
+Est-il connu dans cette maison ?
+DUBOIS.
+Depuis un siècle ! Sans un maudit voyage que nous obligea de faire une vieille Comtesse...
+LAROCHE.
+Une ?...
+DUBOIS.
+Une vieille contestation sur des biens de famille, mon maître aurait tenu fidèle compagnie au cher oncle, qui, dit-on, se porte assez mal. Comment va-t-il ?
+LAROCHE.
+Le pauvre homme, perclus de la goutte, ne peut sortir de sa chambre.
+DUBOIS.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ah ! Je le plains en vérité, 
+Sa souffrance doit être extrême. 
+Le mal dont il est tourmenté 			[80]
+A pourtant un côté que j'aime. 
+Si j'en crains l'effet douloureux, 
+Son nom n'a rien qui me dégoûte : 
+Quoique j'aime peu les goûteux, 
+Parfois j'aime la goutte. 			[85]
+Et je compte bien boire à la noce de mon maître.
+LAROCHE.
+Et quelle est sa future ?
+DUBOIS.
+Ta maîtresse. Son oncle y consent, c'est un mariage arrangé.
+LAROCHE.
+Mais qui n'est pas fait.
+DUBOIS.
+Aurions-nous un rival ?
+LAROCHE.
+Cela se pourrait.
+DUBOIS.
+Il n'est pas à craindre.
+LAROCHE.
+Peut-être.
+DUBOIS.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ah ! Si ta maîtresse a du goût, 
+Elle doit préférer mon maître : 
+Grâce, esprit, talents, il a tout, 
+Et plaît dès qu'on le voit paraître. 
+Dans l'art de vaincre un jeune c?ur, 			[90]
+Ne crois pas qu'il faille l'instruire : 
+Celui qui fit le Séducteur, 
+A tout ce qu'il faut pour séduire.
+LAROCHE.
+Entre nous, mon cher Dubois, ton maître fera bien de renoncer à ses prétentions ; son rival est aimé.
+DUBOIS.
+Tu le protèges, je gage ?
+LAROCHE.
+Un peu.
+DUBOIS.
+C'est trop. Son nom ?
+LAROCHE.
+Monsieur de Chambre.
+DUBOIS.
+Monsieur de Chambre, dis-tu ? Mais tu n'y penses pas. Nous devons tous deux être contre lui.
+LAROCHE.
+Pourquoi cela ?
+DUBOIS.
+Ne sommes-nous point par état voués à l'antichambre ?
+LAROCHE.
+Je vois bien que toutes les bêtes ne sont pas à Montmartre.
+DUBOIS.
+Très heureusement, car cela ferait un sot mont.
+LAROCHE.
+Mon pauvre Dubois, qui te montre ce jargon ?
+DUBOIS.
+Voici mon maître.
+SCÈNE V. Monsieur de Bièvre, Dubois, Mademoiselle Laroche.
+BIÈVRE. 
+Mademoiselle de Latour n'est point ici ?
+LAROCHE.
+Pardonnez-moi, monsieur.
+BIÈVRE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Brûlant d'impatience 
+De lui faire ma cour, 			[95]
+Sans m'arrêter un jour, 
+J'arrive en diligence.
+DUBOIS.
+Oui, et bien suspendue encore ; la voiture allait si vite, que les cailloux battaient la caisse. Aussi avons-nous failli verser.
+BIÈVRE.
+Eh bien, le grand malheur ! On nous aurait relevés avec un cric. Mais... Ne perdons point de temps, va vite, mon enfant, avertis ta maîtresse que je demande la permission de la voir, et dis-lui que si elle veut bien se rendre ici de bonne heure...
+DUBOIS.
+Elle sera le nôtre.
+BIÈVRE.
+Le coquin me l'a volé !
+LAROCHE.
+J'obéis.
+SCÈNE VI. Monsieur de Bièvre, Dubois.
+BIÈVRE.
+À présent, Monsieur Dubois, il faut faire marcher de front l'Amour et Thémis, et cela doit être, parce qu'ils n'y voient pas mieux l'un que l'autre. Il faut aujourd'hui gagner ma maîtresse et mon procès. Pour cela, tandis que je vais intéresser en ma faveur l'oncle et la nièce, tu iras faire ma cour à certain homme de loi dont les bonnes grâces me sont aussi très chères.
+DUBOIS.
+Oh ! Oui, très chères ; mais cela ne doit pas vous étonner.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Vautours et gens d'affaires, 
+Corbeaux et procureurs, 
+Éperviers et notaires, 			[100]
+Et buses et rimeurs, 
+Partout c'est la coutume, 
+Il faut s'en consoler : 
+Tout ce qui porte plume 
+Est sujet à voler.			[105]
+BIÈVRE.
+Prends mon cheval... Le coureur, celui auquel on a mis hier les fers aux pieds, et qui n'en va que plus vite.
+DUBOIS, à part. 
+Il est bon celui-là.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Mais, monsieur, j'aime mieux prendre le mien ; le vôtre est si rétif, il fait des pointes.
+BIÈVRE.
+Mon cheval fait des pointes ? Le charmant animal ! Eh bien ! Prends mon petit cheval de selle.
+DUBOIS.
+Un cheval de sel, vous n'y pensez pas, monsieur ; s'il venait à pleuvoir, je jouerais au cheval fondu.
+BIÈVRE.
+Comment ! Point d'éperons, toujours étourdi, toujours négligent !
+DUBOIS.
+Et vous, toujours grondeur.
+BIÈVRE.
+Cette fois-ci, je conviens que c'est à propos de bottes...
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Mais laissons cela ; prends cette lettre, et qu'elle soit remise avant deux heures.
+DUBOIS, réfléchissant.
+Avant deux heures ? Remise !.... Que cette lettre soit remise !
+BIÈVRE.
+Eh bien ! Qu'attends-tu ?
+DUBOIS.
+Un petit moment, monsieur ; une lettre.... Remise.... Ma foi, monsieur, je n'entends pas celui-là. Je me rends. Cependant je devine assez facilement comme monsieur peut voir.
+BIÈVRE.
+L'imbécile ! Il lui faut toujours de l'esprit. Tiens-t-en à la lettre, maraud !
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)DUBOIS.
+Ah ! Pour le coup j'y suis, je vais la porter.
+BIÈVRE.
+Et moi, je vais chez Monsieur de Latour.
+DUBOIS.
+Monsieur n'a pas d'autres commissions à me donner ?
+BIÈVRE.
+Non... Ah ! Tu passeras chez mon banquier pour toucher cette lettre de change, et tu iras aux Français pour savoir si l'on donnera demain ma pièce.
+DUBOIS.
+Je serai ici dans une heure.
+SCÈNE VII. Dubois, Mademoiselle Laroche.
+LAROCHE.
+Tu sors, Dubois ; où vas-tu donc ?
+DUBOIS, déclamant. 
+Sur mes sens enflammés l'amour a tant d'empire. 
+Je vais... je viens... je pars... et ne sais que vous dire...
+LAROCHE.
+Je ne t'entends pas.
+DUBOIS.
+Je te plains.
+LAROCHE.
+Mais, monsieur Dubois, je vous trouve bien merveilleux. Savez-vous que vous visez à l'impertinence ?
+DUBOIS.
+J'espère bien l'avoir attrapée.
+LAROCHE.
+Croyez-vous qu'elle vous réussisse ?
+DUBOIS.
+Sans doute !
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)À la cour comme à la ville, 
+Pour être du meilleur ton, 
+Il faut toujours de son style 			[110]
+Bannir la sotte raison.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Quoi ! Vous faites la cruelle !
+LAROCHE.
+Je suis lasse du jargon.
+DUBOIS.
+Diable, Mademoiselle Laroche ! 
+Je croyais ton c?ur, ma belle, 
+Un peu moins dur que ton nom.			[115]
+LAROCHE.
+Encore une équivoque.
+DUBOIS.
+Pour te l'expliquer,
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ma chère, il faut que je t'embrasse.
+LAROCHE.
+Cessez vos gestes libertins : 
+Les jeux de mots, on vous les passe ; 
+Mais trêve pour les jeux de mains.
+DUBOIS.
+Inhumaine ! Barbare !
+LAROCHE.
+Laisse-moi, ma maîtresse vient.
+DUBOIS.
+Et moi, je me sauve.
+SCÈNE VIII. Julie, Mademoiselle Laroche.
+JULIE.
+Quel est ce valet ?
+LAROCHE.
+C'est celui de Monsieur de Bièvre, que vous connaissez sans doute à présent pour le rival de Monsieur de Chambre.
+JULIE.
+Oui, mon oncle vient de m'ordonner de lui accorder un moment d'entretien. Tu connais donc ce valet ?
+LAROCHE.
+Oui, mademoiselle.
+JULIE.
+Tu semblais lui parler familièrement.
+LAROCHE.
+Je l'ai vu autrefois à Paris ; mais il est devenu si fou, que je ne le reconnais plus : son maître et lui ne parlent qu'en pointes ou en calembourgs.
+JULIE.
+Quelle manie !
+LAROCHE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Monsieur Dubois a de l'esprit, 			[120]
+Mais son esprit tient du délire ; 
+On goûterait fort ce qu'il dit, 
+Si l'on savait ce qu'il veut dire. 
+De son maître, singe et rival, 
+Il l'imite, il le parodie, 			[125]
+Et c'est un grand original, 
+Quoiqu'il ne soit qu'une copie.
+JULIE.
+Que ce travers me déplaît !
+LAROCHE.
+Y pensez-vous, mademoiselle ? Il doit vous servir.
+JULIE.
+À quoi ?
+LAROCHE.
+À éconduire Monsieur de Bièvre.
+JULIE.
+Explique-toi.
+LAROCHE.
+C'est tout simple. Vous exigez de lui le sacrifice de son goût dominant, il vous le doit, il vous le promettra ; mais l'habitude sera plus forte, et manquant à sa parole, il vous laissera maîtresse de la vôtre.
+JULIE.
+L'idée est heureuse et j'en profiterai.
+LAROCHE.
+Vous n'attendrez pas longtemps pour le mettre à l'épreuve : le voici lui-même.
+SCÈNE IX. Bièvre, Julie.
+BIÈVRE.
+Mademoiselle, je sors de chez monsieur votre oncle ; je dois à son amitié la permission de vous présenter mon hommage.
+JULIE.
+Je suis flattée, monsieur....
+BIÈVRE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Pour rendre hommage à vos appas, 
+Attiré par la renommée, 
+Je cherche l'amour sur vos pas, 			[130]
+Et laisse ma gloire à l'armée. 
+Le camp, sans détours je le dis, 
+Bien moins que ce séjour me tente : 
+Quand de la nièce on est épris, 
+Sans regret on quitte la tente.			[135]
+JULIE.
+Votre nom, monsieur, votre réputation préviennent en votre faveur ; mais avant de répondre à des intentions qui ne peuvent que m'honorer, vous conviendrez que la connaissance du caractère...
+BIÈVRE.
+Vous avez raison, mademoiselle, sans caractère on ne peut faire impression. Mais il suffit de vous voir, pour vous rendre le tribut qui vous est dû.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)L'amour qui rit de mes tourments, 
+Redoublant les maux que j'endure, 
+Pour rendre ses traits plus piquants, 
+A pris ceux de votre figure. 
+J'admire tant d'appas divers, 			[140]
+Qui du printemps m'offrent l'image : 
+Ces pieds où je vois l'univers, 
+Ces beaux yeux, ce joli corsage.
+JULIE, à part. 
+Changeons de conversation.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)L'attachement que vous avez pour mon oncle, Monsieur, vous retiendra sans doute quelques jours ici.
+BIÈVRE.
+Monsieur de Latour m'a permis d'y attendre le résultat de vos réflexions.
+JULIE.
+Mon oncle, Monsieur, doit en être le premier instruit.
+BIÈVRE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Pour époux, sans vous contraindre, 
+Si vous m'avez accepté, 			[145]
+Ah ! sans avoir rien à craindre, 
+Je vais être époux vanté.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)JULIE.
+Monsieur !...
+BIÈVRE.
+Auprès de vous rien n'apaise 
+Les doux transports que je sens ; 
+Mais aussi, quoique française, 			[150]
+Vous avez des yeux perçants.
+JULIE.
+On ne m'a point trompée, Monsieur, en me parlant de votre esprit ; mais permettez à ma franchise un aveu que le vôtre rend nécessaire. Je déteste les calembourgs, c'est un tort sans doute à vos yeux ; mais si vous mettez quelque prix à mon opinion, vous me ferez le sacrifice d'un goût trop frivole pour que vous y attachiez de l'importance.
+BIÈVRE.
+Mademoiselle.
+JULIE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Je hais ce jargon pointilleux, 
+Par qui le faux esprit circule, 
+Art où le plus ingénieux 
+Est toujours le plus ridicule : 			[155]
+Pour plaire, un amant, un auteur, 
+Doit-il se donner la torture ? 
+Amants, consultez votre c?ur ; 
+Auteurs, consultez la nature.
+BIÈVRE, après un peu de réflexion. 
+Vous êtes bien sévère, mademoiselle ; mais s'il faut, pour vous plaire, renoncer à un genre d'amusement que je croyais innocent, je prends ici l'engagement solennel de ne jamais faire de calembourgs.
+JULIE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ô ciel !
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Vous me le promettez !
+BIÈVRE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Oui, je vous jure, et pour la vie, 			[160]
+De renoncer au calembourg ; 
+Je sens que la plaisanterie 
+Blesse le véritable amour. 
+Quand le c?ur est de la partie, 
+Pour plaire on a tout ce qu'il faut, 			[165]
+Et l'on ne peut gagner Julie 
+En jouant avec un défaut.
+JULIE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Je respire.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Un dés faux !
+BIÈVRE.
+Ah ! Dieu ! Je suis perdu... L'habitude m'a emporté : mais croyez, belle Julie.
+JULIE, d'un air piqué. 
+L'habitude, Monsieur, est une seconde nature ; je sens que j'avais trop exigé : ne soyez pas étonné que je ne joigne point mon consentement au choix de mon oncle. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)J'applaudirais de bien bon c?ur 
+Aux traits dont votre esprit nous frappe ; 
+Mais, je vous l'ai dit, par malheur, 			[170]
+Des énigmes le mot m'échappe : 
+Je ne comprends pas vos discours. 
+À ma main cessez de prétendre : 
+Pour s'épouser, il faut toujours 
+Commencer par s'entendre.			[175]
+SCÈNE X.
+BIÈVRE.
+Je ne pourrai jamais la faire revenir sur mon compte. Je ne puis pourtant pas l'abandonner à mon rival ; je ne dois pas souffrir qu'elle devienne femme de Chambre.... Au reste, que sais-je ? Peut-être m'en trouverai-je mieux. Vraiment, je ne suis pas assez raisonnable pour me marier.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Oui, dès l'instant qu'on se marie, 
+Il faut vivre comme un Caton, 
+Et l'heureux temps de la folie 
+Fait place au temps de la raison. 
+Oui, le mariage 			[180]
+Veut un esprit sage ; 
+Le soin du ménage 
+S'oppose au bonheur ; 
+Et puis votre belle 
+Devient infidèle : 			[185]
+Vous brûlez pour elle, 
+Un autre a son c?ur. 
+De l'hymen la chaîne 
+Après elle entraîne 
+Les tourments, la gêne, 			[190]
+Trop souvent l'ennui. 
+Hélas ! tout l'atteste, 
+Par un sort funeste, 
+Le dégoût nous reste 
+Quand l'amour a fui. 			[195]
+Oui, dès, etc. 
+Ah ! J'aperçois Monsieur de Chambre.
+SCÈNE XI. Chambre, Bièvre.
+CHAMBRE.
+On vient de me prévenir, Monsieur, que vous étiez dans cet appartement, et j'ai pensé que vous voudriez bien y recevoir ma visite sans cérémonie.
+BIÈVRE.
+Je suis flatté que Monsieur de Chambre ne me fasse pas une visite de cour.
+CHAMBRE.
+ Je prie Monsieur de Bièvre de me prêter l'oreille.
+BIÈVRE.
+Monsieur, je ne me la fais jamais tirer.
+CHAMBRE.
+Trêve de plaisanterie, s'il vous plaît ; les pointes, à la longue...
+BIÈVRE.
+Je vois que Monsieur préfère les courtes pointes.
+CHAMBRE.
+Votre intention, sans doute, est de m'aigrir ?
+BIÈVRE.
+Point du tout, Monsieur, je ne me trouve pas trop gras comme cela.
+CHAMBRE.
+ Je croyais mériter plus d'égards.
+BIÈVRE.
+Monsieur, en doutez-vous ?
+CHAMBRE.
+ Vous êtes homme d'honneur, je compte sur votre franchise ; quelles sont ici vos vues ?
+BIÈVRE.
+Les plus élevées. Je n'aime pas les vues basses.
+CHAMBRE.
+De grâce, parlons sérieusement, ou je croirai que vous m'insultez. Voulez-vous vous asseoir ?... Mademoiselle Latour ?...
+BIÈVRE, s'asseyant. 
+Au nom de Latour, je sens que c'est le cas d'un siège...
+CHAMBRE, vivement. 
+Monsieur, vous voulez me pousser à bout.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Allons, quittez ce ton railleur 
+Et ce froid persiflage : 
+Sachez que je ne puis, monsieur, 
+Le souffrir davantage.			[200]
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)C'en est trop, l'épée à la main, 
+Et, sans plus de remise..... 
+BIÈVRE, feignant de se mettre en garde, et prenant sa tabatière. 
+Acceptez, monsieur, puisqu'enfin 
+Nous en sommes aux prises.
+CHAMBRE.
+ Il me semble, Monsieur, que vous ne savez faire que du bruit.
+BIÈVRE.
+Vous me dites cela, parce que je viens de tirer une boîte.
+CHAMBRE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Du bel esprit, avec charmes, 			[205]
+Lancez les traits contre moi ; 
+Mais il vous faut d'autres armes 
+Pour me faire ici la loi. 
+Voici l'instant de connaître 
+Si, lorsqu'il s'agit d'honneur, 			[210]
+Les gens d'esprit savent être 
+Quelquefois des gens de c?ur.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Vous défendez-vous, monsieur ?
+BIÈVRE.
+Vous le prenez au sérieux. Eh bien ! Malgré cela, nous allons faire des parades : mais, je vous en préviens :
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Au poing ferme, au coup-d'?il sûr, 
+Chez moi l'adresse est jointe : 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Je vous mets au pied du mur ; 			[215]
+Car je suis vraiment fort sur 
+La pointe. (ter.)
+SCÈNE XII. Les Précédents, Julie les séparant.
+JULIE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ah ! grands dieux, quel transport barbare ! 
+Qu'alliez-vous faire ? je frémis ! 
+Vite au secours, qu'on les sépare !			[220]
+BIÈVRE.
+Nous séparer ! 
+Mais, vous nous croyez donc unis ?
+JULIE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ah ! Monsieur, chez mon oncle !
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Venez, monsieur, suivez-moi, je l'exige.
+CHAMBRE, à l'oreille de Bièvre.
+Au revoir, monsieur.
+BIÈVRE.
+Je vous entends, Monsieur.
+SCÈNE XIII.
+BIÈVRE, seul.
+Je ne puis m'empêcher de rire quand je songe à la fureur de Monsieur de Chambre ; il n'aime pas les pointes ; je ne conçois pas cela.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)À ce langage ingénieux 
+Les hommes devraient rendre hommage, 
+En songeant qu'autrefois les dieux 
+Des doubles sens faisaient usage. 			[225]
+À Delphes, Apollon consulté 
+En calembourgs faisait miracle ; 
+Peut-on mieux faire, en vérité, 
+Que de parler comme un oracle ?
+SCÈNE XIV. Monsieur de Bièvre, Dubois.
+Dubois se frotte les yeux.
+BIÈVRE.
+Te voilà, Dubois ? Eh bien ! Qu'as-tu donc qui te chagrine ?
+DUBOIS.
+Hélas ! Monsieur, en traversant Paris, une paille m'est entrée dans l'?il : j'ai répandu la larme dans tout le quartier.
+BIÈVRE.
+Ce ne sera rien. As-tu reçu ma lettre de change ?
+DUBOIS.
+Non, monsieur, la voilà. Elle est impayable.
+BIÈVRE.
+Pourquoi donc ?
+DUBOIS.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ah ! quelle bévue ! (bis.) 			[230]
+Monsieur, votre payeur est 
+Aveugle, et votre billet 
+Est payable à vue. (bis.)
+BIÈVRE.
+Oh ! Je lui ferai bien voir qu'il me faut de l'argent.
+DUBOIS.
+Certainement, quand ce ne serait que pour prêter à Monsieur de Saint-Far, qui est venu vous demander cent louis.
+BIÈVRE.
+Non, en vérité, je ne veux plus être utile qu'au Mont-de-Piété : au moins celui-là est-il rempli de reconnaissances.
+DUBOIS.
+Votre pièce, Monsieur, ne sera pas jouée : Molé est si enrhumé qu'on ne l'entend pas.
+BIÈVRE.
+Tant mieux, il faut jouer le Séducteur en roué... Au moins, mon procès est-il jugé ?
+DUBOIS.
+Oui, Monsieur ; il est même gagné.
+BIÈVRE.
+J'ai gagné mon procès !
+DUBOIS.
+Non, Monsieur, il est gagné par votre partie adverse ; mais ce qui doit vous consoler, c'est que vous l'avez perdu par votre faute.
+BIÈVRE.
+Comment ?
+DUBOIS.
+Votre avocat ne vous a point défendu ; il m'a rendu la lettre que vous lui aviez envoyée, à laquelle il n'a rien compris.
+BIÈVRE.
+Elle est pourtant bien claire ; il s'agit d'un pré, il fait partie d'un héritage qui m'est échu ; mes titres sont en règle, il ne faut que les présenter : voici ce que dit ma lettre, écoute.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)« MONSIEUR, Je vous envoie les pièces ; tenez-vous-en au texte, et nous aurons le pré ; car mon procès n'est qu'un pré-texte. Quoique l'objet en litige ne soit pas éloigné, je le crois précaire. »
+DUBOIS à part. 
+C'est en Égypte.
+BIÈVRE.
+« Cependant, si vous le voulez, vous emporterez le pré par votre talent pré-dominant, et je suis caution de votre succès, si vous prenez toutes vos pré-cautions.» Je suis, etc.	D. B. Dans le fait, ce n'est pas là précisément le style du Palais. Mais quoi ! La sottise est faite, et l'on ne peut pas revenir sur le pré-jugé.
+DUBOIS.
+Il est incurable !
+BIÈVRE.
+Comment ! Incurable ?
+DUBOIS.
+Certainement, Monsieur. Vous avez fait aujourd'hui cinquante calembourgs, au moins, il n'y en a pas trente neufs.
+BIÈVRE.
+Qu'y a-t-il de nouveau à Paris ?
+DUBOIS.
+Il y a bien des choses, Monsieur. D'abord, j'ai traversé les Tuileries, et j'ai trouvé tous les arbres en allées.
+BIÈVRE.
+Après ?
+DUBOIS.
+J'ai passé chez votre libraire. Oh ! Monsieur, c'est un bien brave homme que votre libraire.
+BIÈVRE.
+Je te l'ai toujours dit.
+DUBOIS.
+Il m'a donné trois livres pour quarante-cinq sols.
+BIÈVRE.
+Peste !
+DUBOIS, saluant avec mignardise. 
+Enfin, Monsieur, ce qui sans doute vous sera fort agréable... Ma femme est sur le point d'accoucher.
+BIÈVRE.
+Tu as raison, cela me fait grand plaisir, et je t'en félicite. Tu vas avoir un nouveau-né.
+DUBOIS.
+Enfin tout est nouveau, Monsieur, tout.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Nouveaux plaisirs, nouvelles fêtes, 
+Nouveaux maintiens, nouveaux habits, 			[235]
+Nouveaux bals, nouvelles conquêtes, 
+Nouveaux tourments pour les maris, 
+Nouveaux romans dans les affiches, 
+Faits par de nouveaux gens d'esprit, 
+Et tout exprès de nouveaux riches, 			[240]
+Pour lire les nouveaux écrits. 
+Mais vous n'écoutez pas mes nouvelles, monsieur.
+BIÈVRE.
+Je réfléchissais. J'admire ma journée ! De pointes en pointes : j'ai perdu ma maîtresse, mon procès, et j'ai manqué de gagner un coup d'épée.
+DUBOIS.
+Voilà de l'esprit bien employé !... Comment ! Monsieur de Chambre...
+BIÈVRE.
+Il faut que je te conte cela. Tu étais à peine parti...
+SCÈNE XV. Monsieur de Bièvre, Dubois, Un Valet.
+BIÈVRE.
+Qui vient nous interrompre ? Oh ! Je te vois venir, messager de malheurs ; c'est un congé que tu m'apportes.
+LE VALET. 
+Monsieur, c'est de la part...
+BIÈVRE.
+Oh ! C'est de la part de l'oncle, de la nièce... Ce poulet-là contient des politesses, et les adieux de toute la famille.
+LE VALET. 
+Monsieur...
+BIÈVRE.
+On s'imagine que je vais me désespérer : mais si j'ai perdu d'un côté, j'ai gagné de l'autre.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)J'ai perdu ce procès, l'objet de tant de soins ; 
+Mon rival épouse Julie. 
+Quelques dettes de plus, une femme de moins, 
+Tout est balancé dans la vie.			[245]
+DUBOIS.
+Belle consolation !
+BIÈVRE.
+Enfin, lisons... « Monsieur de Latour vient de m'accorder son aimable nièce : soyons donc amis, puisque nous ne sommes plus rivaux. J'espère que vous voudrez bien m'en donner une preuve, en accédant à la première demande que je prends la liberté de vous faire au nom de mon oncle et de mon épouse.»
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Monsieur de Chambre est très honnête. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Je veux vous voir au plus tôt ; 
+À demain, deux novembre, 
+Venez dîner, sans écot, 
+À la fortune du pot... 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)DUBOIS, riant aux éclats. 
+Quelle fortune !
+BIÈVRE.
+Qu'as-tu à rire ?
+DUBOIS.
+Comment, Monsieur, vous n'appréciez pas tout votre bonheur !
+BIÈVRE, relit.
+Ah ! Battu ! Morbleu ! Battu avec mes propres armes ! Un mal-adroit !
+DUBOIS.
+Pas si bête, pourtant.
+BIÈVRE.
+Qui n'a jamais fait un calembourg.
+DUBOIS.
+C'est bien commencer.
+BIÈVRE.
+Il me passe au travers du corps la première pointe, peut-être, qu'il ait faite de sa vie : après un coup comme celui-là, il ne m'est plus permis de dire rien de plaisant.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Si le mauvais ton du faubourg 			[250]
+Égale celui de la ville, 
+Et si dans l'art du calembourg 
+Un ignorant se montre habile ; 
+Je vois que pour être en crédit, 
+Pour être toujours sûr de plaire, 			[255]
+Il faut avoir beaucoup d'esprit, 
+Mais qu'il faut se garder d'en faire.
+DUBOIS.
+C'est ce que beaucoup de gens disent : mais, croyez-moi, Monsieur, c'est par jalousie. Avec un jeu comme le vôtre, et un valet de c?ur comme moi, vous gagnerez toujours la partie.
+BIÈVRE.
+Que vois-je ! Julie avec Monsieur de Chambre ? 
+SCÈNE XVI. Les Précédents, Monsieur de Chambre, Julie, Mademoiselle Laroche.
+BIÈVRE.
+Ah ! Monsieur, ce n'est point assez pour vous de l'emporter sur moi : voulez-vous encore ajouter à mes regrets, en m'offrant le spectacle de votre bonheur ?
+JULIE.
+J'aime à croire, Monsieur, qu'un amour aussi subit n'a pas fait encore de grands progrès : les sujets de consolation dont vous êtes environné, vos talents, une fortune considérable...
+BIÈVRE.
+Ah ! Madame, ma fortune d'aujourd'hui ne sera certainement pas une bonne fortune.
+LAROCHE.
+Je crois que vous pouvez vous rassurer sur les jours de Monsieur de Bièvre, il fait de l'esprit, il n'en mourra pas.
+BIÈVRE.
+Voilà ce qui vous trompe, Mademoiselle Laroche, j'en mourrai, mais il me faudra du temps.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Puis-je vous offrir Dubois, 
+Pour servir Madame ?
+CHAMBRE.
+Gardez-le, son nom, je crois, 			[260]
+Peut faire épigramme.
+BIÈVRE.
+Puisqu'il n'a point votre voix, 
+Il faut partir, je le vois, 
+En gardant toujours du bois, 
+Pour nourrir ma flamme.			[265]
+CHAMBRE.
+Nous nous flattons que vous resterez, Monsieur ; vous êtes attendu chez Monsieur de Latour.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Oui, prolongez votre voyage, 
+Ici de vous on a besoin ; 
+Aujourd'hui, pour mon mariage, 
+Veuillez me servir de témoin.
+BIÈVRE.
+Je ne saurais.			[270]
+CHAMBRE.
+Ah ! pour Julie 
+Vous devez être complaisant ; 
+Puisqu'en ce jour on la marie, 
+Il lui faut au moins.... un présent.
+BIÈVRE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Pas mauvais ! Si je pouvais riposter.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Je suis désolé de vous refuser ; mais....
+CHAMBRE.
+ Je le demande comme un ami, et Madame comme une Grèce.
+BIÈVRE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Encore ! Et rien ne me vient....
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)À ce titre, je dois céder. 
+JULIE, à Bièvre. 
+Nous ne vous retiendrons que le temps nécessaire pour signer le contrat.
+BIÈVRE.
+Je suis donc à vos ordres.
+JULIE.
+Cela ne sera pas long. Vous savez que les notaires font beaucoup de choses.... dans une minute.
+BIÈVRE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Julie aussi !
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ah ! Je vois que vous voulez me combattre avec mes propres armes.
+DUBOIS.
+Une minute.... Je n'aurais pas deviné celui-là.
+LAROCHE.
+C'est que tu n'as pas l'esprit devin.
+BIÈVRE.
+Nous sommes perdus, tout le monde s'en mêle.
+CHAMBRE.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)À votre école on profite.
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Allons, ma chère Julie, retournons près de votre oncle, et méritons, par nos soins, les bontés dont il nous comble aujourd'hui.
+VAUDEVILLE.
+Air : De la Monaco.
+CHAMBRE.
+Jadis Molière 			[275]
+Par qui l'on rit, 
+En grand traçait un caractère : 
+Chez nous, pour plaire, 
+Tout est petit, 
+Excepté l'abus de l'esprit.			[280]
+De nos aïeux le vieux langage 
+Était moins brillant que sensé ; 
+Nous parlons mieux et davantage ; 
+Et toujours sans avoir pensé.
+TOUS.
+Jadis Molière 			[285]
+Par qui l'on rit, 
+En grand traçait un caractère : 
+Chez nous, pour plaire, 
+Tout est petit, 
+Excepté l'abus de l'esprit.			[290]
+De nos aïeux le vieux langage 
+Était moins brillant que sensé ; 
+Nous parlons mieux et davantage ; 
+Et toujours sans avoir pensé.
+BIÈVRE.
+Je blâme nos Auteurs frivoles ; 			[295]
+Leurs discours, moins profonds que creux, 
+N'ont pas de sens, et mes paroles 
+Pour l'esprit en ont toujours deux. 
+TOUS.
+Jadis Molière 
+Par qui l'on rit, 			[300]
+En grand traçait un caractère : 
+Chez nous, pour plaire, 
+Tout est petit, 
+Excepté l'abus de l'esprit.
+De nos aïeux le vieux langage 			[305]
+Était moins brillant que sensé ; 
+Nous parlons mieux et davantage ; 
+Et toujours sans avoir pensé.
+JULIE.
+Rien ne s'achève, tout s'esquisse, 
+On veut tout faire, on manque tout : 			[310]
+Le feu brillant de l'artifice 
+Éclipse le flambeau du goût.
+TOUS.
+Jadis Molière 
+Par qui l'on rit, 
+En grand traçait un caractère : 			[315]
+Chez nous, pour plaire, 
+Tout est petit, 
+Excepté l'abus de l'esprit.
+De nos aïeux le vieux langage 
+Était moins brillant que sensé ; 			[320]
+Nous parlons mieux et davantage ; 
+Et toujours sans avoir pensé.
+DUBOIS.
+Combien de pièces très connues 
+Ont la vogue en ce pays-ci ; 
+Les scènes y tombent des nues, 			[325]
+Le dénouement en tombe aussi.
+TOUS.
+Jadis Molière 
+Par qui l'on rit, 
+En grand traçait un caractère : 
+Chez nous, pour plaire, 			[330]
+Tout est petit, 
+Excepté l'abus de l'esprit.
+De nos aïeux le vieux langage 
+Était moins brillant que sensé ; 
+Nous parlons mieux et davantage ; 			[335]
+Et toujours sans avoir pensé.
+LAROCHE.
+Le jargon est commun en France : 
+Sans vouloir le mettre en crédit, 
+Pour une fois, sans conséquence, 
+Approuvez l'abus de l'esprit.			[340]
+Le grand Molière, 
+Par qui l'on rit, 
+Nous apprendra l'art de vous plaire. 
+Réduits à faire 
+Tout en petit, 			[345]
+Nous fuirons l'abus de l'esprit. 
+
+	==================================================

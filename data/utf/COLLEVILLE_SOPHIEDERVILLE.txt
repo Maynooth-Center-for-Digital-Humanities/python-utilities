@@ -1,0 +1,667 @@
+********************************************************
+	DC.Title                  = SOPHIE ET DERVILLE, COMEDIE.
+	DC.Author                 = COLLEVILLE, Anne Hyacinthe Geille de Saint-Leger
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:12.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/COLLEVILLE_SOPHIEDERVILLE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+SOPHIE ET DERVILLE COMEDIE EN UN ACTE ET EN PROSEM. DCC. LXXXVIII
+Par COLLEVILLE
+	
+	
+	Representee pour la premiere fois, par les Comediens Italiens, ordinaires du Roi, le 8 Janvier 1788.
+	PERSONNAGES ACTEURS
+MADAME DORSAN. Mde. Verteuil.
+SOPHIE. Mlle. S. Aubin.
+DERVILLE. M. Granger.
+LISETTE. Mde. Julien.
+DUBOIS. M. Valeroi.
+La Scene est dans le salon de Madame Dorsan. Sur une table a ecrire, on voit une sphere et des Livres.
+
+
+
+			
+
+
+SCENE PREMIERE.
+MADAME DORSAN, seule, devant la table, une lettre a la main.
+Dans mon incertitude, je ne sais que repondre. Quel plus grand interet ! Je traite du bonheur de ma fille ! Lisons encore une fois la lettre que m'ecrit le Chevalier de Valbelle.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)« Madame, je n'attends que vos ordres pour partir. » 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Qu'il ne parte point encore ! J'ai promis la main de ma fille, mais a cette condition, que son coeur se donnerait en meme temps et le coeur de Sophie se tait, que dis-je ? Il repugne peut-etre a cette union.... Helas ! Une mere penetre plutot le secret de sa fille qu'elle ne l'obtient. Il faut consulter Derville. En m'aidant des conseils d'un homme sage, et mon plus ancien ami, j'agirai sans doute avec plus de prudence.
+SCENE II. Lisette, Madame Dorsan.
+LISETTE.
+Je n'ai point oublie que Madame m'a demande des instructions sur le compte de Mademoiselle.
+MADAME DORSAN.
+Oui, eh bien ! Quoi ? Que sais-tu ?
+LISETTE.
+Ah ! Ces distractions, ces reveries, cette tristesse qui nous alarmait est bien loin.
+MADAME DORSAN.
+Comment ?
+LISETTE.
+Un petit ouvrage sur l'amitie, que Mademoiselle lit, et dont il m'a fallu entendre quelque chose, a opere ce grand changement.
+MADAME DORSAN.
+Et dis-moi, quand vous etes ensemble, le Chevalier de Valbelle n'a point de part a vos entretiens ?
+LISETTE.
+Valbelle !... Nous ne respirons que depuis qu'il est absent. C'est precisement, je pense, parce qu'il est le plus joli cavalier du monde, qu'il lui deplait davantage. Dans sa figure, elle ne voit que des traits, elle y cherche une ame ; dans ses graces, elle croit apercevoir les pretentions dont elle est l'ennemie ; son age c'est celui de l'inexperience et de la legerete ; son caractere, n'est point assez franc...
+MADAME DORSAN.
+Accoutumee des son enfance a la sincerite de Derville...
+LISETTE, riant.
+Oh ! Pour lui, c'est autre chose... Cette amitie-la est bien sans consequence en verite. Mais pourtant, cela n'empeche pas que je ne sois tres assuree qu'elle le prefere a tous ; car, c'est assez qu'il paraisse s'apercevoir des defauts de Mademoiselle, pour qu'elle mette toute son attention a les corriger. Et ces defauts, quels sont-ils ?... Mais elle a tant de confiance en lui !...
+MADAME DORSAN.
+En lui ?
+LISETTE, cherchant ce qu'elle dit.
+Mais, oui, je dis bien : elle a tant de confiance en lui... que les conseils qu'il lui donne, les sciences qu'il lui enseigne ; c'est tout cela, dis-je, qui attache Mademoiselle Sophie a lui.
+MADAME DORSAN.
+Sans doute.
+LISETTE.
+Car, tres certainement, elle n'est point eprise d'un homme de cet age, fort serieux, quelquefois meme assez triste. Et pour Monsieur Derville...
+MADAME DORSAN.
+Apres.
+LISETTE.
+S'il etait amoureux ici... Ce ne serait assurement point de Mademoiselle Sophie, qui n'a que quinze ans... Madame est bien convaincue...
+MADAME DORSAN.
+De quoi ? Et qui vous parle d'amour ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quelle mere est assez heureuse, pour que le coeur de sa fille parle au gre de ses voeux ?
+LISETTE, a part.
+Qu'ai-je dit ? On n'apprend pas a quelqu'un son propre secret.
+MADAME DORSAN, s'en allant.
+Vous aurez soin de ne laisser entrer personne dans mon cabinet, a l'exception de Derville.
+LISETTE.
+Ah ! Monsieur Derville pourra entrer, lui ?
+MADAME DORSAN.
+Oui.
+LISETTE.
+Chez Madame ?
+MADAME DORSAN.
+Sans doute.
+LISETTE.
+Je le crois. Elle ne sait pas qu'il part ce soir.
+SCENE III.
+LISETTE, seule.
+Ce Monsieur Derville, s'aviser de vouloir nous quitter ? Lui, depuis dix ans dans cette maison, lui parent et ami de ma maitresse, cheri de Sophie comme un pere !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dubois ! Je le questionnerai tant, qu'il faudra bien qu'il parle. Dubois ! Mais arrive donc.
+SCENE IV. Lisette, Dubois.
+DUBOIS.
+Le voila Dubois, on ne l'appelle que pour le faire jaser ; mais vous ne voulez pas croire a ce que je vous ai dit, je ne saurais qu'y faire, moi.
+LISETTE.
+Derville quitter ces lieux ?
+DUBOIS.
+Ces lieux, cette maison. Plus de lectures, plus de lecons a Mademoiselle Sophie ; mon maitre part ce soir, c'est comme cela.
+LISETTE.
+Mais encore, comment ? Pourquoi ? On s'explique...
+DUBOIS.
+Il est inexplicable lui-meme. Enfonce dans ses reveries, il vous regarde, et ne vous apercoit pas ; il est tel, qu'il en donne envie de rire.
+LISETTE.
+Que t'a-t-il dit ?
+DUBOIS.
+Trois choses. Je pars, je le dois, que tout soit pret.
+LISETTE.
+Je pars, je le dois.
+DUBOIS.
+Que voulez-vous ? Le maitre commande, le valet obeit ; ainsi le veut la loi, qui fit des maitres et des serviteurs. Adieu, Mademoiselle. Gardez-moi le secret.
+LISETTE.
+Un moment. Ce voyage precipite...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu n'en diras pas davantage.
+DUBOIS.
+La, la, parce que vous etes fille, et curieuse, il faut que je me trouve, a point nomme, babillard et instruit. Je n'ai rien a dire, moi ; tout ce que je dis, c'est qu'on sait bien que Monsieur Derville n'est pas comme un autre, qu'il n'agit, lui, que quand il a bien reflechi.
+LISETTE.
+Belle reflexion, qui lui fait faire une sottise, qui...
+DUBOIS.
+Treve a l'entretien. Monsieur Derville m'attend. Sur pied depuis cinq heures du matin, il a mis le nez, je crois, dans tous les volumes de sa bibliotheque, sans avoir jamais pu trouver ce qui lui convenait.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voyez-vous, c'est le cerveau qui est malade. Du mystere, Mademoiselle Lisette, du mystere.
+SCENE V.
+LISETTE, seule.
+J'en entrevois beaucoup, et je l'ai penetre. Ma maitresse, dont le coeur est tout a sa fille, ne veut pas entendre a un second hymen ; et Derville rebute, prend son parti dans la fuite ; c'est clair.
+SCENE VI. Derville, un livre a la main, Lisette.
+DERVILLE, sans voir Lisette.
+Ce livre est detestable. Malheureux pedant ! Sois touche de nos miseres, au lieu de les fronder. Le moraliste qui me console, c'est celui qui sait me plaindre. Ah ! Te voila.
+LISETTE.
+Devant vos yeux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si je pouvais le faire parler.
+DERVILLE, a sa lecture.
+L'homme est faible, tres faible. Depuis quarante ans que j'existe, vingt annees d'experience ne me servent encore qu'a me prouver cette verite.
+LISETTE, feignant de parler seule.
+Heureux celui qui s'entretient avec soi-meme. A-t-il tort, a-t-il raison, personne ne le contredit.
+DERVILLE.
+Que fais-tu donc la ?
+LISETTE.
+J'ai l'air de perdre mon temps, Monsieur ; je vous admire.
+DERVILLE.
+Je n'ai rien d'admirable en verite.
+LISETTE.
+Oh ! Que pardonnez-moi, l'esprit de reflexion, l'amour de l'etude, de la philosophie. Ah ! Monsieur, que c'est, dit-on, une belle chose que la philosophie ! Apprenez-moi donc au juste ce que c'est, en quoi elle consiste. Ma jeune maitresse fait un si grand cas de vos lecons, et Madame elle-meme...
+DERVILLE.
+Sophie !... Oui, elle m'ecoutait. Tant de simplicite, l'amour du vrai.
+LISETTE.
+L'eloquence du maitre.
+DERVILLE.
+Moi, chercher a la seduire, moi !
+LISETTE.
+Mon Dieu, quelle chaleur ! Qui vous dit cela ? Votre honnetete, la confiance de Madame... Vous etes aujourd'hui bien pensif, Monsieur, on dirait que vous meditez secretement quelque projet bien difficile, et que...
+DERVILLE, distrait.
+Tu disais... Tu demandais quelque chose, je crois.
+LISETTE.
+Ah ! Je m'en souviens, je vous demandais a quoi la philosophie est bonne, et en quoi vous la faites consister.
+DERVILLE.
+Dans les sacrifices.
+LISETTE.
+Le secret echappe.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De quel air vous dites cela ! Quoi ! Ce sont des sacrifices bien couteux, bien penibles, qu'elle veut de nous ?
+DERVILLE.
+Elle voudrait peut-etre notre tranquillite... Mais qu'obtient-elle ? Nos regrets.
+LISETTE.
+Il faut qu'elle ait bien peu de credit, bien peu d'empire.
+DERVILLE.
+Les passions, sans contredit, en ont davantage.
+LISETTE.
+L'amour, par exemple ?
+DERVILLE.
+Ah ! Laisse-moi, j'ai besoin de repos.
+LISETTE, a part.
+J'en sais suffisamment, Monsieur Derville. Vous aimez Madame Dorsan, a en perdre l'esprit, vous voudriez obtenir sa main ; j'en suis certaine. Ne craignez plus mes questions importunes.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Adieu, Monsieur, je vais dire a Madame que vous etes ici.
+DERVILLE, distrait.
+Oui, j'ai des choses essentielles a lui communiquer.
+LISETTE, s'en allant.
+Il est fou. Ah ! La philosophie ne sera pas mon etude ; le sens commun vaut encore mieux.
+SCENE VII.
+DERVILLE, seul.
+Ce depart m'occupe tout entier. Ne plus la voir !... Je ne suis point a moi, non. Quelqu'effort que je fasse. Ou la moins connaitre, ou l'aimer. Le charme de nos entretiens, ses vertus, sa confiance, l'interet exprime dans ses regards ; oui, l'interet qu'elle prend a moi. Insense ! Non, je partirai. Il faut en instruire Madame Dorsan. La voici.
+SCENE VIII. Derville, Madame Dorsan.
+MADAME DORSAN.
+Je vous cherchais, Derville...
+DERVILLE.
+J'etais aussi dans le dessein...
+MADAME DORSAN.
+Je viens reellement pour m'entretenir avec vous, et meme pour vous prier de me donner des avis. Asseyons-nous ; vous fixerez mes idees.
+DERVILLE, marchant.
+J'aurais besoin sans doute... Mais les votres, Madame, ne portant que sur des projets senses, d'une execution facile, ne doivent point vous trouver irresolue.
+MADAME DORSAN.
+Si je n'avais a craindre de m'abuser que sur ma propre felicite, ce serait peu sans doute ; mais risquer de me meprendre a l'egard du bonheur de ma fille, exposer son repos !... Ah ! Vous le savez, elle m'est bien chere ! C'est a son sujet, Derville, que je veux vous demander des conseils.
+DERVILLE.
+Des conseils, a moi, a son sujet ?
+MADAME DORSAN.
+Sophie est bien jeune, il est vrai ; mais elle est plus formee du cote de la raison, qu'on ne l'est a son age ; et moi, ayant cru trouver dans le chevalier de Valbelle, celui qui peut assurer son bonheur, je medite cette union. Je pese sur l'obstacle que ma fille semble y mettre par son indifference pour lui. Il m'ecrit ; il arrive de son regiment : me trouvera-t-il encore indecise ? Craindre de forcer l'inclination de Sophie ; elle ignore son propre coeur. La contraindre, je n'ai pas ce courage. Sa melancolie accroit chaque jour ; je me trompe peut-etre ; mais une mere s'alarme de si peu !... Derville, conseillez-moi ; je le repete, ma tendresse peut m'aveugler ; au lieu que vous, plus desinteresse...
+DERVILLE, avec chaleur.
+Desinteresse !... Et ou trouvez-vous, Madame, qu'on le fut jamais ? En etes-vous encore a vous en fier aux apparences, a fonder sur elles ? Et parce que vous verrez un front calme, croirez-vous qu'on ne puisse etre agite ? Vous me croyez votre ami, je suis peut-etre un ingrat. Ce soir, je puis vous paraitre un ingrat, un insense !... quand je ne serai que prudent, et votre ami. Trop de vehemence m'emporte ; mais croyez-moi, Madame, contenir, renfermer ses passions, ce n'est pas en etre exempt. L'homme soumis aux passions n'est point indifferent, il n'est point desinteresse !... Mais l'on decide, l'on juge, l'on croit, ou l'on devrait douter, ou l'on devrait...
+MADAME DORSAN.
+Douter, de quoi, Derville ? De l'interet que vous devez prendre a Sophie, qui vous cherit, et vous doit beaucoup. Douter de votre raison...
+DERVILLE.
+La raison faiblit a proportion des forces qu'on en exige. Souvent, le pretendu sage n'est qu'un fou comme un autre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et sensible, a mon age... Je ne puis soutenir cet entretien. Un autre instant me verra, peut-etre, plus calme.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous me connaitrez,... vous connaitrez mon coeur,... et s'il sait remplir les devoirs de l'amitie, se soumettre aux sacrifices qu'elle impose.
+SCENE IX.
+MADAME DORSAN, seule.
+Ma surprise est extreme, il me laisse. Quel discours, quel trouble ! D'autant mieux apercu qu'il s'efforce de le cacher, et que je ne suis pas a reconnaitre que quelque chose l'occupe, et l'afflige. Derville est courageux, mais Derville est sensible. Il renferme une peine secrete au fond de son coeur, il en est devore peut-etre...
+SCENE X. Sophie, Madame Dorsan.
+SOPHIE arrive, et baise la main de sa mere.
+O ma chere maman ! Je viens de lire un traite sur l'amitie... Quel ouvrage, oh, dieux ! Et quel sentiment ! L'auteur dit que, quand on l'eprouve, on est vertueux.
+MADAME DORSAN.
+Qui vous a prete ce livre ?
+SOPHIE.
+C'est mon bon ami, c'est Derville.
+MADAME DORSAN.
+Votre bon ami ? Vous entrez dans un age, ma fille, ou la pudeur avertie ne veut plus cette expression trop familiere. Songez...
+SOPHIE.
+Vous parlez de Derville, ma chere maman ; vous trouvez a redire que je l'appelle encore mon ami. Eh ! Ne l'est-il pas ? Quel autre, envers moi, peut avoir autant de sincerite ? Quel autre... Jugez-en vous-meme. Comparez, et sentez la difference.
+MADAME DORSAN.
+Voyons.
+SOPHIE.
+Quand je me trouvais avec le Chevalier, il ne m'entretenait que des agrements, des charmes qu'il me suppose ou me prete. Quel homme insupportable ! Il me dira que je suis belle ; pretend-il me seduire, qu'il veuille m'abuser ? Doute-t-il de ma conception, de mon entendement, pour ne me dire que des mots ? Doute-t-il enfin, que j'aie une ame... pour ne s'adresser qu'a ma vanite ? Ah Derville, Derville ! Sur mes traits, juge de ma sante : a mon enjouement, il connait la paix de mon ame : dans mes raisonnements, il veut de la justesse ; dans mon caractere, du naturel ; a mon coeur, de la droiture.
+MADAME DORSAN.
+Vous pensez avec sagesse, Sophie ; et pour moi quelle satisfaction ! Je vous vois assez formee maintenant pour etre mariee. Valbelle m'ecrit, me sollicite...
+SOPHIE.
+Valbelle !
+MADAME DORSAN.
+C'est lui dont je fais choix. Son age vous parait-il celui de l'etourderie, c'est aussi celui du bonheur, des qualites aimables... L'experience attriste l'homme. Il vous trouve jolie, et cela vous deplait ; mais s'il vous juge avec un coeur touche, c'est un tort leger ce me semble, et que vous devez pardonner au tendre interet qu'il prend a vous.
+SOPHIE.
+De l'interet, a moi, il me flatte !
+MADAME DORSAN.
+Point du tout ; il vous voit telle qu'il vous peint.
+SOPHIE.
+On ne voit point en beau, on n'a point de ces yeux prevenus, pour ceux qui nous inspirent un reel attachement ; on les voit tels qu'ils sont, et la perfection qu'on leur trouve, n'est pas encore celle qu'on leur souhaite.
+MADAME DORSAN.
+Derville, par exemple ; l'amitie voit comme cela, mais l'amour...
+SOPHIE.
+Qu'il est froid ce sentiment si vante ! Que j'ai peine a concevoir comment les coeurs tendres en sont si vivement touches !... J'aurai de l'amour pour Valbelle, j'en aurai, si vous le voulez, maman ;... mais quelque soit mon obeissance, ma soumission a vos moindres volontes, non !...
+MADAME DORSAN.
+Quelle emotion ! Achevez.
+SOPHIE.
+Je ne saurais avoir de l'amitie pour lui.
+MADAME DORSAN, a part.
+Que dit-elle ? Son innocence lui fait-elle prendre le change ?
+SOPHIE.
+Pourquoi nous separer ?
+MADAME DORSAN, a part.
+Et le sentiment qu'elle prend pour l'amitie, ne serait-il en effet que l'amour ?
+SOPHIE.
+Sophie ne vous est-elle plus aussi chere ? Oh ! Maman ! Vous ne m'ecoutez pas ?
+MADAME DORSAN, a Sophie.
+Mais que me voulez-vous donc ?... Vous allez prendre votre lecon d'Italien, et vous n'etudiez pas ?...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De l'un et de l'autre cote, je vois des rapports qui me frappent. Derville souffre, et ma fille aussi.
+SOPHIE.
+Je vois... Je ferai tout ce que vous ordonnerez maman.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MADAME DORSAN, a part.
+Derville aime sans doute, et son caractere me repond de sa constance ; mais, qui me repond de ma fille ? Dans un age aussi tendre... Dois-je m'en rapporter entierement au trouble de Sophie ? Ces premiers mouvements de la nature en elle, sont-ils bien ceux du coeur ? Et moi, penetrant dans l'avenir, envisageant des suites qui peuvent etre cruelles !...
+SOPHIE, a part.
+Je ne saurais travailler.
+MADAME DORSAN, a part.
+J'ai lu dans le coeur de Sophie ; il faut l'eprouver. Il faut commencer par les observer davantage, en leur laissant plus de liberte ; sure de Derville comme de moi-meme !...
+SOPHIE se leve.
+Vous parlez de lui, maman !
+MADAME DORSAN.
+Et vous, ma fille, songez a Valbelle ; songez, que si je l'ai prefere... choisi, a cause de sa jeunesse, c'est un effet de ma prudence, et de toute ma tendresse pour vous.
+SCENE XI.
+SOPHIE, seule.
+J'aurai donc de l'amour pour Valbelle, il faut en avoir pour lui, ma mere me l'ordonne. Comme la joie disparait promptement ! J'etais trop heureuse, en lisant ce traite sur l'amitie, et me voila retombee dans ma tristesse habituelle. Ah ! C'est depuis que Derville, devenu plus serieux, parait contraint avec moi, que je ne connais plus aucun plaisir qui puisse m'attacher. Comme chaque jour il devient plus reveur !... Et moi-meme, qu'est-ce que j'eprouve ? Hier, pendant la lecon, quand ma mere s'absenta pour un instant, et que, seule avec Derville, j'apercus qu'il avait les yeux fixes sur moi... Et que mon papier tomba de mes mains... Qu'est-ce donc que je sentis ?... L'idee seule... Le souvenir penetre encore mon ame...
+SCENE XII. Sophie, Derville.
+DERVILLE, une lettre a la main.
+Faisons remettre cette lettre a Madame Dorsan.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que vois-je ? Sophie est sans sa mere. Ah ! Fuyons.
+SOPHIE se retourne et l'apercoit.
+Lui !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)O mon bon ami, vous voila, enfin, vous voila !... Je ne sais plus... Tout mon coeur en mouvement... Et chaque jour, cela augmente. Bientot, je crois... Je ne pourrai plus parler, des que je vous apercevrai.
+DERVILLE.
+La surprise sans doute, a produit cette emotion passagere.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qui n'en serait trouble ?
+SOPHIE.
+Oh, non ! Je n'ai point eu peur, c'est l'amitie qui fait cela ; et comme elle augmente sans cesse... que toute mon ame ne saurait la contenir, elle s'echappe... et... enfin, je ne sais pas, moi ; mais, Derville, j'ai bien de l'amitie pour vous.
+DERVILLE.
+Sophie !
+SOPHIE.
+Vous n'en sauriez douter, n'est-ce pas ?
+DERVILLE.
+Non.
+SOPHIE.
+Si vous saviez comme j'etais triste avant de vous voir !... Mais ce livre, ce livre ! Malgre cela, ces deux amis ne sont pas attaches l'un a l'autre au point ou nous le sommes : je sais encore les defier ; ils peuvent se passer de se voir, le pourriez vous, Derville ?
+DERVILLE.
+Quoi ? Que pourrais-je ?
+SOPHIE.
+Ne plus me voir.
+DERVILLE.
+S'il etait necessaire... Je crois...
+SOPHIE.
+Vous croyez ?
+DERVILLE.
+Que j'en aurais le courage.
+SOPHIE.
+Etre separe de Sophie !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous dites cela pour m'eprouver. Qu'avez-vous donc ?
+DERVILLE.
+Ah !
+SOPHIE.
+N'ai-je pas le droit de sentir vos peines ? Vous ne pouvez m'abuser, vous avez quelque chose qui vous afflige.
+DERVILLE.
+J'ai... J'ai de la discretion... de la pitie... Je ne questionne point... Je ne tourmente point (les malheureux); on ne connait pas la faiblesse humaine, on se livre avec innocence a la bonte du coeur, on allume le feu des passions qu'on ignore ; ce feu circule... Il penetre... devore !...
+SOPHIE.
+Eh bien, c'est dit : j'ai tort, sans le vouloir, sans m'en douter. Faisons la paix.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DERVILLE, s'eloignant d'elle.
+Cruelle ! En est-ce assez ?
+SOPHIE.
+Vous me fuyez ! Est-ce vous ?
+DERVILLE.
+Sais-je en cet instant, ce que je suis ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je suis trop faible. Oui, je l'aime trop uniquement.
+SOPHIE, a part.
+Je suis bien malheureuse... On dirait qu'il me hait. 
+DERVILLE, se rapprochant d'elle.
+Voulez-vous lire quelque chose ?
+SOPHIE, avec chaleur.
+Me montrer cette aversion... cette indifference !
+DERVILLE.
+Preferez vous de traduire ?
+SOPHIE.
+Parler tout seul, etre agite, je ne sais de quoi ! Ne pas me repondre, ne pas m'ecouter, ne pas m'entendre.
+DERVILLE.
+Je vous ai entendue... Si j'ai craint de ne pas me decouvrir davantage...
+SOPHIE, vivement.
+Non, non, vous ne m'entendez point. Non, a ce que je dis, tant de froideur ne peut repondre ; ce que je dis n'est rien, mais ce que je sens, ce qui ne s'exprime pas... O ciel ! Et je croyais qu'il lisait comme moi-meme dans mon coeur, qu'un meme esprit nous animait ! Dans un ouvrage, pendant une lecture, un trait touchant, nous le sentions ensemble ; etait-il emu, je pleurais, la terreur ou la pitie, les alarmes, ses peines, oh ! Ses peines, comme je les eprouvais, quand aupres de moi, je le voyais reveur, et poser sa main sur son front ! Tout, tout de son coeur passait dans le mien ; et quand son air est de glace, qu'un poids m'oppresse, qu'il me fuit, me repousse !... Il me dira qu'il m'entend.
+DERVILLE.
+Sophie, Sophie !... Non, c'est vous, qui ne pouvez me comprendre, qui ne sentirez jamais a quel point vous m'etes chere. Mon experience... Mon age... Le votre ! Une separation eternelle. Au moins dans ma douleur, j'aurai ce temoignage a me rendre, que je n'aurai point profite des premiers sentiments qui naissent dans votre ame, et ne pourront s'y fixer, qui naissent de l'innocence de votre coeur, de sa sensibilite, sans doute, oh ! Je le crois !... Mais cette sensibilite qui vous abuse, qui peut m'abuser, moi-meme ; non, elle n'est encore en vous qu'un besoin trompeur.
+SOPHIE.
+Et l'effet ? Et ce que je sens ? Cette amitie toujours plus vive et plus forte, a mesure que je prends plus d'age et de raison, qu'est-ce que c'est donc ? La, vous qui savez definir le coeur, expliquer ses mouvements, vous ne sauriez repondre. On se croit bien fort en parlant d'apres la raison ; le sentiment a toujours l'avantage.
+DERVILLE.
+Le sentiment, dites-vous ? Et de quel sentiment parlez vous, Sophie ?
+SOPHIE.
+Mais, du notre, du mien.
+DERVILLE.
+Du notre, vous le connaissez... Vous l'expliqueriez ?
+SOPHIE.
+Je l'eprouve, c'est tout !
+DERVILLE.
+Un sentiment ?...
+SOPHIE.
+Bien vif !
+DERVILLE.
+Et reflechi ?
+SOPHIE.
+Bien tendre !
+DERVILLE.
+Et profond, et durable a jamais, remplit toute votre ame ? Vous croyez qu'il existe en vous, qu'il peut durer ! Et... c'est votre coeur, qui prend soin chaque jour de vous le confirmer ?
+SOPHIE.
+Oh bien ! Comme vous m'entendez actuellement !
+DERVILLE.
+Et... L'objet d'une telle affection ?
+SOPHIE.
+Il me le demande, lui ?
+DERVILLE.
+J'entends.
+SOPHIE.
+Vous entendez, mon bon ami ?
+DERVILLE.
+Je le crois du moins (et je crains de le croire); a present, quels desirs, quels voeux formez-vous ? Un attachement ne peut, ne doit point etre inutile et sans fin.
+SOPHIE.
+Il ne finira jamais, pourtant.
+DERVILLE.
+Repetez encore.
+SOPHIE.
+Oh ! Jamais.
+DERVILLE.
+Cependant, au bout de quelques annees, si l'age de celui qui vous entend, trop peu assorti, trop peu convenable au votre...
+SOPHIE.
+Est-ce qu'on aime pour l'age ? C'est lui qu'on aime.
+DERVILLE, avec passion.
+Et vous aimeriez toujours Sophie ? Et vous menageriez ce coeur qui vous appartient, ce coeur jaloux peut-etre, trop sensible, trop delicat pour ne l'etre pas...
+SOPHIE.
+Dieux !
+DERVILLE.
+Sophie, le puis-je croire ? Craignez de me jeter dans une erreur qui me promet tout ce qu'on peut avoir de bonheur sur la terre. Vous ne connaissez pas mes voeux, mes tourments, le trouble ou je suis. Dites, Sophie, dites que ces soins delicats, d'un coeur vraiment touche, suffiront a votre ame sensible et vertueuse ; dites qu'ils pourront remplacer aupres de vous les charmes de l'age et ceux de la figure.
+SOPHIE.
+Il y revient encore, et rien ne pourra le rassurer !
+DERVILLE.
+Oui, chere Sophie, oui je le suis.
+SOPHIE.
+Mais voyez Valbelle. 
+DERVILLE.
+Je ne doute plus.
+SOPHIE.
+Valbelle peut servir ici de preuve ; il est assez jeune, est-il vrai ?
+DERVILLE.
+Sans doute.
+SOPHIE.
+Il est beau comme un ange.
+DERVILLE.
+L'expression...
+SOPHIE.
+On ne peut en disconvenir.
+DERVILLE.
+Que sert de nous occuper...
+SOPHIE.
+Mais c'est que je n'aurai que de l'amour pour lui.
+DERVILLE.
+De l'amour ?
+SOPHIE.
+Pas davantage.
+DERVILLE.
+Pour Valbelle ?
+SOPHIE.
+Malgre sa jeunesse et ses traits.
+DERVILLE.
+Pour Valbelle ?
+SOPHIE.
+Quand au contraire, j'aurai toujours de l'amitie pour vous ; et il ne sera que mon amant ou mon epoux...
+DERVILLE.
+Qu'entends-je ?
+SOPHIE.
+Quand vous serez toujours mon unique ami !
+DERVILLE.
+Moi... Ah !... Je serai votre ami... Moi.
+SOPHIE.
+Quel regard !
+DERVILLE.
+Elle n'avait pas d'expressions assez touchantes pour me convaincre, perfide !
+SOPHIE.
+Moi, Sophie ! Perfide ! Qu'ai-je dit, helas ! Que je n'aie pas pense dans toute la verite de mon coeur ?
+DERVILLE.
+Vous l'avez dit... Vous l'aimez donc ?
+SOPHIE.
+Si je vous aime ?
+DERVILLE.
+Sa bouche encore... C'est Valbelle.
+SOPHIE.
+Pour qui j'aurai de l'amour... Ma mere le veut.
+DERVILLE.
+Il suffit, soyez heureuse... Pour moi, dont les transports jaloux ont besoin d'eclater... Je vais...
+SOPHIE.
+Derville !
+DERVILLE.
+Laissez-moi.
+SOPHIE.
+Ou courez vous ?...
+DERVILLE.
+Vous fuir a jamais.
+SCENE XIII.
+SOPHIE, seule.
+Derville, Derville !... Mes cris ne l'arretent pas... Le cruel fuit et m'abandonne. Quel est donc mon crime, ce crime que j'ignore ? O ciel ! Apprends-le moi, qu'ai-je fait ? Je suis punie. Je l'interroge en vain ; nul regret, nul reproche, ne s'elevent de ma conscience... Et... Derville m'accuse... Et Derville ne peut etre injuste ?... Mais, avec mon coeur, est-on coupable ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)O ma mere ! O ma mere !
+SCENE XIV. Madame Dorsan, Sophie.
+MADAME DORSAN.
+Qu'entends-je, Sophie ?
+SOPHIE.
+O maman ! J'en mourrai.
+MADAME DORSAN.
+Quelles alarmes !
+SOPHIE.
+Mon ame est innocente, il se plait a la noircir.
+MADAME DORSAN.
+Qui donc ?
+SOPHIE.
+Derville. Ah ! J'ai connu la peine.
+MADAME DORSAN, a part.
+Je respire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Confie a mon coeur...
+SOPHIE.
+Que sais-je moi-meme ? Quand il m'accuse, moi je le plains. Derville souffre, Derville est malheureux, oui, mon coeur me le dit, plus de repos pour moi.
+MADAME DORSAN.
+Et c'est la le sujet de ton affliction profonde ?
+SOPHIE.
+Il m'a nommee perfide.
+MADAME DORSAN.
+Perfide !
+SOPHIE.
+A cause de mon mariage avec Valbelle.
+MADAME DORSAN, a part.
+La jalousie a surmonte le courage.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu lui as fait part de ton mariage avec le Chevalier ?
+SOPHIE.
+Je lui dis tout.
+SCENE XV. Un Laquais, Madame Dorsan, Sophie.
+LE LAQUAIS, a Madame Dorsan.
+Il m'est ordonne de remettre cette lettre, en secret, a Madame.
+MADAME DORSAN, s'avance sur le bord de la scene.
+Que vois-je ? C'est de Derville.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je trahirais la confiance, si je ne m'imposais un sacrifice ; j'ai cet empire encore sur moi-meme, je sais prendre un parti, je vous quitte ce soir. Daignez m'accorder une derniere grace, epargnez un deplaisir a Sophie, cachez-lui mon depart. Sophie pourrait me regretter, oui, je crois, oui, je ne puis m'empecher de croire que Sophie regrettera l'ami de sa jeunesse. Je vous verrai aujourd'hui, pour la derniere fois. Il est donc mutuel, ce penchant qui met le comble a mes voeux !
+LE LAQUAIS.
+Y a-t-il reponse ?
+MADAME DORSAN.
+Oui, et vous direz que je vais... Qu'on ne decide rien avant de l'avoir recue.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Tout me rassure. C'est a la vertu que le coeur de Sophie cede ; elle estime son amant au point de l'aimer ; que faut-il de plus dans une union pour le bonheur ? Et qu'ai-je a craindre de la disproportion des ages ? Dissimulons.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVI. Madame Dorsan, Sophie.
+MADAME DORSAN.
+En verite, je ne le reconnais plus, Derville.
+SOPHIE.
+Oh ! Maman ! Il est bien change !
+MADAME DORSAN.
+Je croyais a ses vertus.
+SOPHIE, vivement.
+Eh ! Cesse-t-on d'en avoir ? Croyez, croyez-y toujours.
+MADAME DORSAN.
+Blesser ainsi les droits de l'amitie, ces droits si chers, si consolants ! Tu sais qu'il y a plus de dix ans que Derville demeure avec nous. A la mort de mon epoux, voyant que Derville, sage, instruit, pouvait de concert avec moi concourir a ton education, nous continuames a demeurer ensemble ; je lui donnai sur toi les droits de l'age, et ceux d'une confiance bien placee.
+SOPHIE.
+Je sais tout cela, maman.
+MADAME DORSAN.
+Mais tu ne sais pas que, lasse de ce commerce heureux, ou tout devait l'interesser, il se retire tout seul a la campagne, sans doute ; qu'il nous livre au regret de l'avoir connu, de l'avoir cheri, qu'enfin, il nous quitte ce soir.
+SOPHIE.
+Quitter ?
+MADAME DORSAN.
+Oui.
+SOPHIE.
+Comment quitter ?
+MADAME DORSAN.
+Je l'ai dit, il se separe de nous.
+SOPHIE.
+Mais, maman... Mais donnez... Mais donnez vos ordres... Mais allons a la campagne aussi nous. La vie champetre, quoi de plus doux ? Il faut bien que nous allions avec Derville, il faut bien que nous soyons toujours avec lui.
+MADAME DORSAN.
+Oui, s'il le voulait. Mais des que par ce choix, n'ayant pour nous que de l'indifference, il se retire ; nous ne pouvons le contraindre, et suivre qui nous fuit. Je suis certaine... qu'il y a plus de trois mois qu'il medite ce voyage.
+SOPHIE.
+Oui... Trois mois... Depuis qu'il est triste... Quelle noirceur ! Je ne m'etonne plus de cette physionomie qu'il avait... de cet air contraint, de cet air de dissimuler le crime... O ciel !... Enfin, voila donc l'experience... Les peines, le desespoir, la voila... Etre comme une folle... egaree... ne savoir plus...
+MADAME DORSAN.
+Tes regrets sont aussi vifs.
+SOPHIE.
+Est-ce que je pleure, moi ?
+MADAME DORSAN.
+Non.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et de meme que ta faiblesse eut entraine la mienne, ta force m'inspire du courage. Je sens actuellement que ma peine est adoucie.
+SOPHIE.
+Vous avez des peines qui s'adoucissent, maman ?
+MADAME DORSAN.
+Il n'en est pas de meme...
+SOPHIE.
+Et puisqu'il s'en va... Se cache a jamais, s'enfuit au bout de l'univers, et qu'on ne se verra plus de la vie, et que de ce soir, c'est fini pour toujours, n'est-ce pas ?
+MADAME DORSAN.
+Sans doute.
+SOPHIE.
+Je lui rendrai tout, ses livres, ses extraits. Je n'ai que faire de continuer ma traduction, moi ; comme il s'en va, ignorer ou savoir, tout cela devient indifferent ; et meme comme il s'en va, si de notre cote nous faisions une retraite aussi, maman ? La, pour etre bien eloignes, mieux separes, plus desunis ?
+MADAME DORSAN, emue.
+Pauvre Sophie !
+SOPHIE.
+Que ce soupir de ma mere est consolant pour mon coeur ! Vous qui cherissez votre enfant, qui, mieux qu'elle-meme, savez lire dans son ame !... Je suis bien a plaindre, n'est-ce pas ? N'est-ce pas, maman, que je souffre beaucoup ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MADAME DORSAN.
+Calme-toi, ma chere Sophie, ton amie est aussi ta mere.
+SCENE XVII. Sophie, Lisette.
+SOPHIE.
+Ah !...
+LISETTE.
+Qu'y a-t-il donc ? 
+SOPHIE.
+Tu ne sais pas.
+LISETTE.
+Quoi, ma belle maitresse ? 
+SOPHIE, avec ingenuite.
+Exister... C'est souffrir.
+LISETTE.
+Une telle tristesse...
+SOPHIE.
+Et quel autre sentiment sera donc la douleur ?
+LISETTE.
+La votre en effet me surprend.
+SOPHIE.
+Ecoute. Je t'aime ! Quand tu seras a l'instant de croire a la felicite, de la croire durable a jamais...
+LISETTE.
+Eh bien ?
+SOPHIE.
+Tu diras : point de bonheur pour moi... Est ce qu'on est heureux ?
+LISETTE.
+Je dirai cela, moi ? 
+SOPHIE.
+Quand un homme sage, eclaire, t'enseignera la verite, te donnera de l'amour pour elle, quand tu croiras reconnaitre aux actions de cet homme qu'il est vraiment vertueux ; tu fremiras, et tu diras : Cet homme !... Il est faux, il est cruel, le mensonge est dans son coeur !
+LISETTE.
+O ciel ! Et vous pleurez presque en disant cela. Ce discours, assez enigmatique, n'aurait-il point de rapport au depart de Derville ?
+SOPHIE, vivement.
+Tu sais aussi qu'il s'en va ! Ah ! Dis moi, dis moi bien tout.
+LISETTE.
+Si j'etais tres sure du secret, je vous apprendrais bien, moi, la veritable cause du depart de Derville. Il ne faut pas moins que cet amour extreme, que Madame a pour vous, pour qu'elle se refuse a un engagement aussi convenable ; il faut qu'elle ait un coeur comme le sien... Paix. Voici Derville lui-meme ; dans un autre moment je viendrai vous retrouver.
+SOPHIE.
+Laisse-moi. Qu'il n'ait a rougir qu'a mes yeux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il approche, et sa vue...
+SCENE XVIII. Sophie, Derville.
+DERVILLE, avec tendresse.
+Eh quoi ! Lisette vous laisse... Qu'avez-vous donc, chere Sophie ?
+SOPHIE, a part.
+Ce ton adouci, cet interet feint ; que d'artifice dans ce coeur !
+DERVILLE.
+Votre mere s'adressant a moi, me conjurant de ne point partir, comme si ma presence etait encore chere a Sophie... Helas ! Un autre a des droits sur son coeur, Sophie detourne ses regards, elle craint de rencontrer les miens...
+SOPHIE.
+Homme assez faible pour tromper ! Il ne pouvait pas me dire : Sophie, je suis ingrat et non perfide. Sophie, je pars, je detruis en un jour tout ce que vous avez acquis de felicite depuis votre enfance ; mais ce bonheur que je vous donnais ne peut plus me suffire... Ne mourez point Sophie, je pourrai vous revoir, et vous serez encore heureuse. Il ne pouvait pas me dire cela. Alors il aurait vu couler mes larmes, j'aurais eu la douceur de pouvoir en repandre, d'en repandre pour lui...
+DERVILLE.
+Dieux !... Elle m'aime, ce n'est point une erreur.
+SOPHIE.
+Tous mes voeux l'eussent suivi dans sa retraite...
+DERVILLE.
+Arrete, Sophie... arrete. Trop de joie enivre mon coeur... Moi, te quitter et vivre ?... Fallait-il donc te le dire ? Quoi ? Tu n'as pas senti que je t'adore ?... Ah ! Connais l'amour... Connais ton amant, l'exces...
+SOPHIE, avec exclamation.
+C'est encore lui ! Je le retrouve, oui, c'est encore Derville ; il m'aime.
+DERVILLE.
+Laisse-moi cette puissance, sur moi-meme, de ne point tomber a tes pieds, de ne point t'exprimer mon amour et sa force... Laisse-moi... ton age, ces aveux repetes, d'une tendresse eternelle, je les dois a une mere, a la tienne, o Sophie !... Je vais a Madame Dorsan, je vais a l'instant meme...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ne crains point cette experience de l'age, cette severite de caractere que l'amour adoucira pour toi. T'aimer, t'adorer ! Abuse de ton empire, tu le peux, je suis le plus faible, j'aime davantage... Mais prends pitie de ma faiblesse. O Sophie ! Ou mourir... ou posseder ton coeur a jamais.
+SCENE XIX.
+SOPHIE, seule.
+Ou mourir, ou posseder ton coeur a jamais ! Cher Derville, et j'ai pu le soupconner ! Connais l'amour, connais ton amant. Ces mots plus chers encore, qu'il ne m'avait jamais adresses, ces mots graves dans mon ame, y portent, je ne sais quel sentiment inexprimable ; un nouveau jour me luit. Oh ! Que l'amour pour Derville est different de celui qu'on a pour Valbelle !
+SCENE XX. Lisette, Sophie.
+SOPHIE.
+Oh ! Ma chere Lisette !
+LISETTE.
+Quel changement heureux ! 
+SOPHIE.
+Connais l'amour, connais ton amant, le bonheur...
+LISETTE.
+Quels transports ! Que d'expression ! Vous voila donc enfin plus raisonnable. Car cet amant, c'est Valbelle, je pense ; cet amour, c'est le sentiment que vous avez pour lui, et le bonheur, c'est de l'epouser, est-il vrai ?
+SOPHIE.
+Derville ne partira point, il restera toujours !
+LISETTE.
+Il restera toujours ! Comment, j'ai devine juste ? Et quand je viens de voir Derville aux pieds de Madame Dorsan, c'est donc bien vrai qu'il l'aime et qu'il l'epouse ?
+SOPHIE.
+Derville aux pieds de Madame Dorsan, Derville epouser maman ? Mais que dites-vous donc ?
+LISETTE.
+Mais oui, ce me semble. 
+SOPHIE.
+Oui. Elle dira, oui ; elle dira que Derville epouse maman.
+LISETTE.
+Encore une fois, a les entendre parler d'union, aux transports qu'ils font paraitre tous deux...
+SOPHIE.
+En verite, vous etes barbare... extraordinaire. Vous ne sentez pas la force des choses, et l'on fait mourir les gens comme cela... Dites donc aussi que Derville trompe, qu'il est parjure, et qu'il dit a maman les memes choses qu'il disait a Sophie. Connais l'amour, connais ton amant.
+LISETTE.
+Je ne savais pas, moi...
+SOPHIE, avec desespoir.
+Mais c'est donc vrai ?... Mais je ne respire pas... Je suffoque... Je meurs, Mademoiselle... Mais dans ce moment, je ne cheris plus autant ma mere peut-etre... Et vous voyez Sophie coupable.
+SCENE XXI. Lisette, Sophie, Madame Dorsan.
+MADAME DORSAN, a part.
+Elle ignore que tout s'apprete pour son union.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoi donc ? Quelles nouvelles alarmes ?
+LISETTE.
+Ayant vu Monsieur Derville aux pieds de Madame... qui lui parlait de mariage...
+MADAME DORSAN.
+Eh bien ?
+LISETTE.
+J'ai dit a Mademoiselle...
+SOPHIE.
+Elle dit !... Elle dit que vous allez epouser Derville, maman.
+MADAME DORSAN, a Lisette.
+Retirez-vous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Profitons de l'erreur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Nous desirons toutes deux de fixer Derville aupres de nous ; il fallait l'attacher par des noeuds qu'il put cherir. Lui donner ta main ? Mais as-tu songe a son age, aux devoirs qu'il t'impose ? Tu ne connais pas les obligations d'une femme, ma chere Sophie, c'est a nous de donner le bonheur a un epoux, il ne peut que nous le rendre. Derville est trop sensible pour n'etre pas jaloux ; il lui faut donc un coeur dont il dispose, un coeur soumis, confiant, et surtout fidele.
+SOPHIE, a part.
+Ah ! C'est la mon coeur.
+MADAME DORSAN.
+Et moi, je deciderais, sans reflexion, de ton sort et de celui de Derville ? J'irais me promettre inconsiderement que tu ne seras point coquette, point legere, toujours tendre, a ton age, a quinze ans ? En agissant, comme je le fais, tu n'auras point a me dire un jour dans l'amertume de ton coeur : « O maman ! Sans considerer mon extreme jeunesse et l'etendue des devoirs que vous m'imposiez, vous avez fait mon malheur en m'unissant a Derville. » 
+SOPHIE.
+Malheureuse avec Derville ! Malheureuse ? Vous ne le croyez pas, maman, qu'on puisse etre malheureuse avec lui.
+MADAME DORSAN.
+Tu pleures... Sophie !... Tu pleures.
+SOPHIE.
+Ce mariage etait si loin de ma pensee... Si loin de mon coeur... (C'est donc bien vrai.) O ma mere ! O vous qui m'avez tout donne, soins, tendresse, exemple... Non je ne pleurerai point du bonheur de ma mere... Qu'elle soit heureuse sans qu'il en coute un coupable regret a Sophie... Et lui, lui !... Qui me promit le bonheur... Eh bien, je serai sa fille, sa fille tendre et soumise... Il ne vivra point pour Sophie... Mais Sophie !...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)O maman ! Mon ame est bien changee !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Derville !
+SCENE DERNIERE. Derville, Madame Dorsan, Sophie.
+MADAME DORSAN.
+Chere Sophie ! Pardonne a une mere les pleurs qu'elle t'a coutes. Il fallait se convaincre de ton amour, affermir tes sentiments, s'assurer de ta constance. C'est lui, c'est Derville, c'est ton amant que je te donne pour epoux.
+DERVILLE, tombant a ses genoux.
+C'est ton epoux que tu vois a tes pieds.
+SOPHIE.
+Lui... O maman ! Quel est votre bienfait ! J'avais de l'amour pour Derville.
+MADAME DORSAN.
+Il devient ton epoux... Qu'il soit toujours ton ami.
+
+	==================================================

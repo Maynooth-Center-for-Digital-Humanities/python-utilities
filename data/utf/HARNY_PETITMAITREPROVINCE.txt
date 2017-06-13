@@ -1,0 +1,1074 @@
+********************************************************
+	DC.Title                  = LE PETIT-MAITRE EN PROVINCE, COMEDIE.
+	DC.Author                 = HARNY
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:22.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/HARNY_PETITMAITREPROVINCE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE PETIT-MAITRE EN PROVINCE COMEDIE EN UN ACTE ET EN VERSAVEC DES ARIETTESM. DCC. LXV. Avec Approbation et Privilege du Roi.
+Par M. HARNY. La Musique est de M. ALEXANDRE.
+	
+	
+	Representee pour la premiere fois par les Comediens Italiens Ordinaires du Roi, le 7 Octobre 1765.
+	PREFACE.
+Je ne dois sans doute qu'au jeu des acteurs le succes de cette Piece. Je saisis avec plaisir l'occasion de leur en marquer ma reconnaissance. Quelques personnes cependant ont trouve mauvais que j'aie fait represEnter cette Comedie sur le Theatre Italien. Il faut me justifier. Les Acteurs de ce Theatre se font un devoir d'accueillir, d'encourager les Auteurs ; on n'y connait point l'usage de faire desirer pendant deux ans l'honneur d'une lecture, l'Homme de Lettres n'est point oblige de jouer le role de suppliant dans l'antichambre d'un Semainier. Ces raisons sont suffisantes pour un homme qui ne se sent point d'humeur a  souffrir les tracasseries, et sur-tout l'humiliation. On peut y joindre cependant des vues particulieres. La Musique parait aujourd'hui tenir le premier rang dans nos Spectacles ; serait-ce deplaire au Public que de tacher de l'allier avec la peinture de nos moeurs ? Pourquoi nous borner aux Paysans ? Pourquoi ne pas essayer tous les tons ? Quittons le village, la ville nous offrira plus d'un tableau interessant. J'espere que l'on ne prendra point ceci pour un trait de satyre contre les Auteurs qui n'ont travaille que dans le premier genre. Un talent en annonce toujours un autre. L'Auteur de la CHERCHEUSE D'ESPRIT a fait l'ANGLOIS A BORDEAUX. Chacune de ces Pieces est un chef-d'uvre. On me pardonnera aisement de citer par preference M. FAVART. Il est permis a un Ecolier d'avoir quelque predilection pour son Maitre. C'est lui qui m'a donne Les premieres lecons de l'Art Dramatique. BASTIEN a ete fait sous ses yeux. Il est facile de s'en apercevoir, et cette derniere piece vaudrait sans doute beaucoup mieux, si j'avais pu profiter de ses avis pendant le cours de la composition, Quelques critiques m'ont accuse d'avoir copie le MECHANT dans la Scene ou le Marquis tourne en ridicule le Baron et la Baronne. Ils se sont trompes. Cette situation est tiree du Conte des REMOIS de LA FONTAINE.
+
+ACTEURS
+LE BARON. 	M. Cailleau.
+LA BARONNE. 	Mde. Favart.
+JULIE, leur Fille. 	Mde. Laruette.
+LE MARQUIS. 	M. Clerval.
+DAINVAL, Amant de Julie. 	M. Le Jeune.
+MARTON, Suivante de Julie. 	Mlle. Beaupre.
+LEPINE, Valet du Marquis. 	M. Dehesse.
+BLAISE, Jardinier du Baron. 	M. Laruette.
+DEUX COCHERS. Personnages muets.
+LAQUAIS. Personnages muets.
+La Scene est dans une Salle du Chateau du Baron.
+
+
+
+			
+
+
+SCENE PREMIERE. Le Marquis, Lepine, Laquais, Cochers.
+Le Marquis est en frac fort simple. Lepine et les Laquais ont des habits gris galonnes en argent, et des chapeaux avec des plumets blancs.
+LE MARQUIS, tenant un dessein.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De ma voiture nouvelle
+Est-ce-la  le modele ?
+Il est assez bien.
+Je veux, pour mon mariage,
+Avoir cet equipage ;			[5]
+Que l'on n'epargne rien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vite, a  Paris, allez, la France ;
+Que l'on travaille en diligence,
+Et rapportez, en revenant,
+Ces Magots pour le President.			[10]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous, la Fleur, passez chez Hortense,
+Chez Cydalise, chez Constance,
+Dites-leur qu'au premier moment,
+Je les verrai certainement.
+Mais qu'on abrege les mysteres :			[15]
+De ce tracas,
+Je suis, si las !
+J'ai trop d'affaires,
+Je n'y tiens pas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'on mette les chevaux.... Lepine,			[20]
+Ou donc est ce cocher, qu'on dit des plus adroits ?
+LEPINE presente au Marquis un homme d'une taille ordinaire.
+Le voici, Monsieur.
+LE MARQUIS.
+Quoi ! Tu plaisantes, je crois.
+LEPINE.
+C'est un tres bon cocher.
+LE MARQUIS.
+Il est petit, sans mine...
+LEPINE presente au Marquis un grand homme bien fait.
+Peut-etre celui ci vous conviendra-t-il mieux ?
+LE MARQUIS, d'un air de satisfaction.
+Ah ! passe encor. Voila  du moins un homme.			[25]
+Je le retiens. 
+LEPINE.
+Il n'est pas trop fameux.
+LE MARQUIS.
+Il est grand et bienfait. Sais-tu comme il se nomme ?
+LEPINE.
+Brillant.
+LE MARQUIS.
+Le nom est heureux.
+La -bas prends soin de le conduire,
+Et quand tout sera pret, tu viendras me le dire.			[30]
+SCENE II. Le Marquis, Dainval.
+DAINVAL a  part, en entrant.
+Ah ! Voici le Marquis. On le dit mon rival.
+Sachons s'il est aime.
+LE MARQUIS.
+Bonjour, mon cher Dainval ;
+Qui t'amene en ces lieux ?
+DAINVAL.
+J'y suis pour quelque affaire ;
+Mais toi, Marquis, qu'y viens-tu faire ?
+LE MARQUIS.
+Tu connais a  Paris la Comtesse Dorge,			[35]
+Sur d'un certain Baron, Seigneur de ce village.
+Pour me donner sa niece, elle a tout arrange,
+Et j'ai, sur sa parole, entrepris le voyage ;
+Mais je n'ai pu trouver en arrivant ici,
+Que la mere et la fille avec beaucoup d'ennui,			[40]
+Le Baron, m'a-t-on dit, est un homme sauvage,
+Amateur de ses pres, de ses eaux, de ses bois,
+Et qui de son chateau n'est sorti qu'une fois.
+Ce doit etre, je pense, un plaisant personnage !
+DAINVAL.
+C'est un homme sense, qui ne vit que chez lui.			[45]
+LE MARQUIS.
+Absent depuis un mois, il arrive aujourd'hui.
+Sa femme peut passer comme on passe en province ;
+Car tout est en ces lieux d'un merite si mince !
+DAINVAL, avec inquietude.
+Et la fille ? Elle est belle. Epris de ses attraits,
+Sans doute en arrivant, des la premiere vue,			[50]
+Tu fixas tes desirs.
+LE MARQUIS.
+Je ne l'ai pas trop vue.
+DAINVAL.
+Et tu vas l'epouser ?
+LE MARQUIS.
+Que m'importent ses traits ?
+Je ne viens point adorer ma bergere,
+Et filer a  ses pieds les sentiments parfaits.
+Ma femme me sera toujours fort etrangere.			[55]
+DAINVAL.
+Se marier ainsi, c'est assez l'ordinaire.
+Sans trop examiner, l'epoux, comme un joueur,
+Des effets du hasard attend tout son bonheur.
+LE MARQUIS.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le mariage
+N'est plus un esclavage			[60]
+Dont on redoute les rigueurs.
+S'il nous offre encore une chaine, 
+Ce n'est qu'une chaine de fleurs,
+On la brise sans peine.
+La liberte, l'ame de ce lien,			[65]
+Ote a  present l'epine de la rose.
+De soi-meme chacun dispose,
+Et chacun s'en trouve assez bien.
+SCENE III. LEPINE, LE MARQUIS, DAINVAL.
+LEPINE, au Marquis.
+Monsieur, votre voiture est prete, on vous attend.
+DAINVAL.
+Ah ! Ah ! Quelle magnificence !			[70]
+L'habit de tes valets est tout-a-fait brillant.
+LE MARQUIS.
+Il n'est pas des plus mal, je pense.
+DAINVAL.
+Tres bien.
+LE MARQUIS.
+Et le chapeau ?
+DAINVAL.
+Tout en est elegant.
+LE MARQUIS.
+Cet habit n'est-il pas mille fois plus galant
+Que les sombres couleurs d'une triste livree ?			[75]
+DAINVAL.
+Peut-etre est-il moins noble. 
+LE MARQUIS.
+Aujourd'hui les Seigneurs,
+Pour de bonnes raisons, ont quitte les couleurs.
+DAINVAL.
+La Province bientot, par tes soins eclairee,
+Va prendre tout un autre ton ;
+Meme on dit que tu veux, sensible aux ridicules,			[80]
+Sur l'honneur, la vertu, le mepris, la raison,
+De nos Provinciaux dissiper les scrupules,
+Et de tout prejuge l'aveuglement fatal.
+LE MARQUIS.
+On ne voit tout ici qu'a  travers un cristal.
+Le mepris est un mot ; l'honneur une chimere ;			[85]
+L'innocence, un beau titre auquel on ne croit guere :
+La raison, un masque emprunte
+Pour cacher la difformite :
+La vertu, le talent de vendre sa defaire :
+Le sentiment, le fard d'une vieille coquette,			[90]
+Qui de ses yeux eteints veut bien donner avis :
+Et la fidelite, terme du vieux langage,
+Un droit fort incertain, vante par les maris ;
+Mais dont aucun encor n'a pu trouver l'usage.
+SCENE IV.
+DAINVAL.
+Quel fat ! Voila  pourtant nos hommes du bel air.			[95]
+Avec ce persiflage on se fait adorer. 
+SCENE V. Julie, Dainval.
+DAINVAL.
+Ah ! Vous voila , belle Julie !
+Rassurez un coeur incertain.
+JULIE.
+Que craignez-vous, Dainval ?
+DAINVAL.
+Excusez, mais enfin
+Il y va du bien de ma vie.			[100]
+Le Marquis vous voit tous les jours,
+Peut-etre est-il fait pour seduire.
+JULIE.
+Pouvez-vous me tenir un semblable discours,
+Et dans mes yeux ne savez-vous plus lire ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Les dehors les plus seduisants			[105]
+Ne touchent pas toujours une ame.
+Ce n'est que pour les curs constants
+Que l'Amour fait briller sa flamme.
+Je ne connais point l'art trompeur
+D'abuser l'Amant que j'engage ;			[110]
+Et je laisse parler mon cur.
+C'est mon plus cher langage. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Bannissez tout soupcon jaloux :
+Ne suis-je pas toujours la meme ?
+Pour moi, c'est un plaisir bien doux			[115]
+De vous dire que je vous aime.
+Mon bonheur serait assure
+Si je pouvais faire le votre.
+Le bonheur d'un objet aime
+Devient toujours le notre.			[120]
+SCENE VI. Julie, Marton, Dainval.
+MARTON entre en riant.
+Ah, ah.
+JULIE.
+Qu'avez-vous donc, Marton ?
+MARTON.
+Pardonnez ; mais je ris de Monsieur le Baron.
+Les grands airs a  la mode ont peu l'art de lui plaire.
+DAINVAL.
+Est-il de retour ?
+MARTON.
+Oui, vraiment.
+A faire grand tapage il s'occupe a  present.			[125]
+JULIE.
+Qui peut attirer sa colere ? 
+MARTON.
+Vous savez qu'il est surprenant
+A quel point la Baronne au Marquis s'interesse :
+Ce qu'il dit, ce qu'il fait, tout lui parait charmant.
+Monsieur n'a point la meme politesse.			[130]
+Madame, a  certains changements
+Que le Marquis nommait des embellissements,
+S'est pretee avec complaisance.
+Monsieur a peu goute toute cette elegance,
+Et d'abord en entrant s'est mis fort en courroux.			[135]
+SCENE VII. Marton, La Baronne, Julie, Le Baron, Dainval, Blaise.
+LE BARON, a  Blaise.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Maraud, je te rouerai de coups.
+BLAISE.
+Morgue, je n'y pouvais que faire.
+JULIE.
+Ah ! Mon pere,
+Que j'ai de joie a  vous revoir !
+LE BARON.
+Je vais t'apprendre ton devoir.			[140]
+DAINVAL.
+Baron, calmez votre colere.
+LA BARONNE.
+Eh ! mais, Monsieur, y pensez-vous ?
+LE BARON.
+Laissez-moi l'assommer de coups. 
+LA BARONNE.
+Continuez, Monsieur ; de votre humeur bourrue
+Faites sentir les traits a  toute la maison.			[145]
+LE BARON.
+Les femmes ont toujours raison.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu connais, mon ami, cette belle avenue
+Qui conduit a  mon bois par trois chemins egaux.
+Madame, sur l'avis d'un fat rempli d'audace,
+L'a fait jeter en bas, pour en faire une place			[150]
+Ou Monsieur a  present exerce ses chevaux.
+Ma maison aujourd'hui me parait etrangere.
+Ma basse-cour n'est plus qu'un manege a  present.
+Ma grange une remise, et d'un clos excellent
+On a pris la moitie pour en faire un parterre.			[155]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est ce coquin.
+BLAISE.
+C'etait bien malgre moi, Monsieur.
+Nous avions la  des choux d'une si bonne meine !
+Quand je les arrachais, ca me fendait le cur.
+LA BARONNE au Baron.
+On voudrait embellir votre triste domaine.
+Mais vous avez si peu de gout !			[160]
+LE BARON.
+Treve a  vos ornements. Pensons au necessaire.
+Corbleu, si l'on vous laissait faire,
+Nous pourrions avant peu manquer ici de tout.
+Je ne prends point, pour me conduire,
+L'avis d'un elegant si presse de detruire. 			[165]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dans ma maison
+Ce Petit-Maitre
+Pretend-il etre
+En droit de donner le ton ?
+Pour former des salles nouvelles ;			[170]
+Il fait abattre mes tourelles,
+Et changer mon pavillon.
+Ici tout est au pillage :
+Des valets insolents,
+Pour dresser leurs chevaux fringants,			[175]
+Sans penser au dommage,
+Courent a  travers champs,
+Et portent par-tout le ravage.
+Mes pres sont ecrases ;
+Mes bleds sont renverses.			[180]
+Morbleu, quatre tonnerres,
+Pousses par un vent orageux,
+Pour mes terres
+Seraient moins dangereux.
+LA BARONNE.
+Osez-vous regretter deux mauvaises tourelles,			[185]
+D'une antique chaumiere enseignes eternelles.
+Votre nouveau Chateau pourra vous faire honneur.
+Voulez-vous avoir l'air d'un campagnard stupide,
+De ses fosses bourbeux defenseur intrepide,
+Et de son pont-levis superbe admirateur ?			[190]
+LE BARON.
+Comment donc ! ce petit Monsieur,
+Que je ne connais point et ne connaitrai guere,
+Dans ces lieux adresse par ma folle de sur,
+Chez moi de prime abord fait le reformateur ; 
+Et pretend corriger une province entiere !....			[195]
+Mais j'entends des chevaux ; je pense que c'est lui.
+Je vais lui parler net, et je saurai lui dire
+Sans facon ma pensee.
+LA BARONNE.
+Et moi, je me retire.
+Je ne veux point rougir de votre air impoli.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE BARON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tant mieux. Toi, prends le soin d'observer aujourd'hui			[200]
+Ma fille, et le Marquis.
+BLAISE.
+Il suffit ; laissez faire,
+Je vous rendrai de tout un compte fort sincere.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Le Marquis, Dainval, Le Baron, Lepine.
+LE MARQUIS a  Lepine, en entrant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ces chevaux sont si vifs qu'on craint de les toucher.
+LE BARON, a  part.
+Il est avec son cocher.
+Il faut encor par deference			[205]
+Ne lui rien dire en sa presence.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, votre humble serviteur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mon ami, laissez-nous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Passez donc, je vous prie.
+LEPINE.
+Ah ! Monsieur.
+LE BARON.
+Sans ceremonie.
+LEPINE.
+Ah !
+LE BARON.
+Point de facons.			[210]
+LEPINE.
+Ah ! Monsieur.			[210]
+LE BARON regardant le Marquis qui rit de la meprise.
+Ce Cocher m'a tout l'air d'un insolent rieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Faites ainsi que moi, mettez-vous a  votre aise.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Laissez-nous donc.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voulez-vous une chaise ?
+DAINVAL.
+Vous vous trompez, Baron.
+LE BARON.
+Quoi ?
+DAINVAL.
+Voila  le Marquis.
+LE BARON.
+Le Marquis !
+DAINVAL.
+Oui, vraiment.			[215]
+LE MARQUIS.
+Cette erreur est divine !			[215]
+LE BARON, en montrant Lepine.
+Et ce Monsieur ?
+DAINVAL.
+Ce Monsieur, c'est Lepine,
+Un Valet.
+LE BARON.
+Un Valet ! Je me suis bien mepris.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Sous un tel attirail qui pourrait vous connaitre ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cet homme porte donc les habits de son maitre ?
+DAINVAL.
+Non. C'est le sien.
+LE BARON.
+Le sien !			[220]
+DAINVAL.
+C'est le gout d'a  present. 			[220]
+LE BARON.
+Je ne m'etonne plus s'il a l'air insolent.
+DAINVAL.
+La raison lutte en vain, la mode est la plus forte.
+LE MARQUIS.
+Tout vous surprend ici. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE BARON.
+Sans se rendre indiscret
+Peut on demander qui vous porte
+A vous masquer ainsi sous un dehors peu fait			[225]
+Pour un homme de votre sorte ?
+LE MARQUIS.
+Le plaisir.
+LE BARON.
+Le plaisir ?
+LE MARQUIS.
+Je viens dans le moment
+D'essayer six bidets, qui font un attelage
+A se mettre a  genoux devant.
+LE BARON.
+C'est donc un plaisir bien charmant			[230]
+Que de conduire un equipage ?
+LE MARQUIS.
+Un plaisir ! je dis plus, un devoir. A present
+Paraitre sur les Cours dans un diable elegant ;
+Tout droit, et sans appui, d'un air fier, avec grace,
+De cent detours nouveaux tracer le court espace,			[235]
+Moderer ses chevaux, les presser faiblement,
+Animer tout-a -coup leur fougue impatiente,
+Serrer le fantassin culbute d'epouvante,
+Dans un passage etroit courir rapidement,
+Pres d'un char renverse voltiger d'un air libre,			[240]
+Et malgre les cahots soutenir l'equilibre,
+D'un jeune homme eduque c'est le premier talent.
+LE BARON.
+J'apercois d'un coup d'il que ces gens que l'on cite,
+Qui dans Paris sont des heros,
+Doivent souvent tout leur merite			[245]
+A la vigueur de leurs chevaux.
+LE MARQUIS.
+J'ai connu longtemps, je vous jure,
+Une femme charmante, et d'un esprit divin,
+Qui pour Amant jamais ne voulut d'un Robin,
+Quoiqu'il fut tres-bien de figure :			[250]
+Mais il ne savait pas conduire une voiture,
+Et surtout il tenait ses guides et son fouet
+Comme une piece d'ecriture.
+LE BARON.
+Que m'importent les torts d'un petit freluquet ?
+Traitons ensemble un fait de plus grande importance.			[255]
+LE MARQUIS.
+Je veux vous montrer un chef-d'uvre d'elegance,
+Le plus joli diable chinois.
+LE BARON, impatiente.
+Ecoutez-vous les gens par fois ?
+Paris ne forme pas des tetes bien parfaites.
+Excusez, je suis franc, un Campagnard tout rond.			[260]
+LE MARQUIS.
+Je le vois bien, Monsieur. 
+LE BARON.
+Pour plaire a  des caillettes
+On immole a  l'eclat ses biens et sa raison.
+LE MARQUIS.
+Le seul homme du jour jouit de l'avantage
+De fixer tous les yeux.
+LE BARON.
+Le brillant apanage
+A troquer contre du bon sens !			[265]
+Nous savons en Province employer mieux le temps.
+LE MARQUIS.
+Dans le monde veut-on paraitre un personnage :
+Il faut par les dehors subjuguer les esprits,
+Prendre un ton decisif, l'afficher sans scrupule,
+Pour se faire admirer parcourir tout Paris,			[270]
+Sur chacun en passant jeter un ridicule,
+Au Spectacle du jour arriver a  grand bruit,
+Dans chaque loge entrer, quoiqu'on n'ait rien a  dire,
+N'y rester que le temps de montrer un habit,
+Au milieu des foyers ameuter la satyre,			[275]
+Tout haut sur l'escalier confier ses secrets,
+D'un ton impatient appeler ses valets,
+Annoncer en partant quelque reduit commode,
+Ou l'on voit tour a  tour les Beautes a  la mode ;
+Les jouer, les tromper toutes egalement,			[280]
+D'un changement heureux se reserver la gloire,
+D'un jaloux que l'on dupe eterniser l'histoire,
+Forger meme au besoin un triomphe saillant ;
+Le plaisir est un Dieu que la contrainte atterre.
+A de brillants succes l'aimable homme attendu,			[285]
+Doit chercher le grand jour, doit rougir de se taire.
+Il est aneanti, perdu,
+Si dans la foule une fois confondu
+On peut le forcer au mystere.
+LE BARON.
+Adieu, Monsieur. Je vois que vos gens merveilleux,			[290]
+S'ils etaient moins connus, en vaudraient beaucoup mieux.
+SCENE IX. Le Marquis, Dainval.
+LE MARQUIS.
+L'Aimable Seigneur ! ah ! j'enrage !
+Qu'on doit etre flatte de vivre en un village !
+On assure pourtant que, follement epris,
+Tu viens dans ce canton filer l'amour champetre.			[295]
+Je ne te croyais pas aussi dupe.
+DAINVAL.
+Marquis,
+S'attacher en ces lieux, c'est eviter de l'etre.
+Un objet raisonnable et des Graces cheri
+Apporte a  son epoux le bonheur de la vie.
+LE MARQUIS.
+Tu la prends donc un peu jolie ?			[300]
+DAINVAL.
+Elle est belle. 
+LE MARQUIS.
+Tant mieux.
+DAINVAL.
+Comment ? Tant mieux.
+LE MARQUIS.
+Eh ! oui.
+Abondance de bien est l'ame du commerce.
+DAINVAL.
+Propos d'avantageux dont la langue s'exerce.
+LE MARQUIS.
+Tu crois aux feux constants. Je ne te savais point
+Novice encore a  pareil point.			[305]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Badinons la tendresse,
+C'est le vrai moyen de jouir ;
+Le plaisir
+Toujours interesse.
+On rit des epoux amants :			[310]
+Toutes nos Belles
+Savent depuis long-temps
+Que l'Amour porte des ailes.
+DAINVAL.
+Je rends plus de justice a  ce sexe charmant.
+Du monde, en ces beaux jours, le premier ornement.			[315]
+La vertu, la douceur, forment son caractere,
+Et l'air decent pare encor sa beaute.
+La femme vertueuse, avec le don de plaire,
+Est un rayon de la Divinite.
+LE MARQUIS.
+Adieu.
+DAINVAL.
+Quoi donc ?			[320]
+LE MARQUIS.
+Je fuis, pour sauver ma defaite.			[320]
+Si je restais encor quelques instants,
+Tu me deciderais a  prendre une houlette.
+DAINVAL.
+Ne crains rien ; je ne puis demeurer plus longtemps.
+La Baronne parait. Je lui cede la place. 
+SCENE X. Le Baronne, Le Marquis.
+LA BARONNE.
+Marquis, irons-nous promener ?			[325]
+LE MARQUIS.
+Vous obeir, pour moi c'est une grace ;
+Et c'est a  vous, Madame, d'ordonner.
+LA BARONNE.
+Ferons-nous quelque visite ?
+LE MARQUIS.
+Comme il vous plaira. Mais...
+LA BARONNE.
+Ah ! Je vous en tiens quitte.
+Nos Campagnards ne sont pas amusants.			[330]
+LE MARQUIS.
+Pardonnez ; quelquefois ils sont assez plaisants.
+J'aime l'air affaire, les manieres discretes
+D'un conteur suranne, qui des vieilles gazettes
+Daigne dix fois par jour vous detailler les faits :
+Ou le feu d'un Chasseur qui vous dira l'histoire			[335]
+De ses levriers, de ses bassets,
+Et vous donnera le memoire
+De tous les exploits qu'ils ont faits.
+LA BARONNE.
+Il est charmant !
+LE MARQUIS.
+Surtout rien n'est plus admirable, 			[340]
+Que l'air et sublime et capable
+D'un Bel-esprit l'honneur du nom provincial,
+Par quelque logogriphe arrivant a  la gloire,
+Et se croyant inscrit au Temple de Memoire,
+Quand il est enterre dans un triste Journal.			[345]
+LA BARONNE.
+Et les femmes, Marquis ? J'en connois d'excellentes,
+D'insipides beautes, des graces nonchalantes :
+L'eternelle Clarice aux yeux tendres et doux,
+Qui veut a  quarante ans etre encor adoree ;
+Laure, qui vit tres-bien avec son cher epoux,			[350]
+Depuis qu'elle en est separee ;
+La precieuse Egle, qui dit
+Que les hommes bien faits sont toujours pleins d'esprit ;
+Et la bigote Artenice,
+De tous nos jeunes gens la bonne protectrice.			[355]
+Vous riez ! Il est vrai pourtant
+Qu'a  parler mal d'autrui, j'ai tres peu de penchant...
+Ah ! voici le Baron.
+LE MARQUIS.
+Souffrez que je vous quitte.
+Par amitie pour moi, sauvez-moi sa visite ;
+Je reviendrai bientot en habit plus decent. 			[360]
+SCENE XI. La Baronne, Le Baron.
+LE BARON.
+Il me fuit. Ah ! tant mieux ; je serais trop content
+S'il pouvait pour toujours eviter ma presence.
+A ma fille, surtout, il ne faut plus qu'il pense.
+En faveur d'un ami, je vais en disposer.
+LA BARONNE.
+Quoi ! Monsieur, dans l'instant que pret a  l'epouser...			[365]
+LE BARON.
+Pour relever son nom, s'il compte sur Julie,
+Il peut bien renoncer a  sa posterite :
+On pourrait a  bon droit me taxer de folie,
+Si j'acceptais pour gendre un pareil evente.
+LA BARONNE.
+Et moi, Monsieur, je vous declare			[370]
+Que ma fille jamais n'aura que le Marquis.
+LE BARON.
+Ah ! Ah ! Ce procede me parait neuf et rare.
+LA BARONNE.
+Le fait sera pourtant comme je vous le dis.
+LE BARON.
+Ne vous figurez pas que votre ton m'arrete.
+LA BARONNE.
+C'est ce que nous verrons.
+LE BARON.
+Corbleu, tout est tout vu. 			[375]
+LA BARONNE.
+Vous croyez donc, Monsieur, que je n'ai pas de tete ?
+LE BARON.
+Je ne me suis que trop du contraire appercu.
+SCENE XII. La Baronne, Blaise, La Baron.
+BLAISE.
+Monsieur, je vians charcher mon conge tout a  c't'heure.
+LE BARON.
+Pourquoi donc ?
+BLAISE.
+Y n'est pas moyen que je demeure :
+Votre Marquis me fait trop enrager.			[380]
+LA BARONNE.
+Que dit donc ce nigaud ?
+BLAISE.
+C'est bian pis qu'un parterre.
+Y va, si l'on le laisse faire,
+Ranvarser tout le potager.
+LE BARON.
+En voici bien d'un autre !
+BLAISE.
+Y s'est mis dans la tete
+Certain micmac auquel je n'entends rien, tout net ; 			[385]
+Il vient de m'assurer qu'il faut que je m'apprete
+A travailler demain afin d'en voir l'effet.
+J'aime mieux m'en aller.
+LE BARON.
+Quel est donc ce projet ?
+BLAISE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Morgue, pour moi c'est un grimoire :
+De mon esprit j'use eu vain les ressorts.			[390]
+Je ne sais ce que j'en dois croire ;
+Il faut qu'il ait le diable au corps.
+Il pretend que je lui donne
+Des peches dans le Printemps,
+Des cerises en Automne,			[395]
+Et des fraises en tout temps.
+J'ai beau lui faire entendre,
+Qu'il faut attendre
+La saison de chaque fruit :
+Il en rit.			[400]
+Quelque jour il mettra le jardin dans la cave.
+Le Soleil, selon son dicton,
+Pour murir n'est pas assez bon.
+Pour faire pousser une rave,
+Une asperge, un melon,			[405]
+Il ne lui faut que du charbon.
+Enfin tant est qu'il dit que les fruits de l'Automne
+Ne sont faits que pour un manant,
+Et que toute honnete personne
+Doit en manger six mois devant. 			[410]
+LE BARON, a  la Baronne.
+Vous voyez.
+LA BARONNE.
+Oui, je vois que le travail etonne
+Un lache, un paresseux.
+BLAISE.
+Pargue, suis-je sorcier ?
+SCENE XIII. La Baronne, Julie, Le Baron, Marton, Blaise.
+LE BARON.
+Approchez un instant, Julie....
+Ce soir avec Dainval vous devez etre unie.
+A recevoir sa main il faut vous disposer.			[415]
+LA BARONNE.
+Le Marquis est celui que mon cur vous destine.
+Il faut vous preparer, ma fille, a l'epouser.
+LE BARON.
+Pretendez vous, au gre de votre humeur mutine,
+Me conduire ?
+LA BARONNE.
+Selon vos vux extravagants,
+Avez-vous cru pouvoir me mener plus longtemps ? 			[420]
+LE BARON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Madame la Baronne.
+LA BARONNE.
+Monsieur le Baron.
+LE BARON ET LA BARONNE.
+Prenez-le sur un autre ton.
+LE BARON, a  Julie.
+Je vous ordonne
+D'epouser Dainval des ce soir.			[425]
+LA BARONNE.
+Je vous ordonne
+D'epouser le Marquis ce soir.
+LE BARON ET LA BARONNE.
+C'est ce qu'il faudra voir,
+JULIE.
+Ah ! Mon pere !
+LE BARON ET LA BARONNE.
+Ne me mettez point en colere,			[430]
+Je vous en ferais repentir.
+JULIE.
+Ah ! Ma mere !
+LE BARON ET LA BARONNE.
+C'est a  moi qu'il faut obeir. 
+SCENE XIV. Julie, Marton, Blaise.
+MARTON.
+Ah ! Voila  pour le coup du bien en abondance.
+Deux maris au lieu d'un ! Mais rien n'est plus heureux.			[435]
+JULIE.
+Ah ! Ne plaisante point ; je perds toute esperance.
+MARTON.
+Pour les mettre d'accord, epousez-les tous deux.
+JULIE.
+Il n'est qu'un seul moyen pour me tirer de peine ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Employons-le. Va-t-en.
+BLAISE, a  part.
+Ah ! Oui-da  ! Jarniguenne,
+De nous on se mefie ! Observons-les de loin,			[440]
+Allons nous mettre dans ce coin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MARTON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'Amour, a notre age,
+N'est qu'un vrai tourment.
+C'est pourtant grand dommage,
+Car il est bien charmant.			[445]
+Sitot quelle aime, une fillette
+A toujours lieu d'etre inquiete.
+Par les desirs,
+Par les soupirs,
+La pauvre enfant achete			[450]
+Fort souvent
+Le faux espoir d'un bon moment.
+L'Amour, etc.
+JULIE.
+Tiens, Marton ; au Marquis tu rendras cette lettre.
+MARTON.
+Le voici justement.
+JULIE.
+Paix. Ne la montre pas.			[455]
+Mais quand il sera seul, tu la lui remettras.
+SCENE XV. Le Marquis, Julie, Marton.
+LE MARQUIS.
+Peut-on vous interrompre, et voulez-vous permettre
+Qu'on vous fasse sa cour ?
+JULIE.
+Monsieur.
+LE MARQUIS.
+Eh ! Quoi ! Deja.
+Vous rougissez. Mais pourquoi donc cela ?
+Quittez ces manieres bourgeoises ;			[460]
+On ne rougit que dans le tiers-etat.
+Ces airs deconcertes, antiquites Gauloises,
+De deux beaux yeux eteignent tout l'eclat.
+Encor !... Depuis un mois que je vous gronde,
+Quand prendrez-vous le ton du monde ?			[465]
+JULIE.
+Ce monde, selon vous, est donc bien merveilleux ?
+LE MARQUIS.
+Certainement.
+JULIE.
+J'en connais peu l'usage.
+Je voudrais cependant que l'on put a  mes yeux,
+Sous des traits ressemblants en presenter l'image.
+LE MARQUIS.
+On peut vous satisfaire. Ah ! Passe pour cela :			[470]
+J'approuve fort ce desir-la .
+Vous devenez interessante. 
+JULIE.
+Des Dames de Paris la vie est si charmante,
+Si l'on en juge d'apres vous,
+Que je voudrais peser leur destin et le notre,			[475]
+Sans avoir pourtant lieu d'en souhaiter un autre :
+Le mien me parait assez doux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La Nature,
+Chez nous simple et pure,
+Meconnait tout art,			[480]
+Abjure le fard,
+Et fuit l'imposture.
+La Nature,
+Chez nous simple et pure,
+Sans reserve assure			[485]
+D'un tendre cur
+Le bonheur.
+Non, non, la vaine apparence,
+N'est pas un bien :
+On ne compte pour rien			[490]
+Tout l'eclat de l'opulence :
+Et l'on pense
+Que la felicite
+Est dans la verite.
+La Nature, etc.			[495]
+LE MARQUIS.
+Cette vie uniforme, entre nous, est peu faite
+Pour fixer les desirs ; mais daignez un instant
+M'ecouter, et bientot une lecon complete
+Saura vous mettre au fait des grands airs d'a present.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Les premiers moments d'une belle			[500]
+Sont dits au plaisir de se voir.
+La gaiete doit briller chez elle ;
+L'ennui fuit devant un miroir :
+A tout ce qu'alors on peut dire,
+Elle repond par un sourire :			[505]
+Femme qui sourit joliment,
+A de l'esprit infiniment.
+Des que la toilette est finie,
+On prend un air plus nonchalant.
+Quand on recoit la compagnie,			[510]
+On est malade absolument.
+Une petite maladie
+Sied toujours a femme jolie.
+Quelque mode, un petit chien,
+Font tous les frais de l'entretien.			[515]
+Dans le souper, vive et legere,
+Elle prend tous les tons pour plaire.
+Les liqueurs, dans tous les yeux,
+De l'Amour font passer les feux ;
+Les plus laides sont embellies :			[520]
+C'est l'instant des bonnes folies.
+On parle, on badine, on rit,
+On boit, on chante, et l'on medit.
+Le Bal enfin devient pour elle
+Le moment heureux du plaisir.			[525]
+Elle y parait toujours nouvelle,
+Et l'air mutin sait l'embellir.
+Partout sous le masque elle obsede,
+Raille, poursuit, lutine, excede ;
+Chacun fuit en l'admirant.			[530]
+Est-il un plaisir plus charmant ? 
+JULIE.
+De vos bontes, Monsieur, je suis reconnaissante.
+Je vous en remercie, et je sors tres contente.
+Rien ne m'a paru si plaisant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVI. Le Marquis, Marquis, Blaise.
+MARTON, au Marquis.
+Que dites-vous de son air d'innocence ?			[535]
+LE MARQUIS.
+C'est un enfant.
+MARTON, lui montrant le billet de Julie.
+Voici ce que cet enfant-la 
+M'a donne pour vous rendre.
+BLAISE, dans le fond.
+Ils sont d'intelligence.
+J'ons bian fait d'acouter.
+LE MARQUIS, prenant le Billet.
+Elle se formera.
+BLAISE.
+Appelons notre maitre ; il n'est pas loin, je pense.
+LE MARQUIS.
+Voyons ce que dit le Billet.			[540]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La Nature, Monsieur, vous forma tres aimable.
+Ah !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MARTON.
+Vous n'achevez pas.
+LE MARQUIS.
+Bon ! Bon ! Je suis au fait.
+MARTON.
+Vous en avez tant vu !... Il serait raisonnable...
+LE MARQUIS.
+Je ne finirais pas, si je les lisais tous.
+SCENE XVII. Le Marquis, Marton, sur le devant du Theatre, Le Baron, Blaise dans le fond.
+LE MARQUIS, a  Marton.
+Parlons de toi. Sais-tu que ta beaute m'etonne ?			[545]
+BLAISE, au Baron.
+Eh bien ! Morgue, qu'en dites-vous ?
+LE BARON.
+Cours vite chercher la Baronne.
+BLAISE.
+Je l'apercois.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE MARQUIS.
+Il faudra qu'avec nous
+Tu viennes a  Paris. Je te trouve jolie :
+Je t'y ferai bientot le destin le plus doux.			[550]
+MARTON.
+Au moment d'epouser Julie,
+Pouvez-vous me tenir un semblable discours ?
+LE MARQUIS.
+Va, va ; l'Hymen n'est plus l'ennemi des Amours.
+Mais laissons-la  ce badinage :
+Est-ce donc avec un Seigneur			[555]
+De ma figure et de mon age,
+Que l'on doit avoir de l'humeur ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVIII. Le Marquis, Marton, sur le devant du Theatre, Le Baron, La Baronne, Blaise, au fond.
+MARTON, au Marquis.
+Votre facon d'aimer est tout-a-fait commode ;
+Mais croyez-vous, Monsieur, qu'en suivant cette mode,
+Vous plairez a  Julie ainsi qu'a ses parents ?			[560]
+LE MARQUIS.
+De plaire a son epouse on a toujours le temps.
+Quant au Baron, que m'importe ?
+Un franc Provincial.
+LE BARON.
+Comment ! Morbleu.
+LA BARONNE.
+Paix donc.
+Faut-il, pour un seul mot, se cabrer de la sorte ?
+LE MARQUIS.
+Un campagnard epris de son petit canton,			[565]
+Ayant pour ses lapins une estime profonde,
+Et surtout admirant, d'un air toujours surpris,
+Le gout de son Chateau bati sous Charles-VI. 
+LE BARON.
+Je vais...
+LA BARONNE.
+Ecoutez donc ?
+LE MARQUIS.
+Sans usage du monde,
+Tout fier de sa recolte et par-tout etranger			[570]
+Hors de sa ferme et de son potager.
+LA BARONNE, arretant le Baron qui veut interrompre le Marquis.
+Doucement ; ce qu'il dit est assez veritable.
+LE MARQUIS.
+Pour sa chere moitie, qui veut faire l'aimable,
+C'est une folle.
+LE BARON.
+Ah ! Bon.
+LA BARONNE.
+Comment !
+LE BARON.
+Paix.
+LE MARQUIS.
+D'un souris
+La Belle quelquefois veut flatter ses amis ;			[575]
+Mais par malheur se trompe, et fait une grimace.
+LA BARONNE.
+Peut-on plus loin pousser l'audace ?
+LE BARON.
+A votre tour, parbleu.
+LE MARQUIS.
+Qui, d'un coup de pinceau,
+Pense sur ses voisins jeter un ridicule,
+Et ne s'apercoit pas, tant la Dame est credule,			[580]
+Qu'elle-meme devient le sujet du tableau. 
+LE BARON, arretant la Baronne qui veut interrompre le Marquis.
+Doucement ; ce qu'il dit est assez veritable.
+LE MARQUIS.
+Oh ! c'est un couple admirable !
+L'un est un bavard eternel ;
+L'autre, un esprit tortu.
+LA BARONNE.
+Sortez, Marton.			[585]
+MARTON.
+Ah ! Ciel !			[585]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE MARQUIS.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Ah ! Ah ! Ah !
+LE BARON.
+Vous nous peignez de la belle maniere.
+LE MARQUIS.
+Ah ! ah ! quoi ! vous etiez donc la  ?
+Rien n'est si plaisant que cela.
+LA BARONNE.
+Votre crayon ne flatte guere.			[590]
+BLAISE.
+Ah ! Vous n'aurez pas de chalands ;
+Vos portraits sont trop ressemblants.
+LE MARQUIS.
+Ah ! L'aventure est singuliere !
+LE BARON, LA BARONNE, BLAISE.
+Je pense encor qu'il en rira !
+LE MARQUIS.
+Rien n'est plaisant que cela. 			[595]
+SCENE XIX et derniere. Le Marquis, La Baronne, Le Baron, Julie, Dainval, Blaise.
+DAINVAL a  Julie en entrant.
+Laissez-moi lui parler. Il faut qu'on se decide.
+Vous m'arretez en vain et rien ne m'intimide.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Baron, vous connaissez les desirs de mon cur ;
+J'adore votre fille, et j'en fais mon bonheur.
+Mais toute incertitude est pour moi trop pesante ;			[600]
+Je n'en puis soutenir l'amertume accablante.
+Du Marquis ou de moi, choisissez a l'instant.
+LE MARQUIS.
+Tu deviens mon rival. Le trait est excellent !
+DAINVAL.
+J'ai cette audace.
+LE MARQUIS.
+Bon ! Pure plaisanterie !
+DAINVAL.
+Non. J'aime et c'est pour la vie.			[605]
+LE MARQUIS.
+Tant pis, et je te plains. 
+DAINVAL.
+Comment ?
+LE MARQUIS.
+Sans contredit.
+Prends ton parti, crois-moi ; quelque espoir qui te flatte.
+Tiens, lis, je te remets ton conge par ecrit.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DAINVAL.
+Ah ! Ciel ! Qui l'aurait cru ?
+LE BARON, a  Julie.
+Quoi ! Vous osez.....
+DAINVAL.
+Ingrate !
+Lisons : je veux assurer mon depit.			[610]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La Nature, Monsieur, vous forma tres aimable.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tres aimable !
+LE MARQUIS.
+Eh ! Mais oui.
+DAINVAL.
+Ce style est admirable ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Embellissez Paris, qui sans vous plairait moins.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Fort bien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Continuez a  lui donner vos soins.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De mieux en mieux.			[615]
+LE MARQUIS.
+Lis donc ?
+DAINVAL.
+Oui, oui.
+LE MARQUIS.
+Sois raisonnable.
+DAINVAL.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Continuez a  lui donner vos soins ;
+Mais de les partager je me sens incapable.
+Par des nuds plus chers a  mon cur
+En ces lieux mon ame est liee ;			[620]
+Et je vous devrai mon bonheur,
+Si de vous je suis oubliee.
+Ah ! Julie ! Ah ! Marquis, je te suis oblige.
+LA BARONNE, au Marquis.
+Vous nommez cela son conge.
+LE BARON.
+En termes clairs et nets ce billet-la  s'explique. 			[625]
+LE MARQUIS.
+Voila , sur ma parole, un tour charmant, unique !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu me connais altere J'ai tant vu de ces traits !
+Par humeur on ecrit ce qu'on dement apres.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Sans adieu, belle Dame. Au premier jour j'espere
+Recevoir de vos mains un billet plus sincere.			[630]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE BARON.
+Je lui conseille encor de faire le plaisant !
+LA BARONNE.
+Dainval, ma fille a su vous plaire.
+Avec plaisir a  l'aveu de son pere,
+Pour vous voir son epoux, je joins mon agrement.
+Un fat peut quelquefois nous seduire un moment ;			[635]
+Mais il n'obtient jamais un aveu legitime
+Et l'honnete homme seul a droit a notre estime. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'eclat est le moyen de plaire
+Dans ce siecle colifichet ; 
+La raison semble roturiere, 			[640]
+Et devant le faste se tait : 
+Un brillant, un leste equipage;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)D'un sot fait un grand personnage ; 
+Rien de vrai, beaucoup de clinquant ;
+Voi-la  les hommes d'a pre-sent.			[645]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA BARONNE.
+Le petit Marchand, le Dimanche,
+En cabriolet se fait voir.
+A rendre la peau fine et blanche
+Le Medecin met son savoir.
+Le Vieillard donne a  des Grisettes,			[650]
+Et l'homme a  talents fait des dettes.
+Rien de vrai, beaucoup de clinquant ;
+Voila  les hommes d'a  present.
+JULIE.
+Le joli Robin en epee
+Siffle la petite chanson.			[655]
+L'Abbe, droit comme une poupee,
+Chante a  son tour sur plus d'un ton.
+Tous deux s'annoncent sans mystere
+Pour les vrais heros de Cythere.
+Rien de vrai, beaucoup de clinquant,			[660]
+Voila  les hommes d'a  present.
+BLAISE.
+L'Avocat Babille babille ;
+L'homme de cour promet beaucoup ;
+Sans cesse le Savant compile :
+Le Journaliste ecrit sur tout.			[665]
+Par le credit brille un Notaire ;
+Un Juge par son secretaire.
+Rien de vrai, beaucoup de clinquant :
+Voila  les hommes d'a  present.
+
+	==================================================

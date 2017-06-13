@@ -1,0 +1,674 @@
+********************************************************
+	DC.Title                  = FELICIE, COMEDIE
+	DC.Author                 = MARIVAUX
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:22.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/MARIVAUX_FELICIE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+FELICIE COMEDIE en UN ACTE et en PROSEM. DCC. L.
+MARIVAUX
+	
+	publiee pour la premiere fois dans le Mercure de France de mars 1757.
+	Represente pour le premiere fois en 1750 au Theatre de la rue des Fosses Saint-Germain.
+	ACTEURS
+FELICIE.
+LUCIDOR.
+LA FEE, sous le nom d'Hortense.
+LA MODESTIE.
+DIANE.
+Troupe de chasseurs.
+[Le lieu de la scene n'est pas mentionne.]
+
+
+
+			
+
+
+SCENE I. Felicie, La Fee, sous le nom d'Hortense.
+FELICIE.
+Il faut avouer qu'il fait un beau jour. 
+HORTENSE.
+Aussi y a-t-il longtemps que nous nous promenons. 
+FELICIE.
+Aussi le plaisir d'etre avec vous, qui est toujours si grand pour moi, ne m'a-t-il jamais ete si sensible. 
+HORTENSE.
+Je crois, en effet, que vous m'aimez, Felicie. 
+FELICIE.
+Vous croyez, Madame ? Quoi ! N'est-ce que d'aujourd'hui que vous etes bien sure de cette verite-la, vous, avec qui je suis des mon enfance, vous, a qui je dois tout ce que je puis avoir d'estimable dans le coeur et dans l'esprit ! 
+HORTENSE.
+Il est vrai que vous avez toujours ete l'objet de mes complaisances ; et s'il vous reste encore quelque chose a desirer de mon pouvoir et de ma science, vous n'avez qu'a parler, Felicie ; je ne vous ai aujourd'hui menee ici que pour vous le dire. 
+FELICIE.
+Vos bontes m'ont-elles rien laisse a souhaiter ? 
+HORTENSE.
+N'y a-t-il point quelque vertu, quelque qualite dont je puisse encore vous douer ? 
+FELICIE.
+Il n'y en a point dont vous n'ayez voulu embellir mon ame. 
+HORTENSE.
+Vous avez bien de l'esprit, en demandez-vous encore ? 
+FELICIE.
+Je m'en fie a votre tendresse, elle m'en a sans doute donne tout ce qu'il m'en faut. 
+HORTENSE.
+Parcourez tous les avantages possibles, et voyez celui que je pourrais augmenter en vous, ou bien ajouter a ceux que vous avez : revez-y. 
+FELICIE.
+J'y reve, puisque vous me l'ordonnez, et jusqu'ici je ne vois rien ; car enfin, que demanderais-je ? Attendez pourtant, Madame ; des graces, par exemple, je n'y songeais point ; qu'en dites-vous ? Il me semble que je n'en ai pas assez. 
+HORTENSE.
+Des graces, Felicie ! Je m'en garderai bien ; la nature y a suffisamment pourvu ; et si je vous en donnais encore, vous en auriez trop ; je vous nuirais. 
+FELICIE.
+Ah, Madame ! ce n'est assurement que par bonte que vous le dites ? 
+HORTENSE.
+Non, je vous parle serieusement. 
+FELICIE.
+Je pense pourtant que je n'en serais que mieux, si j'en avais un peu plus. 
+HORTENSE.
+L'industrie de toutes vos reponses m'a fait deviner que vous en viendriez la. 
+FELICIE.
+Helas, Madame ! C'est de bonne foi ; si je savais mieux, je le dirais. 
+HORTENSE.
+Songez que c'est peut-etre de tous les dons le plus dangereux que vous choisissez, Felicie. 
+FELICIE.
+Dangereux, Madame ! Oh ! Que non : vous m'avez trop bien elevee ; il n'y a rien a craindre. 
+HORTENSE.
+Vous ne vous y arretez pourtant que par l'envie de plaire. 
+FELICIE.
+Mais, de plaire : non, ce n'est pas positivement cela ; c'est qu'on a l'amitie de tout le monde quand on est aimable, et l'amitie de tout le monde est utile et souhaitable. 
+HORTENSE.
+Oui, l'amitie, mais non pas l'amour de tout le monde. 
+FELICIE.
+Oh ! Pour celui-la, je n'y songe pas, je vous assure. 
+HORTENSE.
+Vous n'y songez pas, Felicie ? Regardez-moi ; vous rougissez : etes-vous sincere ? 
+FELICIE.
+Peut-etre que je ne le suis pas autant que je l'ai cru. 
+HORTENSE.
+N'importe : puisque vous le voulez, soyez aimable autant qu'on le peut etre. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FELICIE, tressaillant de joie.
+Ah!... Je vous suis bien obligee, Madame. 
+HORTENSE.
+Vous voila pourvue de toutes les graces imaginables. 
+FELICIE.
+J'en ai une reconnaissance infinie ; et apparemment qu'il y a bien du changement en moi, quoique je ne le voie pas. 
+HORTENSE.
+C'est-a-dire que vous voulez en etre sure. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tenez, regardez-vous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Comment vous trouvez-vous ? 
+FELICIE.
+Comblee de vos bontes ; vous n'y avez rien epargne. 
+HORTENSE.
+Vous vous en rejouissez ; je ne sais si vous ne devriez pas en etre inquiete. 
+FELICIE.
+Allez, Madame, vous n'aurez pas lieu de vous en repentir. 
+HORTENSE.
+Je l'espere ; mais a ce present que je viens de vous faire, j'y pretends joindre encore une chose. Vous allez dans le monde, je veux vous rendre heureuse ; et il faut pour cela que je connaisse parfaitement vos inclinations, afin de vous assurer le genre de bonheur qui vous sera le plus convenable. Voyez-vous cet endroit ou nous sommes ? C'est le monde meme. 
+FELICIE.
+Le monde ! et je croyais etre encore aupres de notre demeure. 
+HORTENSE.
+Vous n'en etes pas eloignee non plus ; mais ne vous embarrassez de rien : quoi qu'il en soit, votre coeur va trouver ici tout ce qui peut determiner son gout. 
+SCENE II. Felicie, Hortense, La Modestie.
+HORTENSE, a la Modestie, qui est a quelques pas.
+Vous, approchez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est une compagne que je vous laisse, Felicie ; elle porte le nom d'une de vos plus estimables qualites, la modestie, ou plutot la pudeur. 
+FELICIE.
+Je ne sais tout ce que cela signifie ; mais je la trouve charmante, et je serai ravie d'etre avec elle : nous ne nous quitterons donc point ? 
+HORTENSE.
+Votre union depend de vous ; gardez toujours cette qualite dont elle porte le nom, et vous serez toujours ensemble. 
+FELICIE, s'en allant a elle.
+Oh ! Vraiment ! Nous serons donc inseparables. 
+HORTENSE.
+Adieu, je vous laisse ; mais je ne vous abandonne point. 
+FELICIE.
+Votre retraite m'afflige. Que sais-je ce qui peut m'arriver ici ou je ne connais personne ? 
+HORTENSE.
+N'y craignez rien, vous dis-je ; c'est moi qui vous y protege. Adieu. 
+SCENE III. Felicie, La Modestie.
+FELICIE.
+Sur ce pied-la, soyons donc en repos, et parcourons ces lieux. Voila un canton qui me parait bien riant ; ma chere compagne, allons-y ; voyons ce que c'est. 
+LA MODESTIE.
+Non, j'y entends du bruit ; tournons plutot de l'autre cote ; je le crois plus sur pour vous. 
+FELICIE.
+Qu'appelez-vous plus sur ? 
+
+LA MODESTIE.
+Oui ; vous etes extremement jolie, et l'endroit ou vous voulez vous engager me parait un pays trop galant. 
+FELICIE.
+Eh bien ! Est-ce qu'on m'y fera un crime d'etre jolie, dans ce pays galant ? Ne sommes-nous ici que pour y visiter des deserts ? 
+
+LA MODESTIE.
+Non ; mais je prevois de l'autre cote les pieges qu'on y pourra tendre a votre coeur, et franchement, j'ai peur que nous ne nous y perdions. 
+FELICIE.
+Eh ! Comment l'entendez-vous donc, s'il vous plait, ma chere compagne ? Quoi ! Sous le pretexte qu'on est aimable, on n'osera pas se montrer ; il ne faudra rien voir, toujours s'enfuir, et ne s'occuper qu'a faire la sauvage ? La condition d'une jolie personne serait donc bien triste ! Oh ! Je ne crois point cela du tout ; il vaudrait mieux etre laide : je redemanderais la mediocrite des 	agrements que j'avais, si cela etait ; et a vous entendre dire, ce serait une vraie perte pour une fille que de perdre sa laideur ; ce serait lui rendre un tres mauvais service que de la rendre aimable, et on ne l'a jamais compris de cette maniere-la. 
+LA MODESTIE.
+Ecoutez, Felicie, ne vous y trompez pas ; les graces et la sagesse ont toujours eu de la peine a rester ensemble. 
+FELICIE.
+A la bonne heure : s'il n'y avait pas un peu de peine, il n'y aurait pas grand merite. A l'egard des pieges dont vous parlez, il me semble a moi qu'il n'est pas question de les fuir, mais d'apprendre a les mepriser ; et pourquoi ? Parce qu'ils sont inutiles pour qui les meprise, et qu'en les fuyant d'un cote, on peut les trouver d'un autre. Voila mes idees, que je crois bonnes. 
+LA MODESTIE.
+Elles sont hardies. 
+FELICIE.
+Toutes simples. Que peut-il m'arriver dans le canton que vous craignez tant ? Voyons ; si je plais, on m'y regardera, n'est-il pas vrai ? Supposons meme qu'on m'y parle. Eh bien ! qu'on m'y regarde, qu'on m'y parle, qu'on m'y fasse des compliments, si l'on veut, quel mal cela me fera-t-il ? Sont-ce la ces pieges si redoutables, qu'il faille renoncer au jour pour les eviter ? Me prenez-vous pour un enfant ? 
+LA MODESTIE.
+Vous avez trop de confiance, Felicie. 
+FELICIE.
+Et vous, bien des terreurs paniques, Modestie. 
+LA MODESTIE.
+Je suis timide, il est vrai ; c'est mon caractere. 
+FELICIE.
+Fort bien ; et moyennant ce caractere, nous voila donc condamnees a rester la : nos relations seront curieuses ! 
+LA MODESTIE.
+Je ne vous dis pas de rester la ; voyons toujours ce cote, il est plus tranquille. 
+FELICIE.
+Quelle antipathie avez-vous pour l'autre ? 
+LA MODESTIE.
+Quel degout vous prend-il pour celui-ci ? 
+FELICIE.
+C'est qu'il me rejouit moins la vue. 
+LA MODESTIE.
+Et moi, c'est que je fuis le danger que je soupconne ici. 
+FELICIE.
+Mais pour le fuir, il faut le voir. 
+LA MODESTIE.
+Il n'est quelquefois plus temps de le fuir, quand on l'a vu. 
+FELICIE.
+Encore une fois, pour fuir, il faut un objet ; on ne fuit point sans avoir peur de quelque chose, et je ne vois rien qui m'epouvante. 
+LA MODESTIE.
+Disons mieux ; vous avez des charmes, et vous voulez qu'on les voie. 
+FELICIE.
+Et parce que j'en ai, il faut que je les cache, il faut que l'obscurite soit mon partage ! Eh ! Que ne m'a-t-on dit que c'etait le plus grand malheur du monde que d'etre jolie, puisqu'il faut etre esclave des consequences de son visage ? Ne voyez-vous pas bien que la raison n'est point d'accord de cela ? 
+LA MODESTIE.
+Plus que vous ne croyez. 
+FELICIE.
+Je me suis donc etrangement trompee ; j'ai souhaite d'etre aimable, afin qu'on m'aimat des qu'on me verrait, ce qui est assurement tres innocent ; et il se trouverait que, selon vos chicanes, ce serait afin qu'on ne me vit jamais : en verite, je ne saurai gouter ce que vous me dites. 
+LA MODESTIE.
+Je n'insiste plus ; il en sera ce qui vous plaira. 
+FELICIE.
+Il en sera ce qui me plaira ! Ce n'est pas la repondre ; je veux que vous soyez de mon avis, des que j'ai raison. Puisque vous etes la Modestie, on est bien aise d'avoir votre approbation. 
+LA MODESTIE.
+Je vous ai dit ce que je pensais. 
+FELICIE.
+Allons, allons, je vois bien que vous vous rendez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais me trompe-je ? Entendez-vous la gaiete des sons qui partent de ce cote-la ? Nous nous y amuserons assurement ; il doit y avoir quelque agreable fete. Que cela est vif et touchant ! 
+LA MODESTIE.
+Vous ne le sentez que trop. 
+FELICIE.
+Pourquoi trop ? Est-ce qu'il n'est pas permis d'avoir du gout ? Allez-vous encore trembler la-dessus ? 
+LA MODESTIE.
+Le gout du plaisir et de la curiosite mene bien loin. 
+FELICIE.
+Parlez franchement ; c'est qu'on a tort d'avoir des yeux et des oreilles, n'est-ce pas ? Ah ! Que vous etes farouche ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ce que j'entends la me fait pourtant grand plaisir... Pretons-y un peu d'attention... Que cela est tendre et anime tout ensemble ! 
+LA MODESTIE.
+J'entends aussi du bruit de l'autre cote ; ecoutez, je crois qu'on y chante. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De la vertu suivez les lois, 
+Beautes qui de nos coeurs voulez fixer le choix. 
+Les attraits qu'elle eclaire en brillent davantage. 
+Est-il rien de plus enchanteur 
+Que de voir sur un beau visage 			[5]
+Et la jeunesse et la pudeur ? 
+LA MODESTIE.
+Ce que cette voix-la m'inspire ne m'effraie point, par exemple : elle a quelque chose de noble. 
+FELICIE.
+Oui, elle est belle, mais serieuse.
+SCENE IV. Felicie, La Modestie, Diane, dans l'eloignement.
+LA MODESTIE.
+C'est un charme different. Mais, que vois-je ? Tenez, Felicie : voyez-vous cette dame qui nous regarde d'une facon si riante, et qui semble nous inviter a venir a elle ? Qu'elle a l'air respectable ! 
+FELICIE.
+Cela est vrai, je lui trouve de la majeste. 
+LA MODESTIE.
+Elle sort de chez elle, apparemment ; voulez-vous l'aborder ? Je m'y rends volontiers. 
+FELICIE.
+N'allons pas si vite ; elle a quelque chose de grave qui m'arrete. 
+LA MODESTIE.
+Elle vous plait pourtant ? 
+FELICIE.
+Oui, je l'avoue. 
+LA MODESTIE.
+Allons donc, je crois qu'elle nous attend ; elle parait faire les avances. 
+FELICIE.
+J'aurais bien voulu voir ce qui se passe de l'autre cote. 
+SCENE V. Felicie, La Modestie, Diane, Lucidor, au fond du theatre.
+FELICIE.
+Mais voici bien autre chose ; regardez a votre tour, et voyez a gauche ce beau jeune homme qui vient de paraitre, accompagne de ces jolis chasseurs, et qui nous salue ; il ne nous epargne pas non plus les avances. 
+LA MODESTIE.
+Ne le regardons point, il m'inquiete ; allons plutot a cette dame. 
+FELICIE.
+Attendez. 
+LA MODESTIE.
+Elle avance. 
+DIANE.
+Voulez-vous bien que j'approche, mon aimable fille ? Peut-etre ne connaissez-vous pas ces lieux, et vous voyez l'envie que j'ai de vous y servir. Ne me refusez pas d'entrer chez moi ; je cheris la vertu, et vous y serez en surete. 
+FELICIE, la saluant.
+Je vous rends graces, Madame, et je verrai. 
+DIANE.
+Eh ! Pourquoi voir ? Votre jeunesse et vos charmes vous exposent ici ; n'hesitez point ; croyez-moi, suivez le conseil que je vous donne. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici un jeune homme qui vous distrait, et qui pourtant merite bien moins votre attention que moi. 
+FELICIE.
+J'en fais beaucoup a ce que vous me dites ; mais cela ne me dispense pas de le saluer, puisqu'il me salue. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DIANE.
+Encore des reverences ! 
+FELICIE.
+Vous voyez bien qu'il continue les siennes. 
+LA MODESTIE, a Diane.
+Emmenez-la, Madame, avant qu'il nous aborde. 
+FELICIE.
+Mais vous voulez donc que je sois malhonnete ? 
+LUCIDOR, approchant.
+Beaute celeste, je regne dans ces cantons ; j'ose assurer qu'ils sont les plus riants ; daignez les honorer de votre presence. 
+FELICIE.
+Je serais volontiers de cet avis-la, l'aspect m'en plait beaucoup. 
+DIANE, la prenant par la main.
+Commencez par les lieux que j'habite ; plus d'irresolution ; venez. 
+LUCIDOR, la prenant par l'autre main.
+Quoi ! L'on vous entraine, et vous me rejetez ! 
+FELICIE.
+Non, je vous l'avoue, il n'y a rien d'egal a l'embarras ou vous me mettez tous deux ; car je ne saurais prendre l'un que je ne laisse l'autre ; et le moyen d'etre partout ! 
+LA MODESTIE.
+Trop faible Felicie ! 
+FELICIE, a La Modestie.
+Oh ! Vraiment, je sais bien que vous n'y feriez pas tant de facons ; vous en parlez bien a votre aise. 
+LUCIDOR.
+Vous me haissez donc ? 
+FELICIE.
+Autre injustice. 
+DIANE.
+Je suis sure qu'il vous en coute pour me resister, et que votre coeur me regrette. 
+FELICIE.
+Eh ! Mais sans doute ; mais mon coeur ne sait ce qu'il veut, voila ce que c'est ; il ne choisit point ; tenez, il vous voudrait tous deux ; voyez, n'y aurait-il pas moyen de vous accorder ? 
+DIANE.
+Non, Felicie, cela ne se peut pas. 
+LUCIDOR.
+Pour moi, j'y consens : que Madame vous suive ou je vais vous mener, je ne l'en empeche pas ; ma douceur et ma bonne foi me rendent de meilleure composition qu'elle. 
+FELICIE.
+Eh bien ! Voila un accommodement qui me parait tres raisonnable, par exemple ; ne nous quittons point, allons ensemble. 
+LA MODESTIE, bas a Felicie.
+Ah ! Le fourbe ! 
+FELICIE, a part, les premiers mots.
+Vous en jugez mal, il n'a point cet air-la. Allons, Madame ; ayez cette complaisance-la pour moi, qui vous aime : considerez que je suis une jeune personne a qui l'age donne une petite curiosite pardonnable et sans consequence ; je vous en prie, ne me refusez pas. 
+DIANE.
+Non, Felicie ; vous ne savez pas ce que vous demandez ; son commerce et le mien sont incompatibles ; et quand je vous suivrais, j'aurais beau vous donner mes conseils, ils vous seraient inutiles. 
+LUCIDOR.
+Mille plaisirs innocents vous attendent ou nous allons. 
+FELICIE.
+Pour innocents, j'en suis persuadee ; il serait inutile de m'en proposer d'autres. 
+DIANE.
+Il vous dit qu'ils sont innocents, mais ils cessent bientot de l'etre. 
+FELICIE.
+Tant pis pour eux ; sauf a les laisser la, quand ils ne le seront plus. 
+DIANE.
+Je vous en promets, moi, de plus satisfaisants, quand vous les aurez un peu goutes, des plaisirs qui vont au profit de la vertu meme. 
+FELICIE.
+Je n'en doute pas un instant, j'en ai la meilleure opinion du monde, assurement, et je les aime d'avance ; je vous le dis de tout mon coeur. Mais prenons toujours ceux-ci qui se presentent, et qui sont permis ; voyons ce que c'est, et puis nous irons aux votres : est-ce que j'y renonce ? 
+DIANE.
+Ils vous oteront le gout des miens. 
+LA MODESTIE.
+Pour moi, je ne veux pas des siens ; prenez-y garde. 
+FELICIE.
+Oh ! Je sais toujours votre avis, a vous, sans que vous le disiez. 
+LUCIDOR.
+Quel ridicule entetement ! Je n'ai que vos bontes pour ressource. 
+DIANE.
+Pour la derniere fois, suivez-moi, ma fille. 
+FELICIE.
+Tenez, vous parlerai-je franchement ? Cette rigueur-la n'est point du tout persuasive, point du tout : austerite superflue que tout cela ; l'exces n'est point une sagesse, et je sais me conduire. 
+DIANE.
+Vous le preferez donc ? Adieu. 
+FELICIE, impatiemment.
+Ahi ! 
+LUCIDOR, a genoux.
+Au nom de tant de charmes, ne vous rendez point ; songez qu'il ne s'agit que d'une bagatelle. 
+FELICIE, a Lucidor.
+Oui, mais levez-vous donc ; ne faites rien qui lui donne raison. 
+LA MODESTIE.
+Cette dame s'en va. 
+LUCIDOR.
+Laissez-la aller ; vous la rejoindrez. 
+DIANE.
+Adieu, trop imprudente Felicie. 
+FELICIE.
+Bon, imprudente ! Je ne vous dis pas adieu, moi ; j'irai vous retrouver. 
+DIANE.
+Je ne l'espere pas. 
+FELICIE.
+Et moi, je le sais bien ; vous le verrez. 
+LA MODESTIE.
+Que vous m'alarmez ! Elle est partie ; il ne vous reste plus que moi, Felicie, et peut-etre nous separons-nous aussi. 
+SCENE VI. La Modestie, Felicie, Lucidor.
+FELICIE.
+A qui en avez-vous ? A qui en a-t-elle ? Dites-moi donc le crime que j'ai fait ; car je l'ignore ! De quoi s'est-elle fachee ? De quoi l'etes-vous ? Ou cela va-t-il ? 
+LUCIDOR.
+Si le plaisir qu'on sent a vous voir la chagrine, sa peine est sans remede, Felicie ; mais n'y songez plus, nous nous passerons bien d'elle. 
+FELICIE.
+Il est pourtant vrai que, sans vous, je l'aurais suivie, Seigneur. 
+LUCIDOR.
+Vous repentez-vous deja d'avoir bien voulu demeurer ? Que nous sommes differents l'un de l'autre ! Je ferais ma felicite d'etre toujours avec vous : oui, Felicie, vous etes les delices de mes yeux et de mon coeur. 
+FELICIE.
+A merveille ! Voila un langage qui vient fort a propos ! Courage ! Si vous continuez sur ce ton-la, je pourrai bien avoir tort d'etre ici. 
+LUCIDOR.
+Eh ! Qui pourrait condamner les sentiments que j'exprime ? Jamais l'amour offrit-il d'objet aussi charmant que vous l'etes ? Vos regards me penetrent ; ils sont des traits de flamme. 
+FELICIE, impatiente.
+Je vous dis que ces flammes-la vont encore effaroucher ma compagne. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LUCIDOR.
+Eh ! Quel autre discours voulez-vous que je vous tienne ? Vous ne m'inspirez que des transports, et je vous en parle ; vous me ravissez, et je m'ecrie ; vous m'embrasez du plus tendre et du plus invincible de tous les amours, et je soupire. 
+FELICIE.
+Ah ! Que j'ai mal fait de rester ! 
+LUCIDOR.
+O ciel ! Quel discours ! 
+LA MODESTIE.
+Vous voyez ce qui en est. 
+FELICIE, a La Modestie.
+Au moins, ne me quittez pas. 
+LA MODESTIE.
+Il est encore temps de vous retirer. 
+FELICIE.
+Oh ! Toujours temps ! Aussi n'y manquerai-je pas, s'il continue. Ah ! 
+LUCIDOR.
+De grace, adorable Felicie, expliquez-moi ce soupir ; a qui s'adresse-t-il ? Que signifie-t-il ? 
+FELICIE.
+Il signifie que je vais m'en retourner, et que vous n'etes pas raisonnable. 
+LA MODESTIE.
+Allons donc, sauvez-vous. 
+LUCIDOR.
+Non, vous ne vous en retournerez pas sitot ; vous n'aurez pas la cruaute de me dechirer le coeur. 
+FELICIE.
+En un mot, je ne veux pas que vous m'aimiez. 
+LUCIDOR.
+Donnez-moi donc la force de faire l'impossible. 
+FELICIE.
+L'impossible ! Et toujours des expressions tendres ! Eh bien ! Si vous m'aimez, ne me le dites point. 
+LUCIDOR.
+En quel endroit de la terre irez-vous, ou l'on ne vous le dise pas ? 
+FELICIE, a La Modestie.
+Je n'ai point de replique a cela ; mais je vous defie de me rien reprocher, car je me defends bien. 
+LUCIDOR.
+Content de vous voir, de vous aimer, je ne vous demande que de souffrir mes respects et ma tendresse. 
+FELICIE, face a La Modestie.
+Cela ne prend rien sur mon coeur ; ainsi, ne vous inquietez pas ; ce ne sera rien. 
+LA MODESTIE.
+Son respect vous trompe et vous seduit. 
+LUCIDOR, a la Modestie.
+Vous, qui l'accompagnez, d'ou vient que vous vous declarez mon ennemie ? 
+LA MODESTIE.
+C'est que je suis l'amie de la vertu.
+LUCIDOR, en baisant le main de Felicie.
+Et moi, je suis l'adorateur de la sienne. 
+LA MODESTIE, a Felicie.
+Et vous voyez qu'il l'attaque en l'adorant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je n'y tiens point non plus, Felicie.
+FELICIE, courant apres elle.
+Arretez, Modestie ! Seigneur, je vous declare que je ne veux point la perdre. 
+LUCIDOR.
+Elle devrait avoir nom Ferocite, et non pas Modestie. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Revenez, Madame, revenez ; je ne dirai plus rien qui vous deplaise et je me tairai. Mais, pendant mon silence, Felicie, permettez a ces jeunes chasseurs, que vous voyez epars, de vous marquer, a leur tour, la joie qu'ils ont de vous avoir rencontree ; ils me divertissent quelquefois moi-meme par leurs danses et par leurs chants : souffrez qu'ils essaient de vous amuser. La musique et la danse ne doivent effrayer personne.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'elle est reveche et bourrue ! 
+FELICIE, tout bas aussi.
+C'est ma compagne. 
+LUCIDOR.
+Asseyons-nous et ecoutons. 
+SCENE VII. Les acteurs precedents, troupe de Chasseurs.
+Les instruments preludent : on danse.
+Les instruments preludent : on danse.
+Un Chasseur 
+Amis, laissons en paix les hotes de ces bois ; 
+La beaute que je vois 
+Doit nous fixer sous cet ombrage. 
+Venez, venez, suivez mes pas : 			[10]
+Par un juste et fidele hommage, 
+Meritons le bonheur d'admirer tant d'appas. 
+LUCIDOR.
+Vous interessez tous les coeurs, Felicie. 
+FELICIE.
+N'interrompez point. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LUCIDOR, ensuite, dit.
+Ils n'auront pas seuls l'honneur de vous amuser, et je pretends y avoir part. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De vos beaux yeux le charme inevitable 
+Me fait bruler de la plus vive ardeur : 
+Plus que Diane redoutable, 			[15]
+Sans fleches ni carquois, vous irez droit au coeur. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Felicie, Lucidor, La Modestie.
+FELICIE.
+Toujours de l'amour, vous ne vous corrigez point. 
+LUCIDOR.
+Et vous, toujours de nouveaux charmes ; ils ne finissent point. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FELICIE.
+Laissez la ma main, elle n'est pas de la conversation. 
+LUCIDOR.
+Mon coeur voudrait pourtant bien en avoir une avec elle. 
+FELICIE, voulant retirer sa main.
+Et moi, je ne veux point.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh bien, encore ! Ne vous l'avais-je pas defendu ? Cela nous brouillera, vous dis-je, cela nous brouillera. 
+LA MODESTIE.
+Vous me donnez mon conge, Felicie. 
+FELICIE.
+Vous voyez bien que je me fache, afin qu'il n'y revienne plus : qu'avez-vous a dire ? 
+LUCIDOR, impatient.
+L'insupportable fille ! 
+FELICIE, a La Modestie.
+Il est vrai que vous vous scandalisez de trop peu de chose. 
+LUCIDOR, avec depit.
+Ma tendresse ne vous fatiguerait pas tant sans elle. 
+FELICIE.
+Oh ! Si votre coeur n'a pas besoin d'elle, le mien n'est pas de meme, entendez-vous ? 
+LUCIDOR.
+Eh ! Quel besoin le votre en a-t-il ? Dites-moi le moindre mot consolant. 
+FELICIE.
+Je suis bien heureuse qu'elle me gene. 
+LUCIDOR.
+Achevez. 
+FELICIE, a la Modestie, bas.
+Si je lui disais, pour m'en defaire, que je suis un peu sensible, le trouveriez-vous mauvais ? Il n'en sera pas plus avance. 
+LA MODESTIE.
+Gardez-vous-en bien ; je ne soutiendrai pas ce discours-la. 
+FELICIE, a Lucidor.
+Passez-vous donc de ma reponse. 
+LUCIDOR.
+Si elle s'ecartait un moment, comme elle le pourrait, sans s'eloigner, quel inconvenient y aurait-il ? 
+FELICIE, a la Modestie.
+Ce jeune homme vous impatiente : promenez-vous un instant sans me quitter ; je tacherai d'abreger la conversation. 
+LA MODESTIE.
+Helas ! Si je m'ecarte, je ne reviendrai peut-etre plus. 
+FELICIE.
+Je ne vous propose pas de vous en aller, je ne veux pas seulement vous perdre de vue, et ce que j'en dis n'est que pour vous epargner son importunite. 
+LA MODESTIE.
+Puisque vous m'y forcez, vous voila seule.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je me retire, mais je ne la quitte pas. 
+SCENE IX. Lucidor, Felicie.
+LUCIDOR.
+Ah ! Je respire. 
+FELICIE.
+Et moi, je suis honteuse. 
+LUCIDOR.
+Non, Felicie, ne troublez point un si doux moment par de chagrinantes reflexions ; vous voila libre, et vous m'avez promis de vous expliquer ; je vous adore, commencez par me dire que vous le voulez bien. 
+FELICIE.
+Oh ! Pour ce commencement-la, il n'est pas difficile : oui, j'y consens ; quand je ne le voudrais pas, il n'en serait ni plus ni moins, ainsi, il vaut autant vous le permettre. 
+LUCIDOR.
+Ce n'est pas encore assez. 
+FELICIE.
+Surtout, reglez vos demandes. 
+LUCIDOR.
+Je n'en ferai que de legitimes ; je vous aime, y repondez-vous ? votre compagne n'y est plus. 
+FELICIE.
+Oui ; mais j'y suis, moi. 
+LUCIDOR.
+Vous avez trop de bonte pour me tenir si longtemps inquiet de mon sort, et vous ne l'avez eloignee que pour m'en eclaircir. 
+FELICIE.
+J'avoue que, si elle y etait, je n'oserais jamais vous dire le plaisir que j'ai a vous voir. 
+LUCIDOR.
+Je suis donc un peu aime ? 
+FELICIE.
+Presque autant qu'aimable. 
+LUCIDOR, charme.
+Vous m'aimez ? 
+FELICIE.
+Je vous aime, et j'avais grande envie de vous le dire ; rappelons ma compagne. 
+LUCIDOR.
+Pas encore. 
+FELICIE.
+Comment, pas encore ? Je vous aime, mais voila tout. 
+LUCIDOR.
+Attendez ce qui me reste a vous dire, il n'en sera que ce que vous voudrez. 
+FELICIE.
+Oui, oui, que ce que je voudrai ! Je n'ai pourtant fait jusqu'ici que ce que vous avez voulu. 
+LUCIDOR.
+Ecoutez-moi, charmante Felicie, n'est-ce pas toujours a la personne que l'on aime qu'il faut se marier ? 
+FELICIE.
+Qui est-ce qui a jamais doute de cela ? 
+LUCIDOR.
+Et pour qui se marie-t-on ? 
+FELICIE.
+Pour soi-meme, assurement. 
+LUCIDOR.
+On est donc, a cet egard-la, les maitres de sa destinee ? 
+FELICIE.
+Avec l'avis de ses parents, pourtant. 
+LUCIDOR.
+Souvent ces parents, en disposant de nous, ne s'embarrassent guere de nos coeurs. 
+FELICIE.
+Vous avez raison. 
+LUCIDOR.
+Trouvez-vous qu'ils ont tort ? 
+FELICIE.
+Un tres grand tort. 
+LUCIDOR.
+M'en croirez-vous ? Prevenons celui que nos parents pourraient avoir avec nous. Les miens me cherissent, et seront bientot apaises : assurons-nous d'une union eternelle autant que legitime ; on peut nous marier ici, et quand nous serons epoux, il faudra bien qu'ils y consentent. 
+FELICIE.
+Ah ! vous me faites fremir, et par bonheur ma compagne n'est qu'a deux pas d'ici. 
+LUCIDOR.
+Quoi ! Vous fremissez de songer que je serais votre epoux ? 
+FELICIE.
+Mon epoux, Lucidor ! Voulez-vous que mon coeur soit la dupe de ce mot-la ! Vous devriez craindre vous-meme de me persuader. N'est-il pas de votre interet que je sois estimable ? Et l'estime que je merite encore, que deviendrait-elle ? Vous permettre de m'aimer, vous l'entendre dire, vous aimer moi-meme, a la bonne heure, passe pour cela ; s'il y entre de la faiblesse, elle est excusable ; on peut etre tendre et pourtant vertueuse ; mais vous me proposez d'etre insensee, d'etre extravagante, d'etre meprisable ; oh ! Je suis fachee contre vous ; je ne vous reconnais point a ce trait-la. 
+LUCIDOR.
+Vous parlez de vertu, Felicie, les dieux me sont temoins que je suis aussi jaloux de la votre que vous meme, et que je ne songe qu'a rendre notre separation impossible. 
+FELICIE.
+Et moi, je vous dis, Lucidor, que c'est la rendre immanquable : non, non, n'en parlons plus ; je ne me rendrai jamais a cela ; tout ce que je puis faire, c'est de vous pardonner de me l'avoir dit. 
+LUCIDOR, a genoux.
+Felicie, vous defiez-vous de moi ? Ma probite vous est-elle suspecte ? Ma douleur et mes larmes n'obtiendront-elles rien ? 
+FELICIE.
+Quel malheur que d'aimer ! Qu'on me l'avait bien dit, et que je merite bien ce qui m'arrive ! 
+LUCIDOR.
+Vous me croyez donc un perfide ? 
+FELICIE.
+Je ne crois rien, je pleure. « Adieu, trop imprudente Felicie », me disait cette dame en partant : oh ! Que cela est vrai ! 
+LUCIDOR.
+Pouvez-vous abandonner notre amour au hasard ? 
+FELICIE.
+Se marier de son chef, sans consulter qui que ce soit au monde, sans temoin de ma part, car je ne connais personne ici ; quel mariage ! 
+LUCIDOR.
+Les temoins les plus sacres ne sont-ils pas votre coeur et le mien ? 
+FELICIE.
+Oh ! Pour nos coeurs, ne m'en parlez pas, je ne m'y fierai plus, ils m'ont trompee tous deux. 
+LUCIDOR.
+Vous ne voulez donc point m'epouser ? 
+FELICIE.
+Des aujourd'hui, si on le veut ; et si on ne l'approuve pas, je l'approuverai, moi. 
+LUCIDOR.
+Eh ! Pensez-vous qu'on vous en laisse la liberte ? 
+FELICIE.
+Par pitie pour moi, demeurons raisonnables. 
+LUCIDOR.
+Je mourrai donc, puisque vous me condamnez a mourir. 
+FELICIE.
+Lucidor, ce mariage-la ne reussira pas. 
+LUCIDOR.
+Notre sort n'est assure que par la. 
+FELICIE.
+Helas ! Je suis donc sans secours. 
+LUCIDOR.
+Qui est-ce qui s'interesse a vous plus que moi ? 
+FELICIE.
+Eh bien ! Puisqu'il le faut, donnez-moi, de grace, un quart d'heure pour me resoudre ; mon esprit est tout en desordre ; je ne sais ou je suis, laissez-moi me reconnaitre, n'arrachez rien au trouble ou je me sens, et fiez-vous a mon amour ; il aura plus de soin de vous que de moi-meme. 
+LUCIDOR.
+Ah ! Je suis perdu ; votre compagne reviendra, vous la rappellerez. 
+FELICIE.
+Non, cher Lucidor ; je vous promets de n'avoir a faire qu'a mon coeur, et vous n'aurez que lui pour juge.Laissez-moi, vous reviendrez me trouver. 
+LUCIDOR.
+J'obeis ; mais sauvez-moi la vie, voila tout ce que je puis vous dire. 
+SCENE X. Felicie, La Modestie, qui parait et se tient loin.
+FELICIE, se croyant seule.
+Ah ! Que suis-je devenue ? 
+LA MODESTIE, de loin.
+Me voila, Felicie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ne m'appelez-vous pas ? 
+FELICIE.
+Je n'en sais rien. 
+LA MODESTIE.
+Voulez-vous que je vienne ? 
+FELICIE.
+Je n'en sais rien non plus. 
+LA MODESTIE.
+Que vous etes a plaindre ! 
+FELICIE.
+Infiniment. 
+LA MODESTIE.
+Je vous parle de trop loin ; si je me rapprochais, vous seriez plus forte. 
+FELICIE.
+Plus forte ! Je n'ai pas le courage de vouloir l'etre. 
+LA MODESTIE.
+Tachez d'ouvrir les yeux sur votre etat. 
+FELICIE.
+Je ne saurais ; je soupire de mon etat, et je l'aime ; de peur d'en sortir, je ne veux pas le connaitre. 
+LA MODESTIE.
+Servez-vous de votre raison. 
+FELICIE.
+Elle me guerirait de mon amour. 
+LA MODESTIE.
+Ah ! Tant mieux, Felicie. 
+FELICIE.
+Et mon amour m'est cher.
+SCENE XI. Diane parait, La Modestie, Felicie.
+LA MODESTIE.
+Voici cette dame qui vous sollicitait tantot de la suivre, et qui parait ; vous vous detournez pour ne la point voir. 
+FELICIE.
+Je l'estime, mais je n'ai rien a lui dire, et je crains qu'elle ne me parle. 
+LA MODESTIE, a Diane.
+Pressez-la, Madame ; vos discours la rameneront peut-etre. 
+DIANE.
+Non, des qu'elle ne veut pas de vous, qui devez etre sa plus intime amie, elle n'est pas en etat de m'entendre. 
+LA MODESTIE.
+Cependant elle nous regrette. 
+DIANE.
+L'infortunee n'a pas moins resolu de se perdre. 
+FELICIE.
+Non, je ne risque rien : Lucidor est plein d'honneur, il m'aime ; je sens que je ne vivrais pas sans lui ; on me le refuserait peut-etre, je l'epouse ; il est question d'un mariage qu'il me propose avec toute la tendresse imaginable, et sans lequel je sens que je ne puis etre heureuse : ai-je tort de vouloir l'etre ? 
+DIANE, toujours de loin.
+Fille infortunee, croyez-en nos conseils et nos alarmes. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Fuyez, le voici qui revient ; mais rien ne la touche.Adieu encore une fois, Felicie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FELICIE.
+Quelle obstination ! Est-ce qu'il est defendu, dans le monde, de faire son bonheur ? 
+SCENE XII. Lucidor, Felicie.
+LUCIDOR.
+Je vous revois donc, delices de mon coeur ! Eh bien ! Le votre me rend-il justice ? En est-ce fait ? Notre union sera-t-elle eternelle ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous pleurez, ce me semble ? Est-ce mon retour qui cause vos pleurs ? 
+FELICIE, pleurant.
+Helas ! Elles me quittent, elles disparaissent toujours a votre aspect, et je ne sais pourquoi. 
+LUCIDOR.
+Qui ? Cette sombre compagne appelee Modestie ? Cette autre dame qui desapprouve que vous veniez dans nos cantons, quand j'offre d'aller avec vous dans les siens ? Et ce sont deux aussi reveches, deux aussi impraticables personnes que celles-la, deux sauvages d'une defiance aussi ridicule, que vous regrettez ! Ce sont elles dont le depart excite vos pleurs au moment ou j'arrive, penetre de l'amour le plus tendre et le plus inviolable, avec l'esperance de l'hymen le plus fortune qui sera jamais ! Ah ciel ! Est-ce ainsi que vous traitez, que vous recevez un amant qui vous adore, un epoux qui va faire sa felicite de la votre, et qui ne veut respirer que par vous et pour vous ? Allons, Felicie, n'hesitez plus ; venez, tout est pret pour nous unir ; la chaine du plaisir et du bonheur nous attend. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Venez me donner une main cherie, que je ne puis toucher sans ravissement. 
+FELICIE.
+De grace, Lucidor, du moins rappelons-les, et qu'elles nous suivent. 
+LUCIDOR.
+Eh ! De qui parlez-vous encore ? 
+FELICIE.
+Helas ! De ma compagne et de l'autre dame. 
+LUCIDOR.
+Elles haissent notre amour, vous ne l'ignorez pas ; venez, vous dis-je ; votre injuste resistance me desespere ; partons. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FELICIE.
+O ciel ! Vous m'entrainez ! Ou suis-je ? Que vais-je devenir ? Mon trouble, leur absence et mon amour m'epouvantent : rappelons-les, qu'elles reviennent. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Chere Modestie, chere compagne, ou etes-vous ? Ou sont-elles ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIII. Tous les acteurs precedents.
+LA FEE.
+Amant dangereux et trompeur, ennemi de la vertu, perfides impressions de l'amour, effacez-vous de son coeur, et disparaissez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FELICIE.
+Ah ! Madame, ah ! Ma protectrice ! Que je vous ai d'obligation. Vous me pardonnez donc ? Je vous retrouve ; que je suis heureuse ! Et qu'il est doux de me revoir entre vos bras ! 
+LA FEE.
+Felicie, vous etes instruite ; je ne vous ai pas perdue de vue, et vous avez merite notre secours, des que vous avez eu la force de l'implorer. 
+
+	==================================================

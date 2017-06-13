@@ -1,0 +1,910 @@
+********************************************************
+	DC.Title                  = LES AMOURS D'ALCIPPE ET DE CEPHISE, LA COCUE IMAGINAIRE, COMEDIE
+	DC.Author                 = DONNEAU DE VISE, Jean
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 02/06/2016 a 19:05:34.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/DONNEAUDEVISE_COCUEIMAGINAIRE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LES AMOURS D'ALCIPPE ET DE CEPHISE LA COCUE IMAGINAIRECOMEDIEM. DC. LX AVEC PRIVILEGE DU ROI.
+
+	A PARIS, Chez JEAN RIBOU, sur le Quai des Augustins, a l'Image a Saint Louis.
+	Acheve d'imprimer le 14 Aout 1660.
+	Represente pour la premiere fois en 1660 a l'Hotel de Bourgogne.
+	MADEMOISELLE,
+Avouez la verite, n'est-il pas vrai que ce nom vous embarrasse ? Et qu'apres l'avoir lu, vous vous etes arretee tout court, pour songer quelle peut etre cette HENRIETTE ? Mais n'y revez pas davantage, et si vous avez eu quelque soupcon que ce fut vous, demeurez dans cette pensee, et ne vous amusez point a repasser dans votre esprit toutes les HENRIETTES que vous connaissez ; puisque je ne pretends parler qu'a vous. Mais d'ou vient que vous faites encore une pause ? Apres que j'ai eclairci votre trouble ? Ah ! j'en devine facilement le sujet ! Vous etes surprise sans doute, et vous ne vous attendiez pas qu'une personne a qui le sang vous lie, vous dediat un Livre ; puisque c'est une chose que l'on voit arriver rarement, et que pour l'ordinaire, quelques eminentes qualites qu'aient nos parents, nous ne les croyons pas au dessus de nous, a cause que la nature semble ne les avoir faits que pour etre nos egaux. Mais vous devez savoir, que quand une fois on a pris de l'amitie pour eux, l'amitie jointe au sang a beaucoup plus de chaleur, et devient si puissante, qu'il n'est rien qu'elle ne nous fit entreprendre pour leur en donner des preuves : Je m'imagine toutefois, que cette surprise dont je vous viens de dire le sujet, ne vous fait pas rester seule dans la lecture de cette Piece ; et qu'apres avoir connu que c'est a vous que je parle, votre modestie ne le souffre qu'a peine, et que sachant que je sais particulierement les belles qualites qui vous rendent recommandable, vous craignez que je ne les expose au public ; mais n'en ayez point de peur, je ne parlerai que de celles que vous n'avez pu derober aux yeux de tous ceux qui vous connaissent ; c'est pourquoi je dis, sans qu'on me puisse accuser de flatterie, que jamais personne de votre age, et de votre sexe, ne jugea mieux que vous des beautes d'un Ouvrage, vous en savez connaitre et le faible et le fort, et vous le faites voir avec tant de grace, et d'une maniere si obligeante, qu'il est impossible de s'en facher, et de vous accuser d'etre Precieuse. La conversation vous plait infiniment ; ce qui suffit pour prouver que vous avez de l'esprit, mais que c'est l'ecueil de tous ceux qui n'en ont pas, et que quiconque la fuit, ou ne s'y divertit point, fait assez juger de la sterilite de son esprit. Je vois bien que vous ne voulez pas que je parle plus longtemps du votre, et comme je pretends vous satisfaire, je n'en parlerai pas davantage, a condition que vous me permettrez de dire, que vous etes la personne du monde la plus genereuse, et qui obligez de la meilleure grace : que l'amour que vous portez a ceux de votre sang est si puissant, que leur satisfaction vous fait mepriser votre propre interet ; c'est pourquoi l'on ne doit pas s'etonner si je vous proteste publiquement, que je suis et serai toute ma vie, MADEMOISELLE, Votre tres affectionne, 
+F. D. 
+
+AU LECTEUR.
+Depuis que la Comedie est devenue illustre par les soins de l'Eminentissime Cardinal Duc de Richelieu, nous n'avons point vu d'Auteur qui ait plus excelle dans les pieces Comiques, que le fameux Monsieur de Moliere. Son Etourdi, son Depit amoureux, ses Precieuses Ridicules, et son Cocu Imaginaire, sont plus que suffisants pour prouver cette verite ; puisque la Cour les a non seulement approuvees, mais encore le peuple, qui dans Paris sait parfaitement bien juger de ces sortes d'ouvrages. Quelques applaudissements toutefois que l'on ait donnes aux deux premieres de ces Pieces, la troisieme a beaucoup plus d'eclat qu'elles n'ont fait toutes deux ensemble, puisqu'elle a passe pour l'ouvrage le plus charmant, et le plus delicat qui a jamais paru au Theatre. L'on est venu a Paris de vingt lieues a la ronde, afin d'en avoir le divertissement ; il n'etait fils de bonne mere, qui lorsque l'on la jouait ne s'empressa pour la voir des premiers, et ceux qui font profession de galanterie, et qui n'avaient pas vu representer les Precieuses, d'abord qu'elles commencerent a faire parler d'elles, n'osaient l'avouer sans rougir : cette Piece enfin a tant fait de bruit, que les ennemis meme de Monsieur de Moliere, ont ete contraints de publier ses louanges ; mais non pas sans faire connaitre par leurs discours, qu'ils ne le faisaient que de peur de passer pour ridicules. Les uns disaient que veritablement, la Piece etait belle, mais que le jeu faisait une grande partie de sa beaute. Les autres ajoutaient, que la rencontre du temps ou l'on parlait fort des Precieuses aidait a la faire reussir, et qu'indubitablement ses Pieces n'auraient pas toujours de pareils succes, quand le temps ne les favoriserait pas, mais ce que ce fameux Auteur a fait depuis, a bien fait voir, que loin d'avoir tire quelque avantage de la rencontre des Precieuses, il a fait parler d'elles a ceux qui ne les connaissaient pas ; puisque (de la maniere dont il l'a traitee) il a donne de l'eclat a une chose qui etait dans l'obscurite, et dont l'on ne parlait que dans certaines ruelles : j'ose meme avancer pour sa gloire, que les Precieuses, qui sont dans sa piece appelees de ce nom, n'en font pas toute la beaute, et que le caractere du Marquis de Mascarille, qui est de son invention, puisqu'il ne tient rien du Precieux, est une des choses la plus ingenieuse qui ait jamais paru au Theatre, et la plus spirituelle de sa Piece. Mais voyons si le pronostique de ces Messieurs, (qui disaient que Monsieur de Moliere ne pouvait plus faire de Pieces qui eussent tant de succes que ces Precieuses) est veritable et si le Cocu Imaginaire, qu'il a fait ensuite, n'a pas eu tous les applaudissements qu'il en pouvait attendre ; puisqu'a moins que l'on ne veuille dire la meme chose de tous ces ouvrages, que l'on ne le veuille accuser d'avoir de l'esprit, et de savoir choisir ce qui plait, l'on ne lui saurait objecter que le sujet est du temps et que c'est ce qui le fait reussir. Cependant cette Piece a ete jouee, non seulement en plein ete, ou pour l'ordinaire chacun quitte Paris, pour s'aller divertir a la Campagne ; mais encore dans le temps du Mariage du Roi, ou la curiosite avait attire tout ce qu'il y a de gens de qualite en cette Ville : elle n'en a toutefois moins reussi, et quoi que Paris fut ce semble desert, il s'y est neanmoins encor trouve assez de personnes de condition pour remplir plus de quarante fois les loges et le Theatre du Petit-Bourbon, et assez de bourgeois pour remplir autant de fois le parterre. Jugez quelle reussite cette Piece aurait eue, si elle avait ete jouee dans un temps plus favorable, et si la Cour avait ete a Paris. Elle aurait sans doute ete plus admiree que les Precieuses, puisque encore que le temps lui fut contraire, l'on doute qu'elle n'a pas eu autant de succes. Jamais on ne vit de sujet mieux conduit, jamais rien de si bien fonde que la jalousie de Sganarelle, et jamais rien de si spirituel que ses vers ; c'est pourquoi presque tout Paris a souhaite de voir ce qu'une femme pourrait dire, a qui il arriverait la meme chose qu'a Sganarelle, et si elle aurait tant de sujet de se plaindre, quand son mari lui manque de foi, que lui quand elle lui est infidele. C'est ce qui m'a fait faire cette Piece qui servira de regard au Cocu Imaginaire, puisque dans l'une, on verra les plaintes d'un homme qui croit que sa femme lui manque de foi, et dans l'autre celles d'une femme qui croit avoir un mari infidele. J'aurais bien fait un autre sujet que celui de Monsieur de Moliere, pour faire eclater les plaintes de la femme ; mais ils n'auraient pas eu tous deux les memes sujets de faire eclater leur jalousie, il y aurait eu du plus ou du moins ; c'est pourquoi il a fallu, afin que le divertissement fut plus agreable, qu'ils raisonnassent tous deux sur les memes incidents tellement que j'ai ete contraint de me servir du meme sujet : c'est ce qui fait que vous n'y trouverez rien de change, sinon que tous les hommes de l'un, sont changes en femmes dans l'autre. Vous pouvez maintenant voir, lequel du mari ou de la femme a plus de tort quand il manque de fidelite ; mais souvenez-vous avant que de me condamner, que l'homme a beaucoup plus de raisons de son cote que la femme puisque ce qui passe pour galanterie chez l'un, passe pour crime chez l'autre, outre qu'il n'y a pas le mot pour rire du cote de la femme, son front etant trop delicat pour porter des cornes, ce qui rend le plaisant difficile a trouver, et le sexe de plus se trouvant sterile en cette rencontre. Je pourrais ici vous parler du mot de Cocue, dont je me suis servi ; mais je crois qu'il n'en est pas besoin, d'autant que nous sommes dans un temps, ou chacun parle a sa mode.
+
+Le Libraire au Lecteur.
+Les Lecteurs sont pries de jeter ici les yeux s'ils ont la curiosite.
+Messieurs, Vous serez bien aises que je vous avertisse qu'il m'est tombe entre les mains deux Comedies, dont vous n'avez peut-etre pas encore oui parler, a cause qu'elles n'ont pas encore ete jouees a Paris, quoi qu'elles aient ete dans toutes les Villes de France. L'une est la Cocue imaginaire, qui put servir de regard au Cocu Imaginaire, de l'Illustre Monsieur de Moliere, puisque l'on voit dans l'une toutes les raisons qu'un homme a de se plaindre d'une femme infidele, et dans l'autre, celles qu'une femme a de se plaindre d'un homme qui lui manque de foi ; ce qui vous divertira beaucoup lorsque vous les confronterez ; c'est pourquoi je vous conseille de ne pas acheter l'une sans l'autre, afin d'avoir le mari et la femme. La seconde est intitulee le Proces des Precieuses, ou dans les Harangues qui s'y font pour et contre le langage Precieux, on connaitra a fond ce que c'est que Precieux et Precieuse, ce que peu de gens connaissent, quoi que l'on en parle depuis longtemps. Il faut puisque j'ai commence de vous entretenir, que je vous dise encore un mot, qui est que pour satisfaire a quantite de personnes, j'ai fait ajouter au Dictionnaire des Precieuses plusieurs mots nouvellement inventes dans les plus belles Ruelles de Paris. Vous trouverez toutes ces galantes nouveautes, et beaucoup d'autres encor en ma Boutique, au Quartiers des Augustins, a l'Image Saint-Louis ou je vous attends. Adieu.
+
+ACTEURS
+ALCIPPE, amant de Cephise.
+ROGUESPINE, son valet.
+GERONTE, son pere Bourgeois de Paris.
+CEPHISE, amante d'Alcippe.
+PAQUETTE, femme de Spadarille, Cocue Imaginaire.
+SPADARILLE, mari de Paquette, Bourgeois de Paris.
+LUCRESSE, parente de Paquette.
+BEATRIX, suivante de Cephise.
+La Scene est a Paris
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Alcippe, Geronte, Roguespine.
+ALCIPPE, sortant en colere, et son pere le suivant.
+Non, n'esperez jamais de m'y voir consentir. 
+GERONTE.
+Est-ce ainsi qu'a son pere, un fils doit repartir ? 
+Si vous ne repondez bientot a mon envie, 
+Si d'un « oui » que j'attends je ne la vois suivie, 
+Avant qu'il soit deux jours je vous ferai savoir 			[5]
+Combien sur ses enfants un pere a de pouvoir. 
+ALCIPPE.
+Si pour moi vous gardez encor quelque tendresse, 
+Ah ! daignez m'empecher de mourir de tristesse, 
+Veuillez ne point forcer mon inclination, 
+Me donnant a l'objet de mon aversion. 			[10]
+Je ne demande rien qui n'ait de la justice, 
+Puisque enfin il n'est point de plus rude supplice 
+Et que c'est attacher des vivants a des morts 
+Que vouloir sans amour joindre ensemble deux corps. 
+GERONTE.
+Etre joint a l'objet le plus beau de la Ville, 			[15]
+Le supplice a souffrir n'est pas fort difficile. 
+ALCIPPE.
+Puisque Hippolyte est belle, elle ne me plait pas. 
+Elle a, vous le savez, par ses puissants appas 
+Acquis beaucoup d'amants, et peut-etre son ame 
+Conservera pour eux quelque reste de flamme. 			[20]
+GERONTE.
+Allez, dessus ce point c'est a tort s'alarmer, 
+Puisqu'on tient qu'il n'est pas possible d'exprimer 
+L'amour qu'a son mari porte une jeune femme 
+Quand une fois il a pu surprendre son ame, 
+Et lui faire gouter les secretes douceurs 			[25]
+Dont amour sait toujours faire jouir deux coeurs. 
+ALCIPPE.
+Quand elle m'aimerait et me serait fidele, 
+Mon coeur ne peut avoir de tendresse pour elle. 
+GERONTE.
+Si c'est la le sujet qui vous fait rejeter 
+L'hymen, ou chaque jour je tache a vous porter, 			[30]
+Epousez, epousez, des demain Hippolyte, 
+Et vous verrez mon fils, qu'un glorieux merite 
+Joint aux puissants attraits d'un objet si charmant, 
+Vous contraindra dans peu de l'aimer tendrement. 
+Quoi, ne savez-vous pas, ce que peut une femme, 			[35]
+L'empire qu'elle prend malgre nous sur notre ame ? 
+Ah ! si vous l'ignorez, vous pourrez bientot voir 
+Et quelle est son adresse et quel est son pouvoir ; 
+Quand la belle Hippolyte apres son mariage, 
+Avec des traits de feu marques sur son visage ; 			[40]
+D'elle-meme viendra vous appelant son coeur 
+Vous donner un baiser ; mais si plein de douceur, 
+Qu'extasie soudain par des transports de flamme, 
+Vous sentirez l'amour se glisser dans votre ame, 
+Et vous confesserez en goutant ces douceurs 			[45]
+Que quand ce sexe veut il sait gagner des coeurs. 
+ALCIPPE.
+Celles qui pres de nous font ainsi les flatteuses, 
+Ont des motifs caches et sont fort dangereuses, 
+Et lorsque leur amour nous fait voir tant d'ardeur 
+Notre bourse est leur but, plutot que notre coeur. 			[50]
+GERONTE.
+Ne condamnez pas tant ce qu'il faut qu'on estime, 
+D'une belle vertu ne faites pas un crime, 
+Et ressouvenez-vous que je veux que demain 
+Malgre vous Hippolyte obtienne votre main. 
+ALCIPPE.
+Helas ! Souvenez-vous que j'adore Cephise, 			[55]
+Et qu'ayant su l'ardeur dont mon ame est eprise, 
+Sa mere en eut de vous un plein consentement. 
+GERONTE.
+Dans ce siecle la foi se trouve rarement. 
+J'ai promis, il est vrai, mais le bien d'Hippolyte 
+Me fait trouver en elle un peu plus de merite. 			[60]
+Je vous laisse, songez que vous devez ce soir 
+Venir avecque moi chez elle pour la voir. 
+ALCIPPE.
+Puissante Deite que l'on adore en terre, 
+Amour, faut-il, que l'or, te fasse ainsi la guerre ? 
+SCENE II. Alcippe, Roguespine.
+ROGUESPINE.
+A quoi songez-vous donc Monsieur, de rebuter 			[65]
+Ce que d'autres que vous prendraient sans hesiter. 
+Que ne veut-on aussi me donner une femme, 
+Ma foi je la prendrais et de toute mon ame 
+Sans hesiter du tout. Dieu veuille avoir l'esprit 
+De ma pauvre Gillette. Ah ! que j'ai de depit 			[70]
+Quand je songe a sa mort. J'avais pendant sa vie 
+Un teint a qui Bacchus eut porte meme envie, 
+Un visage rougeaud, et si plein de sante, 
+Que j'ose vous jurer en saine verite, 
+Moi qui ne jure point si la chose n'est claire 			[75]
+Que tous les marmousets des enseignes a biere 
+Etaient aupres de moi pales et decharnes, 
+Et n'avaient point du tout de rubis sur le nez. 
+Je ne voyais jamais passer aucun Dimanche, 
+Qu'elle ne me vint mettre une chemise blanche, 			[80]
+A mes habits jamais on ne voyait de trous, 
+Tant le soin etait grand de tout boucher chez nous. 
+Quand j'avais bu souvent avec quelque compere, 
+Comme cela pouvait m'arriver d'ordinaire, 
+Et qu'au logis le soir, de crainte de manger, 			[85]
+Je faisais le malade, afin de m'obliger 
+A prendre, disait-elle, un peu de nourriture, 
+Mange, mange, mon fils, mange, je t'en conjure, 
+Me disait la pauvrette avec la larme a l'oeil, 
+Si tu ne veux bientot me voir mettre au cercueil. 			[90]
+L'hiver meme les draps etant plus froids que glace, 
+Elle s'allait coucher pour echauffer ma place, 
+Et me criait apres de la venir trouver. 
+Il vous faudrait enfin, Monsieur, pour eprouver 
+Les plaisirs les plus doux qu'on goute dans la vie 			[95]
+Prendre vite une femme, et je vous en convie. 
+ALCIPPE.
+Ah ! ne me parle point de cette lachete, 
+Ne me conseille point une infidelite, 
+J'ai promis a Cephise, et je... 
+ROGUESPINE.
+Votre Cephise, 
+D'un violent amour ne parait pas eprise. 			[100]
+Depuis quinze ou vingt jours elle passe son temps 
+A se bien divertir en sa maison des Champs, 
+Et quoi que sur sa mere, elle ait beaucoup d'empire, 
+Elle ne prendrait pas la peine de lui dire 
+De faire un tour ici, ce qui fait que je crois 			[105]
+Qu'envers vous cette belle, a pu manquer de foi. 
+ALCIPPE.
+Non, non, elle me garde une flamme eternelle ; 
+Mais peut-etre ayant su la funeste nouvelle 
+Du mepris que mon pere a fait de ses appas, 
+Elle est dessus le point... te le dirai-je ? Helas ! 			[110]
+Sur le point d'expirer. 
+ROGUESPINE.
+La cause est raisonnable 
+D'un tel retardement. 
+ALCIPPE.
+Que je suis miserable ; 
+Mais cependant qu'elle est absente de ces lieux 
+Dans son portrait du moins admirons ses beaux yeux. 
+Dieux ! qu'ils font rejaillir d'eclat sur sa peinture, 			[115]
+Ils mettent de nouveau mon coeur a la torture, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! faut-il... je me meurs. 
+ROGUESPINE.
+Qui peut causer en vous... 
+Mais il s'evanouit. Vite ? Quelqu'un ? A nous ? 
+SCENE III. Alcippe, Roguespine, Paquette.
+PAQUETTE.
+Quel bruit viens-je d'entendre aupres de ma fenetre ? 
+ROGUESPINE.
+Aidez-moi je vous prie a soutenir mon Maitre ; 			[120]
+Ce mal lui vient de prendre ici subitement. 
+PAQUETTE.
+Il faut le secourir si l'on peut promptement. 
+SPADARILLE, regardant par sa fenetre voit que sa femme soutient Alcippe.
+Que vois-je, juste Ciel ! je crois que c'est ma femme, 
+Qui tient dedans ses bras... elle mourra l'infame 
+Et je vais s'il se peut la prendre sur le fait. 			[125]
+ROGUESPINE.
+Helas ! mon pauvre maitre, ah ! bon Dieu, c'en est fait, 
+Ciel ! 
+PAQUETTE, mettant la main sur la bouche d'Alcippe.
+Il respire encore, et je sens son haleine. 
+ROGUESPINE.
+Si vous vouliez un peu prendre avec moi la peine 
+De l'emporter chez lui. 
+PAQUETTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oui, j'y vais de bon coeur. 
+Que son visage encore conserve de douceur. 			[130]
+SCENE IV.
+SPADARILLE, seul.
+Cette infidele a fui, et sans oser m'attendre 
+Jugeant bien qu'en ce lieu, je la viendrais surprendre. 
+Avec le scelerat, le traitre suborneur 
+Qui vient impunement de lui ravir l'honneur. 
+Je ne m'etonne plus pourquoi cette maligne 			[135]
+Sans sujet tous les jours me fait mauvaise mine, 
+Elle cherche a crier, sans doute, et voudrait bien 
+M'obliger a la battre, afin d'avoir son bien. 
+Les femmes maintenant sont tout a fait volages, 
+Et souvent quinze jours apres leurs mariages, 			[140]
+Elles ont de la peine a souffrir leurs maris : 
+Leur inconstance va jusqu'a leurs favoris, 
+Et voulant tous les jours faire de nouveaux dupes, 
+Elles changent autant de galants que de jupes : 
+Les nouveautes enfin charment si fort leurs sens, 			[145]
+Elles ont a leurs yeux des attraits si puissants, 
+Que s'il pouvait encor venir en cette ville 
+Un Roi d'Ethiopie, il serait difficile, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'il les put contenter ; mais qu'est-ce que je vois ? 
+Ouvrons, c'est un portrait qui n'est pas sot ma foi. 			[150]
+SCENE V. Paquette, Spadarille.
+PAQUETTE.
+Son mal n'etait qu'amour qui troublait trop son ame ; 
+Mais j'apercois mon homme. 
+SPADARILLE.
+O Dieux ! c'est d'une femme 
+Dont je tiens la peinture. O Ciel ! qu'elle a d'appas ! 
+PAQUETTE, a part regardant par dessus son epaule.
+Il regarde un portrait, que dois-je croire helas ? 
+SPADARILLE, poursuit.
+Certes cette beaute n'a rien qui ne m'attire, 			[155]
+Deja sans y penser je suis sous son empire. 
+Ah ! si ma femme avait des charmes aussi doux... 
+PAQUETTE, lui arrachant le portrait qu'il tient.
+Nous t'y surprenons traitre, en parlant mal de nous, 
+Pouvais-tu, dis-le moi, rencontrer une femme, 
+Qui dut plus justement regner dessus ton ame ; 			[160]
+Et puisque tant de gens te disent chaque jour 
+Que j'ai plus de beautes que la mere d'amour ; 
+En peux-tu bien douter apres leur temoignage. 
+SPADARILLE, a part.
+Je devrais les voir seul, et c'est de quoi j'enrage. 
+PAQUETTE, continue.
+Et cependant encor tu parais peu content 			[165]
+D'une femme si rare et qu'on estime tant ; 
+Et qui peut se vanter enfin d'etre si belle, 
+Que toujours mille amants soupirent autour d'elle 
+Sans pouvoir toutefois jamais rien obtenir. 
+SPADARILLE.
+Tout ce discours n'est fait qu'afin de retenir 			[170]
+Mon portrait, mais aga, rends-le moi je te prie. 
+PAQUETTE.
+De nouveau ce discours excite ma furie, 
+Ce portrait me fait trop savoir ta lachete ; 
+Je connais maintenant ton infidelite. 
+Ah ! que si je pouvais attraper cette femme 			[175]
+Ainsi que son portrait, elle verrait l'infame. 
+SPADARILLE.
+Que verrait-elle ? He bien ? 
+PAQUETTE.
+L'invincible fureur 
+Que ton crime et le sien allume dans mon coeur. 
+Pour vous faire a tous deux une guerre immortelle, 
+Spadarille fait mine de ne se pas soucier de ce qu'elle dit. 			[180]
+N'ai-je pas tort encor, de crier contre celle 
+Qui m'ote tous les jours ce qui n'est du qu'a moi. 
+SPADARILLE.
+Je ne te comprends point, de grace explique-toi. 
+PAQUETTE.
+C'est que tu ne veux point malheureux me comprendre, 
+Et si c'etait un autre on pourrait bien l'entendre. 			[185]
+Que faire maintenant, chacun va desormais 
+Ne plus trouver en moi que de faibles attraits. 
+Son mari (dira-t-on) ne peut etre infidele 
+Que parce qu'a present Paquette n'est plus belle. 
+SPADARILLE.
+Tu ne me tiendrais point de semblables discours 			[190]
+Si je ne savais pas tes infames amours 
+Perfide ; mais dans peu je pourrai bien te dire 
+Quel est le Jouvenceau pour qui ton coeur soupire. 
+Il lui arrache le portrait de Cephise, et s'enfuit. 
+Mais rends moi mon portrait. 
+PAQUETTE.
+Ah ! Je me vengerai 			[195]
+Traitre, et des aujourd'hui malgre toi je l'aurai. 
+SCENE VI. Cephise, Beatrix.
+BEATRIX.
+Nous voici dans Paris, souvenez-vous Madame, 
+Que vous devez enfin m'ouvrir toute votre ame, 
+Et que vous m'avez dit que je saurais aussi 
+Qui vous a fait presser votre retour ici. 			[200]
+CEPHISE.
+Oui je m'en ressouviens et je tiens ma promesse, 
+Apprends donc le sujet de l'ennui qui me presse. 
+Tu sais depuis longtemps qu'Alcippe est sous mes lois, 
+Que mon coeur a toujours applaudi a son choix. 
+Mais tu ne peux savoir que depuis peu son pere 			[205]
+Etait de notre hymen d'accord avec ma mere ; 
+Cependant aujourd'hui par une dure loi, 
+Il le veut empecher de me donner sa foi, 
+Et le veut marier a certaine Hippolyte, 
+Que je ne connais point, non pour son grand merite, 			[210]
+Ni meme a ce qu'on dit pour son esprit charmant, 
+Mais a cause qu'elle a de l'or abondamment. 
+Toi qui vois le chagrin qui toujours m'accompagne, 
+Voila, voila, pourquoi j'ai quitte la campagne, 
+Et je m'en vais savoir, s'il se peut aujourd'hui, 			[215]
+Si je verrai finir ou croitre mon ennui. 
+BEATRIX.
+Je ressens tous vos maux ; mais encore, Madame, 
+Quelque apre deplaisir que vous sentiez dans l'ame 
+Devriez-vous pas songer que depuis hier au soir 
+Vous avez peu mange. 
+CEPHISE.
+Lorsque le desespoir 			[220]
+Accompagne l'amour, les peines qu'on endure 
+Nous empechent de prendre aucune nourriture ; 
+Mais retourne au logis Beatrix, promptement, 
+Je sais bien le moyen de trouver mon amant 
+Sans avoir besoin d'aide, et si tantot ma mere, 			[225]
+Te demande ou je suis, dis lui, qu'ayant affaire 
+De coiffes, de rubans, j'en achete au Palais. 
+BEATRIX.
+Vous verrez sur ce point vos desirs satisfaits. 
+SCENE VII.
+CEPHISE, seule.
+Je m'alarme peut-etre avec trop d'imprudence ; 
+L'affaire assurement n'en est pas ou je pense : 			[230]
+Alcippe m'a fait voir jusqu'au fond de son coeur, 
+Et je ne puis penser qu'il ait manque d'ardeur. 
+SCENE VIII. Paquette, Cephise.
+PAQUETTE.
+Enfin de ce portrait je me puis voir maitresse 
+Et malgre lui j'ai su lui prendre par adresse. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je ne me souviens point d'avoir vu cet objet. 			[235]
+CEPHISE, a part.
+Mais qu'apercois-je, o Dieux ! Elle tient mon portrait. 
+PAQUETTE, poursuit sans voir Cephise.
+Dorenavant helas ! je vais faire abstinence 
+Plus que je ne voudrais. 
+CEPHISE, a part.
+Je tremble quand j'y pense ; 
+Et ce portrait ne peut se trouver dans ses mains, 
+Sans qu'Alcippe ait souscrit a l'hymen que je crains. 			[240]
+PAQUETTE, continue.
+Faut-il que desormais ton mari te meprise ? 
+Que pour d'autres objets son ame soit eprise ? 
+Et qu'avec eux peut-etre il se moque de toi, 
+Sans se ressouvenir qu'il t'a donne sa foi. 
+Encor si... 
+CEPHISE, a part.
+Me trompai-je ? 			[245]
+PAQUETTE, poursuit.
+Encor si cet infame 			[245]
+Se contentait d'avoir une impudique flamme ; 
+Et ne leur fourrait pas le meilleur du logis. 
+CEPHISE, a part.
+Je sens que malgre moi je tremble je rougis. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est mon portrait sans doute et ma crainte redouble. 
+PAQUETTE, voyant qu'elle continue de regarder le portrait qu'elle tient.
+Vous etes curieuse ? 
+CEPHISE.
+Ah ! tirez-moi du trouble 			[250]
+Ou vient de me jeter... 
+PAQUETTE.
+Qu'est-ce donc qu'elle veut ? 
+CEPHISE.
+De grace, dites-moi, Madame, s'il se peut ? 
+D'ou vous vient ce portrait ? 
+PAQUETTE, a part.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)D'ou lui vient cette envie. 
+Mais je n'en doute plus et j'en suis fort ravie, 
+C'est ma femme ou plutot celle de mon mari. 			[255]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ce portrait vient des mains de votre favori : 
+Et je ne sais que trop la flamme criminelle, 
+Dont se sent consumer pour vous cet infidele, 
+Mais il verra dans peu tous ses feux traverses : 
+Je ne sais pas encor si vous me connaissez. 			[260]
+Mais vous m'obligerez de cesser une flamme 
+Qui ne peut desormais qu'irriter une femme. 
+CEPHISE.
+Quoi celui dites-vous de qui vient ce portrait... 
+PAQUETTE.
+De vos laches amours est le coupable objet, 
+Et mon mari de plus, et moi je suis sa femme. 			[265]
+CEPHISE.
+Ce discours imprevu met le trouble en mon ame. 
+Sa femme... 
+PAQUETTE.
+Oui sa femme, et sa femme en courroux, 
+Vous pouvez aller voir mon deplaisir jaloux, 
+Vous en savez la cause et je vais en instruire 
+De ce pas ses parents. 
+SCENE IX.
+CEPHISE, seule.
+Que vient-elle de dire, 			[270]
+Je n'aurais jamais cru qu'il dut manquer d'amour, 
+Mais l'on m'avait bien dit las devant mon retour 
+Que la personne a qui le destinait son pere, 
+Malgre tous ses attraits paraissait fort severe. 
+Ah ! traitre, fallait-il, apres tant de serments, 			[275]
+Apres m'avoir fait voir tous les emportements 
+D'un violent amour, te montrer infidele 
+Et trahir un objet qui... mais Dieux, je chancelle. 
+L'amour, le desespoir, la fatigue, l'ennui, 
+Et le peu d'aliment que j'ai pris aujourd'hui 			[280]
+Font ceder tout a coup mon coeur a la faiblesse. 
+SCENE X. Spadarille, Cephise.
+SPADARILLE.
+Mon infidele enfin a surpris par adresse... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais allons secourir... Madame qu'avez-vous. 
+CEPHISE.
+Ce mal me vient de prendre. 
+SPADARILLE.
+Entrez, entrez chez nous, 
+Peut-etre y pourrez-vous trouver quelque allegeance. 			[285]
+CEPHISE.
+Mon mal avait besoin d'une telle assistance, 
+Vous m'obligez beaucoup. 
+SCENE XI. Lucresse, Paquette.
+LUCRESSE.
+Ce n'est pas sans raison, 
+Que la dessus votre ame a concu du soupcon ; 
+Mais quelque fort qu'il soit, jamais la jalousie, 
+Ne vous devait ainsi troubler la fantaisie. 			[290]
+Avant que d'imputer un semblable forfait ; 
+Vous devriez les... 
+PAQUETTE.
+J'entends les prendre sur le fait. 
+LUCRESSE.
+Ce n'est point tout cela ; mais sachez en amie 
+Qu'un homme sur ce point est exempt d'infamie, 
+Et qu'une femme enfin put-elle tout savoir, 			[295]
+Doit se boucher les yeux et ne jamais rien voir. 
+PAQUETTE.
+Moi je ne pretends pas etre jamais de celles 
+Qui souffrent lachement des maris infideles, 
+Et puisqu'aux yeux de tous il m'a donne sa foi, 
+Il me la doit garder aussi bien comme moi. 			[300]
+LUCRESSE.
+Bien que par ce discours vous paraissez peu sage, 
+Je pretends empecher votre mauvais menage, 
+Tachez donc a savoir au long la verite, 
+Et vous verrez apres qu'avec dexterite, 
+Je saurai lui montrer que sans crime son ame 			[305]
+Pour d'autres que pour vous ne peut nourrir de flamme, 
+Et qu'il doit desormais vous aimer constamment. 
+SCENE XII.
+PAQUETTE, seule.
+Voila, voila parler avecque jugement, 
+Et si je pouvais voir l'effet de la promesse, 
+On verrait pour jamais sur mon front l'allegresse. 			[310]
+Tachons donc pour cela de savoir... Justes Dieux ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoi dans ma chambre meme ils ont ose tous deux... 
+Mais je n'y puis songer et la douleur m'accable. 
+SCENE XIII. Spadarille, Cephise, Paquette.
+CEPHISE.
+Je dois etre a jamais a vos soins redevable, 
+Et je me souviendrai de vos civilites. 			[315]
+SPADARILLE.
+Ne sortez pas sitot Madame, ou permettez 
+Que je sorte avec vous, et que je vous remene. 
+CEPHISE.
+Je veux vous dispenser de prendre cette peine. 
+SCENE XIV. Cephise, Paquette.
+PAQUETTE.
+Elle me reconnait, voyons, voyons un peu 
+Ce qu'elle me dira pour deguiser son feu. 			[320]
+CEPHISE, a part.
+Mais ce facheux objet m'inquiete et me trouble. 
+Fuyons, fuyons, de peur que mon mal ne redouble. 
+Envions-lui pourtant un bonheur si parfait. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)O ! Heureuse d'avoir un mari si bien fait. 
+SCENE XV. Alcippe, Paquette.
+PAQUETTE.
+Il n'est pas de besoin de lui donner la gene 			[325]
+Pour confesser son crime, elle le dit sans peine. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allez, infame, allez, c'est fort mal fait a vous 
+Que de me debaucher lachement mon epoux. 
+ALCIPPE, du bout du Theatre voit en aller Cephise.
+Oui, je la viens de voir, ma surprise est extreme, 
+Je n'en puis plus douter, c'est Cephise elle-meme, 			[330]
+De ce retour secret je suis peu satisfait. 
+PAQUETTE.
+O ! heureuse d'avoir un mari si bien fait. 
+Ah ! discours trop piquants, paroles indiscretes, 
+Je l'eusse fait fourrer dans les Magdelonnettes 
+Si j'eusse sur le champ pu trouver des temoins, 			[335]
+Mais puisque j'en manquais, je devais tout du moins. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Arracher ses cheveux et pour saouler ma rage 
+De la bonne facon souffleter son visage. 
+Malheureuse, pourquoi ne l'as-tu donc pas fait, 
+Puisqu'elle a devant toi publie son forfait ? 			[340]
+ALCIPPE.
+Celle qui maintenant devers vous est venue, 
+Dites-moi, s'il vous plait, vous est-elle connue ? 
+PAQUETTE.
+Helas ! ce n'est pas moi qui la connais Monsieur, 
+C'est mon mari. 
+ALCIPPE.
+Quel trouble agite votre coeur ? 
+PAQUETTE.
+Au mal que je ressens, aucun n'est comparable. 			[345]
+Vous voyez devant vous un objet miserable ; 
+Celle dont vous parlez a commis un forfait, 
+Mais si noir... 
+ALCIPPE.
+Achevez, dites, qu'a-t-elle fait ? 
+PAQUETTE.
+Elle a... 
+ALCIPPE.
+Quoi donc elle a. 
+PAQUETTE.
+Souffrez que je soupire. 
+ALCIPPE.
+Et de grace achevez ? 
+PAQUETTE.
+Je n'ose vous le dire. 			[350]
+ALCIPPE.
+Pourquoi tant faconner ? 
+PAQUETTE.
+Apprenez donc Monsieur, 
+Qu'elle a pour mon epoux une impudique ardeur. 
+ALCIPPE.
+Qu'ai-je entendu ! 
+PAQUETTE.
+De plus... (quand j'y songe je meure) 
+Ils viennent de chez nous de sortir tout a l'heure, 
+Et j'ai peur... 
+ALCIPPE.
+De quoi donc ? 			[355]
+PAQUETTE.
+Puisque vous connaissez 			[355]
+Leur mutuelle ardeur, vous m'entendez assez. 
+ALCIPPE.
+Perfide, deloyale, ame double et traitresse, 
+Aurait-on pu prevoir une telle bassesse, 
+De cette lachete je demeure interdit, 
+Mais dois-je croire aussi ce que vous m'avez dit ? 			[360]
+PAQUETTE.
+Ce que je vous ai dit est la verite meme, 
+Je les viens maintenant de surprendre moi-meme. 
+ALCIPPE.
+Tu t'es donc pu noircir de cette lachete 
+Apres avoir cent fois vu ma fidelite. 
+Ah ! pour te bien punir de ton ingratitude, 			[365]
+Il n'est point ici bas de supplice plus rude. 
+PAQUETTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'il est bon. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vous rends mille graces Monsieur, 
+De prendre ma defense avec tant de chaleur, 
+Croyez-moi tout chacun n'en ferait pas de meme, 
+Et plusieurs qui m'ont vu dans ma douleur extreme 			[370]
+Bien loin de prendre part a mes afflictions, 
+M'ont voulu faire croire a force de raisons, 
+Que mon coeur s'affligeait avec peu de justice, 
+Et que de mon mari d'autres feraient l'office, 
+Et moi je ne veux pas faire une lachete, 			[375]
+Et je l'aime malgre son infidelite. 
+ALCIPPE, sans l'ecouter.
+Oui mon coeur y consent, n'espere pas infame, 
+Qu'aucune ardeur pour toi jamais rentre en mon ame, 
+Que j'adore jamais tes coupables appas, 
+Mais je dois m'en venger et j'y cours de ce pas. 			[380]
+SCENE XVI.
+PAQUETTE, seule.
+L'on ne le peut nier, cet homme a l'ame bonne, 
+Et plus je songe a lui, plus sa bonte m'etonne. 
+Quoi, prendre ainsi le soin de courir me venger, 
+Voila ce qu'aujourd'hui l'on appelle obliger, 
+Tout a fait galamment, de la belle maniere ; 			[385]
+Mais quoi de mon cote, serai-je sans rien faire ? 
+Mon coeur a se venger ne sera-t-il pas prompt ? 
+Pourrai-je bien souffrir un si sensible affront ? 
+Et n'aurai-je recours qu'aux soupirs et qu'aux larmes 
+Qui de mon sexe sont les plus frequentes armes ? 			[390]
+Non, non, dorenavant il ne sera pas dit, 
+Que Paquette voie tout sans montrer de depit, 
+Et que de son mari l'on partage la couche, 
+Sans que pour s'en venger elle ose ouvrir la bouche ; 
+Courrons donc la chercher cette lache beaute 			[395]
+Qui pousse notre epoux a l'infidelite ; 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais je devrais avant que de pousser l'affaire, 
+Songer sur qui je veux decharger ma colere. 
+Cette femme sans doute est plus jeune que moi, 
+Et par cette raison plus robuste je crois, 			[400]
+Et si je l'attaquais, quelque ardeur qui m'emporte 
+Je pourrais surement n'etre pas la plus forte ; 
+Puis donc qu'il est ainsi je ne m'y fourre pas, 
+J'aime par trop mon teint, mes jambes, et mes bras, 
+L'on me reprocherait outre le cocuage, 			[405]
+D'avoir ete battue, et ce sensible outrage 
+Joint avec le premier me ferait enrager : 
+Aille donc qui voudra maintenant me venger, 
+Pour moi je n'y vais pas et crois sagement faire 
+Quand de peur d'accident je cache ma colere. 			[410]
+Mais voyons si j'ai lieu d'etre fort en courroux 
+Et de faire eclater ce deplaisir jaloux. 
+Non puisque par bonheur nous n'avons aucun blame, 
+Quand nos maris sans nous ont un commerce infame ; 
+Et que quand notre coeur brule d'indignes feux 			[415]
+Tout le blame aussitot rejaillit dessus eux. 
+Qu'ils goutent donc le fruit du feu qui les possede, 
+Je n'en serai jamais plus maigre ni plus laide, 
+Plus maigre ni plus laide [sic]. Ah! je me trompe enfin, 
+Et je n'ai pas besoin d'un jugement bien fin 			[420]
+Pour savoir que le jeune apporte du dommage 
+A l'esprit, et surtout, qu'il change le visage. 
+C'est pourquoi maintenant je m'apercois si bien, 
+Que mon mari ne peut sans y meler du mien 
+Se divertir ailleurs, puisque outre l'abstinence 			[425]
+Que je fais tous les jours, le traitre a l'insolence 
+D'emporter du logis tout ce qu'il peut trouver 
+Mais ne pourrai-je point a force de rever... 
+Oui, je tiens un remede assez facile a faire 
+Et qui n'a rien du tout qui ne me doive plaire, 			[430]
+Puisqu'il me donne lieu de finir mon ennui 
+Et que par lui je puis recouvrer aujourd'hui 
+Tous les plaisirs perdus et tout le bien encore. 
+Je n'ai qu'a consentir que tout chacun m'adore, 
+Qu'a souffrir qu'on me die en secret les douceurs, 			[435]
+Qu'a souffrir des helas, qu'a souffrir des je meurs, 
+Et je serai vetue apres comme une Reine, 
+De me bien divertir chacun prendra la peine, 
+Je ne manquerai point a trouver tous les jours 
+Un carrosse a ma porte afin d'aller au Cours, 			[440]
+Et chassant loin de moi toute crainte funeste, 
+J'aurai bien du plaisir et de l'argent de reste. 
+SCENE XVII. Geronte, Alcippe.
+ALCIPPE.
+Oui je veux obeir a vos commandements, 
+Je veux dorenavant suivre vos sentiments 
+Je ne resiste plus et je ferai mon pere 			[445]
+Tout ce qu'il vous plaira de m'ordonner de faire, 
+Et quelque objet pour moi dont vous ayez fait choix, 
+Mon coeur des a present est soumis a ses lois, 
+Et fut-il et moins riche et moins beau qu'Hippolyte 
+Votre choix lui suffit pour prouver son merite, 			[450]
+Et si vous le voulez je suis pret des demain 
+De lui donner mon coeur ensemble avec ma main. 
+GERONTE.
+C'est ainsi qu'un enfant doit repondre a son pere 
+Il doit n'avoir de but que celui de lui plaire, 
+Afin que dans ce monde il fasse un long sejour. 			[455]
+ALCIPPE.
+Apres mille combats j'ai vaincu mon amour, 
+Et le vaincrais encore si c'etait a refaire, 
+Afin de vous montrer combien je vous revere. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais plutot pour punir le criminel objet 
+Qui se vient de souiller d'un infame forfait. 			[460]
+GERONTE.
+On ne se repend point de rendre obeissance 
+A ceux a qui nous doit soumettre la naissance, 
+Puisque le temps enfin souvent nous fait bien voir 
+Qu'ils n'usent dessus nous d'un absolu pouvoir 
+Que pour notre interet et notre propre gloire. 			[465]
+ALCIPPE.
+Oui, mais l'on est contraint avant que de le croire 
+De soupirer longtemps. 
+GERONTE.
+Tu soupireras peu, 
+Puisque pour te payer d'avoir eteint ton feu, 
+Et te faire passer ta vie en galant homme, 
+Trente mille Ducats font une belle somme ; 			[470]
+Mais je vais maintenant avertir de ceci 
+La mere d'Hippolyte, et je retourne ici. 
+SCENE XVIII. Alcippe, Roguespine.
+ROGUESPINE.
+Monsieur, quoi qu'Hippolyte en effet soit fort belle, 
+J'aurais gage cent fois que vous seriez fidele : 
+C'est pourquoi vous voyez que je ne cele point 			[475]
+Qu'un pareil changement m'etonne au dernier point. 
+ALCIPPE.
+Quand tu sauras pourquoi j'ai su vaincre ma flamme, 
+Tu cesseras bientot de me couvrir de blame. 
+ROGUESPINE.
+Et de grace, Monsieur, depechez promptement 
+Car je vous crois souille d'un vilain changement. 			[480]
+ALCIPPE.
+Apprends donc qu'en ces lieux l'ingrate, l'infidele... 
+ALCIPPE.
+Ou vous fourrerez-vous ? J'apercois cette belle ! 
+De colere deja son visage rougit 
+Et l'on voit bien qu'elle a le coeur gros de depit. 
+ALCIPPE.
+Que ses attraits sont doux, quoi qu'elle soit coupable ; 			[485]
+Pour me faire souffrir elle est toujours aimable. 
+SCENE XIX. Alcippe, Rogeuespine, Cephise.
+CEPHISE.
+Puisque j'ai resolu de ne vous voir jamais, 
+Avant que d'en venir Scelerat aux effets, 
+Il faut du moins qu'ici par de justes reproches...
+ROGUESPINE, en tirant son Maitre.
+He ! Monsieur, s'il vous plait, evitez ces approches, 			[490]
+Vous savez ce que peut une femme en fureur. 
+ALCIPPE.
+De grace laisse-moi lui montrer que l'ardeur 
+Qui brule dans son ame... 
+CEPHISE.
+He bien donc, parle traitre ! 
+Et condamne l'objet qui sut la faire naitre ; 
+Mais j'ai tort, et ton ame a fait un si beau choix 			[495]
+Que l'on me blamerait peut-etre si j'osais 
+Te reprocher... Mais non, vis malgre ton offense 
+Avec le digne objet qui fait voir ta constance. 
+ALCIPPE.
+Je vivrai seulement pour vous faire enrager. 
+CEPHISE.
+Mais pourrait-on savoir qui te peut obliger 			[500]
+A montrer ce courroux. 
+ALCIPPE.
+Vous avez bonne grace 
+A faire la surprise. 
+SCENE XX. Alcippe, Cephise, Roguespine, Paquette.
+PAQUETTE.
+Oui dans peu son audace, 
+Saura bien recevoir un juste chatiment, 
+Mon coeur a tout a coup change de sentiment, 
+Et je veux quoi qu'enfin je ne sois qu'une femme, 			[505]
+Sans tarder plus longtemps, me venger de l'infame 
+Qui m'ose lachement debaucher mon epoux. 
+ALCIPPE, lui montrant Paquette.
+Ah ! Sans que je m'emporte et montre mon courroux, 
+Tournez ici les yeux et vous pourrez apprendre... 
+CEPHISE.
+Je ne vois... 
+ALCIPPE.
+Cet objet a droit de vous surprendre. 			[510]
+CEPHISE.
+Mais il doit t'obliger a rougir bien plutot. 
+PAQUETTE, a part.
+Je sens, je sens mon coeur anime comme il faut, 
+Et pret a seconder mon bras dans cette affaire. 
+Sus donc, satisfaisons notre juste colere, 
+Et pour en assouvir la pressante fureur, 			[515]
+Portons lui ce poignard jusqu'au milieu du coeur. 
+CEPHISE.
+Qu'entends-je ? 
+PAQUETTE.
+Voulez-vous que j'aille voir Madame ; 
+Ce bruit ainsi qu'a vous me vient d'alarmer l'ame. 
+ALCIPPE.
+Cet Objet vous emeut sans doute et vous fait voir... 
+CEPHISE.
+Que tu t'es pu noircir du crime le plus noir... 			[520]
+ALCIPPE.
+Finissez un discours si rempli d'insolence. 
+PAQUETTE, a part.
+Puisque cet homme encor veut prendre ta defense, 
+Prends courage mon coeur, sois un peu genereux, 
+Et lave dans son sang ses impudiques feux : 
+Peut-etre qu'il pourra seconder notre fuite. 			[525]
+CEPHISE, faisant deux ou trois pas sans dessein, fait retourner Paquette qui s'approche pour la tuer. 
+Puisque avecque raison un tel discours t'irrite, 
+Bien loin de t'accuser de ton lache forfait, 
+Je dois louer un choix si rare et si parfait. 
+ALCIPPE.
+On ne peut dans mon choix trouver rien a redire. 
+CEPHISE.
+Pourquoi le defends-tu puisque enfin je l'admire. 			[530]
+ALCIPPE.
+Ce discours me deplait, ne raillons point ici. 
+PAQUETTE, a Cephise.
+Il agit prudemment de me defendre ainsi, 
+Et vous n'ignorez pas le tort que vous me faites. 
+CEPHISE.
+D'ou vient l'emportement ou je vois que vous etes. 
+ALCIPPE.
+Ah ! Que vous feignez bien. 
+CEPHISE.
+De quoi m'accuse-t-on ? 			[535]
+SCENE XXI. Cephise, Paquette, Alcippe, Roguespine, Spadarille.
+SPADARILLE.
+Je pourrais bien Madame avec quelque raison 
+Vous faire voir ici ce que peut ma colere, 
+Et debaucher ainsi l'objet qui m'a su plaire, 
+C'est fort mal fait a vous. 
+ALCIPPE.
+Sa declaration 
+Ne fait que trop helas, voir votre passion. 			[540]
+CEPHISE.
+Que veut dire ceci ? 
+PAQUETTE, a Spadarille.
+Tu ne viens infidele 
+Que de peur qu'on maltraite ici ta Demoiselle. 
+ROGUESPINE.
+Deja depuis longtemps je tache a concevoir 
+Ce galimatias, et je ne puis savoir, 
+Quel sujet peut entre eux causer un si grand trouble, 			[545]
+Mais je m'en veux meler de peur qu'il ne redouble. 
+Et que de leur querelle il n'arrive malheur. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Repondez-moi par ordre, et c'est un coup bien sur 
+Que je vous tirerai des peines ou vous etes, 
+Et qu'on verra dans peu vos ames satisfaites. 			[550]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous parlez s'il vous plait, d'ou vient votre courroux ? 
+Que mon maitre a-t-il fait, de quoi l'accusez-vous ? 
+CEPHISE.
+Qu'apres m'avoir promis une eternelle flamme 
+Le traitre en mon absence a pu prendre une femme. 
+ROGUESPINE.
+Une femme. 
+CEPHISE.
+Une femme et presente en ces lieux. 			[555]
+ROGUESPINE.
+Nommez-nous donc encor cet objet glorieux ? 
+CEPHISE, montrant Paquette.
+Le voila. 
+ROGUESPINE, a Paquette.
+Que me conte-t-on, moi 
+J'ai dit qu'a mon mari j'avais donne ma foi, 
+Et que j'etais sa femme. 
+CEPHISE.
+Une heureuse aventure 
+M'ayant fait reconnaitre en vos mains ma peinture, 			[560]
+Ne m'avez vous pas dit aussitot que l'objet 
+Des mains dont vous veniez de prendre mon portrait 
+Etait votre mari. 
+PAQUETTE.
+Cela pourrait bien etre ; 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Car je l'avais surpris dans les mains de ce traitre, 
+Et n'eusse pas sans lui fait savoir son forfait. 			[565]
+SPADARILLE.
+Que me viens-tu conter avecque ton portrait 
+C'est a tort la-dessus que le courroux t'emporte, 
+Je l'avais par bonheur trouve pres notre porte, 
+Et meme quand apres ton grand emportement 
+Ayant pris a Madame un mal subitement 			[570]
+Je l'ai jusques chez nous conduit a la meme heure : 
+Et dedans ce moment, je n'ai pas ou je meure 
+Remarque que c'etait la Dame du portrait. 
+PAQUETTE.
+Voyez comme il sait bien deguiser son forfait. 
+ALCIPPE.
+C'est a tort sur ce point que votre coeur murmure, 			[575]
+Et j'ai de ce portrait fait naitre l'aventure, 
+Puisque pour mon malheur tantot sans le savoir, 
+Dans le mal qui m'a pris je l'avais laisse choir. 
+ROGUESPINE.
+Les choses que je dis doivent passer pour sures, 
+Et ne suis-je pas un grand denoueur d'aventures. 			[580]
+PAQUETTE.
+Dois-je a de tels discours ajouter quelque foi ? 
+Oui, puisque enfin notre homme est bonhomme ma foi, 
+Touche-la. 
+SPADARILLE.
+Tu sais que quoi que tu puisses faire, 
+Je ne puis contre toi retenir ma colere. 
+ALCIPPE, a Cephise apres avoir parle bas ensemble.
+Oui, oui, jusqu'a ce point j'ai bien pu me trahir, 			[585]
+Vous croyant sans honneur j'ai promis d'obeir. 
+Mais mon pere parait. 
+CEPHISE.
+Ah ! Funeste aventure, 
+Tu mets pour tout jamais mon ame a la torture. 
+SCENE XXII. Cephise, Paquette, Alcippe, Roguespine, Spadarille, Geronte.
+GERONTE.
+Quoi, Cephise en ces lieux ? 
+CEPHISE.
+Oui je suis de retour, 
+Et le depit m'amene ici plus que l'amour. 			[590]
+Je viens vous reprocher... 
+GERONTE.
+Soyez moins en colere. 
+Le Ciel prend votre cause et veut vous satisfaire, 
+Puisque depuis longtemps sans qu'on le sut chez eux, 
+Hippolyte et Cleon sont maries tous deux ; 
+C'est pourquoi je vous tiens ma parole donnee, 			[595]
+Et veux voir achever dans peu votre hymenee, 
+Si votre coeur encor y veut bien consentir 
+Et veut me pardonner apres mon repentir. 
+CEPHISE.
+Que ne ferait-on point, helas, lorsque l'on aime ! 
+ALCIPPE.
+Que ne vous dois-je point pour ce plaisir extreme. 			[600]
+ROGUESPINE.
+Si de l'autre mon maitre eut epouse la peau, 
+Il eut ete charge de la vache et du veau. 
+SPADARILLE.
+Il est bien des cocus dans le Siecle ou nous sommes, 
+C'est un mal a present commun a tous les hommes, 
+Il prend egalement le laid et le bien fait, 			[605]
+Aucuns le sont en songe, et d'autres en effet, 
+D'autres le sont aussi qui ne croient pas l'etre, 
+D'autres qui ne font pas semblant de le connaitre, 
+D'autres qui voudraient bien aussi ne l'etre pas, 
+D'autres qui font par la venir de bons Ducats ; 			[610]
+Et d'autres qui toujours se forment des chimeres, 
+Dont le nombre est plus grand, ne sont qu'imaginaires.
+
+	==================================================

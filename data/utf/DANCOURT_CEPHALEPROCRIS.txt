@@ -1,0 +1,3677 @@
+********************************************************
+	DC.Title                  = CEPHALE ET PROCRIS, COMEDIE
+	DC.Author                 = DANCOURT, Florent Carton dit
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 02/06/2016 a 19:05:33.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/DANCOURT_CEPHALEPROCRIS.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+CEPHALE ET PROCRIS COMEDIEM. DCC. XI. AVEC PRIVILEGE DU ROI.
+De Mr DANCOURT
+	
+	
+	Representee pour la premiere fois le 17 Octobre 1711 au Theatre de la rue des Fosses Saint-Germain.
+	ACTEURS DU PROLOGUE
+MOMUS.
+THALIE, muse de la Comedie.
+ACTEURS DE LA COMEDIE
+L'AURORE, amoureuse de Cephale.
+CEPHALE, aime de l'Aurore.
+PROCRIS, femme de Cephale.
+MERCURE.
+CALLITEE, nymphe, confidente de l'Aurore.
+PHILACTE, confident de Cephale.
+DIONE, suivante de Procris.
+FAUNES et NYMPHES de la suite de l'Aurore.
+La s	cene est sur le Mont Hymette.
+
+
+
+			PROLOGUE.
+
+Le theatre represente un Palais magnifique, ou conduisent de longues allees d'arbres et de jardins. 
+
+Thalie, Momus.
+THALIE.
+Je n'ai point eu, Momus, une esperance vaine,
+La loi du Souverain, l'equite de Themis,
+Par un ordre absolu, m'ont mis
+En droit de soutenir les honneurs de la scene ;
+J'ai triomphe d'un monde d'ennemis,			[5]
+Et malgre d'injustes cabales,
+Avec les Muses triviales,
+On ne reverra plus Thalie en compromis.
+MOMUS.
+Je suis instruit de cette reussite,
+Muse charmante, et vous en felicite.			[10]
+Pour vous tirer d'un pareil embarras,
+Il vous fallait au moins cette double puissance,
+Et le Public, pique de votre negligence,
+Se plaisait a vous voir dans un si mauvais pas.
+J'en etais fache, moi ; mais s'il faut vous le dire,			[15]
+Ce n'etait pas un violent chagrin,
+J'en riais quelquefois parce que j'aime a rire,
+Et je prevoyais bien quelle en serait la fin.
+Elle est telle qu'on la desire,
+Tout reussit au gre de vos souhaits.			[20]
+Pour repondre a tant de bienfaits,
+Que la protection, le bon droit vous attire,
+Quels soins prenez-vous ? Quels projets
+Jusqu'a present avez-vous faits !
+Car il est des faveurs que l'on doit reconnaitre.			[25]
+THALIE.
+Vous en serez surpris peut-etre ;
+Au bruit de ce succes heureux
+Tel qui n'osait me consacrer ses veilles,
+Va desormais m'adresser tous ses voeux.
+Les Racines et les Corneilles,			[30]
+Momus, auront des successeurs ;
+Et tels des modernes Auteurs,
+Qui, par mes conseils, pour matiere
+Ont pris la critique des moeurs,
+Suivront, quoique de loin, les traces de Moliere.			[35]
+Quand on ne peut atteindre au supreme degre,
+Il ne faut point rougir qu'un autre nous surmonte,
+A ce mortel illustre on peut ceder sans honte,
+Et dans le second rang voir son nom consacre.
+MOMUS.
+Que ces modernes Auteurs tachent			[40]
+De ne ceder qu'a ce fameux Auteur.
+THALIE.
+Il en est entre eux qui s'attachent
+A ce dessein avec ardeur.
+MOMUS.
+Tant mieux ; mais laissons les Poetes,
+Et parlons un peu des Acteurs.			[45]
+Par eux, sur le degout qu'ont eu les Spectateurs,
+Quelques reflexions ont-elles ete faites ?
+Je ne pretends en critiquer aucun.
+Du Public en cela j'evite la conduite :
+Il n'en est point qui soit sans talent, sans merite ;			[50]
+Et sans vouloir flatter, je n'en connais pas un,
+Qui, s'il demeurait dans sa sphere,
+Ne put etre place dans quelque caractere
+A s'attirer des applaudissements.
+Nous en voyons l'exemple a tous moments ;			[55]
+Mais ce qui deplait d'ordinaire,
+Ce sont certains derangements
+Qu'on devrait eviter de faire.
+THALIE.
+Vous en parlez bien aisement.
+MOMUS.
+Je redis ce qu'on dit tout naturellement.			[60]
+Quand un Acteur neglige de paraitre,
+S'imagine-t-il que celui
+Qui s'expose a jouer pour lui,
+En porte seul l'iniquite ? Peut-etre.
+S'il le croit, il est dans l'erreur ;			[65]
+Il ne faut pas qu'on s'y meprenne.
+L'un est l'objet de la mauvaise humeur,
+Et l'autre celui de la haine.
+THALIE.
+Que voulez-vous que l'on fasse a cela ?
+Quelque droit que l'on ait d'y trouver a redire,			[70]
+Un Acteur bien souvent ne saurait pas suffire
+A jouer tous les jours tous les roles qu'il a.
+On a la poitrine echauffee.
+MOMUS.
+D'un souper quelquefois pousse jusqu'au matin.
+THALIE.
+Quelque migraine, ou la voix etouffee.			[75]
+MOMUS.
+Ou quelque autre raison bonne ou mauvaise enfin ;
+Les Spectacles comme les votres
+Des Peuples en tous temps feraient tous les desirs,
+Si vos Acteurs ne prenaient leurs plaisirs
+Qu'apres avoir fait ceux des autres.			[80]
+THALIE.
+Momus n'est point adulateur,
+Il aime a critiquer, a blamer et medire.
+MOMUS.
+Je fais profession de n'etre point flatteur :
+Mais je ne veux lacher aucun trait de satire ;
+Si ma morale vous deplait,			[85]
+Restons-en la pour eviter querelle.
+De vos acteurs vous prenez l'interet ;
+C'est bien fait. Avez-vous quelque Piece nouvelle,
+Pour soutenir la Scene avec honneur,
+Et du Public meriter la faveur ?			[90]
+C'est ce que tout Paris attend de votre zele.
+THALIE.
+Oui, Cephale et Procris, un sujet fort connu.
+MOMUS.
+En sa faveur je suis mal prevenu.
+Sur la Scene a nos yeux quand un Poete etale
+Et l'amour dont l'Aurore a brule pour Cephale,			[95]
+Et mes faiblesses de Procris,
+Force de debiter une etrange morale,
+Il s'embarrasse en un facheux dedale ;
+Et s'il s'en tire bien, je serai fort surpris.
+THALIE.
+Vous blamer le sujet ?
+MOMUS.
+J'en aurais pris un autre.			[100]
+Je puis pourtant me tromper la-dessus.
+THALIE.
+Mais par quelle raison, Momus ?
+Pour moi je n'en sais point, expliquez-moi la votre.
+MOMUS.
+Je vous la dis.
+THALIE.
+Plaisante imagination !
+Si l'on s'effarouchait ainsi du caractere,			[105]
+Jamais ni Plaute ni Moliere
+N'auraient traite l'Amphitryon.
+MOMUS.
+Le grand malheur ! Ils auraient pu mieux faire.
+THALIE.
+Je ne suis pas de votre opinion.
+Mais vous, n'auriez-vous point, pour decrier la Piece,			[110]
+Quelque motif secret ? Parlez-moi franchement.
+MOMUS.
+Non, Je vous dis mon sentiment.
+Avec trop peu de politesse
+Peut-etre, mais du moins avec sincerite :
+Foi de Dieu et de probite,			[115]
+Sans en garantir la justesse,
+J'en garantis la verite.
+THALIE.
+Le sujet est plaisant.
+MOMUS.
+Pas trop.
+THALIE.
+Il interesse.
+MOMUS.
+Soit. Mais s'il faut vous parler net,
+Je vous avoue avec franchise,			[120]
+Que sur votre Theatre un semblable sujet
+Me revolte et me scandalise.
+Pourquoi prendre parmi les Dieux,
+Sans egard pour ce que nous sommes,
+De quoi faire rire les hommes,			[125]
+Et nous donner nous-memes en spectacle a leurs yeux ?
+Pensez-vous que la foule idolatre
+De quelques penetrants mortels,
+En nous voyant sur leur Theatre,
+Ait du respect pour nos autels ?			[130]
+Et surtout au moment qu'on nous y fait paraitre
+Ridicules, et souvent tels
+Qu'eux-memes rougiraient de l'etre ?
+THALIE.
+Savez-vous que le serieux,
+Momus, vous sied fort mal ? C'est le style comique,			[135]
+Sans contredit, qui vous convient le mieux ;
+Laissez donc la le pathetique,
+Et ne prenez point tant la querelle des Dieux.
+Ce n'est point moi qui rends leur conduite publique,
+On la connait partout, en Terre, et dans les Cieux ;			[140]
+He qui d'entre eux a la cacher s'applique ?
+Ils semblent au contraire en faire vanite.
+A l'exemple des Dieux nous voyons les Deesses,
+Vouloir pour des vertus nous donner leurs faiblesses,
+A l'ombre de leur dignite.			[145]
+Jupiter a rempli le Ciel de ses maitresses.
+La Mere des Amours, des Graces et des Ris,
+D'entre les bras du Dieu de Thrace,
+Sans honte et sans scrupule passe
+Dans les bras du jeune Adonis,			[150]
+Dont Anchise bientot vient occuper la place.
+Par le malheureux Acteon
+Diane dans le bain surprise,
+En fait grand bruit, d'abord rude punition ;
+Deux jours apres d'un fol amour eprise,			[155]
+Elle passe des nuits avec Endymion.
+L'Aurore sans peur de scandale
+Quitte Titon son vieux mari,
+Dans ses beaux jours si tendrement cheri,
+Et tient menage avec Cephale.			[160]
+De ces intrigues-la tout le monde est instruit,
+Chacun sait ce qu'il en doit croire,
+Et les defauts des Dieux ne font pas plus de bruit
+Sur la scene que dans l'histoire.
+MOMUS.
+Mais vous qui hasardez d'en raisonner ainsi			[165]
+D'une facon si peu polie,
+Dites-moi, divine Thalie,
+N'avez-vous rien sur votre compte aussi ?
+Il est bon d'etre exempt des defauts qu'on condamne.
+THALIE.
+On m'a voulu donner Menandre, Aristophane,			[170]
+Et tous deux ont ete mes favoris, dit-on :
+Mais l'esprit seul eut part a ces intrigues.
+MOMUS.
+Bon.
+Vous et vos soeurs les vertueuses,
+Vous vous retranchez sue l'esprit :
+Mais, si l'on croit ce qu'on en dit,			[175]
+Vous n'etes pas fort scrupuleuses.
+THALIE.
+Du moins sommes-nous bienheureuses
+Qu'il n'y paraisse pas ; et si nous choisissons
+Des favoris, des nourrissons,
+D'aucun enfant (fruit ordinaire			[180]
+Des amoureuses passions)
+Nulle de nous n'est encore mere.
+MOMUS.
+Vous avez de l'esprit, et vous vous en servez
+Pour mieux cacher vos intrigues secretes.
+Ces nourrissons que vous avez,			[185]
+Ces favoris, ce nombre de poetes ?
+THALIE.
+On eut pu soupconner quelqu'un d'eux autrefois
+De nous devoir leur origine :
+Mais pour ceux d'a present, je crois
+Qu'il en est peu qu'on s'imagine			[190]
+Etre issu de race divine.
+MOMUS.
+Ils se disent pourtant tous enfants d'Apollon.
+THALIE.
+Le mensonge est leur apanage ;
+Du Dieu des vers enfants ou non,
+Ils usurpent ce droit dans le sacre vallon,			[195]
+La plupart aujourd'hui n'ont point d'autre heritage.
+MOMUS.
+C'est vous, c'est Apollon qu'on blame de cela.
+THALIE.
+Nous ? Ce sont des enfants sans aveu, sans merite,
+Qu'Apollon meconnait, ou bien qu'il desherite.
+MOMUS.
+He ! Madame Thalie, hola,			[200]
+Doucement, s'il vous plait, la belle :
+Quoi ! Vous allez donner une piece nouvelle,
+Et vous choquez ces messieurs-la ?
+THALIE.
+Je ne pretends choquer personne, je vous jure ;
+Au reste, je soumets l'ouvrage a la censure			[205]
+Des esprits solides et bons,
+Qui savent decider par de justes raisons,
+Louer, ou critiquer avec poids et mesure,
+Penetrer, et connaitre a fond
+Les traits de l'art, et ceux de la belle nature.			[210]
+Voila les juges que je prends ;
+Je me fais un bonheur, un devoir de leur plaire,
+Je recherche avec soin leurs applaudissements :
+Mais pour un tas de frondeurs petulants,
+Critiques indiscrets, nation indocile,			[215]
+Usurpateurs du nom de beaux esprits du temps?
+MOMUS.
+Muse, halte-la, ce sont mes partisans ;
+Je les protege, et vous l'apprends.
+Ils sont tous d'humeur peu facile,
+Mauvais railleurs, et dangereux plaisants ;			[220]
+En leur faveur moderez votre style.
+THALIE.
+Les irriter n'est point ce que je veux ;
+Me preserve Apollon d'une pareille audace.
+Mais vous, prevenez-les, et tachez qu'aupres d'eux
+Cette nouveaute puisse aujourd'hui trouver grace.			[225]
+MOMUS.
+Volontiers, il n'est rien que pour vous je ne fasse,
+Et si je reussis, je me tiens fort heureux.
+Mais j'entends un grand bruit, c'est un retour de chasse :
+De votre Piece apparemment
+C'est l'ouverture ?
+THALIE.
+Justement.			[230]
+MOMUS.
+A vos acteurs il faut ceder la place :
+Vous avez poste vos amis
+Pour applaudir, battre des mains, et rire ?
+THALIE.
+Moi ?
+MOMUS.
+C'est un usage permis,
+Je vais tacher des miens d'arreter la satire,			[235]
+De votre part les prier poliment,
+Pour aujourd'hui de ne rien dire,
+Pas meme apres le denouement ;
+Mais demain?
+THALIE.
+Liberte de parler et d'ecrire ;
+A leur critique, au jugement			[240]
+Qu'ils rendront, avec modestie
+Je me soumets aveuglement.
+MOMUS.
+Et vous faites fort sagement.
+THALIE.
+Jusqu'au revoir, Momus.
+MOMUS.
+Jusqu'a demain, Thalie.
+
+
+			ACTE I
+
+
+SCENE I.
+PHILACTE, seul.
+Quel air pur et tranquille on respire en ces lieux !			[245]
+Que Cephale a son gre s'y livre a ses alarmes,
+Ce beau sejour pour moi n'en a pas moins de charmes,
+Sejour favorise des Dieux,
+Que mon Maitre pour toi n'a-t-il les memes yeux !
+Dans les plus beaux jardins d'Athenes			[250]
+On ne voit point tant de diverses fleurs,
+Elles n'exhalent point de si douces odeurs,
+Et nos forets n'ont point de chenes
+Qui fournissent au voyageur
+Tant d'ombre, ni tant de fraicheur.			[255]
+Quelle main a perce ces longues avenues,
+Dont les arbres touchent les nues !
+Que ces bois sont delicieux !
+Mais ici franchement ce que j'aime le mieux,
+Ce sont les manieres paisibles			[260]
+De certains animaux partout ailleurs terribles.
+Dans la dure necessite
+De suivre Cephale a la chasse,
+J'avais toujours besoin ou de ruse, ou d'audace :
+Mais ici de tout soin je me trouve exempte,			[265]
+Un Sanglier, animal redoute,
+Dont l'aspect seul suffit pour le defendre,
+Comme un Lievre a l'instant vient de se laisser prendre.
+De mille objets charmants l'esprit ici flatte,
+Ne craint dans les plaisirs que la facilite,			[270]
+Ordinaire poison des ames,
+Par qui le vrai plaisir est fort souvent gate.
+O l'aimable pays ! L'heureux sejour ! Les femmes
+Y sont d'un agrement, d'une docilite?
+Quand par grand malheur de le mienne			[275]
+Le hasard veut que je me ressouvienne,
+Quel plaisir je ressens de m'en voir ecarte !
+Mais j'apercois une jeune beaute,
+Avec qui tout d'abord j'ai lie connaissance ;
+Assez content de mon premier debut,			[280]
+Jusqu'au bout, s'il se peut, poussons sa complaisance.
+SCENE II. Philacte, Callitee.
+CALLITEE.
+Au gracieux Philacte, honneur, joie et salut.
+PHILACTE.
+Tres humble serviteur, charmante Callitee.
+CALLITEE.
+Mais n'ai-je point trouble le tendre souvenir
+De quelque aimable objet, dont votre ame flattee			[285]
+Se plaisait a s'entretenir ?
+De quelque agreable pensee
+Je vous distrais peut-etre en ce moment ?
+PHILACTE.
+N'en soyez point embarrassee,
+Je pense toujours, moi, fort agreablement :			[290]
+Mais on ne jouit pas toujours de l'agrement
+D'un entretien comme le votre ;
+J'en connais le prix mieux qu'un autre.
+CALLITEE.
+Philacte est tout a fait galant.
+PHILACTE.
+Je fais profession de l'etre,			[295]
+C'est mon premier metier, et mon plus beau talent,
+Et sans trop me flatter, j'y suis assez bon maitre :
+Mais d'un objet charmant la vue et l'entretien,
+Fait qu'on a moins de peine encore a le paraitre,
+Et la beaute ne gate jamais rien.			[300]
+CALLITEE.
+En verite je suis ravie
+De vous trouver pour moi de pareils sentiments :
+Mais laissons la les compliments,
+Bannissons la ceremonie.
+PHILACTE.
+C'est fort bien dit.
+CALLITEE.
+Il ne tiendra qu'a vous			[305]
+Que desormais, tous deux d'intelligence,
+Nous n'ayons de concert un commerce entre nous
+D'entretien et de confiance,
+Et que par un retour sincere et mutuel?
+PHILACTE.
+Helas tres volontiers, je ne suis point cruel,			[310]
+Et jusqu'ou vous voudrez nous pousserons l'affaire ;
+Je ne m'en dedis point, et je ne puis m'en taire,
+Voici le plus charmant sejour?
+CALLITEE.
+Que dites-vous ?
+PHILACTE.
+Je n'en fais point mystere,
+Je dis que c'est ici pour moi le plus beau jour,			[315]
+Que je suis le mortel le plus heureux?
+CALLITEE.
+Peut-etre.
+Ne puis-pas, car je sais me connaitre,
+Vous faire un bonheur tel que vous le souhaitez,
+Ou tel que vous le meritez ?
+Mais, et vous le savez, je sers une maitresse.			[320]
+PHILACTE.
+Vous vous moquez de moi vraiment.
+CALLITEE.
+Non, je parle sincerement ;
+Il ne tiendra qu'a vous qu'elle ne s'interesse?
+PHILACTE.
+Mais fi donc, vous n'y songez pas :
+Le ciel entre nous deux a mis trop d'intervalle			[325]
+Pour? Baste, elle fera le bonheur de Cephale,
+Et? Chargez-vous du mien, je ne m'en plaindrai pas.
+CALLITEE.
+Nous y travaillerons de concert l'un et l'autre :
+Mais comme vous pouvez contribuer au notre,
+Je voudrais apprendre de vous?			[330]
+PHILACTE.
+Je veux aussi de vous savoir certaine chose.
+CALLITEE.
+Tres volontiers : mais la loi que j'impose,
+C'est que la bonne foi surtout regne entre nous.
+PHILACTE.
+D'accord, soit.
+CALLITEE.
+Je veux pour vous marquer la mienne,
+Etre la premiere a parler :			[335]
+Mais prenez garde ensuite a ne me rien celer.
+PHILACTE.
+Non, je vous le promets.
+CALLITEE.
+Qu'il vous en souvienne.
+Quand on m'ose mentir, je sais le demeler,
+Je vois fort clair.
+PHILACTE.
+Tant mieux, c'est votre affaire,
+Et la mienne est a moi, que vous soyez sincere ;			[340]
+Soyez-le donc si vous pouvez.
+Le Prince Cephale, mon maitre,
+Est un garcon bien fait, comme vous le savez,
+Mais modeste, fort sage, et des plus reserves,
+Comme vous l'ignorez peut-etre.			[345]
+Fort bien. C'est la ce qui fait naitre,
+Le gout que je crois qu'aujourd'hui
+Votre maitresse a pris pour lui.
+CALLITEE.
+Cela se pourrait bien, une coquette habile,
+Qui cherche des plaisirs solides et certains,			[350]
+Prefere la sagesse indolente et tranquille,
+Fut-ce meme d'un imbecile,
+Au dangereux brillant des fameux libertins.
+PHILACTE.
+Ce n'est pas la le caractere
+Du maitre que je sers. Mais s'il ne faut rien taire,			[355]
+Ce qui nous arrive en ces lieux
+Nous surprend, et donne a tous deux
+Une certaine defiance?
+CALLITEE.
+C'est la ce qui le rend si retenu, je pense ?
+PHILACTE.
+Justement.
+CALLITEE.
+Ainsi donc tous deux embarrasses?			[360]
+PHILACTE.
+Nous le sommes, ma foi, plus que vous ne pensez?
+He ! Qui ne le serait ? Au pied du Mont Hymette,
+De nombre de chasseurs Cephale accompagne,
+Se trouve au rendez-vous qu'il avait designe :
+Le Cerf debuche, et gagne un bosquet sur la droite ;			[365]
+Nos chiens apres : nous suivons, nous allons
+De rochers en rochers, de vallons en vallons :
+Puis, par une route connue,
+Nous coupons dans la plaine ou nous chassons a vue.
+Le Cerf regagne les hauteurs ;			[370]
+Nos chiens presque tous hors d'haleine
+Perdent la voie et chassent avec peine :
+La force manque aux plus hardis chasseurs.
+L'air s'obscurcit, le ciel se couvre d'un nuage,
+Chacun cherche a se mettre a couvert de l'orage,			[375]
+Nous restons seuls mon maitre et moi ;
+Lui plein d'audace, et moi transi d'effroi.
+Les chiens pres de nous se rassemblent ;
+Je crois m'apercevoir qu'ils tremblent,
+Et cet incident-la ne me rassure pas :			[380]
+Je ne fus de ma vie en pareil embarras.
+Mais le Soleil ecarte enfin la nue,
+Plus beau, plus vif il reparait :
+Quels prodiges alors s'offrent a notre vue !
+Nous ne connaissons plus ni route, ni foret,			[385]
+Les rochers, les coteaux, tout a change de place,
+Tout est perdu pour nous, les chasseurs et la chasse,
+Le Mont Hymette a disparu.
+Comment, par ou retourner dans Athenes ?
+Nous suivons quelque temps des routes incertaines ;			[390]
+Puis apres avoir bien couru,
+Plus fatigue d'inquietude
+Que de la course la plus rude,
+Triste reveurs, pres d'un etang,
+S'offre a nos yeux une biche au poil blanc.			[395]
+Nous, malgre notre lassitude,
+De la suivre dans le moment,
+Elle de fuir, mais lentement,
+Comme en craignant qu'on la perdit de vue.
+Elle nous guide aux bords d'un superbe canal,			[400]
+Dont l'onde baigne une longue avenue.
+La, sur un roc d'ou sort un torrent de cristal,
+De Diane on voit la Statue ;
+Le roc lui sert de piedestal.
+Quoique faiblement poursuivie			[405]
+La biche fuit vers le rocher,
+Comme si pour sauver sa vie
+Il suffisait d'en approcher.
+La Statue aussitot cesse d'etre immobile,
+Elle semble baisser le bras			[410]
+Pour montrer qu'elle donne asile
+A l'animal tremblant dont nous suivons les pas.
+Cette biche, o surprise extreme !
+Devient marbre a l'instant sans changer sa couleur ;
+Et nos chiens, transformes de meme,			[415]
+Gardent les taches de la leur.
+Moi, de cette etrange aventure
+Moins surpris que mortifie,
+Je me tatais partout, et croyais je vous jure,
+Que j'avais deja la peau dure,			[420]
+Et que j'allais bientot etre marbrifie.
+Je ne sais pas quelle figure
+Faisait mon maitre alors de son cote ;
+Mais je crois bien en verite
+Qu'en lui, tout comme en moi, souffrait dame nature.			[425]
+Je ne vous dirai pas comment le reste alla,
+Je ne vis point comment votre aimable maitresse
+Avec sa suite arriva la :
+Je tombai, je pense, en faiblesse,
+Et me trouvai le soir dans ce Palais,			[430]
+Ou nous avons sans doute une charmante hotesse,
+Qui pour nous regaler ne prend point garde aux frais ;
+Ou mille doux plaisirs se presentent sans cesse ;
+Ou vous m'offrez le plus heureux destin,
+Sejour digne des Dieux, et trop beau pour les hommes ;			[435]
+Ou nous nous plairions fort enfin,
+Si nous n'ignorions ou nous sommes.
+CALLITEE.
+Le grand malheur ! Au milieu des plaisirs,
+Qu'importe en quels lieux on les prenne ?
+Curiosite sotte et vaine.			[440]
+He ! Que peut-il ici manquer a vos desirs ?
+PHILACTE.
+Notre maison, nos Dieux, notre Patrie.
+CALLITEE.
+La plaisante bizarrerie !
+La patrie est la ou l'on est bien.
+L'homme est un habitant du monde :			[445]
+Et croyez-moi, partout ou le plaisir abonde
+Un sage ne souhaite rien.
+PHILACTE.
+Faut-il vous avouer le sujet de nos peines ?
+Mon maitre et moi nous sommes fort connus,
+Et l'on ne sait aujourd'hui dans Athenes			[450]
+Ce que nous sommes devenus :
+On fait, pour nous trouver, mille recherches vaines,
+Peut-etre y passons-nous pour de francs libertins ;
+Quand les gens sont absents vous savez comme on cause.
+Et si? l'esprit frappe de quelque faux soupcon,			[455]
+Nos femmes? car enfin quelquefois que sait-on ?
+De notre egarement croyant savoir la cause,
+Allaient? pour eviter la suite de la chose,
+Il est bon qu'a notre retour,
+(Car nous les reverrons peut-etre quelque jour,)			[460]
+Nous puissions tout au moins leur dire
+Quel lieu nous avons habite,
+Avec qui nous aurons ete.
+Daignez, s'il vous plait, m'en instruire,
+Contentez la-dessus ma curiosite ;			[465]
+Vous ne sauriez vous en dedire,
+Et vous m'avez promis de la sincerite.
+CALLITEE.
+Je veux bien satisfaire au desir qui vous presse :
+Mais?
+PHILACTE.
+Ne craignez rien.
+CALLITEE.
+Ma maitresse
+Sent pour Cephale un violent amour.			[470]
+PHILACTE.
+C'est parler net et sans detour,
+Et ceci n'est point bagatelle ;
+J'y prends, moi, pour mon compte, un notable interet.
+Mais expliquons-nous, s'il vous plait :
+Cette maitresse, quelle est-elle ?			[475]
+Nous autres gens de qualite
+Nous connaissons sans vanite
+Les bonnes maisons de la Grece,
+Et je n'y sais point de Princesse
+Ni d'une pareille beaute,			[480]
+Ni d'une si grande richesse.
+CALLITEE.
+Elle a moins de fortune encore que d'appas,
+Il n'est point de beaute comparable a la sienne,
+Pour Princesse elle ne l'est pas.
+PHILACTE.
+Que diable est-elle donc ? Quelque Magicienne,			[485]
+Qui par enchantement cherche a se faire aimer ?
+Nous savons tout ce qu'on publie
+Des charmes de la Thessalie,
+Et nous ne sommes point gens a nous laisser charmer.
+Il est des vieilles dans Larisse			[490]
+Qui ne font point d'autre metier
+Que de plaire par artifice :
+Je me connais en semblable gibier,
+Et mon maitre n'est pas novice.
+CALLITEE.
+Oh bien, il n'est ici question surement			[495]
+De vieille ni d'enchantement.
+PHILACTE.
+Je n'en repondrais pas. Depuis notre arrivee
+Je l'ai quelque fouis observee.
+CALLITEE.
+He ! Pour prendre un soupcon pareil,
+Qu'avez-vous vu ?
+PHILACTE.
+Qu'avant le lever du soleil,
+A petit bruit sans suite aucune,
+Mysterieusement elle sort du Palais ;
+Et puis quelques moments apres
+J'ai remarque qu'on voit palir la Lune :			[505]
+Ce sont la des enchantements
+Les effets les plus ordinaires.
+CALLITEE.
+Fort bien.
+PHILACTE.
+Je ne me trompe gueres,
+Elle revient au bout de quelque temps ;
+A son retour elle rentre en cachette			[510]
+Dans un appartement des bains,
+Elle s'y met a sa toilette ;
+Et si mes soupcons ne sont vains,
+Ses charmes les plus forts sont dans une cassette.
+Vous riez ? Hem.
+CALLITEE.
+Je ris des sentiments humains,			[515]
+Dans quel aveuglement l'apparence les jette,
+A combien de soupcons divers
+Les expose une erreur funeste ?
+La Divinite que je sers?
+PHILACTE.
+Une Divinite, dites-vous ? Malepeste.			[520]
+CALLITEE.
+Ouvre la barriere du jour ;
+Enfin, c'est l'Aurore elle-meme,
+Qui pour Cephale a tant d'amour.
+Il est sur d'un bonheur extreme,
+S'il devient sensible a son tour :			[525]
+Mais lorsqu'il apprendra que la Deesse l'aime,
+S'il tarde a repondre a ses voeux,
+Il peut compter que pour peu qu'il differe?
+PHILACTE.
+Differer, lui ? Je reponds du contraire,
+Et vous le garantis tout d'abord amoureux.			[530]
+Voila ce qui s'appelle une bonne fortune :
+L'Aurore? n'en deplaise, a l'eclat du haut rang,
+Il est des Deesses pourtant
+De qui la passion pourrait etre importune ;
+Mais ici tout promet le plus charmant bonheur ;			[535]
+Graces, jeunesse, attraits, et de l'amour encore.
+Tudieu, quelle eveillee est Madame l'Aurore,
+Et quels droits sa beaute lui donne sur un coeur !
+Vous qui servez cette aimable maitresse,
+Vous etes Nymphe ?
+CALLITEE.
+Justement.			[540]
+PHILACTE.
+Et favorite, apparemment ?
+CALLITEE.
+J'ai le secret de la Deesse.
+PHILACTE.
+Diantre. Si par hasard il vous prenait pour moi
+Le meme gout qu'elle a pris pour mon maitre ?
+CALLITEE.
+Je ne risquerais rien de le faire connaitre,			[545]
+Vous auriez la bonte d'y repondre.
+PHILACTE.
+Oui, ma foi.
+CALLITEE.
+Je le crois : mais enfin, vous savez quelle loi
+Nous nous venons d'imposer l'un a l'autre,
+J'ai tenu ma parole, il faut tenir la votre,
+Et me parler sincerement.			[550]
+PHILACTE.
+Interrogez en assurance.
+CALLITEE.
+Cephale n'a-t-il point de tendre engagement ?
+Est-il libre ?
+PHILACTE.
+Comment ? Vous vous moquez, je pense ?
+Fi donc.
+CALLITEE.
+Quoi ! La-dessus vous gardez le silence ?
+Il vous sied bien, vraiment, de faire le discret.			[555]
+PHILACTE.
+Dans le coeur des mortels, est-il quelque secret
+Que ne penetre une Deesse ?
+CALLITEE.
+Oui, quand par gout, ou par faiblesse
+Le coeur d'une Divinite
+Se livre tout a la tendresse,			[560]
+Alors celui de son amant,
+Est impenetrable pour elle ;
+Elle n'y voit pas plus qu'une simple mortelle,
+Et la loi du destin les traite egalement :
+C'est la, depuis trois jours, ce qui fait que l'Aurore			[565]
+Hesite a decouvrir son rang et son ardeur ;
+Et vous l'ignoreriez encore,
+Si je vous croyais un causeur.
+PHILACTE.
+He, De quelle vaine frayeur
+L'Aurore est-elle inquietee ?			[570]
+CALLITEE.
+Cephale aime, dit-on, la fille d'Erecthee.
+PHILACTE.
+Procris ? Fi, donc.
+CALLITEE.
+D'ou vient que vous vous recriez ?
+PHILACTE.
+Vous n'avez rien a craindre, ils sont?
+CALLITEE.
+Quoi ?
+PHILACTE.
+Maries.
+CALLITEE.
+Et c'est la ce qui doit intriguer davantage.
+PHILACTE.
+Leur tendresse a fini son cours ;			[575]
+Trois semaines de mariage,
+Emportent le beau des amours,
+Le mois n'est pas fini qu'on a plus rien dans l'ame :
+Des le lendemain, moi, je haissais ma femme,
+Et ma haine ne fait qu'augmenter tous les jours.			[580]
+CALLITEE.
+Si votre maitre aimait encore la sienne,
+L'Aurore?
+PHILACTE.
+La-dessus que rien ne la retienne ;
+He, que doit craindre un coeur comme le sien ?
+Peut-etre elle ressent quelque petite honte
+A debaucher ainsi, dans l'ardeur qui la dompte,			[585]
+Un nouveau marie ? Cela n'est pas trop bien,
+Dans le fond : mais au bout du compte,
+On n'est pas Deesse pour rien,
+Chez les mortels a des bornes etroites
+La morale restreint : mais les Dieux ont leurs droits,			[590]
+Et la severite des lois
+N'est pas pour ceux qui les ont faites.
+CALLITEE.
+Il faut bien que le rang excuse quelquefois.
+PHILACTE.
+Le votre porte aussi son excuse.
+CALLITEE.
+Sans doute.
+PHILACTE.
+Et vous en profitez de votre mieux.
+CALLITEE.
+D'accord :			[595]
+La haute qualite dans les plaisirs qu'on goute,
+Embarrasse souvent tres fort.
+En de certains moments trouvez-vous qu'on ait tort,
+De regagner un peu d'ailleurs ce qu'il en coute ?
+Mais Cephale vient en ces lieux ;			[600]
+Il ignore encore sa conquete :
+Il est sombre, reveur ; qu'aurait-il dans la tete ?
+PHILACTE.
+Toujours notre aventure est presente a ses yeux.
+CALLITEE.
+Observons-le un moment, nous en jugerons mieux.
+SCENE III. Cephale, Callitee, Philacte.
+CEPHALE.
+Par quelle puissance secrete			[605]
+En ces lieux suis-je retenu ?
+Quelles mains sur le mont Hymette
+A place ces jardins, ce Palais inconnu ?
+Non, mes craintes ne sont point vaines,
+J'eprouve un juste courroux.			[610]
+Du bonheur que l'hymen m'avait fait dans Athenes,
+Les Dieux sont devenus jaloux,
+Que dois-je presumer d'une telle aventure ?
+Veulent-ils donc me rendre infidele, parjure ?
+Pensent-ils que sensible a de nouveaux appas?			[615]
+He, qui des Immortels faudra-t-il que j'implore
+Dans le trouble qui me devore ?
+Si quelqu'un d'eux peut-etre ici retient mes pas
+Pour m'enlever l'epouse que j'adore.
+PHILACTE.
+Cette cervelle-la n'est pas sans embarras,			[620]
+S'il poursuit sur ce ton, quels maux il nous apprete.
+CALLITEE.
+L'embarras est au coeur beaucoup plus qu'a la tete,
+Et l'Amour seul peut ainsi l'occuper
+PHILACTE.
+Vous pourriez ne vous pas tromper,
+Je vous crois la-dessus beaucoup de connaissance.			[625]
+CEPHALE.
+Pour un coeur vivement epris,
+Quel affreux tourment que l'absence,
+Procris, adorable Procris !
+CALLITEE.
+Il parle de Procris, je pense.
+PHILACTE.
+Oui, j'entends marmotter quelque chose a peu pres,			[630]
+Fi, le vilain, il est amoureux de sa femme.
+CALLITEE.
+Il se songe qu'a ses attraits,
+Toujours la meme ardeur l'enflamme.
+CEPHALE.
+Procris, si quelque Dieu devenu votre amant,
+Dans ces lieux malgre moi m'arrete,			[635]
+Pour profiter de mon eloignement,
+Il s'efforcera vainement
+De vous faire un jour sa conquete :
+Je ne crains point, au mepris de ma foi,
+Que vous le preferiez a moi.			[640]
+PHILACTE.
+Trouvez-vous que de sa personne
+Il ait mauvaise opinion ?
+CALLITEE.
+Tout au contraire, il l'a tres bonne,
+Ses discours en sont caution.
+CEPHALE.
+Soyez aussi, Procris, sure de ma constance :			[645]
+Venus, la mere de l'Amour,
+M'arreterait en vain dans ce charmant sejour ;
+Pour vous ravir un coeur a vous par preference,
+Je verrais tout l'Olympe a mes voeux oppose,
+Que je vous repondrais de ma perseverance.			[650]
+CALLITEE.
+Voila pour ma maitresse un coeur bien dispose.
+PHILACTE.
+Les gens qui parlent seuls parlent avec franchise ;
+Je crois que d'un pareil discours
+Nous ne ferons pas mal d'en interrompre le cours,
+Il pourrait bien encore lacher quelque sottise :			[655]
+Je connais ces amoureux-la.
+Hom, hom.
+CEPHALE.
+C'est toi, Philacte ?
+PHILACTE.
+Oui, Seigneur, me voila.
+Mais je ne suis pas seul, et l'on doit prendre garde
+Quand on reve tout haut a ce que l'on hasarde ;
+Ce que l'on pense ainsi rarement est secret,			[660]
+Rever tout bas est plus discret :
+Ce sont menagements que la raison demande,
+Et c'est comme j'ai, moi, coutume d'en agir.
+CEPHALE.
+Quand de ses sentiments on n'a point a rougir,
+On ne craint pas qu'on les entende.			[665]
+CALLITEE.
+On n'a point a rougir, Seigneur, d'etre amoureux :
+Mais permettez que j'ose vous le dire,
+De cette ardeur qui vous inspire
+L'aveu dans ce sejour peut-etre dangereux ;
+Non qu'aux traits de l'amour on veuille ici pretendre			[670]
+Ferme votre coeur et vos yeux,
+Il sied bien d'avoir un coeur tendre,
+Et vous ne pouvez faire mieux?
+CEPHALE.
+Achevez un discours que j'ai peine a comprendre.
+CALLITEE.
+Vous paraissez surpris ?			[675]
+CEPHALE.
+Ce n'est pas sans sujet.
+CALLITEE.
+Plus clairement je vais me faire entendre :
+Aimez, Seigneur, c'est fort bien fait,
+Gardez-vous de vous en defendre ;
+Mais songez a changer d'objet ;
+En suivant mes conseils vous pouvez vous attendre			[680]
+A jouir d'un bonheur parfait.
+PHILACTE.
+Ne parlez point de ces extravagances,
+Je saurai par mes remontrances
+Le remettre dans son devoir.
+SCENE IV. Cephale, Philacte.
+CEPHALE.
+Quel est donc ce bonheur qu'on me fait entrevoir ?			[685]
+PHILACTE.
+Un bonheur qu'entre nous vous ne meritez gueres.
+CEPHALE.
+Comment ?
+PHILACTE.
+La chose est serieuse, au moins.
+CEPHALE.
+Explique-toi.
+PHILACTE.
+Ceci merite assez nos soins.
+CEPHALE.
+Mais?
+PHILACTE.
+Ce ne sont pas des chimeres.
+CEPHALE.
+Mais encore ?
+PHILACTE.
+Si je n'eusse interrompu le cours			[690]
+De vos extravagants discours,
+Vous faisiez de belles affaires.
+CEPHALE.
+He, qui te fait m'oser parler ainsi ?
+PHILACTE.
+Parbleu, c'est un exces de zele,
+Savez-vous bien, Monsieur l'epoux fidele,			[695]
+Chez qui nous nous trouvons ici ?
+CEPHALE.
+Moi ? Non, Philacte, je l'ignore.
+PHILACTE.
+On m'a bien defendu de vous en dire rien.
+CEPHALE.
+Apprends-le-moi, n'importe.
+PHILACTE.
+Il n'est pas temps encore ;
+Et le secret pourtant deja m'etouffe.
+CEPHALE.
+He bien ?			[700]
+PHILACTE.
+Je vous le dis a vous par forme d'entretien,
+N'en parlez pas.
+CEPHALE.
+Non, non.
+PHILACTE.
+Nous sommes chez l'Aurore.
+CEPHALE.
+Chez l'Aurore !
+PHILACTE.
+Oui, vous y voila ;
+C'est une bonne auberge, au moins, que celle-la,
+Si vous saviez pour vous jusqu'ou va sa folie ?			[705]
+CEPHALE.
+L'Aurore ! Ah, Ciel, quelle fatalite !
+PHILACTE.
+Sa Nymphe d'honneur est jolie,
+Elle a pour moi du faible aussi de son cote.
+CEPHALE.
+On pretend en vain que j'oublie
+Vos attraits, charmante Procris.			[710]
+PHILACTE.
+Les oublier ! Oh, je vous en defie,
+La peste, a trop bon droit vous en etes epris !
+Mais n'en disons mot, je vous prie ;
+L'Aurore est a ma fantaisie
+Une aimable Divinite,			[715]
+Avec qui sans ceremonie,
+Sans crainte, sans difficulte,
+Sans nuire, sans tracasserie ;
+Et sans trop deranger cette fidelite
+Dont pour Procris vous faites vanite,			[720]
+Vous pourriez bien d'amour lier quelque partie,
+J'en serais fort content, car je suis fort tente,
+Lorsqu'aux plaisirs ici tout nous convie,
+De faire pour en prendre une societe.
+Cette maitresse Nymphe est faite a faire envie,			[725]
+Et je lui crois pour moi de la docilite.
+Mais la Deesse approche, et je la vois paraitre :
+C'est a nous qu'on en veut, on nous abordera ;
+Et pour voir ce qu'on nous dira,
+Feignons d'abord de ne la pas connaitre.			[730]
+SCENE V. L'Aurore, Cephale, Callitee, Philacte.
+CEPHALE, a part.
+Ciel, de quel mouvement je me trouve agite !
+Est-ce respect, crainte ou faiblesse ?
+Ah ! Cachons pour Procris jusqu'ou va ma tendresse,
+Et tachons, en flattant les voeux de la Deesse,
+De recouvrer ma liberte.			[735]
+L'AURORE.
+Quoi, Cephale ! En ces lieux vous n'avez d'autres soins,
+Que de chercher la solitude ?
+Ce qui doit vous toucher vous occupe le moins,
+Et tout entier a votre inquietude,
+Vous craignez d'en avoir nos regards pour temoins.			[740]
+Rien ne s'est-il ici offert a votre vue
+Digne de votre attention ?
+Et de tout autre objet votre ame prevenue,
+Voit-elle sans emotion
+Les effets que produit dans cette occasion,			[745]
+De quelque Dieu la puissance absolue ?
+CEPHALE.
+Madame, le trouble ou je suis
+Ne me laisse point a moi-meme,
+Et dans une surprise extreme,
+Plein de respect, me taire est tout ce que je puis,			[750]
+Un triste souvenir dont j'ai l'ame remplie?
+L'AURORE.
+Ah ! Si cette melancolie
+N'etait qu'un simple effet de votre etonnement,
+Pour vous en tirer aisement,
+Le moindre effort serait utile,			[755]
+Rien ne vous troublerait ici ;
+Si votre coeur etait tranquille,
+Votre esprit le serait aussi.
+CEPHALE.
+L'un ni l'autre ne peuvent l'etre ;
+De tout ce que je vois interdit et confus,			[760]
+Je fais des efforts superflus
+Pour cacher des chagrins dont je ne suis pas maitre,
+Contraint de les laisser a regret eclater?
+L'AURORE.
+Quelle fortune, heureux Cephale,
+Si vous saviez la meriter,			[765]
+A la votre serait egale ?
+Ce superbe Palais, ces jardins et ces bois,
+Qui tiennent aujourd'hui la place
+De ces autres forets, que l'ardeur de la chasse
+Vous fit parcourir tant de fois ;			[770]
+Ce changement qui vous fait meconnaitre
+En quels climats vous habitez,
+Et les lieux les plus frequentes
+Ou vous aviez coutume d'etre ;
+La purete de l'air qu'ici vous respirez,			[775]
+Cette puissance invisible et supreme,
+Qui sait par des ressorts, des mortels ignores,
+Vous retenir malgre vous-meme,
+Mes regards ; tout enfin vous laisse-t-il douter
+Des sentiments d'une Immortelle,			[780]
+Qui tache de vous arreter
+Dans une demeure si belle,
+Et qui ne craindrait point de laisser eclater
+Ce qu'elle sent pour vous, si vous bruliez pour elle ?
+PHILACTE, bas a Cephale.
+Le compliment est bien ecrit,			[785]
+Seigneur, on attend la reponse.
+CALLITEE, bas a l'Aurore.
+Il se tait, il est interdit,
+Madame, quel succes son trouble nous annonce !
+L'AURORE.
+Vous palissez, vous vous troublez :
+Cet embarras, ce long silence,			[790]
+Cette incertitude m'offense,
+Cephale, expliquez-vous, parlez :
+Je ne sais point des coeurs penetrer le mystere,
+Et n'ai nul droit de les contraindre en rien.
+Etes-vous maitre encor du votre, et peut-il faire			[795]
+L'attachement, les delices du mien ?
+CEPHALE, a genoux.
+Sur le coeur des mortels quels droits n'a point, Madame,
+Une aimable Divinite ?
+En est-il que votre beaute
+Des feux les plus ardents n'enflamme ?			[800]
+Vous rallumez ceux du flambeau du jour,
+L'Univers vous doit la lumiere,
+Vous pouvez de ceux de l'amour
+Embraser la nature entiere ;
+Maitresse de nos libertes,			[805]
+De tous nos voeux arbitre souveraine?
+L'AURORE.
+Cephale, levez-vous, tant de respect me gene,
+Et l'amour n'admet point ces inegalites
+Entre deux coeurs unis d'une egale tendresse.
+PHILACTE, a part.
+La bonne pate de Deesse !			[810]
+CEPHALE.
+De tout ce que j'entends charme, quoique incertain,
+Dans quel trouble nouveau tant de faveurs me plonge ?
+Tout ceci me parait un songe
+Dont je tremble de voir la fin.
+Ah ! C'en est un sans doute, et ce bonheur insigne?			[815]
+PHILACTE.
+Depechez-vous d'en faire une realite.
+CEPHALE.
+Un simple mortel n'est pas digne
+Qu'il devienne une verite.
+L'AURORE.
+Aimez, Cephale, aimez, mais avec confiance ;
+Meritez par vos soins et par votre constance,			[820]
+D'etre l'unique objet de mes voeux les plus doux :
+Je ne veux etre aimable que pour vous.
+Et si l'auteur de la lumiere,
+Le Soleil, le plus beau des Dieux,
+A qui tous les matins, pour sa vaste carriere,			[825]
+J'ouvre la barriere des Cieux,
+M'offrait ses soins et ses plus tendres voeux,
+Cephale aurait sur lui la preference entiere.
+CEPHALE.
+Et moi, Deesse, et moi, comble de vos bontes,
+Par quel encens, par quelle offrande,			[830]
+Puis-je payer jamais une faveur si grande ?
+Je vous consacrerai toutes mes volontes.
+Dans tous les lieux soumis a ma puissance
+Je vous eleverai des temples, des autels,
+Ou mes Peuples charges de ma reconnaissance,			[835]
+Iront vous adresser leurs voeux par preference
+A tous les autres Immortels :
+Ouvrez-moi les routes d'Athenes,
+Et des le meme instant que j'y suis de retour?
+L'AURORE.
+Cephale, quels discours, quelles promesses vaines ?			[840]
+Vous me parlez d'encens, je vous parle d'amour :
+C'est votre coeur que je demande,
+Temples, autels, sans lui rien ne me peut flatter,
+Je dedaigne toute autre offrande,
+C'est la seule envers moi qui vous puisse acquitter.			[845]
+CEPHALE.
+Madame?
+L'AURORE.
+De l'amour le plus vif, le plus tendre
+Je vous ai fait Cephale, un indiscret aveu ;
+Songez bien au parti que vous avez a prendre.
+CEPHALE.
+Ah ! Si jamais ce coeur?
+L'AURORE.
+Laissez-moi seule. Adieu.
+PHILACTE.
+Le brutal ! Quels regards la Deesse nous jette,			[850]
+Elle est dans un fort grand courroux ;
+Tout allait bien d'abord, j'ai cru l'affaire faite :
+Madame, au moins?
+L'AURORE.
+Retirez-vous.
+PHILACTE.
+Ciel ! Comment reparerons-nous
+L'impertinence qu'il a faite ?			[855]
+SCENE VI. L'Aurore, Callitee.
+L'AURORE.
+J'aime un mortel qui ne sent rien pour moi !
+De quel depit cruel je me sens agitee :
+Je l'avais prevu, Callitee ;
+A mes pressentiments que n'ai-je ajoute foi ?
+On me prefere la fille d'Erecthee ?			[860]
+L'ingrat Cephale instruit de mon amour
+Ne prend nulle part a mes peines,
+Pour lui ces lieux charmants sont un affreux sejour,
+Tous ses soins, tous ses voeux l'emportent vers Athenes,
+Il ne songe qu'a son retour.			[865]
+CALLITEE.
+Je ne sais, mais, Madame, ou je suis fort trompee,
+Ou je crois que dans peu de temps,
+De quelques soins plus importants,
+Nous lui verrons l'ame occupee :
+Vos yeux en le quittant ont lance certains traits :			[870]
+Eut-on le coeur le moins sensible,
+Madame, il est presque impossible
+De resister a tant d'attraits.
+L'AURORE.
+Ah ! Cesse de vanter des charmes
+Pour qui l'on n'a que du mepris,			[875]
+Ils cedent a ceux de Procris.
+CALLITEE.
+Vous prenez de vaines alarmes,
+Point de depit, point de langueur,
+De Cephale aujourd'hui nous reduirons le coeur :
+Il balance deja, peut-etre il delibere,			[880]
+Aux feux d'une Deesse on fait attention.
+Il se rendra, vous dis-je, et j'en suis caution ;
+Je m'y connais. C'est moi qui conduisis l'affaire
+De Diane et d'Endymion,
+Qui d'abord n'etait pas moins difficile a faire.			[885]
+L'AURORE.
+A ta conduite, a ta discretion,
+Je m'abandonne toute entiere.
+Mais quel mortel est assez temeraire
+Pour approcher d'ici sans ma permission ?
+CALLITEE.
+Ce n'est pont un mortel, c'est un Dieu, c'est Mercure.			[890]
+SCENE VII. L'Aurore, Callitee, Mercure.
+MERCURE.
+C'est moi-meme, il est vrai, vous avez de bons yeux.
+L'AURORE.
+He ! Par quelle heureuse aventure
+Voit-on Mercure dans ces lieux ?
+MERCURE.
+L'aventure n'a rien qui soit fort gracieux,
+Et j'aurais bien voulu m'epargner le voyage.			[895]
+L'AURORE.
+Comment donc ! Et quel est ce lugubre equipage ?
+MERCURE.
+Il vous parait tous des plus serieux,
+Aussi l'est-il.
+L'AURORE.
+Et de mauvais augure.
+MERCURE.
+Il est vrai, vous avez raison :
+Mais il faut malgre moi prendre cette figure,			[900]
+Toutes les fois que chez Pluton
+Je vais des morts conduire la voiture
+Jusques a la barque de Caron.
+Pour aujourd'hui m'en voila quitte.
+L'AURORE.
+Mais des defunts le discret conducteur,			[905]
+Au retour des bords du Cocyte,
+Eut pu changer d'habits pour me faire l'honneur
+De me venir rendre visite.
+MERCURE.
+Je n'ai pas eu le temps d'aller chez le baigneur,
+Jupiter m'a charge de faire diligence,			[910]
+Et d'aller au plutot lui faire le recit
+De tout ce que vous m'aurez dit.
+L'AURORE.
+Moi ?
+MERCURE.
+Vous.
+L'AURORE.
+A quel propos ?
+MERCURE.
+Un peu de patience.
+L'AURORE.
+C'est tenir en suspens trop longtemps mon esprit.
+MERCURE.
+Vous apprendrez la chose encore trop tot, je gage,			[915]
+Et vous allez trouver l'habit
+Moins lugubre que le message.
+L'AURORE.
+Ceci commence a me lasser.
+Qu'avez-vous donc de si funeste,
+Seigneur Mercure, a m'annoncer ?			[920]
+MERCURE.
+Au conseil de la Cour celeste
+On a porte des plaintes contre vous :
+L'orgueilleuse Junon, et la bonne Cybele,
+Et la prude Pallas ont par exces de zele,
+Mis le grand Jupiter dans un fort grand courroux.			[925]
+L'AURORE.
+A quel sujet ?
+MERCURE.
+Pour une bagatelle,
+Un bruit mal a propos peut-etre repandu.
+Une jeune prude d'Athenes
+Que depuis peu de temps l'Hymen tient dans ses chaines,
+Et qui se targue fort d'une austere vertu,			[930]
+Fait un vacarme affreux pour un mari perdu :
+C'est je crois, Procris qu'on la nomme,
+Et le mari Cephale, un fort joli jeune homme.
+Connaissez-vous cela ?
+CALLITEE.
+Si nous le connaissons ?
+L'AURORE.
+Callitee ?
+MERCURE.
+Hem, plait-il ?			[935]
+L'AURORE.
+He, mais?			[935]
+MERCURE.
+Que de facon,			[935]
+Parlez.
+CALLITEE.
+Il est un peu de notre connaissance.
+MERCURE.
+J'en ai juge d'abord ainsi sur l'apparence.
+CALLITEE.
+Mais connaitre les gens, ce n'est pas les aimer,
+Il en faut, s'il vous plait, faire la difference ;
+Sur un sincere aveu n'allez pas presumer.			[940]
+MERCURE.
+Non, non, j'en sais la consequence :
+Mais Minerve a la-haut fait entendre aujourd'hui
+Que vous le reteniez en ces lieux malgre lui.
+Quelques Deesses surannees
+Traitent cela d'enlevement,			[945]
+Et contre vous sont tres fort dechainees,
+De vous voir a leur barbe ainsi prendre un amant.
+Jupiter prend le fait tres serieusement,
+Et de sa part je viens vous dire
+Que sans retardement			[950]
+A ses ordres il faut souscrire.
+L'AURORE.
+He bien ses ordres sont ?
+MERCURE.
+Que tres diligemment
+Vous ayez a lacher le beau Monsieur Cephale ;
+Faute de quoi, dut-on causer quelque scandale,
+Et supprimer l'aube du jour,			[955]
+Les souterrains de la cabale
+Vous feront eloigner du celeste sejour.
+A vous perdre elle est animee,
+Si vous n'obeissez vous serez enfermee.
+L'AURORE.
+Me bannir du Ciel, moi ?
+CALLITEE.
+Vous enfermer ! Comment ?			[960]
+Il est bon la, Madame, quelle injure ?
+Si j'etais comme vous deesse, assurement
+Votre cabale impunement
+Ne m'outragerait pas, c'est moi qui vous le jure.
+L'AURORE.
+Voila sans doute un joli compliment			[965]
+Que me fait le Seigneur Mercure.
+MERCURE.
+Ne confondons rien, s'il vous plait,
+Ce compliment vient de la part du maitre :
+Je ne sais comme il vous parait,
+Mais je sais bien comme il doit vous paraitre ?			[970]
+L'AURORE.
+Si sur les temps passes Cybele
+Voulait etre de bonne foi,
+Elle reflechirait sur elle,
+Et n'aigrirait point tant Jupiter contre moi :
+Il lui sied bien de jouer un tel role,			[975]
+Elle qu'on vit jadis autour du mont Ida,
+Pour son Atys courir comme une folle.
+MERCURE.
+Vous vous souvenez de cela ?
+Ce sont egarements que le temps doit prescrire.
+L'AURORE.
+Et qu'on s'attache a ne point oublier ;			[980]
+A l'egard de Junon j'ai peu de chose a dire,
+Et ce qu'elle est l'autorise a crier.
+Femme et jalouse elle s'oppose
+Aux faiblesses que l'amour cause ;
+Elle a raison : mais elle aurait bien pu			[985]
+Passer en ma faveur quelque petite chose.
+Sans trop blesser sa farouche vertu ;
+Dans le besoin fort aise qu'on la serve,
+Chez elle le bienfait n'est pas toujours nouveau.
+Quand Jupiter de son cerveau			[990]
+S'avisa de tirer Minerve,
+Junon voulut, pour s'en venger,
+De son cote, sans lui, faire pareille affaire,
+Sans son secours devenir mere :
+Je m'empressai de l'obliger,			[995]
+Mars par mes soins naquit d'elle sans pere.
+Et cela lui fit un honneur
+Qu'elle n'eut jamais eu peut-etre
+Sans le secours d'une certaine fleur
+Que mes regards avaient fait naitre.			[1000]
+MERCURE.
+Junon a tort assurement,
+Comme Deesse bonne et sage,
+En faveur d'une fleur d'un si charmant usage,
+Elle eut pu vous passer celui d'un jeune amant.
+L'AURORE.
+Pour Pallas c'est une guerriere,			[1005]
+A qui sans doute il sied d'etre fiere,
+Et de blamer les erreurs de l'amour ;
+Elle y serait sujette elle-meme a son tour,
+Si quelque aimable amant s'efforcait de lui plaire.
+Mais comme en terre et dans les Cieux			[1010]
+On neglige assez de le faire,
+Qu'entre les mortels et les Dieux,
+Vulcain seul a brule pour elle.
+Je ne vois pas que sa fierte
+Doive tirer beaucoup de vanite,			[1015]
+Pour un tel soupirant d'avoir ete cruelle.
+MERCURE.
+Je suis bien aise en verite
+De vous voir ainsi penser d'elle.
+CALLITEE.
+Nous pensons assez sensement,
+Et nous nous conduirons de meme assurement.			[1020]
+Cephale est en votre puissance,
+Vous l'aimez, on le sait, prenez votre parti ;
+Nous en avons fait la depense,
+Madame, il n'en faut pas avoir le dementi
+MERCURE.
+La petite Nymphe est gaillarde.			[1025]
+L'AURORE.
+N'a-t-elle pas raison ? Qu'est-ce que je hasarde ?
+Conseillez-moi, qu'en dites-vous ?
+MERCURE.
+Je dis
+Que je suis porteur d'ordre, et non donneur d'avis :
+S'il vous en faut pourtant donner un pour vous plaire,
+Je ne sais s'il vous conviendra :			[1030]
+Mais je vous conseille de faire,
+Sans beaucoup reflechir, tout ce qu'il vous plaira.
+CALLITEE.
+Voyez quel exces de prudence,
+De politesse et de discretion,
+De nous donner sans remontrance			[1035]
+Un conseil si conforme a notre intention,
+Que nous suivrons sans repugnance !
+Madame, que Mercure est bon,
+Et que ce n'est pas sans raison,
+Que l'on le reconnait pour Dieu de l'Eloquence !			[1040]
+Je le sens bien dans ce moment,
+Qu'il nous persuade aisement !
+Pour lui marquer la deference,
+Que nous avons pour ses sages avis,
+Faisons-lui voir en sa presence			[1045]
+Avec quel zele ils sont suivis.
+Restez ici, Seigneur Mercure.
+MERCURE.
+Je ne saurais, je vous assure.
+L'AURORE.
+Elle a raison, demeurez parmi nous,
+Vous passerez ici les moments les plus doux.			[1050]
+CALLITEE.
+On vous regalera de friande ambroisie,
+Nous avons quantite de nectar excellent,
+Force glace surtout, et bonne symphonie.
+MERCURE.
+Vous me tentez tres fort : mais Jupiter m'attend.
+CALLITEE.
+Il vous attend, mais sans impatience :			[1055]
+L'interet de Procris ne le touche pas tant,
+Qu'il exige de vous si grande diligence.
+Le fait n'est pas fort important,
+Vous pouvez lentement conduire cette affaire,
+Et nous donner le temps de faire			[1060]
+Ce que Jupiter nous defend.
+Lorsqu'en ces lieux on vous arrete,
+Vous jugez bien que c'est de bonne foi,
+Et jamais Mercure, ni moi,
+N'avons gate de tete a tete.			[1065]
+MERCURE.
+Ce n'est pas mon defaut de me faire prier,
+Je suis trop facile, au contraire.
+CALLITEE.
+Bon, tant mieux, aujourd'hui c'est la grande maniere :
+L'inspirer est votre metier,
+Et ce qu'aux autres on fait faire,			[1070]
+Par soi-meme il est bon de le justifier.
+MERCURE.
+Mais enfin s'il s'impatiente ?
+CALLITEE.
+Le grand malheur ! Il est le maitre?
+MERCURE.
+He bien,
+Je reste : mais enfin si l'on trouvait moyen
+Pour quelques jours de faire taire			[1075]
+Cette braillarde de Procris,
+Et d'interrompre au moins ses plaintes et ses cris,
+Ce serait une bonne affaire.
+CALLITEE.
+Sans contredit.
+L'AURORE.
+Assurement.
+Ne vous vient-il rien dans l'idee ?			[1080]
+MERCURE.
+Cela vient-il dans le moment ?
+L'AURORE.
+Imagine un peu Callitee,
+Toi qui penses si finement.
+CALLITEE.
+Ma foi, Madame, imaginez vous-meme :
+Vous aimez, et de tous les Dieux			[1085]
+Si l'Amour est le plus ingenieux,
+L'esprit doit venir inventif quand on aime.
+MERCURE.
+Par ma foi, sans etre amoureux,
+Il me vient dans la tete un petit stratageme.
+Attendez? Non? si fait. Le tour serait heureux :			[1090]
+C'est le meilleur qu'on puisse imaginer sans doute.
+CALLITEE.
+Cephale vient dans cette route.
+L'AURORE.
+Que je sache.
+MERCURE.
+Evitez-le, entrons dans ces bosquets :
+Il ne faut pas qu'on nous ecoute,
+Et je ne crains rien tant que les mauvais caquets.			[1095]
+L'AURORE, a Calithee.
+Demeure ici, toi, je te prie,
+Et par de doux amusements,
+Tache de le distraire, au moins quelques moments,
+De l'objet de sa reverie.
+CALLITEE.
+J'aurai soin de vos interets :			[1100]
+Par votre ordre en ces lieux comme vous je commande,
+Et les plaisirs sont toujours prets
+Au moment que je les demande.
+DIVERTISSEMENT. Plusieurs Faunes et Nymphes avancent sur le Theatre, et chantent les couplets qui suivent.
+UNE NYMPHE chante.
+Au Dieu qui fait aimer tout fait ici la cour,
+Le Zephyr et Flore,			[1105]
+Amis de l'Aurore,
+S'y caressent nuit et jour ;
+Et les fleurs qu'en ce beau sejour
+A chaque instant on voit eclore,
+Sont les doux fruits de leur amour.			[1110]
+UN FAUNE, chante.
+Les Dieux des bois sous ces ombrages
+Folatrent sur les verts gazons,
+Et leurs amoureuses chansons,
+Font retentir tous ces bocages
+Des plus tendres, des plus doux sons.			[1115]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)UN FAUNE ET UNE NYMPHE chantent.
+Aimez, aimez, heureux Cephale,
+Hatez-vous d'etre inconstant ;
+Quel sort egale
+L'heureux destin qui vous attend ?
+Aimez, aimez, heureux Cephale,			[1120]
+Hatez-vous d'etre inconstant.
+
+
+			ACTE II
+
+
+SCENE I. Cephale, Philacte.
+PHILACTE.
+Nous avons entendu d'assez bonne musique,
+Et l'on nous a donne des conseils excellents ;
+Mais si vous negligez de les mettre en pratique,
+Cela ne fera pas d'honneur a vos talents.			[1125]
+CEPHALE.
+Crois-tu donc que toujours a Procris trop fidele,
+Aux charmes d'une ardeur nouvelle,
+Mon coeur soit pour jamais ferme.
+Philacte, ce coeur est charme
+De voir celui d'une Deesse			[1130]
+Des feux les plus vifs enflamme,
+Je goute avec transport, avec delicatesse,
+Tout le bonheur d'en etre aime.
+A quel exces en moi par sa vive tendresse,
+L'ambition, la vanite,			[1135]
+L'amour-propre est flatte !
+PHILACTE.
+L'agrement de cette aventure,
+M'est pour le moins sensible autant qu'a vous,
+Quoiqu'a parler franchement entre nous,
+J'y fasse moins bonne figure,			[1140]
+J'espere m'en tirer pourtant avec honneur.
+Tout ce qui pourrait m'en deplaire,
+C'est que je crois, dans cette affaire
+Si nous sommes heureux, que sur notre bonheur,
+On exigera du mystere,			[1145]
+Et franchement j'ai quelque peur
+D'avoir grande peine a me taire.
+Naturellement, moi, je suis un peu jaseur ;
+C'est ce qu'on trouve d'incommode,
+En aimant les Divinites :			[1150]
+Elles ont la sotte methode
+De cacher leurs fragilites,
+Et parmi de simples beautes,
+Vous savez, comme moi, qu'aujourd'hui c'est la mode
+De faire eclat de ses felicites.			[1155]
+A garder un secret je souffre le martyre,
+Est-ce etre heureux que de ne l'oser dire ;
+Mais vous redevenez reveur.
+CEPHALE.
+Quel trouble regne dans mon coeur !
+De tout ceci quelle sera la suite ?			[1160]
+PHILACTE.
+Elle est facile a concevoir,
+Par avance deja je vous en felicite,
+Et je crois aussi m'en devoir
+Un petit compliment. Tous deux pleins de merite,
+Jeunes, galants, ben faits, nous n'avons qu'a vouloir.			[1165]
+Mais reglez-vous sur ma conduite,
+Ne nous faisons point trop valoir :
+Que servent les talents a moins qu'on en profite ?
+A nous laisser aimer ici tout nous invite :
+Rendez-vous, et je vous imite,			[1170]
+Ou je me rends, moi, vous n'avez qu'a voir.
+CEPHALE.
+Concois-tu bien le desespoir
+Ou peut-etre Procris est a present reduite ?
+PHILACTE.
+Il est bien maintenant question de cela,
+Toujours Procris ; oubliez-la,			[1175]
+M'embarrasse-je, moi, de ce que fait ma femme ?
+CEPHALE.
+Par combien de discours, de soupcons de ma foi,
+On tache de jeter dans son ame,
+Des dispositions a douter de ma flamme,
+Pour me ravir un coeur qui doit n'etre qu'a moi ?			[1180]
+PHILACTE.
+Ce n'est pas chose bien facile ;
+De quoi diantre vous alarmer ?
+On ferait pour s'en faire aimer
+Une tentative inutile ;
+Votre epouse a trop de vertu,			[1185]
+Quelque effort que l'on fasse, et quelque soin qu'on prenne,
+Son coeur est pour vous seul de bontes revetu,
+Plut au Ciel en pouvoir dire autant de la mienne.
+CEPHALE.
+Je fais peut-etre en ce moment
+L'entretien de toute la Grece,			[1190]
+Et d'un si prompt eloignement
+On fait mille contes sans cesse.
+PHILACTE.
+Que diable nous doit importer
+Ou qu'en parle, ou qu'on s'en taise,
+Tandis qu'ici-bas a notre aise			[1195]
+Nous pouvons rire et caqueter.
+CEPHALE.
+Peut-etre sait-on que l'Aurore
+A fait choix en moi d'un amant,
+Et l'on se garde bien de dire assurement,
+Que mon coeur lui resiste encore.			[1200]
+PHILACTE.
+Parbleu comment le dirait-on ?
+Il n'est personne au monde assez fou que je pense,
+Pour avoir un tel soupcon ;
+Comment pour s'obstiner a tant de resistance ?
+Et negliger un sort si doux,			[1205]
+Il faut etre aussi fou que vous.
+CEPHALE.
+Que tu penetres mal le fond de ma pensee,
+Philacte, et de combien de divers mouvements
+Je me sens l'ame embarrassee !
+PHILACTE.
+J'entre assez dans vos sentiments.			[1210]
+CEPHALE.
+De l'Aurore, crois-moi, je connais tous les charmes,
+Mon coeur est pret a lui rendre les armes ;
+Mais de Procris outrageant les appas,
+Perfide epoux, insensible a ses larmes?
+PHILACTE.
+Procris est femme forte, et ne pleurera pas,			[1215]
+Courage, allons.
+CEPHALE.
+Des plus cruelles peines
+Accabler le coeur de Procris !
+Oser briser avec mepris
+Les noeuds d'hymen, les saintes chaines
+Dont pour garants nous avons pris			[1220]
+Les Dieux protecteurs d'Athenes !
+PHILACTE.
+He bien soit. Pensez-vous que Neptune et Pallas
+De Procris prendront la querelle,
+Et qu'ils ne se preteront pas
+Aux faiblesses d'une Immortelle ?			[1225]
+Comme entre gens de qualite,
+On aime entre les Dieux a se rendre service ;
+Le faible a pour lui la justice,
+Mais dans sa plainte il n'est guere ecoute.
+CEPHALE.
+En cedant a l'amour quel blame je m'attire !			[1230]
+Que ferai-je penser de moi,
+Et d'un pareil manque de foi,
+Dans la Grece que va-t-on dire ?
+PHILACTE.
+Ce n'est donc plus que sur ce qu'on dira,
+Seigneur, qu'a present vous en etes ?			[1235]
+Les affaires sont bientot faites.
+Quand la Deesses paraitra,
+Un regard, un souris, votre coeur se rendra.
+SCENE II. Cephale, Philacte, Callitee.
+CALLITEE.
+Je viens vous avertir, Seigneur, que la Deesse
+Vous cherche avec empressement,			[1240]
+C'est pour vous dire apparemment
+Quelque secret qui l'interesse.
+CEPHALE.
+Ou pourrai-je la rencontrer ?
+Dites-le-moi, Nymphe charmante :
+Du bien de la revoir mon ame impatiente			[1245]
+Le voit a regret differer,
+Je brule de savoir ce qu'elle me veut dire.
+PHILACTE, a Callitee.
+Ne vous l'avais-je pas bien dit,
+Que tot ou tard je saurais le reduire ?
+Sur son coeur et sur son esprit			[1250]
+Nous avons, grace au Ciel, quelque peu de credit !
+CALLITEE.
+Je m'en rejouis fort.
+CEPHALE.
+Oui, belle Callitee,
+Je sens de mon bonheur a present tout le prix.
+Et dans les doux transports dont j'ai l'ame agitee,
+De mon aveuglement et confus et surpris,			[1255]
+Je ne puis assez tot aux pieds de la Deesse
+Tacher d'expier la faiblesse
+Qui dans un coeur encor trop vivement epris,
+A par scrupule, ou par delicatesse,
+Soutenu trop longtemps l'interet de Procris.			[1260]
+CALLITEE.
+A parler franchement, une pareille offense
+A des Divinites, Seigneur, ne convient pas
+Quand elles font les premiers pas,
+Tant pis pour qui fait resistance.
+PHILACTE.
+Oh ! La notre n'a pas dure :			[1265]
+Par un prompt repentir une offense s'efface,
+Et tout sera bien repare.
+Belle Nymphe, allons, grace, grace,
+Un mot a la Deesse agreablement dit?
+CALLITEE.
+Ce n'est nullement son depit			[1270]
+Qui m'inquiete et m'embarrasse ;
+Le plus grand mal de tout ceci,
+C'est que Procris vient d'arriver ici.
+CEPHALE.
+Procris !
+PHILACTE.
+Voila, ne vous deplaise,
+Un contretemps assez facheux,			[1275]
+Dont la suite a coup sur ne peut qu'etre mauvaise.
+Je vous plains.
+CEPHALE.
+Procris en ces lieux,
+Philacte !
+PHILACTE.
+C'est la jalousie
+Qui sur vos pas l'a fait ainsi courir :
+Quand une femme en est saisie,			[1280]
+L'epoux en a diablement a souffrir,
+Mais tout coup vaille, il faut faire tete a l'orage ;
+Plus on est mal?
+CALLITEE.
+Te crois-tu mieux,
+Philacte ?
+PHILACTE.
+Moi ?
+CALLITEE.
+Ta femme est aussi du voyage.
+PHILACTE.
+Quoi ma femme ?
+CALLITEE.
+Oui, Dione.			[1285]
+PHILACTE.
+Ah, Dieux !			[1285]
+CALLITEE.
+Pour toi sa tendresse est extreme,
+De te venir chercher avec tant de transport ;
+Et la tienne est pour elle apparemment de merite ?
+PHILACTE.
+Oh oui, nous nous aimons tres fort :
+Elle aurait cependant pu m'epargner la peine.			[1290]
+Maudit soit qui nous les ramene.
+CALLITEE.
+Ciel !
+PHILACTE.
+Vous voila fache vous-meme : mais enfin,
+Pourquoi mal-a-propos se livrer au chagrin ?
+Renvoyons-les, Seigneur. He quoi donc ! Les Deesses
+Ne sont-elles pas maitresses ?			[1295]
+Oui, l'Aurore n'a qu'a parler :
+Il serait beau qu'une mortelle
+La relancat jusques chez elle,
+Et que dans ses plaisirs elle osat la troubler.
+CALLITEE.
+L'entreprise est assez hardie.			[1300]
+PHILACTE.
+Nymphe, allez, qu'on les congedie.
+CEPHALE.
+Amour, vous implorer est tout ce que je puis :
+Venez a mon secours, et daignez me prescrire
+Tout ce que je dois faire, et comment me conduire
+Pour me tirer de la peine ou je suis.			[1305]
+SCENE III. Cephale, l'Aurore, Philacte, Callitee.
+L'AURORE.
+Je ne puis pour Procris blamer votre constance :
+Sensible a votre eloignement,
+Inquiete de votre absence,
+Elle vient d'arriver ici dans le moment.
+Pour une epouse et si jeune et si belle,			[1310]
+On ne saurait assurement
+Trop louer votre attachement :
+Vous seriez criminel de n'etre pas fidele.
+PHILACTE.
+Elle plaisante, au moins, Seigneur, gardez-vous d'elle.
+CEPHALE.
+Vous avez dans ces lieux un absolu pouvoir,			[1315]
+Madame, et quand Procris en approche sans peine,
+Il est aise de concevoir
+Qu'en s'y rendant elle est certaine
+De l'aveu de la Souveraine.
+L'AURORE.
+Vos yeux ont ete les temoins			[1320]
+De l'etat de mon coeur, Cephale :
+He ! Pouvez-vous penser que je donne mes soins
+Pour vous rejoindre a ma rivale ?
+Mais peut-etre quelqu'un des Dieux,
+Qu'elle a touche par sa douleur extreme,			[1325]
+Par ses prieres, par ses voeux,
+Ou que dans les transports d'un coeur bien amoureux
+Vous avez implore vous-meme,
+Se sert de son pouvoir supreme
+Pour vous la rendre dans ces lieux.			[1330]
+PHILACTE.
+Elle a mal pris le moment du voyage,
+Et mon maitre est devenu sage.
+L'AURORE.
+De deux amants unis des plus parfaits liens,
+Je ne veux point par ma presence
+Troubler les tendres entretiens.			[1335]
+Voyez pour vous quelle est ma complaisance.
+PHILACTE.
+Elle est trop grande, par ma foi.
+L'AURORE.
+De ce Palais je vous laisse le maitre,
+A mes Nymphes ici vous donnerez la loi ;
+Des Sylvains la troupe champetre			[1340]
+Vous obeira comme a moi :
+Tous a l'envi s'efforceront de plaire
+A la beaute qui vous est chere,
+Et peut-etre son coeur sera-t-il satisfait
+Du sacrifice que lui fait			[1345]
+Un epoux qui pouvait mieux faire.
+PHILACTE.
+On se moque de vous, je vous en avertis.
+CEPHALE.
+J'ai merite ces reproches, Deesse :
+Mais je ne rougis point de mes feux pour Procris ;
+A son merite, a sa tendresse,			[1350]
+Je dois les plus tendres egards.
+Mais helas ! Dans quel temps la fortune cruelle
+La vient offrir a mes regards !
+L'AURORE.
+Au moment que toujours fidele
+Vous faites vanite de l'aimer constamment			[1355]
+CEPHALE.
+Que je crains de la voir en ce fatal moment !
+Le devoir me parle pour elle :
+Mais l'amour s'explique autrement.
+L'AURORE.
+Si sa beaute vous la rendit aimable,
+N'en est-il point qui lui soit comparable ?			[1360]
+Et si cette fidelite
+Qui vous tient dans ses fers par devoir arrete,
+A l'abri des discours que le mensonge invente,
+A jusqu'a ce moment ete
+De certains soupcons exempte,			[1365]
+Pensez-vous qu'aux voeux d'un amant,
+Son coeur pour vous fidele, a tout autre inflexible,
+Pique de votre eloignement,
+Eut tant de peine a devenir sensible ?
+CEPHALE.
+Madame ?
+L'AURORE.
+Je vous parle ici confidemment.			[1370]
+Je crois Procris aussi sage que belle ;
+Mais l'incertitude est cruelle ;
+Et quand on peut savoir les choses surement?
+A Procris vous n'osez, Cephale, etre infidele,
+Aurait-elle pour vous le meme attachement.			[1375]
+PHILACTE.
+Peste, quel eclaircissement !
+CEPHALE.
+En ce moment j'ai peine a me croire,
+Je souffre tout ce que l'on peut souffrir :
+Ces soupcons de la foi. Ciel !
+L'AURORE.
+Je ne les fais naitre,
+Cephale, que pour les guerir.			[1380]
+PHILACTE.
+Fort bien.
+L'AURORE.
+Contre Procris vous presumez peut-etre
+Que mon coeur cherche a vous aigrir ?
+A vous mettre pour elle en quelque defiance ?
+PHILACTE.
+On le croirait.
+L'AURORE.
+Vous-meme en ce Palais
+Vous en pouvez par vous faire l'experience			[1385]
+CEPHALE.
+Par moi !
+L'AURORE.
+Par vous. Trouverez-vous jamais
+Plus belle occasion d'eprouver sa constance ?
+Procris croit retrouver Cephale dans ces lieux ;
+Sous des traits differents qu'il paraisse a ses yeux,
+D'un seul mot a l'instant, sans forcer la nature,			[1390]
+Je puis pour les regards humains
+Vous donner une autre figure ;
+Je puis remettre dans vos mains
+Tous les tresors dont je suis la maitresse,
+Et de cette immense richesse,			[1395]
+De tant de biens des mortels si cheris
+Vous ferez hommage a Procris.
+Rival alors, et rival de lui-meme,
+Sous d'autres traits Cephale ainsi
+De son sort peut etre eclairci,			[1400]
+Et savoir surement a quel point Procris l'aime.
+Vous balancez ? Votre front obscurci?
+De quel crime envers moi ce trouble vous accuse ?
+Vous craignez de ne plus aimer
+L'objet qui sut trop vous charmer,			[1405]
+Et ne meritez pas que je vous desabuse.
+CEPHALE.
+Helas, Deesse, helas ! Ordonnez, disposez,
+De mon destin vous etes la maitresse :
+Mais regardez l'etat ou vous me reduisez.
+L'AURORE.
+Autant que vous votre sort m'interesse,			[1410]
+Et mon unique objet est de le rendre heureux :
+Mais il faut que pour vous mon pouvoir se signale.
+Donc cessez d'etre Cephale,
+Paraissez au gre de vos voeux
+Tout ce que vous voudrez paraitre,			[1415]
+Qu'aucun mortel surtout ne vous puisse connaitre.
+CEPHALE.
+Quel mouvement se fait en moi !
+PHILACTE.
+Seigneur, hola donc : par ma foi
+Ce changement pour moi n'etait pas necessaire.
+L'AURORE.
+Dans l'instant que vous le voudrez			[1420]
+Vous reprendrez votre forme ordinaire,
+Et pour Procris vous paraitrez
+Tel que vous le souhaiterez.
+SCENE IV. Cephale, Philacte.
+PHILACTE.
+Comment donc, vous voila tout autre !
+Malepeste, quel changement			[1425]
+De ce nouveau visage au votre !
+Tournez-vous, s'il vous plait, tenez-vous un moment.
+A cette physionomie
+Il faut un peu m'accoutumer.
+Parbleu, vous etes a charmer ;			[1430]
+Je n'ai rien vu de pareil en ma vie :
+Un front ouvert, des yeux vifs, bien fendus,
+Le nez bien fait et la bouche vermeille.
+Pour cela, c'est une merveille ;
+Et l'on ne se peut trop recrier la- dessus ;			[1435]
+Pour raccommoder un visage,
+La Deesse a, Seigneur, des secrets excellents.
+Combien de coquettes du temps
+Voudraient avoir de son ouvrage,
+Et mettre a profit ses talents !			[1440]
+Quelque part qu'elle ouvrit boutique,
+Je puis vous etre caution
+Qu'elle aurait bien de la pratique.
+CEPHALE.
+Dans quelle situation
+Philacte, est-ce que je me trouve !			[1445]
+PHILACTE.
+Elle est delicate, et j'approuve
+Que vous vous conduisiez avec precaution.
+CEPHALE.
+Tromper Procris ! Chercher a la surprendre !
+PHILACTE.
+Il est tard de vous en defendre,
+Vous connaitrez a fond son coeur.			[1450]
+CEPHALE.
+Je sais ce que j'en dois attendre,
+Elle a pour moi la plus sincere ardeur,
+Un coeur tout entier a Cephale.
+PHILACTE.
+Si l'on en croit ce que dit sa rivale,
+Rien n'est sur : mais on peut douter.			[1455]
+CEPHALE.
+En ce moment je me sens agiter
+D'un trouble affreux que rien n'egale.
+Ah ! Curiosite qui me sera fatale,
+Et que pourtant je ne puis surmonter,
+Si sous ces traits nouveaux je venais a lui plaire !			[1460]
+PHILACTE.
+Le grand malheur ! Vous la planterez-la,
+Et l'Aurore pour vous sera
+Le pis-aller de cette affaire.
+CEPHALE.
+Et si je fais d'inutiles efforts ?
+PHILACTE.
+Oh, l'embarras pour vous sera plus grand alors.			[1465]
+CEPHALE.
+De quel front la trahir en la trouvant fidele ?
+PHILACTE.
+De quel front, de quel front ? Plaisante bagatelle !
+Cela doit-il vous arreter si fort ?
+Livrez-vous sans scrupule au feu qui vous enflamme,
+Et comptez qu'avec une femme,			[1470]
+Quelque raison qu'elle ait d'abord,
+Dans la suite un mari ne saurait avoir tort.
+SCENE V. Cephale, Philacte, Callitee.
+CALLITEE.
+La Deesse, Seigneur, m'a chargee de vous dire
+Que Procris vient de ce cote.
+CEPHALE.
+Soumis aux lois qu'elle a su me prescrire,			[1475]
+Je ferai tout ce qu'elle a souhaite.
+Je vais employer l'artifice
+Pour toucher le coeur de Procris,
+Heureux de n'y trouver que froideur et mepris,
+Pour faire a la Deesse un plus grand sacrifice.			[1480]
+PHILACTE.
+Un petit mot de conversation.
+CALLITEE.
+Qu'est-ce ?
+PHILACTE.
+Madame Callitee,
+Tout a l'heure en revant j'ai fait reflexion,
+Que faute de precaution,
+L'affaire par hasard pourrait etre gatee.			[1485]
+CEPHALE.
+Quel soin prends-tu dans cette occasion ?
+PHILACTE.
+J'ai mes raisons, laissez faire, et pour cause.
+CALLITEE.
+He bien ?
+PHILACTE.
+Si l'on me connait, moi,
+En qui vous n'avez point fait de metamorphose ?
+La, croyez-vous, de bonne foi,			[1490]
+Que ce ne serait point un obstacle a la chose.
+CEPHALE.
+Il pense juste.
+CALLITEE.
+Il faut te metamorphoser,
+Tien en ceci ne periclite encore :
+Du changement sur moi tu peux te reposer,
+J'ai le meme pouvoir pour cela que l'Aurore.			[1495]
+PHILACTE.
+Metamorphosez donc, je m'abandonne a vous,
+Point de malice, au moins, ni de supercherie ;
+A ma femme je veux faire aussi les yeux doux,
+C'est pourquoi, travaillez promptement, je vous prie.
+La malepeste, quels efforts !			[1500]
+La peau du visage me tire,
+Et je ressens par tout le corps
+Certains fremissements que je ne saurais dire?
+Charmante Nymphe, s'il vous plait,
+Faites ici de bon ouvrage,			[1505]
+Il y va de votre interet ;
+Et si par cas fortuit j'engage
+Ma femme a cesser d'etre sage,
+En bonne foi je vous promets
+Que je suis a vous pour jamais.			[1510]
+CALLITEE.
+La promesse est fort engageante.
+PHILACTE.
+J'ai, comme vous voyez, l'ame reconnaissante.
+CALLITEE.
+Adieu, le charme est accompli.
+SCENE VI. Cephale, Philacte.
+PHILACTE.
+Suis-je beau ?
+CEPHALE.
+Non, mais fort joli.
+PHILACTE.
+Fort joli !
+CEPHALE.
+Tout de bon, tu n'es pas connaissable ?			[1515]
+La taille fine et le visage aimable,
+Un port noble, un air degage.
+PHILACTE.
+Parbleu, sur ce pied-la je ne suis point change.
+CEPHALE.
+Je vois Procris.
+PHILACTE.
+Et moi, Dione.
+CEPHALE.
+Un reproche secret et m'alarme et m'etonne.			[1520]
+PHILACTE.
+On me reconnaitra, Seigneur.
+CEPHALE.
+Rassure-toi,
+Tu ne dois la-dessus avoir aucune crainte,
+Mais pour quelques moments eloignons-nous, suis-moi :
+Disposons mon coeur a la feinte,
+Puisqu'on m'en impose la loi.			[1525]
+SCENE VII. Procris, Dione.
+PROCRIS.
+Quelle peine, Dione, a la mienne est egale ?
+C'est pour amuser ma douleur
+Que l'amour a flatte mon coeur
+De l'espoir qu'en ces lieux je reverrais Cephale.
+DIONE.
+A se laisser amuser par l'amour			[1530]
+On ne perd rien, je vous assure,
+Il arrete nos pas ici dans un sejour
+Le plus charmant qui soit dans la nature :
+Voyez de ce Palais la noble architecture,
+De ces jardins admirez la beaute.			[1535]
+Ah ! C'est ici, sans doute un pays enchante :
+Et pour moi de cette aventure
+Je concois un heureux augure,
+L'amour a pour vous des desseins
+Qui s'eclairciront dans la suite.			[1540]
+PROCRIS.
+Je viens ici sous sa conduite,
+Ma chere Dione, et je crains.
+Un noir pressentiment me saisit et m'agite ;
+De tout ce qui s'offre a tes yeux
+De beau, de grand, de gracieux,			[1545]
+Je ne vois rien, l'absence de Cephale
+Occupe seule mon esprit.
+DIONE.
+Rare et charmant effet de l'amour conjugale,
+Elle est trop vive en vous, et je vous ai predit?
+PROCRIS.
+Suis-je en etat ni de voir, ni d'entendre ?			[1550]
+Ceans certains moments sur ce que l'on nous dit
+Est-ce qu'un coeur prevenu reflechit ?
+DIONE.
+Pour un absent votre coeur est trop tendre,
+Non que je blame en vous un pareil sentiment,
+Mais vous traitez cela trop serieusement ;			[1555]
+Que ne m'imitez-vous ? Ma conduite est toute autre ;
+Mon mari s'est perdu, dit-on, avec le votre,
+Est-ce lui que je viens chercher ?
+Et pour le retrouver ai-je fait afficher ?
+Comme vous m'a-t-on vue etaler mes faiblesses ?			[1560]
+Depuis qu'ils sont partis employer mal mon temps
+A fatiguer Dieux et Deesses ?
+Et pres de ces Dieux sourds, ou peut-etre impuissants,
+Prendre mes voeux et mon encens ?
+Ce ne sont point la mes allures ;			[1565]
+Mon coeur est droit, mes intentions pores.
+Mon mari part sans m'en parler,
+Il faut bien le laisser aller,
+N'est-il pas maitre du menage ?
+Suis-je en droit de le retenir ?			[1570]
+Mais s'il lui prend un jour en gre de revenir,
+Je serai peut-etre en voyage.
+PROCRIS.
+Philacte apres un tel aveu
+Ne doit pas trop compter sur l'exces de ta flamme.
+DIONE.
+Ce n'est pas mon defaut, Madame,			[1575]
+D'aimer beaucoup les gens qui m'aiment peu.
+PROCRIS.
+On t'aime plus que tu ne penses ;
+Mais finissons ces vains discours.
+DIONE.
+C'est fort bien dit. Ho, ca, voulez-vous donc toujours
+Dans les pleurs et les doleances			[1580]
+Passer les plus beaux de vos jours ?
+Depuis un certain temps, sensible a votre peine,
+Je partage votre douleur :
+Livrez-vous a ma bonne humeur,
+Que le penchant du sexe au plaisir vous entraine.			[1585]
+PROCRIS.
+Ah ! Vous extravaguez, Dione, en verite.
+DIONE.
+Oui, vous commencez a sourire ?
+A la droite raison nous saurons vous reduire ;
+Contre elle votre coeur n'est pas si revolte,
+Qu'il ne se laisse enfin conduire			[1590]
+Au plaisir, ou du moins a la tranquillite.
+PROCRIS.
+Cephale seul peut me la rendre.
+DIONE.
+S'il est ici nous l'y verrons,
+S'il ne s'y trouve pas nous nous en passerons :
+Mais l'endroit est du moins commode pour attendre ;			[1595]
+PROCRIS.
+Ces jardins sont delicieux,
+Et ce Palais parait superbe et magnifique.
+DIONE.
+Vous retrouvez l'usage de vos yeux ;
+C'est une marque specifique
+Que votre esprit se porte mieux.			[1600]
+PROCRIS.
+Que tout me charmerait, Dione, en ces beaux lieux,
+Si toujours sure d'etre aimee,
+Les Dieux m'y rendaient mon epoux !
+Mais dis-moi, chez qui sommes-nous
+Ne t'en es-tu point informee ?			[1605]
+DIONE.
+Pour cela non. L'Amour s'est bien voulu charger
+De nous conduire ici : j'y viens en confiance
+Qu'il aura soin de nous loger
+Chez quelqu'un de sa connaissance ;
+C'est a lui de nous heberger,			[1610]
+Quelle que soit l'hotellerie,
+Il faudra s'en accommoder ;
+Mais on cherche a vous aborder.
+Quel air ! Quel port ! Regardez, je vous prie.
+PROCRIS.
+Ah, Dione, je suis trahie !			[1615]
+Cephale, que je cherche de toutes parts,
+Ne s'offre point a mes regards.
+SCENE VIII. Procris, Cephale, Dione, Philacte.
+CEPHALE.
+Je ne m'offense point, Madame,
+Que dans ces lieux ou tout est sous ma loi,
+Vous cherchiez un autre que moi.			[1620]
+Je sais pour votre epoux quelle ardeur vous enflamme.
+PROCRIS.
+Je vois que mon malheur, seigneur, vous est connu,
+Et je ne puis cacher le trouble de mon ame.
+Helas, Cephale, helas ! Qu'etes-vous devenu !
+PHILACTE, a Dione.
+Vous cherchez Philacte, peut-etre ?			[1625]
+Ce n'est pas moi, sur mon honneur.
+DIONE.
+Il est aise de le connaitre.
+PHILACTE, a Cephale.
+Courage, tout va bien, Seigneur.
+CEPHALE.
+Belle Procris, (car la douleur
+N'a rien altere de vos charmes,)			[1630]
+Su d'un epoux qui fait couler vos larmes
+Vous pouviez pour un temps perdre le souvenir,
+Et que dans ce Palais on put vous retenir,
+Que ne ferait-on point pour calmer vos alarmes ?
+PROCRIS.
+Vos soins, Seigneur, m'offrent un vain secours ;			[1635]
+L'exces de mes malheurs permet-il que j'espere
+Qu'aucun mortel en suspende le cours ?
+A mes justes desirs le sort est trop contraire.
+Ah ! Si jamais l'amour a touche votre coeur
+D'une ardeur vive et mutuelle,			[1640]
+Si vous avez senti sa charmante douceur,
+Concevez la peine cruelle
+Que souffre un coeur bien enflamme,
+Quand le sort injuste et barbare
+Peut-etre pour jamais l'ecarte et le separe			[1645]
+D'un objet tendrement aime.
+CEPHALE.
+Je suis touche de votre peine,
+Vous m'en voyez penetre comme vous :
+Mais cessez la recherche vaine
+Que vous faites de votre epoux.			[1650]
+PROCRIS.
+Vous condamnez, Seigneur, un soin si legitime,
+Et je le prends, dites-vous, vainement ?
+CEPHALE.
+Ah ! Que de cet epoux je plains l'aveuglement ?
+S'il s'eloigne de vous sans crime,
+Qu'il est coupable en ce moment !			[1655]
+PROCRIS.
+Seigneur.
+CEPHALE.
+Possesseur de vos charmes
+Autant aime peut-etre qu'amoureux,
+Il a gemi d'abord, il a verse des larmes,
+L'absence a redouble ses feux ;
+Mais?
+PROCRIS.
+Achevez, Seigneur.			[1660]
+CEPHALE.
+Une flamme nouvelle			[1660]
+A saisi son coeur malgre lui,
+Et le rend moins digne aujourd'hui
+Des tendres soins d'une epouse fidele.
+PROCRIS.
+Ah ! De quel coup mortel venez-vous me frapper ?
+L'ingrat? Mais non, Dione, on cherche a me tromper.			[1665]
+Pardonnez aux transports d'une epouse insensee,
+L'injurieux soupcon qu'elle prend contre vous :
+Mais enfin, d'un perfide epoux
+Qui vous a donc, Seigneur, explique la pensee ?
+Ou le retient-on ? En quel lieu			[1670]
+Se cache-t-il ? Quelle est cette beaute qu'il aime ?
+Ah ! Si son coeur brule d'un nouveau feu,
+Ose-t-il l'avouer ?... N'etes-vous pas un Dieu
+Qui penetrez ses secrets par vous-meme ?
+Si vous etes, Seigneur, une Divinite,			[1675]
+Comme j'ai tout sujet de le penser?
+CEPHALE.
+Madame.
+PROCRIS.
+Car un simple mortel avec facilite
+Ne sait point lire au fond d'une ame.
+He qui peut vous avoir appris
+Que trop d'amour pour un perfide			[1680]
+Pres de vous en ces lieux me guide,
+Que je cherche Cephale, et que je suis Procris ?
+Protegez une infortunee,
+Servez-vous de votre pouvoir
+Pour adoucir ma destinee.			[1685]
+Que je parle a l'ingrat, que je puisse le voir,
+Qu'il me rende son coeur, et dans l'instant j'oublie
+Les maux qu'il m'a causes par son eloignement ;
+Ou s'il s'obstine au changement,
+De grace punissez, Seigneur, sa perfidie.			[1690]
+CEPHALE.
+Si vous saviez a quels remords
+Cette infidelite l'expose,
+Vous modereriez les transports
+Que son egarement vous cause.
+D'un trouble egal au votre il se sent agiter ;			[1695]
+Vous l'aimez, Madame, il vous aime,
+Quels reproches secrets il se fait a lui-meme !
+PROCRIS.
+He ! Devrait-il les meriter ?
+CEPHALE.
+C'est une puissance supreme
+Qui le force de vous quitter.			[1700]
+PROCRIS.
+Ainsi, le Ciel auteur de l'injustice,
+Approuve l'infidelite :
+Il permet donc qu'avec impunite
+L'ingrat Cephale me trahisse :
+C'est lui que je cherche en ces lieux,			[1705]
+Je ne l'y trouve point ; souffrez que dans Athenes
+J'aille cacher a tous les yeux
+Ma honte et l'exces de mes peines.
+CEPHALE.
+Non, Madame, dans ce Palais
+C'est l'Amour qui vous a conduite,			[1710]
+Ce Dieu n'approuve pas une si prompte fuite,
+Il veut de votre sort prendre soin desormais.
+PROCRIS.
+Prendre soin de mon sort ? Quelle pitie fatale !
+Ah ! Pour le rendre heureux qu'il me rende Cephale.
+CEPHALE.
+Je ne penetre point les desseins de l'Amour :			[1715]
+Mais, Madame, dans ce sejour
+Daignez vous arreter, c'est lui qui vous en prie,
+A vos peines, a vos tourments,
+Vous trouverez ici plus d'adoucissement
+Qu'au milieu de votre Patrie.			[1720]
+Par de tendres amusements
+Les hotes de ces bois chercheront a vous plaire :
+Heureux si pour quelques moments
+De vos chagrins ils pouvaient vous distraire.
+PROCRIS.
+Dans l'etat ou je suis, Seigneur,			[1725]
+Le devoir et la bienseance,
+Mon repos meme et mon honneur
+En d'autres lieux demandent ma presence.
+CEPHALE.
+Et moi, Madame, et moi, j'ose exiger de vous
+Que vous differiez de vous rendre,			[1730]
+En des lieux, qui de votre epoux
+Pourraient vous rappeler un souvenir trop tendre ;
+Pour l'oublier demeurez parmi nous,
+La raison, tout vous y convie ;
+Dans ce Palais vous ne serez servie			[1735]
+Que par des Nymphes, dont le soin,
+L'unique objet, la principale etude
+Seront de vous sauver la moindre inquietude.
+DIONE.
+De ce soin-la nous avons grand besoin,
+Nous pouvons l'accepter sans trop de complaisance.			[1740]
+PROCRIS.
+Seigneur.
+CEPHALE.
+Souffrez qu'en ma faveur
+J'ose expliquer votre silence,
+Et qu'ici tout s'empresse a meriter l'honneur
+D'y jouir de votre presence.
+SCENE IX. Procris, Dione, Philacte.
+PHILACTE, a part.
+La Princesse Procris, ou je m'y connais mal,			[1745]
+Ne sera pas inconsolable,
+Et sous de nouveaux traits devenu plus aimable,
+Cephale est pour lui-meme un dangereux rival :
+Les suites de ceci pourront etre funestes.
+Pour mieux eclaircir mes soupcons,			[1750]
+Cache derriere ces buissons
+Ecoutons leurs discours, ou devinons leurs gestes.
+SCENE X. Procris, Dione.
+DIONE.
+Que dites-vous de ce jeune Seigneur,
+Qui s'eloigne a regret de l'endroit ou nous sommes ?
+Peut-etre suis-je dans l'erreur :			[1755]
+Mais je le crois d'un rang fort au-dessus des hommes.
+Avez-vous remarque certain air de grandeur
+Qui regne en toute sa personne !
+Une fierte qui plait au moment qu'elle etonne ?
+Quelle douceur ! Quel charmant entretien !			[1760]
+Son abord seul est d'un heureux presage,
+Et pour moi j'augure tres bien
+Des suites de notre voyage.
+PROCRIS.
+Et moi, je fais, Dione, un effort impuissant
+Pour calmer les chagrins que mon ame ressent :			[1765]
+Dans Athenes ma peine etait bien moins cruelle,
+J'y regrettais Cephale absent,
+J'ignorais qu'il fut infidele.
+DIONE.
+Oui : mais avec quel art on vous a revele
+Tout ce qui dans son coeur se passe ?			[1770]
+Avec quelle prudence, avec combien de grace
+Cet hote si charmant vous en a-t-il parle !
+Il cherchait une excuse a sa nouvelle flamme ;
+De peur de vous trop irriter,
+Attentif a vous arreter,			[1775]
+Quel pretexte obligeant il a saisi, Madame !
+Quelle politesse ! Quel tour !
+C'est dit-il, l'ordre de l'Amour.
+Si ce n'est qu'un mortel, les aimables manieres !
+Et si c'etait un Dieu, je crois qu'il n'en est gueres,			[1780]
+N'en deplaise pourtant a tous les autres Dieux,
+De si charmant, ni de si gracieux.
+Tout cela, comme moi, ne vous a point frappes ?
+PROCRIS.
+Non, Dione.
+DIONE.
+Mais la, parlons de bonne foi.
+PROCRIS.
+De ma seule douleur je suis toute occupee.			[1785]
+DIONE.
+Ouais, je me suis donc trompee.
+En le voyant j'ai senti, moi,
+D'abord je ne sais quoi,
+Qu'il me semblait que vous sentiez de meme,
+Pas tout a fait si fort pourtant,			[1790]
+Mais presque dans le meme instant.
+Examinez-vous bien.
+PROCRIS.
+Ton erreur est extreme.
+DIONE.
+He bien, j'avais d'abord compris,
+Quoique pour un volage un coeur soit trop epris,
+Qu'il est des pertes dans la vie			[1795]
+Qu'on peut aisement reparer,
+Que souvent des plaisirs la tristesse est suivie,
+Qu'il est bon d'etre lente a se desesperer,
+Que l'on ne doit point trop se piquer de constance :
+Enfin j'approuvais fort le peu de resistance			[1800]
+Que vous avez paru faire pour demeurer.
+PROCRIS.
+Pour tes conseils j'ai de la deference,
+J'espere ici revoir Cephale a tout moment.
+DIONE.
+Je donne des conseils fort bons, assurement,
+Et rien ne flatte tant qu'une duce esperance.			[1805]
+PROCRIS.
+C'est le seul bien qui m'est reste.
+DIONE.
+D'autres viendront bientot s'offrir a vous, je pense.
+PROCRIS.
+Tes discours sont pour moi remplis d'obscurite.
+DIONE.
+Cephale est un perfide, un ingrat, un volage ;
+On vous l'a dit, et c'est la verite.			[1810]
+Il en sera puni, je gage.
+PROCRIS.
+Vous perdez l'esprit et le sens.
+DIONE.
+Non, je ne perds ni l'un ni l'autre,
+Je porte un coeur comme le votre,
+Et vous sentez tout ce que je ressens.			[1815]
+Pour moi si je courais apres un infidele,
+Et que je rencontre un tel hote en chemin,
+Loin d'appeler la fortune cruelle,
+Je rendrais grace a mon destin ;
+Dans une demeure si belle			[1820]
+Je croirais ne pouvoir faire un trop long sejour,
+Et je ferais courir l'infidele a son tour.
+PROCRIS.
+Votre extravagance m'etonne,
+De depit contre vous je me sens enflammer :
+Vous vous ferez hair, Dione.			[1825]
+DIONE.
+Et vous vous laisserez aimer,
+Je m'y connais mieux que personne.
+PROCRIS.
+Encor ?
+DIONE.
+Point de courroux, il peut arriver pis ;
+Vous aimerez vous-meme, et je vous le predis.
+PROCRIS.
+Ah ! C'en est trop ; otez-vous de ma vue,			[1830]
+Dione, et ne vous y montrez
+Que lorsque la raison vous sera revenue.
+DIONE.
+Dans peu de temps vous me pardonnerez :
+Mais vous l'aurez alors, vous, tout a fait perdue.
+SCENE XI.
+DIONE, seule.
+Je ne sais si l'epoux voyageur			[1835]
+Sera content de son voyage :
+Mais pour le notre, j'ai grand'peur
+Qu'il ne soit pas fort a son avantage.
+SCENE XII. Dione, Philacte.
+PHILACTE.
+La Princesse parait s'eloigner en courroux.
+DIONE.
+Comme a vous, c'est ce qui me semble.			[1840]
+PHILACTE.
+Se serait-il passe quelque chose entre vous ?
+Auriez-vous eu quelque dispute ensemble ?
+DIONE.
+Ce sont de petits mouvements
+Qui ne durent pas d'ordinaire,
+Et je m'etonne peu de la voir en colere.			[1845]
+PHILACTE.
+Je vous en fais mes compliments.
+Dans l'etat ou la met l'absence de Cephale,
+Vous vous pretez a sa mauvaise humeur.
+DIONE.
+Elle a beau faire, il faut bien qu'elle avale
+Cette pilule avec douceur.			[1850]
+PHILACTE.
+Je la plains ; mais pour vous, que je vous trouve heureuse !
+Tandis que la Princesse en pleurs
+S'abandonne aux chagrins, aux plus vives douleurs,
+Vous n'en etes pas moins joyeuse,
+N'est-ce pas ?
+DIONE.
+Pourquoi non ? Je le crois bien vraiment ;			[1855]
+Entre Procris et moi grande est la difference,
+Procris est sensible a l'absence
+D'un epoux aime tendrement.
+PHILACTE.
+Je croyais, moi, la chose egale,
+Je vous en demande pardon ;			[1860]
+Le bruit courait qu'avec Cephale
+Votre mari Philacte, disait-on,
+Avait fait aussi le voyage,
+Et qu'assez brusquement d'avec vous separe?
+DIONE.
+Ah ! Je crois qu'il n'est qu'egare,			[1865]
+Je le retrouverai sans chercher, j'en enrage.
+Que mon bonheur serait parfait,
+S'il etait perdu tout a fait ;
+C'est le seul bien qu'aux Dieux ma piete demande.
+PHILACTE.
+Son absence aurait beau durer,			[1870]
+Votre douleur, je crois, n'en serait pas plus grande ?
+DIONE.
+Pour cela non, je puis vous en jurer ;
+C'est son retour que j'apprehende.
+PHILACTE.
+Le bon esprit, l'heureux temperament,
+L'aimable petit coeur de femme !			[1875]
+Quoi, si comme Cephale, il ressentait dans l'ame
+Pour quelque autre que vous un tendre mouvement ?
+DIONE.
+Pour le coup j'en rirais de tout mon coeur.
+PHILACTE.
+Comment ?
+DIONE.
+Il peut en faire la folie ;
+Tous les coeurs sont soumis au pouvoir de l'Amour ;			[1880]
+Mais pour se faire aimer, et pour plaire a son tour,
+Oh, par ma foi je l'en defie.
+PHILACTE.
+He, pourquoi donc ?
+DIONE.
+C'est bien le plus grand animal,
+Le plus impertinent visage :
+Il faudrait, pour s'en faire une parfaite image,			[1885]
+Avoir connu l'original.
+PHILACTE.
+Par les sentiments ou vous etes,
+Je comprends fort qu'il n'est pas regrette,
+Et le portrait que vous en faites?
+DIONE.
+He bien, c'est un portrait flatte,			[1890]
+Le croiriez-vous ?
+PHILACTE.
+Moi, non, cela n'est pas croyable ;
+J'en ai oui dire tant de bien :
+Il est d'un aimable entretien.
+DIONE.
+Avec des debauches on dit qu'il brille a table,
+Pour se faire valoir c'est la son seul moyen,			[1895]
+C'est un fort bon ivrogne.
+PHILACTE.
+He bien,
+Un bon ivrogne n'est-ce rien ?
+C'est le talent le plus aimable?
+DIONE.
+Fi donc.
+PHILACTE.
+Il a du coeur.
+DIONE.
+Pour cet article, non :
+Du coeur ? C'est le plus grand poltron?			[1900]
+Quand il suit Cephale a la chasse
+Tout lui fait peur, tout l'embarrasse ;
+Une feuille, une mouche, un faon de biche, un daim,
+Le plus faible animal qui passe
+L'oblige a rebrousser chemin,			[1905]
+Tout lui parait une bete effroyable,
+Quelque sanglier redoutable.
+PHILACTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Elle a quelque raison?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je ne le blame pas
+D'eviter des perils sans gloire ;
+Le bel honneur d'aller affronter le trepas			[1910]
+Sans meriter de vivre dans l'histoire !
+Mais pour courir a la victoire
+S'il fallait de Cephale accompagner les pas,
+Alors comme un foudre de guerre,
+Ardeur au milieu des combats,			[1915]
+Plus redoute que le tonnerre?
+DIONE.
+Lui ! Quel conte ! A l'hymen il ne s'est engage
+Que pour mieux s'assurer un eternel conge.
+PHILACTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il est vrai? Que je suis en bonne renommee !
+DIONE.
+Son emploi de la Cour nous l'avons achete,			[1920]
+Il en pouvait avoir un dans l'armee
+Qui ne nous aurait rien coute.
+PHILACTE.
+D'accord.
+DIONE.
+A tel exces son procede m'irrite.
+PHILACTE.
+Moi, j'approuve fort sa conduite,
+C'est un homme de tres bon sens			[1925]
+Qui veut se conserver pour vous, pour ses enfants,
+Et qui vous aime.
+DIONE.
+Oh, je l'en quitte.
+PHILACTE, a part.
+Parbleu, je m'en tiens quitte aussi, sur mon honneur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pres du Prince il est en faveur,
+Vous, de Procris la favorite.			[1930]
+DIONE.
+C'est au hasard qu'il doit tout son bonheur,
+Et le hasard donne-t-il du merite ?
+PHILACTE.
+De l'air dont vous parler de Monsieur votre epoux,
+Ou mes conjectures sont vaines,
+Ou votre menage entre nous,			[1935]
+N'est pas le plus heureux d'Athenes.
+DIONE.
+C'est un des bons, le croiriez-vous ?
+Cela choque la vraisemblance :
+Mais vous comprenez bien que jusqu'aujourd'hui,
+Je n'ai point a Philacte encire fait confidence			[1940]
+Des sentiments que j'ai pour lui.
+PHILACTE.
+C'est se conduire avec prudence.
+DIONE.
+Si par hasard il les savait, je pense
+Qu'il ne m'en saurait pas bon gre.
+PHILACTE.
+Pour cela non, j'en suis tres assure,			[1945]
+Mais votre coeur parait n'etre ouvert qu'a la haine,
+Et les femmes pourtant sont faites pour aimer :
+Quelque autre que Philacte aura su vous charmer.
+DIONE.
+Non, je vous l'avouerais sans peine,
+Vous paraissez galant homme et discret,			[1950]
+On vous peut sans peril confier un secret :
+Inaccessible a la tendresse,
+Mon coeur jamais n'a ressenti d'amour,
+Et Philacte est hai sans que j'aime.
+PHILACTE, a part.
+Encore est-ce.
+DIONE.
+Cela pourrait fort bien venir peut-etre un jour :			[1955]
+Mais on a tant d'amants que le choix embarrasse,
+Le gout qu'on prend pour l'un par un autre s'efface,
+Un troisieme s'offre a son tour,
+Quelque autre le derange avant qu'il soit en place ;
+Ainsi le temps de moment en moment			[1960]
+Dans l'incertitude se passe
+Sans que l'on puisse, quoi qu'on fasse,
+Prendre un solide attachement.
+PHILACTE.
+A votre epoux c'est faire grace :
+Mais il faut esperer que cela changera,			[1965]
+L'incertitude finira,
+Defendez-vous que l'on espere ?
+DIONE.
+Je ne defends rien, on verra.
+He, qui peut deviner ce que le coeur dira ?
+PHILACTE.
+Profitons du sejour qu'ici vous allez faire,			[1970]
+Consultez-vous un peu sur cette affaire,
+Tachez de vous armer de resolution,
+Et que je sache sans mystere,
+L'effet qu'aura produit la consultation.
+DIONE.
+Ou vous reverrai-je ?
+PHILACTE.
+Ici.			[1975]
+DIONE.
+Bon.			[1975]
+Je m'y rendrai.
+SCENE XIII.
+PHILACTE, seul.
+Que malencontre avienne
+A qui fit naitre en moi la curiosite ;
+Si mon maitre de meme est paye de la sienne,
+Il n'en fera pas vanite.
+Avec Procris je le vois qui s'avance,			[1980]
+Les Nymphes viennent rendre hommage a ses attraits,
+Et vont avec magnificence
+La conduire au Palais.
+DIVERTISSEMENT. Troupes de Faunes et de Nymphes.
+MARCHE.
+UNE NYMPHE chante.
+Les plaisirs, les ris et les jeux
+Habitent dans ces retraites,			[1985]
+Venus y demeure avec eux,
+Le Dieu des amours les a faites
+Pour ceux qu'il veut rendre heureux.
+Dans ces beaux lieux l'aimable Philomele,
+De ses maux perd le souvenir,			[1990]
+Et le deuil de la Tourterelle
+La plus fidele
+Ne tarde pas a finir.
+UNE AUTRE NYMPHE chante.
+Vos yeux ne sont point faits pour repandre des larmes,
+Il est pour eux un emploi bien plus doux,			[1995]
+Belle Procris, vous avez trop de charmes
+Pour regretter si longtemps un epoux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DEUX NYMPHES chantent.
+Triomphez, jeune Princesse,
+Triomphez des Dieux et des Rois,
+Livrez-vous a la tendresse,			[2000]
+Tout suivra vos lois,
+L'Amour s'interesse
+A vous voir faire un nouveau choix,
+Aimez, changez autant de fois
+Qu'il vous en presse.			[2005]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)UNE NYMPHE chante.
+Qui cherche un epoux volage,
+Et rencontre un tendre amant,
+Des fatigues du voyage,
+Se dedommage aisement.
+UNE AUTRE NYMPHE chante.
+Un perfide epoux vous change,			[2010]
+Il est doux d'en faire autant ;
+C'est ainsi que l'on se venge
+Du mepris d'un inconstant.
+UNE AUTRE NYMPHE chante.
+Pour cette douce vengeance
+Songez bien qu'il n'est qu'un temps,			[2015]
+Prudente qui la commence
+Au plus beau de son printemps.
+UNE AUTRE NYMPHE chante.
+On perd tout quand on differe,
+Et rien n'est a negliger,
+Les moments ou l'on sait plaire,			[2020]
+Sont ceux de se bien venger.
+
+
+			ACTE III
+
+
+SCENE I. L'Aurore, Callitee.
+L'AURORE.
+Ah ! Que Procris m'a paru belle,
+Callitee, et pourquoi les Dieux
+Ornent-ils donc une simple mortelle
+De leurs dons les plus precieux ?			[2025]
+Quoi n'est-ce pas fournir des armes
+Contre leurs propres libertes,
+De prodiguer ainsi tant d'attraits et de charmes
+Qu'ils devraient reserver pour des Divinites ?
+CALLITEE.
+Vous en parlez bien a votre aise,			[2030]
+Et pour penser ainsi vous avez vos raisons :
+Mais les Dieux, ne vous en deplaise,
+N'ont pas si grand tort au fond.
+Si les Deesses en partage
+Avaient tous les attraits et toute la beaute,			[2035]
+Croyez-vous qu'un tel avantage
+N'ajoutat pas beaucoup encore a leur fierte ?
+Quand par hasard quelques-unes d'entre elles
+Veulent trop faire les cruelles,
+Sur la terre les Dieux ont de quoi s'en venger.			[2040]
+Qu'ils font bien de se dedommager,
+Loin de l'Olympe, aupres des belles,
+L'occasion de se dedommager
+Du sot orgueil des Immortelles ;
+Car vous savez qu'il en est entre nous			[2045]
+De ridicules, d'intraitables ;
+Et sans vous flatter, comme vous
+Toutes ne sont pas raisonnables.
+L'AURORE.
+Je pardonne a ta bonne humeur
+De plaisanter ainsi de ma faiblesse :			[2050]
+Mais trop legerement ton zele s'interesse
+A l'etat violent ou se trouve mon coeur.
+CALLITEE.
+Pardonnez-moi, je vous assure,
+Je suis tres attentive a tous vos sentiments,
+Autant que vous j'y prends part, je vous jure :			[2055]
+Mais enfin de cette aventure
+Je ne prevois pour vous que des plaisirs charmants :
+Sans crainte de Procris je vois briller les charmes,
+Les votres doivent lui causer
+Plus de soucis et plus d'alarmes.			[2060]
+Sur la foi de l'Amour on peut s'en reposer,
+Puisque en faveur de votre flamme
+Notre ami Mercure a, Madame,
+Pris grand soin de le disposer.
+L'AURORE.
+Tu rassures un peu mon ame.			[2065]
+CALLITEE.
+Contre Procris tout doit vous rassurer ;
+Vous etes amante, elle est femme,
+Quelle raison pour esperer !
+L'AURORE.
+Il est vrai : mais enfin, ma chere Callitee,
+Mercure dans l'Olympe est alle faire un tour,			[2070]
+Et je suis fort inquietee
+De ne le point voir de retour.
+CALLITEE.
+Avez-vous peur qu'il ne s'egare ?
+L'AURORE.
+Non : mais des mouvements de la celeste Cour
+Je crains, je l'avouerai, quelque suite bizarre ;			[2075]
+De Minerve, Procris a la protection :
+Junon dans son humeur jalouse,
+Sans trop savoir pourquoi, prend avec passion
+Le fait et cause d'une epouse.
+CALLITEE.
+C'est un faible credit que celui de Junon.			[2080]
+L'AURORE.
+Cybele est malfaisante, et Jupiter est bon,
+A te dire le vrai, tout cela m'inquiete,
+Callitee, et j'ai grand regret
+Que cette affaire-ci n'ait point ete secrete.
+CALLITEE.
+Cela serait mieux en effet :			[2085]
+Mais comment empecher que le bruit ne soit fait ?
+Le meilleur parti qu'on peut prendre,
+C'est de laisser faire, et d'attendre ;
+Vous verrez a la fin que Procris aura tort.
+He fi, c'est une tracassiere,			[2090]
+Qui pres des Dieux a fait grand bruit d'abord.
+Jupiter a charge Mercure de l'affaire :
+De concert avec nous par Mercure l'Amour,
+Procris dans ce palais conduite,
+Y fait pour elle un dangereux sejour,			[2095]
+Dont nous verrons bientot la suite.
+Son epoux tend un piege a sa fidelite :
+Par les appas d'une feinte tendresse
+Son coeur fremit, ou son depit flatte
+Feront succomber sa fierte.			[2100]
+Acte aussitot de sa faiblesse,
+Temples, acces fermes pour elle aupres des Dieux,
+Nul secours, assistance aucune ;
+Mercure a Jupiter fera voir clairement
+Qu'on ne doit vous blamer en ceci nullement ;			[2105]
+La dolente Procris devenue importune
+Ira chercher ailleurs fortune ;
+Et son epoux tranquillement,
+Sans qu'on ose en gloser, restera votre amant.
+Ainsi tout ira bien, Deesse.			[2110]
+L'AURORE.
+Le plaisir dans mon coeur succede a la tristesse.
+CALLITEE.
+Voila comme parmi les Dieux
+Se menent bien souvent la plupart des affaires ;
+Et si chez mes mortels elles vont un peu mieux,
+Je pense que ce n'est de guere.			[2115]
+Ne craignez rien, Mercure avec empressement
+Vous apporte quelque nouvelle.
+SCENE II. L'Aurore, Mercure, Callitee.
+L'AURORE.
+Quel trouble tout-a-coup m'agite en ce moment ?
+MERCURE.
+Rassurez-vous, trop charmante Immortelle,
+Du haut des Cieux j'arrive a tire d'aile,			[2120]
+Ce n'est pas pour vous faire un mauvais compliment.
+CALLITEE.
+Je vous le disais bien.
+MERCURE.
+Tout va le mieux du monde.
+Le dessein que nous avons pris
+D'attirer en ces lieux Procris,			[2125]
+Pour calmer sa douleur profonde,
+Ou pour suspendre au moins ses plaintes et ses cris,
+Dans l'Olympe, ou d'abord parmi tous les esprits
+Sur toute nouveaute la petulance abonde,
+A fait un merveilleux effet.			[2130]
+CALLITEE.
+He voyez ce que c'est qu'un bon conseil ; Madame.
+L'AURORE.
+Donne par un ami parfait.
+CALLITEE.
+Qui s'interesse a servir votre flamme.
+MERCURE.
+Personne n'y prend tant de part ;
+Et pour donner un bon tour a l'affaire,			[2135]
+Je m'y suis pris aussi de la bonne maniere.
+Arrive comme par hasard,
+De votre part pourtant j'ai d'abord ete faire
+A Junon, Cybele et Pallas,
+Des compliments qu'elles n'attendaient pas.			[2140]
+L'AURORE.
+Elles qui contre moi sans raison declarees ?...
+MERCURE.
+Et voila pourquoi justement
+J'ai cru qu'il etait bon que pour le compliment
+Elles fussent les preferees.
+CALLITEE.
+Que Mercure est un bon politique !			[2145]
+MERCURE.
+Oui, vraiment.			[2145]
+Celles qui sont de nos amies
+Sans soins a nous servir se laissent engager :
+Ce ne sont que les ennemies
+Qu'avec art il faut menager.
+L'AURORE.
+Cette conduite est tout-e-fait louable :			[2150]
+Mais enfin, quel succes est-ce qu'elle a produit ?
+MERCURE.
+Elle a produit un succes admirable,
+Dont j'ai la peine, et vous le fruit.
+L'AURORE.
+Mais encor dites-moi.
+MERCURE.
+Procris disgraciee,
+Chez les Divinites a perdu son credit.			[2155]
+L'AURORE.
+He ? De quelle facon ?
+MERCURE.
+J'ai mis dans leur esprit.
+L'AURORE.
+Quoi ?
+MERCURE.
+Que de leur puissance elle s'est defiee,
+Qu'elle a mis dans ses interets
+Venus, les Graces, la Jeunesse,
+Les Ris, les Jeux, les Plaisirs.
+CALLITEE.
+Quelle adresse !			[2160]
+MERCURE.
+Qu'a la servir aussi les amours sont tous prets ;
+Qu'enfin elle est autorisee
+Par toute la cabale a la leur opposee.
+L'AURORE.
+He bien !
+MERCURE.
+He bien dans le moment
+Les voila dans l'emportement.			[2165]
+Je ne m'etonne pas, a dit d'abord Cybele,
+Si je n'entends plus parler d'elle.
+Dans mon Temple, a repris Junon,
+Elle n'a depuis hier fait offrandes ni don.
+Ah vraiment, a crie Minerve,			[2170]
+Cette folle prend bien son temps
+Pour nous retrancher notre encens ;
+Croit-elle donc que pour rien on la serve ?
+He ! Pensez-vous donc que ce soit votre appui ;
+Ai-je repondu, moi, qu'elle cherche aujourd'hui ?			[2175]
+Loin de s'interesser a retrouver Cephale,
+Eprise d'une ardeur egale,
+Elle court comme lui la campagne a present.
+L'AURORE.
+Ah ! C'est etre trop medisant.
+MERCURE.
+Oh ! Vous placez mal le scrupule,			[2180]
+Madame l'Aurore ; comptez,
+Pour epargner le moindre ridicule
+A certaines Divinites,
+Qu'il n'est medisance, imposture
+Dont ne soit capable Mercure ;			[2185]
+Et qu'enfin pour sauver votre honneur combattu,
+Il faut immoler tout, et meme la vertu.
+CALLITEE.
+Quel zele !
+L'AURORE.
+Il va plus loin encor que ses promesses.
+MERCURE.
+Enfin voyant les trois Deesses
+L'esprit aigri de colere, et le coeur			[2190]
+A peu pres au point de fureur
+Qu'on pouvait souhaiter, c'est-a-dire, enragees
+Comme des prudes outragees,
+J'ai dans l'instant saisi l'occasion,
+Je me suis assure de leur protection,			[2195]
+Pour faire recevoir Cephale
+A demander aux Dieux la separation,
+En cas de malversation
+De la part de votre rivale.
+Cela vaut fait.
+CALLITEE.
+Fort bien.			[2200]
+MERCURE.
+Ce n'est pas tout encor.			[2200]
+L'AURORE.
+Qu'avez-vous fait de plus ?
+MERCURE.
+Plutus, le Dieu de l'or,
+Que vous connaissez bien, je pense,
+M'a de fort bonne grace et sans nul interet,
+Malgre le temps qui court, prete quelque finance,
+Que vous lui rendrez, s'il vous plait,			[2205]
+Et cela pour donner a quelques secretaires,
+A des confidents ordinaires
+De quelques Dieux de peu de poids,
+Mais qui pourtant dans les affaires
+Ne laissent pas d'avoir leur voix.			[2210]
+L'AURORE.
+Vous avez fort bien fait.
+MERCURE.
+Dans le siecle ou nous sommes,
+Chez les Dieux comme chez les hommes
+Les presents font taire les lois.
+L'AURORE.
+D'accord.
+MERCURE.
+Quant a Momus, trois ou quatre bouteilles
+D'un nectar le premier cuve,			[2215]
+Par mon maitre d'hotel avec soin conserve,
+L'ont engage pour vous a faire des merveilles :
+Le Dieu critique en a bu tout son sou,
+Puis, devant Jupiter, des fausses pruderies
+Il a fait cent plaisanteries ;			[2220]
+Le grand Maitre des Dieux en a ri comme un fou :
+Enfin ce qui d'abord chez la Troupe immortelle,
+Ou par malice, ou par prevention,
+Paraissait meriter si grande attention,
+Leur parait maintenant la moindre bagatelle ;			[2225]
+Et sur ma foi je vous fais caution,
+Que de Procris pour peu que la vertu chancelle,
+Il n'en sera plus mention.
+CALLITEE.
+N'est-ce pas une chose etrange
+De voir qu'en terre et dabs les Cieux,			[2230]
+Parmi les mortels et les Dieux,
+On soit sujet a prendre ainsi le change ?
+L'AURORE.
+Tout ceci ne meritait pas
+L'eclat qu'on en a voulu faire.
+CALLITEE.
+D'accord : mais en donnant un bon tour a l'affaire,			[2235]
+Mercure cependant nous sort d'un mauvais pas.
+L'AURORE.
+Je n'en serai jamais ingrate,
+Et Mercure sur moi peut compter.
+MERCURE.
+Je m'en flatte ;
+Mais a le meriter je suis interesse.
+Voici Philacte, je vous laisse,			[2240]
+Et vais pres de Procris employer soins, adresse,
+Pour achever ce que j'ai commence.
+SCENE III. L'Aurore, Callitee, Philacte.
+CALLITEE.
+Philacte est occupe de quelque reverie,
+Qui lui cause un secret ennui.
+L'AURORE.
+Faisons-le approcher, je te prie,			[2245]
+Je veux savoir un quelque chose de lui.
+CALLITEE.
+Philiacte.
+PHILACTE.
+Ah, ah ! C'est vous.
+L'AURORE.
+Que fait Cephale ?
+PHILACTE.
+Pour vous plaire, a votre rivale
+Par vos ordres il fait les honneurs du Palais,
+Comme s'il en etait le maitre ;			[2250]
+Et si je sais me connaitre en souhaits,
+Je crois qu'il voudrait deja l'etre.
+L'AURORE.
+Pres de Procris il est fort empresse ?
+PHILACTE.
+Tantot oui, tantot non, Madame.
+L'AURORE.
+Comment ?
+PHILACTE.
+Il a d'abord assez bien commence,			[2255]
+Et dans l'esprit et le coeur de la Dame
+Il m'a paru fort avance,
+Puis ensuite il s'est deplace ;
+Je ne sais quel remords le gene au fond de l'ame.
+L'AURORE.
+Ainsi toujours de Procris amoureux?			[2260]
+PHILACTE.
+Ce n'est point l'amour qui l'enflamme :
+Mais sous de nouveaux traits il est bien dangereux
+De faire l'amant de sa femme :
+Vous eprouvez son coeur par un terrible endroit,
+L'entreprise est hardie, et delicate, et grande ;			[2265]
+Pardonnez-lui s'il apprehende
+D'etre aime plus qu'il ne voudrait.
+CALLITEE.
+La situation a coup sur est genante.
+L'AURORE.
+Et c'est pourtant le seul moyen
+De calmer les soupcons que mon coeur a du sien.			[2270]
+PHILACTE.
+He ! De grace, soyez contente
+D'allumer dans son coeur une flamme constante,
+Madame, et par-dela ne lui demandez rien.
+Je sais par moi ce qu'il en coute
+Pour certains eclaircissements.			[2275]
+CALLITEE.
+As-tu vu ta femme ?
+PHILACTE.
+Sans doute.
+CALLITEE.
+Tu sais pour moi quels sont ses sentiments ?
+PHILACTE.
+Oh, vraiment oui, c'est bien le plus grand fonds de haine,
+Le plus parfait mepris. Je m'en doutais un peu :
+Mais, grace a vous, la chose est a present certaine,			[2280]
+Et d'en douter encor je n'ai plus aucun lieu.
+Si par hasard mon maitre allait savoir de meme?
+L'AURORE.
+Non, pour lui de Procris la tendresse est extreme,
+Il n'en doit redouter ni haine, ni mepris,
+Cephale est seul objet de sa plus tendre flamme.			[2285]
+PHILACTE.
+Je n'en repondrais pas, Madame,
+C'est son epouse, que Procris ;
+L'hymen fait des effets qu'on ne saurait comprendre ;
+Moi, qui n'ai pas sujet de m'en louer,
+Et qui suis fort humain, fort tendre,			[2290]
+A la pauvre Princesse? Osai-je l'avouer ?
+J'ai par deux fois ete tente d'apprendre
+Le mauvais tour qu'on voulait lui jouer,
+Mais la crainte de vous deplaire.
+L'AURORE.
+A ton bon naturel je ne m'oppose pas,			[2295]
+Tu peux en parler ou te taire,
+Mais il s'agit dans cette affaire
+Du secret, ou d'un prompt trepas.
+PHILACTE.
+Je me tairai.
+L'AURORE.
+Tu ne saurais mieux faire,
+Et si Procris en apprends jamais rien,			[2300]
+Tu cesseras de vivre au meme instant.
+PHILACTE.
+Fort bien.
+SCENE IV. Philacte, Callitee.
+PHILACTE.
+Tudieu, la dangereuse chose
+Que d'avoir le secret des Grands !
+Que ce soit vous, ou quelque autre qui cause,
+Il faut en etre les garants.			[2305]
+Ce sejour si charmant commence a me deplaire ;
+De grace, donnez-moi les moyens d'en sortir,
+L'Aurore est un peu trop en colere.
+CALLITEE.
+Je n'ai garde d'y consentir.
+PHILACTE.
+Quoi donc, si pour me faire piece			[2310]
+On va reveler le secret ?
+CALLITEE.
+Tu sais l'ordre de la Deesse,
+Point de quartier.
+PHILACTE.
+Je suis votre valet,
+Vous donnez a son ordre un peu trop d'etendue ;
+Si ce n'est pas ma faute a moi ?			[2315]
+CALLITEE.
+N'importe, immuable est la loi.
+PHILACTE.
+Parbleu, pour eviter qu'on fasse une bevue,
+Ou laissez-moi partir, ou qu'on me garde a vue.
+CALLITEE.
+Rien ne t'arrete donc en ces lieux ?
+PHILACTE.
+Non, ma foi ;
+L'amour m'y retiendrait, mais la crainte m'en chasse.			[2320]
+Mettez-vous vous-meme en ma place.
+CALLITEE.
+A la Divinite je repondrai de toi.
+PHILACTE.
+Je demeure, et c'est une grace
+Que je ressens comme je dois.
+CALLITEE.
+Va rejoindre Cephale, et dis-lui qu'il se presse			[2325]
+De meriter le coeur de la Deesse ;
+Pour rompre avec Procris qu'il ne menage rien.
+PHILACTE.
+Quel espoir m'est permis ?
+CALLITEE.
+Moi-meme je l'ignore.
+Mais unissons d'abord Cephale avec l'Aurore,
+Leur sort decidera du tien.			[2330]
+SCENE V.
+CALLITEE, seule.
+Si je puis sainement juger de l'aventure,
+La Deesse et Cephale, a ce que je prevois,
+S'accorderont mieux que Philacte et moi.
+Mais que vois-je, Seigneur Mercure ?
+Quel est donc ce deguisement ?			[2335]
+SCENE VI. Callitee, Mercure en vieille.
+MERCURE.
+Connaissez-vous les traits de Stenope ?
+CALLITEE.
+Oui, vraiment,
+Nourrice de Procris, je pense.
+MERCURE.
+Son tout, sa gouvernante aussi.
+CALLITEE.
+Oui, justement.
+MERCURE.
+Ai-je bien pris la ressemblance ?
+Qu'en dites-vous ?
+CALLITEE.
+On ne peut rien de mieux ;			[2340]
+Voila son air, ses traits, sa taille et son visage ;
+Sans etre tout au moins du rang des demi-Dieux,
+On vous meconnaitrait, je gage,
+Et ce deguisement peut tromper tous les yeux.
+MERCURE.
+Je vois de Procris la Suivante,			[2345]
+Adieu. Comme nourrice, avec la confidente,
+Je vais au plutot achever
+D'abattre une fierte deja bien chancelante.
+SCENE VII. Mercure, Dione.
+DIONE.
+Rien n'est moins naturel que tout ce que je vois,
+Chaque instant, chaque pas a ma surprise ajoute,			[2350]
+Vous sommes chez un Dieu, sans doute ;
+Mais ne vois-je pas ? Non, si fait, pardonnez-moi :
+Je ne me trompe point, Stenope !
+MERCURE.
+C'est Dione !
+Que je ressens de joie en ce moment !
+DIONE.
+Par exces d'amitie la bonne Vieille donne			[2355]
+L'embrassade aussi vivement?
+MERCURE.
+Je suis, ma chere enfant, dans de cruelles peines.
+Quoi ! Sans Procris vous trouver seule ici ?
+Pour la chercher je viens expres d'Athenes.
+DIONE.
+Et vous venez a propos, la voici.			[2360]
+SCENE VIII. Mercure, Procris, Dione.
+PROCRIS.
+Que fais-je ? Ou suis-je, infortunee ?
+Est-ce donc mon epoux que j'attends en ces lieux ?
+Quelle y sera ma destinee !
+Mais, quel objet se presente a mes yeux !
+Stenope ! Helas ! Vous m'avez donc suivie ?			[2365]
+En quel etat me trouvez-vous ?
+MERCURE.
+Dans un etat a faire envie,
+Si quand l'Amour vous y convie
+Vous suiviez un juste courroux.
+PROCRIS.
+Quoi ! De concert avec Dione,			[2370]
+Stenope, mes chagrins par vous sont redoubles ?
+Est-ce donc vous qui me parlez ?
+MERCURE.
+Ce sont des conseils qu'on vous donne,
+Servez-vous-en si vous voulez.
+PROCRIS.
+Qu'entends-je ? Quels discours ?			[2375]
+Leur nouveaute m'etonne ! Quoi !
+Lorsque la raison peut-etre m'abandonne,
+Est-ce ainsi dans mes maux que vous me consolez.
+MERCURE.
+Ces traitres de maris, ce parjure Cephale,
+C'est l'ame la plus deloyale?			[2380]
+PROCRIS.
+Dit-on l'objet de son egarement ?
+MERCURE.
+Oui, l'on sait toutes ses fredaines,
+Il est a present dans Athenes
+Dans un joli predicament.
+PROCRIS.
+Stenope, instruisez-moi de tout ce qui se passe,			[2385]
+Pour aigrir mon ressentiment.
+MERCURE.
+Ho, c'est bien mon dessein, vraiment.
+Sous pretexte d'aimer la chasse,
+Tous les jours le perfide allait des le matin
+En rendez-vous avec l'Aurore			[2390]
+PROCRIS.
+Avec l'Aurore !
+DIONE.
+Et mon vilain
+Ne m'en avait rien dit encore :
+Le double traitre !
+MERCURE.
+Autre coquin.
+Le drole avait aussi ses raisons pour se taire.
+DIONE.
+Le pendard ?
+MERCURE.
+Voila bien de quoi vous etonner ;			[2395]
+L'exemple est dangereux, on fait ce qu'on voit faire.
+Il s'etait laisse suborner
+Par une Nymphe bocagere,
+Dont ils empruntaient la chaumiere
+Pour appreter le dejeuner.			[2400]
+DIONE.
+Je le reconnais bien, il ne sait qu'ivrogner,
+Toujours a table, ou pres de quelque aventuriere.
+PROCRIS.
+Mais quoi, la Deesses du jour
+Se rendrait-elle aussi dans ce vilain sejour ?
+MERCURE.
+En quel lieu, dites-moi, dans leurs folles tendresses			[2405]
+Ne vont point et Dieux et Deesses ?
+PROCRIS.
+Avec Cephale de concert
+Votre epoux nous trompait, Dione.
+DIONE.
+Vengeons-nous en de meme. He, de quoi sert
+D'etre fidele a qui nous abandonne ?			[2410]
+MERCURE.
+On n'en est pas mieux, car enfin,
+Ce que l'on n'a pas fait, on croit qu'on l'a pu le faire.
+DIONE.
+Et la contrainte ainsi ne sert de guere.
+MERCURE.
+Non vraiment. Il n'est point de plus sotte maniere,
+C'est etre raisonnable en vain.			[2415]
+PROCRIS.
+Quelle ardeur coule dans mes veines !
+Le trouble, le depit, la fureur tour a tour?
+Quels avant-coureurs de l'amour !
+Il fallait? precautions vaines,
+Quand j'aurais evite ce dangereux sejour,			[2420]
+Stenope, suivez-moi, prenez pitie des pines
+Que je ressens dans ce funeste jour.
+DIONE.
+Cette affaire-ci prend le tour
+Que j'ai prevu d'abord. Vous suivrai-je, Madame ?
+MERCURE.
+Non.
+DIONE.
+C'est moins le depit que l'amour qui l'enflamme.			[2425]
+SCENE IX. Dione, Philacte.
+PHILACTE, a part.
+Je ne puis retrouver Cephale dans ces lieux.
+Heureux amant sans se faire connaitre,
+Et malheureux mari ; peut-etre
+De honte en ce moment il se cache a mes yeux,
+Mais je vois ma femme, et j'enrage,			[2430]
+Qu'ici mal-a-propos me voila revenu !
+DIONE.
+Voici, je crois, mon inconnu.
+PHILACTE, a part.
+Au rendez-vous la coquine est exacte,
+Et par ma foi, je n'en suis point surpris.
+DIONE.
+Il est moins beau que l'amant de Procris,			[2435]
+Mais il est bien au-dessus de Philacte.
+PHILACTE, a part.
+Philacte ! Elle parle de moi,
+Et n'en dit pas de bien sur ma parole.
+Eloignons-nous d'ici, je crois
+Que j'y jouerais un assez mauvais role.			[2440]
+DIONE.
+Vous semblez vouloir m'eviter,
+Ma presence vous embarrasse,
+Vous qui tantot dans cette meme place
+Avec plaisir paraissiez m'arreter.
+PHILACTE.
+J'apprehende de vous distraire,			[2445]
+Et de troubler des occupations
+Qui, comme je presume, ont plus de quoi vous plaire
+Que l'entretien que nous aurions.
+DIONE.
+Je consultais mon coeur sur la petite affaire
+Dont tantot vous m'avez parle.			[2450]
+PHILACTE.
+Aux conseils volontiers un bon esprit deferre
+Quand il se croit bien conseille.
+DIONE.
+Avec plaisir vous apprendrez peut-etre
+Le resultat de la reflexion,
+J'ai pris ma resolution.			[2455]
+PHILACTE.
+Ne me la faites point encore sitot connaitre.
+Et dans mon coeur laissez durer
+La charmante douceur de pouvoir esperer?
+DIONE.
+Ah ! Puisqu'a cet espoir vous etes si sensible,
+Apprenez pour le mieux flatter,			[2460]
+Que mon traitre m'a fait un outrage terrible.
+PHILACTE.
+Philacte ?
+DIONE.
+Je le sais a n'en pouvoir douter.
+PHILACTE.
+Lui ? Quel conte ?
+DIONE.
+Par l'infidele
+Le coeur d'une Nymphe surpris,
+He, quelle Nymphe, encore.
+PHILACTE.
+Chansons.			[2465]
+DIONE.
+Non.			[2465]
+PHILACTE.
+Bagatelle.			[2465]
+DIONE.
+Je vous dis qu'il est aime d'elle,
+Plus encore qu'il n'en est epris.
+PHILACTE, a part.
+J'en tiens. Pour ne se pas contraindre,
+La masque est sans sujet la premiere a se plaindre,
+Et voila le pretexte pris.			[2470]
+DIONE.
+Je vous trouve reveur, inquiet, et surpris.
+PHILACTE.
+Sur mon compte par Callitee
+Chemin faisant n'a-t-elle rien appris ?
+DIONE.
+Je suis a tel point irritee?
+PHILACTE.
+Tranquillisez un peu vos sens.			[2475]
+DIONE.
+Contre moi de l'ingrat vous prenez la defense ?
+PHILACTE.
+Non pas vraiment : Mais la prudence
+Ne permet pas sur des faits importants
+De trop croire la medisance ;
+La plupart des epoux sont de si bonnes gens,			[2480]
+Qui meprisent d'entrer dans de certains mysteres ;
+Si comme vous ils etaient petulants,
+On verrait de belles affaires.
+DIONE.
+Je souffrirai qu'avec impunite
+Ce vilain, ce magot m'outrage ?			[2485]
+PHILACTE.
+Oui, vous etes et bonne et sage.
+DIONE.
+Moi sage ! Je l'ai trop ete,
+Je creverais plutot que de l'etre davantage.
+PHILACTE.
+Bon, voila mon fait arrete ;
+Hom, chienne.			[2490]
+DIONE.
+Quel discours ! L'impudence m'etonne,
+He, qui vous autorise a me parler ainsi.
+PHILACTE.
+Vous le saurez bientot, mignonne,
+Pour moi je ne veux pas etre plus eclairci ;
+Je m'en tiens la. Procris s'avance.			[2495]
+DIONE.
+Quelle confusion ? Que faut-il que je pense ?
+SCENE X. Cephale, Procris, Philacte, Dione.
+PROCRIS.
+Quoi donc, seule avec vous, Seigneur,
+Stenope en ces jardins me laisse ?
+CEPHALE.
+N'en apprehendez rien qui blesse
+La bienseance ni l'honneur :			[2500]
+Mon respect est pour vous egal a ma tendresse,
+Et quand on aime infiniment
+On aime avec delicatesse.
+Je me suis apercu de son eloignement,
+Madame, et depuis ce moment			[2505]
+A mon coeur j'ai fait violence.
+Timides pendant son absence,
+Mes feux ont craint de s'exhaler,
+J'ai force ma bouche au silence,
+Et mes yeux seuls ont ose vous parler			[2510]
+Du plus ardent amour dont on puisse bruler.
+PROCRIS.
+Ce langage pour moi n'est point intelligible,
+On ne m'a point instruite a l'expliquer, Seigneur,
+Et les yeux, la bouche et le coeur
+A qui porte une ame sensible,			[2515]
+Parlent en vain de la plus vive ardeur.
+CEPHALE.
+Ainsi donc tout espoir m'est interdit, Madame ?
+Pour vous faire approuver ma flamme,
+Je fais des efforts superflus ?
+Parlez.
+PROCRIS.
+Qu'exigez-vous, et que puis-je vous dire,			[2520]
+Seigneur ? Je ne me connais plus,
+Tout est nouveau pour moi dans votre empire,
+Mon esprit y pense autrement,
+C'est un autre air que j'y respire,
+Mon coeur agit differemment,			[2525]
+Il me semble que tout conspire
+A me faire sentir ce fatal changement.
+A mes interets si fidele,
+Stenope si prudente et si sage autrefois,
+Par des conseils indignes d'elle,			[2530]
+Irrite encore le trouble ou je me vois :
+Sa complaisance criminelle,
+Prete aux traits que j'evite une force nouvelle
+Pour m'asservir sous de funestes lois.
+Fuyons, n'attendons pas qu'un Dieu cruel s'unisse			[2535]
+A tant d'efforts que l'on fait contre moi.
+Quoique Cephale me trahisse,
+Souvenons-nous de ce que je me dois :
+Il est parjure, il me manque de foi,
+Que ma fidelite fasse un jour son supplice.			[2540]
+CEPHALE.
+Merite-t-il, Procris, ce tendre attachement ?
+Malgre ses ardeurs insensees
+Vous l'aimez toujours constamment,
+Toujours present a vos pensees?
+PROCRIS.
+Qu'il les occupe en ce moment.			[2545]
+CEPHALE.
+Instruit de sa perfidie,
+Que lui-meme partout prend soin de publier,
+Vous savez qu'il vous a trahie,
+Et vous ne pouvez l'oublier ?
+PROCRIS.
+Ce serait manquer a ma haine,			[2550]
+Que d'oublier qu'il a pu me trahir ;
+Laissez-moi cet objet dont ma memoire est pleine,
+Je ne l'y retiendrai que pour mieux le hair.
+CEPHALE.
+Dans cette haine encore mal assuree,
+Le haissez-vous tant, Procris ?			[2555]
+PROCRIS.
+Cette haine, seigneur, aura peu de duree,
+Elle fera bientot place au mepris.
+CEPHALE.
+Le mepris : quoi deja?
+PROCRIS.
+C'est la seule vengeance
+Que contre lui se permet ma douleur :
+N'est-il pas temps qu'elle commence			[2560]
+Au moment que je sais l'offense ?
+Je contrains mon depit et ma juste fureur ;
+Et n'opposer a l'inconstance
+Que mepris et qu'indifference,
+C'est se venger avec douceur.			[2565]
+CEPHALE.
+Ah ! De quel doux espoir je sens flatter ma peine !
+La haine succede a l'amour,
+Le mepris va suivre la haine,
+Et ce grand changement est l'ouvrage d'un jour.
+Que la trahison de Cephale			[2570]
+Merite bien le sort que vous lui preparer !
+PROCRIS.
+Helas, Seigneur !
+CEPHALE.
+Vous soupirez.
+PROCRIS.
+A mon repos trahison trop fatale,
+A quels tourments vous me livrez ?
+Seigneur, soyez sensible a mon malheur extreme,			[2575]
+Souffrez que je me rende a la Grece, moi-meme.
+CEPHALE.
+Vous preferez, Procris, le Palais odieux
+D'un epoux volage et parjure
+A cet asile glorieux ?
+Vengez-vous ainsi votre injure ?			[2580]
+Les pleurs qui coulent de vos yeux,
+Font trop voir a quel point il vous est cher encore,
+Cet infidele epoux, cet Amant de l'Aurore.
+PROCRIS.
+Seigneur ?
+CEPHALE.
+Que pouvez-vous souhaiter en ces lieux ?
+Demi-Dieux, Nymphes, tout s'empresse a vous y plaire.			[2585]
+Comme soumise et tributaire
+De ces dons precieux,
+La nature cherche a vous faire
+Un hommage digne des Dieux.
+Je ne veux qu'un seul mot, et pour vous satisfaire			[2590]
+J'assemble en ce Palais mille tresors divers
+Qu'enferment dans leur sein et la terre et les mers,
+Ils sont a vous, Procris, permettez que j'espere.
+PROCRIS.
+Les richesses ne touchent guere,
+Seigneur, un coeur comme le mien,			[2595]
+Et c'est mal en juger de croire
+Qu'aux offres des tresors il soit sensible.
+CEPHALE.
+He bien,
+Si du moins il l'est pour la gloire,
+Peut -etre depend-il de moi
+De vous mettre au-dessus du sort d'un e mortelle.			[2600]
+PROCRIS.
+Vous pouvez tout, et je le crois ;
+Mais pour nous rendre heureux la grandeur suffit-elle ?
+Non, l'immortalite, Seigneur, me deplairait,
+Si l'amour de celui qui me l'assurerait
+Comme lui, comme moi n'etait pas eternelle.			[2605]
+CEPHALE.
+Ah ! Je ne cesserai jamais d'etre constant.
+PROCRIS.
+Cephale m'en jurait autant.
+CEPHALE.
+Par quels serments faut-il qu'on vous rassure ?
+Qui peut mieux garantir la foi de ces serments,
+Que l'adorable objet de mes empressements ?			[2610]
+C'est par vous-meme que j'en jure.
+PROCRIS.
+Et mon perfide epoux, Seigneur,
+Verrait-il a regret ma gloire et ma grandeur ?
+La honte et le remords de m'avoir outragee,
+Troubleraient-ils son infidele coeur ?,			[2615]
+CEPHALE.
+Que vous doit importer sa joie ou sa douleur,
+Pourvu que vous soyez vengee ?
+PROCRIS.
+He ! Puis-je l'etre sans savoir
+Que je lui cause un mortel desespoir ?
+CEPHALE.
+Et vous le haissez ? Malgre son inconstance			[2620]
+Que Cephale est encore heureux !
+Et moi, je ne devrais le succes de mes voeux
+Qu'a ce seul desir de vengeance ?
+PROCRIS.
+Ne suffirait-il pas qu'ils fussent ecoutes ?
+CEPHALE.
+Non, ce n'est pas assez, et ma delicatesse			[2625]
+Voudrait devoir toute ma tendresse,
+Procris, a vos seules bontes.
+PROCRIS.
+Que vous etres cruel ! Que mon trouble est extreme !
+Pourquoi reduire un coeur a le necessite
+De vous avouer, s'il vous aime,			[2630]
+Que vous le devez moins a l'infidelite
+D'un volage epoux, qu'a vous-meme ?
+CEPHALE.
+Procris, sortez de votre erreur ;
+Cephale balancait a vous etre infidele,
+Et s'il n'eut point connu votre perfide coeur,			[2635]
+Il n'aurait point brule d'une flamme nouvelle.
+Reconnaissez-le cet epoux,
+Fuyez, evitez son courroux.
+PROCRIS, fuyant.
+C'est Cephale. Grands dieux ! Ah ! Qu'ai-je fait, Dione ?
+DIONE.
+C'est lui, Madame ?
+PHILACTE.
+Et moi, Madame la friponne,			[2640]
+Qui suis-je, s'il vous plait ?
+DIONE.
+Mon traitre de mari !
+Ah !
+PHILACTE.
+Nous ferons un jour un beau charivari :
+Aujourd'hui, doucement, il faut boire la chose.
+Ma foi, Seigneur, nous nous serions tous deux
+Fort bien passes de la metamorphose.			[2645]
+CEPHALE.
+Ah, Deesse ! A quel prix vous me rendez heureux.
+SCENE XI. L'Amour, L'Aurore, Cephale, Philacte.
+L'AMOUR.
+Aux doux plaisirs qu'on vous offre en ces lieux,
+Vous pouvez vous livrer sans scrupule et sans crainte,
+Cephale, Procris de ses plaintes
+N'importunera plus les Dieux.			[2650]
+L'AURORE.
+Jupiter approuve nos feux,
+Jouissez de la gloire ou mon choix vous appelle,
+Et rendons tous deux grace a Mercure, a l'Amour,
+Dont l'adresse et les soins vous ont fait en ce jour
+Connaitre a fond le coeur d'une infidele.			[2655]
+DIVERTISSEMENT. Plusieurs Faunes et Nymphes.
+MARCHE.
+UNE NYMPHE chante.
+Petits Oiseaux, courtisans de l'Aurore,
+Chantez le glorieux destin
+Du Prince charmant qu'elle adore ;
+Et pour lui plaire mieux encore,
+Ne l'eveillez plus si matin.			[2660]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Une autre Nymphe chante.
+Les faveurs d'une Deesse,
+Font un Mortel egal aux Dieux :
+L'amour n'est point une faiblesse,
+Quand il s'eleve jusqu'aux Cieux.			[2665]
+Deux Nymphes chantent.
+Est-ce un grand bonheur de vivre,
+Si l'on ne vit pas heureux ?
+L'est-on si l'on ne se livre
+A ce qui flatte nos voeux ?			[2670]
+Pour engager les plaisirs a nous suivre
+Il faut aller au-devant d'eux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)UNE NYMPHE chante.
+Ne traitons point de folie
+Tout ce qui mene au plaisir :
+Trop heureux qui peut s'en saisir,			[2675]
+C'est le seul plaisir de la vie.
+Sans l'amour Jupiter meme
+S'ennuierait au haut des Cieux.
+Dans l'Olympe, en terre, en tous lieux
+On n'est heureux qu'autant qu'on aime.			[2680]
+UN FAUNE chante.
+Les plaisirs que l'amour donne
+Touchent faiblement nos sens ;
+Ce sont des plaisirs languissants
+Si Bacchus ne les assaisonne.
+PHILACTE.
+Aux plaisirs sans preference,			[2685]
+Sans dispute livrons-nous ;
+Et quand nous les aurons pris tous,
+Nous en ferons la difference.
+
+	==================================================

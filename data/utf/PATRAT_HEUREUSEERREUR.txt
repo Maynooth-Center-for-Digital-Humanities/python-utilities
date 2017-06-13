@@ -1,0 +1,1285 @@
+********************************************************
+	DC.Title                  = L'HEUREUSE ERREUR, COMEDIE
+	DC.Author                 = PATRAT, Joseph
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 02/10/2016 a 13:20:55.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/PATRAT_HEUREUSEERREUR.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'HEUREUSE ERREUR COMEDIE EN UN ACTE ET EN PROSEM. DCC. LXXXIII. Avec Approbation et Permission.
+Par J. PATRAT.
+	Chez Louis, Md. de Musique Rue du Roule a la Croix d'Or No. 6. Et No. 290.
+	
+	Representee, pour la premiere fois, par les Comediens Italiens ordinaires du Roi, le 22 Juillet 1783.
+	MADAME,
+Vous avez daigne me permettre de vous presenter publiquement ce faible tribut de mon zele : rien ne peut egaler ma vive reconnaissance, que le regret que j'ai de ne pouvoir la faire eclater. Eh ! Pourquoi m'imposer un silence rigoureux ? Dans ce siecle ou la bienfaisance est la vertu favorite, ma voix, en faisant votre eloge, aurait ete l'echo de tous les coeurs : je dois obeir, me taire, et jouir, en rougissant, d'un honneur que je n'ai pas encore merite. Mais comme un rayon de soleil suffit quelquefois pour faire eclore une fleur qui n'aurait pu naitre sans son secours, votre bonte bienfaisante va m'elever au-dessus de moi-meme ; et si je parviens jamais a mettre a vos pieds un ouvrage digne de vous etre offert, c'est a vous que je devrai ma gloire, elle en sera plus chere a mon coeur.
+		Je suis, avec le plus profond respect, MADAME, Votre tres humble et tres obeissant serviteur,
+J. PATRAT.
+AVERTISSEMENT.
+Toutes les situations sont indiquees au commencement de chaque scene : le personnage dont le nom se trouve place le premier, doit etre du cote de la Loge actuelle de la Reine, c'est-a-dire, a la droite des acteurs, et les autres vont de suite. Cette methode, inventee par La Noue, est la plus simple pour indiquer, et la plus facile a suivre. 
+
+PERSONNAGES
+LA COMTESSE DELFORT, riche veuve de dix-huit ans, retiree du monde et vivant dans son chateau. Elle est en neglige galant. Mme. Verteuil.
+SOPHIE DELVAL, riche heritiere, demeurant dans un chateau voisin de celui de la Comtesse, habillee en paysanne. Mme. Jalien.
+LISETTE, Femme-de-chambre de Sophie Delval, placee par son ordre chez la Comtesse, en deshabille. Mme. Raymond.
+MONSIEUR LUVILLE, frere de la Comtesse Delfort, jeune homme aimable, en frac tres uni. M. Grange.
+MONSIEUR DELVAL, frere cadet de Sophie, tres jeune ; il parait d'abord en surtout uniforme, ensuite richement pare. M. Raymond.
+DUBOIS, vieux Domestique de la maison, mis comme Dubois, de la Gageure imprevue. M. Favard.
+ANDRE, Valet ingenu, en veste de Courier. M. Valleroi. 
+MONSIEUR MINUTE, mis en Notaire de Village. M. Coralli. 
+La scene se passe dans le salon de la Comtesse Delfort.
+
+
+
+			L'HEUREUSE ERREUR
+
+
+SCENE PREMIERE.
+Le theatre represente un salon tres orne.
+LISETTE seule, sortant du cabinet de sa Maitresse actuelle, de la Comtesse, avec l'air le plus satisfait.
+Oh ! Pour le coup, ma reussite est certaine ; me voila recue chez la jeune Comtesse, et deja dans ses bonnes graces : elle a donne, tete baissee, dans les pieges que je lui ai tendus ; et au vif interet que ma maitresse parait prendre a ce badinage, je ne doute point que ma recompense ne soit proportionnee au plaisir que je vais lui faire. 
+SCENE II. Lisette, Dubois.
+DUBOIS.
+Mademoiselle Lisette, il y a la une jeune paysanne qui vous demande.
+LISETTE.
+Moi ?
+DUBOIS.
+Vous-meme.
+LISETTE.
+Je ne connais personne dans ce village.
+DUBOIS.
+Elle n'est pas d'ici ; mais elle est bien jolie !
+LISETTE.
+Elle se trompe peut-etre.
+DUBOIS.
+Non, elle a bien demande mademoiselle Lisette, depuis deux jours au service de madame la Comtesse Delfort et qui servait avant mademoiselle Sophie, fille de feu Monsieur le Marquis Delval.
+LISETTE.
+C'est bien moi ; mais il faut qu'elle attende, Madame ecrit, sa toilette n'est pas achevee, elle peut me sonner d'un moment a l'autre, il ne faut pas que je m'eloigne : et je n'ose faire entrer ici.
+DUBOIS.
+Pourquoi ?
+LISETTE.
+Madame pourrait y trouver a redire.
+DUBOIS.
+Elle ? Ah ! Vous ne la connaissez pas. Elle est bonne... bonne par excellence ; et sans son aversion pour tous les hommes, ce serait une femme absolument parfaite.
+LISETTE.
+Mais, d'ou lui vient donc cette haine ?
+DUBOIS.
+Ah ! Elle n'a pas tout-a-fait tort.
+LISETTE.
+Comment ?
+DUBOIS.
+J'etais domestique de feu son pauvre pere, et j'ai vu tout cela ; a quatorze ans elle est devenue eperdument amoureuse d'un etourdi dont la fortune, ni le rang, n'etaient pas dignes d'elle ; le bon papa, qui l'aimait comme ses yeux, n'eut pas la force de resister a ses prieres : le mariage se fit, et son epoux la rendit si malheureuse que ce digne pere en mourut de chagrin.
+LISETTE.
+Ah ! Bon Dieu ! 
+DUBOIS.
+Ce monstre d'ingratitude, ne lui survecut pas longtemps, et notre jeune maitresse se trouvant libre, s'est retiree dans ce chateau, en promettant de n'y jamais recevoir aucun homme.
+LISETTE.
+Y a-t-il longtemps que cela dure ?
+DUBOIS.
+Elle n'a vecu que deux ans avec son mari, et il y a plus de dix-huit mois qu'elle est veuve.
+LISETTE.
+Dix-huit mois ! Et cette haine contre les hommes ne s'affaiblit point ?
+DUBOIS.
+Au contraire ; elle ne voit absolument que son frere ; nous n'osons pas meme la servir a table, et si une de ses femmes nous parle deux fois. A la porte.
+LISETTE.
+Voici donc notre derniere conversation. Faites entrer cette fille.
+DUBOIS.
+Je vais vous l'amener, mademoiselle Lisette.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III.
+LISETTE, seule.
+Personne ne sait que je suis ici. Que peut me vouloir cette paysanne ? Quelle sottise de me tourmenter ! Est-ce que je ne vais pas le savoir ?
+SCENE IV. Lisette, Mademoiselle Sophie, Delval, Dubois.
+DUBOIS, a Lisette.
+La voila, mademoiselle Lisette.
+LISETTE, tres surprise.
+C'est vous, Mad.....
+SOPHIE, l'interrompant et l'embrassant ensuite.
+Oui, ma chere cousine ! C'est moi.
+DUBOIS.
+Ah ! C'est votre cousine ?
+SOPHIE, bas a Lisette.
+Prends-bien garde !
+LISETTE, bas a Sophie.
+Tout est dit.
+DUBOIS.
+Elle est bien jolie, oui !
+LISETTE, a Dubois.
+Laissez-nous, s'il vous plait.
+DUBOIS.
+Je m'en vas. Mais il n'y en a pas une ici qui la vaille.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. Lisette, Sophie.
+LISETTE.
+He, bon Dieu ! Mademoiselle, que venez vous faire ici dans cet equipage ?
+SOPHIE.
+Sommes-nous en surete ?
+LISETTE.
+Le cabinet de la Comtesse est eloigne, et personne ne peut nous entendre.
+SOPHIE.
+Je n'ai pu resister a mon impatience. Comment vont nos affaires ? 
+LISETTE.
+A merveille !
+SOPHIE.
+Tant mieux !
+LISETTE.
+Je me suis presentee chez la Comtesse, qui cherchait en effet une femme de chambre, adroite, intelligente ; car le projet de la retraite n'ote jamais, a une jolie femme, le gout de la parure.
+SOPHIE.
+He bien !
+LISETTE.
+He bien ! Je n'ai pas eu de peine a reussir ; et des le premier jour, un coup de peigne, donne avec elegance, une fleur placee avec grace, il n'en a pas fallu davantage pour me mettre en faveur.
+SOPHIE.
+Comment, elle aime encore la parure ? Et elle ne recoit que des femmes !
+LISETTE.
+Cela vous etonne ? Allez, Madame, le plaisir d'enflammer le coeur des hommes est moins vif, pour bien des belles, que celui d'humilier l'amour propre des femmes.
+SOPHIE.
+A merveille !
+LISETTE.
+Elle m'a demande d'ou je sortais. Je vous ai nommee. 
+SOPHIE.
+He bien ?
+LISETTE.
+Alors, elle m'a fait plusieurs questions sur votre compte, auxquelles j'ai repondu comme nous en etions convenues.
+SOPHIE.
+Ho ! Je veux savoir tous les details.
+LISETTE.
+Elle a commence par me dire : « Il est bien etonnant que nous ne nous soyons jamais vues, ayant des terres aussi voisines. Par quelle raison a-t-elle toujours refuse les invitations que je lui ai fait faire. »
+SOPHIE.
+Qu'as-tu repondu ?
+LISETTE.
+« Ma foi, Madame, vous ne recevez point d'hommes, et votre entetement sur cet article, parait, a mademoiselle Sophie, une extravagance insupportable. - Ah ! Ma pauvre enfant ! Sophie ne connait pas les hommes comme moi ; ce sont tous "des monstres ! - He bien ! - Mademoiselle est persuadee que cette aversion que vous avez pour l'espece en general, n'est qu'un sentiment passager, et que lorsque vous aurez renonce a cette chimere, il ne vous restera plus que le regret cruel d'en avoir trop prolonge la duree. - Elle se trompe, ma haine sera eternelle. - Eternelle ? Bon, s'il n'y avait point de Mademoiselle Sophie au monde. - Que veux-tu dire ? - Rien. - Parle. - Je n'ose. - D'ou vient ? - C'est un secret qu'elle m'a confie. - Tu n'es plus a elle. - Il est vrai ; mais... - Quoi ? - Le secret vous regarde uniquement... - Moi ? - Vous-meme. - Raison de plus pour m'en instruire. - En effet, je suis a vous, et mon zele doit etouffer mes scrupules. - Dis donc, dis donc. »
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous voyez que peu a peu je la conduisais a desirer vivement de savoir ce que je mourais d'envie de lui apprendre.
+SOPHIE.
+A merveille ! Apres ?
+LISETTE.
+« Mademoiselle Sophie, ai-je ajoute avec un air de confidence, a le plus grand mepris pour son sexe ; elle regrette de ne pas etre homme, elle soutient que toutes les femmes sont folles, extravagantes, presomptueuses, sans tenues dans leurs projets, sans solidite dans leurs resolutions ; et, pour vous prouver que vous etes vous-meme au nombre de ces femmelettes, qui se proposent tout et n'executent rien, elle a resolu de venir ici sous le nom de son frere. - Est-il possible ? - Et elle a meme gage, que si elle parvient a vous voir, elle se fera aimer de vous, et jouira ensuite du plaisir de vous faire rougir d'avoir eu l'orgueil temeraire de vous croire capable de tenir un serment. »
+SOPHIE.
+He bien ? 
+LISETTE.
+« Ah ! Lisette, m'a-t-elle dit, en m'embrassant, je reconnaitrai le service que tu viens de me rendre ; je la recevrai et je la badinerai si bien, que les rieurs ne seront pas de son cote. »
+SOPHIE.
+Elle est donc bien determinee a me recevoir sous le nom de mon frere ?
+LISETTE.
+Oui, Madame.
+SOPHIE, tres satisfaite.
+Voila tout ce que je voulais.
+LISETTE.
+Oh ! Ca, je me suis bien acquittee de ma commission.
+SOPHIE.
+On ne peut pas mieux !
+LISETTE.
+Maintenant, si vous voulez que je continue a vous servir, mettez-moi donc au fait de vos projets ; car je n'y comprends encore rien.
+SOPHIE.
+Ecoutes. Tu sais combien j'aime mon frere, et tu connais la tendre amitie qu'il a pour moi ? 
+LISETTE.
+Ah ! Ca ! Il vous aime comme une maitresse et vous respecte comme une mere, quoiqu'il ne soit votre cadet que d'une annee.
+SOPHIE.
+Depuis la perte de notre pere, il s'est repose sur moi du soin de gouverner nos biens, et je ne m'occupe que du plaisir de le rendre heureux ; la Comtesse est jeune, charmante et puissamment riche ; il est dans l'age ou le besoin d'aimer force toujours a faire un choix, et c'est de ce premier choix que depend le bonheur de la vie ; s'il tombe sur un vil objet, les moeurs se corrompent, le coeur se deprave, et les plaisirs honnetes sont perdus sans ressource ; mais s'il se fixe sur une femme estimable, l'amour n'est connu que sous les traits de l'innocence et de la sagesse, l'ame se rempli d'une volupte pure, et l'on reste vertueux toute la vie. 
+LISETTE.
+Mais, votre frere aimera-t-il a commandement ?
+SOPHIE.
+Mon frere est charmant, la Comtesse est pleine de merite, elle lui plaira, j'en suis sure, et je ne doute pas qu'il ne fasse aussi la plus vive impression sur son coeur ; le plus difficile etait de leur procurer les moyens de se voir, ton adresse a su lever cet obstacle, c'est a l'amour a faire le reste.
+LISETTE.
+Comment, a l'amour ?
+SOPHIE.
+Sans doute. 
+LISETTE.
+Mais, quand sous des habits d'hommes vous gagneriez le coeur de la Comtesse, votre frere n'en serait pas plus avance, quoiqu'il vous ressemble infiniment, il n'est pas possible de s'y meprendre.
+SOPHIE.
+Aussi n'est-ce pas moi qui vais me presenter ici.
+LISETTE.
+Comment ?
+SOPHIE.
+J'ai ecrit a Delval d'obtenir une lettre de recommandation, du Commandeur Delbon, pour Monsieur Luville, son neveu et frere de la Comtesse. Il doit arriver aujourd'hui ; la Comtesse, qui va le prendre pour une femme, ne s'en defiera pas, et les agaceries qu'elle lui fera, serviront a developper avec plus de facilite, tous les sentiments qu'ils pourront mutuellement s'inspirer.
+LISETTE.
+Et votre frere est instruit de la ruse ?
+SOPHIE.
+Je m'en serais bien gardee !
+LISETTE.
+Pourquoi ?
+SOPHIE.
+Tu ne le connais pas ; ennemi de la plus legere supercherie, il ne se serait jamais prete a mon projet. 
+LISETTE.
+Cela peut devenir tres plaisant.
+SOPHIE.
+Il faut surtout qu'il ignore que je suis ici ; je resterai dans le village, et tu viendras m'informer de tout ce qui se passera.
+LISETTE.
+He, si votre frere vient a me rencontrer ?
+SOPHIE.
+Qu'importe, pourvu qu'il n'y ait point d'explications devant la Comtesse. Et c'est a toi de les eviter.
+LISETTE.
+Laissez-moi faire, me voila bien instruite... et...
+SCENE VI. Lisette, Luville, Sophie.
+LUVILLE.
+Lisette, est-il jour chez ma soeur ?
+LISETTE.
+Il y a longtemps, Monsieur.
+LUVILLE, apercevant Sophie.
+Qu'est-ce que c'est que cette charmante paysanne ? 
+LISETTE, embarrassee.
+Monsieur,... c'est...
+LUVILLE.
+C'est !...
+LISETTE.
+Je vous demande pardon, Monsieur, c'est ma cousine.
+LUVILLE.
+Pourquoi me demandes-tu pardon ?
+LISETTE.
+Monsieur... c'est que... dans les maisons.... on n'est pas content, quelquefois, que les domestiques soient si pres de leur pays ; les visites des parents ennuient les maitres... et...
+LUVILLE.
+Mais, point du tout ; elle est charmante la petite cousine !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'elle a de grace ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)D'ou etes-vous, ma belle enfant ?
+SOPHIE.
+Monsieur, je suis d'un village qui est a six lieux d'ici.
+LUVILLE, avec interet.
+Et, ou allez-vous ? Que faites-vous ?
+SOPHIE.
+J'allais au chateau voisin, retrouver ma cousine.
+LUVILLE.
+Pourquoi faire ?
+SOPHIE.
+Comme mademoiselle Sophie Delval a eu bien des bontes pour moi...
+LUVILLE.
+Vous connaissez mademoiselle Delval ?
+SOPHIE.
+J'ai eu le bonheur d'etre elevee avec elle, je ne l'ai quittee que pour secourir mes parents, je viens de les perdre, et j'allais reclamer ses bontes, quand j'ai appris que ma cousine n'etait plus a son service ; n'osant me presenter au chateau, je suis venue la trouver ici ; et, quand Monsieur est entre, elle me disait qu'il n'y avait rien a esperer pour moi.
+LUVILLE, vivement.
+He, pourquoi donc, Lisette ? He, mais, vous avez tort ; il ne faut point abandonner cette jeune personne, cela serait affreux ! Il faut qu'elle reste ici.
+SOPHIE.
+Ah ! Monsieur ! Quelle bonte !
+LISETTE.
+Monsieur, etant moi-meme nouvellement recue dans la maison, je n'aurais jamais eu la hardiesse de vous en faire la priere. 
+LUVILLE, tres vivement.
+Mais, pourquoi donc ? J'aime a rendre service, moi ! Cette jeune personne n'a plus de parents ; elle n'a point assez d'experience pour etre abandonnee a elle-meme. Il faut, Lisette, que vous en ayez soin, comme si elle etait votre fille.
+LISETTE.
+Oui, Monsieur.
+LUVILLE, vivement.
+Qu'elle demeure avec vous.
+LISETTE.
+Oui, Monsieur.
+LUVILLE.
+Et moi, je vous promets de reconnaitre les soins que vous prendrez d'elle.
+SOPHIE.
+Croyez, Monsieur, que je suis vivement touchee de vos bontes.
+LUVILLE, tres vivement.
+He, mais cela n'en vaut pas la peine ; ce que je fais est tout simple ; il n'y a pas de spectacle plus attendrissant pour une ame sensible, que la beaute dans l'indigence.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allez, Lisette, allez vite donner ordre, de ma part, qu'on lui prepare une chambre voisine de la votre ; il faudra qu'elle s'occupe, sans quelle soit oblige de sortir, et vous aurez grand soin, surtout, de ne la charger jamais que d'ouvrages qui la dissipe, sans la fatiguer.
+LISETTE, passant a la gauche de Sophie.
+Reposez-vous sur moi. Allons, ma cousine, remerciez Monsieur, et suivez-moi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il est pris.
+SOPHIE, bas a Lisette.
+Il est bien aimable !
+LUVILLE, a Sophie.
+Que dites-vous, tout bas, a votre cousine ?
+SOPHIE.
+Que je n'oublierai jamais le service que vous me rendez.
+LUVILLE, avec chaleur.
+Je ne me bornerai pas a cela ; mais, c'est que vous m'interessez infiniment !
+LISETTE, a Sophie.
+Allons, encore une reverence, et partons.
+LUVILLE, la retenant.
+Un moment. Comment vous nomme-t-on ?
+SOPHIE, embarrassee.
+Je me...
+LUVILLE.
+Vous n'osez dire votre nom ?
+SOPHIE, se remettant.
+Pardonnez-moi, Monsieur, je m'appelle Mariane.
+LUVILLE, avec tendresse.
+Eh bien, belle Mariane, croyez que je ferai mon possible pour que vous puissiez vous rappeler avec plaisir l'instant ou le hasard vous a conduit dans ce chateau.
+SOPHIE, avec sentiment.
+Ah ! Monsieur ! Je crois que je ne l'oublierai jamais !
+LUVILLE, tres vivement.
+Que voulez-vous dire ?
+SOPHIE, voulant s'en aller.
+Adieu, Monsieur.
+LUVILLE, la retenant.
+Encore un moment. Lisette, allez toujours faire preparer sa chambre, et vous la viendrez reprendre ici.
+SOPHIE.
+Permettez que je me retire avec elle.
+LUVILLE, avec noblesse.
+Belle Mariane, vous pouvez rester ; on doit etre sur d'imprimer le respect, quand on porte sur le front l'empreinte de l'honnetete.
+SOPHIE.
+Je me plais a ne pas douter de la votre mais Mademoiselle Sophie, qui m'a inspire l'amour de la sagesse, m'a toujours dit, que la retenue dans les discours, et la decence dans les actions, etaient les deux premieres qualites d'une fille honnete. Permettez-moi de mettre ses lecons en pratique, en ne restant pas seule avec vous. 
+LUVILLE.
+Allez-donc, charmante Mariane. Tout me parait en vous au-dessus de votre etat, et je vois avec la plus vive satisfaction, que vous inspirez autant d'admiration que d'estime.
+SOPHIE.
+Le temps vous apprendra quel cas je fais de la votre, par les soins que je prendrai pour la meriter.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Adieu, Monsieur.
+LISETTE, bas a Sophie, en s'en allant.
+He bien ! Qu'en dites-vous ?
+SOPHIE, de meme.
+Qu'un homme aimable, dont l'ame est honnete est bien dangereux pour une femme sensible.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VII.
+LUVILLE, seul.
+Quelle figure interessante ! Quel feu dans le regard ! Et quelle modestie repandue dans toute sa personne ! En verite, j'avais entendu dire beaucoup de bien de Sophie Delval, mais sa petite eleve m'en donne la plus haute opinion ! Non, jamais femme n'a fait une telle impression sur mon coeur ! Ce qu'elle m'a dit en s'eloignant, m'a fait tressaillir. Qu'il serait doux de s'en faire aimer ! Mais si son ame repond a son exterieur, qu'il serait affreux d'en abuser !
+SCENE VIII. Andre, Luville.
+ANDRE, cherchant des yeux.
+Dam ! Je ne trouve personne, moi !
+LUVILLE.
+Que voulez-vous, mon ami ?
+ANDRE.
+Etes-vous de la maison, vous ?
+LUVILLE.
+Il y a quelque apparence.
+ANDRE.
+He bien, allez annoncer que ma maitresse est la.
+LUVILLE.
+Ah ! Ah ! Et qui est votre maitresse ?
+ANDRE.
+Non, non, c'est mon maitre que je veux dire ; que je suis donc bete, moi !
+LUVILLE.
+He bien, qui est votre maitre ?
+ANDRE.
+Dam ! C'est Monsieur Delval !
+LUVILLE.
+Monsieur Delval est ici ?
+ANDRE.
+Dam, oui.
+LUVILLE.
+Et il n'y a aucun de mes gens dans l'antichambre ?
+ANDRE, otant son chapeau.
+Vos gens ? Est-ce que vous etes le maitre, vous ?
+LUVILLE.
+A peu-pres.
+ANDRE.
+Dam ! Je ne savais pas cela, moi.
+LUVILLE.
+Je vais au-devant de lui.
+ANDRE.
+C'est inutile.
+LUVILLE.
+Comment ?
+ANDRE.
+Il est la.
+LUVILLE.
+Qu'il entre donc.
+ANDRE.
+Entrez, Monsieur, Monsieur.
+SCENE IX. Andre, Luville, Delval.
+LUVILLE.
+Je dois, sans doute, rendre grace au hasard, Monsieur, car lui seul peut vous avoir conduit dans notre solitude.
+DELVAL.
+Vous etes dans l'erreur, Monsieur, mon voyage est premedite, et j'aurais ete desespere de ne pas vous trouver ici.
+LUVILLE.
+Serais-je assez heureux pour pouvoir vous etre utile ?
+DELVAL, cherchant la lettre.
+Je suis charge de vous remettre une lettre.
+LUVILLE.
+De quelque part qu'elle vienne, je dois avoir beaucoup d'obligations a celui qui me l'ecrit, puisqu'elle me procure le plaisir de faire votre connaissance.
+DELVAL.
+C'est le Commandeur d'Elbon qui a bien voulu me la confier, et j'ai recu cette faveur avec toute la reconnaissance qu'elle merite. 
+LUVILLE.
+C'est de notre cher oncle ! He ! Comment se porte-t-il ?
+DELVAL.
+A merveille !... Et vous aimant toujours avec tendresse !
+LUVILLE.
+Ma foi, nous lui rendons bien ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)« Je vous recommande vivement la personne qui vous remettra ma lettre, mon cher neveu. »
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Comment, c'est une recommandation ? Un homme tel que vous n'en a pas besoin. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)« C'est le jeune Marquis Delval dont le nom vous est connu, et dont les brillantes dispositions annoncent le merite le plus distingue : engagez ma niece a le recevoir, dites-lui que je l'en prie ; sa solitude me desespere ; vous savez combien je vous aime tous les deux ; je ne m'occupe que de votre bonheur et je serais au comble de mes voeux si je pouvais l'assurer a jamais. »Ce cher homme ! Je lui ai, sans doute, beaucoup d'obligations de vous avoir engage a venir ici, mais je crains bien que vous ne lui en ayez pas autant que moi.
+DELVAL.
+D'ou vient ?
+LUVILLE.
+Vous allez vous ennuyer a perir ! Ce chateau : appartient a ma soeur ; elle n'y recois jamais d'homme, elle les a tous en horreur.
+ANDRE, riant.
+Ah ! C'est plaisant ca !
+DELVAL, le regardant severement.
+Hein !
+LUVILLE, a Andre.
+Qu'est-ce que tu trouves donc de si plaisant a cela ?
+ANDRE, riant.
+C'est que la Dame que je servais les aimait tant, tant, tant.... 
+DELVAL, a Andre.
+Paix.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais cette aversion est elle aussi forte qu'on le dit ?
+LUVILLE.
+C'est au-dela de toute expression ! Au point que je doute fort que malgre la priere de mon oncle, vous puissiez obtenir la permission de la voir un seul instant.
+ANDRE.
+Ah ! C'est ben drole toujours !
+DELVAL.
+Te tairas-tu ?
+ANDRE.
+Dam ! Il faut donc etre la comme une statue. Si du moins, Moniteur voulait me conduire dans votre appartement je preparerais votre toilette, ca m'amuserais.
+LUVILLE.
+Sonnez, mon ami.
+ANDRE.
+Ben volontiers, Monsieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Deja ca fera plaisir a Monsieur, car il aime la toilette comme une femme.
+DELVAL.
+Finiras-tu ?
+ANDRE.
+He ben, c'est fini.
+SCENE X. Les Acteurs precedents, Dubois.
+LUVILLE, a Dubois.
+Conduisez ce garcon a l'appartement du Commandeur, que Monsieur Delval va occuper.
+ANDRE.
+Monsieur ben oblige ; vous etes ben honnete !
+DELVAL.
+Permettez-moi de les suivre ; si votre aimable soeur daigne me recevoir, il ne serait pas decent de me presenter devant elle en habit de voyage.
+LUVILLE.
+Vous etes le maitre. Mais je crains bien que ce ne soit une toilette perdue.
+DELVAL.
+J'ose encore esperer que non. 
+LUVILLE.
+Je le souhaite, et je vais faire mon possible pour y engager ma soeur.
+DELVAL.
+Je vous en aurai le plus grande obligeance.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XI.
+LUVILLE.
+Il est tres aimable, ce jeune homme. Mais comme il va s'ennuyer ! Ma soeur ne le recevra pas, et mes nouveaux sentiments ne me permettront pas de lui faire exactement compagnie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Lisette.
+SCENE XII. Luville, Lisette.
+LISETTE, regardant avant de s'approcher.
+Que veut Monsieur ?
+LUVILLE.
+Ou est votre cousine ?
+LISETTE.
+Est-ce pour cela que vous m'appelez ?
+LUVILLE.
+Non. Dites a ma soeur que je la prie de passer dans ce salon.
+LISETTE.
+Que n'allez-vous a son cabinet ?
+LUVILLE.
+Non ; je veux lui parler ici.
+LISETTE.
+A la bonne heure.
+LUVILLE.
+Ecoute donc.
+LISETTE, vivement.
+Quoi ?
+LUVILLE, apres un silence. 
+Rien, rien.
+LISETTE, en sortant.
+Il en tient.
+SCENE XIII.
+LUVILLE.
+J'aime mieux lui parler ici : si elle refuse absolument de voir Delval, je pourrai le faire venir sans qu'elle s'en doute. C'est mon oncle qui desire cette double alliance ; il m'a souvent parle de Sophie Delval. Mais cela ne reussira pas. La misanthropie de la comtesse ; l'arrivee de Marianne... Je ne crois pas que ma soeur, ni moi, soyons maries de longtemps.
+SCENE XIV. La Comtesse, Luville.
+LA COMTESSE.
+Qu'avez vous donc a me dire ? Et pourquoi ne pas entrer ?
+LUVILLE.
+Lisez cette lettre, et dictez-moi la reponse.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)He bien ma soeur ?
+LA COMTESSE, gaiement.
+He bien, mon frere, la recommandation de mon oncle est toute puissante sur moi, et je suis prete a recevoir son protege.
+LUVILLE.
+J'en suis charme... Mais je ne m'y attendais pas.
+LA COMTESSE. 
+Pourquoi ?
+LUVILLE.
+Et cette promesse solennelle de ne jamais recevoir un homme ? Ce voeu qui devait etre observe si scrupuleusement...
+LA COMTESSE.
+Cette visite-ci ne me rendra pas parjure.
+LUVILLE.
+Vous le croyez ?
+LA COMTESSE.
+J'en suis sure.
+LUVILLE.
+Expliquez-vous?
+LA COMTESSE, riant.
+Ce jeune Marquis qui vous est si fortement recommande par mon oncle...
+LUVILLE.
+He bien ?
+LA COMTESSE.
+N'est autre chose que Sophie Delval notre charmante voisine.
+LUVILLE.
+Cela ne se peut pas !
+LA COMTESSE.
+Cela est.
+LUVILLE.
+Est-il possible ?
+LA COMTESSE.
+J'en ai la preuve.
+LUVILLE.
+Comment ?
+LA COMTESSE.
+Lisette, qui sort de chez elle, m'a fait confidence de son projet.
+LUVILLE.
+Quel projet ?
+LA COMTESSE.
+De me tourner en ridicule en se faisant aimer de moi.
+LUVILLE.
+Et vous pouvez soupconner le Commandeur de s'etre prete a cette supercherie ?
+LA COMTESSE.
+Point du tout ; Sophie aura prie son frere, qui est a Paris, ou il acheve ses exercices, de demander une lettre de recommandation au Commandeur, et elle s'en sert aujourd'hui pour executer son dessein.
+LUVILLE.
+Ah ! Cela pourrait bien etre, car son valet, qui est une espece d'imbecile, a commence par l'appeler Madame.
+LA COMTESSE.
+Rien n'est plus sur, vous dis-je ; il faut, mon frere, nous entendre si bien et la badiner si joliment, qu'elle soit obligee de convenir, malgre tout l'esprit qu'on lui accorde, que nous sommes encore plus fins qu'elle.
+LUVILLE.
+Ah ! Laissez-moi faire : a trompeur, trompeur et demi. Je vais chercher notre fripon d'hote, et vous le presenter. Ah ! Parbleu cette aventure m'amuserait infiniment si...
+LA COMTESSE.
+Quoi ?
+LUVILLE.
+C'est que.... rien, rien.
+LA COMTESSE.
+Ah ! Mon frere ! Vous avez des secrets pour moi ?
+LUVILLE.
+Pardon ma petite soeur... Je n'en aurai plus.
+LA COMTESSE.
+Dites-moi donc ce qui vous occupe ?
+LUVILLE, avec effusion.
+He bien !...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous le saurez.
+SCENE XV.
+LA COMTESSE, seule.
+Qu'est-ce que cela signifie ?
+SCENE XVI. La Comtesse, Lisette.
+LISETTE, accourant.
+Ah ! Madame ! Elle est ici, je viens de la voir !
+LA COMTESSE.
+Caches-toi dans mon cabinet, si elle t'apercoit tout est decouvert.
+LISETTE.
+Ne craignez rien ; elle est charmante en homme !
+LA COMTESSE.
+On vient.
+LISETTE, en fuyant.
+Je me sauve !
+SCENE XVII. La Comtesse, Luville, Deleval, pare.
+LUVILLE.
+Ma soeur, voila Monsieur Delval, que je vous presente.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DELVAL, a part.
+Qu'elle est belle !
+LUVILLE.
+Il n'avait pas besoin de recommandation, au moins : avec une figure comme celle-la, on est bien recu partout.
+DELVAL.
+Rien ne pourra jamais m'acquitter envers votre oncle, Madame ; c'est a lui que je dois le bonheur de vous presenter mes hommages.
+LA COMTESSE, a part.
+Qu'elle a bonne grace ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ce bonheur n'en doit pas etre un bien grand pour vous.
+DELVAL.
+Il ne faut que des yeux pour admirer vos charmes ; mais avec un coeur, on court le risque d'en sentir trop vivement le prix.
+LA COMTESSE.
+Ah ! Monsieur, la flatterie est un poison qui n'a point encore corrompu notre retraite ; et je serais vraiment fachee qu'il y penetrat.
+DELVAL.
+Louer ce qu'on admire, exprimer ce qu'on pense, appelez-vous cela de la flatterie ?
+LA COMTESSE.
+Style de Paris, Monsieur, style de Paris ! Et vous oubliez que nous sommes au village.
+LUVILLE.
+Elle a raison : nous n'aimons ici que la liberte et la franchise ; je vais vous instruire de notre facon de vivre, et vous aurez la bonte de vous y conformer si vous voulez rester avec nous. Point de facon avec moi. Point d'amour avec ma soeur ; tant que vous observerez scrupuleusement ces deux conditions, vous serez recus a bras ouverts ; des que vous y manquerez, adieu. Cette declaration-la s'appelle je crois de la franchise. A l'egard de la liberte, je vous laisse seul avec ma soeur ; vous voyez qu'on n'est pas gene ici ! Adieu. Bonjour ma soeur !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA COMTESSE, bas a Luville.
+Qu'elle est bien en homme !
+LUVILLE, bas a la Comtesse.
+C'est a s'y meprendre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Bonjour notre cher hote.
+DELVAL.
+Monsieur, je...
+LUVILLE, revenant.
+A propos ! Eh vous ne l'avez pas embrassee en entrant !
+DELVAL.
+Monsieur, je sais trop...
+LUVILLE.
+Ah ! Que vous etes timide ! Allons, allons.
+DELVAL.
+Cet honneur....
+LUVILLE, a la Comtesse.
+Embrasses-le donc toi-meme, car cela ne finirait pas.
+LA COMTESSE.
+Ah ! Bien volontiers !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DELVAL, a part.
+Qu'est-ce que cela signifie ?
+LUVILLE.
+Cela vous etonne ? Ah ! Vous en verrez bien d'autres !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVIII. La Comtesse, Delval.
+LA COMTESSE.
+Qu'avez-vous donc, Monsieur ? Vous avez l'air tout interdit.
+DELVAL.
+J'avoue, Madame, que ma situation est embarrassante.
+LA COMTESSE.
+En verite ?
+DELVAL.
+Elle est neuve pour moi.
+LA COMTESSE.
+Je le croirais assez. Cependant on ne le dirait pas a votre contenance.
+DELVAL.
+Les volontes de Monsieur votre frere semblent etre en contradiction avec sa conduite.
+LA COMTESSE.
+En quoi ?
+DELVAL.
+Il me permet de vous voir, il me laisse seul avec vous ; et il me defend de vous parler d'amour.
+LA COMTESSE.
+C'est qu'il est ennemi declare du mensonge.
+DELVAL.
+En vous avouant qu'on vous aime, peut-on s'ecarter de la verite ?
+LA COMTESSE.
+C'est selon la personne.
+DELVAL.
+Selon la personne ?
+LA COMTESSE.
+Oui.
+DELVAL.
+Comment ?
+LA COMTESSE.
+Vous, par exemple...
+DELVAL.
+He bien. Moi.
+LA COMTESSE.
+Si vous me disiez que vous m'aimez...
+DELVAL.
+Si je vous le disais ?
+LA COMTESSE.
+Vous ne le penseriez surement pas.
+DELVAL.
+Me croyez-vous un cour insensible ?
+LA COMTESSE, finement.
+Vous n'en avez pas l'air.
+DELVAL.
+He pourquoi donc douteriez-vous de mon amour ?
+LA COMTESSE, riant.
+C'est que je ne crois jamais a l'impossible.
+DELVAL.
+A l'impossible ?
+LA COMTESSE.
+Oh ! Oui, a l'impossible.
+DELVAL.
+Ah ! Que vous lisez mal dans mon coeur !
+LA COMTESSE.
+Peut-etre mieux que vous ne croyez.
+DELVAL, avec tendresse.
+Detrompez-vous, Madame : et pardonnez-moi un aveu que votre incredulite m'arrache. Je n'avais point encore connu le sentiment que vous m'inspirez.
+LA COMTESSE.
+Cela est possible.
+DELVAL, de meme.
+Votre premier regard a penetre mon coeur....
+LA COMTESSE, plaisantant.
+Ah ! Ciel!
+DELVAL.
+Et maintenant je ne puis plus vivre que pour vous adorer !
+LA COMTESSE, riant.
+Savez-vous que cela imite le naturel ?
+DELVAL.
+Pourriez-vous etre en doute sur ma sincerite ?
+LA COMTESSE.
+En doute ? Oh ! Non, je vous assure.
+DELVAL.
+Vous rendez donc justice a mon coeur ?
+LA COMTESSE.
+Assurement !
+DELVAL.
+Et vous croyez que je vous aime ?
+LA COMTESSE.
+Non. Mais je suis fermement convaincue du contraire.
+DELVAL.
+Ah ! Les serments les plus forts !...
+LA COMTESSE.
+Ne me persuaderont pas.
+DELVAL.
+C'est-a dire, que vous me placez dans la classe de ces hommes fourbes, qui...
+LA COMTESSE.
+Non, Monsieur, vous vous trompez. Moi, vous mettre au nombre de ces hommes-la ? Ah ! Ne me supposez pas si peu de discernement, je vous distingue sans doute, et je vois clairement la difference qu'il y a entre vous et tous les hommes.
+DELVAL, avec joie.
+Cette flatteuse preference.
+LA COMTESSE, avec malignite.
+Reste a savoir si c'en est une.
+DELVAL.
+Quoi ! Vous pourriez me mettre au-dessous de ceux que vous detestes ?
+LA COMTESSE.
+Ah ca ! Parlons raison : il faut un peu mieux connaitre les gens pour leur assigner avec equite la place qu'ils meritent.
+DELVAL.
+Rien de plus juste, et le temps....
+LA COMTESSE.
+Oh ! Je sais bien, qu'avec le temps, tout ce decouvrira. Mais il est un moyen sur de l'abreger.
+DELVAL.
+Daignez me l'indiquer.
+LA COMTESSE.
+Eh bien ! Mettez-moi vous-meme dans le cas de pouvoir vous apprecier.
+DELVAL.
+Que faire pour cela ?
+LA COMTESSE.
+Une chose tres simple.
+DELVAL.
+Et c'est ?
+LA COMTESSE.
+De me dire la verite.
+DELVAL.
+Sur quoi ?
+LA COMTESSE, serieusement.
+Le voici. Ce n'est pas sans dessein que vous etes ici : quels sont les motifs qui vous ont inspires l'envie de me connaitre ? Repondez sans detour, et n'esperez pas me tromper.
+DELVAL.
+J'ai souvent entendu vanter vos charmes ; on m'a fait un eloge si brillant de tout votre merite, que je n'ai pu resister au desir de voir une personne si accomplie ; et j'eprouve, au depend de ma liberte, que le portrait n'etait pas flatte.
+LA COMTESSE, lui faisant une profonde reverence en souriant.
+Je vous demande bien pardon, Monsieur ; mais vous mentez !
+DELVAL.
+Cessez de m'accuser de faussete ; j'en suis incapable. Mais j'avouerai qu'avant de vous connaitre, j'avais forme le projet de vous rendre des soins, et de tout mettre en usage pour me faire aimer de vous...
+LA COMTESSE, l'interrompant.
+Ah ! Vous parlez vrai a present ; j'en suis sure.
+DELVAL.
+Et des que je vous ai vu, mon coeur a ratifie des projets que la raison seule avait formes.
+LA COMTESSE.
+La raison ? Je crois que vous vous trompez de mot.
+DELVAL, vivement.
+Il est vrai, c'etait un pressentiment secret qui m'entrainait invinciblement vers l'objet adorable que je devais aimer toute ma vie !
+LA COMTESSE.
+Toute votre vie !
+DELVAL, a genoux.
+Oui, Madame, et je jure a vos pieds que mon amour sera aussi constant qu'il est tendre et sincere.
+LA COMTESSE.
+Oh ! Pour cela, je le crois.
+DELVAL.
+He bien, decidez de mon sort.
+LA COMTESSE.
+Volontiers.
+DELVAL.
+J'attends mon arret.
+LA COMTESSE.
+Je suis franche.
+DELVAL.
+Parlez.
+LA COMTESSE.
+Vous etes charmant !
+DELVAL.
+Madame...
+LA COMTESSE.
+Mais pour de l'amour, vous ne m'en inspirerez de votre vie.
+DELVAL, se relevant.
+Juste Ciel !
+LA COMTESSE, ironiquement.
+Ah ! C'est cruel!
+DELVAL, accable.
+Et vous allez, sans doute, m'ordonner de vous fuir ?
+LA COMTESSE.
+Non vraiment. Vous pouvez rester.
+DELVAL, avec un peu de satisfaction.
+C'est du moins une marque de preference.
+LA COMTESSE.
+Pas du tout. Je vous permets de rester, parce que vous n'etes pas dangereux.
+DELVAL.
+Le compliment n'est pas flatteur !
+LA COMTESSE.
+Je pourrais en dire davantage sans mentir.
+DELVAL.
+En effet, vous pouvez me dire que vous me haissez.
+LA COMTESSE.
+Non, je ne vous hais point; et si vous voulez lever ce voile epais qui me cache le fond de votre coeur, et m'aimer de bonne foi, je pourrais a mon tour vous aimer a la folie.
+DELVAL, enchante.
+Ah ! Vous me rendez la vie ; si vous mesurez vos sentiments sur les miens, bientot un amour mutuel...
+LA COMTESSE.
+Fi-donc ! Cela ne se peut pas.
+DELVAL.
+D'ou vient ?
+LA COMTESSE.
+Allons ! Allons !
+DELVAL.
+Expliquez-vous ?
+LA COMTESSE, legerement.
+Dites-moi une chose.
+DELVAL.
+Quoi !
+LA COMTESSE.
+Croyez-vous que les hommes sachent encore aimer ?
+DELVAL.
+Je n'en saurais douter depuis que je vous ai vue.
+LA COMTESSE.
+Oh ! La preuve est convaincante ! 
+DELVAL.
+Je l'ai prise dans mon coeur.
+LA COMTESSE.
+Je parle des hommes.
+DELVAL.
+J'entends bien ; vous faites une question generale.
+LA COMTESSE.
+Justement. Croyez-vous, dis-je, qu'ils sachent encore aimer ?
+DELVAL.
+Sans doute.
+LA COMTESSE.
+Et moi, je crois tout le contraire. Ils prennent quelquefois le desir pour l'amour, mais le bonheur detruit bientot l'illusion.
+DELVAL, vivement.
+Ne les jugez pas tous ainsi ; je suis encore bien jeune, et cependant j'en ai connu beaucoup dont l'amour augmentait par la possession.
+LA COMTESSE.
+Beaucoup ?
+DELVAL.
+Oui, Madame, beaucoup.
+LA COMTESSE, souriant.
+Je vous en fais mon compliment.
+DELVAL.
+Dans une affaire qui me regarde personnellement, je n'ai pas besoin de plaider la cause des hommes en general...
+LA COMTESSE, riant.
+En effet, cela ne serait pas fort decent...
+DELVAL.
+Et puisque je suis sur de mon coeur...
+LA COMTESSE, lui prenant la main avec bonte.
+He bien, c'est a lui que j'en appelle.
+DELVAL.
+Ce n'est pas le moyen de gagner votre cause.
+LA COMTESSE, de meme.
+Je ne veux pourtant pas d'autre Juge.
+DELVAL, avec tendresse.
+Il vous dira que je vous adore !
+LA COMTESSE, le fixant avec douceur.
+Vous !
+DELVAL, avec passion.
+Et que jusqu'au dernier soupir....
+LA COMTESSE, quittant sa main et lui parlant avec froideur et dignite.
+Monsieur, agir en liberte et ne point parler d'amour : voila les deux conditions que mon frere avait exigees en vous laissant seul avec moi. Vous avez oubliez l'une, et je vais profiter de l'autre pour terminer un entretien qui nous gene egalement tous les deux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est bien dommage !
+SCENE XIX.
+DELVAL, seul.
+Quel melange inoui d'esprit et d'incredulite, de beaute et de froideur ! Je crains bien que ma soeur, en cherchant a me rendre heureux, n'ait fait tout le malheur de ma vie !
+SCENE XX. Delval, Andre.
+ANDRE.
+Ah ! Bon ; c'est vous que je cherche.
+DELVAL.
+Que me veux-tu ?
+ANDRE.
+Vous demander quand nous partons.
+DELVAL.
+Pourquoi ?
+ANDRE.
+Dam ! C'est que je m'ennuie ici.
+DELVAL.
+C'est malheureux !
+ANDRE.
+Pardi, je le crois bien ! Il n'y a personne avec qui causer dans ce chateau ; si on veut parler a une femme de chambre, elle se sauve, sans repondre ; tenez, Madame, je ne peux pas me faire a ca, moi ; j'aime a jaser.
+DELVAL.
+Mais, pourquoi t'avises-tu de m'appeler Madame a chaque instant ?
+ANDRE.
+Ah ! Mon Dieu, ce n'est pas ma faute, c'est sans y penser.
+DELVAL.
+Mais, a propos de quoi ?
+ANDRE.
+Il est bon que vous sachiez que j'ai ete six ans jockey d'une ben jolie dame ; il n'y a que huit jours que je l'ai quittee pour entrer au service de Monsieur, ca fait que je me blouse encore quelquefois.
+DELVAL.
+Fais en sorte que cela n'arrive pas davantage.
+ANDRE.
+Aussi fais-je ; mais...
+SCENE XXI. Luville, Delval, Andre.
+LUVILLE, d'un air sombre.
+Ah ! Vous voila, Monsieur, je vous cherchais.
+DELVAL.
+Je n'ai pas quitte ce salon.
+LUVILLE, de meme.
+Renvoyez votre laquais.
+DELVAL, a Andre.
+Sors.
+ANDRE.
+Irai-je chercher des chevaux ?
+DELVAL.
+Non.
+ANDRE, s'en allant.
+Tant-pis.
+SCENE XXII. Luville, Delval.
+DELVAL, a part.
+Que signifie cet air glace ?
+LUVILLE, a part, en riant.
+Ah ! Mademoiselle Delval, je vous pousserai a bout.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DELVAL.
+Qu'avez-vous donc ? Vous avez l'air bien serieux !
+LUVILLE, d'un air sombre.
+Vous etes gentilhomme ?
+DELVAL, avec sang-froid.
+Je ne pense pas qu'on en doute.
+LUVILLE.
+En connaissez-vous tous les devoirs ?
+DELVAL.
+A quel propos me faites-vous cette question ?
+LUVILLE.
+C'est que vous etes jeune encore.
+DELVAL.
+Je le sais.
+LUVILLE.
+Et qu'on pourrait vous les apprendre.
+DELVAL.
+Je ne vous entends pas.
+LUVILLE, s'approchant de lui.
+Je vais m'expliquer mieux.
+DELVAL.
+Parlez.
+LUVILLE.
+Vous avez vu ma soeur ?
+DELVAL.
+Avec le plus grand plaisir.
+LUVILLE.
+Vous l'avez trouvee ?...
+DELVAL.
+Charmante !
+LUVILLE.
+Vous lui avez dit ?...
+DELVAL.
+Que l'amour...
+LUVILLE, furieux.
+L'amour !
+DELVAL.
+Qu'a donc ce mot de si revoltant ?
+LUVILLE, le prenant par la main.
+Ecoutez-moi.
+DELVAL.
+J'ecoute.
+LUVILLE.
+Vous connaissez les lois de l'honneur ?
+DELVAL.
+J'en fais gloire !
+LUVILLE, mettant son chapeau.
+Il faut me faire raison.
+DELVAL.
+Raison !
+LUVILLE.
+Vous m'avez manque.
+DELVAL.
+Moi ?
+LUVILLE.
+Vous.
+DELVAL.
+En quoi ?
+LUVILLE.
+Vous avez passe les bornes que je vous avais prescrites. Vous avez viole les droits de l'hospitalite.
+DELVAL.
+Je n'ai pas cru pouvoir vous offenser, en declarant a votre soeur, les sentiments qu'elle m'inspire.
+LUVILLE.
+Vous l'avez fait : et j'en demande raison.
+DELVAL.
+Non, je ne me battrai point contre le frere de celle que j'adore !
+LUVILLE, a part, en riant.
+La voila bien embarrassee.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mauvais pretexte. Allons, allons.
+DELVAL.
+Ecoutez-moi...
+LUVILLE, l'epee a la main.
+Rien, rien.
+DELVAL.
+Un mot.
+LUVILLE.
+Allons, allons, defendez-vous.
+DELVAL, mettant son chapeau.
+Vous le voulez, Monsieur ? Il faut vous satisfaire.
+LUVILLE, a part, surpris.
+Comment, diable !
+DELVAL, foncant sur lui.
+C'est vous qui m'y forcez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XXIII. Luville, La Comtesse, Delval.
+LA COMTESSE.
+Quel bruit ! Que vois-je ?
+DELVAL, lui presentant l'epee de Luville.
+Venez, Madame, venez apaiser l'injuste colere de votre frere ; il voulait percer le coeur de son ami.
+LA COMTESSE, rendant l'epee.
+Quoi ! Mon frere !...
+LUVILLE, bas a la Comtesse.
+C'est un diable !
+LA COMTESSE.
+Et, d'ou nait le sujet de votre querelle ?
+LUVILLE.
+Il ose vous dire qu'il vous aime, et ne songe point a vous epouser.
+DELVAL.
+Et vous l'avez pu croire ! La passion...
+LA COMTESSE, riant.
+La passion !...
+DELVAL.
+Toujours de l'ironie !
+LA COMTESSE.
+He bien, Monsieur, je vais vous parler serieusement : m'aimez-vous ?
+DELVAL.
+Avec la plus vive tendresse !
+LA COMTESSE.
+A quoi cela nous menera-t-il ?
+DELVAL.
+Envisagez-vous comme une bagatelle, une alliance assortie, dont l'amour aurait forme les noeuds ?
+LUVILLE.
+Une alliance assortie !
+DELVAL.
+J'ose le croire.
+LA COMTESSE.
+En bonne foi, est-ce que vous y pensez ?
+DELVAL.
+Si j'y pense !
+LUVILLE.
+Parlons net.
+DELVAL.
+Soit.
+LUVILLE.
+Votre intention est-elle de vous marier ?
+DELVAL.
+Sans doute !
+LUVILLE.
+Avec qui ?
+DELVAL.
+Avec votre soeur.
+LUVILLE.
+Bah !
+DELVAL.
+Comment, bah ?
+LA COMTESSE.
+Le moyen de vous croire ?
+DELVAL.
+Est tout simple; que le notaire vienne, que votre frere dicte le contrat, et je signe aveuglement.
+LA COMTESSE, riant nonchalamment.
+Vous badinez !
+DELVAL, avec feu.
+Mais quelle horrible opinion avez-vous donc concue de moi ? Ah ! Bannissez cette mefiance injurieuse. Croyez que mon bonheur est de vous aimer, de passer mes jours aupres de vous, et de reparer, par les plus tendres soins, tous les chagrins cruels que l'hymen vous a fait eprouver.
+LA COMTESSE, bas a Luville.
+Ah ! Mon frere !
+LUVILLE, bas a la Comtesse.
+Il faut la mettre au pied du mur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)He bien, Monsieur, je me rends et je vous accorde ma soeur.
+DELVAL.
+Ah ! Quel comble de joie !
+LUVILLE.
+Mais il faut que tout se termine a l'instant meme.
+DELVAL.
+Vouloir hater l'instant de mon bonheur, c'est redoubler ma felicite.
+LA COMTESSE, avec tendresse.
+Delval, cher Delval ne me forcez pas a vous hair. Je vous aime plus que vous ne croyez, et je desire avec une extreme ardeur que vous m'autorisiez a vous aimer toujours de meme.
+DELVAL.
+Ah ! Mon bonheur passe mon esperance, et je cours chez le notaire.
+LA COMTESSE.
+Delval... vous le voulez ?
+DELVAL.
+Il va mettre le comble a ma gloire.
+LA COMTESSE.
+A votre gloire !
+DELVAL.
+Et quel plus beau triomphe que le don de votre coeur et le titre de votre epoux ?
+LA COMTESSE, tres severement.
+He bien, Monsieur, allez donc chez le notaire, faites dresser le contrat, si vous l'osez, mais songez bien que ma haine sera le prix de votre perfidie.
+DELVAL.
+Mon coeur est trop pur, pour redouter cette menace.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Andre ?
+SCENE X.IV. Les Acteurs precedents et Andre.
+ANDRE, accourant.
+Me vla Madame.
+DELVAL.
+He bien, encore ?
+ANDRE.
+Dam ! C'est l'habitude.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DELVAL.
+Qu'avez-vous donc ?
+LA COMTESSE ET LUVILLE.
+Rien, rien.
+DELVAL, a Andre.
+Vas t'informer ou loge le notaire du lieu, et viens me prendre pour m'y conduire.
+ANDRE.
+He pardi ! Il loge la, tout vis-a-vis la porte du chatiau.
+DELVAL, voulant sortir.
+J'y vole; et ce jour fortune va m'assurer a jamais une epouse adoree ! Et un ami respectable.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XXV. Luville, La Comtesse.
+LA COMTESSE, le regardant sortir.
+Ah ! C'est pousser trop loin l'impudence !
+LUVILLE.
+Oh ! Quelle femme !
+LA COMTESSE.
+He ! Vous n'avez pu l'effrayer ?
+LUVILLE.
+L'effrayer ? Bien au contraire.
+LA COMTESSE, riant.
+Comment donc, au contraire ?
+LUVILLE.
+Oui parbleu ; quand je me suis presente pour l'intimider, elle a fonce sur moi comme un lion : j'avais une peur horrible de la blesser, je me tenais sur la defensive. Quand elle n'aurait jamais fait autre chose, elle n'en saurait pas davantage.
+LA COMTESSE.
+Ah ! Mon frere !
+LUVILLE.
+Quoi ?
+LA COMTESSE.
+Je ne puis vous exprimer ce qui se passe dans mon ame !
+LUVILLE.
+La mienne est plus agitee que la votre !
+LA COMTESSE.
+Mon frere, si vous aimez Sophie, il faut tout lui pardonner, qu'elle devienne ma soeur, qu'elle partage, avec vous, toute ma tendresse, que nous ne nous quittions de la vie.
+LUVILLE.
+Il n'est plus temps.
+LA COMTESSE.
+D'ou vient ?
+SCENE XXVI. Luville, La Comtesse, Lisette.
+LISETTE, accourant.
+Voici Mademoiselle Sophie qui revient avec le notaire.
+LA COMTESSE.
+Je vous laisse avec eux. J'ecoute, et je paraitrai quand il en sera temps.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LISETTE, a part.
+Moi, je cours chercher ma maitresse. Il est temps qu'elle se decouvre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XXVII.
+LUVILLE, seul.
+Cette plaisanterie m'eloigne de ma chere Mariane. Heureusement elle va bientot finir.
+SCENE XXVIII. Le Notaire, Luville, Delval.
+LUVILLE.
+Comment donc, le contrat est deja dresse ?
+LE NOTAIRE.
+Monsieur ne m'en a pas donne le temps. Il a fait mettre les noms des futurs epoux, la note de ses biens: les articles sont restes en blanc, et vous etes charge, Monsieur, de les remplir comme vous le jugerez a propos.
+LUVILLE.
+Rien de plus honnete !
+LE NOTAIRE, allant a la table.
+Et si Madame la Comtesse jouit d'une haute fortune, Monsieur, assurement, ne lui cede en rien.
+LUVILLE.
+Delval ?
+DELVAL.
+Monsieur ?
+LUVILLE.
+C'est donc tout de bon ?
+DELVAL.
+Quoi ! Vous en doutez encore ?
+LUVILLE.
+Vous sentez-vous capable de rendre ma soeur heureuse ?
+DELVAL.
+Monsieur, en partageant mon sort, on n'aura jamais a se plaindre ni de mon coeur, ni de mon caractere, ni de ma conduite.
+LUVILLE.
+Cette reponse-la est tout-a-fait equivoque.
+DELVAL.
+Equivoque ?
+LUVILLE.
+Oui, oui ; ne biaisons pas, etes-vous bien decide a vous marier ?
+DELVAL.
+Sans doute.
+LUVILLE.
+Avec une femme ?
+DELVAL.
+Comment avec une femme ?
+LUVILLE.
+Oui, oui. Je m'entends.
+DELVAL.
+Mais, moi, je ne vous entends pas du tout. 
+LUVILLE, lui montrant le contrat.
+Qu'est-ce que cela ?
+DELVAL.
+He ! Vous le savez bien, c'est mon contrat de mariage.
+LUVILLE.
+Avec qui ?
+DELVAL.
+Mais, avec votre soeur.
+LUVILLE.
+Et vous le signerez ?
+DELVAL.
+Si je le signerai !
+LUVILLE.
+Sans faute d'orthographe ?
+DELVAL.
+Belle question !
+LUVILLE.
+La, ce qu'on appelle signer !
+DELVAL, tres vivement.
+He oui, oui, homme cruel que vous etes, je le signerai, et de mon sang s'il le faut.
+LUVILLE.
+Dois-je faire appeler ma soeur ?
+DELVAL.
+Sans doute.
+LUVILLE.
+Prenez garde, n'allez pas me faire faire une fausse demarche !
+DELVAL.
+He, ne craignez rien !
+LUVILLE.
+Allons-donc !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XXIX. Les precedents, Lisette.
+LISETTE, accourant.
+Monsieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Ciel !
+DELVAL, la reconnaissant.
+He, que fais-tu ici ?
+LISETTE, a Delval a demi-voix.
+Soyez tranquille, je n'ai rien dit.
+DELVAL, etonne.
+Comment rien dit ?
+LISETTE, sortant en voyant entrer la Comtesse.
+Non, demandez plutot a Madame.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XXX. Le Notaire, La Comtesse, Luville, Delval.
+LA COMTESSE.
+Sa presence vous interdit ?
+DELVAL.
+Moi, pourquoi donc ?
+LA COMTESSE, bas a Luville.
+Quelle audace !
+LUVILLE, bas a la Comtesse.
+Voyons jusqu'ou cela ira.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons Monsieur, approchez, et signons.
+LE NOTAIRE, presentant la plume a Delval.
+A vous, Monsieur.
+DELVAL.
+Monsieur, je sais qu'il est dans l'ordre que je signe le premier. Mais....
+LA COMTESSE.
+La main vous tremble, n'est-ce pas ?
+LUVILLE.
+Je le savais bien !
+DELVAL.
+Un moment, s'il vous plait, point de fausses interpretations. Vos soupcons doivent justifier les miens. On connait l'aversion que Madame a temoigne pour un second engagement ; et apres que j'aurai signe, elle pourrait tourner tout ceci en plaisanterie.
+LA COMTESSE.
+Ah ! Fort bien, c'est vous qui me supposez le dessein de vous persifler.
+DELVAL.
+Pardon, mais je le crains.
+LA COMTESSE.
+Comme on juge d'apres soi-meme !
+DELVAL.
+Ah ! Madame...
+LA COMTESSE.
+Votre embarras est naturel, mais si vous craignez la plaisanterie, pourquoi l'avez vous poussee si loin ?
+DELVAL.
+He bien, faites-moi voir que ce n'en n'est pas une ; rassurez mon coeur alarme, signe la premiere. 
+LA COMTESSE.
+Est-ce la ce que vous desirez ?
+DELVAL.
+Oui.
+LA COMTESSE, signant.
+Soyez content.
+DELVAL, transporte.
+Ah ! Je suis au comble de mes voeux ! Allons, a vous mon cher frere.
+LUVILLE, signant.
+Je le veux bien, ma chere soeur !
+DELVAL.
+Ma soeur ?
+LUVILLE.
+Oh ! Ma foi, il n'y a plus de milieu, il faut quitter le bal ou lever le masque. Voila la plume.
+DELVAL, signant.
+Ah ! Je n'ai jamais rien signe de si bon coeur. Vous etes a moi ma belle Comtesse, mon triomphe est parfait.
+LA COMTESSE.
+Pas tout-a-fait Madame.
+DELVAL.
+Que dites-vous donc ? 
+LA COMTESSE.
+Que lorsqu'on veut badiner les gens, on doit bien prendre garde de ne pas donner soi-meme dans les pieges qu'on leur a tendus.
+DELVAL.
+Je reste confondu.
+LA COMTESSE.
+Je le crois ; j'etais instruite de tout, et j'ai voulu voir jusqu'ou vous pousseriez la faussete.
+DELVAL.
+Moi, daignez m'expliquer.
+LA COMTESSE.
+Eloignez-vous de mes yeux. Vous n'avez pas voulu etre mon amie, Sophie ? Et je vais faire mon possible pour vous hair !
+SCENE XXXI, et DERNIERE. Lisette, Luville, Sophie, La Comtesse, Delval, Andre, Le Notaire, derriere.
+SOPHIE, a la Comtesse.
+Pour me hair ? Eh ! Qu'ai-je donc fait pour meriter un sentiment si cruel ?
+LA COMTESSE.
+Qui etes-vous ? Que voulez-vous ?
+DELVAL, la reconnaissant.
+He ! C'est ma soeur !
+LA COMTESSE et LUVILLE.
+Sa soeur !
+LISETTE.
+Elle-meme.
+SOPHIE.
+Pardonnez-moi, Madame, l'heureux artifice dont je me suis servi pour rendre votre coeur a l'amour. Moi seule je vous ai trompee, et je m'en felicite. Je suis la veritable Sophie, et voila le Marquis Delval mon frere. Vous n'auriez jamais consenti a le voir, si son sexe avait ete connu de vous ; mais j'ai du lui cacher ma ruse et je l'ai fait ; il ne serait pas digne de son bonheur, s'il avait aide a tromper ce qu'il aime.
+DELVAL.
+Ma chere epouse !
+LA COMTESSE.
+Quoi reellement vous n'etes pas Sophie ?
+DELVAL.
+Votre coeur a-t-il pu s'y meprendre ?
+LA COMTESSE, apres un moment de silence, se jette dans les bras de Sophie et dit :
+Ah ! Sophie, que je vous aime !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LUVILLE, a Sophie.
+Ah ! Mariane ! Mariane !
+SOPHIE.
+Etes-vous fache de la meprise ?
+LUVILLE.
+Non ; mais je voudrais que mon erreur eut ete plus longue !
+SOPHIE.
+Pourquoi ?
+LUVILLE.
+Pour jouir du plaisir de vous donner la marque la plus eclatante de mon amour.
+SOPHIE.
+Et m'accabler du poids de la reconnaissance ! Non pas, s'il vous plait, il faut que tout soit egal. Vous m'avez protege sans me connaitre ; je vous offre ma main, sommes-nous quitte ?
+LUVILLE.
+Ah ! C'est moi qui vous doit tout.
+LA COMTESSE.
+Et ma promesse ?
+LUVILLE.
+Vas ma soeur, l'amour t'en degage ; aime bien Delval, il le merite, c'est un brave garcon ; qu'il m'accorde sa soeur, et que cette double union nous reunisse a jamais.
+DELVAL.
+Je lui dois tout mon bonheur; il est bien juste que j'assure le sien.
+SOPHIE.
+Allons, et que nos cours soient a jamais partages entre l'amour et l'amitie.
+
+	==================================================

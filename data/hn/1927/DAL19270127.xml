@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate DocTitle="D&aacute;il Debate" Day="Thu" Date="27" Month="Jan" Year="1927" Vol="18" No="3" DateIrish="Déardaoin, 27 Eanáir 1927" DateEnglish="Thursday, 27 January 1927" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="217">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="217" /> Do chuaidh an Ceann Comhairle i gceannas ar 3 a clog.</P>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="CEISTEANNA&mdash;QUESTIONS. ORAL ANSWERS. -" RHead="CONSUMPTION OF BEER, SPIRITS, CIDER AND FOREIGN WINE">
+    <Title>CEISTEANNA&mdash;QUESTIONS.   ORAL ANSWERS. - CONSUMPTION OF BEER, SPIRITS, CIDER AND FOREIGN WINE.</Title>
+    <Speaker pid="" hpid="TOMAS MAC EOIN TOMAS MAC EOIN">
+      
+      <P>asked the Minister for Finance if he will state the total quantities of beer, spirits, cider and foreign wine delivered for home consumption in the calendar year, 1926.</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="MINISTER for FINANCE (Mr. Blythe) Ernest Blythe">
+      
+      <P>The total quantities of beer, spirits, cider and foreign wine delivered for home consumption in Saorstát Eireann in the calendar year 1926 were:&mdash;</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="15*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="35*" align="center">
+        </colspec>
+        <thead>
+          <row>
+            <entry rowsep="1">Beer</entry>
+            <entry rowsep="1">747,345 standard brls.</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Spirits</entry>
+            <entry>824,547 proof gallons</entry>
+          </row>
+          <row>
+            <entry>Cider</entry>
+            <entry>103,772 gallons</entry>
+          </row>
+          <row>
+            <entry>Foreign wine</entry>
+            <entry>707,127 gallons</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Does that include beer produced in the Free State?</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>Yes.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="CEISTEANNA&mdash;QUESTIONS. ORAL ANSWERS." RHead="- RE-OPENING OF CO. KILDARE SCHOOL">
+    <Title>CEISTEANNA&mdash;QUESTIONS.   ORAL ANSWERS. - RE-OPENING OF CO. KILDARE SCHOOL.</Title>
+    <Speaker pid="JohnConlan" hpid="Mr. JOHN CONLAN Mr. JOHN CONLAN">
+      
+      <P>asked the Minister for Education if he had received the report of the Inspector who visited recently the disused school premises at Old Grange, Narraghmore, Co. Kildare, a request for the re-opening of which has been made locally; if the report is of a favourable character; and if so, if steps will be taken to give effect to it by re-establishing the school, the want of which is felt locally.</P>
+    </Speaker>
+    <Speaker pid="ProfJohnMarcusOSulli" hpid="MINISTER for EDUCATION (Professor O'Sullivan) John Marcus O'Sullivan">
+      
+      <P>I have received a report from the Inspector on the question of the restoration of grants to the <Col N="218" /> school at Old Grange, Narraghmore, County Kildare, in the school house formerly used as a National school, and I am prepared to consider favourably the request for the re-establishment of this school.</P>
+      <P>Certain further inquiries are, however, necessary before a final decision is reached.</P>
+    </Speaker>
+    <Speaker pid="JohnConlan" hpid="Mr. CONLAN Mr. CONLAN">
+      
+      <P>Will that inquiry be made at once?</P>
+    </Speaker>
+    <Speaker pid="ProfJohnMarcusOSulli" hpid="Professor O'SULLIVAN Professor O'SULLIVAN">
+      
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="RichardWilson" hpid="Mr. WILSON Mr. WILSON">
+      
+      <P>When the Minister says it will be considered favourably, does he mean that he agrees to open the school?</P>
+    </Speaker>
+    <Speaker pid="ProfJohnMarcusOSulli" hpid="Professor O'SULLIVAN Professor O'SULLIVAN">
+      
+      <P>On the whole, yes, unless circumstances that I am now unaware of crop up in the course of the inquiry.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="CEISTEANNA&mdash;QUESTIONS. ORAL ANSWERS. -" RHead="USE OF BALL CARTRIDGES BY CURRAGH TROOPS">
+    <Title>CEISTEANNA&mdash;QUESTIONS.   ORAL ANSWERS. - USE OF BALL CARTRIDGES BY CURRAGH TROOPS.</Title>
+    <Speaker pid="JohnConlan" hpid="Mr. JOHN CONLAN Mr. JOHN CONLAN">
+      
+      <P>asked the Minister for Defence if complaint has been made by residents of the Lurig district, adjoining the Curragh, that their lives are endangered by the fact that ball cartridges are used by the troops in field firing; if it is true, as asserted, that bullets have penetrated the roofs of houses in the locality; and if he will cause inquiry to be made into the matter.</P>
+    </Speaker>
+    <Speaker pid="PeterHughes" hpid="MINISTER for DEFENCE (Mr. Hughes) Peter Hughes">
+      
+      <P>Complaint of the kind in question was made, but not since early in December last.  It is a fact that bullets penetrated the roofs of some houses.  As stated in my reply to a somewhat similar question by Deputy Wolfe on the 15th December, the matter was inquired into and steps were taken to avoid any cause for complaint in future.</P>
+    </Speaker>
+    <Speaker pid="JohnLyons" hpid="Mr. LYONS Mr. LYONS">
+      
+      <P>Does the Minister think it right to allow troops to use bullets so near people's residences?</P>
+    </Speaker>
+    <Speaker pid="JohnConlan" hpid="Mr. CONLAN Mr. CONLAN">
+      
+      <P>Is the Minister aware that the injury to the houses was pointed out to military officers sent down to inquire into the matter?</P>
+    </Speaker>
+    <Speaker pid="PeterHughes" hpid="Mr. HUGHES Mr. HUGHES">
+      
+      <P>I am not denying <Col N="219" /> that it happened, but steps have been taken to see that it will not occur again.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="CEISTEANNA&mdash;QUESTIONS. ORAL ANSWERS." RHead="- USE OF IRISH LEATHER IN ARMY BOOTS">
+    <Title>CEISTEANNA&mdash;QUESTIONS.   ORAL ANSWERS. - USE OF IRISH LEATHER IN ARMY BOOTS.</Title>
+    <Speaker pid="PatrickClancy" hpid="PADRAIG MAC FHLANNCHADHA PADRAIG MAC FHLANNCHADHA">
+      
+      <P>asked the Minister for Posts and Telegraphs whether, in the specification for boots purchased for the Army, it is required that the sole leather or any of the component parts of the boot shall be of Irish manufacture, or if any preference is to be given to contractors who guarantee that Irish tanned leather will be used.</P>
+    </Speaker>
+    <Speaker pid="JamesJosephWalsh" hpid="Mr. WALSH Mr. WALSH">
+      
+      <P>This question refers to the Minister for Defence.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>On that point, the Minister for Finance said it referred to the Minister for Posts and Telegraphs. It was sent in as a question to the Minister for Finance, and your officers, sir, were informed by the Minister for Finance that it referred to the Minister for Posts and Telegraphs.</P>
+    </Speaker>
+    <Speaker pid="JamesJosephWalsh" hpid="Mr. WALSH Mr. WALSH">
+      
+      <P>The Minister for Posts and Telegraphs informed the Minister for Defence that it referred to him.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>I should have said that it was sent in to the Minister for Defence.  Are we to understand now that it is the Minister for Finance that gives orders out for boots made of foreign leather?</P>
+    </Speaker>
+    <Speaker pid="JamesJosephWalsh" hpid="Mr. WALSH Mr. WALSH">
+      
+      <P>No, it is the Minister for Defence draws up the regulations in the first instance, and my Department issues the tenders.  The final check or ratification of these tenders is a matter for the Minister for Finance. Therefore, the three Ministers are concerned.</P>
+    </Speaker>
+    <Speaker pid="RichardCorish" hpid="Mr. CORISH Mr. CORISH">
+      
+      <P>Go on with the protection campaign.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="AN CEANN COMHAIRLE Michael Hayes">
+      
+      <P>Is any Minister prepared to answer this question?</P>
+    </Speaker>
+    <Speaker pid="PeterHughes" hpid="Mr. HUGHES Mr. HUGHES">
+      
+      <P>I am.  The specification in question does not require that any part of the Army boot shall be of Irish manufacture.  Preference is, however, <Col N="220" /> given to the Irish manufacturer by way of the Customs tariff of 15 per cent.  A further preference is given to the Irish manufacturer who uses most Irish leather.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>Is any preference given to Irish leather?</P>
+    </Speaker>
+    <Speaker pid="PeterHughes" hpid="Mr. HUGHES Mr. HUGHES">
+      
+      <P>A further preference is given to the Irish manufacturer who uses most Irish leather.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>If it is not stated in the specification, how is it known whether they use Irish leather or not?</P>
+    </Speaker>
+    <Speaker pid="PeterHughes" hpid="Mr. HUGHES Mr. HUGHES">
+      
+      <P>The manufacturer will state it in his tender.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>Is the manufacturer requested by the specification to state that in his tender?</P>
+    </Speaker>
+    <Speaker pid="PeterHughes" hpid="Mr. HUGHES Mr. HUGHES">
+      
+      <P>I have not the specification before me at the moment, and I cannot answer that question.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>Will the Minister make sure that such an intimation is recorded in the specification?</P>
+    </Speaker>
+    <Speaker pid="PeterHughes" hpid="Mr. HUGHES Mr. HUGHES">
+      
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>What extent of preference is given?  Is there any definite percentage or arrangement?</P>
+    </Speaker>
+    <Speaker pid="PeterHughes" hpid="Mr. HUGHES Mr. HUGHES">
+      
+      <P>There is 15 per cent. tariff in the first instance, and the manufacturer who says that he uses most Irish leather gets a further preference.</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>What is meant by &ldquo;a further preference?&rdquo;</P>
+    </Speaker>
+    <Speaker pid="PeterHughes" hpid="Mr. HUGHES Mr. HUGHES">
+      
+      <P>If the Deputy does not know I cannot enlighten him.</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>If the Minister does not know how can I know?</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="AN CEANN COMHAIRLE Michael Hayes">
+      
+      <P>A further question might be put down, of course.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="CEISTEANNA&mdash;QUESTIONS. ORAL ANSWERS." RHead="- WIRELESS LICENCES FOR BLIND PERSONS">
+    <Title>CEISTEANNA&mdash;QUESTIONS.   ORAL ANSWERS. - WIRELESS LICENCES FOR BLIND PERSONS.</Title>
+    <Speaker pid="" hpid="TOMAS MAC EOIN TOMAS MAC EOIN">
+      
+      <P>asked the Minister for Posts and Telegraphs whether he is prepared to issue wireless receiving <Col N="221" /> licences to blind persons free of charge under paragraph 1 (f) of the Regulations in regard to Wireless Receiving Licences, 1927, and, if so, whether he will make an announcement on the matter, so that blind persons may know what procedure is to be followed in applying for a licence.</P>
+    </Speaker>
+    <Speaker pid="JamesJosephWalsh" hpid="MINISTER for POSTS and TELEGRAPHS (Mr. Walsh) MINISTER for POSTS and TELEGRAPHS (Mr. Walsh)">
+      
+      <P>Paragraph 1 (f) of the Regulations does not provide for the issue of any licences without fee.  I am, however, in correspondence with the Minister for Finance on the subject of free licences for blind persons.</P>
+      <P>Even if it were decided to grant the concession there would be certain administrative difficulties in applying it, which will need full consideration.  In Great Britain the privilege is restricted to blind persons not residing in a public or charitable institution, or in a school, who can produce certificates from the local authority of the district in which they reside, that they are registered as blind persons, but it appears that in this country the only registers of blind persons kept up to the present, are those in connection with schemes for the welfare of the blind, which are in operation only in Dublin County and Dublin County Borough.  The names of blind persons in receipt of pensions could also probably be obtained from the local pension officers of the Revenue Commissioners.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>Can we take it from that, that the Minister is taking into account and will consider favourably, the fact that blind persons are, by their affliction, prevented from enjoying other entertainments which normal-sighted persons are in the habit of enjoying, and that, therefore, some special consideration will be given to blind persons with respect to wireless licences?</P>
+    </Speaker>
+    <Speaker pid="JamesJosephWalsh" hpid="Mr. WALSH Mr. WALSH">
+      
+      <P>I will bear the fact in mind.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="CEISTEANNA&mdash;QUESTIONS. ORAL ANSWERS. - USE" RHead="OF ENGLISH IN &ldquo;IRIS AN PHUIST.&rdquo;">
+    <Title>CEISTEANNA&mdash;QUESTIONS.   ORAL ANSWERS. - USE OF ENGLISH IN &ldquo;IRIS AN PHUIST.&rdquo;</Title>
+    <Speaker pid="WilliamNorton" hpid="Mr. NORTON Mr. NORTON">
+      
+      <P>asked the Minister for Posts and Telegraphs whether, in view of Article 4 of the Constitution which <Col N="222" /> provides that the &ldquo;English language shall be equally recognised as an official language,&rdquo; he will arrange for the notification of all vacancies and appointments which are published in &ldquo;Iris an Phuist,&rdquo; to be printed in English as well as in Irish.</P>
+    </Speaker>
+    <Speaker pid="JamesJosephWalsh" hpid="Mr. WALSH Mr. WALSH">
+      
+      <P>The notification of vacancies and appointments in &ldquo;Iris an Phuist&rdquo; is a departmental notification and is printed in Irish only for the purpose of encouraging the Post Office staff to learn Irish.  In response to these notifications there have been ample applications for vacant posts, and I see no reason for altering the practice, which is not considered unconstitutional.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Who does not consider it unconstitutional?</P>
+    </Speaker>
+    <Speaker pid="JamesJosephWalsh" hpid="Mr. WALSH Mr. WALSH">
+      
+      <P>I do not, at any rate.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>You do not?</P>
+    </Speaker>
+    <Speaker pid="BryanRiccoCooper" hpid="Major COOPER Major COOPER">
+      
+      <P>Will the Minister for Posts and Telegraphs take the opinion of the Attorney-General on the matter?</P>
+    </Speaker>
+    <Speaker pid="JamesJosephWalsh" hpid="Mr. WALSH Mr. WALSH">
+      
+      <P>He has done so.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Why did the Minister not say so?</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="CEISTEANNA&mdash;QUESTIONS. ORAL ANSWERS. -" RHead="ACCOMMODATION FOR POSTAL AND PARCEL BUSINESS IN DUBLIN">
+    <Title>CEISTEANNA&mdash;QUESTIONS.   ORAL ANSWERS. - ACCOMMODATION FOR POSTAL AND PARCEL BUSINESS IN DUBLIN.</Title>
+    <Speaker pid="WilliamNorton" hpid="Mr. NORTON Mr. NORTON">
+      
+      <P>asked the Minister for Posts and Telegraphs whether, in view of the need for adequate and more suitable central accommodation for the transaction of postal and parcel business in Dublin, he will state when it is proposed to proceed with the erection of new offices for the transaction of this business.</P>
+    </Speaker>
+    <Speaker pid="JamesJosephWalsh" hpid="Mr. WALSH Mr. WALSH">
+      
+      <P>It is proposed to concentrate the postal work generally, including parcel work, at Pearse Street, and plans for a new office on this basis are in course of preparation.</P>
+    </Speaker>
+    <Speaker pid="WilliamNorton" hpid="Mr. NORTON Mr. NORTON">
+      
+      <P>Can the Minister give any indication as to when the construction of the new building will be proceeded with, in view of the dearth of suitable accommodation for that class of work?</P>
+    </Speaker>
+    <Col N="223" />
+    <Speaker pid="JamesJosephWalsh" hpid="Mr. WALSH Mr. WALSH">
+      
+      <P>I realise the urgency of this matter but there is some difficulty in regard to leases.  The matter is being expedited.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="OA" LHead="CEISTEANNA&mdash;QUESTIONS. ORAL ANSWERS." RHead="- ALLEGED DELAY IN TRANSIT OF CATTLE">
+    <Title>CEISTEANNA&mdash;QUESTIONS.   ORAL ANSWERS. - ALLEGED DELAY IN TRANSIT OF CATTLE.</Title>
+    <Speaker pid="JohnConlan" hpid="Mr. JOHN CONLAN Mr. JOHN CONLAN">
+      
+      <P>asked the Minister for Lands and Agriculture if he is aware that owing to delay in transit consignments of cattle sent from stations not more than thirty or thirty-five miles distant from Dublin for sale in the Dublin Market and loaded in waggons in the forenoon, in many cases do not arrive at their destination until six or seven hours after the time of loading; and if, in view of the serious loss entailed on cattle-owners on account of the prolonged confinement of stock in waggons, he will cause representations to be made to the Railway Company with a view to expediting delivery.</P>
+    </Speaker>
+    <Speaker pid="SeamusAloysiusBourke" hpid="MINISTER for LOCAL GOVERNMENT and PUBLIC HEALTH (Mr. Burke) (for Minister for Agriculture) Seamus Aloysius Bourke">
+      
+      <P>It is presumed the Deputy refers to complaints made to the Great Southern Railways Company that stock despatched on the Midland Section now arrive at Liffey Bank some two hours later than formerly.  This complaint is being investigated by the Company with a view to any practicable and necessary acceleration of the service. Generally speaking, matters of this kind are largely in the hands of cattle traders and local stock owners. Recently at the request of a deputation the Nenagh service in connection with the Dublin Market has been adjusted, and in addition it has been arranged to resume the special live stock train from Bagenalstown which was discontinued for some time owing to a falling off in the traffic.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="PN" LHead="PRIVATE NOTICE QUESTION. - MOTOR CAR" RHead="(TEMPORARY IMPORTATION) REGULATIONS">
+    <Title>PRIVATE NOTICE QUESTION. - MOTOR CAR (TEMPORARY IMPORTATION) REGULATIONS.</Title>
+    <Speaker pid="" hpid="TOMAS MAC EOIN TOMAS MAC EOIN">
+      
+      <P>asked the Minister for Finance if he proposes to issue any new regulations affecting the passage of motor vehicles into and out <Col N="224" /> of the Free State and if so, what is the nature of the proposed regulations.</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>Regulations entitled the Motor Car (Temporary Importation) Regulations, 1926, were made under the seal of the Minister for Finance on 31st December last with effect as from that date and will be available to the public as soon as they are printed.  These Regulations have been made under Section 13 (6) of the Finance (No. 2) Act, 1915, as continued by subsequent Acts of the Oireachtas and take effect forthwith under Section 2 of the Rules Publication Act, 1893.  They revoke and supersede the Motor Car (Temporary Importation) Regulations, 1916 and 1921.</P>
+      <P>The regulations provide for&mdash;</P>
+      <P>(a)  the temporary importation into Saorstát Eireann without payment of duty, of motor cars imported by:&mdash;</P>
+      <P>(i)  Persons, being persons having their only or principal place of residence outside Saorstát Eireann and intending to make only a temporary stay in Saorstát Eireann for purposes unconnected with trade or business;</P>
+      <P>(ii)  Clergymen, Medical Practitioners, or Veterinary Surgeons having their only or principal place of residence outside Saorstát Eireann who intend to make only a temporary stay therein in the exercise of their professional duties.</P>
+      <P>The term &ldquo;motor car&rdquo; includes &ldquo;motor bicycle&rdquo; and &ldquo;motor tricycle.&rdquo;</P>
+      <P>(b)  The temporary importation without payment of duty, by land into Saorstát Eireann, by persons having their only or principal place of residence outside Saorstát Eireann, of motor charabancs or motor omnibuses carrying only passengers entering Saorstát Eireann for purposes unconnected with trade or business and returning with such passengers not later than 48 hours from the time of importation.</P>
+    </Speaker>
+    <P>As under the practice heretofore followed the Revenue will be safeguarded in respect of vehicles admitted under <Col N="225" /> the new Regulations by a deposit with the Revenue Commissioners to cover the duty involved or the approved guarantee to the Revenue Commissioners of a recognised Automobile Club or Touring Association; or, alternatively, in the case of vehicles brought from Northern Ireland by land by a bond to the Minister for Finance.</P>
+    <P>Under the Regulations of 1916, which were the main Regulations under Section 13 (6) of the Finance (No. 2) Act of 1915 (the 1921 Regulations merely affected a minor amendment in regard to guarantees to cover duty by recognised Automobile Associations), the privilege of temporarily importing a motor car without payment of duty was allowed to persons making only a temporary stay in the Saorstát.  No qualification was made in regard to persons, or to the purpose for which the motor vehicle was imported, but it was obvious from the words of the Act that the words &ldquo;making only a temporary stay&rdquo; were intended to confine any privileges granted, to persons who were non-resident in the Saorstát.</P>
+    <P>It was found in practice that advantage was being taken of the Regulations by business firms in Great Britain and Northern Ireland, who maintained business premises in the Saorstát and who were enabled to import without payment of duty motor vehicles to be used advantageously in competition with Saorstát traders.  In consequence it was decided that the privilege would not be granted to persons who were resident or maintained business premises in the Saorstát.</P>
+    <P>The latter decision was found to impose hardships on persons who wished to visit relatives, and who could not claim to possess any definite residence other than that occupied by their Saorstát relatives.  It also brought complaints from traders who had business premises in the Saorstát, and also outside thereof, as to an unfair advantage possessed by business firms using their motor vehicles here free of duty when they maintained no premises here.</P>
+    <P>This latter grievance was brought to the notice of the Minister in the debates on the last Budget, and he promised to consider the matter.  The new <Col N="226" /> Regulations are the outcome, and they provide for the same treatment for all imported trade vehicles or vehicles to be used for trade purposes.  They also increase the privileges which it has hitherto been possible to extend to private individuals visiting this country for the purpose of visiting relatives and friends.</P>
+    <P>The Customs duty on trade vehicles is, in effect, levied only on the value of the body, and the preferential rate is allowed in respect of British vehicles. In no case, therefore, can there be a question of charging a duty at the rate of 33 1-3 per cent. on the total value of imported trade vehicles.</P>
+    <Speaker pid="BryanRiccoCooper" hpid="Major COOPER Major COOPER">
+      
+      <P>Arising out of that answer, can the Minister say if any representations have been made either by the Government of Northern Ireland or the British Government in regard to these regulations?</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>No representations have been made.</P>
+    </Speaker>
+    <Speaker pid="BryanRiccoCooper" hpid="Major COOPER Major COOPER">
+      
+      <P>In the event of such representations being made, will the Minister be prepared to discuss the subject so as to minimise the inconvenience to private individuals and commercial firms living on the other side of the Border?</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>I certainly would be prepared to consider the matter.  I would like to point out, as a matter of fact, that all that is done by these Regulations is to remove a very distinct grievance that traders in the Saorstát hitherto had, while doing nothing that could be complained of by people outside the Saorstát.</P>
+    </Speaker>
+    <Speaker pid="JamesSprouleMyles" hpid="Major MYLES Major MYLES">
+      
+      <P>I presume the Minister has included hackney vehicles in the Regulations?</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="JamesSprouleMyles" hpid="Major MYLES Major MYLES">
+      
+      <P>Has the Minister considered the enormous hardship that will be imposed on the people on our side of the Border?  Will he receive representations on the point?  Has he also considered how it is going to affect the seaside resorts, particularly in County Tirconaill, where the bulk of the business is brought to them by hackney vehicles from Northern Ireland?</P>
+    </Speaker>
+    <Col N="227" />
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>Can the Minister say whether, in accordance with the suggestions, or the apparent agreement arrived at in December, 1925, any proposed conference on this matter has come to his ears from the Ministry of Northern Ireland?</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>No conference has been suggested.  With regard to the matter raised by Deputy Myles, I do not think any hardship will be imposed on owners of hackney vehicles in the Saorstát, and I do not think any damage will be done to the Donegal seaside resorts.</P>
+    </Speaker>
+    <Speaker pid="JamesSprouleMyles" hpid="Major MYLES Major MYLES">
+      
+      <P>Will the Minister receive representations on that point?</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>Certainly.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="CORONERS (AMENDMENT) BILL," RHead="1926&mdash;FROM THE SEANAD">
+    <Title>CORONERS (AMENDMENT) BILL, 1926&mdash;FROM THE SEANAD.</Title>
+    <Speaker pid="MichaelHayes" hpid="AN CEANN COMHAIRLE Michael Hayes">
+      
+      <P>A message has been received from the Seanad intimating that it has passed the Coroners (Amendment) Bill, 1926, without amendment.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - CONSTITUTION" RHead="(AMENDMENT No. 2) BILL, 1926&mdash;FIFTH STAGE">
+    <Title>ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - CONSTITUTION (AMENDMENT No. 2) BILL, 1926&mdash;FIFTH STAGE.</Title>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>I move that the Bill do now pass.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - CONSTITUTION" RHead="(AMENDMENT NO. 3) BILL, 1926&mdash;FIFTH STAGE">
+    <Title>ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - CONSTITUTION (AMENDMENT NO. 3) BILL, 1926&mdash;FIFTH STAGE.</Title>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>I move that the Bill do now pass.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - CONSTITUTION" RHead="(AMENDMENT NO. 4) BILL, 1926&mdash;FIFTH STAGE">
+    <Title>ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - CONSTITUTION (AMENDMENT NO. 4) BILL, 1926&mdash;FIFTH STAGE.</Title>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>I move that the Bill do now pass.</P>
+      <P>Question put and agreed to.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - CONSTITUTION" RHead="(AMENDMENT No. 5) BILL, 1926&mdash;FIFTH STAGE">
+    <Title>ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - CONSTITUTION (AMENDMENT No. 5) BILL, 1926&mdash;FIFTH STAGE.</Title>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>I move that the Bill do now pass.</P>
+      <P>Question put and agreed to.</P>
+      <P>Message to be sent to the Seanad accordingly.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - TOWN" RHead="TENANTS BILL, 1926&mdash;SECOND STAGE (RESUMED)">
+    <Title>ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - TOWN TENANTS BILL, 1926&mdash;SECOND STAGE (RESUMED).</Title>
+    <P>
+      <Col N="228" /> Question again proposed&mdash;&ldquo;That the Bill be now read a Second Time.&rdquo;</P>
+    <Speaker pid="TomasOConnell" hpid="Mr. T.J. O'CONNELL Mr. T.J. O'CONNELL">
+      
+      <P>I think it will be generally admitted that the Government have left themselves open to very serious criticism, indeed, because of the manner in which they have dealt with this question of town tenants.  This was a live issue on the occasion of the last election and I believe there are many Deputies here as well as Deputy Redmond who pledged themselves to do everything possible to support the claims&mdash;which are no new claims&mdash;put forward on behalf of town tenants.  The Minister for Justice said yesterday that he was not satisfied, without the fullest possible investigation being made into the principles involved in the Bill, to give the Bill a Second Reading; until that was done he was not prepared to agree to a Second Reading.  I have looked up what the Minister said during the debate in April or May, 1924, on a former measure of a similar nature. I find he said something almost identical with what he said yesterday:</P>
+      <P>If a measure has to be introduced dealing with a matter so important it can only be introduced after the fullest and fairest investigation of the whole question... after just such an examination of the question as took place before the Bill of last year was introduced.</P>
+    </Speaker>
+    <P>He was then referring to the Rent Restrictions Act of 1923.  In that it seems to me that the importance of the matter was admitted and acknowledged, yet the Minister nor the Government made no new move during more than the two and a half years that elapsed to investigate the matter or set up a Commission to investigate it, as was clearly foreshadowed.  For that reason I think the Government are open to very serious criticism.  The excuse given by the Minister for Justice is that there was no urgency on account of the Rent Restrictions Act.  I think the Minister will find it exceedingly difficult&mdash;it will take all his eloquence &mdash;to convince the citizens of the Saorstát <Col N="229" /> that there is no urgency in this matter.  He will find, too, that the passage of the Rent Restrictions Act, 1926, has made this matter more urgent than it was before the passage of that measure.</P>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>I was using the word &ldquo;urgency&rdquo; in terms of months.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'CONNELL Mr. O'CONNELL">
+      
+      <P>I fail to understand the distinction.  One argument brought against this measure both now and on a former occasion by the Minister, and also by others, was that there was no analogy whatsoever between the position of land and houses.  In fact, the idea of any such analogy was scouted by the Minister and by others, too.  I am not quite so sure that can be taken for granted just as the Minister would wish us to take it.  I think the Minister said the case for land was that it was there by nature; it was acquired in times gone by by plunder, violence and confiscation, and all that kind of thing; whereas houses were the product of labour and capital and were bought by people who invested their savings in them.</P>
+    </Speaker>
+    <P>Is it the case that the only land acquired compulsorily by the State, at a price fixed by the State, was land originally obtained as the result of plunder, confiscation and violence?  I do not believe that is the case.  We know that many estates were acquired by their owners as a result of purchase, and I would remind those who used this argument of the debates which took place here on the occasion of the Land Act.  I think it was Deputy Johnson who made the point on that occasion that, just as the Minister had stated, because these lands were acquired in this questionable way in the first instance the then owners were not entitled to a very great share of our consideration; but I think it was the Minister for Lands and Agriculture who definitely stated on that occasion that we must take into account the fact that there had been in the meantime a great deal of purchasing in connection with these lands and they had changed hands from time to time and many of the estates were acquired as the result of the investment of the savings of the owners.  I do not think that argument, <Col N="230" /> of which so much has been made, is one that will carry us very far.</P>
+    <P>There is nothing so violently different in the matter of land and houses in this respect, and, it was found in the case of land, social conditions required that some effort should be made to give the tenants security in their holdings. In the same way it is clear that some measure of security ought to be given to the occupiers of houses.  Someone said yesterday that no case was made for this Bill.  I think the whole case was summed up excellently by Deputy Morrissey when he said the necessity for the Bill arose from the great feeling of insecurity so prevalent all over the Saorstát.  No doubt that feeling is there, and it is widespread, and that is a feeling that ought to be taken cognisance of by the Dáil.  No one has stood up to say that the town tenants have not a grievance.  No one has held the view, so far as I can understand, that two of the main principles in the Bill, that is the right of a tenant to have a reasonable measure of security in his home, and a fair rent, are not principles which are just and fair. These two, apart from details, are the main principles of the measure and the Government, in asking the members of the Dáil to vote against this measure are asking them in effect to vote against those two principles&mdash;the principle of security and the principle of the fixing of a fair rent.</P>
+    <P>I do not think that the rejection of the Second Reading of this measure is justified by the fact that a Commission is going to be set up to make inquiries into the question.  The Bill contains important principles which the Dáil ought to declare upon.  If the Dáil takes the line recommended by the Minister for Justice, it, in effect, does the very thing that he does not want it to do&mdash;that is, it prejudices the case because it declares definitely against the principles embodied in the Bill. To my mind the more reasonable, just and fair line to adopt would be for the House and the Government to accept these principles and, then, if they do not feel satisfied with the details of the Bill they might make the best arrangement to give effect to these principles and they might refer that matter to a <Col N="231" /> Commission.  I want to emphasise this: The question we are asked to decide now is, as to whether or not we accept the principles embodied in the Bill such as stated by Deputy Morrissey to give the tenant security in his own home at a fair rent.  I was glad to hear the President yesterday state that every Deputy in the House was perfectly free to vote on this measure.</P>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>And on every measure.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>The President was absent from the meeting.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'CONNELL Mr. O'CONNELL">
+      
+      <P>I am accepting the President's statement.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>It is more than your Party could say.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'CONNELL Mr. O'CONNELL">
+      
+      <P>We say it too.  I am only reminding Deputies behind the President of his statement yesterday so that some of them will not always write to their constituents the style of letter I saw quite recently from a prominent member of the Party saying he would be quite ready and willing to vote for the measure if the Party agreed to vote for it and if he was allowed to vote for it.  I think nobody in the House has opposed the principle of this Bill and it is the duty of every Deputy to vote for the Second Reading.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>In view of the history of this subject I think the Government has left itself open to the charges made against it.  When a Bill on this question was previously before the House it was understood that the matter would be dealt with long before this Parliament would come to an end. Two years and a half have since passed and it is not dealt with and, therefore, I think the charge that the Government has not faced this question as they should have, is justified.  They have left themselves deliberately open to such a charge.  At the same time I take the view that this Bill does not finish with the question of town tenants and does not purport to do so.  It is a Bill of only a few clauses and as Deputy Wolfe has said it is merely tinkering with the question.</P>
+    </Speaker>
+    <P>
+      <Col N="232" /> I believe, no matter what decision is come to with regard to this Bill, whether it is given a Second Reading or not, it will be absolutely useless as a measure for dealing with the whole question of town tenants.  I say that a Commission must be set up to deal with this big question.  Anyone who knows anything about town tenants' lettings, and there are several series of lettings in connection with the same buildings, must be aware of the complications which exist.  There are several classes of people with interests from the ground rent landlord down to the rated occupier.  The only thing contemplated in this Bill, and even by the Commission, is the question of tenants and rents.  I make the suggestion here that there ought to be another question investigated, that is the question of purchase.</P>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>The Deputy has not studied the Terms of Reference.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>No, I have not.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>There is mention in the Terms of Reference of the Small Dwellings Acquisition Act, and a request to the Commission to inquire into the working of that Act and to consider to what extent there might be an extension of it.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>If that means that the whole question of State purchase with the State acting as the go-between, doing the clerical work between one class and another, I am satisfied.  I do not think the Minister knew it himself yesterday.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>I did, perfectly.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>I honestly question that.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>The Deputy may give me credit for knowing what is in the Terms of References to this Commission. If the Deputy studies the last clauses of the Terms he will see what I mentioned, in regard to the Small Dwellings Acquisition Act.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Does the Minister suggest that the Small Dwellings Acquisition Act would settle the whole question of purchase, and would deal <Col N="233" /> with all the houses which would be dealt with under this Bill, if passed?</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>I suggest that the Reference as to examining the working of that Act, and as to what extent extension of that Act is practicable, raises the question of purchase.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>I do not think it is quite broad enough.  You have to protect several main principles on this question and to ensure that speculators are not debarred or prevented by your conclusions from still investing money in the building of houses.  That is a thing you must safeguard in your terms of reference.  I think that the question will have to be approached in a much bigger way than is being done under this Bill.  I do not think that a Bill of this description consisting of a few clauses, to some of which I take exception in going to deal with the subject. Yesterday the President in the course of the debate wanted to know what a fair rent was&mdash;what would be a fair rent under a particular clause in this Bill.  Deputy Redmond, in dealing with the question of fair rents, was very explicit.  He said that he left the court to decide all the circumstances of the case and that it was for the court to decide what was a fair rent.  It was not for a Deputy speaking across the floor of the House to say what a fair rent was.  I think the President approached this in a most flippant attitude. I do not know what the coming elections have to say to the appointment of this Commission or what the political aspect has to say to it.  Everyone can form his own opinion, but in my judgment a commission or some sort of inquiry is necessary to go into the whole question.  I do not think that Deputy Redmond can claim that the question can be solved by this Bill.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I do not claim it.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>The Deputy has honestly admitted that, and what he has said is only an echo of my own opinion on the matter.  Having that assurance from the Deputy, I think that a new position arises.  Would it be well to withdraw this Bill?</P>
+    </Speaker>
+    <Col N="234" />
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Rome was not built in a day.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>There was more than one Bill introduced to settle the land question.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>Yes, too many in my opinion.  There were too many Bills brought in&mdash;tinkering with the question all along.  I say that if the land question had been approached forty years ago in the way that we approached it, it could have been settled in one Act almost.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Was there ever a question such as the land question in Ireland settled by one Act by any Parliament in any country in the world?</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>Quite so.  The whole procedure was faulty.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Does the Deputy claim that this Bill is going to settle the question?</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>No.  The President has asked me a question, and I will reply to him.  I do not claim that this Bill will settle the town tenants' question, but I do claim that it will do something to remedy the existing grievances which the Government have not even attempted to do or considered during the lifetime of the present Parliament.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>The whole moral is this: That we should learn something from the experience of past Acts dealing with other questions such, for instance, as the land question.  We have seen how many Acts have been necessary to deal with that, and I think we ought not to copy the mistakes of Parliaments which tinkered with it for generations.  We ought not to set up big legal machinery that is going to cost the State huge sums of money, and incidentally bring into the pockets of the legal profession, and perhaps other professions as well, but principally the legal profession&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="JamesCosgrave" hpid="Mr. J. COSGRAVE Mr. J. COSGRAVE">
+      
+      <P>What will the Commission cost?</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>Whatever it will cost, if you are going to have a court plus <Col N="235" /> a Commission the expense will be enormous. Would the Deputy tell us what the cost would be of the judges and staff necessary to attend to this whole question?</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>The Commission will cost at the outside a couple of hundred pounds.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>It is a pity the money was not expended long ago.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>This cross-fire between Deputies almost confuses me.  Our attitude on this question is that we approve completely of most of the principles in this Bill.  We believe that the spirit of Shylock operates just as much in connection with town tenancies as ever it did on the question of land tenancies, but I would like to point out that town tenancies and land tenancies are very different in character. Some of them are only ground rents and some of them are properties actually erected by the people who are now the owners.  As between the two sorts of tenancies a very different state of affairs exists.  With regard to land tenancies, titles to lease and forms of tenure are more or less on a par.  In the case of town tenancies it is quite a different matter.  I am not in a position to say how many classes of lettings there are, or how many interests are to be considered.  I suppose it would not be an uncommon thing to find half-a-dozen different interests in connection with a property.  Therefore, I do not think it is seriously meant to settle all these matters by a Bill of a few clauses like this.  If the Bill is only meant to get an expression of opinion from the Dáil and afterwards to refer it to a Commission, I am quite satisfied.  If it is not able to improve the present position, and I do not think it can do that, what, I ask, is the use of forcing it through the Dáil and losing time about it?  As Deputy Redmond said, we are only touching the bare fringe of the question.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I did not say quite as much as that.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>I think that most of my Party will take the view that this <Col N="236" /> question would be better served by a Commission.  My only regret is that in my opinion the Government have refrained, and I am convinced, deliberately refrained, from approaching this question, and now if they appoint a Commission it is because of the agitation that has been got up and because of this Bill.  I cannot compliment the Government on their attitude at all, but on the other hand I am not fully enthusiastic about this Bill.  I do not know what we will do ultimately, but we will do the best we can.</P>
+    </Speaker>
+    <Speaker pid="MichaelDoyle" hpid="Mr. M. DOYLE Mr. M. DOYLE">
+      
+      <P>A good deal has been said on both sides on this question. One side speaks of the inadequacy of the Bill, while the other side says that it goes too far.  To my mind, both sides should come together and deal with the question on the Committee Stage of the Bill.  Those who think the Bill does not go far enough to protect the town tenants, could then introduce amendments to safeguard them to the extent they think is necessary, while those who think that the Bill is going too far could introduce their amendments to counteract the effects that they fear.  Those who think that the Bill is only tinkering with the subject could use their efforts on the Committee Stage, and do their best to make it a complete measure.  I say that it is quite possible to amend the Bill in such a way that it will protect the town tenants and the landlords as well.  In my opinion, it is not going too far at all in principle.  I think that security for the tenants should be the first plank in any Bill of this kind.  Without security no man can carry on his home or contemplate the carrying out of improvements in it if he feels that on the following day the landlord can come along and make him pay an impossible rent, or if his lease is near running out that he can be dispossessed from his house.  How can a man like that carry on or be satisfied with the position he is in?  This one point of security which the Bill imposes is sufficient to warrant the passage of the measure through the House.  I agree with Deputy Cosgrave as to the part played by the town tenants during the land war.  Their attitude <Col N="237" /> was helpful to the farmers throughout the country in every way, and they did all they possibly could to assist them.  I defy anybody to say otherwise.  When the finance side of the question was put up to them they came forward with their funds liberally in the land war of the 'eighties.  I think it is our duty on those benches&mdash; and I disagree with the leader of our Party on this question&mdash;to support a Bill like this which aims at getting justice for the town tenants.</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>I do not think a Bill of this sort should be supported on sentimental grounds, or for anything that happened in the land war, or for anything that happened before or since.  It ought to be dealt with on quite different grounds&mdash;on its merits. Deputy O'Connell talked about the comparison between land legislation and this Bill.  While he talked about the differences and the similarities that existed he made no reference at all to the fact that not only may houses be erected, but that houses must be erected.  The question of how the land was acquired or how the houses were acquired does not really come into it. The position is that there is a certain amount of land available, and no more can be made available, and we have to do the best we can with what there is. More houses are urgently required, and more houses can be made available. When we think of the security of the people who are fortunate enough to have houses we should not fail to think of the people who have not been able to get houses, or to get any sort of adequate accommodation.  What we have to remember in connection with this town tenants' agitation which is carried on is that we have a number of people esconced in houses who do not think about people who cannot get reasonable accommodation.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>That is not so.</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>I am not talking about the Deputy, but I have met a number of town tenants' deputations, and I have never met any deputations that impressed me less.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Did they impress the Minister to the extent that in the <Col N="238" /> West he promised to support the town tenants?</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>I did not.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>The Minister was reported in the papers as having said so.</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>I had this Bill in my hands and I said I would oppose it.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Does the Minister deny that the report was an accurate report?</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>I do not know what report appeared in the newspapers. It is no use saying this Bill is confined to houses built before 1919.  It is obvious, as has been already said, that if we adopt a code of legislation, a Bill such as this, and apply it to the great bulk of the houses in the country it must be extended to all houses.  You may have a temporary Bill applying to certain houses and not to others, but when you have a permanent Bill applying to a great number of houses certainly another Parliament will be driven to apply it to all houses.  I have no doubt provisions in this Bill will have the effect of discouraging speculative building, or the purchase of houses as an investment, and in a sense the persons who purchase houses as an investment, are as important factors in the provision of houses as the persons who build the houses.  I do not think that if any Bill such as this is passed you would be able to get any sort of private assistance in providing the 40,000 houses or so that are needed for the accommodation of the present population, and if we were fortunate enough to succeed in creating industries and have an increased population, more houses might be required, but the difficulty of providing these houses would be tremendously increased by an Act such as this.</P>
+    </Speaker>
+    <P>The way to approach the housing and town tenants' question is to aim at providing a sufficient number of houses for the people.  If there are a sufficient number of dwelling houses to be let the question of security will not trouble any family.  Instead of having an insufficient number of houses and securing for the people in them fixity of tenure, it would be much better to have <Col N="239" /> the additional 30,000 or 40,000 houses that are required without fixity of tenure.  Fixity of tenure, so far as private houses are concerned, is only of importance when there are too few houses in the country.  Where there is a sufficient number of houses that does not arise at all.  I do not think you can curtail the rights of people who may build houses, or who may invest in houses, to the extent that this Bill proposes, without simply stopping off the flow of money either directly in the way of the building of houses or by way of investment in house property. It is, no doubt, desirable that as many people as possible in the State should own the houses they live in, but when you have this question of future supply in mind the way to get at that is by way of voluntary purchase and voluntary bargains between the owner and the person who has been the tenant.</P>
+    <P>If you provide a sufficient number of houses and get rid of this sort of famine value houses may have, that will present no difficulty, and it will not throw up any obstacles towards the meeting of future needs.  That is one aspect of the question.  But as to the mere principle of the Bill, the principle of practically causing the person who owns the house to cease to be the owner, and the throwing of undue restrictions upon him in dealing with this property which is certainly not property like land, there you have some matter which has never been fairly considered or fairly discussed, because the organisations which have been dealing with the matter, as far as I can judge from deputations I have met, have never considered it.  What they have done is, they have brought together all the discontented, the people with grievances, and they have made a list of the demands of these people's grievances, and called that a programme. Deputy Wolfe and Deputy Gorey, to my mind, have both made very sensible speeches on this subject. It is a problem that ought to be surveyed in some impartial and detached way by a Commission, and on that survey legislation ought to be founded.</P>
+    <P>You cannot undertake to deal finally with any problem by a single Bill, but <Col N="240" /> if a problem is properly approached you can certainly go very near solving it by a single Bill.  There may be much that may have to be adjusted afterwards, but it is quite possible to carry out a comprehensive reform.  The way to approach any matter is to aim at carrying out a comprehensive reform and not to plunge in with the idea that something has to be done, no matter what it is or what the consequences may be.  I think this Bill is a bad one &mdash;the principle is bad.  It is put together without any real consideration and in any case it is not a Bill which even pretends to deal with the matter comprehensively.  It has been said that a Commission should have been set up long ago.  It is really a question of proportion.  You cannot deal with every problem in one year and we have many urgent problems to deal with. We have had also very important legislation about town tenants before this House.  The rent restriction legislation is very important.</P>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>You had a Commission.</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>It seems to me that so far as town tenants have grievances that might call with any urgency for action the grievances I have heard that seemed to me genuine were mostly ones arising out of the action of the ground landlord.  I do not feel any consideration for the ground landlord.  The house landlord has provided a dwelling, the ground landlord has probably done nothing, so I think the particular side where grievances are most apparent is the side where we might proceed with less caution.  We are really hearing as much talk about certain grievances against house landlords.  I believe that many of the people who urge action to be taken against house landlords and regard them as men who committed a sort of crime by being house landlords are simply people who are seizing on the analogy of the land legislation, and hope to get some sort of Bill passed which will reduce their demands quite regardless of any general consideration of the problem of town tenants and of the problem of sufficient dwellings for the people of the country.</P>
+    </Speaker>
+    <Col N="241" />
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>I am viewing this attempt to deal with the town tenants' problem from two points of view.  One is the intention of Deputy Redmond and those associated with him and the other is the intention of the Government.  The Minister for Justice, in his speech last night, like most counsels who have a bad case, devoted the greater portion of his speech to attacking counsel on the opposite side and not dealing with the merits of the Bill at all.  Great play was made of the statement Deputy Redmond made that when introducing the Bill he was acting on a pledge.  I see no objection to a man carrying out his pledge, and I see no reason why a man should not do something he believes in I take it for granted that Deputy Redmond made this pledge in something he believed in.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>I said I hoped so.</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>I pledge myself to no outside party of any kind.</P>
+    </Speaker>
+    <Speaker pid="EdwardDoyle" hpid="Mr. E. DOYLE Mr. E. DOYLE">
+      
+      <P>Only the Cobdenite Party.</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>Not the Cobdenite Party.  I fear the Bill itself will not settle the town tenants' problem.  I do not believe the Bill is a workable one, but I am faced with the problem that there are certain principles in the Bill.  If I do not support them I am faced with the problem of considering whether the Government are in earnest or not.  I have to take into account the circumstances of the case and of the problem and I have concluded that the Government are not genuine.  If they are genuine and if the President will say that the Commission which is being set up will report and that the Government will take legislative action on that report during the lifetime of this Dáil I am prepared to reconsider my position but I think it is not their intention to do so.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>It is a very safe offer.</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>I do not see anything safe in it.  We have it on the statement of the Minister for Justice that this Dáil is going to exist for five months more.</P>
+    </Speaker>
+    <Col N="242" />
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>I said &ldquo;at the outside.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>I may say that this system of setting up Commissions when any thorny question comes before the Government is getting very tiring.</P>
+    </Speaker>
+    <Speaker pid="ErnestBlythe" hpid="Mr. BLYTHE Mr. BLYTHE">
+      
+      <P>What about the Geddes Committee?</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>That probably will not come in before the general election.  I ask the Government what about the Tariff Commission.  We are asked to face up to our problems.  We are told that Deputies in the Opposition have no sense of responsibility. Why will the Government not face up to their problems?  They have not faced up to their problems in the Liquor Commission.  The Government have run away from the findings of the Liquor Commission.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General MULCAHY General MULCAHY">
+      
+      <P>I suppose the Deputy is quite satisfied that the Gaeltacht Commission will be dealt with.</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>Everybody is anxious to interrupt.  The case I am making is that findings of Commissions are not being dealt with, and it is not the intention that they should be.  I am not in agreement with the analogy that has been made between town tenants and land tenants.  It is not quite complete, but, whether it is or not, there are, undoubtedly, genuine disabilities under which town tenants are suffering, and which ought to be removed.  I think that the Government is showing no real intention to meet them.  I believe that the Commission that has been set up has simply been set up to carry the controversy over the General Election, and when Government candidates are asked at that election whether they are in favour of the Town Tenants Bill they can say that there is a Commission considering the question.  Similarly, when asked whether they are Protectionists or Free Traders, or half and half, they will point to the Tariff Commission.  Everything will be put on the Tariff Commission. The Government should face up to this problem, and if this Bill is not satisfactory and does not meet with their requirements, let them see that the findings of the Commission are <Col N="243" /> brought in in time to permit legislative action within the existence of this Parliament. If we get a promise of that kind I will not support the Bill, but if we do not I will support it.</P>
+    </Speaker>
+    <Speaker pid="DrThomasHennessy" hpid="Dr. HENNESSY Dr. HENNESSY">
+      
+      <P>I think it is unfortunate that this Bill has been introduced on the eve of a General Election.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Unfortunate for whom?</P>
+    </Speaker>
+    <Speaker pid="DrThomasHennessy" hpid="Dr. HENNESSY Dr. HENNESSY">
+      
+      <P>I think it is meant to be fortunate for those who introduced it.  I am one of those who have been threatened with political extinction but, so far as I am concerned, a threat like that does not help the Bill.  I could quite understand the action of Labour Deputies if the Bill were limited to getting better conditions for the working classes.  We know that the working classes, owing to inadequate payment for their work, and the uncertainty of employment, find great difficulty in paying their rent, but their position is such that the State must come to the rescue.  I think it is doing the working classes very great injury to mix up their side of the question with this Bill. I know that town tenants have grievances.</P>
+    </Speaker>
+    <P>I consider it a great grievance in the case of an owner of a house, who has built his house on lease from the ground landlord, that the ground landlord, possibly with malice aforethought, gave the lease so that he might be in the position when it expired to confiscate the house which that man built. That, certainly, is a grievance.  Such people are forced to take a reversionary lease and in my opinion all such matters should be inquired into, and I believe that a commission is necessary to find out the position of such leases.  If this Bill is passed, it will mean unlimited litigation, litigation, I fear, that will not pay for the little reduction which town tenants may get.  I am not going to say anything to lawyers, or to the proposer of this Bill, that there was any such object in introducing it. I know that even we in the medical profession, when advocating measures intended purely to prevent disease, are suspected.  It is no wonder, then, that <Col N="244" /> lawyers when introducing a Bill like this should be suspected.</P>
+    <Speaker pid="JamesCosgrave" hpid="Mr. J. COSGRAVE Mr. J. COSGRAVE">
+      
+      <P>No wonder after Doctor Kennedy's case.</P>
+    </Speaker>
+    <Speaker pid="DrThomasHennessy" hpid="Dr. HENNESSY Dr. HENNESSY">
+      
+      <P>Dr. Kennedy is a fashionable doctor.  Some people could get their cases dealt with at a cheaper rate, but as that would not be fashionable they must go to a more expensive man.  I would like to know what qualification Circuit or District Court Judges have for fixing the value of a fair rent. Under the old Land Commission a man was appointed because he had a sound knowledge of land values.  A District or Circuit Court Judge is not appointed because he knows the value of house property.  It is said that the object of the Bill is to give fixity of tenure, but town tenants have that fixity already under the Rent Restriction Act.  So long as they pay their rent they cannot be evicted.  For that reason the Rent Restriction Act may not be perfect, but at any rate, the fact that that measure is on the Statute Book disposes of any necessity&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>For six months.</P>
+    </Speaker>
+    <Speaker pid="DrThomasHennessy" hpid="Dr. HENNESSY Dr. HENNESSY">
+      
+      <P>I do not appreciate that point because I cannot understand Deputy Morrissey speaking for the class of tenant that would be affected by the expiration of the Rent Restriction Act in six months.  He is a very well to do person.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>I can understand it.</P>
+    </Speaker>
+    <Speaker pid="DrThomasHennessy" hpid="Dr. HENNESSY Dr. HENNESSY">
+      
+      <P>Deputy Gorey may be better informed, and he evidently is, than I am.  I am willing to give Deputy Morrissey credit for his intentions. There is one very subtle thing in the Bill about fixity of tenure. Fixity of tenure will destroy the right of an owner of a house to sell it.  The value which a town tenant puts on fixity of tenure is that when the owner of a house cannot sell in an open market the tenant can step in and buy it at his own price.  That is scarcely fair, especially when the owner bought it, possibly three years ago and has to come into a very restricted market owing to that section of the Bill dealing with fixity of tenure.  There is another section in the Bill which, to my mind, is very objectionable, namely, Section 9, providing that the owner <Col N="245" /> or ground landlord should pay ten per cent. towards the rates of the occupying tenant.  All ground landlords are not rich and in this country some of them are, in fact, very poor.  Representations have been made to me by a goodly number of those persons who receive ground or head rents.  Some of them have only a total income of £70 a year, yet they are asked to contribute ten per cent. towards a tenant who may be in receipt of £1,500 a year.  That, in my opinion, is ridiculous and, even for that reason alone, I cannot support the Bill.  The position of town tenants has been and, I am afraid with some success, compared to that of tenant farmers.  There is no analogy.  In the case of the tenant farmer in many instances those who went before him made his land and built his house and, if that was not so, the farmer purchased the land and house from the outgoing tenant at their ascertained value.  The town tenant never built his house.</P>
+    </Speaker>
+    <P>I have sympathy with the town tenants. I have full sympathy with the tenant who is suddenly thrown out because the ground lease has expired. But the case is different where a man builds a house and lets it for rent.  I think it is safe to say that the owners of these houses&mdash;call them house landlords, or what you like&mdash;have not found them to be a great investment. They are ready enough to sell them any day, and every day they are selling them, for some reason or another, and selling them, at present anyhow, at not very extravagant figures.  When the money is invested it may bring in as much as the tenant paid them in rent.  But these owners will tell you that, owing to all this agitation, owing to the uncertainty, they are more satisfied to take the money and invest it somewhere else.  The result has been that people who have sold their houses have, very often, invested the proceeds in English War Loan, and the money leaves the country.  I do not think that they are to blame for it.  I think it is what all of us would do if we were honest enough with ourselves.  I admit the town tenants have certain grievances <Col N="246" /> which are capable of adjustment by means of legislation, but I think there should be an agreed settlement between the town tenants and the town landlords.  I believe there are plenty of town landlords who have twenty or thirty or forty houses, and it would be quite easy to make some arrangement with them by which the occupying tenants would become the owners of the houses.  I believe that the State might guarantee the money that would be necessary, but it must, of course, be without any loss to the State.</P>
+    <P>But I see one great danger in this Bill.  It might be very good and it might pay a man to support this Bill now in view of the coming election, but I am afraid that that would have disastrous consequences for the nation, and the Government would be very wrong if they sacrificed the just interests of the house-owners simply for the votes that they would get at the election.</P>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>What about the just interests of the tenants?</P>
+    </Speaker>
+    <Speaker pid="DrThomasHennessy" hpid="Dr. HENNESSY Dr. HENNESSY">
+      
+      <P>I know the just interests of the tenants, and I would do everything to prevent them having to pay rack-rents, but I meet tenants every day, and I do not find that they are keen on this Bill, or on any other legislation.  The thing has been broadcasted and has been used as propaganda, but the grievances are not solid grievances.  We have a Rent Restrictions Act which has cut down the power of any house-owner to put on an unjust rent.  If you had a Bill of one clause put through, similar to that, providing, if the scarcity of houses persists, that if a landlord wanted, say, more than twenty per cent. or thirty per cent. on the standard rent he should get the consent of the courts to increase it, it would, I believe, meet the whole case.  I will support the setting up of the Commission to inquire into this business, and, having some knowledge of the personnel of that Commission, I have every confidence that it will do justice to all the interests concerned. I think we should forget the election, forget whether we win or lose votes, because if it once becomes an accepted fact that we become mere politicians and that our votes are up <Col N="247" /> for sale, it will undoubtedly ruin the credit of the country.</P>
+    </Speaker>
+    <Speaker pid="JohnLyons" hpid="Mr. LYONS Mr. LYONS">
+      
+      <P>Does the Deputy maintain that Deputy Redmond is doing this purely as an election stunt?</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="AN CEANN COMHAIRLE Michael Hayes">
+      
+      <P>A question not to be asked and not to be answered.</P>
+    </Speaker>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>I do not propose to contribute much to this debate, because I think that both sides of the question have been very amply explored.  Notwithstanding that Deputy Redmond sits next to me, I entirely disagree with his Bill.  I entirely disagree with the principle and with the performance sketched out in it.  The Bill proposes to deal with a very large question, and, according to the Deputy, with a very large grievance.  The very first thing I would have expected from a Deputy proposing such a Bill would be a statement as to what the grievances were. People will always have grievances, real or imaginary.  When we arrive at a stage when everybody is satisfied, when nobody has a grievance, we will have arrived at a perfect state of happiness and bliss.  It seems from some of the speeches that there is a grievance somewhere, but I have failed to find out exactly what it is.  If I were asked to say who has a grievance at present, I would be rather inclined to say that it is with the landlord.  I think in the discussions that have taken place over the Rent Restrictions Act, and in other discussions, it has been demonstrated very clearly that under the Rent Restrictions Act the owners of house property have suffered very considerable and very serious grievances. As a matter of fact the greatest grievances that have been demonstrated to this House are the grievances that have been caused by the tenants upon their sub-tenants.  If we are to suppose that there are grievances, I suggest that the matter is too serious to be dealt with by means of any Private Member's Bill. The Government have taken the view that it requires a commission to hear the different sides and to explore the various activities that apply to town tenants, and I think that that Commission has a very serious and a very arduous job before it.</P>
+    </Speaker>
+    <P>
+      <Col N="248" /> The main principle of the Bill, I think I am right in saying, is a deliberate attack on private property, and it requires far more justification at the hands of the proposer and far more recognition of responsibility on the part of a considerable section of the House before such legislation should be attempted. What would the position be under the Bill?  A man builds a house &mdash;and I think it is to the national advantage that such a man should build a house as an investment&mdash;and a tenant goes in with good will as between himself and his landlord, paying the economic rent that he is prepared to pay, and that the landlord is prepared to accept. Then, under the Bill, the tenant cajoles the landlord into letting him into the house and the landlord would immediately pass over all interest in his property, good, bad and indifferent.  Is that just, equitable or fair?</P>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Certainly not.</P>
+    </Speaker>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>The Bill proposes that the landlord cannot get possession of his property.  On the other hand the tenant could walk out of the house any time that it suited him, and the landlord would have no remedy whatever. Is that not rather a one-sided arrangement?  If the principles underlying the Bill are to be accepted by the house as fair and reasonable, or if the House is even going to show sufficient tolerance to them by giving the Bill a Second Reading, then I say that the housing problem is done with; and a man who would build a house with a view to letting it to a tenant would require a house himself, a house provided for lunatics, because a man would need to be a born lunatic who would do such a thing.  Reference has been made to the land agitation.  How did the Government approach that question?  It is admitted that the whole situation was brought about by land hunger, which made the legislation justifiable, if any legislation of the kind is justifiable at all&mdash;land hunger that does not exist in any other country in the world.  But when various governments approached that subject by various Acts of Parliament what did they do?  They said: &ldquo;Very well, we are going to compensate the <Col N="249" /> landlords,&rdquo; and the various Acts of Parliament, more or less just, at all events whatever was decided upon, were passed and full compensation paid to the landlord for the value of his property.  If you apply the same principle to houses that means that the Government here are going to be the sole landlord of houses in the country. In other words, that the Government are going to provide the money to purchase out the interests of the owners of property throughout the country. Are you prepared to pass that?  Are you prepared to face that situation which it is going to lay down&mdash;that the housing of the people is going to be a matter for the Government&mdash;wiping out private interference and private initiative altogether?  That may suit a great many people in the country but I do not think it is going to be adopted at the present time until we arrive at another stage of affairs and I think you have a great many Bills to pass before you arrive at that stage.</P>
+    </Speaker>
+    <P>I think a particular aspect of this Bill has been stressed in connection with the discussion that has taken place, and that is the political aspect of the Bill.  I am prepared to risk political extinction, as Deputy Dr. Hennessy says, rather than submit either by a silent vote or otherwise, to accept the principles of this Bill for electioneering or other purposes.  The town tenants are noisy, of course, and rightly so, if they feel they have a grievance.  They are more numerous than the landlords, and therefore have greater political significance.  But if the Dáil is going to take the view that because a section of the people is noisy or that another section is small, that the Dáil is going to do an injustice to the small number of people, there by undermining what we have always recognised up to the present, and which I hope this House will recognise up to the end of time, the rights of private property, then I think it will be a bad day for this country and for the people of this country.  If any political consideration is going to undermine the confidence that private people have in the carrying on of their business, whether that business is house property or any other business; if the confidence that people carrying on their business <Col N="250" /> will get fair play and justice is undermined, that will be bad for the country. Deputies could not go a better way about dealing a death-blow to the structure of the whole State than by voting for the Bill.</P>
+    <Speaker pid="PatrickMcKenna" hpid="Mr. McKENNA Mr. McKENNA">
+      
+      <P>After the long and able argument we have heard from Deputy Redmond on this Bill, it may appear unnecessary further to occupy the time of the Dáil.  But feeling as I do on this important question, I cannot reconcile myself to remain wholly silent upon it.  When I looked at Deputy Redmond introducing this Bill, my mind went back to the days when I saw his great father championing the cause of the town tenants of Ireland in an alien assembly.</P>
+      <P>I ask any Deputy in this House to lay his hand upon his breast and say that the Government Party, with the majority of six votes when he introduced a similar Bill on behalf of the tenants of Ireland two years ago, were justified in delaying this measure or rather in shelving it, as they have done?  A number of speeches have been delivered in the Dáil on this question, but like the grandfather of the Minister for Justice:</P>
+      <P>His hammer on the anvil comes ringing fast and free,</P>
+      <P>And he clinches all his arguments with one, two, three.</P>
+    </Speaker>
+    <P>I have been through this House to-day and yesterday and what did I see?  What did I see to-day?  I saw members of the Government Party, like rats leaving a sinking ship, seeking the first train from Dublin to go back home and thus escape the vote that is to be taken on this question to-night. Coming events cast their shadows before them.  We are told that the town tenants of Ireland count for nothing. There are 600,000 houses in the Saorstát.  Of these, 420,000 are agricultural. If we subtract that 420,000 from the 600,000 that leaves you the number of town tenants.  Someone said, &ldquo;God made the country and man made the town.&rdquo;  That is the argument put forward here.  Who built the farmers' houses?  They have security of tenure.  I represent two counties in this assembly with a total of 62,000 of <Col N="251" /> an electorate, and I say this that I saw numbers of houses built and rebuilt in these two counties.  The farmers built these houses and their sons went into the towns and built up the towns, and, like the Siamese Twins, the life of the country is the life of the towns.</P>
+    <P>The other day I got the circular that was circulated amongst Deputies&mdash;a circular from the Houseowners' Association. I am very sorry to see that a great personal friend of mine and a colleague in a movement with which I am associated, is Chairman of that Association&mdash;Senator Sir John Keane. I read that circular carefully and it reminded me of some of those publications in the days of Parnell, Davitt, John Redmond and the men who steamrolled the road on the path of progress &mdash;I refer to the publication from the Unionist Alliance.  He stated that this measure was a revolutionary measure. So it is.  But in the last fifty years great changes have taken place in the Irish nation and amongst other peoples as well.  He stated it was based on the Land Act of 1881 which was a revolutionary measure.  It is based on commonsense and justice to which the town tenants as well as the farmers are entitled. On the 18th September, 1880, Charles Stewart Parnell visited Ennis previous to the passing of the Land Act of 1881, on which Sir John Keane and his confreres based their objection to this Bill.</P>
+    <P>What did Parnell say in Ennis?  He said: &ldquo;Depend upon it that the measure of the Bill of next Session will be the measure of your energy and activity next winter.&rdquo;&ldquo;It will be,&rdquo; he said, &ldquo;the measure of your determination to keep a firm grip in your homesteads; it will be the measure of your determination not to pay unjust rents and not to bid for farms from which other men have been evicted unjustly.&rdquo;&ldquo;What are you to do with a man who bids for a farm from which another man has been evicted unjustly?&rdquo; he asked.  &ldquo;Shoot him,&rdquo; said some fellow.  &ldquo;No,&rdquo; Parnell said, &ldquo;I think I can point out a better, more Christian and more charitable way, and one that will give that lost man an opportunity of repenting.  If <Col N="252" /> you meet a man who bids for a farm from which another man has been evicted unjustly, shun him on the roadside, shun him in the streets of the town, and in the place of public worship, by leaving him alone, isolated from the rest of mankind like the leper of old.  These are the tactics you should adopt.&rdquo;  I say to the town tenants of Ireland:&mdash;Never mind the Commission; the Bill of next session or the next Parliament will depend on the energy and the activity of the town tenants.</P>
+    <P>I know from reports I have received from the towns that are in my constituency that no people will vote more determinedly against the Government than the town tenants.  Why?  Because they have been treated badly.  I did not intend to speak in this debate at all, and the reason I rose is that I can see a lot of what is going on.  Out of 153 Deputies, a few of us come here with the courage of our convictions.  I admire men who have the courage of their convictions to stand to attention when called upon by Parties.  What has happened?  They have disappeared. You will see that when the Vote is taken.  What is the result?  The result is that this question is still unsettled. A Commission!  There is an old saying in the country, &ldquo;Put a wisp in that fellow's mouth,&rdquo; if a fellow gets up. &ldquo;Stop that ass from braying.&rdquo;</P>
+    <P>That is something similar to the attitude adopted towards Deputies, especially private Deputies, in this House. I have been often in what is known generally as the first assembly of gentlemen in Europe in which there are between 600 and 700 members.  In that assembly a private member is always welcome when he brings in a Bill.  The Irish members, and there were only 103 of them, when they were in the House of Commons brought in many private Bills.  Deputy Redmond introduced a private Bill in that House.  His uncle Major Redmond, had the Corporation Oath removed by introducing a Bill there.  A Senator who was elected yesterday also has a Bill to his credit in that Assembly.  Mr. John Clancy also had a Bill passed.  What I do object to is the personal rancour and bitterness that has been directed from the Ministerial <Col N="253" /> Benches to a gentleman of the type of Deputy Redmond.  Whether the Executive Council like it or not, Deputy Redmond stands shoulders high over any of them with the Irish people, and especially town tenants.</P>
+    <P>This is not an election speech.  I never play to the gallery.  What I have to say, I say.  I have been for three years in this Assembly, which represents the people, and I stand behind it. But Commissions will not satisfy me. I have seen too many Commissions set up.  Commissions were appointed for this, that, and the other, without any material result.  I raised a very important question here with reference to the administration of old age pensions and a Commission was set up to inquire into it.  You have a Food Prices Commission which is like the running brook. I could continue ad infinitum.  A Commission will not satisfy the Irish people.  I have been actively engaged in public life for 20 years, and during that time the people who provided the sinews of war for the farmers in their fight for security of tenure and free sales were the people of the towns.  I am delighted to have this opportunity, as a representative of 62,000 electors in two counties, to speak and vote for the Bill introduced by Deputy Redmond, and to show that the men on our benches are not as they were styled, a class party, but that they stand for Ireland a Nation and her people without discrimination.</P>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>The case made against this Bill by Deputies Hewat and Dr. Hennessy, and even by the Minister, is the same case that was made in favour of the passing of the Rent Restriction Act&mdash;that landlords, slum-owners and house-owners should be given unlimited freedom to raise rent to any figure they choose, at the very time when the salaries and wages of the middle classes and the working classes are being reduced with the connivance and support of the same Government and Deputies.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>Did the Deputy speak of the Rent Restriction Act?</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>Rent Restriction and Mortgage Act.</P>
+    </Speaker>
+    <Col N="254" />
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>The Deputy is sure the word &ldquo;Restriction&rdquo; is in it.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>It is cancelling restrictions.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>We are not going to quibble about small points.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>It is quite a small point.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>Deputy Hewat said this Bill was an attack on private property. I was present during most of the debates on the Land Bill, and I cannot recollect Deputy Hewat making such a statement in regard to that measure. There is nothing more in this Bill than in the Land Bill.  I wonder if the Minister for Finance agreed to remove the tax on sugar in the next Budget and proposed to make up for that loss of revenue by increasing the income tax, would Deputy Hewat regard that as another attack on private property? Does he regard the 4/- in the £ income tax at present as an attack on private property?  Is that the reason why we hear so much from the people and the Press behind Deputy Hewat about the removal of income tax altogether?  I think his argument could be carried a very long way and applied to cases that Deputy Hewat might not agree with.  Deputy Dr. Hennessy spoke about promises, as if the Deputies who were going to vote in favour of the Bill are going to do so in the hope that they will gain some political advantage in the coming general election. I would be amazed to hear that Deputy Hennessy did not make any promises during the by-election which he fought and won.</P>
+    </Speaker>
+    <Speaker pid="DrThomasHennessy" hpid="Dr. HENNESSY Dr. HENNESSY">
+      
+      <P>In the by-election that I won the town tenants, because I would not give unlimited promises, asked the people to vote against me.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>That is not the point. I wonder did the Deputy make any promise to anybody about anything?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>He redeemed them all.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>I remember during the North City by-election I happened to be listening to a Deputy who was speaking at a Government Party meeting, after I and my colleagues had got <Col N="255" /> down off our platform.  That speaker stated that if their candidates were successful, the Government would be in a position to borrow&mdash;in fact I gathered from the speech they would get it for nothing&mdash;£20,000,000 and that the Irish people in America would be invited to come home to take up work here, because there was not enough Irishmen in the country to do the work.  That promise has not been fulfilled yet.  There is a possibility, in fact there is a certainty, that from what the President and the Minister for Finance are now promising in regard to a new loan, if they are returned next time, something like that will really happen.  Every Deputy in fighting his election, except those who fought it from their parlours, when they went on platforms, must have been asked to promise something or other.  Personally at two or three meetings I was questioned as to my attitude towards the town tenants' grievances and as to what I would do in case a Bill was brought forward. I made a promise and I am going to fulfil that promise by voting for the Bill, not so much because I made it and feel obliged to carry it out but because I believe in the principle of the Bill and the right of the town tenants to have their grievances remedied.</P>
+      <P>I would not have intervened in this debate at all were it not for some observations made by Deputy Major Cooper.  He stated in his speech that he would not agree that a Circuit Court judge would be a proper and fit person to fix a fair rent, as defined in sub-section (3), Section 6 of this Bill. The reason he gave for that remarkable statement was that the Circuit Court judge was not an experienced valuer.  Did the Deputy consider, or was he aware when he was making that statement, that Mr. Justice Wylie is not an experienced valuer of land?  I would say with all due respect to Mr. Justice Wylie that he knows much more about the value of a good hunting horse than he does about the value of the land upon which that horse grazes, but Mr. Justice Wylie has at his disposal, in fixing the price of land, a staff of assessors for valuing the land.</P>
+    </Speaker>
+    <Col N="256" />
+    <Speaker pid="BryanRiccoCooper" hpid="Major COOPER Major COOPER">
+      
+      <P>Will the Deputy point out where assessors are provided for in this Bill for the Circuit Court judge?</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>I take it that is the intention and that that will be the consequence of the passage of Section 6 sub-section (3) as it now stands, but certainly I point out the position which Mr. Justice Wylie occupies for the purpose of refuting the arguments and the objections which Deputy Cooper has raised to this particular sub-section of Section 6.  Deputy Cooper also stated that it was placing the tenant&mdash; apparently this part of his speech was addressed to the tenant&mdash;in an awkward position by endeavouring to bind him to his tenancy for a period.  He cited the case of a certain section of railwaymen who would be subject to removal from place to place.  I rather inferred from his statement that there would be an unfair obligation placed on these railwaymen who would be removed in the ordinary course of duty, and who would have to leave their houses before the expiration of the period of their tenancies.  We all know, and Deputy Cooper knows, that the demand for houses is so great everywhere at present that no tenant would be penalised in that way provided he were allowed to dispose of his tenancy to any suitable tenant.  In other words the sub-letting clause would enable him to get out of the tenancy.</P>
+    </Speaker>
+    <Speaker pid="BryanRiccoCooper" hpid="Major COOPER Major COOPER">
+      
+      <P>I know it, but Deputy Redmond does not know it. There was no mention of sale in Deputy Redmond's speech.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>I want to point out also to Deputy Cooper that the case is not a very serious one from the railwaymen's point of view.  There are 28,000 railwaymen in Ireland.  There are about 900 stationmasters who have in almost all cases houses.  The only other railwaymen who would be lucky enough to get houses would be those in a big shop like Inchicore where about 20 per cent. would be in a position to get houses.  It would not affect ten per cent. of the railwaymen in the country and to that extent the <Col N="257" /> rent is about the same as is charged by other landlords.</P>
+    </Speaker>
+    <Speaker pid="BryanRiccoCooper" hpid="Major COOPER Major COOPER">
+      
+      <P>Will the Deputy add to that bank clerks, post office officials, or the officials of a big corporation who are liable to be transferred? It is not only the railwaymen who are affected.  I took them as an instance. It covers all persons who are liable to be transferred under the conditions of their employment from place to place.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>I am not aware that the Minister for Posts and Telegraphs makes much provision for the housing of his staff.  I am aware that in the town of Dun Laoghaire, where a house is supposed to be provided for the Postmaster, he has to pay £65 a year for a house.  There is not much of a compliment in that.  In the case of most houses provided for railwaymen, the rent is about the same as is charged by other landlords.</P>
+    </Speaker>
+    <Speaker pid="BryanRiccoCooper" hpid="Major COOPER Major COOPER">
+      
+      <P>Deputy Morrissey's security of tenure!</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="AN CEANN COMHAIRLE Michael Hayes">
+      
+      <P>We cannot have a debate conducted on this principle.  That should be fairly obvious.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>Deputy Cooper referred to a question which most Deputies would like to see solved.  That is the question of the ridiculous position of houseowners or profiteering landlords. This applies also in Dun Laoghaire, in his own constituency.  In a certain terrace in Dun Laoghaire, where houses are purchased roughly at £1,000&mdash;five-storied houses&mdash;I know as a matter of fact, that a flat could not be got&mdash;there are five flats in one of these particular houses&mdash;less than a minimum of £120.  I do not know whether the Minister for Justice, who also represents this constituency, feels justified in allowing such a state of affairs to continue.  He must have some opinion on the matter if he has any knowledge that such things are going on.  I know that in the township of Dun Laoghaire and Dalkey&mdash;I am not sure whether Blackrock is affected&mdash;it would be impossible to get anything in the nature of a respectable flat under £100, and that in houses where probably the rent is only £80.</P>
+    </Speaker>
+    <Col N="258" />
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>The remedy, surely, is more houses.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>And in order to get more houses the landlords, the slum owners and the prospective houseowners must be allowed to impose any rent they like.  That is the view of the Minister, apparently; that is the only way more houses will be built.  That is the view, apparently, of the Ministry and the Government in regard to this measure.  That is the reason that they oppose this measure, and that was the justification they gave for the passage of the other measure.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>More houses will bring down rent.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>In regard to the grievances of the landlord, a great deal of stress has been laid on the fact, both in the discussion on the previous Town Tenants Bill and in the discussion on the Rent Restriction Bill, that houseowners and landlords did not get the same increase in their income from house property as other sections of the community got in the shape of increased wages and salaries during the war period.  This is not the time to come along to remedy that state of affairs.  You are coming along now at the very time that the Government in its own scheme&mdash;the Shannon scheme&mdash;is backing and encouraging employers all over the country to cut wages and salaries, and you are allowing rents to be raised on the very people whose salaries and wages are being reduced.</P>
+      <P>This is one of the main reasons why I object to the attitude of the Government and that forced me to vote against the other measure.  I will have the greatest possible pleasure in voting for this Bill for the reason that I gave a promise which I now have the opportunity of fulfilling.  If the Minister had agreed to the Bill that Deputy Redmond brought in in 1924 the same charge could not have been levelled against us that was levelled by Deputy Doctor Hennessy, namely, that we were going to vote for this measure in order to gain advantage from it at the coming General Election.  I am not doing it for that purpose.</P>
+    </Speaker>
+    <Col N="259" />
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>We listened for a considerable time yesterday, and again to-day, to a very able exposition of the clauses of this measure, beginning with the mover of the Second Reading and ending with the speech of Deputy Davin.  On the part of practically all those supporting this measure there was a delightful succession of attempts to deal with the principles involved in the measure and the clauses in it, and I must say a person who knew nothing of the problem of town tenants and landlords would be very much struck by listening to the elucidation which has taken place in connection with this matter for the last two days.  The problem which to my mind is the big problem in dealing with this matter is the problem of providing a sufficient number of dwellings in the country at reasonable rents.  It does not appear to me to be a problem which was attacked by the mover or by the supporters of this measure.</P>
+      <P>We have a considerable shortage of houses.  We have, in some cases, considerable competition for the acquisition of leaseholds or other interests, in business premises, and we have considerable experience in seeing how the market goes in respect of both of those two particular classes of houses, and I am rather at a loss to know what the main principles of the Bill are.  Various things are mentioned&mdash;fixity of tenure, fair rents, or rents to be fixed, and I think the term &ldquo;free sale,&rdquo; which was in the Land Act, is modified to the &ldquo;right of sale&rdquo; in this Bill.  I find on looking at some of the old newspaper files that Deputy Redmond complained, on the 22nd November, or he was reported in the Press of 22nd November as complaining, that this Bill had been postponed at my request for two months.  So far as I can make out, the Bill which he introduced did not see the light of day for two or three weeks after introduction, and was non-existent at the time when he complained that we would not consider it.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="AN CEANN COMHAIRLE Michael Hayes">
+      
+      <P>No. When the Bill was introduced a copy of it was in my possession.  Certain delay occurred owing to a point raised by us which could not be settled <Col N="260" /> at once on account of the illness of Deputy Redmond and a point I raised myself.  It was not Deputy Redmond's fault.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>The Bill was not issued to members of the Dáil until the middle of December and the Deputy was very anxious to have it considered a week after it was introduced.  Now, in this Bill, vested interests are interfered with, but without the opportunity of being heard.  What are vested interests? They are various and varied. Vested interests, as far as I can judge under this Bill, are represented, on the one hand, by the municipality of the City of Dublin, the Corporation of Drogheda, the Corporation of Kilkenny and many places throughout the country.  The city estate in Dublin brings in something like £28,000 a year.  From rents there is derived, I think, something like £20,000 a year. If Section 9 of this Act is passed into law what would happen is that revenues of the city estate would be reduced by £2,000 a year; that the money would not go into the various rates which are struck to meet the city expenditure, but, rather, into the pockets of those who happen to hold property through the city estate Deputy Redmond is one of those who, in 1909-10, I presume, was responsible for the passing of what was called the Lloyd George Budget which, in the case of land values, allows for the increase, which I think takes place in cities and surrounding districts in the value of land, to go into the pockets of the State, and if I ever heard any criticism in connection with ground rents it was that municipal or local authorities could not assess a rate upon a ground landlord which should go into the city rate fund.  In this case quite a different attitude appears to have been adopted and if it were to pass into law, generally speaking, the rates in Dublin would be up ½d. in the pound in respect only of the effect of it on the city estate.  In Drogheda where the rates are affected very considerably by the city estate I presume it is possible it might mean from 1d. to 6d. in the pound.  I expect, also, that each and every person who has ground rent would be entitled to look for a reduction <Col N="261" /> on his assessment of income tax, and so it would have the effect of reducing the revenue from income tax.</P>
+      <P>Now this Bill if passed would impose an extraordinary amount of work on the law courts.  Considerable expenditure would be incurred, additional judges might be required, additional staffs might be required.  While purporting to benefit the tenants the Bill might really result in quite the opposite being the case.  A fair rent has got to be fixed, and the basis that I can find for fixing a fair rent is a judge hearing all the circumstances of the case.  What are they?  Deputy Morrissey cited yesterday a case in Cappoquin, and I hope he will correct me if I am wrong in my interpretation of what he said.  I gathered that he instanced the case in which the grandfather of a lady, now living, built three houses in the town of Cappoquin; that there was a ground rent charged by the predecessor-in-title of Senator Sir John Keane; that the lease was for 66 years; that it had expired, and that the landlord's terms were an expenditure of £200 and an increase in the ground rent of 50 per cent.  Now, if these are the facts, £200 on three houses represents an expenditure of £66 13s. 4d. on each house, and 50 per cent. increase on the ground rent which was £6 makes that rent now £9.  This lease was granted 66 years ago, and £6 66 years ago was in my view worth more than £9 to-day.  If these be the circumstances of the case the judge would be entitled to consider, and it is on the cards that he might possibly think, that the rent might be increased more than 50 per cent.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>We are satisfied to take that risk if the President is.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>As long as we have the Bill before the General Election it is all right.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>I hope the President's mind is just as easy about the General Election as mine is.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Oh, I assure you it is.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>What we want to make clear is that the rent paid by the <Col N="262" /> tenant to the landlord should be the rent fixed by a court set up by the State.  Has the President considered, much as he tries to brush this case aside as if it were not of much importance, what right the ground landlord has to insist upon the tenant spending £200 upon a house that his immediate predecessor built?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>I am not passing judgment on the case.  I am merely citing what is on the other side.  I take it that the Deputy has urged what we will, for the moment, call the tenant's side of the question.  I am sure the Deputy realises that in this particular case it is not a tenant we are concerned with, but a middle landlord. I would like the Deputy to point out where a middle landlord is referred to in this Bill.  Can the Deputy point out how the middle landlord's case is going to be amended by this measure?</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>I do not want to be misrepresented by the President.  I think I ought to know what is in my own mind better than the President knows what I am thinking of.  I cited this case to show that all the confiscation was not on the town tenants' side. The President did not cite the case in full.  There is talk about confiscation, and we can prove that the houseowners are in a better position and are more anxious to confiscate property than the tenants are.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>I was very anxious to cite the Cappoquin case fully.  I paid particular attention to the Deputy yesterday when he mentioned this case.  If there are further particulars in connection with it&mdash;and I venture to say that the Deputy did not mention any further particulars yesterday&mdash;I should like to have them. This is, to my mind, a very serious matter, and it ought to be treated to close consideration irrespective of the imminence of the general election; like every other question, it ought to be treated to close consideration.  There have been many allegations made here about bad faith on the part of the Government.  I may say that the Government has not broken faith in connection <Col N="263" /> with any promise it made since it came into existence, and the Government does not intend to break faith, and nobody knows it better than the electors.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>Except Deputies.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>You have broken faith with the town tenants on this question, anyhow.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>We have not broken faith with them.  We introduced two Acts, one in 1923&mdash;and we went to the election afterwards and won&mdash;and another this year.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Which will wipe out the other one.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>It did not wipe it out; it modified it.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Was it not stated by the Minister for Justice, on behalf of the Executive Council, when introducing the Rent Restriction Bill in 1926, that the Government were satisfied the time had come when rent control in this country should cease and they were providing for the gradual decontrol of rents?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>That is very different to the other statements the Deputy made.  If the Deputy would like to make his case clearer, I am quite willing to give way.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Make your own case now.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>I see the Deputy has departed from the Cappoquin case.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>These are the old tactics of the President.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>I want to get at the grievances.  I have listened carefully to half-a-dozen or more speeches. I waited for a particular case of abuse, a particular case of hardship or a particular example of the infirmity of the law as it exists.  If there are such, we are entitled to get them.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Does the President allege that the town tenants have no grievances?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Certainly not.</P>
+    </Speaker>
+    <Col N="264" />
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>If the President thinks there is no infirmity in the law as it exists, why are the terms of reference given to the Commission so worded?</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="AN CEANN COMHAIRLE Michael Hayes">
+      
+      <P>Even if the President said that the town tenants have no grievances, he is entitled to be allowed to mention that.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>I would like to mention that I never did say that.  I admit that they have grievances.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>I am very glad to hear the President say that.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>But their spokesmen here in the Dáil are very poor in their explanations of the grievances.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>That is a matter of opinion.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>The Cappoquin case is exploded.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Oh, no; it is not exploded.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>It is exploded on two grounds.  I am waiting for further information in regard to the Cappoquin case which will enable me to show the weakness of the Deputy's argument when he was mentioning it. We have definitely exploded the Cappoquin case.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>You have, apparently, to your own satisfaction.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>The Deputy's case in regard to the houses at Cappoquin was that the landlord asked that £200 should be expended in repairs. That would amount to £66 13s. 4d. per house and that sum was asked by the landlord to be expended on three houses which were built sixty-six years ago.  I happen to have had some experience in connection with the expenditure of money on houses, new and old.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>By whom built?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>I have had experience of houses, some built many years ago and others more recently, and I submit that the expenditure of £66 13s. 4d. on any house is a negligible sum.</P>
+    </Speaker>
+    <Col N="265" />
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>I suppose it would not matter by whom they were built?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>It does not matter by whom they were built.  If the Deputy will go further and divide the amount involved over 66 years he will find that it amounts to £1 per annum for the purpose of carrying out serious structural repairs or alterations, and I submit that that is a negligible sum.  If we were to go still further and take the capital value of it, it would amount &mdash;not on the Deputy Redmond basis of £12 per annum, but on the correct sum, 8 per cent.&mdash;to £16 per annum.  I am putting it for the consideration of Deputies that the fixing of a fair rent in that case would, in the circumstances as described by the Deputy, be against the tenant.</P>
+      <P>I would like to say in that connection that Senator Sir John Keane is not a political friend of mine.  If my information is correct, he occupies the same position as the late Deputy Figgis did in being the Dublin correspondent of the &ldquo;Sunday Times,&rdquo; and anybody who reads his views on the Government there will realise that he is the political bed-fellow of the Deputy in his attacks upon the Government.  One of the infirmities of this case is that while all the rapacity of a landlord was pictured before our minds, if the case were brought to court, on the evidence that has been set out, the court would most probably fix a higher rent than what the Deputy complains of.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>Does that apply in the case of the Land Act of 1923, with the Judicial Commissioner?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>The Deputy has slightly anticipated me.  I was going to say in connection with the Land Act of 1881 that was what happened in quite a number of cases.  The Land Act of 1881 is the parent of this Bill. This Bill is, apparently, taken almost body and soul from that measure, and rather badly at that, if the Deputy will not mind me mentioning it.</P>
+    </Speaker>
+    <P>I explained a few moments ago what would happen if a case were taken into court.  I will go further, and say that the town tenants, as a class, have not got the wealth, or are not reputed to <Col N="266" /> be as wealthy, as the landlords, and when one goes to court the balance is always, as in war, with the big battalions. The heavier purse has the better chance.</P>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>That is a nice comment on our judiciary.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Not at all.  It is not the judiciary, but rather the persons one can employ in order to deal with the case.  The Deputy knows that if he were taking an action himself the question of getting the best professional advice he could would be his first consideration.  The Deputy does not deny that.  I would like to know if the Deputy maintains that this particular Bill is not actually loaded against the poor tenant?</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>The President has asked me if I think that this Bill is loaded against the tenant, especially in regard to appealing to a judicial tribunal.  I say that if this Bill was passed the town tenant of the future would have as good a chance as the agricultural tenant had in the past in the tribunal set up by the Land Act of 1881.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>The land tenant in 1881 had rather a useful organisation behind him.  The town tenants may have perhaps a greater number of organisations, but I hesitate to say that any of them have the punch or the purse or the ability that there was behind the land organisation.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>They will fight their cases all right if you give them the courts.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>And give them the money to enter it.  We have got several cases of the poor tenant paying £20 a year.  You offer him courts with fees for solicitors and barristers and the possibility of his rent being increased. I am sure that in cases like that there will be a great march towards the courts.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I desire to ask the President one question.  Have the tenants taken advantage of the Rent Restriction Act?</P>
+    </Speaker>
+    <Col N="267" />
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>As far as I know they have.  It is alleged that some have not, and that they have settled rather than incur the court expenses.  I do not know whether the Deputy's information is contrary to that: that some tenants have settled without going into court at a higher price than they could have settled if they had gone to court.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>That is not my experience.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>But the Deputy will not deny that cases were settled out of court?</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I certainly will not deny it.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>And settled against the interest of the tenant?</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I certainly will not deny that cases were settled out of court, but I will deny this, that the tenant had not every opportunity to go to court under the Rent Restriction Act just as land tenants had under the Land Act; and that they did go to court and made use of the court.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Not all.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I am not saying all.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Certainly not, you cannot say all.  The Deputy knows perfectly well that this is an expensive Bill for the tenant.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Not any more expensive than the Rent Restriction Act.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>And that if there was not an organization behind them that the courts, the Circuit Court in the first instance, and the High Court in the second instance, are beyond the means of the ordinary town tenant.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Will the President introduce an amendment providing the tenants with a cheaper method?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>We are putting up a Commission to ascertain what infirmities or anomalies there are that might be corrected.</P>
+    </Speaker>
+    <Col N="268" />
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Why did you not do it during the last two years?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>For many reasons.  We had many things to do during the last two years.  We would like to have been able to do many more things than we have done and I expect that when we come back, as I have no doubt we will, we will attend to every one of them.  There was an express provision in the Town Tenants Act of 1906, and also in the Rent Restriction Act against contracting out of provisions.  Now a landlord and tenant, if this Bill passes into law, may contract out notwithstanding what the Deputy said yesterday evening. If the tenant is a single week in arrears the landlord may get possession or become entitled to possession and he can refuse to re-let.  One breach and out goes the tenant, and the house may not be let except the incoming tenant will contract out of the Act.  There is one infirmity in the Bill.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>That can be easily remedied in Committee.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Of course.  The Deputy hastily wrote out a Town Tenants Bill, or got somebody to do it, and now everything that is wrong with that we are asked to settle in Committee.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>There were a great many Bills introduced by the Government that had to be altered in Committee.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Certainly, and some were withdrawn, but during our period we have produced a considerable number.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Did they get a Second Reading?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Yes, quite a number. I think one was withdrawn and did not even get a Second Reading. The Minister for Defence asked, I think, to have one Bill withdrawn and produced another Bill.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>After two and a half years.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>The description of ground rent under this Act is very <Col N="269" /> indeterminate.  The Deputy made no explanation of what it meant, and none of those who spoke in favour of the measure enlightened us further as to what it meant.  Deputy Davin smiles as if he had in mind some rapacious landlords.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>I enjoy listening to you.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Then there is the owner in fee simple.  He lets to another and the thing goes up.  We have landlords in Dublin five and six deep. Anyone who has had experience in the matter of the acquisition of land for the purpose of the Housing Acts knows to what extent there are interests in holdings.  Anyone who has had experience knows what enormous costs are incurred in proving title.  In one case which came under my notice the site value was fixed at £9 17s. 6d.  The costs of proving title were £59.  I was just thinking of that little experience in connection with this Bill: that if a tenant had spent £50 or £60 or £70 in getting his rent reduced one shilling a week whether it was a good bargain for him.  As regards the ten per cent., where does it begin and where does it end?  Does it begin with the ground rent, which is anything from £2 up to £20, and does it go from layer to layer up to the very top?  A tenant may get a fair rent fixed under this Bill.  He may then let the house in furnished lodgings at any price and make a considerable profit at the expense of the landlord.  Under this Bill, if it became law, he is entitled to sub-let once the fair rent is fixed.  He is in for a statutory term.  Agricultural tenants were not allowed to sub-let without consent. The Increase of Rent Act or, rather, the Rent Restrictions Act&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>You were right the first time.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>No, I have the right to speak a second time.  The Rent Restrictions Act is the correct title. There is no Act on our books called the Increase of Rent Act.  The Rent Restrictions Act aimed at the stopping of bonuses and succeeded in doing it. Where is the provision in this Act to do it?  The Deputy mentioned yesterday evening that there was a provision, <Col N="270" /> but I have failed to find it.  He said there would be no such competition &ldquo;as was mentioned on the last occasion for key money.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Perhaps I could explain that.  The only tenant that would have the right to sell his interest would be the tenant of business premises or partly business premises. That is in Section 4.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>There is nothing to prevent a landlord demanding key money and getting it under this Act&mdash; nothing whatever.  If the Deputy has a provision in the Bill to prevent it, I would like to see where it is.  The position on the passing of this Bill is that a landlord could agree with an in-coming tenant for a bonus, fine, key money, or any other consideration, in respect of a vacant house.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I would be willing to consider that in Committee.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>We have a great many things to consider in Committee.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>This is not Committee.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>It is the principles of this measure we are considering.  If we give our consent to them we may or may not get anything in Committee. This Bill has not been brought into relation with the Rent Restrictions Act. The position is bound to be obscure and will lead to costly litigation.  A great deal of play was made about fixity of tenure.  If a man gets fixity of tenure under this Bill and has a house in Merrion Square he can turn it into a shop.  It was not let to him for that purpose.  He can go further and use it for bad purposes and the landlord cannot turn him out.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I would like to correct the President in that respect. Under Section 1 it is provided that the tenant shall not, without the consent of the landlord in writing, sub-divide his holding or alter the character of his holding, so that I think the President is not quite accurate when he states that if a house is let in Merrion Square the tenant could turn it into a shop.</P>
+    </Speaker>
+    <Col N="271" />
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>He may not alter the character of the holding in the slightest, and still it can be turned into a shop.  It could be used for bad purposes, and as there is fixity of tenure the landlord could not put out the tenant.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>Can he do it now?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>He can, because you are giving him something that he has not got.  He could make it into a hospital for infectious diseases if he wished.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>He cannot alter the character of the holding.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Once he gets fixity of tenure, the character of the holding has not changed by structural alterations.  We will see now what the cost likely to be incurred would be in connection with these.  A tenant having a fair rent fixed can become a landlord under this Bill.  What is the position of the middleman?  Deputy Morrissey mentioned one middleman, or middle woman, as the case might be. There are many interests in some holdings in a place like the city of Dublin, and I suppose in Cork and other places. You may have the position where a fair rent would be fixed less than what one of the intermediate middlemen would be paying.  The last middleman might be getting £200 a year, or the second last, and the person in possession might have a fair rent fixed and have it arranged at £160.  That is an immediate loss of £40.  What is the way out?  It is for the man paying the £200 to surrender his lease and out goes the tenant at once.  It seems to me that the position of the tenant is much worse than before the Bill was brought in to provide for an improvement of the position of tenants &ldquo;in certain houses, shops and other buildings.&rdquo;</P>
+    </Speaker>
+    <P>I have dealt, I hope, with practically all phases of the measure.  I come now to comment slightly on the manner in which this Bill has been dealt with here.  I wondered for a considerable time whether it was the forthcoming election we had in our minds in this particular measure.  Just before passing on, Section 8 of this Bill makes <Col N="272" /> provision for landlords being liable for rates on houses up to £5 valuation.  The Local Government Department has had under consideration for a considerable time and, in fact, a Bill may be introduced shortly, fixing the valuation for which landlords will be responsible at £6 while making other changes in connection with that particular matter. I am not satisfied at all that this measure deals in a fair and satisfactory way with the present position of tenant and landlord.  I am not satisfied that the passing of this measure would be any relief to tenants.  It is a hastily conceived measure badly drafted, and amendments, even to suit Deputy Morrissey or Deputy Davin, would be very considerable, and would fail to achieve the purpose which is portrayed.  I submit, in all decency and honesty, that matters like this are too serious to be made the sport of political play, or political playacting, and that we have set up a Commission, in good faith, of persons well qualified to consider the question.</P>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>After waiting two years.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>There are many other Commissions that have to be brought into being and that will have to wait still longer.  If the Deputy would occasionally allow political considerations to escape from him, and not be thinking of what people in his constituency might say about him, and exercised his own commonsense on questions, he would bring a much saner and able judgment to bear on the questions he has to decide.</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>The setting up of the Commission now is a political consideration.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Certainly not. We have had the setting up of this Commission under consideration for two years.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>How many Commissions have been set up by the Government since they assumed office, and how many reports or recommendations of these Commissions have been put into operation?</P>
+    </Speaker>
+    <Col N="273" />
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>I will accept a statement from the Deputy as to how many have not been put into operation.</P>
+    </Speaker>
+    <Speaker pid="WilliamDavin" hpid="Mr. DAVIN Mr. DAVIN">
+      
+      <P>The report of the Canal Commission, which was one of the first, has been ignored and not been put into operation, and the recommendations of the Old Age Pensions Committee are another instance.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>If the Deputy would make a list of all these before the General Election he will have the opportunity of explaining to the people what a different administration there would be if he were over here on these Benches.  The complaint is that this Commission has been set up too late. It is better late than never.  It is a better attempt to deal with the town tenants problem than this Bill&mdash;much better.  If Deputy Heffernan had four years to go instead of only six months, he would back the Commission for all he would be worth, but the six months period is too short.  It is much better to tell the people straight what you are satisfied you can do than to say &ldquo;I always want to do the popular thing.&rdquo;  We have not tried to do that. We have always tried to do the right thing.  If a Bill was brought in to make it illegal to collect land annuities it would probably be received in certain parts of the country with considerable eclat.</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>I cannot allow this to pass.  I do not like the President to suggest that I always like to do the popular thing.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>Say you never do the popular thing.</P>
+    </Speaker>
+    <Speaker pid="MichaelRichardHeffer" hpid="Mr. HEFFERNAN Mr. HEFFERNAN">
+      
+      <P>Sometimes, but not always.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>During the few years I happened to be a member of the Corporation, the administration of the Small Dwellings Acquisition Act was one of the most successful of all the Acts administered by that body and the one which cost the municipality least. There was a real genuine effort made on the part of those who borrowed money under that Act to meet their obligations, and the losses in connection with its administration were negligible. <Col N="274" /> It is not so easily worked now owing to the increase in the cost of money.  At that time it was possible to lend £300 on a house that cost £400 at 4 per cent., and the actual outgoings on the part of anybody partaking of the provisions of that Act were the same as the rent that would be charged on a house of that kind.  Our efforts during the last three or four years in connection with any houses that were built were to let those who could afford to buy the houses do so.  Even with all the assistance we have given to housing the number of houses built under the various Acts that have been passed is something like 13,000 or 14,000. It is a considerable number, but all forces had to be brought into play in order to do it.  I must admit here plainly and distinctly that in connection with this Bill there was present in the minds of the mover and supporters of it only one side of the case.  I think I have shown some of the infirmities in connection with the consideration even of that side of the case.</P>
+      <P>There is another side and there is no voice here to represent that side.  I am not in the position of a landlord.  I know very few of them but I know they are needed to deal with the extraordinary shortage of houses.  I know it is not safe or wise to make any attempts to limit them.  I know they would be limited if a measure such as this were passed without bringing them into conference or consideration.  They ought to be allowed to make their case if they have a case to make.  It is a serious step to decide this matter from the evidence on one side.  I must admit I have been appalled with the small number of cases in connection with the relations of landlord and tenant that have been mentioned here.  There are many cases one hears of in which the landlord is quite a good citizen and in which his efforts are necessary.  I mean the landlord of houses let to working-class people.  His efforts are required to provide more houses.</P>
+    </Speaker>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>He gets little recompense for it.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Perhaps he makes a decent sum of money, but from what I have learned I may say it is by no <Col N="275" /> means as remunerative an investment as it was.  In one particular case in Dublin there is a company which has been at this work for something like 40 years.  The profits that are made are not colossal.  If you look at quotations on the Stock Exchange you will find that their shares are quoted at £7, whereas many people paid £12 for those shares.  That company has the reputation of being well run and I am sorry that it stopped its operations.  It is alleged that it stopped some of its operations by reason of the objection of tenants to pay any increase in rent during the time when certain increases of rent were permitted.  I think very good work could be done if bodies such as that, which were at one time seriously interested in housing, could be brought back to the work.  I believe the passing of the Second Reading of this Bill would stop activities of that sort definitely, and that if we were to find a solution it should be found through a Commission, and if not from this Commission let whatever Government is here after us set up one to find it out.  The Government set up this Commission in good faith.  It got a Commission to serve from which, I believe, we shall have a good report.  Personally, I would be satisfied to adopt that report in legislation when it is furnished.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>Frequently, lately, I have read, and heard more frequently still, of the number of young men who originally started life with one view but have turned their course and are going into the law.  I have not heard that yet of the President, but if that had been his decision I could imagine him achieving particular success in a particular sphere of action in the law courts.  There are lawyers who shine exceedingly in trying to appeal to a jury by getting hold of all the little details of a case, magnifying them and trying to convince the jury that here is the issue, and to leave out the real matter in question.  That may succeed, and as soon as the lawyer has sat down the jury's minds are utterly befogged. They are convinced that the small details matter.  The judge then brings back realities to the mind of the jury, <Col N="276" /> and, unfortunately for the lawyer who has tried to confuse the issue, the judge brings the real facts before the jury.  I think in this case the country will say that all the President's feelings about details do not affect the issue in question.  The issue in question here, as far as I understand it, is the same issue as was raised in the previous Bill.  Is this House prepared to say that the tenants of houses and business houses have a right to security of tenure as long as they pay the agreed rental and have protection against rack-renting by landlords?</P>
+      <P>There are several questions raised by certain provisions of this Bill, but those are the two main principles involved. The House has been persuaded to declare itself against those principles once, and now it is asked to declare itself in favour of them, to give them a second chance.  The Second Reading of a Bill is intended to give the House an opportunity of saying whether they are in favour of the general principles of Bills brought to the House.  The Minister for Justice has, quite legitimately, and very reasonably, told the country that it is the country that decides what shall be the course of legislation, and it appoints the Dáil to carry out its wishes in that matter.</P>
+    </Speaker>
+    <P>The Dáil is a representative body. Here is a question of principle affecting security of tenure and protection against rack rents.  Is this House prepared to say that it believes it is necessary for the good government of this country that house tenants and business-premises tenants shall be protected in this respect?  If the House says &ldquo;Yes,&rdquo; then your Commission can go to work to find how best to apply those principles with the least harm to the country and with the greatest amount of practical value, but give the Commission the will of this Chamber as to the main principles. There has been a good deal of talk about setting up the Commission.  I am asking Deputies on all sides of the House whether they realise that the assumption in setting up this Commission is that the whole question in doubt is whether there are any grievances <Col N="277" /> in connection with town tenants. Do Deputies say that they are satisfied that there are no grievances or that they have any doubts on the question?</P>
+    <P>To my knowledge for twenty-five years at least questions of town tenants and their grievances have been discussed. People talk about noisy agitations. I do not think that they have been very noisy.  I think many agitations have been badly conducted, but the grievances are undoubtedly there. The President asks the Dáil to bring forward, for his edification, instances, as though there were not in the mind of every Deputy many grievances, and as though there was any necessity to bring forward detailed evidence regarding grievances and anomalies.</P>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>The one mentioned was very weak.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>The President's method of judgment, his standard of equity, is at fault.  A case was brought forward in connection with three houses which were built by the grandfather of the present occupant.  A lease of sixty years had expired, and the owner of the ground, who had legal rights over the house, when the lease fell in demanded an increase of rentals and endeavoured to impose on the tenant an obligation to spend a certain sum of money before he would renew the lease.  The President says that that is very reasonable.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>No.  I said if that went to court, only on the facts as outlined by Deputy Morrissey, it is possible that under all the circumstances, as mentioned in the Bill, the sum fixed for the fair rent might be more.  I did not express any opinion on it.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>The President believes that there is a risk that the court might take into account the present market value and the local demand for that particular house in fixing the value.  There is the grievance. The law is that the landlord may use his legal authority to screw out of that tenant, when renewing the lease, whatever the can obtain and take advantage of that tenant's business ability, the local circumstances, the <Col N="278" /> fact that he has established himself in business in that house, and that he will be reluctant to leave those premises.  Therefore, the landlord exploits that value to raise the rentals. There is a sentimental value attached to a house in which a man lives and brings up his family.  The President supports the landlord, and Deputy Hewat applauds him and says that the landlord is entitled to turn into money value the sentimental value attached to such house.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Would the Deputy say where sentiment is taken into account in fixing the value?</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>The President supports the proposition, and Deputy Hewat applauds it, that the law should be altered to enable a landlord to turn into cash the sentiment which each family has for its own home.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Certainly not. The one tenant, apparently, is living in three houses.</P>
+    </Speaker>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>Which were built by his grandfather.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>I do not think it is fair for the President or anybody else to assume that these are three separate dwelling houses, occupied by three families.  I have not the details.  Two of the houses may be business premises and, as a matter of fact, that, I think, is the position.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>I want to know whether Deputy Morrissey's statement is correct, that they are three dwelling-houses.</P>
+    </Speaker>
+    <Speaker pid="DanielMorrissey" hpid="Mr. MORRISSEY Mr. MORRISSEY">
+      
+      <P>What has that got to do with the Bill?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>The Deputy mentioned the case as a grievance and I wanted to know where it was.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>The terms of reference to the Commission have been mentioned, and a phrase or two from these terms is worth quoting to a House that knows the grievances of town tenants, and, time after time, Deputies have been asked for support by town tenants with a view to removing their grievances.  This Commission is &ldquo;to <Col N="279" /> ascertain what hardships or anomalies, if any, arise under the law.&rdquo;  Deputies are asked by the Minister to withhold judgment as to whether there are hardships. Ministers say: &ldquo;We do not know.  There may be.  The landlords may have hardships.  The tenants may have hardships.  We do not know.  We will set up a commission to inquire and then we will consider what kind of legislation ought to be introduced.&rdquo;  I am saying to the Dail: &ldquo;Here is a proposition. There are, in fact, grievances of town tenants, whether householders or holders of business premises, and we require that legislation should be enacted which will give security of tenure to town tenants as long as they pay the agreed rental and observe the terms of letting, and they shall be protected against rack-renting.  Give adhesion to these principles and then consider how they can best be applied.&rdquo;  If Deputies are voting against the Second Reading of the Bill they are voting against these two principles.  They have already voted against the principles because of the pleadings of Ministers. Again I say, the opportunity is offered and, as has been pointed out by Deputy O'Connell, they need not fear any criticism of Party disloyalty, because the President has assured us that there is perfect freedom of action in respect of his Party as there is in respect of our Party.  I invite, publicly, every Deputy on our benches, if he wishes, to vote against the Second Reading.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>How many of them believe in it?</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>I ask the President to invite his Party, if they think the principles embodied in this Bill are right, to vote for the Second Reading. Bear in mind, in view of that assurance to the Dáil by the President, you can not hide behind the contention that you are bound by Party discipline.  You will be judged by your own actions and you will deserve to be condemned. It seems to me that the arguments that have been brought forward in opposition to the principles that I have put forth as the principles of this Bill are the arguments, differently stated, a little softened, a little involved, of Deputy <Col N="280" /> Hewat&mdash;the arguments that the owner of the house is entitled to whatever he can consider the market value of that house to be.</P>
+      <P>If it is profitable for the owner of the house to get rid of one tenant and extract a higher rent from another, then it is perfectly justifiable, perfectly legal, and the right should be continued to the landlord, to evict one and take a rack-rent out of another. That is the proposition, clearly stated by Deputy Hewat, stated, not so clearly but undoubtedly with equal effect, by the President and the Minister for Justice. That is the issue, in my opinion, and I think that when reference is made to the effect of the Increase of Rent and Mortgage Interest (Restriction) Act it might be well to remember what the purpose of that Act was.  If Deputy Hennessy had been thoroughly acquainted with the effect of that Act I think he would have had a different story to tell here to-day.  The purpose of that Act was to bring into disuse any legislation restricting rentals on house property, and the position that Deputy Hewat looks forward to will, in fact, by the operation of that Act, introduced by the Government and passed by a majority of the House, become effective in 1929.  Landlords will then be able to extract the last halfpenny out of any tenant, so far as the law goes.  One effect of this Bill undoubtedly would be to make permanent the intentions of those Acts which have restricted the powers of landlords to screw rents out of their tenants in a time of shortage.</P>
+    </Speaker>
+    <P>It is not true to say, as was suggested by Deputy Cooper, Deputy Hewat and others, by inference, that houses are identical in fact with every other marketable commodity.  They are not. They may be increasable, but it takes a considerable time to increase the number of houses.  Articles of ordinary commerce are, in the main, producible and are consumed within a very short period, but a house is something that is semi-permanent.  There is attachment to a house; personal qualities enter into the occupation of a house.  A house becomes part of a family heritage.  It is suggested that there is no difference between a house in which a family has <Col N="281" /> grown up and where the personal touch is clearly discernable, that it is the same as a watch or pair of boots, or a suit of clothes.</P>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>Does the Deputy consider that there is any obligation on a person to provide houses for sentimental reasons?</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>No, I do not consider that there is any obligation, but I consider that when a person has thought it a good investment at any stated period to put his money into house property, believing that he can obtain a certain rate of interest on his investment in that house property at the time, if he is secured by a fair rent court, by the law or by any other means in that rental, that he is well served in having a security and that he should not have the right to take advantage of the tenant's necessity to screw out a rent&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>Will the tenant give the landlord a guarantee that he will continue in occupation?</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>The tenant under this Bill would bind himself to pay a rental that is agreed upon or that may be fixed by the court.</P>
+    </Speaker>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>And he could walk out to-morrow?</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>A rent that is agreed upon or fixed by the court, according to the statutory term of his tenancy.</P>
+    </Speaker>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>What is the term?</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>That is a matter of agreement.</P>
+    </Speaker>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>The law at present observes that, because if a man takes a house for a period of years he will be a tenant during the period of his lease.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>The issue is clearly knit.  The issue is whether Deputies are going, with Deputy Hewat, to say that the owner of a house or the owner of a business premises, when the lease, the term of agreement, has expired, is entitled to take advantage of the necessity or of the business needs of the tenant, or of the fact that that tenant <Col N="282" /> will be bound to pay an increase if he wants to retain his business connection, or whether we are to consider that the tenant, having agreed to pay a certain rental, will continue to pay that rental and so long as he pays that rental will be secured in his tenancy, or, if there is any disagreement as to what is a fair rental, that he shall have the right to go to a tribunal which is impartial as between the two parties.  That is the issue, and if Deputies are in favour of giving that security to tenants, whether as to tenancy or as to rentals, they will at least vote for the principles that are embodied in this Bill. If they are against the tenant in these matters, if they are for Deputy Hewat and the President and the landlords, they will do as they did before and vote against the Second Reading, and they are not in favour of the principles of fair rentals and security of tenure.</P>
+    </Speaker>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>I wonder if Deputy Johnson would carry his argument beyond the tenants of houses, into all commercial agreements of every kind, and tell us what the difference is?</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>When the next Bill comes forward I will.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I do not desire to detain the House at any very great length, especially after Deputy Johnson's speech.  He has, to my mind, put very clearly before the House what the real issue is which they will be called on to decide in the Division Lobbies. I never proposed this Bill, as some Deputies would seem to imagine, to be the final and the complete settlement of all the grievances of tenants in towns in Ireland.  Such a proposition, coming from anyone, even from the head of a Government, much more from a private Deputy, would be nothing short of colossal egotism, in my opinion.  I was distinctly amused by the suggestion which has come from some quarters, notably from Deputy Gorey, that because this Bill did not purport fully and finally to settle the question of the town tenants it should, therefore, not be considered in Committee.  If that had been the <Col N="283" /> attitude, may I say with respect to him, adopted by the leaders of the land movement in days gone by, what would have happened?  Supposing that Mr. Parnell and others had at that time taken up the attitude that because the Land Bill of 1881 did not go as far as they thought was right and was not what they considered a final, full and satisfactory settlement of the land question, it should not be considered even upon Second Reading and the Second Reading allowed to pass, I think that the farmers of Ireland would not have progressed very far since that time.</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>On a point of explanation&mdash;will the Deputy say if a Commission were offered by the British Government at the time to treat the whole matter fully and fairly, not to tinker with the subject, but to deal with the question as a whole?  In 1881, or at any other period, was a Commission offered by any Government to deal with the whole question?</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I cannot answer that question&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>The Deputy knows perfectly well that there was no such Commission offered.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I cannot go back to 1881.  What I will surmise would have happened is this&mdash; that if Parnell and his colleagues had been offered a Commission, and if the terms of reference of that Commission had stated that the principles which they sought to establish, namely, fixity of tenure and fair rent, were admitted and agreed upon, I do believe that Parnell and his colleagues would have accepted that Commission and would have been glad to receive the offer of that Commission.  But this is an entirely different state of affairs.  The President, in his very amusing and lengthy speech, dealing, as he usually does, in his cheap, sneering way with paltry details, mentioned, amongst other details, that I myself had been the cause of the delay in having this Bill in the hands of Deputies.  As a matter of personal explanation, I would like to point out that when I <Col N="284" /> introduced this Bill, the Bill, as the Ceann Comhairle has already said, was actually in his hands, but that on that occasion the Second Reading of the Bill had, against my wishes, been postponed until the 19th January.</P>
+      <P>The complaint is now that owing to the Ceann Comhairle having raised points of procedure on certain sections in the Bill, I was not able to have it in Deputies' hands for three weeks after its introduction, in spite of the fact that it was not to receive its Second Reading until the 19th January.  I do not think that that point carries much weight.  I am not going into arguments with either the President or any Deputy on matters of mere detail in regard to this measure.  The fact that it would entail considerable cost to the State, the fact that the tenants would undoubtedly not be in as good a position as the landlords to go to the courts, and various other questions, are entirely matters for discussion upon the Committee Stage, and nobody knows that better than the President himself.  The only thing that I would like to make clear in regard to the remarks of the Vice-President is this: that I do not consider the question of the fixity of tenure or fair rent matters of detail.  Those, to my mind, are the bed-rock principles of the Bill, and given those and admitting those, then the question of the means whereby those principles can be carried out and put into effect are matters for the Dáil in Committee.  I have drafted the Bill based upon those principles, and I have done my best in that respect.  I have been told by the President, who, I am sure, is a good judge, that this is a badly drafted Bill.  Well, I am not in the position that he is.  I have not got a host of able draftsmen at my back nor Parliamentary Secretaries to depend upon.  I am merely introducing this as a Private Member in Private Members' time, and I make a present to the President of his opinion as to the quality of the draftsmanship.</P>
+    </Speaker>
+    <P>One argument has been used which I think deserves mention.  It was rather strongly stressed by the Minister for Finance.  The purport of his speech was &ldquo;Leave the existing law alone as it is in regard to the existing houses, but <Col N="285" /> the real solution is to build more houses.&rdquo;  Yes.  There is a great deal to be said for that.  But is it his contention and that of the Government that before the necessary number of houses are built&mdash;some say it is 40,000, others say it is 60,000 that are required in the Saorstát&mdash;that during that period the tenants under existing conditions should be allowed to remain where they are and have none of their grievances remedied?</P>
+    <P>It has been questioned whether it was advisable to limit this measure to houses erected before the year 1919. One of the principal reasons why I made that limitation was in the hope that new houses would be built and that when a sufficient number of houses were built that there would be no necessity to apply these principles to those new houses.  But to suggest that we should wait until 40,000 have been built before anything is done for any of the tenants under the existing circumstances. I say does not meet the case as it presents itself, or should present itself, to every Deputy at the moment.</P>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>When the 40,000 houses are built would the Deputy repeal this Bill or extend it to the 40,000 houses?  Clearly there would be a distinction between the houses built prior to 1919 and the houses built subsequently. Now, when and if the 40,000 houses which the Deputy mentioned were built, what would be the Deputy's idea then&mdash;would it be to maintain the distinction or to abolish it, by, either (a) to repeal this Bill, or (b) the extension of this Bill to the new houses?</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Well, of course, the Minister has put an extremely hypothetical question to me.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>I am entitled to put it.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>Yes, perfectly entitled to put it.  I am only pointing out that it is a hypothetical question; that if 40,000 houses would have been built the circumstances would have been altered to a considerable extent, and according to the Minister and his friends that would be the solution of the existing grievances of the town tenants, and if that was the solution of <Col N="286" /> the grievances that exist to-day, there certainly would be no reason for applying the principles of this Bill.  But if it was not the case, and if these grievances did exist, after a sufficient number of houses had come into being, then it would, of course, present a different picture.</P>
+      <P>The various speakers have thought fit to dwell considerably upon the effect of this proposal on the forthcoming election.  We have heard it suggested that those who vote for this measure will vote for it entirely for election purposes.  I dealt with that point in my opening statement, but I should like to say this&mdash;I do not think I will be accused of undue egotism when I say it, because it is a mere fact&mdash;that were it not for the production of the previous Bill and this Bill, there never would have been any Commission set up at all.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>That is not so.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>If that is not so, why was there not a Commission set up before the introduction of my second Bill?  Why was it that, even in replying to my demand that the Second Reading of this Bill should be taken up earlier than the Government chose, the Government never even suggested to any of their spokesmen that they had the slightest idea of setting up a Commission?  It was not until two or three days afterwards that the President went to the country and there announced to a deputation that it was the Government's intention to set up a Commission.  I say that these facts prove conclusively&mdash;if there be such a thing as proof&mdash;that the only reason this Commission has been set up is because I have introduced this Bill.</P>
+    </Speaker>
+    <Speaker pid="KevinChristopher" hpid="Mr. O'HIGGINS Mr. O'HIGGINS">
+      
+      <P>Would the Deputy allow me to say that I was looking for a personnel for this Commission six weeks before the introduction of the Deputy's Bill?  I could&mdash;I do not like to mention names in the Dáil&mdash;give the Deputy, personally, the names of people whom I asked to act on this Commission six weeks prior to the introduction of his Bill.</P>
+    </Speaker>
+    <Speaker pid="WilliamArcherRedmond" hpid="Captain REDMOND Captain REDMOND">
+      
+      <P>I must accept the Minister's assurance that he was <Col N="287" /> seeking for people prior to the introduction of my Bill to act upon this Commission.  Still, I am entitled to comment upon the extraordinary reticence shown by the Government when they were asking for postponement of the Second Reading of this Bill in the House.  They never mentioned then that there was to be a Commission. Surely, if they were searching the highways and by-ways and the rotary clubs last year for members of a Commission, they could have stated so in this House. The only reason the Government offered for postponing the Second Reading of this Bill was that the time of the House was so occupied that it would not be possible to take the Bill before the 19th January.  That is all I have to say on that point.</P>
+    </Speaker>
+    <P>The President has said &ldquo;Better late than never.&rdquo;  I agree with him in that.  It was suggested by the Vice-President that if I were in a similar position to him or his colleagues I would not introduce a Bill such as this without setting up a Commission such as the Government has set up.  I am inclined to agree with him in that.  But I am not in that position.  I have no power to set up a Commission.  I am only a private member of the Dáil.  If I had been in his position, I would have had the power to set up a Commission and I would have set up the Commission.  By now, I should have had legislation passed and in operation in the country.  The effect of the introduction of this measure is that the Government has set up a Commission. The terms of reference of the Commission have been published.  We now know that the Government are going to reject a measure the main principles of which are that no tenant shall be disturbed or evicted from his holding provided he pays his rent and complies with other reasonable conditions, and that he should be entitled to go before a tribunal and get a fair rent fixed.  I am not going into the question the President was so anxious about as to what is a tribunal.  I heard of an adult who asked the question: &ldquo;Who is Charlie Chaplin?&rdquo;  I think that is on a par with the President's questions: &ldquo;What is a tribunal?&rdquo;; &ldquo;what <Col N="288" /> is a fair rent?&rdquo;  In the Bill are set out the rules the Court is to follow in order to determine what a fair rent is. They are there in plain terms, and I do not think it requires a great intellect to be able to comprehend the meaning of these terms.  Deputies will be called upon to vote for or against the Second Reading of this Bill.  If the Government could give me an assurance that they would amend the terms of reference of the Commission, which the passage of the Second Reading of this Bill would tend to bring about, and that they would inform the Commission that it was their opinion, and the opinion of the House, that the report should be based on the principles of fixity of tenure and fair rents for all tenants in Ireland, subject to the necessary conditions and exclusions, certainly I would be satisfied.  But that is not their intention.  Up to this, we have been told that the principles contained in the Bill, as well as the details, are wrong.  If the Second Reading of this Bill were to be carried, it would in no way interfere with the Commission beyond giving them an expression of what the view of the House is, in regard to the basis on which they should make their report. If the House rejects the Second Reading, it comes to this: that the Commission will enter on the consideration of this question knowing that the present Government, at any rate&mdash;the Government which set it up&mdash;are not in favour of the principle of fixity of tenure or fair rents.  Certainly that should and must influence their decision. In view of the attitude taken up by the Government, in view of the pressing demands&mdash;I make no secret of it&mdash;made every day on Deputies by tenants in towns all over the Saorstát, and in view of the manner in which the Government has dealt with the matter up to this, I can do nothing but ask the House to pass the Second Reading of the Bill.  If the Second Reading of the Bill were passed I would not proceed any further if I got an assurance that the Commission would consider the question on the basis and principles I have enunciated. But in the light of the debate that has taken place and the attitude adopted <Col N="289" /> by the Government and its spokesmen, I feel that I must ask Deputies to record their opinion on the question whether the tenants in towns in the Saorstát are to be allowed to remain in their holdings, provided they pay their rent, and have fair rents fixed. If the House decides in that manner it will do no harm to the Commission. <Col N="290" /> It will only be guidance for it.  If they decide in the other direction, it will intimate to the Commission that the lines on which it is to go are to be exceedingly restricted and limited.</P>
+    <Speaker pid="MichaelHayes" hpid="AN CEANN COMHAIRLE Michael Hayes">
+      
+      <P>resumed the Chair.</P>
+      <P>Question put.</P>
+      <P Just="Center">The Dáil divided.  Tá, 29; Níl, 41.</P>
+      <P Just="Center">Tá</P>
+    </Speaker>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Daniel Breen.<br />Seán Buitléir.<br />John Conlan.<br />Séamus Eabhróid.<br />Séamus Mac Cosgair.<br />Tomás Mac Eoin.<br />Risteárd Mac Fheorais.<br />Pádraig Mac Fhlannchadha.<br />Patrick McKenna.<br />Risteárd Mac Liam.<br />Patrick J. Mulvany.<br />Tomás de Nógla.<br />William Norton.<br />Ailfrid O Broin.<br />Criostóir O Broin.</entry>
+            <entry rowsep="1">Tomás O Conaill.<br />Aodh O Cúlacháin.<br />Liam O Daimhín.<br />Eamon O Dubhghaill.<br />Mícheál O Dubhghaill.<br />Seán O Duinnín.<br />Donnchadh O Guaire.<br />Mícheál O hIfearnáin.<br />Seán O Laidhin.<br />Domhnall O Mocháin.<br />Domhnall O Muirgheasa.<br />Pádraig O hOgáin (An Clár).<br />William A. Redmond.<br />Nicholas Wall.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Earnán Altún.<br />Earnán de Blaghd.<br />Séamus Breathnach.<br />Seoirse de Bhulbh.<br />Séamus de Burca.<br />John J. Cole.<br />Bryan R. Cooper.<br />Sir James Craig.<br />Máighréad Ní Choileáin Bean<br />Uí Dhrisceóil.<br />Patrick J. Egan.<br />Desmond Fitzgerald.<br />Thomas Hennessy.<br />John Hennigan.<br />William Hewat.<br />Seosamh Mac a' Bhrighde.<br />Liam Mac Cosgair.<br />Pádraig Mac Fádain.<br />Patrick McGilligan.<br />Eoin Mac Néill.<br />Pádraig Mag Ualghairg.</entry>
+            <entry rowsep="1">James Sproule Myles.<br />John T. Nolan.<br />Michael K. Noonan.<br />Peadar O hAodha.<br />Risteárd O Conaill.<br />Parthalán O Conchubhair.<br />Máirtín O Conalláin.<br />Eoghan O Dochartaigh.<br />Séamus O Dóláin.<br />Peadar O Dubhghaill.<br />Padraig O Dubhthaigh.<br />Eamon O Dúgáin.<br />Aindriú O Láimhín.<br />Fionán O Loingsigh.<br />Risteárd O Maolchatha.<br />Séamus O Murchadha.<br />Máirtín O Rodaigh.<br />Seán O Súilleabháin.<br />Mícheál O Tighearnaigh.<br />Caoimhghín O hUigín.<br />Liam Thrift.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers:&mdash;Tá: Deputies J. Cosgrave and Morrissey.  Níl: Deputies Dolan and Tierney.</P>
+    <P Just="Center">Motion declared lost.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="ORDUITHE AN LAE&mdash;ORDERS" RHead="OF THE DAY. - THE ADJOURNMENT">
+    <Title>ORDUITHE AN LAE&mdash;ORDERS OF THE DAY. - THE ADJOURNMENT.</Title>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>I move the adjournment of the Dáil until Thursday next.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>Will the President say how many days he expects the House will sit then?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>Thursday and Friday.</P>
+    </Speaker>
+    <Speaker pid="ThomasJohnson" hpid="Mr. JOHNSON Mr. JOHNSON">
+      
+      <P>Is it worth while bringing Deputies together for Thursday and Friday?  I wonder if it would be possible to get an estimate of the relative cost of bringing Deputies here for one or two days?  Could the House not adjourn until a date when there is <Col N="291" /> a succession of several days' business to be dealt with?</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>The difficulty is to get on without allowing a lapse of time between the Stages of Bills.  We have three or four very important and complicated Bills, but I think it would be scarcely fair to ask that the Second Reading should be taken shortly after their introduction.</P>
+    </Speaker>
+    <Speaker pid="WilliamHewat" hpid="Mr. HEWAT Mr. HEWAT">
+      
+      <P>Can the President give <Col N="292" /> any information as to when the Shannon Development Bill will come on?</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. GOREY Mr. GOREY">
+      
+      <P>I suggest, in order to obviate expense, that the adjournment should be until next Tuesday week.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The PRESIDENT">
+      
+      <P>I would be quite willing if there is general agreement.</P>
+      <P>The Dáil adjourned at 6.55 p.m., until Tuesday, February 8th.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

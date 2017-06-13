@@ -1,0 +1,825 @@
+********************************************************
+	DC.Title                  = ON FAIT CE QU'ON PEUT, NON PAS CE QU'ON VEUT, COME?DIE PROVERBE.
+	DC.Author                 = ARCHAMBAULT, Louis-Francois
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 24/05/2016 a 16:01:15.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/ARCHAMBAULT_ONFAITCEQUONPEUT.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+ON FAIT CE QU'ON PEUT, NON PAS CE QU'ON VEUT PROVERBE A DEUX ACTEURSM.DCC.LXXXV.
+Par M. DORVIGNY.
+	A TOULOUSE, Au Magasin general des Theatres, Chez J.B BROULHIET, Libraire, rue Saint-Rome, au coin du Mai.
+	
+	Representee au Theatre des Varietes amusantes en 1779.
+	ACTEURS.
+MONSIEUR FRANVILLE, Entrepreneur de Comedie. joue par M. Beaulieu
+UN SOUFLEUR.
+UN VALET ALLEMAND, et sourd.
+LE BEAU LEANDRE.
+MONSIEUR POINTU, ivre. Joues par le meme.
+MADME POINTU, begue.
+L'ABBE, Petit Maitre.
+LE COMMISSAIRE.
+LE FIACRE, joues par M. Volage.
+La Scene est dans le Salon de Monsieur Franville.
+
+
+
+			
+
+
+SCENE PREMIERE.
+FRANVILLE, seul, devant un bureau avec plusieurs lettres ouvertes.
+Parbleu ! C'est une cruelle chose qu'une entreprise nouvelle, ou diable avais-je l'esprit quand j'ai imagine de me mettre a la tete d'un Spectacle ! Mon Theatre est construit a la verite, mes decorations sont pretes, c'est bien quelque chose ; mes pieces sont commandees... Il ne me manque plus que des acteurs pour les jouer. Voici vingt lettres de sujets qui se proposent, mais la peur que j'ai de faire de mauvaises acquisitions m'a retenu jusqu'a present ; il faut pourtant finir. Voyons, recapitulons un peu ces lettres, et au risque d'etre trompe, repondons a quelques-unes. Relisons d'abord celle-ci.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)" Monsieur, mes pleurs qui tombent dans mon cornet ont rendu mon encre si blanche, que vous aurez peine a lire ma lettre. "
+Voila un beau debut !
+Excusez une malheureuse fille, la voix me manque et la main me tremble ; et si vous pouviez me voir dans l'etat ou un infidele m'a reduite... 
+Ah ! C'est un beau desespoir ! Oui, voila une vocation bien favorable pour la Comedie ! Voyons un peu l'emploi que la Demoiselle compte prendre. Les amoureuses apparemment.
+" Hum ! Hum ! J'ai dix-huit ans."
+C'est le bon age.
+"Taille avantageuse."
+C'est ce qu'il faut.
+"Figure fort revenante, surtout lorsque je suis de bonne humeur."
+Apostille interessante : ou aura soin d'egaler la Demoiselle.
+"Je jouerai les ingenuites, les Agnes."
+Ah ! Madame l'ingenue ! Il y a conscience : c'est s'y prendre un peu tard !... Serviteur a votre ingenuite ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voila pourtant de ces Agnes comme on en rencontre avec connaissance de cause.
+SCENE II. Franville, Le Souffleur.
+Il parle en nazillant et grimacant un peu.
+LE SOUFLEUR.
+Monsieur, je suis bien votre serviteur, j'ai l'honneur de vous saluer, je vous souhaite bien le bonjour, Monsieur.
+FRANVILLE, le contrefaisant.
+Et moi pareillement, Monsieur, qu'y a-t-il pour votre service, Monsieur?
+LE SOUFLEUR.
+Monsieur, je n'ai qu'un mot a vous dire, Monsieur, qu'un mot... Si c'etait un effet de votre complaisance de vouloir bien m'interrompre sans m'ecouter, ca sera fait toute de suite ; Monsieur, ca sera fait tout de suite, je n'ai qu'un mot.
+FRANVILLE.
+Eh bien, Monsieur ! Tout de suite, dites-le ce mot, Monsieur, dites-le.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est un original dont il faut que je m'amuse.
+LE SOUFLEUR.
+Monsieur, j'ai entendu dire que...
+FRANVILLE.
+Est-il possible, Monsieur ? Comment, vous avez entendu dire que... 
+LE SOUFLEUR.
+Oui, Monsieur, c'est par voix indirecte ; il m'est revenu que...
+FRANVILLE.
+Comment, Monsieur, cela vous est revenu !
+LE SOUFLEUR.
+Assurement, Monsieur, je n'en impose pas, il court un bruit que...
+FRANVILLE.
+Comment donc ; mais ce bruit la est inquietant au moins !... Et vous dites, Monsieur, que...
+LE SOUFLEUR.
+Eh ! Bien ; mais, Monsieur, je dis qu'on dit que vous avez dit que vous faisiez une troupe de Comedie.
+FRANVILLE.
+On dit cela, Monsieur ?
+LE SOUFLEUR.
+Oui, Monsieur... Et comme je me trouve sans place, moi, pour le moment, ce qui ne prouve rien, voyez-vous, parce que tous les jours vous sentez bien, on est dans le cas de...
+FRANVILLE.
+Assurement.
+LE SOUFLEUR.
+Eh bien, Monsieur je viens vous proposer mes talents.
+FRANVILLE.
+Vos talents, Monsieur ! Cela n'est pas de refus ; dans quel genre sont-ils ?
+LE SOUFLEUR.
+Mais, Monsieur, en tout genre ; pour ce qui est en fait de Tragedie, de Comedie, et meme d'Opera, Monsieur.
+FRANVILLE.
+Comment, Monsieur, est-ce que vous chantez ?
+LE SOUFLEUR.
+Non, Monsieur ; au contraire je ne chante pas. Je chanterais bien, si je voulais ; mais je vous conviendrai d'une chose, je n'ai pas d'oreille.
+FRANVILLE.
+Pas d'oreille ! Ah ! Cela vous plait a dire.
+LE SOUFLEUR.
+Oh ! Monsieur ; c'est une politesse de votre part ; mais je ne veux pas vous tromper.
+FRANVILLE.
+C'est bien honnete. Monsieur est pour les Tragedies, apparemment. Monsieur declame.
+LE SOUFLEUR.
+Declame : non. Je l'aimerais assez, la Tragedie ; mais je vous avouerai encore une autre chose, j'ai la voix fausse dans le haut.
+FRANVILLE.
+Ah ! C'est dommage... Vous etes oblige comme cela de vous borner a la Comedie.
+LE SOUFLEUR.
+La Comedie, moi ! Ah ! Bien oui ! Belle bagatelle : je m'amuse bien a cela, ma foi.
+FRANVILLE.
+Comment ? Vous ne chantez, ni ne declamez, ni ne jouez la Comedie ! Que diable faites-vous donc dans les pieces ?
+LE SOUFLEUR.
+Ah ! Ce que j'y fais ? Je les souffle, Monsieur, je les soufFle.
+FRANVILLE.
+Ah ! Vous les soufflez.
+LE SOUFLEUR.
+Oui, Monsieur, je les souffle ; et bien meme, je m'en vante encor, et on ne peut pas m'oter ca, voyez vous ?
+FRANVILLE.
+Je vous en fais mon compliment, Monsieur ; vous pouvez ne m'etre pas inutile ; mais je serais charme de vous connaitre un peu.
+LE SOUFLEUR.
+Me connaitre ! Ah parbleu, c'est bien aise. Il n'y a pas grand chose a vous dire pour ca. Je ne vous parlerai pas de ma taille. Vous ne la voyez pas ; je suis tout enveloppe dans ce manteau... Mais qu'est-ce que cela vous fait, que ma taille soit elegante ou non, avantageuse ou raccourcie, tout ca est egal, pourvu que j'atteigne a la trappe ; c'est tout ce qu'il faut, n'est-il pas vrai ?
+FRANVILLE.
+Oui, c'est la mesure tout juste.
+LE SOUFLEUR.
+Pour mes jambes, je n'ai rien a vous en dire non plus ; que vous importe en effet, qu'elles soient droites ou cagneuses, arquees ou bancales. Toute la besogne d'un souffleur se fait assis.
+FRANVILLE.
+Vous avez raison.
+LE SOUFLEUR, grimacant.
+Je ne sais pas, Monsieur, si vous trouvez ma figure bien revenante ?
+FRANVILLE.
+Mais elle n'est pas mal.
+LE SOUFLEUR.
+Eh bien, tout ca ne fait encore rien a la chose. Quand je serai la, moi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le Public ne verra mon visage que par derriere.
+FRANVILLE, a part.
+Il n'y perdra pas.
+LE SOUFLEUR.
+Toute l'explication que j'ai a vous donner se reduit donc a trois points. L'intelligence, l'oeil et la voix... Pour l'intelligence, la modestie m'empeche de vous dire la-dessus tout ce qui en est. J'ai un principe moi ; c'est qu'il ne faut jamais se vanter en face de soi-meme, sans quoi faut rougir ; et il y a des gens que ca embarrasse... Mais pour le regard, ah ! Personne ne l'a plus vif que moi pour lire d'un coup d'oeil deux vers a la fois. Et de mes deux yeux, tandis que l'un ne perd pas de vue le livre, l'autre continuellement fixe sur l'acteur, observe son maintien, devine son embarras, et previent son silence.
+FRANVILLE, a part.
+Le beau portait ! Il me semble voir un colimacon a la decouverte, un oeil a droite et l'autre a gauche.
+LE SOUFLEUR.
+Pour la voix, comme je vous dis, je ne l'ai pas imposante dans le haut ; mais elle est moelleuse dans le medium, et par le mecanisme adroit de l'articulation, faisant une porte-voix de mes levres, personne ne parle bas plus intelligiblement que moi. Souvent meme dans ces moments ou la scene se passe au fond du Theatre, l'Acteur emporte par la passion, ou trop eloigne de moi pour m'entendre, a reconnu son vers au seul mouvement de mes levres.
+FRANVILLE.
+Tubleu ! C'est tirer le talent a l'alambic.
+LE SOUFLEUR.
+Il y aurait encor un detail a vous faire sur la main. Le souffleur, ordinairement, copie les repertoires ; est-il vrai ? Je ne vous dis rien de mon ecriture ; mais tenez, en voila un echantillon ; vous avez des yeux, je m'en rapporte.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous ne voyez que de la commune au moins, l'ecriture de tous les jours, mais nous avons la moulee pour les grandes occasions, et le trait pour les coups d'eclat ; a present, Monsieur, decidez-vous.
+FRANVILLE.
+Monsieur, si vos talents repondent a l'idee que vous m'en donnez, je serai charme de vous avoir ; mais permettez-moi de vous essayer auparavant : sitot que ma troupe sera assemblee nous commencerons des repetitions, et la vous serez a meme de vous faire connaitre. Voici un billet d'entree avec lequel les portes du theatre vous seront ouvertes.
+LE SOUFLEUR.
+Eh ! Bien ; je ne manquerai pas de m'y presenter, en attendant, je suis bien votre serviteur, Monsieur ; j'ai l'honneur de vous saluer, je vous souhaite bien le bonjour, Monsieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III.
+FRANVILLE, seul.
+Voila un plaisant Monsieur ! S'il souffle comme il parle, cela doit etre interessant ; voyons mes autres lettres.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV. FRANVILLE, assis, LE VALET Allemand.
+LE VALET, a part, du haut du Theatre, en voix ordinaire.
+Voyons s'il me reconnaitra... Ah ! Monsieur le Directeur, vous voulez essayer les gens !.. Oh bien, je vais de mon cote essayer un peu votre patience.
+FRANVILLE, se retournant, l'apercoit.
+Qui est la ?
+LE VALET, en baragouin,
+Serfiteur, Monsir.
+FRANVILLE.
+Que demandez-vous, l'ami ?
+LE VALET.
+Monsir, l'y etre un petit lettre.
+FRANVILLE.
+Donnez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)" Monsieur, avec l'envie que j'ai de jouer la Comedie, si la nature m'avait gratifie de six pieds de hauteur et de poumons a la Romaine, je me serais jete a corps perdu dans les Tyrans ou dans les Heros, et je choisirais un autre champ que votre Theatre pour developper mes talents, mais je suis a peu pres de la taille d'un bel epi de bled de Turquie, et ma tige n'a guere que cinq pieds au-dessus de la terre, cela me determine pour les roles comiques, et je vous offre ma mediocrite ; j'ai d'ailleurs un assortiment de bonne volonte, d'intelligence et de memoire ; avec un fond de gaiete et une extreme envie de rire aux depens de qui il appartiendra. Comme je sais que vous n'aimez pas a acheter chat en poche, je vous previens que je vous mettrai a meme de m'essayer avant de conclure, et si ma petite provision peut vous convenir, nous passerons un bail ensemble. J'ai l'honneur, etc."
+Du moins il a de la conscience celui-la, je suis curieux de connaitre l'ecrivain.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mon ami, dites a votre maitre que s'il veut me faire le plaisir de me venir voir, nous nous arrangerons ensemble.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FRANVILLE.
+Entendez-vous, mon enfant ?
+LE VALET.
+Monsir, il parle pour moi ?
+FRANVILLE.
+Oui, je vous prie de dire a celui qui vous envoie qu'il vienne me voir... Mais dites-moi que fait-il ce Monsieur la ?
+LE VALET.
+Monsir, javre apporte un lettre, chattendre un reponse.
+FRANVILLE.
+Eh ! Bien, je vous l'ai faite.
+LE VALET.
+Monsir, che temante pardone, che n'ententre pas.
+FRANVILLE.
+Je vous demande a present qui est celui qui vous envoie ; ce qu'il fait ?
+LE VALET.
+Monsir, excusez-moi, che n'ententre pas.
+FRANVILLE.
+Vous n'entendez-pas. Cela est pourtant clair ; je ne saurais m'expliquer mieux... Je vous demande quel est son etat, sa profession.
+LE VALET.
+E?crire, Monsir, ecrire.
+FRANVILLE.
+Ah ! Il ecrit... Est-ce un homme de lettres ? Est-ce un commis, un secretaire.
+LE VALET.
+E?crire, Monsir, ecrire.
+FRANVILLE.
+Eh non, ce n'est plus cela que je vous demande ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il ne comprend rien, j'aurai plutot fait de le renvoyer. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allez dire a votre maitre qu'il vienne me voir, nous causerons ensemble.
+LE VALET, avec impatience.
+Mais, Monsir, est-ce que fous n'ententre pas aussi, chattendre ein reponse depuis trois heures.
+FRANVILLE, de meme.
+Mais, morbleu, est-ce que vous etes ivre ? Voila vingt fois que je vous la repete.
+LE VALET.
+E?crire fous, Monsir.
+FRANVILLE.
+Mais, je n'ai rien a lui ecrire, dites-lui cela.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Parbleu celui-la est rejouissant ! Vous etes familier l'ami.
+LE VALET.
+E?crire fous, encore ein coup, ecrire, che n'entendre pas.
+FRANVILLE.
+Ou diable a-t-on deterre un pareil commissionnaire ? Comment vous ne comprenez-pas ce que je vous dis ?
+LE VALET.
+Tarteifle ! Fous l'y etre fou donc ? Quand je dire che n'ententre pas ; ententre-fous, ou n'ententre pas encore, ecrire.
+FRANVILLE.
+Peste soit de l'animal ! Je crois, Dieu me pardonne, qu'il est sourd.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Est-ce que vous etes sourd ?
+LE VALET.
+Ah gouth ! Ah gouth ! La sourd.
+FRANVILLE.
+Le diable l'emporte ! Il y a deux heures que je me casse la tete la bien a propos ! Ecrire, je comprends actuellement...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Attendez un instant.
+LE VALET.
+Ya, ya, ecrire fous, ecrire.
+FRANVILLE, lui donne le billet qu'il vient d'ecrire.
+Allez, Monsieur ecrire, allez.
+LE VALET, va et revient sur ses pas.
+Monsir.
+FRANVILLE.
+Eh bien ! Quoi ? Que faut-il ? Encore ecrire?
+LE VALET.
+Fous faire la Comedie.
+FRANVILLE, a part.
+Que veut-il dire ?
+LE VALET.
+Che aussi capable pour faire. Quand fous il donne moi beaucoup l'archent, che vas chouer pon, beaucoup, pon.
+FRANVILLE.
+Comment ! Mais je crois qu'il parle de jouer la comedie.
+LE VALET.
+E?crire fous, che n'entens pas.
+FRANVILLE, le pousse debors.
+Va-t-en au diable avec tes ecritures.
+LE VALET, revenant.
+Monsir, je sonne fort pien du cor.
+FRANVILLE, le poussant.
+Va-t-en, va-t-en.
+LE VALET, revenant.
+Je connais fort peaucoup la flE»te.
+FRANVILLE.
+Eh morbleu, t'en iras-tu ?
+LE VALET, a la porte.
+Ecrire, Monsir, ecrire.
+FRANVILLE, le mettant dehors.
+Oui, oui, je vais t'ecrire la porte sur le nez.
+SCENE V.
+FRANVILLE, seul.
+Parbleu, voila une belle acquisition a faire, et une jolie conversation que je viens d'avoir ! Mais je ne reviens pas de ma simplicite. Voila deux heures que je ne m'apercois pas que cet animal est sourd, et je veux lui faire entendre raison ; si je juge du Maitre par le Valet, cela ne m'en donne pas grande idee.
+SCENE VI. FRANVILLE, LE BEAU LEANDRE.
+LEANDRE.
+Monsieur, c'est pour avoir l'honneur de vous souhaiter le bonjour.
+FRANVILLE.
+Je vous salue, Monsieur, peut-on savoir ce qui vous amene.
+LEANDRE.
+Monsieur, je suis tun jeune homme dont auquel vous pouvez faire tout ce qui dependra de moi.
+FRANVILLE.
+Je ne comprends pas trop ce que vous me faites l'honneur de me dire.
+LEANDRE.
+Je vais tentrer zavec vous ten pourparler, Monsieur. J'ai t'eu une inducation proportionnee ta ma naissance, qu'est tres honnete, etant le fils d'un pere qu'est zun bourgeois t'honore dans Paris ; mais, comme vous savez, Monsieur, un jeune homme ne peut pas demeurer comme un cul de plomb zen une boutique, c'est ce qui fait que je me suis t'informe de vous, comme par lequel nous pouvons faire un arrangement zensemble.
+FRANVILLE.
+Mais quelle serait votre intention ? 
+LEANDRE.
+Monsieur, mon intention ca depend de vous. Je n'ai pas d'intention moi... Quand je dis je n'en ai pas, c'est-a-dire, si fait. J'en ai bien tune, mais elle est subordonnee za la votre.
+FRANVILLE.
+Est ce que vous auriez envie de jouer la Comedie ?
+LEANDRE.
+Monsieur, c'est positivement zen cette qualite que je viens ta vous.
+FRANVILLE.
+Monsieur, la Comedie est un art bien difficile.
+
+LEANDRE.
+Je n'en ignore pas, la Comedie c'est une chose tres-difficile. Quand je dis difficile, c'est-a-dire, il n'y a rien de si aise, il ne faut que de l'interligence pour ca.
+FRANVILLE.
+De l'interligence, oh ! Il me parait que vous n'en manquez pas ; avez-vous deja joue quelque fois ?
+LEANDRE.
+Non, Monsieur, jamais... Quand je dis jamais ; c'est-a-dire, si fait... Je me suis essaye devant zune glace qui est dans la chambre de mon pere.
+FRANVILLE.
+La peste, vous etes fort avance ! Vous savez sans doute des roles. 
+LEANDRE.
+Oh ! Pour ca, oui, beaucoup... Quand je dis beaucoup, c'est-a-dire, non, je n'en sais pas, mais c'est egal, il ne faut que de la memoire pour ca.
+FRANVILLE.
+Oh bien ! Moi, je vous conseille de ne pas prendre cet etat la. 
+LEANDRE.
+A cause de pourquoi t'est-ce ?
+FRANVILLE.
+Mais pour bien des raisons.
+LEANDRE.
+Encore, dites-moi zen tune, Monsieur.
+FRANVILLE, en appuyant.
+Eh ! Mais, par exemple, en voila tune tres forte.
+LEANDRE.
+Zen quoi donc, Monsieur ?
+FRANVILLE.
+Eh ! Parbleu, zen tout... La premiere chose que l'on exige au theatre, c'est de parler correctement le Francais et franchement vous me paraissez avoir un certain accent.
+LEANDRE.
+C'est zun rien ca, Monsieur, je m'en vas vous dire d'ou c'que c'a provient ; j'ai tun peu frequente sur le Boulevard du Temple, ou ce que j'ai entendu jouer la parade avec attention, et j'en ai contracte zune habitude d'appuyer p't'etre un peu trop d'sus la prononciation. Mais avec un peu de negligence, Monsieur, je me remettrai zau niveau de tout le monde.
+FRANVILLE.
+C'est plus difficile que vous ne pensez, d'ailleurs vous ne savez aucune role, et vous ne pourriez pas m'etre utile.
+LEANDRE.
+Monsieur, pardon, excuse. Quand je dis je ne sais taucun role, c'est-a-dire si fait, j'en sais bien, mais ce sont des petites comedies toutes entieres, et si vous voulez je vas tavoir l'honneur de vous en jouer tune a moi tout seul.
+FRANVILLE.
+A vous tout seul ! Cela doit etre curieux.
+LEANDRE.
+Monsieur, je m'en fais fort.
+FRANVILLE, a part.
+Il n'est qu'onze heures ; je n'ai rien a faire jusqu'a midi, amusons-nous de son extravagance.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons, Monsieur, je vous ecoute.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LEANDRE.
+Eh bien ! Monsieur, voila que je m'y mets, zil est bon de vous figurer qu'il y a tune prison dessus l'theatre, voila justement zune table et des chaises... Je suis tun Militaire dont auquel sa maitresse lui a faite zune infidelite ; au fort de ma colere j'ai desalte : la Marichaussee m'a rattrape, je suis tenferme. Je commence la piece par un monologue a moi tout seul. C'est moi qui parle. Enfin je suis ten cage. Ici, je prends une grosse voix pour faire le soldat, parce que c'est le zeros de la piece.
+FRANVILLE.
+C'est bien pense.
+LEANDRE, declame ridiculement.
+Enfin je suis ten cage ! O perfide maitresse ! 
+C'est pour votre inutile et cruelle Duchesse
+Que votre amant, bientot, perdra le goE»t du pain !
+A present, Monsieur, la fille entre dans la prison. Le monologue devient a deux. Elle s'ecrie.
+Ah ! Cher zamant, helas !
+Vous voyez, Monsieur, que je prends ma voix dans le clair. C'est pour imiter la fille.
+FRANVILLE.
+C'est fort bien, Monsieur.
+LEANDRE.
+Le Soldat lui repond d'un air severe.
+Que cherchez-vous tici ?			[5]
+Venez-vous pres de moi faire le bon apotre ?
+Allez, jamais mon oeil ne reverra le votre.
+La fille lui dit za ca.
+Mon ami, c'est mon ch'pere.
+Mais le Soldat lui repond tout net.
+Votre ch'pere est un sot, et vous tune... Suffit.
+La fille qui commence a se piquer, lui dit.
+Mais calmez-vous tun peu,			[10]
+Je ne suis point mariee, et ce n'etait qu'un jeu.
+Le soldat tombe des nues.
+Qu'un jeu ? Ah ! Malheureux !
+Il se jette la tete et les deux mains sur la table en appuyant bien fort, pus il fait du bruit en cognant, et pus le coup de theatre est frappant.
+FRANVILLE.
+Je le crois.
+LEANDRE.
+Ici, Monsieur, le pere entre, le monologue continue toujours, mais il devient a trois personnes.
+FRANVILLE.
+Fort bien.
+LEANDRE.
+Je prends une voix cassee pour le pere, parce que c'est z'un invalide...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mon ami, pour te voir j'ai dans le voisinage
+Visith les bouchons, couru tout le village.
+Enfin je viens tici sans trop savoir pourquoi ;			[15]
+Mais je suis enchante d'abord que je t'y vois.
+Pas du tout, Monsieur, v'la que pour decouvrir le pot au noir, la fille qui etait sortie, rentre en criant :
+Ah ! ciel ! Tout est perdu ! Papa, c'est pour quatre heures.
+Le pere demande.
+Eh quoi, qu'a-t-il donc fait ?
+La tante qui est venu la aussi, repond :
+C'est qu'il a desalte.
+La pere qu'est pus sute qu'eux tous, dit:
+Si j'avais le nez fin, je m'en serais doute.			[20]
+Sa tante qui fond en larmes, lui dit:
+Pour la derniere fois, embrasse donc ta tante,
+Mon enfant (Elle tombe sur lui.)
+Le Pere.- Mon ami. (Il tombe sur lui.)
+La Fille.- Cher zamant. (Elle tombe sur lui.) 
+Le Soldat.- Chere zamante. (Iltombe sur elle.)			[25]
+Et les voila tous quatre en attitude dans les bras des uns des autres, ce qui forme un tableau superbe; alors les grenadiers paraissent, et l'on entend, poun, poun,	poun.
+FRANVILLE.
+Qu'est-ce que cela ?
+LEANDRE.
+Ca, Monsieur ? C'est l'interet de la piece ! C'est le tambour. Poun. Au second coup, l'amant revient a lui, et dit za la fille :
+Adieu, separons nous, car voici le moment
+Qui doit de cette piece hater le denouement;
+Recois cette embrassade, et s'il faut que je meure,
+Crois-moi, mourir n'est rien, c'est notre derniere heure.
+La-dessus la fille s'evanouit comme de raison, ainsi que tout le monde ; alors les grenadiers emmenent le soldat, il monte l'escalier de bois en se retournant trois fois, joignant les mains au ciel, comme pour dire, tout est dit. Il s'en va avec un grand courage... Sitot qu'il est parti, l'invalide se releve, et dit aux autres :
+Desevanouissons-nous et courons sur la place,			[30]
+Car je viens de rever qu'il obtiendrait sa grace.
+Et ils partent. Tout de suite la toile se leve ; le soldat vient d'avoir sa grace ; il est entoure du peuple ; la fille les pousse a droite et a gauche ; ou est-il, ou sont-ils ?
+Ah ! Rangez-vous, rendez-moi mon amant,
+Que je l'embrasse en cet heureux moment.
+Ici, Monsieur, v'la le coup de theatre, le soldat la recoit dans ses bras, et leur dit a tous avec dignite.
+Vous m'aviez fait zun tour qui passait raillerie,
+Et moi j'avais mal pris votre plaisanterie,			[35]
+Ca prouve, mes enfants, que dans ce jeu fatal
+Nous avons t'eu tous plus de peur que de mal.
+Voila, Monsieur, de quoi zy retourne, et la piece est finie.
+FRANVILLE.
+Monsieur, je vous fais mon compliment, et voici une scene qui me donne de vous la meilleure idee.
+LEANDRE.
+Eh ben, Monsieur, nous n'avons qu'a faire un petit arrangement zensemble.
+FRANVILLE, a part.
+Je veux m'en amuser encore.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, je ne puis rien conclure pour le moment. J'attends mon associe, et si vous voulez me faire le plaisir de rester a diner avec nous, nous parlerons d'affaires ; il sera charme de vous entendre.
+LEANDRE.
+Eh ! Ben, Monsieur, avec plaisir, j'ai z'une petite affaire ici pres, j'y vas faire un petit tour et je reviendrai.
+FRANVILLE, le retenant.
+Oh ! Non, je vous en prie, ne sortez pas, nous allons nous mettre a table ; en attendant, voici un cabinet qui donne sur la rue, entrez-y pour vous dissiper ; si vous voulez lire, il y a des comedies.
+LEANDRE, entrant dans le cabinet.
+Ah ! Volontiers, Monsieur : je suis taffectionne a la lecture.
+FRANVILLE lui parlant de dessus le Theatre.
+La bibliotheque est a droite ; voyez-vous ?
+LEANDRE, dedans le cabinet.
+Oui, Monsieur, j'ai tun livre en main.
+FRANVILLE.
+Si vous voulez repeter quelques scenes, il y a une glace aussi. 
+LEANDRE, au cabinet.
+Oui, Monsieur, j'en ai deja t'eu l'intention.
+FRANVILLE.
+Si cependant vous aviez quelques besoins dehors, il y a une porte qui s'ouvre sur la rue.
+LEANDRE.
+Je vous remercie, Monsieur : me voila t'avec un livre, et je vous prie de ne plus penser z'a moi.
+FRANVILLE.
+Bon, bon, amusez-vous... Nous allons bien rire a ses depens... Mais j'entends quelqu'un, c'est sans doute mon associe. Il ne saurait venir plus a propos.
+SCENE VII. Monsieur POINTU, FRANVILLE.
+POINTU, ivre.
+Votre serviteur de tout mon coeur.
+FRANVILLE, a part.
+Quelle diable de visite est cela ? Que voulez-vous, Monsieur ?
+POINTU
+Mon cher Monsieur, vous voyez un homme accable d'affliction.
+FRANVILLE a part.
+Il y parait.
+POINTU
+Il m'est impossible de porter.
+FRANVILLE a part.
+Tout le vin qu'il a bu.
+POINTU
+De porter le quart de mes chagrins... J'ai perdu... 
+FRANVILLE a part.
+La raison.
+POINTU
+J'ai perdu la gaiete...  et je succombe sous le poids de...
+FRANVILLE a part.
+Sous le poids de l'ivrognerie.
+POINTU
+Sous le poids de ma douleur.
+FRANVILLE.
+Qu'avez-vous donc, Monsieur ?
+POINTU
+Monsieur, j'ai des chagrins domestiques. J'ai une servante qui me vole.
+FRANVILLE.
+Il faut la mettre a la porte.
+POINTU
+Ce n'est rien que cela, Monsieur ; j'ai une femme qui est mon tourment ; quand elle etait jeune elle me faisait...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Elle me faisait enrager, mais j'en venais a bout parce que j'etais jeune aussi ; a present qu'elle est vieille, elle ne peut plus...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Elle ne peut plus me souffrir elle me reproche tout. Je n'ai qu'une consolation, c'est de boire un petit coup de temps en temps, avec moderation ; cependant il n'y parait jamais. Eh bien ! Monsieur, je ne sais pas comment diable elle fait son compte. Je ne peux pas avaler un verre de vin qu'elle ne s'en apercoive aussitot.
+FRANVILLE.
+Elle est donc bien maligne ?
+POINTU
+Oh ! C'est un demon... Tenez, Monsieur, par exemple, aujourd'hui, on ne se douterait pas que j'aie bu. Eh bien ! Croiriez vous, je n'ose pas rentrer a la maison. Sitot qu'elle va me sentir seulement, elle va me faire un sabbat d'enrage, et cependant je n'ai pas l'haleine chargee du tout... Tenez, voyez plutot.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FRANVILLE.
+Pouah ! Retirez vous donc, Monsieur.
+POINTU
+Non, c'est pour vous faire sentir...
+FRANVILLE.
+Oh ! Parbleu, je le sens de reste.
+POINTU
+Ce n'est rien que tout cela, Monsieur, ca n'attaque que le temperament ca... Mais ce que je vas vous dire attaque l'honneur.
+FRANVILLE.
+Ceci devient serieux, Monsieur, il y a de l'indiscretion a conter ainsi des affaires de cette consequence a des gens qu'on ne connait pas, et je vous prie de me dispenser de vous ecouter.
+POINTU
+Pardonnez-moi, Monsieur, la chose peut vous regarder, et je vous prie en grace de m'entendre.
+FRANVILLE.
+Eh bien ! Monsieur, parlez donc.
+POINTU
+Primo d'abord, Monsieur, il vous faut savoir que je suis Bourgeois de Paris, etabli depuis trente ans a la Butte Saint-Roch ; j'ai passe tous les grades de ma profession, et maintenant je suis Syndic de ma Communaute ; voila qui met une famille dans une belle passe. Eh bien ! Monsieur, j'ai un fils qui est un mauvais sujet, un vaurien, Monsieur.
+FRANVILLE.
+Voila qui est facheux.
+POINTU
+Croiriez-vous, Monsieur, que ce miserable-la, qui est en etat d'aller a tout, n'a jamais voulu apprendre de metier. Il s'est mis dans la tete d'etudier pour jouer la parade ; il va par les rues avec un habit tout galonne, et il se fait appeler le beau Leandre, plutot que de se nommer comme son pere Eustache Pointu. Ca ne crie-t-il pas vengeance?
+FRANVILLE.
+Il a tort. Comment, Monsieur, vous etes le pere d'un jeune-homme qui porte un habit...
+POINTU
+Oui, mon cher Monsieur, je suis son propre pere.
+FRANVILLE.
+Effectivement, je vous regardais, et je vous trouvais un air de ressemblance.
+POINTU
+C'est bien naturel...  Tenez, mon cher ami, dans tout ca je vous regarde comme mon sauveur. J'ai dans la tete un projet pour punir ce coquin-la, pour me venger de sa mere, et pour me contenter moi sans qu'on ait rien a me reprocher.
+FRANVILLE.
+Eh ! Comment cela ?
+POINTU
+Mon ami, mon fils veut se deshonorer, je l'abandonne a son malheureux sort ; ma femme me dit tous les jours de quitter la maison, je n'y remettrai pas le pied. Vous etes Directeur de Comedie, vous ? Eh bien ! Vous n'avez qu'a m'engager.
+FRANVILLE.
+Vous engager ! Ah ! Parbleu, en voila une bonne ! Pour jouer les ivrognes donc ?
+POINTU
+Pourquoi pas ? C'est un excellent marche pour vous. J'ai du naturel d'abord ; je n'aurai pas d'etude a faire, et je vous promets d'etre toujours dans le caractere de mon role, qu'en dites-vous, mon cher ami, repondez-moi.
+FRANVILLE a part.
+Il me vient une idee. Je veux le mettre tete a tete avec son fils, et jouir un peu de leur surprise.
+POINTU
+Eh bien ! Mon ami, repondez donc.
+FRANVILLE.
+Monsieur, nous pourrons nous accorder, mais j'attends ici quelqu'un, faites-moi l'amitie de rester a diner avec moi. Passez un instant dans ce cabinet, je vais vous y rejoindre ; et nous parlerons a notre aise.
+POINTU
+Eh bien ! Mon ami, ne vous genez-pas. Je vais vous attendre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FRANVILLE a part.
+Il ne s'attend pas a la rencontre : ecoutons. 
+SCENE VII.
+Franvile seul, sur le theatre. On entend l'autre qui parle avec differentes voix.
+EN DEDANS.
+Eh ! Quoi, c'est vous, mon pere...  Comment, coquin, te voila ici...  Est-ce que vous connaissez Monsieur le Directeur ?...  Miserable ! N'as tu pas de honte ?...  Mais mon pere...  Tais-toi, tu es un gueux, un mauvais sujet.
+FRANVILLE.
+Je rirais bien s'il allait lui donner une petite correction paternelle.
+EN DEDANS.
+Mais, mon pere, quand zon a tune inclination... Coquin, si tu me parles encore de cela je te desherite.
+FRANVILLE.
+Ah ! Parbleu, je serais curieux de savoir lequel est le plus sou des deux. Si le fils savait la proposition que le pere m'a faite, cela lui fournirait la replique...  Si mon Associe pouvait venir ! Mais, quelle est cette Dame ?
+SCENE VIII. MADAME POINTU, begue, FRANVILLE.
+FRANVILLE.
+Madame, puis-je vous etre bon a quelque chose ?
+Madame POINTU, en colere.
+Ne, ne, ne, n'etes-vous pas Mon, monsieur F. F. Fr. Franville ?
+FRANVILLE.
+Franville, Madame, pour vous obeir.
+MADAME POINTU
+Fr, Fr, Franville, oui, ju, ju, justement ; j'en, j'en, j'embrasse vos genoux.
+FRANVILLE.
+Eh ! Madame, que faites-vous?
+MADAME POINTU
+Je me fi, fie a vos bontes.
+FRANVILLE.
+Que voulez-vous, Madame?
+MADAME POINTU
+Je veux vous faire pi, pi, pi, pitie.
+FRANVILLE.
+Mais, levez-vous, Madame, et parlez.
+MADAME POINTU
+Non, il faut que je me soulage en pleurant a vos pieds. Ah, ah, ah, ah.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FRANVILLE.
+Ah ! Voila un autre genre de folie.
+MADAME POINTU
+Ah ! Monsieur, je suis pleine de ca, ca, calamites et de cha, chagrins.
+FRANVILLE.
+Eh ! Que puis-je faire pour vous ?
+MADAME POINTU, se relevant.
+Ah ! Monsieur, vous avez des pou pouvoirs suffisants pour essuyer mes mes larmes.
+FRANVILLE.
+Eh, comment, Madame.
+MADAME POINTU
+En faisant ca cas de mes prieres, il faut me rendre le conge de mon fils.
+FRANVILLE.
+De votre fils ?
+MADAME POINTU
+Oui, vous etes son ca ca capitaine.
+FRANVILLE.
+Moi, Madame ?
+MADAME POINTU
+Oui, Monsieur, vous f... f... faites semblant de ne pas m'entendre, mais je sais tout. Voila la lettre que vous venez de lui ecrire.
+FRANVILLE, prend lettre, et lit haut.
+« Monsieur, je ne puis terminer avec vous sans  vous connaitre, ainsi faites-moi l'amitie de passer chez moi demain, et si vous pouvez me convenir, je vous ferai votre engagement...  » Mais c'est la lettre que j'ai donnee a ce valet Allemand, a ce sourd.
+MADAME POINTU
+Oui Monsieur c'est pour mon fils.
+FRANVILLE.
+Ah ! Je soupconne quelque chose. Votre fils, n'est-ce pas un jeune homme qui porte un habit couleur de rose, galonne en argent ?
+MADAME POINTU
+Justement, Monsieur, un gen gen gentil garcon, qui me ressemble un peu.
+FRANVILLE.
+C'est cela. Et n'avez vous pas un mari qui...
+MADAME POINTU
+Ah ! Monsieur, mon mari est un co co coquin, qui boit toute la journee, et qui tous les soirs fait ca ca carillon dans la maison.
+FRANVILLE.
+Ah ! Parbleu ! Nous y voila. Vous etes donc Madame Pointu ?
+MADAME POINTU
+Helas oui, Monsieur, depuis que Monsieur Pointu m'a fait prendre ce vilain nom la.
+FRANVILLE.
+Ecoutez, Madame, etes-vous curieuse de voir tout-a-l'heure Monsieur Pointu le pere, et Monsieur Pointu le fils ?
+MADAME POINTU
+Ah ! Monsieur, je leur arracherais les yeux.
+FRANVILLE.
+Eh bien, Madame, donnez-vous la peine d'entrer dans ce cabinet, vous ne tarderez pas a les voir.
+MADAME POINTU
+De de tout mon coeur. Mais etes-vous sur qu'ils ne tarderont pas ? Il y a quelqu'un de mes parents qui m'attend a la porte en ca ca carosse.
+FRANVILLE.
+Vous allez les voir a l'instant, entrez seulement.
+SCENE IX.
+Franville seul sur le theatre. On entend plusieurs voix dans le cabinet.
+MADAME POINTU
+Comment ! Ca ca canailles, vous voila donc !
+POINTU
+Allons, Madame Pointu, de la douceur, qu'est-ce que vous venez faire ici ?
+LEANDRE.
+Comment, ma mere, vous venez tici toute seule.
+FRANVILLE.
+Je crois que l'entrevue va devenir piquante, il n'y manque plus que le valet Allemand.
+POINTU
+Ah ! Monsieur le vaurien, je te ferai engager a Saint-Lazare.
+MADAME POINTU
+Et toi vilain ivrogne...
+POINTU
+Parbleu, ma femme, il faut que vous ayez bien peu de raison ! A peine si j'ai mouille mes levres d'aujourd'hui.
+LEANDRE.
+Mais mon pere apres tout...
+POINTU
+Taisez-vous, vous etes un drole.
+LEANDRE.
+Mais ma mere...
+MADAME POINTU
+Ah ! Co co coquin, tu me perds le respect ? Attends, attends.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LEANDRE.
+Ahi, ahi, ahi...
+POINTU
+Allons, ma femme, ca passe raillerie... 
+MADAME POINTU
+Tiens, tiens, tu en auras... 
+LEANDRE.
+Ahi, ahi !...
+FRANVILLE, riant.
+Ah, ah, ah, ah, ah. Parbleu, voila une excellente matinee pour moi. Si ce pauvre Monsieur de la Rime etait ici, il me ferait de cela une Comedie tout entiere. Ah, ah, ah.
+SCE?NE X. Franville, L'Abbe.
+L'ABBE.
+Monsieur, je vous baise les mains.
+FRANVILLE.
+Monsieur, qui a-t-il pour votre service ? 
+L'ABBE, d'un ton precieux.
+Monsieur, je suis venu avec une de mes parentes qui avait a vous parler pour affaire, et je l'attends a la porte depuis assez longtemps.
+FRANVILLE.
+Ah ! Vous demandez Madame Pointu, sans doute ?
+L'ABBE.
+Oui, Monsieur, elle m'a dit que vous aviez engage son fils, et je viens joindre mes prieres aux siennes, pour obtenir de vous son conge.
+FRANVILLE.
+Monsieur, Madame Pointu s'est trompee, je ne suis point militaire, je suis Directeur de Comedie, et Monsieur son fils n'est point engage.
+L'ABBE.
+Ah ! Monsieur est Directeur de Comedie ?
+FRANVILLE.
+Oui, Monsieur.
+L'ABBE.
+C'est une belle chose que la Comedie, et pour laquelle il faut bien des talents. Par exemple, Monsieur, c'est un de mes gouts dominants.
+FRANVILLE.
+Comment, Monsieur, vous aimez la Comedie ?
+L'ABBE.
+Oui, Monsieur, je l'idolatre, et depuis tres longtemps j'en ai fait une etude particuliere.
+FRANVILLE.
+Dans quel genre, Monsieur, est-ce pour la jouer vous-meme, ou pour composer des pieces ?
+L'ABBE.
+Monsieur, j'aurais beaucoup aime a la jouer moi-meme, mais j'ai les passions si fortes et la poitrine si delicate, qu'elle n'aurait jamais pu suffire a la vivacite de mes expressions. J'aurais pu de meme m'adonner a la composition, mais malheureusement je viens trop tard. Je trouve dans Moliere, dans Corneille, et dans Racine a peu pres ce que je pense tous les jours, et je ne peux pas ecrire. Nos esprits etant formes sur le meme modele, je ressemblerais necessairement.
+FRANVILLE.
+Voila qui est facheux, le public y perd beaucoup.
+L'ABBE.
+Sans doute. Mais pour le dedommager et pour avoir en meme-temps le merite de la nouveaute, j'ai donne dans un genre sur lequel personne n'a encore travaille.
+FRANVILLE.
+Lequel donc, Monsieur !
+L'ABBE.
+C'est celui des spectacles a la muette, c'est pour pouvoir exprimer toutes les passions sans paroles. Oui, Monsieur, apres de longues recherches sur le jeu des meilleurs acteurs de la capitale et des provinces, je viens de composer un traite complet sur la pantomime, et je vais le proposer par souscription a tous les directeurs.
+FRANVILLE.
+Cela doit faire un ouvrage fort curieux.
+L'ABBE.
+Je vous en reponds ; si vous voulez, je vous en reserverai quelques exemplaires.
+FRANVILLE.
+Vous me ferez le plus grand plaisir, et si je ne craignais d'abuser de votre complaisance, je vous prierais de m'en donner d'avance une petite idee.
+L'ABBE.
+Tres volontiers, Monsieur ; nous n'aurions pas le temps d'entrer dans le detail des preceptes, mais je vais vous donner quelques exemples qui vous rendront les effets plus sensibles. Souvenez-vous qu'il n'y a pas de paroles dans ce spectacle la, et qu'il faut y suppleer par les attitudes.
+FRANVILLE.
+J'y suis, Monsieur, j'y suis.
+L'ABBE.
+Figurez-vous donc, Monsieur, deux armees en presence, les deux chefs en tete de leurs troupes, et exprimez-moi le premier mouvement d'indignation qui se passe entre eux. C'est le defi d'Achille, Monsieur ; voyez-le. Portez votre jambe en arriere, mettez vivement vos deux poings dans la poche gauche, et tournez la tete a droite avec un oeil farouche. Le voici.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ils se battent, Monsieur, l'un des deux chefs est desarme par l'autre ; exprimez-moi son desespoir ?
+« Frappez un grand coup de poing de la main droite sur le coeur, couvrez-vous le front de la main gauche, renversez la tete en arriere les yeux fermes, et resserrez les epaules en avant. Le voila. »
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)A ce mouvement la, Monsieur, son casque est tombe, sa tete se decouvre, et son vainqueur le reconnait. C'est sa maitresse, c'est son pere, son fils, tout ce que l'on voudra. Jugez du grand etonnement. Le voici, Monsieur.
+« Renversez-vous et ployez sur la partie gauche, tendez les deux mains en avant, et restez la bouche ouverte. »
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)« Eh ! Quoi, c'est vous. »
+L'autre qui le reconnait alors, lui pardonne sa victoire, et exprime l'amour, la tendresse qui etouffe la rancune ; et le voici.
+« Portez les deux mains sur votre coeur, haussez les epaules, balancez vivement la tete, elancez-vous en l'air en detachant les mains, et restez sur la pointe du pied.
+« Ah ! Trop cher ennemi, je vous pardonne tout. »
+Alors les deux armees se mettent a danser pour celebrer la fete. Voila le ballet. Les deux chefs s'embrassent, et cette pantomime la, par exemple, tout le monde la sait.
+FRANVILLE.
+C'est superbe, Monsieur, je sens toute l'utilite d'un travail aussi precieux... Mais pardon, cela vous fatigue trop, et... 
+L'ABBE.
+Non, au contraire... Tenez, un exemple dans le grand tragique.
+« Sous mes pas chancelants je sens trembler la terre !
+J'entends partir la foudre et gronder le tonnerre !
+Un serpent venimeux me dechire le coeur !			[5]
+Dieux ! Quels affreux tourments ! Je succombe, je meurs. »
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et en voici d'un genre plus tranquille... Si vous aviez a jouer la Tragedie de Mithridate en Pantomime, comment vous y prendriez-vous.
+FRANVILLE.
+Mais je serais fort embarrasse, et vous ?
+L'ABBE.
+Moi, Monsieur, point du tout.. Tenez, ecoutez le commencement. C'est Ziphares qui parle a son confident, lorsqu'il croit Mithridate mort ; il lui dit : 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ainsi ce Roi qui seul et pendant quarante ans
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Lassa tout ce que Rome eut de chefs importants,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et qui dans l'Orient balancant la fortune,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vengeait de tous les Rois la querelle commune,			[10]
+Meurt et laisse apres lui pour venger son trepas
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Deux fils infortunes qui ne s'accordent pas.
+Croyez-vous que ce petit traite l'a aura quelque succes.
+FRANVILLE.
+Comment, Monsieur, je vous garantis que cet ouvrage vous fera le plus grand honneur, quant a moi, j'en retiens plusieurs exemplaires, et j'en veux fournir a chaque Comedien que j'engagerai ; mais il est tard, faites-moi l'amitie de diner avec moi, nous parlerons plus amplement de votre ouvrage.
+L'ABBE.
+Vous etes bien honnete, Monsieur, mais ma tante.
+FRANVILLE.
+Ah ! Madame votre tante, je n'y pensais plus, c'est le plaisir que j'ai a vous entendre qui me la fait oublier, donnez-vous la peine d'entrer dans ce cabinet, vous allez y trouver compagnie. Je vais vous y rejoindre.
+L'ABBE.
+Ma tante y est donc, Monsieur ?
+FRANVILLE.
+Oui, Monsieur, et d'autres personnes de votre connAissance.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCE?NE XI.
+FRANVILLE, seul.
+Ah ! Parbleu, nous allons faire un petit diner de famille qui j'espere sera rejouissant. Voyons un peu comment ou le recoit.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XII. Franville, Un Fiacre.
+LE FIACRE, d'une voix enrouee.
+Parlez donc, Monsieur, est-ce qu'on se gobarge de moi donc, de me faire rester comme une enseigne par le temps qu'il fait ?
+FRANVILLE.
+Que demandez-vous, mon ami ?
+LE FIACRE.
+Par la ventregue ! Je demande une vieille bequillarde avec un farluquet d'Abbe qui m'avont plante la comme pour raverdir.
+FRANVILLE.
+Il faut attendre un instant, mon enfant.
+LE FIACRE.
+Ah ! Jarnonbille ! Attendre, et mes chevaux qui n'ont rien dans le ventre. Prenez-vous par vous-meme. Faut-il pas que ces pauvres animaux mangent ?
+FRANVILLE.
+Vous avez raison, mon ami, je vais vous faire parler a Monsieur l'Abbe.
+LE FIACRE.
+Ah ! Morgue, parler, je n'ons pas besoin de parlemantage. C'est de l'argent qu'il me faut.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE FIACRE sur le devant du Theatre.
+Oui, cherche ; vas, tu les trouveras... Ah ! Monsieur le Directeur, vous voulez essayer les gens.
+FRANVILLE, sortant du cabinet.
+Ah ! Morbleu, il n'y a plus personne, ils sont sortis par derriere. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La Pierre, hola, la Pierre ! Ce drole la est a courir depuis le matin.
+LE FIACRE.
+Eh ! Ben, Monsieur, ou est-ce qu'est donc l'Abbe ?
+FRANVILLE.
+Ma foi, mon ami, je n'en sais rien.
+LE FIACRE.
+Comment, morgue, vous ne savez pas ? Et ste Vieille, sans dents, est-ce qu'alle est fondue aussi ?
+FRANVILLE.
+Ils etaient dans ce cabinet qui donne sur la rue ; ils s'en seront allez pendant que vous etes entre.
+LE FIACRE.
+Ah ! Ventregue, je ne donnons pas dans ce godan la, vous les avez cache quelque part ; mais sarpejeu je serons paye, ou j'allons faire un beau sabat !
+FRANVILLE.
+Que veut dire ce drole la ? Je les ai fait cacher ! Allons, va attendre ton monde a la porte, et ne fais pas l'insolent.
+LE FIACRE.
+Allons donc, note bourgeois ; ne faites donc pas comme ca le gausseur ; mettez la main a la poche, croyez-moi, c'est vote plus court.
+FRANVILLE.
+Allons, sors d'ici, tout a l'heure.
+LE FIACRE.
+Qu'appellez-vous, sors d'ici ! Je ne demare pas que je n'ayons de l'argent deja primo.
+FRANVILLE.
+Et moi je te conseille de t'en aller au plus vite, sinon je vais te faire etriller.
+LE FIACRE.
+Oui, Monsieur le Directeur ; vous prenez le mors aux dents ; ah ! Ben, je vas vous faire cabrer, moi.
+FRANVILLE, appelle.
+La Pierre ! Oh la Pierre !
+LE FIACRE.
+Ah ! Palsangue, je me ris de la Pierre et de la butte comme de Colin Tampon ; mais morgue, j'allons voir si vous vous rirez du Commissaire, vous, Monsieur le debaucheur ; j'allons voir ca.
+FRANVILLE, le poussant.
+Oui, oui, sors d'ici, toujours.
+LE FIACRE.
+Ah ! Ventrebleu, ne nous poussez pas, car je sommes retifs, je vous en avertis, et je pourrions vous lacher une ruade en maniere de salut.
+FRANVILLE, appelant toujours.
+La Pierre, viendras-tu donc, maraud ?
+LE FIACRE.
+Eh ! Donc ! Eh ! Donc note bourgeois. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dia, dia, bride en main. Le Commissaire demeure ici devant. J'allons savoir la definition de ca.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIII.
+FRANVILLE, seul.
+Au diable soit le maudit homme ! Et ce coquin de La Pierre, tenez, qui me laisse seul ici depuis ce matin, pour me faire une commission. Mais je n'en reviens pas qu'ils soient partis tous, comme cela, sans me rien dire ! Ils se sont trouves quatre, ils auront voulu profiter du fiacre pour s'en aller ensemble, ils sont peut-etre en bas dans son carrosse ; je m'en vas voir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCE?NE XIV ET DERNIERE. Franville, Un Commissaire, en robe.
+LE COMMISSAIRE.
+Qu'est-ce que c'est donc, Monsieur, qu'est-ce que c'est donc ? L'on me fait des plaintes contre vous.
+FRANVILLE.
+Contre moi, Monsieur, a quel sujet, s'il vous plait ?
+LE COMMISSAIRE.
+A quel sujet ! Mais a plusieurs sujets, Monsieur, l'accusation est grave.
+FRANVILLE.
+Quoi, Monsieur, vous ecoutez un coquin de fiacre !
+LE COMMISSAIRE.
+Non, non, Monsieur ; je n'ecoute point un coquin de fiacre, il s'est bien venu plaindre a mo i; mais ce n'est pas la-dessus que je vous interpelle de repondre, Monsieur. Il s'agit d'une affaire de plus grande importance.
+FRANVILLE.
+Mais, Monsieur, je ne crois pas...
+LE COMMISSAIRE.
+Silence, Monsieur, laissez-moi parler ! Vous ne croyez pas... Vous debauchez des jeunes gens, et j'ai recu des plaintes contre vous de toute une famille.
+FRANVILLE.
+De toute une famille.
+LE COMMISSAIRE.
+Oui, Monsieur, de toute une famille. C'est au sujet du nomme Eustache Pointu ; vous remettez-vous cela, Monsieur.
+FRANVILLE.
+Eh ! Monsieur, l'on vous a trompe. Monsieur Eustache Pointu le fils est un nigaud qui n'est bon a rien. Son pere est un ivrogne, sa mere une ridicule, et Monsieur l'Abbe, leur digne cousin, est un fou fieffe.
+LE COMMISSAIRE.
+Monsieur, Monsieur; ne dites pas de mal de cette famille la, je vous prie.
+FRANVILLE.
+Est-ce que vous y prenez interet, Monsieur ?
+LE COMMISSAIRE.
+Oui, Monsieur, beaucoup, excessivement, Monsieur.
+FRANVILLE.
+Mais, Monsieur le Commissaire, ne seriez-vous pas un peu parent ? Je vous trouve un certain air de ressemblance.
+LE COMMISSAIRE.
+Trouvez-vous cela, Monsieur ?
+FRANVILLE.
+Ma foi, Monsieur, l'on ne peut d'avantage... Je ne sais si je vois trouble aujourd'hui, ou si j'ai l'oeil ensorcele mais tous ceux que j'ai vu ce matin m'ont paru se ressembler... Il n'y a pas jusqu'a ce maudit Fiacre a qui j'ai trouve un air de... 
+LE COMMISSAIRE.
+Monsieur, Monsieur, tout cela est bon pour la plaisanterie. Mais l'affaire est grave. Je vous en avertis, la famille instruit contre vous, et je vous conseille d'arranger cela.
+FRANVILLE.
+Mais ; Monsieur, je n'ai aucun tort, il m'est aise de vous en convaincre ; ils sont tous venus me voir ce matin les uns apres les autres, et je n'ai pris avec eux d'autre arrangement que de les inviter a diner.
+LE COMMISSAIRE.
+Eh bien ! Monsieur, pour vous donner les moyens de prouver votre innocence, je vais rester aussi et nous dinerons tous ensemble.
+FRANVILLE.
+Ah ! Monsieur, de tout mon coeur, mais ou les prendre actuellement ?
+LE COMMISSAIRE.
+Oh ! Oh ! Je les ferai bien retrouver moi. Preparez-vous seulement a soutenir la confrontation.
+FRANVILLE.
+Ma foi, Monsieur, quand on voudra, je suis tout pret.
+LE COMMISSAIRE.
+Eh ! Bien, Monsieur, attention : vous voyez d'abord le Commissaire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)V'la le Fiacre not' Bourgeois.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici Monsieur l'Abbe. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici Monsieur Eustache Pointu le pere.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voila Madame Poin, Pointu la mere.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, je suis le jeune homme dont auquel. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ly etre la commissionaire de la lettre, Monsir. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je viens, Monsieur, vous representer le billet d'entree que vous m'avez fourni pour savoir, Monsieur, si vous aviez besoin de mon petit service.
+FRANVILLE.
+Comment, Monsieur, c'est vous qui m'avez ainsi promene toute la matinee. J'en suis enchante ! J'ai pense vingt fois me douter de la plaisanterie.
+LE JEUNE HOMME.
+Pardon, Monsieur. Mais l'extreme envie que j'ai de jouer la Comedie m'ayant determine a m'adresser a vous, j'ai voulu, comme je vous l'annoncais dans ma lettre, vous mettre a meme de m'essayer avant de conclure ; en consequence je suis venu, avec ma provision d'habits dans une voiture m'etablir a votre porte. Je me suis presente et vous m'avez facilite vous-meme mes travestissements, en me logeant dans ce cabinet qui s'ouvre sur la rue ; je suis revenu alternativement sous differentes formes, c'est maintenant a vous de juger sous laquelle je pourrai vous convenir.
+FRANVILLE.
+Monsieur, je suis charme de vous connaitre, allons d'abord nous mettre a table, nous terminerons notre affaire ensuite, et j'espere que nous aurons sujet d'etre contents tous deux.
+LE JEUNE HOMME.
+Monsieur, si le talent chez moi ne repond pas a la bonne volonte, souvenez-vous toujours du Proverbe.
+ON FAIT CE QU'ON PEUT,
+ET NON CE QU'ON VEUT. 			[15]
+
+	==================================================

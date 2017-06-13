@@ -1,0 +1,408 @@
+********************************************************
+	DC.Title                  = LA NAISSANCE D'AMADIS, COMEDIE EN UN ACTE
+	DC.Author                 = REGNARD, DUFRESNY
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:16.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/DUFRESNYREGNARD_NAISSANCEDAMADIS.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LA NAISSANCE D'AMADIS COMEDIE EN UN ACTE1694
+REGNARD et DUFRESNY
+	
+	
+	Representee pour la premiere fois le 10 fevrier 1694 a l'Hotel de Bourgogne.
+	AVERTISSEMENT DES EDITEURS SUR LA NASSANCE D'AMADIS. [1823]
+Cette piece a ete representee pour la premiere fois le 10 fevrier 1694. 
+Les auteurs des Anecdotes dramatiques la donnent comme une parodie d'Amadis de Gaule, opera de Quinault, qui a paru en 1684, dix ans avant que Regnard ait donne la Naissance d'Amadis. Cette parodie aurait ete un peu tardive, et nous ne voyons d'ailleurs nul rapport entre l'intrigue de l'opera et celle de la comedie. 
+Dans l'opera, Amadis, fils de Perion, roi des Gaules, aime Orianne, fille d'un roi de la Grande-Bretagne. Florestan, frere naturel d'Amadis, aime Corisandre, souveraine de Gravesande. Ces amours, traverses par des jalousies et des enchantements, font le sujet de la piece. 
+Dans la comedie, Perion, chevalier errant, aime Elizene, fille du roi des Gaules, et en est aime. Cette intrigue, conduite par Dariolette, suivante de la princesse, est decouverte par le roi, qui surprend sa fille avec son amant : il veut les faire bruler, suivant la coutume du pays ; mais dans l'instant que tout est prepare pour leur supplice, une Ombre sort du milieu du bucher, et annonce la Naissance d'Amadis. Aussitot le bucher se change en une pyramide d'artifice, et le roi consent a l'union de Perion et d'Elizene. 
+Nous ne voyons point de traits de ressemblance entre ces deux pieces, et nous ne croyons point que l'une soit la parodie de l'autre. 
+Quoi qu'il en soit, on a reproche, avec raison, a Regnard, d'avoir ecrit cette piece avec trop de licence, et nous trouvons qu'il a un peu avili ses heros en les travestissant. 
+Cette piece n'a point ete reprise. 
+
+PERSONNAGES
+CARINTHER, roi des Gaules. Pierrot. 
+ELIZENE, fille du roi. Isabelle.
+PERION, chevalier errant. Arlequin.
+GALAOR, ecuyer de Perion. Mezzetin.
+DARIOLETTE, suivante d'Elizene. Colombine.
+UNE OMBRE. Pasquariel. 
+Gardes.
+La scene est dans le palais de Carinther.
+
+
+
+			
+
+
+SCENE I. Perion, Galaor.
+GALAOR.
+En verite, seigneur, je vous trouve dans un bien triste et moult piteux etat, depuis que vous etes en ce diable de pays-ci. Pourquoi quitter votre royaume pour venir faire le juif-errant dans les Gaules, et ne vous occuper qu'a occire des geants et venger l'honneur des pucelles ? Vous n'aurez jamais fait a ce metier-la.
+PERION, soupirant. 
+Ouf ! 
+GALAOR.
+Ouf ! Cela me met le coeur en grande componction et detresse, de voir que mon bon maitre, le roi Perion, s'en aille comme cela le grand galop dans l'autre monde. Par la digne epee que vous portez, revelez-moi l'ennui qui vous malmene.
+PERION chante. 
+J'aime, helas ! C'est assez pour etre malheureux. 
+GALAOR chante aussi. 
+Sans cesse l'on vous voit voler de fille en fille ; 
+A chaque gite, enfin, vous changez chaque jour. 
+Si vous vous plaignez de l'amour, 
+C'est fort bien fait s'il vous houspille.			[5]
+PERION.
+Ce n'est pas l'amour que j'ai ramasse dans les cabarets qui me secoue davantage... Helas ! 
+GALAOR.
+Et depuis quand donc les princes poussent-ils de si grands soupirs ? Est-il quelque porte, tant verrouillee soit-elle, qui ne s'ouvre de prime-face a leur aspect ? Et ne trouvent-ils pas toujours en leur chemin donzelle prete a leur accorder la courtoisie ? 
+PERION.
+Parbleu ! Tu en auras menti, petit truand d'amour ; et il ne sera pas dit que je t'hebergerai dans mon coeur, sans que tu paies ton gite. 
+GALAOR.
+Mais quelle est donc la petite carogne qui vous a si bien ajuste ? 
+PERION.
+Tu connais la fille du roi chez qui nous demeurons depuis huit jours ? 
+GALAOR.
+Qui ? Elizene ? 
+PERION.
+Ah, malheureux ! Quel nom est sorti de ta bouche ! 
+Oui, voila le fatal brandon 
+Qui met mon coeur tout en charbon ; 
+L'outrecuide geant, qui, me faisant injure, 
+Fait de ma liberte pleine deconfiture.
+GALAOR.
+Oh ! Consolez-vous. Si c'est la le poulet de grain dont votre coeur est en appetit, je vous promets, avant qu'il soit peu, que vous en aurez cuisse ou aile. 
+PERION.
+Ah, mon cher ! Il faut que je t'embrasse par avance, pour le grand bien que tu me fais esperer. Mais, dis-moi, ecuyer mon ami, ta promesse sera-t- elle sans fallace ? Crois-tu qu'Elizene m'accorde la passade amoureuse ? 
+GALAOR.
+Si fera-t-elle, foi d'ecuyer : je sais qu'elle vous trouve d'un fort bon aloi, et je connais moult tres bien l'esprit des femelles, qui accordent plus volontiers leurs faveurs a un etranger qu'a un citadin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Une fille bien apprise, 			[10]
+Qui veut toujours aller son train, 
+N'accorde rien a son voisin, 
+De peur qu'il ne le dise ; 
+Elle vend mieux sa marchandise 
+A quelque marchand forain. 			[15]
+PERION.
+Va donc, cher ami, va operer de maniere que je puisse voir la princesse, et tache a rechasser sur mes terres ce gibier amoureux.
+SCENE II. Le Roi, Perion.
+LE ROI est poursuivi par un lion. 
+Au meurtre ! Au secours ! A la justice ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah, preux chevalier ! C'est toi qui m'as recous des patTes de ce discourtois animal ; c'est toi qui m'as sauve la vie. 
+PERION.
+Ce n'est pas une affaire pour moi d'aller a la chasse aux lions ; j'en ai quelquefois une douzaine a mon croc, et on les sert par accolade sur ma table, comme des lapereaux. 
+LE ROI.
+Je suis fache que vous ne m'ayez pas donne le temps de le tuer ; je ne me suis jamais senti tant de courage. 
+PERION.
+Oui, pour fuir et pour crier. Croyez-moi, allez vous mettre au lit. 
+LE ROI.
+Voila qui est fait : je n'irai jamais a la chasse contre des animaux qui n'ont ni foi ni loi.
+SCENE III.
+PERION, seul.
+Je me suis trouve la bien a propos pour sauver la vie au pere de ma maitresse. Ah, cruelle fortune ! Pourquoi ne me donnes-tu pas l'occasion de faire pour la fille ce que je viens de faire pour le pere ? Oui, je voudrais qu'elle eut cent lions a ses trousses. Je voudrais la voir au milieu des fournaises les plus enflammees ; qu'elle fut precipitee dans le fond des abimes de la mer : le diable m'emporte si je l'irais requerir.
+SCENE IV. Perion, Dariolette.
+PERION.
+Mais je vois sa suivante. Bonjour, accorte et gente Dariolette ; quel bon vent a pousse la nef de tes appas a la rade de mes esperances ? 
+DARIOLETTE.
+La princesse Elizene, ma tant bonne maitresse, m'envoie vers vous, son seigneur ; elle est navree a votre sujet, d'une blessure tant profonde qu'elle n'en guerira jamais, si vous n'y mettez la main. 
+PERION.
+Qu'a cela ne tienne ; je les y mettrai plutot toutes deux. 
+DARIOLETTE.
+La pauvrette se plaint jour et nuit ; elle soupire, elle larmoie, et oncques elle ne vit jouvenceau de tant bonne affaire que vous. 
+PERION.
+Je t'assure que si elle me trouve jouvenceau de tres bonne affaire, je la trouve aussi jouvencelle de fort bon deblai.
+DARIOLETTE, decouvrant nue corbeille de fleurs. 
+Voila des fleurs qu'elle vous envoie pour marque de sa bienveillance envers vous ; elle les a elle-meme cueillies de sa main. 
+PERION.
+Ah, Dariolette, ma mie ! Ce ne sont pas la les fleurs de son jardin que je convoiterais davantage. 
+DARIOLETTE.
+Je vous assure qu'elle n'a rien reserve ; elle vous a tout envoye. 
+PERION.
+Ah, Dariolette ! Que je serais heureux si j'etais le jardinier d'une aussi jolie plante que ta maitresse ! Je la cultiverais, je la labourerais, et devant qu'il fut un an, j'en aurais de la graine. 
+DARIOLETTE.
+Ah, seigneur ! Ma maitresse n'est point une fille a monter en graine ; on ne la laissera pas si longtemps sans lui donner un mari. Mais... la... parlez-moi franchement, est-il bien vrai que vous l'aimiez si fort ? 
+PERION.
+Oui, l'amour s'est mis en embuscade sur le grand chemin de mon coeur, pour l'assaillir et le detrousser. Il est feru si tres profondement, que je ne puis m'excuser de la mort, si dans bref l'emplatre de ses faveurs n'i donne allegement. 
+DARIOLETTE.
+Il y a tout plein de ces agonisants-la qui tombent en pamoison a l'aspect des jolies demoiselles. On sait bien ce qu'il faudrait pour les faire revenir ; mais la plupart sont des traitres qui ne cherchent qu'a emprunter certaines choses qu'ils ne rendent jamais. 
+PERION.
+Oh, diable ! Mes intentions sont dans l'equilibre de la pudeur. Si je pourchasse ta maitresse, c'est en toute loyaute et droiture. Je ne voudrais que lui dire deux mots. 
+DARIOLETTE.
+Parler a ma maitresse ! Ah, seigneur ! Cela est impossible. 
+PERION, lui donnant une bourse.
+Tiens, tiens, cela rendra peut-etre la chose plus facile. 
+DARIOLETTE.
+Il faudrait donc que ce fut la nuit, afin de n'etre vu de personne. Car il y a une loi dans ce pays furieusement severe contre une fille qu'on rencontre avec un garcon ; et le bucher est toujours tout pret pour les bruler tous deux sans autre forme de proces. Dame ! Dans les Gaules, on est terriblement roide sur l'honneur. 
+PERION.
+On traite les filles plus humainement en mon pays, et si on brulait toutes celles qui ont delinque, le bois y manquerait tous les hivers. Mais tu n'as rien craindre ; des a present j'epouse ta maitresse. 
+DARIOLETTE.
+Bon ! On voit tant de ces epouseux-la qui amusent les filles avec des promesses banales de mariage ! Ils n'ont pas plus tot obtenu quelques gracieusetes, que tout le mariage s'en va a vau-l'eau. Pendant ce temps-la, une pauvre fille en a pour son compte. 
+PERION.
+Comment ! Tu doutes encore de ma fidelite ? Ecoute.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je jure par ce fer, dont nul geant n'echappe, 
+Par qui maint felon fut occis, 
+De ne boire jus de la grappe, 
+Ni de ne manger pain sur nappe, 
+Que d'Elizene enfin je ne sois le mari, 			[20]
+Si j'obtiens l'obligeante etape, 
+Autrement dit, le don d'amoureuse merci.
+DARIOLETTE.
+Or, maintenant rejouissez-vous ; je vais tacher de mettre fin a tant glorieuse entreprise ; et envers la minuit, je vous ferai ebattre en propos joyeux avec votre maitresse.
+SCENE V.
+PERION, seul.
+Je touche enfin l'heureux moment 
+Qui va finir mon amoureux tourment ; 
+Elizene bientot deviendra mon partage. 			[25]
+Mon coeur tressault, tous mes sens sont ravis, 
+Dans peu l'amour va m'ouvrir l'huis 
+Qui conduit dans le mariage. 
+A minuit j'en dirai deux mots 
+Avec ma belle jouvencelle, 			[30]
+Et je dois en meme propos 
+Me solacier avec elle. 
+O nuit ! Prends ton noir balandran ; 
+Viens, descends, que rien ne t'arrete ; 
+Puisque c'est a minuit que se fera la fete, 			[35]
+Conduis vite l'aiguille au milieu du cadran. 
+SCENE VI. Elizene, Dariolette, portant une lanterne.
+DARIOLETTE.
+Allons, ma bonne maitresse, la nuit est bien noire, et favorise notre marche clandestine. 
+ELIZENE.
+Ma pauvre Dariolette, je tremble comme la feuille. Mais dis-moi, un homme n'est-il pas bien fort, quand il est seul avec une personne dont il est aime ? 
+DARIOLETTE.
+Mais, c'est selon. Quelquefois c'est l'homme qui est le plus fort, quelquefois aussi c'est la femme. Je ne sais pas bien les regles du tete-a-tete, et je n'en ai encore recu que deux ou trois lecons. 
+ELIZENE.
+Mais est-il bien sur que tu m'aies veritablement mariee avec le roi Perion ? Car, sans cela, je me garderais bien de me trouver cap-a-cap avec lui. 
+DARIOLETTE.
+He ! Ne craignez rien, je connais mille femmes qui n'ont jamais ete le quart autant mariees que vous. 
+ELIZENE.
+Je ne saurais que te dire, ce mariage-la me parait un peu precipite. 
+DARIOLETTE.
+Il ne s'en fait plus autrement ; et dans ce temps-ci, il faut brusquer la noce, et ne pas donner le temps a un homme de se reconnaitre, ni de faire trop d'informations de vie et moeurs de sa future. 
+ELIZENE.
+Au moins, Dariolette, tu me promets que la comedie se passera en simples recits et menus propos ? 
+DARIOLETTE.
+He ! Fiez-vous a ma parole. 
+ELIZENE.
+Ma pauvre Dariolette, n'y aurait-il pas moyen de remettre la partie a demain ? 
+DARIOLETTE.
+Bon, bon ! Demain, ne serait-ce pas la meme chose ? Les nouvelles mariees demandent toujours des lettres de repit, et elles seraient au desespoir qu'on les leur accordat. Allons.
+SCENE VII. Perion, Galaor.
+Le theatre change ; on voit Perion sur un lit d'ange, en robe de chambre, botte, et son epee sous son bras. Galaor est debout a cote du lit.
+Le theatre change ; on voit Perion sur un lit d'ange, en robe de chambre, botte, et son epee sous son bras. Galaor est debout a cote du lit.
+PERION, chante.
+Ah ! Je sens l'amour qui me grille ; 
+Je n'en puis plus, morbleu ! 
+Mon coeur petille : 
+Au feu ! Au feu ! Au feu ! Au feu ! 			[40]
+Les seaux de la ville ! 
+GALAOR chante. 
+Les plaisirs vous suivront desormais, 
+Vous allez voir vos desirs satisfaits ; 
+Un tendron novice 
+Tombe en vos filets. 			[45]
+N'allez pas faire ici le jocrisse ; 
+Tambour battant menez-moi votre Agnes : 
+Il est temps que la jeune bergere 
+De ses appas avec vous fasse un troc. 
+Cela vous est hoc ; 			[50]
+On s'epouse aujourd'hui sans notaire : 
+L'usage approuve 
+Est sous seing prive ; 
+L'Amour carillonne, 
+Et j'entends qu'il sonne, 			[55]
+Du haut du clocher, 
+L'heure du berger. 
+SCENE VIII. Perion, Galaor, Elizene, Dariolette.
+PERION, a Elizene.
+Ah ! Vous voila, infante de mon ame ! Vous arrivez comme de cire ; il y a longtemps que je vous attendais ; je commencais a me morfondre. 
+ELIZENE.
+Valeureux chevalier, a votre aspect je deviens toute perplexe. 
+DARIOLETTE.
+Ma maitresse n'est encore qu'une petite novice. 
+PERION.
+Oh ! Laissez-moi faire, je lui montrerai tout ce qu'il faudra.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est a moi d'enseigner 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est a lui d'enseigner 
+Aux filles ignorantes 			[60]
+Les manieres fringantes ; 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est a moi d'enseigner 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est a lui d'enseigner 
+Le grand art de ceder.
+GALAOR.
+He bien, la belle, que dites-vous de notre musique ? 
+ELIZENE.
+Excusez, seigneur, si la pudeur m'empeche de parler. 
+PERION.
+Les moments sont trop chers pour les perdre en paroles. 			[65]
+Allons vite jouer nos roles. 
+GALAOR, chante.
+Suivez l'Hymen, ce dieu vous apprete 
+Un ambigu de plaisirs nouveaux : 
+Pendant que vous serez tete a tete, 
+Je vous promets de garder les manteaux. 			[70]
+PERION prend Elizene par le bras, et chante. 
+Allons, petite marmotte, 
+Il n'est pas temps de pleurer. 
+Vous faites ici la sotte, 
+Et vous vous laissez tirer. 
+Tant de rigueur m'epouvante : 			[75]
+J'ai peur que cette ignorante, 
+Avec toute sa facon, 
+Ne me montre ma lecon. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et toi, petite Mercure, 
+Pour adoucir ton chagrin, 			[80]
+Va, pendant ma procedure, 
+Faire un tour dans le jardin. 
+Quand la maitresse est aux prises, 
+Les soubrettes bien apprises 
+Doivent voir en attendant 			[85]
+De quel cote vient le vent. 
+SCENE IX. Les Personnages de la scene precedente ;
+Le Roi, suivi de gens armes, et portant des lanternes et des falots.
+LE ROI.
+J'ai entendu du bruit dans mon palais ; je crains qu'il ne soit arrive quelque mal-engin a l'entour de ma fille. Mais que vois-je ? Ma fille avec Perion ! Ah, traitre ! Apres t'avoir recu chez moi comme un mien frere, tu viens honnir ma fille ! 
+PERION.
+Je suis ici dans une auberge ; 
+Et les guerriers portant flamberge 
+Ont toujours droit, chemin faisant, 
+Quand ils trouvent tendron friand, 			[90]
+De se payer des arrerages. 
+Pendant qu'on repait le bidet, 
+Les chevaliers ont pour usage 
+De se delasser du voyage 
+Avec fille de cabaret.			[95]
+LE ROI.
+Tu veux encore me vilipender par des propos injurieux, double coquin ! 
+PERION.
+Penard ? Prends-le d'un ton moins haut ; 
+De ton courroux il ne me chaut : 
+Je ne viens point dans ta famille 
+Mettre trouble ni desarroi ; 
+Je n'ai rien tollu de ta fille : 			[100]
+Elle est entiere comme moi.
+LE ROI.
+Il faudra donc que ma fille soit brulee ! Mais ce qui me console, c'est que tu seras grille avec elle. Allons, gardes qu'on le saisisse, et qu'on me l'amene pieds et mains lies. Je veux que justice en soit faite.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X.
+LE ROI, seul. 
+Oui, parbleu ! Tu mourras, outrecuide magot. 
+Tu grilleras aussi sur le meme fagot... 
+Mais, que dis-je, grands dieux ! Bourreau de ma famille, 
+Ainsi qu'une saucisse on rotira ma fille ! 			[105]
+Moi-meme j'en serai l'odieux occiseur ! 
+Je fremis : tous mes sens se sont glaces d'horreur. 
+On rotira ma fille ! Ah ! Nature, nature ! 
+Pour garantir l'honneur d'encombre et de mechef, 
+A quoi sert-il de donner la serrure 			[110]
+Quand tant de gens en ont la clef ? 
+SCENE XI. Le Roi, Perion, Elizene, Dariolette, Galaor, Gardes.
+Le theatre change, et represente une place publique, au milieu de laquelle est un bucher.
+Le theatre change, et represente une place publique, au milieu de laquelle est un bucher.
+PERION chante. 
+C'est unir deux amants 
+Que de les rissoler ensemble. 
+LE ROI.
+Te voila donc, mechant suborneur, qui violes, comme un Sarrazin, les droits de l'hospitalite ! 
+PERION.
+Que voulez-vous que j'y fasse ? Les filles ont toujours eu de l'ascendant sur moi ; et, quand je le puis, je prends ma revanche.
+LE ROI, a Elizene. 
+Et toi, fille deloyale, me faire cet affront a la fleur de mon age ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour toi, chienne de pendarde, s'il n'y avait point de bourreau, je t'etranglerais moi-meme. C'est toi qui as mene ma fille a la boucherie. 
+DARIOLETTE.
+Quant a moi, je l'ai fait a bonne intention : j'ai cru que quand on s'etait donne la foi on pouvait se parler nuit et jour, sans rien craindre. 
+LE ROI.
+Va, va, tu seras brulee. Allons, officiers, faites votre charge ; qu'on fasse l'operation. 
+PERION.
+Qu'appelez-vous l'operation ? Je ne suis pas malade. A cette heure, je vous avertis que je ne vaux rien roti.
+SCENE XII. Les Personnages precedents, Une Ombre.
+Les Gardes conduisent Perion au bucher ; a l'instant il en sort one Ombre.
+L'OMBRE chante. 
+Ah ! Que fais-tu la, temeraire ? 
+Ah ! Je defends qu'il soit roti. 			[115]
+Delizene et de ce compere 
+Il doit naitre bientot un fils 
+Premature comme son pere, 
+Et qu'on doit nommer Amadis. 
+PERION.
+Comment ! D'Elizene et de moi il doit naitre un fils qu'on nommera Amadis, et vous voulez me faire bruler ! Ah, vieux penard ! Je veux te faire mettre a ma place. Allons, qu'on le saisisse. 
+LE ROI.
+Ah, seigneur ! Je vous demande pardon ; puisque vous m'avez sauve la vie tantot contre un lion, je consens que vous epousiez ma fille. 
+PERION.
+Allons, je vous pardonne ; et puisque les destins l'ordonnent, j'epouse votre fille.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais ecoutez, la belle, voila un oracle qui me lanterne les oreilles : il dit que j'aurai bientot un, fils ; je vous avertis que je n'aime pas les enfants precoces. 
+ELIZENE.
+J'aimerais mieux etre morte que d'avoir failli et prevarique. 
+DARIOLETTE.
+Seigneur, il ne faut pas que l'oracle vous etonne ; les filles dans les Gaules sont fort expeditives. 
+PERION.
+C'est a peu pres la meme chose chez nous ; et souvent les peres et meres sont plus tot avertis de la multiplication de leur famille, que de la noce de leurs filles. 
+LE ROI.
+Allons, qu'en faveur de ce mariage, ce triste appareil de funerailles se change en des marques de rejouissance.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)GALAOR.
+Seigneur, puisque vous etes en train de marier, voila Dariolette : tandis que vous jouez gros jeu avec la princesse, ne pourrais-je pas carabiner avec la soubrette ? 
+DARIOLETTE.
+Est-ce que tu perds l'esprit ? Crois-tu que je voulusse d'un carabin comme toi ? 
+GALAOR chante. 
+Ah, Dariolette 			[120]
+Si blanchette, si douillette, 
+Je connais sur l'etiquette 
+Que tu ne t'en feras prier ; 
+Car lorsque le chevalier 
+De la dame a fait emplette, 			[125]
+C'est la raison que la soubrette 
+S'ebaudisse avec l'ecuyer. 
+DIVERTISSEMENT.
+UN BERGER chante sur un air de menuet. 
+Dans le bel age 
+Ou l'on s'engage, 
+L'hymen est doux ; 			[130]
+Fille fringante, 
+Que l'amour tente, 
+Sans en rien dire demande un epoux. 
+Mais quand un pere 
+Trop lent differe, 			[135]
+L'amant sincere 
+Doit cependant 
+Prendre en avance 
+Quelque licence, 
+Sauf a deduire quand il sera temps. 			[140]
+UN GAULOIS chante.
+Au bon vieux temps, 
+On s'aimait d'amour sincere ; 
+Qui plus aimait, savait plaire : 
+Les amants etaient constants 
+Au bon vieux temps. 			[145]
+L'amour a present degenere ; 
+Ce n'est que feinte et mystere : 
+Ne verrons-nous de nos ans 
+S'aimer comme on soulait faire 
+Au bon vieux temps ? 			[150]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)UN GAULOIS chante.
+On ne peut bien garder les filles ; 
+Elles s'echappent quelque jour : 
+Les limacons de leurs coquilles 
+Sortent bien pour faire l'amour.
+GALAOR.
+Quand veux-tu, petite brunette, 			[155]
+Remonter un pauvre ecuyer ? 
+N'est-il pas temps que ma mazette 
+Tire enfin a ton ratelier ? 
+DARIOLETTE.
+Quand on est et jeune et gentille, 
+Il est bien facheux de mourir ; 			[160]
+Mais de rester encore fille, 
+C'etait mon plus grand deplaisir. 
+PERION, au parterre.
+D'Amadis voila la naissance, 
+Assez suspecte a mon avis ; 
+Sans trop medire, il est en France 			[165]
+Encore bien des Amadis. 
+
+	==================================================

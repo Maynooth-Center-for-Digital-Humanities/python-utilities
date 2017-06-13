@@ -1,0 +1,1708 @@
+********************************************************
+	DC.Title                  = LES LIBELLISTES, DRAME EN QUATRE ACTES.
+	DC.Author                 = BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:08.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/BEAUNOIR_LIBELLISTES.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LES LIBELLISTES DRAME EN QUATRE ACTESM. DCCC. VII.
+Par M. DE BEAUNOIR.
+	A PARIS, chez ANTOINE-AUGUSTIN RENOUARD, rue Saint-Andre des Arts, n°55.
+	
+	Represente en allemand sur le theatre de Berlin en 1797 ; et a Paris, en francais, sur celui des Varietes-Etrangeres, le i4 janvier 1807.
+	AVERTISSEMENT.
+On ne sera peut-etre pas fache d'apprendre comment un Francais se trouve auteur original d'une piece allemande. Voici le fait :
+J'etais en 1796 a Berlin, et je m'etais lie avec Ifland qui, comme notre Moliere moderne, est tout a la fois auteur, acteur et directeur du grand theatre. Nous disputions un jour sur l'art dramatique, et je lui reprochais la preference qu'il donnait aux farces anglaises sur nos meilleures Comedies francaises. Je sens bien, me dit-il, la superiorite du theatre de Paris sur celui de Londres, mais ce dernier convient mieux a notre gout national. Nous trouvons vos Comedies sans mouvement, sans interet ; tout y est prevu, rien ne nous y surprend. Ce sont de longues conversations, fort bien faites, si vous voulez, mais trop froides. Nous voulons etre emus, etonnes, affectes, et vous autres Francois, vous avez trop de gout pour avoir de l'imagination.
+Ce reproche me piqua ; je lui soutins que le dernier de nos auteurs francais ferait, quand il le voudrait, un Drame superieur a tous ceux de Rotzebue ; et pour le lui prouver, je lui proposai le pari qu'en quinze jours, je lui donnerais un ouvrage auquel les Allemands eux-memes seraient trompes. Il accepta le pari. Je fis Les Libellistes, en me gardant bien de suivre aucune regle, et en unissant le coloris de la comedie de caractere, aux sombres teintes du drame: je le fis traduire fidelement, et mot pour mot, par madame Unger, femme de l'imprimeur du Roi. La piece fut lue, acceptee et jouee avec le plus grand succes, et pas un Allemand ne se douta que ce fut l'ouvrage d'un Francais, car j'avais promis le secret a Ifland.
+Voila l'histoire de mes Libellistes : au reste, si Messieurs les Allemands ne se font aucun scrupule de prendre nos ouvrages, les auteurs anglais sont encore plus corsaires qu'eux sur cet article, et je puis en fournir une preuve qui m'est personnelle.
+J'avais fait traduire en allemand Les Amis du Jour, comedie jouee avec succes sur le theatre des Italiens, en 1784. Arrive a Hambourg, je la presentai a Schroeder, directeur du theatre allemand : il se mit a rire en en lisant la premiere scene, et me dit qu'il l'avAit traduite sur la piece originale qui etait anglaise, et intitulee : Un quart-d'heure avant diner.
+Comme j'avais heureusement ma piece francaise imprimee avec la date de la representation, il me fut aise de lui prouver qu'elle etait anterieure de dix ans a celle de l'Anglais, qui n'a voit pas change une scene, pas un seul mot, et n'avait cependant pas eu la delicatesse d'annoncer que sa piece n'etoit qu'une traduction.
+Voila comme nous avons la bonte d'admirer des ouvrages dont nous faisons grand cas, parce que nous les croyons etrangers. Reprenons donc notre bien partout ou nous le trouverons, et n'allons pas chercher si loin ce que nous foulons souvent a nos pieds.
+
+PERSONNAGES
+LE PRESIDENT DE ROSTEIN, sous le nom de Wild.
+HENRIETTE, fille du president de Rostein.
+LE BARON DE ROTHENBERG.
+GEORGE DE ROTHENBERG, fils du baron.
+LE COMTE DE VANDER-ALTE.
+MONSIEUR DESCHARFMANN.
+MONSIEUR DE LA PRESSE, libraire.
+MADAME BERG, Marchande de modes.
+ROBERT, intendant du baron de Rothenbeng.
+BERTE, vieille paysanne.
+FRANCK, valet de chambre de Georges de Rothenberg.
+LE TENDRE, spadassin.
+LA DOUCEUR, spadassin.
+Les deux premiers actes se passent a Vienne, dans l'hotel du baron de Rothenberg. Les deux derniers dans une campagne, a une lieue de Vienne.
+
+
+
+			ACTE I
+
+Le theatre represente un cabinet d'etude, avec un bureau couvert de papiers.
+
+SCENE PREMIERE. Le Baron de Rothenberg, Robert.
+LE BARON.
+Sommes-nous seuls, Robert ?
+ROBERT.
+Oui, Monsieur le Baron.
+LE BARON.
+Mon fils est deja sorti ?
+ROBERT.
+Il y a plus d'une heure.
+LE BARON.
+Personne ne peut nous entendre ?
+ROBERT.
+Personne.
+LE BARON, s'asseyant, et montrant une chaise a Robert.
+Asseyez-vous, Robert.
+ROBERT, hesitant.
+Monsieur le Baron....
+LE BARON.
+Asseyez-vous, vous dis-je. Le depot precieux que je vous ai confie, et dont vous allez me rendre compte, fait disparaitre a mes yeux le simple serviteur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand je quittai Vienne, il y a huit ans, pour la Cour ou mon Souverain m'envoyait ; la trop grande jeunesse de mon fils, ne me permit pas de l'emmener avec moi ; je vous le confiai, Robert, non comme a un Mentor, mais comme a un serviteur aussi zele que fidele ; je ne vous donnai pas le titre de gouverneur, j'oserais a peine le prendre, moi qui suis son pere ; vous restates toujours mon intendant. Etes-vous content de mon fils, Robert ?... Est-ce un bonheur pour moi d'etre pere ?
+ROBERT.
+Oui, Monsieur le Baron ; j'ai toute sa confiance ; il ecoute mes avis et mes conseils avec docilite, parce que je les lui donne sans pretention. J'ose me flatter d'en etre aime autant peut-etre que je lui suis attache.
+LE BARON.
+Rendez-moi donc compte de ses moeurs, de ses gouts, de ses projets.
+ROBERT.
+Ses moeurs sont douces, ses gouts sont honnetes, et je le crois sans ambition.
+LE BARON.
+Tant mieux ; a-t-il tenu ce qu'il annoncait il y a huit ans ?... Il promettait beaucoup alors.
+ROBERT.
+Ne avec toutes les qualites qui rendent un homme aimable, il a encore recu de la nature un esprit fin et agreable, que l'etude, sa seule passion, a developpe et enrichi ; il est fAit pour etre aime de tout le monde, et il le serait sans doute... si...
+LE BARON.
+Achevez, Robert, je ne veux pas etre flatte.
+ROBERT.
+Il serait adore sans un penchant cruel auquel il s'abandonne.
+LE BARON.
+Et quel est ce penchant ?
+ROBERT.
+Celui de medire. Autant son coeur est bon, autant sa plume est mechante ; personne n'est a l'abri de ses traits.
+LE BARON.
+Que me dites-vous ? Mon fils serait un libelliste ?
+ROBERT.
+Oui, Monsieur le Baron, c'est le nom qu'on lui donne.
+LE BARON, se levant.
+O ciel ! Tu me punis comme je l'ai merite ! Le malheureux !
+ROBERT.
+Ce jeune homme, si dangereux dans son cabinet, est l'etre le plus aimable et le plus doux dans la societe, ami franc, plein d'honneur et toujours pret a secourir l'infortune qu'il peut decouvrir.
+LE BARON.
+Mon fils connu pour etre un libelliste ?
+ROBERT.
+Il en est tout au plus soupconne ; quelques affaires que lui susciterent ses premiers ecrits, et dont il se tira avec honneur...
+LE BARON, vivement.
+Dites avec bonheur.
+ROBERT.
+Ces affaires lui firent voir le danger que court le libelliste ; et depuis ce temps, il se tient prudemment cache sous le manteau de l'anonyme.
+LE BARON.
+Que j'ai eu toit de ne pas l'emmener avec moi ! Qu'un pere est coupable de laisser son fils livre a lui-meme ; quelle faute j'ai faite ! Mais, dites-moi, Robert, a-t-il au moins des moeurs ?
+ROBERT.
+Oui, M. le Baron ; et rien jusqu'a ce jour n'en a altere la purete ; je ne vous cacherai pas cependant que je lui crois une intrigue secrete. Ayant remarque que, tous les deux jours, il sortait de la ville aussitot que les portes en etaient ouvertes, j'ai eu la curiosite de le suivre d'assez loin pour n'en pas etre apercu.
+LE BARON.
+Eh bien !
+ROBERT.
+Je l'ai vu entrer a une demi-lieue de la ville, chez une vieille fermiere qui lui fournit des habits de paysan, avec lesquels il se rend a votre ermitage.
+LE BARON.
+A mon ermitage ?
+ROBERT.
+Oui, Monsieur le Baron.
+LE BARON, a part.
+A mon hermitage ! Ah ! S'il savait combien j'y ai verse de larmes ! Achevez, Robert ; vous n'avez rien decouvert de plus ?
+ROBERT.
+Non, Monsieur le Baron, je sais seulement que c'est aujourd'hui son jour de rendez-vous, et je ne doute pas qu'il n'y soit alle.
+LE BARON.
+Ce mystere suffit pour alarmer ma tendresse : faites donc l'impossible pour connaitre cette paysanne, et savoir d'elle les motifs du deguisement de mon fils.
+ROBERT.
+Cela ne sera pas difficile ; je la connais bien de vue, et je suis certain de la faire parler.
+LE BARON.
+Ne perdez pas un instant.
+ROBERT.
+Des aujourd'hui, j'espere vous en rendre un compte exact.
+LE BARON.
+Allez, Robert ; j'attends ici mon fils ; je veux lui parler seul.
+SCENE II.
+LE BARON, seul.
+Que viens-je d'apprendre ! Ce n'etait donc pas assez d'avoir a pleurer sur mes torts ! Il faut encore que je gemisse sur ceux de mon fils ! Eh ! Comment oserais-je les lui reprocher ?... Ah ! Mon fils, si tu savais combien est terrible la voix du remords. Helas ! J'esperais enfin la faire taire ! Je revenais avec cet espoir si doux de pouvoir reparer mes torts, obtenir mon pardon, jouir de quelques jours plus calmes et plus heureux. Eh ! Je trouve mon fils libelliste ! Mais le voici ; cachons-lui mon trouble, et tachons de lire dans sou coeur, avant de lui decouvrir la blessure du mien.
+SCENE III. Le Baron, Georges de Rothenberg.
+LE BARON.
+Bonjour, mon fils ; vous etes sorti de bien grand matin ?
+ROTHENBERG, un peu emu.
+C'est mon habitude, mon pere ; j'aime a gouter a la campagne la fraicheur et le calme d'une belle matinee.
+LE BARON.
+Vous avez raison... Vous paraissez cependant bien emu.
+ROTHENBERG.
+Ce n'est rien.
+LE BARON.
+Pardonnez-moi, je vois de l'inquietude dans vos yeux ce n'est pas sans doute mon retour qui vous afflige ?
+ROTHENBERG, lui baisant la main,
+O mon pere !... Je vais vous l'avouer ; je porte peut-etre trop loin la sensibilite.
+LE BARON.
+Elle cause bien des maux ! Mais elle annonce toujours un bon coeur ; c'est un doN du ciel ! Gardez-vous bien de la perdre, et dites-moi ce qui peut vous affecter ainsi ; songez que c'est moins un pere qu'un ami que voua retrouvez en moi.
+ROTHENBERG.
+Vous allez vous moquer d'un mouvement d'humeur que je n'ai pas ete le maitre de vous cacher : je suis intimement lie avec Monsieur de Scharfmann, homme de lettres, litterateur estime ; je viens de le trouver dans le parc, en conversation avec l'ami du ministre, l'homme qui a toute sa confiance, qui fait tout... J'ai salue Scharfmann, mais a peine a-t-il daigne me rendre mon salut, et quand j'ai voulu l'aborder, il m'a tourne le dos : je vous avoue qu'un pareil procede me revolte et m'humilie.
+LE BARON.
+Mon fils, on se fait a soi-meme bien des chagrins quand on est trop susceptible ; votre ami causait avec un homme en credit, il est possible qu'il ait craint la presence d'un tiers.
+ROTHENBERG.
+Mais on rend le salut, au moins ; on fait un signe d'amitie...
+LE BARON.
+Laissons cela, et parlons de choses plus interessantes. Lorsque je vous quittai, vous etiez encore un enfant ; je vous retrouve un homme : tout ce qu'on me dit de votre esprit, est fait pour me flatter ; il m'est bien doux lorsque je quitte la carriere d'y voir entrer mon fils, et d'esperer qu'il me remplacera... Dites-moi donc quel est l'etat que vous comptez choisir ; quel qu'il soit, ma fortune et mes services me mettent a meme de vous le faire obtenir.
+ROTHENBERG.
+Vous l'avouerai-je, mon pere, ne sans ambition, sans orgueil, content de ma fortune, je ne cherche point a l'augmenter ; ces faveurs, ces places, ces titres d'honneur que je vois briguer avec tant d'empressement, ne m'inspirent que du mepris ; c'est pour moi que je veux vivre ; tranquille dans mon cabinet, me reposant au milieu des talents et des arts, qui seuls donnent de vrais plaisirs, et des jouissances sans inquietude et sans remords.
+LE BARON.
+Y pensez-vous, mon fils, vivre pour vous seul ! Eh ! De quel droit pretendez-vous vous exempter des devoirs que tout homme honnete doit a la societe ? Vous parlez de repos, qu'avez-vous donc fait pour le meriter ? Quels sont les services que vous avez rendus a votre prince, a votre patrie ?
+ROTHENBERG.
+N'est-ce pas la servir que de l'eclairer ? Croyez-vous qu'un homme de lettres ne soit pas aussi utile a ses concitoyens, que le militaire, que le magistrat meme ? Que dis-je ? Ce magistrat, ce militaire ne servent que leur pays ; l'homme de lettres sert l'humanite entiere ; ses travaux ne sont pas resserres dans un cercle etroit ; il travaille en meme temps et pour tous les pays et pour tous les siecles.
+LE BARON.
+Mon fils, personne n'estime plus que moi le veritable homme de lettres, personne ne l'apprecie plus a sa haute valeur. Mais songez que si la litterature est le premier des etats, elle est le dernier des metiers ; qu'elle ne souffre pas de mediocrite, qu'il faut y tenir le premier rang, ou languir dans le mepris. Vous voulez etre homme de lettres, croyez que je m'enorgueillirais de la gloire de votre nom ; mais vous etes dans l'age ou le talent, par le brillant de son aurore, annonce ce qu'il sera a son midi ; quel ouvrage avez-vous deja fait qui promette ce que vous serez un jour ? Quels sont vos titres a la gloire ? C'est a votre age que l'Orphee francais avait deja chausse le cothurne, et trace la Henriade.
+ROTHENBERG.
+Le philosophe de Geneve n'eut pas d'aurore ; ce fut a son midi qu'il embrasa l'horizon litteraire de toute sa gloire ; comme lui, je prepare en silence mes titres a l'estime ; comme lui, je retarde mon vol, pour mieux l'assurer.
+LE BARON.
+J'aime cette juste defiance de vos forces ; le vrai talent est toujours modeste ; j'approuve que vous cachiez dans le silence vos premiers essais ; mais ces essais ne doivent pas etre un secret pour votre pere ; vous savez combien l'oeil paternel est indulgent... On medit que vous travaillez beaucoup ; montrez-moi donc ce que vous avez fait.
+ROTHENBERG.
+Pardon, mon pere, je n'ai rien de fini.
+LE BARON.
+N'importe, je devinerai sur le plan, ce que peut devenir l'ouvrage... Voyons.
+ROTHENBERG.
+Non, mon pere, tout ce que j'ai dans mon portefeuille, ou sur mon bureau, n'est pas digne de vous etre montre.
+LE BARON.
+Pourquoi, mon fils ?
+ROTHENBERG.
+Ce sont des riens, absolument des riens, dont vous me verriez rougir.
+LE BARON.
+Vous voulez etre homme de lettres, et vous rougissez de vos ouvrages ! Est-ce exces de modestie ? Est-ce exces d'orgueil ? Avez-vous perdu votre temps, ou l'auriez-vous mal employe? repondez-moi.
+ROTHENBERG.
+Mon pere, vous me pressez avec trop de severite : je n'ai ni fausse modestie, ni orgueil ; mais ce que j'ai fait jusqu'ici n'est pas digne de voir le jour.
+LE BARON.
+Pourquoi donc travaillez-vous ? Vous n'osez montrer votre ouvrage a votre pere ? Votre plume aurait-elle outrage les moeurs ? Entraine par le torrent d'une philosophie destructive, seriez-vous assez aveugle pour avoir attaque ce que le Gouvernement a de plus sacre et de plus respectable ?
+ROTHENBERG.
+Non, mon pere, non, jamais.
+LE BARON.
+Je ne vous crois pas assez malheureux pour etre un de ces fleaux de la societe qui, rougissant eux-memes de leur lachete, se cachent pour lancer dans le silence les traits empoisonnes dont ils dechirent le coeur de leurs victimes... Etres aussi vils que mechants, qui font horreur a eux-memes, sont l'effroi des honnetes gens, baissent les yeux devant l'homme qui les regarde fixement, et rougissent lorsqu'ils s'entendent nommer. Non, mon fils n'est pas un libelliste. Je l'offenserais d'en former meme le soupcon ; il ne voudrait pas porter la honte, le desespoir et la mort dans le coeur de son pere... Je n'attribue donc qu'a votre modestie, le refus que vous me faites de me montrer votre travail ; demain vous le confierez a ma tendresse ; demain nous visiterons ensemble votre portefeuille n'est-il pas vrai, mon fils ?
+ROTHENBERG.
+Oui, mon pere.
+LE BARON.
+Demain?
+ROTHENBERG.
+Demain.
+LE BARON.
+Sans douter de vos talents litteraires, je vous avoue que je desirerais vous voir remplir la place que je dois a l'estime et a la confiance de mon souverain ; en offrant ma demission au ministre, en lui demandant ma retraite, j'ai sollicite pour toute grace d'etre remplace par mon fils ; j'en ai la promesse, vos provisions devraient deja etre expediees ; je suis etonne de ce retard, et je vais passer dans les bureaux, pour en savoir les causes. J'espere que si j'obtiens cette grace, vous ne la refuserez pas.
+ROTHENBERG.
+Non, mon pere ; vous obeir est mon premier devoir, me montrer digne de vous est mon unique desir ; et quels que soient mes gouts, ils seront toujours subordonnes aux volontes de mon pere : je serai tout ce qu'il voudra que je sois.
+LE BARON.
+En ce cas, vous serez honnete, sensible et bon, pour etre heureux.
+SCENE IV.
+ROTHENBERG, seul.
+Quel bonheur qu'il n'ait pas insiste a voir mon porte-feuille ; oh ! Comme je souffrais ! Comme je rougissais !... Demain, je lui montrerai mes ouvrages : demain... Jamais, jamais... Cette nuit ils disparaitront tous... Pourvu que mon pere n'entende pas parler de mon dernier ouvrage... Il fait un bruit.... Le succes en est complet... si je pouvais l'avouer ! Quelle gloire, quelle reputation ! On me soupconne, on me nomme meme... je m'en suis apercu a la maniere dont chacun me regardait, me fuyait ce matin... Tremblez, tremblez, mechants, sots , impudents, hypocrites, tremblez ; d'une main je tiens la verge sanglante, de l'autre le fer rouge...
+SCENE V. Rothenberg, Franck.
+FRANCK.
+Monsieur ?
+ROTHENBERG.
+Que voulez-vous, Franck ?
+FRANCK.
+C'est Monsieur de La Presse, votre libraire, qui demande si vous etes visible.
+ROTHENBERG.
+Je le suis toujours pour lui faites-le entrer.
+FRANCK.
+Entrez, Monsieur.
+ROTHENBERG.
+Laissez-nous.
+SCENE VI. Rothenberg, La Presse.
+ROTHENBERG.
+En ! Bonjour Monsieur de La Presse ; qui peut me procurer le plaisir de vous voir si matin ?
+LA PRESSE.
+Le desir de vous rendre mes devoirs, Monsieur, et de vous temoigner ma reconnaissance ; votre dernier pamphlet est une mine d'or pour moi, je ne puis suffire a la vente, et je vous prie de vouloir bien accepter ce petit cadeau.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ROTHENBERG.
+Mais, Monsieur de La Presse, vous savez que je n'ecris pas pour de l'argent, que je ne vends pas mes ouvrages.
+LA PRESSE.
+Je le sais, mais un jeune homme a souvent de petites fantaisies, et avec de l'argent on se les passe toutes. Je vous rapporte aussi le dernier manuscrit que l'ami Franck m'a remis de votre part.
+ROTHENBERG.
+Eh bien ?
+LA PRESSE.
+C'est un roman charmant... mais...
+ROTHENBERG.
+Quoi ?
+LA PRESSE.
+Il est tres bien ecrit... mais...
+ROTHENBERG.
+Eh bien ! Quoi, mais ?.... Est-ce que vous n'en etes pas content?
+LA PRESSE.
+Je ne dis pas cela, Monsieur, mais...
+ROTHENBERG.
+Mais, mais, que dites-vous donc ?
+LA PRESSE.
+Monsieur veut-il me permettre de lui dire franchement ce que j'en pense ?
+ROTHENBERG.
+Tres volontiers.
+LA PRESSE.
+Je ne le crois pas de vous.
+ROTHENBERG.
+Pourquoi ?
+LA PRESSE.
+Ce n'est pas la votre touche, je n'ai pas reconnu votre faire, il n'y a pas la moindre petite anecdote scandaleuse, pas un seul portrait ; on n'en demandera pas la clef ; c'est un ouvrage a rester dans le magasin, ce n'est pas la le sort de tout ce que vous me donnez... Je vous apporte quelques petites notes, si vous vouliez en faire usage, je suis certain qu'alors votre roman irait aux nues.
+ROTHENBERG.
+De qui tenez-vous ces notes ?
+LA PRESSE.
+De bonnes mains ; d'un coureur et d'une femme-de-chambre.
+ROTHENBERG.
+Sont-elles vraies ?
+LA PRESSE.
+Se non e verot e ben trovato.
+ROTHENBERG.
+Ce n'est pas ce dont nous sommes convenus ; je me fais un plaisir de demasquer le sot impudent, l'orgueilleux, l'hypocrite ; mais je respecte l'honneur, la vertu, la verite.
+LA PRESSE.
+Vous connaissez toute ma discretion.
+ROTHENBERG.
+J'ai cependant deja essuye des reproches... On me nomme...
+LA PRESSE.
+Soyez certain que ces bruits la ne sortent pas de ma boutique ; c'est le temple du mystere.
+ROTHENBERG.
+Eh bien ! Monsieur de La Presse, il faut me rendre un service.
+LA PRESSE.
+Ordonnez, Monsieur.
+ROTHENBERG.
+Franck vous portera ce soir mon porte-feuille, et tous mes manuscrits.
+LA PRESSE.
+Ah ! Monsieur, vous etes trop bon, trop genereux ; comment pourrai-je jamais reconnaitre... C'est une pluie bienfaisante que vous repandez sur moi.
+ROTHENBERG.
+Vous ne m'entendez pas.
+LA PRESSE.
+Si fait, Monsieur ; vous me donnez tous vos manuscrits ?
+ROTHENBERG.
+Oui.
+LA PRESSE.
+Pour les imprimer ?
+ROTHENBERG.
+Ils le sont deja.
+LA PRESSE.
+Par qui ?
+ROTHENBERG.
+Mais par vous ; ce sont les manuscrits de tous les ouvrages que nous avons donnes au public ; mon pere est arrive hier, il m'a menace d'une visite dans mes papiers, et vous sentez bien que je ne voudrais pas pour cent ducats qu'il en apercut une feuille.
+LA PRESSE.
+Je le crois bien, Monsieur, car moi, je ne voudrAis pas pour mille ducats, qu'on en trouvat une ligne dans ma maison.
+ROTHENBERG.
+Pourquoi donc ?
+LA PRESSE.
+Monsieur, il y a quarante-cinq ans que j'ai l'honneur d'etre imprimeur-libraire, sans avoir jamais eu la moindre tache a ma reputation, la moindre altercation avec la police ou le Gouvernement ; on sait qu'il n'est, jamais sorti de mes presses que des ouvrages bien et dument censures et approuves.
+ROTHENBERG.
+Vous avez cependant imprime tous mes pamphlets ?
+LA PRESSE.
+Jamais chez moi, Monsieur ; nous faisons imprimer ces sortes d'ouvrages, qu'on n'ose avouer, dans des caves ou des greniers, par de pauvres diables d'imprimeurs ruines, qui ne nous connaissent meme pas ; mais on n'imprime chez moi que des ouvrages estimables, tels que vous en ferez sans doute un jour.
+ROTHENBERG.
+Ne parlons plus de cela.
+LA PRESSE.
+A propos , Monsieur, j'ai un petit service a vous demander.
+ROTHENBERG.
+De quoi s'agit-il ?
+LA PRESSE.
+Vous connaissez Monsieur de Scharfmann ?
+ROTHENBERG.
+Beaucoup.
+LA PRESSE.
+C'est un homme de merite, qui frappe bien le vers, qui peut aller a l'immortalite.
+ROTHENBERG.
+Eh bien ?
+LA PRESSE.
+J'avais fait un marche avec lui pour une nouvelle edition de ses satires, j'avais fait fondre tout expres un caractere neuf, je m'etais approvisionne du papier le superbe ; enfin , Monsieur, j'en aurais fait un chef d'oeuvre typographique : j'etais convenu de donner a Monsieur de Scharfmann cent ducats ; c'etait trop paye, mais j'ai toujours gate les auteurs, c'est un mal de famille.
+ROTHENBERG.
+Eh bien ! Monsieur ?
+LA PRESSE.
+Eh bien ! Monsieur, un libraire de Hollande, un juif, lui a offert deux cents ducats de son manuscrit, et Monsieur de Scharfmann a ete assez malhonnete pour me le retirer, et le donner a ce fripon de Hollandais.
+ROTHENBERG.
+Que puis-je faire pour vous ? Voulez-vous donner a Monsieur de Scharfmann les deux cents ducats que lui offre son libraire de Hollande ?
+LA PRESSE.
+Non pas, Monsieur, non pas ; mais voici mon projet : je voudrais faire courir un petit pamphlet bien mechant, que je ferais aisement tomber sur le bureau du ministre, par lequel on le previendrait qu'il est designe dans une des satires nouvelles de Monsieur de Scharfmann. Le ministre ne manquerait pas de faire saisir toute l'edition lorsqu'elle entrerait dans le royaume ; pendant ce temps, je ferais la mienne en secret, et j'aurais le plaisir de ruiner un libraire Hollandais. Voila, Monsieur, le petit service que j'ose attendre de vous ; pour une plume comme la votre, c'est l'affaire d'une matinee ; quatre pages bien frappees suffiront, et voila vingt ducats que je vous prie d'accepter. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ROTHENBERG.
+Vous ne savez peut-etre pas que Monsieur de Scharfmann est mon ami ? 
+LA PRESSE mettant quatre ducats de plus sur le bureau.
+Votre ami ? Cela se peut.
+ROTHENBERG.
+Que Monsieur de Scharfmann est un homme d'honneur.
+LA PRESSE, ajoutant quatre ducats.
+Cela se peut.
+ROTHENBERG.
+Qu'il a autant de probite que de talents.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ROTHENBERG.
+Qu'il est incapable de manquer au juste respect qu'il doit a un ministre qui le protege, l'aime et l'estime ; que ses satires attaquent les vices et non les personnes.
+LA PRESSE, ajoutant quatre ducats.
+Je sais tout cela, Monsieur.
+ROTHENBERG.
+Qu'enfin vous avez tort de vous plaindre de son procede ; qu'un auteur est maitre de son ouvrage, et qu'il a raison de preferer le libraire qui lui en donne deux cents ducats, a celui qui n'en offre que cent.
+LA PRESSE.
+Monsieur, je vous demande un pamphlet, et non pas un sermon. Voulez-vous bien faire attention que voila trente-six ducats que j'ai comptes sur votre bureau ?
+ROTHENBERG.
+Vous en compteriez cent, vous en compteriez mille, que vous ne me feriez pas ecrire une ligne contre un ami que j'estime.
+LA PRESSE ramassant son or, et le remettant dans sa bourse.
+C'est votre dernier mot, Monsieur ?
+ROTHENBERG, avec humeur.
+Oui, Monsieur.
+LA PRESSE, avec une douceur ironique.
+Monsieur, on ne concilie pas les extremes ; ou soyez honnete homme, ou soyez libelliste. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI.
+ROTHENBERG, seul.
+Il a raison ; lorsque j'interroge mon coeur, je ne suis pas content de moi.
+SCENE VII. Rothenberg, Franck.
+FRANCK.
+Monsieur, une Dame est la qui demande a vous parler.
+ROTHENBERG.
+Si matin ! Qui est-elle ?
+FRANCK.
+Je n'en sais rien.
+ROTHENBERG.
+Son nom ?
+FRANCK.
+Je le lui ai demande ; elle m'a dit qu'il vous etait inconnu.
+ROTHENBERG.
+Faites-la entrer.
+FRANCK.
+Entrez, Madame.
+SCENE VIII. Rothenberg, Madame Berg.
+ROTHENBERG, va au-devant d'elle, et lui presente un fauteuil.
+Puis-je savoir, Madame, ce qui me procure l'honneur de votre visite, et si je puis vous etre bon a quelque chose ?
+MADAME BERG.
+Oui, Monsieur ; on m'a dit que vous vous faisiez un plaisir de secourir les infortunes, et c'est a ce titre que je viens implorer votre secours.
+ROTHENBERG.
+Vous m'obligez, Madame ; c'est un temoignage d'estime que vous me donnez et dont je me rendrai digne... Puis-je seulement savoir quelle somme ?...
+MADAME BERG.
+Vous ne m'entendez pas, Monsieur ; ce n'est pas le besoin qui m'amene ici.
+ROTHENBERG.
+A quoi donc, Madame, puis-je vous etre bon ?
+MADAME BERG.
+On m'a assure, Monsieur, que la finesse de votre esprit surpassait encore la bonte de votre coeur ; et c'est votre plume et non votre bourse que je viens reclamer.
+ROTHENBERG.
+De quoi s'agit-il, Madame ?
+MADAME BERG.
+Je suis la veuve d'un simple employe, qui m'a laissee sans fortune ; mon travail est ma seule ressource : mais j'ai eu le malheur d'etre nommee dans un infame libelle, intitule « Les Portraits du Jour », dont toute la ville est occupee. Vous sentez, Monsieur, le tort que cela peut me faire ; je voudrais donc que vous eussiez la bonte de me composer un petit memoire, que je presenterais au ministre, contre l'auteur de cet affreux libelle.
+ROTHENBERG.
+Connaissez-vous cet auteur, Madame ?
+MADAME BERG.
+Non, Monsieur ; mais le ministre doit le connaitre : c'est sans doute quelque malheureux qui n'ayant pas le courage d'etre un honnete ouvrier, gagne sa vie dans un grenier, a dechirer les plus honnetes gens. Prenez ma defense, Monsieur, et le ministre me rendra justice.
+ROTHENBERG.
+Mais quelle vengeance en voulez-vous tirer, Madame?
+MADAME BERG.
+Monsieur, ma conscience ne me reprochant rien, je mepriserais le scelerat qui ose attaquer ma reputation ; mais il me fait tort dans mon commerce, et j'ai droit d'exiger un dedommagement.
+ROTHENBERG.
+Lequel, Madame ?
+MADAME BERG.
+Si c'est, comme je le crois,un miserable, ne pourriez-vous pas demander qu'on le fit enfermer. Mais si par hasard c'etait un homme riche, ce qui le rendrait encore plus coupable, puisqu'il ferait le mal pour le seul plaisir de le faire, et n'aurait pas meme l'excuse de la faim, je demanderais un dedommagement.
+ROTHENBERG.
+A combien le fixez-vous, Madame ?
+MADAME BERG.
+Mais, Monsieur, ce serait etre raisonnable, je crois, que de me contenter de cinquante ducats.
+ROTHENBERG.
+De cinquante ducats seulement ?
+MADAME BERG.
+Oui, Monsieur.
+ROTHENBERG, lui donnant le rouleau que La Presse a laisse sur son bureau.
+En voila cent, Madame.
+MADAME BERG.
+Qu'est-ce que cela signifie, Monsieur ?
+ROTHENBERG.
+Il est inutile d'importuner le ministre pour si peu de chose ; d'ailleurs il pourrait peut-etre ne pas decouvrir l'auteur de cette brochure : je le connais, moi... Il est mon ami.
+MADAME BERG.
+Votre ami, Monsieur ?
+ROTHENBERG.
+Oui, Madame, je le condamne a cette juste amende, et je vous promets de lui faire reparer, dans une note, ce qu'il a pu dire d'injurieux a votre reputation.
+MADAME BERG.
+Ah ! Monsieur, il vous connait, et il peut etre mechant ! Il n'a donc jamais lu dans votre coeur ? Il n'a donc jamais senti le bonheur d'etre genereux, sensible ? De pouvoir se dire : jamais je n'ai fait repandre une larme ; vous l'eprouvez, vous, Monsieur, ce bonheur si pur ! Votre coeur ne vous reproche rien ; vous n'etes pas oblige de rougir ; aussi le ciel benira vos jours, parce que vous etes bon... Adieu, Monsieur, je n'oublierai jamais votre nom, je l'apprendrai a mes enfants, ils le cheriront... Ce qui m'etonne, ce qui m'afflige meme, c'est qu'un honnete homme comme vous, soit l'ami d'un etre aussi mechant, aussi meprisable qu'un libelliste.
+SCENE IX.
+ROTHENBERG, seul.
+Au moins j'ai repare le tort que j'avais fait a cette pauvre femme sans la connaitre ; et l'or de Monsieur de La Presse a ete bien employe. Je ne suis pas heureux... Ah ! Henriette ! Henriette ! J'ai besoin d'etre aupres de toi, pour respirer le bonheur et l'innocence.
+
+
+			ACTE II
+
+Le theatre represente un Jardin potager ; sur un des cotes ; en avant, est une petite elevation couverte de fleurs, et de jeunes arbustes ; a cote est un banc de pierre, dans le fond du Theatre est une chaumiere.
+
+SCENE PREMIERE. Wild, Henriette.
+Au lever de la toile, Wild est occupe a remplir un panier de legumes ; Henriette cueille une rose, sur un rosier plante sur la petite elevation.
+WILD.
+Comment, Henriette ! Tu cueilles ta rose, ta rose cherie, la premiere que te donne ce jeune rosier, que je te permis de planter sur la tombe de ta mere ?
+HENRIETTE.
+Oui, papa : tu ne devines pas a qui je veux la donner ?
+WILD.
+Ce n'est pas a moi ?
+HENRIETTE.
+Non, car tu ne veux jamais de fleurs.
+WILD.
+Pourquoi priver de sa parure la tige qui les porte et les nourrit ?
+HENRIETTE.
+Tu cueilles cependant les fruits.
+WILD.
+Parce que la nature les jette a mes pieds, quand ma main ne les detache pas.
+HENRIETTE.
+Je ne peux jamais disputer avec toi, papa, tu as plus de raison que moi.
+WILD.
+J'ai plus d'experience aussi.
+HENRIETTE.
+Es-tu fache que j'aie cueilli ma rose ?
+WILD.
+Elle est a toi, le rosier t'appartient, c'est Georges qui te l'a donne.
+HENRIETTE.
+C'est aussi pour lui que j'ai cueilli ma rose.
+WILD.
+Je m'en doute bien.
+HENRIETTE.
+Tu me devines toujours.
+WILD.
+Cela n'est pas difficile mon Henriette pense tout haut avec son pere ; mon Henriette n'a pas de secrets pour moi.
+HENRIETTE.
+Oh, non ! Papa, non ; tu m'aimes tant, tu es si bon : tu n'es pas fache ?
+WILD.
+Non, mon enfant.
+HENRIETTE.
+Papa, il est bien huit heures.
+WILD.
+Non, Henriette, le soleil est la ; l'ombre du peuplier porte jusqu'ici, mais ton impatience accuse le temps de lenteur.
+HENRIETTE.
+C'est vrai ; c'est que c'est aujourd'hui le jour de Georges...
+WILD.
+On frappe.
+HENRIETTE.
+C'est lui, papa.
+WILD.
+Va ouvrir.
+SCENE II. Wild, Henriette, Berte.
+HENRIETTE, etonnee de voir entrer Berte.
+C'est vous ?
+BERTE.
+Oui, mon enfant.
+HENRIETTE.
+Ou est Georges ?
+BERTE.
+Il n'a pas pu venir.
+HENRIETTE.
+Est-il malade ?
+BERTE.
+Non, mon enfant, Dieu merci.
+HENRIETTE.
+Pourquoi n'est-il pas venu ? C'est aujourd'hui son jour.
+BERTE.
+Le jardinier de la Dame du chateau avait besoin d'un journalier, et Georges y est alle.
+HENRIETTE.
+Mais il savait qu'il devait venir prendre aujourd'hui les legumes et les fruits de mon pere.
+WILD.
+Sa mere pouvait les venir chercher a sa place, et ne pouvait pas aller travailler en journee dans le jardin du chateau.
+HENRIETTE.
+C'est vrai.
+WILD, lui donnant un panier de fruits, et un de legumes.
+Tenez, ma bonne voisine, voici un panier de fruits, en voici un de legumes.
+BERTE.
+Et votre creme, ma fille ?
+HENRIETTE, avec un petit mouvement d'humeur.
+Je la garde.
+BERTE.
+Mon voisin, vous apporterai-je quelque chose de la ville ?
+WILD.
+Demandez a Henriette.
+HENRIETTE.
+Je ne veux rien, je n'ai besoin de rien.
+BERTE.
+Ce sera pour un autre jour... Adieu, ma chere enfant.
+HENRIETTE.
+Adieu.
+SCENE III. Wild, Henriette.
+WILD.
+Comme tu traites durement cette pauvre Berte, qui t'aime tant, a qui d'ordinaire tu fais tant d'amitie.
+HENRIETTE.
+Pourquoi vient-elle a la place de son fils.
+WILD.
+Elle t'en a dit les raisons.
+HENRIETTE.
+Ce n'est ni elle, ni moi, qui avons tort.
+WILD? souriant.
+Henriette, pourquoi n'as-tu pas donne a la bonne Berte la rose que tu destinais a son fils ?
+HENRIETTE.
+Tu le sais bien, papa.
+WILD.
+Console-toi, mon enfant, il viendra peut-etre demain.
+HENRIETTE.
+Cela m'est egal.
+WILD.
+Je le vois bien... Je vais visiter le verger, je crains que le vent de cette nuit n'ait fait tomber bien des fleurs.
+SCENE IV.
+HENRIETTE seule, elle regarde tristement sa rose.
+Pauvre rose ! C'etait a Georges, c'etait a ce mechant que je t'avais destinee, il n'est pas venu te chercher... Il prefere aller travailler dans le jardin d'une grande Dame, a venir prendre les fruits de son Henriette... Pauvre Henriette !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoi ! C'est de mes larmes qu'est arrosee la premiere rose que j'ai vue s'epanouir, que j'avais cueillie pour lui... pour lui... Funeste fleur ! Je ne te verrai donc que pour penser a lui... Non, non. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je n'y veux plus penser, c'est un ingrat... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tiens, mechant, tiens ; voila comme je traite ta rose.
+SCENE V. Wild, Henriette.
+WILD, reste un instant au fond du theatre, il regarde Henriette qui ecrase la rose, et s'approche doucement d'elle en souriant.
+Que fais-tu donc la, Henriette ?
+HENRIETTE.
+J'ecrase cette vilaine rose qui me fait pleurer.
+WILD.
+Tu es un enfant, je ne te chargerai pas du menage aujourd'hui.
+HENRIETTE.
+Tu as raison, papa, car j'ai la main malheureuse, et je briserais tout.
+WILD.
+Et tu nous ferais mourir de faim ?
+HENRIETTE.
+Certainement.
+WILD.
+Eh bien ! Changeons de tache aujourd'hui, tu travailleras au jardin, et moi je ferai le menage.
+HENRIETTE.
+Oui, papa.
+WILD.
+Mais ne va pas traiter mes laitues comme ta rose ; songe bien que ce n'est pas pour Georges que je les ai semees.
+HENRIETTE.
+Tu te moques de moi, papa.
+WILD.
+Oui, mon enfant.
+HENRIETTE.
+Eh bien ! Je m'en vais. .
+WILD.
+Sans embrasser ton pere ?
+HENRIETTE, se jetant dans ses bras.
+Oh ! Papa.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI.
+WILD seul.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pauvre enfant ! Quelle difference du sort que je te prepare, a celui qui t'etait destine ! Tu es nee dans la grandeur et l'opulence, et c'est la bure qui te couvre... Tu seras l'epouse d'un paysan pourquoi pas ? Georges est un brave et honnete garcon, Henriette l'aime ; il aime mon Henriette, il la rendra heureuse. Ah ! Qu'elle oublie, qu'elle oublie a jamais le secret de sa naissance, et mes malheurs voudrais-je la rejeter dans ce gouffre de crimes, de trahisons, de lachetes voudrais-je la rendre aux vices, en la replongeant dans l'abime et les horreurs de la societe... Eh ! Quand je le voudrais, le pourrais-je ?... Ils m'ont tout pris, les infames !... Mon etat, ma fortune, mon honneur, jusqu'a mon nom... Henriette la nature me l'a donnee bonne, je la rendrai a la nature aussi bonne que je l'ai recue... Mais qui peut frapper a ma porte ?
+SCENE VII. Wild, Le Baron.
+WILD.
+Que demandez-vous ?
+LE BARON.
+Un homme, un ami.
+WILD.
+Un ami ! Qui etes-vous ?
+LE BARON.
+Huit annees d'absence ont-elles suffi pour effacer du coeur de Wild tous les traits, et jusqu'au souvenir de son voisin ?
+WILD, avec joie.
+C'est le baron de Rothenberg.
+LE BARON, l'embrassant.
+Lui-meme, qui vous serre enfin dans ses bras.
+WILD.
+J'ai cru vous avoir perdu ; qu'il y a longtemps que je ne vous ai vu !
+LE BARON.
+M'avez-vous regrette ?
+WILD.
+Souvent.
+LE BARON.
+Ah ! Wild, Wild, combien vous m'avez coute de soupirs... Mais je vous revois enfin, je vous serre dans mes bras, nous ne nous quitterons plus, nous vivrons ensemble... Me le promettez-vous ?
+WILD.
+Oui, si vous etes libre.
+LE BARON.
+Je le suis ; mon souverain, content de mes services, a accepte ma demission : je n'ai plus de chaines... Je n'ai plus que des remords.
+WILD.
+Des remords ! Vous, Baron ?
+LE BARON.
+Oui, moi : des remords bien plus cruels que des malheurs... Un jour je vous ouvrirai mon coeur..... Un jour je vous montrerai toutes mes blessures.
+WILD.
+Ah ! Ma main les adoucira, si elle ne peut les fermer.
+LE BARON.
+C'est mon espoir... c'est mon espoir le plus doux ; vous m'aimerez, Wild ?
+WILD.
+Pourquoi dire vous m'aimerez, quand je vous aime deja ?
+LE BARON.
+Vous m'aimez parce que vous ne me connaissez pas... Quand vous me connaitrez...
+WILD.
+Eh bien ?
+LE BARON.
+Vous me mepriserez, je vous ferai horreur.
+WILD.
+Avez-vous commis quelque crime ?
+LE BARON.
+Un crime affreux.
+WILD.
+Vous vous en repentez ?
+LE BARON.
+J'en pleure des larmes de sang.
+WILD.
+Vous voulez le reparer ?
+LE BARON.
+Oui... Oui...
+WILD.
+Le pouvez-vous ?
+LE BARON.
+Oui.
+WILD.
+Baron, quel est l'homme qui peut dire : je n'ai rien a me reprocher ? Nous avons tous besoin d'indulgence ; heureux celui qui sait se repentir.
+LE BARON.
+Ah ! S'il suffisait de se repentir ! Si les hommes pardonnaient comme Dieu... Mais parlons d'autre chose, Wild, parlons d'autre chose.
+WILD.
+Je le veux bien.
+LE BARON.
+D'abord, donnez-moi des nouvelles de ma charmante Henriette... de ma fille... Vous m'avez permis de lui donner ce nom.
+WILD.
+Elle est au fond du jardin, voulez-vous que je l'appelle ?
+LE BARON.
+Pas encore, pas encore ; il faut auparavant que je vous entretienne en particulier... J'ai bien des choses, bien des choses a vous dire.... Wild.
+WILD.
+Asseyons-nous.
+LE BARON.
+Volontiers.
+WILD.
+Sur cette pierre.
+LE BARON.
+Sur cette pierre.... oui, oui, sur cette pierre. Ecoutez-moi, ecoutez-moi sans m'interrompre.
+WILD.
+Parlez.
+LE BARON.
+Vous savez qu'il y a huit ans je fus envoye par le ministre dans differentes Cours, pour y soutenir les droits et les interets de mon roi ; j'ai eu le bonheur de reussir au gre de mon souverain et de meriter l'approbation du ministre. De retour depuis deux jours, j'ai ete lui rendre compte de mes operations, et pour m'en temoigner son contentement, il m'a laisse maitre de fixer moi-meme la recompense de mes services ; je lui ai demande deux graces, l'une m'est promise, l'autre m'est accordee.
+WILD.
+Quelles sont-elles ?
+LE BARON.
+Celle qui m'est promise, est ma retraite, et d'avoir mon fils pour successeur... Celle qui m'est accordee, et qui m'est bien plus chere, est la reparation d'une grande injustice a laquelle vous n'etes pas etranger.
+WILD.
+Moi ?
+LE BARON.
+Vous meme... Ecoutez : il y avait a Vienne un homme respectable ; il etait en meme temps le plus tendre des epoux, le meilleur des peres, l'ami le plus sensible ; jamais la justice n'eut de ministre plus integre, le souverain de sujet plus fidele, le peuple de defenseur plus desinteresse... Un malheureux ecrivain eloigne, trompe par de fausses notes, le peignit dans un libelle comme un homme sans probite, sans moeurs enfin, le denonca comme un rebelle... Condamne sur cet affreux ouvrage, par un ministre, dont la haine le poursuivent depuis longtemps, et qui lui-meme avait fourni ces notes perfides, trop fier, trop vertueux pour se defendre, ce juge respectable disparut ; il perdit sa place, qui faisait toute sa fortune : reduit au plus grand besoin, il vint se cacher sous le chaume et sous l'habit d'un simple paysan, occupe nuit et jour a maudire son infame calomniateur ; j'ai eu le bonheur de le decouvrir, de pouvoir prouver son innocence... et c'est lui que je serre dans mes bras.
+WILD, se levant et le repoussant.
+Cruel ! Vous venez de me porter un coup affreux.... En dechirant le voile qui me couvre, vous m'obligez de fuir de nouveau.
+LE BARON.
+Non, non, president de Rostein, il n'est plus temps de fuir... Je viens, il est vrai, vous arracher a votre chaumiere, mais c'est pour vous rendre a la societe.
+WILD.
+Que voulez-vous dire ?
+LE BARON.
+Votre ennemi mortel, ce ministre qui dicta cet affreux libelle, qui en profita pour vous perdre, n'existe plus ; et la grace que j'ai obtenue du ministre, est votre rehabilitation entiere dans tous vos biens, et meme dans votre charge.
+WILD.
+Qui, moi ! Rentrer dans le monde, rentrer dans la societe, vivre avec des hommes plus cruels que les tigres, plus laches, plus rampants que les serpents !... Non, non, je veux mourir dans ma chaumiere ; voyez-vous cette fosse, la voyez-vous, c'est la mon refuge... C'est la ou je trouverai le repos.... C'est la ou s'eteindra ma haine pour tous les hommes, c'est celle de mon epouse infortunee, que couvrent aujourd'hui les lilas, le chevre-feuille et le rosier, qu'ombrage ce jeune peuplier plante par ma main ; il ombragera aussi ma tombe, il couvrira le corps de Wild... Car il y a longtemps que le president de Rostein est mort ; je suis Wild, je mourrai Wild.
+LE BARON.
+President de Rostein, ne devez-vous rien a votre souverain, a vos concitoyens ?
+WILD.
+A mon souverain ? Il m'a sacrifie, il a rompu mes noeuds... a mes concitoyens, a ces laches qui m'ont calomnie ; je ne leur dois que ma malediction , et tous les jours je les maudis.... Ce sont des hommes.
+LE BARON.
+Eh bien ! Coeur inflexible , coeur dur qui ne savez rien oublier, qui ne voulez rien pardonner, restez Wild, mourez Wild ; mais vous etes pere, vous avez une fille, songez a ce que vous lui devez.
+WILD.
+Je ne lui dois que le bonheur, et depuis huit ans, je travaille a le lui assurer, en en faisant la fille de la nature.
+LE BARON.
+Quoi ! Vous ne voulez pas lui rendre sa fortune, son rang, son nom ?
+WILD.
+Son nom, son rang, sa fortune.... Non, elle m'est trop chere ; elle aime un simple paysan, elle en est aimee, elle sera son epouse.
+LE BARON.
+Ah Wild ! La fille du president de Rostein, l'epouse d'un simple paysan !
+WILD.
+N'est-il pas un homme ?...
+LE BARON.
+Songez aux devoirs que vous impose le Dieu qui vous fit pere.
+WILD.
+Un Dieu! Un Dieu !... Savez-vous le plus grand mal que m'a fait mon calomniateur ? Ce n'est ni la perte de ma fortune, ni celle de mon etat et de ma reputation que je lui reproche ; je sens que je suis plus heureux sous le chaume, que sous vos superbes lambris ; mais ce que je ne puis lui pardonner, c'est d'avoir desseche mon coeur, c'est de m'avoir ote cette esperance si douce d'une autre vie... Cette esperance qui nous soutient dans le malheur, qui nous console des injustices... c'est enfin de m'a voir fait douter de l'existence d'un Dieu.
+LE BARON.
+Ah ! Malheureux, tu ne leves donc jamais la tete ?
+WILD.
+Non... Mais je tiens mes yeux fixes sur la terre, et je regarde autour de moi... Ecoutez-moi, Rothenberg, comme je ne cherche pas a vous pervertir, que je regrette votre croyance, que je vous avoue de bonne foi que je la regarde comme la source des vertus et meme du bonheur, respectez aussi ma malheureuse facon de penser, et n'en parlons jamais, si vous voulez que je vous parle encore.
+LE BARON.
+Un mot, un seul mot.
+WILD.
+Parlez.
+LE BARON.
+Votre epouse fut bonne, honnete, douce ; un malheureux, un calomniateur la traine au tombeau, et vous croyez que le meme sort les attend tous les deux ?
+WILD.
+Non, non, leur sort est bien different. Cet infame calomniateur vit encore , son coeur de fer jouit avec plaisir des maux qu'il m'a causes, et ma femme vertueuse, sensible, nourrie pendant un an de ses larmes, est descendue au tombeau entre la honte et le desespoir... Et vous voulez me faire croire a un etre tout-puissant, a un etre juste ?
+LE BARON.
+Wild, Wild, qui te dit que ton epouse n'est pas vengee ? Qui te dit que ton calomniateur ne verse pas tous les jours des larmes de sang : tu te plains ! Ah ! Tu aurais peut-etre pitie des maux qui dechirent le coeur de ce miserable ; tu ne connais pas les tourments des remords ; tu fremirais de ses souffrances.
+WILD.
+Je les lui souhaite pour ma vengeance : que je le voie aussi malheureux que moi, et alors je croirai a une vengeance celeste.
+LE BARON.
+Eh bien ! Vous le verrez.
+WILD.
+Je le verrai ?
+LE BARON.
+Oui.
+WILD.
+Quand ?
+LE BARON.
+Aujourd'hui.
+WILD.
+Ou ?
+LE BARON.
+Ici.
+WILD.
+Sur la tombe de ma femme ?
+LE BARON.
+Oui.
+WILD.
+Sur la tombe de ma femme ?
+LE BARON.
+Dans deux heures, je vous l'amene.
+WILD.
+Dans deux heures, il n'existera plus.
+LE BARON.
+Dans deux heures je vous l'amene.
+SCENE VIII. Wild, Le Baron, Henriette.
+HENRIETTE.
+Papa, papa, on maltraite la bonne Berte... Mais qu'as-tu donc, papa ? Tes yeux sont enflammes... Tu trembles... Monsieur, avez-vous fait du mal a mon pere ?
+WILD.
+Non, mon enfant, non ; eh quoi ! Tu ne reconnais pas notre ami, notre bon voisin, le baron de Rothenberg ?
+LE BARON.
+Je suis bien change, ma fille, vous etes bien embellie.
+WILD.
+Embrassez votre enfant... Embrasse l'ami, le bien bon ami de ton pere.
+LE BARON, l'embrassant.
+Ma fille, ma chere fille !
+HENRIETTE.
+Ah ! Mon coeur vous reconnait a cet embrassement.
+LE BARON.
+Wild, c'est ta fille... et tu veux...
+WILD.
+Taisez-vous... Henriette, que disais-tu de la bonne mere Berte ?
+HENRIETTE.
+Qu'on la querelle a la porte.
+WILD.
+Fais la entrer.
+HENRIETTE.
+Entre, ma bonne Berte, entre.
+SCENE IX. Wild, Le Baron, Henriette, Berte, Robert.
+WILD.
+Qu'avez-vous donc, ma bonne voisine ?
+BERTE.
+C'est ce mechant homme, que je ne connais pas, qui m'interroge brutalement, et qui pretend me faire parler malgre moi.
+ROBERT.
+Oui, oui, je vous ferai parler.
+LE BARON.
+C'est vous, Robert ?
+ROBERT.
+Oui, Monsieur le Baron.
+WILD.
+Vous connaissez cet homme ?
+LE BARON.
+Il est a moi... Qu'est-ce que c'est que cette femme ?
+WILD.
+C'est la mere de ce jeune paysan dont je vous ai parle, qui vient prendre mes commissions.
+HENRIETTE, gaiement.
+C'est la mere de Georges.
+LE BARON.
+Que voulez-vous a cette femme ?
+ROBERT.
+Eh ! Monsieur le Baron, c'est cette vieille paysanne chez laquelle Monsieur votre fils...
+LE BARON.
+Taisez-vous... Quel trait de lumiere ! O mon Dieu ! Confirme mon espoir... Sortez.....
+BERTE.
+Recommandez lui donc, Monsieur, de ne plus me maltraiter.
+LE BARON.
+Soyez tranquille Allez, Robert.
+SCENE X. Wild, Le Baron, Henriette, Berte.
+LE BARON.
+Ma bonne mere, vous etes honnete ?
+BERTE.
+Dieu merci, Monsieur.
+LE BARON.
+Incapable par consequent de vous preter a une vilaine intrigue.
+BERTE.
+Plutot mourir, Monsieur.
+LE BARON.
+Ma bonne, ce n'est ni par force ni par autorite que je veux savoir votre secret ; je le demande a votre honnetete, a votre estime pour Wild, a votre tendresse pour Henriette.
+BERTE.
+Je vois bien que je n'aurai pas la force de vous rien cacher.
+LE BARON.
+Parlez donc : quel est ce jeune homme qui, de deux jours l'un, va prendre chez vous un habit de paysan ?
+BERTE.
+Je ne le connais pas.
+LE BARON.
+Vous ne le connaissez pas ? Et vous vous pretez a ce deguisement... Eh ! Pourquoi se deguise-t-il ainsi ?
+BERTE.
+Pour venir prendre les fruits et les legumes de Monsieur Wild, la creme de ma bonne Henriette, et leurs commissions.
+WILD.
+Qu'entends-je ? Quel affreux soupcon ! Ce jeune homme, ce Georges , n'est pas ton fils ?...
+BERTE.
+Non, Monsieur.
+WILD.
+Ah ! Malheureuse !
+LE BARON.
+Moderez-vous.
+WILD.
+Ainsi donc, aucun etre ne m'approche que pour me faire du mal, que pour me dechirer le coeur !... Henriette.
+HENRIETTE.
+Georges n'est pas son fils ?
+LE BARON, a part.
+O mon Dieu ! Ta bonte surpasse donc encore ta justice...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ainsi donc, de concert avec lui, vous trompiez ce brave et honnete homme.
+BERTE.
+Ecoutez-moi sans vous facher, sans me condamner, je vous dirai tout, tout...
+WILD.
+Parle donc, malheureuse , parle donc.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)BERTE.
+Il y a environ trois mois, qu'un matin, c'etait un dimanche, je vis entrer chez moi un jeune homme bien beau, bien habillee ; je lui demandai, toute ebauhie de sa visite, ce qu'il voulait de moi. Un service, me repondit-il, qui peut me sauver la vie. De quoi s'agit-il, lui dis-je ? Vous allez, reprit-il, chercher tous les matins le lait, les fruits, et les legumes de Monsieur Wild, qui demeure dans cette chaumiere, a cote de l'ermitage du baron de Rothenberg ? Oui, mon cher Monsieur, je les porte a la ville, je les y vends, et je lui eu rapporte le prix, ou ce dont il a besoin. Eh bien ! Ma chere Dame, continuat?il, permettez-moi d'y aller a votre place. Comment, mon cher enfant, lui dis-je, comment se pourra-t-il faire qu'un beau Monsieur comme vous, aille chercher des legumes pour les vendre au marche ? Comment voulez-vous que ce brave Monsieur Wild, qui est si sauvage... Pardonnez, je vous rapporte mot pour mot notre conversation Comment voulez-vous que ce Monsieur Wild, qui est si sauvage, qui ne parle a personne, qui ne recoit personne chez lui, qui ne vous connait pas, vous donne ses legumes ? Vous ne m'entendez pas, me fit-il a son tour, ma bonne mere ; demain je ferai apporter chez vous des habits de paysan, je les mettrai, et ainsi deguise, je me presenterai chez Monsieur Wild, comme votre fils, sous le nom de Georges ; je lui dirai qu'un rhumatisme vous retient au lit, et que vous m'envoyez a votre place, prendre ses commissions. Tout cela me parut fort bien arrange, cependant j'eus beaucoup de peine a m'y preter ; et ce ne fut que lorsqu'il m'eut jure sur son honneur et sur son Dieu, qu'il n'avait aucune mauvaise intention, que je pouvais faire son bonheur, celui de Monsieur Wild, celui de ma chere Henriette, et qu'au contraire je causerais sa mort, si je le refusais ; et en disant cela, il me serrait les mains, il pleurait, mais tout de bon ; je me laissai attendrir, je n'eus pas la force de resister a ce beau garcon, qui pleurait si franchement. Je consentis a tout, et des le lendemain je vous l'envoyai comme mon fils, sous le nom de Georges, apres lui avoir fait repeter son serment, qu'il n'avait aucun dessein ni mechant, ni malhonnete. Voila tout, mes chers Messieurs, absolument tout ; avez-vous a vous plaindre de lui, vous a-t-il fait quelque tort ? Je suis prete a tout reparer.
+WILD.
+Eh ! Le pourras-tu jamais, malheureuseI
+LE BARON.
+Il ne vous a jamais dit qui il etait ?
+BERTE.
+Jamais, mais je puis vous assurer que c'est un bien honnete garcon ; depuis qu'il vient dans ce hameau, on n'y a pas verse une seule larme, il n'y a plus un seul malheureux ; il est incapable de faire du mal a quelqu'un.
+WILD.
+Sors... Sors vite...
+BERTE, epouvantee.
+Oh ! Mon Dieu, ayez pitie de lui.
+SCENE XI. Wild, Le Baron de Rothenberg, Henriette.
+WILD.
+Eh bien ! Rothenberg ?
+LE BARON.
+Je saurai quel est ce jeune homme... Je le saurai.
+WILD.
+Je ne veux pas le connaitre... Ah ! Qu'il se garde bien de reparaitre ici.
+HENRIETTE.
+Comment, papa, tu ne veux pas qu'il revienne ?
+WILD.
+Qu'il revienne !... Tu l'aimes ?
+HENRIETTE.
+De tout mon coeur ; et toi aussi, papa ?
+WILD.
+C'est un monstre, ma fille, c'est un monstre qui veut ma mort.
+HENRIETTE.
+Je ne l'aime plus.
+LE BARON.
+Adieu, mon ami ; avant deux heures vous me reverrez... Songez a ce que je vous ai dit, songez-y tranquillement.
+WILD.
+Rothenberg, vous avez mon secret ; me le garderez-vous ?
+LE BARON.
+Tant que vous l'exigerez.
+WILD.
+J'y compte.
+LE BARON.
+Comptez-y.
+WILD.
+Vous savez ce que vous m'avez promis ?
+LE BARON.
+Je vous tiendrai tout, et plus meme que vous n'esperez... Adieu, Wild... Adieu, ma fille... Adieu, ma fille.
+SCENE XII. WILD, HENRIETTE.
+Moment de silence ; Wild regarde tristement sa fille, Henriette regarde la tombe de sa mere.
+WILD.
+Ce Georges ! Ce Georges ! Voila les hommes, mon enfant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)WILD.
+Bien, ma fille.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)WILD.
+Oui, ma fille, oui, sur la pierre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			ACTE III
+
+
+SCENE PREMIERE. Rothenberg, Scharfmann.
+SCHARFMANN, suivant Rothenberg, qui rentre dans son cabinet avec colere.
+Mais on ecoute les gens, au moins.
+ROTHENBERG.
+Je ne veux rien entendre.
+SCHARFMANN.
+Un mot...
+ROTHENBERG.
+Laissez-moi.
+SCHARFMANN.
+Mon crime est donc bien horrible ?
+ROTHENBERG.
+Il est affreux... Meconnaitre un ami, lui rendre a peine son salut... lui tourner le dos.
+SCHARFMANN.
+Je ne pouvais faire autrement ; sais-tu quel etait l'homme avec qui je m'entretenais ?
+ROTHENBERG.
+C'est l'ami intime du ministre ; son conseil...
+SCHARFMANN.
+Justement ; de plus un parfait honnete homme ; juge de quelle importance il etait pour moi de n'avoir pas l'air de te connaitre.
+ROTHENBERG.
+Comment ?
+SCHARFMANN.
+J'aurais perdu a jamais son estime et sa protection, s'il avait pu se douter seulement que nous fussions amis, d'autant plus que cet homme te connait pour l'auteur des Portraits du jour.
+ROTHENBERG.
+Est-ce qu'il ne connait pas tes satires ?
+SCHARFMANN.
+Il les connait tres bien, et ce sont elles qui me valent son estime et sa protection.
+ROTHENBERG.
+Eh ! Quelle difference mets-tu donc entre une satire et un libelle ?
+SCHARFMANN.
+Toute la difference qui existe entre la gloire et la honte ; rends-toi justice, Rothenberg, quand je cueille un laurier, quand, par chacune de mes satires, je fais un pas vers l'immortalite, tu te traines dans le silence de l'opprobre ; tu crains d'etre nomme, quand mon nom fait ma gloire ; tu rougis de tes ouvrages, quand les miens font mon orgueil ; on me respecte, on m'admire, on me fete, on m'accueille, quand on te repousse avec horreur, quand on te couvre de honte et de mepris... Vois la difference du sort du satirique et du libelliste ; Boileau vit a la cour de Louis XIV ; ce monarque si fier, si superbe, l'admet dans sa familiarite, lui confie la plume de l'histoire ; et le Pindare francois, Jean-Baptiste Rousseau, fletri par la loi, banni de sa patrie, comme un criminel, expire en maudissant la funeste celebrite d'affreux couplets, qu'il s'efforce en vain de renier.
+ROTHENBERG.
+Comme tu m'avilis !
+SCHARFMANN.
+Ce n'est pas moi, c'est ta malheureuse plume.
+ROTHENBERG.
+Pourquoi ne l'as-tu pas brisee ? Pourquoi as-tu toi-meme encourage ma mechancete ? Ce sont les applaudissements que tu donnas a ma premiere chanson ; c'est son funeste succes, qui m'ont perdu ; si tu m'en eusses fait rougir, je ne serais pas aujourd'hui un objet de mepris pour moi-meme... Mais pourquoi me mepriserais-je ? Je suis un libelliste ? Oui ; mais loin d'etre le fleau de la societe, j'en suis peut-etre le soutien... J'en suis au moins le vengeur.
+SCHARFMANN.
+Toi ?
+ROTHENBERG.
+Oui, moi : soyons justes... Qui ose attaquer l'homme en place ? Qui ose briser la statue de Sejan ? C'est le libelliste !... Qui ouvrira les yeux du souverain sur ce ministre despote ecrasant sous ses pieds le malheureux sans appui ? Qui lui denoncera ce juge perfide, vendant au poids de l'or, le bien de la veuve et de l'orphelin, et l'honneur du pauvre ? Qui appellera sa vengeance sur cet avide traitant qui, au nom d'un maitre adore, foule son peuple, arrache a sa charrue le malheureux qu'il plonge dans un cachot, pour le punir de son indigence ? Le libelliste !... Le libelliste seul a ce courage. Eh ! C'est souvent par sa bouche, que les plaintes des opprimes s'elevent jusqu'au trone.
+SCHARFMANN.
+En supposant que le libelle soit quelquefois utile et juste, le metier n'en est pas moins odieux ; car le libelliste fait alors les fonctions d'executeur. Un voleur merite d'etre fletri ; mais la main qui lui applique le fer brulant est deshonoree. Quant a la satire, dans tous les siecles, chez tous les peuples, elle a ete en honneur. L'immortalite a consacre les noms de Perse, de Juvenal, d'Horace et de Boileau, tandis que l'oubli seul sauve du mepris ceux de Vegeton, d'Antistius, de Gacon et de Chevrier.
+ROTHENBERG.
+Mais toi qui t'enorgueillis de ton titre, ose descendre dans le coeur du satirique; ose le sonder; qu'y trouveras-tu ? Un homme froid, orgueilleux, qui gourmande le genre humain, mais qui serait fache de le rendre meilleur, parce qu'il perdrait le droit de l'humilier.
+SCHARFMANN.
+Tu as mon secret, et je t'absous d'etre libelliste si tu ne demasques pas le satirique.
+ROTHENBERG.
+Je t'en donne ma parole.
+FRANCK, annoncant a la porte sans entrer,
+Monsieur le Comte de Vander-Alte !
+SCHARFMANN.
+Le comte de Vander-Alte ! Qui l'amene chez toi?
+ROTHENBERG.
+Je ne sais.
+SCHARFMANN.
+Il est maltraite dans ton dernier libelle.
+ROTHENBERG.
+Un peu.
+SCENE II. Rothenberg, Vander-alte, Scharfmann.
+VANDER-ALTE.
+Bonjour, Monsieur de Rothenberg... Eh ! C'est M. de Scharfmann, je suis charme de vous rencontrer ici ; vous ne pouviez vous y trouver plus a propos, car vous ne serez pas etranger a notre conversation.
+ROTHENBERG.
+Puis-je savoir, Monsieur le Comte, ce qui me procure l'honneur de votre visite ?
+VANDER-ALTE.
+Votre merite, mon cher de Rothenberg ; j'aime les gens d'esprit, vous en avez infiniment, a ce que l'on pretend, et je viens vous demander votre amitie.
+ROTHENBERG.
+Vous m'honorez beaucoup.
+VANDER-ALTE.
+Je vous ai vu quelquefois chez ma tante la Marechalle, femme estimable a tous egards, un peu caustique cependant, tres medisante : elle fait beaucoup de cas de vous, vante infiniment vos talents, mais surtout votre delicatesse et vos moeurs ; elle m'a conseille de vous cultiver, et je m'en fais un plaisir.
+ROTHENBERG.
+Madame la Marechalle me voit avec les yeux de l'indulgence.
+VANDER-ALTE.
+Non, vous meritez beaucoup, mais beaucoup ; n'est-il pas vrai, Monsieur de Scharfmann ? Vous etes juge, et meme connaisseur en merite, et du moment que je vous trouve chez Rothenberg, je vous crois son ami.
+SCHARFMANN.
+Je consulte volontiers son gout ; il a le tact fin, les gens de lettres ont besoin de conseils.
+VANDER-ALTE.
+J'ai lu votre derniere satire sur la calomnie, on la couronne ce soir a l'Academie, je n'y manquerai pas. Elle est sublime; c'est le poignard de Juvenal couvert des roses d'Horace ; rien de plus fort, rien de plus agreable ; n'etes-vous pas de mon avis, Monsieur de Rothenberg?
+ROTHENBERG.
+Certainement, Monsieur le Comte.
+VANDER-ALTE.
+Cet ouvrage la, Monsieur de Scharfmann, met le sceau a votre reputation, et vous assure l'immortalite ; vous ne
+sauriez croire combien j'estime un ecrivain tel que
+vous, qui descend noblement dans l'arene, y combat a
+outrance le ridicule et le vice , les terrasse , et leve avec
+orgueil sa visiere ; voila l'homme honnete, voila l'ecrivain
+vraiment digne d'estime, n'est-il pas vrai, AI. de
+Rothenberg?
+ROTHENBERG.
+Oui, Monsieur le Comte.
+VANDER-ALTE.
+Quelle difference la, Monsieur de Scharfmann, a ces plats et vils ecrivailleurs, qui ne se sauvent du mepris qu'a l'aide de l'anonyme ! N'est-il pas vrai, Monsieur de Rothenberg ?
+ROTHENBERG.
+Oui, Monsieur le Comte.
+VANDER-ALTE.
+A propos de platitude, en connaissez-vous une qui parait sous le titre des Portraits du jour ?
+ROTHENBERG.
+Je connais cet ouvrage.
+VANDER-ALTE.
+Vous avez lu cette horreur la ?
+ROTHENBERG.
+Oui, Monsieur le Comte.
+VANDER-ALTE.
+Avouez que l'auteur est un etre bien vil.
+ROTHENBERG.
+Je l'ai trouve mordant... Il est mechant.
+VANDER-ALTE.
+Mechant ? Il faut avoir de l'esprit, pour etre mechant, et son libelle est aussi mal ecrit, que bassement imagine ; n'etes-vous pas de mon avis, Monsieur de Scharfmann ?
+SCHARFMANN.
+Je ne le connais pas, je ne lis jamais ces sortes d'ouvrages.
+VANDER-ALTE.
+Vous ne voulez pas vous gater le gout... Vous ne devinez pas quel peut en etre l'auteur, Monsieur de Rothenberg ?
+ROTHENBERG.
+Non, Monsieur le Comte.
+VANDER-ALTE.
+Je le crois : personne ne peut connaitre un pareil homme ; c'est quelque malheureux affame qui, n'ayant pas le talent de faire un habit, se sera imagine d'etre auteur ; n'est-il pas vrai, Monsieur de Rothenberg ?
+ROTHENBERG.
+J'ai lu cet ouvrage, il est mechant, mais il ne parait pas trace par la main d'un miserable. L'auteur connait le monde, il le connait bien, Monsieur le Comte.
+VANDER-ALTE.
+Oui, il aura peut-etre ecoute dans nos antichambres, car ce ne peut-etre qu'un plat valet.
+ROTHENBERG.
+Vous pourriez vous tromper, Monsieur le Comte... Son style annonce...
+VANDER-ALTE.
+Un miserable... Je donnerais cent louis pour connaitre ce drole-la, et lui faire donner cent coups de fouet par mes palefreniers...
+ROTHENBERG.
+Monsieur...
+SCHARFMANN, bas a Rothenberg.
+Contraignez-vous, ou vous allez vous perdre.
+VANDER-ALTE.
+Il les merite, et il les recevrait bien docilement ; n'est-il pas vrai, Monsieur de Rothenberg ?
+ROTHENBERG.
+Non, Monsieur ; ni vous, ni personne au monde n'est en etat de lui faire impunement une insulte, une menace meme...
+VANDER-ALTE.
+Etes-vous son chevalier ?
+ROTHENBERG.
+Je vous entends, Monsieur, vous m'avez entendu, cela doit vous suffire.
+VANDER-ALTE.
+Vous avouez donc que vous etes l'auteur ?...
+ROTHENBERG.
+Oui, et pret a vous en faire raison.
+VANDER-ALTE.
+Vous ?... Apprenez que je ne me bats qu'avec ceux que j'estime, mais que vis-a-vis d'un homme tel que vous, j'ai d'autres moyens de vengeance.
+SCENE III. Rothenberg, Scharfmann.
+ROTHENBERG, a Monsieur de Scharfmann qui l'arrete.
+Laissez-moi... Laissez-moi le lache ! C'est en vain qu'apres m'avoir insulte, il refuse de se mesurer avec moi ; il ne m'echappera pas.
+SCHARFMANN.
+Tu ferais bien mieux de chercher a l'apaiser.
+ROTHENBERG.
+Moi ?
+SCHARFMANN.
+Oui, toi ; tu viens de te mettre a sa discretion, en lui avouant que tu es l'auteur d'un libelle qui peut te perdre.
+ROTHENBERG.
+Je lui reprendrai mon secret, en lui arrachant l'ame.
+SCHARFMANN.
+Il ne se battra pas, et tout le monde l'approuvera ; crois-moi, Rothenberg, tu n'as pas un moment a perdre, il est reellement offense, il a ton secret, il est neveu du ministre, il faut l'apaiser... Il faut par des avances , par quelques soumissions...
+ROTHENBERG.
+Des soumissions ?... Moi ! N'as-tu pas entendu comme il m'a traite ?
+SCHARFMANN.
+Tu l'as merite ; que t'avait fait ce Comte pour le dechirer dans ton libelle ? De quelque facon qu'il se venge, il aura pour lui tous les honnetes gens ; il peut te denoncer au ministre, il peut te livrer a la justice : songe a tous ceux qui se trouvent attaques dans ton malheureux ouvrage, ce sont autant d'ennemis furieux, acharnes contre toi, et qui vont travailler a ta perte... Tu n'as que deux partis a prendre ; fuis, ou bien humilie-toi devant le Comte.
+ROTHENBERG.
+M'humilier devant lui ! Ah ! Plutot fuir au bout de l'univers.
+SCHARFMANN.
+Ecoute-moi ; dans ce moment tu n'es pas en etat de prendre un parti sage ; je m'en charge ; je connais le Comte, il m'estime, il me craint peut-etre ; je vais le trouver, et j'espere l'apaiser... Me donnes-tu carte blanche ?
+ROTHENBERG.
+Pourvu que tu ne promettes de ma part aucune bassesse.
+SCHARFMANN.
+J'espere qu'il n'osera pas m'en proposer... Sors de la ville ; tiens-toi cache dans les environs, au moins pour vingt-quatre heures ; ne t'eloigne pas trop.... A propos, tu peux etre denonce, on peut venir visiter ton cabinet ; tu serais perdu si on trouvait un seul de tes papiers.
+ROTHENBERG.
+Tu as raison ; rends-moi encore un service.
+SCHARFMANN.
+Que desires-tu de moi ?
+ROTHENBERG.
+Charge-toi de mes papiers.
+SCHARFMANN.
+Dieu m'en garde !
+ROTHENBERG.
+Comment ?
+SCHARFMANN.
+Veux-tu me perdre, me deshonorer ? Que dirait-on de moi, si l'on trouvait dans mon cabinet, un seul papier, une seule note de toi... Mon bureau est l'autel des moeurs et des muses ; je crains l'oeil profane, mais non pas l'oeil inquisiteur : il faut tout bruler.
+ROTHENBERG.
+Tout ?
+SCHARFMANN.
+Tout !
+ROTHENBERG.
+Cruel ! Songez-vous au sacrifice que vous exigez ?
+SCHARFMANN.
+Ce sacrifice est necessaire.
+SCENE IV. Rothenberg, Scharfmann, Franck.
+ROTHENBERG.
+Franck ?
+FRANCK.
+Monsieur.
+ROTHENBERG.
+Je vais sortir, je vais coucher a la campagne, je ne serai de retour que demain au soir au plutot : vous en previendrez mon pere.
+FRANCK.
+Oui, Monsieur ; mais s'il etait inquiet ? S'il me demandait ou...
+ROTHENBERG.
+Monsieur de Scharfmann lui dira ou je serai.
+FRANCK.
+C'est bon, Monsieur.
+ROTHENBERG.
+A propos , Franck, vous allez prendre tous les papiers qui sont sur mon bureau, dans ces cartons, et dans ce porte-feuille...
+FRANCK.
+Je les porterai a votre libraire ? 
+ROTHENBERG.
+Non pas, vous les brulerez.
+FRANCK.
+Tous ?
+ROTHENBERG.
+Tous, sans en excepter un seul... Vous entendez bien.
+FRANCK.
+Tres bien, Monsieur.
+ROTHENBERG.
+Vous n'en conserverez aucun... aucun, entendez-vous ?
+FRANCK.
+N'ayez aucune inquietude ; tout sera brule, tout.
+SCHARFMANN a demi-voix, a Monsieur de Rothenberg.
+Comment pouvez-vous laisser tous vos manuscrits, des manuscrits d'une si grande importance, a la merci d'un valet ?... Ne craignez-vous pas sa curiosite, son indiscretion ?
+ROTHENBERG.
+Je n'ai rien a craindre... Je lui accorde toute ma confiance, parce qu'il est dans l'impossibilite d'en abuser ; il ne sait ni lire ni ecrire.
+SCHARFMANN.
+J'entends.
+SCENE V.
+FRANCK, seul.
+Le beau feu que je vais faire !... Mais pourquoi donc veut-il que je brule tous ses papiers, qui lui ont coute tant de peines a griffonner... Quelle folie de perdre tant de temps pour rien.... Il avait cependant l'air si content quand il les ecrivait... Monsieur de La Presse, son libraire, etait si satisfait quand je les lui portais... Il me disait toujours, c'est bien peu, Monsieur Franck ; et cependant toujours la piece d'or pour Monsieur Franck.... Parbleu ! Il me vient une idee... Oui, ma foi... Excellente !... Lumineuse, au lieu de bruler tous ces papiers, gardons-les... Cachons-les... Je quitterai cette ville, j'irai a Paris, j'y porterai tous ces ouvrages, je les y vendrai comme de moi ; je m'y ferai auteur, comme tant d'autres...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Se mettre a son bureau, se frotter les mains, essayer ses plumes, en jeter cinq ou six par terre, rever quelques instants, se gratter le front, ecrire quelques lignes, les effacer, se lever precipitamment, se promener a grands pas, revenir s'asseoir, et puis recommencer a se gratter la tete, a se frotter le front... Voila tout : ce n'est pas si difficile d'etre auteur. Il est vrai que je ne sais ni lire ni ecrire, mais c'est egal ; on m'a dit qu'en France, il y avait beaucoup de beaux esprits qui n'en savaient pas plus que moi, et qui n'en avaient pas moins de reputation.
+SCENE VI. Franck, Le Tendre, Le Douceur.
+La Douceur et Le Tendre sont enveloppes dans de grands manteaux qui leur cachent les bras et les mains.
+FRANCK.
+Mais que me veulent ces Messieurs ?... Messieurs...
+LE TENDRE, le retenant sur sa chaise.
+Ne vous derangez pas, Monsieur... De grace ne vous derangez pas, nous serions faches de vous faire perdre quelque idee brillante, quelque trait charmant.... Nous savons trop combien la moindre distraction est cruelle pour un auteur tel que vous.
+FRANCK.
+Bon !... Ils me prennent pour mon maitre.
+LA DOUCEUR.
+Nous venons seulement rendre hommage a votre merite, et vous temoigner, au nom du public entier, tout le cas qu'il fait de vos rares talents.
+FRANCK.
+Messieurs... Mais asseyez-vous, je vous en prie.
+LE TENDRE, s'asseyant a la droite de Franck.
+Nous ne vous interromprons pas longtemps dans vos charmantes occupations.
+LA DOUCEUR, s'asseyant a la gauche de Franck.
+Nous sommes etrangers, et prets a retourner en France nous n'avons pas voulu quitter cette ville, sans voir son plus beau genie.
+FRANCK.
+En verite, Messieurs, vous me faites trop d'honneur, je ne merite pas...
+LE TENDRE.
+De la modestie ! C'est le sceau du vrai talent.
+LA DOUCEUR.
+Votre dernier ouvrage, Monsieur, est un chef d'oeuvre.
+LE TENDRE.
+Il y a longtemps qu'on n'en a vu un pareil.
+LA DOUCEUR.
+Quelle force dans les portraits !
+LE TENDRE.
+Quelle vis comica dans les anecdotes !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FRANCK.
+De quel ouvrage parlez-vous, Messieurs ? Car j'en ai tant fait.
+LE TENDRE.
+Mais, de votre dernier, Monsieur.
+LA DOUCEUR.
+De celui qui vous confirme le titre de l'Aretin du dix-huitieme siecle.
+LE TENDRE.
+Qui met le sceau a votre immortalite.
+LA DOUCEUR.
+Qui vous merite l'estime et l'admiration de vos contemporains.
+FRANCK.
+Eh ! Vous nommez cet ouvrage, Messieurs ?
+LE TENDRE.
+Ah ! Vous feignez en vain de l'ignorer... Pouvez-vous renier le plus brillant de vos enfants ?
+LA DOUCEUR.
+Vous voulez en vain garder l'anonyme ; tout le monde a reconnu votre touche.
+LE TENDRE.
+Vous seul etiez en etat d'ecrire les Portraits du jour.
+FRANCK.
+Comment dites-vous, Messieurs ?
+LE TENDRE.
+Les Portraits du jour.
+FRANCK.
+Ce n'est que cela, Messieurs ?
+LE TENDRE.
+Que cela ?
+FRANCK, se frappant le front.
+Bon ! C'est une misere ; vous en verrez bien d'autres ; j'en ai la, au moins cent, bien superieurs.
+LE TENDRE.
+Nous ne doutons ni de votre facilite, ni de votre genie ; mais vous ne ferez jamais rien de mieux, rien de plus fort que les Portraits du jour, car c'est vous qui les avez faits.
+LA DOUCEUR.
+C'est bien vous qui en etes l'auteur ?
+FRANCK.
+Pourquoi me faites-vous cette question la, Messieurs ?
+LE TENDRE.
+Nous craignons que par un exces de modestie, deplacee sans doute, vous ne vouliez pas avouer cet ouvrage.
+LA DOUCEUR.
+D'autant plus, que nous sommes charges de la part d'un jeune seigneur, qui en est enchante, de vous en temoigner toute sa reconnaissance, et de vous en donner des preuves.
+FRANCK.
+Des preuves ?
+LE TENDRE.
+Oui, Monsieur ; mais vous sentez bien qu'il faut que nous soyons certains, par votre propre aveu, que vous en etes l'auteur.
+LA DOUCEUR.
+Qu'il ne faut pas que nous donnions a un autre ce qui n'est destine qu'a l'auteur des Portraits du jour.
+FRANCK.
+Eh ! Oui, Messieurs, c'est moi.
+LE TENDRE, se levant.
+C'est vous ?
+LA DOUCEUR, se levant.
+Bien certainement vous ?
+FRANCK, se levant aussi.
+Bien certainement. Messieurs, je vous le signerais... Si je le pouvais.
+LE TENDRE.
+Cela suffit.
+FRANCK.
+Hem ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FRANCK.
+Que veut dire cela, Messieurs ?
+LE TENDRE.
+Parlez bas ; nous sommes charges de la part de Monsieur le Comte de Vander-Alte, que vous avez lachement outrage dans votre affreux libelle, de vous donner une petite correction litteraire.
+FRANCK, elevant la voix.
+Messieurs.... Messieurs si j'appelle mes gens
+LE TENDRE, lui presentant un pistolet.
+Parlez bas, ou...
+FRANCK, a voix basse.
+Mais, Messieurs... un mot... un seul mot...
+LE TENDRE.
+Nous sommes presses, et nous n'avons pas un seul instant a perdre.
+FRANCK.
+Je vous jure que vous vous meprenez, Messieurs ; je ne suis qu'un pauvre diable... un miserable.
+LE TENDRE.
+Nous le savons bien... Nous devons vous en appliquer vingt-cinq... Faites les choses de bonne grace.
+FRANCK.
+Mais je vous jure, Messieurs, que je ne suis point auteur, que je n'ai jamais ecrit une seule ligne de ma vie, que je ne suis enfin que le valet-de-chambre de Monsieur de Rothenberg.
+LE TENDRE.
+Mauvaise defaite...
+LA DOUCEUR.
+Si Monsieur voulait, tout se passerait a l'amiable.
+FRANCK.
+C'est ce que je demande, Messieurs : que faut-il faire ?
+LA DOUCEUR.
+Nous ne sommes pas aussi mechants que nous le paraissons.
+FRANCK.
+Je vous assure qu'on ne porte pas des physionomies plus heureuses.
+LA DOUCEUR.
+Nous voulons bien gagner l'argent de Monsieur le Comte de Vander-Alte, mais nous serions au desespoir de vous faire aucun mal.
+FRANCK.
+Vous etes trop honnetes.
+LA DOUCEUR.
+Nous sommes sans temoins, personne ne peut savoir ce qui se passe entre nous trois.
+LE TENDRE.
+Vous nous donnez votre parole d'honneur de n'en jamais parler.
+FRANCK.
+Jamais, Messieurs, jamais.
+LA DOUCEUR.
+Eh bien ! Sans en venir a des extremites qui repugnent a notre delicatesse, autant qu'a notre humanite, nous nous retirerons aussitot que vous aurez eu la complaisance de signer ce petit papier.
+FRANCK.
+Qu'est-ce que c'est, Messieurs ?
+LE TENDRE? lui presentant le papier.
+Lisez, Monsieur.
+FRANCK.
+Je ne sais pas lire... l'ecriture.
+LE TENDRE.
+Monsieur a un peu d'humeur... Je vais vous le lire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)« Je reconnais avoir recu de Son Excellence, Monsieur le Comte de Vander-Alte, par les mains de messieurs le Tendre et la Douceur, (ce sont les noms de vos tres humbles serviteurs), vingt-cinq coups de baton, pour prix des infames calomnies que je me suis permises contre lui, dans mon libelle intitule les Portraits du jour, dont je lui demande pardon, et lui fais reparation. A Vienne, ce 1er mai 1797.» Voulez-vous bien signer ?
+FRANCK.
+Signer ?
+LE TENDRE.
+Oui, Monsieur, signer.
+FRANCK.
+Pardonnez-moi, Monsieur ; mais cela m'est impossible.
+LE TENDRE.
+Monsieur ne veut pas signer ?
+FRANCK.
+Je ne le peux pas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE TENDRE.
+J'en suis bien fache, Monsieur ; nous avons l'ordre expres de Monsieur le Comte de VaNder-Alte, d'apporter votre signature, en de vous faire expirer sous le baton.
+FRANCK, se jetant a genoux.
+Misericorde, Messieurs ; je vous jure par tout ce qu'il y a de plus sacre, que je ne suis qu'un pauvre valet.
+LE TENDRE.
+Defaite...
+FRANCK.
+Que je ne sais ni lire, ni ecrire.
+LA DOUCEUR.
+Mensonge.
+FRANCK.
+Si vous ne m'en croyez pas, permettez-moi d'appeler quelqu'un de la maison qui vous l'attestera.
+SCENE VII. Franck, Le Tendre, La Douceur, Robert ouvre la porte du fond.
+FRANCK, apercevant Robert.
+Eh ! Voila justement Monsieur Robert ; mon cher Monsieur Robert, venez donc me sauver.
+ROBERT.
+Que veut dire cela ?
+LE TENDRE.
+Nous vous l'expliquerons, Monsieur ; mais point de bruit... Qu'est-ce que c'est que ce Monsieur la ?
+ROBERT.
+C'est Franck... le valet-de-chambre de Monsieur de Rothenberg.
+LE TENDRE.
+Son valet-de-chambre ?
+FRANCK.
+Eh ! Oui, Messieurs ; je me suis tue de vous le dire.
+LA DOUCEUR.
+Il n'est donc pas auteur ?
+ROBERT.
+Auteur ?... Lui !... Le pauvre diable ne sait ni lire, ni ecrire.
+LE TENDRE, reprenant son manteau.
+En ce cas, pardon, Monsieur Franck, du petit quiproquo... Serviteur. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Robert, Franck.
+ROBERT.
+Expliquez-moi donc ce que tout cela veut dire, Monsieur Franck.
+FRANCK.
+C'est une mauvaise plaisanterie de la part de ces Messieurs... Venez m'aider a bruler tous ces vilains papiers.
+ROBERT.
+Comment ! Bruler tous ces papiers ?
+FRANCK.
+Oui, Monsieur m'en a donne l'ordre.
+ROBERT.
+Ah ! Tant mieux..... tant mieux.
+FRANCK, a part.
+Maudits papiers... Ah ! Le sot metier que celui d'auteur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			ACTE IV
+
+Le theatre represente un salon de l'interieur de l'hermitage du baron de Rothenberg.
+
+SCENE PREMIERE.
+ROTHENBERG fils, seul.
+Je respire enfin ; ici le calme renait dans mon ame, je suis pres de mon Henriette, je respire le meme air que mon Henriette. D'ici je vois le chaume tranquille qu'elle habite ; les fleurs qu'elle cultive ; ce spectacle si doux me rend a moi-meme. Ici ma plume n'offensera, n'affligera personne. On n'est pas mechant dans l'asile de l'innocence.
+SCENE II. ROTHENBERG, SCHARFMANN.
+ROTHENBERG.
+EH bien ! Mon ami.
+SCHARFMANN.
+Tout est perdu.
+ROTHENBERG.
+As-tu vu le Comte ?
+SCHARFMANN.
+Oui, je l'ai vu ; quel etre orgueilleux, et comme il venge cruellement son honneur offense par une simple plaisanterie... C'est lui qui te deshonore.
+ROTHENBERG.
+Que veux-tu dire ?
+SCHARFMANN.
+A peine avais-tu quitte la ville, que deux spadassins envoyes par le Comte, se sont introduits dans ton cabinet, ou prenant Franck pour toi, et lui tenant le pistolet sur la gorge, ils ont ose le maltraiter de la maniere la plus ignominieuse. Les coups sont tombes sur les epaules du pauvre Franck, et la honte sur toi.
+ROTHENBERG.
+Le lache... C'en est trop : je vais le chercher, je vais...
+SCHARFMANN.
+Modere-toi : le jour de la vengeance n'est pas arrive, il viendra sans doute ; en l'attendant, laisse a ton pere, laisse a tes amis, s'il t'en reste encore, le soin de te defendre et de calmer l'orage qui gronde sur ta tete ; si tu te montrais dans ce moment, ta liberte meme serait menacee. Reste donc encore cache, c'est le seul parti qui te reste a prendre, et le dernier conseil que te donne mon amitie.
+ROTHENBERG.
+Tu m'abandonnes ?
+SCHARFMANN.
+Il le faut : je tremble meme qu'on ne decouvre que je t'ai vu. On couronne ce soir ma satire sur la calomnie, tu ne voudrais pas fletrir mon laurier.
+SCENE III.
+ROTHENBERG seul.
+Comme on me traite ! Comme on m'humilie ! En horreur a tous les gens honnetes, renie par mes amis, oblige de me cacher, craignant meme pour ma liberte ! Quel est mon sort ?... Maudite fureur d'ecrire, funeste desir d'une malheureuse reputation, me coutez-vous assez cher !
+SCENE IV. Rothenberg, Le Baron.
+ROTHENBERG allant au-devant de son pere.
+Mon pere !
+LE BARON, le repoussant.
+Etes-vous assez cruel, Monsieur !
+ROTHENBERG.
+Mon pere.
+LE BARON.
+Vous dechirez mon coeur, vous fletrissez ma vieillesse... Quand, apres dix ans d'absence et de travaux, je viens chercher ma recompense et le repos, je ne retrouve que la honte et l'opprobre ; je suis oblige de rougir en entendant prononcer mon nom... On me reproche mon fils... Mon fils ! Le premier bien d'un pere sa consolation, son espoir... Mon fils pour qui seul j'existais... C'est lui qui afflige mes derniers jours, c'est lui qui me fait descendre au tombeau dans la douleur et la honte.
+ROTHENBERG, se jetant a ses pieds.
+O mon pere ! Mon pere ! Ne m'accablez pas : vos reproches me tuent, je merite plus votre pitie que votre colere.
+LE BARON, s'eloignant.
+Ma pitie ! Il faut en avoir pour oser en reclamer, et votre coeur ne l'a jamais connue ; quand vous dechiriez celui qui, loin de vous avoir offense, vous caressait peut-etre, vous croyait son ami, vous confiait ses peines et ses secrets ; quand vous faisiez verser des larmes de desespoir, au malheureux qui ne connaissait pas meme votre nom, quand vous enleviez a l'innocence, a la probite son honneur, ce bien si precieux, la sentiez vous cette pitie que vous osez me demander ? Voila donc vos titres a la gloire, voila par quels ouvrages vous recommandez votre nom a la posterite Allez, vous etes plus vil, plus mechant a mes yeux, que le malheureux qui m'enleve ma bourse, que l'assassin qui m'arrache la vie.
+ROTHENBERG, levant les mains au ciel.
+O mon Dieu ! N'est-il donc pas de grace pour le repentir ?
+LE BARON.
+Il invoque son Dieu, quand le crime est dans son coeur ; je pardonnerais peut-etre aux fautes de l'esprit ; ce que je ne pardonne pas, ce sont les vices du coeur, et votre coeur est encore plus mechant, plus corrompu, plus coupable que votre esprit.
+ROTHENBERG.
+Non, mon pere, non, je ne suis pas un mechant ; ma plume fut dangereuse, j'en conviens, vous m'en voyez puni, vous m'en voyez desespere : mais je ne suis pas un calomniateur ; jamais je n'outrageai la verite, jamais je n'ai coute de larmes a l'innocence, de regrets a l'honneur... Mon coeur ne me reproche rien.
+LE BARON.
+Malheureux, ton coeur ne te reproche rien ?
+ROTHENBERG.
+Rien, mon pere.
+LE BARON.
+Ah ! Vous etes un monstre.
+ROTHENBERG.
+Mon pere !
+LE BARON.
+Votre coeur ne vous reproche rien, quand vous n'etes occupe qu'a seduire, a tromper l'innocence.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Malheureux ! Regarde cette chaumiere ; ose apres me regarder.
+ROTHENBERG, prenant les mains de son pere.
+Mon pere, voulez-vous m'ecouter ?
+LE BARON, retirant ses mains avec effort, et s'eloignant.
+Retirez-vous ; vos mains glacent mes mains.
+ROTHENBERG.
+N'etes-vous plus mon pere ?
+LE BARON.
+Ton pere !... Moi !.... Sais-tu quel est l'homme qui repose sous ce chaume, et que tu projettes de deshonorer ? C'est un etre sacre, c'est un infortune... Eh ! Par qui ? O mon Dieu ! Ce Wild que vous pretiez pour un paysan, ce Wild dont vous seduisez la fille, ce Wild que vous trainez au tombeau, ce Wild dans le sein duquel vous enfoncez le poignard de la rage et du desespoir, ce Wild est le president de Rostein.
+ROTHENBERG.
+Le president de Rostein ?
+LE BARON.
+Ce Wild est le president de Rostein.
+ROTHENBERG.
+Cet homme dont toute l'Allemagne deplore la chute et les malheurs ?
+LE BARON.
+Oui, Monsieur ; un monstre comme vous, un calomniateur, un libelliste, apres lui avoir arrache l'honneur, l'a plonge dans le desespoir et la misere ; et c'est a cet homme que vous voulez dechirer le coeur en seduisant sa fille !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ROTHENBERG.
+O mon pere, ecoutez-moi, ecoutez-moi, de grace !... Je vois que vous etes instruit de mon amour pour Henriette.
+LE BARON.
+Oui, j'en suis instruit, et ce n'est pas par mon fils.
+ROTHENBERG.
+Vous alliez l'etre, mon pere, vous alliez l'etre : je n'avais choisi votre ermitage pour retraite, que dans l'intention de vous y ouvrir mon coeur, quand j'ai trouve le votre glace pour votre fils... Me permettez-vous... ?
+LE BARON.
+Parlez... Le coeur d'un pere n'est jamais glace pour un fils.
+ROTHENBERG.
+Il y a quatre mois que le hasard m'amena dans cet ermitage ; j'apercus Henriette...! Oh ! Mon pere, ne regardez pas la sympathie comme le systeme d'une imagination tendre et brillante ; rien n'est plus vrai que ce rapport, que ce magnetisme des ames, dont les effets ont la chaleur et la rapidite de la foudre.
+LE BARON.
+Je le sais... Mais au fait, Monsieur, au fait.
+ROTHENBERG.
+Eh bien ! Mon pere ; mon oeil ne se fixa pas sur Henriette, sans reconnaitre la moitie de moi-meme.
+LE BARON.
+Pourquoi donc chercher a la tromper ?
+ROTHENBERG.
+Tromper Henriette, mon pere ? Ah ! Plutot perir mille fois, plutot mourir.
+LE BARON.
+Mais pourquoi ce deguisement, pourquoi ce nom de Georges ?
+ROTHENBERG.
+Pour pouvoir m'approcher de Henriette, de son pere ; le pouvais-je autrement ? Mais je vous le jure, mon pere, malgre sa vivacite, mon amour est tranquille, et malgre son ardeur, il est pur comme l'ame de Henriette.
+LE BARON.
+J'aime a le croire ; vous avez soulage mon coeur, mon fils, vous l'avez soulage d'un grand poids ; vous ne savez pas combien votre amour pour Henriette est un bonheur, est un besoin pour votre pere... Mais enfin, quel etait votre dessein en laissant ignorer a Henriette votre naissance et votre etat ?
+ROTHENBERG.
+J'attendais votre retour et votre aveu pour me declarer a son pere, et lui demander la main de sa charmante fille.
+LE BARON.
+Puisse-t-il vous l'accorder ?
+ROTHENBERG.
+Il me l'accordera, mon pere, il me l'accordera, il m'aime... et je suis votre fils.
+LE BARON.
+Ah ! Ce titre fera peut-etre votre malheur.
+ROTHENBERG.
+Non, mon pere, non ; je sais que vous lui etes cher ; je sais qu'il vous aime, qu'il vous estime quelquefois je lui parlais de vous, il etait emu, il vous regrettait.
+LE BARON.
+Il me regrettait ?
+ROTHENBERG.
+Henriette aussi vous aimait ; jugez de ma joie, quand elle me disait qu'elle etait votre fille.
+LE BARON.
+Oh ! oui, elle l'est... Mais que me veut Robert ?
+SCENE V. Le Baron, Rothenberg, Robert.
+LE BARON.
+Pourquoi venez-vous ici, Robert ? Je vous l'a vois defendu.
+ROBERT.
+On vient de remettre a votre hotel ce paquet de la part du ministre ; j'ai craint qu'il ne contint quelqu'ordre presse, et j'ai cru devoir vous l'apporter sur-le-champ.
+LE BARON, prenant le paquet.
+Vous avez bien fait;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est sans doute vos provisions pour ma place.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Retirez-vous, Robert, et ne dites a personne, avant demain, ou je suis.
+ROBERT.
+Oui, Monsieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Le Baron, Rothenberg.
+LE BARON, donnant la lettre a son fils.
+Voyez ce que m'ecrit le Ministre : lisez haut.
+ROTHENBERG lit :
+« Le Roi mon maitre, satisfait de vos services, Monsieur, vous a accorde sans restriction la rehabilitation de Monsieur de Rostein dans sa place de president du conseil de justice, et dans tous ses biens, d'apres les preuves completes que vous avez donnees de son innocence. »
+Ah ! Mon pere.
+LE BARON.
+Continuez.
+ROTHENBERG.
+« Sa Majeste accepterait, quoiqu'avec regret, votre demission, si l'on pouvAit vous donner le successeur que vous desirez... Mais l'impossibilite de vous accorder cette grace, serait regarder votre retraite dans ce moment comme une marque de mecontentement. »
+LE BARON.
+Achevez.
+ROTHENBERG.
+«Vous devez sentir, Monsieur, qu'on ne peut donner une place d'estime, a l'auteur d'un libelle dans lequel beaucoup de gens honnetes sont attaques : j'ai la preuve certaine que cet auteur est votre fils, et pour le soustraire aux plaintes nombreuses que je recois contre lui, je crois necessaire qu'il s'eloigne pour quelque temps. Je vous laisse le maitre du lieu et de la duree de son exil, qui le rendra plus prudent et plus digne de vous succeder un jour. » 
+Ah ! Mon pere.
+LE BARON, avec bonte.
+Mon fils, vous voyez les fruits amers que vous recueillez aujourd'hui, non de la mechancete de votre coeur, j'aime a le croire sensible et bon, j'ai besoin de le croire ; mais de la legerete de votre esprit, de la causticite de votre plume : le mepris general en est la recompense ; la punition est sans doute assez forte redevenez le bon, le sensible Georges. Allez desarmer la colere de Wild, consoler l'aimable Henriette, obtenir votre pardon ; et songez sous cette chaumiere sacree, aux terribles effets que peut produire un libelle... Allez...
+ROTHENBERG, baisant la main de son pere.
+Mon pere je vais etre heureux ; je serai digne de vous.
+SCENE VII.
+LE BARON, seul.
+O mon Dieu ! Ce n'est pas pour moi que je t'implore, c'est pour Wild : attendris son coeur, eclaire son esprit ; il n'est que malheureux, il est digne de toute ta clemence ; fais rentrer le bonheur dans son coeur, et le calme dans le mien. Allons : que ce moment est cruel ! Qu'il me coute !... Eh ! Pourquoi lui faire cet aveu ?... Qu'en a-t-il besoin ?... N'est-ce pas tourner le poignard dans sa blessure. Malheureux ! C'est moins le coeur de Wild que tu veux menager, que ton orgueil : tu n'as pas hesite a commettre le crime et tu balances a l'expier... Subissons-en la peine, allons mourir de honte sous les pieds de Wild, ou serrer dans mes bras le president de Rostein.
+SCENE VIII.
+Le theatre change et represente le jardin de Wild.
+WILD, assis pres du tombeau de son epouse.
+Epouse cherie ! Bientot je vais te rejoindre ; nous allons nous rapprocher, nous confondre ; nos rameaux se reuniront un jour, pour ne former qu'un seul berceau, sous lequel la nature, l'amour et l'amitie viendront soupirer, et nous arroser de leurs douces larmes ; mais auparavant, tu seras vengee, le sang du lache qui porta la mort dans ton sein, aura coule sur ta terre alteree... Mais Henriette !... Mais ma fille !... L'abandonner !... Et dans quel moment !... Rothenberg est mon ami... Rothenberg est honnete... Il connait aussi la peine... Je l'ai vu pleurer... Le mechant ne pleure pas... Il servira de pere a mon Henriette... Il acceptera le don que je vais lui en faire... Je suis plus calme, plus tranquille... La voici... Pauvre enfant !... Je sens qu'aupres d'elle je perdrais mon courage... Evitons la.
+SCENE IX. Wild, Henriette.
+HENRIETTE, arretant son pere.
+Tu me fuis, papa, tu fuis ton Henriette, quand elle a tant besoin de tes caresses.
+WILD.
+Laisse-moi, Henriette, laisse-moi.
+HENRIETTE.
+Tu as du chagrin aussi ? Eh bien ! Pleurons ensemble, cela soulage ; pleurons sur la tombe de ma mere.
+WILD.
+Bientot elle sera la mienne.
+HENRIETTE.
+Que dis-tu ?... Tu veux mourir ?
+WILD.
+Oui, mon enfant.
+HENRIETTE.
+Tu veux mourir ? Et ton Henriette, tu ne l'aimes donc plus ?
+WILD.
+Henriette !
+HENRIETTE.
+Est-ce qu'un pere a le droit de quitter son enfant ?
+WILD.
+Je te laisse un autre pere, ma fille, un autre moins malheureux que moi, qui t'aimera autant.
+HENRIETTE.
+Je le crois : mais moi, moi, l'aimerai-je comme je t'aime ? Est-il dans l'univers un homme que Henriette puisse aimer, comme elle aime son pere ?
+WILD.
+Prends pitie de moi ; la vie n'est plus pour moi qu'un fardeau insupportable.
+HENRIETTE.
+Tu manques de courage ?
+WILD.
+De courage !
+HENRIETTE.
+Eh bien ! J'en aurai pour nous deux ; j'oublierai mes peines pour prendre tes chagrins. Crains-tu qu'a nous deux nous ne puissions pas les supporter ? Si tu ne veux plus vivre pour toi, vis pour ton Henriette. Quand ma mere expira dans nos bras, la derniere demande qu'elle te fit, fut de vivre pour Henriette, le dernier ordre qu'elle me donna, fut de vivre pour toi. Je ne l'ai point oublie, moi.
+WILD.
+J'ai tenu ma promesse : sans toi, je suivais ta mere au tombeau. Tant que mon Henriette a eu besoin de moi, j'ai vecu pour elle ; tout est change, Henriette n'a plus besoin de moi.
+HENRIETTE.
+Henriette n'a plus besoin de toi ! Est-ce qu'on peut vivre sans aimer ?... Henriette n'a plus besoin de toi, quand Geor...., quand tout le monde l'abandonne !
+WILD.
+Non, tout le monde ne t'abandonne pas ; tu sais, mon enfant, tu sais que tu n'es pas nee dans le malheureux etat ou nous sommes ; c'est un monstre, qui me fit perdre ma fortune, mon honneur, qui me forca a venir me cacher sous le chaume, a te couvrir de bure.... Eh bien ! Le jour de la justice est arrive, tes jours de malheurs sont passes ; grace aux soins et a l'amitie du baron de Rothenberg, ton rang, ta fortune, tout t'est rendu.
+HENRIETTE.
+Eh ! Que me font ce rang, cette fortune ? En avais-je besoin pour etre heureuse ? Ne suffisais-tu pas a mon malheur ? M'as-tu jamais entendu me plaindre ? M'as-tu jamais vu pleurer en secret ? Je ne versais des larmes qu'avec toi, sur la tombe de ma mere, ou sur tes mains, quand tu gemissais : et tu veux me quitter ?
+WILD.
+Ma carriere est finie, mon heure est arrivee.
+HENRIETTE.
+Eh bien ! La mienne aussi ; puisque mon pere veut me quitter, puisque Georges m'a trompee, je n'aime plus rien dans la vie, delivre-m'en, mon pere. 
+WILD, avec effroi.
+Henriette !
+HENRIETTE.
+C'est toi qui m'a donne la vie, elle est a toi, tu peux me la reprendre... Mais toi, mon pere, de quel droit finis-lu la tienne ? Ce n'est pas toi-meme qui te l'as donnee...
+WILD.
+Henriette... Tu dechires mon coeur... Laisse-moi.
+HENRIETTE.
+Non, non, je ne te quitte pas.
+WILD.
+Laisse-moi respirer un instant j'ai besoin d'etre seul.
+HENRIETTE.
+Pour me quitter ?
+WILD.
+Non, Henriette, je te promets de revenir dans un instant.
+HENRIETTE.
+Tu me le promets ?
+WILD.
+Oui, mon enfant, oui ; embrasse ton pere.
+HENRIETTE, s'eloignant.
+Non, papa.
+WILD.
+Tu ne veux pas embrasser ton pere ?
+HENRIETTE.
+Non.
+WILD.
+Pourquoi donc, Henriette ?
+HENRIETTE.
+C'est que mon pere ne quittera pas son Henriette sans l'avoir benie, sans l'avoir embrassee.
+WILD.
+Chere enfant !
+SCENE X.
+HENRIETTE seule.
+Qui peut donc redoubler son chagrin : il a revu son ami, Monsieur de Rothenberg, et il veut mourir... Ah ! C'est ce mechant Georges qui cause sa mort, il causera aussi la mienne. Papa a raison, la vie est trop triste quand on n'est plus aimee, il vaut bien mieux mourir.
+SCENE XI. Henriette, Rothenberg.
+HENRIETTE.
+Qui est la ?
+ROTHENBERG.
+C'est Georges.
+HENRIETTE.
+Georges... Georges... Il n'y a plus de Georges.
+ROTHENBERG.
+C'est moi, Henriette, c'est moi : ouvre, je t'en conjure.
+HENRIETTE.
+Il n'y a plus de Georges pour Henriette ; il n'y a plus d'Henriette pour Georges.
+ROTHENBERG.
+J'ai un secret de la plus grande importance a t'apprendre.
+HENRIETTE.
+Je sais tout.
+ROTHENBERG.
+Il s'agit de notre bonheur.
+HENRIETTE.
+Je ne veux pas etre heureuse.
+ROTHENBERG.
+Il s'agit du bonheur de ton pere.
+HENRIETTE, ouvrant, et marquant son etonnement de voir Rothenberg richement habille.
+Entrez... C'est donc bien vrai que vous n'etes plus Georges, Monsieur
+ROTHENBERG.
+Je ne suis plus Georges, il est vrai, mais j'ai toujours le coeur de Georges pour Henriette.
+HENRIETTE.
+Vous m'avez trompee.
+ROTHENBERG.
+Non, Henriette, non, ecoute-moi.
+HENRIETTE.
+Laissez-moi, Monsieur ; je vais appeller mon pere, vous lui direz le secret qui peut faire son bonheur.
+ROTHENBERG.
+Henriette, il fera aussi le votre, si vous m'aimez encore.
+HENRIETTE.
+Non, Monsieur, je ne vous aime plus... Je vous meprise, je vous deteste... Vous faites bien du mal a mon pere et a moi.
+ROTHENBERG.
+Vous ne m'aimez plus, Henriette ?
+HENRIETTE.
+Est-ce qu'on doit aimer quelqu'un qui nous trompe, quelqu'un qui ment, quelqu'un qu'on ne connait pas... Qui etes-vous ?
+ROTHENBERG.
+Je suis le fils du baron de Rothenberg.
+HENRIETTE.
+Vous etes le fils ?...
+ROTHENBERG.
+De l'ami de votre pere.
+HENRIETTE.
+Mechant !... Eh ! Pourquoi donc nous le cacher ?
+ROTHENBERG.
+Pour pouvoir vous parler, Henriette, vous voir, vous aimer, vous le dire. Malgre toute l'amitie qui unit nos deux peres, soyez certaine que si je me fusse presente au votre sous ces habits, meme comme le fils du baron de Rothenberg, jamais votre pere, dans l'absence du mien, ne m'eut recu chez lui.
+HENRIETTE.
+Il dit vrai.
+ROTHENBERG.
+J'ai donc ete oblige d'avoir recours a un stratageme bien innocent : mais tout est change, Henriette... Mon pere est de retour, il connait tout mon amour pour vous, il consent a nous unir, il va venir demander votre main a votre pere, et je serai le plus heureux des hommes, si mon Henriette daigne conserver pour Rothenberg les sentiments qu'elle avait pour Georges.
+HENRIETTE.
+Ah ! Je sens bien que j'aimerai Rothenberg comme j'aimai Georges, si ce changement rend mon pere heureux.
+ROTHENBERG.
+N'en doutez pas, Henriette, mais apprenez que Georges n'est pas le seul qui soit change ; Henriette l'est bien plus que lui.
+HENRIETTE.
+Ah ! Non, non, cela n'est pas possible ; Henriette ne sait pas mentir, Henriette n'a jamais trompe personne.
+ROTHENBERG.
+Vous ne m'entendez pas, Henriette ; jusqu'a ce jour, vous vous etes crue fille d'un simple paysan.
+HENRIETTE.
+Non , je sais bien que je suis nee dans l'opulence ; que c'est un lache, un monstre, qui, par la plus infame des calomnies, a fait perdre a mon pere son rang, son etat, sa fortune, et l'a reduit a cacher jusqu'a son nom.
+ROTHENBERG.
+Eh bien ! Henriette, mon pere a prouve l'innocence du votre ; mon pere, pour prix de ses services, a obtenu du Souverain que le votre fut retabli dans son honneur et dans tous ses biens.
+HENRIETTE.
+Et vous croyez que mon pere n'aura plus de chagrin.
+ROTHENBERG.
+Il ne doit plus en avoir.
+HENRIETTE.
+Et qu'il ne voudra plus mourir ?
+ROTHENBERG.
+Il vivra pour nous rendre heureux, pour l'etre avec nous.
+HENRIETTE.
+Comme je suis contente ! Ecoutez Geor...., je ne sais plus comment vous nommer, je ne voudrais pas vous appeler Monsieur.
+ROTHENBERG.
+Appelez-moi Georges, Henriette, je veux toute ma vie porter le nom de Georges.
+HENRIETTE.
+Ah ! Tant mieux, tant mieux, car j'aurais eu bien de la peine a vous appeler autrement mon coeur est fait au nom de Georges.
+ROTHENBERG.
+Charmante !
+HENRIETTE.
+Voila mon pere voyez, Georges, comme il est triste... C'est vous, mechant, qui en etes la cause.
+SCENE XII. Wild, Henriette, Rothenberg.
+HENRIETTE, allant au-devant de son pere.
+Papa, papa, n'aie plus de chagrin voila Georges.
+WILD, s'avancant avec fureur.
+Malheureux !.... Tu oses...
+HENRIETTE, se jetant au-devant de son pere, et l'arretant.
+Ne le menace pas.... Ce n'est pas un mechant, ce n'est pas un trompeur... C'est le fils de ton ami, de ce bon Monsieur de Rothenberg, qui nous aime tant, que tu aimes bien aussi.
+WILD.
+Vous etes le fils du baron de Rothenberg ?
+ROTHENBERG.
+Oui, president de Rostein, et j'espere etre bientot le votre.
+HENRIETTE.
+Et tu seras heureux, parce que nous le serons aussi ; son pere va venir pour te demander la permission d'etre aussi le mien tu le voudras bien, n'est-il pas vrai, papa ?
+WILD.
+Oui, Henriette, oui : oh ! Mon coeur est bien soulage.
+HENRIETTE.
+Georges avait raison, il me disait que tu serais heureux, je l'en aime davantage il ne faut plus mourir, je ne le veux plus, moi.
+WILD.
+Soyez heureux, mes enfants, soyez heureux.
+SCENE XIII et derniere. Les precedents , Le Baron.
+LE BARON.
+Que vois-je ! Wild embrasse mon fils... Mon ami, c'est mon fils...
+WILD.
+Et voila votre fille... Vous etes seul ?
+LE BARON.
+Oui...
+WILD.
+Votre promesse ?
+LE BARON.
+Je la tiendrai.
+WILD.
+Aujourd'hui ?
+LE BARON.
+Dans l'instant : mais avant tout, promettez-moi que que quelque chose qui arrive, vous adopterez mon fils.
+WILD.
+Je vous le promets.
+LE BARON.
+President de Rostein, il est ton fils , il est ton fils...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et voila ta victime.
+WILD.
+Rothenberg, que faites-vous ?... Que voulez-vous dire ?
+LE BARON, presentant son epee nue.
+C'est moi qui suis ce monstre qui t'a perdu, qui a fait mourir ta femme de douleur... C'est moi dont ta main brule de verser le sang... C'est moi que depuis dix ans le remords attache a tes pas... C'est moi qu'il traine sous tes pieds, qui suis dechire de tous tes maux ma tete est courbee sous tes maledictions... Chaque larme qui coule de tes yeux, est un charbon brulant qui tombe sur mon coeur... Termine mon supplice.
+WILD, levant les mains au ciel.
+Il est un Dieu !
+LE BARON, lui tendant les bras.
+Est-il une clemence ?
+WILD, le relevant et le serrant dans ses bras.
+Oui, puisqu'il est un repentir ; et c'est le president de Rostein qui embrasse le baron de Rothenberg.
+LE BARON.
+Encore un pardon, Rostein, encore un pardon.
+WILD.
+Que voulez-vous ?
+LE BARON.
+Vous accordez la main d'Henriette a mon fils ?
+WILD.
+Oui.
+LE BARON, lui donnant ta lettre du ministre.
+Voyez s'il en est digne.
+ROTHENBERG.
+Que faites-vous, mon pere ?
+LE BARON.
+Voulez-vous que nous le trompions encore une fois ?
+WILD, rend la lettre au Baron, apres l'avoir lue.
+Vous lui avez pardonne ?
+LE BARON.
+Oui ; parce qu'il n'a pas ete un calomniateur.
+WILD.
+Rothenberg, oserez-vous avouer desormais vos ouvrages ?
+ROTHENBERG.
+Devant toute la terre.
+WILD.
+Les signerez-vous ?
+ROTHENBERG.
+De mon sang.
+LE BARON.
+Ah ! Mon fils... Promettez-moi plutot de ne jamais ecrire.
+ROTHENBERG.
+Non, mon pere... C'est a la plume de l'homme de lettres, a faire oublier a jamais celle du libelliste.
+LE BARON.
+Eh bien, mon ami.
+WILD.
+Mes enfants, je vous unis, soyez heureux, souvenez-vous de votre pere, pour l'aimer.
+LE BARON.
+Mes enfants, je vous benis, souvenez-vous de votre pere, pour le plaindre.
+WILD.
+Rothenberg, le ministre vous conseille de vous eloigner, ce conseil est un ordre : voulez-vous redevenir Georges ? Car je reste toujours Wild.
+ROTHENBERG.
+Oui, oui, toujours Georges.
+HENRIETTE.
+Toujours Georges.
+LE BARON.
+Quoi ! President de Rostein....
+WILD.
+Je reste Wild... j'accepte la restitution de mes biens, elle est juste, ils appartiennent a Henriette, a son epoux mais je ne quitte pas ma chaumiere... Abattons ce mur qui la separe de votre ermitage, vivons ensemble, que l'on voie sous le meme toit, a l'ombre de ce jeune peuplier, le libelliste et sa victime.
+LE BARON.
+N'oublions pas nos fautes, pleurons-les souvent... Mais souvenons-nous aussi de ce vers, Dieu fit du repentir la vertu des mortels.
+
+	==================================================

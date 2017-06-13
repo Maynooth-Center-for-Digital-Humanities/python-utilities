@@ -1,0 +1,1814 @@
+********************************************************
+	DC.Title                  = L'ECOLE GALANTE OU L'ART D'AIMER, COMEDIE
+	DC.Author                 = BIANCOLELLI, Pierre Francois
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 30/08/2016 a 19:59:43.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/BIANCOLELLI_ECOLEGALANTE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'ECOLE GALANTE OU L'ART D'AIMER PAR ARLEQUINCOMEDIEM. DCC. XI. AVEC PRIVILEGE DU ROI.
+Mise au Theatre par M. Dominique.
+	A PARIS. Chez CLAUDE et JEAN-BAPTISTE BAUCHE, Quai des Augustins, au Chemin du Ciel, et JACQUES EDOUARD, Parvis Notre-Dame, pres l'Hotel-Dieu, aux trois Rois.
+	
+	Representee a Lyon pour la premiere fois, le 26 Septembre 1710, dans la Salle de l'Opera en Belle-Cour.
+	Preface
+Quoique cette Comedie n'ait point ete representee a Paris, elle n'en merite pas moins la lecture des personnes de bon gout. Le succes qu'elle a eue a Lyon, est une preuve de la capacite du jeune auteur, dont la reputation est deja si repandue : le nom de Dominique portera un Lecteur delicat a lui accorder ici les memes applaudissements. Ce fut le 26 Septembre 1710 que cette piece commenca a paraitre pour la premiere fois sur le Theatre de Lyon ; elle fut jouee pres de trois mois de suite avec le meme nombre de spectateurs que le premier jour ; Monsieur de Meliand Intendant de Lyon, en etait un des principaux, et fut toujours un des plus assidus.
+On connait parfaitement dans cette comedie le caractere d'une femme sujette au changement : car il est bien rare de n'etre point dupe dans l'art d'aimer ; et il n'y a presque point de scene dans cette comedie ou les differents detours dont ce sexe est capable ne soient parfaitement depeints.
+Notre auteur surtout s'est applique a caracteriser les fourberies et les deguisements dont elles se servent la plupart, pour exprimer leur amour, souvent le plus trompeur, lorsqu'on se le persuade le plus sincere : en un mot l'Ecole Galante servira peut-etre de guide a ces jeunes etourdis, qui trop prevenus de leur merite, ou plutot trop entetes de faire un choix a la boulvue, sans consulter la raison, ou sans se consulter eux-memes, acceptent aveuglement un parti auquel ils ne sont nullement destines, et qui dans la suite est la source de tous les malheurs de leur vie.
+Tout le monde convient que les Comediens Italiens surpassent toujours les Comediens Francais dans le temps de leur etablissement a Paris ; et ils peignaient avec tant d'art les moeurs et les differents etats de la vie, que chacun se trouvait instruit et diverti en meme temps. Cependant Paris, cette superbe Ville, si abondante en toutes choses, et si magnifique dans ses plaisirs, se trouve aujourd'hui privee de celui de ces representations italiennes : on ne peut plus entremeler ses divertissements ; il faut toujours, malgre qu'on en aie, voir les memes pieces francaises, ou s'il s'en presente une nouvelle, c'est souvent avec une si grande confusion, qu'il n'y a point d'agrement d'en voir les representations.
+Tout Paris a ete temoin de cette foule de peuple qui allait aux Representations italiennes qu'on a vu sur le Theatre depuis quelques annees, et dont le suces a cause de si grands demeles entre des gens qui etaient d'autant plus jaloux des applaudissements qui etaient donnes a ces Fragments italiens, qu'ils etaient chagrins de voir le Theatre Francais desert. C'est enfin pour satisfaire au public, qu'on donne l'edition de cette Comedie nouvelle, pour delasser, et pour consoler en partie ceux qui ont regrette et regrettent encore la suppression ces illustres acteurs, qui par leur merite naturel propre a la Nation Italienne, s'attiraient sans contredit, le titre glorieux d'hommes accomplis dans leur profession.
+Il est a propos d'avertir le Public, que ce n'est pas seulement dans cette piece que le genie du sieur Dominique pour le Theatre s'est fait connaitre; dans toutes les provinces ou il a paru, les personnes du premier rang se faisaient un plaisir d'etre tres assidus aux nouvelles pieces qu'il produisait. On pourra dans la suite en faire part au public, et comme c'est toujours lui qui decide mieux que personne de tout ce qui est nouveau, on a commence par donner l'Ecole Galante de cet Auteur, et on se flatte par avance qu'elle sera bien recue. L'approbation qu'elle a eue de quelques personnes, dont le gout pour toutes les pieces d'esprit est sur, en est un prejuge certain.
+
+ACTEURS
+LE DOCTEUR.
+SPINETTE, Fille du Docteur.
+ARLEQUIN, Maitre d'Ecole.
+ARGENTINE, Promise a Arlequin.
+OCTAVE, Amant de Spinette.
+SCARAMOUCHE, Valet d'Octave.
+LEANDRE.
+MEZZETIN, Valet de Leandre.
+PIERROT.
+DANSEURS.
+LA CHANTEUSE.
+TROUPE DE MASQUES.
+La Scene est a Lyon.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Argentine, Arlequin.
+ARGENTINE.
+Quel plaisir trouvez vous a me desesperer ?
+Votre coeur aux soupcons ne fait que se livrer. 
+Vous etes inquiet, jaloux a toute outrance,
+Croyez-moi, c'est trop loin pousser la defiance,
+Vous meriteriez bien qu'a votre vilain front			[5]
+Puisque vous m'outragez, je file quelque affront.
+ARLEQUIN.
+Helas ! pardonnez-moi mon aimable Argentine,
+J'ai tout a redouter de votre humeur badine ;
+Vos yeux vifs, et percants, me font avec raison,
+Craindre de votre part un peu de trahison.			[10]
+Je ne puis m'empecher de me rendre justice,
+Je suis a parler net un fort vilain Jocrice ;
+Si j'etais plus joli je serais moins jaloux ;
+Mais enfin vous savez ce que j'ai fait pour vous.
+J'ai moi-meme pris soin d'elever votre enfance ;			[15]
+Donnez-moi votre coeur pour toute recompense.
+Je vous fais aujourd'hui la maitresse du mien,
+Je vous donne ma main, mon amour, et mon bien,
+Je suis maitre d'Ecole, et marchand de Fromage,
+Je vais tout disposer pour notre mariage,			[20]
+Des demain vous serez admise dans mon lit,
+Cela vous devrait bien aiguiser l'appetit.
+ARGENTINE.
+Des demain, dites-vous ? C'est trop tot, rien ne presse.
+ARLEQUIN.
+Ah ! Ce terme est encor trop long pour ma tendresse.
+ARGENTINE.
+Il vaut bien mieux laisser passer un peu de temps,			[25]
+Ce sera, je vous jure, assez tot dans dix ans.
+ARLEQUIN.
+Dans dix ans, ma Bellotte, ah ! Qu'oses-tu me dire ?
+Quelle extreme rigueur ! Tu veux donc que j'expire,
+Tu pretends me ravir des biens si souhaites,
+Lorsque je suis presse de mes necessites. 			[30]
+Non, non, point de delai : la chose est resolue.
+Tu seras du logis la maitresse absolue,
+Je te ferai porter perles, et bracelets,
+Toi seule auras le soin de gronder les valets,
+Tu feras le matin mitonner mon potage,			[35]
+Et tu n'oublieras point d'y mettre du fromage,
+Je ne puis m'en passer, je l'aime autant que toi,
+Et c'est, mon cher amour, t'en dire assez, je crois ;
+Je me suis consulte, je ne puis plus attendre,
+A mes justes desirs ma belle il faut se rendre.			[40]
+ARGENTINE.
+Quoi c'est donc tout de bon ? vous n'en demordez pas,
+Vous ferez des demain la noce, et le repas ?
+Ah ! Differez de grace.
+ARLEQUIN.
+Il ne m'est pas possible :
+A toutes tes beautes mon coeur est trop sensible ;
+Et certaine raison m'oblige fortement			[45]
+a marquer pour l'hymen beaucoup d'empressement.
+Non mon coeur je ne puis differer, ou je meure,
+Et si je m'en croyais, ce serait tout a l'heure ;
+Va, va, n'affecte point ces dehors specieux,
+Tu le veux, comme moi, je le vois a tes yeux.			[50]
+Adieu, tout de ce pas, je vais chez le Notaire,
+Cette ceremonie est ici necessaire,
+Pourtant si tu voulais je m'en passerais bien.
+ARGENTINE.
+Puisque vous le pouvez, Monsieur n'en faites rien.
+ARLEQUIN.
+Non, je veux que demain tu partages ma couche			[55]
+L'hymen est un morceau qu'on prend de broc en bouche,
+Le plutot est le mieux, point de reflexion,
+Lorsque l'on veut former une longue union.
+Donne-moi deux baisers.
+ARGENTINE.
+Vraiment, je suis trop sage.
+ARLEQUIN.
+Je rabattrai cela sur notre mariage.			[60]
+ARGENTINE.
+Les hommes, ce dit-on, en rabattent assez,
+Pres de nous cependant ils font les empressez,
+Debitent galamment un amoureux langage,
+Et pour nous obtenir mettent tout en usage ;
+Quand ils sont une fois les maitres du Logis,			[65]
+En moins de quinze jours ils sont bien refroidis.
+Nous ne les voyons plus attachez a nous plaire,
+A peine peuvent-ils fournir le necessaire,
+Les epoux sont ma foi d'etranges animaux !
+ARLEQUIN.
+Les hommes d'aujourd'hui ne sont pas tous egaux,			[70]
+Tu ne te plaindras point, mon aimable Argentine,
+Toujours bon vin en Cave, et bon pot en Cuisine :
+Je te laisse, mon coeur, pour un petit moment.
+SCENE II.
+ARGENTINE, seule.
+J'ai tout a craindre helas ! De cet empressement,
+Je ne puis le souffrir, et malgre mon envie			[75]
+Il veut que des demain le noeud d'hymen nous lie ;
+Il croit se faire aimer, mais son espoir est vain,
+Je ne puis consentir a lui donner la main ;
+Que demande Pierrot ? 
+SCENE III. Pierrot, Argentine.
+PIERROT.
+Bonjour la brune-blonde,
+Il faut aupres de vous que mon coeur se debonde ;			[80]
+Si vous le souhaitez je ferai votre Amant,
+Et je m'en vais vous faire un petit compliment.
+Je commence, ecoutez. Le feu de ma tendresse
+Allume par les yeux de ma belle Maitresse...
+Cela fait que l'amour... Ne m'interrompez pas,			[85]
+Cela fait donc tout juste... Un autre en pareil cas
+Pourrait bien se brouiller ; mais je ne suis pas bete.
+Ors donc je vous dirai, que si vous etes prete,
+Je suis tout dispose, vous n'avez qu'a parler...
+Dame ! Je voudrais bien avec vous m'enroler.			[90]
+ARGENTINE.
+Je veux feindre un moment d'applaudir a sa flamme ;
+Vous m'aimez donc Pierrot ?
+PIERROT.
+Qui vraiment, ma chere ame,
+Quand je ne vous vois pas je suis absent de vous ;
+Quand je m'emporte un peu, je me mets en courroux.
+En un mot je vous aime, et vous n'avez qu'a dire,			[95]
+Je suis un drole, allez, je vous ferai bien rire.
+ARGENTINE.
+Que vos expressions charment mon tendre coeur !
+Je ne m'en defends point, vous etes mon vainqueur,
+Et je n'ai pu vous voir sans vous rendre les armes.
+PIERROT.
+On me l'a toujours dit ; que j'avais bien des charmes,			[100]
+Je suis un beau garcon ; pour la taille, je crois
+Qu'on n'en saurait trouver de mieux bati que moi. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Elle en tient pour le coup.
+ARGENTINE.
+Non, il n'est pas possible
+Qu'en vous voyant si beau je paraisse insensible :
+On ne peut resister a de puissants appas.			[105]
+PIERROT, bas.
+Elle va se pamer, je pense, entre mes bras.
+Eh, Ventrebleu, pourquoi suis-je un fi beau brin d'homme.
+Ca, je vois bien qu'il faut vous acquitter la somme,
+Et vous ne voulez point des lettres de repit,
+Embrassez-moi ma fille, et sans faire grand bruit...			[110]
+SCENE IV. Argentine, Pierrot, Arlequin se met au milieu, Pierrot l'embrasse.
+PIERROT.
+Ah ! Je me suis mepris, et cela me chagrine :
+Au lieu de toi, je dois embrasser Argentine,
+Je vais recommencer pour te faire plaisir.
+ARLEQUIN.
+Il n'en est pas besoin, modere ce desir.
+He bien, je vous y prends, Madame la carogne,			[115]
+Et vous, que faites-vous ici Monsieur l'ivrogne ? 
+PIERROT.
+Tu m'as interrompu, que je suis malheureux !
+Ta pretendue, et moi je badinions tous deux.
+Je me degourdissais de la belle maniere,
+Va t'en pour un moment, crois-moi, laisse-moi faire.			[120]
+ARGENTINE, a Arlequin.
+Vous etes trop jaloux, c'est la tour mon souci,
+Et vous ne deviez pas venir sitot ici.
+ARLEQUIN.
+Je conviens que j'ai tort, et je devais attendre
+Le joli denouement d'un entretien si tendre.
+Vous voulez donc toujours m'en donner a garder,			[125]
+A votre opinion la mienne doit ceder,
+Sur le point d'occuper la couche maritale,
+Vous donnez une entorse a la foi conjugale ?
+PIERROT.
+Puisqu'il demeure ici, sans faire du fracas,
+Mene-moi dans ta Chambre, il ne le saura pas.			[130]
+ARGENTINE.
+J'y consens.
+ARLEQUIN.
+Ah ! Tout doux, et vous Monsieur le drille
+Decampez au plutot.
+PIERROT.
+Lache-moi cette fille,
+Va, je te la rendrai dans un petit moment.
+ARLEQUIN.
+Morbleu, craignez l'effet de mon emportement ;
+Apprenez que demain j'epouse cette belle,			[135]
+Que je veux qu'elle soit toujours sage, et fidele.
+ARGENTINE.
+Bon cela ne se peut, Arlequin, croyez-moi,
+Gardez de m'imposer une si dure loi.
+Fi donc vous vous feriez berner de tout le monde :
+Un Mari trop jaloux merite qu'on le fronde,			[140]
+La sagesse est un monstre, et les femmes ont soin
+De ne le regarder ni de pres, ni de loin.
+ARLEQUIN, a Pierrot.
+Que faites-vous ici ?
+PIERROT.
+Moi, j'attends que tu sortes.
+Pour rester en ces lieux j'ai des raisons bien fortes.
+ARLEQUIN, prend son coutelas.
+Veux-tu te retirer, ou je te romps les bras.			[145]
+PIERROT, en s'en allant.
+He bien, je reviendrai quand tu n'y seras pas.
+ARGENTINE.
+Vos manieres Monsieur, ne font que me deplaire !
+De tous ces vains soupcons songez a vous defaite,
+Je vous l'ai deja dit, vous devez profiter
+Des lecons qu'Argentine a voulu vous dicter.			[150]
+Je veux gouter en paix les douceurs de la vie,
+Folatrer, badiner au gre de mon envie,
+Adieu souvenez-vous, et soyez convaincu,
+Que quand on est jaloux, on est bien-tot cocu.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, seul.
+Franchement ce discours n'est point enigmatique,			[155]
+Elle veut m'encorner malgre ma rhetorique,
+Mais je ne serai point sujet au grand malheur
+Qui de tant de maris fait naitre la douleur,
+Et je prendrai morbleu, de si bonnes mesures,
+Que ma femme a mon front ne fera point d'injures. 			[160]
+SCENE V. Leandre, Octave.
+OCTAVE.
+Se peut-il, cher ami, que ton coeur a son tout
+Refuse de se rendre au pouvoir de l'amour ?
+Tu fais gloire en tous lieux de ton indifference ;
+Ah ! c'est faire au beau sexe une sensible offense
+Que de marquer pour lui si peu d'empressement,			[165]
+Et de voir sans l'aimer l'objet le plus charmant.
+Crains donc, pour te punir, que le fils de Cythere
+Ne te livre aux effets de sa juste colere,
+Et que ce fier vainqueur renversant tes projets
+Sur ton coeur dedaigneux ne lance tous ses traits.			[170]
+LEANDRE.
+Pourquoi me blames-tu ? Ta remontrance est vaine,
+Je cede avec plaisir au penchant qui m'entraine,
+Content de mon etat, satisfait de mon sort,
+J'ignore les effets d'un amoureux transport.
+Un paisible repos est le bien ou j'aspire,			[175]
+Un coeur qui le possede a tout ce qu'il desire ;
+Est-ce un charme ? dis-moi, de languir sans espoir,
+D'adorer un objet que l'on a peine a voir,
+De pousser des regrets, de repandre des larmes,
+De ressentir toujours de mortelles alarmes ;			[180]
+L'amour m'accablerait sous ses funestes coups,
+Et me ferait former mille soupcons jaloux ?
+Inquiet, agite, je craindrais que ma belle,
+Malgre ma tendre ardeur ne devint infidele,
+Chaque instant ne ferait que redoubler mon mal. 			[185]
+Je verrais avec peine un trop heureux rival !
+Ami je vis en paix, rien ne trouble ma vie :
+Au calme de mon coeur tu dois porter envie,
+Puisque rien n'est egal a ma felicite,
+Laisse-moi m'applaudir de ma tranquillite.			[190]
+OCTAVE.
+Non c'est injustement que tu veux te defendre
+D'un doux engagement ; et d'un commerce tendre :
+Chacun doit, cher ami, se laisser enflammer
+Et nul n'echappe enfin au Dieu qui fait aimer.
+LEANDRE.
+Inutiles efforts pour soumettre mon ame,			[195]
+Aux tyranniques lois d'une volage femme !
+Et qui par un esprit, faible, capricieux,
+Recoit tous les objets qui lui frappent les yeux.
+De ce sexe enchanteur l'approche est trop fatale :
+Une femme est toujours d'une humeur inegale,			[200]
+Aujourd'hui ses transports font des plus violents,
+On la trouve demain au milieu des galants,
+Affectant d'imiter les airs d'une coquette
+Badiner avec eux, repondre a la fleurette,
+Et pour donner du lustre a ses trompeurs appas			[205]
+Inspirer une ardeur qu'elle ne ressent pas. 
+SCENE VI. Arlequin, Leandre, Octave.
+ARLEQUIN.
+Messieurs mes ecoliers quel nouveau soin vous presse ?
+Venez-vous dans ces lieux chercher quelque Maitresse ?
+Vous etes faits d'un air a ne pas en manquer,
+Et je vous crois tous deux d'age a prevariquer ;			[210]
+Du temps que vous etiez sujets a ma ferule
+J'etais, vous le savez, d'une humeur ridicule,
+Je vous interdisais les plaisirs amoureux ;
+Mais pour lors vous n'etiez que des petits morveux :
+Je crois que maintenant une telle defense,			[215]
+Ne ferait qu'augmenter votre concupiscence,
+Et je puis affirmer, sans passer pour menteur,
+Que vous en savez plus que votre precepteur.
+OCTAVE.
+Je fais ce que je puis pour convaincre Leandre ;
+Mais a tous mes discours il ne veut rien comprendre,			[220]
+Et persistant toujours dans sa frivole erreur,
+Du plus charmant plaisir il concoit de l'horreur ?
+Pour lui le mot d'amour est un obscur langage,
+Et je ne vis jamais un garcon si sauvage.
+LEANDRE.
+Je ne sais ce que c'est : pour tout indifferent 			[225]
+J'avouerai qu'en amour je suis fort ignorant.
+ARLEQUIN.
+Je veux par mes lecons le rendre plus habile :
+Laissez-le moi, dans peu vous le verrez docile ;
+Je consens de tout perdre, et de passer pour fou,
+S'il n'est dans quelque temps plus tendre qu'un matou.			[230]
+OCTAVE, a Leandre.
+Ami, pour un moment d'ici je me retire ;
+Le Seigneur Arlequin aura soin de t'instruire,
+Malgre ta fermete, bien-tot sur ton esprit
+Ses savantes lecons auront quelque credit.
+SCENE VII. Arlequin, Leandre.
+ARLEQUIN.
+Ici nous sommes seuls, rien ne nous importune.			[235]
+Se peut-il, qu'insensible a la Blonde, a la Brune,
+Dans cette inaction tu passes tes beaux ans ?
+Tu devrais, cher Leandre, employer mieux le temps.
+Un garcon sans maitresse est un vaisseau sans rame,
+Une Ville sans porte, enfin un corps sans ame,			[240]
+Un canon sans affut, c'est un fleuve sans eau,
+Palais sans fondement, et lame sans fourreau,
+Tu n'aimes rien, dis-tu, fi donc c'est vivre en bete,
+Tu peux facilement faire quelque conquete :
+La beaute la plus fiere en l'ecoutant parler,			[245]
+D'elle-meme aussi-tot viendra capituler.
+Tout aime dans le monde, et c'est pure folie,
+De narguer les appas d'une femme jolie,
+Les plus braves heros sensibles a leur tour,
+Ont sans peine accorde Bellone avec l'amour.			[250]
+Ce Dieu dans tous les coeurs s'insinue, et se glisse,
+Titus malgre son deuil aima sa Berenice.
+Hercule d'un beau feu fut contraint de bruler
+Et pour la Reine Omphale il voulut bien filer.
+A des desirs ardents peut-on mettre des bornes ?			[255]
+Pour Europe Jupin voulut prendre des cornes.
+Il n'est point d'animal qui n'aime tendrement :
+Le singe la guenon, le cheval la jument,
+Le coq aime la poule, et l'ane son anesse,
+Le gros taureau soupire, et mugit de tendresse,			[260]
+La chaste tourterelle aime son tourtereau,
+Et la belle perdrix brule pour son perdreau.
+Le lion plein de feu rugit pour sa lionne,
+Et le goujon fretille aupres de sa goujonne,
+La Chatte en miaulant appelle le matou,			[265]
+Et la sombre chouette est folle du hibou.
+Toujours le becasseau vole apres la becasse,
+Pour l'aimable crapaud la grenouille coasse,
+Dans l'Empire des flots les Poissons amoureux
+Malgre l'humidite brulent des plus beaux feux.			[270]
+Un carpeau suit de pres une carpe fidele ;
+Et le maquereau vert pourchasse sa femelle,
+Tant d'exemples traces ne suffiront-ils pas
+Pour te determiner a marcher sur leurs pas ?
+LEANDRE.
+Pour me persuader a fuir l'indifference,			[275]
+Vous employez en vain toute votre eloquence :
+J'ignore le secret de triompher d'un coeur,
+Daignez donc m'eclaircir, Monsieur mon precepteur :
+Lorsque vous m'aurez dit comment je dois m'y prendre,
+Peut etre malgre moi chercherai-je a me rendre,			[280]
+Si vous m'instruisez bien je saurai galamment
+Pratiquer vos lecons pres d'un objet charmant.
+ARLEQUIN.
+Pour soumettre a tes lois une beaute charmante.
+Suis avec un grand soin ma maxime savante.
+Sitot que tu verras une belle au balcon,			[285]
+Campe-toi tout d'abord... la... de cette facon.
+Fais-lui la reverence, et d'un oeil plein de flamme
+Pour la mieux amorcer regarde cette Dame.
+Qu'un soupir amoureux s'echappe de ton coeur,
+Mord ton gant, affectant une douce langueur,			[290]
+Exprime en mots pompeux ta nouvelle tendresse,
+Et la belle aussi-tot, fut-elle une Lucrece,
+Lors qu'en termes choisis tu conteras tes feux
+Ne refusera point de repondre a tes Voeux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dis-lui qu'en la voyant, trop sensible a ses charmes,			[295]
+Tu n'as pu t'empecher de leur rendre les armes.
+Que jusques au tombeau tu veux etre constant,
+Et qu'enfin tu serais parfaitement content
+Si d'un objet si beau tu faisais la conquete.
+Apres un grand discours demande un tete a tete,			[300]
+Tu verras que sans peine elle t'accordera
+Tete a tete, baisers, peut etre.... Et cetera.
+LEANDRE.
+Je vois qu'il faut ceder, et qu'a votre eloquence
+On ne peut opposer qu'une vaine defense ;
+Je vais tout de ce pas en fidele ecolier			[305]
+Suivre votre lecon, et la bien essayer.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Moi, je vais sur le champ avertir le Notaire
+De se rendre chez moi pour finir mon affaire. 
+SCENE VIII. Octave, Scaramouche.
+OCTAVE.
+C'est vivre trop longtemps loin de l'objet aime ;
+Rien ne doit arreter un coeur bien enflamme.			[310]
+Lorsque je ne vois point la charmante Spinette
+Mes sens sont agitez, mon ame est inquiete
+Cette jeune beaute fixe tous mes desirs,
+Loin d'elle je ne puis gouter de vrais plaisirs,
+J'aime son air naif, sa maniere innocente,			[315]
+Et sa simplicite me ravit, et m'enchante :
+Que dis-tu de mon choix ?
+SCARAMOUCHE.
+A parler franchement,
+C'est un vilain metier que celui d'un Amant :
+Vous passez sans dormir les nuits les plus tranquilles,
+Vous etes comme un Chat qui rode sur les tuiles,			[320]
+Pour moi je ne sais pas quel plaisir vous trouvez !
+Vos draps depuis deux mois n'ont pas ete lavez
+Est ce pour epargner les frais du blanchissage
+Que vous dormez si peu ? quel Diable de menage !
+Aussi vous devenez maigre comme un anchois,			[325]
+Et vous avez morbleu le plus fichu minois !
+J'enrage ; car il faut aussi par complaisance,
+Que je veille avec vous sans me farcir la panse.
+Moi qui toute ma vie ai bien mange, bien bu,
+Ma foi, je n'ai jamais ete si mal repu.			[330]
+Aussi, je m'apercois que ma graisse est fondue,
+Je deviens tous les jours plus sec qu'une morue,
+A peine suis-je a table, aussitot vous criez
+Scaramouche... d'abord il faut lever les pieds.
+Tu mangeras tantot, va porter cette lettre			[335]
+A Spinette, a present elle est a sa fenetre,
+Et tu la lui rendras sans qu'on puisse te voir ;
+Cet ordre rigoureux me met au desespoir
+La nuit lorsque je crois reposer a mon aise,
+Scaramouche ! Viens-t'en me mettre sur la chaise,			[340]
+Pendant toute la nuit voila quel est le train,
+Cela dure souvent jusques au lendemain ;
+Je crois que vous rendez votre amour par derriere
+Et vous m'empoisonnez avec votre matiere.
+OCTAVE.
+Veux-tu bien terminer de si fades discours			[345]
+Sans rime, et sans raison tu plaisantes toujours.
+SCARAMOUCHE.
+Le vilain loup-garou qui n'aime pas la joie !
+OCTAVE.
+Cours appeler Spinette il faut que je la voie.
+SCARAMOUCHE.
+Oui, mais si le docteur etait dans la maison
+Il me regalerait de cent coups de baton :			[350]
+Le drole quand il bat n'y va pas de main morte,
+Je le sais.
+OCTAVE.
+Ne crains rien, va frapper a sa porte.
+SCARAMOUCHE.
+Allons je le veux bien, et si je suis battu
+Je vous rendrai ma foi ce que j'aurai recu.
+OCTAVE.
+Finiras-tu maraud ?
+SCARAMOUCHE.
+Qu'il a l'humeur farouche !			[355]
+Hola ! Quelqu'un, c'est moi ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX. Spinette, Octave, Scaramouche.
+SPINETTE.
+Que veux-tu Scaramouche ?
+SCARAMOUCHE.
+Madame en verite... pour moi je ne veux rien,
+SPINETTE, en s'en allant.
+Adieu donc.
+SCARAMOUCHE.
+Serviteur, parlez, Monsieur.
+OCTAVE.
+He bien !
+Qu'as-tu donc fait ?
+SCARAMOUCHE.
+J'ai vu la charmante Spinette,
+Qu'elle a l'air engageant ! morbleu qu'elle est bien faite !			[360]
+Elle m'a demande pourquoi je l'appelais,
+Elle a voulu savoir ce que je lui voulais,
+Et moi j'ai repondu, je ne veux rien Spinette,
+Aussi-tot elle a pris la poudre d'escampette.
+Voila ce que j'ai fait.
+OCTAVE.
+Ah L le joli garcon			[365]
+Et qu'il s'acquitte bien d'une commission.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Hola !
+SPINETTE.
+Que veux-tu donc, ah ! c'est vous !
+OCTAVE.
+Oui, ma belle,
+Vous me voyez ici...
+SCARAMOUCHE.
+Bonjour Mademoiselle,
+Mon maitre n'a pas tort, elle a bien des appas,
+Le pauvre Scaramouche en ferait ses choux gras.			[370]
+OCTAVE.
+He bien puis- je former une douce esperance ?
+Votre coeur ressent-il les tourments de l'absence ?
+Et quand vous me voyez, goute-t-il les plaisirs
+Ou doivent se borner ses uniques desirs ?
+SPINETTE.
+Douteriez-vous encor de mon ardeur parfaite ?			[375]
+Quoi, vous ne croyez pas d'etre aime de Spinette ?
+Que je suis malheureuse ; apres ce que j'ai fait,
+Vous etes trop jaloux.
+OCTAVE.
+Je le suis en effet :
+Si je ne vous aimais avec delicatesse,
+Je ne craindrais pas tant, ma charmante Maitresse,			[380]
+Ah ! Loin que mes soupcons vous soient injurieux,
+Ils doivent leur naissance a l'exces de mes feux.
+SPINETTE.
+Par ou donc, cher Octave, ai-je pu vous deplaire ?
+Pour vous tant allarmeR que me voyez-vous faire ?
+Du matin jusqu'au soir je suis dans la Maison ;			[385]
+Quand vous me soupconnez vous n'avez pas raison ;
+A de pareils discours je ne puis rien comprendre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)OCTAVE, a Scaramouche qui pleure.
+Tu pleures ? 
+SCARAMOUCHE.
+Oui, Monsieur ; c'est que j'ai le coeur tendre.
+OCTAVE.
+Daignez secher les pleurs qui coulent de vos yeux.
+SCARAMOUCHE, en pleurant.
+Monsieur, jusqu'a demain nous pleurerons tous deux ;			[390]
+Aussi pour quoi lacher le robinet des larmes :
+Que de beaux yeux en pleurs ont d'agreables charmes !
+SPINETTE.
+De moi, je le vois bien, vous faites peu de cas,
+Vous me grondez toujours, et vous ne m'aimez pas.
+OCTAVE.
+Pardonnez-moi Spinette, et croyez que mon ame			[395]
+Saura bruler pour vous d'une eternelle flamme,
+Belle, vous me voyez soumis a vos genoux...
+SPINETTE.
+Dites moi donc, Monsieur quand nous marierons-nous ?
+Mon pere est bien mechant, vous aurez de la peine
+A gagner son esprit.
+OCTAVE.
+Non, votre crainte est vaine,			[400]
+Il faudra qu'il consente, et je suis assure...
+SCARAMOUCHE.
+Ah ! Que je serai beau quand j'aurai bien pleure !
+SPINETTE.
+Vous m'avez tant de fois promis des serenades,
+Quand m'en donnerez-vous ? j'aime fort les aubades.
+OCTAVE.
+Ce soir.
+SPINETTE.
+N'y manquez pas, les filles du quartier			[405]
+Ont toutes ce plaisir, et je dois l'envier,
+J'aime les instruments on ne peut davantage.
+SCARAMOUCHE.
+C'est assez la le gout des filles de votre age.
+OCTAVE.
+Votre pere n'est pas a present au Logis.
+Entrons-y.
+SPINETTE.
+Mais par lui si vous etiez surpris,			[410]
+Il me maltraiterait d'une etrange maniere.
+OCTAVE.
+Entrons sans differer, ne craignez rien ma chere ;
+Scaramouche aura soin de l'ecarter d'ici :
+Entends-tu ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCARAMOUCHE, seul.
+Peste soit de l'amoureux transi :
+Cet emploi m'est a charge, et ne me convient guere,			[415]
+Tout franc je suis bien las d'un pareil ministere,
+Moi qui jamais n'ai craint en amour de rivaux,
+Aujourd'hui l'on m'emploie a garder les manteaux :
+Mais voici le Docteur. 
+SCENE X. Le Docteur, Scaramouche.
+LE DOCTEUR.
+Non, je n'y puis suffire :
+C'est souffrir trop longtemps un rigoureux martyre :			[420]
+Quoi, je ne puis jouir d'un moment de repos !
+Le moyen d'ecouter tant de fades propos ;
+L'un me vient aborder, un inconnu m'embrasse,
+Et cet autre me tient des discours a la glace :
+Comment vous portez-vous ; que dit-on de nouveau,			[425]
+Pour aller prendre l'air le temps est assez beau.
+L'un parle de sa voix, et l'autre de sa danse ;
+Celui-ci prend le soin de vanter ma science :
+De pareils entretiens ne me conviennent pas,
+Peste des importuns, j'en trouve a chaque pas :			[430]
+Horace avait raison d'en craindre la poursuite,
+Et de fuir avec soin cette race maudite ;
+Et le plus sur moyen de fuir tous ces facheux,
+C'est d'entrer au Logis, et de m'eloigner d'eux. 
+SCENE XI. Scaramouche, Le Docteur.
+Scaramouche vient avec precipitation, en nommant a haute voix le Docteur, pour se faire entendre a Octave qui est dans la Maison ; et dans le temps que le Docteur vent entrer chez lui, Scaramouche le repousse vivement, lui racontant qu'il vient de prendre son parti contre des personnes qui le traitaient d'ignorant, et qu'il en est venu aux mains avec ces memes personnes ; en disant : Sortez ; Monsieur le Docteur est ici, mais c'est pour se faire entendre d'Octave. Apres le recit de cette dispute, qui consiste en plusieurs coups, que le Docteur recoit de Scaramouche, pour lui faire, a ce qu'il dit, mieux comprendre de quelle maniere le combat s'est passe ; le Docteur est contraint de apres quoi Scaramouche appelle Octave, en lui disant de sortir.
+SCENE XII. Octave sortant de la Maison du Docteur, Scaramouche.
+OCTAVE.
+He bien puis-je sortir, et n'ai-je rien a craindre ?			[435]
+SCARAMOUCHE.
+Le Docteur est bien loin, et j'ai su le contraindre
+A partir de ces lieux en le chargeant de coups,
+De peur qu'il ne revienne, allons, retirez-vous.
+SCENE XIII. Argentine a sa fenetre tenant un Livre a la main, Leandre qui survient.
+ARGENTINE.
+Que l'etat d'une fille est triste et deplorable !
+Lors qu'en proie aux rigueurs du destin qui l'accable,			[440]
+Elle doit obeir, et que son coeur gene,
+A fuir un doux penchant est enfin condamne.
+Non, je ne puis subir cette loi tyrannique.
+LEANDRE, bas.
+Il faut pour m'egayer que je mette en pratique 
+La lecon qu'Arlequin m'a tracee en ces lieux.			[445]
+Que vois-je ! Quel objet se presente a mes yeux !
+Je vais, comme il m'a dit, me camper devant elle
+D'un air de petit Maitre, et sourire a la belle.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Bon, j'en fuis apercu, tout va bien jusqu'ici ;
+Jouons de la prunelle en amoureux transi,			[450]
+Lancons-lui tendrement une oeillade engageante,
+Pour la faire bien-tot repondre a mon attente :
+Ce soupir plein de feu va la determiner ;
+J'ai commence l'ouvrage, il faut le terminer :
+Je dois mordre mon gant ; elle se met a rire,			[455]
+Je crois que j'obtiendrai tout ce que je desire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Madame, permettez que ma naissante ardeur
+Eclate, et que le feu qui devore mon coeur
+Se decouvre a vos yeux, puis qu'eux seuls l'ont fait naitre.
+Il est trop violent pour craindre de paraitre,			[460]
+Et jusques au tombeau je pretends vous aimer,
+Ma belle a votre tour laissez-vous enflammer ;
+Et pour prix de l'ardeur qui pres de vous m'arrete,
+J'ose vous demander en grace un tete a tete.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qui ne dit mot consent ; elle l'accordera,			[465]
+Et je suis deja sur d'avoir l'et cetera.
+ARGENTINE.
+Un tel aveu, Monsieur, a lieu de me confondre ;
+Vous m'embarrassez fort, je ne sais que repondre ;
+Cependant je veux bien vous dire ingenument
+Qu'en cet instant mon coeur goute un plaisir charmant ;			[470]
+Et comme je voudrais eviter l'esclavage,
+Pour me soustraire au joug d'un fatal mariage,
+Ou pretend me soumettre un jaloux odieux ;
+Je braverais pour vous ses transports furieux ;
+Mais je crains de former une vaine esperance.			[475]
+LEANDRE.
+Non, non, assurez-vous de ma perseverance ;
+Jusques a ce moment j'ai meprise l'amour,
+Mais je vois qu'a ce Dieu chacun cede a son tour.
+Vous seule etes l'objet de ma premiere flamme,
+Et vous avez enfin triomphe de mon ame :			[480]
+Pour vous faire echapper aux rigueurs du jaloux,
+Les plus affreux perils me sembleront trop doux,
+ARGENTINE.
+Que mon sort serait beau, si vous etiez ; sincere !
+Mais je n'ose penser...
+LEANDRE.
+N'en doutez point ma chere.
+ARGENTINE.
+He bien, s'il est ainsi, je vous attends demain,			[485]
+Pour vous communiquer en secret mon dessein ;
+Ensemble nous prendrons des mesures certaines,
+Pour entrer dans vos fers, je briserai mes chaines.
+Je crains que mon jaloux ne vous trouve en ce lieu,
+Il faut vous retirer.
+LEANDRE.
+Vous me quittez.			[490]
+ARGENTINE.
+Adieu.			[490]
+LEANDRE.
+Deja...
+ARGENTINE.
+Dans un moment il doit ici se rendre ;
+Dites-moi votre nom.
+LEANDRE.
+On m'appelle Leandre.
+ARGENTINE.
+C'en est assez, Leandre, il ne tiendra qu'a vous
+De posseder ma main en qualite d'epoux.
+LEANDRE.
+Ah ! Puisqu'a vous aimer mon coeur se determine,			[495]
+Apprenez-moi du moins votre nom.
+ARGENTINE.
+Argentine,
+Mon cher Leandre, adieu, j'attends votre retour,
+Songez au rendez-vous accorde par l'amour.
+LEANDRE, seul.
+Quel changement soudain ! je me vois sans defense,
+Qu'etes-vous devenue heureuse indifference !			[500]
+Quoi l'amour a ses lois a soumis ma raison !
+J'ai pris, je le vois bien, du gout a la lecon ;
+Et ce Dieu tout a coup s'est venge sur moi-meme,
+Du mepris que j'ai fait de son pouvoir supreme. 
+SCENE XIV. Octave, Scaramouche, Plusieurs Valets avec des Lanternes, La Chanteuse, Spinette a la fenetre.
+SCARAMOUCHE, aux Symphonistes.
+Preludez s'il vous plait, Messieurs du Violon,			[505]
+Et faites de Musique un joli carillon.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA CHANTEUSE.
+Un amant soumis a vos lois,
+Languit pour vous, belle Spinette ;
+Il brule d'une ardeur parfaite,
+Et n'a pu faire un plus beau choix.			[510]
+Il cherche sans cesse a vous plaire.
+Ah ! daignez repondre a ses feux !
+Si vous voulez le rendre heureux,
+Il n'aura plus de voeux a faire. 
+SCENE XV. Le Docteur d'un cote, Arlequin de l'autre.
+LE DOCTEUR.
+Que font ces insolents plantez devant ma porte,			[515]
+Je veux les etriller, mais de la bonne sorte.
+ARLEQUIN.
+Messieurs les amoureux, je vais vous regaler,
+Et bientot de ces lieux vous faire detaler.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			ACTE II
+
+
+SCENE PREMIERE.
+MEZZETIN, seul en chantant.
+Vive le jus de la treille
+Pour dissiper le chagrin :			[520]
+Lorsque je tiens ma bouteille,
+Je goute un heureux destin.
+J'aime mieux rougir ma trogne
+Qu'aimer un objet charmant :
+Rien n'inquiete un ivrogne,			[525]
+Et tout alarme un amant.
+Ma foi c'est un plaisir de chanter et de boire,
+Le joyeux Mezzetin en fait toute sa gloire ;
+Fi de ces amoureux languissants et transis,
+Qu'accompagnent toujours les peines, les soucis ;			[530]
+Pour moi, graces au Ciel, je n'ai point le coeur tendre,
+Dans ses filets tendus l'amour ne peut me prendre :
+J'incague son pouvoir, je me ris de ses traits,
+Et le Cabaret seul a pour moi des attraits.
+Je m'enivre souvent, et je suis un bon drille,			[535]
+Je fume quelquefois, je joue a Briscambille ;
+En moi d'un bon grivois on peut voir le portrait,
+Je suis sur mon honneur un Lyonnais parfait.
+Je voudrais bien savoir ou s'est fourre mon Maitre...
+Mais le voici qui vient, et je le vois paraitre.			[540]
+SCENE II. Leandre, Mezzetin.
+LEANDRE, pensif.
+Etrange etat d'un coeur que l'amour a soumis !
+De trouver du repos il ne m'est plus permis.
+MEZZETIN, en lui voulant parler.
+Monsieur...
+LEANDRE, en se promenant.
+Loin de l'objet de ma nouvelle flamme
+Je ne puis vivre en paix, tout agite mon ame.
+MEZZETIN.
+Monsieur...
+LEANDRE, se promenant toujours.
+A le revoir je borne tous mes voeux,			[545]
+Et son aspect charmant peut seul me rendre heureux.
+MEZZETIN.
+Monsieur...
+LEANDRE, apercevant Mezzetin.
+Ah ! Mezzetin que j'ai d'inquietude !
+L'amour me fait souffrir le tourment le plus rude.
+MEZZETIN.
+La soif me desespere et me fait enrager.
+LEANDRE.
+Je cherche un beaute... 
+MEZZETIN.
+Moi je cherche a manger.			[550]
+LEANDRE.
+Non, rien n'est comparable aux attraits d'Argentine.
+MEZZETIN.
+Non, rien n'est plus charmant qu'une grande Cuisine.
+LEANDRE.
+Et le coeur le plus fier doit enfin lui ceder.
+MEZZETIN.
+Oui, je voudrais toujours m'emplir et me vider.
+LEANDRE.
+Que dis-tu, Mezzetin, et quel est ce langage ?			[555]
+MEZZETIN.
+Pour moi le mot d'amour est un sensible outrage,
+Parlez plutot de boire, est-il rien de plus doux
+Qu'un son harmonieux d'agreables glouglous ?
+Rien ne peut approcher de cette melodie.
+LEANDRE.
+Je croyais sans aimer passer toute ma vie ;			[560]
+Mais depuis que j'ai vu l'objet qui m'a charme,
+Mon coeur indifferent s'est d'abord enflamme :
+Pour ne pas l'adorer ma Maitresse est trop belle,
+Je dois dans un moment m'introduire chez elle ;
+Tu pourrais interrompre un si doux entretien,			[565]
+Retire-toi d'ici.
+MEZZETIN.
+Ma foi je le veux bien ;
+Vous n'avez qu'a jaser, et conter la fleurette,
+Moi, je vais chez Muri boire la chopinette.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III. Leandre, Arlequin, qui survient.
+LEANDRE.
+Voici l'heure, je pense, ou je dois lui parler.
+Je suis bien amoureux, a ne le point celer !			[570]
+Parbleu, c'est tout de bon ; mais j'apercois mon maitre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Comment, cher Arlequin, pourrai-je reconnaitre
+Votre bonte pour moi, vos soins officieux ?
+ARLEQUIN.
+Croyez, mon cher enfant, que j'ai fait de mon mieux :
+Avez-vous profite d'une lecon fi belle ?			[575]
+Vous etiez a l'amour terriblement rebelle.
+LEANDRE.
+Ami, ce temps n'est plus, mon coeur est bien change,
+Et dans d'aimables fers il se trouve engage.
+J'ai suivi bien a point votre douce maxime :
+C'etait contre l'amour commettre un trop grand, crime,			[580]
+Que de ne pas ceder a des appas vainqueurs,
+Et je suis revenu de mes vaines erreurs.
+ARLEQUIN.
+Ah ! que j'en suis ravi, voila ce qui s'appelle,
+A voir un ecolier et soumis, et fidele ;
+Je suis trop satisfait que ma sage lecon			[585]
+Ait fait en peu de temps un eleve si bon. 
+Ca ne me cachez rien, la belle s'est rendue ?
+Parlez, qu'avez-vous fait depuis notre entrevue ?
+LEANDRE.
+J'ai d'abord pratique ce que vous m'avez dit :
+Vos preceptes etaient gravez dans mon esprit.			[590]
+Ainsi je ne pouvais qu'a mon grand avantage
+Appliquer la lecon que j'ai mise en usage.
+Un objet tout charmant s'est offert a mes yeux,
+Cette jeune beaute loge pres de ces lieux,
+Elle est, je l'avouerai, tout a fait engageante ;			[595]
+La Belle a repondu sans peine a mon attente,
+Pour la mieux amorcer j'ai d'abord employe,
+Les soupirs, les regards, je n'ai rien oublie :
+Enfin dans un moment je dois entrer chez elle.
+ARLEQUIN.
+Dites-moi donc comment le nomme cette belle.			[600]
+LEANDRE.
+Son nom est Argentine.
+ARLEQUIN.
+Ha ! Que me dites-vous ?
+LEANDRE.
+Elle est entre les mains d'un brutal, d'un jaloux
+Qu'elle ne peut souffrir, et que son coeur deteste.
+ARLEQUIN, a part.
+Oh ! pour le coup j'en tiens, il m'a donne mon reste,
+L'ai-je bien entendu ? Peste de la lecon,			[605]
+Peut-etre il s'est mepris, et quelle est sa Maison ?
+LEANDRE, en lui montrant la Maison.
+C'est la.
+ARLEQUIN.
+Vous vous trompez.
+LEANDRE.
+Non : c'est la sa demeure.
+ARLEQUIN, en montrant avec le doigt une autre maison.
+C'est peut-etre plus bas.
+LEANDRE.
+Non Monsieur, ou je meure.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est ici.
+ARLEQUIN.
+Juste Ciel ! je n'en dois plus douter,
+Il a de me lecon su trop bien profiter.			[610]
+Ce Diable d'ecolier en sait plus que le Maitre.
+LEANDRE.
+Dans un moment j'espere encore la mieux connaitre :
+Son jaloux est dehors, elle m'introduira
+Dans son appartement.
+ARLEQUIN.
+Gare l'et cetera.
+LEANDRE.
+Si vous vouliez Monsieur pour couronner l'ouvrage,			[615]
+Entrer chez me Maitresse, et voir si ce sauvage,
+N'est point dans le Logis, vous m'obligerez fort.
+Ne refusez donc pas de servir mon transport :
+Vous etes si zele, d'une humeur si traitable !
+ARLEQUIN.
+Que j'ai lieu d'esperer... Ce serait bien le Diable,			[620]
+Cet ouvrage sans moi saura se terminer,
+Et vous allez, Monsieur, bien-tot le couronner.
+LEANDRE.
+Quoi, vous ne voulez pas ? Votre refus m'offense.
+ARLEQUIN.
+Non, ma foi, je ne puis le faire en conscience,
+Adieu.
+LEANDRE.
+Vous me quittez ; Ah ! restez en ces lieux,			[625]
+Pour voir.... 
+ARLEQUIN.
+Je ne suis pas a present curieux.
+Ah ! Maudit ecolier ! que la peste te creve.
+Qui l'eut jamais pense : j'ai fait une bel eleve ;
+Mais je veux a l'ecart observer tout ceci.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LEANDRE.
+Qu'elle tarde a venir, juste Ciel ! La voici.			[630]
+SCENE IV. Argentine, Leandre, Arlequin a l'ecart.
+LEANDRE.
+C'est donc vous ? Argentine, enfin votre presence
+Satisfait aux transports de mon impatience.
+Je vous vois, et je suis parfaitement heureux.
+ARGENTINE.
+Au plaisir d'etre a vous je borne tous mes veux :
+Vous seul pouvez parer le coup qui me menace,			[635]
+Et me faire eviter une affreuse disgrace ;
+Je ne puis consentir d'epouser un magot.
+ARLEQUIN, a l'ecart.
+Comme elle me connait ! Que je suis un grand sot !
+Ne lui devrais-je pas donner une bourrade...
+Mais non : je suis poltron, et je crains la gourmade.			[640]
+LEANDRE.
+Oui, de votre jaloux je veux vous delivrer,
+Ma belle, c'est de quoi je puis vous assurer,
+Et les noeuds de l'hymen nous uniront ensemble. 
+ARGENTINE.
+Ciel ! S'il nous surprenait ! Ah ! Leandre je tremble...
+LEANDRE.
+Non, non, ne craignez rien, s'il troublait nos discours,			[645]
+Ce serait fait de lui j'abregerais ses jours.
+ARLEQUIN, bas.
+Oh ! vous pouvez parler avec toute assurance,
+Apres l'avoir instruit, la belle recompense !
+ARGENTINE.
+Souhaitez-vous entrer ?
+ARLEQUIN, bas.
+Eh non qu'il n'entre pas.
+LEANDRE.
+Belle, je ne veux point vous causer d'embarras,			[650]
+Je vais tout disposer pour notre mariage.
+ARLEQUIN, bas.
+S'il veut nous nous mettrons tous les deux en menage,
+Moi je l'aurai la nuit, et lui l'aura le jour.
+ARGENTINE.
+Leandre, au nom des Dieux, pressez votre retour,
+Puissent-ils proteger des ardeurs si fideles !			[655]
+LEANDRE.
+Ma chere, de l'amour j'emprunterai les ailes.
+Pour voler jusqu'a vous, et pour vous garantir...
+ARGENTINE.
+Ce n'est pas sans regret que je vous vois partir.
+LEANDRE.
+Tantot de mon dessein vous serez mieux instruite
+Et nos amours auront une agreable suite.			[660]
+SCENE V.
+ARLEQUIN, seul.
+He bien qu'en dirons-nous ! sont-ce la des chansons !
+Non pas, voila l'effet de mes belles lecons,
+Je m'en suis bien doute, quand cette matinee
+Je peignais avec soin me tete infortunee :
+Le peigne ne pouvait entrer dans mes cheveux,			[665]
+J'avais beau le pousser, et peigner de mon mieux,
+Quelque chose de dur lui faisait resistance ;
+Il faut pourtant avoir recours a la vengeance :
+Vite qu'un bon canon, une bombe, un mortier,
+Une carcasse, enfin un arsenal entier,			[670]
+Punisse ma carogne, et seconde ma rage,
+Quoi l'on me Vulcanise a la fleur de mon age ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ma foi, je suis bien fou de repandre des pleurs :
+Car si tous las Maris sujets a tels malheurs.
+Pleuraient amerement pour pareilles alarmes			[675]
+On ne verrait ici que des yeux plein de larmes.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Le Docteur, Spinette.
+LE DOCTEUR.
+Je dois pour quelque temps m'absenter du Logis :
+Le soin de la Maison par moi vous est commis.
+Balayez bien ma chambre, et songez au menage,
+Lorsque je reviendrai que je trouve un potage,			[680]
+Et que la porte soit fermee a double tour,
+Gardez-vous de l'ouvrir jusques a mon retour.
+SPINETTE.
+Je vous obeirai : le devoir me l'ordonne.
+Si quelqu'un vient frapper...
+LE DOCTEUR.
+Ne recevez personne.
+Faites ce que je dis, restez dans la Maison ;			[685]
+Surtout je vous defends de paraitre au Balcon.
+SPINETTE.
+Ferais-je un si grand mal, si pendant votre absence
+Je prenais un peu l'air ; pourquoi cette defense ?
+Quand je suis seule, helas ! je m'ennuie a la mort,
+Et tout le monde dit que vous avez grand tort			[690]
+De me faire subir un si rude esclavage,
+Et qu'enfin il est temps de me mettre en menage.
+Que deja je devrais etre avec un epoux,
+Et que je me pourrais fort bien passer de vous.
+Car a ce qu'on m'a dit je suis fille nubile			[695]
+Je ne le sens que trop.
+LE DOCTEUR.
+Vous faites l'indocile, 
+Voyez cette morveuse, et ce bel embryon !
+SPINETTE.
+Je ne merite pas, mon pere, un pareil nom.
+Vous m'appelez morveuse, et moi je vous assure
+Qu'on peut cueillir la poire aussitot qu'elle est mure,			[700]
+Et qu'il ne tient qu'a moi... suffit, je m'entends bien.
+LE DOCTEUR.
+Plait-il ? Que dites-vous ?
+SPINETTE.
+Qui moi ? Je ne dis rien.
+LE DOCTEUR.
+Taisez-vous, je suis las d'entendre ce langage,
+Un semblable entretien, et m'echauffe, et m'outrage,
+Songez a m'obeir en tout ce qui me plait,			[705]
+Ou vous m'obligerez a vous donner le fouet.
+SPINETTE.
+Ne vous emportez pas, je crains votre colere,
+Mon cher petit papa.
+LE DOCTEUR, a part.
+Ma foi l'on a beau faire
+Pour gener un esprit on se fatigue en vain ;
+Nature est la plus forte et va toujours son train.			[710]
+SCENE VII. Spinette, Octave, qui survient.
+SPINETTE.
+Mon pere me contraint et veut me rendre esclave ;
+Mais il n'en sera rien, si je voyais Octave,
+Maintenant au Logis je le ferais entrer,
+Peut-etre viendra-t-il, j'ai tout lieu d'esperer ;
+Je l'apercois enfin.
+OCTAVE.
+Quelle bonne nouvelle ?			[715]
+SPINETTE.
+Pour nous voir en secret l'occasion est belle,
+Mon pere de longtemps ne viendra dans ces lieux.
+OCTAVE.
+Entrons, et profitons d'un moment precieux.
+SCENE VIII.
+LE DOCTEUR.
+Je suis bien dissipe, je sors pour une affaire,
+Et j'oublie au Logis ce qui m'est necessaire,			[720]
+Un Billet, sans lequel je ne puis recevoir
+La somme qui m'est due et que je veux avoir. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)A mes ordres prescrits ma fille obeissante,
+Ainsi qu'elle le doit, repond a mon attente :
+Elle a ferme sa porte. Un pere est trop heureux,			[725]
+Quand sa fille veut bien satisfaire a ses voeux ;
+Et je rends grace au Ciel, dont la bonte supreme
+M'a fait naitre un enfant d'une sagesse extreme. 
+Spinette ne sait pas ce que c'est qu'un amant,
+C'est ce qu'en une fille on trouve rarement ;			[730]
+Mais pour m'ouvrir la porte il faut que je l'appelle :
+Spinette, hola Spinette ! A present que fait-elle ?
+Sans doute elle s'amuse a tricoter un bas,
+Je suis bien assure qu'elle ne m'attend pas.
+SCENE IX. Spinette surprise en voyant son pere, Le Docteur.
+SPINETTE, ouvre la porte.
+Que deviendrai-je helas ! Juste Ciel, c'est mon pere !			[735]
+Courage, un stratageme est ici necessaire.
+Ah ! Mon pere je suis en proie a la douleur,
+Il vient de m'arriver le plus cruel Malheur...
+Vous allez a coup sur me faire une querelle.
+LE DOCTEUR.
+Ma fille que dis-tu ?
+SPINETTE.
+Cette robe si belle			[740]
+Que vous prites le soin vous-meme d'acheter.
+LE DOCTEUR.
+He bien ?
+SPINETTE.
+Mon cher Papa je viens de la gater :
+Elle est toute tachee.
+LE DOCTEUR.
+O Ciel, est-il possible !
+SPINETTE.
+Jugez a ce malheur si mon coeur est sensible !
+Attendez un moment, j'entre pour la chercher,			[745]
+Vous verrez si sans peine on peut la detacher.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE DOCTEUR, seul.
+Parbleu, je suis touche d'un accident semblable
+Cette perte est vraiment assez considerable,
+Et j'en suis penetre plus qu'on ne peut penser,
+On n'est pas en etat toujours de depenser.			[750]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SPINETTE.
+Prenez-la par un bout, regardez bien mon pere,
+Pour moi je ne sais pas comment on pourra faire,
+La tache est grande, et moi je ne saurais penser
+Que quelque effort qu'on fasse on puisse l'effacer.
+LE DOCTEUR.
+Ou donc est-elle ?
+SPINETTE.
+La.			[755]
+LE DOCTEUR.
+Tu te moques, je pense			[755]
+Je n'y vois rien.
+SPINETTE.
+Ici.
+LE DOCTEUR.
+C'est une extravagance...
+SPINETTE, apres qu'Octave a passe sous la robe.
+Ah ! Je sais ce que c'est, je dois me consoler,
+La tache d'elle-meme a voulu s'en aller.
+LE DOCTEUR.
+Entrons.
+SPINETTE.
+Je le veux bien, je n'ai plus rien a craindre,
+Et je puis a present le voir sans me contraindre,			[760]
+S'il fut entre chez nous sans faire un grand effort,
+Il aurait decouvert la tache tout d'abord.
+SCENE X.
+Arlequin arme de pied en cap, avec des fusils, des epees, une scie, un marteau, une broche.
+ARLEQUIN.
+LE dessein en est pris, je vais faire carnage,
+Rien ne peut moderer ma fureur et ma rage :
+Il faut que l'infidele expire sous mes coups,			[765]
+Et qu'elle soit l'objet de mon juste courroux.
+Je ne puis mieux punir le traitre qui m'offense,
+Qu'en faisant sur sa belle eclater ma vengeance.
+Allons donc ... mais comment la ferai-je mourir !
+Pourquoi m'embarrasser ? Elle a de quoi choisir.			[770]
+D'un coup de Mousqueton si je casse sa tete,
+Cela lui fera mal ... bon je suis une bete,
+Je ne puis la tuer et lui faire du bien ;
+Plutot avec l'epee ... ah ! cela ne vaut rien,
+Je pourrais la blesser, la pauvre creature,			[775]
+Puis il faudrait payer les frais de sa blessure.
+Ne perdons point le temps en discours superflus,
+Je pretends qu'elle meure, ainsi n'en parlons plus.
+Hola !
+SCENE XI. Argentine, Arlequin.
+ARGENTINE.
+Que vois-je, o Ciel ! Que pretendez-vous faire ?
+ARLEQUIN, lui presentant un mousqueton comme s'il voulait tirer sur elle.
+Rien, je veux vous purger, et vous tirer d'affaire :			[780]
+He bien, c'est donc ainsi, Madame la guenon,
+Que sans avoir egard a l'honneur, au renom,
+D'un vilain bois de Cerf vous arborez ma tete ?
+Il faut que vous mouriez, allons etes-vous prete ?
+ARGENTINE, se met a genoux.
+Quoi, vous vous preparez a terminer mes jours,			[785]
+Et vous voulez vous-meme en abreger le cours ?
+Detournez loin de moi cet appareil terrible,
+Qu'a mes vives douleurs votre coeur soit sensible.
+De tout ce que j'ai fait, ingrat est-ce le prix ?
+Par ou donc ai-je pu m'attirer vos mepris ?			[790]
+Ha, de mes tristes yeux voyez couler mes larmes,
+Et daignez dissiper mes mortelles alarmes.
+Quand je veux vous donner le nom de mon epoux,
+Que je cherche a repondre a vos voeux les plus doux,
+Vous pouvez vous resoudre a m'arracher la vie !			[795]
+Votre fureur sur moi doit-elle etre assouvie ?
+A vos jaloux soupcons vous voulez m'immoler,
+Et c'est par vous, cruel, que mon sang, doit couler ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARGENTINE.
+Non, c'est sur toi qu'il faut qu'eclate ma colere,
+Je veux executer ce que tu n'as su faire,			[800]
+C'est a present mon tour, et je vais te purger.
+C'est donc ainsi, faquin, que tu veux te venger ?
+Ah ! Le vilain magot, apprends a me connaitre,
+Si tu viens au Logis, ma foi, par la fenetre
+Je te ferai sortir.
+ARLEQUIN.
+Mais...			[805]
+ARGENTINE.
+Tu parles, je crois ?			[805]
+Je te conseille encor de te jouer a moi ;
+Dans ta bouche je veux mettre quelque pilule,
+Mais non, de te tuer je me fais un scrupule,
+Tu n'en vaux pas la peine : adieu, maitre poltron ;
+C'est ainsi que je sais punir un fanfaron.			[810]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, seul.
+Voila comme l'on doit se tirer d'une affaire,
+Ma foi, j'ai bien du coeur, et l'on ne peut mieux faire,
+Ah ! Chien de naturel ! J'admire ma valeur,
+Une femme aujourd'hui m'outrage et me fait peur ! 
+SCENE XII.
+PIERROT, seul.
+Petit fouille-partout, Dieu plus mechant qu'un Diable,			[815]
+Amour, c'est trop long temps me rendre miserable :
+Depuis que sur Pierrot decochant tous tes traits,
+Tu l'as fait par malice entrer dans tes filets,
+Il ne fait que languir, pleurer, gemir, et braire,
+Ma foi pour me guerir je ne sais plus que faire.			[820]
+J'ai depuis quelque temps un cours de ventre affreux :
+Argentine, mamour, doux objet de mes voeux,
+Quand soulagerez-vous le tourment que j'endure ?
+Vous avez un onguent tres bon pour la brulure.
+Aouf, quel gros soupir ! Non ce n'est pas un jeu,			[825]
+Je brule la dedans, au feu, Messieurs, au feu.
+SCENE XIII. Scaramouche, Pierrot.
+SCARAMOUCHE.
+Pourquoi crier au feu, ta Maison brule-t-elle ?
+PIERROT.
+Helas, c'est que l'amour me trouble la cervelle :
+Je suis devenu fou par faute de raison,
+Et dans mon estomac je sens comme un tison, 			[830]
+Qui petit a petit par les deux bouts s'allume ;
+Je crains bien qu'a la fin ce feu ne me consume :
+Argentine est l'objet qui me fait tant languir,
+Elle m'aime beaucoup, et ne peut me souffrir.
+SCARAMOUCHE.
+Aux depens de Pierrot, ma foi je pretends rire :			[835]
+C'est donc-la la beaute pour qui ton coeur soupire ?
+Comment pauvre nigaud veux-tu t'en faire aimer ?
+Peut-on en te voyant se laisser enflammer ?
+Un habit de meunier te sert de couverture,
+Tu n'as point de cheveux, et ta laide figure			[840]
+Doit plutot dans une ame inspirer du mepris :
+Aujourd'hui, mon enfant, on s'attache aux habits,
+Et quand tu serais beau comme un petit Narcisse,
+Si tu n'est bien vetu, tu seras un Jocrisse,
+PIERROT.
+Comment, c'est donc l'habit qui donne de l'amour ?			[845]
+SCARAMOUCHE.
+Aux habits, a l'argent les femmes font la cour :
+Est-on riche et bien mis, on doit s'attendre a plaire,
+La femme aime l'eclat, et non pas la misere.
+Fagote de la sorte avec ce vetement,
+On te prendrait ma foi pour un sac de froment :			[850]
+Mais si Pierrot voulait reformer sa figure,
+Et comme un petit Maitre affecter la parure,
+Se mettre tout en frange, et se poudrer le dos,
+Il serait en amour recu comme un heros.
+Oui tu serais couru de toutes les coquettes,			[855]
+Des Dames du grand air, et meme des grisettes :
+Je vais, si tu le veux, pour te mettre en credit,
+Dans ce meme moment te chercher un habit.
+PIERROT.
+Tope, je le veux bien, que j'aurai bonne mine !
+Je suis sur de charmer mon aimable Argentine,			[860]
+Quand elle me verra couvert d'un bel harnois :
+Dans le fond je n'ai pas un trop vilain minois, 
+Ce n'est que cet habit qui seul me defigure,
+Sans cela j'aurais eu quelque bonne aventure.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PIERROT, seul.
+Voila ce qui s'appelle etre sur le bon pied,			[865]
+Au Diable l'habit blanc, fi je faisais pitie :
+Sous ces beaux ornements je pourrai bien paraitre,
+Je crois qu'ainsi vetu j'ai l'air d'un petit Maitre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			ACTE III
+
+
+SCENE PREMIERE.
+OCTAVE, seul.
+Quand du puissant amour nous ressentons les feux,
+Ce vainqueur aisement nous rend ingenieux ;			[870]
+A qui subit ses lois il n'est rien d'impossible,
+Ce Dieu fait surmonter un obstacle invincible :
+C'est par lui que Spinette a trompe le Docteur,
+Ce tour est merveilleux, et j'en ris de bon coeur.
+Mais il faut au plutot m'assurer de la belle,			[875]
+Quoique son pere fasse exacte sentinelle,
+Je pretends l'enlever, le dessein en est pris,
+Et je ne puis enfin etre heureux qu'a ce prix.
+SCENE II. Leandre, Octave.
+LEANDRE.
+Cher ami, vos conseils ont engage mon ame
+A bruler comme vous d'une fidele flamme ;			[880]
+Les lecons d'Arlequin m'ont su determiner,
+Je vous fais un aveu qui doit vous etonner :
+L'indifference etait de mon coeur, le partage,
+Mais l'amour aujourd'hui s'y fait un doux passage.
+OCTAVE.
+Vous aimez ?
+LEANDRE.
+C'en est fait, j'ai cede malgre moi,			[885]
+Je n'ai pu me soustraire a l'amoureuse loi :
+Vainement les plus fiers cherchent a s'en defendre,
+Et cent fois plus que vous, ami j'ai le coeur tendre.
+Pour marquer a ma belle un violent amour,
+Je la dois enlever avant la fin du jour ;			[890]
+Et pour la delivrer du jaloux qui l'obsede,
+Cette grande entreprise en est le seul remede.
+OCTAVE.
+Nos desseins sont egaux, pour preuve de mes feux,
+Je tromperai les soins d'un pere trop facheux ;
+Par un enlevement digne de ma tendresse,			[895]
+Je m'assure aujourd'hui de ma chere Maitresse :
+Mais quelle est la beaute dont vous etes epris ?
+Vous le savez assez, je suis de vos amis,
+Ne me deguisez rien. 
+LEANDRE.
+Non, c'est votre voisine,
+Elle loge ici pres, et se nomme Argentine.			[900]
+OCTAVE.
+Comment, que dites-vous ? Vous me surprenez fort,
+Argentine ! Vraiment d'un si tendre transport
+Votre Maitre Arlequin vous sera redevable,
+Vous en usez fort bien avec ce pauvre Diable,
+Qui charitablement vous a tantot instruit :			[905]
+Il devait, ce dit on, l'epouser cette nuit.
+LEANDRE.
+Arlequin, dites-vous ! L'aventure est plaisante,
+Je ne le savais pas.
+OCTAVE.
+Un tel aveu m'enchante.
+LEANDRE.
+Je l'ai trouve tantot, et comme un imprudent
+Je l'ai de mes secrets rendu le confident,			[910]
+En l'instruisant d'abord de ma flamme nouvelle :
+Mais que faire ? Mon cher, j'adore cette belle,
+A ses yeux Arlequin est un monstre odieux,
+Si j'en crois ses discours, je lui plais beaucoup mieux :
+M'avoir pour son epoux est ce qu'elle desire,			[915]
+Et mon coeur amoureux a ce bonheur aspire.
+Malgre le noir souci du jaloux Arlequin,
+J'ai charge d'un billet mon valet Mezzetin ;
+Lui-meme a cette belle aura soin de le rendre ;
+Il sait ou la conduire, et moi je vais l'attendre.			[920]
+OCTAVE.
+De grace, cher ami, ne m'abandonnez pas,
+Je veux avec Spinette accompagner vos pas,
+Et dans le meme endroit conduisant nos Maitresses,
+Nous ferons eclater nos egales tendresses.
+Le Docteur doit dans peu sortir de la Maison,			[925]
+Vous pouvez me servir en cette occasion.
+LEANDRE.
+Octave j'y consens. Et votre amour me touche.
+OCTAVE.
+Voici fort a propos mon valet Scaramouche.
+SCENE III. Scaramouche, Octave, Leandre.
+OCTAVE, a Scaramouche.
+Attends ici Spinette. Il faut enlever,
+Avec elle bien-tot tu viendras me trouver			[930]
+Au coin de cette rue, ou nous allons l'attendre.
+SCARAMOUCHE.
+Vous etes de moitie, vous et Monsieur Leandre,
+Et vous avez acquis ce bien a fond perdu.
+OCTAVE.
+Reponds-moi comme il faut, m'as-tu bien entendu ?
+SCARAMOUCHE.
+Qui ne vous entendrait serait bien dur d'oreille.			[935]
+OCTAVE.
+Il la faut enlever...
+SCARAMOUCHE.
+Je comprends a merveille.
+Vous etes en amour tous deux associes,
+J'y serais pour un tiers si vous me receviez.
+OCTAVE.
+Si-tot que le Docteur aura quitte Spinette,
+Cours l'appeler, et songe a battre la retraite ;			[940]
+Adieu, nous t'attendons.
+SCARAMOUCHE.
+Allez toujours devant, 
+Et pendant ce temps la voyez d'ou vient le Vent.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici le denouement de notre comedie :
+Quand le Docteur saura que sa fille est partie,
+D'abord contre mon Maitre il fera decreter ;			[945]
+Messieurs les pousse-culs viendront le visiter,
+Ils me prendront aussi, moi j'avouerai l'affaire
+Comme etant du complot je ne pourrai rien taire :
+J'entendrai contre moi prononcer un arret,
+On fera tout d'abord preparer le gibet,			[950]
+Et Scaramouche ira sans en avoir envie,
+Danser la Sarabande en bonne compagnie.
+Belle reflexion ; mais voici le Docteur,
+Retirons nous...
+SCENE IV. Le Docteur, Scaramouche a l'ecart.
+LE DOCTEUR, sortant de la Maison.
+Je vais chercher mon debiteur.
+Et me faire payer la somme qui m'est due.			[955]
+Son Obligation des longtemps est echue,
+Il n'aura pas, je crois, de peine a l'acquitter ;
+D'ici pour un moment il me faut ecarter.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCARAMOUCHE.
+Ne perdons point de temps ; hola Mademoiselle !
+Descendez au plutot, la gloire vous appelle.			[960]
+SCENE V. Spinette avec une coiffe et une echarpe.
+SCARAMOUCHE.
+Suivez-moi, s'il vous plait, mon Maitre vous attend,
+Je suis son Substitut, son Commis, son Agent,
+Il m'a passe son ordre, afin qu'en son absence
+J'acquitte son Billet au temps de l'echeance ;
+Je vais vous le payer en espece ayant cours.			[965]
+SPINETTE.
+Scaramouche, partons, et finis tes discours,
+Je crains que dans ces lieux mon pere ne revienne.
+Enleve-moi donc vite.
+SCARAMOUCHE.
+Ah, qu'a cela ne tienne,
+L'enlevement vous plait.
+SPINETTE.
+Je ne puis t'exprimer
+Le plaisir que j'eprouve ; oui, je me sens charmer,			[970]
+Ne nous arretons pas, je meurs d'impatience,
+Ce doux enlevement flatte mon esperance.
+SCARAMOUCHE.
+D'ou vous vient cette joie ?
+SPINETTE.
+En lisant des romans,
+J'ai pris beaucoup de gout pour les enlevements.
+Allons trouver Octave.
+SCARAMOUCHE.
+Il faut vous satisfaire,			[975]
+Quand je serais pendu ce n'est pas une affaire. 
+SCENE VI.
+MEZZETIN, seul.
+Mon Maitre honnetement veut se servir de moi,
+Et de Courtier d'Amour il me donne l'emploi :
+Aujourd'hui ce metier est assez en usage,
+Avec un grand plaisir j'en fais l'apprentissage ;			[980]
+Pour mieux me distinguer, et me faire un beau nom,
+Je devrais bien porter des ailes au talon,
+Chacun me connaitrait, et me rendrait hommage :
+Mais allons au plutot faire notre message :
+A sa belle je dois remettre le poulet,			[985]
+Et m'acquitter de tout en fidele Valet.
+Il m'a fait voir l'endroit ou je dois la conduire,
+Faisons donc promptement ce que son coeur desire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VII. Argentine, Mezzetin.
+ARGENTINE.
+Que voulez-vous, l'ami ?
+MEZZETIN.
+Vous rendre ce billet,
+De la part de Leandre.
+ARGENTINE.
+Ah, donnez s'il vous plait.			[990]
+MEZZETIN.
+Vous etes, je le vois, fort apre a la curee,
+Et fillette en amour n'est jamais moderee.
+ARGENTINE, lit.
+Pour vous derober au pouvoir
+Du Jaloux odieux que votre coeur abhorre,
+N'ecoutez point un barbare devoir,			[995]
+Et repondez au feu qui me devore ;
+Avec mon Valet Mezzetin,
+Dans le lieu qu'il connait vous n'avez qu'a vous rendre,
+Et vous y trouverez Leandre,
+Qui vous prepare un plus heureux destin.			[1000]
+LEANDRE.
+MEZZETIN.
+Madame suivez-moi, vous n'avez rien a craindre.
+ARGENTINE.
+C'est assez, je ne puis plus longtemps me contraindre,
+Attendez un moment, je reviens sur mes pas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MEZZETIN, seul.
+Ce petit tendron-la ne me deplairait pas,
+Cette fille est mignonne, une telle bouteille			[1005]
+Rappelle par ma foi son buveur a merveille :
+Mon Maitre est bon gourmet, il a fait un beau choix,
+Le gaillard en sait long, c'est un fute matois,
+Il se plait d'en conter aux femmes comme aux filles,
+Et c'est un pelerin qui vend bien ses coquilles.			[1010]
+La voici de retour. 
+SCENE VIII. Mezzetin, Argentine couverte d'une coiffe, et d'une echarpe, Arlequin qui vient ensuite.
+MEZZETIN.
+He bien partirons-nous ?
+ARGENTINE.
+Ah ! pour le refuser ce plaisir est trop doux !
+Je vous suis... Juste Ciel mon importun s'avance !
+MEZZETIN.
+Comment ? C'est Arlequin... Un peu de patience,
+Couvrez-vous le visage, et ne redoutez rien,			[1015]
+C'est un franc animal, je le duperai bien.
+ARLEQUIN.
+Ou vas-tu Mezzetin avec cette femelle ?
+MEZZETIN.
+Et morbleu, gardez vous d'effaroucher la belle,
+C'est une jeune Enfant, qu'au gre de mes desirs
+J'ai prise seulement pour mes menus plaisirs,			[1020]
+Je l'enleve, mon cher, puisqu'il faut tout vous dire,
+En lieu de surete je pretends la conduire.
+ARLEQUIN.
+Et ne pourrait-on pas voir la Belle au minois ?
+MEZZETIN.
+Non pas, mais vous pourrez la voir une autre fois,
+Elle a de la pudeur, et craint d'etre connue,			[1025]
+Cette fille en un mot ne veut pas etre vue.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Adieu... Venez Madame il est temps de partir. 
+ARLEQUIN, seul.
+Moi seul de mes projets je dois me repentir,
+D'un objet tout charmant j'eleve la jeunesse,
+Je lui donne mes soins, ma main, et ma tendresse,			[1030]
+Et l'ingrate pour prix de ma sincerite,
+Accorde a mon Rival ce que j'ai merite.
+Que trouve-t-elle en moi qui puisse lui deplaire ?
+Arlequin n'a-t-il pas de quoi la satisfaire ?
+J'ai du bien, de l'esprit, je ne suis pas mal fait,			[1035]
+Et je suis ce me semble un assez beau brunet ;
+Que sur le coeur de l'homme une femme a d'empire,
+Tout cede a ses appas, quoique l'on puisse dire !
+Trompe-t-elle un amant, bien loin de la blamer,
+Il l'excuse sans peine, et vent toujours l'aimer,			[1040]
+On peut avec le temps se garantir du vice,
+On evite aisement un affreux precipice.
+De la fureur du jeu, l'on sait se detacher,
+Au pouvoir d'une femme on ne peut s'arracher,
+Pourtant a mon avis elle est plus dangereuse,			[1045]
+Qu'un Bois, un Precipice, une Mer Orageuse,
+Il n'est point d'Antidote a son mortel poison,
+Et contre un tel ecueil se brise la raison.
+Entrons dans le Logis pour voir si cette Belle,
+Voudra pour un moment cesser d'etre cruelle,			[1050]
+Tachons de ramener son esprit et son coeur,
+Et pour y reussir employons la douceur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX.
+LE DOCTEUR, seul.
+Que le Ciel soit loue, j'ai fini mon affaire,
+Mon homme m'a recu de la belle maniere. 
+Il vient de me paier en bon argent comptant,			[1055]
+Et de son procede, je suis enfin content.
+ARLEQUIN, sort de chez lui d'un air tout effare.
+Je suis assassine, que faut-il que je fasse ?
+Ah ! Monsieur, le Docteur, secourez-moi de grace,
+Dans les occasions, on connoit ses amis.
+LE DOCTEUR.
+Quelle verve vous prend ?
+ARLEQUIN.
+Helas ! Dans le logis			[1060]
+Je ne retrouve plus la charmante Argentine,
+Ah ! Si je la tenais, dans mon humeur chagrine,
+De son ventre morbleu je ferais un fourreau,
+Oui, je la percerais....
+LE DOCTEUR.
+Tout beau, Monsieur, tout beau,
+Il faut vous consoler, calmez cette colere,			[1065]
+On doit bien reflechir avant que de rien faire :
+Jamais un philosophe en son adversite,
+Ne doit faire paraitre un esprit agite.
+ARLEQUIN.
+Quel homme flegmatique ! Ah, de bon coeur j'enrage,
+LE DOCTEUR.
+Moderez vos transports pour imiter le sage,			[1070]
+Sans vous abandonner a de vaines douleurs,
+Soyez toujours constant dans les plus grands malheurs ?
+Vous pleurez, ah ! De grace apaisez vos alarmes :
+Les femmes, les enfants ont bien recours aux larmes,
+Mais un homme d'esprit en verse rarement,			[1075]
+Et vous vous dementez, vous dis-je, entierement :
+Adieu, conservez-vous. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, seul.
+Que le Diable t'emporte,
+Il veut que je surmonte une douleur si forte
+Quand j'ai tant de sujet pour me desesperer,
+Dans mes justes fureurs puis-je me moderer ! 			[1080]
+Que ferai-je a present sans la belle Argentine !
+Le fourbe Mezzetin emmenait la coquine,
+Il n'en faut plus douter, et rien n'est plus certain ;
+L'oiseau s'est envole, quel sera mon destin ?
+SCENE X. Le Docteur sortant tout transporte de sa Maison, Arlequin.
+LE DOCTEUR.
+Au secours.
+ARLEQUIN.
+Qu'avez-vous ?			[1085]
+LE DOCTEUR.
+On a vole ma fille,			[1085]
+Peut-on ainsi traiter un pere de famille !
+Ah ! mon cher Arlequin ne m'abandonnez pas ;
+Unissons-nous tous deux, venez, suivez mes pas,
+ARLEQUIN, contrefaisant le Docteur.
+Ah ! Tout doux s'il vous plait, calmez votre colere,
+Il faut bien reflechir avant que de rien faire :			[1090]
+Un philosophe doit moderer son chagrin,
+Et dans l'adversite garder un front serein.
+LE DOCTEUR.
+Vous vous moquez de moi quand le malheur m'accable.
+ARLEQUIN.
+Consolez-vous, Monsieur.
+LE DOCTEUR.
+Allez-vous en au Diable,
+Avec votre Doctrine, et votre air radouci.			[1095]
+ARLEQUIN.
+Fi ! vous ne devez pas vous emporter ainsi,
+Mon flegme devrait-il alarmer votre Oreille,
+Vous avez tort, Monsieur, je vous rends la pareille,
+LE DOCTEUR.
+Il n'est pas temps, vous dis-je, ici de plaisanter :
+Cette fuite m'etonne, et me doit irriter,			[1100]
+Ma fille, juste Ciel, qu'est-elle devenue ?
+Quel est l'audacieux qui la cache a ma vue ?
+Qu'il paroisse, et bien-tot l'accablant sous ses coups,
+Le Docteur....
+ARLEQUIN.
+Argentine en quels lieux etes-vous ?
+Faut-il que je sois veuf avant le Mariage !			[1105]
+LE DOCTEUR.
+Arlequin vengeons-nous, unissons notre rage,
+Que je suis malheureux ! mes chagrins sont cuisants.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Les femmes seulement, et les petits enfants
+S'amusent quelquefois a repandre des larmes,
+Monsieur ne pleurez pas.
+LE DOCTEUR.
+Allons, courons aux armes.			[1110]
+ARLEQUIN.
+Je suis un peu poltron, ne comptez pas sur moi.
+LE DOCTEUR.
+Vous voulez badiner.
+ARLEQUIN.
+Non j'en jure ma foi.
+LE DOCTEUR.
+A l'aide !
+ARLEQUIN.
+A la Justice !
+LE DOCTEUR.
+Au meurtre !
+ARLEQUIN.
+On m'assassine.
+LE DOCTEUR.
+Spinette m'a quitte.
+ARLEQUIN.
+Moi, je perds Argentine.
+SCENE XI. Pierrot, Arlequin, Le Docteur.
+PIERROT.
+D'ou vient ce tintamarre ; et pourquoi tant crier ?			[1115]
+Parbleu, vous alarmez la moitie du Quartier.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vous ai toujours vu d'une humeur pacifique,
+Qu'avez-vous aujourd'hui, la pierre, la colique,
+La migraine, la toux, la goutte, et cetera.
+LE DOCTEUR.
+Non, j'ai perdu ma fille.
+PIERROT.
+On la retrouvera.			[1120]
+ARLEQUIN.
+Il faut avoir le coeur aussi dur qu'une Roche...
+PIERROT, a Arlequin.
+Fille ne se perd pas comme un couteau de poche,
+Qu'avez-vous ?
+ARLEQUIN.
+J'ai perdu ce que j'aime le mieux,
+Argentine. 
+PIERROT.
+Ma foi vous etes fous tous deux.
+ARLEQUIN.
+Argentine est partie avec Monsieur Leandre.			[1125]
+PIERROT.
+Peut-etre elle viendra, vous n'avez qu'a l'attendre,
+Lorsque de cette belle il se sera servi,
+S'il veut me la donner je serai son Mari
+Ces restes-la sont bons, je suis peu difficile.
+LE DOCTEUR.
+Mon soin pour la garder etait donc inutile ?			[1130]
+Je creve dans ma peau, je me sens etouffer.
+PIERROT.
+La fille est comme un arbre il la faut bien greffer,
+Quelque bon jardinier aura pris cette peine.
+ARLEQUIN.
+La fille est, je l'avoue, une mechante graine.
+PIERROT.
+Nous en voyons souvent sortir de bons pepins.			[1135]
+LE DOCTEUR.
+Ma foi les plus Argus sont de vrais Quinze-vingts,
+On fait de vains efforts pour bien garder les filles.
+PIERROT.
+Ce sont des limacons qui quittent leurs coquilles.
+SCENE XII. Leandre, Octave masques, Argentine, Spinette en Espagnolettes, Mezzetin masque, Scaramouche en Cupidon, Troupe de Masques, Le Docteur, Arlequin, Pierrot, La Chanteuse.
+Les Violons jouent une marche.
+LE DOCTEUR.
+Masques, vous pourriez bien ailleurs porter vos pas.
+PIERROT.
+Peut-etre leurs chansons ne vous deplairont pas.			[1140]
+LA CHANTEUSE.
+En vain pour garder une belle
+Un jaloux veille nuit et jour,
+Quoi qu'il fasse la sentinelle,
+Rien n'est impossible a l'amour.
+Pour se soustraire a l'esclavage,			[1145]
+Une jeune beaute va souvent autre part,
+Et l'oiseau que l'on tient en cage
+S'envole tot ou tard. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Qui peut nous interrompre, au Diable la Musique ;
+Messieurs je n'aime point du tout le ton lyrique,			[1150]
+De grace laissez-nous ; passez votre chemin,
+Cela ne convient point quand on a du chagrin ;
+Ne voyez-vous pas bien que nous parlons d'affaire.
+PIERROT.
+Messieurs, demasquez-vous.
+LEANDRE, se demasquant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il faut vous satisfaire.
+Me reconnaissez-vous, repondez s'il vous plait ?			[1155]
+ARLEQUIN.
+C'est Leandre.
+SCARAMOUCHE.
+Je suis Cupidon le cadet.
+ARLEQUIN.
+Ah ! Le bon ecolier ! Voyez comme il s'applique,
+J'ai de la theorie, et lui de la pratique.
+LEANDRE.
+Argentine est a moi, je puis en disposer,
+De votre bon precepte on ne peut mieux user.			[1160]
+ARGENTINE, a Arlequin.
+Consolez-vous, Monsieur, cette peine est legere,
+Vous ne me convenez en aucune maniere.
+OCTAVE, au Docteur.
+Monsieur, je suis Octave homme de qualite,
+J'ai pris, je le confesse, un peu de liberte,
+L'amour doit excuser la faute que j'ai faite,			[1165]
+J'aimais depuis longtemps la charmante Spinette,
+Je pretends par l'hymen reparer son honneur.
+LE DOCTEUR.
+Non, je veux me venger....
+OCTAVE.
+Ah ! Monsieur le Docteur.
+Ne vous emportez pas.
+SPINETTE.
+En verite mon pere,
+Je le ferais encor si j'avais a le faire.			[1170]
+LE DOCTEUR.
+Il y faut consentir : car un enlevement,
+Pourrait deshonorer ma fille entierement,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons, je vous pardonne, et vous comme mon gendre.
+SCARAMOUCHE.
+Quant a moi je croyais que l'on m'aurait fait pendre,
+PIERROT.
+Argentine mamour, tu ne m'aimes donc pas ?			[1175]
+J'avais pour toi tantot fait emplette d'appas.
+LE DOCTEUR.
+Qu'est-ce donc Arlequin, vous gardez le silence ?
+PIERROT.
+C'est qu'il enrage helas ! Bien plus que l'on ne pense.
+ARLEQUIN.
+O Ciel, est-il possible ! Ah fuyons de ces lieux,
+Partons, eloignons nous de ce Monstre odieux !			[1180]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De cette trahison, ton coeur etait capable ?
+Basilic, leopard, scorpion redoutable,
+Le siecle est corrompu, tous les coeurs son gates, 
+Je n'y vois que larcin, fraude de tous cotes,
+L'artifice est cheri dans le temps ou nous sommes,			[1185]
+Je vois de toutes parts de detestables hommes,
+La femme est le miroir de la legerete,
+Le fidele portrait de l'infidelite,
+Tout me reproche ici mon indigne faiblesse,
+Mais pour en triompher, j'etouffe ma tendresse,			[1190]
+Je te hais cent fois plus qu'on ne peut exprimer,
+Et beaucoup plus encor, que je ne sus t'aimer,
+Malheureux qui se fie a tes promesses vaines,
+Ton sexe n'est forme que pour causer des peines,
+Mon coeur pour tes appas fut sensible a son tour,			[1195]
+Je quittai la Sagesse, et je suivis l'Amour,
+Argentine est-ce ainsi que tu me recompenses ?
+Mais va, je te punis bien plus que tu ne penses,
+Puis qu'apres tout l'amour dont mon coeur fut epris,
+Il ne me reste plus que haine, et que mepris.			[1200]
+Oui, je veux habiter une Caverne obscure,
+Adieu serpent cruel, adieu femme parjure :
+Ici tout me deplait, tout y blesse mes yeux,
+J'y vois avec horreur des objets odieux.
+Me livrant tout entier a la Philosophie,			[1205]
+Au gre de mes desirs, je finirai ma vie,
+Eloigne pour jamais des traitres, des menteurs,
+Je ne rencontrerai, ni fourbes, ni flatteurs.
+Tout me paraitra beau, tout flattera mon ame,
+Puisque dans ce reduit, je n'aurai point de femme.			[1210]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cette intrigue a vous seul doit son commencement,
+Du moins, cher Arlequin, voyez le denouement ;
+Vous n'etes pas le seul trompe, sur ma parole,
+Lorsque le coup est fait, le chagrin est frivole,
+Et puis qu'a cet hymen, j'ai voulu consentir,			[1215]
+Pour terminer la fete il faut nous divertir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA CHANTEUSE.
+Si le plaisir vous interesse
+Cedez a des appas vainqueurs,
+Et vous livrant a la tendresse
+Goutez ses flatteuses douceurs :			[1220]
+Si l'amour est une faiblesse,
+C'est la faiblesse des grands coeurs.
+LEANDRE.
+Un coeur au Dieu d'amour rebelle
+Tot ou tard se doit enflammer :
+A peine ai je vu cette belle,			[1225]
+Que je me suis laisse charmer,
+Et comme un ecolier fidele,
+J'ai bien pratique l'art d'aimer.
+ARGENTINE, a Leandre.
+Arlequin vous a fait connaitre
+De l'amour le charmant sentier			[1230]
+Et ce precepteur a fait naitre
+Dans votre ame un ardent brasier,
+En pareil cas souvent le Maitre
+Est moins heureux que l'ecolier. 
+ARLEQUIN.
+Vous qui de l'amoureux Empire			[1235]
+Ignorez les biens les plus doux,
+Qu'un soin curieux vous attire,
+Ici je vous attendrai tous,
+Ma piece saura vous instruire,
+Venez a l'ecole chez nous.			[1240]
+MEZZETIN.
+Vainement un pedant se vante
+De regenter avec succes,
+Sa Doctrine trop fatigante
+Fait rarement de bons effets,
+Mais dans une ecole galante,			[1245]
+On fait bientot d'heureux progres.
+PIERROT.
+On prend une peine inutile,
+En gardant un jeune tendron,
+Pour ouvrir toutes les serrures
+L'amour a des passes-par-tout,			[1250]
+Quand on conserve trop la viande
+Tot ou tard la mouche s'y met.
+SCARAMOUCHE.
+En vain on renferme une fille,
+Elle s'echappe bien souvent ;
+Et quand elle voit un bon drille			[1255]
+Elle en fait d'abord son galant,
+C'est une anguille qui fretille,
+Un moulin qui tourne a tout vent.
+ARLEQUIN, au parterre.
+Je n'aurai plus de voeux a faire
+Si vous secondez mes desseins,			[1260]
+Et si ma piece a su vous plaire
+Donnez-m'en des signes certains,
+J'en serai sur si le parterre
+Veut bien carillonner des mains.
+
+	==================================================

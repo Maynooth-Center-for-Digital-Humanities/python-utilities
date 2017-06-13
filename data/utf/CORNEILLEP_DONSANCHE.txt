@@ -1,0 +1,2231 @@
+********************************************************
+	DC.Title                  = DON SANCHE D'ARAGON, COMEDIE HEROIQUE
+	DC.Author                 = CORNEILLE, Pierre
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 31/05/2016 a 07:13:35.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CORNEILLEP_DONSANCHE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+DON SANCHE D'ARAGON COMEDIE HEROIQUE1649
+Pierre Corneille
+	
+	
+	Represente pour la premiere fois en 1649 au Theatre de l'Hotel de Bourgogne.
+	ACTEURS
+DONA ISABELLE, reine de Castille.
+DONA LEONOR, reine d'Aragon.
+DONA ELVIRE, princesse d'Aragon.
+BLANCHE, dame d'honneur de la reine de Castille.
+CARLOS, cavalier inconnu qui se trouve etre Don Sanche, roi d'Aragon.
+DON RAYMOND DE MONCADE, favori du defunt roi d'Aragon.
+DON LOPE DE GUSMAN, grand de Castille.
+DON MANRIQUE DE LARE, grand de Castille.
+DON ALVAR DE LUNE, grand de Castille.
+Un garde.
+La scene est a Valladolid.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Dona Leonor, Dona Elvire.
+DONA LEONOR.
+Apres tant de malheurs, enfin le ciel propice
+S'est resolu, ma fille, a nous faire justice :
+Notre Aragon, pour nous presque tout revolte,
+Enleve a nos tyrans ce qu'ils nous ont ote,
+Brise les fers honteux de leurs injustes chaines,			[5]
+Se remet sous nos lois, et reconnait ses reines ;
+Et par ses deputes, qu'aujourd'hui l'on attend,
+Rend d'un si long exil le retour eclatant.
+Comme nous, la Castille attend cette journee
+Qui lui doit de sa reine assurer l'hymenee :			[10]
+Nous l'allons voir ici faire choix d'un epoux.
+Que ne puis-je, ma fille, en dire autant de vous !
+Nous allons en des lieux sur qui vingt ans d'absence
+Nous laissent une faible et douteuse puissance :
+Le trouble regne encore ou vous devez regner ;			[15]
+Le peuple vous rappelle, et peut vous dedaigner,
+Si vous ne lui portez, au retour de Castille,
+Que l'avis d'une mere et le nom d'une fille.
+D'un mari valeureux les ordres et le bras
+Sauraient bien mieux que nous assurer vos etats,			[20]
+Et par des actions nobles, grandes et belles,
+Dissiper les mutins, et dompter les rebelles.
+Vous ne pouvez manquer d'amants dignes de vous ;
+On aime votre sceptre, on vous aime ; et sur tous,
+Du comte Don Alvar la vertu non commune			[25]
+Vous aima dans l'exil et durant l'infortune.
+Qui vous aima sans sceptre et se fit votre appui,
+Quand vous le recouvrez, est bien digne de lui.
+DONA ELVIRE.
+Ce comte est genereux, et me l'a fait paraitre ;
+Aussi le ciel pour moi l'a voulu reconnaitre,			[30]
+Puisque les Castillans l'ont mis entre les trois
+Dont a leur grande reine ils demandent le choix ;
+Et comme ses rivaux lui cedent en merite,
+Un espoir a present plus doux le sollicite ;
+Il regnera sans nous. Mais, madame, apres tout,			[35]
+Savez-vous a quel choix l'Aragon se resout,
+Et quels troubles nouveaux j'y puis faire renaitre,
+S'il voit que je lui mene un etranger pour maitre ?
+Montons, de grace, au trone ; et de la beaucoup mieux
+Sur le choix d'un epoux nous baisserons les yeux.			[40]
+DONA LEONOR.
+Vous les abaissez trop ; une secrete flamme
+A deja malgre moi fait ce choix dans votre ame :
+De l'inconnu Carlos l'eclatante valeur
+Aux merites du comte a ferme votre coeur.
+Tout est illustre en lui, moi-meme je l'avoue ;			[45]
+Mais son sang, que le ciel n'a forme que de boue,
+Et dont il cache expres la source obstinement...
+DONA ELVIRE.
+Vous pourriez en juger plus favorablement ;
+Sa naissance inconnue est peut-etre sans tache :
+Vous la presumez basse a cause qu'il la cache ;			[50]
+Mais combien a-t-on vu de princes deguises
+Signaler leur vertu sous des noms supposes,
+Dompter des nations, gagner des diademes,
+Sans qu'aucun les connut, sans se connaitre eux-memes !
+DONA LEONOR.
+Quoi ? Voila donc enfin de quoi vous vous flattez !			[55]
+DONA ELVIRE.
+J'aime et prise en Carlos ses rares qualites.
+Il n'est point d'ame noble a qui tant de vaillance
+N'arrache cette estime et cette bienveillance ;
+Et l'innocent tribut de ces affections
+Que doit toute la terre aux belles actions,			[60]
+N'a rien qui deshonore une jeune princesse.
+En cette qualite, je l'aime et le caresse ;
+En cette qualite, ses devoirs assidus
+Me rendent les respects a ma naissance dus.
+Il fait sa cour chez moi comme un autre peut faire :			[65]
+Il a trop de vertus pour etre temeraire ;
+Et si jamais ses voeux s'echappaient jusqu'a moi,
+Je sais ce que je suis, et ce que je me dois.
+DONA LEONOR.
+Daigne le juste ciel vous donner le courage
+De vous en souvenir et le mettre en usage !			[70]
+DONA ELVIRE.
+Vos ordres sur mon coeur sauront toujours regner.
+DONA LEONOR.
+Cependant ce Carlos vous doit accompagner,
+Doit venir jusqu'aux lieux de votre obeissance,
+Vous rendre ces respects dus a votre naissance,
+Vous faire, comme ici, sa cour tout simplement ?			[75]
+DONA ELVIRE.
+De ses pareils la guerre est l'unique element :
+Accoutumes d'aller de victoire en victoire,
+Ils cherchent en tous lieux les dangers et la gloire,
+La prise de Seville, et les Mores defaits,
+Laissent a la Castille une profonde paix :			[80]
+S'y voyant sans emploi, sa grande ame inquiete
+Veut bien de Don Garcie achever la defaite,
+Et contre les efforts d'un reste de mutins
+De toute sa valeur hater nos bons destins.
+DONA LEONOR.
+Mais quand il vous aura dans le trone affermie,			[85]
+Et jete sous vos pieds la puissance ennemie,
+S'en ira-t-il soudain aux climats etrangers
+Chercher tout de nouveau la gloire et les dangers ?
+DONA ELVIRE.
+Madame, la reine entre.
+SCENE II. Dona Isabelle, Dona Leonor, Dona Elvire, Blanche.
+DONA LEONOR.
+Aujourd'hui donc, madame,
+Vous allez d'un heros rendre heureuse la flamme,			[90]
+Et d'un mot satisfaire aux plus ardents souhaits
+Que poussent vers le ciel vos fideles sujets.
+DONA ISABELLE.
+Dites, dites plutot qu'aujourd'hui, grandes reines,
+Je m'impose a vos yeux la plus dure des genes,
+Et fais dessus moi-meme un illustre attentat			[95]
+Pour me sacrifier au repos de l'etat.
+Que c'est un sort facheux et triste que le notre,
+De ne pouvoir regner que sous les lois d'un autre ;
+Et qu'un sceptre soit cru d'un si grand poids pour nous,
+Que pour le soutenir il nous faille un epoux !			[100]
+A peine ai-je deux mois porte le diademe,
+Que de tous les cotes j'entends dire qu'on m'aime,
+Si toutefois sans crime et sans m'en indigner
+Je puis nommer amour une ardeur de regner.
+L'ambition des grands a cet espoir ouverte			[105]
+Semble pour m'acquerir s'appreter a ma perte ;
+Et pour trancher le cours de leurs dissensions,
+Il faut fermer la porte a leurs pretentions ;
+Il m'en faut choisir un ; eux-memes m'en convient,
+Mon peuple m'en conjure, et mes etats m'en prient ;			[110]
+Et meme par mon ordre ils m'en proposent trois,
+Dont mon coeur a leur gre peut faire un digne choix.
+Don Lope de Gusman, Don Manrique de Lare,
+Et Don Alvar de Lune, ont un merite rare ;
+Mais que me sert ce choix qu'on fait en leur faveur,			[115]
+Si pas un d'eux enfin n'a celui de mon coeur ?
+DONA LEONOR.
+On vous les a nommes, mais sans vous les prescrire ;
+On vous obeira, quoi qu'il vous plaise elire :
+Si le coeur a choisi, vous pouvez faire un roi.
+DONA ISABELLE.
+Madame, je suis reine, et dois regner sur moi.			[120]
+Le rang que nous tenons, jaloux de notre gloire,
+Souvent dans un tel choix nous defend de nous croire,
+Jette sur nos desirs un joug imperieux,
+Et dedaigne l'avis et du coeur et des yeux.
+Qu'on ouvre. Juste ciel, vois ma peine, et m'inspire			[125]
+Et ce que je dois faire, et ce que je dois dire.
+SCENE III. Dona Isabelle, Dona Leonor, Dona Elvire, Blanche, Don Lope, Don Manrique, Don Alvar, Carlos.
+DONA ISABELLE.
+Avant que de choisir je demande un serment,
+Comtes, qu'on agreera mon choix aveuglement ;
+Que les deux meprises, et tous les trois peut-etre,
+De ma main, quel qu'il soit, accepteront un maitre ;			[130]
+Car enfin je suis libre a disposer de moi ;
+Le choix de mes etats ne m'est point une loi ;
+D'une troupe importune il m'a debarrassee,
+Et d'eux tous sur vous trois detourne ma pensee,
+Mais sans necessite de l'arreter sur vous.			[135]
+J'aime a savoir par la qu'on vous prefere a tous ;
+Vous m'en etes plus chers et plus considerables :
+J'y vois de vos vertus les preuves honorables ;
+J'y vois la haute estime ou sont vos grands exploits ;
+Mais quoique mon dessein soit d'y borner mon choix,			[140]
+Le ciel en un moment quelquefois nous eclaire.
+Je veux, en le faisant, pouvoir ne le pas faire,
+Et que vous avouiez que pour devenir roi,
+Quiconque me plaira n'a besoin que de moi.
+DON LOPE.
+C'est une autorite qui vous demeure entiere ;			[145]
+Votre etat avec vous n'agit que par priere,
+Et ne vous a pour nous fait voir ses sentiments
+Que par obeissance a vos commandements.
+Ce n'est point ni son choix ni l'eclat de ma race
+Qui me font, grande reine, esperer cette grace :			[150]
+Je l'attends de vous seule et de votre bonte,
+Comme on attend un bien qu'on n'a pas merite,
+Et dont, sans regarder service, ni famille,
+Vous pouvez faire part au moindre de Castille.
+C'est a nous d'obeir, et non d'en murmurer ;			[155]
+Mais vous nous permettrez toutefois d'esperer
+Que vous ne ferez choir cette faveur insigne,
+Ce bonheur d'etre a vous, que sur le moins indigne ;
+Et que votre vertu vous fera trop savoir
+Qu'il n'est pas bon d'user de tout votre pouvoir.			[160]
+Voila mon sentiment.
+DONA ISABELLE.
+Parlez, vous, Don Manrique.
+DON MANRIQUE.
+Madame, puisqu'il faut qu'a vos yeux je m'explique,
+Quoique votre discours nous ait fait des lecons
+Capables d'ouvrir l'ame a de justes soupcons,
+Je vous dirai pourtant, comme a ma souveraine,			[165]
+Que pour faire un vrai roi vous le fassiez en reine,
+Que vous laisser borner, c'est vous-meme affaiblir
+La dignite du rang qui le doit ennoblir ;
+Et qu'a prendre pour loi le choix qu'on vous propose,
+Le roi que vous feriez vous devrait peu de chose,			[170]
+Puisqu'il tiendrait les noms de monarque et d'epoux
+Du choix de vos etats aussi bien que de vous.
+Pour moi, qui vous aimai sans sceptre et sans couronne,
+Qui n'ai jamais eu d'yeux que pour votre personne,
+Que meme le feu roi daigna considerer			[175]
+Jusqu'a souffrir ma flamme et me faire esperer,
+J'oserai me promettre un sort assez propice
+De cet aveu d'un frere et quatre ans de service ;
+Et sur ce doux espoir dussai-je me trahir,
+Puisque vous le voulez, je jure d'obeir.			[180]
+DONA ISABELLE.
+C'est comme il faut m'aimer. Et Don Alvar de Lune ?
+DON ALVAR.
+Je ne vous ferai point de harangue importune.
+Choisissez hors des trois, tranchez absolument :
+Je jure d'obeir, madame, aveuglement.
+DONA ISABELLE.
+Sous les profonds respects de cette deference			[185]
+Vous nous cachez peut-etre un peu d'indifference ;
+Et comme votre coeur n'est pas sans autre amour,
+Vous savez des deux parts faire bien votre cour.
+DON ALVAR.
+Madame...
+DONA ISABELLE.
+C'est assez ; que chacun prenne place.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DON MANRIQUE.
+Tout beau, tout beau, Carlos ! D'ou vous vient cette audace ?			[190]
+Et quel titre en ce rang a pu vous etablir ?
+CARLOS.
+J'ai vu la place vide, et cru la bien remplir.
+DON MANRIQUE.
+Un soldat bien remplir une place de comte !
+CARLOS.
+Seigneur, ce que je suis ne me fait point de honte.
+Depuis plus de six ans il ne s'est fait combat			[195]
+Qui ne m'ait bien acquis ce grand nom de soldat :
+J'en avais pour temoin le feu roi votre frere,
+Madame ; et par trois fois...
+DON MANRIQUE.
+Nous vous avons vu faire,
+Et savons mieux que vous ce que peut votre bras.
+DONA ISABELLE.
+Vous en etes instruits, et je ne la suis pas :			[200]
+Laissez-le me l'apprendre. Il importe aux monarques
+Qui veulent aux vertus rendre de dignes marques,
+De les savoir connaitre, et ne pas ignorer
+Ceux d'entre leurs sujets qu'ils doivent honorer.
+DON MANRIQUE.
+Je ne me croyais pas etre ici pour l'entendre.			[205]
+DONA ISABELLE.
+Comte, encore une fois, laissez-le me l'apprendre.
+Nous aurons temps pour tout. Et vous, parlez, Carlos.
+CARLOS.
+Je dirai qui je suis, madame, en peu de mots.
+On m'appelle soldat : je fais gloire de l'etre ;
+Au feu roi par trois fois je le fis bien paraitre.			[210]
+L'etendard de Castille, a ses yeux enleve,
+Des mains des ennemis par moi seul fut sauve :
+Cette seule action retablit la bataille,
+fit rechasser le More au pied de sa muraille,
+Et rendant le courage aux plus timides coeurs,			[215]
+Rappela les vaincus, et defit les vainqueurs.
+Ce meme roi me vit dedans l'Andalousie
+Degager sa personne en prodiguant ma vie,
+Quand tout perce de coups, sur un monceau de morts,
+Je lui fis si longtemps bouclier de mon corps,			[220]
+Qu'enfin autour de lui ses troupes ralliees,
+Celles qui l'enfermaient furent sacrifiees ;
+Et le meme escadron qui vint le secourir
+Le ramena vainqueur, et moi pret a mourir.
+Je montai le premier sur les murs de Seville,			[225]
+Et tins la breche ouverte aux troupes de Castille.
+Je ne vous parle point d'assez d'autres exploits,
+Qui n'ont pas pour temoins eu les yeux de mes rois.
+Tel me voit et m'entend, et me meprise encore,
+Qui gemirait sans moi dans les prisons du More.			[230]
+DON MANRIQUE.
+Nous parlez-vous, Carlos, pour Don Lope et pour moi ?
+CARLOS.
+Je parle seulement de ce qu'a vu le roi,
+Seigneur ; et qui voudra parle a sa conscience.
+Voila dont le feu roi me promit recompense ;
+Mais la mort le surprit comme il la resolvait.			[235]
+DONA ISABELLE.
+Il se fut acquitte de ce qu'il vous devait ;
+Et moi, comme heritant son sceptre et sa couronne,
+Je prends sur moi sa dette, et je vous la fais bonne.
+Seyez-vous, et quittons ces petits differends.
+DON LOPE.
+Souffrez qu'auparavant il nomme ses parents.			[240]
+Nous ne contestons point l'honneur de sa vaillance,
+Madame ; et s'il en faut notre reconnaissance,
+Nous avouerons tous deux qu'en ces combats derniers
+L'un et l'autre, sans lui, nous etions prisonniers ;
+Mais enfin la valeur, sans l'eclat de la race,			[245]
+N'eut jamais aucun droit d'occuper cette place.
+CARLOS.
+Se pare qui voudra des noms de ses aieux :
+Moi, je ne veux porter que moi-meme en tous lieux ;
+Je ne veux rien devoir a ceux qui m'ont fait naitre,
+Et suis assez connu sans les faire connaitre.			[250]
+Mais pour en quelque sorte obeir a vos lois,
+Seigneur, pour mes parents je nomme mes exploits :
+Ma valeur est ma race, et mon bras est mon pere.
+DON LOPE.
+Vous le voyez, madame, et la preuve en est claire :
+Sans doute il n'est pas noble.
+DONA ISABELLE.
+Eh bien ! Je l'anoblis,			[255]
+Quelle que soit sa race et de qui qu'il soit fils.
+Qu'on ne conteste plus.
+DON MANRIQUE.
+Encore un mot, de grace.
+DONA ISABELLE.
+Don Manrique, a la fin, c'est prendre trop d'audace.
+Ne puis-je l'anoblir si vous n'y consentez ?
+DON MANRIQUE.
+Oui, mais ce rang n'est du qu'aux hautes dignites ;			[260]
+Tout autre qu'un marquis ou comte le profane.
+DONA ISABELLE.
+Eh bien ! Seyez-vous donc, marquis de Santillane,
+Comte de Pennafiel, gouverneur de Burgos.
+Don Manrique, est-ce assez pour faire seoir Carlos ?
+Vous reste-t-il encore quelque scrupule en l'ame ?			[265]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DON MANRIQUE.
+Achevez, achevez ; faites-le roi, madame :
+Par ces marques d'honneur l'elever jusqu'a nous,
+C'est moins nous l'egaler que l'approcher de vous.
+Ce preambule adroit n'etait pas sans mystere ;
+Et ces nouveaux serments qu'il nous a fallu faire			[270]
+Montraient bien dans votre ame un tel choix prepare.
+Enfin vous le pouvez, et nous l'avons jure.
+Je suis pret d'obeir ; et loin d'y contredire,
+Je laisse entre ses mains et vous et votre empire.
+Je sors avant ce choix, non que j'en sois jaloux,			[275]
+Mais de peur que mon front n'en rougisse pour vous.
+DONA ISABELLE.
+Arretez, insolent : votre reine pardonne
+Ce qu'une indigne crainte imprudemment soupconne ;
+Et pour la dementir, veut bien vous assurer
+Qu'au choix de ses etats elle veut demeurer ;			[280]
+Que vous tenez encore meme rang dans son ame ;
+Qu'elle prend vos transports pour un exces de flamme,
+Et qu'au lieu d'en punir le zele injurieux,
+Sur un crime d'amour elle ferme les yeux.
+DON MANRIQUE.
+Madame, excusez donc si quelque antipathie...			[285]
+DONA ISABELLE.
+Ne faites point ici de fausse modestie :
+J'ai trop vu votre orgueil pour le justifier,
+Et sais bien les moyens de vous humilier.
+Soit que j'aime Carlos, soit que par simple estime
+Je rende a ses vertus un honneur legitime,			[290]
+Vous devez respecter, quels que soient mes desseins,
+Ou le choix de mon coeur, ou l'oeuvre de mes mains.
+Je l'ai fait votre egal ; et quoiqu'on s'en mutine,
+Sachez qu'a plus encore ma faveur le destine.
+Je veux qu'aujourd'hui meme il puisse plus que moi :			[295]
+J'en ai fait un marquis, je veux qu'il fasse un roi.
+S'il a tant de valeur que vous-memes le dites,
+Il sait quelle est la votre, et connait vos merites,
+Et jugera de vous avec plus de raison
+Que moi, qui n'en connais que la race et le nom.			[300]
+Marquis, prenez ma bague, et la donnez pour marque
+Au plus digne des trois, que j'en fasse un monarque.
+Je vous laisse y penser tout ce reste du jour.
+Rivaux, ambitieux, faites-lui votre cour :
+Qui me rapportera l'anneau que je lui donne			[305]
+Recevra sur-le-champ ma main et ma couronne.
+Allons, reines, allons, et laissons-les juger
+De quel cote l'amour avait su m'engager.
+SCENE IV. Manrique, Don Lope, Don Alvar, Carlos.
+DON LOPE.
+Eh bien ! Seigneur marquis, nous direz-vous, de grace,
+Ce que, pour vous gagner, il est besoin qu'on fasse ?			[310]
+Vous etes notre juge, il faut vous adoucir.
+CARLOS.
+Vous y pourriez peut-etre assez mal reussir.
+Quittez ces contre-temps de froide raillerie.
+DON MANRIQUE.
+Il n'en est pas saison, quand il faut qu'on vous prie.
+CARLOS.
+Ne raillons, ni prions, et demeurons amis.			[315]
+Je sais ce que la reine en mes mains a remis ;
+J'en userai fort bien : vous n'avez rien a craindre,
+Et pas un de vous trois n'aura lieu de se plaindre.
+Je n'entreprendrai point de juger entre vous
+Qui merite le mieux le nom de son epoux :			[320]
+Je serais temeraire, et m'en sens incapable ;
+Et peut-etre quelqu'un m'en tiendrait recusable.
+Je m'en recuse donc, afin de vous donner
+Un juge que sans honte on ne peut soupconner ;
+Ce sera votre epee et votre bras lui-meme.			[325]
+Comtes, de cet anneau depend le diademe :
+Il vaut bien un combat ; vous avez tous du coeur,
+Et je le garde...
+DON LOPE.
+A qui, Carlos ?
+CARLOS.
+A mon vainqueur.
+Qui pourra me l'oter l'ira rendre a la reine :
+Ce sera du plus digne une preuve certaine.			[330]
+Prenez entre vous l'ordre et du temps et du lieu ;
+Je m'y rendrai sur l'heure, et vais l'attendre. Adieu.
+SCENE V. Don Manrique, Don Lope, Alvar.
+DON LOPE.
+Vous voyez l'arrogance.
+DON ALVAR.
+Ainsi les grands courages
+Savent en genereux repousser les outrages.
+DON MANRIQUE.
+Il se meprend pourtant, s'il pense qu'aujourd'hui			[335]
+Nous daignions mesurer notre epee avec lui.
+DON ALVAR.
+Refuser un combat !
+DON LOPE.
+Des generaux d'armee,
+Jaloux de leur honneur et de leur renommee,
+Ne se commettent point contre un aventurier.
+DON ALVAR.
+Ne mettez point si bas un si vaillant guerrier :			[340]
+Qu'il soit ce qu'en voudra presumer votre haine,
+Il doit etre pour nous ce qu'a voulu la reine.
+DON LOPE.
+La reine qui nous brave, et sans egard au sang,
+Ose souiller ainsi l'eclat de notre rang !
+DON ALVAR.
+Les rois de leurs faveurs ne sont jamais comptables ;			[345]
+Ils font, comme il leur plait, et defont nos semblables.
+DON MANRIQUE.
+Envers les majestes vous etes bien discret.
+Voyez-vous cependant qu'elle l'aime en secret ?
+DON ALVAR.
+Dites, si vous voulez, qu'ils sont d'intelligence,
+Qu'elle a de sa valeur si haute confiance,			[350]
+Qu'elle espere par la faire approuver son choix,
+Et se rendre avec gloire au vainqueur de tous trois,
+Qu'elle nous hait dans l'ame autant qu'elle l'adore :
+C'est a nous d'honorer ce que la reine honore.
+DON MANRIQUE.
+Vous la respectez fort ; mais y pretendez-vous ?			[355]
+On dit que l'Aragon a des charmes si doux...
+DON ALVAR.
+Qu'ils me soient doux ou non, je ne crois pas sans crime
+Pouvoir de mon pays desavouer l'estime ;
+Et puisqu'il m'a juge digne d'etre son roi,
+Je soutiendrai partout l'etat qu'il fait de moi.			[360]
+Je vais donc disputer, sans que rien me retarde,
+Au marquis Don Carlos cet anneau qu'il nous garde ;
+Et si sur sa valeur je le puis emporter,
+J'attendrai de vous deux qui voudra me l'oter :
+Le champ vous sera libre.
+DON LOPE.
+A la bonne heure, comte ;			[365]
+Nous vous irons alors le disputer sans honte :
+Nous ne dedaignons point un si digne rival ;
+Mais pour votre marquis, qu'il cherche son egal.
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Dona Isabelle, Blanche.
+DONA ISABELLE.
+Blanche, as-tu rien connu d'egal a ma misere ?
+Tu vois tous mes desirs condamnes a se taire,			[370]
+Mon coeur faire un beau choix sans l'oser accepter,
+Et nourrir un beau feu sans l'oser ecouter.
+Vois par la ce que c'est, Blanche, que d'etre reine :
+Comptable de moi-meme au nom de souveraine,
+Et sujette a jamais du trone ou je me vois,			[375]
+Je puis tout pour tout autre et ne puis rien pour moi.
+O sceptres ! S'il est vrai que tout vous soit possible,
+Pourquoi ne pouvez-vous rendre un coeur insensible ?
+Pourquoi permettez-vous qu'il soit d'autres appas,
+Ou que l'on ait des yeux pour ne les croire pas ?			[380]
+BLANCHE.
+Je presumais tantot que vous les alliez croire :
+J'en ai plus d'une fois tremble pour votre gloire.
+Ce qu'a vos trois amants vous avez fait jurer
+Au choix de Don Carlos semblait tout preparer :
+Je le nommais pour vous. Mais enfin par l'issue			[385]
+Ma crainte s'est trouvee heureusement decue ;
+L'effort de votre amour a su se moderer ;
+Vous l'avez honore sans vous deshonorer,
+Et satisfait ensemble, en trompant mon attente,
+La grandeur d'une reine et l'ardeur d'une amante.			[390]
+DONA ISABELLE.
+Dis que pour honorer sa generosite,
+Mon amour s'est joue de mon autorite,
+Et qu'il a fait servir, en trompant ton attente,
+Le pouvoir de la reine au courroux de l'amante.
+D'abord par ce discours, qui t'a semble suspect,			[395]
+Je voulais seulement essayer leur respect,
+Soutenir jusqu'au bout la dignite de reine ;
+Et comme enfin ce choix me donnait de la peine,
+Perdre quelques moments, choisir un peu plus tard :
+J'allais nommer pourtant, et nommer au hasard ;			[400]
+Mais tu sais quel orgueil ont lors montre les comtes,
+Combien d'affronts pour lui, combien pour moi de hontes.
+Certes, il est bien dur a qui se voit regner
+De montrer quelque estime, et la voir dedaigner.
+Sous ombre de venger sa grandeur meprisee,			[405]
+L'amour a la faveur trouve une pente aisee ;
+A l'interet du sceptre aussitot attache,
+Il agit d'autant plus qu'il se croit bien cache,
+Et s'ose imaginer qu'il ne fait rien paraitre
+Que ce change de nom ne fasse meconnaitre.			[410]
+J'ai fait Carlos marquis, et comte, et gouverneur ;
+Il doit a ses jaloux tous ces titres d'honneur :
+M'en voulant faire avare, ils m'en faisaient prodigue ;
+Ce torrent grossissait, rencontrant cette digue :
+C'etait plus les punir que le favoriser.			[415]
+L'amour me parlait trop, j'ai voulu l'amuser ;
+Par ces profusions j'ai cru le satisfaire,
+Et l'ayant satisfait, l'obliger a se taire ;
+Mais, helas ! En mon coeur il avait tant d'appui,
+Que je n'ai pu jamais prononcer contre lui,			[420]
+Et n'ai mis en ses mains ce Don du diademe
+Qu'afin de l'obliger a s'exclure lui-meme.
+Ainsi, pour apaiser les murmures du coeur,
+Mon refus a porte les marques de faveur ;
+Et revetant de gloire un invisible outrage,			[425]
+De peur d'en faire un roi je l'ai fait davantage :
+Outre qu'indifferente aux voeux de tous les trois
+J'esperais que l'amour pourrait suivre son choix,
+Et que le moindre d'eux, de soi-meme estimable,
+Recevrait de sa main la qualite d'aimable.			[430]
+Voila, Blanche, ou j'en suis ; voila ce que j'ai fait ;
+Voila les vrais motifs dont tu voyais l'effet ;
+Car mon ame pour lui, quoique ardemment pressee,
+Ne saurait se permettre une indigne pensee ;
+Et je mourrais encore avant que m'accorder			[435]
+Ce qu'en secret mon coeur ose me demander.
+Mais enfin je vois bien que je me suis trompee
+De m'en etre remise a qui porte une epee,
+Et trouve occasion, dessous cette couleur,
+De venger le mepris qu'on fait de sa valeur.			[440]
+Je devais par mon choix etouffer cent querelles ;
+Et l'ordre que j'y tiens en forme de nouvelles,
+Et jette entre les grands, amoureux de mon rang,
+Une necessite de repandre du sang.
+Mais j'y saurai pourvoir.
+BLANCHE.
+C'est un penible ouvrage			[445]
+D'arreter un combat qu'autorise l'usage,
+Que les lois ont regle, que les rois vos aieux
+Daignaient assez souvent honorer de leurs yeux :
+On ne s'en dedit point sans quelque ignominie,
+Et l'honneur aux grands coeurs est plus cher que la vie.			[450]
+DONA ISABELLE.
+Je sais ce que tu dis, et n'irai pas de front
+faire un commandement qu'ils prendraient pour affront.
+Lorsque le deshonneur souille l'obeissance,
+Les rois peuvent douter de leur toute-puissance :
+Qui la hasarde alors n'en sait pas bien user,			[455]
+Et qui veut pouvoir tout ne doit pas tout oser.
+Je romprai ce combat feignant de le permettre,
+Et je le tiens rompu si je puis le remettre.
+Les reines d'Aragon pourront meme m'aider.
+Voici deja Carlos que je viens de mander :			[460]
+Demeure, et tu verras avec combien d'adresse
+Ma gloire de mon ame est toujours la maitresse.
+SCENE II. Dona Isabelle, Carlos, Blanche.
+DONA ISABELLE.
+Vous avez bien servi, marquis, et jusqu'ici
+Vos armes ont pour nous dignement reussi :
+Je pense avoir aussi bien paye vos services.			[465]
+Malgre vos envieux et leurs mauvais offices,
+J'ai fait beaucoup pour vous, et tout ce que j'ai fait
+Ne vous a pas coute seulement un souhait.
+Si cette recompense est pourtant si petite
+Qu'elle ne puisse aller jusqu'a votre merite,			[470]
+S'il vous en reste encore quelque autre a souhaiter,
+Parlez, et donnez-moi moyen de m'acquitter.
+CARLOS.
+Apres tant de faveurs a pleines mains versees,
+Dont mon coeur n'eut ose concevoir les pensees,
+Surpris, trouble, confus, accable de bienfaits,			[475]
+Que j'osasse former encore quelques souhaits !
+DONA ISABELLE.
+Vous etes donc content ; et j'ai lieu de me plaindre.
+CARLOS.
+De moi ?
+DONA ISABELLE.
+De vous, marquis. Je vous parle sans feindre :
+ecoutez. Votre bras a bien servi l'etat,
+Tant que vous n'avez eu que le nom de soldat ;			[480]
+Des que je vous fais grand, sitot que je vous donne
+Le droit de disposer de ma propre personne,
+Ce meme bras s'apprete a troubler son repos,
+Comme si le marquis cessait d'etre Carlos,
+Ou que cette grandeur ne fut qu'un avantage			[485]
+Qui dut a sa ruine armer votre courage.
+Les trois comtes en sont les plus fermes soutiens :
+Vous attaquez en eux ses appuis et les miens ;
+C'est son sang le plus pur que vous voulez repandre ;
+Et vous pouvez juger l'honneur qu'on leur doit rendre,			[490]
+Puisque ce meme etat, me demandant un roi,
+Les a juges eux trois les plus dignes de moi.
+Peut-etre un peu d'orgueil vous a mis dans la tete
+Qu'a venger leur mepris ce pretexte est honnete :
+Vous en avez suivi la premiere chaleur ;			[495]
+Mais leur mepris va-t-il jusqu'a votre valeur ?
+N'en ont-ils pas rendu temoignage a ma vue ?
+Ils ont fait peu d'etat d'une race inconnue,
+Ils ont doute d'un sort que vous voulez cacher :
+Quand un doute si juste aurait du vous toucher,			[500]
+J'avais pris quelque soin de vous venger moi-meme.
+Remettre entre vos mains le don du diademe,
+Ce n'etait pas, marquis, vous venger a demi.
+Je vous ai fait leur juge, et non leur ennemi,
+Et si sous votre choix j'ai voulu les reduire,			[505]
+C'est pour vous faire honneur et non pour les detruire.
+C'est votre seul avis, non leur sang que je veux ;
+Et c'est m'entendre mal que vous armer contre eux.
+N'auriez-vous point pense que si ce grand courage
+Vous pouvait sur tous trois donner quelque avantage,			[510]
+On dirait que l'etat, me cherchant un epoux,
+N'en aurait pu trouver de comparable a vous ?
+Ah ! Si je vous croyais si vain, si temeraire...
+CARLOS.
+Madame, arretez la votre juste colere ;
+Je suis assez coupable, et n'ai que trop ose,			[515]
+Sans choisir pour me perdre un crime suppose.
+Je ne me defends point des sentiments d'estime
+Que vos moindres sujets auraient pour vous sans crime.
+Lorsque je vois en vous les celestes accords
+Des graces de l'esprit et des beautes du corps,			[520]
+Je puis, de tant d'attraits l'ame toute ravie,
+Sur l'heur de votre epoux jeter un oeil d'envie ;
+Je puis contre le ciel en secret murmurer
+De n'etre pas ne roi pour pouvoir esperer ;
+Et les yeux eblouis de cet eclat supreme,			[525]
+Baisser soudain la vue, et rentrer en moi-meme ;
+Mais que je laisse aller d'ambitieux soupirs,
+Un ridicule espoir, de criminels desirs ! ...
+Je vous aime, madame, et vous estime en reine ;
+Et quand j'aurais des feux dignes de votre haine,			[530]
+Si votre ame, sensible a ces indignes feux,
+Se pouvait oublier jusqu'a souffrir mes voeux ;
+Si par quelque malheur que je ne puis comprendre,
+Du trone jusqu'a moi je la voyais descendre,
+Commencant aussitot a vous moins estimer,			[535]
+Je cesserais sans doute aussi de vous aimer.
+L'amour que j'ai pour vous est tout a votre gloire :
+Je ne vous pretends point pour fruit de ma victoire ;
+Je combats vos amants, sans dessein d'acquerir
+Que l'heur d'en faire voir le plus digne, et mourir ;			[540]
+Et tiendrais mon destin assez digne d'envie,
+S'il le faisait connaitre aux depens de ma vie.
+Serait-ce a vos faveurs repondre pleinement
+Que hasarder ce choix a mon seul jugement ?
+Il vous doit un epoux, a la Castille un maitre :			[545]
+Je puis en mal juger, je puis les mal connaitre.
+Je sais qu'ainsi que moi le demon des combats
+Peut donner au moins digne et vous et vos etats ;
+Mais du moins, si le sort des armes journalieres
+En laisse par ma mort de mauvaises lumieres,			[550]
+Elle m'en otera la honte et le regret ;
+Et meme si votre ame en aime un en secret,
+Et que ce triste choix rencontre mal le votre,
+Je ne vous verrai point, entre les bras d'un autre,
+Reprocher a Carlos par de muets soupirs			[555]
+Qu'il est l'unique auteur de tous vos deplaisirs.
+DONA ISABELLE.
+Ne cherchez point d'excuse a douter de ma flamme,
+Marquis ; je puis aimer, puisqu'enfin je suis femme ;
+Mais, si j'aime, c'est mal me faire votre cour
+Qu'exposer au trepas l'objet de mon amour ;			[560]
+Et toute votre ardeur se serait moderee
+A m'avoir dans ce doute assez consideree :
+Je le veux eclaircir, et vous mieux eclairer,
+Afin de vous apprendre a me considerer.
+Je ne le cele point ; j'aime, Carlos, oui, j'aime ;			[565]
+Mais l'amour de l'etat, plus fort que de moi-meme,
+Cherche, au lieu de l'objet le plus doux a mes yeux,
+Le plus digne heros de regner en ces lieux ;
+Et craignant que mes feux osassent me seduire,
+J'ai voulu m'en remettre a vous pour m'en instruire.			[570]
+Mais je crois qu'il suffit que cet objet d'amour
+Perde le trone et moi sans perdre encore le jour ;
+Et mon coeur qu'on lui vole en souffre assez d'alarmes,
+Sans que sa mort pour moi me demande des larmes.
+CARLOS.
+Ah ! Si le ciel tantot me daignait inspirer			[575]
+En quel heureux amant je vous dois reverer,
+Que par une facile et soudaine victoire...
+DONA ISABELLE.
+Ne pensez qu'a defendre et vous et votre gloire.
+Quel qu'il soit, les respects qui l'auraient epargne
+Lui donneraient un prix qu'il aurait mal gagne ;			[580]
+Et ceder a mes feux plutot qu'a son merite
+Ne serait que me rendre au juge que j'evite.
+Je n'abuserai point du pouvoir absolu,
+Pour defendre un combat entre vous resolu ;
+Je blesserais par la l'honneur de tous les quatre :			[585]
+Les lois vous l'ont permis, je vous verrai combattre ;
+C'est a moi, comme reine, a nommer le vainqueur.
+Dites-moi, cependant, qui montre plus de coeur ?
+Qui des trois le premier eprouve la fortune ?
+CARLOS.
+Don Alvar.
+DONA ISABELLE.
+Don Alvar !			[590]
+CARLOS.
+Oui, Don Alvar de Lune.			[590]
+DONA ISABELLE.
+On dit qu'il aime ailleurs.
+CARLOS.
+On le dit ; mais enfin
+Lui seul jusqu'ici tente un si noble destin.
+DONA ISABELLE.
+Je devine a peu pres quel interet l'engage ;
+Et nous verrons demain quel sera son courage.
+CARLOS.
+Vous ne m'avez donne que ce jour pour ce choix.			[595]
+DONA ISABELLE.
+J'aime mieux au lieu d'un vous en accorder trois.
+CARLOS.
+Madame, son cartel marque cette journee.
+DONA ISABELLE.
+C'est peu que son cartel, si je ne l'ai donnee ;
+Qu'on le fasse venir pour la voir differer.
+Je vais pour vos combats faire tout preparer.			[600]
+Adieu : souvenez-vous surtout de ma defense ;
+Et vous aurez demain l'honneur de ma presence.
+SCENE III.
+CARLOS.
+Consens-tu qu'on differe, honneur ? Le consens-tu ?
+Cet ordre n'a-t-il rien qui souille ma vertu ?
+N'ai-je point a rougir de cette deference			[605]
+Que d'un combat illustre achete la licence ?
+Tu murmures, ce semble ? Acheve ; explique-toi.
+La reine a-t-elle droit de te faire la loi ?
+Tu n'es point son sujet, l'Aragon m'a vu naitre.
+O ciel ! Je m'en souviens, et j'ose encore paraitre !			[610]
+Et je puis, sous les noms de comte et de marquis,
+D'un malheureux pecheur reconnaitre le fils !
+Honteuse obscurite, qui seule me fais craindre !
+Injurieux destin, qui seul me rends a plaindre !
+Plus on m'en fait sortir, plus je crains d'y rentrer,			[615]
+Et crois ne t'avoir fui que pour te rencontrer.
+Ton cruel souvenir sans fin me persecute ;
+Du rang ou l'on m'eleve il me montre la chute.
+Lasse-toi desormais de me faire trembler ;
+Je parle a mon honneur, ne viens point le troubler.			[620]
+Laisse-le sans remords m'approcher des couronnes,
+Et ne viens point m'oter plus que tu ne me donnes.
+Je n'ai plus rien a toi : la guerre a consume
+Tout cet indigne sang dont tu m'avais forme ;
+J'ai quitte jusqu'au nom que je tiens de ta haine,			[625]
+Et ne puis... Mais voici ma veritable reine.
+SCENE IV. Dona Elvire, Carlos.
+DONA ELVIRE.
+Ah ! Carlos, car j'ai peine a vous nommer marquis,
+Non qu'un titre si beau ne vous soit bien acquis,
+Non qu'avec justice il ne vous appartienne,
+Mais parce qu'il vous vient d'autre main que la mienne,			[630]
+Et que je presumais n'appartenir qu'a moi
+D'elever votre gloire au rang ou je la vois.
+Je me consolerais toutefois avec joie
+Des faveurs que sans moi le ciel sur vous deploie,
+Et verrais sans envie agrandir un heros,			[635]
+Si le marquis tenait ce qu'a promis Carlos,
+S'il avait comme lui son bras a mon service.
+Je venais a la reine en demander justice ;
+Mais puisque je vous vois, vous m'en ferez raison.
+Je vous accuse donc, non pas de trahison,			[640]
+Pour un coeur genereux cette tache est trop noire,
+Mais d'un peu seulement de manque de memoire.
+CARLOS.
+Moi, madame ?
+DONA ELVIRE.
+ecoutez mes plaintes en repos.
+Je me plains du marquis, et non pas de Carlos :
+Carlos de tout son coeur me tiendrait sa parole ;			[645]
+Mais ce qu'il m'a donne, le marquis me le vole :
+C'est lui seul qui dispose ainsi du bien d'autrui,
+Et prodigue son bras quand il n'est plus a lui.
+Carlos se souviendrait que sa haute vaillance
+Doit ranger Don Garcie a mon obeissance,			[650]
+Qu'elle doit affermir mon sceptre dans ma main,
+Qu'il doit m'accompagner peut-etre des demain ;
+Mais ce Carlos n'est plus, le marquis lui succede,
+Qu'une autre soif de gloire, un autre objet possede,
+Et qui du meme bras que m'engageait sa foi,			[655]
+Entreprend trois combats pour une autre que moi.
+Helas ! Si ces honneurs dont vous comble la reine
+Reduisent mon espoir en une attente vaine ;
+Si les nouveaux desseins que vous en concevez
+Vous ont fait oublier ce que vous me devez,			[660]
+Rendez-lui ces honneurs qu'un tel oubli profane,
+Rendez-lui Pennafiel, Burgos, et Santillane ;
+L'Aragon a de quoi vous payer ces refus,
+Et vous donner encore quelque chose de plus.
+CARLOS.
+Et Carlos, et marquis, je suis a vous, madame :			[665]
+Le changement de rang ne change point mon ame ;
+Mais vous trouverez bon que par ces trois defis
+Carlos tache a payer ce que doit le marquis.
+Vous reserver mon bras noirci d'une infamie,
+Attirerait sur vous la fortune ennemie,			[670]
+Et vous hasarderait, par cette lachete,
+Au juste chatiment qu'il aurait merite.
+Quand deux occasions pressent un grand courage,
+L'honneur a la plus proche avidement l'engage,
+Et lui fait preferer, sans le rendre inconstant,			[675]
+Celle qui se presente a celle qui l'attend.
+Ce n'est pas, toutefois, madame, qu'il l'oublie,
+Mais bien que je vous doive immoler Don Garcie,
+J'ai vu que vers la reine on perdait le respect,
+Que d'un indigne amour son coeur etait suspect ;			[680]
+Pour m'avoir honore je l'ai vue outragee,
+Et ne puis m'acquitter qu'apres l'avoir vengee.
+DONA ELVIRE.
+C'est me faire une excuse ou je ne comprends rien,
+Sinon que son service est preferable au mien,
+Qu'avant que de me suivre on doit mourir pour elle,			[685]
+Et qu'etant son sujet, il faut m'etre infidele.
+CARLOS.
+Ce n'est point en sujet que je cours au combat :
+Peut-etre suis-je ne dedans quelque autre etat ;
+Mais par un zele entier et pour l'une et pour l'autre,
+J'embrasse egalement son service et le votre,			[690]
+Et les plus grands perils n'ont rien de hasardeux
+Que j'ose refuser pour aucune des deux.
+Quoique engage demain a combattre pour elle,
+S'il fallait aujourd'hui venger votre querelle,
+Tout ce que je lui dois ne m'empecherait pas			[695]
+De m'exposer pour vous a plus de trois combats.
+Je voudrais toutes deux pouvoir vous satisfaire,
+Vous, sans manquer vers elle ; elle, sans vous deplaire :
+Cependant je ne puis servir elle ni vous
+Sans de l'une ou de l'autre allumer le courroux.			[700]
+Je plaindrais un amant qui souffrirait mes peines,
+Et tel pour deux beautes que je suis pour deux reines,
+Se verrait dechire par un egal amour,
+Tel que sont mes respects dans l'une et l'autre cour :
+L'ame d'un tel amant, tristement balancee,			[705]
+Sur d'eternels soucis voit flotter sa pensee ;
+Et ne pouvant resoudre a quels voeux se borner,
+N'ose rien acquerir, ni rien abandonner :
+Il n'aime qu'avec trouble, il ne voit qu'avec crainte ;
+Tout ce qu'il entreprend donne sujet de plainte ;			[710]
+Ses hommages partout ont de fausses couleurs,
+Et son plus grand service est un grand crime ailleurs.
+DONA ELVIRE.
+Aussi sont-ce d'amour les premieres maximes,
+Que partager son ame est le plus grand des crimes.
+Un coeur n'est a personne alors qu'il est a deux ;			[715]
+Aussitot qu'il les offre il derobe ses voeux ;
+Ce qu'il a de constance, a choisir trop timide,
+Le rend vers l'une ou l'autre incessamment perfide ;
+Et comme il n'est enfin ni rigueurs, ni mepris
+Qui d'un pareil amour ne soient un digne prix,			[720]
+Il ne peut meriter d'aucun oeil qui le charme,
+En servant, un regard ; en mourant, une larme.
+CARLOS.
+Vous seriez bien severe envers un tel amant.
+DONA ELVIRE.
+Allons voir si la reine agirait autrement,
+S'il en devrait attendre un plus leger supplice.			[725]
+Cependant Don Alvar le premier entre en lice ;
+Et vous savez l'amour qu'il m'a toujours fait voir.
+CARLOS.
+Je sais combien sur lui vous avez de pouvoir.
+DONA ELVIRE.
+Quand vous le combattrez, pensez a ce que j'aime,
+Et menagez son sang comme le votre meme.			[730]
+CARLOS.
+Quoi ? M'ordonneriez-vous qu'ici j'en fisse un roi ?
+DONA ELVIRE.
+Je vous dis seulement que vous pensiez a moi.
+
+
+			ACTE III
+
+
+SCENE PREMIERE. Dona Elvire, Don Alvar.
+DONA ELVIRE.
+Vous pouvez donc m'aimer, et d'une ame bien saine
+Entreprendre un combat pour acquerir la reine !
+Quel astre agit sur vous avec tant de rigueur,			[735]
+Qu'il force votre bras a trahir votre coeur ?
+L'honneur, me dites-vous, vers l'amour vous excuse.
+Ou cet honneur se trompe, ou cet amour s'abuse ;
+Et je ne comprends point, dans un si mauvais tour,
+Ni quel est cet honneur, ni quel est cet amour.			[740]
+Tout l'honneur d'un amant, c'est d'etre amant fidele :
+Si vous m'aimez encore, que pretendez-vous d'elle ?
+Et si vous l'acquerez, que voulez-vous de moi ?
+Aurez-vous droit alors de lui manquer de foi ?
+La mepriserez-vous quand vous l'aurez acquise ?			[745]
+DON ALVAR.
+Qu'etant ne son sujet jamais je la meprise !
+DONA ELVIRE.
+Que me voulez-vous donc ? Vaincu par Don Carlos,
+Aurez-vous quelque grace a troubler mon repos ?
+En serez-vous plus digne ? Et par cette victoire,
+Repandra-t-il sur vous un rayon de sa gloire ?			[750]
+DON ALVAR.
+Que j'ose presenter ma defaite a vos yeux !
+DONA ELVIRE.
+Que me veut donc enfin ce coeur ambitieux ?
+DON ALVAR.
+Que vous preniez pitie de l'etat deplorable
+Ou votre long refus reduit un miserable.
+Mes voeux mieux ecoutes, par un heureux effet,			[755]
+M'auraient su garantir de l'honneur qu'on m'a fait ;
+Et l'etat par son choix ne m'eut pas mis en peine
+De manquer a ma gloire, ou d'acquerir ma reine.
+Votre refus m'expose a cette dure loi
+D'entreprendre un combat qui n'est que contre moi :			[760]
+J'en crains egalement l'une et l'autre fortune.
+Et le moyen aussi que j'en souhaite aucune ?
+Ni vaincu, ni vainqueur, je ne puis etre a vous :
+Vaincu, j'en suis indigne, et vainqueur, son epoux ;
+Et le destin m'y traite avec tant d'injustice,			[765]
+Que son plus beau succes me tient lieu de supplice.
+Aussi, quand mon devoir ose la disputer,
+Je ne veux l'acquerir que pour vous meriter,
+Que pour montrer qu'en vous j'adorais la personne,
+Et me pouvais ailleurs promettre une couronne.			[770]
+Fasse le juste ciel que j'y puisse, ou mourir,
+Ou ne la meriter que pour vous acquerir !
+DONA ELVIRE.
+Ce sont voeux superflus de vouloir un miracle
+Ou votre gloire oppose un invincible obstacle ;
+Et la reine pour moi vous saura bien payer			[775]
+Du temps qu'un peu d'amour vous fit mal employer.
+Ma couronne est douteuse, et la sienne affermie ;
+L'avantage du change en ote l'infamie.
+Allez ; n'en perdez pas la digne occasion,
+Poursuivez-la sans honte et sans confusion.			[780]
+La legerete meme ou tant d'honneur engage
+Est moins legerete que grandeur de courage ;
+Mais gardez que Carlos ne me venge de vous.
+DON ALVAR.
+Ah ! Laissez-moi, madame, adorer ce courroux.
+J'avais cru jusqu'ici mon combat magnanime ;			[785]
+Mais je suis trop heureux s'il passe pour un crime,
+Et si, quand de vos lois l'honneur me fait sortir,
+Vous m'estimez assez pour vous en ressentir.
+De ce crime vers vous quels que soient les supplices,
+Du moins il m'a valu plus que tous mes services,			[790]
+Puisqu'il me fait connaitre, alors qu'il vous deplait,
+Que vous daignez en moi prendre quelque interet.
+DONA ELVIRE.
+Le crime, Don Alvar, dont je semble irritee,
+C'est qu'on me persecute apres m'avoir quittee ;
+Et pour vous dire encore quelque chose de plus,			[795]
+Je me fache d'entendre accuser mes refus.
+Je suis reine sans sceptre, et n'en ai que le titre ;
+Le pouvoir m'en est du, le temps en est l'arbitre.
+Si vous m'avez servie en genereux amant
+Quand j'ai recu du ciel le plus dur traitement,			[800]
+J'ai tache d'y repondre avec toute l'estime
+Que pouvait en attendre un coeur si magnanime.
+Pouvais-je en cet exil davantage sur moi ?
+Je ne veux point d'epoux que je n'en fasse un roi ;
+Et je n'ai pas une ame assez basse et commune			[805]
+Pour en faire un appui de ma triste fortune.
+C'est chez moi, Don Alvar, dans la pompe et l'eclat,
+Que me le doit choisir le bien de mon etat.
+Il fallait arracher mon sceptre a mon rebelle,
+Le remettre en ma main pour le recevoir d'elle :			[810]
+Je vous aurais peut-etre alors considere
+Plus que ne m'a permis un sort si deplore ;
+Mais une occasion plus prompte et plus brillante
+A surpris cependant votre amour chancelante ;
+Et soit que votre coeur s'y trouvat dispose,			[815]
+Soit qu'un si long refus l'y laissat expose,
+Je ne vous blame point de l'avoir acceptee :
+De plus constants que vous l'auraient bien ecoute.
+Quelle qu'en soit pourtant la cause ou la couleur,
+Vous pouviez l'embrasser avec moins de chaleur,			[820]
+Combattre le dernier, et par quelque apparence,
+Temoigner que l'honneur vous faisait violence :
+De cette illusion l'artifice secret
+M'eut forcee a vous plaindre et vous perdre a regret ;
+Mais courir au-devant, et vouloir bien qu'on voie			[825]
+Que vos voeux mal recus m'echappent avec joie !
+DON ALVAR.
+Vous auriez donc voulu que l'honneur d'un tel choix
+Eut montre votre amant le plus lache des trois ?
+Que pour lui cette gloire eut eu trop peu d'amorces,
+Jusqu'a ce qu'un rival eut epuise ses forces ?			[830]
+Que...
+DONA ELVIRE.
+Vous acheverez au sortir du combat,
+Si toutefois Carlos vous en laisse en etat.
+Voila vos deux rivaux avec qui je vous laisse,
+Et vous dirai demain pour qui je m'interesse.
+DON ALVAR.
+Helas ! Pour le bien voir je n'ai que trop de jour.			[835]
+SCENE II. Don Manrique, Don Lope, Don Alvar.
+DON MANRIQUE.
+Qui vous traite le mieux, la fortune ou l'amour ?
+La reine charme-t-elle aupres de Dona Elvire ?
+DON ALVAR.
+Si j'emporte la bague, il faudra vous le dire.
+DON LOPE.
+Carlos vous nuit partout, du moins a ce qu'on croit.
+DON ALVAR.
+Il fait plus d'un jaloux, du moins a ce qu'on voit.			[840]
+DON LOPE.
+Il devrait par pitie vous ceder l'une ou l'autre.
+DON ALVAR.
+Plaignant mon interet, n'oubliez pas le votre.
+DON MANRIQUE.
+De vrai, la presse est grande a qui le fera roi.
+DON ALVAR.
+Je vous plains fort tous deux, s'il vient a bout de moi.
+DON MANRIQUE.
+Mais si vous le vainquez, serons-nous fort a plaindre ?			[845]
+DON ALVAR.
+Quand je l'aurai vaincu, vous aurez fort a craindre.
+DON LOPE.
+Oui, de vous voir longtemps hors de combat pour nous.
+DON ALVAR.
+Nous aurons essuye les plus dangereux coups.
+DON MANRIQUE.
+L'heure nous tardera d'en voir l'experience.
+DON ALVAR.
+On pourra vous guerir de cette impatience.			[850]
+DON LOPE.
+De grace, faites donc que ce soit promptement.
+SCENE III. Dona Isabelle, Don Manrique, Don Lope, Don Alvar.
+DONA ISABELLE.
+Laissez-moi, Don Alvar, leur parler un moment :
+Je n'entreprendrai rien a votre prejudice ;
+Et mon dessein ne va qu'a vous faire justice,
+Qu'a vous favoriser plus que vous ne voulez.			[855]
+DON ALVAR.
+Je ne sais qu'obeir alors que vous parlez.
+SCENE IV. Dona Isabelle, Don Manrique, Don Lope.
+DONA ISABELLE.
+Comtes, je ne veux plus donner lieu qu'on murmure
+Que choisir par autrui c'est me faire une injure ;
+Et puisque de ma main le choix sera plus beau,
+Je veux choisir moi-meme, et reprendre l'anneau.			[860]
+Je ferai plus pour vous : des trois qu'on me propose,
+J'en exclus Don Alvar ; vous en savez la cause :
+Je ne veux point gener un coeur plein d'autres feux,
+Et vous ote un rival pour le rendre a ses voeux.
+Qui n'aime que par force aime qu'on le neglige ;			[865]
+Et mon refus du moins autant que vous l'oblige.
+Vous etes donc les seuls que je veux regarder ;
+Mais avant qu'a choisir j'ose me hasarder,
+Je voudrais voir en vous quelque preuve certaine
+Qu'en moi c'est moi qu'on aime, et non l'eclat de reine.			[870]
+L'amour n'est, ce dit-on, qu'une union d'esprits ;
+Et je tiendrais des deux celui-la mieux epris
+Qui favoriserait ce que je favorise,
+Et ne mepriserait que ce que je meprise,
+Qui prendrait en m'aimant meme coeur, memes yeux :			[875]
+Si vous ne m'entendez, je vais m'expliquer mieux.
+Aux vertus de Carlos j'ai paru liberale :
+Je voudrais en tous deux voir une estime egale,
+Qu'il trouvat meme honneur, meme justice en vous,
+Car ne presumez pas que je prenne un epoux			[880]
+Pour m'exposer moi-meme a ce honteux outrage
+Qu'un roi fait de ma main detruise mon ouvrage ;
+N'y pensez l'un ni l'autre, a moins qu'un digne effet
+Suive de votre part ce que pour lui j'ai fait,
+Et que par cet aveu je demeure assuree			[885]
+Que tout ce qui m'a plu doit etre de duree.
+DON MANRIQUE.
+Toujours Carlos, madame ! Et toujours son bonheur
+fait dependre de lui le notre et votre coeur !
+Mais puisque c'est par la qu'il faut enfin vous plaire,
+Vous-meme apprenez-nous ce que nous pouvons faire.			[890]
+Nous l'estimons tous deux un des braves guerriers
+A qui jamais la guerre ait donne des lauriers ;
+Notre liberte meme est due a sa vaillance ;
+Et quoiqu'il ait tantot montre quelque insolence,
+Dont nous a du piquer l'honneur de notre rang,			[895]
+Vous avez supplee l'obscurite du sang.
+Ce qu'il vous plait qu'il soit, il est digne de l'etre.
+Nous lui devons beaucoup, et l'allions reconnaitre,
+L'honorer en soldat, et lui faire du bien ;
+Mais apres vos faveurs nous ne pouvons plus rien :			[900]
+Qui pouvait pour Carlos ne peut rien pour un comte ;
+Il n'est rien en nos mains qu'il en recut sans honte ;
+Et vous avez pris soin de le payer pour nous.
+DONA ISABELLE.
+Il en est en vos mains, des presents assez doux,
+Qui purgeraient vos noms de toute ingratitude,			[905]
+Et mon ame pour lui de toute inquietude ;
+Il en est dont sans honte il serait possesseur :
+En un mot, vous avez l'un et l'autre une soeur ;
+Et je veux que le roi qu'il me plaira de faire
+En recevant ma main, le fasse son beau-frere ;			[910]
+Et que par cet hymen son destin affermi
+Ne puisse en mon epoux trouver son ennemi.
+Ce n'est pas, apres tout, que j'en craigne la haine ;
+Je sais qu'en cet etat je serai toujours reine,
+Et qu'un tel roi jamais, quel que soit son projet,			[915]
+Ne sera sous ce nom que mon premier sujet ;
+Mais je ne me plais pas a contraindre personne,
+Et moins que tous un coeur a qui le mien se donne.
+Repondez donc tous deux : n'y consentez-vous pas ?
+DON MANRIQUE.
+Oui, madame, aux plus longs et plus cruels trepas,			[920]
+Plutot qu'a voir jamais de pareils hymenees
+Ternir en un moment l'eclat de mille annees.
+Ne cherchez point par la cette union d'esprits :
+Votre sceptre, madame, est trop cher a ce prix ;
+Et jamais...
+DONA ISABELLE.
+Ainsi donc vous me faites connaitre			[925]
+Que ce que je l'ai fait il est digne de l'etre,
+Que je puis suppleer l'obscurite du sang ?
+DON MANRIQUE.
+Oui, bien pour l'elever jusques a notre rang.
+Jamais un souverain ne doit compte a personne
+Des dignites qu'il fait, et des grandeurs qu'il donne :			[930]
+S'il est d'un sort indigne ou l'auteur ou l'appui,
+Comme il le fait lui seul, la honte est toute a lui.
+Mais disposer d'un sang que j'ai recu sans tache !
+Avant que le souiller il faut qu'on me l'arrache :
+J'en dois compte aux aieux dont il est herite,			[935]
+A toute leur famille, a la posterite.
+DONA ISABELLE.
+Et moi, Manrique, et moi, qui n'en dois aucun conte,
+J'en disposerai seule, et j'en aurai la honte.
+Mais quelle extravagance a pu vous figurer
+Que je me donne a vous pour vous deshonorer,			[940]
+Que mon sceptre en vos mains porte quelque infamie ?
+Si je suis jusque-la de moi-meme ennemie,
+En quelle qualite, de sujet, ou d'amant,
+M'osez-vous expliquer ce noble sentiment ?
+Ah ! Si vous n'apprenez a parler d'autre sorte...			[945]
+DON LOPE.
+Madame, pardonnez a l'ardeur qui l'emporte ;
+Il devait s'excuser avec plus de douceur.
+Nous avons, en effet, l'un et l'autre une soeur ;
+Mais, si j'ose en parler avec quelque franchise,
+A d'autres qu'au marquis l'une et l'autre est promise.			[950]
+DONA ISABELLE.
+A qui, Don Lope ?
+DON MANRIQUE.
+A moi, madame.
+DONA ISABELLE.
+Et l'autre ?
+DON LOPE.
+A moi.
+DONA ISABELLE.
+J'ai donc tort parmi vous de vouloir faire un roi.
+Allez, heureux amants, allez voir vos maitresses ;
+Et parmi les douceurs de vos dignes caresses,
+N'oubliez pas de dire a ces jeunes esprits			[955]
+Que vous faites du trone un genereux mepris.
+Je vous l'ai deja dit, je ne force personne,
+Et rends grace a l'etat des amants qu'il me donne.
+DON LOPE.
+ecoutez-nous, de grace.
+DONA ISABELLE.
+Et que me direz-vous ?
+Que la constance est belle au jugement de tous ?			[960]
+Qu'il n'est point de grandeurs qui la doivent seduire ?
+Quelques autres que vous m'en sauront mieux instruire ;
+Et si cette vertu ne se doit point forcer,
+Peut-etre qu'a mon tour je saurai l'exercer.
+DON LOPE.
+Exercez-la, madame, et souffrez qu'on s'explique.			[965]
+Vous connaitrez du moins Don Lope et Don Manrique,
+Qu'un vertueux amour qu'ils ont tous deux pour vous,
+Ne pouvant rendre heureux sans en faire un jaloux,
+Porte a tarir ainsi la source des querelles
+Qu'entre les grands rivaux on voit si naturelles.			[970]
+Ils se sont l'un et l'autre attaches par ces noeuds
+Qui n'auront leur effet que pour le malheureux :
+Il me devra sa soeur, s'il faut qu'il vous obtienne ;
+Et si je suis a vous, je lui devrai la mienne.
+Celui qui doit vous perdre, ainsi, malgre son sort,			[975]
+A s'approcher de vous fait encore son effort ;
+Ainsi, pour consoler l'une et l'autre infortune,
+L'une et l'autre est promise, et nous n'en devons qu'une :
+Nous ignorons laquelle ; et vous la choisirez,
+Puisqu'enfin c'est la soeur du roi que vous ferez.			[980]
+Jugez donc si Carlos en peut etre beau-frere,
+Et si vous devez rompre un noeud si salutaire,
+Hasarder un repos a votre etat si doux,
+Qu'affermit sous vos lois la concorde entre nous.
+DONA ISABELLE.
+Et ne savez-vous point qu'etant ce que vous etes,			[985]
+Vos soeurs, par consequent, mes premieres sujettes,
+Les donner sans mon ordre, et meme malgre moi,
+C'est dans mon propre etat m'oser faire la loi ?
+DON MANRIQUE.
+Agissez donc enfin, madame, en souveraine,
+Et souffrez qu'on s'excuse, ou commandez en reine ;			[990]
+Nous vous obeirons, mais sans y consentir ;
+Et pour vous dire tout avant que de sortir,
+Carlos est genereux, il connait sa naissance ;
+Qu'il se juge en secret sur cette connaissance ;
+Et s'il trouve son sang digne d'un tel honneur,			[995]
+Qu'il vienne, nous tiendrons l'alliance a bonheur ;
+Qu'il choisisse des deux, et l'epouse, s'il l'ose.
+Nous n'avons plus, madame, a vous dire autre chose :
+Mettre en un tel hasard le choix de leur epoux,
+C'est jusqu'ou nous pouvons nous abaisser pour vous ;			[1000]
+Mais, encore une fois, que Carlos y regarde,
+Et pense a quels perils cet hymen le hasarde.
+DONA ISABELLE.
+Vous-meme gardez bien, pour le trop dedaigner,
+Que je ne montre enfin comme je sais regner.
+SCENE V.
+DONA ISABELLE.
+Quel est ce mouvement qui tous deux les mutine,			[1005]
+Lorsque l'obeissance au trone les destine ?
+Est-ce orgueil ? Est-ce envie ? Est-ce animosite,
+Defiance, mepris, ou generosite ?
+N'est-ce point que le ciel ne consent qu'avec peine
+Cette triste union d'un sujet a sa reine,			[1010]
+Et jette un prompt obstacle aux plus aises desseins
+Qui laissent choir mon sceptre en leurs indignes mains ?
+Mes yeux n'ont-ils horreur d'une telle bassesse
+Que pour s'abaisser trop lorsque je les abaisse ?
+Quel destin a ma gloire oppose mon ardeur ?			[1015]
+Quel destin a ma flamme oppose ma grandeur ?
+Si ce n'est que par la que je m'en puis defendre,
+Ciel, laisse-moi donner ce que je n'ose prendre ;
+Et puisqu'enfin pour moi tu n'as point fait de rois,
+Souffre de mes sujets le moins indigne choix.			[1020]
+SCENE VI. Dona Isabelle, Blanche.
+DONA ISABELLE.
+Blanche, j'ai perdu temps.
+BLANCHE.
+Je l'ai perdu de meme.
+DONA ISABELLE.
+Les comtes a ce prix fuient le diademe.
+BLANCHE.
+Et Carlos ne veut point de fortune a ce prix.
+DONA ISABELLE.
+Rend-il haine pour haine, et mepris pour mepris ?
+BLANCHE.
+Non, madame ; au contraire, il estime ces dames			[1025]
+Dignes des plus grands coeurs et des plus belles flammes.
+DONA ISABELLE.
+Et qui l'empeche donc d'aimer et de choisir ?
+BLANCHE.
+Quelque secret obstacle arrete son desir.
+Tout le bien qu'il en dit ne passe point l'estime ;
+Charmantes qu'elles sont, les aimer c'est un crime.			[1030]
+Il ne s'excuse point sur l'inegalite ;
+Il semble plutot craindre une infidelite ;
+Et ses discours obscurs, sous un confus melange,
+M'ont fait voir malgre lui comme une horreur du change,
+Comme une aversion qui n'a pour fondement			[1035]
+Que les secrets liens d'un autre attachement.
+DONA ISABELLE.
+Il aimerait ailleurs !
+BLANCHE.
+Oui, si je ne m'abuse,
+Il aime en lieu plus haut que n'est ce qu'il refuse ;
+Et si je ne craignais votre juste courroux,
+J'oserais deviner, madame, que c'est vous.			[1040]
+DONA ISABELLE.
+Ah ! Ce n'est pas pour moi qu'il est si temeraire ;
+Tantot dans ses respects j'ai trop vu le contraire :
+Si l'eclat de mon sceptre avait pu le charmer,
+Il ne m'aurait jamais defendu de l'aimer.
+S'il aime en lieu si haut, il aime Dona Elvire ;			[1045]
+Il doit l'accompagner jusque dans son empire,
+Et fait a mes amants ces defis genereux,
+Non pas pour m'acquerir, mais pour se venger d'eux.
+Je l'ai donc agrandi pour le voir disparaitre,
+Et qu'une reine, ingrate a l'egal de ce traitre,			[1050]
+M'enleve, apres vingt ans de refuge en ces lieux,
+Ce qu'avait mon etat de plus doux a mes yeux !
+Non, j'ai pris trop de soin de conserver sa vie.
+Qu'il combatte, qu'il meure, et j'en serai ravie.
+Je saurai par sa mort a quels voeux m'engager,			[1055]
+Et j'aimerai des trois qui m'en saura venger.
+BLANCHE.
+Que vous peut offenser sa flamme ou sa retraite,
+Puisque vous n'aspirez qu'a vous en voir defaite ?
+Je ne sais pas s'il aime ou Dona Elvire ou vous,
+Mais je ne comprends point ce mouvement jaloux.			[1060]
+DONA ISABELLE.
+Tu ne le comprends point ! Et c'est ce qui m'etonne :
+Je veux donner son coeur, non que son coeur le donne ;
+Je veux que son respect l'empeche de m'aimer,
+Non des flammes qu'une autre a su mieux allumer ;
+Je veux bien plus : qu'il m'aime, et qu'un juste silence			[1065]
+fasse a des feux pareils pareille violence ;
+Que l'inegalite lui donne meme ennui ;
+Qu'il souffre autant pour moi que je souffre pour lui ;
+Que par le seul dessein d'affermir sa fortune,
+Et non point par amour, il se donne a quelqu'une ;			[1070]
+Que par mon ordre seul il s'y laisse obliger ;
+Que ce soit m'obeir, et non me negliger ;
+Et que voyant ma flamme a l'honorer trop prompte,
+Il m'ote de peril sans me faire de honte.
+Car enfin il l'a vue, et la connait trop bien ;			[1075]
+Mais il aspire au trone, et ce n'est pas au mien ;
+Il me prefere une autre, et cette preference
+forme de son respect la trompeuse apparence :
+faux respect qui me brave, et veut regner sans moi !
+BLANCHE.
+Pour aimer Dona Elvire, il n'est pas encore roi.			[1080]
+DONA ISABELLE.
+Elle est reine, et peut tout sur l'esprit de sa mere.
+BLANCHE.
+Si ce n'est un faux bruit, le ciel lui rend un frere.
+Don Sanche n'est point mort, et vient ici, dit-on,
+Avec les deputes qu'on attend d'Aragon :
+C'est ce qu'en arrivant leurs gens ont fait entendre.			[1085]
+DONA ISABELLE.
+Blanche, s'il est ainsi, que d'heur j'en dois attendre !
+L'injustice du ciel, faute d'autres objets,
+Me forcait d'abaisser mes yeux sur mes sujets,
+Ne voyant point de prince egal a ma naissance,
+Qui ne fut sous l'hymen, ou More, ou dans l'enfance ;			[1090]
+Mais s'il lui rend un frere, il m'envoie un epoux.
+Comtes, je n'ai plus d'yeux pour Carlos ni pour vous ;
+Et devenant par la reine de ma rivale,
+J'aurai droit d'empecher qu'elle ne se ravale,
+Et ne souffrirai pas qu'elle ait plus de bonheur			[1095]
+Que ne m'en ont permis ces tristes lois d'honneur.
+BLANCHE.
+La belle occasion que votre jalousie,
+Douteuse encore qu'elle est, a promptement saisie !
+DONA ISABELLE.
+Allons l'examiner, Blanche, et tachons de voir
+Quelle juste esperance on peut en concevoir.			[1100]
+
+
+			ACTE IV
+
+
+SCENE PREMIERE. Dona Leonor, Don Manrique, Don Lope.
+DON MANRIQUE.
+Quoique l'espoir d'un trone et l'amour d'une reine
+Soient des biens que jamais on ne ceda sans peine,
+Quoiqu'a l'un de nous deux elle ait promis sa foi,
+Nous cessons de pretendre ou nous voyons un roi.
+Dans notre ambition nous savons nous connaitre ;			[1105]
+Et benissant le ciel qui nous donne un tel maitre,
+Ce prince qu'il vous rend apres tant de travaux
+Trouve en nous des sujets et non pas des rivaux :
+Heureux si l'Aragon, joint avec la Castille,
+Du sang de deux grands rois ne fait qu'une famille !			[1110]
+Nous vous en conjurons, loin d'en etre jaloux,
+Comme etant l'un et l'autre a l'etat plus qu'a nous ;
+Et tous impatients d'en voir la force unie
+Des Mores, nos voisins, dompter la tyrannie,
+Nous renoncons sans honte a ce choix glorieux,			[1115]
+Qui d'une grande reine abaissait trop les yeux.
+DONA LEONOR.
+La generosite de votre deference,
+Comtes, flatte trop tot ma nouvelle esperance :
+D'un avis si douteux j'attends fort peu de fruit ;
+Et ce grand bruit enfin peut-etre n'est qu'un bruit.			[1120]
+Mais jugez-en tous deux, et me daignez apprendre
+Ce qu'avec raison mon coeur en doit attendre.
+Les troubles d'Aragon vous sont assez connus ;
+Je vous en ai souvent tous deux entretenus,
+Et ne vous redis point quelles longues miseres			[1125]
+Chasserent Don Fernand du trone de ses peres.
+Il y voyait deja monter ses ennemis,
+Ce prince malheureux, quand j'accouchai d'un fils :
+On le nomma Don Sanche ; et pour cacher sa vie
+Aux barbares fureurs du traitre Don Garcie,			[1130]
+A peine eus-je loisir de lui dire un adieu,
+Qu'il le fit enlever sans me dire en quel lieu ;
+Et je n'en pus jamais savoir que quelques marques,
+Pour reconnaitre un jour le sang de nos monarques.
+Trop inutiles soins contre un si mauvais sort !			[1135]
+Lui-meme au bout d'un an m'apprit qu'il etait mort.
+Quatre ans apres il meurt et me laisse une fille
+Dont je vins par son ordre accoucher en Castille.
+Il me souvient toujours de ses derniers propos ;
+Il mourut en mes bras avec ces tristes mots :			[1140]
+"Je meurs, et je vous laisse en un sort deplorable :
+Le ciel vous puisse un jour etre plus favorable !
+Don Raymond a pour vous des secrets importants,
+Et vous les apprendra quand il en sera temps :
+fuyez dans la Castille." A ces mots il expire,			[1145]
+Et jamais Don Raymond ne me voulut rien dire.
+Je partis sans lumiere en ces obscurites :
+Mais le voyant venir avec ces deputes,
+Et que c'est par leurs gens que ce grand bruit eclate
+(voyez qu'en sa faveur aisement on se flatte ! ),			[1150]
+J'ai cru que du secret le temps etait venu,
+Et que Don Sanche etait ce mystere inconnu ;
+Qu'il l'amenait ici reconnaitre sa mere.
+Helas ! Que c'est en vain que mon amour l'espere !
+A ma confusion ce bruit s'est eclairci ;			[1155]
+Bien loin de l'amener, ils le cherchent ici :
+Voyez quelle apparence, et si cette province
+A jamais su le nom de ce malheureux prince.
+DON LOPE.
+Si vous croyez au nom, vous croirez son trepas,
+Et qu'on cherche Don Sanche ou Don Sanche n'est pas ;			[1160]
+Mais si vous en voulez croire la voix publique,
+Et que notre pensee avec elle s'explique,
+Ou le ciel pour jamais a repris ce heros,
+Ou cet illustre prince est le vaillant Carlos.
+Nous le dirons tous deux, quoique suspects d'envie,			[1165]
+C'est un miracle pur que le cours de sa vie.
+Cette haute vertu qui charme tant d'esprits,
+Cette fiere valeur qui brave nos mepris,
+Ce port majestueux, qui tout inconnu meme,
+A plus d'acces que nous aupres du diademe ;			[1170]
+Deux reines qu'a l'envi nous voyons l'estimer,
+Et qui peut-etre ont peine a ne le pas aimer ;
+Ce prompt consentement d'un peuple qui l'adore :
+Madame, apres cela j'ose le dire encore,
+Ou le ciel pour jamais a repris ce heros,			[1175]
+Ou cet illustre prince est le vaillant Carlos.
+Nous avons meprise sa naissance inconnue ;
+Mais a ce peu de jour nous recouvrons la vue,
+Et verrions a regret qu'il fallut aujourd'hui
+Ceder notre esperance a tout autre qu'a lui.			[1180]
+DONA LEONOR.
+Il en a le merite et non pas la naissance ;
+Et lui-meme il en donne assez de connaissance,
+Abandonnant la reine a choisir parmi vous
+Un roi pour la Castille, et pour elle un epoux.
+DON MANRIQUE.
+Et ne voyez-vous pas que sa valeur s'apprete			[1185]
+A faire sur tous trois cette illustre conquete ?
+Oubliez-vous deja qu'il a dit a vos yeux
+Qu'il ne veut rien devoir au nom de ses aieux ?
+Son grand coeur se derobe a ce haut avantage,
+Pour devoir sa grandeur entiere a son courage ;			[1190]
+Dans une cour si belle et si pleine d'appas,
+Avez-vous remarque qu'il aime en lieu plus bas ?
+DONA LEONOR.
+Le voici : nous saurons ce que lui-meme en pense.
+SCENE II. Dona Leonor, Carlos, Don Manrique, Don Lope.
+CARLOS.
+Madame, sauvez-moi d'un honneur qui m'offense :
+Un peuple opiniatre a m'arracher mon nom			[1195]
+Veut que je sois Don Sanche, et prince d'Aragon.
+Puisque par sa presence il faut que ce bruit meure,
+Dois-je etre, en l'attendant, le fantome d'une heure ?
+Ou si c'est une erreur qui lui promet ce roi,
+Souffrez-vous qu'elle abuse et de vous et de moi ?			[1200]
+DONA LEONOR.
+Quoi que vous presumiez de la voix populaire,
+Par de secrets rayons le ciel souvent l'eclaire :
+Vous apprendrez par la du moins les voeux de tous,
+Et quelle opinion les peuples ont de vous.
+DON LOPE.
+Prince, ne cachez plus ce que le ciel decouvre ;			[1205]
+Ne fermez pas nos yeux quand sa main nous les ouvre.
+Vous devez etre las de nous faire faillir.
+Nous ignorons quel fruit vous en vouliez cueillir,
+Mais nous avions pour vous une estime assez haute
+Pour n'etre pas forces a commettre une faute ;			[1210]
+Et notre honneur, au votre en aveugle oppose,
+Meritait par pitie d'etre desabuse.
+Notre orgueil n'est pas tel qu'il s'attache aux personnes,
+Ou qu'il ose oublier ce qu'il doit aux couronnes ;
+Et s'il n'a pas eu d'yeux pour un roi deguise,			[1215]
+Si l'inconnu Carlos s'en est vu meprise,
+Nous respectons Don Sanche, et l'acceptons pour maitre,
+Sitot qu'a notre reine il se fera connaitre ;
+Et sans doute son coeur nous en avouera bien.
+Hatez cette union de votre sceptre au sien,			[1220]
+Seigneur, et d'un soldat quittant la fausse image,
+Recevez, comme roi, notre premier hommage.
+CARLOS.
+Comtes, ces faux respects dont je me vois surpris
+Sont plus injurieux encore que vos mepris.
+Je pense avoir rendu mon nom assez illustre			[1225]
+Pour n'avoir pas besoin qu'on lui donne un faux lustre.
+Reprenez vos honneurs ou je n'ai point de part.
+J'imputais ce faux bruit aux fureurs du hasard,
+Et doutais qu'il put etre une ame assez hardie
+Pour eriger Carlos en roi de comedie ;			[1230]
+Mais puisque c'est un jeu de votre belle humeur,
+Sachez que les vaillants honorent la valeur,
+Et que tous vos pareils auraient quelque scrupule
+A faire de la mienne un eclat ridicule.
+Si c'est votre dessein d'en rejouir ces lieux,			[1235]
+Quand vous m'aurez vaincu vous me raillerez mieux :
+La raillerie est belle apres une victoire ;
+On la fait avec grace aussi bien qu'avec gloire.
+Mais vous precipitez un peu trop ce dessein :
+La bague de la reine est encore en ma main ;			[1240]
+Et l'inconnu Carlos, sans nommer sa famille,
+Vous sert encore d'obstacle au trone de Castille.
+Ce bras, qui vous sauva de la captivite,
+Peut s'opposer encore a votre avidite.
+DON MANRIQUE.
+Pour n'etre que Carlos, vous parlez bien en maitre,			[1245]
+Et tranchez bien du prince en deniant de l'etre.
+Si nous avons tantot jusqu'au bout defendu
+L'honneur qu'a notre rang nous voyions etre du,
+Nous saurons bien encore jusqu'au bout le defendre ;
+Mais ce que nous devons, nous aimons a le rendre.			[1250]
+Que vous soyez Don Sanche, ou qu'un autre le soit,
+L'un et l'autre de nous lui rendra ce qu'il doit.
+Pour le nouveau marquis, quoique l'honneur l'irrite,
+Qu'il sache qu'on l'honore autant qu'il le merite ;
+Mais que, pour nous combattre, il faut que le bon sang			[1255]
+Aide un peu sa valeur a soutenir ce rang.
+Qu'il n'y pretende point, a moins qu'il se declare ;
+Non que nous demandions qu'il soit Guzman ou Lare :
+Qu'il soit noble, il suffit pour nous traiter d'egal ;
+Nous le verrons tous deux comme un digne rival ;			[1260]
+Et si Don Sanche enfin n'est qu'une attente vaine,
+Nous lui disputerons cet anneau de la reine.
+Qu'il souffre cependant, quoique brave guerrier,
+Que notre bras dedaigne un simple aventurier.
+Nous vous laissons, madame, eclaircir ce mystere.			[1265]
+Le sang a des secrets qu'entend mieux une mere ;
+Et dans les differends qu'avec lui nous avons,
+Nous craignons d'oublier ce que nous vous devons.
+SCENE III. Dona Leonor, Carlos.
+CARLOS.
+Madame, vous voyez comme l'orgueil me traite :
+Pour me faire un honneur, on veut que je l'achete ;			[1270]
+Mais s'il faut qu'il m'en coute un secret de vingt ans,
+Cet anneau dans mes mains pourra briller longtemps.
+DONA LEONOR.
+Laissons la ce combat, et parlons de Don Sanche.
+Ce bruit est grand pour vous, toute la cour y penche :
+De grace, dites-moi, vous connaissez-vous bien ?			[1275]
+CARLOS.
+Plut a Dieu qu'en mon sort je ne connusse rien !
+Si j'etais quelque enfant epargne des tempetes,
+Livre dans un desert a la merci des betes,
+Expose par la crainte ou par l'inimitie,
+Rencontre par hasard et nourri par pitie,			[1280]
+Mon orgueil a ce bruit prendrait quelque esperance
+Sur votre incertitude et sur mon ignorance ;
+Je me figurerais ces destins merveilleux,
+Qui tiraient du neant les heros fabuleux,
+Et me revetirais des brillantes chimeres			[1285]
+Qu'osa former pour eux le loisir de nos peres ;
+Car enfin je suis vain, et mon ambition
+Ne peut s'examiner sans indignation ;
+Je ne puis regarder sceptre ni diademe,
+Qu'ils n'emportent mon ame au dela d'elle-meme :			[1290]
+Inutiles elans d'un vol impetueux
+Que pousse vers le ciel un coeur presomptueux,
+Que soutiennent en l'air quelques exploits de guerre,
+Et qu'un coup d'oeil sur moi rabat soudain a terre !
+Je ne suis point Don Sanche, et connais mes parents ;			[1295]
+Ce bruit me donne en vain un nom que je vous rends ;
+gardez-le pour ce prince : une heure ou deux peut-etre
+Avec vos deputes vous le feront connaitre.
+Laissez-moi cependant a cette obscurite
+Qui ne fait que justice a ma temerite.			[1300]
+DONA LEONOR.
+En vain donc je me flatte, et ce que j'aime a croire
+N'est qu'une illusion que me fait votre gloire ?
+Mon coeur vous en dedit : un secret mouvement,
+Qui le penche vers vous, malgre moi vous dement ;
+Mais je ne puis juger quelle source l'anime,			[1305]
+Si c'est l'ardeur du sang, ou l'effort de l'estime ;
+Si la nature agit, ou si c'est le desir ;
+Si c'est vous reconnaitre, ou si c'est vous choisir.
+Je veux bien toutefois etouffer ce murmure
+Comme de vos vertus une aimable imposture,			[1310]
+Condamner, pour vous plaire, un bruit qui m'est si doux ;
+Mais ou sera mon fils s'il ne vit point en vous ?
+On veut qu'il soit ici ; je n'en vois aucun signe :
+On connait, hormis vous, quiconque en serait digne ;
+Et le vrai sang des rois, sous le sort abattu,			[1315]
+Peut cacher sa naissance et non pas sa vertu :
+Il porte sur le front un luisant caractere
+Qui parle malgre lui de tout ce qu'il veut taire ;
+Et celui que le ciel sur le votre avait mis
+Pouvait seul m'eblouir, si vous l'eussiez permis.			[1320]
+Vous ne l'etes donc point, puisque vous me le dites ;
+Mais vous etes a craindre avec tant de merites.
+Souffrez que j'en demeure a cette obscurite.
+Je ne condamne point votre temerite ;
+Mon estime, au contraire, est pour vous si puissante,			[1325]
+Qu'il ne tiendra qu'a vous que mon coeur n'y consente :
+Votre sang avec moi n'a qu'a se declarer,
+Et je vous donne apres liberte d'esperer.
+Que si meme a ce prix vous cachez votre race,
+Ne me refusez point du moins une autre grace :			[1330]
+Ne vous preparez plus a nous accompagner ;
+Nous n'avons plus besoin de secours pour regner.
+La mort de Don Garcie a puni tous ses crimes,
+Et rendu l'Aragon a ses rois legitimes ;
+N'en cherchez plus la gloire, et quels que soient vos voeux,			[1335]
+Ne me contraignez point a plus que je ne veux.
+Le prix de la valeur doit avoir ses limites ;
+Et je vous crains enfin avec tant de merites.
+C'est assez vous en dire. Adieu : pensez-y bien,
+Et faites-vous connaitre, ou n'aspirez a rien.			[1340]
+SCENE IV. Carlos, Blanche.
+BLANCHE.
+Qui ne vous craindra point, si les reines vous craignent ?
+CARLOS.
+Elles se font raison lorsqu'elles me dedaignent.
+BLANCHE.
+Dedaigner un heros qu'on reconnait pour roi !
+CARLOS.
+N'aide point a l'envie a se jouer de moi,
+Blanche, et si tu te plais a seconder sa haine,			[1345]
+Du moins respecte en moi l'ouvrage de ta reine.
+BLANCHE.
+La reine meme en vous ne voit plus aujourd'hui
+Qu'un prince que le ciel nous montre malgre lui ;
+Mais c'est trop la tenir dedans l'incertitude ;
+Ce silence vers elle est une ingratitude :			[1350]
+Ce qu'a fait pour Carlos sa generosite
+Meritait de Don Sanche une civilite.
+CARLOS.
+Ah ! Nom fatal pour moi, que tu me persecutes,
+Et prepares mon ame a d'effroyables chutes !
+SCENE V. Donna Isabelle, Carlos, Blanche.
+CARLOS.
+Madame, commandez qu'on me laisse en repos,			[1355]
+Qu'on ne confonde plus Don Sanche avec Carlos ;
+C'est faire au nom d'un prince une trop longue injure :
+Je ne veux que celui de votre creature ;
+Et si le sort jaloux, qui semble me flatter,
+Veut m'elever plus haut pour m'en precipiter,			[1360]
+Souffrez qu'en m'eloignant je derobe ma tete
+A l'indigne revers que sa fureur m'apprete.
+Je le vois de trop loin pour l'attendre en ce lieu ;
+Souffrez que je l'evite en vous disant adieu ;
+Souffrez...
+DONA ISABELLE.
+Quoi ? Ce grand coeur redoute une couronne !			[1365]
+Quand on le croit monarque, il fremit, il s'etonne !
+Il veut fuir cette gloire, et se laisse alarmer
+De ce que sa vertu force d'en presumer !
+CARLOS.
+Ah ! Vous ne voyez pas que cette erreur commune
+N'est qu'une trahison de ma bonne fortune ;			[1370]
+Que deja mes secrets sont a demi trahis.
+Je lui cachais en vain ma race et mon pays ;
+En vain sous un faux nom je me faisais connaitre,
+Pour lui faire oublier ce qu'elle m'a fait naitre ;
+Elle a deja trouve mon pays et mon nom.			[1375]
+Je suis Sanche, madame, et ne dans l'Aragon ;
+Et je crois deja voir sa malice funeste
+Detruire votre ouvrage en decouvrant le reste,
+Et faire voir ici, par un honteux effet,
+Quel comte et quel marquis votre faveur a fait.			[1380]
+DONA ISABELLE.
+Pourrais-je alors manquer de force ou de courage
+Pour empecher le sort d'abattre mon ouvrage ?
+Ne me derobez point ce qu'il ne peut ternir ;
+Et la main qui l'a fait saura le soutenir.
+Mais vous vous en formez une vaine menace			[1385]
+Pour faire un beau pretexte a l'amour qui vous chasse.
+Je ne demande plus d'ou partait ce dedain,
+Quand j'ai voulu vous faire un hymen de ma main.
+Allez dans l'Aragon suivre votre princesse,
+Mais allez-y du moins sans feindre une faiblesse ;			[1390]
+Et puisque ce grand coeur s'attache a ses appas,
+Montrez, en la suivant, que vous ne fuyez pas.
+CARLOS.
+Ah ! Madame, plutot apprenez tous mes crimes ;
+Ma tete est a vos pieds, s'il vous faut des victimes.
+Tout chetif que je suis, je dois vous avouer			[1395]
+Qu'en me plaignant du sort j'ai de quoi m'en louer :
+S'il m'a fait en naissant quelque desavantage,
+Il m'a donne d'un roi le nom et le courage ;
+Et depuis que mon coeur est capable d'aimer,
+A moins que d'une reine, il n'a pu s'enflammer :			[1400]
+Voila mon premier crime, et je ne puis vous dire
+Qui m'a fait infidele, ou vous, ou Dona Elvire ;
+Mais je sais que ce coeur, des deux parts engage,
+Se donnant a vous deux, ne s'est point partage,
+Toujours pret d'embrasser son service et le votre,			[1405]
+Toujours pret a mourir et pour l'une et pour l'autre.
+Pour n'en adorer qu'une, il eut fallu choisir ;
+Et ce choix eut ete du moins quelque desir,
+Quelque espoir outrageux d'etre mieux recu d'elle,
+Et j'ai cru moins de crime a paraitre infidele.			[1410]
+Qui n'a rien a pretendre en peut bien aimer deux,
+Et perdre en plus d'un lieu des soupirs et des voeux :
+Voila mon second crime ; et quoique ma souffrance
+Jamais a ce beau feu n'ait permis d'esperance,
+Je ne puis, sans mourir d'un desespoir jaloux,			[1415]
+Voir dans les bras d'un autre, ou Dona Elvire, ou vous.
+Voyant que votre choix m'appretait ce martyre,
+Je voulais m'y soustraire en suivant Dona Elvire,
+Et languir aupres d'elle, attendant que le sort
+Par un semblable hymen m'eut envoye la mort.			[1420]
+Depuis, l'occasion que vous-meme avez faite,
+M'a fait quitter le soin d'une telle retraite.
+Ce trouble a quelque temps amuse ma douleur ;
+J'ai cru par ces combats reculer mon malheur.
+Le coup de votre perte est devenu moins rude,			[1425]
+Lorsque j'en ai vu l'heure en quelque incertitude,
+Et que j'ai pu me faire une si douce loi
+Que ma mort vous donnat un plus vaillant que moi.
+Mais je n'ai plus, madame, aucun combat a faire.
+Je vois pour vous Don Sanche un epoux necessaire ;			[1430]
+Car ce n'est point l'amour qui fait l'hymen des rois :
+Les raisons de l'etat reglent toujours leur choix ;
+Leur severe grandeur jamais ne se ravale,
+Ayant devant les yeux un prince qui l'egale ;
+Et puisque le saint noeud qui le fait votre epoux			[1435]
+Arrete comme soeur Dona Elvire avec vous,
+Que je ne puis la voir sans voir ce qui me tue,
+Permettez que j'evite une fatale vue,
+Et que je porte ailleurs les criminels soupirs
+D'un reste malheureux de tant de deplaisirs.			[1440]
+DONA ISABELLE.
+Vous m'en dites assez pour meriter ma haine,
+Si je laissais agir les sentiments de reine ;
+Par un trouble secret je les sens confondus ;
+Partez, je le consens, et ne les troublez plus.
+Mais non : pour fuir Don Sanche, attendez qu'on le voie ;			[1445]
+Ce bruit peut etre faux, et me rendre ma joie.
+Que dis-je ? Allez, marquis, j'y consens de nouveau ;
+Mais avant que partir donnez-lui mon anneau ;
+Si ce n'est toutefois une faveur trop grande
+Que pour tant de faveurs une reine demande.			[1450]
+CARLOS.
+Vous voulez que je meure, et je dois obeir,
+Dut cette obeissance a mon sort me trahir :
+Je recevrai pour grace un si juste supplice,
+S'il en rompt la menace et previent la malice,
+Et souffre que Carlos, en donnant cet anneau,			[1455]
+Emporte ce faux nom et sa gloire au tombeau.
+C'est l'unique bonheur ou ce coupable aspire.
+DONA ISABELLE.
+Que n'etes-vous Don Sanche ! Ah ciel ! Qu'osai-je dire ?
+Adieu : ne croyez pas ce soupir indiscret.
+CARLOS.
+Il m'en a dit assez pour mourir sans regret.			[1460]
+
+
+			ACTE V
+
+
+SCENE PREMIERE. Don Alvar, Dona Elvire.
+DON ALVAR.
+Enfin, apres un sort a mes voeux si contraire,
+Je dois benir le ciel qui vous renvoie un frere ;
+Puisque de notre reine il doit etre l'epoux,
+Cette heureuse union me laisse tout a vous.
+Je me vois affranchi d'un honneur tyrannique,			[1465]
+D'un joug que m'imposait cette faveur publique,
+D'un choix qui me forcait a vouloir etre roi :
+Je n'ai plus de combat a faire contre moi,
+Plus a craindre le prix d'une triste victoire ;
+Et l'infidelite que vous faisait ma gloire			[1470]
+Consent que mon amour, de ses lois degage,
+Vous rende un inconstant qui n'a jamais change.
+DONA ELVIRE.
+Vous etes genereux, mais votre impatience
+Sur un bruit incertain prend trop de confiance ;
+Et cette prompte ardeur de rentrer dans mes fers			[1475]
+Me console trop tot d'un trone que je perds.
+Ma perte n'est encore qu'une rumeur confuse
+Qui du nom de Carlos, malgre Carlos, abuse ;
+Et vous ne savez pas, a vous en bien parler,
+Par quelle offre et quels voeux on m'en peut consoler.			[1480]
+Plus que vous ne pensez la couronne m'est chere ;
+Je perds plus qu'on ne croit, si Carlos est mon frere.
+Attendez les effets que produiront ces bruits ;
+Attendez que je sache au vrai ce que je suis,
+Si le ciel m'ote ou laisse enfin le diademe,			[1485]
+S'il vous faut m'obtenir d'un frere ou de moi-meme,
+Si par l'ordre d'autrui je vous dois ecouter,
+Ou si j'ai seulement mon coeur a consulter.
+DON ALVAR.
+Ah ! Ce n'est qu'a ce coeur que le mien vous demande,
+Madame, c'est lui seul que je veux qui m'entende ;			[1490]
+Et mon propre bonheur m'accablerait d'ennui,
+Si je n'etais a vous que par l'ordre d'autrui.
+Pourrais-je de ce frere implorer la puissance,
+Pour ne vous obtenir que par obeissance,
+Et par un lache abus de son autorite,			[1495]
+M'elever en tyran sur votre volonte ?
+DONA ELVIRE.
+Avec peu de raison vous craignez qu'il arrive
+Qu'il ait des sentiments que mon ame ne suive :
+Le digne sang des rois n'a point d'yeux que leurs yeux,
+Et leurs premiers sujets obeissent le mieux.			[1500]
+Mais vous etes etrange avec vos deferences,
+Dont les submissions cherchent des assurances.
+Vous ne craignez d'agir contre ce que je veux,
+Que pour tirer de moi que j'accepte vos voeux,
+Et vous obstineriez dans ce respect extreme			[1505]
+Jusques a me forcer a dire : " je vous aime. "
+Ce mot est un peu rude a prononcer pour nous ;
+Souffrez qu'a m'expliquer j'en trouve de plus doux.
+Je vous dirai beaucoup, sans pourtant vous rien dire.
+Je sais depuis quel temps vous aimez Dona Elvire ;			[1510]
+Je sais ce que je dois, je sais ce que je puis ;
+Mais, encore une fois, sachons ce que je suis ;
+Et si vous n'aspirez qu'au bonheur de me plaire,
+Tachez d'approfondir ce dangereux mystere.
+Carlos a tant de lieu de vous considerer,			[1515]
+Que s'il devient mon roi, vous devez esperer.
+DON ALVAR.
+Madame...
+DONA ELVIRE.
+En ma faveur donnez-vous cette peine,
+Et me laissez, de grace, entretenir la reine.
+DON ALVAR.
+J'obeis avec joie, et ferai mon pouvoir
+A vous dire bientot ce qui s'en peut savoir.			[1520]
+SCENE II. Dona Leonor, Dona Elvire.
+DONA LEONOR.
+Don Alvar me fuit-il ?
+DONA ELVIRE.
+Madame, a ma priere,
+Il va dans tous ces bruits chercher quelque lumiere.
+J'ai craint, en vous voyant, un secours pour ses feux,
+Et de defendre mal mon coeur contre vous deux.
+DONA LEONOR.
+Ne pourra-t-il jamais gagner votre courage ?			[1525]
+DONA ELVIRE.
+Il peut tout obtenir, ayant votre suffrage.
+DONA LEONOR.
+Je lui puis donc enfin promettre votre foi ?
+DONA ELVIRE.
+Oui, si vous lui gagnez celui du nouveau roi.
+DONA LEONOR.
+Et si ce bruit est faux ? Si vous demeurez reine ?
+DONA ELVIRE.
+Que vous puis-je repondre, en etant incertaine ?			[1530]
+DONA LEONOR.
+En cette incertitude on peut faire esperer.
+DONA ELVIRE.
+On peut attendre aussi pour en deliberer :
+On agit autrement quand le pouvoir supreme...
+SCENE III. Dona Isabelle, Dona Leonor, Dona Elvire.
+DONA ISABELLE.
+J'interromps vos secrets, mais j'y prends part moi-meme ;
+Et j'ai tant d'interet de connaitre ce fils,			[1535]
+Que j'ose demander ce qui s'en est appris.
+DONA LEONOR.
+Vous ne m'en voyez point davantage eclaircie.
+DONA ISABELLE.
+Mais de qui tenez-vous la mort de Don Garcie,
+Vu que depuis un mois qu'il vient des deputes,
+On parlait seulement de peuples revoltes ?			[1540]
+DONA LEONOR.
+Je vous puis sur ce point aisement satisfaire :
+Leurs gens m'en ont donne la raison assez claire.
+On assiegeait encore, alors qu'ils sont partis,
+Dedans leur dernier fort Don Garcie et son fils.
+On l'a pris tot apres ; et soudain par sa prise			[1545]
+Don Raymond prisonnier recouvrant sa franchise,
+Les voyant tous deux morts, publie a haute voix
+Que nous avions un roi du vrai sang de nos rois,
+Que Don Sanche vivait, et part en diligence
+Pour rendre a l'Aragon le bien de sa presence.			[1550]
+Il joint nos deputes hier sur la fin du jour,
+Et leur dit que ce prince etait en votre cour.
+C'est tout ce que j'ai pu tirer d'un domestique :
+Outre qu'avec ces gens rarement on s'explique,
+Comme ils entendent mal, leur rapport est confus ;			[1555]
+Mais bientot Don Raymond vous dira le surplus.
+Que nous veut cependant Blanche toute etonnee ?
+SCENE IV. Dona Isabelle, Dona Leonor, Dona Elvire, Blanche.
+BLANCHE.
+Ah ! Madame !
+DONA ISABELLE.
+Qu'as-tu ?
+BLANCHE.
+La funeste journee !
+Votre Carlos...
+DONA ISABELLE.
+Eh bien ?
+BLANCHE.
+Son pere est en ces lieux,
+Et n'est...
+DONA ISABELLE.
+Quoi ?			[1560]
+BLANCHE.
+Qu'un pecheur.			[1560]
+DONA ISABELLE.
+Qui te l'a dit ?			[1560]
+BLANCHE.
+Mes yeux.			[1560]
+DONA ISABELLE.
+Tes yeux ?			[1560]
+BLANCHE.
+Mes propres yeux.
+DONA ISABELLE.
+Que j'ai peine a les croire !
+DONA LEONOR.
+Voudriez-vous, madame, en apprendre l'histoire ?
+DONA ELVIRE.
+Que le ciel est injuste !
+DONA ISABELLE.
+Il l'est, et nous fait voir
+Par cet injuste effet son absolu pouvoir,
+Qui du sang le plus vil tire une ame si belle,			[1565]
+Et forme une vertu qui n'a lustre que d'elle.
+Parle, Blanche, et dis-nous comme il voit ce malheur.
+BLANCHE.
+Avec beaucoup de honte, et plus encore de coeur.
+Du haut de l'escalier je le voyais descendre ;
+En vain de ce faux bruit il se voulait defendre ;			[1570]
+Votre cour, obstinee a lui changer de nom,
+Murmurait tout autour : « Dom Sanche d'Aragon ! »
+Quand un chetif vieillard le saisit et l'embrasse.
+Lui qui le reconnait fremit de sa disgrace ;
+Puis laissant la nature a ses pleins mouvements,			[1575]
+Repond avec tendresse a ses embrassements.
+Ses pleurs melent aux siens une fierte sincere ;
+On n'entend que soupirs : « Ah ! Mon fils ! - Ah ! Mon pere !
+- Oh ! Jour trois fois heureux ! Moment trop attendu !
+Tu m'as rendu la vie ! » et : « Vous m'avez perdu ! »			[1580]
+Chose etrange ! A ces cris de douleur et de joie,
+Un grand peuple accouru ne veut pas qu'on les croie ;
+Il s'aveugle soi-meme ; et ce pauvre pecheur,
+En depit de Carlos, passe pour imposteur.
+Dans les bras de ce fils on lui fait mille hontes :			[1585]
+C'est un fourbe, un mechant suborne par les comtes.
+Eux-memes (admirez leur generosite)
+S'efforcent d'affermir cette incredulite ;
+Non qu'ils prennent sur eux de si laches pratiques ;
+Mais ils en font auteur un de leurs domestiques,			[1590]
+Qui pensant bien leur plaire, a si mal a propos
+Instruit ce malheureux pour affronter Carlos.
+Avec avidite cette histoire est recue :
+Chacun la tient trop vraie aussitot qu'elle est sue ;
+Et pour plus de croyance a cette trahison,			[1595]
+Les comtes font trainer ce bonhomme en prison.
+Carlos rend temoignage en vain contre soi-meme ;
+Les verites qu'il dit cedent au stratageme,
+Et dans le deshonneur qui l'accable aujourd'hui,
+Ses plus grands envieux l'en sauvent malgre lui.			[1600]
+Il tempete, il menace, et bouillant de colere,
+Il crie a pleine voix qu'on lui rende son pere :
+On tremble devant lui sans croire son courroux ;
+Et rien... Mais le voici qui vient s'en plaindre a vous.
+SCENE V. Dona Isabelle, Dona Leonor, Dona Elvire, Blanche, Carlos, Don Manrique, Don Lope.
+CARLOS.
+Eh bien ! Madame, enfin on connait ma naissance :			[1605]
+Voila le digne fruit de mon obeissance.
+J'ai prevu ce malheur, et l'aurais evite,
+Si vos commandements ne m'eussent arrete.
+Ils m'ont livre, madame, a ce moment funeste ;
+Et l'on m'arrache encore le seul bien qui me reste !			[1610]
+On me vole mon pere ! On le fait criminel !
+On attache a son nom un opprobre eternel !
+Je suis fils d'un pecheur, mais non pas d'un infame :
+La bassesse du sang ne va point jusqu'a l'ame ;
+Et je renonce aux noms de comte et de marquis			[1615]
+Avec bien plus d'honneur qu'aux sentiments de fils :
+Rien n'en peut effacer le sacre caractere.
+De grace, commandez qu'on me rende mon pere.
+Ce doit leur etre assez de savoir qui je suis,
+Sans m'accabler encore par de nouveaux ennuis.			[1620]
+DON MANRIQUE.
+Forcez ce grand courage a conserver sa gloire,
+Madame, et l'empechez lui-meme de se croire.
+Nous n'avons pu souffrir qu'un bras qui tant de fois
+A fait trembler le More et triompher nos rois,
+Recut de sa naissance une tache eternelle :			[1625]
+Tant de valeur merite une source plus belle.
+Aidez ainsi que nous ce peuple a s'abuser ;
+Il aime son erreur, daignez l'autoriser :
+A tant de beaux exploits rendez cette justice,
+Et de notre pitie soutenez l'artifice.			[1630]
+CARLOS.
+Je suis bien malheureux, si je vous fais pitie ;
+Reprenez votre orgueil et votre inimitie.
+Apres que ma fortune a soule votre envie,
+Vous plaignez aisement mon entree a la vie ;
+Et me croyant par elle a jamais abattu,			[1635]
+Vous exercez sans peine une haute vertu.
+Peut-etre elle ne fait qu'une embuche a la mienne.
+La gloire de mon nom vaut bien qu'on la retienne ;
+Mais son plus bel eclat serait trop achete,
+Si je le retenais par une lachete.			[1640]
+Si ma naissance est basse, elle est du moins sans tache :
+Puisque vous la savez, je veux bien qu'on la sache.
+Sanche, fils d'un pecheur, et non d'un imposteur,
+De deux comtes jadis fut le liberateur ;
+Sanche, fils d'un pecheur, mettait naguere en peine			[1645]
+Deux illustres rivaux sur le choix de leur reine ;
+Sanche, fils d'un pecheur, tient encore en sa main
+De quoi faire bientot tout l'heur d'un souverain ;
+Sanche enfin, malgre lui, dedans cette province,
+Quoique fils d'un pecheur, a passe pour un prince.			[1650]
+Voila ce qu'a pu faire et qu'a fait a vos yeux
+Un coeur que ravalait le nom de ses aieux.
+La gloire qui m'en reste apres cette disgrace
+eclate encore assez pour honorer ma race,
+Et paraitra plus grande a qui comprendra bien			[1655]
+Qu'a l'exemple du ciel j'ai fait beaucoup de rien.
+DON LOPE.
+Cette noble fierte desavoue un tel pere,
+Et par un temoignage a soi-meme contraire,
+Obscurcit de nouveau ce qu'on voit eclairci.
+Non, le fils d'un pecheur ne parle point ainsi,			[1660]
+Et son ame parait si dignement formee,
+Que j'en crois plus que lui l'erreur que j'ai semee.
+Je le soutiens, Carlos, vous n'etes point son fils :
+La justice du ciel ne peut l'avoir permis ;
+Les tendresses du sang vous font une imposture,			[1665]
+Et je demens pour vous la voix de la nature.
+Ne vous repentez point de tant de dignites
+Dont il vous plut orner ses rares qualites :
+Jamais plus digne main ne fit plus digne ouvrage,
+Madame ; il les releve avec ce grand courage ;			[1670]
+Et vous ne leur pouviez trouver plus haut appui,
+Puisque meme le sort est au-dessous de lui.
+DONA ISABELLE.
+La generosite qu'en tous les trois j'admire
+Me met en un etat de n'avoir que leur dire,
+Et dans la nouveaute de ces evenements,			[1675]
+Par un illustre effort previent mes sentiments.
+Ils paraitront en vain, comtes, s'ils vous excitent
+A lui rendre l'honneur que ses hauts faits meritent,
+Et ne dedaigner pas l'illustre et rare objet
+D'une haute valeur qui part d'un sang abject :			[1680]
+Vous courez au-devant avec tant de franchise,
+Qu'autant que du pecheur je m'en trouve surprise.
+Et vous, que par mon ordre ici j'ai retenu,
+Sanche, puisqu'a ce nom vous etes reconnu,
+Miraculeux heros, dont la gloire refuse			[1685]
+L'avantageuse erreur d'un peuple qui s'abuse,
+Parmi les deplaisirs que vous en recevez,
+Puis-je vous consoler d'un sort que vous bravez ?
+Puis-je vous demander ce que je vous vois faire ?
+Je vous tiens malheureux d'etre ne d'un tel pere ;			[1690]
+Mais je vous tiens ensemble heureux au dernier point
+D'etre ne d'un tel pere, et de n'en rougir point,
+Et de ce qu'un grand coeur, mis dans l'autre balance,
+Emporte encor si haut une telle naissance.
+SCENE VI. Dona Isabelle, Dona Leonor, Dona Elvire, Carlos, Don Manrique, Don Lope, Don Alvar, Blanche.
+DON ALVAR.
+Princesses, admirez l'orgueil d'un prisonnier,			[1695]
+Qu'en faveur de son fils on veut calomnier.
+Ce malheureux pecheur, par promesse ni crainte,
+Ne saurait se resoudre a souffrir une feinte.
+J'ai voulu lui parler, et n'en fais que sortir ;
+J'ai tache, mais en vain, de lui faire sentir			[1700]
+Combien mal a propos sa presence importune
+D'un fils si genereux renverse la fortune,
+Et qu'il le perd d'honneur, a moins que d'avouer
+Que c'est un lache tour qu'on le force a jouer ;
+J'ai meme a ces raisons ajoute la menace :			[1705]
+Rien ne peut l'ebranler, Sanche est toujours sa race,
+Et quant a ce qu'il perd de fortune et d'honneur,
+Il dit qu'il a de quoi le faire grand seigneur,
+Et que plus de cent fois il a su de sa femme
+(Voyez qu'il est credule et simple au fond de l'ame)			[1710]
+Que voyant ce present, qu'en mes mains il a mis,
+La reine d'Aragon agrandirait son fils.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si vous le recevez avec autant de joie,
+Madame, que par moi ce vieillard vous l'envoie,
+Vous donnerez sans doute a cet illustre fils			[1715]
+Un rang encore plus haut que celui de marquis.
+Ce bonhomme en parait l'ame toute comblee.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DONA ISABELLE.
+Madame, a cet aspect vous paraissez troublee.
+DONA LEONOR.
+J'ai bien sujet de l'etre en recevant ce don,
+Madame : j'en saurai si mon fils vit ou non ;			[1720]
+Et c'est ou le feu roi, deguisant sa naissance,
+D'un sort si precieux mit la reconnaissance.
+Disons ce qu'il enferme avant que de l'ouvrir.
+Ah ! Sanche, si par la je puis le decouvrir,
+Vous pouvez etre sur d'un entier avantage			[1725]
+Dans les lieux dont le ciel a fait notre partage ;
+Et qu'apres ce tresor que vous m'aurez rendu,
+Vous recevrez le prix qui vous en sera du.
+Mais a ce doux transport c'est deja trop permettre.
+Trouvons notre bonheur avant que d'en promettre.			[1730]
+Ce present donc enferme un tissu de cheveux
+Que recut Don Fernand pour arrhes de mes voeux,
+Son portrait et le mien, deux pierres les plus rares
+Que forme le soleil sous les climats barbares,
+Et pour un temoignage encore plus certain,			[1735]
+Un billet que lui-meme ecrivit de sa main.
+Un garde.
+Madame, Don Raymond vous demande audience.
+DONA LEONOR.
+Qu'il entre. Pardonnez a mon impatience,
+Si l'ardeur de le voir et de l'entretenir
+Avant votre conge l'ose faire venir.			[1740]
+DONA ISABELLE.
+Vous pouvez commander dans toute la Castille,
+Et je ne vous vois plus qu'avec des yeux de fille.
+SCENE VII. Dona Isabelle, Dona Leonor, Dona Elvire, Carlos, Don Manrique, Don Lope, Don Alvar, Blanche, Don Raymond.
+DONA LEONOR.
+Laissez la, Don Raymond, la mort de nos tyrans,
+Et rendez seulement Don Sanche a ses parents.
+Vit-il ? Peut-il braver nos fieres destinees ?			[1745]
+DON RAYMOND.
+Sortant d'une prison de plus de six annees,
+Je l'ai cherche, madame, ou pour les mieux braver,
+Par l'ordre du feu roi je le fis elever,
+Avec tant de secret, que meme un second pere,
+Qui l'estime son fils, ignore ce mystere.			[1750]
+Ainsi qu'en votre cour Sanche y fut son vrai nom,
+Et l'on n'en retrancha que cet illustre don.
+La j'ai su qu'a seize ans son genereux courage
+S'indigna des emplois de ce faux parentage ;
+Qu'impatient deja d'etre si mal tombe,			[1755]
+A sa fausse bassesse il s'etait derobe ;
+Que deguisant son nom et cachant sa famille,
+Il avait fait merveille aux guerres de Castille,
+D'ou quelque sien voisin, depuis peu de retour,
+L'avait vu plein de gloire, et fort bien en la cour ;			[1760]
+Que du bruit de son nom elle etait toute pleine,
+Qu'il etait connu meme et cheri de la reine :
+Si bien que ce pecheur, d'aise tout transporte,
+Avait couru chercher ce fils si fort vante.
+DONA LEONOR.
+Don Raymond, si vos yeux pouvaient le reconnaitre...			[1765]
+DON RAYMOND.
+Oui, je le vois, madame. Ah ! Seigneur, ah ! Mon maitre !
+DON LOPE.
+Nous l'avions bien juge : grand prince, rendez-vous ;
+La verite parait ; cedez aux voeux de tous.
+DONA LEONOR.
+Don Sanche, voulez-vous etre seul incredule ?
+CARLOS.
+Je crains encore du sort un revers ridicule.			[1770]
+Mais, madame, voyez si le billet du roi
+Accorde a Don Raymond ce qu'il vous dit de moi.
+DONA LEONOR, ouvre l'ecrin, et ne tire un billet qu'elle lit.
+Pour tromper un tyran je vous trompe vous-meme.
+Vous reverrez ce fils que je vous fais pleurer :
+Cette erreur lui peut rendre un jour le diademe ;			[1775]
+Et je vous l'ai cache pour le mieux assurer.
+Si ma feinte vers vous passe pour criminelle,
+Pardonnez-moi les maux qu'elle vous fait souffrir,
+De crainte que les soins de l'amour maternelle
+Par leurs empressements le fissent decouvrir.			[1780]
+Nugne, un pauvre pecheur, s'en croit etre le pere ;
+Sa femme en son absence accouchant d'un fils mort,
+Elle recut le votre, et sut si bien se taire,
+Que le pere et le fils en ignorent le sort.
+Elle-meme l'ignore ; et d'un si grand echange			[1785]
+Elle sait seulement qu'il n'est pas de son sang,
+Et croit que ce present, par un miracle etrange,
+Doit un jour par vos mains lui rendre son vrai rang.
+A ces marques, un jour, daignez le reconnaitre ;
+Et puisse l'Aragon, retournant sous vos lois,			[1790]
+Apprendre ainsi que vous, de moi qui l'ai vu naitre,
+Que Sanche, fils de Nugne, est le sang de ses rois !
+
+DONA LEONOR, apres l'avoir lu.
+Ah ! Mon fils, s'il en faut encore davantage,
+Croyez-en vos vertus et votre grand courage.
+CARLOS, a dona Leonor.
+Ce serait mal repondre a ce rare bonheur			[1795]
+Que vouloir me defendre encore d'un tel honneur.
+Je reprends toutefois Nugne pour mon vrai pere,
+Si vous ne m'ordonnez, madame, que j'espere.
+DONA ISABELLE.
+C'est trop peu d'esperer, quand tout vous est acquis.
+Je vous avais fait tort en vous faisant marquis ;			[1800]
+Et vous n'aurez pas lieu desormais de vous plaindre
+De ce retardement ou j'ai su vous contraindre.
+Et pour moi, que le ciel destinait pour un roi,
+Digne de la Castille, et digne encore de moi,
+J'avais mis cette bague en des mains assez bonnes			[1805]
+Pour la rendre a Don Sanche, et joindre nos couronnes.
+CARLOS.
+Je ne m'etonne plus de l'orgueil de mes voeux,
+Qui, sans le partager, donnaient mon coeur a deux :
+Dans les obscurites d'une telle aventure,
+L'amour se confondait avec la nature.			[1810]
+DONA ELVIRE.
+Le notre y repondait sans faire honte au rang,
+Et le mien vous payait ce que devait le sang.
+CARLOS, a Dona Elvire.
+Si vous m'aimez encore, et m'honorez en frere,
+Un epoux de ma main pourrait-il vous deplaire ?
+DONA ELVIRE.
+Si Don Alvar de Lune est cet illustre epoux,			[1815]
+Il vaut bien a mes yeux tout ce qui n'est point vous.
+CARLOS, a Dona Elvire.
+Il honorait en moi la vertu toute nue.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et vous, qui dedaigniez ma naissance inconnue,
+Comtes, et les premiers en cet evenement
+Jugiez en ma faveur si veritablement,			[1820]
+Votre dedain fut juste autant que son estime :
+C'est la meme vertu sous une autre maxime.
+DON RAYMOND, a Don Isabelle.
+Souffrez qu'a l'Aragon il daigne se montrer.
+Nos deputes, madame, impatients d'entrer...
+DONA ISABELLE.
+Il vaut mieux leur donner audience publique,			[1825]
+Afin qu'aux yeux de tous ce miracle s'explique.
+Allons ; et cependant qu'on mette en liberte
+Celui par qui tant d'heur nous vient d'etre apporte ;
+Et qu'on l'amene ici, plus heureux qu'il ne pense,
+Recevoir de ses soins la digne recompense.			[1830]
+
+	==================================================

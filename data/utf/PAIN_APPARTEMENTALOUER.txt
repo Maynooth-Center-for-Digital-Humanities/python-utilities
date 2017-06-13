@@ -1,0 +1,887 @@
+********************************************************
+	DC.Title                  = L'APPARTEMENT A LOUER, COMEDIE
+	DC.Author                 = PAIN, Joseph
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/09/2016 a 20:42:32.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/PAIN_APPARTEMENTALOUER.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'APPARTEMENT A LOUER. COMEDIE EPISODIQUE.MELEE DE VAUDEVILLES.AN SEPTIEME.
+Par JOSEPH PAIN.
+	
+	
+	Representee a Paris sur le Theatre des Varietes-Montansier, le 11 ventose, an VII.
+	COUPLET D'ANNONCE.
+AIR: Du petit Matelot. 
+On va vous jouer un ouvrage,
+Que l'auteur vous offre en tremblant.
+Daignez ranimer son courage, 
+Et louez son Appartement.
+N'allez pas, d'humeur difficile,
+Lui donner ensuite conge; 
+Si vous detruisiez son asile,
+L'auteur seroit fort mal loge. 
+
+PERSONNAGES.	ARTISTES.
+THEODORE.	CESAR.
+ROSETTE.	DUMAS.
+VINCENT, pere de Rosette.	DUBOIS.
+DUBOIS, valet de Theodore.	AMIEL.
+SONORE, musicien.	CORSE.
+UNE ACTRICE.	CAROLINE.
+UN GASCON.	CORSE.
+La Scene est chez Theodore.
+
+
+
+			
+
+
+SCENE PREMIERE.
+La scene represente un salon, plusieurs tableaux sont suspendus ca et la. Un portrait de femme, place sur un chevalet, est plus en vue que les autres. Theodore est assis devant une table, sur laquelle il y a du papier, une ecritoire, de la musique, etc. Dubois arrange l'appartement.
+THEODORE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+	Composons notre ecriteau, 
+	Pour mettre a la porte, 
+	Dans la vie, un ecriteau 
+	Tres souvent importe. 
+	Que de gens, sans ecriteau, 
+	Frappent a la porte, 
+	Qui, lorsqu'on voit l'ecriteau, 
+	Sont mis a la porte, 
+	O gue ! 
+	Sont mis a la porte. 
+	
+	
+	Un rien, parfois, des grandeurs 
+	Vous place a la porte. 
+	On met, dans les grands malheurs, 
+	La clef sous la porte. 
+	Moi, le diable, dieu merci! 
+	N'est plus a ma porte; 
+	Car Roselte m'ouvre ici 
+	Son c?ur et sa porte, 
+	O gue ! 
+	Son c?ur et sa porte. 
+
+			[0]
+Dubois ? 
+DUBOIS.
+Que me voulez-vous ? 
+THEODORE.
+Fais l'ecriteau.
+DUBOIS.
+D'appartement a louer ?
+THEODORE.
+Sans doute. 
+DUBOIS.
+Comment faut-il le faire ? 
+THEODORE.
+Eh ! Mais... comme tous les ecriteaux. 
+DUBOIS.
+Le style laconique ? 
+THEODORE.
+Chose rare, aujourd'hui !... Il serait bien a souhaiter que la mode de parler peu s'etablit. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Beaucoup de choses, peu de mots, 
+Pour tous les bavards, quel martyre ! 
+On n'entendrait plus tant de sots, 
+Beaucoup parler pour ne rien dire : 
+On raccourcirait maints journaux, 			[25]
+On supprimerait bien des plumes : 
+Nos faiseurs de romans nouveaux 
+N'ecriraient plus tant de volumes. 
+DUBOIS.
+Revenons a l'ecriteau. 
+THEODORE.
+Je le veux bien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tiens : le voici. 
+DUBOIS.
+Des vers ? 
+THEODORE.
+C'est une idee qui m'est venue tout-a-l'heure, et j'ai mis l'ecriteau en couplet. 
+DUBOIS.
+Pourquoi pas ? Il y a si longtemps qu'on les fait en prose. 
+THEODORE, lisant.
+Ecoute : 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Au premier, maison fort jolie, 
+Est un tres bel appartement ; 			[30]
+Papiers frais, glaces, boiserie ; 
+Cinq pieces sont sur le devant ; 
+Cave et caveau, grande ecurie, 
+Remise et superbe grenier : 
+Louer le tout, ou bien partie : 			[35]
+On peut s'adresser au portier. 
+DUBOIS.
+Au portier... C'est tout ce qu'il faut pour un impromptu. 
+THEODORE.
+Ton ecriture est-elle lisible ? 
+DUBOIS.
+Je vais faire copier cela en gros caracteres, par Brouillon, l'ecrivain du coin. 
+THEODORE.
+Va vite... Ah ! Ecoute : qu'on le fasse attacher promptement ; car tu sais qu'il peut me procurer la visite de ma chere Rosette et de son pere.
+DUBOIS.
+Oui : ils cherchent un appartement ; mais s'il vient d'autres personnes ? 
+THEODORE.
+Nous les en degouterous. 
+DUBOIS.
+A propos, j'ai oublie.... 
+THEODORE.
+Quoi ? 
+DUBOIS.
+Une lettre pour vous. 
+THEODORE.
+De qui ? 
+DUBOIS.
+De la charmante Rosette. 
+THEODORE.
+Donne. 
+DUBOIS, se fouillant.
+Ou est-elle donc ?... Ah ! La voici. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Elle est depuis hier dans ma poche. 
+SCENE II.
+THEODORE, seul, lisant.
+« J'ai determine mon pere a voir votre appartement ; mais Dumont, votre rival, ayant appris que mon pere veut quitter sa maison, l'importune pour lui faire accepter la sienne. »J'espere l'en empecher... Nous serons chez vous, demain, de bonne heure.
+Ce coquin de Dumont !... Mais Rosette me secondera. Elle est si bonne! si sensible! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Rosette fuit la medisance; 
+Ainsi, je ne medis jamais: 
+Elle aime la reconnoissance, 
+Et je rends bienfaits pour bienfaits. 			[40]
+Heureux qui, placant sa tendresse 
+Sur le plus estimable objet, 
+Pour devenir moins imparfait, 
+Prend les vertus de sa maitresse. 
+SCENE III. Theodore, Dubois, entrant.
+THEODORE.
+Eh bien, l'ecriteau ? 
+DUBOIS.
+Je l'ai suspendu a la fenetre de la rue ; mais le vent... 
+THEODORE.
+Eh ! Que fait le vent ? 
+DUBOIS.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le vent le tourne a tout moment, 			[45]
+Par devant derriere : 
+Quoiqu'il soit en vers, cependant 
+L'etoffe est legere : 
+Puis, sur un air vous l'avez fait; 
+L'air est vif, et peut, en effet, 			[50]
+Sans respect, parterre 
+Jeter le couplet. 
+THEODORE.
+Rattache-le solidement... Mais on frappe ; va voir qui c'est. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV.
+THEODORE, seul.
+Si c'etait ma bonne amie et son pere !... Si mon amour plaisait a celui-ci !... Espoir delicieux !... J'entends Rosette... Oh ! Oui, c'est bien elle. 
+SCENE V. Vincent, Rosette, Thedore, Dubois.
+THEODORE, a Vincent.
+C'est la premiere fois que j'ai l'honneur de vous recevoir chez moi, et je ne saurais trop rendre grace au hasard qui vous y a amene.
+VINCENT.
+Rien de plus honnete. C'est ma fille qui m'a engage a venir voir votre appartement qui est, dit-on, a louer. 
+DUBOIS, a part.
+De ce matin. 
+THEODORE.
+Voulez-vous me permettre de vous le montrer? 
+VINCENT.
+En entrant, j'en ai vu une partie... Il est assez bien. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)THEODORE, bas a Rosette, sur l'avant-scene.
+Merci, charmante Rosette. 
+ROSETTE, bas.
+Paix, on pourrait nous entendre. 
+THEODORE.
+Un mot... 
+ROSETTE.
+Mon pere est dispose en votre faveur. 
+VINCENT, dans le fond.
+Ah ! Ah ! Des tableaux ! 
+DUBOIS.
+C'est mon maitre qui les a faits. 
+VINCENT.
+Je ne lui connaissais pas ce talent-la. 
+THEODORE, bas a Rosette.
+Il sait donc notre amour ? 
+ROSETTE, bas.
+Il s'en doute.
+VINCENT, dans le fond.
+Ah ! En voici un qui me parait sort agreable. 
+DUBOIS.
+Il represente deux amants. 
+VINCENT, regardant avec sa lunette.
+Scene familiere... Eh ! Il est fait avec chaleur. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)VINCENT.
+La jeune fille a l'air tendre... 
+DUBOIS.
+Le jeune homme, satisfait. 
+VINCENT.
+Comme ils ont l'air de s'entendre ! 			[55]
+DUBOIS.
+Ils s'entendent en effet. 
+THEODORE, bas a Rosette.
+M'acceptera-t-il pour gendre ? 
+Je dois craindre... 
+VINCENT, repondant a Dubois.
+Point du tout. 
+Il est vraiment de mon gout. 
+Quel est celui-ci ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que vois-je ? Le portrait de ma fille ! 
+ROSETTE.
+Quoi ! Theodore, vous avez fait mon portrait ? 
+DUBOIS, a part.
+Jolie tete d'etude.... 
+THEODORE.
+Je l'ai fait de memoire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'ai, sur la toile vivante, 			[60]
+Voulu peindre la candeur, 
+Et cette grace decente 
+Qu'autorise la pudeur. 
+J'allais, faute de modele, 
+Abandonner mon sujet ; 			[65]
+Mais j'ai vu mademoiselle, 
+Et j'ai fini le portrait. 
+VINCENT.
+Et il est fort ressemblant. Saviez-vous, ma fille, que votre portrait fut ici? 
+ROSETTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Est-ce, mon pere, une injure 
+Que de tracer mon portrait ? 
+J'ignorais, je vous le jure, 			[70]
+Que ce tableau-la fut fait. 
+J'avouerai que cet hommage, 
+Sans m'etonner, m'est flatteur ; 
+Je savais que mon image 
+Etait peinte dans son c?ur. 			[75]
+VINCENT.
+Je ne m'etonne plus que vous m'ayiez si fort presse de venir voir cet appartement. 
+THEODORE.
+Veuillez ne rien voir, dans cette demarche, qui merite votre colere. Cette maison m'appartient, et je m'estimerai trop heureux, si vous daignez l'habiter.
+VINCENT.
+Ma fille a des secrets pour moi ! 
+ROSETTE.
+Indulgence, mon pere. 
+VINCENT.
+Ma chere amie, je ne veux que te rendre heureuse ; mais je meritais ta confiance. 
+ROSETTE.
+Vous l'aurez desormais toute entiere. 
+VINCENT.
+Laissons cela. Venez, avec moi, voir d'autres appartemens. 
+THEODORE.
+Vous dedaignez donc celui-ci ? 
+VINCENT, avec dignite.
+Non ; mais vous me permettrez le choix. J'ai promis a Dumont, d'aller voir sa maison... Si elle me convient moins que la votre, vous aurez la preference... Je veux bien meme vous promettre que, dans une heure, je viendrai...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Nous viendrons vous donner reponse. 
+THEODORE, les reconduisant.
+Ah ! J'espere qu'elle me sera favorable. 
+VINCENT.
+Je ne vous defends pas l'esperance.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Theodore, Dubois.
+THEODORE.
+Eh bien, Dubois, que dis-tu du papa Vincent ? 
+DUBOIS.
+Brave homme. 
+THEODORE.
+De sa fille ? 
+DUBOIS.
+Charmante. 
+THEODORE.
+Et de mes affaires ? 
+DUBOIS.
+Excellentes. 
+THEODORE.
+J'en rends grace a mon etoile. 
+DUBOIS.
+Et moi, a l'appartement a louer. 
+THEODORE.
+Tu peux avoir raison. 
+DUBOIS.
+Cela m'arrive tous les jours. 
+THEODORE.
+Je vais sortir : si, pendant mon absence, qui ne sera pas longue, l'ecriteau t'amene des originaux, amuse-t-en, mais ne termine pas avec eux. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DUBOIS.
+Soyez tranquille. 
+SCENE VII.
+DUBOIS, seul.
+Allons, mon ami Dubois, vous voila le maitre de la maison. Peste ! Vous etes un homme de consequence !... Allons, plus d'air de valet... La demarche elegante... Le port noble... La metamorphose d'un enrichi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tachons d'avoir de l'aisance 
+Et le maintien du bon ton; 
+Representons d'importance 
+Le maitre de la maison. 
+Tel, qui maintenant est maitre, 			[80]
+Quoiqu'il servit autrefois, 
+Ne le sera pas, peut-etre, 
+Bien plus longtemps que Dubois. 
+J'entends du bruit... On vient... Examinons. 
+SCENE VIII. Sonore, Dubois.
+SONORE.
+C'est ici l'appartement a louer, et vous etes... 
+DUBOIS.
+Serviteur. 
+SONORE.
+Je voudrais, avant de voir l'appartement, savoir s'il y a une piece ou je puisse recevoir mes abonnes. 
+DUBOIS.
+Comment, vos abonnes ? 
+SONORE.
+Je m'appelle Sonore. 
+DUBOIS.
+Musicien. 
+SONORE.
+Vous l'avez devine. J'ai compose une societe d'artistes et d'amateurs, et nous donnons des concerts. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Nous accompagnons les morceaux 
+Que maints virtuoses nous chantent : 			[85]
+Nous faisons quatuors fort beaux, 
+Ou quatre femmes nous enchantent. 
+Plaire de nos soins est le fruit, 
+Et, dans plus d'une symphonie, 
+Quoiqu'on y fasse un peu de bruit, 			[90]
+Il regne certaine harmonie. 
+DUBOIS.
+Ah ! Vous etes toujours d'accord. 
+SONORE.
+Presque toujours. Eh bien ! Trouverai-je ici un local favorable ? 
+DUBOIS.
+Non, la voix y serait etouffee. 
+SONORE.
+C'est dommage. 
+DUBOIS.
+Pourquoi voulez-vous donc changer de local ? 
+SONORE.
+La nouveaute, mon cher, la nouveaute ! On a tant travaille pour plaire au public, que les moyens sont a-peu-pres epuises ; on est force de lui offrir toujours les memes choses, mais sous des formes nouvelles.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le public, chez l'homme du jour, 
+Sait, un moment, se plaire. 
+Puis, d'autres auront, a leur tour, 
+Sa faveur passagere : 			[95]
+Volage en ses moindres desirs, 
+L'un par l'autre il remplace, 
+Et croyant changer de plaisirs, 
+Ne change que de place. 
+DUBOIS.
+Il en est de meme des modes. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)On vit employer, tour-a-tour, 			[100]
+Les objets les plus rares ; 
+On imagina, chaque jour, 
+Mille modes bizarres. 
+Comme l'on n'invente plus rien, 
+Dans un cas si critique, 			[105]
+On a pris le meilleur moyen ; 
+On rajeunit l'antique. 
+SONORE.
+C'est cela meme. Tout se renouvelle, tout change, tout se detruit. Par exemple, j'etais premier organiste de la paroisse de Surenne.
+DUBOIS.
+Et la revolution vous a desorganise ? 
+SONORE.
+Tout-a-fait. Mon orgue fut detruite, et il ne m'en est reste que le soufflet. Quand je vis qu'il n'y avait plus rien a faire de ce cote, je choisis un autre instrument.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Choisir parmi les instruments 
+N'etait pas chose aisee : 
+On ne voulait plus de serpents ; 			[110]
+La vielle etait usee. 
+Le haut-bois si doux 
+Etait aux epoux ; 
+Il restait l'epinette... 
+Enfin, aux abois, 			[115]
+Je fixai mon choix, 
+Et pris la serinette. 
+En peu de temps, je devins d'une jolie force d'amateur... Mais on encourage si peu les arts ! On se moqua de ma serinette.
+DUBOIS.
+Et quel parti prites-vous ? 
+SONORE.
+Je me jetai, a-corps-perdu, dans la carriere dramatique. Je voulus faire la musique d'un opera... Je cherchai un poete, et fus longtemps a en trouver.
+DUBOIS.
+Ils sont si rares ! 
+SONORE.
+On m'adressa enfin a Monsieur Barbaro, rue des Mauvaises Paroles, numero cent-neuf. Il avait une vingtaine de poemes tout faits, et j'en pris un au hasard.
+DUBOIS.
+C'etait peut-etre le plus sur. 
+SONORE.
+Je fis une musique delicieuse, etourdissante, et, apres bien des peines, nous fumes joues. 
+DUBOIS.
+Eh bien ? 
+SONORE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le poeme fit la culbute, 
+Je l'avais predit a l'auteur, 
+Mais le poete, dans sa chute, 			[120]
+Entraina le compositeur. 
+Las, avec ces moyens frivoles, 
+De faire un opera commun, 
+Pour ne plus craindre les paroles, 
+Sans paroles j'en vais faire un. 			[125]
+DUBOIS.
+Cela n'est pas nouveau. 
+SONORE.
+J'en conviens ; mais j'interesserai par le charme de la pantomime, le jeu muet des acteurs, les gestes qui remplaceront les paroles : on y entendra des eclats de voix, des points d'orgue, des roulades... 
+DUBOIS.
+Je vois que ce sera tout chant. 
+SONORE.
+Et puis, que d'avantages m'offre mon procede ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'evite une froide harangue; 
+J'evite des mots mal sonnants ; 
+J'evite les fautes de langue, 
+Rimes batardes, contresens. 
+Rival, amant, pere, oncle, niece ; 			[130]
+Tout, en chantant, s'arrangera. 
+Nul ne parlera dans la piece ; 
+Mais de la piece on parlera. 
+DUBOIS.
+Votre opera ne dira pas grand chose ; cependant, a cause de l'originalite, il pourra avoir du succes. 
+SONORE.
+Grand merci de la prophetie. Allons, puisque je ne trouve pas ici un local favorable, je m'en vas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il me vient une idee : je vais faire construire une salle de concert par un entrepreneur de mes amis : je suis sur que ca reussira, parce que la musique est necessaire a l'homme ; partout l'on chante, et chanter est une occupation universelle. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Un amant chante sa victoire ; 
+Un auteur chante ses succes : 			[135]
+Nos guerriers, aux champs de la gloire, 
+Vont en chantant des airs francais. 
+On chante dans la parodie, 
+Et nos travers, et nos defauts : 
+Plus d'un personnage au c?ur faux 			[140]
+Sait chanter la palinodie. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX.
+DUBOIS, seul.
+En voila deja un d'econduit, et notre appartement est encore a nous... Mon maitre ne va pas tarder. Ah ! Justement le voici.
+SCENE X. Theodore, Dubois.
+THEODORE.
+Mon cher Dubois, je suis enchante ! Devinerais-tu d'ou je viens? 
+DUBOIS.
+Si vous me le disiez. 
+THEODORE.
+De chez Dumont, mon rival. Tu sais qu'il voulait, comme moi, donner son appartement au pere Vincent pour epouser sa fille... Comme moi, il avait mis un ecriteau.
+DUBOIS.
+En vers ? 
+THEODORE.
+Non, en assez mauvaise prose. Il ne me connait pas, je monte : il me fait voir chaque piece... Tout me convient, tout est delicieux. Mon homme me propose alors son prix, prix exhorbitant... Je le trouve raisonnable ; j'arrete l'appartement, je donne des arrhes, et me sauve, de peur d'y rencontrer Rosette et son pere.
+DUBOIS.
+Et, quand ils iront chez Dumont, et qu'ils trouveront l'appartement loue, le pere sera furieux... 
+THEODORE.
+Et la fille me devinera... 
+DUBOIS.
+Et, de depit, il viendra louer celui-ci. 
+THEODORE.
+Et me donner la main de Rosette... 
+DUBOIS.
+C'est fort bien : mais, puisque vous avez loue chez Dumont, vous irez y loger ? 
+THEODORE.
+Non pas que je sache. 
+DUBOIS.
+Au moins, vous lui paierez un terme ?
+THEODORE.
+Oh ! Bien volontiers.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'or, que d'une ardeur inquiete, 
+On voit recherche parmi nous, 
+Vaut-il un regard de Rosette, 
+Et l'espoir d'etre son epoux ? 			[145]
+Son epoux !... Ce mot-la renferme 
+Ce qui peut, seul, plaire a mon c?ur ; 
+Et je payerais plus d'un terme, 
+Pour etre au terme du bonheur. 
+Dubois, laisse-moi seul un moment. 			[150]
+DUBOIS, allant pour sortir.
+Voici une visite. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XI. Theodore, Une Actrice.
+L'ACTRICE, examinant l'appartement.
+Cet appartement me convient assez... Il est fort bien... Je vous souhaite le bonjour... Vous dites donc qu'il y a cinq pieces ?
+THEODORE.
+Oui, tout autant. 
+L'ACTRICE.
+Toutes decorees, arrangees ? Pas de depense a faire ? Chambre a coucher elegante ? Des glaces ? Ah ! Des glaces surtout. 
+THEODORE.
+Vous en trouverez partout, et elles ne reflechiront jamais un visage plus agreable. 
+L'ACTRICE, a part.
+Il est galant. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et quel est le prix ?... Bien cher n'est-ce pas ?... A propos, y a-t-il un boudoir ?... Oh ! C'est une chose essentielle.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Joli boudoir qu'avec l'amour 
+A forme la main du mystere, 
+Ou l'on peut, parfois, dans le jour, 
+Bouder, quand on n'a rien a faire ; 
+Ou, dans un discret demi-jour, 			[155]
+En l'absence de ce qu'on aime, 
+On peut penser a son retour, 
+Et rever sa presence meme. 
+THEODORE.
+Je crois qu'on peut s'en passer tres souvent. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pourquoi desirer un boudoir ? 
+Bouder est chose si commune ! 			[160]
+On boude devant son miroir ; 
+On boude contre la fortune. 
+Lise boude un mari grondeur ; 
+On boude une femme legere, 
+Et le public, le moins boudeur, 			[165]
+Boude un auteur, s'il ne sait plaire. 
+D'ailleurs, je l'avoue a regret ; il n'y en a pas. 
+L'ACTRICE.
+O ciel ! Que me dites-vous ? Allons, il faut renoncer a l'appartement. 
+THEODORE.
+Quoi ! Sitot ? 
+L'ACTRICE.
+Point de boudoir ! Et puis, il faudroit que je pusse m'installer ici sur-le-champ.... Quand quitterez-vous ce logis ? 
+THEODORE.
+Nous prendrions ensemble des arrangements : cependant je ne le quitterais pas tout-a-fait. 
+L'ACTRICE.
+Comment ? 
+THEODORE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je me ressouviendrais sans cesse 
+Du lieu que j'aurais habite; 
+Qui, de sa nouvelle maitresse, 
+Chaque jour verrait la beaute; 			[170]
+Et de regrets l'ame oppressee, 
+Pour jouir d'un bonheur si doux, 
+J'y rentrerais par la pensee, 
+Et l'habiterais avec vous. 
+L'ACTRICE, a part.
+Il a de l'esprit.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Serieusement, vous reviendriez ici invisiblement ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoi ! Ce ne serait qu'en idee 			[175]
+Que vous retourneriez ceans ? 
+Tant pis ! Car je suis excedee 
+De voir toujours des revenants. 
+Puis, jouer un tel personnage ! 
+En vous voyant, sans contredit, 			[180]
+Aupres d'une femme, je gage 
+Que vous valez mieux qu'un esprit. 
+THEODORE.
+J'en ai, cependant bien peu. 
+L'ACTRICE.
+Un calembour ? 
+THEODORE.
+Grace, grace pour lui. 
+L'ACTRICE.
+J'aime assez un calembour, lorsqu'il est sans pretention, et qu'il se borne a accompagner ou a faire naitre la gaite. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Fils du moment, ne parmi les saillies, 
+Dans son equivoque talent, 
+On lui permet de dire des folies: 			[185]
+Comment censurer un enfant ? 
+Jouer est chose si commune ! 
+Partout, on a joue les sots ; 
+Beaucoup ont joue leur fortune : 
+On peut bien jouer sur les mots. 			[190]
+Mais il est bientot midi, et je vais a la repetition. 
+THEODORE.
+Jouez-vous la comedie ? 
+L'ACTRICE.
+Non, je chante daus l'opera. 
+THEODORE.
+Etes-vous musicienne ? 
+L'ACTRICE.
+Un peu. 
+THEODORE.
+Si je ne craignais pas d'abuser de vos moments, je vous prierais de chanter avec moi un duo de la Cosa rara, que j'aime infiniment.
+L'ACTRICE.
+Je ne me fais jamais prier. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'ACTRICE.
+Pour embellir la vie... 
+THEODORE.
+Aimons, ma tendre amie. 
+L'ACTRICE.
+Jour de melancolie 
+THEODORE.
+Vaut-il jour de folie? 
+L'ACTRICE.
+Un jour, le bonheur... 
+THEODORE.
+Cesse : 			[195]
+L'ACTRICE.
+On voit fuir... 
+THEODORE.
+Sa jeunesse ; 
+L'ACTRICE.
+Dans L'ennui... 
+THEODORE.
+Qui nous presse, 
+L'ACTRICE.
+On regrette... 
+THEODORE.
+L'ivresse. 
+ENSEMBLE.
+Plus de retard frivole, 
+Profitons des beaux jours; 			[200]
+Hatons-nous, car le tems vole, 
+Vole avec nos amours. 
+THEODORE.
+Sens mon c?ur qui palpite ! 
+L'ACTRICE.
+Sens mon c?ur qui palpite ! 
+THEODORE.
+Sous ma main il s'agite ! 			[205]
+L'ACTRICE.
+Sous ma main il s'agite ! 
+THEODORE.
+Au printemps de la... 
+L'ACTRICE.
+Vie, 
+THEODORE.
+Pres de sa douce... 
+L'ACTRICE.
+Amie, 
+THEODORE.
+La volupte nous... 
+L'ACTRICE.
+Crie, 
+THEODORE.
+D'une voix... 
+L'ACTRICE.
+Attendrie : 			[210]
+ENSEMBLE.
+Plus de retard frivole, 
+Profitez des beaux jours : 
+Hatez-vous; car le temps vole, 
+Vole avec vos amours. 
+THEODORE.
+Dans la piece ou vous jouez ce soir, il y a des ariettes sans doute ? 
+L'ACTRICE.
+Et vous voulez que j'en chante une ? 
+THEODORE.
+Vous me devinez toujours. 
+L'ACTRICE.
+Mais, au moins, ne jugez pas la piece d'apres une ariette detachee ; ce serait trop severe. 
+THEODORE.
+Je vous le promets. 
+L'ACTRICE.
+Allons, aussi bien, cela me vaudra une repetition. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)THEODORE.
+On ne peut chanter avec plus de gout. 
+L'ACTRICE.
+Comme ce sera une premiere representation, je desire que le public soit aussi content que vous paraissez	l'etre.
+THEODORE.
+L'auteur serait sort heureux. Puisque vous jouez dans la piece de ce soir, je ne manquerai pas d'aller vous entendre et de vous applaudir.
+L'ACTRICE.
+Je vous en suis obligee ; mais n'oubliez pas l'auteur. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il faut qu'entre l'auteur et moi, 			[215]
+Votre indulgence se partage : 
+Il a besoin de nous, ma foi ! 
+Pour le succes de son ouvrage. 
+Puis, a la piece de ce soir 
+Ne mettez pas trop d'importance : 			[220]
+Je vous le dis confidemment : 
+Ce n'est qu'une piece a tiroir, 
+Qu'on doit juger sans consequence. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XII.
+THEODORE, seul.
+Elle est fort aimable ; mais ce n'est pas la ma Rosette. 
+SCENE XIII. Theodore, Dubois.
+DUBOIS.
+Voici le papa Vincent et sa fille. 
+SCENE XIV. Les Precedents, Vincent, Rosette.
+THEODORE, a Vincent.
+Que je vous sais bon gre d'etre revenu ! Vous etiez attendu avec la plus vive impatience : mais vous m'aviez donne votre parole.
+VINCENT.
+Et je la tiens toujours. Je ne sais pas comme ce miserable Dumont, qui voulait epouser ma fille... Je sors de chez lui... Je suis d'une colere... 
+THEODORE, a part.
+Mon stratageme a reussi. 
+ROSETTE, finement, regardant Theodore.
+On nous avait gagnes de vitesse. 
+VINCENT.
+A-t-on jamais vu une pareille conduite ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il m'offre son appartement ; 
+Mais voyez combien il m'abuse : 			[225]
+Je l'ai loue dans le moment, 
+Ose-t-il dire pour excuse. 
+Monsieur Dumont, jamais mon courroux 
+N'admettra vos propos frivoles. 
+Ma Rosette n'est pas pour vous ; 			[230]
+Pour elle je veux un epoux 
+Qui ne manque pas (bis) de paroles. (bis). 
+Ainsi, il ne sera jamais mon gendre : c'est un parti pris. 
+ROSETTE.
+Mon pere ! Que vous me rendez contente !
+THEODORE.
+Je puis donc me flatter... 
+VINCENT.
+Que voulez-vous dire ? 
+THEODORE.
+Que vous m'accepterez pour gendre, et que vous daignerez habiter cet appartement, avec ceux que vous aurez rendus si heureux.
+VINCENT.
+Nous verrons cela. Je reflechirai... Je chercherai a savoir si vous etes aime de ma fille. 
+ROSETTE.
+Mon pere, si vous voulez j'abregerai vos recherches. 
+VINCENT.
+Eh bien, tant mieux. Dans quelque temps... 
+ROSETTE.
+Dans quelque temps ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'amour ne veut pas qu'on differe 
+L'instant qui doit nous rendre heureux. 
+Si notre hymen vous plait, mon pere, 			[235]
+Au plutot, couronnez nos v?ux. 
+Oui, cette ardeur impatiente 
+Est bien pardonnable a mon c?ur : 
+En amour une heure d'attente, 
+Est un siecle pris au bonheur. 			[240]
+DUBOIS.
+Faut-il aller chercher le notaire ? 
+THEODORE.
+Qui vient encore nous troubler ? 
+SCENE XV. Les Precedents, Un Perruquier Gascon.
+LE GASCON.
+Serbitur a toute la compagnie. Qui est le maitre de cette maison. 
+DUBOIS, montrant Theodore.
+Le voici ; mais que voulez-vous ? 
+LE GASCON.
+Ce que je vux, sandis ! Velle demande ! N'e-je pas lu sur la porte un petit couplet annoncant un appartement a louer ?... Il a pique ma curiosite, et je vux le louer. 
+VINCENT.
+Serieusement ? 
+LE GASCON.
+Eh donc ! Je vous en paie le prix, et m'installe dans ma noubelle demure. 
+THEODORE.
+Je suis bien fache de vous refuser ; mais cet appartement... 
+LE GASCON.
+Sandis! Je le prends. Il me convient. Voila ma chambre a coucher, mon sallon de compagnie. 
+THEODORE.
+Cependant... 
+VINCENT, a Theodore.
+Amusons-nous en un moment. 
+LE GASCON.
+Est-ce de l'argent qu'il bous saut ? Je vous en vaillerai d'abance. Boulez-bous de l'on, des ecus, des villets de la casse des comptes courants ?... Tout cela je m'en vast l'?il. 
+THEODORE, souriant.
+Je n'ai plus rien a dire. 
+LE GASCON.
+Cadedis ! Bous ne me connoissez pas. Refuser un homme de mon importance ! Sabez bous qui je suis ?
+VINCENT.
+Perruquier. 
+LE GASCON.
+Coifur, s'il bous plait. Coifur... Mais je bais lacher le metier. 
+THEODORE.
+Pourquoi ? 
+LE GASCON.
+Il n'y a plus rien a faire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Plus de houcles, plus de crochets, 
+De papillotes, de frisure : 
+L'art, avondonnant ces apprets, 
+N'est plus ribel de la nature. 
+Paubres perruquiers, mes amis, 			[245]
+Descendez bite votre enseigne ; 
+Car ce n'est plus qu'aux ennemis 
+Qu'on donne un coup de peigne. 
+DUBOIS.
+Vous m'avez l'air d'un fin matois, et je suis sur que vous connaissez bien votre monde. 
+LE GASCON.
+Cap de bious ! Si je le connois ! Je puis, sans me vanter, assurer que personne n'a plus de perspicacite que moi. Au premier coup-d'?il, je debine un particulier... J'ai le tact : on se cacherait en bain de moi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je bois sous des airs d'opulence, 
+L'intrigue et la mechancete, 			[250]
+Sous les haillons de l'indigence, 
+Je debine la provite; 
+Pour penetrer plus d'un mystere, 
+Je lis d'avord sans emvarras, 
+Dans tous les c?urs; mais comment faire 			[255]
+Abec les gens qui n'en ont pas? 
+THEODORE.
+C'est assez difficile. Vous avez une penetration incroyable. 
+LE GASCON.
+Penetration; c'est le mot. Je sais ce que l'on pense, ce que l'on est, ce que l'on a ete, et souvent, ce que l'on sera. Je connais la fortune de chaque particulier. 
+VINCENT.
+Pourriez-vous nous dire quelle est la votre ? 
+LE GASCON.
+Rives de la Garonne ! Elle est si etendue que je ne la connais pas. 
+VINCENT.
+En ce cas, on ne peut vous louer cet appartement. 
+THEODORE.
+Oui ; j'avoue qu'il est cher, et le prix...
+LE GASCON.
+Fi donc, le prix !... Jamais je ne m'informe du prix. La velle vagatelle, pour me rompre la tate ! J'ai un magasin consideravle de perruques, de faux toupets, de chignons, de quoi acheter votre maison, et quatre autres abec.
+THEODORE.
+Mais si cet appartement etait loue ? 
+LE GASCON.
+Impoussivle. 
+THEODORE.
+C'est cepeudant la verite, et vous me ferez plaisir...
+LE GASCON.
+Bous n'abez pas ote l'ecriteau... Partant, il est a louer, et je l'aurai. 
+THEODORE.
+Mais...
+LE GASCON.
+Bous n'abez pas ote l'ecriteau. 
+DUBOIS, bas, a Theodore.
+Vous ne risquez rien... Je gage qu'il n'a pas un sou. 
+THEODORE.
+Allons ; je me rends... Ainsi donnez-moi des arrhes. 
+LE GASCON.
+Comment des arrhes ! 
+VINCENT.
+Oui, le denier-a-dieu. 
+LE GASCON.
+Cadedis ! C'est vous qui debez m'eu donner. 
+THEODORE.
+C'est un peu fort. 
+LE GASCON.
+Allons, trebe de plaisanteries. 
+ROSETTE.
+On ne plaisante pas. 
+LE GASCON.
+Bous boulez rire ? Est-ce qu'a Vordeaux, quand je loue un appartement ou une boiture, ce n'est pas le proprietaire ou le boiturier, qui me donne les arrhes ? demandez plutot.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est pour cela que je suis monte. 
+VINCENT.
+Il est jovial. 
+LE GASCON, a part.
+Comment faire, je n'ai pas le sou. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais, s'il ne tient qu'a cela, je ne disputerai pas... Je bais bous payer.... Qu'est-ce qu'il bous saut ?.... Non, dites-le moi franchement...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Aih ! Moun Diou ! Qu'es a co ? Le Diable me retape, j'ai ouvlie ma vourse...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Faites-moi le plaisir de me preter un ecu de six francs, pour lui donner le denier-a-dieu.
+VINCENT.
+La demande est un peu leste. 
+LE GASCON.
+Je ne me gene jamais abec mes amis. 
+VINCENT.
+J'en suis fache ; mais je n'ai rien a vous preter. 
+LE GASCON.
+Allons ; je bois vien que bous ne boulez pas me louer l'appartement, je me retire; et, comme je n'ai pas de rancune, je bous offre mon petit ministere, s'il faut a mademoiselle un chignon a la grecque, une perruque a la Titus, un flacon d'excellente huile antique que j'ai fabriquee ce matin, bous poubez bous adresser a Chrisostome Poudrac, au coin de la rue Bide-Gousset.
+ROSETTE.
+Vous faites donc des perruques ? 
+LE GASCON.
+Si j'en fais !... J'en sais a chacun selon son gout, son etat, son caractere et ses moyens, et je bends..... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Au juge, perruque a vonet, 
+Blonde ou brune a la june Hortense; 
+Au parbenu, qui s'y connait, 
+Une perruque a circonstance; 			[260]
+Peruque de chevux naissants 
+A la bieille sans chebelure ; 
+Perruque plate a vien des gens, 
+Pour les coiffer a lur figure. 
+Adioussias.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVI. Vincent, Rosette, Theodore, Dubois.
+VINCENT.
+Nous voici debarrasses de cet importun.... Dubois, pour ne plus craindre de facheux, tu vas detacher l'ecriteau... C'est moi qui loue l'appartement. 
+THEODORE.
+Que de bonte ! 
+VINCENT.
+Mes enfants, nous y vivrons tous trois en famille... Theodore, je vous accepte pour gendre, et je crois que Rosette n'aura jamais a se repentir de son choix.
+THEODORE.
+Je m'efforcerai toujours de le justifier. 
+DUBOIS.
+Me chargerez-vous encore de recevoir les visites ? 
+THEODORE.
+Oui, les visites de noces. 
+VAUDEVILLE.
+Air : De la pipe de tabac.
+VINCENT.
+A ton hymen tu te prepares, 			[265]
+Moi, je loue un appartement ; 
+Tous deux nous te devons des arrhes, 
+Le marche sera plus constant : 
+En passant l'acte necessaire, 
+En emmenageant en ce lieu, 			[270]
+Je t'offre l'amitie d'un pere, 
+Et mes biens pour denier-a-dieu. 
+THEODORE, a Vincent.
+Vos bienfaits passent votre dette, 
+Et vous etes quitte envers moi; 
+Il reste a l'aimable Rosette.... 			[275]
+VINCENT.
+J'entends, et vais parler pour toi. 
+Je ne saurais, en conscience, 
+De Rosette lui tenir lieu : 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Donne-lui, ma fille, en avance, 
+Un baiser pour denier-a-dieu. 			[280]
+ROSETTE, au public.
+Nous avons, desirant vous plaire, 
+Pris un appartement nouveau ; 
+S'il vous plait, le proprietaire 
+N'otera pas son ecriteau. 
+Approuvez, avec complaisance, 			[285]
+Le marche conclu dans ce lien ; 
+Par un petit bruit d'indulgence, 
+Donnez-nous le denier-a-dieu. 
+
+	==================================================

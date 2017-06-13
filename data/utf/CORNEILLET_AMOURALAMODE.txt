@@ -1,0 +1,3199 @@
+********************************************************
+	DC.Title                  = L'AMOUR A LA MODE, COMEDIE.
+	DC.Author                 = CORNEILLE, Thomas
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:15.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CORNEILLET_AMOURALAMODE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'AMOUR A LA MODE COMEDIE1651
+Thomas Corneille
+	
+	
+	Represente pour la premiere fois en 1651 au Theatre de l'Hotel de Bourgogne.
+	ACTEURS
+ARGANTE, pere de Dorotee.
+ORONTE, Gentilhomme Parisien.
+FLORAME, amant de Lucie.
+ERASTE, amant de Dorotee.
+DOROTEE, fille d'Argante.
+LUCIE, soeur d'Eraste.
+LISETTE, suivante de Dorotee.
+CLITON, valet d'Oronte.
+LICAS, valet de Florame.
+LISTOR, valet d'Eraste.
+
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Oronte, Cliton.
+ORONTE.
+As-tu fait mon message ? 
+CLITON.
+Oui, Monsieur. 
+ORONTE.
+Et ma lettre,
+Aux mains de Dorothee as-tu su la remettre ?
+CLITON.
+En main propre. 
+ORONTE.
+D'abord elle aura refuse 
+D'y voir peint le tourment que ses yeux m'ont cause, 
+Te l'aura voulu rendre, et feignant... 
+CLITON.
+Au contraire, 			[5]
+Sans se faire prier elle l'a lue entiere. 
+ORONTE.
+A ce coup le succes a passe mon espoir. 
+Elle ne me hait pas, a ce que je puis voir ? 
+CLITON.
+Du plus fort de ses traits l'Amour pour vous la blesse, 
+Et vous avez, Monsieur, plus d'heur que de sagesse. 			[10]
+ORONTE.
+Je n'esperais pas tant. 
+CLITON.
+Dans cet amour nouveau 
+Vous avez vent en poupe, et voguez en pleine eau, 
+Vous pourrez aller loin de l'air dont on vous traite. 
+ORONTE.
+Tu sais a quels revers ma fortune est sujette. 
+CLITON.
+Voici de quoi guerir une si vaine peur. 			[15]
+ORONTE.
+Qu'est-ce ? 
+CLITON.
+Lettre pour lettre, et faveur pour faveur. 
+ORONTE.
+Elle m'a fait reponse ? 
+CLITON.
+Au moins pour vous la rendre 
+Chez elle assez longtemps elle m'a fait attendre, 
+Et ce billet enfin entre mes mains remis... 
+ORONTE.
+Ouvrons, il m'apprendra quel espoir m'est permis. 			[20]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour prix de votre amour que vous peignez extreme... 
+J'avais ecrit en vers, elle repond de meme, 
+Il n'est rien dont sans peine elle ne vienne a bout. 
+CLITON.
+Les femmes aujourd'hui mettent le nez partout.
+ORONTE, lit.
+Pour prix de votre amour que vous peignez extreme, 			[25]
+Oronte, vous osez me demander le mien ; 
+Quelquefois par bonte j'endure que l'on m'aime, 
+Mais je pretends aussi qu'il ne m'en coute rien. 
+Vous donner coeur pour coeur serait un avantage 
+Ou le plus grand merite a peine ose aspirer. 			[30]
+Voyez ce que je vaux ; mais m'offrez votre hommage, 
+Je le souffre, de quoi pouvez-vous murmurer ? 
+Serait-ce qu'en effet votre amour fut si forte 
+Qu'on le dut estimer digne d'un plus grand prix ? 
+Faisons un compte exact, et supputons de sorte 			[35]
+Que l'un ni l'autre enfin n'y puisse etre surpris. 
+Si ces brulants soupirs, qui vous sont ordinaires, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous donnent quelque espoir de me mettre a retour, 
+Croyez-moi, cent soupirs souvent ne pesent gueres, 
+Et n'emportent qu'a peine un demi grain d'amour. 			[40]
+On peut pour en juger, en prenant la balance, 
+Leur opposer l'honneur de vous voir dans mes fers. 
+Si vous etes d'accord de cette experience, 
+J'offre de vous donner mon coeur, si je le perds. 
+Sa reponse est adroite autant qu'elle est galante, 			[45]
+J'aime tous ces dehors d'une humeur arrogante, 
+Et ce charmant orgueil a m'ecrire affecte 
+N'a pas moins de pouvoir sur moi que sa beaute. 
+CLITON.
+Vous chantiez un peu haut, elle vous rend le change ? 
+ORONTE.
+Sa lettre aussi pour moi, Cliton, n'a rien d'etrange, 			[50]
+Si le style en est fier, il imite le mien, 
+Je vantais mon merite, elle vante le sien. 
+CLITON.
+C'est vous payez sur l'heure en la meme monnaie. 
+ORONTE.
+Pour surprendre mon coeur c'est la plus sure voie. 
+Cette presomption qu'elle etale a son tour, 			[55]
+Ne fut jamais defaut en matiere d'amour, 
+Une belle ame seule en peut etre capable, 
+Ou si c'est un defaut, c'est un defaut aimable. 
+Quelque superbe humeur que je temoigne avoir, 
+J'aime qu'un bel objet se fasse un peu valoir, 			[60]
+Qu'il voie avec dedain qu'a l'aimer on s'apprete, 
+Et mettre a bien haut prix l'espoir de sa conquete. 
+Ne montrer des l'abord ni mepris, ni rigueur, 
+Bien loin de l'acquerir, c'est mendier un coeur, 
+Et ce coeur qui se rend quand on l'en sollicite, 			[65]
+Se donne a la pitie bien plutot qu'au merite. 
+Le mien a ces appas se laisse peu toucher, 
+J'estime seulement ce qui me coute cher, 
+Et pour te dire tout, la faveur la plus grande 
+N'est point pour moi faveur, a moins qu'on me la vende. 			[70]
+CLITON.
+Vous avez en amour le gout bien deprave. 
+Mais Flore, qu'en est-il ! 
+ORONTE.
+Son regne est acheve, 
+Mon ame a ses rigueurs a la fin s'est soustraite. 
+CLITON.
+Mais vous aimez pourtant, Monsieur, qu'on vous maltraite ? 
+ORONTE.
+Oui, pourvu qu'un Rival ne soit pas mieux traite, 			[75]
+Et qu'on me fasse voir une noble fierte, 
+Qui semblant s'indigner de mon peu de merite, 
+Loin d'amortir mon feu, l'entretienne et l'irrite. 
+Mais enfin Dorotee a beau dissimuler, 
+D'une flamme secrete elle se sent bruler, 			[80]
+Et son coeur a l'amour jusqu'ici peu sensible 
+Veut perdre en ma faveur le titre d'invincible. 
+J'ose en juger par moi qui cede a ses appas. 
+CLITON.
+C'est une verite dont on ne doute pas. 
+Graces au Ciel, Monsieur, vous avez l'ame bonne, 			[85]
+Et qui plus est, le don de ne hair personne. 
+ORONTE.
+Moi ? 
+CLITON.
+Vous. Je vous connais mieux que vous ne croyez. 
+Votre humeur est d'aimer tout ce que vous voyez, 
+Et c'est pour Dorotee un bien fort inutile 
+Qu'un coeur a partager avec plus de deux mille. 			[90]
+ORONTE.
+C'est en dire un peu trop. 
+CLITON.
+Je dis ce que je vois. 
+ORONTE.
+Pour le moins aujourd'hui n'en aimai-je que trois.
+Et meme de ces trois dont mon ame est charmee, 
+Comme la plus aimable, elle est la plus aimee. 
+CLITON.
+Le parti donc pour elle est encore assez doux, 			[95]
+Si n'en aimant que trois... 
+ORONTE.
+Eraste vient a nous, 
+Tais-toi. 
+CLITON.
+Sans doute il a quelque chose a vous dire. 
+ORONTE.
+Il le faut aborder. 
+SCENE II. Oronte, Eraste, Cliton.
+ORONTE.
+Ami, je vous vois rire, 
+La joie est dans vos yeux. 
+ERASTE.
+Et bien plus dans mon coeur. 
+D'une fiere Beaute j'ai vaincu la rigueur, 			[100]
+Et contre cent mepris mon amour obstinee
+Est prete enfin de voir sa flamme couronnee.
+ORONTE.
+Quoi ? Vous aimiez, Eraste, et m'en faisiez secret ? 
+ERASTE.
+La vertu d'un amant, c'est d'etre amant discret. 
+ORONTE.
+Notre amitie s'en plaint. 
+ERASTE.
+La mienne m'autorise			[105]
+A vous ouvrir mon coeur avec toute franchise. 
+De cet aimable objet qui regle mon destin 
+J'ai recu pour faveur ce billet ce matin. 
+Quoiqu'il semble a mes voeux promettre peu de chose, 
+J'ai sujet de m'en faire un bonheur par sa cause. 			[110]
+Quiconque ecrit s'engage, ou laisse a presumer, 
+S'il n'aime pas encor, qu'il n'est pas loin d'aimer. 
+ORONTE.
+Ainsi donc votre amour a tout ce qu'il souhaite ? 
+ERASTE.
+Obtiendrai-je une grace, et ma joie est parfaite ? 
+ORONTE.
+Mes soins vous sont acquis, parlez-moi librement. 			[115]
+ERASTE.
+Je dois une reponse a ce billet charmant ; 
+Mais sans votre secours je n'y puis satisfaire, 
+Il est ecris en vers, et je n'en saurais faire. 
+Chargez-vous de ce soin. 
+ORONTE.
+Le passe vous fait foi 
+Que j'ai toujours ete bien plus a vous qu'a moi, 			[120]
+Je ferai mes efforts pour remplir votre attente. 
+ERASTE.
+C'est m'obliger, adieu. 
+SCENE III. Oronte, Cliton.
+CLITON.
+La priere est galante. 
+ORONTE.
+Apres ce premier pas j'ose esperer qu'un jour 
+Il me priera pour lui d'aller traiter l'amour ; 
+Au moins avec raison puis-je tout m'en promettre, 			[125]
+S'il lui faut mon secours pour ecrire une lettre. 
+Que t'en semble ? 
+CLITON.
+Si j'ose en dire mon avis, 
+En lui si c'est sottise, en vous c'est encor pis.
+ORONTE.
+Tu parles franchement. 
+CLITON.
+Aussi, Monsieur, j'enrage 
+Que vous mettiez pour lui vos talents en usage. 			[130]
+Quand pres de quelque objet vous jurez quelquefois, 
+Quoiqu'en pleine sante, d'etre presque aux abois, 
+Et que vous debitez les plus douces fleurettes 
+Pour mieux peindre des maux qu'a plaisir vous vous faites, 
+Je n'en murmure point, et je vois sans courroux, 			[135]
+Du moins si vous mentez, que vous mentiez pour vous ; 
+Mais qu'un faible interet l'emportant sur le votre 
+Vous fasse encor resoudre a mentir pour un autre, 
+Comme si c'etait peu, pour vous de vos peches... 
+Car enfin savez-vous les sentiments caches. 			[140]
+S'il est amant, peut-etre est-ce a dessein de rire, 
+Et vous irez jurer qu'il languit, qu'il soupire ? 
+ORONTE.
+J'ai pu m'en exempter, il m'etait fort aise, 
+Et tout autre qu'Eraste eut ete refuse ; 
+Mais si ce meme Eraste est frere de Lucie, 			[145]
+L'une des trois Beautes dont mon ame est ravie, 
+Et si par un effet de son heureux destin 
+De Dorotee encore il est proche Voisin, 
+Puis-je rien refuser a qui m'est necessaire, 
+Tantot comme voisin, et tantot comme frere.			[150]
+CLITON.
+C'est prevoir de bonne heure a tout, et d'assez loin. 
+ORONTE.
+Il n'est si sot Ami qu'on n'emploie au besoin, 
+De ma facilite c'est la raison secrete. 
+Mais il faut voir enfin de quel air on le traite. 
+CLITON.
+Peut-etre s'en rit-on. 
+ORONTE.
+C'est comme je l'entends, 			[155]
+Ou s'il est regale, que c'est a ses depens. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour prix de votre amour que vous peignez extreme, 
+Eraste, vous osez me demandez le mien ; 
+Quelquefois par bonte j'endure que l'on m'aime, 
+Mais je pretends aussi qu'il ne m'en coute rien. 			[160]
+Vous donner coeur pour coeur... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ai-je pris l'un pour l'autre ? 
+CLITON.
+Sans doute, ou ce Billet ressemble fort au votre. 
+ORONTE.
+Jamais telle surprise a mes sens ne s'offrit, 
+C'est ici mot pour mot tout ce que l'on m'ecrit, 
+Et je reconnais trop, plus je les etudie, 			[165]
+Si j' j'ai l'Original, qu'Eraste a la Copie. 
+L'ecriture est semblable, et ne differe point. . 
+CLITON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous etes a peu pres chausses a meme point. 
+N'importe, Dorotee a beau faire la fine, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous l'avez devine, tout son fait n'est que mine, 			[170]
+Et l'orgueil de sa Lettre a dessein affecte 
+Tend un piege secret a votre liberte, 
+Elle brule, et l'Amour lui seul la fait ecrire ? 
+Ah, si devant un Maitre un Valet osait rire... 
+ORONTE.
+Non, je ne pretends point, Cliton, t'en empecher ; 			[175]
+Ris, j'en rirai moi-meme au lieu de m'en facher. 
+CLITON.
+Mettez le masque bas, deja pour vous j'enrage. 
+Que sert a mauvais jeu de montrer bon visage ? 
+Pestez, le mal redouble a qui se contraint tant. 
+Vous etes, Dieu merci, de vous assez content, 			[180]
+Et vous voir pris pour dupe ou vous pensiez y prendre. 
+Croyez-moi, c'est un cas, Monsieur, a s'en aller pendre. 
+ORONTE.
+La piece est delicate, et je ne cele pas 
+Qu'un Sot en ce rencontre eut pousse force helas, 
+Et contre ces assauts manquant d'experience, 			[185]
+De sa maligne etoile accuse l'influence ; 
+Mais pour moi qui connais ce que c'est que d'aimer, 
+De semblables revers ne peuvent m'alarmer : 
+Si chaque Objet me plait, c'est sans inquietude, 
+Jamais de preference, et point de servitude, 			[190]
+Toujours pret de le perdre, et de m'en detacher 
+Au moindre evenement qui me pourrait facher. 
+Ainsi quelque beau feu que je fasse paraitre, 
+Pour ne rien hasarder, j'en suis toujours le maitre ; 
+Ainsi divers Objets m'engageant chaque jour 			[195]
+Je me regarde seul dans ce trafic d'Amour, 
+Et chassant de mon coeur celui qui m'incommode, 
+Si je sais mal aimer, du moins j'aime a la mode. 
+CLITON.
+Conservez cette humeur, vous en aurez besoin. 
+ORONTE.
+Mon deplaisir, Cliton, ne va jamais plus loin ; 			[200]
+Si l'une me trahit, l'autre me tient parole, 
+Et j'ai dans mon malheur toujours qui m'en console. 
+C'est la l'utilite d'aimer en divers lieux. 
+CLITON.
+Hilas, tant qu'il vecut, ne l'entendit pas mieux. 
+ORONTE.
+Son humeur et la mienne ont quelque difference, 			[205]
+J'aime tant que l'on m'aime, et n'ai point d'inconstance ; 
+Mais quand par un caprice on songe a me quitter, 
+Je suis trop mon ami pour m'en inquieter, 
+Je vois ce changement sans que mon coeur s'irrite, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et remplace aisement la part qu'on m'en racquitte, 			[210]
+Ainsi je vis heureux, tant paye que tenu. 
+CLITON.
+Votre coeur a ce compte est d'un bon revenu ? 
+ORONTE.
+Tel qu'il est, de beaucoup il attire l'envie ; 
+Mais j'en dois la moitie tout au moins a Lucie. 
+CLITON.
+En ceci le partage est un etrange point. 			[215]
+Donnez-le tout entier, ou ne le donnez point, 
+Votre flamme autrement sera mal ecoutee, 
+Et Lucie agira comme a fait Dorotee. 
+ORONTE.
+Je n'ai pas lieu d'en craindre un pareil traitement, 
+Lucie agit toujours avecque jugement, 			[220]
+Sa conduite est reglee, elle est modeste et sage, 
+Et le plus defiant n'en prendrait pas ombrage. 
+Je trouve seulement en elle un grand defaut. 
+CLITON.
+Quel est-il ? 
+ORONTE.
+Elle m'aime un peu plus qu'il ne faut. 
+CLITON.
+Et ce defaut est grand ? 
+ORONTE.
+Il est des plus notables ; 			[225]
+Les querelles d'Amour sont querelles aimables. 
+Il est beau que l'Objet qui nous tient sous sa loi 
+Quelque fois a dessein soupconne notre foi, 
+C'est par la qu'en nos coeurs l'Amour se fortifie, 
+Il semble qu'il renait quand il se justifie. 			[230]
+Quelque desordre en nous qu'un reproche ait produit, 
+Il trouve un doux remede au pardon qui le suit. 
+Quelque faveur nouvelle aussitot l'accompagne,
+Et jamais l'Accuse n'y perd tant qu'il y gagne : 
+Mais lorsque d'un Amant on remplit les souhaits, 			[235]
+Comme l'on vit sans guerre, on ne fait point de paix, 
+L'Amour triste et pensif va son train ordinaire, 
+Servant par habitude on perd tout soin de plaire, 
+Point de delicatesse, et pour qui vit ainsi, 
+C'est toujours, Vous m'aimez et je vous aime aussi : 			[240]
+Qui ne hairait point ces grossieres pratiques ? 
+CLITON.
+Vous y savez, Monsieur, d'admirables rubriques, 
+Pour y raffiner tant vous avez bien reve. 
+SCENE IV. Oronte, Florame, Cliton.
+FLORAME.
+Ami, je suis heureux de vous avoir trouve, 
+Je vous cherchais partout. 
+ORONTE.
+Que veut de moi Florame ? 			[245]
+FLORAME.
+Vous decouvrir enfin les secrets de mon ame. 
+ORONTE.
+C'est intrigue d'Amour ? 
+FLORAME.
+Vous l'avez devine. 
+Par mon pere a l'hymen je me vois destine, 
+Et quoique je lui montre une ame irresolue, 
+L'affaire de sa part en secret est conclue. 			[250]
+La personne est aimable, et d'illustre maison, 
+Mais une autre Beaute captive ma raison, 
+Et quoiqu'un grand obstacle a cette amour s'oppose, 
+Mon coeur n'est plus a moi si Lucie en dispose. 
+ORONTE.
+Lucie ! 
+FLORAME.
+Avec raison vous vous en etonnez. 			[255]
+CLITON, bas.
+Voila mon galant Homme avec un pied de nez. 
+FLORAME.
+Cette vieille froideur qui m'eloigne du Frere. 
+Semble oter a la Soeur les moyens de me plaire, 
+Mais qu'on s'obstine en vain a rejeter la loi 
+De qui pour Souverain ne reconnait que soi ! 			[260]
+L'Amour par tyrannie obtient ce qu'il demande, 
+S'il parle, il faut ceder, obeir s'il commande, 
+Et ce Dieu, tout aveugle et tout enfant qu'il est, 
+Dispose de nos coeurs quand et comme il lui plait. 
+Ainsi malgre l'effort d'une haine endurcie, 			[265]
+Je n'ai pu resister aux charmes de Lucie, 
+Quoique pour arriver au but que je pretends 
+Mon espoir le plus doux soit d'esperer au temps. 
+ORONTE.
+Sans doute que d'Eraste il levera l'obstacle, 
+Il fait de grands coups. 
+FLORAME.
+J'en attends ce miracle. 			[270]
+Cependant chez Lucie un secret rendez-vous 
+Ce soir offre a ma flamme un entretien fort doux, 
+Sa Suivante au signal me doit ouvrir la porte. 
+Ce lieu m'etant suspect, daignez m'y faire escorte, 
+Aurez-vous ce loisir ? 
+ORONTE.
+Oui, je vous le promets, 			[275]
+Pour servir un ami je n'en manque jamais. 
+FLORAME.
+Je vous prendrai chez vous. 
+SCENE V. Oronte, Cliton.
+CLITON.
+Elle est modeste et sage, 
+Et le plus defiant n'en prendrait pas ombrage, 
+Sa conduite est reglee, et sans ce grand defaut 
+Qui la fait vous aimer un peu plus qu'il ne faut, 			[280]
+Elle serait seconde en qualites exquises ? 
+ORONTE.
+Tu vas tout de nouveau debiter cent sottises. 
+CLITON.
+Jamais d'un autre Amant elle ne fit de cas ? 
+Dites encor, Monsieur, que vous n'enragez pas. 
+ORONTE.
+A quel sujet ? 
+CLITON.
+Pourquoi deguiser de la sorte ? 			[285]
+Vous enragez, vous dis-je, ou le Diable m'emporte. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Verriez-vous sans depit deux Amours a vau-l'eau ? 
+ORONTE.
+Leur perte a mon humeur offre un jeu tout nouveau, 
+Et des que je verrai Dorotee ou Lucie... 
+CLITON.
+Quoi, vous leur parlerez ? 
+ORONTE.
+Oui, j'en brule d'envie. 			[290]
+C'est la que je pretends etaler a leurs yeux 
+Ce que l'art de se plaindre a de plus curieux, 
+Les soupirs seuls alors auront pour moi des charmes, 
+S'ils font trop peu d'effet, j'aurai recours aux larmes, 
+Mille sanglots confus feront mon entretien, 			[295]
+Mais j'aurai beau gemir, mon coeur n'en saura rien, 
+Et feignant qu'en la mort j'espere un prompt remede, 
+Je verrai sans douleur qu'un autre les possede. 
+CLITON.
+Pour vous voir a toute heure on ne vous connait pas. 
+ORONTE.
+Un peu de patience, et tu me connaitras. 			[300]
+Cependant ce quartier ne m'est pas si funeste 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que je n'y sache encor ou jouer de mon reste. 
+CLITON.
+Et vous pensez trouver qui vous ecoutera ? 
+ORONTE.
+Oui, Cliton, avec joie, et quand il me plaira. 
+Certaine Brune hier trouvee aux Tuileries 			[305]
+Servit longtemps d'objet a mes galanteries ; 
+Nous fimes connaissance, ou je fus assez sot 
+D'offrir un diamant dont on me prit au mot, 
+Et toute la faveur que j'obtins de la Belle, 
+Fut d'agreer ma main pour la mener chez elle. 			[310]
+CLITON.
+Et vous entrates ? 
+ORONTE.
+Non ; par certaine raison 
+Je dus me contenter d'avoir su sa maison. 
+Mais aujourd'hui, Cliton, elle attend ma visite, 
+Et me voudra du mal si je ne m'en acquitte. 
+Viens, suis-moi, ce detour nous cache son logis. 			[315]
+CLITON.
+Avant que d'avancer, encor un mot d'avis. 
+Elle est gaie ? 
+ORONTE.
+A ravir. 
+CLITON.
+Et s'appelle ? 
+ORONTE.
+Lisette.
+CLITON.
+Passez votre chemin, votre visite est faite. 
+ORONTE.
+Maraud. 
+CLITON.
+Passez, vous dis-je, et n'y pretendez rien, 
+Personne n'a qu'y voir. 
+ORONTE.
+Pourquoi ? 			[320]
+CLITON.
+Je le sais bien. 			[320]
+ORONTE.
+Mais elle m'a promis qu'aujourd'hui... 
+CLITON.
+C'est adresse. 
+ORONTE.
+Tu la connais donc bien ? 
+CLITON.
+Que trop ; c'est ma Maitresse. 
+ORONTE.
+Elle est vetue en Dame ! 
+CLITON.
+A mon plus grand regret. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ses beaux habits, Monsieur, mangent mon petit fait, 
+Et comme a plus fournir ma bourse est impuissante, 			[325]
+D'aujourd'hui seulement elle sert de Suivante. 
+ORONTE.
+Chez qui ? 
+CLITON.
+C'est dont ce soir je dois etre averti ; 
+Il est bon cependant que vous preniez parti, 
+Car si tout votre espoir en Lisette se fonde, 
+Soyez sur que pour vous il n'en est plus au monde. 			[330]
+Votre coeur est vacant, et par provision 
+Vous le pouvez louer s'il s'offre occasion. 
+ORONTE.
+Malgre le rude coup que ce succes lui porte ; 
+Tu le verras bientot brigue de bonne sorte. 
+CLITON.
+Il peut de mille voeux se voir importune, 			[335]
+Mais qui n'en croira rien ne sera pas damne. 
+Ne me vantez plus tant desormais vos adresses, 
+Ce matin meme encor vous comptiez trois Maitresses, 
+Qu'il semblait que pour vous l'Amour poussat a bout, 
+Et voila qu'un moment a fait rafle de tout. 			[340]
+ORONTE.
+Il ne faut pas toujours juger sur l'apparence. 
+CLITON.
+Vous faites bien, Monsieur, de vivre d'esperance ; 
+Tout mal semble leger a qui s'en peut nourrir. 
+ORONTE.
+J'aurais grand tort, Cliton, de n'y pas recourir, 
+Puisque pour regagner Dorotee et Lucie 			[345]
+Il est et du soupcon et de la jalousie, 
+Et que pour mettre aussi Lisette a la raison, 
+Un diamant eclate, et que l'or a du son ; 
+Ces remedes souvent font plus qu'on ne desire, 
+Mais chez moi pour Eraste il faut aller ecrite, 			[350]
+Viens. 
+CLITON.
+Vous vaincrez partout, si je m'y connais bien. 
+ORONTE.
+Laisse faire le temps, et ne jure de rien. 
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Florame, Lucie, Licas.
+FLORAME.
+Quoi, voir tant de respect d'un oeil toujours severe ? 
+LUCIE.
+Florame, je ne sais que ce que je dois faire. 
+FLORAME.
+Quand pourrai-je obtenir un traitement plus doux ? 			[355]
+LUCIE.
+En cessant de m'offrir ce qui n'est plus a vous. 
+FLORAME.
+Ce coeur brule d'amour touche si peu le votre ? 
+LUCIE.
+Je ne m'enrichis point des depouilles d'une autre. 
+FLORAME.
+Quel reproche honteux faites-vous a ma foi ? 
+LUCIE.
+Celui qu'un Inconstant doit attendre de moi. 			[360]
+FLORAME.
+Donc de ma flamme ailleurs j'ose porter l'hommage ? 
+LUCIE.
+Il ne m'est pas permis d'en dire davantage. 
+Quoique je sois d'un sexe estime peu discret, 
+Florame, j'ai promis de garder le secret. 
+FLORAME.
+Quelqu'un aupres de vous me rend mauvais office, 			[365]
+Mais en vain pour me perdre on use d'artifice, 
+Je vous aile, Lucie, et le Ciel m'est temoin... 
+LUCIE.
+Vous vous justifierez quand il sera besoin. 
+Laissez-moi seule ; ici ma gloire se hasarde, 
+D'un et d'autre cote je vois qu'on vous regarde, 			[370]
+Et dans ces lieux enfin un plus long entretien 
+M'est de grand prejudice, et ne vous sert de rien. 
+FLORAME.
+Que cette retenue est contraire a ma joie ! 
+J'obeis, mais encor, que faut-il que je croie ? 
+LUCIE.
+Que malgre la rigueur qu'a tort vous m'imputez, 			[375]
+Je vous estime autant que vous le meritez. 
+FLORAME.
+Qu'au moins un peu d'amour suive une telle estime. 
+LUCIE.
+Pretendre au bien d'autrui serait commettre un crime. 
+Je vous l'ai deja dit. 
+FLORAME.
+Ce discours eclairci... 
+LUCIE.
+Il vous parait obscur, je le veux croire ainsi, 			[380]
+Mais si votre ame enfin s'en trouve inquietee, 
+Vous pouvez a loisir consulter Dorotee, 
+Elle en sait le mystere, adieu. 
+SCENE II. Florame, Licas.
+FLORAME.
+Tout est perdu. 
+D'ou peut-elle savoir cet Hymen pretendu, 
+Ou contre mes desirs mon Pere me destine ? 			[385]
+LICAS.
+Est-il rien si secret, Monsieur, qu'on ne devine ? 
+Peut-etre Dorotee en a fait vanite. 
+FLORAME.
+Non, elle en craint l'issue aussi de son cote, 
+Et si j'en puis juger aux troubles de son ame, 
+Ce n'est que par devoir qu'elle accepte ma flamme. 			[390]
+LICAS.
+Quel est donc votre espoir ? 
+FLORAME.
+D'aimer et de mourir 
+Plutot qu'au changement je songe a recourir. 
+Le recit de mes maux pourra toucher Lucie. 
+LICAS.
+Oui, mais ou lui parler sans que l'on nous epie ? 
+Comme son Frere et vous vous etes ennemis, 			[395]
+Chez elle aucun acces ne vous sera permis, 
+Et la voir seulement au temple, ou dans la rue, 
+Ou chacun est temoin d'une telle entrevue, 
+N'est pas pour l'obliger d'ecouter a loisir... 
+FLORAME.
+Je ne le vois que trop, et c'est mon deplaisir. 			[400]
+Aussi n'est-ce pas la que j'ose enfin pretendre, 
+Qu'apres tant de refus elle voudra m'entendre. 
+Sa suivante gagnee a force de presents 
+Depuis huit jours pres d'elle est de mes Partisans, 
+Et ce soir au signal trouvant la porte ouverte, 			[405]
+Je haterai, Licas, mon triomphe ou ma perte. 
+Dans sa chambre a ses pieds j'irai dans mon transport 
+Demander un arret ou de vie ou de mort, 
+Sur de voir aujourd'hui son amour ou sa haine 
+Par l'un ou l'autre effet mettre fin a ma peine. 			[410]
+LICAS.
+Mais quand vos coeurs unis auraient memes souhaits, 
+L'apparence qu'Eraste y consente jamais ? 
+FLORAME.
+Ces petits differents ou pour peu l'on s'engage, 
+Souvent pour s'assoupir veulent un Mariage. 
+A cela pret, Licas, poussons l'affaire a bout. 			[415]
+LICAS.
+S'il arrive d'ailleurs... 
+FLORAME.
+Tu mets un si partout, 
+Souffrez au moins que l'espoir entretienne ma flamme. 
+Mais qui dans cette allee amene cette dame ? 
+C'est Dorotee. O Dieux ! Coulons-nous doucement. 
+SCENE III. Dorotee, Lisette.
+DOROTEE.
+La promenade est belle, et ce lieu fort charmant. 			[420]
+LISETTE.
+Voici l'heure a peu pres qu'on y voit le beau monde. 
+DOROTEE.
+Aux rendez-vous publics d'ordinaire il abonde, 
+Et surtout, nos galants prennent soin chaque jour 
+D'y venir debiter leur gazette d'amour, 
+C'est-a-dire, Lisette, autant de menteries... 			[425]
+LISETTE.
+Donc le bureau d'adresse en est aux Tuileries ? 
+DOROTEE.
+Tu dis vrai, c'est ici qu'on nous en vient conter, 
+Et j'y suis comme une autre a dessein d'ecouter. 
+Les hommes sont trompeurs, mais quoi qu'on puisse faire, 
+Il faut quitter le monde, ou tacher de leur plaire, 			[430]
+Puisque enfin la beaute n'est qu'un triste ornement 
+Si de la complaisance elle n'a l'agrement. 
+Les plus charmants attraits qui parent un visage 
+Sans cette qualite n'ont qu'un appas sauvage, 
+Ce sont tresors caches qui ne servent de rien. 			[435]
+Pour moi, j'ai ma methode, et je m'en trouve bien, 
+A plaire aux yeux de tous mon esprit s'etudie, 
+Je tache d'etre belle afin qu'on me le die, 
+Et fais fort peu d'etat de ces dons precieux 
+Dont le farouche eclat ne frappe point les yeux. 			[440]
+Ce n'est pas toutefois que je sois si facile, 
+La plainte aupres de moi, n'est jamais fort utile
+C'est en vain qu'on affecte une fausse langueur, 
+L'amour par les soupirs n'entre point dans mon coeur. 
+L'orgueil de notre sexe elevant mon courage, 			[445]
+D'un air imperieux j'en soutiens l'avantage, 
+Et ne le croyant ne que pour donner des lois, 
+A qui porte mes fers j'en fais sentir le poids, 
+Sur ses propres desirs je regne en souveraine, 
+C'est sans abaissement que je flatte sa peine, 			[450]
+Et qu'apres un longtemps que l'on m'a fait sa cour, 
+Un peu d'espoir permis est le prix de l'amour. 
+LISETTE.
+Vous vous y gouvernez d'une etrange methode. 
+DOROTEE.
+C'est comme il faut aimer pour aimer a la mode ; 
+Pour peu qu'on se relache, on expose son coeur 			[455]
+Aux supremes mepris d'un insolent vainqueur. 
+Un Amant que l'on flatte, enfle de sa victoire, 
+De ses soumissions perd bientot la memoire, 
+Pour en avoir raison il le faut gourmander, 
+Et s'il n'est a la chaine on ne le peut garder. 			[460]
+LISETTE.
+Et dans cette rigueur vous trouvez votre compte ? 
+DOROTEE.
+Je t'avouerai, Lisette, avec un peu de honte... 
+Mais comme un jour t'acquiert mon inclination, 
+Recois ma confidence avec discretion. 
+LISETTE.
+Si ce jour est trop peu pour vous marquer mon zele, 			[465]
+Le temps vous fera voir que je vous suis fidele, 
+Et que votre secret est sur entre mes mains. 
+DOROTEE.
+Sache donc qu'aujourd'hui les hommes sont si vains, 
+Que depuis plus d'un mois peut-etre ou davantage, 
+De trois Amants a peine ai-je recu l'hommage, 			[470]
+Puisque sur l'un des trois la qualite d'epoux, 
+Quoique encore incertaine, attire mon courroux. 
+En faveur de Florame un Pere m'assassine, 
+J'en estime le bien, et l'esprit, et la mine, 
+Mais par quelques serments qu'il m'engageat sa foi, 			[475]
+L'esclave me fait peur qui doit etre mon Roi. 
+Eraste aussi m'en veut, un galant d'importance, 
+Et propre en un besoin a mourir de constance, 
+Mais si fort hors de mode et du temps de jadis, 
+Qu'il te disputerait a tous les Amadis. 			[480]
+Il est vrai que depuis, la defaite d'Oronte 
+D'un triomphe si bas efface bien la honte. 
+LISETTE.
+Ce cavalier vous sert ? 
+DOROTEE.
+Quoi, sais-tu quel il est ? 
+LISETTE.
+Je l'entends estimer. 
+DOROTEE.
+Lisette, qu'il me plait ! 
+L'air en est noble, aise, la mine peu commune, 			[485]
+Une humeur enjouee et jamais importune, 
+L'esprit aussi charmant que le port gracieux, 
+S'il parle galamment, il ecrit encor mieux, 
+A son propre merite il doit toute sa gloire, 
+Et connait ce qu'il vaut sans trop s'en faire accroire. 			[490]
+Je sens presque pour lui deja je ne sais quoi, 
+Et s'il continuait a soupirer pour moi, 
+Encor que de mon coeur la garde me soit chere, 
+Je pourrais me resoudre enfin a m'en defaire. 
+Par la juge, Lisette, ou j'en suis aujourd'hui			[495]
+LISETTE, montrant deux billets qu'elle tient..
+L'un de ces deux billets ne vient donc pas de lui, 
+Puisque sans demander seulement a les lire... 
+DOROTEE.
+Donne-les moi, Lisette, et te prepare a rire. 
+Etant prete a sortir quand je les ai recus, 
+Il m'a suffi pour lors d'en lire le dessus ; 			[500]
+Mais quoique Oronte ait part a la galanterie, 
+La piece a mon avis vaut bien que l'on en rie. 
+Sache qu'Eraste et lui m'offrent ici leurs voeux, 
+Et qu'a la meme lettre ils repondent tous deux. 
+LISETTE.
+Comment ? 
+DOROTEE.
+C'est assez de quoi faire un assez plaisant conte. 			[505]
+J'ecrivais ce matin un Billet pour Oronte, 
+Et voyant que pour l'autre il semblait fait expres, 
+J'ai voulu l'obliger sur l'heure a peu de frais, 
+J'ai transcrit le billet, et sans ceremonie 
+Regale son amour d'une belle copie. 			[510]
+Son pauvre esprit sans doute y repond de travers, 
+Voici sa lettre, ouvrons. O Dieu ! Ce sont des vers, 
+J'ignorais qu'il en fit. 
+LISETTE.
+Ce sont vers de menage, 
+Chacun communement en fait pour son usage. 
+DOROTEE, lit.
+Transparente beaute dont le coeur est ouvert... 			[515]
+Le ridicule mot dont ce lourdaud se sert ! 
+Et qui me faites voir jusqu'au fond de votre ame... 
+C'est fort bien commencer a depeindre sa flamme. 
+Laissons-la son billet, et voyons le second. 
+Sans doute en galant homme Oronte me repond, 			[520]
+Et je gagerais bien, avant que d'en rien lire, 
+Que la moindre pensee est digne qu'on l'admire ; 
+Son style du premier sera bien different. 
+LISETTE.
+L'autre croyait bien dire avec son Transparent. 
+DOROTEE, lit.
+Transparente Beaute... 
+LISETTE.
+Le mot est bon, je pense, 			[525]
+Puisque Oronte lui-meme use de transparence. 
+DOROTEE.
+Dont le coeur est ouvert... Que veut dire ceci ? 
+C'est le meme. 
+LISETTE.
+En effet je le croirais ainsi. 
+DOROTEE.
+N'importe, il faut tout voir, et que je les confronte, 
+Tiens, lis celui d'Eraste, et moi celui d'Oronte. 			[530]
+LISETTE, lit.
+Transparente Beaute dont le coeur est ouvert, 
+Et qui me faites voir jusqu'au fond de votre ame, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je confesse a ce coup que je suis pris sans vert, 
+Voyant qu'a peine encor vous y logez ma flamme. 
+Je la croyais pour elle un Palais assure, 			[535]
+Ou vous songez bientot a la traiter en Reine, 
+Car enfin j'ai pour vous souffert, gemi, pleure, 
+Et ma langueur en est une preuve certaine. 
+Je ne veux pas pourtant supputer avec vous, 
+Ce que vous proposez irait a votre honte, 			[540]
+Si pour chaque tourment dont j'ai senti les coups, 
+Il vous fallait tirer une ligne de compte. 
+De mes brulants soupirs vous riez toutefois, 
+Quoiqu'en foule souvent vous connaissiez qu'ils sortent, 
+Votre coeur toujours ferme en dedaigne le poids, 			[545]
+Mais tout legers qu'ils sont, gardez qu'ils ne l'emportent. 
+DOROTEE.
+La piece est concertee, il le faut avouer ; 
+Mais Oronte lui seul me fait ainsi jouer, 
+Eraste est trop grossier... 
+LISETTE.
+Ma pensee est la votre. 
+Et son style est-il bien different de l'autre ? 			[550]
+DOROTEE.
+Sans rien faire paraitre il faut des aujourd'hui... 
+Mais Dieux, voici mon Pere. 
+LISETTE.
+Oronte est avec lui. 
+DOROTEE.
+Comme il te connait peu, demeure ici, Lisette, 
+J'epierai de plus loin l'heure de sa retraite. 
+Toi, lorsque tu verras partir notre Vieillard, 			[555]
+Joins Oronte, et l'arrete en ce lieu de ma part. 
+LISETTE, abaissant sa coiffe.
+Elle me laisse a faire un joli personnage. 
+SCENE IV. Argante, Oronte, Lisette.
+ARGANTE.
+Enfin j'en ai donne ma parole pour gage, 
+Dorotee est promise, et l'Hymen arrete 
+Doit bientot sous ses lois ranger sa liberte. 			[560]
+Il semble cependant que vous bruliez pour elle, 
+Dans la rue a tous coups vous faites sentinelle, 
+Un voisin le remarque, un voisin en discourt ; 
+Sur un amour si vain, Oronte, tranchez court, 
+Je tiendrais a bonheur de vous avoir pour Gendre, 			[565]
+Mais l'affaire d'accord vous n'y pouvez pretendre.
+ORONTE.
+Si dans votre quartier on me voit chaque jour, 
+J'y connais cent Beautes a qui parler d'amour, 
+Et ce serait en vain que votre ame eclaircie...
+ARGANTE.
+Je sais qu'on parle encor de vous et de Lucie, 			[570]
+Mais comme elle est voisine, et l'honneur delicat, 
+Ne me contraignez point a faire plus d'eclat, 
+Et cessant pour huit jours seulement d'y paraitre, 
+Etouffer un bruit sourd qui commence de naitre. 
+Adieu, songez, de grace, a me rendre content. 			[575]
+ORONTE, seul.
+La remontrance est belle et l'avis important. 
+Combien de visions accompagnent cet age ! 
+SCENE V. Oronte, Lisette.
+LISETTE.
+St, st, mon Cavalier, tournez un peu visage. 
+ORONTE.
+Qui m'appelle ? 
+LISETTE.
+C'est moi ; ne me voyez-vous pas ? 
+ORONTE.
+Un nuage importun me cache vos appas, 			[580]
+Et pour moi cette coiffe est un supplice extreme. 
+Est-ce ainsi que l'on doit agir lorsque l'on s'aime ? 
+LISETTE.
+Le compliment est doux, et c'est bien debuter. 
+Nous nous aimons l'un l'autre ? 
+ORONTE.
+Il n'en faut point douter. 
+LISETTE.
+Et bien, je le crois donc puisque vous me le dites. 			[585]
+C'est reciproquement l'effet de nos merites, 
+Mais j'avais jusqu'ici vecu sans le savoir. 
+ORONTE.
+Je suis moi-meme encor a m'en apercevoir, 
+Mais on tient que l'Amour par sa toute-puissance 
+Se glisse dans nos coeurs sans que meme on y pense. 			[590]
+Et si cette maxime est valable, en ce cas 
+Nous pouvons nous aimer, et ne le savoir pas. 
+LISETTE.
+Vous ne manquez jamais a trouver vos defaites. 
+Ce n'est pas d'aujourd'hui que je sais qui vous etes, 
+Et que j'ai reconnu que votre affection 			[595]
+D'ordinaire est un peu sujette a caution. 
+Me trompai-je ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ORONTE.
+Ah, c'est toi ; l'agreable surprise ! 
+Lisette, qu'aujourd'hui le Ciel me favorise ! 
+Te revoir est un bien que j'estime... 
+LISETTE.
+Tout doux, 
+Je sais trop de quel bois on se chauffe chez vous. 			[600]
+Ecoutez seulement un message qui presse. 
+ORONTE.
+Un message. Et de qui ? 
+LISETTE.
+C'est de votre maitresse. 
+ORONTE.
+Ce sera donc de toi. 
+LISETTE.
+Sans doute, il est bon la 
+Dorotee... 
+ORONTE.
+Il suffit, j'entends fort bien cela. 
+LISETTE.
+Souffrez... 
+ORONTE.
+Non, non, je vois le sujet de ta plainte. 			[605]
+Pour elle assurement tu me crois l'ame atteinte, 
+Mais ne t'alarme point ; quoi que l'on t'en ait dit, 
+Je lui trouve assez peu de beaute que d'esprit, 
+Ses graces la plupart sont graces empruntees, 
+Et tu vaux a mes yeux cinquante Dorotees.			[610]
+LISETTE.
+Vous pensez vous railler, Monsieur, mais sur ma foi, 
+J'en vaux bien tout au moins une pire que moi. 
+ORONTE.
+Je meure si tes yeux n'ont sur moi tant d'empire 
+Que... 
+LISETTE.
+J'en crois plus encor que vous n'en sauriez dire, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et n'en fais point ici la sucree avec vous. 			[615]
+Mon visage a des traits qui ne sont pas si doux, 
+Mais d'ailleurs leur rudesse est assez reparee 
+Pour ne me croire pas tout a fait dechiree. 
+Cet air n'est pas tant sot, ce port est peu commun, 
+Et la coiffe abattue on me prend pour quelqu'un. 			[620]
+Voyez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ORONTE.
+Ta gaie humeur soutient ta bonne mine. 
+SCENE VI. Oronte, Lisette, Cliton.
+CLITON.
+N'est-ce point la mon Maitre avecque ma coquine ? 
+LISETTE bas. 
+Si Cliton me connait, que dira-t-il de moi ? 
+CLITON.
+Il faut qu'il lache prise, ou qu'il dise pourquoi. 
+Monsieur, et vite et tot, j'en suis tout hors d'haleine ; 			[625]
+ORONTE.
+Qu'as-tu ? 
+CLITON.
+Deja peut-etre ils ont gagne la plaine. 
+ORONTE.
+Qui ? 
+CLITON.
+C'est pour s'aller battre ; et vite, a leurs secours. 
+ORONTE.
+Et de qui ? 
+CLITON.
+De Florame et d'Eraste. 
+ORONTE, a Lisette.
+J'y cours, 
+Un moment me ramene. 
+CLITON, a Lisette.
+Ah, gueule revetue ! 
+Les plumets donc aussi vous donnent dans la vue ! 			[630]
+ORONTE.
+Viens donc vite, Cliton, et marchons sur leurs pas. 
+CLITON.
+C'est assez que de vous. 
+ORONTE.
+Viens. 
+CLITON.
+Moi, je n'irai pas, 
+S'il fallait degainer ? 
+ORONTE.
+Maraud, me veux-tu suivre ? 
+CLITON, a Lisette.
+On t'epargne un beau coup, j'allais t'apprendre a vivre. 
+LISETTE, seule. 
+Contre moi sa colere aura peine a tenir. 			[635]
+Mais que fait ma Maitresse a ne point revenir ? 
+Pour aller la rejoindre il faut faire retraite. 
+SCENE VII.
+DOROTEE, rentrant par l'autre cote du theatre la coiffe abattue. 
+Je ne vois plus paraitre Oronte ni Lisette. 
+J'eprouve en ce rencontre un bizarre destin, 
+Qu'un Pere m'ait contrainte a rebrousser chemin, 			[640]
+Et que par un mepris que je ne puis comprendre, 
+Oronte cependant n'ait pas daigne m'attendre. 
+Mais il revient. 
+SCENE VIII. Oronte, Dorotee, Cliton.
+ORONTE.
+Maraud, s'il t'arrive jamais... 
+CLITON.
+Mais, Monsieur, si Lucie... 
+ORONTE.
+Il n'est ni si, ni mais. 
+CLITON.
+Que faire donc ? Par signe eussiez-vous pu connaitre 			[645]
+Qu'elle veut cette nuit vous voir par sa fenetre, 
+Et si je n'eusse ainsi mis l'alarme au quartier... 
+ORONTE.
+Pourquoi n'attendre pas ? 
+CLITON.
+J'eusse pu l'oublier, 
+Vous savez deja que je suis d'assez courte memoire. 
+ORONTE.
+Tais-toi, demeure-la. 
+CLITON, regardant Dorotee.
+Qui l'eut jamais pu croire ? 			[650]
+La gueuse encore l'attend. Pauvre souffre-douleur ! 
+ORONTE, a Dorotee.
+D'un zele trop aveugle excuse la chaleur, 
+Notre alarme etait fausse, et je reviens encore 
+Te jurer que je meurs pour toi, que je t'adore, 
+Qu'en vain de Dorotee on m'ose croire epris, 			[655]
+Qu'elle n'est a mes yeux qu'un objet de mepris. 
+C'est une beaute fade, et pour moi, je confesse 
+Que j'ai peine a la voir sans tomber en faiblesse. 
+CLITON.
+Au Diable devant moi le mot qu'elle repond. 
+ORONTE.
+Ton obstine silence a la fin me confond, 			[660]
+Et sans trop de rigueur tu ne peux davantage 
+Tenir ainsi cache l'eclat de ton visage. 
+Dussent mes faibles yeux s'en laisser eblouir, 
+Il faut... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DOROTEE.
+Gardez, Monsieur, de vous evanouir. 
+ORONTE.
+Quoi, Madame, c'est vous ? 
+DOROTEE.
+Qui vous sers de risee. 			[665]
+CLITON.
+Que vois-je la ? Lisette est metamorphosee ! 
+ORONTE.
+Le Ciel sait... 
+DOROTEE.
+Il ne sait que ce qu'il doit savoir, 
+Et moi, je ne vois rien que ce que j'ai cru voir. 
+Vous me paraissiez tel que vous devez paraitre, 
+Je vous reconnais fourbe, et vous le devez etre, 			[670]
+Votre sexe en naissant en prete le serment. 
+ORONTE.
+Je pourrais appeler de votre jugement, 
+Mais si quelques effets dementent nos paroles, 
+Nous n'en apprenons l'art qu'a hanter vos ecoles. 
+DOROTEE.
+Si je voulais parler de vos legeretes... 			[675]
+ORONTE.
+Peut-etre dirions-nous tous deux des verites ; 
+Mais n'ecoutez point tant l'ardeur qui vous emporte. 
+Vous savez ce que vaut un homme de ma sorte ; 
+Sans parler de pardon ni de crimes commis, 
+Demeurons quitte a quitte, et vivons bons Amis. 			[680]
+DOROTEE.
+Moi, qu'ainsi je m'oublie apres un tel outrage ! 
+ORONTE.
+Vous courrez le hasard d'y perdre davantage, 
+Et refusant l'accord que j'ai su proposer, 
+Vous aurez de la peine apres a m'apaiser. 
+DOROTEE.
+De vrai, je suis d'avis que je vous satisfasse. 			[685]
+ORONTE.
+Mais je vous offre ici la pais de bonne grace. 
+DOROTEE.
+Ce n'est pas sans sujet que je suis en courroux. 
+ORONTE.
+Ce n'est pas sans raison que je me plains de vous. 
+DOROTEE.
+Temoin ce qu'a present vous venez de me dire. 
+ORONTE.
+Temoin ce qu'aujourd'hui vous avez su m'ecrire. 			[690]
+DOROTEE.
+Vous pensiez cajoler une autre a mes depens ? 
+ORONTE.
+Vous, d'une double lettre avoir le passe-temps ? 
+DOROTEE.
+Ne me reprochez point un simple tour d'adresse 
+Par ou de votre amour j'ai connu la faiblesse. 
+Croyant qu'Eraste et vous ne vous deguisiez rien, 			[695]
+Pour guerir mes soupcons j'ai trouve ce moyen, 
+Et la trahison seule avec trop d'injustice 
+Vous en a fait sitot decouvrir l'artifice. 
+ORONTE.
+Et je vous porte d'abord de rudes coups ; 
+Non que j'aie ignore que je parlais a vous, 			[700]
+Mais je l'ai fait expres pour vous faire connaitre 
+Qu'en fourbant, quelquefois on se joue a son maitre, 
+Et que si vous songez jamais a me duper, 
+Je saurai bien encor par ou vous attraper. 
+DOROTEE.
+L'excuse est assez froide. 
+ORONTE.
+Examinez la votre.			[705]
+DOROTEE.
+Enfin vous avez pu me prendre pour une autre, 
+Selon les lois de d'amour c'est un crime d'Etat, 
+Je n'examine rien apres cet attentat, 
+Et veux, pour satisfaire a ma gloire offensee, 
+Vous bannir de mes yeux comme de ma pensee. 			[710]
+C'est vous traiter encor trop favorablement. 
+ORONTE.
+Il faudra se resoudre a ce bannissement, 
+Mais perdant un Sujet de si haute importance, 
+Je prevois votre Empire en grande decadence. 
+DOROTEE.
+Je le releverai, perdez-en le souci. 			[715]
+ORONTE.
+Votre seul interet me fait parler ainsi. 
+Croyez-le, je vous aime, et n'ai point d'autre envie 
+Que de suivre vos lois tout le temps de ma vie. 
+DOROTEE.
+Et qui m'en repondra ? 
+ORONTE.
+Vous, si vous m'ecoutez. 
+DOROTEE.
+Voyons donc, votre fourbe a quoi vous l'imputez. 			[720]
+ORONTE.
+L'innocence jamais n'est assez manifeste 
+Que quand... 
+DOROTEE.
+Ce soir chez moi vous me direz le reste : 
+La, pour mieux m'assurer de vos intentions, 
+J'attendrai vos respects et vos soumissions. 
+Adieu. 
+ORONTE.
+Cette retraite est bizarre et bien prompte. 			[725]
+CLITON.
+Sur le point de se rendre elle en a fui la honte, 
+Et cru qu'il valait mieux attendre que la nuit... 
+Mais je commence enfin a voir ce qu'elle fuit. 
+Ne le demandez plus puisque Eraste s'avance. 
+SCENE IX. Oronte, Eraste, Cliton.
+ERASTE.
+Ami, vous puis-je dire un mot en confidence ? 			[730]
+ORONTE.
+Vous savez qui je suis. 
+ERASTE.
+J'ai su confusement 
+Que Florame en secret depuis peu fait l'Amant. 
+Par beaucoup de raisons que je ne puis vous dire, 
+Je tache a decouvrir l'objet de son martyre, 
+Mais comme j'aurais peine a l'epier toujours, 			[735]
+Ne me refusez point ici votre secours. 
+Il vous voit, il vous aime, et je ne saurais croire 
+Qu'il vous cache un amour qui ne va qu'a sa gloire. 
+De grace, en ma faveur tachez de le savoir. 
+ORONTE.
+Je vais tout de ce pas y faire mon pouvoir. 			[740]
+ERASTE.
+Adieu donc, je vous quitte. 
+SCENE X. Oronte, Cliton.
+CLITON.
+Avez-vous grande envie 
+Qu'il sache que Florame est epris de Lucie ? 
+ORONTE.
+Non, mais de voir Florame, et de lui faire peur 
+De ce qu'Eraste croit qu'il brule pour sa Soeur. 
+Ce soir, dis-tu, je suis attendu de Lucie ; 			[745]
+Et s'il craint une fois qu'Eraste ne l'epie, 
+Manquant au rendez-vous de peur de tout gater, 
+Je serai libre alors d'aller lui protester. 
+CLITON.
+Mais l'autre rendez-vous, comment y satisfaire ? 
+Car Dorotee enfin pretend... 
+ORONTE.
+Laisse-moi faire. 			[750]
+Tu me verras, Cliton, mettre bon ordre a tout, 
+Quand j'en aurais un cent, j'en viendrais bien a bout. 
+
+
+			ACTE III
+
+
+SCENE PREMIERE. Oronte, Cliton.
+ORONTE.
+Tu ne dis mot, Cliton ; quelle melancolie 
+Fait qu'avec moi ce soir ta belle humeur s'oublie, 
+Je t'entends soupirer, et te plaindre a tous coups. 			[755]
+CLITON.
+Ah, Monsieur, que ne suis-je aussi content que vous ! 
+ORONTE.
+Il est vrai qu'affranchi d'accompagner Florame, 
+Qui manque au rendez-vous ou l'appelait sa flamme, 
+J'y vais de mon cote l'esprit assez content. 
+CLITON.
+Je voudrais bien, Monsieur, en pouvoir dire autant, 			[760]
+Mais d'un etrange mal je sens la rude attaque. 
+ORONTE.
+De quel mal ? 
+CLITON.
+Mon humeur est hypocondriaque, 
+Et ce mal d'autant plus me tient avant au coeur, 
+Que peu de Medecins savent guerir l'honneur. 
+ORONTE.
+Je te crois ; mais Cliton, confesse-moi la dette, 			[765]
+Tu te faches de voir que je serve Lisette ? 
+CLITON.
+Au contraire, Monsieur ; si je suis en courroux 
+C'est bien plutot de voir qu'elle se sert de vous. 
+ORONTE.
+Simple, ne vois-tu pas que c'est ton avantage 
+Qu'a ses perfections je daigne rendre hommage, 			[770]
+Que par la son merite est en son plus beau jour, 
+Et que ma passion ennoblit ton amour ? 
+CLITON.
+C'est ce que j'apprehende, et que par votre adresse, 
+Vous ne m'alliez donner des lettres de Noblesse. 
+J'ai peu d'ambition, Monsieur, et franchement 			[775]
+Je me passerais bien de l'ennoblissement. 
+ORONTE.
+C'est fort mal reconnaitre une faveur si grande. 
+CLITON.
+Vous m'en faites cent fois plus que je n'en demande. 
+ORONTE.
+Va, ne te fache point, avant qu'il soit huit jours 
+Je pourrai te laisser paisible en tes amours ; 			[780]
+Ce temps en ma faveur fera bien des miracles, 
+Et de ma part alors tu n'auras plus d'obstacles. 
+CLITON.
+Oui, mais pour m'obliger, jusques a ce beau jour 
+Vous me ferez l'honneur d'ennoblir mon amour ? 
+Je vous devrai beaucoup. 
+ORONTE.
+Plus que tu ne peux croire. 			[785]
+CLITON.
+Vos generosites vous mettront dans l'Histoire. 
+ORONTE.
+Cliton, sans la flatter, Lisette a des appas 
+Dont, quelque effort qu'on fasse, on ne se defend pas ; 
+A toute autre Beaute mon amour la prefere, 
+Et comme elle me plait autant qu'elle peut faire, 			[790]
+Crois que c'est en user modestement 
+Que de te l'emprunter pour huit jours seulement. 
+CLITON.
+Puisque vous y trouvez de si grands avantages, 
+Prenez-la pour toujours, et redoublez mes gages ; 
+Aussi bien d'aujourd'hui j'en suis fort degoute. 			[795]
+Vous avez a tel point enfle sa vanite, 
+Que par mepris, la Gueuse oubliant sa promesse, 
+Ne m'a point averti du nom de sa Maitresse.
+ORONTE.
+Quoi, Maraud, est-ce la le respect que tu dois 
+A celle dont mon coeur pour aimer a fait choix ? 			[800]
+CLITON.
+Ah, j'ai tort ; mais Monsieur, quoique je la revere, 
+Comme un Objet fameux pour avoir su vous plaire, 
+Et qu'apres le haut rang ou votre amour la met, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je n'en doive parler que la main au bonnet, 
+Si dans quelque logis jamais je la rencontre, 			[805]
+Ou qu'en passant chemin le hasard me la montre, 
+Ne puis-je point alors en toute humilite, 
+Avec tous les respects dus a sa qualite, 
+Pour la remercier de ses humeurs gaillardes, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Lui donner seulement trois ou quatre nasardes ? 			[810]
+ORONTE.
+Alors tu pourras prendre avis de ton courroux ; 
+Mais c'est ici le lieu de mes deux rendez-vous, 
+Et je suis fort trompe si je ne vois paraitre, 
+Malgre l'obscurite, Lucie a sa fenetre. 
+Cliton, qu'elle me plait ! 
+CLITON.
+Mais Lisette encor plus ? 			[815]
+ORONTE.
+Non pas, quant a present. 
+CLITON.
+Vous me rendez confus. 
+Pour le moins Dorotee... 
+ORONTE.
+Encor moins que Lisette. 
+CLITON.
+Je ne sais donc comment vous avez l'ame faite, 
+Tout maintenant... 
+ORONTE.
+Vois-tu ? Dans mon affection 
+Je me repais fort peu d'imagination. 			[820]
+La Beaute la plus vive et la plus elegante 
+Ne me chatouille plus sitot qu'elle est absente. 
+Mille attraits surprenants pourront m'avoir blesse, 
+Qu'a trente pas de la c'est autant d'efface ; 
+D'un moindre eclat present mon ame possedee 			[825]
+Ne conserve aucun trait de sa premiere idee, 
+Et comme, quelque Objet dont je suive la loi, 
+Je ne l'aime jamais que pour l'amour de moi, 
+Mon coeur prend aisement une forme nouvelle, 
+Et celle que je vois est toujours la plus belle. 			[830]
+CLITON.
+Donc, Lisette cessant de s'offrir a vos yeux... 
+ORONTE.
+Celles que je verrais me plairaient beaucoup mieux. 
+Mais il faut s'avancer, et la voix adoucie, 
+Montrer un coeur soumis aux charmes de Lucie. 
+CLITON.
+Quand vous faites dessein de lui parler si doux, 			[835]
+Vous souvenez-vous bien que vous etes jaloux ? 
+ORONTE.
+Tu me fais a propos souvenir de mon role, 
+Je vais sur le plaintif accorder ma parole. 
+SCENE II. Oronte, Lucie, Cliton.
+ORONTE.
+Etes-vous la, Madame ? 
+LUCIE, a sa fenetre.
+Est-ce Oronte ? 
+ORONTE.
+Oui, c'est moi, 
+Qui vous reprocherais votre manque de foi, 			[840]
+Si je ne vous croyais trop juste et raisonnable 
+Pour perdre un malheureux s'il n'etait pas coupable. 
+LUCIE.
+Oronte, prenez-vous plaisir a m'alarmer ? 
+Moi, je vous puis trahir, et ne vous plus aimer ! 
+ORONTE.
+Ah, ne presumez pas que je m'en ose plaindre, 			[845]
+Ma douleur par respect saura mieux se contraindre, 
+Pour grands que soient les maux dont je recois les coups, 
+Ils me sont precieux puisqu'ils viennent de vous. 
+Posseder votre coeur m'etait un bien insigne, 
+Vous m'en voulez priver, je n'en etais pas digne. 			[850]
+Je viens de votre bouche en ecouter l'Arret, 
+Et lui sacrifier mon plus cher interet, 
+Heureux, si mon malheur ayant fait tout mon crime, 
+Vous m'otez votre amour sans m'oter votre estime. 
+LUCIE.
+Quelle mortelle atteinte a ce coeur amoureux ! 			[855]
+Vous parlez de coupable, et puis de malheureux. 
+Ah, ne me tenez point en suspens davantage, 
+De grace, expliquez mieux un si triste langage, 
+Et du moins, pour vous plaindre avec quelque couleur, 
+Sachons quel est ce crime, ou quel est ce malheur. 			[860]
+ORONTE.
+Vous souffrez qu'en secret un Rival vous adore, 
+Mon malheur, le voila ; mon crime, je l'ignore ; 
+Mais je ne me puis voir sitot abandonne 
+Sans m'estimer coupable autant qu'infortune. 
+En effet, je croirais meriter mon supplice 			[865]
+Si je vous soupconnais de la moindre injustice ; 
+De votre changement je n'accuse que moi, 
+Vous m'avez du punir, mais je ne sais pourquoi. 
+LUCIE.
+La surprise ou me jette un reproche semblable... 
+ORONTE.
+Ah, c'est trop differer a perdre un miserable, 			[870]
+Chercher a l'adoucir, c'est redoubler mon mal. 
+Dites qu'on me prefere un plus digne Rival, 
+Que c'est par mes defauts qu'eclate son merite, 
+Que de vos premiers feux votre gloire s'irrite, 
+Qu'afin de m'avertir de votre nouveau choix, 			[875]
+Vous me souffrez ici pour la derniere fois, 
+Et que loin de vos yeux, pour plaire a votre envie, 
+Je dois aller trainer ma deplorable vie. 
+Ce coup a mon amour sera rude, il est vrai, 
+Mais dusse-je en mourir, je vous obeirai, 			[880]
+Avec tant de respect, que ma triste presence 
+Ne vous reprochera jamais votre inconstance. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Jouai-je bien mon role ? 
+CLITON.
+Admirablement bien ; 
+Vous feriez au besoin un grand Comedien. 
+LUCIE.
+Ce discours me surprend jusques a me confondre, 			[885]
+J'en perds la liberte meme de vous repondre, 
+Et ne vois aucun jour a me justifier, 
+Lorsque vous vous plaignez sans rien specifier. 
+Si j'ose toutefois dire ce que j'en pense, 
+Votre douleur, Oronte, a beaucoup d'eloquence, 			[890]
+Et je la croirais moins, quoi que vous m'ayez dit, 
+L'effet d'un coeur atteint, qu'un jeu de votre esprit. 
+La douleur veritable, encor que violente, 
+N'a pour son truchement qu'une oeillade mourante. 
+Elle fuit du discours le detour odieux, 			[895]
+Et c'est par les soupirs qu'elle s'explique que le mieux. 
+Mais enfin s'il est vrai que je sois une ingrate, 
+Nommez-moi ce Rival pour qui ma flamme eclate, 
+Et pour ne rien omettre a convaincre ma foi, 
+Dites ce que ses soins ont obtenu de moi. 			[900]
+ORONTE.
+Vus contraindrez longtemps les secrets de votre ame 
+Si pour les decouvrir vous attendez Florame, 
+Quoiqu'il montre pour vous beaucoup de passion, 
+Il manquera ce soir a l'assignation ; 
+Quelque obstacle imprevu l'empeche de s'y rendre, 			[905]
+Et c'est ce que demain il viendra vous apprendre. 
+LUCIE.
+Il suffit. C'est donc la ce qui vous rend jaloux ? 
+A Florame aujourd'hui j'ai donne rendez-vous ? 
+ORONTE.
+Je l'en ai vu tantot dans une joie extreme. 
+LUCIE.
+Vous le savez de lui sans doute ? 
+ORONTE.
+De lui-meme. 			[910]
+Mais helas ! Jusqu'ou va votre aveugle rigueur ! 
+Vous vouliez devant moi lui donner votre coeur. 
+C'est peu que votre amour comble le sien de joie, 
+Pour mourir de douleur il faut que je le voie. 
+LUCIE.
+A vos laches soupcons n'avoir rien refuse, 			[915]
+C'est meriter fort peu d'etre desabuse, 
+Et toute autre en ma place apres un tel reproche... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais je pense entrevoir un homme qui s'approche, 
+C'est mon Frere, sans doute, il faut dissimuler. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous ne pourrez, Monsieur, aujourd'hui lui parler, 			[920]
+L'heure n'est point reglee, et je ne puis vous dire 
+Dans quel temps de la nuit mon Frere se retire. 
+Tous les soirs il me quitte, et ne revient que tard, 
+Adieu. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ORONTE.
+Quel contretemps ! 
+CLITON.
+Il est assez gaillard. 
+ORONTE.
+Pour en trouver la cause en vain je m'examine. 			[925]
+CLITON.
+Pour fin que vous soyez, Monsieur, on vous affine ; 
+Dans l'esprit de fourber on voit que vous parlez, 
+Et l'on vous plante la pour ce que vous valez. 
+ORONTE.
+Tais-toi, j'entends quelqu'un. 
+SCENE III. Oronte, Florame, Cliton.
+CLITON.
+Qui vive ? 
+FLORAME.
+Ami d'Oronte, 
+C'est Florame. 
+ORONTE, bas.
+Tant pis, ce n'est pas la mon compte. 			[930]
+Quoi, vous ici ? Tantot nous avions concerte 
+Que... 
+FLORAME.
+J'y viens seulement par curiosite, 
+Par certain mouvement d'une secrete envie, 
+Sans dessein toutefois de parler a Lucie. 
+Mais je la viens d'ouir qui vous disait adieu ? 			[935]
+ORONTE.
+Oui. 
+FLORAME.
+Quel sujet si tard vous amene en ce lieu ? 
+ORONTE.
+L'ardeur de voir Eraste avecque diligence, 
+Et de vous soulager dans votre impatience ; 
+Sur que quelques soupcons qu'il ait de votre amour, 
+Pour l'en guerir sur l'heure il ne faut qu'un detour. 			[940]
+Ma peine cependant s'est trouvee inutile, 
+Et j'apprends de sa Soeur qu'il est encore en ville. 
+FLORAME.
+Sans lui nier que j'aime, il est d'autres moyens... 
+ORONTE.
+Quels ? 
+FLORAME.
+J'y reve. 
+ORONTE.
+Cliton, vois-tu bien que j'en tiens ? 
+Lucie aime Florame, et pour le satisfaire, 			[945]
+Le voyant, elle a feint qu je cherchais son frere. 
+Qu'il fait bon se fier a ce sexe changeant ! 
+CLITON.
+La meilleure en effet ne vaut pas grand argent. 
+FLORAME.
+Pour voir sur quelque Objet sa croyance arretee, 
+J'aime mieux hasarder celui de Dorotee ; 			[950]
+Peignez-lui son amour si fort sur mon espoir... 
+ORONTE.
+Qu'esperez-vous par la ? 
+FLORAME.
+Tout, s'il l'approfondit. 
+Il pourra decouvrir qu'elle m'est destinee. 
+ORONTE.
+Est-ce elle dont pour vous on traite d'Hymenee ? 
+FLORAME.
+Elle-meme, jugez s'il me doit importer... 			[955]
+ORONTE.
+Ami, de chez Lucie on peut nous ecouter. 
+Eloignons-nous, ailleurs vous saurez ma pensee. 
+CLITON, a Oronte.
+Du second rendez-vous l'heure sera passee, 
+Songez a vous, Monsieur. 
+ORONTE.
+N'en sois point en souci 
+Je saurai m'en defaire a trente pas d'ici. 			[960]
+SCENE IV. Dorotee, Lisette.
+DOROTEE.
+J'espere voir par la sa fourbe decouverte. 
+Mais qu'il tarde a venir !
+LISETTE.
+La porte est entrouverte, 
+Et d'ici la dehors la lumiere parait. 
+Croyez-vous qu'il y manque, ou qu'il passe tout droit ? 
+DOROTEE.
+Ne pouvant me payer que d'une faible excuse, 			[965]
+Il peut... 
+LISETTE.
+Non, en tel cas qui ne dit mot s'accuse. 
+Allez, ne croyez point qu'il manque assez d'esprit... 
+DOROTEE.
+Lorsque tu lui parlas, qu'est-ce donc qu'il te dit ? 
+LISETTE.
+Que vous le ravissiez, qu'il vous fallait attendre, 
+Et peut-etre a dessein s'est-il voulu meprendre. 			[970]
+Encor, qu'en croyez-vous tout de bon ? 
+DOROTEE.
+Je ne sais. 
+Mais il est excusable enfin s'il m'a dit vrai, 
+Et si c'est une fourbe, il l'a si bien conduite 
+Que je brule de voir quelle en sera la suite. 
+Cependant je ne sais ce qui doit m'arriver, 			[975]
+Je me cherche en moi-meme, et ne me puis trouver ; 
+Mais la porte a fait bruit. 
+LISETTE.
+C'est Oronte sans doute. 
+DOROTEE.
+Va fermer apres lui de peur qu'on nous ecoute. 
+LISETTE, bas.
+Me trouvant avec elle, il sera bien surpris. 
+SCENE V. Dorotee, Eraste, Lisette.
+ERASTE.
+Objet le plus charmant dont on puisse etre epris. 			[980]
+DOROTEE.
+Eraste, ou venez-vous, et quelle est votre audace ? 
+LISETTE, bas.
+Voici bien du menage, un autre a pris la place. 
+ERASTE.
+Trouvant la porte ouverte, et vous oyant parler, 
+A cette aimable voix l'amour m'a fait voler. 
+DOROTEE.
+Mon Pere que j'attends la fait tenir ouverte. 			[985]
+Retirez-vous, de grace, ou vous causez ma perte, 
+Il est ici tout proche, et reviendra soudain. 
+ERASTE.
+Helas ! 
+DOROTEE.
+Ah, remettez vos helas a demain. 
+ERASTE.
+Quoi, sans compassion... 
+DOROTEE.
+Mais je l'ai de moi-meme. 
+Songez-vous que je suis dans un peril extreme ? 			[990]
+Le temps presse, sortez ; qui vous peut arreter ? 
+Vous etes ne, je crois, pour me persecuter. 
+Me regardez-vous toujours sans rien dire ? 
+ERASTE.
+Qu'est-ce qu'on ne dit point lorsque le coeur soupire ! 
+DOROTEE.
+C'est un triste plaisir d'ecouter des soupirs 			[995]
+Quand on en peut prevoir de si grands deplaisirs. 
+Sortez vite, vous dis-je, et vous coulez de sorte 
+Que... mais il est trop tard, je l'entends a la porte, 
+Il frappe ; et bien, voyez, que fera-t-on de vous ?
+ERASTE.
+Je suis pret, s'il le faut, d'essuyer son courroux. 			[1000]
+DOROTEE.
+Que plutot mille fois... 
+LISETTE.
+Pour vous tirer de peine, 
+Jusqu'au fond du jardin souffrez que je le mene. 
+La, vous n'en craindrez rien. 
+DOROTEE.
+L'avis est assez bon. 
+Va, mais ouvre en passant. 
+SCENE VI. Oronte, Dorotee.
+ORONTE.
+Demeure-la, Cliton. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoi, tout est disparu ? Certes cela m'etonne, 			[1005]
+J'oyais ici du bruit, et n'y vois plus personne. 
+En user de la sorte est fort mal proceder, 
+Je ne suis pas venu pour vous incommoder. 
+DOROTEE.
+Il semble qu'aujourd'hui vous m'ayez entreprise. 
+ORONTE.
+Mon humeur est d'agir toujours avec franchise, 			[1010]
+Et j'ai peine a souffrir qu'avecque tant de soin 
+Vous vous cachiez de moi sans qu'il en soit besoin. 
+Quel que soit cet amant, qu'il paraisse, n'importe, 
+Ma passion pour vous n'en sera pas moins forte. 
+Ce serait mal repondre a ce que vous valez, 			[1015]
+Que ne vous pas aimer comme vous le voulez. 
+Le change a des attraits capables de vous plaire ? 
+Je vous dois adorer inconstante et legere, 
+Autrement m'opposant a l'humeur qui vous plait, 
+Je ne regarderais que mon seul interet, 			[1020]
+Et confondant l'amour, par un abus extreme, 
+Bien loin de vous aimer, je m'aimerais moi-meme. 
+DOROTEE.
+C'est fort bien vous tirer d'un pas assez glissant, 
+Que venir m'accuser pour vous faire innocent ; 
+Le trait est d'habile homme, et bien digne d'Oronte. 			[1025]
+ORONTE.
+Un reproche si doux ne vous fait point de honte. 
+DOROTEE.
+Vos sentiments pour moi sont hauts et releves. 
+ORONTE.
+Mais je vous vois agir comme vous le devez. 
+Il est vrai, parmi nous il n'est point de merite 
+Qui d'un plus ferme amour ne vous confesse quitte, 			[1030]
+De tous cotes en foule on vous offre des voeux, 
+Il n'appartient qu'a vous de faire des heureux, 
+Et je tiens qu'en effet vos graces sont perdues 
+Quand sur un seul Objet elles sont repandues. 
+Un tresor si charmant, d'un prix si releve, 			[1035]
+Ne fut jamais un bien pour un seul reserve. 
+Pour moi, dont vos beautes ont captive l'hommage, 
+J'aspire a votre coeur, mais ce n'est qu'au partage, 
+Je ne pretends point posseder tout entier, 
+Et me contenterai de servir par quartier. 			[1040]
+DOROTEE.
+Parlons plus clairement, que voulez-vous me dire ? 
+ORONTE.
+Qu'un Rival avant moi vous contait son martyre, 
+Et que si vous avez ensemble a conferer, 
+Je n'y mets point d'obstacle, et vais me retirer. 
+DOROTEE.
+De cette lachete votre esprit me soupconne, 			[1045]
+Qu'autre que vous chez moi... 
+ORONTE.
+J'ai l'oreille assez bonne, 
+Et discerne aisement dans la voix que j'entends 
+Si... 
+DOROTEE.
+Vous avez raison, j'aurais bien pris mon temps. 
+Vous n'aviez pas de moi ce soir parole expresse ? 
+ORONTE.
+Pour satisfaire a tous vous avez trop d'adresse, 			[1050]
+Et par un seul billet qui sait repondre a deux, 
+Peut d'un seul rendez-vous exaucer bien des voeux. 
+DOROTEE.
+Quoi, sur ce fondement vos laches defiances... 
+ORONTE.
+Non, non, j'en parle encor sur d'autres apparences. 
+En frappant, certain bruit m'a fait juger d'abord 			[1055]
+Que ce serait hasard si je vous plaisais fort ; 
+On marchait, on parlait, et si je ne m'abuse, 
+J'ai pu entr'ouir dans une voix confuse, 
+Le voila, je l'entends, qu'est-ce qu'on en fera ? 
+Je n'en croirai pourtant que ce qu'il vous plaira. 			[1060]
+DOROTEE.
+Et je prendrais plaisir a vous laisser tout croire, 
+Si ce honteux soupcon n'offensait pas ma gloire. 
+Mais apprenez enfin, pour ne vous tromper pas, 
+Que j'avais fait tenir ma Suivante ici bas, 
+Et que tandis qu'en haut j'avais l'oeil sur mon Pere... 			[1065]
+Mais la voici qui vient eclaircir ce mystere. 
+SCENE VII. Oronte, Dorotee, Lisette.
+DOROTEE.
+Lisette approchez-vous. 
+ORONTE, bas.
+Dieux, qu'est-ce que je vois ? 
+Lisette sert ici ! 
+DOROTEE, bas a Lisette.
+Prends la faute sur toi, 
+Il m'importe. 
+ORONTE, bas.
+Voici mes amours eventees. 
+LISETTE, bas a Oronte.
+Vaux-je encore a vos yeux cinquante Dorotees ? 			[1070]
+DOROTEE, haut a Lisette.
+Qui vous entretenait quand Oronte a frappe ? 
+LISETTE.
+Moi ? 
+DOROTEE.
+Vous-meme ? Croyez qu'on ne s'est point trompe. 
+LISETTE.
+Me prend-on... 
+DOROTEE.
+Point d'excuse. 
+LISETTE.
+Ah, ma chere maitresse. 
+DOROTEE.
+Un Amant vous parlait ici ? 
+LISETTE.
+Je le confesse. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Nous avons l'un pour l'autre un peu d'affection, 			[1075]
+Mais par ma foi, ce n'est qu'a bonne intention, 
+Il sera mon mari. 
+SCENE VIII. Oronte, Dorotee, Cliton, Lisette.
+CLITON.
+Ah, ah, bonne hypocrite, 
+Ton Mari ? 
+LISETTE.
+Quoi, Cliton ! 
+ORONTE, a Cliton qui prend la chandelle de dessus la table.
+Ou t'en vas-tu si vite ? 
+Dis. 
+CLITON.
+Chercher ce mari qu'on s'est attribue, 
+Je reviendrai sitot que je l'aurai tue. 			[1080]
+ORONTE.
+Arrete ta folie. 
+CLITON.
+Dans mon infortune... 
+ORONTE.
+Console-toi, Cliton, la chance en est commune. 
+DOROTEE.
+Etes-vous satisfait ? 
+ORONTE.
+Oui, si vous le voulez. 
+ARGANTE, derriere le theatre.
+A la porte, Lycante, ou nous sommes voles. 
+CLITON.
+Monsieur, nous voila pris. 
+DOROTEE.
+O disgrace mortelle ! 			[1085]
+Mon Pere vient ici, prends vite la chandelle, 
+Et coule avec moi dans mon appartement. 
+Vous, sauvez mon honneur. 
+CLITON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Diable, du sauvement ! 
+Elle nous laisse seuls. 
+ORONTE.
+Il y va de ma gloire 
+De voir... 
+CLITON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Gagnons au pied si vous m'en voulez croire, 			[1090]
+Autrement il viendra quelque mechant garcon 
+Qui nous etrillera de la bonne facon. 
+Mais c'en est deja fait. 
+SCENE IX. Argante, Oronte, Cliton.
+Argante sort.
+ARGANTE, l'epee a la main.
+Que vois-je ? C'est Oronte. 
+O Fille dont l'amour me couvrira de honte ! 
+Meurs, lache suborneur. 
+ORONTE.
+Moderez ce courroux. 			[1095]
+CLITON, a genoux devant Argante.
+Avant que de tuer, Monsieur, ecoutez-nous. 
+ARGANTE.
+Quelle excuse jamais... 
+ORONTE.
+La mienne est trop valable, 
+Pour etre malheureux, je ne suis point coupable. 
+Des Beautes de Lucie eperdument epris, 
+Cette nuit avec elle Eraste m'a surpris, 			[1100]
+Et ne pouvant alors mieux faire ni l'un ni l'autre, 
+Des murs de son jardin j'ai saute dans le votre. 
+CLITON.
+Jamais en moins de temps je ne fis tel chemin. 
+ARGANTE.
+Il est vrai qu'on a fait du bruit dans le jardin, 
+Et qu'ayant mis soudain la tete a la fenetre, 			[1105]
+J'ai vu marcher quelqu'un que je n'ai pu connaitre ;
+Mais quoique cette excuse ait assez de couleur, 
+Il ne me suffit pas dans un si grand malheur. 
+J'en veux, pour l'interet de toute ma famille, 
+Lire la verite sur le front de ma fille, 			[1110]
+Son trouble ou son repos me la feront sa	voir. 
+Je reviens. 
+CLITON.
+Ah, Monsieur, donnons-lui le bonsoir. 
+ORONTE.
+As-tu peur ? 
+CLITON.
+Moi ? Non pas, mais j'ai peu de courage. 
+Partout flamberge au vent vous trouvez bien passage. 
+Vous vous echapperez, et le pauvre Cliton, 			[1115]
+On l'enverra dormir a grands coups de baton. 
+ORONTE.
+Ecoute, on parle ici. 
+ARGANTE, parlant a Eraste qu'il a trouve dans sa maison, et fermant la porte pour l'empecher de voir Oronte.
+Demeurez-la de grace. 
+CLITON.
+Il ferme cette porte ; ah, tout mon sang se glace. 
+ARGANTE, a Oronte.
+Vous m'aviez bien dit vrai, sortez vite, et sans bruit, 
+Votre ennemi... J'en tremble. 
+ORONTE.
+Et bien ? 			[1120]
+ARGANTE.
+Il vous poursuit. 			[1120]
+ORONTE.
+Qui ? 
+ARGANTE.
+Le demandez-vous ? Eraste. 
+ORONTE.
+Quoi ? 
+ARGANTE.
+Lui-meme, 
+Je l'ai vu la-dedans. 
+ORONTE, a Cliton.
+Voila le stratageme. 
+Par quel rare moyen je m'en suis eclairci ! 
+ARGANTE.
+Vous nous perdez tous deux si vous restez ici, 
+Hatez-vous de sortir. 
+ORONTE, a Cliton.
+Vois quelle est ma fortune. 			[1125]
+CLITON.
+Consolez-vous, Monsieur, la chance en est commune. 
+ARGANTE, seul.
+Enfin d'un grand malheur j'ai su me garantir, 
+Appelons ici l'autre, et le faisons sortir. 
+SCENE X. Argante, Eraste.
+ARGANTE, ouvrant la porte qu'il avait fermee en rentrant.
+Eraste.
+ERASTE, bas.
+Je ne sais quel est tout ce mystere. 
+M'avoir ainsi surpris, et me voir sans colere ! 			[1130]
+ARGANTE.
+Je pardonne a l'ardeur qui chez moi vous conduit ; 
+Mais si vous m'en croyez, ne faites point de bruit. 
+De pareils accidents demandent le silence. 
+ERASTE.
+Ne pensez pas... 
+ARGANTE.
+Je sais ce qu'il faut que je pense. 
+ERASTE.
+Je doute si... 
+ARGANTE.
+Non, non, je suis assez discret. 			[1135]
+ERASTE.
+Peut-etre... 
+ARGANTE.
+De ma part, soyez sur du secret, 
+Adieu. 
+ERASTE.
+Mais... 
+ARGANTE.
+Il est temps que chacun se retire, 
+Sortez. 
+ERASTE.
+Je n'entends rien a ce qu'il me veut dire. 
+ARGANTE, seul.
+M'en voici degage, j'en tremble encor d'effroi, 
+Je les ai decouverts bien a propos pour moi. 			[1140]
+Qu'a present dans la rue ils chamaillent a l'aise, 
+Ils s'y battront longtemps avant qu'il m'en deplaise, 
+Et si d'autres que moi ne les vont separer, 
+Ils auront tout loisir de bien s'entre-bourrer. 
+
+
+			ACTE IV
+
+
+SCENE PREMIERE. Oronte, Cliton.
+ORONTE.
+Que tu raisonnes mal ! Quoi, tu te figures... 			[1145]
+CLITON.
+Moi ? J'y perds mon latin et toutes ses mesures, 
+Et pourrais raisonner jusques au Jugement. 
+Que j'y perdrais encor tout mon raisonnement. 
+ORONTE.
+Confesse que je sais, Cliton, comme il faut vivre. 
+CLITON.
+Vous allez si beau train qu'on ne vous saurait suivre ; 			[1150]
+Quant a moi, j'y renonce. Apres les rudes coups 
+Que vous recutes hier a vos deux rendez-vous, 
+Qui n'aurait pas jure que dans votre colere 
+Vous eussiez du maudire et l'Amour et sa Mere, 
+Soupirez et gemir tout le long de la nuit, 			[1155]
+Ne sortir de trois jours, et peut-etre de huit, 
+L'esprit charge d'ennuis, le coeur gros d'amertume ? 
+Cependant vous voila plus gai que de coutume, 
+Vous chantez, vous dansez, vous faites l'entendu, 
+Et vous semblez n'avoir ni gagne ni perdu. 			[1160]
+Votre facon d'agir est bien heteroclite. 
+ORONTE.
+En quoi te surprend-elle ? On me quitte, et je quitte. 
+CLITON.
+Si l'on montre pour vous quelques legeretes, 
+On ne vous rend, Monsieur, que ce que vous pretez. 
+Et Maitresse, et Suivante, et blanche, et brune, et blonde, 			[1165]
+Vous vous accommodez de tout le mieux du monde, 
+Votre haut appetit en prend a gauche, a droit, 
+Et rien a votre gout n'est trop chaud ni trop froid. 
+ORONTE.
+C'est aimer a peu pres comme il faut que l'on aime. 
+CLITON.
+Aussi commence-t-on a vous aimer de meme. 			[1170]
+ORONTE.
+Je ne m'en fache point. 
+CLITON.
+A vous parler sans fard, 
+Je crois que votre amour est quelque amour batard. 
+ORONTE.
+Il est vrai que sur lui je garde assez d'empire. 
+CLITON.
+Plus je vous examine, et plus je vous admire. 
+Tantot l'oeil vif et gai vous faites le Galant, 			[1175]
+Tantot morne et pensif vous faites le dolent ; 
+Ici l'air enjoue vous contez des merveilles, 
+La de soupirs aigus vous percer les oreilles, 
+Je m'y laisse duper moi-meme assez souvent, 
+Vous pleurez, vous riez, et tout cela du vent. 			[1180]
+Quels tours de passe-passe ! 
+ORONTE.
+Et mon humeur t'etonne ? 
+CLITON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je n'en connu jamais de si Cameleonne, 
+Chaque objet lui fait prendre un jeu tout different. 
+ORONTE.
+C'est ainsi que l'amour jamais ne me surprend, 
+Je le brave, et par la rendant ses ruses vaines, 			[1185]
+J'en goute les douceurs sans en sentir les peines. 
+CLITON.
+Quoi, donner tout ensemble et reprendre son coeur, 
+C'est amour ? 
+ORONTE.
+C'est amour, Cliton, et du meilleur. 
+CLITON.
+Mais l'Amour, n'est-ce pas une ardeur inquiete, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)(Car si j'y suis Grec depuis que j'en tiens pour Lisette.) 			[1190]
+Un frisson tout de flamme, un accident confus, 
+Qui brouille la cervelle, et rend l'esprit perclus, 
+Une peine qui plait encor qu'elle incommode ? 
+ORONTE.
+C'est l'amour du vieux temps, il n'est plus a la mode. 
+CLITON.
+Il n'est plus a la mode ? 
+ORONTE.
+Il est lourd et grossier. 			[1195]
+CLITON.
+Que faut-il faire donc pour le modifier ? 
+ORONTE.
+Ma conduite aisement te levera ce doute. 
+Examine-la bien. 
+CLITON.
+Ma foi, je n'y vois goutte ; 
+Si vous voulez m'instruire, il faut mieux s'expliquer. 
+ORONTE.
+Ecoute pour cela ce qu'il faut pratiquer. 			[1200]
+Avoir pour tous Objets la meme complaisance, 
+Savoir aimer par coeur et sans que l'on y pense, 
+En conter par coutume et pour se divertir, 
+Se plaindre d'un grand mal et n'en point ressentir, 
+En faire adroitement le visage interprete, 			[1205]
+N'avertir point son coeur de quoi que l'on promette, 
+D'un mensonge au besoin faire une verite, 
+Se montrer quelquefois a demi transporte, 
+Parler de passion, de soupirs et de flammes, 
+Et pour ne risquer rien en pratiquant les femmes, 			[1210]
+Les adorer en gros toutes confusement, 
+Et les mesestimer toutes separement. 
+Voila la bonne regle. 
+CLITON.
+O la haute science ! 
+Vous savez de l'amour tirer la quintessence. 
+N'importe, pour Lisette avisez, tout ou rien, 			[1215]
+Songez pour elle-meme a lui vouloir du bien, 
+Autrement... 
+ORONTE.
+Sans colere ; un jour ou deux peut-etre 
+Me feront consentir a t'en laisser le Maitre, 
+Je ne suis pas encor depourvu tout a fait, 
+Dorotee est fidele, et j'en suis satisfait. 			[1220]
+CLITON.
+Mais Eraste cache fait assez voir qu'on l'aime ? 
+ORONTE.
+J'ai su toute l'intrigue. 
+CLITON.
+Et de qui ? 
+ORONTE.
+De lui-meme, 
+Que retournant chez lui hier soir assez tard, 
+Il s'etait a sa porte arrete par hasard, 
+Que la trouvant ouverte, et la croyant entendre, 			[1225]
+Seule avec sa Suivante il l'avait pu surprendre, 
+Et qu'a peine il goutait un entretien si cher, 
+Que son Pere frappant on l'avait fait cacher. 
+Vois s'il m'en doit rester quelque scrupule en l'ame. 
+CLITON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous etes ne coiffe. 
+ORONTE.
+Le bon est pour Florame. 			[1230]
+S'il brulait de savoir qui possede son coeur, 
+C'etait pour Dorotee, et non pas pour sa Soeur, 
+Si bien que lui contant par quelle tyrannie 
+Lui donnant Dorotee on l'arrache a Lucie, 
+Je l'ai vu pret soudain de repondre a ses voeux, 			[1235]
+S'il rompait un Hymen si contraire a ses feux. 
+La Florame passant, bons Amis, et sans peine, 
+A l'amour qui les pique ils ont donne leur haine, 
+Et par ce doux accord leurs differents cesses, 
+Devant moi sans contrainte ils se sont embrasses. 			[1240]
+CLITON.
+De sorte que Lucie a Florame est acquise ? 
+ORONTE.
+Oui, son Frere y consent, et par mon entremise. 
+CLITON.
+Vous ne la verrez plus ? 
+ORONTE.
+Moi ? Comme auparavant. 
+CLITON.
+Mais elle vous endort d'un espoir decevant, 
+Et tandis qu'autre part sa franchise arretee 			[1245]
+Fait voir... 
+ORONTE.
+J'en crus bien hier autant de Dorotee, 
+Et cependant, Cliton, je le crus faussement. 
+CLITON.
+Mais celle-ci, Monsieur, vous fourbe apparemment. 
+ORONTE.
+Peut-etre suis-je encor trompe par l'apparence. 
+CLITON.
+Quoi, vous croyez Florame assez... 
+ORONTE.
+Vois qu'il s'avance ; 			[1250]
+J'en puis fort aisement sur l'heure etre eclairci. 
+SCENE II. Oronte, Florame, Cliton.
+ORONTE.
+Vous voila satisfait, tout vous a reussi ? 
+FLORAME.
+Oui, mais ce n'est pas tout d'avoir gagne le Frere, 
+Votre secours, Ami, m'est encor necessaire. 
+En vain j'ai cru secret mon hymen pretendu, 			[1255]
+Ce bruit pour mon malheur n'est que trop repandu, 
+Et l'aimable Lucie en est persuadee, 
+Jusqu'a croire ma flamme une flamme fardee. 
+Vous, que notre amitie fait lire dans mon coeur, 
+Voyez ce cher Objet, combattez sa rigueur, 			[1260]
+Chassez de son esprit un soupcon qui m'outrage, 
+Et ne dedaignez pas d'achever votre ouvrage. 
+ORONTE.
+Est-ce pour me jouer que vous parlez ainsi ? 
+Si vous aimez Lucie, elle vous aime aussi. 
+Vous donner rendez-vous a l'insu de son Frere 			[1265]
+C'est da la passion une preuve assez claire. 
+Et vous osez vous plaindre ? Ah, vous me surprenez. 
+CLITON, bas.
+Lui sait-il finement tirer les vers du nez ? 
+FLORAME.
+Puisque vous rien cacher serait commettre un crime, 
+Sachez que son amour ne passe point l'estime, 			[1270]
+Et que ce rendez-vous qui me fait croire heureux, 
+N'etait qu'un trait hardi de mon coeur amoureux. 
+A de telles faveurs bien loin qu'elle consente, 
+J'avais par mes presents suborne sa Suivante, 
+Qui, sans qu'elle en sut rien, me devait hier au soir 			[1275]
+Donner chez elle entree, et me la faire voir ; 
+Et ce fut la raison qui me rendit facile 
+A quitter un dessein plus dangereux qu'utile ; 
+En vain sans cet abus vous m'en eussiez prete. 
+ORONTE.
+Je vous croyais sans doute un peu plus avance ; 			[1280]
+Mais ayant su lever le plus facheux obstacle, 
+Nous n'avons pas besoin de consulter l'Oracle, 
+La victoire est a nous, et j'ose m'en vanter. 
+FLORAME.
+Vous ayant pour second j'aurais tort d'en douter. 
+Cependant son accueil, apres l'aveu d'un frere, 			[1285]
+Me va faire savoir ce qu'il faut que j'espere. 
+SCENE III. Oronte, Cliton.
+ORONTE.
+Et bien, Cliton ? 
+CLITON.
+J'entends. 
+ORONTE.
+Parle, ai-je ete trompe ? 
+CLITON.
+Pas trop. 
+ORONTE.
+Et l'apparence ? 
+CLITON.
+Elle m'avait dupe, 
+Lucie est toute a vous ; mais quoi qu'on puisse dire, 
+Vous etes en adresse un redoutable Sire, 			[1290]
+Et le diable qui met vos peches en ecrit, 
+S'il n'en oublie aucun, doit avoir de l'esprit. 
+Qui tombe entre vos mains, garde le stratageme. 
+Enfin Lucie... 
+ORONTE.
+Enfin doutes-tu si je l'aime ? 
+CLITON.
+Fort bien. Et Dorotee ? 
+ORONTE.
+Encore plus que jamais. 			[1295]
+CLITON.
+Vous allez donc bientot laisser Lisette en paix ? 
+ORONTE.
+Oui, sa maigre beaute n'a plus rien qui me tente, 
+On la souffre au besoin quand la place est vacante ; 
+Faute de mieux... 
+CLITON.
+De mieux ? Ah, Monsieur, parlez bien. 
+Hors pour un pis-aller Lisette ne vaut rien, 			[1300]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et c'est faute de mieux qu'a la montre elle passe ! 
+SCENE IV. Oronte, Lisette, Cliton.
+Il fouille dans sa poche.
+LISETTE.
+Vraiment, Monsieur Cliton, vous avez bonne grace. 
+Lisette un pis-aller ? C'est tout ce qu'elle vaut ? 
+CLITON.
+Me voici bien loge. 
+ORONTE.
+Laisse-la ce Maraud ? 
+Pique de jalousie a cause que je t'aime, 			[1305]
+Il tache a te noircir. 
+CLITON.
+Moi ? Monsieur. 
+ORONTE.
+Oui, toi-meme. 
+CLITON.
+Voyez le filoutage. 
+LISETTE.
+Ainsi... 
+CLITON.
+Foi de Cliton. 
+LISETTE.
+Va, j'ai trop bien oui. 
+CLITON.
+Tu m'as change le ton. 
+LISETTE.
+C'est donc faute de mieux qu'a la montre je passe ? 
+CLITON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je l'ai dit en fausset, et tu l'as pris en basse ? 			[1310]
+ORONTE.
+Si tu veux l'ecouter, il parlera toujours. 
+CLITON.
+Que je puisse... 
+ORONTE.
+Tais-toi. 
+CLITON.
+Voici de ses detours, 
+Charge tout, j'ai bon dos. 
+ORONTE.
+Donc, aimable Lisette, 
+Tu fais si peu d'etat d'une amour si parfaite ? 
+Si longtemps sans me voir ! Ah, ce m'est un tourment... 			[1315]
+LISETTE.
+Je le crois. 
+CLITON, bas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Gardons-nous de l'ennoblissement. 
+ORONTE.
+Ton agreable humeur prend tout en raillerie, 
+Mais je te suis en vain suspect de flatterie. 
+Crois-moi, quand quelque Objet peut s'acquerir mes soins ; 
+Que j'y songe deux fois... 
+LISETTE.
+Vous l'aimez pour le moins. 			[1320]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voyez, j'aide a la lettre. 
+ORONTE.
+Ah, douter de ma flamme, 
+C'est... 
+LISETTE.
+Non, non, je me crois bien avant dans votre ame, 
+Mais votre amour pourtant n'est chez moi qu'en depot, 
+Et je cours grand hasard de le rendre bientot. 
+Ma Maitresse... 
+ORONTE.
+Tu crois que sa beaute me pique, 			[1325]
+Va, si mon soin jamais a la servir s'applique... 
+LISETTE.
+Vous la vites donc hier pour la derniere fois ? 
+ORONTE.
+Je m'y forcai pour toi, vois ce que tu me dois. 
+LISETTE.
+Pour moi ? 
+ORONTE.
+Rien n'est plus vrai. 
+LISETTE.
+C'est la donner des votres. 
+ORONTE.
+Quoi, tu ne me crois point ? 
+LISETTE.
+Vous en savez bien d'autres. 			[1330]
+ORONTE.
+Ah non, encor un coup je te jure ma foi 
+Que je ne la vis hier que pour l'amour de toi. 
+J'ai pour son entretien une haine mortelle ; 
+Mais ayant decouvert ta retraite chez elle, 
+Quoique assure d'y voir un Objet odieux, 			[1335]
+J'y courus sur l'espoir de te parler des yeux ; 
+Tu n'eusses pas manque d'entendre ce langage ? 
+LISETTE.
+Que vous etes subtil et fait au badinage ! 
+Vous la trouvates seule ? 
+ORONTE.
+Aussi pour m'en venger, 
+Je ne m'etudiai qu'a le faire enrager. 			[1340]
+J'eus des respects pour elle aussi rares qu'etranges, 
+Et pensai l'accabler a force de louanges ; 
+Mais elle me perdait, tant mon style etait haut. 
+LISETTE.
+Vous pourrez aujourd'hui reparer ce defaut, 
+Elle veut vous parler, et je viens vous le dire. 			[1345]
+Depechez, suivez-moi. 
+ORONTE.
+Tu prends plaisir a rire. 
+LISETTE.
+Non, elle vous attend, et doit vous avertir 
+Lorsque vous la verrez... 
+ORONTE.
+Je n'y puis consentir. 
+LISETTE.
+Il le faut ; voulez-vous lui laisser quelque ombrage 
+Que j'aie ose manquer a faire son message ? 			[1350]
+ORONTE.
+J'aurai bien a souffrir. 
+LISETTE.
+Allez, j'y prendrai part. 
+ORONTE.
+Je n'irai qu'a regret, je te parle sans fard, 
+Et je crois qu'aisement tu te le persuades ; 
+Mais dans cette entrevue observe mes oeillades, 
+Au moindre mot d'amour jette les yeux sur moi, 			[1355]
+Et quoi que je lui dise, explique tout pour toi. 
+LISETTE.
+Je n'y manquerai pas, votre affaire vaut faire. 
+ORONTE.
+Tu railles. 
+LISETTE.
+Comme vous. 
+ORONTE.
+Ah, je t'aime, Lisette, 
+Et pour te faire voir que dans ton entretien 
+Je trouve et mes plaisirs et mon souverain bien, 			[1360]
+Que vivre sous tes lois est ma plus grande gloire, 
+Tiens... 
+LISETTE.
+Vous m'en diriez tant que je vous pourrais croire. 
+ORONTE.
+Le temps decouvrira ce qui semble cache. 
+CLITON.
+Ma noblesse s'avance, on conclut le marche. 
+Je n'en puis plus, hola. 
+ORONTE.
+Quel Demon te possede ? 			[1365]
+CLITON.
+Presque a tous accidents vous savez bon remede, 
+Daignez ma faire grace, et m'accorder un point. 
+ORONTE.
+Qu'est-ce ? 
+CLITON.
+Faites, Monsieur, que je n'enrage point. 
+ORONTE, apercevant Lucie.
+Si... mais, que vois-je ? 
+CLITON.
+Bon, voici quelque ressource. 
+LISETTE, bas.
+La facheuse rencontre ! Il resserre sa bourse. 			[1370]
+ORONTE, a Lisette.
+Quoi que j'ose conter ne t'en etonne pas, 
+Nous en rirons ensemble. 
+LISETTE, bas.
+Il faut franchir le pas, 
+L'espoir de son present a tarder me convie. 
+SCENE V. Oronte, Lucie, Lisette, Cliton.
+ORONTE.
+Je puis donc vous revoir, adorable Lucie ? 
+LUCIE.
+La joie en est commune, et c'est avec regret 			[1375]
+Que je vous dois quitter la douceur du secret. 
+Vous etiez, je m'assure, en haute confidence ? 
+ORONTE.
+Quoi, vous me soupconner de quelque intelligence, 
+Et croyez sa rencontre un secret entretien ? 
+Cliton sait... 
+CLITON.
+Oui, mon Maitre est un amant de bien. 			[1380]
+LUCIE, montrant Lisette.
+Donc ce nouvel Objet qui parait a ma honte... 
+CLITON.
+Il lui parlait d'amour, mais c'etait pour mon compte. 
+ORONTE.
+Si vous croyez ce fou... 
+LUCIE.
+Je sais ce que je vois, 
+Et suis bien resolue a n'en croire que moi. 
+ORONTE.
+Quoi donc, c'est tout de bon que vous jurez ma perte ? 			[1385]
+LUCIE.
+La persecution que pour vous j'ai soufferte, 
+Quand un Frere obstine pour Florame aujourd'hui... 
+ORONTE.
+Aussi sans vanite vaux-je un peu mieux que lui, 
+L'obeissance irait a votre prejudice, 
+Et vous vous obligez en me rendant justice. 			[1390]
+LUCIE.
+Gardez que pour punir votre presomption, 
+Je n'ose enfin la rendre a son affection. 
+ORONTE.
+Quitte de trois soupirs a grossir l'ordinaire. 
+Mais consultez-vous bien avant que d'en rien faire, 
+Surtout, de votre coeur obtenez-en l'aveu. 			[1395]
+LUCIE.
+Quoi, ma perte en effet vous toucherait si peu ? 
+ORONTE.
+Quoi, vous vous trahiriez, et j'aurais la folie 
+De me donner en proie a la melancolie ? 
+S'en pique desormais qui voudra s'en piquer. 
+La douleur hier au soir me pensa suffoquer, 			[1400]
+De Florame et de vous ayant su la pratique, 
+Je vins au rendez-vous, confus, melancolique, 
+J'y pleurai, j'y gemis, soupirai de mon mieux, 
+Et fis ce que je pus pour mourir a vos yeux ; 
+Mais j'en trouve l'usage un peu trop incommode, 			[1405]
+Et tiens qu'il n'est rien tel que d'aimer a la mode. 
+LUCIE.
+Dites a votre mode, en trompeur, en ingrat. 
+ORONTE.
+L'amour en est plus gai s'il est moins delicat, 
+Et quand on s'y resout, jamais de jalousie, 
+Jamais... 			[1410]
+LUCIE.
+Donc sans raison mon ame en est saisie, 			[1410]
+Et je dois dementir le rapport de mes yeux ? 
+ORONTE.
+Les detourner a gauche est quelquefois le mieux. 
+Faisons que cette regle entre nous soit commune 
+Vivons a coeur ouvert, sans defiance aucune, 
+L'un l'autre sans soupcon croyons-nous sur la foi, 			[1415]
+Je n'en n'ai point de vous, n'en ayez point de moi. 
+Quand je vous le dirai, croyez que je vous aime, 
+Quand vous me le direz, je le croirai de meme ; 
+Tant qu'ainsi nous vivrons notre marche tiendra, 
+Au moindre changement notre marche rompra. 			[1420]
+LUCIE.
+Le veritable amour a des lois plus sublimes, 
+Nous en ferions un monstre en suivant ces maximes. 
+ORONTE.
+Les suivant comme il faut, nous ferions seulement 
+Qu'il serait un plaisir, et non pas un tourment. 
+LUCIE.
+Ah ! Qui dans son amour voit le moindre partage, 			[1425]
+S'il n'en meut de douleur, doit manquer de courage. 
+ORONTE.
+S'il fallait qu'en effet cette maxime eut cours, 
+Nous serions en danger de mourir tous les jours. 
+Est-il legerete comparable a la votre ? 
+Tout le sexe est changeant, hier l'un, aujourd'hui l'autre. 			[1430]
+LUCIE.
+Feignez pour mieux fourber de craindre ce malheur ; 
+Mais combien apres tout en sont morts de douleur ? 
+A ces facheux revers combien n'ont pu survivre ? 
+ORONTE.
+L'exemple est dangereux, je renonce a le suivre. 
+LUCIE.
+Pour un si bel effort votre coeur est trop bas. 			[1435]
+ORONTE.
+L'entreprenne qui veut, je lui cede le pas. 
+Quand je mourrais pour vous d'angoisse et de martyre, 
+Et que deux ou trois jours on vous entendrait dire, 
+C'etait un brave Amant, c'est pour moi qu'il est mort, 
+Helas ! J'en ai regret : J'y gagnerais tres fort. 			[1440]
+LUCIE.
+N'est-ce rien qu'acquerir une illustre memoire ? 
+ORONTE.
+Me preserve le Ciel d'une si triste gloire. 
+LUCIE.
+Cependant, vous direz encor que vous m'aimez ? 
+ORONTE.
+Consultez-en mon coeur, ce coeur que vous charmez. 
+SCENE VI. Oronte, Eraste, Lucie, Lisette, Cliton, Listor.
+Oronte s'en va par un cote, et incontinent apres, Lucie s'en va par l'autre.
+ERASTE, a Listor.
+Ils s'adorent, te dis-je, on me l'a fait connaitre. 			[1445]
+LUCIE, abaissant sa coiffe.
+Voici mon Frere, O Dieux ! 
+ERASTE.
+Mais je le vois, le traitre ! 
+LISTOR.
+Une Dame avec lui... 
+ERASTE.
+Je n'en saurais douter, 
+C'est Dorotee. 
+LUCIE, a Oronte.
+Enfin songez a me quitter. 
+ERASTE, montrant Lisette a Listor.
+Cette nuit au jardin conduit par sa suivante, 
+Je la reconnais trop. 
+ORONTE, a Lucie.
+Faut-il que j'y consente ? 			[1450]
+LUCIE.
+Oui, je veux qu'avant moi vous partiez de ce lieu, 
+Ne perdez pas de temps, et me dites adieu. 
+ORONTE.
+J'obeis. Toi, Cliton... 
+CLITON.
+Que faut-il encor faire ? 
+ORONTE.
+Arrete ici Lisette, et l'oblige a se taire, 
+Promets-lui pour cela tout ce que tu voudras. 			[1455]
+LISTOR, a Eraste.
+Elle s'en va. 
+ERASTE.
+L'ingrate ! Il faut suivre ses pas, 
+Car sans doute a dessein sa Suivante est restee 
+Afin de me nier que ce soit Dorotee ; 
+Mais la suivant de loin je rends vains tous ses traits. 
+SCENE VII. Cliton, Lisette.
+CLITON.
+De quel air me prendrai-je a faire le mauvais ? 			[1460]
+LISETTE.
+Cliton.
+CLITON.
+Point de quartier. 
+LISETTE.
+Quoi, tu fais le severe ? 
+CLITON.
+Va te pourvoir ailleurs. 
+LISETTE.
+Tu gardes ta colere, 
+Cliton ? 
+CLITON.
+Oui, je la garde, et la garderai bien. 
+LISETTE.
+Regarde-moi. 
+CLITON.
+Non. 
+LISETTE.
+Mais... 
+CLITON.
+Je n'en rabattrai rien. 
+LISETTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu m'abandonnerais, toi que met hors de mise 			[1465]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ton poil deja grison, et ta nasillardise ? 
+Tu m'abandonnerais, moi que tu ne vaux pas, 
+Moi dont un monde entier adore les appas, 
+Moi dont tu vois l'amour a l'envi poursuivie 
+Faire qu'on te regarde avec un oeil d'envie, 			[1470]
+Enfin moi qui m'abaisse a t'aimer... 
+CLITON.
+Enfin toi 
+Qui rends ma bourse nette, et te moques de moi. 
+LISETTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est aussi par tes dons qu'on me voit si poupine. 
+CLITON.
+Diable je t'apprehende, et ta chienne de mine. 
+A present devant moi tu prends des libertes 			[1475]
+Qui refroidissent bien mes liberalites, 
+Chacun t'en vient conter. 
+LISETTE.
+Oui, mais pour des paroles, 
+Sans rien donner de plus, j'attrape des pistoles. 
+CLITON.
+Et par cette raison je m'en dois consoler ? 
+LISETTE.
+Cliton, parlons Francais au lieu de se quereller. 			[1480]
+Tu connais mon humeur, tu connais ma methode, 
+J'aime a changer d'habits, j'aime a suivre la mode, 
+J'achete tous les jours quelque meuble nouveau, 
+Je fais couper, tailler, et toujours du plus beau. 
+Tantot cher le Mercier, tantot chez la Lingere, 			[1485]
+Et tant que j'ai de quoi je ne l'epargne guere. 
+Vois-tu bien ? Cela coute, et tant d'ajustement 
+Ne se fait ni par sort ni par enchantement. 
+Tes gages, quels qu'ils soient, a peine sont capables 
+De me fournir de gants et de nippes semblables, 			[1490]
+Et si je ne souffrais qu'on m'en contat un peu, 
+Je viendrais au rabais, ou je jouerais beau jeu. 
+CLITON.
+C'est bien fait, mais viens ca, dis-moi quels avantages 
+Jusqu'ici j'ai trouves a te donner mes gages. 
+Pour toi de jour en jour ma passion s'accroit, 			[1495]
+Et je ne t'ose encor toucher le bout du doigt. 
+LISETTE.
+Ne suffit-il pas de savoir que je t'aime ? 
+CLITON.
+Tu m'aimes ! 
+LISETTE.
+En douter, c'est te tromper toi-meme, 
+Tu le vois trop. 
+CLITON.
+J'ai donc la berlue en amour. 
+LISETTE.
+Je soupire pour toi plus de dix fois par jour. 			[1500]
+CLITON.
+C'est un grand reconfort a soulager une ame. 
+LISETTE.
+Estimes-tu si peu ces marques de ma flamme ? 
+CLITON.
+C'est toujours mieux que rien, mais parlons franchement. 
+L'Amour, comme tu sais, est un enfant gourmand. 
+Et pour rassasier sa faim trop convoiteuse, 			[1505]
+Je trouve des soupirs une viande bien creuse. 
+LISETTE.
+Je perds temps avec toi, tu n'aimes qu'a jaser, 
+Et tes sottes raisons ne font que m'amuser. 
+Adieu. 
+CLITON.
+Dis-moi, ta langue est-elle mercenaire, 
+Et pour vingt ecus d'or te voudrais-tu bien taire ? 			[1510]
+LISETTE.
+Au lieu d'une cent fois. 
+CLITON.
+L'effort est grand pour toi. 
+LISETTE.
+J'en viendrai bien a bout, repose-t'en sur moi. 
+Peux-tu me les donner ? 
+CLITON.
+Oui, j'en ai charge expresse, 
+Si tu retiens ta langue aupres de ta Maitresse. 
+Mon Maitre... 
+LISETTE.
+Je tairai son infidelite. 			[1515]
+Voyons donc ton argent. 
+CLITON.
+Il n'est pas bien compte. 
+LISETTE.
+Quoi ! Les vingt ecus ne sont qu'en esperance ? 
+CLITON.
+J'en repons, que t'importe ! 
+LISETTE.
+O la bonne assurance ! 
+Va, crois que de ce pas je vais la detromper. 
+CLITON.
+Garde aussi qu'il ne sache a son tour t'attraper. 			[1520]
+
+
+			ACTE V
+
+
+SCENE PREMIERE. Argante, Dorotee.
+DOROTEE.
+Mais du moins attendez que mon ame etonnee 
+Ait pu se disposer a ce triste Hymenee, 
+Et sans precipiter... 
+ARGANTE.
+Vous esperez en vain 
+M'obliger par priere a changer de dessein, 
+Je vois quel est le votre, et je lis dans votre ame. 			[1525]
+J'ai donne ma parole au Pere de Florame, 
+Il faut que je la tienne, il m'en presse, et je veux, 
+Que des demain l'Hymen vous unisse tous deux. 
+DOROTEE.
+Mais vous voyez de moi qu'il tient si peu de compte, 
+Qu'a peine... 
+ARGANTE.
+C'est l'effet du bruit qui court d'Oronte. 			[1530]
+On dit qu'il vous en veut, et Florame alarme 
+Semble craindre aujourd'hui de n'etre pas aime, 
+Je le remarque trop a son inquietude ; 
+Et comme ce faux bruit lui porte un coup bien rude, 
+Pour le faire avorter et le voir satisfait, 			[1535]
+De cet heureux Hymen je dois presser l'effet. 
+Songez-y donc, adieu, je vais trouver son Pere, 
+Pour aviser ensemble a ce qu'il faudra faire. 
+DOROTEE, seule.
+Vous resoudrez en vain cet Hymen odieux, 
+Dans le choix d'un Mari je ne crois que mes yeux. 			[1540]
+Mais Lisette revient ; Amour prends ma defense. 
+SCENE I.. Dorotee, Lisette.
+DOROTEE.
+J'attendais ton retour avec impatience. 
+Et bien, l'as-tu trouve ? Que t'a-t-il repondu ? 
+Parle. 
+LISETTE.
+Je l'ai trouve tout ensemble et perdu. 
+DOROTEE.
+Il aurait refuse d'ecouter ton message ? 			[1545]
+LISETTE.
+Vous ne connaissez pas encor le Personnage. 
+Il sait trop pour cela comme on vit aujourd'hui. 
+DOROTEE.
+Dis-moi donc promptement, que croirai-je de lui ? 
+Sait-il que je l'attends ? Viendra-t-il ? Le verrai-je ? 
+LISETTE.
+Sans doute qu'il viendra, mais gardez-vous du piege, 			[1550]
+Et si vous m'en croyez, rendez-lui de grand coeur 
+Fleurette pour fleurette, et douceur pour douceur. 
+Ne vous engagez point plus avant qu'il s'engage. 
+DOROTEE.
+Qui te peut obliger a tenir ce langage ? 
+Est-il fourbe ? Inconstant ? 
+LISETTE.
+Je ne sais ce qu'il est. 			[1555]
+Mais vous en jugerez, ecoutez s'il vous plait. 
+Nous nous sommes l'un l'autre aborder dans la rue, 
+Ou me riant au nez aussitot qu'il m'a vue, 
+Avecque tant de joie il est vers moi couru 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'a bon escient pour vous je l'ai juge feru. 			[1560]
+Meme chose a l'ouir ; d'abord, toute assurance 
+De ne sortir jamais de votre obeissance, 
+Mais a peine pour vous il me vantait son feu, 
+Qu'une Dame arrivant, c'est la le beau du jeu. 
+Sans dire quoi ni qu'est-ce, au mepris de sa flamme, 			[1565]
+Le causeur est alle lui chanter meme gamme, 
+Et sur l'heure a mes yeux sans autre compliment 
+S'est mis a cajoler fort gracieusement. 
+DOROTEE.
+Quoi, devant toi l'ingrat aurait eu l'impudence 
+De mettre lachement au jour son inconstance, 			[1570]
+De lui parler d'amour ? 
+LISETTE.
+Oui, vous dis-je, a mes yeux. 
+DOROTEE.
+Il fourbe donc, le traitre ? 
+LISETTE.
+Il s'y connait des mieux. 
+DOROTEE.
+Mais cette Dame enfin qu'est-elle devenue ? 
+Acheve. 
+LISETTE.
+Apres l'avoir longtemps entretenue, 
+Tout a coup (mais sans doute ils l'avaient concerte) 			[1575]
+Ils ont tire tous deux chacun de leur cote. 
+DOROTEE.
+Et pour savoir son nom tu ne l'as point suivie ? 
+LISETTE.
+Je l'ai tachee, Madame, et j'en brulais d'envie, 
+Mais le valet d'Oronte a rompu mon dessein, 
+Qui m'ayant su couler quelque douceur en main 			[1580]
+Pour arrhes qu'il ferait encore tout autre chose, 
+M'a promis monts et vaux moyennant bouche close ; 
+Mais moi, Sachons un peu pour qui vous me prenez, 
+Puis lui jetant soudain ses ecus d'or au nez, 
+Va, maroufle, ai-je dit, je ne suis point traitresse, 			[1585]
+Et ne sais ce que c'est que vendre ma Maitresse. 
+Si j'ai besoin d'argent, sans lui manquer de foi, 
+Elle en a de reserve et pour elle et pour moi. 
+Alors si contre lui j'eusse cru mon courage... 
+DOROTEE.
+Ton zele me ravit. 
+LISETTE.
+Je petillais de rage. 			[1590]
+Moi, vous trahir ! Vous vendre ! O qu'il s'adressait bien ! 
+Il aurait pu m'offrir... 
+DOROTEE.
+Va, tu n'y perdras rien. 
+Admire cependant aux termes ou nous sommes 
+Combien j'avais raison de hair tous les hommes, 
+Puisque Oronte, en faveur de qui ce triste coeur 			[1595]
+Relachait un orgueil qui fait tout mon bonheur. 
+Cet Oronte me fourbe, il me joue, il me brave, 
+Et pris en d'autres fers, feint d'etre mon esclave. 
+Mais qu'a propos sa feinte a su se decouvrir ! 
+Avec ce lache Amant j'etais prete a m'ouvrir, 			[1600]
+A prendre son avis pour rompre un Hymenee... 
+LISETTE.
+Vous l'esperez en vain, la parole est donnee. 
+Votre Pere vous presse, et pourra tout sur vous. 
+DOROTEE.
+Il a beau me presser, malgre ces rudes coups... 
+LISETTE.
+Mais Florame lui plait, il le souhaite, il l'aime. 			[1605]
+DOROTEE.
+Florame en un besoin m'y servira lui-meme. 
+Pour rechercher jamais cette triste union, 
+Il est trop averti de mon aversion. 
+En vain de nos Vieillards l'impuissante manie 
+Veut sur nos volontes user de tyrannie, 			[1610]
+Dans toutes nos froideurs l'un et l'autre d'accord, 
+De leur autorite nous craignons peu l'effort. 
+Mais qui ferme la porte, et que pretend-on faire ? 
+SCENE I.I. Dorotee, Lucie, Lisette.
+Elle leve sa coiffe.
+Elle leve sa coiffe.
+LUCIE, avec sa coiffe abattue..
+Madame, sauvez-moi des poursuites d'un frere. 
+Il tache a me connaitre, et son esprit jaloux 			[1615]
+De quelque promenade est peut-etre en courroux. 
+En vain par cent detours, allant de rue en rue, 
+J'ai cru que dans la presse il me perdrait de vue, 
+Il m'a toujours suivie, et marchant sur mes pas 
+M'a contrainte a la fin, pour ne me perdre pas, 			[1620]
+D'entrer ainsi chez vous, ou j'implore votre aide 
+Pour trouver a ma crainte un assure remede. 
+Connaissez qui le cherche. 
+DOROTEE.
+Ah, Lucie, est-ce vous ? 
+LUCIE.
+C'est moi que le chagrin d'un Frere trop jaloux... 
+Mais il frappe deja ; pour me servir d'asile, 			[1625]
+Feignez de revenir maintenant de la Ville. 
+Je vous laisse ma coiffe. 
+DOROTEE.
+Il faut donc vous cacher. 
+LUCIE.
+J'entre ici. 
+LISETTE, a Dorotee.
+Savez-vous... 
+DOROTEE.
+Veut-on se depecher ? 
+Qu'on ouvre. 
+LISETTE, allant ouvrir.
+Elle a beau faire, elle payera la dette. 
+DOROTEE.
+Que croira-t-il de moi ? 
+SCENE IV. Eraste, Dorotee, Lisette.
+Lisette sort, et rentre sur la fin de la Scene.
+DOROTEE, donnant sa coiffe a Lisette comme feignant de revenir de la Ville.
+Prends ma coiffe, Lisette. 			[1630]
+ERASTE.
+Pardonnez un abord qui me rendra suspect 
+De manquer envers vous d'amour et de respect, 
+Je suis mon desespoir, et ne retiens qu'a peine 
+Les flots impetueux du courroux qui m'entraine. 
+DOROTEE.
+Votre mauvaise humeur aujourd'hui me surprend, 			[1635]
+Je croyais votre esprit dans un calme si grand, 
+Qu'aux plus rudes assauts toujours inebranlable, 
+Du moindre emportement vous fussiez incapable. 
+ERASTE.
+Je le suis pour tout autre, et trop d'amour pour vous 
+Est cause... 
+DOROTEE.
+Quoi, je suis l'Objet de ce courroux ? 			[1640]
+ERASTE.
+Niez l'ingrat mepris dont vous payez ma flamme, 
+Niez que mon rival puisse tout sur votre ame, 
+Que de vos trahisons mes yeux soient les temoins. 
+DOROTEE.
+Croyez-moi, vous revez, Eraste. 
+ERASTE.
+Mais du moins 
+Vous tomberez d'accord qu'on peut vous avoir vue 			[1645]
+Dans quelque confidence au milieu de la rue ? 
+DOROTEE.
+Moi ? 
+ERASTE.
+Je vous ai suivie apres vos adieux faits, 
+J'en crois mes yeux. 
+DOROTEE.
+Vos yeux... 
+ERASTE.
+Ils ne mentent jamais. 
+Mais pour vous mieux convaincre, et vous couvrir de honte 
+Peut-etre il suffira de vous nommer Oronte. 			[1650]
+DOROTEE.
+Oronte ? 
+ERASTE.
+Oui, cet amant avec qui vous etiez, 
+Qui vous faisais sa cour, et que vous ecoutiez. 
+Le nierez-vous encor ? 
+DOROTEE, bas.
+Je sers donc ma Rivale ! 
+O Ciel ! Quelle surprise a la mienne est egale ! 
+ERASTE.
+De votre trahison ce silence est l'aveu. 			[1655]
+Enfin j'ouvre les yeux pour eteindre mon feu, 
+J'adorais une ingrate, et le Ciel favorable, 
+Pour me desabuser, me l'a fait voir coupable. 
+DOROTEE.
+C'est aller trop avant, mais par bonte, je crois 
+Que vous ne savez pas que vous parlez a moi, 			[1660]
+Et veux bien excuser les chaleurs indiscretes 
+Qui vous font oublier qui je suis, qui vous etes, 
+Et qui de ce reproche armant votre courroux, 
+Ne vous permettent pas de bien penser a vous. 
+ERASTE.
+Je n'y pense que trop, et si je vous accuse... 			[1665]
+DOROTEE.
+Quoi, vous continuez ! J'en suis pour vous confuse, 
+Votre raison, Eraste, est sans doute en defaut, 
+Mais sachons qui vous porte a prendre un ton si haut. 
+Oronte, dites-vous, a su touchez mon ame ? 
+Est-ce un crime pour moi que d'estimer sa flamme ? 			[1670]
+Que vous ai-je promis qui m'en doive empecher ? 
+Quels serments violes m'osez-vous reprocher ? 
+Si pour grande faveur vous comptez une lettre, 
+A votre vanite cessez de trop permettre. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'aime a donner la baye, et pour la pousser loin, 			[1675]
+J'ecrirais cent billets s'il en etait besoin. 
+Vous regalant ainsi je n'ai cherche qu'a rire, 
+Les termes en font foi, vous n'avez qu'a bien lire. 
+ERASTE.
+Quoi, me railler encor ! C'est donc la tout le fruit 
+Qu'une flamme si pure a la fin m'a produit ? 			[1680]
+Apres deux ans perdus en devoirs, en services... 
+DOROTEE.
+Ces devoirs quelquefois tiennent lieu de supplices. 
+ERASTE.
+Votre orgueil envers moi ne se peut dementir, 
+Vous me tirez d'erreur, et j'en veux bien sortir. 
+De l'infidelite ne craignez point la honte, 			[1685]
+Abandonnez Eraste, et vivez pour Oronte. 
+Je romps mes tristes fers que j'estimai si doux, 
+Et pour ne rien garder qui me parle de vous, 
+Ce billet, dont l'appas avait pu me surprendre, 
+J'en faisais un tresor, je m'ose a vous le rendre. 			[1690]
+DOROTEE.
+Ce sera m'obliger, donnez donc promptement. 
+ERASTE.
+Oui, je vous le rendrai, n'en doutez nullement, 
+Je cours chez moi, Madame, et je vous le rapporte. 
+SCENE V. Dorotee, Lisette.
+LISETTE.
+Et bien, le Ciel enfin vous rit de bonne sorte ? 
+Celle dont je parlais, la rivale Beaute 			[1695]
+A qui le fourbe Oronte a si bien proteste, 
+Elle est entre vos mains, la voulez-vous plus belle ? 
+DOROTEE.
+Je le sais, cependant je soutiens sa querelle. 
+LISETTE.
+J'en ai tantot souffert, mais a present il faut... 
+DOROTEE.
+Elle pourrait t'ouir, ne parle point si haut. 			[1700]
+LISETTE.
+Madame, elle n'a garde, elle est trop eloignee. 
+Jusque dans le jardin sa crainte l'a menee. 
+Ou pour vous rendre grace elle attend mon retour ; 
+Je l'y viens de quitter. 
+DOROTEE.
+Pour venger mon amour, 
+Et donner prompt obstacle aux desseins de mon traitre. 			[1705]
+Il faut adroitement... mais que vois-je paraitre ? 
+SCENE VI. Dorotee, Lisette, Cliton.
+Cliton rentre.
+CLITON.
+Lisette. 
+LISETTE.
+C'est Cliton. Ton Maitre tarde bien. 
+CLITON.
+Peut-il entrer ? 
+LISETTE.
+Oui, va. 
+CLITON.
+Mais... 
+LISETTE.
+Qu'il ne craigne rien. 
+Le bonhomme est sorti, qu'il vienne. 
+DOROTEE.
+Enfin, Lisette, 
+Tu vois qu'en mes filets l'un et l'autre se jette. 			[1710]
+Si leur amour est ne du mepris de mes feux, 
+Je saurai d'un seul coup me venger de tous deux. 
+LISETTE.
+Mais suivant les transports de votre jalousie, 
+Gardez... 
+DOROTEE.
+Dans le jardin va retrouver Lucie, 
+Puis lorsque tu croiras qu'Oronte soit ici, 			[1715]
+Fais-l'en sortir soudain pour y venir ici, 
+Et sur le point d'entrer arrete-la de sorte 
+Qu'elle nous puisse entendre etant a cette porte. 
+Il ne manquera pas de me parler d'amour, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Alors, laisse-moi faire, a beau jeu beau retour. 			[1720]
+LISETTE.
+L'appas est delicat, vous l'y pourrez surprendre. 
+DOROTEE.
+Va donc vite, aussi bien je crois deja l'entendre. 
+Le voici. 
+SCENE VII. Oronte, Dorotee, Cliton.
+CLITON.
+Quoi, Monsieur... 
+ORONTE.
+Oui, je te le promets, 
+J'y renonce, et Lisette est a toi desormais. 
+CLITON.
+De bon coeur ? 
+ORONTE.
+De bon coeur et sans reserve aucune. 			[1725]
+CLITON.
+Grand merci, maintenant poussez votre fortune. 
+ORONTE, a Dorotee.
+Quelque cher que me soit l'honneur que je recois, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je veux mal aux bontes que vous avez pour moi, 
+Puisque attendu de vous, l'on peut mettre en balance 
+Si je viens par amour, ou bien par complaisance, 			[1730]
+Et que votre ordre expres peut faire presumer 
+Que c'est vous obeir, et non pas vous aimer. 
+LISETTE, paraissant avec Lucie qu'elle oblige incontinent de rentrer.
+Un Cavalier, madame, est encore avec elle ; 
+Demeurez. 
+LUCIE.
+C'est Oronte ! Ah ! L'ingrat ! L'infidele ! 
+DOROTEE.
+Me surprendre d'abord avec ce compliment, 			[1735]
+C'est prevenir ma plainte assez adroitement. 
+Vous-meme apprenez-moi ce qu'il faut que j'en croie. 
+ORONTE.
+Vous le pouvez connaitre a l'eclat de ma joie. 
+DOROTEE.
+J'en soupconne l'adresse. 
+ORONTE.
+Avec peu de raison. 
+DOROTEE.
+Souvent un beau dehors cache une trahison. 			[1740]
+ORONTE.
+Pour plus de surete n'en croyez que vous-meme, 
+Consulter votre coeur, il sait si je vous aime. 
+DOROTEE.
+Il m'en fait donc secret. 
+ORONTE.
+Moins que vous ne pensez, 
+Si vous daignez l'entendre il vous en dit assez ; 
+Et d'ailleurs ce devoir dont mon amour s'acquitte... 			[1745]
+DOROTEE.
+Peut-etre etant force n'est pas de grand merite. 
+ORONTE.
+L'hommage que je rends aux yeux qui m'ont blesse 
+Passerait-il chez vous pour un devoir force ? 
+Cet hommage si pur, sans melange, sans tache, 
+Et qui n'a rien en soi de honteux ni de lache ? 			[1750]
+DOROTEE.
+Vous l'elevez bien haut. 
+ORONTE.
+N'en ai-je pas sujet 
+Puisque de mon amour vos vertus sont l'objet, 
+Qu'en vous est le motif qui fait que je vous aime, 
+Et que c'est seulement a cause de vous-meme ? 
+DOROTEE.
+Je puis donc m'assurer qu'il durera toujours, 			[1755]
+Ce rare et digne amour qui de moi prend son cours, 
+Car encor que du temps le pouvoir soit extreme, 
+Me peut-il faire enfin cesser d'etre moi-meme ? 
+ORONTE.
+Aussi me feriez-vous un outrage mortel, 
+D'attendre moins de moi qu'un hommage eternel. 			[1760]
+DOROTEE.
+Vous en parlez, ce semble, avec tant de franchise, 
+Que j'ai quelque sujet de craindre une surprise. 
+ORONTE.
+Quoi, vous vous defiez de ma sincerite ? 
+DOROTEE.
+On hasarde a tout croire avec legerete. 
+ORONTE.
+Mais un espoir fonde sur de si grands merites 			[1765]
+Trahit qui le soutient en souffrant des limites, 
+Il doit se tout promettre, et sur ce ferme appui 
+Pretendre a tous les coeurs qu'il croit dignes de lui. 
+DOROTEE.
+C'est ainsi qu'aussitot que le votre soupire, 
+Il se tient assure de tout ce qu'il desire ? 			[1770]
+ORONTE.
+C'est ainsi que sans crainte et sans emotion 
+Je vois briguer sous-main votre inclination ; 
+Je vous rends mes respects, Eraste vous proteste, 
+Vous avez de bons yeux, qu'ai-je a douter du reste. 
+DOROTEE.
+Vos merites vous sont un presage assure 			[1775]
+D'emporter la balance, et d'etre prefere. 
+ORONTE.
+D'une ou d'autre facon je sais me satisfaire. 
+Je me donne a l'objet dont le choix me prefere, 
+Et quand l'heure d'un tel choix ne tombe point sur moi 
+L'on montre une ame basse, et je reprends ma foi. 			[1780]
+DOROTEE.
+M'accuseriez-vous bien d'une telle bassesse, 
+Et ce reproche adroit est-ce a moi qu'il s'adresse ? 
+ORONTE.
+Un peu trop de scrupule a votre amour est joint. 
+Des termes si communs ne vous regardent point 
+Mais j'entends du bruit. 
+DOROTEE, contrefaisant l'etonnee.
+Ou ? 			[1785]
+ORONTE.
+Vous semblez inquiete, 			[1785]
+Vous regardez... 
+DOROTEE.
+De l'oeil je cherche ici Lisette, 
+Il m'a semble la voir. 
+ORONTE.
+Vous l'avez vue aussi. 
+DOROTEE.
+Qu'est-elle devenue ? 
+ORONTE.
+Elle est entree ici, 
+Je m'en vais l'appeler. 
+DOROTEE, feignant de l'arreter avec empressement.
+Dieux ! Que voulez-vous faire ? 
+ORONTE.
+Vous rendre de mon zele une preuve legere. 			[1790]
+DOROTEE.
+Toujours d'un vif soupcon votre amour est tache, 
+Mais croyez-vous que chez moi si quelqu'un est cache, 
+Sans m'en avoir parle, ma Suivante est capable...
+ORONTE.
+Madame, qui vous dit que vous soyez coupable ? 
+C'est parler cette fois vous-meme contre vous. 			[1795]
+DOROTEE.
+J'ai lieu de craindre tout d'un naturel jaloux. 
+Vous m'accusates hier, et depuis ce reproche... 
+ORONTE.
+Trouvez bon seulement que Lisette s'approche. 
+DOROTEE, l'arretant toujours.
+Sous ce pretexte feint vos soupcons imprudents 
+Veulent... 
+ORONTE.
+Souffrez... 			[1800]
+CLITON.
+Sans doute Eraste est la-dedans. 			[1800]
+Tenez ferme, Monsieur, ayons-en l'ame nette, 
+Pour n'etre plus leurrez d'un Mari de Lisette. 
+DOROTEE.
+Suivez votre caprice, et ne montrez ici... 
+ORONTE.
+Vous vous alarmez trop. Lisette. 
+SCENE VIII. Oronte, Dorotee, Lucie, Lisette, Cliton.
+LUCIE.
+La voici. 
+Rassurez votre esprit, c'est a tort qu'il s'etonne. 			[1805]
+CLITON.
+Voici bien des Marchands, la foire sera bonne. 
+ORONTE.
+Quels embarras jamais furent moins esperes ! 
+CLITON.
+Vous avez l'esprit bon, vous vous en tirerez. 
+LUCIE.
+Et bien, perfide Amant ? 
+DOROTEE.
+Et bien, Amant volage ? 
+LUCIE.
+Entre nous tour a tour votre coeur se partage ! 			[1810]
+DOROTEE.
+Trompeur. 
+LUCIE.
+Parjure. 
+DOROTEE.
+Fourbe. 
+LUCIE.
+Ame double et sans foi. 
+DOROTEE.
+Lache. 
+LUCIE.
+Traitre. 
+ORONTE.
+Est-ce assez declame contre moi ? 
+LUCIE.
+Apres tant de serments, tant de promesses fausses... 
+CLITON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De crainte d'accident, Monsieur, tirons nos chausses. 
+Si la moindre des deux nous sautait au collet, 			[1815]
+Adieu, ce serait fait du maitre et du valet. 
+DOROTEE.
+Enfin la verite malgre toutes vos feintes... 
+ORONTE.
+De grace, dites-moi le sujet de vos plaintes. 
+LUCIE.
+Quoi, nos plaintes, ingrat, peuvent vous etonner. 
+ORONTE.
+Parlez, car je n'ai pas le don de deviner. 			[1820]
+LUCIE.
+Nier des trahisons qui sont en evidence, 
+A l'infidelite c'est joindre l'impudence. 
+ORONTE.
+Ne me condamnez point sans me dire pourquoi. 
+DOROTEE.
+Vous ne m'avez pas dit que vous bruliez pour moi, 
+Que votre passion allait jusqu'a l'extreme ? 			[1825]
+ORONTE.
+Je vous le dis encor de nouveau, je vous aime. 
+LUCIE.
+Quoi, vous l'aimez, parjure, apres m'avoir cent fois 
+Jure que votre coeur se rangeait sous mes lois ? 
+Qu'un fort amour pour moi... 
+ORONTE.
+Je vous le dis encore. 
+LUCIE.
+Vous m'aimez ? 
+ORONTE.
+Je vous aime. 			[1830]
+DOROTEE.
+Et moi ? 			[1830]
+ORONTE.
+Je vous adore. 			[1830]
+LUCIE.
+Voyez l'effronterie ; a nos yeux nous jouer ! 
+ORONTE, a Lucie.
+Mais vous cherchez en vain a ne pas l'avouer, 
+Vous me connaissez trop pour douter de ma flamme. 
+DOROTEE.
+Pourquoi donc m'en conter si Lucie a votre ame ? 
+ORONTE.
+Par amour. 
+DOROTEE.
+Quel amour ! 			[1835]
+ORONTE.
+Veritable. 			[1835]
+DOROTEE.
+Et comment ! 			[1835]
+ORONTE.
+J'aime par connaissance, et non aveuglement. 
+Ma raison se rendant de surprise incapable
+Sans rien chercher de plus je m'attache a l'aimable. 
+Et le trouvant en elle ainsi qu'il est en vous, 
+Je confonds un amour dont l'appas m'est si doux, 			[1840]
+Et crois, sans me noircir vers l'une ni vers l'autre, 
+Qu'honorer son merite est rendre hommage au votre. 
+DOROTEE.
+Mais comme on est reduit a choisir tot ou tard, 
+Qui vaincra de nous deux ? 
+ORONTE.
+C'est un secret a part. 
+DOROTEE.
+Il faut se declarer. 
+ORONTE.
+Votre ordre en vain m'en presse, 			[1845]
+Celle qui me perdrait en mourrait de tristesse. 
+LUCIE.
+Vous pouvez sans scrupule ailleurs vous engager. 
+Vraiment, vous valez bien qu'on y daigne songer. 
+ORONTE.
+Ah, vous en osez donc faire la degoutee ? 
+Voila mon choix est fait, je suis a Dorotee 			[1850]
+LUCIE.
+Je lui cede sans peine un bien si precieux. 
+ORONTE.
+Me declarant pour vous, vous en parleriez mieux. 
+LUCIE.
+En effet, son bonheur est fort digne d'envie. 
+ORONTE.
+Toujours d'un faux orgueil la disgrace est suivie, 
+Vous verrez ce que c'est que de m'avoir perdu.			[1855]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous, a qui desormais tout mon amour est du, 
+Croyez... 
+DOROTEE.
+Un choix si prompt me met en defiance. 
+ORONTE.
+Votre coeur est d'accord de cette preference, 
+N'en faites point la fine, il la croit meriter. 
+DOROTEE.
+Votre inegale humeur me fait toujours douter ; 			[1860]
+Vous en contez partout. 
+ORONTE.
+Et n'est-ce pas la mode ? 
+Voyez, si tel qu'il est, mon coeur vous accommode. 
+SCENE IX. Argante, Oronte, Florame, Eraste, Dorotee, Lucie, Lisette, Cliton.
+ERASTE, entrant avant Argante.
+Voici votre billet, infidele ; mais quoi, 
+Ma Soeur avecque vous ! 
+ARGANTE, entrant avec Florame.
+Je repons de sa foi, 
+Je suis pere. 
+FLORAME.
+Ah, plutot que la vouloir contraindre... 			[1865]
+ARGANTE.
+Enfin de vos froideurs j'ai sujet de me plaindre. 
+Si certains bruits confus vous mettent en souci 
+Jusqu'a vous alarmer de voir Oronte ici, 
+Sachez ce qui l'amene, et qu'aime de Lucie... 
+LUCIE.
+De moi ? Que dites-vous ? C'est ce que je denie, 			[1870]
+Mon amour est un bien qu'il ne peut esperer. 
+FLORAME, a Argante.
+Souffrez donc qu'aujourd'hui j'ose me declarer. 
+Lucie etant l'objet a qui j'ai pu pretendre, 
+J'estime en vain l'honneur de me voir votre Gendre, 
+Je ne puis l'accepter sans infidelite, 			[1875]
+Mais Eraste... 
+ERASTE, a Florame.
+Non, non, le sort en est jete, 
+Mon coeur de cette ingrate abhorre l'Hymenee 
+Cependant je tiendrai ma parole donnee, 
+Venez en voir l'effet, et remenez ma Soeur. 
+FLORAME, a Argante.
+Adieu, ne soyez point jaloux de mon bonheur. 			[1880]
+SCENE X. Argante, Oronte, Dorotee, Lisette, Cliton.
+ARGANTE? a Oronte.
+Que veux dire ceci ? Lucie aimer Florame ! 
+Et quoi n'est-elle pas l'objet de votre flamme, 
+Et surpris cette nuit dans un doux entretien, 
+N'avez-vous pas saute de son jardin au mien ? 
+ORONTE.
+Puisque enfin il est temps que je vous desabuse, 			[1885]
+Apprenez que l'amour m'a fourni cette excuse. 
+ARGANTE.
+Quoi, voir de nuit ma Fille, et tous deux tant oser... 
+ORONTE.
+Ne vous emportez point. 
+ARGANTE.
+A moins que l'epouser... 
+ORONTE.
+J'y consens ; il faut bien qu'enfin je me marie. 
+Pourrions-nous autrement finir la Comedie ? 			[1890]
+DOROTEE.
+Vous reduire a l'hymen ! Qui l'aurait pu prevoir ? 
+ORONTE.
+C'est la fin de mon role, il faut bien le vouloir. 
+CLITON.
+Cette conclusion est encore imparfaite ; 
+Il faut, pour bien finir, que j'epouse Lisette... 
+DOROTEE.
+L'aimes-tu ? 
+CLITON.
+Je m'en meurs, Madame. 			[1895]
+DOROTEE.
+Elle est a toi. 			[1895]
+CLITON, a Lisette.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah, mignarde. 
+LISETTE.
+Non, non, il tient encore a moi 
+Peux-tu m'entretenir l'etat de Demoiselle ? 
+CLITON.
+Que trop. 
+LISETTE.
+As-tu de quoi ? 
+CLITON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)N'en soit point en cervelle. 
+LISETTE.
+J'en doute. 
+CLITON.
+C'est a tort. 
+ORONTE.
+Va, nous t'en assurons. 
+LISETTE.
+Voyons compter l'argent, et puis nous parlerons. 			[1900]
+
+	==================================================

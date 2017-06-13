@@ -1,0 +1,252 @@
+********************************************************
+	DC.Title                  = LA COMEDIE DES COMEDIENS, COMEDIE
+	DC.Author                 = SCUDERY, Georges de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 13/07/2016 a 09:12:41.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/SCUDERY_COMEDIEDESCOMEDIENS.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LA COMEDIE DES COMEDIENS POEME DE NOUVELLE INVENTION.M. DC. XXXV. AVEC PRIVILEGE DU ROI.
+par Monsieur de Scudery
+	A Paris, Chez Augustin COURBE, imprimeur et libraire de Monseigneur Frere du Roi, dans la petite salle du Palais, a la Palme.
+	
+	Represente pour le premiere fois en novembre 1634 au Theatre de l'Hotel de Bourgogne.
+	MONSIEUR,
+Si je ne savais bien que parmi les personnes illustres, la richesse des dons n'en fait pas la valeur : je n'aurais garde de vous offrir cette Comedie : elle est trop peu considerable pour un homme qui l'est tant : et je devrais avoir honte de ma hardiesse. Mais apres les courtoisies dont je vous suis deja redevable, j'espere que vous ne regarderez mon dessein plutot que mon present, que vous ouvrirez mon coeur avec mon livre, et que vous lirez dans l'un est dans l'autre que je suis, MONSIEUR, votre tres humble et tres fidele serviteur,
+DE SCUDERY.
+AU LECTEUR.
+C'est une maxime recue entre les personnes qui se connaissent aux bonnes choses, que l'esprit de celui qui fait des vers, et qui les fait bien, doit etre comme le Prothee des Poetes, ou comme la matiere premiere, capable de toutes formes : il faut qu'il sache faire parler des rois et des bergers, et les uns et les autres en des termes, qui conviennent a leurs conditions. Ainsi, le Dieu de la Poesie latine, que toute la terre adore encore sous le non de Virgile, n'a pas manque de suivre une regle si necessaire aux bons ouvrages. Et qui prendra le soin de comparer le style pompeux et magnifique de l'Eneide, avec la douceur naive des Bucoliques, jugera sans doute que mon opinion est bien fondee. Je ne tache (Lecteur) de t'amener dans mon sens, par ce raisonnement, qu'afin que si la suite des temps te met en main apres ma comedie, LIGDAMON, LE TROMPEUR PUNI, LE VASSAL GENEREUX, ORANTE, LE FILS SUPPOSE, LE PRINCE DEGUISE, LA MORT DE CESAR, ou celle de DIDON que je traite, tu ne t'etonnes point d'y voir une diversite si grande, soit aux pesees, soit en la facon de les exprimer, quelques uns de ces Poemes, m'ont oblige de toucher en passant, la morale et la politique ; d'autres m'ont fait parler de l'art militaire par terre et par mer ; les voyages de mes heros m'ont fait marquer la carte de leur navigation ; les aventures des personnes illustres m'ont donne les grandes et les fortes passions, que demande une douleur eloquente ; et de cette sorte, j'ai tache de n'etre point ignorant, dans les sciences, et dans les Arts, qui se sont trouvez comme enchaines avec les sujets que j'ai voulu prendre, que si tu ne rencontres pas un de ces ornements en cette piece, tu te souviendras s'il te plait, qu'aux autres, ce sont des princes et des rois qui parlent, et qu'en celle-ci ce sont des comediens et des bergers, mais comediens et bergers, qui ne font pas pourtant du commun, et qui t'entretiendront assez agreablement, des choses qui regardent leur profession et leurs amours. En un mot j'ose croire que cette peinture a ses graces, aussi bien que la plus achevee des miennes, l'invention en est nouvelle, et si je ne me trompe divertissante, elle tient quelque chose de ce genre de poeme, que les Italiens appellent capriccioso si l'impression la fait aussi bien reussir que le theatre, je ne plaindrai pas quinze jours, que ma coute sa production. C'est ce que ie dois apprendre de la voix publique, dont la tienne fait une partie : mais de grace sois juste et clement pour cet ouvrage ; c'est a dire, estime ce qu'il a de bon, et pardonne moi des fautes que tu ne verras, que parce que je ne les ai point vues.
+
+ACTEURS
+BELLE-OMBRE.
+ARLEQUIN.
+LE TAMBOUR.
+BELLE-FLEUR.
+BELLE-EPINE.
+LA FEMME DE BELLE-EPINE.
+BEAU-SEJOUR.
+BEAU-SOLEIL.
+LA FEMME DE BEAU-SOLEIL.
+MONSIEUR DE BLANDIMAR.
+SON HOTE.
+
+
+
+
+			PROLOGUE
+
+
+
+[MONSIEUR DE BLANDIMARE]
+Non, je ne ferai rien ; tenez, reprenez vos habits : je ne veux point etre fou par compagnie : et je ne saurais me resoudre a tromper tant d'honnetes gens, comme je vois qu'il y en a ici.Je ne sais ( Messieurs ) quelle extravagance est aujourd'hui celle de mes Compagnons, mais elle est bien si grande, que je suis force de croire, que quelque charme leur derobe la raison, et le pire que j'y vois, c'est, qu'ils tachent de me la faire perdre, et a vous autres aussi.Ils veulent me persuader que je ne suis point sur un theatre ; ils disent que c'est ici la ville de Lyon, que voila une hotellerie ; et que voici un jeu de paume, ou des Comediens qui ne sont point nous, et lesquels nous sommes pourtant, representent une Pastorale, ces insenses ont tous pris des noms de guerre, et pensent vous etre inconnus, en s'appelant, Belle-Ombre, Beau-Soleil, Beau-Sejour, et d'autres encore tous semblables ; ils veulent que vous croyez etre au bord du Rhone, et non pas a celui de la Seine ; et sans partir de Paris, ils pretendent vous faire passer pour des habitants de Lyon : a moi-meme ces Messieurs des petites Maisons, me veulent persuader que la metempsychose est vraie, et que par consequent Pythagore etait un evangeliste car ils disent que je suis un certain monsieur de Blandimare, bien que je m'appelle veritablement Mondory, et voyez s'ils ont le sens bien egare, ils doivent faire passer ici un tambour et un arlequin, comme le pratiquent les petites troupes dedans, les petites villes ; n'est-ce pas se faire tort, et vous offenser aussi ?Mais ce n'est point encore tout, leur folie va bien plus avant, car la piece qu'ils representent, ne saurait durer qu'une heure et demie, mais ces insenses assurent, qu'elle en dure vingt et quatre et ces esprits deregles, appellent cela suivre les regles, mais s'ils etaient veritables, vous devriez envoyer querir a diner, a souper, et des lits ; jugez si vous ne seriez pas couches bien chaudement, de dormir dans un jeu de Paume : enfin leur manie m'oblige a faire un voyage a Saint-Mathurin pour eux, ou je m'en vais et cependant (Messieurs) ne les croyez pas, quoiqu'ils puissent dire ; car je meure s'il y aura rien de veritable : mais il est bien tard pour partir et le Soleil s'abaisse fort, de sorte que puisque je suis contraint de remettre mon voyage a demain, il faut necessairement que je m'accommode pour aujourd'hui, a l'humeur de ces Passerellis ; car elle se peut vaincre par la douceur, et s'irrite par la resistance : et de peur de les mettre en mauvaise, ne dites mot je vous supplie : parce qu'etant melancoliques, ils sont amateurs du silence.
+
+
+			ACTE I
+
+
+SCENE PREMIERE.
+BELLE OMBRE.
+Je meure s'il n'est vrai que tout ce qui reluit n'est pas or : et que les belles apparences sont le plus souvent trompeuses, avant qu'avoir goute la forme de vie que je mene, je me l'imaginais la plus agreable de toutes : et je croyais indubitablement la comedie aussi plaisante a faire, qu'a voir : mais l'experience m'a contraint de changer d'opinion : et certes il faudrait que j'eusse le gout bien malade, pour ne savoir pas faire la difference de ces deux choses, puisque l'une commence, continue, et finit avec plaisir, et que l'autre au contraire, est suivie de mille incommodites. Ce n'est pas que la qualite que nous avons de bourgeois de l'univers, ou de Citoyens du Monde, ne soit capable de contenter l'esprit d'un jeune homme, par les diversites qu'elle presente a la curiosite, comme a sa vue, mais ce peu de douceur est mele de tant d'amertume, et ces roses accompagnees de tant d'epines, qu'il est impossible de prendre l'une sans degout, ni de toucher aux autres sans piqure. Quoi que le personnage que je joue a cette porte, ne soit pas le plus honorable, il est pourtant le plus utile, et comme il fait la part a mes compagnons, je n'ai pas la memoire si mauvaise, que j'oublie a faire la mienne bonne ; mais le malheur est, que mon industrie ne trouve point ou agir pleinement, a cause de l'humeur de ces habitants, plus froide que la saison ou nous sommes, de sorte que si ce desordre continue, BELLE OMBRE, je pense que le meilleur sera de nous y tenir, c'est a dire, d'aller revoir les clochers de notre ville, et demeurer a la maison clos et couvert de peur du hale. Mais voici notre tambour et notre Arlequin revenus, et je pense puisque je ne vois venir personne, que le bruit qu'ils ont fait par les rues, n'aura pas ete plus persuasif, que les menteries de l'affiche.
+SCENE II. Arlequin, Le Tambour/
+ARLEQUIN.
+Nous pouvons bien bander notre caisse, et notre tambour debander la sienne : car desormais je ne vois point d'apparence que nous fassions rien ici, il n'est grande ni petite rue, que nous n'ayons visitee quatre fois, avec plus de soin, que si nous eussions eu ordre du Magistrat de faire la patrouille : mais le tout inutilement, et puissai-je ne souper d'aujourd'hui, a voir le peu d'emotion que ma presence leur apporte, si l'on ne dirait que je suis bourgeois comme eux, ou qu'ils font tous arlequins comme moi.  Il n'est pas jusqu'aux petits enfants, qui ne soient fols a force d'etre sages, et je puis dire sans vanite, que jamais homme de ma condition ne se vit si mal accompagne, j'ai meme plus fait que ne porte ma commission, car ce que les affiches leur montrent par les yeux, j'ai tache de le leur apprendre par les oreilles, et cette ville n'a point de carrefour, ou je n'ai fait le crieur public ; mais je pense qu'ils ont tous voyage en Egypte, et que le bruit des cataractes du Nil, leur a derobe l'ouie.
+SCENE III. Tous LES COMEDIENS;
+BELLE FLEUR.
+Ha, ha, te voila sur l'histoire, a ce que j'entends.
+ARLEQUIN.
+Oui ; et plus veritable a mon grand regret, que celle de Pline, qui rapporte ce que je viens de dire : car il est indubitable, que nous ne gagnerons rien ici.
+BELLE EPINE.
+Voila les plus mauvaises nouvelles que tu nous pouvais apprendre : il est vrai qu'elles ne me surprennent point, car je les avais bien prevues. 
+BEAU SEJOUR.
+Voici un de ces prophetes, qui predisent les choses arrivees : et Tiercelet de Nostradamus, si vous prevoyez le malheur de la troupe que ne l'en avertissiez vous ?
+LA BELLE-EPINE.
+Ce qui m'en empecha, fut que je connaissais que j'ai parmi vous autres le malheur de Cassandre, qui bien que toujours veritable, ne fut pourtant jamais crue : mais vous pourriez bien avoir la punition des Troyens, il est vrai que j'y aurai ma part comme elle.
+BEAU SOLEIL.
+Voila a mon avis, le plus grand nombre de tes humanites, et de tes fleurs de rhetorique etale, et pour peu qu'on te pressat encore, tu serais contraint de recourir, a l'eloquence de ton pays, c'est a dire aux phrases perigourdines.
+BELLE EPINE.
+Monsieur de Beau-Soleil, si mon mari n'a pas la langue si bien pendue que vous, il a d'autres parties en lui, qui le rendent recommandable.
+LA BEAU SOLEIL.
+Nous le devons croire puisque vous le dites, Mademoiselle de Belle Epine, car il n'en a point de si cachees, dont vous ne puissiez parler comme savante.
+BELLE-OMBRE.
+La repartie n'est pas mauvaise, mais elle me semble un peu bien libre pour une femme.
+LA BEAU SOLEIL.
+Les eaux dormantes ne font pas les plus saines, et la vertu se trouve pour le moins aussi souvent dans un esprit libre, que parmi ces ames retenues, qu'on a droit de soupconner d'hypocrisie, mais c'est une erreur ou tombe presque tout le monde, pour ce qui regarde les femmes de notre profession, car ils pensent que la farce est l'image de notre vie, et que nous ne faisons que representer ce que nous pratiquons en effet, ils croient que la femme d'un de vous autres, l'est indubitablement de toute la troupe ; et s'imaginant que nous sommes un bien commun, comme le Soleil ou les Elements, il ne s'en trouve pas un, qui ne crois avoir droit de nous faire souffrir l'importunite de ses demandes, et certes c'est bien de la que procede la plus facheuse chose, qui s'eprouve a notre condition : car comme nos chambres tiennent des temples, en ce quelles sont ouvertes a chacun, pour un honnete homme qui nous y visite, il nous faut endurer les impertinences, de mille qui ne le sont pas, l'un viendra branler les jambes toute une apres-dinee sur un coffre sans dire mot, seulement pour nous montrer qu'il a des moustaches, et qu'il les sait relever, l'autre un peu moins reveur que celui-ci, mais non pas plus habile homme, fera toute sa conversation de bagatelles, aussi peu considerables que son esprit : et tranchant de l'officieux, il voudra placer une mouche sur la gorge, mais c'est a dessein d'y toucher : il voudra tenir le miroir, attacher un noeud, mettre de la poudre aux cheveux, et prenant sujet de parler de toutes ces choses, il le fait avec des pointes aussi nouvelles, et aussi peu communes que la Guimbarde, ou Lanturlu. Le troisieme prenant un ton plus haut, et trop fort pour son haleine, s'engage inconsiderement, a la censure des poemes, que nous aurons representes : l'un sera trop ennuyeux pour sa longueur, l'autre manque de jugement en sa conduite, celui-la est plat et trop sterile en pensees, celui-la au contraire a force d'en avoir s'embarrasse, et parle Galimatias ; un est defectueux en ce qu'il ne s'attache pas aux regles des anciens, ce qui temoigne ion ignorance ; l'autre pour les avoir trop religieusement observees, est froid, et presque du tout sans action ; celui-ci ne lie pas son discours, et fait des fautes au langage, celui-la n'a pas la politesse de la Cour ; l'un manque des ornements de la poesie ; l'autre est trop abondant en fables; ce qui sent plus le pedant que l'honnete homme, et plus l'huile que l'ambre gris ; enfin, il n'en echappe pas a la langue de ce critique, qui faisant ainsi le proces a tant de bons esprits, sans les ouir en leurs defenses, montre qu'il est aussi mauvais juge en matiere de vers, que le font en la connaissance de l'honnetete des femmes, ceux qui nous soupconnent d'en manquer.
+BELLE-FLEUR.
+Je meure si elle n'habille ses raisons de bonne grace ; et bien que cinq heures aient sonne, depuis qu'elle parle, je m'etais resolu de ne l'interrompre point ; mais puisqu'une femme a pu s'imposer silence elle-meme, faisons en autant, et, rentrons ; et bien que nous ayons accoutume ailleurs d'avoir acheve a cette heure, ne laisse pas Belle-Ombre, de te tenir encore quelque temps a la porte ; car peut-etre, ce que nous jugeons stupidite, ne se trouvera que paresse, et le bien ne vient jamais tard, quand il arrive.
+BELLE-OMBRE.
+Si nous repaissons de cette esperance seule, nous avons la mine de ne souper que de vent.
+SCENE IV. Monsieur de Blandimare, L'Hote,
+MONSIEUR DE BLANDIMARE.
+Il faut avouer, que la jeunesse et la prudence, ne se trouvent que bien rarement ensemble, comme en cet age bouillant, le corps est rempli de force, l'esprit l'est d'inconsideration. On n'a pour but que les delices, sans songer a l'utile ni a l'honnete : et flattant la folie de ses pensees, on croit que tout ce qui plait est permis. J'ai tire la preuve de ce que je dis, dans notre famille meme, car feu mon frere d'Ollinville que vous connaissiez, mon hote, n'a laisse qu'un fils a sa mort, heritier de tous ses biens, et des miens encore, puisque je ne marierai jamais qui suivant les caprices qui l'emportent loin de la raison, a deja fait mille saillies. Les Lettres ou nous le destinions, lui ont semble une occupation trop basse, et trop endormie, pour sa vivacite, il a voulu porter les armes, et le faisant, a couru toute l'Europe : et certes comme ce metier n'etait pas indigne de sa naissance, nous supportions son erreur, mais lorsque nous pensions qu'il dut faire sa retraite, il est reparti de nouveau, sans que nous ayons pu decouvrir sa route, et mon frere m'ayant supplie en mourant, d'avoir foin d'en faire la recherche, il n'est forme de vie ou la debauche puisse reduire un jeune homme, dans laquelle je n'ai tache de le rencontrer : mais tout inutilement, de sorte qu'ennuye d'un si long voyage, enfin me voici dans Lyon, mais si las, qu'il ne m'est pas possible d'en partir de deux ou trois jours, pour revoir apres notre ville, la plus belle du monde, Paris.
+L'HOTE.
+Monsieur, je suis marri que vos peines n'ont ete plus fructueuses ; mais il faut s'armer de patience, et vous divertir. Les affiches que vous voyez a ce coin, vous montrent qu'il y a des comedies en cette ville, et le jeu de Paume ou ils representent, n'est qu'a trois pas d'ici, vous ferez bien d'y aller prendre votre part du passe-temps.
+MONSIEUR DE BLANDIMARE.
+Quoi que je n'aie pas grande envie de rire je suivrai pourtant votre conseil, et je m'y en vais.
+L'HOTE
+Et moi vous faire a souper pour le retour.
+SCENE V. Belle-Ombre, Monsieur de Blandimare.
+BELLE-OMBRE.
+Je crois que toute la ville est en devotion aujourd'hui, et qu'on leur a ordonne pour se mortifier, de ne venir point a la comedie : enfin la patience m'echappe ; mais silence, voici un oiseau qui a la mine de se venir jeter dans nos filets peut-etre comme les canards, les autres feront le meme a son exemple.
+MONSIEUR DE BLANDIMARE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LES COMEDIENS DU ROY.Ho cela s'entend sans le dire, cette qualite, et celle de Gentilhomme ordinaire de la Chambre, sont a bon marche maintenant ; mais aussi les gages n'en sont pas grands ; que prend-on ?
+BELLE-OMBRE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Huit sols.
+MONSIEUR DE BLANDIMARE.
+Commencera-ton bientot ?
+BELLE-OMBRE.
+Oui Monsieur, on s'y en va; toute la compagnie est dans un jeu de Paume voisin, et comme elle viendra tout a coup entrez, et retenez place de bonne heure.
+MONSIEUR DE BLANDIMARE.
+O Dieu, qu'est-ce que je vois ? Suis-je endormi, ou si c'est une illusion ? Es-tu mon neveu, ou quelque Demon sous fa forme ?
+BELLE-OMBRE.
+Mon oncle je vous demande pardon, encore que j'ai peine a croire, que ce que je fais soit une faute.
+MONSIEUR DE BLANDIMARE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et c'est la ce que je vois de pire ; d'autant, que tu tombes en sens r2prouve : tu ne crois point avoir failli, en te faisant portier de comedie. Ha certes voila une belle metamorphose, bien quelle ne soit pas dans Ovide, qui d'un Gentilhomme de bonne maison, a fait en toi un voleur.
+BELLE-OMBRE.
+Ha mon oncle, Dieu me damne si je le suis.
+MONSIEUR DE BLANDIMARE.
+O mon ami ne jure point une chose qu'on ne peut croire ; les portiers ne sont pas recus a se purger par serment sur ce sujet l'occasion est trop belle, la tentation de l'argent trop puissante, et le larcin de cette nature, trop difficile a prouver ; en un mot, le titre de voleur est une qualite annexee a celle de portier de comedie : et un homme fidele de cette profession, est comme la pierre philosophale, le mouvement perpetuel, ou la quadrature du cercle ; c'est a dire, une chose possible et non trouvee.
+BELLE-OMBRE.
+Mais mon oncle, est-on blamable pour etre comedien ?
+MONSIEUR DE BLANDIMARE.
+La question que tu me fais, n'est pas si aisee a resoudre, qu'on le puisse faire dans la rue, il y a beaucoup de raisons, pour et contre, et de plus, tel se nomme comedien, qui n'est rien moins que cela, et je vois bien meme, que je n'apprendrai d'aujourd'hui sur votre theatre si tes compagnons ont droit a cette qualite, ou s'ils l'usurpent : car je n'apercois venir personne, et j'ai bien remarque, que le jeu de paume voisin, etait un tour de ton metier. Mais ce que je veux que tu fasses, est que tu te souviennes, que je loge a la Pomme de Pin, et qu'a ce soir tu m'y conduise toute la troupe, pour venir souper avec moi : peut-etre ma conversation ne leur sera pas inutile : Adieu.
+BELLE-OMBRE.
+Tres humble serviteur mon oncle. Jamais je ne me trouvai si empeche de ma contenance ; mais puisque je ne fais plus rien ici, allons rejoindre nos messieurs, et leur rendre compte de mon aventure.
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Monsieur de Blandimare, tous les Comediens.
+MONSIEUR DE BLANDIMARE.
+Qu'on apporte a laver, nous ne faisons plus rien a table. ca, donnez moi la main, Mademoiselle de Beau...
+MADAME DE BEAU-SOLEIL.
+De Beau-soleil, a votre service Monsieur.
+MONSIEUR DE BLANDIMARE.
+La faute de ma memoire est fort excusable, car toutes les terres des comediens, ont tant de rapport aux noms, qu'il est bien difficile qu'on ne les prenne l'un pour l'autre. Monsieur de Bellerose, de Belleville, Beauchateau, Belleroche, Beaulieu, Beaupre, Bellefleur, Belle-Epine, Beau-Sejour, Beau-Soleil, Belle-Ombre, en fin, eux seuls possedent, toutes les beautes de la nature.
+MADAME DE BEAU-SOLEIL.
+Pour nous punir en quelque facon de la faute que nous avons commise, en recevant Monsieur votre neveu, votre bel esprit a semble avoir pris a tache, pendant tout le souper, le mepris de la comedie : mais nous nous en consolons, par la connaissance que nous avons de la bonte de votre jugement, qui fans doute, vous fait avoir dans l'ame, des sentiments de notre profession, tous contraires, a ce que la raillerie, vous met a la bouche sur ce sujet.
+MONSIEUR DE BLANDIMARE.
+Tant s'en faut que je la meprise, que je tiens qu'a moins que d'avoir renonce au sens commun, il n'est pas possible qu'on ne l'estime quand elle est bien faite mais je vous dirai librement, que j'ai le meme gout pour les comedies, que pour les vers, pour les melons, et pour les amis ; c'est a dire, que s'ils ne sont excellents, ils ne valent rien du tout. Il y a des choses d'une nature si relevee, que la mediocrite les detruit : et a n'en point mentir, il faut tant de qualites a un Comedien, pour meriter celle de bon, qu'on ne les rencontre, que fort rarement ensemble, il faut premierement que la nature y contribue, en lui donnant la bonne mine ; c'est ce qui fait la premiere impression dans l'ame des spectateurs : qu'il ait le port du corps avantageux, l'action libre, et sans contrainte ; la voix claire, nette, et forte ; que son langage soit exempt des mauvaises prononciations, et des acces corrompus, qu'on acquiert dans les Provinces, et qu'il se conserve toujours la purete du francais, qu'il ait l'esprit et le jugement bon, pour l'intelligence des vers, et la force de la memoire, pour les apprendre promptement, et les retenir apres toujours qu'il ne soit ignorant ni de l'histoire, ni de la fable, car autrement, il fera du Galimatias malgre qu'il en aie : et recitera des choses bien souvent a contre-sens : et aussi hors de ton, qu'un musicien qui n'a point d'oreille : ses actions memes seront comme les pas d'un mauvais balladin, qui saute une heure apres la cadence ; et de la vient tant de postures extravagantes, et tant de lever de chapeau hors de saison, comme on en voit sur les theatres. Enfin, il faut que toutes ces parties soient encore accompagnees d'une hardiesse modeste qui ne tenant rien de l'effronte, ni du timide, se maintienne dans un juste temperament, et pour conclusion, il faut, que les pleurs, le rire, l'amour, la haine, l'indifference, le mepris, la jalousie, la colere, l'ambition, et bref que toutes les passions soient peintes sur son visage, chaque fois qu'il le voudra. Or jugez maintenant, si un homme de cette sorte, est beaucoup moins rare que le phoenix ?
+BEAU-SEJOUR.
+Ce que vous nous venez de dire, est l'idee de la perfection, qui ne se trouve point aux hommes : mais si j'ose bien assurer que notre troupe n'en est pas tant eloignee ; et comme vous savez parfaitement faire le discernement des bonnes et des mauvaises choses, si vous nous aviez vu representer, peut-etre seriez vous de mon avis.
+MONSIEUR DE BLANDIMARE.
+A dire vrai l'on connait le Lion par l'ongle : mais les nuits sont longues, et ennuyeuses, quand vous m'aurez fait la faveur d'en employer une demie-heure a reciter des vers devant moi, il nous restera encore assez pour dormir.
+BELLE-EPINE.
+Vous pouvez tout sur notre obeissance.
+MONSIEUR DE BLANDIMARE.
+Quelles pieces avez-vous ?
+BELLE-FLEUR.
+Toutes celles de feu Hardy.
+MONSIEUR DE BLANDIMARE.
+Il faut donner cet aveu a la memoire de cet auteur, qu'il avait un puissant genie, et une veine prodigieusement abondante (comme huit cents poemes de sa facon en font foi) et certes a lui seul appartient la gloire, d'avoir le premier releve le theatre francais, tombe depuis tant d'annees. Il etait plein de facilite, et de doctrine, et quoi qu'en veuillent dire ses envieux, il est certain que c'etait un grand homme. Et s'il eut aussi bien travaille par divertissement, que par necessite, ses ouvrages auraient sans doute, ete inimitables : mais il avait trop de part a la pauvrete de ceux de sa profession, et c'est ce que produit l'ignorance de notre siecle, et le mepris de la vertu.
+BEAU-SOLEIL.
+Nous avons encor tout ce jeu imprime, La Pyrame de Theophile, poeme, qui n'est mauvais qu'en ce qu'il a ete trop bon : car excepte ceux qui n'ont point de memoire, il ne se trouve personne qui ne le sache par coeur, de sorte que ses raretes, empechent qu'il ne soit rare. Nous avons aussi la Sylvie, la Chriseide, et la Sylvanire, Les Folies de Cardenio, L'infidele Confidente, et la Philis de Scire, les Bergeries de Monsieur de Racan , Ligdamon, le Trompeur Puni, Melite, Clitandre, la Veuve, la Bague de l'oubli, et tout ce qu'ont mis en lumiere les plus beaux esprits du temps, mais pour maintenant, il suffira que nous vous fassions ouir une Eglogue Pastorale a l'auteur du Trompeur puni, nous l'avons apprise parce qu'elle est bonne, et sans dessein de nous en servir au theatre, pour lequel elle n'a pas ete composee : prenez la peine de l'entendre.
+MONSIEUR DE BLANDIMARE.
+Vous n'avez pas mal choisi, pour rencontrer mon approbation car ce gentilhomme dont vous parlez, est a mon gre un de ceux qui portent une epee, qui s'aide le mieux d'une plume: mais commencez quand il vous plaira.
+EGLOGUE. Tancrede, Iris, Alcidon, Clorice.
+TANCREDE.
+Que faites vous Iris dans cette foret sombre
+Ou nul soleil que vous n'a jamais penetre
+IRIS.
+J'y cherchais ce qui fuit, c'est a dire de l'ombre,
+Et fuyais seulement ce que j'ai rencontre.
+CLORICE.
+Plus parfait que Paris, cher miracle des hommes,
+Pourquoi haissez-vous mon visage et mon nom ?			[5]
+TANCREDE.
+Si j'etais ce Troyen, et que j'eusse cent pommes,
+Vous en auriez autant, que Pallas, que Junon.
+ALCIDON.
+Reine de mes desirs, tu te vois refusee,
+Et moi qui te cheris, je me vois meprise.
+CLORlCE.
+Si guerir d'un refus, est chose tant aisee,			[10]
+Que ne te gueris-tu, te voyant refuser
+IRIS.
+Quitte cher Alcidon, quitte cette farouche
+Qui ne merite pas de captiver ta foi.
+ALCIDON.
+Veux-tu que la raison se trouve dans ta bouche,
+Ne me parle point d'elle, et dis cela de toi.			[15]
+TANCREDE.
+Ha Glacon anime, tu veux meurtrir Tancrede,
+Ton abord meprisant, en porte la facon.
+IRIS.
+Berger, ne te plains pas de rencontrer frede
+Il faut que je le sois, si je suis un glacon.
+CLORICE.
+Las, reponds a ma voix, alors qu'elle t'approche			[20]
+Un rocher endurci, ne doit pas craindre l'air,
+TANCREDE.
+Discours doncques fort peu car etant une roche
+Apres deux ou trois mots, je ne puis pins parler.
+ALCIDON.
+Puisque tout mes souhaits, ont la raison pour regle
+Permets moi de te voir, bel astre sans parler.			[25]
+CLORICE.
+Ferme plutot les yeux car n'etant point une aigle,
+Je pourrais t'aveugler, si je suis un soleil.
+IRIS.
+Ingrat, si tu me fuis, le torrent de mes larmes,
+Te suivra pas a pas, afin de t'abimer.
+ALCIDON.
+Cherche ailleurs que dans l'eau, du secours et des armes,			[30]
+Car le feu que je sens pourrait tarir la Mer.
+TANCREDE.
+Enfin je ne puis plus souffrir ton arrogance,
+Adieu mechante Iris, qui ma raison surprit.
+IRIS.
+Va, ne me blame point de cette repugnance,
+Qui vient de mon merite, et de ton peu d'esprit/			[35]
+CLORICE.
+Enflamme d'un depit, que tu portes dans l'ame,
+Souffre moi de te suivre, et de te consoler.
+TANCREDE.
+On ne m'approche point, puisque je suis de flamme,
+Ou bien ne te plains plus, si tu te sens bruler.
+ALCIDON.
+Elle court en pleurant, apres un insensible ;			[40]
+Arrete ce ruisseau, qui te fera mourir.
+CLORICE.
+Tu demandes Berger, une chose impossible,
+Ou vois-tu qu'un ruisseau, puisse etre sans courir ?
+IRIS.
+Ha cruel Alcidon, tu vas fuyant infame ;
+Mais en vain, je t'aurai d'un cours precipite.			[45]
+ALCIDON.
+Facheuse, tu dis vrai, car etant une femme,
+Rien ne peut s'egaler, a ta legerete.
+SCENE III.
+MONSIEUR DE BLANDIMARE.
+Ha certes il faut avouer que voila reciter de bonne grace : et qu'en vous autres, j'ai trouve ce que je cherchais depuis si longtemps. Non, non, je leve le masque; et je vous fais reparation d'honneur pour ce que j'ai dit en soupant : encore que ma Satyre ne s'adressat point a la profession, mais seulement a ceux qui s'en acquittent mal. Car il faudrait etre prive de raison, pour mepriser une chose tant estimable : la COMEDIE, qui a ete en veneration dans tous les siecles, ou les sciences fleurissaient ! La COMEDIE [fait] le divertissement des Empereurs et l'entretien des bons esprits : le TABLEAU des passions, l'image de la vie humaine, l'Histoire parlante, la Philosophie visible, le fleau du vice, et le trone de la vertu. Non, non tant s'en faut qu'elle me soit en horreur, que voyant comme elle en est son lustre parmi vous, je loue le jugement de mon neveu, de s'etre mis en votre Troupe: et pour vous montrer que j'ai ce que je dis, aussi bien dans le coeur, que dans la bouche, et que bien, loin de soupconner votre profession d'ignominie, je la tiens fort glorieuse ; je la veux embrasser moi-meme, si vous me voulez recevoir.
+BEAU-SOLEIL.
+Monsieur, nous acceptons cet honneur avecques joie, et nous en reconnaissons indignes.
+MONSIEUR DE BLANDIMARE.
+Mais n'avez vous point de poeme qui n'aie deja ete vu ?
+BEAU-SOLEIL.
+Oui, Monsieur, il nous reste une TRAGI-COMEDIE PASTORALE, intitulee, L'AMOUR CACHE PAR L'AMOUR.
+MONSIEUR DE BLANDIMARE.
+Elle est de ma connaissance, et de la composition de celui dont nous avons parle, il m'a fait la faveur de me la donner ecrite de sa main. C'est un poeme a l'Espagnole, de trois actes ; mis par lui dans la regle des vingt et quatre heures. Et comme je vous ai dit, que je cheris tout ce qui vient de cet auteur, peu s'en faut, que je ne le sache entier, de sorte, que si vous trouvez bon, j'en jouerai demain un role, pour faire mon coup d'essai.
+BELLE-EPINE.
+C'est a vous d'ordonner tout ce qui vous plaira dans la Troupe : mais craignant de vous apporter de l'importunite, nous allons vous donner le bonsoir.
+MONSIEUR DE BLANDIMARE.
+Je ne vous prie point de coucher ici, parce que vous serez plus commodement chez vous : mais pour ces Demoiselles, a qui le serein pourrait faire mal en s'en allant, je leur offre, et ma chambre, et mon lit s'il leur agree.
+MADAME BEAU-SOLEIL.
+Sans accepter cette courtoisie, nous vous en restons obligees, nous doutant bien, que nos maris s'y opposeraient.
+MONSIEUR DE BLANDIMARE.
+Adieu Mesdames, bonsoir Messieurs.
+BEAU-SOLEIL.
+Monsieur nous sommes vos tres-humbles serviteurs.
+
+	==================================================

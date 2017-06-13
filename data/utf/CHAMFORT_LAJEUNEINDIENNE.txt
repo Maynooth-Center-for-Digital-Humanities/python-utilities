@@ -1,0 +1,893 @@
+********************************************************
+	DC.Title                  = LA JEUNE INDIENNE
+	DC.Author                 = CHAMFORT, Sebastien
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:15.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CHAMFORT_LAJEUNEINDIENNE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LA JEUNE INDIENNE COMEDIE en un acte et en vers.M. DCC. LXIV avec APPROBATION et PRIVILEGE DU ROI
+par M. De Chamfort
+	A PARIS, chez CAILLEAU, libraire, rue Saint Jacques, a Saint-Andre.
+	
+	Representee pour la premiere fois a Paris, au Theatre de la rue des Fosses Saint-Germain par la troupe de la Comedie francaise, le 30 avril 1764.
+	ERRATA DE L'EDITION 1764
+Le Lecteur est prie de lire cet ERRATA exige par l'Auteur.
+Page 7 vers 29. "forma", lisez "formait".
+Page 9 vers 4. "les hommes", lisez "des hommes".
+Page 13 vers 7. "te voici", lisez "te voila".
+Page 16 vers 4. "J'ecoute de mon mieux ; a toutes je reponds." lisez "J'ecoute ; de mon mieux a toutes je reponds."
+
+Page 19. vers 8. "Les mortels", lisez "Ces mortels".
+Page 22. dernier vers, "Si"la terre est sterile", "si le terre est fertile".
+Page 24. vers la,, essuyer les dedains, ///rc mandicr les dedatas.
+Page 26. "parleraient", lise "parlaient".
+Page 35. vers 8. "Du sommet", lisez "Au sommet".
+Page 35. vers 9. "Et sur le bord des mers", lisez, "Et sur le sein des mers".
+Page 35. vers 15. "Du moment", lisez "Au moment".
+Page 36. vers 18. "Ils reclamaient", lisez "ils rallumaient."
+Page 38 vers 2. "a mon sein", lisez "en mon sein".
+
+ACTEURS
+BETTI.
+BELTON.
+MOWBRAI.
+MYLFORD.
+UN NOTAIRE.
+JOHN, laquais.
+La scene est a Charlestown, colonie anglaise de l'Amerique septentrionale.
+
+
+
+			
+
+
+SCENE PREMIERE. Belton, Mylford.
+MYLFORD
+A Charlestown, enfin, vous voila revenu :
+L'ami que je pleurais a mes voeux s'est rendu.
+Je vous vois; vous calmez ma juste impatience.
+Mais de ce morne accueil que faut-il que je pense ?
+J'arrive au moment meme. En entrant dans le port,			[5]
+J'apprends votre retour, j'accours avec transport ;
+Je m'attends au bonheur de repandre ma joie
+Dans le sein d'un ami que le ciel me renvoie :
+Je vous trouve abattu, penetre de douleur.
+Daignez me rassurer, ouvrez-moi votre coeur.			[10]
+Tout semble vous promettre un destin plus tranquille.
+De ces lieux a Boston le trajet est facile ;
+D'un pere, avant trois jours, vous comblerez les voeux...
+BELTON
+Ah ! J'ai fait mon malheur ! Comment puis-je etre heureux ?
+La jeunesse d'un fils est le vrai bien d'un pere.			[15]
+Je regrette mes jours perdus dans la misere,
+Ces jours si prodigues, dont le plus sage emploi
+Pouvait me rendre utile a ma famille, a moi.
+Des longtemps, cher Mylford, une fougueuse ivresse,
+L'ardeur de voyager domina ma jeunesse.			[20]
+J'abandonnai mon pere, et le ciel m'en punit.
+Dans un orage affreux notre vaisseau perit?
+Je fus porte mourant vers une ile sauvage :
+Un vieillard et sa gille accourent au rivage.
+J'allais perir, helas ! Sans eux, sans leur secours ;			[25]
+Quels soins, quels tendres soins ils prirent de mes jours ?
+Leur chasse me nourrit ; leur force, leur adresse,
+Pourvut a mes besoins et soutint ma faiblesse.
+Voila donc les mortels parmi nous avilis ?
+J'avais passe quatre ans dans ce triste pays, 			[30]
+Quand ce vieillard mourut. L'ennui, l'inquietude,
+Mon pere, mon etat, ma longue solitude,
+Cet espoir si flatteur d'etre utile a mon tour
+A celle dont les soins m'avaient sauve le jour,
+Tout me rendit alors ma retraite importune :			[35]
+J'engageai ma compagne a tenter le fortune.
+Vous savez tout. Apres mille perils divers,
+Nous fumes a la fin rencontres sur les mers,
+Par un de vos vaisseaux qui nous sauva la vie.
+Mais quels chagrins encore il faudra que j'essuie !			[40]
+I faudra retourner vers un pere indigne
+Contre un fils criminel et plus infortune.
+Soutiendrai-je ses yeux en cet etat funeste !
+Irai-je de sa vie empoisonner le reste ?
+Prodigue de ses biens et meme de ses jours,			[45]
+Puis-je encore justement pretendre a tes secours ?
+MYLFORD
+L'amour et l'amitie vont d'une ardeur commune
+D'un amant, d'un ami respecter la fortune.
+BELTON
+L'amour ?...
+MYLFORD
+Oubliez-vous qu'Arabelle autrefois
+Fut promise a vos voeux ? Eh ! Vous l'aimiez, je crois.			[50]
+BELTON
+Personne sans l'aimer ne peut voir Arebelle :
+Mais quand Mowbrai formait cette union si belle,
+Quand cet aimable objet a mes voeux fut promis,
+De l'amour, je le sens, il n'etait pas le prix.
+Votre oncle affermissait une amitie sincere			[55]
+Qui joignait ses destins aux destins de mon pere ;
+Mais croyez-vous encore qu'il voulut aujourd'hui,
+Apres cinq ans passes...
+MYLFORD
+Quoi ! Vous doutez de lui ?
+Vous ignorez pour vous jusqu'ou va sa tendresse ?
+Vos malheurs vont hater l'effet de sa promesse.			[60]
+Les charmes d'Arabelle augmentent chaque jour :
+Je lirai dans son coeur, il sera sans detour.
+Pour vous, voyez mon oncle ; il est d'un caractere
+Excellent, sans facon, d'une vertu severe.
+La secte dont il tranche les compliments ;			[65]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Les Quakers, comme on sait, ne sont pas fort galants.
+BELTON
+Eh ? Depuis si longtemps vous croyez qu'Arabelle...
+MYLFORD
+Repondez-moi de vous, je reponds presque d'elle.
+BELTON
+Revenez au plutot : un coeur comme le mien
+Doit, vous n'en doutez pas, gouter votre entretien.			[70]
+Votre oncle m'est fort cher : je l'aime ; mais son age
+M'impose du respect, et m'interdit l'usage
+De ses epanchements a l'amitie si doux ;
+Mon coeur en a besoin, et les garde pour vous.
+SCENE II.
+BELTON, seul.
+Je revois ce sejour ! Je vis parmi les hommes :			[75]
+Quel sort vais-je eprouver dans ces lieux ou nous sommes ?
+Cet hymen d'Arabelle, autrefois projete, 
+Devient dans ma disgrace, une necessite.
+Genereuse Betti, tes soins et ton courage
+Sauvent mes tristes jours, m'arrachent au naufrage :			[80]
+Je saisis le bonheur au fond de tes deserts,
+Et je trouve une amante au bout de l'univers.
+Pourquoi donc te ravir a ce climat sauvage ?
+Etais-je malheureux ? Ton coeur fut mon partage.
+O ciel ! Je possedais, dans ma felicite,			[85]
+Ce coeur tendre et sublime avec simplicite ;
+Heureux et satisfaits du bonheur l'un et l'autre !
+Le mepris n'y suit point la triste pauvrete ;
+Le mepris, ce tyran de la societe,
+Cet horrible fleau, ce poids insupportable			[90]
+Dont l'homme accable l'homme et charge son semblable.
+Oui, Betti, je le sens, j'aurais brave pour toi
+Les maux que ton amour a supportes pour moi.
+Mais je ne puis dompter l'horreur inconcevable...
+Ma faiblesse a Betti paraitra pardonnable,			[95]
+Mon deplorable etat, et nos communs malheurs.
+SCENE III. Mowbrai, Belton.
+MOWBRAI
+Laisse-la tes saluts, mon cher, couvre ta tete.
+Pour etre un peu plus franc, sois un peu moins honnete.
+Je te l'ai deja dit, et le dit de nouveau :
+Aime-moi, tu le dois ; mais laisse ton chapeau.			[100]
+Mon ami, tes erreurs et ta folle jeunesse
+De ton malheureux pere ont hate la vieillesse.
+Ce pere fut pour moi le meilleur des amis.
+Je te retrouve, Je lui rendrai son fils.
+BELTON
+Mais, monsieur...
+MOWBRAI
+Heum, Monsieur ! C'est Mowbrai qu'on me nomme.			[105]
+BELTON
+Pensez-vous...
+MOWBRAI
+Penses-tu... Je ne suis qu'un seul homme
+Et non deux ; souviens-t-en, et parle au singulier.
+BELTON
+Tu le veux : eh bien ! Soit. Je vais vous... tutoyer.
+Mon pere est indulgent ; mais ma trop longue absence
+A peut-etre depuis lasse sa patience ;			[110]
+Apres tous les chagrins que j'ai pu lui donner,
+Le penses-tu ? Peut-il encore me pardonner ?
+MOWBRAI
+Tu ne sais pas ce que c'est que l'ame paternelle.
+Des qu'un enfant revient se ranger sous notre aile,
+On n'examine plus s'il est coupable ou non ;			[115]
+Et l'aveu de l'erreur est l'instant du pardon.
+Mais apres ce qu'ici je consens a te dire,
+Si desormais encor un imprudent delire
+T'egarait, t'eloignait des routes du devoir,
+Si d'un pareil aveu tu t'osais prevaloir,			[120]
+Je te mepriserai sans retour ; mais je pense
+Qu'apres cinq ans entiers d'erreurs et d'imprudence,
+Le fils infortune d'un ami genereux,
+Puisqu'il s'adresse a moi, veut etre vertueux :
+Et pour me mettre en droit d'adoucir ta misere			[125]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ta misere... Oui. Voyez un peu la belle affaire...
+Regardez comme il est confus, humilie,
+Pour ce mot de misere ! O ciel ! Quelle pitie !
+De ton pere envers moi l'amitie peu commune
+Dernierement encor a sauve ma fortune.			[130]
+Je perdis deux vaisseaux, presque au port, sous mes yeux ;
+On me crut sans ressource : un creancier fougueux,
+Afin de rassurer sa timide avarice,
+Veux que je fixe un terme, et que j'aille en justice,
+Par un serment coupable autant que solennel,			[135]
+Deshonorer le nom de l'Eternel.
+A l'Etre tout puissant faire une telle injure !
+J'allais m'executer, la faillite est sure,
+Quand je recus soudain ce billet. Lis.
+BELTON, prend le billet et lit.
+« Monsieur... »
+MOWBRAI
+Ah ! Sans doute.			[140]
+BELTON, continue.
+« Je viens d'apprendre le malheur			[140]
+Qui vous met hors d'etat de pouvoir faire face 
+A quelque arrangement. Je vous demande en grace
+D'accepter de ma part cinquante mille ecus,
+Que j'ai fort a propos nouvellement recus.
+Ignorez, s'il vous plait, l'auteur de ce service.			[145]
+Si la fortune un jour vous redevient propice,
+Je les reclamerai. Conservez ce billet :
+Il est votre quittance, et je suis satisfait. »
+MOWBRAI
+Ton pere de ce trait me parut seul capable.
+C'est en effet a lui que j'en suis redevable...			[150]
+Ne te voila-t-il pas interdit, confondu !
+Mon fils, ne sois jamais surpris de la vertu.
+Te voila maintenant en etat de comprendre
+Quel interet sensible a tous deux je dois prendre :
+Mais n'attends pas de moi des protestations,			[155]
+Des elans d'amitie, des exclamations,
+Je suis tout uni, moi : sois donc ma famille ;
+Des ce jour mon neveu te presente ma fille.
+BELTON
+Votre... Ta fille !....
+MOWBRAI
+Eh ! Oui. Tu sembles t'etonner ?
+A ton aise, s'entend, ne vas pas te gener.			[160]
+BELTON
+Des longtemps, en faveur d'une amitie fidele,
+Ta bouche a mon amour promettait Arabelle.
+J'aspirais a ces noeuds ; et cet espoir flatteur,
+Precieux a mon pere, etait cher a mon coeur.
+Mais je me rends justice, et j'ai trop lieu de craindre			[165]
+Que mes longues erreurs n'aient du peut-etre eteindre
+Cet espoir dont jadis mon coeur s'etait flatte.
+Je sens que cet hymen, entre nous concerte,
+Serait le seul moyen de me rendre a mon pere, 
+Et de m'offrir a lui digne de lui plaire.			[170]
+MOWBRAI
+Va, mon coeur est encor ce qu'il fut autrefois ;
+Je cheris ton malheur, il ajoute a tes droits.
+Oui, tant de maux soufferts, fruits de ton imprudence,
+Doivent t'avoir donne vingt ans d'experience.
+Belton, il faut du sort mettre a profit les coups ;			[175]
+Oublier ses malheurs, c'est le plus grand de tous.
+Adieu... Bon ! Glisse donc le pied ! La reverence !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il me fait enrager avec son elegance.
+Depuis trois jours entiers que nous l'avons ici,
+Il ne se forme pas, il est toujours poli.			[180]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La franchise, mon cher, voila ta politesse :
+Les bois t'en auraient du donner de cette espece.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)A propos, j'oubliais... Quelle est donc cette enfant
+Que toute ma famille entoure en l'admirant ?
+En habit de sauvage, en longue chevelure,			[185]
+Je viens de l'entrevoir... L'aimable creature !
+BELTON
+C'est elle dont les soins et les heureux travaux
+Ont protege mes jours, m'ont conduit sur les eaux ;
+Elle etait avec moi, lorsque ton capitaine,
+Nous voyant lutter seuls contre une mort certaine,			[190]
+Cingla soudain vers nous, et nous prit a son bord.
+MOWBRAI
+Ah ! Ce que tu m'en dis m'interesse a son sort.
+Elle a des droits sacres sur ta reconnaissance ;
+Mais je te laisse. Adieu : la voici qui s'avance.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)BELTON, seul.
+Helas ! Puis-je a mon coeur dissimuler jamais			[195]
+Qu'il n'est qu'un seul moyen de payer ses bienfaits ?
+SCENE IV. Betti, Belton.
+BETTI
+Ah ! Jet e trouve enfin. L'on m'assiege sans cesse.
+D'ou vient qu'autour de moi tout le monde s'empresse ?
+Ou me fait a la fois cinq ou six question ;
+J'ecoute de mon mieux, a toutes je reponds ;			[200]
+On rit avec exces. Que faut-il que je croie,
+Belton ? Le rire ici marque toujours le joie...
+BELTON
+Tu leur a fait plaisir...
+BETTI
+Oh bien ! Si c'est ainsi,
+Tant mieux. Mais, toi, d'ou vient que tu ne ris pas aussi ?
+On te croirait fache.
+BELTON
+J'ai bien raison de l'etre.			[205]
+BETTI
+Quelle raison ? Dis-moi, ne puis-je la connaitre ?
+Tu parais inquiet...
+BELTON
+Je le suis.... Non pour moi.
+BETTI
+Pour qui donc, mon ami ?
+BELTON
+Le dirai-je ? Pour toi !
+Je crains que dans ces lieux ton sort ne soit a plaindre.
+BETTI
+Tu m'aimes, il suffit ; que puis-je avoir a craindre ?			[210]
+BELTON
+Non, il ne suffit pas. Il faut, pour etre heureux,
+Quelque chose de plus...
+BETTI
+Que faut-il en ces lieux ?
+BELTON
+La richesse.
+BETTI
+A parler tu m'instruisis sans cesse ;
+Mais tu ne m'as pas dit ce qu'etait la richesse.
+BELTON
+Eh ! Peut-on se passer ?...
+BETTI
+Tu parles de l'amour...			[215]
+On ne s'aime donc pas dans ce triste sejour ?
+BELTON
+On s'aime ; mais souvent l'amour laisse connaitre
+Des besoins plus pressants.
+BETTI
+Et que peuvent-ils etre ?
+BELTON
+L'amour sans d'autres biens...
+BETTI
+L'amour sans la gaiete
+Ne peut guere suffire a la felicite ;			[220]
+Mais dans votre pays, ainsi que dans le notre,
+Ne peut-on a la fois conserver l'un et l'autre ?
+BELTON
+Il faut, pour bien jouir de l'un et l'autre don,
+Etre riche.
+BETTI
+Eh ! Dis moi, suis-je riche, Belton ?
+BELTON
+Toi ? Non ; tu n'as pas d'or.
+BETTI
+Quoi ! Ce metal sterile			[225]
+Que j'ai vu...
+BELTON
+Justement.
+BETTI
+Il te fut inutile ;
+Tu ne t'en servis pas pendant plus de quatre ans.
+Mais dans ce pays-ci tu connais bien des gens ;
+Ils t'en donneront tous, s'il t'est si necessaire ;
+Ils ne voudront jamais laisser souffrir leur frere.			[230]
+BELTON
+Ecoute-moi, Betti, tu n'es plus dans les bois.
+Les hommes en ces lieux sont soumis a des lois ;
+Le besoin les rapproche et les unit ensemble :
+Ces mortels opposes, que l'interet rassemble,
+Voudraient ne voir admis dans la societe			[235]
+Que ceux dont les travaux en ont bien merite.
+BETTI
+Mais... Cela me parait tout a fait raisonnable.
+BELTON, a part.
+Chaque instant a mes yeux la rend plus estimable.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Betti... La pauvrete m'inspire un juste effroi.
+BETTI
+La pauvrete ! Mais, c'est manquer de tout, je crois ?			[240]
+BELTON
+Oui.
+BETTI
+J'en sauvai toujours et toi-meme et mon pere...
+Quoi ! Nous pourrions ici manquer du necessaire ?
+BELTON
+Non ; mais il ne faut pas y borner tous nos soins.
+Nous sommes assieges de differents besoins ;
+Ils naissent chaque jour, chaque instant les ramene ;			[245]
+Et lorsque par hasard la fortune inhumaine
+Ne nous a pas donne...
+BETTI
+Je ne te comprends pas...
+Manquer d'un vetement, d'un abri, d'un repas,
+Voila la pauvrete ; je n'en connais pas d'autre.
+BELTON
+Voila la tienne : helas ! Connais quelle est la notre.			[250]
+BETTI
+Une autre pauvrete ! Vous en avez donc deux ?
+On doit dans ce pays etre bien malheureux !
+BELTON
+C'est peu de contenter les besoins de la vie...
+Une prevention, parmi nous etablie,
+Fait ici, par malheur, une necessite			[255]
+Des choses d'agrement et de commodite,
+Dont les yeux etonnes ont admire l'usage ;
+Et d'eternels besoins un funeste assemblage...
+BETTI
+Oh ! Cette pauvrete... C'est votre faute aussi.
+Pourquoi donc inventer encore celle-ci ?			[260]
+Chez nous, grace a nos soins, la terre inepuisable
+Etait de tous nos biens la source intarissable.
+Belton, comment ont fait, et comment font encor
+Tous ceux qui, parmi vous, possede le plus d'or ?
+BELTON
+L'un le tient du hasard, et tel autre d'un pere ;			[265]
+Du crime trop couvert il devient le salaire ;
+Mais la vertu parfois a produit...
+BETTI
+Que dis-tu ?
+Avec de l'or vous payez la vertu ?
+BELTON
+Contre le besoin d'or l'infaillible remede...
+BETTI
+Eh bien !
+BELTON
+C'est de servir quiconque la possede ;			[270]
+De lui vendre son coeur, de ramper sous ses lois.
+BETTI
+O ciel ! J'aime bien mieux retourner dans nos bois.
+Quoi ! Quiconque a de l'or oblige un autre a faire
+Ce qu'il juge a propos, tout ce peut lui plaire ?
+BELTON
+Souvent.
+BETTI
+En laissez-vous aux malhonnetes gens ?			[275]
+BELTON
+Plus qu'a d'autres.
+BETTI
+De l'or dans les mains des mechants !
+Mais vous n'y pensez point, et cela n'est pas sage :
+N'en pourraient-ils pas faire un dangereux usage ?
+Vous devez trembler tous, si l'or peut tout oser.
+De vous et de vos jours ils peuvent disposer.			[280]
+La fleche qui, dans l'air, cherchait la nourriture,
+Etait, entre mes mains, moins terrible et moins sure !
+BELTON
+Chacun, suivant son coeur, s'en sert differemment ;
+Des vertus ou du vice il devient l'instrument.
+Avec avidite celui-ci la resserre,			[285]
+L'enfouit en secret, et le rend a la terre...
+BETTI
+Ah ! Fuyons ces gens-la. Tu vines de me parler
+D'un pays plus heureux ou nous pouvons aller,
+Ce pays ou les gens veulent qu'on soit utile
+A leur societe. Si la terre est fertile,			[290]
+Ils en auront de trop : nous le demanderons ;
+Et comme elle est a tous, soudain nous l'obtiendrons.
+BELTON
+Ils ne donneront rien ; les champs les plus fertiles
+Ne suffisent qu'a peine aux habitants de ville...
+BETTI
+Tant pis, car j'aurais bien travaille.
+BELTON
+Dans ces lieux,			[295]
+On epargne a ton sexe un travail odieux.
+BETTI
+C'est que vos femmes sont languissantes, debiles :
+J'en ai deja vu deux tout a fait immobiles ;
+Mais pour moi le travail eut toujours des appas ;
+Dans nos champs, des l'enfance, il exerca mes bras.			[300]
+BELTON
+Tu ne peux travailler au sejour ou nous sommes ;
+L'usage le defend.
+BETTI
+Le permet-il aux hommes ?
+BELTON
+Sans doute, il le permet.
+BETTI, avec joie.
+Belton, embrasse-moi.
+BELTON
+Quoi donc.
+BETTI
+Tu me rendras ce que j'ai fait pour toi.
+BELTON
+Ah ! C'est trop prolonger un supplice si rude !			[305]
+Vois la cause et l'exces de mon inquietude.
+Va, Betti, j'ai deja regrette ton pays :
+Ici, par ces travaux, nous sommes avilis.
+Vois a quel sort, helas ! Nous devons-nous attendre ?
+Des besoins renaissants l'horreur va nous surprendre ;			[310]
+Prives d'appuis, de biens, abandonnes de tous, 
+L'oeil affreux du mepris s'attachera sur nous.
+Nous n'oserons encore prendre ces soins utiles
+Que l'amour ennoblit, qu'ici l'on croit serviles.
+Il faudra devorer, mendier les dedains ;			[315]
+Rebutes, condamnes a l'affront d'etre plaints,
+Tout aigrira nos maux, jusqu'a notre tendresse ;
+Nous hairons l'amour, nous craindrons la vieillesse ;
+En d'autres malheureux reproduits, chaque jour,
+Nos mains repousseront le fruit de notre amour.			[320]
+BETTI
+Ciel !
+SCENE V. Betti, Belton, Mylford.
+MYLFORD, a Belton.
+Je quitte Arabelle, et je vais vous instruire...
+BETTI, a Mylford.
+Aimes-tu Belton ?
+MYLFORD
+Oui.
+BETTI
+Bon ! Il vient de me dire 
+Qu'il n'a point d'or...
+BELTON, a Mylford.
+O ciel ! Oseriez-vous penser !...
+MYLFORD
+Par un vain desaveu craignez de m'offenser.
+Vous connaissez mon coeur, mes sentiments, mon zele.			[325]
+Je sais l'heureux devoir de l'amitie fidele :
+Tout mon bien est a vous.
+BELTON, a Betti.
+A quoi me reduis-tu ?
+BETTI, a Belton.
+Mais il t'offre on or : que ne le recois-tu ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Nous ne prendrons pas tout.
+BELTON, a Mylford.
+Souffrez que je l'instruise.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il se fait tort pou moi, son coeur le lui deguise.			[330]
+Il m'offre tout son bien, je dois le refuser,
+Ou de son amitie ce serait abuser.
+Cette offre ou quelquefois un ami se resigne,
+Quand on l'ose accepter, on en devient indigne.
+BETTI
+Quoi ! L'on rejette ici les dons de l'amitie !			[335]
+BELTON
+Souvent qui les recoit excite la pitie.
+BETTI
+Je ne vous entends point. Si chez vous la parole
+Ne presente aucun sens, c'est donc un bruit frivole.
+Des cris dans nos forets parlaient plus clairement
+Que ce langage vain que votre coeur dement.			[340]
+Quoi ! Tu veux que les dons puissent etre une tache;
+Que sur qui les recoit quelque opprobre s'attache,
+Que la main d'un ami ?... Non, tu t'es abuse,
+J'en suis sure ; jamais je ne t'ai meprise.
+MYLFORD
+Belton, vous entendez la voix de la nature.			[345]
+Elle me venge, ami ; vous m'aviez fait injure.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je voudrais lui parler ; Betti, retire-toi.
+BETTI
+Pourquoi donc ? Ne peux-tu parler devant moi ?
+Est-il quelque secret que l'on doive me taire ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand je t'en confiais, eloignais-je mon pere ?			[350]
+Tu le veux ?...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons donc !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Belton, Mylford.
+MYLFORD
+Enfin tout est conclu.
+Je suis sur qu'Arabelle, et son coeur m'est connu.
+Sa reponse pour vous est de plus favorables.
+"Ces noeuds, a-t-elle dit, me semblent desirables.
+Mon coeur, de puis six ans, a Belton fut promis ;			[355]
+Mes yeux ont vu Belton, et ce coeur est soumis.
+Je deplorais sa mort, le ciel nous le renvoie ;
+Mon pere a commande, j'obeis avec joie."
+Mais de cet air chagrin, que dois-je enfin penser ?
+L'amitie doit savoir...
+BELTON
+Ah ! C'est trop l'offenser.			[360]
+Connaissez mon etat. La jeune infortunee,
+Compagne de mes maux, en ces lieux amenee...
+L'homme est fait pour aimer. J'ai possede son coeur.
+Dans un climat barbare elle a fait mon bonheur.
+Non, je ne puis trahir sa tendresse fidele :			[365]
+Elle a tout fait pour moi.
+MYLFORD
+Vous ferez tout pour elle.
+Il m'est doux de trouver mon ami genereux ;
+Mais mon premier desir est de vous voir heureux.
+De l'hymen d'Arabelle observez l'avantage ;
+Observez que deja vous touchez a cet age,			[370]
+Ou pour un etat sur votre choix arrete
+Doit vous donner un rang dans la societe.
+Pour vous, par cet hymen la fortune est fixee ;
+Et de tous vos malheurs la trace est effacee.
+MYLFORD
+Je le sens, vos raisons penetrent mon esprit.			[375]
+Sans peine, il les admet ; mais mon coeur les detruit.
+Qui ? Moi ! Trahir Betti ! La rendre malheureuse !
+Je n'en puis soutenir l'image douloureuse.
+Helas ! Si vous saviez tout ce que je lui dois !
+Mais qui peut le savoir ? C'est elle, je le vois.			[380]
+Le remords a ses yeux m'agite et me devore.
+SCENE VII. Betti, Belton, Mylford.
+BETTI, a Belton.
+As-tu quelque secret a me cacher encore ?
+Helas ! Oui... Loin de moi tu detournes les yeux.
+Ah ! Je eux t'arracher ce secret odieux.
+Mais qui vient nous troubler ?
+MYLFORD, a Belton.
+C'est mon oncle lui-meme.			[385]
+BETTI
+Quel pays ! On n'y peut jouir de ce qu'on aime.
+MYLFORD
+Adieu, decidez-vous ; vous n'avez qu'un instant :
+Songez a votre etat, au prix qui vous attend,
+A cinq ans de malheurs, a vous, a votre pere,
+Et prenez un parti que je crois necessaire.			[390]
+BETTI, a Belton, lui montrant Mowbrai.
+Ne faut-il pas sortir encore pour celui-la ?
+Moi, j'aime ce vieillard, je reste.
+SCENE VIII. Betti, Belton, Mowbrai.
+MOWBRAI
+Te voila !
+Je te cherchais ; j'apporte une heureuse nouvelle.
+J'ai pour toi la promesse et les voeux d'Arabelle.
+Le contrat est tout pret.
+BELTON
+Une telle faveur...			[395]
+Autant qu'il est en vous... peut faire mon bonheur.
+BETTI, a Mowbrai, avec ingenuite.
+Bien oblige....
+MOWBRAI
+Betti, tu serviras ma fille ;
+Et je te veux toujours garder dans ma famille.
+BETTI
+Oh ! Pour moi, je ne veux servir que mon ami.
+MOWBRAI, a Belton.
+Combien tu dois l'aimer ! Je me sens attendri.			[400]
+En formant ces doux noeuds, l'amitie paternelle
+Croit assurer aussi le bonheur d'Arabelle ;
+Et par l'egalite cet hymen assorti,
+A ma fille...
+BETTI
+Belton, que parle-t-il ici
+De sa fille ? Et qu'importe ?...
+MOWBRAI, a Belton.
+Eh ! Daigne lui repondre.			[405]
+BELTON, a part.
+Dieux ! Quel affreux moment : Que je me sens confondre !
+MOWBRAI
+Son amitie merite un meilleur traitement,
+Et du dois avec elle en user autrement.
+Et quand elle saurait qu'un prochain hymenee
+De ma fille a ton sort joindra la destinee.			[410]
+Elle prend part assez...
+BETTI
+Bon vieillard, que dis-tu ?
+MOWBRAI, a Belton.
+Mais d'ou vint cet air inquiet, eperdu ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Des aujourd'hui ma fille...
+BELTON, a part.
+Il va lui percer l'ame.
+MOWBRAI
+Par des noeuds eternels va devenir sa femme.
+BETTI
+Sa femme ! Votre fille !...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Est-il bien vrai, cruel !			[415]
+Aurais-tu forme ce projet criminel ?
+Quoi ! Tu pourrais trahir l'amante le plus tendre ?
+O malheur ! O forfait que je ne puis comprendre !
+Mais je ne te crains plus ; tu m'as dit mille fois
+Qu'ici contre le crime on a recours aux lois.			[420]
+J'ose les implorer ; tu m'y forces, perfide !
+Respectable vieillard, sois mon juge et mon guide ;
+Que ta voix avec moi implore aujourd'hui.
+MOWBRAI
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'allais-je faire ? O ciel !... Je serai ton appui.
+Mais, mon enfant, ces lois que ton amour reclame,			[425]
+En vain...
+BETTI
+Quoi ! Par vos lois il peut trahir sa flamme !
+Il pourrait oublier... Dieu ! Quels affreux climats !
+Dans quel pays, o ciel ! As-tu conduit mes pas ?
+Arrache-moi des lieux, temoins de mon injure,
+Qui d'amant cheri font un amant parjure ;			[430]
+Execrable sejour, asile du malheur,
+Ou l'on a des besoins autres que ceux du coeur ;
+Ou les bienfaits trahis, ou l'amour qu'on outrage...
+De la fidelite quel est ici le gage ?
+Quel appui...
+MOWBRAI
+Des temoins, surs garants de l'honneur.			[435]
+BETTI, vivement.
+Ah ! J'en ai...
+MOWBRAI
+Quels sont-ils ?
+BETTI
+Moi, le ciel et son coeur.
+MOWBRAI
+Si, par une promesse auguste et solennelle...
+BETTI
+Il m'a promis cent fois l'amour le plus fidele.
+MOWBRAI
+A-t-il par un ecrit ?...
+BETTI
+O ciel ! Qu'ai-je entendu ?
+Quoi ? Tu peux demander un ecrit ! L'oses-tu ?			[440]
+Un ecrit ! Oui, j'en ai... Les horreurs du naufrage,
+Mes soins dans un climat que tu nommas sauvage,
+Les dangers que pour toi j'ai mille fois courus ;
+Voila mes titres ! Viens, puisqu'ils sont meconnus,
+Dans le fond des forets, barbare, viens les lire ;			[445]
+Partout, a chaque pas, l'amour sut les ecrire,
+Au sommet des rochers, dans nos antres deserts,
+Sur le bord du rivage et sur le sein des mers.
+Il me doit tout. C'est peu d'avoir sauve ta vie,
+Qu'un tigre ou que la faim t'aurait cent fois ravie ;			[450]
+Mes travaux, mes perils t'ont sauve chaque jour.
+Entre mon pere et lui partageant mon amour...
+Mon pere !... Ah ! Je l'entends a son heure derniere,
+Au moment ou nos mains lui fermaient la paupiere,
+Nous dire : "Mes enfants, aimez-vous a jamais" ;			[455]
+Je t'entends lui repondre : oui, je te le promets.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu t'attendris...
+BELTON, a part.
+O ciel ! Quel homme impitoyable
+Pourrait...
+MOWBRAI
+De la trahir serais-tu bien capable ?
+BETTI, a Belton.
+Que ne me laissais-tu dans le fond des forets ?
+J'y pourrais sans temoins gemir de tes forfaits.			[460]
+Dans mon obscur reduit, dans ma grotte profonde,
+Savais-je s'il etait des malheureux au monde ?
+Ah ! Combien je le sens, quand tu ne m'aimes plus !
+Eh bien ! Puisqu'a jamais nos liens sont rompus...
+Tire-moi de ces lieux... qu'au moins, dans ma misere,			[465]
+Mes pleurs puissent couler sur le tombeau d'un pere.
+Toi, cruel, vis ici parmi les malheureux, 
+Ils te ressemblent tous, ils te souffrent chez eux.
+BELTON, se retournant tendrement.
+Betti...
+BETTI
+Tu m'as donne ce nom que je deteste.
+Ce nom qui me rappelle un souvenir funeste,			[470]
+Ce nom qui fit, helas ! mon malheur aujourd'hui.
+Jadis il me fut cher : il me venait de lui.
+A ce nom qu'il aimait, autrefois sa tendresse
+Daignait joindre le sien, les prononcait sans cesse ;
+Sa faisait un bonheur de les unir tous deux ;			[475]
+Prononces par ma bouche, ils rallumaient ses feux ;
+Son affreux changement pour jamais les separe.
+MOWBRAI, a part.
+Mon coeur est oppresse.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoi ! Tu pourrais, barbare !
+BELTON
+Je le suis en effet pour avoir resiste
+A cet amour si tendre et trop peu merite			[480]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Crois-en les serments de mon ame attendrie !
+L'indigence et les maux ou j'exposais ta vie,
+Seul a t'abandonner pouvaient forcer mon coeur :
+Meme en te trahissant, je voulais ton bonheur.
+Dut cent fois dans tes bras la misere, l'outrage,			[485]
+M'accabler, m'ecraser, je benis mon partage.
+Je brave ces besoins qui pouvaient m'alarmer.
+Je n'en connais plus qu'un : c'est celui de t'aimer.
+Je te perdais ! O ciel ! Que j'allais etre a plaindre !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voudras-tu pardonner ?...
+BETTI
+Ah ! Tu n'as rien a craindre,			[490]
+Cruel, tu le sais trop : ce coeur qui t'est connu
+Peut-il ?...
+BELTON
+Chere Betti ! Quel coeur j'aurais perdu !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MOWBRAI
+O spectacle touchant ! Tendresse aimable et pure !
+L'amour porte en mon sein le cri de la nature !
+Livrez-vous sans reserve a des transports si doux ;			[495]
+Je le sens, et mon coeur les partage avec vous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu fus vil un instant...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et toi, que tu m'es chere !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)John, John.
+SCENE IX. Betti, Mowbrai, Belton, John.
+MOWBRAI
+Ecoute.
+JOHN
+Quoi ?
+MOWBRAI
+Fais venir le notaire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MOWBRAI
+Belton, rends grace au ciel de t'avoir reserve 
+Ce coeur si genereux par toi-meme eprouve ;			[500]
+Et que ton ame un jour puisse egaler la sienne.
+BETTI
+Egale, cher Belton, ta tendresse est la mienne.
+Existant dans ton coeur, riche de ton amour,
+Le mien peut etre heureux, meme dans ce sejour.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cesse de l'accabler par ce cruel reproche :			[505]
+Il m'aime...
+MOWBRAI
+Quelqu'un vient, c'est le notaire.
+SCENE X. Betti, Belton, Mowbrai, Le Notaire.
+MOWBRAI
+Approche.
+LE NOTAIRE
+Serviteur.
+MOWBRAI
+Assied-toi... C'est pour ces deux epoux.
+BETTI, a Belton.
+Quel est cet homme-la ?
+BELTON
+Cet homme vient pour nous.
+LE NOTAIRE, a Mowbrai.
+Tu te trompes, je crois ; je ne viens pas pour elle ;
+Et j'ai sur ce contrat mis le nom d'Arabelle.			[510]
+MOWBRAI
+Efface-moi ce nom ; mets celui de Betti.
+LE NOTAIRE
+Betti !
+MOWBRAI
+Vite, depeche.
+LE NOTAIRE
+Allons, soit... J'ai fini.
+BELTON
+Signons.
+LE NOTAIRE
+C'est bien dit ; mais, avant la signature,
+Il faudrait mettre au moins la dot de la future.
+MOWBRAI
+Allons, mets : ses vertus.
+LE NOTAIRE, laissant tomber sa plume.
+Bon ! Tu railles, je crois ?			[515]
+MOWBRAI
+Ses vertus.
+LE NOTAIRE
+Allons donc, tu te moques de moi.
+Qui jamais aurais vu ?...
+MOWBRAI, avec impatience.
+Mets ses vertus, te dis-je.
+LE NOTAIRE
+Tout de bon ! Par ma foi, ceci tient du prodige.
+N'ajoute-t-on plus rien ?
+MOWBRAI
+Est-il rien au dessus ?...
+Ajoute, si tu veux, cinquante mille ecus.			[520]
+LE NOTAIRE
+Cinquante mille ecus, si tu veux ! L'accessoire
+Vaut bien le principal, autant que je puis croire.
+BELTON, a Betti.
+Il nous comble de biens ! Ah ! Courons dans ses bras...
+BETTI
+Ah ! Surtout, bon vieillard, ne nous meprise pas.
+MOWBRAI
+Que dit-elle ?
+BETTI
+Je sais que chez vous on meprise			[525]
+Quiconque en recevant des dons...
+MOWBRAI
+Autre sottise.
+Ou prend-elle cela ? Sera-ce de toi, Belton,
+Qui peux la prevenir de cette illusion ?
+De rougir des bienfaits ton ame a la faiblesse ?
+Puisqu'avec le malheur tu confonds la bassesse,			[530]
+Je dois te rassurer. Je ne te donne rien :
+La somme est a ton pere, et je te rends ton bien.
+LE NOTAIRE, a Belton.
+Signez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)A vous.
+BETTI
+Qui ? Moi, je ne sais point ecrire.
+BELTON
+Donnez-moi votre main, l'amour va la conduire.
+BETTI
+Et le coeur et la main, Belton, tout est a toi.			[535]
+BELTON
+Votre coeur en aimant ne le cede qu'a moi.
+BETTI
+Eh bien ! C'est donc fini ? Que cela veut-il dire ?
+BELTON
+Qu'au bonheur de tous deux vous venez de souscrire ;
+Vous m'assurez l'objet qui m'avait su charmer.
+BETTI
+Quoi ! Sans cet homme noir, je n'aurais pu t'aimer !			[540]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Donne-moi cet ecrit.
+LE NOTAIRE
+Il n'est pas necessaire.
+Cet ecrit doit toujours rester chez le notaire.
+D'ailleurs que feriez-vous de....
+BETTI
+Ce que j'en ferais ?
+S'il cessait de m'aimer, je le lui montrerais.
+LE NOTAIRE
+Peste ! Le beau secret qu'a trouve la madame !			[545]
+BELTON
+En doutant de mes feux vous affligez mon ame.
+MOWBRAI
+Par les noeuds les plus saints je viens de vous unir.
+Ton ere l'aurait fait, j'ai du le prevenir.
+Il approuvera tout ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et voila notre excuse.
+Instruisons mon ami que sa douleur abuse.			[550]
+Lui-meme en t'embrassant voudra tout oublier :
+Consoler ses vieux jours, c'est te justifier.
+
+	==================================================

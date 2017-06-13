@@ -1,0 +1,1630 @@
+********************************************************
+	DC.Title                  = LA MORT DE MOLIERE, PIECE EN TROIS ACTES, EN VERS.
+	DC.Author                 = CUBIERES-PALMEZEAUX, Michel de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:16.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CUBIERES-PALMEZEAUX_MORTDEMOLIERE3A.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LA MORT DE MOLIERE PIECE EN TROIS ACTES, EN VERSM. DCC. LXXXVIII.
+Par le Chevalier CUBIERES de PALMEZEAUX.
+	A Londres ; Et se trouve a Paris : chez Knapen et fils, Libr-Impr., rue Saint-Andre-des-Arts, et chez Bailly, Libraire, rue Saint-Honore, pres la Barriere des Sergents
+	
+	Representee pour la premiere fois au Theatre de la rue des Fosses Saint-Germain, le 31 janvier 1788.
+	PREFACE.
+Le Moliere d'Italie, Monsieur Charles Goldoni est auteur d'une Comedie sur Moliere meme, et cette piece qui porte le nom de son heros, a ete representee a Turin en 1751. Monsieur Mercier l'a traduite ou plutot imitee, l'a fait imprimer sous le meme titre en 1776, et les Comediens Francais ont joue sur leur Theatre, en 1787, une imitation en quatre actes de cette imitation en cinq, sous le tire de la "Maison de Moliere". J'appelle cette derniere une imitation, parce qu'ils ont transpose et abrege plusieurs scenes du Moliere de Monsieur Mercier. J'etais a la premiere representation de cette "Maison de Moliere", dont les trois premiers actes reussirent parfaitement, et dont le quatrieme n'aurait pas eu moins de succes, si les Comediens n'avaient pas intercale une representation du Tartuffe entre le troisieme et le dernier acte de la piece nouvelle. C'est par un noble zele pour la gloire du createur de la scene comique, qu'ils ont risque cette innovation, et mon dessein n'est pas de les en blamer. Cependant une representation de neuf actes parut trop longue aux spectateurs, et la Maison de Moliere, jouee depuis avec une piece d'une moindre etendue, s'est soutenue sur le theatre. Je l'ai vue plus d'une fois, et toujours avec plaisir, et cette piece m'a donne l'idee de celle que j'ose presenter au public. Des que Moliere m'eut apparu lui-meme sur une scene ou, jusqu'a ce moment, j'avais admire ses chefs-d'uvre, des que j'eus entendu parler celui qui a si bien fait parler les divers personnages eclos de son imagination feconde, je pris les pinceaux, a mon tour, et sans dire, comme Le Correge, "et moi aussi, je suis peintre", j'essayai neanmoins d'ajouter quelques traits a une image que j'adore.
+Il fallait, pour y reussir, trouver dans la vie de Moliere une epoque qui fut favorable a mon dessein. Monsieur Goldoni avait deja pris la plus interessante, celle ou l'auteur du Tartuffe, presse entre deux puissances egalement redoutables ; l'autorite de son Roi et la haine des hypocrites triompha de la seconde, en lui opposant la premiere, et il ne me restait plus qu'a glaner dans un champ ou la moisson etait deja faite ; que dis-je ? Il me restait a relire la vie de Moliere par Grimarest et les memoires du temps ; je me remets donc a lire les memoires du temps, et Grimarest qui, meprise par quelques auteurs, a pourtant ete la source ou ont puise ces auteurs memes, qui, ami et contemporain de Baron, parait avoir ecrit sous sa dictee, et apres avoir relu, je n'ai pas de peine a me convaincre que l'evenement qui causa la mort de Moliere est celui de sa vie qui lui fait le plus d'honneur.
+Tout le monde connait cet evenement, et il est inutile que je le raconte. Mais que ne puis-je graver dans tous les cours les belles paroles que repondit Moliere a sa femme et a Baron, lorsqu'ils le conjurerent, les larmes aux yeux, de ne point jouer dans son Malade imaginaire, et de prendre du repos pour se remettre de ses fatigues ! Les voici telles que Grimarest les rapporte. « Comment voulez-vous que je fasse leur dit-il ? Il y a cinquante pauvres ouvriers qui n'ont que leurs journees pour vivre, que feront-ils, si l'on ne joue pas ? Je me reprocherais d'avoir neglige de leur donner du pain un seul jour, le pouvant faire absolument. »
+Qu'on songe a la circonstance ou il les prononca ces paroles admirables, et l'on conviendra qu'elles le rendent digne de tous les hommages. Que ne suis-je ne avec son talent, pour les consacrer dans une piece aussi admirable que les siennes, et que ne puis-je du moins les faire ecrire en lettres d'or sur la porte de tous les cabinets ou les administrateurs des etats travaillent en silence pour le bonheur des peuples ! J'ai ete force de les alterer, et je les ai par consequent affaiblies dans ma piece ; mais une Comedie n'est point un recit historique ni une vie a la maniere de Plutarque, et l'auteur dramatique est souvent oblige de plier les verites pour donner a son ouvrage plus de vraisemblance.
+Ces belles paroles, cependant, acheverent de mettre le feu dans mon imagination deja prete a s'enflammer. Je travaillai, nuit et jour, pour ne point la laisser eteindre, et quand ma piece fut achevee, je courus la lire a des connaisseurs dont le jugement n'est point suspect. Quelques-uns me dirent que j'avais un peu trop altere les faits historiques, et que ma comedie avait presque l'air d'un roman dialogue. Il ne me sera pas difficile de leur repondre. On sait, pour ne parler d'abord que de l'intrigue de ma comedie, on sait, dis-je, que Moliere lut, un jour, sous son propre nom, une piece de son camarade Brecourt a sa bonne servante Laforet, et que cette fille, guidee par un instinct qui ne la trompait jamais, dit que cette piece etait trop mauvaise, pour avoir ete composee par son maitre. J'ai applique cette anecdote a Chapelle, ami de Moliere, parce que Chapelle m'a paru un personnage plus interessant a mettre au theatre que Brecour, et de pareils changements doivent etre permis, puisque, sans rien changer au fond, ils rendent les formes plus vraisemblables. Chapelle d'ailleurs, si l'on excepte son voyage qu'il a compose avec Bachaumont, n'a guere fait que des vers assez mediocres, et s'il faut en croire(1) l'estimable commentateur de Moliere, celui-ci, etant presse par Louis XIV pour la comedie des Facheux, pria Chapelle de l'aider, et Chapelle y consentant lui apporta, quelques jours apres, une scene detestable.
+On sait que Baron fut l'eleve de Moliere, que Moliere eut une fille de la fille de la Bejart, et n'ai-je pas pu supposer que Baron en etait amoureux, et que Moliere voulut les unir, sans rien avancer d'impossible ou d'extraordinaire. On sait le trait de bienfaisance de Moliere envers le Comedien Mondorge. Monsieur de Voltaire l'a cite dans la vie qu'il a faite de Moliere, et qu'il destinait a une edition des ouvres de ce grand homme. Je n'ai fait que rapprocher ce trait de l'epoque de la mort de Moliere, a laquelle il fut anterieur, et si je blesse la chronologie, je ne crois pas offenser la raison. 
+Grimarest est mon garant pour la haine que Baron inspirait a la Moliere. On sait ce qu'il raconte a ce sujet ; il dit, en parlant de celle-ci, qu'elle ne fut pas plutot Mademoiselle de Moliere, qu'elle crut etre au rang d'une Duchesse. Et pourra-t-on d'apres cela blamer la hauteur et l'orgueil que j'ai donnes a la Moliere ? Quant aux autres personnages que j'introduis dans ma comedie, on sait que le Docteur Mauvilain fut toujours l'ami de Moliere, et Montausier son admirateur, et j'ai pu amener dans sa maison Montausier et le Docteur Mauvilain. L'hypocrite Pirlon y vient sans doute pour apprendre, sur la mort de Moliere, quelques details dont sa haine et son esprit de vengeance puissent tirer quelque avantage. Ce personnage d'ailleurs m'a paru si dramatique et si plaisant dans la maison de Moliere, que les auteurs de cette piece m'ont donne l'exemple de l'employer, et je ne pense pas qu'on fasse mal de suivre de bons exemples. 
+Que n'ai-je pu aussi les imiter dans mon denouement ! Quelques personnes eussent desire que je fisse expirer Moliere sur le Theatre ; mais outre que cette fin aurait altere la verite, puisqu'il mourut dans son lit et dans sa maison, n'aurait-on pas eu le droit, si j'avais suivi leur conseil, de comparer ma piece au monstre d'Horace ; et ne trouverait-on pas ridicule et tout a fait hors des regles et de l'usage un ouvrage dramatique, qui, commencant d'une maniere assez comique, eut fini si tragiquement ? Ma piece a deja assez de defauts, et je n'ai pas voulu qu'on put lui reprocher une disparate aussi choquante. 
+Mais c'est trop entretenir mes lecteurs d'une bagatelle qui ne merite, ni les honneurs ni les frais d'une dissertation. Parlons plutot de la Maison de Moliere, qui m'a, comme je l'ai dit, donne l'idee de ma comedie, et qui, a tous egards, lui est si superieure. Quelques dames de l'extremement bonne compagnie m'ont assure que cette Piece les avait ennuyees a perir; que c'etait un Ouvrage qui n'avait pas le sens commun, et qu'elles donneraient leurs loges a leurs femmes chaque fois qu'on la jouerait. Quelques Messieurs d'un tres bon ton ont ete de l'avis de ces dames ; et moi, j'ai toujours ete et je serai toujours de l'avis du public qui, dans les trois premiers actes, a vivement partage les alarmes que cause a un grand homme la defense inattendue de mettre au theatre son chef-d'uvre ; de ce public qui s'est plu a voir ce grand homme dans l'interieur de son domestique, et, pour ainsi dire en deshabille ; qui a tressailli, qui a pleure de joie avec ce grand homme, lorsque la Thorilliere vient lui annoncer que Louis XIV a leve les obstacles qui suspendaient la representation de l'Imposteur. Et quel spectacle est plus touchant et plus noble, en effet, que de voir le genie aux prises avec ce qu'il y a de plus redoutable sur la terre; un despote qui veut etre obei et l'envie qui le persecute ? Croit-on que l'intrigue de nos jolies petites comedies, telles que la Feinte par amour, la Surprise de l'amour, Amour pour Amour, et tant d'autres, soient d'une plus grande importance ? Croit-on que la Coquette corrigee, la Coquette fixee et toutes les Coquettes du monde doivent plus exciter l'admiration et remuer plus fortement le cour que le tableau vrai et naturel d'un caractere vertueux, et que le sort d'un sublime drame, fait pour eclairer et corriger les humains, n'interesse pas davantage que le mariage d'un fat avec une petite maitresse, le recit d'une anecdote de ruelle ou le denouement d'un imbroglio tissu par des valets ?
+Je vais plus loin: une vieille tradition nous a appris que Boileau, interroge par Louis XIV, qui voulait savoir quel etait le plus grand homme de son siecle, repondit sans hesiter: Moliere. Et moi, j'ai ose me dire souvent que Moliere etait encore le personnage le plus theatral qu'on ait jamais transporte sur la scene francaise, et je ne doute point qu'on ne reussisse chaque fois qu'on l'y peindra avec verite. Les vertus de Moliere sont connues depuis long-temps. Il etait bon pere, epoux sensible, ami genereux, citoyen bienfaisant: sa vie a ete pure comme le serait celle d'une de ces creatures privilegiees qui descendrait du Ciel et viendrait commencer et achever sur la terre les courtes et deplorables revolutions de la vie humaine. C'est beaucoup pour plaire sans doute; mais peut etre ce n'est pas tout. Il resulte de tout ce qu'on a ecrit sur ce grand homme et de ce qu'il a ecrit lui-meme, que ses passions etaient extremes. On sait que celle de l'amour a fait le tourment de sa vie, et n'est-ce pas celle de la gloire, qui, poussee au dernier degre, a soutenu son courage au milieu de toutes les contrarietes que ses ennemis lui ont fait eprouver ? Grimarest et la tradition nous apprennent que sa franchise tenait de la brusquerie, qu'il etait ne avec un temperament bilieux, quoique melancolique, que son humeur allait souvent jusqu'a la colere; et ce n'est pas sans raison qu'on a cru que le Misanthrope etait Moliere lui-meme, et qu'il s'etait peint dans le sublime role d'Alceste.
+Qu'on lise ses chefs-d'oeuvre avec attention, et l'on verra que cette humeur qui le dominait, il l'a donnee a presque tous ses personnages. Ce Misanthrope que je viens de citer est en colere depuis le premier vers de son role jusqu'au dernier; il rudoie, il gronde, il brusque tout le monde. 
+« Laissez-moi la, vous dis-je, et courez vous cacher. » 
+Quelle vehemence et quelle aprete dans ce debut ! Celui du Tartuffe est dans le meme genre. La vieille Madame Pernelle ne semble se ranimer que pour se plaindre de toute sa famille, que pour la gourmander, si je puis me servir de ce terme, et donner a chacun son paquet, comme l'a si bien dit Moliere lui-meme dans une autre piece: son courroux va meme jusqu'a lacher des jurements, tels que jour de Dieu ! Morbleu ; termes toujours deplaces dans la bouche d'une femme, mais places avec grace dans cette premiere scene. Le vieux Gorgibus ne parle pas avec plus de douceur dans les Precieuses ridicules. Le Chrysale des Femmes Savantes se laisse aller au meme emportement, et la passion d'Arnolphe, autrement M. de la Souche, est si vive, qu'Orosmane, que le brulant Orosmane ne me parait pas plus amoureux de Zaire que cet Arnolphe ne l'est de la naive Agnes. On pourrait dire de La Fontaine qu'il avait dans ses Fables sa propre simplicite, et de Moliere qu'il eut l'impetuosite des principaux personnages de ses Comedies. On sait meme qu'il poussait cette impetuosite jus qu'a la minutie. Si par hasard on lui derangeait les moindres choses dans son cabinet, s'il ne les trouvait pas toutes dans l'ordre ou il les avait laissees, si on changeait un livre de place, on dit qu'aussitot il entrait en fureur, qu'elle durait des semaines entieres, et que meme il cessait de travailler. Je ne doute point que la plupart de ces personnages, toujours hors d'eux-memes, n'aient fait le succes de ses belles comedies; et peut-etre ne serait il pas difficile d'en donner la raison. Outre qu'un personnage qui a de l'humeur, est presque toujours passionne, et qu'une passion quelconque exhale un feu qui vivifie, qui anime et qui subjugue les plus froids spectateurs ; j'ai souvent observe qu'on etait porte a rire des gens qui se mettaient en colere, et si l'on veut en avoir un exemple, qu'on se rappelle la fameuse scene de MM. Piron, Colle et Gallet chez le Commissaire Lafoss. Apres avoir ete conduits chez lui par le guet, qui les avait trouves se disputant dans la rue, le Clerc du Commissaire les interroge d'abord avec gravite ; ils repondent de meme ; mais ils disent des choses si plaisantes, que la gravite du Juge se change en fureur, et alors le rire des trois accuses devient inextinguible, que dis-je ? Il gagne toute l'assemblee, et finit par elargir scandaleusement la bouche des alguasils qui les ont arretes. Ce ne sont pas toujours de bons mots ou des reparties vives et heureuses qui excitent la gaiete. Les Comedies etincelantes de traits d'esprit et de saillies ingenieuses, telles que le Mechant et quelques autres font sourire, mais elles n'epanouissent point la rate ; mais elles ne font point circuler la joie universellement. La veritable gaiete ou plutot le vis comica resulte du choc de deux passions opposees qui se combattent et qui toutes deux ont tort. Je m'explique : lorsque deux hommes senses ou qui au moins devraient l'etre, se fachent et s'injurient, ils descendent pour ainsi dire, de la hauteur de leur raison. L'homme alors redevient enfant, et charmes interieurement de voir qu'il se degrade et qu'il perd ses plus beaux avantages, les spectateurs s'en moquent, et la malice humaine les porte a manifester la pitie derisoire qu'il inspire, et le plaisir secret qu'il fait naitre. Il n'y a que la deraison bien prouvee qui excite le rire, et les passions poussees a l'extreme font-elles autre chose que deraisonner ? Moliere enfin etait un homme passionne. Il a prouve par ses Comedies que ces caracteres reussissaient toujours au Theatre; et doit-on etre surpris qu'il y ait beaucoup reussi lui-meme, lorsque MM. Goldoni et Mercier nous ont offert le veritable original de toutes ces differentes copies ? 
+Cet original aurait produit de bien plus grands effets, si ces MM. avaient choisi une epoque plus avancee dans sa vie, s'ils l'eussent pris, par exemple ; un an ou deux apres son mariage, s'ils eussent peint cet amour vehement et toujours contrarie que sa femme lui inspira, les querelles qu'il excita, les brouilleries et les raccommodements dont il fut cause. Quelle piece admirable ne ferait-on pas en effet de Moliere, jaloux de sa femme, de Moliere amoureux ? Une femme de theatre peut se conserver pure au milieu de la corruption ; mais elle est exposee a toutes les attaques, et qu'elle y succombe ou non, quel effroi ne doit point causer a un mari la foule des adorateurs qui l'environnent, et quel parti ne tirerait-on pas du plus passionne, du plus emporte de tous, de Moliere toujours place entre sa jalousie naturelle et une epouse coquette? Cette jalousie a d'abord frappe mon esprit comme le trait le plus apparent du caractere de Moliere, et j'ai voulu en faire usage ; mais j'ai senti en y reflechissant, qu'une pareille tache serait au-dessus de mes forces, et je laisse a d'autres le soin de la remplir.
+Quoique le domaine de Thalie ne soit point epuise pour l'homme de genie, malgre toutes les moissons qu'on y a faites, quoique des palmes nouvelles y croissent sans cesse, et y reverdissent pour lui sur des palmes deja cueillies, on ne peut se dissimuler neanmoins que les principaux caracteres ont deja ete traites, et qu'il ne reste plus guere a manier que des caracteres secondaires. Pourquoi donc ne suivrait-on pas une carriere deja ouverte avec succes par quelques Litterateurs celebres ? Pourquoi, au defaut des caracteres, ne mettrait-on pas sur la scene francaise les grands hommes de tous les Etats, qui, depuis environ douze siecles, ont illustre la Nation ? Nos Rois vertueux, par exemple, nos vaillants Generaux, nos Ministres habiles et nos Auteurs immortels ? Henri IV nous a deja charmes par sa noble loyaute, sa simplicite auguste et sa touchante sensibilite. Nos larmes coulent chaque fois que nous le voyons chez le paysan Michaut, essuyer furtivement les siennes, aux eloges qu'on fait du meilleur des Princes. M. Pilhes, dans le Bienfait anonyme, nous a fait adorer la bienfaisance de Montesquieu, et nous avons ri lorsqu'une main habile a leve a nos yeux le rideau qui couvrait l'interieur de la maison de Moliere. Ne nous reste-t-il pas encore une foule de Citoyens et de Souverains fameux, dont la grande ombre ne demande qu'a etre evoquee, et que nous pouvons faire mouvoir et agir sur notre Theatre ? Charles V, Louis XII et Louis XIV y seraient-ils deplaces ? 
+Croit-on que, si l'on y voyait le modeste Catinat attendre deux heures et demie dans l'antichambre d'un Commis, et que, si on l'entendait, lorsque le protecteur subalterne, le reconnaissant, lui balbutie des excuses, repondre, sans se facher, ces belles paroles; ce n'est pas ma personne que vous avez tort de laisser dans votre antichambre; c'est un officier, quel qu'il soit: ils sont tous egalement au service du Roi, et vous etes paye pour leur repondre>>. Croit-on meme que, si on pouvait l'y surprendre jouant aux quilles avec ses soldats le jour de sa premiere victoire : croit-on, dis-je, que la peinture d'un pareil caractere n'enchanterait pas autant que celle d'un Marquis imaginaire qui trompe cinq ou six femmes a la fois, et s'applaudit de ses conquetes ? Croit-on que le mot si connu de Turenne, et quand meme c'eut ete George, fallait-il frapper si fort ? Ne serait pas autant rire que les proverbes de Moliere ? Et si on entendait le bon La Fontaine, depouille de tout, dire naivement a son ami qui lui offre un asile, j'y allais, croit-on que ces mots prononces par des Acteurs intelligents et sensibles, n'exciteraient pas en nous la plus vive admiration et ne contribueraient pas a nous rendre meilleurs ? Pelisson, sacrifiant son honneur pour sauver l'honneur de son ami, Fenelon instruisant son royal eleve ; J. J. Rousseau confessant noblement ses fautes, ne valent-ils pas les Valere, les Clitandre, les Damis et mille autres personnages eclos du cerveau des poetes et qui n'ont jamais eu d'existence reelle que dans quelques cercles ou on les choisit, pour leur donner l'expression et la physionomie qui leur manquent ? 
+Mais dira-t-on peut-etre, il faudrait, en mettant ces grands ecrivains sur la scene, donner a chacun le style de leurs Ouvrages : il faudrait leur preter le langage qu'ils ont parle dans leurs ecrits, et il n'est pas facile d'imiter le faire des Rousseau, des Fenelon, des Pelisson, des La Fontaine, et toujours, comme dit si ingenieusement celui-ci, toujours on serait trahi par quelque bout d'oreille. L'objection est specieuse, et l'on doit peu s'en embarrasser. Les Gens de Lettres les plus renommes ont parle aussi simplement que les autres hommes, et ce n'est pas le style de leurs ecrits qu'il faudrait imiter, mais celui de leur conversation. Le roitelet n'est pas oblige d'avoir le vol de l'aigle; mais le roitelet a sa maniere de voler, et il ne doit pas vouloir plus qu'il ne peut faire. S'il fait au contraire tout ce qu'il peut, on lui saura gre de ses efforts. Il y a grande apparence que les Dieux avaient un langage infiniment plus sublime que les mortels, et lorsqu'Homere se rend l'interprete de Jupiter, de Junon, de Venus, etc. Il ne les fait point parler en vers plus harmonieux, plus corrects ou plus releves qu'Agamemnon, Ajax, Hector et Achille ; que dis-je ? Si on introduisait Racine dans une Comedie, et qu'on lui pretat les images pompeuses et les tours ambitieux du recit de Theramene, on ferait siffler un versificateur qui ne doit jamais l'etre, et rien ne pourrait faire excuser un si ridicule contre-sens. Que celui donc qui mettra nos grands Auteurs sur le Theatre, se contente de les peindre comme ils etaient: voila l'important, et qu'il n'emprunte point une palette etrangere. Il arrivera de la que la scene francaise, rivale du paisible Elisee, nous offrira ce qu'il y eut de plus grand et de plus vertueux sur la terre, et nous y verrons bientot errer ces morts immortels dont les traits ne nous sont transmis que dans des gravures insipides ou des bustes inanimes. On sera peut-etre surpris que j'aie ajoute au titre de ma Piece la date de sa reception a la Comedie Francaise. J'ai eu plus d'une raison pour agir ainsi: la Comedie Francaise ne pouvait point refuser une Piece en l'honneur de Moliere, une espece d'apotheose de ce grand homme, sans manquer au respect dont tous ses membres sont penetres pour lui. Aussi n'en est il pas un qui ne l'ait recue avec des marques du plus vif interet; pas un qui ne m'ait donne des conseils pour la rendre meilleure, et pour ne point leur faire de vains compliments, j'ai mis en tete qu'ils l'avaient recue. Pouvais-je mieux leur temoigner ma reconnaissance. 
+Ayant su d'ailleurs que quelques Litterateurs estimables devaient traiter le meme sujet que moi, et ne pouvant avoir sur eux que le merite de l'anteriorite, j'ai fait imprimer mon Ouvrage pour prendre date, et pour m'assurer les seuls droits qu'on ne saurait me disputer. 
+(1) Le Commentaire de M. Bret, sur les ouvres de Moliere, est un des meilleurs Ouvrages de notre langue. Auteur lui-meme de Comedies tres agreables, M. Bret apprecie avec autant de gout que de jugement tous les chefs-d'ouvre de son auteur: il parle de ses defauts avec respect, de ses beautes avec amour, et une noble franchise est toujours son guide. Je n'ai bien connu Moliere qu'apres avoir lu M. Bret. M. Bret est le premier qui ait venge ce grand homme du reproche tres injuste que lui ont fait quelques-uns de ses ennemis d'avoir puise le plan et meme les scenes du Tartuffe dans une mauvaise farce italienne, intitulee: Il dottor Bacchetone. Il prouve invinciblement que cette farce n'est elle-meme qu'une plate imitation du Tartuffe. Les recherches penibles et nombreuses qu'il a faites a ce sujet, sont dignes des plus grands eloges. M. Bret ne se contente pas de juger et de commenter Moliere : il rapporte dans ses Avertissements et Observations les anecdotes les plus curieuses sur ce grand homme: il n'oublie rien de ce qui peu nous le faire envisager sous tous les aspects. On aime Moliere apres avoir lu ces avertissements, et l'on a pour M. Bret autant d'estime que de reconnaissance.
+
+PERSONNAGES.
+MOLIERE.
+LA MOLIERE, sa femme.
+ISABELLE, sa fille.
+CHAPELLE, ami de Moliere.
+BARON.
+MONTAUSIER.
+Le Docteur MAUVILAIN ou MAUGUILLAIN.
+PIRLON.
+LA FORET, Servante de Moliere.
+LESBIN, Valet de Moliere.
+UN SEMAINIER.
+UN GARCON DE THEATRE.
+Plusieurs Acteurs de la Troupe de Moliere.
+La Scene est dans la Maison de Moliere.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE.
+MOLIERE, seul.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je ne sais que penser de mon ami Chapelle. 
+Veut-il me rendre fou ? Dans l'exces de son zele, 
+L'autre jour, il m'emporte un de mes manuscrits, 
+Et me laisse un des siens. Messieurs les beaux esprits 
+Pretendent, me dit-il, que, dans mes comedies, 			[5]
+Je blesse le bon ton, et qu'elles sont remplies 
+De mots ignobles, bas, et de details bourgeois. 
+Il veut me corriger et m'apprendre les lois 
+Du beau monde qu'il hante ; et, si je le dois croire, 
+J'aurai moins de profit et beaucoup plus de gloire.			[10]
+C'est fort bien fait a vous, Monsieur l'Epicurien !
+Votre projet sans doute est d'un homme de bien ;
+Mais de me reformer il n'est plus temps, je pense,
+Et vous perdrez ici toute votre science.
+On ne redresse point un arbre deja vieux,			[15]
+Et je ferais plus mal, pour vouloir faire mieux.
+Chapelle cependant n'arrive point, j'enrage.
+Si du moins il m'avait renvoye mon ouvrage !
+J'en ai besoin. Hola !... Je suis d'une fureur !
+SCENE II. Lesbin, Moliere.
+MOLIERE.
+Chapelle n'a-t-il rien envoye ?
+LESBIN.
+Non, Monsieur.			[20]
+MOLIERE.
+Qu'on me laisse !
+SCENE III.
+MOLIERE, seul.
+Il me faut, en attendant qu'il vienne
+Me rapporter ma piece, examiner la sienne.
+Il m'en a tant prie ! Lisons. Chapelle aussi
+S'avise d'etre auteur. Asseyons-nous ici,
+Et tachons d'etouffer ma trop juste colere.			[25]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De l'esprit, de l'esprit, comme a son ordinaire !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Encore de l'esprit, des traits vifs et brillants,
+Des details fins, legers et des portraits saillants,
+Un jargon de ruelle, un ton de persiflage,
+Qui sans doute des sots obtiendra le suffrage ;			[30]
+Mais pas le sens commun, pas l'ombre de raison,
+Et de grands sentiments toujours hors de saison.
+Croit-il, mon pauvre ami, que, pour la comedie,
+L'esprit soit suffisant ? Du bon sens, du genie,
+Voila, voila surtout les dons qu'il faut avoir.			[35]
+Tel qu'il est, en un mot, l'homme cherche a se voir,
+Et non tel qu'on l'a peint dans cette uvre infidele.
+Qui manque la copie est siffle du modele.
+Je ne repondrais point que cet ouvrage la
+Ne reussit pourtant, qu'il ne plut, et voila			[40]
+Comme de beaux esprits, membres d'Academies,
+Quand je ne serai plus, feront des comedies !
+Ils uniront ensemble, et l'esprit et le cour,
+La nature et l'amour, la peine et le bonheur :
+Leurs vers tout herisses d'antitheses pointues,			[45]
+Rediront ce qu'ont dit, en phrases rebattues,
+Vize, Balzac, Voiture et Monsieur Trissotin,
+Grands Auteurs dont on sait le malheureux destin.
+Mais achevons... Je crois qu'en chantant il s'annonce.
+Oh ! Qu'il meriterait une vive semonce !			[50]
+SCENE IV. Chapelle, fredonnant un air a boire, Moliere.
+MOLIERE.
+Eh bien ! M'apportez-vous mon manuscrit enfin ?
+CHAPELLE.
+Le voila, mon ami, votre ouvrage est divin.
+MOLIERE.
+Divin ! Vous plaisantez : je n'ai point fait d'ouvrage.
+Dont je sois satisfait, et c'est ce dont j'enrage.
+CHAPELLE.
+Je m'etais figure d'abord que vos ecrits			[55]
+Fourmillaient de defauts ; mais j'en sens tout le prix,
+Depuis que j'en ai fait a tete reposee
+Un examen suivi. Votre prose est aisee ;
+Vos caracteres, vrais, comiques, amusants,
+Et vous offrez partout des traits neufs et plaisants.			[60]
+Je voudrais pour beaucoup avoir votre genie.
+Quoi qu'en dise des sots la tourbe reunie,
+Votre bonhomme Argan m'a surtout enchante.
+Il se croit bien malade et creve de sante ;
+Et cette belle-mere interessee, avide,			[65]
+Que j'aime a voir les traits de son ame sordide
+Si bien representes ! Votre Diafoirus
+M'amuse infiniment par son docte Phobus.
+Votre Purgon me charme, et, dans cette peinture
+J'ai partout admire le ton de la nature.			[70]
+MOLIERE.
+Vous ne croyez donc pas que j'aie a corriger
+Rien dans ma comedie ?
+CHAPELLE.
+Il n'y faut rien changer :
+MOLIERE.
+Pas un mot ?
+CHAPELLE.
+Pas un mot.
+MOLIERE.
+Eh bien, je suis sincere :
+A la votre non plus je ne vois rien a faire ;
+Mais pour d'autres raisons.
+CHAPELLE.
+Comment ! Expliquez-vous.			[75]
+MOLIERE.
+Je m'en garderai bien. A vous mettre en courroux
+Vous ne tarderiez pas ; et Dieu merci, ma femme
+Se fache assez souvent.
+CHAPELLE.
+Il est vrai que Madame
+N'est pas douce ; mais moi, je m'amuse de tout.
+De moi-meme je ris quelquefois ; c'est mon gout.			[80]
+Boire la nuit, dormir la grasse matinee,
+A rien ne reflechir, vivre au jour la journee,
+En deux mots me voila. Sans projet ni chagrin
+J'entends tout, je vois tout avec un front serein ;
+Parlez donc franchement. Est-ce que mon ouvrage			[85]
+Vous a paru mauvais ? Et de votre suffrage
+Me faudrait-il passer tout a fait ?
+MOLIERE.
+Tout a fait.
+« Franchement il est bon a mettre au cabinet ».
+Je me cite moi-meme, en parlant de la sorte.
+Pardonnez ; mais, ma foi ! La verite m'emporte,			[90]
+Et puis, vous le savez, je ne suis point flatteur.
+Votre style n'a rien de ce feu createur,
+Qui distingua toujours les sublimes poetes :
+Il est seme d'eclairs, de clinquant, de bluettes ;
+Il eblouit souvent et n'echauffe jamais.			[95]
+CHAPELLE.
+Je n'ai pas, comme vous, l'art de peindre a grands traits,
+J'en conviens ; cependant il faut etre equitable.
+Votre genre peut-etre est le seul veritable.
+Si j'en crois neanmoins de celebres auteurs,
+De plus d'une maniere on corrige les mours,			[100]
+Et, sans vous ressembler ou marcher sur vos traces,
+J'ai pu, tout comme vous, sacrifier aux graces.
+MOLIERE.
+D'accord ; et puisqu'enfin vous ne me croyez pas,
+Voulez-vous essayer, pour sortir d'embarras,
+Un moyen des plus surs ? A ma bonne servante			[105]
+Je lis tous mes ecrits. Elle n'est point savante,
+Elle n'a point d'esprit ; mais un jugement sain.
+CHAPELLE.
+Consulter Laforet ! Quel bizarre dessein !
+MOLIERE.
+Mon ami, la nature est son guide fidele,
+Et, pour plaire toujours, il faut n'ecouter qu'elle.			[110]
+Je vais, si vous voulez, lui lire un acte ou deux
+De votre Comedie.
+CHAPELLE.
+Il serait hasardeux
+De tenter cette epreuve : elle est accoutumee
+A ce qui vient de vous, et votre renommee,
+Quand vous la consultez, lui fait trouver tout bien.			[115]
+Ne peut-on reussir par un autre moyen.
+MOLIERE.
+Disons-lui que la piece est de moi.
+CHAPELLE.
+Cette ruse
+Me plait infiniment, et je n'ai plus d'excuse.
+MOLIERE, appelant.
+Laforet ! Laforet !
+SCENE V. Laforet, Chapelle, Moliere.
+LAFORET.
+Qu'est-ce ?
+MOLIERE.
+Tenez-vous la .
+Je vais lire une piece.
+LAFORET.
+Oh ! J'aimons bien cela.			[120]
+Quand vous nous en montrais, je rions tant ! J'ecoute
+Deja de tout mon cour. Alle est de vous ?
+MOLIERE.
+Sans doute.
+Elle est nouvelle meme, et je voudrais savoir
+Ce que vous en pensez.
+LAFORET.
+Je grillons de la voir.
+Lisais.
+MOLIERE, lisant.
+« L'Insouciant, Comedie en cinq Actes ».			[125]
+CHAPELLE, a Moliere.
+Ne vous pressez pas trop : par des chutes exactes
+Marquez bien chaque vers.
+MOLIERE.
+D'accord. A son maintien,
+Je vois deja qu'au titre elle ne comprend rien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)« ACTE PREMIER.
+SCENE PREMIERE. Lafleur, Rosette.
+ROSETTE.
+Ton Maitre est-il ici ?
+LAFLEUR.
+Non, il vient de sortir.
+ROSETTE.
+Tant pis !
+LAFLEUR.
+Pourquoi cela ?			[130]
+ROSETTE.
+Je venais l'avertir.			[130]
+Que Madame l'attend a souper.
+LAFLEUR.
+Oh ! je pense
+Qu'il ne s'y rendra pas : il n'est pas d'homme en France
+Qui soit plus invite. Chez nous, chaque matin,
+Trottent les billets doux. C'est un tapage, un train...
+Mais dans notre antichambre on a beau se morfondre,			[135]
+A personne jamais nous ne daignons repondre ;
+Et lorsque nous sortons, s'il faut ne rien celer,
+Nous ne savons encore ou nous devons aller.
+Le hasard nous conduit selon sa fantaisie :
+Nous visitons Egle, Celimene, Julie.			[140]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et notre seule etude est celle du plaisir.
+Vrais papillons, en vain on nous voudrait saisir ;
+Nous choisissons parfois la fleur la mieux eclose,
+Et nous volons toujours de l'oillet a la rose.
+ROSETTE.
+Ton maitre est singulier, a ce qu'il me parait,			[145]
+Et je crois mal aise de faire son portrait.
+LAFLEUR.
+J'espere cependant esquisser son image :
+Il est insouciant, on ne peut davantage,
+C'est-a-dire, insensible a la peine, au bonheur,
+Cherchant la verite, courant apres l'erreur,			[150]
+Et n'ecoutant jamais l'amour ni la nature... »
+MOLIERE, s'interrompant en voyant Laforet dormir et l'appelant.
+Laforet ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous voyez l'effet de la lecture :
+Elle dort tout debout.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! ah ! ah ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Laforet !
+CHAPELLE.
+J'en veux rire a mon tour ; c'est un excellent trait.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! ah ! ah ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Laforet !			[155]
+LAFORET, se reveillant et se frottant les yeux.
+Eh bien ! qu'est-ce ?			[155]
+MOLIERE.
+Quoi ! vous dormez debout, lorsque je lis ma piece !
+LAFORET.
+Pardonnez-nous, Monsieur ; mais je n'ons rien compris
+A tous ces biaux discours, et je sommes d'avis
+Que vous jetiez au feu toutes ces fariboles.
+Il faut, pour m'egayer des choses qui soient droles,			[160]
+Et ce Monsieur Lafleur a trop d'esprit pour moi.
+MOLIERE.
+Eh bien, vous l'entendez ?
+CHAPELLE.
+Elle a raison, ma foi !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu n'admires donc pas l'ouvrage de ton maitre ?
+LAFORET.
+Oh ! Pour celui-la, non.
+CHAPELLE.
+Elle l'a fait paraitre.
+LAFORET, a Moliere.
+Encore un coup, Monsieur, excusez si j'avons			[165]
+Un tantinet dormi : je nous y connaissons,
+Et vous n'avez rien fait qui soit moins agreable.
+MOLIERE.
+Dites mieux, mon enfant, qui soit plus detestable :
+Mon dialogue est faux, et mes vers precieux,
+Entrelaces de mots pretendus gracieux,			[170]
+N'offrent rien a l'esprit que des billevesees,
+Que des phrases deja sur le theatre usees.
+De quel style surtout s'exprime mon valet !
+Il parle comme un maitre ; enfin tout m'en deplait,
+Et deja partageant votre fatigue extreme,			[175]
+Quand vous avez dormi, j'allais dormir moi-meme.
+Le sommeil reviendrait : allez vous reposer,
+Seul avec mon ami je veux ici causer.
+SCENE VI. Moliere, Chapelle.
+MOLIERE.
+Eh bien, vous l'avez vu. C'est la simple nature
+Qui vient de vous juger. Apres cette lecture			[180]
+Pretendez-vous encore a mon suffrage ?
+CHAPELLE.
+Non.
+Qu'on se moque de moi je sens qu'on a raison.
+Vous ne l'ignorez pas, Moliere ; ma paresse
+Ne m'a jamais permis de soigner une piece,
+Et d'en approfondir l'intrigue, les tableaux :			[185]
+Je n'ai pas vos talents et surtout vos pinceaux.
+MOLIERE.
+Vous pourriez, comme un autre, avec du temps, des peines,
+Arranger une intrigue et filer quelques scenes ;
+Mais il faudrait d'abord choisir mieux vos sujets.
+C'est de la seulement que depend le succes.			[190]
+L'insouciant ! Quel titre ! Un pareil caractere
+Peut fournir tout au plus une esquisse legere.
+Il n'est qu'episodique, et pour le bien traiter,
+C'est au fond du tableau qu'il faut le presenter.
+Voulez-vous reussir ? Peignez dans vos ouvrages			[195]
+L'homme de tous les lieux, celui de tous les ages
+Dessinez largement : que de tous vos portraits
+A Paris, comme a Londres, on admire les traits.
+Aux Peintres des boudoirs laissez la miniature,
+Et soyez, s'il se peut, grand comme la nature.			[200]
+CHAPELLE.
+Je suivrais ces conseils par la raison dictes ;
+Mais les sujets majeurs vous les avez traites.
+Un caractere neuf est devenu si rare !
+Les pedants, les facheux, l'hypocrite, l'avare,
+Le bourgeois gentilhomme et les tuteurs jaloux			[205]
+Le misanthrope enfin qui les surpasse tous,
+Que reste-t-il encore apres de tels modeles ?
+MOLIERE.
+Ce qu'il reste ? Du beau les sources immortelles
+Ne s'epuisent jamais, et l'esprit createur
+Moissonne ou glanerait un mediocre auteur.			[210]
+Ai-je peint l'envieux a l'oil cave, au teint bleme,
+Qui se meurt des poisons qu'il distille lui-meme ?
+Et ces nobles altiers, qui tyrans sous nos Rois,
+De l'humanite sainte ont usurpe les droits,
+Qui trainent dans les cours des noms qu'ils deshonorent,			[215]
+Et, pour mieux s'illustrer, l'un l'autre se devorent ?
+Ai-je peint ces traitants qu'on voit avec eclat,
+Enfler leurs coffres-forts des tresors de l'Etat,
+Et qui meurent du luxe et martyrs et victimes ?
+De l'avide joueur ai-je trace les crimes ?			[220]
+Ceux de l'ambitieux ? Ceux du vil seducteur,
+De l'adroit courtisan, de l'ingrat, du flatteur,
+De mille autres encor, qui brillent, disparaissent,
+Et, tous les cinquante ans expirent et renaissent,
+Pareils a ces essaims d'insectes qu'au printemps			[225]
+La chaleur renaissante eveille dans les champs ?
+SCENE VI.. Un garcon de theatre, Moliere, Chapelle.
+LE GARCON DE THEATRE, a Moliere.
+Pour repeter, Monsieur, votre nouvelle piece,
+On n'attend plus que vous.
+MOLIERE, a Chapelle.
+Il faut que je vous laisse.
+LE GARCON DE THEATRE.
+Du manuscrit aussi le souffleur a besoin,
+Et de le demander on m'a commis le soin.			[230]
+MOLIERE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le voila ; je vous suis.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)D'apres un tel message,
+Si vous ne m'eussiez point rapporte mon ouvrage,
+Vous le voyez ; parbleu j'etais joli garcon.
+SCENE VI.I.
+CHAPELLE, seul.
+Il vient de me donner une sage lecon,
+Je veux en profiter : oui, j'en croirai Moliere,			[235]
+Et je condamne au feu ma Comedie entiere,
+Quel penible metier que celui d'ecrivain !
+Il vaut mieux ne rien faire et sabler du bon vin.
+SCENE IX. Chapelle, La Moliere.
+LA MOLIERE, avec humeur.
+Du bon vin ! Du bon vin ! Voila comme vous etes !
+Boire et passer vos nuits dans les jeux, dans les fetes ;			[240]
+Voila votre methode, et c'est, grace a vous,
+Que je te touche au moment de perdre mon epoux.
+Je le vois chaque jour deperir et s'eteindre.
+CHAPELLE.
+Comment cela ? De moi vous auriez a vous plaindre ?
+Je ne le croyais pas. Moliere est mon ami,			[245]
+Et ce noud qui m'est cher, par le temps raffermi,
+Veut que vous m'expliquiez en quoi je suis coupable.
+Moliere m'a cache...
+LA MOLIERE.
+Les plaisirs de la table
+N'ont jamais rien valu pour sa faible sante.
+Il etait au regime : avec soin apprete,			[250]
+Un lait doux humectait sa poitrine affaiblie.
+Vous vous etes moque de son genre de vie :
+Vous l'avez fait manger et boire autant que vous,
+Et, dans cet instant meme, une incurable toux
+Le tourmente, l'oppresse ; il en perd la parole,			[255]
+Et je viens de le voir balbutier son role,
+Et, contre son usage, oblige de s'asseoir.
+Vous savez cependant qu'il doit jouer ce soir.
+CHAPELLE.
+Je suis de son etat afflige ; mais j'espere
+Qu'il sera peu durable, et puis la bonne chere			[260]
+Ne fut jamais fatale aux enfants d'Apollon :
+Horace en est la preuve, ainsi qu'Anacreon.
+Oui, c'est du vin d'Ail la mousse petillante,
+Qui seule peut donner une sante brillante.
+Je l'eprouve a mon tour ; regardez bien mes yeux :			[265]
+On y voit eclater ce nectar radieux ;
+Mon visage est empreint de sa couleur vermeille,
+Le meilleur elixir est celui de la treille.
+LA MOLIERE.
+Quel discours ! Vous parlez comme un franc libertin.
+CHAPELLE.
+Oh ! Non ; mais comme un homme ennemi du chagrin.			[270]
+Voulez-vous maintenant que je vous parle en sage ?
+Ce n'est pas, croyez moi, le bachique breuvage,
+Qu'au milieu d'un souper je verse a votre epoux,
+Qui cause ses douleurs et fait naitre sa toux ;
+C'est votre humeur, Madame, elle est un peu changeante			[275]
+Elle est imperieuse, et jamais indulgente.
+Ce discours vous surprend : pardonnez, mais je crois
+Qu'ami de votre epoux, j'ai sur vous quelques droits
+Et que je puis vous dire une fois ma pensee.
+LA MOLIERE.
+M'injurier chez moi !... Quelle audace insensee !			[280]
+CHAPELLE.
+Fachez-vous, j'y consens ; je n'en rabattrai rien.
+Quand l'ame est en repos, le corps se porte bien.
+LA MOLIERE, avec un dedain affecte.
+Moi, je me facherais ! Et pourquoi, je vous prie ?
+Votre raison, Monsieur, a chaque instant varie :
+Vous etes si souvent a la perdre expose !			[285]
+CHAPELLE.
+Bon ! Le trait est malin, quoique peu deguise ;
+Mais je n'en suis pas moins tres jaloux de vous plaire
+Et je sors pour calmer votre juste colere.
+Je vais a votre epoux offrir tous mes secours :
+Pour prolonger les siens, je donnerais mes jours.			[290]
+SCENE X.
+LA MOLIERE, seul.
+Chapelle a t-il raison ? Je veux etre maitresse,
+Commander en ces lieux ; mais Moliere sans cesse
+Ne veut-il pas user d'un supreme pouvoir,
+Et me faire, dit-il, rentrer dans mon devoir ?
+Qu'il cede quelquefois, je cederai. Qu'entends-je ?			[295]
+C'est ma fille.
+SCENE XI. La Moliere, Isabelle.
+LA MOLIERE.
+D'ou vient cette paleur etrange
+Qu'on voit sur votre front ? Moliere est-il plus mal ?
+ISABELLE.
+Ah ! Je crains qu'il ne touche a son terme fatal.
+Plus que jamais il souffre, et j'en suis desolee.
+Je le quitte a l'instant : sa toux est redoublee,			[300]
+Et ce qui doit surtout combler mon desespoir,
+Il s'y montre insensible, et, pour jouer, ce soir,
+Il vient de s'habiller.
+LA MOLIERE.
+Rassurez-vous, ma fille,
+Il faut qu'il y renonce et qu'il se deshabille.
+Votre pere m'est cher. Je ne souffrirai pas			[305]
+Qu'au trepas il s'expose en feignant le trepas.
+Son role est fatiguant, et tout me persuade
+Qu'il faut se bien porter pour faire le malade.
+Je veillerai, vous dis-je, au salut de ses jours.
+Vous-meme renoncez a de folles amours			[310]
+Dont je suis informee, et songez, pour me plaire,
+Qu'il vous faut obeir en tout a votre mere.
+ISABELLE.
+C'est mon voeu le plus cher. A vos ordres soumis
+Mon cour, sans votre aveu, s'est-il jamais permis
+De former un desir.
+LA MOLIERE, avec colere.
+Oui, oui, Mademoiselle,			[315]
+Je connais votre humeur indocile et rebelle ;
+Mais je saurai bientot vous mettre a la raison.
+M'oserez-vous nier que vous aimez Baron,
+Et qu'il ressent pour vous une egale tendresse ?
+ISABELLE.
+Non.
+LA MOLIERE.
+Vous en convenez ?
+ISABELLE.
+Sans doute il m'interesse ;			[320]
+Mais je ne savais pas que ce pur sentiment
+Fut un crime a vos yeux, et meme en ce moment,
+J'ai peine a concevoir qu'il puisse vous deplaire.
+Baron, depuis longtemps, est l'ami de mon pere :
+Il est son camarade, et son talent d'acteur			[325]
+Prete un charme de plus aux talents de l'auteur :
+Mon pere l'a forme ; mon pere l'idolatre
+Et fonde sur lui seul l'espoir de son theatre.
+LA MOLIERE.
+Soit ; mais ignorez-vous qu'orgueilleux a l'exces,
+Il pense que lui seul doit avoir des succes ?			[330]
+Que nous sommes toujours d'un sentiment contraire,
+Et que dix fois le jour il me met en colere ?
+ISABELLE.
+L'orgueil est un defaut ; mais un grand comedien
+Est homme comme un autre, et peut avoir le sien.
+Baron fait un emploi qui le rend excusable.			[335]
+Des Conquerants, des Rois l'orgueil est pardonnable
+A les representer Baron accoutume
+En heros quelquefois se croyant transforme,
+Conserve leur fierte, meme hors de la scene,
+Et n'en a point, je pense, une ame plus hautaine.			[340]
+LA MOLIERE.
+Lui-meme avec plus d'art ne pourrait s'excuser.
+Vous songez en secret peut-etre a l'epouser.
+Eh bien ! Je vous defends de nourrir dans votre ame
+Un espoir qui m'offense, et d'ecouter la flamme
+Qu'au mepris de mes droits il a fait naitre en vous.			[345]
+Je viens de vous choisir, d'ailleurs un autre epoux.
+Le Marquis de Milflore est epris de vos charmes,
+Sitot qu'il vous a vue, il a rendu les armes :
+A vous plaire, en un mot, tous ses voux sont bornes.
+ISABELLE.
+Eh quoi ! C'est un marquis que vous me destinez !			[350]
+LA MOLIERE.
+Pourquoi non ? Il m'a fait les plus vives instances :
+Il vous aime, et l'amour rapproche les distances.
+Il est sur d'obtenir bientot mon agrement.
+ISABELLE.
+J'abandonnerai donc le theatre ?
+LA MOLIERE.
+Oui vraiment.
+On vous appellera Madame la Marquise.			[355]
+Vous aurez une hotel, un nom. Je suis surprise
+Que vous ne sentiez pas l'exces d'un tel honneur.
+ISABELLE.
+Des titres si pompeux ne font pas le bonheur,
+Et mon pere d'ailleurs n'aime pas qu'on s'allie
+A de plus grands que soi.
+LA MOLIERE.
+Riez de sa folie.			[360]
+Votre pere voit mal... Ah ! S'il avait mes yeux !...
+ISABELLE.
+On peut me demander quels furent mes aieux,
+Quelle est ma dot. Jamais on n'en doit faire accroire...
+LA MOLIERE.
+De votre pere, en dot, vous porterez la gloire.
+Moliere s'est rendu fameux par ses ecrits :			[365]
+Il tient le plus beau rang parmi les beaux esprits :
+Ses ouvrages ; voila ses titres de noblesse.
+ISABELLE.
+Mon pere de Baron approuve la tendresse,
+Et je crains qu'a vos voux il ne consente pas.
+LA MOLIERE.
+Eh bien ! Il faut aller le trouver de ce pas.			[370]
+Suivez-moi je pretends que vous m'aidiez vous-meme
+A lui faire agreer Milflore qui vous aime.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			ACTE II
+
+
+SCENE PREMIERE. Moliere, La Moliere, Isabelle.
+MOLIERE, avec beaucoup d'emotion et l'habit du Malade Imaginaire.
+Non, ma femme, jamais je n'y consentirai
+Ma fille m'est soumise, et je la marierai
+Selon qu'il me plaira.
+LA MOLIERE.
+Mais songez donc, Moliere,			[375]
+Que ma fille aux honneurs s'ouvrira la carriere,
+Et que l'hymen s'unit avec le tendre amour
+Pour la faire bientot parvenir a la Cour.
+Songez qu'incessamment...
+MOLIERE.
+La Cour ! Voila les femmes !
+Elles veulent toujours etre de grandes Dames			[380]
+Et toujours s'elever : ivres d'un vain eclat
+Elles ne savent point rester dans leur etat,
+Je n'ai fait qu'indiquer dans une Comedie
+Ce travers singulier ; mais si je m'etudie
+a le representer comme il s'offre a mes yeux,			[385]
+C'est vous que je peindrai ; je ne puis choisir mieux.
+Oui, ma femme, vous meme.
+LA MOLIERE.
+Et vous ferez, je gage
+Une piece ennuyeuse, un detestable ouvrage.
+MOLIERE.
+Nous verrons.
+LA MOLIERE.
+Et pourquoi blamer l'ambition
+Que je vous fais paraitre en cette occasion ?			[390]
+Elle est noble, elle tend au bonheur de ma fille.
+N'a-t-on pas vu cent fois d'une obscure famille
+Les humbles rejetons par le sort transplantes,
+Eux-memes s'etonnant de leurs prosperites,
+Briller modestement a la premiere place			[395]
+Et leur eclat s'etendre aussi loin que leur race ?
+MOLIERE.
+Ma femme, vous parlez comme feu Ciceron ;
+Mais quel sera le fruit de votre ambition ?
+Vous perdrez votre fille : elle est simple, ingenue :
+Si jamais les grandeurs lui donnent dans la vue,			[400]
+Elle deviendra vaine, altiere comme vous ;
+Elle mettra sa gloire a nous mepriser tous
+Et se fera bientot mepriser elle-meme.
+LA MOLIERE.
+Quelle obstination ! puisque le Marquis l'aime,
+Et puisqu'il est honnete, elle en prendra les mours,			[405]
+Et sera de la sorte a l'abri des censeurs.
+MOLIERE.
+Et quel est ce Marquis ? Dans le siecle ou nous sommes,
+Il est de faux devots et de faux Gentilshommes :
+Je les ai demasques ces imposteurs cruels,
+Qui meditent le crime a l'ombre des autels.			[410]
+Du bon Monsieur Tartuffe on se souvient encore,
+Et si vous me fachez, craignez tout pour Milflore.
+Jusques a ce moment de Messieurs les Marquis
+Je n'ai peint que les airs. Il court de certains bruits
+Que Milflore est de ceux dont la coupable adresse			[415]
+Usurpe les honneurs qu'on doit a la noblesse.
+Qu'il tremble : avec le temps chacun aura son tour,
+Et je puis peindre aussi les Tartuffes de Cour.
+LA MOLIERE.
+Avec plus de respect parlez d'un homme illustre
+De qui les seuls aieux font la gloire et le lustre.			[420]
+Les bruits qu'on a semes sont faux : avec le Roi
+Il chasse, m'a-t-on dit, et je suis sure, moi,
+Que personne, a la Cour, n'a plus de droits peut-etre
+D'obtenir la faveur et l'oreille du maitre,
+Et que...
+MOLIERE.
+Vous voulez donc qu'il soit de qualite ?			[425]
+J'y consens ; mais sachez une autre verite
+Beaucoup plus importante, et vous perdrez l'envie
+De voir bientot ma fille avec Milflore unie.
+Pour rendre fortune le lien conjugal,
+Il faut, tant que l'on peut, epouser son egal.			[430]
+George Dandin le prouve avec clarte : je pense
+Y montrer les dangers d'une mesalliance.
+Cette piece vous donne une bonne lecon.
+Profitez-en.
+LA MOLIERE.
+Ma foi ! Je n'y vois rien de bon.
+MOLIERE.
+Soit ; mais je ne veux point d'un Marquis pour ma fille ;			[435]
+Un Marquis n'entrera jamais dans ma famille.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je sais que Baron l'aime, et qu'elle aime Baron,
+Et je le lui destine.
+LA MOLIERE.
+Eh quoi ! Ce fanfaron
+Qui, fier de son talent, meprise tout le monde ?
+ISABELLE.
+Votre refus toujours sur son orgueil se fonde ;			[440]
+Mais, Madame, mon pere a des talents aussi,
+Dont il peut etre fier, puisqu'ils ont reussi,
+Et lorsque vous l'aimiez, quand le nom de Moliere
+Surprit et captiva votre ame toute entiere,
+Si l'on vous eut offert un Marquis pour epoux,			[445]
+Auriez vous sans regret renonce...
+LA MOLIERE.
+Taisez vous.
+MOLIERE.
+Et pourquoi, s'il vous plait, la forcer au silence ?
+Une mere doit-elle user de violence ?
+Elle raisonne juste ; il est permis, je crois,
+Lorsque l'on n'a point tort de defendre ses droits.			[450]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ce trait est si naif, que j'en veux faire usage,
+Et je le placerai bientot dans quelqu'ouvrage,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Poursuis, ma chere enfant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Laissez-la s'expliquer,
+Votre fille vous aime et ne veut point manquer
+A ce qu'elle vous doit.
+LA MOLIERE.
+Qu'a-t-elle encore a dire ?			[455]
+ISABELLE.
+Madame, j'ai tout dit.
+LA MOLIERE, a part.
+Je souffre le martyre
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Puisque vous la servez de tout votre pouvoir,
+J'ai des droits qu'a mon tour je veux faire valoir.
+Qu'elle epouse Milflore ou Baron, peu m'importe ;
+Je ne m'en mele plus. Ma crainte la plus forte			[460]
+Est que vous ne tombiez malade gravement,
+Si toujours domine par votre entetement,
+Vous jouez aujourd'hui dans votre Comedie.
+Votre sante n'est pas assez bien retablie
+Pour le role d'Argan. Ainsi je vous previens			[465]
+Qu'aujourd'hui je renonce a jouer dans le mien.
+MOLIERE.
+Madame, la Duparc emplira votre place :
+Elle sait votre role.
+LA MOLIERE.
+Eh bien ! Qu'elle le fasse !
+Qu'elle soit de vos maux et complice et temoin !
+Ne pouvant l'empecher, d'un plus utile soin			[470]
+Je me vais acquitter. On m'a dit la demeure
+Du Docteur Mauvilain.
+MOLIERE.
+Qu'entends-je ?
+LA MOLIERE.
+Dans une heure
+Et peut-etre plus tot vous le verrez ici.
+MOLIERE.
+Ma foi ! C'est me reduire a vous crier, merci.
+Un Medecin !... Ma femme ! O Ciel ! Quelle incartade			[475]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)N'est-ce donc pas assez pour moi d'etre malade ?
+LA MOLIERE.
+Vous avez beau railler.
+MOLIERE.
+Prenez pitie de moi.
+LA MOLIERE.
+Non, non ; un medecin... mais qu'est-ce que je vois ?
+Baron ! je ne saurais supporter sa presence.
+Sortons ; chez le Docteur allons en diligence.			[480]
+SCENE II. Moliere, Baron, Isabelle.
+MOLIERE.
+Qu'est-ce, mon cher Baron ? Vous paraissez reveur.
+BARON.
+Ah ! J'ai sujet de l'etre.
+MOLIERE.
+Et quel est le malheur
+Qui fait naitre chez vous cette melancolie ?
+Daignez me l'expliquer ; votre ami vous en prie.
+BARON.
+Vous connaissez Mondorge ?
+MOLIERE.
+Oui, c'est un comedien			[485]
+Pauvre a la verite ; mais honnete homme.
+BARON.
+Eh bien !
+Il est plus que jamais plonge dans la detresse.
+Je sais qu'aux malheureux votre cour s'interesse,
+Et je viens vous prier...
+MOLIERE, avec un transport de sensibilite.
+Mon camarade ! O ciel !
+Qu'il vienne, qu'il paraisse !
+BARON.
+Il est essentiel			[490]
+Qu'il ne se montre pas. Quand la peine est extreme,
+On craint d'etre importun.
+MOLIERE.
+Doute-t-il que je l'aime ?
+BARON.
+Non ; mais si vous voulez etre son bienfaiteur...
+MOLIERE, tres vivement.
+Si je le veux ! Sur l'heure.
+BARON.
+Epargnez la pudeur :
+Dont son front, a vos yeux se couvrirait peut-etre,			[495]
+D'une rougeur subite il ne serait pas maitre...
+MOLIERE.
+Je vous entends, Baron, et je serai discret.
+Cacher le bienfaiteur, c'est doubler le bienfait.
+Eh bien ! De ses besoins causons meme en silence.
+Qu'est-ce qu'il lui faudrait.
+BARON.
+Il fait son tour de France,			[500]
+Jouant la Comedie a Marseille, a Bordeaux :
+Il depense beaucoup en habits, en chevaux :
+Les voyages sont chers.
+MOLIERE.
+Tres chers. Quels sont ses roles ?
+BARON.
+Ceux de Rois. Il pourrait avec quinze pistoles
+Demain se mettre en route.
+MOLIERE, lui donnant de l'argent.
+Il faut les lui porter.			[505]
+De ma part : les voila.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Puis, il faut ajouter
+Ces vingt-cinq de la votre.
+ISABELLE, lui donnant aussi de l'argent.
+Et de la mienne douze.
+MOLIERE.
+De l'obliger aussi te voila donc jalouse ?
+Oh ! Que j'aime a te voir ces genereux desirs !
+ISABELLE.
+Il me reste l'argent de mes menus plaisirs.			[510]
+Puis-je mieux l'employer ? D'ailleurs je vous imite,
+Et faire son devoir n'est pas un grand merite.
+BARON.
+Vous l'entendez, Moliere. Ah ! Que ces mots sont doux
+Pour mon cour qui l'adore ! Elle est digne de vous ;
+Sans cessee elle le prouve, et ma vive tendresse...			[515]
+MOLIERE.
+Je concois a quel point elle vous interesse :
+Vous pourrez en parler ; mais dans un autre instant.
+Songez que, pres d'ici, Mondorge vous attend,
+Et qu'il faut, avant tout, soulager l'infortune.
+BARON.
+La louange en effet doit paraitre importune			[520]
+A la vertu modeste, et je m'en vais soudain
+Remettre en votre nom...
+MOLIERE, le rappelant apres qu'il a fait quelques pas.
+Attendez ; j'ai dessein
+De joindre un habit neuf a la modique somme
+Que va de notre part toucher cet honnete homme.
+Si j'en crois mes soupcons, il n'est pas trop vetu,			[525]
+Et le froid n'a jamais respecte la vertu.
+L'habit qu'on m'apporta, la semaine derniere,
+Est d'une bonne etoffe et double de maniere
+A resister longtemps aux rigueurs des saisons,
+Sans faire a Laforet connaitre mes raisons,			[530]
+Dites-lui qu'a l'instant je veux qu'elle le donne
+A notre pauvre ami, que c'est moi qui l'ordonne.
+BARON.
+Ah ! Que je suis charme de la commission !
+SCENE III. Moliere, Isabelle.
+MOLIERE.
+Que de delicatesse et de discretion
+Il vient de nous montrer ! Et combien l'un et l'autre			[535]
+Vous m'avez enchante !
+ISABELLE.
+Cet eloge est le votre :
+O mon pere ! C'est vous, vous qui le meritez :
+Vos exemples par nous viennent d'etre imites :
+C'est vous qu'il faut louer.
+MOLIERE.
+Loin de lui faire un crime
+De son ardeur pour vous, je l'aime, je l'estime			[540]
+Plus que jamais, ma fille, et je veux qu'aujourd'hui
+Un fortune lien vous unisse avec lui.
+ISABELLE.
+Si ma mere pourtant a cet hymen s'oppose...
+MOLIERE.
+Et que m'importe a moi que sur tout elle glose ?
+Le Marquis, dont sans cesse elle vante le nom,			[545]
+Montre-t-il, apres tout, les vertus de Baron ?
+Aurait-il d'un ami prevenu la misere ?
+Mondorge est malheureux. Baron le traite en frere,
+Et sans l'humilier, il vole a son secours.
+Que de tels procedes sont rares de nos jours !			[550]
+Le pauvre est dedaigne. Ce n'est que la richesse,
+Le rang ou le credit qu'on loue avec bassesse,
+Et l'on me blamerait de peindre ces travers ?
+Vous n'etes pas au bout. Tremblez, hommes pervers !
+SCENE IV. Un Semainier, Moliere, Isabelle.
+LE SEMAINIER.
+On m'envoie en ces lieux pour savoir si Moliere			[555]
+Dans sa piece jouera.
+MOLIERE.
+Demande singuliere !
+Sans doute ; qu'on allume et qu'on se tienne pret.
+Je vous suis a l'instant.
+SCENE V. Moliere, Isabelle.
+ISABELLE.
+Quoi ! Mon pere, en effet
+Vous jouerez aujourd'hui, lorsqu'avec tant de peine
+Je vous ai vu tantot repeter votre scene ?			[560]
+D'une cruelle toux votre organe affecte
+M'inspire une frayeur...
+MOLIERE.
+Ma fragile sante
+Chaque jour, j'en conviens, s'affaiblit davantage ;
+Mais de l'humanite les maux sont le partage :
+Il faut les supporter ; il faut savoir souffrir,			[565]
+Et l'on vit seulement pour apprendre a mourir.
+ISABELLE.
+On ne le sait que trop : il faut que chacun meure.
+Mais pourquoi, sans sujet, hater sa derniere heure ?
+Pourquoi vous exposer a des perils certains,
+Et ne pas eviter un malheur que je crains ?			[570]
+MOLIERE.
+Je me sens beaucoup mieux que ce matin. J'espere
+Que ma toux est passee.
+ISABELLE.
+Ah ! Croyez-moi, mon pere ;
+Elle peut revenir ; elle peut vous forcer
+D'abandonner la scene, et vous devez penser
+Qu'un pareil accident a des suites cruelles.			[575]
+MOLIERE.
+Non, vous dis-je, calmez ces alarmes mortelles ;
+Rassurez-vous, ma fille, et venez avec moi ;
+On nous attend tous deux.
+ISABELLE.
+Vous jouerez ?
+MOLIERE.
+Je le dois.
+ISABELLE, tombant a ses genoux.
+Non, vous ne jouerez point ; non ; j'ai trop d'epouvante
+Pour vous laisser sortir. Votre fille tremblante			[580]
+Vous conjure a genoux de rester en ces lieux.
+Ecoutez mes terreurs comme un avis des cieux
+Qui veulent conserver un pere a sa famille.
+Ils ne trompent jamais et surtout une fille.
+Si je respire enfin, et si je vois le jour,			[585]
+De vous seul je le tiens, et je dois, a mon tour,
+Veiller sur votre vie. Ah ! Mon pere, de grace,
+Soyez moins insensible au sort qui vous menace,
+Et ne reduisez point mon cour au desespoir.
+Pour la derniere fois je tremble de vous voir.			[590]
+MOLIERE.
+Releve-toi, ma fille ; a ton amitie tendre
+Je ne puis resister, mais daigne au moins m'entendre ;
+Et terminons enfin ces douloureux debats.
+ISABELLE.
+Ils seront termines, si vous ne jouez pas.
+MOLIERE.
+Je le voudrais en vain. Ecoute-moi, te dis-je,			[595]
+Et ne m'interromps pas d'un seul mot, je l'exige.
+Ne de parents obscurs, des mes plus jeunes ans,
+J'eus l'amour de la gloire ; et de mes seuls talents,
+Je voulus emprunter toute ma renommee :
+Un Conquerant l'obtient en guidant une armee,			[600]
+Et chef de Comediens, par de joyeux ecrits
+Je me rendis celebre avant d'etre a Paris,
+J'aurais vu cependant mes tristes destinees
+A deux ou trois succes obscurement bornees,
+Si l'on ne m'eut aide, si l'amour de mon art			[605]
+N'eut de meme enflamme la Duparc, la Bejart,
+La Grange, la de Brie et plus d'un autre encore
+Dont l'amitie m'est chere autant qu'elle m'honore.
+Ces Acteurs renommes, l'un de l'autre rivaux,
+Ont acquis quelque bien ; mais ceux que mes travaux			[610]
+Soutiennent chaque jour et chaque jour font vivre,
+Ceux qui manquent de tout, faut-il que je les livre
+Au besoin qui souvent nait d'un penible emploi ?
+Tous ces infortunes sont peres comme moi ;
+Leur sort est dans mes mains, et par ma negligence			[615]
+Dois-je de leur famille augmenter l'indigence,
+Et les priver enfin du prix de leurs efforts ?
+Ah ! Ne m'expose point a sentir un remords,
+Et laisse moi remplir un devoir necessaire.
+ISABELLE.
+Necessaire ! Et pourquoi ? Pretendent ils, mon pere,			[620]
+Que vous vous immoliez pour conserver leurs jours.
+MOLIERE.
+Non : mais c'est moi qui dois venir a leur secours :
+Je dois etre leur pere encor plus que leur maitre.
+ISABELLE.
+Peuvent-ils l'exiger ? Ils doivent vous connaitre.
+Mondorge partira charge de vos bienfaits,			[625]
+Et l'on n'ignore pas que toujours les effets
+Suivent votre promesse.
+MOLIERE.
+Obliger de sa bourse,
+Est un petit merite ; et l'homme sans ressource
+A des droits infinis sur les cours genereux.
+Ce n'est pas l'argent seul qui sert les malheureux.			[630]
+Ma fille, on donne plus quand on a l'ame bonne ;
+Payer de ses talents, payer de sa personne,
+Voila, dans ce moment, quel est mon vrai devoir.
+ISABELLE.
+Ainsi mes pleurs sur vous n'auront aucun pourvoir.
+SCENE VI. Moliere, Isabelle, Lesbin.
+LESBIN, une lettre a la main.
+De Mignard a l'instant on apporte une lettre.			[635]
+.............................................
+MOLIERE.
+Encore un embarras !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous savez, mon cher Moliere, que je travaille depuis longtemps a votre portrait ; l'amitie qui nous unit et votre grande reputation me faisaient une loi d'y mettre tout le soin dont je suis capable, et cette loi a ete ma regle unique : je l'ai acheve enfin, et si vous voulez m'attendre chez vous aujourd'hui, je vous le ferai porter, afin que vous m'en disiez votre avis. Ce n'est jamais en vain que je vous ai consulte sur mes ouvrages. Si vous trouvez a redire a celui ci, je le retoucherai et vous prouverai par ma docilite les sentiments respectueux et tendres que vous m'avez toujours inspires.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour attendre Mignard,
+Je ne resterai point. Qu'on aille de ma part
+Le lui faire savoir :
+ISABELLE.
+Eh quoi ! Lorsqu'il desire... !
+MOLIERE.
+Ma fille, vous avez sur moi beaucoup d'empire.			[640]
+Quand vous avez voulu me retenir ici,
+Je vous ai refusee et votre mere aussi,
+Et, pour voir si Mignard m'a peint d'apres nature,
+J'y resterais ! Non, non ; ce serait faire injure
+A ma fille, a ma femme, et je connais leurs droits :			[645]
+Ainsi que l'amitie la nature a ses lois.
+SCENE VII. Baron, Moliere, Isabelle.
+BARON.
+Je quitte Laforet, et ma surprise est telle,
+Qu'a peine j'en reviens. Rien n'egale son zele.
+Cette fille est honnete et vous aime vraiment.
+MOLIERE.
+Oui ; mais, pour trop m'aimer, elle fait mon tourment.			[650]
+A me desobeir, elle passe sa vie :
+Je me brouille avec elle et me reconcilie
+Au moins dix fois le jour.
+BARON.
+Son obstination
+Plus que jamais eclate en cette occasion.
+Malgre vous, de vos droits elle veut faire usage.			[655]
+Mondorge allait partir : il suspend son voyage.
+Laforet ne veut point lui remettre l'habit
+Que vous lui destinez.
+MOLIERE.
+Et qu'est-ce qu'elle dit
+Pour ses raisons ?
+BARON.
+Que sais-je ? Elle abonde en paroles.
+MOLIERE.
+Mais encor ?
+BARON.
+Ces raisons vous paraitront frivoles,			[660]
+Et j'y vois neanmoins un air de verite.
+Vous etes trop humain, trop rempli de bonte,
+A ce qu'elle pretend. Elle se plaint sans cesse
+Que vous ne sentez point le prix de la richesse,
+Que vous vous ruinez ; et, pour vous empecher...			[665]
+MOLIERE.
+Eh bien, il faut que j'aille, a mon tour la precher.
+Toujours me controler ! Je lui ferai connaitre
+Si l'on remplit ainsi les ordres de son maitre...
+Repetez cependant la scene, ou, de tous deux,
+Quand je feins d'etre mort, en regrets vertueux			[670]
+S'exhale la douleur et touchante et sincere :
+Il faut la bien savoir ; rien n'est plus necessaire ;
+SCENE VIII. Isabelle, Baron.
+ISABELLE, faisant le role d'Angelique dans le Malade Imaginaire.
+O Ciel ! Quelle infortune ! Quelle atteinte cruelle ! Helas ! Faut-il que je perde mon pere, la seule chose qui me restait au monde, et qu'encore, pour un surcroit de desespoir, je le perde dans un moment ou il etait irrite contre moi ! Que deviendrai je, malheureuse ! Et quelle consolation trouver apres une si grande perte ?
+SCENE XXI, du Malade Imaginaire. ANGELIQUE, CLEANTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLEANTE.
+Qu'avez-vous donc, belle Angelique, et quel malheur pleurez-vous ?
+ANGELIQUE.
+Helas ! Je pleure tout ce que, dans la vie, je pouvais perdre de plus cher et plus precieux. Je pleure la mort de mon pere.
+CLEANTE.
+O Ciel ! Quel accident ! Quel coup inopine ! Helas ! Apres la demande que j'avais conjure votre oncle de faire pour moi, je venais me presenter a lui, et tacher par mes respects et par mes prieres, de disposer son cour a vous accorder a mes voux.
+ANGELIQUE.
+Ah ! Cleante, ne parlons plus de rien : laissons la toutes les pensees du mariage. Apres la perte de mon pere, je ne veux plus etre du monde, et j'y renonce pour jamais. Oui, mon pere, si j'ai resiste tantot a vos volontes, je veux suivre du moins une de vos intentions, et reparer par la le chagrin que je m'accuse de vous avoir donne.
+BARON, a part.
+Quel naturel ! j'en suis dans un etonnement
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qui ne peut s'exprimer. Permettez qu'un moment
+J'interrompe mon role. Eh quoi ! Mademoiselle,			[675]
+Est-ce que vous sentez une douleur reelle ?
+SCENE VIII. Baron, Isabelle.
+BARON.
+Au desordre qui regne en vos sens eperdus,
+On dirait qu'en effet votre pere n'est plus.
+Ce n'est plus l'art enfin ; c'est la nature meme.
+ISABELLE.
+Soyez moins etonne. Sur ce pere que j'aime			[680]
+J'ai des pressentiments qui me glacent d'effroi.
+Il souffre ; il est malade, et je ne sais pourquoi
+Je crains que, des ce soir, ne nous l'enleve.
+BARON.
+La meme crainte, helas ! dans mon ame s'eleve.
+Il faudrait l'empecher de jouer aujourd'hui.			[685]
+ISABELLE.
+Et peut-on sur ce point rien obtenir de lui ?
+Il vient de rejeter mes voux et ma priere.
+SCENE IX. Isabelle, Baron, Le Docteur Mauvilain,
+LE DOCTEUR.
+Je suis, vous le savez, un ami de Moliere,
+Et, quoique Medecin, j'ai souvent le bonheur
+De le voir, de l'entendre.
+ISABELLE.
+Ah ! Monsieur le Docteur,			[690]
+Qu'a propos vous venez ! Une toux obstinee
+L'a fait beaucoup souffrir toute la matinee.
+Il faudrait lui donner quelque ordonnance.
+LE DOCTEUR.
+Moi !
+Je m'en garderai bien : il rirait trop, ma foi,
+Si je voulais droguer sa poitrine oppressee.			[695]
+Un semblable projet est loin de ma pensee.
+Son etat cependant m'alarme. Si j'en crois
+Votre mere qui sort a l'instant de chez moi,
+Sa vie est en danger : des symptomes funestes,
+Depuis deux ou trois mois en menacent les restes.			[700]
+Je voudrais le sauver ; que dis-je ? Il est certain
+Que, s'il refuse encor de voir un medecin,
+C'est un homme perdu.
+ISABELLE, a Baron.
+Vous l'entendez ?
+LE DOCTEUR.
+Je tremble
+Qu'il ne rentre a l'instant et ne nous voie ensemble.
+Il croirait que je viens ici pour le guerir.			[705]
+Assurez-le donc bien qu'il s'expose a perir,
+Si d'Argan, en ce jour, il veut jouer le role.
+J'ai lu dans Galien et la moderne ecole
+De Salerne... Qu'entends-je ? Il arrive en toussant.
+Donnez-lui cet avis ; il est interessant.			[710]
+SCENE X. Isabelle, Moliere, Baron.
+MOLIERE.
+Mondorge part content, et je le suis moi-meme.
+J'ai rempli mon devoir envers l'ami que j'aime.
+Mais un autre me reste. Avez-vous repete ?
+ISABELLE.
+Oui, mon pere.
+MOLIERE.
+Baron est encor affecte
+De quelque grand chagrin.
+BARON.
+O mon ami ! Mon maitre			[715]
+Pourrais-je m'empecher de le faire paraitre.
+Je tremble pour vos jours. Vous savez que d'Argan
+Le role est difficile et surtout fatigant,
+Et vous vous disposez a le jouer !
+MOLIERE.
+Sans doute.
+Quand on fait son devoir, qu'est-ce que l'on redoute ?			[720]
+Le devoir avant tout.
+BARON.
+Votre devoir n'est pas
+D'affronter la douleur, d'insulter au trepas ;
+Par de travaux nombreux la source de la vie,
+Se montrant, chaque jour, en vous plus affaiblie
+Semble vous commander un utile repos.			[725]
+MOLIERE.
+Lorsqu'on a quelque droit a des lauriers nouveaux,
+Et qu'on n'est pas encor au bout de sa carriere,
+On pourrait lachement retourner en arriere !
+Non, non ; je ne suis point de ces faibles esprits
+Qu'apaise un peu de gloire obtenue a vil prix.			[730]
+La gloire est une soif qui toujours me devore,
+Et je voudrais mourant m'en abreuver encore.
+Ce n'est pas que je tende au pueril honneur
+D'etre partout cite comme un sublime auteur.
+Non, je veux meprisant une vaine fumee,			[735]
+Devoir a la vertu toute ma renommee.
+D'ailleurs, mes chers enfants, ensemble nous jouerons !
+Vous serez pres de moi : qu'ai-je a craindre ? Partons.
+SCENE XI. Isabelle, Moliere, Baron, Chapelle.
+CHAPELLE.
+Non, non ; vous resterez.
+MOLIERE.
+Oh ! Quel nouveau supplice !
+CHAPELLE.
+Lorsque vous repetiez, cache dans la coulisse,			[740]
+Je vous ai vu tantot sur vos genoux tremblants
+Vous soutenir a peine, et meme, en ces instants
+Vous ne m'annoncez pas une sante bien forte.
+Vous avez l'air souffrant.
+MOLIERE, avec un commencement de colere.
+Morbleu ! Que vous importe ?
+Si je souffre, tant mieux. De quoi vous melez-vous ?			[745]
+Voulez-vous qu'a la fin, je me mette en courroux ?
+Aisement pour cela ma force se ranime.
+CHAPELLE.
+C'est moi qui vous ai fait quitter votre regime :
+Votre femme tantot me l'a dit aigrement,
+Et s'il vous arrivait quelque triste accident,			[750]
+On m'en accuserait. Dans sa douleur mortelle,
+Chacun de vos amis s'en prendrait a Chapelle,
+Et quoique je ne sois rien moins que medecin,
+Chacun verrait en moi peut-etre un assassin :
+On dirait hautement, il a tue Moliere,			[755]
+Pour l'avoir oblige de vivre a sa maniere
+Chacun me maudirait ; et vous ne voulez pas
+Qu'ici vous retenant !...
+MOLIERE, lui tendant les bras dans lesquels il se jette.
+Eh bien ! Entre mes bras
+Jetez-vous, mon ami. Si le Ciel l'abandonne,
+Et s'il meurt aujourd'hui, Moliere vous pardonne ;			[760]
+Mais je ne mourrai point. Dissipez votre effroi :
+Le Ciel n'est point injuste ; il veillera sur moi.
+SCENE XII.
+CHAPELLE, seul.
+Il compte vainement se soustraire a mon zele.
+Suivons ses pas, volons ou l'amitie m'appelle.
+
+
+			ACTE III
+
+
+SCENE PREMIERE.
+CHAPELLE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Laforet ! Laforet ! Ou donc est cette fille ?			[765]
+Quel desespoir pour elle et toute la famille !
+SCENE II. Laforet, Chapelle.
+LAFORET.
+Vous avez appele, je crois.
+CHAPELLE.
+Certainement.
+Je viens d'etre temoin d'un triste evenement,
+Moliere etait malade, et, malgre nos instances,
+Il a voulu jouer.
+LAFORET.
+Je sommes dans les transes.			[770]
+Ah ! Monsieur, j'ons bien peur qu'il ne se trouve mal.
+CHAPELLE.
+Votre crainte est fondee : en ce moment fatal,
+Il est dans un etat !...
+LAFORET, tres alarmee.
+Ah ! Notre pauvre maitre !
+J'allons le secourir.
+CHAPELLE, la retenant.
+Il va bientot paraitre.
+Restez ; il est conduit par sa fille et Baron,			[775]
+Et peut avoir besoin de vous dans la maison.
+LAFORET.
+Et d'ou vient son desastre ?
+CHAPELLE.
+A la fin de la piece,
+Je l'ai vu pale et pret a tomber en faiblesse
+En prononcant Juro : des lors il aurait du
+De la scene sortir, et laisser suspendu			[780]
+Un divertissement a sa sante funeste ;
+Mais, malgre ses douleurs, il continue, il reste :
+Pour cacher sa souffrance au public assemble,
+Il redouble d'efforts, et bientot accable,
+Quand la toile est baissee, il chancelle, il succombe :			[785]
+J'accours, et sans vigueur entre mes bras il tombe,
+En proie a des tourments qu'on ne peut apaiser :
+Un crachement de sang finit par l'epuiser ;
+Mais j'entends quelque bruit... En ces lieux on l'amene.
+Un fauteuil ? Des coussins ?... Comme il marche avec peine !			[790]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III. Moliere soutenu par sa fille et Baron qui l'asseyent dans le fauteuil, Chapelle, Isabelle, Baron.
+MOLIERE.
+O combien de vos soins je suis reconnaissant !
+Ma fille, la douleur, sous son bras tout puissant,
+Vient de courber ma tete. Un interet si tendre,
+Le plaisir de vous voir, celui de vous entendre,
+Tout fait rentrer l'espoir dans mon cour alarme.			[795]
+Pour vous aimer encor, je me sens ranime.
+Mais ou donc est Chapelle ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! pardon, ma paupiere
+Ne peut que par degres s'ouvrir a la lumiere.
+Pardon, mon cher ami, je ne vous voyais pas...
+Et ma femme en ces lieux n'a point porte ses pas ?			[800]
+CHAPELLE.
+Elle n'est point encor rentree.
+MOLIERE.
+Ah ! puisse-t-elle
+Ignorer mes tourments ! Dans l'exces de son zele
+Elle m'accablerait de reproches. Je veux
+Epargner, s'il se peut, des chagrins a tous deux.
+D'ailleurs mon accident n'a rien que je redoute,			[805]
+Et sur ma guerison je ne suis plus en doute.
+De vos soins, mes amis, elle sera l'effet.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais qui frappe si fort ? Vois un peu Laforet.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oui, j'espere demain remonter sur la scene :
+Ma force est revenue, et j'ai la tete saine.			[810]
+LAFORET, revenant.
+Laisserez vous entrer le Docteur Mauvilain ?
+MOLIERE.
+Qu'il entre comme ami, non comme Medecin.
+SCENE IV. Laforet, Chapelle, Isabelle, Moliere, Baron, Le Docteur.
+LE DOCTEUR.
+Ma visite n'a pas le bonheur de vous plaire ;
+Je le soupconne au moins. A mon art salutaire
+Moliere n'a voulu jamais ajouter foi.			[815]
+MOLIERE.
+Le grand art d'Hippocrate est sans pouvoir sur moi,
+J'en conviens ; mais toujours a l'amitie fidele,
+Mon plaisir le plus doux fut de vivre pour elle.
+Dites moi donc comment vous vous portez.
+LE DOCTEUR.
+Fort bien.
+MOLIERE.
+Vos enfants, votre femme ?			[820]
+LE DOCTEUR.
+A merveille : je viens...			[820]
+MOLIERE, l'interrompant.
+Vous aviez un proces de grande consequence.
+Quand le jugera-t-on ?
+LE DOCTEUR.
+La prochaine seance.
+Il faudrait...
+MOLIERE, l'interrompant.
+Votre fille est aimable. Un epoux
+Lui conviendrait je crois, vous en occupez-vous ?
+LE DOCTEUR.
+Oui ; mais un autre objet aupres de vous m'attire.			[825]
+Souffrez que mes conseils... Quoi ! je vous vois sourire !
+Moliere, il n'est plus temps de plaisanter sur nous.
+MOLIERE, souriant.
+Ah ! Nous sommes perdus, s'il se met en courroux.
+Rien n'est plus dangereux qu'un docteur en colere.
+LE DOCTEUR.
+Fort bien ; a mes depens cherchez a vous distraire.			[830]
+Dans ce joyeux projet je vous ai seconde ;
+Vous en souvenez-vous ? Par ma science aide
+Vous avez employe nos bizarres formules
+Et des mots qui souvent nous rendent ridicules,
+Mais vous vous portiez bien, et je vous vois souffrir			[835]
+Raillez-moi donc ; et moi, je viens pour vous guerir.
+ISABELLE, a Moliere.
+Son zele doit vous plaire.
+MOLIERE, a Isabelle.
+Oui, j'aime sa franchise.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Me guerir ! Et comment ?
+LE DOCTEUR.
+Il faudrait sans remise
+Vous saigner, vous purger.
+MOLIERE, souriant.
+Saignare, purgare.
+LE DOCTEUR.
+Prendre au moins un remede.
+MOLIERE.
+Et clisterisare.			[840]
+A merveille, Docteur ! l'ordonnance est hardie.
+Est-ce que nous jouons encor la Comedie ?
+Et faites-vous ici le role de Purgon ?
+Vous y reussirez ; vous prenez son jargon,
+Et meme, en ce moment, vous avez sa figure :			[845]
+Vous la representez, ma foi ! d'apres nature.
+LE DOCTEUR, a part.
+Ah ! Quel homme ! Il voit peu son extreme danger.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quel plaisir trouvez-vous a me faire enrager ?
+Moliere, je vous aime, et sur ce qui vous touche
+Vous essayez en vain de me fermer la bouche.			[850]
+Riez, si vous voulez, encor de mon sermon.
+La region du foie et celle du poumon
+Est chez vous attaquee, et j'ai tout lieu de craindre...
+MOLIERE.
+Eh bien mon cher Docteur, il n'est plus temps de feindre.
+Vous savez ce qu'un jour je repondis au Roi			[855]
+Qui me parlait de vous. Je suis de bonne foi,
+Et, sans y rien changer, je vais vous le redire :
+Suivez vous ses avis ? Non, repliquai-je, Sire
+Et je gueris toujours. Je pense qu'aujourd'hui
+Il en sera de meme. Un doux espoir m'a lui			[860]
+Des que j'ai vu ma fille,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et ce cher camarade
+S'interesser a moi. Puis-je etre encor malade ?
+De tout ce qui m'est cher, je me vois entoure.
+C'est le cour qui fait vivre, et par lui je vivrai.
+LE DOCTEUR.
+Je le desire. Au moins daignez, mon cher Moliere,			[865]
+Souffrir que je vous fasse encore une priere.
+Le grand air peut vous nuire : il faudrait promptement
+Aller vous renfermer dans votre appartement,
+Et la...
+MOLIERE.
+C'est bien parler, et pour le coup je pense
+Qu'enfin il vous echappe une bonne ordonnance.			[870]
+Conduisez-moi, ma fille, et vous, mon cher Baron,
+Restez pour recevoir ma femme : il serait bon
+De lui cacher l'etat ou son epoux se trouve.
+Malgre son humeur brusque, elle m'aime, et j'eprouve
+Un chagrin si reel, quand je la vois souffrir,			[875]
+Qu'a ses yeux maintenant je craindrais de m'offrir.
+BARON.
+A vos moindres desirs vous me verrez souscrire.
+CHAPELLE, a Laforet et au Docteur.
+Pour nous, suivons ses pas, et, quoiqu'il puisse dire,
+Allons lui prodiguer nos utiles secours
+Et tachons, malgre lui, de prolonger ses jours.			[880]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V.
+BARON, seul.
+Moliere jusqu'au bout garde son caractere.
+Il hait les Medecins, et quand leur ministere
+Pourrait de ses douleurs alleger le fardeau,
+Il les plaisante meme aux portes du tombeau.
+Il voit sans s'emouvoir la fin de sa carriere.			[885]
+SCENE VI. Un domestique, Baron.
+LE DOMESTIQUE.
+Monsieur de Montausier, inquiet sur Moliere,
+Vient ici pour le voir.
+BARON.
+Monsieur de Montausier !
+Qu'il sera doux pour moi de le remercier.
+Il est si vertueux ! Montausier est un homme
+Tel qu'on en vit jadis aux beaux siecles de Rome.			[890]
+SCENE VII. Baron, Montausier.
+MONTAUSIER.
+De Moliere toujours j'estimai les talents,
+Et la plus juste crainte a passe dans mes sens,
+Lorsqu'une toux funeste, a la fin de son role,
+A failli tout-a-coup lui couper la parole.
+Comment va-t-il ? Ici, moi-meme, expres je viens			[895]
+Pour le savoir.
+BARON.
+Helas ! Il ne va pas trop bien :
+MONTAUSIER.
+Tant pis ! Est-ce qu'il est en danger de la vie ?
+BARON.
+Nous le craignons : sa force est presque aneantie.
+Heureusement pour lui qu'il ne voit point son mal,
+Et qu'il marche, en riant, sur l'abime fatal.			[900]
+MONTAUSIER.
+Ce serait pour la France une perte reelle
+Que la mort de Moliere, et ma frayeur est telle,
+Qu'ici je resterai jusqu'a ce qu'on m'ait dit
+S'il est mieux ou plus mal.
+BARON.
+Vous en serez instruit
+Incessamment, je pense, et de la meme crainte			[905]
+Si je ne sentais point aussi mon ame atteinte,
+J'irais...
+MONTAUSIER.
+Non, demeurez : respectons les douleurs
+Du malheureux qui souffre, et cachons-lui nos pleurs.
+BARON.
+A quel point votre cour partage nos alarmes !
+MONTAUSIER.
+Qui plus que le genie aurait droit a mes larmes ?			[910]
+SCENE VI.I. Montausier, Baron, Pirlon.
+PIRLON, d'un air hypocrite et d'un ton mielleux.
+Comment se porte-t-il ?
+BARON.
+C'est vous, Monsieur Pirlon !
+Ciel ! Et que venez-vous faire en cette maison ?
+PIRLON.
+Moliere m'a jadis immole sur la scene ;
+Je m'en souviens encor ; mais je n'ai point de haine.
+Dieu veut que l'on pardonne a tous ses ennemis ;			[915]
+Qu'a ses moindres devoirs on se montre soumis,
+Et je viens pour savoir comment va le cher homme.
+BARON.
+Assez mal.
+PIRLON.
+Ah ! Tant pis ! Ses talents qu'on renomme
+Et qu'admire sans cesse un monde peu chretien,
+Ont pu scandaliser pourtant les gens de bien :			[920]
+Moliere a, je l'avoue, un talent agreable,
+Mais de combien d'erreurs il s'est rendu coupable !
+MONTAUSIER, bas a Baron.
+Quel est cet insense qui raisonne si mal ?
+BARON, bas a Montausier.
+C'est Tartuffe.
+MONTAUSIER.
+Tartuffe !
+BARON.
+En propre original.
+MONTAUSIER.
+Laissez-moi lui parler : laissez-moi le confondre.			[925]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)On devrait vous punir, au lieu de vous repondre.
+Est ce ainsi que l'on vient insulter un mourant ?
+Votre discours m'indigne autant qu'il me surprend.
+PIRLON.
+On reconnait, Monsieur, que vous etes du monde,
+Que sur ses vains plaisirs votre plaisir se fonde			[930]
+Et que la Comedie a pour vous mille appas.
+MONTAUSIER.
+Oui, j'aime le theatre, et ne m'en cache pas.
+J'ai toujours honore la noble poesie,
+Et l'on sait que je hais surtout l'hypocrisie.
+Mon nom est Montausier.
+PIRLON, s'inclinant.
+Monsieur le Duc, eh quoi			[935]
+Un homme tel que vous, en faveur pres du Roi,
+Vient chez un comedien dont l'indiscrete audace
+Meriterait...
+MONTAUSIER.
+Tout doux : expliquons-nous, de grace,
+Sans mettre en nos discours de partialite
+Je cheris les beaux arts moins que la verite.			[940]
+En quoi donc, s'il vous plait, Moliere est-il coupable ?
+Et quel crime a commis ce genie admirable ?
+Serait-ce en vous jouant qu'il a blesse l'honneur.
+Et lui reprochez-vous son sublime imposteur ?
+Mais dans le Misanthrope il ma joue moi-meme ;			[945]
+On me l'assure au moins, et cependant je l'aime,
+Autant que je l'estime, et loin de l'accabler,
+J'ai dit qu'a son heros je voudrais ressembler.
+Oui, Monsieur, ses talents ont sur moi tant d'empire,
+Que de moi-meme enfin je lui permets de rire,			[950]
+Et s'il peut des humains corriger les travers,
+Je defendrai toujours et sa prose et ses vers.
+PIRLON.
+Je suis pour mon prochain tout rempli d'indulgence,
+Et je crois cependant qu'il n'est personne en France,
+Qui plus que cet auteur ait offense le Ciel.			[955]
+Dans mes discours, Monsieur, je ne mets point de fiel.
+MONTAUSIER.
+Je le vois.
+PIRLON.
+Mais je dois denoncer un coupable
+On fait aimer le vice en le rendant aimable,
+Et Moliere partout le couronne de fleurs.
+MONTAUSIER.
+J'ai cru qu'il le peignait des plus noires couleurs ;			[960]
+Et de vous le prouver il me serait facile.
+PIRLON.
+Quoi ! Vous approuveriez les graces de son style ?
+MONTAUSIER.
+Et pourquoi non, Monsieur ? Est-ce un crime a vos yeux
+Que d'ecrire en vers doux, aises, harmonieux ?
+PIRLON.
+Je ne dis pas cela ; mais ce qu'en lui je blame,			[965]
+C'est de les employer a decrire la flamme
+D'un amour tout mondain, et que, dans son courroux,
+Punit le juste Ciel de notre encens jaloux.
+MONTAUSIER.
+Que vous connaissez mal la divine clemence,
+Si vous imaginez qu'un tendre amour l'offense !			[970]
+Nommez, nommez, plutot la fausse piete,
+Et l'infame avarice et l'orgueil indompte,
+Et l'altier misanthrope et ses humeurs bizarres,
+Et la presomption de ces tuteurs barbares,
+Qui pensant que, pour eux, Dieu crea la beaute,			[975]
+La tiennent dans les fers, et dont l'autorite,
+S'elevant quelquefois jusques a la licence,
+Pour la premiere fois fait rougir l'innocence.
+Voila, Monsieur, voila les vices, les erreurs
+Qui peuvent provoquer les celestes rigueurs ;			[980]
+Voila ceux que poursuit, que terrasse Moliere !
+Ces monstres, parmi nous, levaient leur tete altiere
+Au glaive de Themis tout fiers d'etre echappes
+D'un joyeux anatheme il les a tous frappes :
+Ils ont senti les traits de sa verve feconde,			[985]
+Et, comme un autre Alcide, il a purge le monde.
+PIRLON.
+J'ai peine a concevoir ce prodige inoui
+Et d'un eclat trompeur je vous crois ebloui.
+Moliere, a vous entendre, en attaquant les vies,
+a tout le genre humain a rendu des services.			[990]
+Je doute cependant qu'il ait un but moral.
+MONTAUSIER.
+Il n'a point, j'en conviens, cet orgueil doctoral,
+Qui distingue souvent les charlatans en titre :
+Entre le Ciel et l'homme il craindrait d'etre arbitre.
+Il ne vient point arme d'un zele doucereux,			[995]
+Saintement abreger les jours d'un malheureux,
+Lui faire le proces a son heure derniere,
+Et du Ciel pour jamais lui fermer la carriere ;
+Mais quiconque le lit avec attention,
+Pourrait-il ne pas voir que son intention			[1000]
+Est celle d'un mortel d'une probite rare ?
+C'est en le punissant qu'il corrige l'avare :
+Il fait plus dans Tartuffe : il montre avec clarte
+Jusqu'ou mene l'exces de la credulite ;
+Et qui n'admire point dans les Femmes Savantes			[1005]
+De l'abus de l'esprit ces peintures vivantes,
+Et ces traits avec art sur le sexe lances,
+Qui lui disent tout haut : renoncez, renoncez
+A l'erudition dont le vain etalage
+Vous rend plus orgueilleux, sans vous rendre plus sage ?			[1010]
+Ainsi parle Moliere. On voit sous ses pinceaux
+Pele-mele tomber les mechants et les sots.
+Le vice, a son aspect, d'epouvante recule.
+PIRLON.
+Oui ; mais il a rendu la vertu ridicule,
+Et dans le Misantrope on est fache de voir			[1015]
+Alceste bafoue. Fidele a son devoir
+Alceste le remplit avec exactitude.
+MONTAUSIER.
+Et ne voyez-vous pas qu'une vertu trop rude ;
+Fatigante, a la longue, importune les yeux ;
+Qu'il faut hair le vice et non les vicieux,			[1020]
+Et que Moliere enfin, dans cette ouvre admirable
+Veut qu'on soit vertueux, sans cesser d'etre aimable,
+Que l'on soit indulgent, et que l'amenite
+Est le premier lien de la societe ?
+Mais j'entends quelque bruit : sans doute on va m'apprendre...			[1025]
+SCENE IX. Chapelle, Isabelle, Montausier, Baron, Pirlon.
+BARON.
+Ciel! Isabelle en pleurs ! A quoi dois-je m'attendre !
+ISABELLE, au desespoir, a Chapelle qui la suit.
+Laissez-moi, laissez-moi ; je n'ai plus qu'a mourir.
+Je viens de voir mon pere a son dernier soupir,
+Et sa fille, s'il meurt, n'aspire qu'a le suivre.
+CHAPELLE.
+Pourquoi ce desespoir ?... Moliere encor peut vivre,			[1030]
+Et la Parque n'a point encor tranche ses jours,
+Esperez tout de l'art dont les heureux secours...
+ISABELLE.
+Je n'espere plus rien.
+BARON.
+O ma chere Isabelle !
+Chassez de votre cour cette crainte mortelle,
+Et souffrez que nos soins...
+ISABELLE.
+Ciel ! Ne m'epargnez pas,			[1035]
+Si mon pere, en ce jour, doit subir le trepas,
+Et terminez aussi ma trop longue carriere !
+SCENE X. Chapelle, Isabelle, Baron, Montausier, Pirlon, Lesbin.
+LESBIN.
+Mignard envoie ici le portrait de Moliere.
+ISABELLE.
+Le portrait de mon pere ! Ah ! Qu'on offre a mes yeux
+Sans tarder un moment un don si precieux.			[1040]
+LESBIN.
+Et Mignard va bientot venir ici lui-meme.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ISABELLE, le considerant.
+C'est mon pere ! c'est lui ! Dans mon malheur extreme
+Je puis encor le voir... De grace, laissez-moi
+Seule avec ce portrait.
+CHAPELLE.
+Son ordre est une loi !
+Sortons ; ne troublons pas sa douleur davantage.			[1045]
+L'infortune est sacree.
+SCENE XI.
+ISABELLE, seule, parlant au portrait.
+O respectable image !
+Toi, qui m'offres les traits du pere le plus cher,
+Mes larmes devant toi peuvent donc s'epancher !
+Le sort va me ravir ce pere que j'adore.
+Tu me restes, par toi, je le revois encore,			[1050]
+Et je puis, a mon gre, t'exprimer mes douleurs !
+Que ne peux-tu sur toi sentir couler mes pleurs !
+Entendre mes soupirs, et leur repondre meme !
+D'autres vont t'admirer ; moi, je fais plus, je t'aime
+Et je voudrais jamais ne m'eloigner de toi.			[1055]
+O portrait revere ! Sois toujours avec moi !
+L'amitie te crea pour calmer ma souffrance.
+En proie a tous les maux, n'ayant plus d'esperance
+Sans doute a ma tendresse un miracle etait du.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tel qu'il est dans mon cour le pinceau l'a rendu.			[1060]
+SCENE XII. Chapelle, La Moliere, Isabelle.
+LA MOLIERE, en pleurs.
+Pleure, pleure, ma fille, a ta douleur sincere
+Je viens meler la mienne. Il est trop vrai ; ton pere.
+ISABELLE, avec un cri dechirant et s'evanouissant dans les bras de sa mere
+Ah ! Ce mot a suffi pour me donner la mort.
+SCENE XIII. Chapelle, Baron, Isabelle, La Moliere, plusieurs Acteurs de la troupe.
+CHAPELLE.
+Que vois-je ?... O triste effet de la rigueur du sort !
+La mere est dans les pleurs : la fille evanouie...			[1065]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Madame, hatez-vous de la rendre a la vie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et vous conduisez-les dans leur appartement.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIV et derniere.
+CHAPELLE, aux acteurs de la troupe de Moliere.
+Vous, amis de Moliere, et dont, en ce moment,
+Je partage la peine, enlevez cette image ;
+C'est le reste cheri d'un grand homme, d'un sage :			[1070]
+Il attend les honneurs qui sont dus aux talents,
+Retournons au theatre, et de nobles accents
+Faisons-le retentir en l'honneur
+Couronnons de lauriers une tete si chere
+Et qu'une apotheose y consacre a jamais			[1075]
+Ses vertus, son genie et surtout nos regrets.
+
+	==================================================

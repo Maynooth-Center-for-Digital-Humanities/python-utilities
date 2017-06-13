@@ -1,0 +1,943 @@
+********************************************************
+	DC.Title                  = LE DIVORCE, COMEDIE.
+	DC.Author                 = REGNARD, Jean-Francois
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:27.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/REGNARD_DIVORCE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE DIVORCE COMEDIE EN TROIS ACTES1688
+Jean-Francois Regnard
+	
+	
+	Represente pour le premiere fois le 17 mars 1688.
+	Presentation
+Quel amusement que ce "Divorce" ! Tout dabord, voila un prologue ou Arlequin s'excuse de ne pas pouvoir faire jouer la comedie. Le premier acte est tout en farce, dont une premiere scene franco-italienne originale qui donne l'impression au public d'etre bilingue, suivie d'une scene entre d'anciens comperes de galeres qui se retrouvent. Enfin, la scene VII ressemble a la lecon de musique du Bourgeois gentilhomme.
+Pendant le second acte ou l'on s'inquiete de ce que l'on joue sur le theatre de la representation, le comique difficile a comprendre pour un contemporain vient d'une mise en abime de la scene theatrale animee par une critique des genres du spectacle (Acte II, scene 7). 
+Enfin l'acte III consiste en un proces aussi distrayant que plaisant, plus encore que celui des "Plaideurs" de Jean Racine, piece qui fut cree vingt ans auparavant.
+En faisant l'enumeration des parties remarquables, on imagine un bric-a-brac sans queue ni tete et c'est ce qu'est cette comedie ; le talent de l'auteur lui a permis d'assembler judicieusement l'ensemble dont le fil rouge se trouve dans le titre. Cette piece, d'une facture simple animee par des personnages de la comedie italienne est representative de la comedie "post-molieresque" du regne de Louis XIV. Elle nous fait regretter que Regnard soit tombe dans un quasi oubli.
+Les comediens italiens qui occupaient l'Hotel de Bourgogne en furent chasse en mai 1697 et pries de retourner dans leur pays, puis ils revinrent en 1717 apres le mort de Louix XIV (1715).
+P. Fievre, octobre 2009.
+PERSONNAGES DU PROLOGUE
+JUPITER, Pierrot.
+MERCURE, Mezzetin.
+ARLEQUIN.
+PERSONNAGES DE LA COMEDIE
+MONSIEUR SOTINET, vieillard, mari d'Isabelle. Le Docteur.
+ISABELLE, femme de Sotinet.
+AURELIO, frere d'Isabelle.
+ARLEQUIN, valet d'Aurelio.
+COLOMBINE, suivante d'Isabelle.
+MEZZETIN, valet de M. Sotinet.
+PIERROT, valet de M. Sotinet.
+PASQUARIEL, valet de M. Sotinet.
+Monsieur de TROTENVILLE, maitre a danser. Arlequin.
+Monsieur AMILARE, maitre a chanter. Mezzetin.
+Le Chevalier de FONDSEC, Gascon. Arlequin..
+LAQUAIS.
+La scene est a Paris.
+
+
+
+			PROLOGUE
+
+
+SCENE I.
+ARLEQUIN, seul, sortant en colere.
+He ! Que diable, messieurs, ne sauriez-vous mieux prendre votre temps pour etre malades ? Cela est de la derniere impertinence, de se trouver mal quand il faut gagner de l'argent. Que voulez-vous que je fasse de tout ce monde-la ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Messieurs, ce que je vais vous dire vous deplaira peut-etre ; mais, en verite, j'en suis plus fache que vous, et personne n'y perd tant que moi.Nous ne pouvons pas jouer la comedie aujourd'hui ; voila notre portier qui vient de se trouver mal, et Pantalon, qui devait faire un role de Patrocle, est indispose. On va vous rendre votre argent a la porte. Vous voyez, messieurs, que nous ne suivons pas les mauvais exemples, et que nous rendons l'argent, quoique la comedie soit commencee.
+SCENE II. Mercure, Arlequin.
+MERCURE chante.
+Terminez vos regrets, que votre douleur cesse ; 
+Dans votre sort Jupiter s'interesse, 
+Et vient pour empecher que tu rendes l'argent.
+SCENE III. Jupiter, Mercure, Arlequin.
+MERCURE continue de chanter.
+Je le vois qui descend.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'un changement favorable			[5]
+Nous arrete dans ces lieux,
+Pour voir un spectacle aimable ;
+C'est l'ordre irrevocable
+Du souverain des dieux.
+JUPITER.
+Arlequin.
+ARLEQUIN.
+Jupiter.
+JUPITER.
+Je descends expres des cieux pour voir une repetition de la piece nouvelle qu'il y a si longtemps que tu promets. On dit que l'on y separe un mari d'avec sa femme ; et comme Junon est une carogne qui me fait enrager, je pourrai bien en faire venir la mode la-haut.
+ARLEQUIN.
+Mais, Monsieur Jupiter, quelle apparence ? Nous ne la savons pas encore : il va venir un debordement de sifflets de tous les diables.
+JUPITER.
+Ne te mets pas en peine ; j'ai fait provision de quantite de foudres de poche ; et le premier siffleur qui branlera, par la mort ! Je lui brulerai la moustache.
+ARLEQUIN.
+Oh ! Tout doucement, Monsieur Jupiter ; ne choquons point le parterre, s'il vous plait ; nous en avons besoin : cela ne se gouverne pas comme votre tete. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Messieurs, puisque Jupiter l'ordonne, et que d'ailleurs... l'occasion... de la faveur... votre bonte... votre argent... qu'on a de la peine a rendre ; ... vous voyez bien, messieurs, que nous vous allons donner "Le Divorce".
+JUPITER.
+Je vais me placer aux troisiemes loges pour mieux voir.
+ARLEQUIN.
+Ah ! Monsieur Jupiter, un gentilhomme comme vous aux troisiemes loges ?
+JUPITER.
+Je me suis amuse, en venant, a jouer a la boule aux petits-carreaux, contre quatre procureurs qui ne m'ont laisse que trente sous.
+ARLEQUIN.
+Ou diable vous etes-vous fourre la ? Ces messieurs-la savent aussi bien rouler le bois que ruiner une famille. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur Jupiter, si vous vouliez me laisser votre monture, je la ferais mettre a la daube : aussi bien les dieux de l'opera, qui sont bien montes quand ils viennent, s'en retournent toujours a pied.
+MERCURE.
+O deplorable coup du sort !			[10]
+O malheur !
+ARLEQUIN.
+Je fremis ; parle.
+MERCURE.
+Patrocle est mort.
+
+
+			ACTE I
+
+
+SCENE I. Aurelio, Mezzetin.
+La scene est a Paris.
+AURELIO.
+Cosi e, Mezzetino.
+MEZZETIN.
+Je le sais bien ; j'etais la chambre de madme votre soeur quand son mari, monsieur Sotinet, mon maitre et votre beau-frere, la surprit comme elle vous ecrivait la derniere lettre que vous avec recue d'elle, ou elle vous mande de venir au plus tot a Paris, afiun de prendre des mesures avec vous pour se mettre a couvert du chagrin que son vieux mari lui fait tous les jours.
+AURELIO.
+T'assicurio, Mezzetino, ch'il matrimonio di mia sorella con Sotinetto non e stato mai mio gusto ; e se ne fossi stato creduto, egli non si sarreba mai conchiuso. Ma che ? Al fato non vi e rimedio.
+MEZZETIN.
+Cela est vrai, ce qui est fait est fait.Mais quand on ne peut pas changer sa condition, et qu'elle est mauvaise, il faut tacher de l'adoucir autant qu'il est possible.
+AURELIO.
+Benissimo.Ma per addolcir la stato de mia sorella, io non veda altro mezzo, ch'une bonissima separazione.
+MEZZETIN.
+D'accord ; et c'est a quoi il faudrait songer, si vous aviez de ce qui se touche.Mais malheureusement mais vous etes gueux comme un rat, et il y a longtemps que votre noblesse serait tombee par terre, si la roture ne l'avait soutenue. Mais laissez-moi faire : si votre soeur consent a la separation, je m'engage, moi, de faire toruver tout l'argent qu'il faudra pour l'obtenir ; et si , je veux que ce soit mon maitre qui le fournisse.
+AURELIO.
+Sotinetto ?
+MEZZETIN.
+Oui, Sotinet.J'ai une dent contre lui, pour certains coups de baton qu'il me donna une fois, a cause qu'il me surprit a la cave avec la servante du logis.
+AURELIO.
+E che cosa facevi in cantina con la serva ?
+MEZZETIN.
+Je lui aidais a mettre un muid de vin en perce.
+AURELIO.
+Orsu, vado a trovar mia sorella ; faro il possibile per resolverla a separarsi da suo marito.Tu pensa in tanto a quelle vieni di promettermi.Addio.
+MEZZETIN.
+Serviteur, monsieur.Ah !Que je pense de jolis tours pour delivrer ma maitresse des mains de son vieux mari !Mais la difficulte est de trouver des gens qui les executent.Si mon cher ami Arlequin etait encore au monde, c'est la justement l'homme qu'il ma faudrait ; mais le pauvre garcon s'est avise de se faire pendre, et ...
+SCENE II. Arlequin, Mezzetin.
+ARLEQUIN en habit de voyage, avec une mechante soubreveste, un chapeau de paille, des bottes, et un baton a la main.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oui, Messieurs, etranger, etranger, arrive tout-a-l'heure dans cette ville ! Le diable emporte toute la race badaudique ! Je n'ai jamais vu de gens plus curieux, ni plus insolents ; ils crient apres moi, il a chie au lit, il a chie au lit, comme si j'etais un masque. Mais... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MEZZETIN, regardant Arlequin.
+Je crois...
+ARLEQUIN.
+Il me semble...
+MEZZETIN.
+Que j'ai vu cet homme-la pendu quelque part.
+ARLEQUIN.
+D'avoir vu cette tete-la sur un autre corps.
+MEZZETIN.
+Arl...
+ARLEQUIN.
+Mez...
+MEZZETIN.
+Arlequin.
+ARLEQUIN.
+Mezzetin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Parente ! Parente !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MEZZETIN, l'arretant.
+Mais ce manteau-la m'appartient.
+ARLEQUIN.
+Je l'ai trouve a terre.
+MEZZETIN.
+En verite, je suis ravi de te voir. Je parlais tout-a-l'heure de toi. Tu arrives fort a propos pour rendre service a Monsieur Aurelio, dans une affaire de consequence.
+ARLEQUIN.
+Qui ? Monsieur Aurelio, mon ancien maitre ? Celui qui a tant de noblesse, et qui n'a jamais le sou ? 
+MEZZETIN.
+Lui-meme : il est aussi gueux a present comme il etait du temps que tu le servais.
+ARLEQUIN.
+Tant pis ; car je ne suis pas aussi sot que je l'ai ete, moi ; et je ne m'emploierai jamais pour qui que ce soit, qu'auparavant je ne sois assure de la recompense.
+MEZZETIN.
+Va, va, le seigneur Aurelio est honnete homme.Sers-le bien, et ne te mets point en peine ; tes gages te seront bien payes ; et si l'affaire que j'ai en tete reussit, je te reponds d'une bonne recompense. Mais tire-moi d'un doute : il a couru un bruit que tu avais ete pendu, et je te croyais deja bien sec.
+ARLEQUIN.
+Eh ! Point du tout ; je me porte le mieux du monde : il est vrai que j'ai eu quelque petite indisposition, et que j'ai ete sur le point de mourir de la courte haleine ; mais je m'en suis bien gueri.
+MEZZETIN.
+Conte-moi donc ta maladie.
+ARLEQUIN.
+Oui-da. Tu sais bien que j'ai toujours aime les grandes choses : des le temps meme que nous avions l'honneur de servir ensemble le roi sur ses galeres...
+MEZZETIN.
+Ne parlons point de cela ; je sais que tu as toujours ete homme d'esprit.
+ARLEQUIN.
+Je n'eus pas plus tot quitte la rame, que je me jetai malheureusement dans les medailles.
+MEZZETIN.
+Comment, dans les medailles ? Dans les antiques ?
+ARLEQUIN.
+Non, dans les medailles ; c'est-a-dire que quand je n'avais rien a faire, pour me desennuyer, je m'amusais a mettre le portrait du roi sur des pieces de cuivre, que je couvrais d'argent, et que je donnais a mes amis pour du pain, du vin, de la viande, et autres choses necessaires : mais comme il y a toujours des envieux dans le monde (voyez, je vous prie, comme on empoisonne les plus belles actions de la vie !), on fut dire a la justice que je me melais de faire de la fausse-monnaie.
+MEZZETIN.
+Quelle apparence ?
+ARLEQUIN.
+D'abord la justice m'envoya prier de lui aller parler.
+MEZZETIN.
+Qui envoya-t-elle ? Des pages ?
+ARLEQUIN.
+Nenni, diable ! C'etaient tous gens de distinction et qualifies. Ils avaient des epees, des plumets bleus, des mousquetons.
+MEZZETIN.
+Je vous entends ; poursuivez.
+ARLEQUIN.
+Ces messieurs monterent donc dans ma chambre, et, le plus honnetement du monde, me prierent, de la part de la justice, de lui aller parler tout-a-l'heure ; qu'il y avait un carrosse a la porte, qui m'attendait.
+MEZZETIN.
+Et vous ?
+ARLEQUIN.
+Et moi, j'eus beau dire que j'avais affaire, que je ne pouvais pas sortir, que j'irais une autre fois, il me fut impossible de resister aux honnetetes et aux empressements de ces messieurs-la.
+MEZZETIN, a part.
+Aux honnetetes des pousse-culs.
+ARLEQUIN.
+Oh, pour cela, rien n'est plus vrai ; je n'ai jamais vu de gens plus honnetes. L'un m'avait pris par un bras, aussi m'avait fait l'autre, en me disant le plus obligeamment du monde : "Oh ! Puisque nous avons ete assez heureux que de vous trouver, vous ne nous echapperez pas, et nous aurons le plaisir de vous emmener avec nous" ; et a force de civilites, ils m'entrainerent dans leur carrosse, et me conduisirent a la justice. D'abord que je fus arrive, on me presenta a cinq ou six visages venerables, qui etaient assis sur des fleurs-de-lis.
+MEZZETIN.
+Fort bien ! Et ces messieurs ne vous prierent-ils point de vous asseoir ?
+ARLEQUIN.
+Assurement. Celui qui etait au milieu d'eux me dit : n'est-ce point vous, monsieur, qui vous melez de medailles ?A quoi je repondis fort modestement : oui, monsieur, pour vous rendre mes tres humbles services. Vous etes un honnete homme, ajouta-t-il ; tout-a-l'heure nous allons parler a vous ; asseyez-vous toujours en attendant.
+MEZZETIN.
+Et ou t'asseoir ? Dans un fauteuil ?
+ARLEQUIN.
+Bon ! Sur une petite chaise de bois qu'on avait mise a cote de moi. Ces messieurs donc, apres s'etre parle a l'oreille, me demanderent encore si veritablement c'etait moi qui avais cet heureux talent ? Je leur repliquai qu'oui, que je leur demandais excuse si je ne faisais pas aussi bien que je l'aurais souhaite ; mais que j'avais grande envie de travailler, et qu'avec le temps, j'esperais devenir plus habile.
+MEZZETIN.
+Fort bien. Et eux parurent fort contents de votre declaration ?
+ARLEQUIN.
+Vous l'avez dit. Je remarquai que mon discours les avait rejouis ; mais cela n'empecha pas qu'ils ne me condamnassent sur l'heure a etre pendu et etrangle a la Croix Du Trahoir.
+MEZZETIN.
+Quel malheur !
+ARLEQUIN.
+Quand j'entendis qu'on m'allait pendre, je commencai a crier : mais, messieurs, vous n'y pensez pas. Me pendre, moi ! Je ne suis qu'un jeune homme qui ne fais que d'entrer dans le monde ; et d'ailleurs, je n'ai pas l'age competent pour etre pendu.
+MEZZETIN.
+C'etait une bonne raison celle-la. 
+ARLEQUIN.
+Aussi y eurent-ils beaucoup d'egard ; et, pour faire les choses dans l'ordre, ils me firent expedier une dispense d'age. Me voila donc dans la charrette. Je ne disais mot ; mais j'enrageais comme tous les diables. Nous arrivons enfin a la Croix Du Trahoir, au pied de cette fatale colonne qui devait etre le non-plus-ultra de ma vie, et qu'on appelle vulgairement la potence. Comme j'etais fort fatigue du voyage, j'avais soif, je demandai a boire : on me proposa si je voulais de la biere. Je dis que non, et que cela pourrait par la suite me donner la gravelle ; je priai seulement les archers de me laisser boire a la fontaine. On se range en haie ; je m'approche de la fontaine ; je donne un coup d'oeil autour de moi, et zest, je m'elance la tete en avant dans le robinet de la fontaine.Les archers, surpris, courent a moi, et me tirent par les pieds ; et moi je m'enfonce toujours avec les mains, de maniere que j'entrai tout entier dans le tuyau de la fontaine, et il ne resta aux archers que mes souliers pour les pendre. Du robinet de la fontaine, je descendis dans la Seine ; de la, je fus a la nage jusqu'au Havre-de-Grace ; au Havre-de-Grace, je m'embarquai pour les Indes, d'ou me voila presentement de retour ; et voici mon histoire achevee.
+MEZZETIN.
+Il ne me reste qu'une difficulte, qui est de savoir comment, gros comme tu es, tu as pu te fourrer dans le robinet de la fontaine.
+ARLEQUIN.
+Va, va, mon ami, quand on est pres d'etre pendu, on est diablement mince.
+MEZZETIN.
+Tu as, ma foi, raison. Va m'attendre au Petit Trianon ; dans un moment je suis a toi, et je te menerai chez Monsieur Aurelio. Mais d'ou vient que tu n'enfonces point tes pieds jusqu'au fond de tes bottes, et que tu marches sur la tige ?
+ARLEQUIN.
+Je le fais expres pour epargner les semelles.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III.
+MEZZETIN, seul.
+Je tire bon augure de l'affaire de Monsieur Aurelio, et la fortune ne nous a pas renvoye Arlequin pour rien. Mon maitre m'a ordonne tantot de lui amener un barbier : il ne faut pas manquer cette occasion pour lui voler sa bourse ; elle servira a mettre nos affaires en train. Allons trouver Arlequin.
+SCENE IV. Sotinet, Pierrot.
+Le theatre represente l'appartement de M Sotinet.
+SOTINET.
+Entends-tu bien ce que je te dis ?
+PIERROT.
+Oui, monsieur ; vous me dites d'empecher que madame n'entre dans la maison, et de lui fermer la porte au nez.
+SOTINET.
+Animal, c'est tout le contraire : je te dis de ne laisser entrer personne pour voir ma femme, et de fermer la porte au nez de tous ceux qui se presenteront.
+PIERROT.
+Eh bien ! Monsieur, n'est-ce pas ce que je dis ?Mais, a propos, vous etes donc jaloux ?
+SOTINET.
+Ce ne sont pas la tes affaires.
+PIERROT.
+Ah, ah, ah ! Cela est plaisant ! De quoi diable vous etes-vous avise de vous marier a l'age que vous avez ? Ne savez-vous pas bien qu'un vieux mari est comme ces arbres qui ne portent point de bons fruits, et qui ne servent que d'ombre ?
+SOTINET.
+Impertinent, tes epaules te demangent bien.
+PIERROT.
+Il y a la-dedans un barbier.
+SOTINET.
+Fais-le entrer.
+SCENE V. Sotinet, Arlequin, en barbier ; Mezzetin, en maitre Jacques.
+ARLEQUIN, a Sotinet.
+On m'a dit, monsieur, que vous aviez besoin d'un homme de ma profession ; je viens vous offrir mes services.
+SOTINET.
+Ah ! Monsieur, je suis ravi de vous voir ; faites-moi, s'il vous plait, la barbe, le plus promptement que vous pourrez.
+ARLEQUIN.
+Ne vous mettez pas en peine, monsieur ; dans deux petites heures votre affaire sera faite.
+SOTINET.
+Comment, dans deux heures ! Je crois que vous vous moquez.
+ARLEQUIN.
+Oh ! Que cela ne vous etonne pas : j'ai bien ete trois mois entiers apres une barbe, et tandis que je rasais d'un cote, le poil revenait de l'autre : mais presentement je suis plus habile ; vous allez voir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET.
+Mais qu'est-ce donc que vous m'avez mis au cou ?
+ARLEQUIN.
+Ah ! Ma foi, je vous demande pardon : l'empressement de vous raser m'a fait prendre mon manteau pour votre linge a barbe. Allons, toi, donne-moi le linge, vite.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET, regardant Mezzetin.
+Qui est cet homme-la !
+ARLEQUIN.
+C'est maitre Jacques, celui qui accommode mes outils. Venez, maitre Jacques, repassez-moi ce rasoir pour faire la barbe a monsieur.
+MEZZETIN prend le rasoir, et contrefaisant le remouleur, d'une jambe figure la roue de la meule, et avec la bouche, il contrefait le bruit que fait le rasoir quand on le pose sur la meule pour le repasser, et celui que font les gouttes d'eau qui tombent sur la roue pendant qu'on repasse ; ce qu'Arlequin explique a mesure a Sotinet. a la fin, apres plusieurs lazzis de cette nature, Mezzetin chante un air italien ; puis, donnant le rasoir a Arlequin, lui dit :
+La bourse est de ce cote-ci ; ne la manque pas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET.
+Voila un plaisant homme !
+
+ARLEQUIN.
+Allons, allons, monsieur, je n'ai point de temps a perdre. Mettez-vous la.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET, criant.
+Hai, hai, hai ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh ! Que diable faites-vous la ?Me prenez-vous pour un cheval ?
+ARLEQUIN.
+Point du tout, monsieur ; mais c'est qu'il y a des gens qui sont terriblement retifs sous le fer, et avec cet instrument-la, on leur couperait la gorge, qu'ils ne diraient mot.
+SOTINET.
+Vraiment, je le crois bien. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET, prenant le bassin.
+Qu'est-ce que cela ?
+ARLEQUIN.
+C'est un bassin a deux mains.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET.
+Qu'est-ce donc que cela signifie ? Avez-vous entrepris de m'estropier ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, repoussant violemment Sotinet sur le fauteuil.
+Que de babil ! Tenez-vous donc, si vous voulez ; croyez-vous que je n'aie que vous a raser ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET.
+Allez tout doucement ; vous m'ecorchez tout vif.
+ARLEQUIN.
+C'est que vous avez le cuir si dur, que vous ebrechez tous mes rasoirs.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET.
+Misericorde ! Je suis mort ! Au secours ! On m'etrangle !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, le prenant et l'obligeant de nouveau a se rasseoir dans le fauteuil.
+La peste m'etouffe, si vous branlez, je vous coupe la gorge. Quel homme etes-vous donc ?
+SOTINET, bas.
+Il faut filer doux ; ce coquin-la le ferait comme il le dit : il a une mauvaise physionomie. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dis-moi, mon ami, de quel pays es-tu ?
+ARLEQUIN.
+Limousin, monsieur, pour vous rendre service.
+SOTINET.
+Limousin ! Et y a-t-il des barbiers de ce pays-la ? Je croyais qu'il n'y en avait que de gascons.
+ARLEQUIN.
+Je crois aussi etre le premier de mon pays qui ait embrasse le parti de la savonnette. J'etais auparavant tailleur de pierres ; et comme on disait que j'avais beaucoup de legerete dans la main, je crus que je serais plus propre a ce metier-ci.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et de tailleur de pierres, je me suis fait tailleur de barbes.
+SOTINET, lui surprenant la main dans sa poche.
+Il me semble que vous avez la main gauche bien plus legere que la droite.
+ARLEQUIN.
+Ah ! Monsieur, vous vous moquez ! Ce sont de petits talents qu'on recoit de la nature, et dont un honnete homme ne doit pas se glorifier.
+SOTINET.
+Avez-vous bien des pratiques ?
+ARLEQUIN.
+Tant, que je n'y saurais suffire. C'est moi qui fais la barbe et les cheveux a tous les limousins qui viennent ici travailler, et j'ai une pension de la ville pour faire tous les quinze jours le crin au cheval de bronze.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Hai ! Hai !
+SOTINET.
+Qu'avez-vous ? Vous trouvez-vous mal ?
+ARLEQUIN.
+Point, point ; voila qui est passe. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Hai ! Hai !
+SOTINET.
+Comment donc ? Mais vous avez quelque chose ?
+ARLEQUIN.
+Oh ! Pour le coup, je n'y puis plus tenir. Hai ! Hai ! Hai ! Une colique epouvantable qui me prend... Je suis a vous tout-a-l'heure. Hai ! Hai ! Hai ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET.
+Je n'ai jamais vu un pareil original... Mais vous voila ? Avez-vous deja ete a la garde-robe ?
+ARLEQUIN.
+Point du tout, monsieur ; cela n'en valait pas la peine : j'ai change d'avis, et j'ai mieux aime insulter la doublure de ma culotte que de vous faire attendre plus longtemps.
+SOTINET, portant sa main devant son nez.
+Comment, impudent ! Je vous trouve bien hardi de vous approcher de moi en l'etat ou vous etes.
+ARLEQUIN.
+Qu'appelez-vous, monsieur, s'il vous plait ? Chacun ne fait-il pas de sa culotte ce qu'il lui plait ?
+SOTINET.
+Sortez, insolent ! Si je faisais bien, je vous ferais jeter par les fenetres.
+ARLEQUIN.
+Comment, mardi, par les fenetres ! Est-ce ainsi qu'on insulte un officier public ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET, court apres, en criant.
+Arrete ! Arrete ! Arrete !
+SCENE VI. Isabelle, Colombine.
+Le theatre represente l'appartement d'Isabelle.
+ISABELLE.
+Ah ! Colombine, quel bruit epouvantable ! Quelle rumeur ! Mais il faut qu'on ait perdu l'esprit, de faire un tintamarre semblable dans mon antichambre ! Quelle brutalite de m'eveiller a l'heure qu'il est ! Non, je ne crois pas qu'il soit encore midi ; il n'y a pas trois heures que je suis rentree. Je crois, Colombine, que je suis faite d'une jolie maniere. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! L'horreur ! Quelle extinction de teint !
+COLOMBINE.
+Eh ! La, la ; consolez-vous, madame ; vous avez des yeux a defrayer tout un visage. Et de quoi vous embarrassez-vous de votre teint ? Il ne tiendra qu'a vous de l'avoir comme il vous plaira. Que ne me laissez-vous faire ? Je ne veux qu'une petite couche de rouge pour reparer de trente mechantes nuits la plus obstinee.
+ISABELLE.
+Ah ! Fi, Colombine, avec ton rouge ! Tu me mets au desespoir. Crois-tu que je puisse me resoudre a donner tous les jours un habit neuf a mes appas ? J'ai une conscience si delicate, que je me reprocherais les conquetes qui ne se seraient pas faites de bonne guerre, et je crois que je mourrais de honte d'avoir dix annees de plus que mon visage.
+COLOMBINE.
+Bon, bon, mademoiselle, vous avez la un plaisant scrupule ; la beaute que l'on achete n'est-elle pas a soi ? Qu'importe que vos joues portent les couleurs d'un marchand ou les votres, pourvu que cela vous fasse honneur ? Pour moi, je trouve quelques femmes d'aujourd'hui d'un parfaitement bon gout ; de toute l'annee elles en ont fait un carnaval perpetuel ; elles peuvent aller au bal a coup sur, sans crainte d'etre connues.
+ISABELLE.
+Mon dieu ! Les femmes ne sont-elles pas assez deguisees sans se masquer encore ? Et pourquoi veulent-elles peindre leur peu de sincerite jusque sur leur visage ? Pour moi, je ne suis point de ce nombre-la ; j'aime mieux qu'on me trouve un peu moins jolie, et etre un peu plus vraie.
+COLOMBINE.
+Ho ! Par ma foi, voila une belle delicatesse de sentiments. Il n'y a plus que le rouge qui se met a la toilette qui marque la pudeur des femmes d'aujourd'hui ; elles ne rougiraient jamais sans cela. Et que serait-ce donc, madame, s'il vous fallait peler avec de certaines eaux, comme la derniere maitresse que je servais, qui changeait tous les six mois de peau.
+ISABELLE.
+Bon ! Tu te moques, Colombine : est-ce que tu as vu cela ?
+COLOMBINE.
+Si je l'ai vu ? C'etoit moi qui faisois l'operation ; elle me faisait prendre la peau de son front, que je tirais de toute ma force ; elle criait comme un beau diable, et moi je riais comme une folle ; il me semblait habiller un levraut : mais ce qui est de meilleur, c'est qu'elle portait toujours sur elle, dans une boite, la peau de son dernier visage calcinee, et disait qu'il n'y avait rien de si bon pour les elevures et les bourgeons.
+ISABELLE.
+Tu veux t'egayer, Colombine.
+Un LAQUAIS.
+Mademoiselle, voila un homme qui demande a vous parler.
+ISABELLE.
+Qu'on le fasse entrer.
+SCENE VII. Isabelle, Colombine ; Monsieur de Trotenville, maitre a danser, sur un petit cheval.
+TROTENVILLE.
+Je crois, mademoiselle, que vous n'avez pas l'honneur de me connaitre ; mais quand vous saurez que je m'appelle Monsieur De La Gavotte, sieur de Trotenville, vous devinerez aisement que je suis maitre a danser.
+ISABELLE.
+Votre nom, monsieur, est assez connu dans Paris ; et j'espere devenir une bonne ecoliere, ayant pour maitre le plus habile homme du metier.
+TROTENVILLE.
+Ah ! Madame ! Vous mettez ma modestie hors de cadence ; et quand on n'a, comme moi, qu'un merite leger et cabriolant, pour peu qu'on l'eleve par des louanges un peu fortes, il court risque, en tombant, de se casser le cou.
+COLOMBINE.
+Misericorde ! Que Monsieur De Trotenville a d'esprit !
+ISABELLE.
+Il est vrai que voila une pensee qui est tout-a-fait bien mise en oeuvre ; c'est un brillant.
+TROTENVILLE.
+Pour de l'esprit, mademoiselle, les gens de notre profession en regorgent. Eh ! Qui en aurait, si nous n'en avions pas ? Nous sommes tous les jours parmi tout ce qu'il y a de gens de qualite. Je sors presentement de chez la femme d'un elu, ou je me suis fait admirer par mon esprit ; j'ai devine une enigme du Mercure galant. Vous savez, madame, que c'est la presentement la pierre de touche du bel-esprit.
+COLOMBINE.
+Ah ! Par ma foi, les beaux esprits sont donc bien communs ? Car la moitie du Mercure n'est remplie que des noms de ceux qui les devinent. Pour vous, monsieur, vous n'avez pas besoin que l'on imprime le votre, pour faire connoitre votre merite au public ; on sait assez que vous etes l'honneur de l'escarpin. Mais je vous prie de me dire pourquoi vous avez un si petit cheval.
+TROTENVILLE.
+J'avais autrefois un carrosse a un cheval ; mais mes amis m'ont conseille de changer de voiture, afin de ne pas causer une erreur dans le public, qui prend souvent, dans cet equipage-la, un maitre a danser pour un levrier d'Hippocrate.
+COLOMBINE.
+Vous devriez bien avoir un carrosse a deux chevaux : depuis que l'on ne joue plus, il y a tant de chevaliers qui en ont a vendre.
+TROTENVILLE.
+Je ne donnerais pas ce petit cheval-la pour les deux meilleurs chevaux de Paris ; c'est un diable pour aller. Toutes les fois que je veux aller a la Bastille, il m'emmene a Vincennes. Nous appelons ces petits animaux-la, parmi nous, un tendre engagement. 
+COLOMBINE.
+Comment donc ! Qu'est-ce que cela veut dire, un tendre engagement ?
+TROTENVILLE.
+Vraiment oui. Est-ce que vous ne savez pas " qu'un tendre engagement va plus loin qu'on ne pense ? "
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)COLOMBINE.
+Ah, ah ! On voit bien que monsieur sait son opera, et qu'il en est.
+TROTENVILLE.
+Moi, de l'opera ? Moi ? Fi ! Fi !
+COLOMBINE.
+Comment donc, fi, fi ?
+TROTENVILLE.
+He fi ! Vous dis-je : j'en ai ete autrefois ; mais il m'a fallu plus de vingt lavements et autant de medecines pour me purifier du mauvais air que j'y avais respire.
+ISABELLE.
+Vous me surprenez, monsieur : j'avais toujours cru que l'opera etait le lieu du monde ou l'on prenait le meilleur air.
+COLOMBINE.
+Bon, bon ! Monsieur De Trotenville a beau dire, il voudrait y etre rentre, comme tous ceux qui en sont sortis : c'est un Perou ; il n'y a pas jusqu'aux violons qui n'aient des justaucorps bleus galonnes.
+TROTENVILLE.
+Je veux que le premier entrechat que je ferai me coupe le cou, si jamais j'y mets le pied ! Vous moquez-vous de moi ? Quand on me donnerait un tiers dans l'opera, je n'y rentrerois pas. Pour quelques... quelques femmes, que l'on achete bien, de par tous les diables ! J'irais prostituer ma gloire, et figurer avec le premier venu ! Nous sommes glorieux comme tous les diables dans notre profession. Voulez-vous que je vous parle franchement ? L'opera n'est plus bon que pour les filles. Il n'y a pas aussi une meilleure condition au monde. Je ne concois pas l'entetement des jeunes gens. C'est une fureur, mademoiselle, et toutes les coquettes s'en plaignent hautement, et disent que l'opera leur enleve les meilleures pratiques, et qu'elles sont ruinees de fond en comble.
+COLOMBINE.
+Je le crois bien : ces personnes-la ont grande raison ; et si j'etais d'elles, je leur ferais rendre jusqu'a la moindre petite faveur qu'elles auraient recue.
+TROTENVILLE.
+Eh ! La, la, donnez-vous patience ; on leur fera peut-etre tout rendre : mais cependant elles usent en toute rigueur de leurs privileges ; et un amant qui n'exprime son amour qu'avec des fontanges et des bas de soie, se morfond dix ans derriere leur porte.
+ISABELLE, regardant l'habit de Trotenville.
+Mon dieu, que voila un joli habit ! Je vous trouve un fonds de bon air que vous repandez sur tout.
+TROTENVILLE.
+Fi, madame ! Vous vous moquez ; c'est une guenille. Que peut-on avoir pour cinquante ou soixante pistoles ? Je voudrais que vous vissiez ma garde-robe ; elle est des plus magnifiques, et si, sans vanite, elle ne me coute guere.
+COLOMBINE.
+Ho bien, monsieur, nous la verrons une autre fois ; mais presentement je vous prie de danser un menuet avec moi.
+TROTENVILLE.
+Oui-da, tres volontiers : allons.
+COLOMBINE.
+Qui est cet homme-la qui est avec vous ?
+TROTENVILLE.
+C'est ma poche. Tel que vous le voyez, il n'y a point d'homme au monde qui gourmande une chanterelle comme lui ; il ferait danser, s'il l'avait entrepris, tous les invalides et leur hotel. Vous allez voir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh bien, madame ! Que dites-vous de ma danse ?
+ISABELLE.
+J'en suis charmee.
+TROTENVILLE.
+Ne voulez-vous point que j'aie l'honneur de danser avec vous ?
+ISABELLE.
+Pour aujourd'hui, monsieur, il n'y a pas moyen ; je suis d'une fatigue, cela ne se concoit pas. Mais avant que de me quitter, je vous prie de me dire combien vous prenez par mois.
+TROTENVILLE.
+Par mois, madame ! C'est bon pour les maitres a danser fantassins. On me donne une marque chaque visite ; et je veux vous montrer quel a ete le travail de cette semaine. He ! Qu'on m'apporte ma valise. Vous allez voir. Allez donc. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)COLOMBINE.
+Ah, mon dieu ! Vous avez ete plus de vingt ans a faire toutes ces lecons-la.
+TROTENVILLE.
+Bon, bon ! C'est le travail d'une semaine ; et si, ce que je vous montre-la, c'est de l'argent comptant. Je n'ai qu'a aller chez le premier banquier, je suis sur de toucher un demi-louis d'or de chaque billet.
+COLOMBINE.
+Un demi-louis d'or pour une lecon ! On ne donnait autrefois aux meilleurs maitres qu'un ecu par mois.
+TROTENVILLE.
+Il est vrai ; mais dans ce temps-la les maitres a danser n'etaient pas obliges d'etre dores dessus et dessous, comme a present ; et une paire de galoches etait la voiture qui les menait par toute la ville. Mais presentement on ne nous regarde pas, si nous n'avons le cheval et le laquais.
+COLOMBINE.
+Ah ! Mademoiselle, voila votre maitre a chanter, Monsieur Amilare-Becarre.
+ISABELLE, a Trotenville.
+Ne vous en allez pas, monsieur, je vous prie. Je veux que vous entendiez chanter cet homme-la ; c'est un italien.
+TROTENVILLE.
+Tres volontiers, madame ; cela me fera bien du plaisir : car tel que vous me voyez, je suis a deux mains, et je chante aussi bien que je danse.
+SCENE VIII. Isabelle, Colombine, Monsieur De Trotenville, Monsieur Amilare.
+TROTENVILLE, apres avoir examine Amilare.
+Voila un visage bien baroque ! Les musiciens italiens sont de plaisants originaux. Ne dirait-on pas que ce serait la un siamois echappe d'un ecran ? Comment vous appelez-vous, monsieur ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voila bien des noms : il faut, monsieur, que vous ayez bien des peres. C'est un calendrier que cet homme-la.
+ISABELLE.
+Je suis ravi, messieurs, que vous vous trouviez ensemble. L'on n'est pas malheureux, quand on peut unir deux illustres. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vous prie, monsieur, de vouloir bien chanter un air.
+AMILARE, begayant.
+Je, je, je, je, le, le veux bien.
+TROTENVILLE.
+Quoi ! C'est la un maitre a chanter ? Misericorde ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ISABELLE, apres qu'il a chante. 
+Eh bien ! Monsieur, que dites-vous de ce chant-la ?
+TROTENVILLE.
+Ah, ah ! Voila une voix d'un assez beau metal ; cela n'est pas mal.
+COLOMBINE.
+Comment pas mal ! Il faut se jeter par les fenetres, quand on a entendu chanter ainsi.
+TROTENVILLE.
+Ho ! Tout doucement, s'il vous plait ; je ne sais point faire de ces cabrioles-la. Voyez-vous, mademoiselle, je ne suis point de ces gens qui louent a plein tuyau. Un homme comme moi, qui a ete toute sa vie nourri de dieses et de bemols, est diablement delicat en musique.
+AMILARE, begayant.
+Monsieur apparemment n'aime pas l'italien ; mais j'ai fait depuis peu un petit duo en francais, que je veux chanter avec lui, et je suis sur qu'il ne lui deplaira pas. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)TROTENVILLE.
+Voyons. Qu'est-ce donc, s'il vous plait, que tous ces pieds de mouche qui sont au commencement des lignes ?
+AMILARE.
+Ce sont des dieses, pour montrer que c'est un a mi la re becarre. Je ne compose jamais que sur ce ton, et c'est pour cela que j'en porte le nom.
+TROTENVILLE.
+Ah, ah ! Vous composez donc toujours sur ce ton-la ?
+AMILARE.
+Oui, monsieur.
+TROTENVILLE, rendant le papier.
+Et moi, monsieur, je n'y chante jamais.
+AMILARE.
+Eh bien ! Monsieur, voila un autre air en d la re sol.
+TROTENVILLE.
+La rissole vous-meme. Je vous trouve bien admirable de me donner des sobriquets.
+AMILARE.
+Voila un homme qui est bien facheux ! Je vous dis, monsieur, que cet air-la est en d la re sol, et qu'il n'est pas si difficile que l'autre.
+TROTENVILLE.
+Qui n'est pas si difficile que l'autre ! Croyez-vous, mon ami, que la musique m'embarrasse ? Je vous trouve plaisant.
+AMILARE.
+Je ne dis pas cela... Allons. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cupidon ne sait plus de quel bois faire fleche. Cela ne vaut pas le diable. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cu, cu, cu.
+TROTENVILLE.
+Cu, cu, cu... Voila un air bien puant.
+AMILARE.
+Allons, monsieur, tout de bon : cu, cu, cu... Chantez donc juste, si vous voulez.
+TROTENVILLE, lui jetant le papier au nez.
+Oh ! Chantez juste vous-meme ; je sais bien ce que je dis. Est-ce que je ne vois pas bien qu'il faut marquer la une dissonance, et que l'octave s'entrechoquant avec l'unisson, vient a former un diese bemol. Mais, voyez cet ignorant !
+AMILARE.
+Monsieur, avec votre permission, si les musiciens n'en savent pas plus que vous, ce sont de grands anes.
+TROTENVILLE.
+Plait-il, mon ami ? Savez-vous que vous etes un sot par nature, par bemol et par becarre ? Je vous apprendrai a insulter ainsi la croche francaise.
+AMILARE.
+Un sot ! A moi ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)TROTENVILLE, mettant la main sur son epee.
+Par la mort ! Par le sang ! ... Mesdames, je vous donne le bonsoir. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX.
+COLOMBINE, seule, riant.
+Ah ! Ah ! Ah ! De la maniere qu'il s'y prenait, je croyais qu'il allait tout tuer.
+
+
+			ACTE II
+
+
+SCENE I. Arlequin, Mezzetin.
+Le theatre represente une place publique.
+ARLEQUIN.
+Oh ca ! Je vous dis encore une fois que nous nous brouillerons, si vous ne me tenez parole. J'ai fait le barbier ; j'ai vole la bourse ; il y avait cent louis d'or dedans ; vous m'en avez promis dix : je pretends les avoir, ou je ne me mele plus de rien.
+MEZZETIN.
+Que tu es impatient ! Je te les ai promis, et tu les auras ; et de plus, je te promets de te faire epouser Colombine ; mais il faut faire encore une petite fourberie.
+ARLEQUIN.
+Pour epouser Colombine, j'en ferais cinquante, des fourberies.
+MEZZETIN.
+Oh ca ! Tiens-toi un peu en repos, et laisse-moi rever au moyen de t'introduire chez Monsieur Sotinet, pour rendre cette lettre a Isabelle.
+ARLEQUIN, pendant que Mezzetin reve.
+J'aurai Colombine, au moins.
+MEZZETIN.
+Oui, vous dis-je, vous l'aurez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Et Colombine m'aura-t-elle aussi ?
+MEZZETIN.
+Eh morbleu, oui ! Vous l'aurez, et elle vous aura. Laissez-moi en repos. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, comptant les boutons de son justaucorps.
+Je l'aurai, je ne l'aurai pas ; je l'aurai, je ne l'aurai pas ; je l'aurai, je ne l'aurai pas : je ne l'aurai pas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MEZZETIN.
+Qu'est-ce ? Qu'avez-vous ? Pourquoi pleurez-vous ?
+
+ARLEQUIN.
+Je n'aurai pas Colombine : hi, hi, hi !
+MEZZETIN.
+Qui est-ce qui vous a dit cela ?
+ARLEQUIN, montrant ses boutons.
+C'est la boutonomancie.
+MEZZETIN.
+Que le diable t'emporte, toi et la boutonomancie ! Laisse-moi songer en repos. Je t'assure, encore une fois, que tu auras Colombine, le colombier, les pigeons, et tout ce qui a relation a elle. Console-toi donc, et ne m'interromps pas davantage. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Voila Colombine.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et voici Arlequin. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Arlequin dit : bonjour, ma colombelle.Colombine repond : bonjour, mon pigeonneau... Adieu, ma belle... Adieu, mon...
+MEZZETIN, lui donnant un coup de pied au cul.
+Adieu, vilain magot. Tu ne veux donc pas te tenir un moment en repos ?
+ARLEQUIN.
+Je repetois le compliment de noce.
+MEZZETIN.
+Pour vous empecher de complimenter davantage, venez ca. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si vous otez vos mains de la, vous n'epouserez point Colombine. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, les mains dans sa ceinture.
+Mezzetin !
+MEZZETIN.
+Que vous plait-il ?
+ARLEQUIN.
+Y aura-t-il des violons a ma noce ?
+MEZZETIN.
+Oui, il y aura des violons, des vielles, et de toutes sortes d'instruments. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Mezzetin !
+MEZZETIN.
+J'enrage ! Que vous plait-il ?
+ARLEQUIN.
+Et y dansera-t-on, a la noce ?
+MEZZETIN.
+On y dansera ; oui, bourreau. Ne te tairas-tu jamais ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+On dansera a ma noce, et je danserai avec Colombine ! Ah ! Quel plaisir ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MEZZETIN.
+Oh ! Pour le coup, c'en est trop. Couchez-vous, vite.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Nous verrons un peu a present si vous vous tiendrez en repos. Imaginez-vous que vous etes dans un lit, et que vous dormez.
+ARLEQUIN.
+Je suis dans un lit ?
+MEZZETIN.
+Oui, dans un lit, et Colombine est couchee avec vous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Mezzetin !
+MEZZETIN.
+A la fin, il faudra que je change de nom. Que voulez-vous ? 
+ARLEQUIN.
+Fermez les rideaux du lit, de peur du vent.
+MEZZETIN, faisant semblant de tirer les rideaux du lit.
+Quelle patience ! 
+
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Mezzetin !
+MEZZETIN.
+Encore ! Qu'est-ce qu'il y a, double enrage chien ?
+ARLEQUIN.
+Donnez-moi le pot-de-chambre.
+MEZZETIN prend son bonnet et le met aupres de la tete d'Arlequin.
+Tiens, voila le pot-de-chambre ; puisses-tu pisser la parole !
+ARLEQUIN.
+Ah ! Ma chere Colombine, que je t'embrasse, mon petit coeur, m'amour. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MEZZETIN.
+Tenez, tenez ! Si je prends un baton, je te romprai bras et jambes a la fin. Veux-tu t'arreter ? Leve tes pieds. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si tu remues a present, ou que tu parles, nous allons voir beau jeu. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'habillerai Arlequin en chevalier ; il ira heurter a la porte de Sotinet : d'abord, voila Colombine...
+ARLEQUIN.
+Colombine ! Et ou est-ce qu'elle est ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE II. Monsieur Sotinet, Isabelle, Colombine.
+Le theatre represente l'appartement d'Isabelle.
+SOTINET.
+Madame, je vous declare, pour la derniere fois, que je ne veux plus voir tout ce train-la dans ma maison. Je ne sais plus qui y est maitre. Que ne payez-vous les gens a qui vous devez ? Et pourquoi faut-il que j'aie tous les jours la tete rompue de vos folles depenses, qui me menent a l'hopital ? Je ne vois ici que des marchands qui apportent des parties, ou des maitres qui demandent des mois.
+ISABELLE.
+Ah ! Vraiment, je vous trouve plaisant ! J'aime assez vos airs de reproches ! Et depuis quand les maris prennent-ils ces hauteurs-la avec leurs femmes ? Sachez, s'il vous plait, monsieur, qu'un homme comme vous, qui a epouse une fille de qualite comme moi, est trop heureux quand elle veut bien s'abaisser a porter son nom. Mon merite n'est-il pas bien soutenu d'avoir pour piedestal le nom de Monsieur Sotinet ! Madame Sotinet ! Ah ! Quelle mortification ! Je sens un soulevement de coeur, quand j'entends seulement prononcer le nom de Monsieur Sotinet.
+COLOMBINE.
+Et que n'en changez-vous, madame ? N'est-ce pas la mode ? Je connais un homme qui s'appelle Monsieur Josset, et sa femme se fait appeler la Marquise de Bas-Aloi.
+SOTINET.
+Taisez-vous, impertinente ; on ne vous parle pas. Est-ce a vous a mettre la votre nez ? Vous n'etes pas plus sage que votre maitresse.
+ISABELLE.
+Pourquoi voulez-vous qu'elle se taise, quand elle a raison ? Ne sait-on pas assez dans le monde l'honneur que je vous ai fait, quand je vous ai epouse ? Mais vous devez vous mettre en tete que je vous ai plutot pris pour mon homme d'affaires que pour mon mari ; et je vous prie de ne plus vous meler de ma conduite.
+COLOMBINE.
+Madame parle comme un oracle ; toutes les paroles qu'elle dit sont des sentences que toutes les femmes devraient apprendre par coeur.
+SOTINET.
+Vous devriez mourir de honte de la vie que vous menez. On n'entend parler d'autre chose que de votre jeu et de vos depenses. Nous demeurons dans la meme maison, et il y a huit jours que je ne vous ai rencontree. Vous vous allez promener quand je me couche, et vous ne vous couchez que quand je me leve.
+ISABELLE.
+Ah ! Colombine, ne te souviens-tu point de ce petit air que m'apprit hier monsieur le marquis ? Je l'ai oublie.
+COLOMBINE.
+Non, madame ; mais, si vous voulez, je vais vous en chanter un que je viens d'apprendre. La, la, la.
+SOTINET.
+Te tairas-tu donc, coquine ? Il y a longtemps que je suis las de tes impertinences. C'est toi qui me la gates, et un grand traineur d'epee qui ne bouge d'ici. Mais j'empecherai bien que cela ne dure, et je veux que tu sortes tout presentement de chez moi.Allons, qu'on deniche tout-a-l'heure.
+COLOMBINE.
+Moi ? Je n'en ferai rien.
+SOTINET.
+Tu n'en sortiras pas ?
+COLOMBINE.
+Non, je n'en sortirai pas.
+SOTINET.
+Comment donc ? Est-ce que je ne suis pas le maitre ici ?
+COLOMBINE.
+Pardonnez-moi.
+SOTINET.
+Je ne pourrai pas mettre dehors une coquine de servante quand il me plaira ?
+COLOMBINE.
+Je ne dis pas cela.
+SOTINET.
+Eh ! Pourquoi dis-tu donc que tu ne sortiras pas ?
+COLOMBINE.
+C'est que je vous aime trop.
+SOTINET.
+Je ne veux pas que tu m'aimes, moi ; je veux que tu me haisses.
+COLOMBINE.
+Il m'est impossible ; je sens pour vous une tendresse... Allez, cela n'est guere bien de n'avoir pas plus de naturel pour des gens qui vous affectionnent.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SOTINET.
+Oh ! La bonne bete !
+ISABELLE.
+Eh bien ! Monsieur, aurez-vous bientot fait ? Savez-vous que je ne m'accommode point de tous vos dialogues. Je vous prie, monsieur, de vous en aller dans votre appartement, et de me laisser en repos dans le mien. Sitot que je suis un moment avec vous, mes vapeurs me prennent d'une violence epouvantable.
+SOTINET.
+Je m'ennuie bien aussi d'y etre, madame, et je voudrais...
+ISABELLE.
+Ah ! Colombine, je n'en puis plus. Soutiens-moi. De l'eau de la reine d'Hongrie. Hai !
+COLOMBINE.
+He ! Monsieur, retirez-vous ; voila madame qui trepasse, et je la garantis morte, si vous ne decampez tout-a-l'heure.
+SCENE III. Isabelle, Colombine.
+COLOMBINE.
+La, la, revenez ; il est parti : cela vaut bien mieux qu'une bouteille d'eau de la reine d'Hongrie. Ma foi ! Madame, je ne sais pas ce que vous faites de cet homme-la ; mais je sais bien, moi, ce que j'en ferais, si j'etais a votre place. Quel moyen de vivre avec lui ? Il a toute la journee le gosier ouvert pour faire enrager tout le monde. 
+ISABELLE.
+A te dire vrai, Colombine, je suis bien lasse de la vie que je mene. C'est un homme qui n'est jamais dans la route de la raison ; il a des travers d'esprit qui me desolent. Mais que veux-tu ? Je suis mariee ; c'est un mal sans remede. Toute ma consolation est que nous nous ferons bien enrager tous deux.
+COLOMBINE.
+Mariee ! Voila une belle affaire ! Est-ce la ce qui vous embarrasse ? Bon, bon ! On se demarie aussi facilement qu'on se marie ; et je savais toujours bien, moi, que tot ou tard il en fallait venir la ; il n'y avait pas de raison autrement. Il ne tiendra donc qu'a faire impunement enrager les femmes, sous pretexte qu'elles sont douces et qu'elles n'aiment pas le bruit ! Oh ! Vous en aurez menti, messieurs les maris ; et quand il n'y auroit que moi, j'y brulerai mes livres, ou cela sera autrement. Donnez-moi la conduite de cette affaire-la ; vous verrez comme je m'y prendrai.
+ISABELLE.
+Mon dieu ! Colombine, je voudrais bien n'en point venir la : je fais meme tout ce que je puis pour avoir quelque estime pour Monsieur Sotinet ; mais je ne saurais en venir a bout. Je voudrais, Colombine, que tu fusses mariee ; tu verrais si c'est une chose si aisee que d'aimer un mari.
+COLOMBINE.
+Bon ! Est-ce que je ne le sais pas bien ? N'allez pas aussi vous mettre en tete de le vouloir faire ; vous y perdriez vos peines et votre temps.
+ISABELLE.
+Et va, va ; je n'y tache que de bonne sorte. Mais nous perdons bien du temps. Je dois aller passer l'apres-dinee chez la marquise : viens achever de m'habiller dans mon cabinet.
+COLOMBINE.
+Mais, madame, qui est-ce qui entre la ?
+SCENE IV. Isabelle, Colombine, le Chevalier De Fondsec.
+Le CHEVALIER.
+Un devoiement, madame, cause a ma bourse par les frequentes crudites d'une fortune indigeste, m'a oblige d'avoir recours au remede astringent d'un petit billet payable au porteur, que j'apportais a monsieur votre epoux ; mais n'y etant pas, j'ai cru qu'un homme de ma qualite pouvait entrer de volee chez les dames, et que vous ne seriez pas fachee de connaitre le chevalier De Fondsec.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ISABELLE.
+Je suis ravie, monsieur, de l'honneur que je recois ; mais je voudrais que ce ne fut pas une suite de votre malheur, et devoir a ma bonne fortune, et non pas a votre mauvaise, la visite que je recois : mais il faut esperer que vous serez plus heureux.
+Le CHEVALIER.
+Comment voulez-vous, madame ? Pour etre heureux, il faut jouer ; pour jouer, il faut avoir de l'argent ; et pour avoir de l'argent, que diable faut-il faire ? Car nous autres chevaliers de Gascogne, nous n'avons jamais connu ni patrimoine, ni revenu.
+COLOMBINE.
+Il est vrai que de memoire d'homme on n'a jamais vu venir une lettre-de-change de ce pays-la.
+ISABELLE.
+Monsieur le chevalier voudra bien passer toute l'apres-dinee avec nous ?
+Le CHEVALIER.
+Ma foi, madame, je ne sais pas si je pourrai me prostituer a votre visite ; car c'est aujourd'hui mon grand jour de femmes. Je m'en vais voir sur mes tablettes. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le mercredi, a cinq heures, chez Dorimene. Oh ! Ma foi, il est trop tard. A cinq heures et un quart, chez la comtesse qui m'a envoye cette epee d'or.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Ah ! La sotte pretention ! Vouloir que je rende une visite pour une epee qui ne pese que soixante louis ! Non, madame, je n'irai pas, vous dis-je ; j'y perdrois. A six heures et demie, promis a Toinon, au troisieme etage, rue Tireboudin. Oh ! Ma foi, cette visite-la se peut remettre. Allons, madame, je suis a vous pendant toute l'apres-dinee, et pendant toute la nuit, si vous voulez : il en coutera la vie a trois ou quatre femmes ; mais qu'y faire ? Le moyen d'etre partout ?
+SCENE V. Isabelle, Colombine, le Chevalier, un laquais.
+LE LAQUAIS.
+Monsieur, vos laquais sont la-bas, qui demandent a vous parler.
+Le CHEVALIER.
+Dis-leur que je n'ai rien a leur dire.
+LE LAQUAIS.
+Ils font un bruit de diable ; ils disent qu'il y a trois jours qu'ils n'ont mange.
+Le CHEVALIER.
+Voila de plaisants marauds ! Est-ce a faire a ces coquins-la a manger ? Et que feront donc les maitres ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Madame, voyez la-bas s'il y a quelque chose de reste, et qu'on leur donne seulement pour les empecher de crier.
+ISABELLE, au laquais.
+Dites la-bas qu'on leur donne a manger.
+SCENE VI. Isabelle, Colombine, le Chevalier.
+COLOMBINE.
+Il faut dire la verite ; monsieur le chevalier est d'un bon naturel : il oterait volontiers le morceau de sa bouche pour le donner a ses gens.
+Le CHEVALIER.
+Ces gueux-la sont trop heureux avec moi. C'est une commission que de me servir.
+COLOMBINE.
+Ils sont quelquefois trois jours sans manger ; mais aussi je crois que vous leur donnez de gros gages.
+Le CHEVALIER.
+Je le crois, vraiment ; au bout de trois ans je leur donne conge pour recompense.
+COLOMBINE.
+Ils ne sont pas malheureux. Voila le meilleur de votre condition.
+ISABELLE.
+Oh ! ca, monsieur le chevalier, voila un chagrin qui me saisit. Que ferons-nous apres la collation ? Quand je n'ai plus que deux ou trois plaisirs a prendre dans le reste du jour, je suis dans une langueur mortelle ; et je m'ennuie presque toujours, dans la crainte que j'ai de m'ennuyer bientot. Il faut envoyer voir ce que l'on joue aux italiens. Broquette, broquette !
+SCENE VII. Isabelle, Colombine, le Chevalier, un Laquais.
+Le LAQUAIS.
+Madame ?
+ISABELLE.
+Allez voir ce que l'on joue aujourd'hui a l'hotel de Bourgogne.
+SCENE VIII. Isabelle, Colombine, le Chevalier.
+COLOMBINE.
+Je ne sais, madame, ce que vous voulez faire ; mais je vous avertis que monsieur a enferme une roue du carrosse dans son cabinet, pour vous empecher de sortir.
+ISABELLE.
+Qu'importe ? Nous irons dans le carrosse de monsieur le chevalier.
+Le CHEVALIER.
+Cela ne se peut pas, madame ; mon cocher s'en sert : c'est que je lui donne mon carrosse un jour la semaine pour ses gages ; c'est aujourd'hui son jour, et il l'a loue a des dames qui sont allees au bois de Boulogne.
+COLOMBINE.
+Cela ne doit pas nous arreter. Si madame veut aller a l'opera, je trouverai bien un carrosse.
+ISABELLE.
+Ah ! Fi, Colombine, avec ton opera. Peut-on revenir a la demi-Hollande, quand on s'est si longtemps servi de batiste ? J'y allai des deux heures a la premiere representation ; j'eus tout le temps de m'ennuyer avant que l'on commencat ; mais ce fut bien pis, quand on eut une fois commence.
+COLOMBINE.
+Je ne concois pas comment on peut s'ennuyer a l'opera ; les habits y sont si beaux !
+ISABELLE.
+Je vois bien que nous ne sommes pas engouees de musique aujourd'hui, et qu'il faudra nous en tenir a la comedie italienne.
+Le CHEVALIER.
+En verite, madame, je ne sais pas quel plaisir vous trouvez a vos comedies italiennes ; les acteurs y sont detestables. Est-ce qu'Arlequin vous divertit ? C'est une pitie. Excepte cet homme qui parle normand dans l'empereur de la lune, tout le reste ne vaut pas le diable. J'etais dernierement a une piece nouvelle ; elle n'etait pas encore commencee, que j'entendis accorder les sifflets au parterre, comme on fait les violons a l'opera. Je m'en allai aussitot, pestant comme un diable contre ces nigauds-la, et je n'en voulus pas voir davantage.
+ISABELLE.
+Vous n'attendites donc pas que la toile fut levee ?
+Le CHEVALIER.
+He ! Vraiment non. Ne voit-on pas bien d'abord a ces indices-la qu'une piece ne vaut rien ?
+SCENE IX. Isabelle, Colombine, le Chevalier, un Laquais.
+ISABELLE, au laquais.
+Approchez, petit garcon. Eh bien ! Quelle piece joue-t-on ?
+Le LAQUAIS.
+Madame, on joue "Le Sirop pour purger".
+Le CHEVALIER.
+Ne vous l'avais-je pas bien dit, madame ? Ces gens-la ne jouent que de vilaines choses.
+Le LAQUAIS.
+Madame, combien mettra-t-on de couverts ?
+ISABELLE.
+Deux : un pour monsieur le chevalier, et l'autre pour moi.
+Le LAQUAIS.
+N'en mettra-t-on pas aussi un pour monsieur ?
+ISABELLE.
+Non. Ne savez-vous pas bien que monsieur ne mange point a table quand il y a compagnie ?
+Le CHEVALIER, au laquais.
+Parle, mon ami ; mets deux couverts pour moi ; je mangerai bien pour deux personnes.
+
+
+			ACTE III
+
+
+SCENE I. Aurelio, Mezzetin.
+Aurelio dit a Mezzetin que sa soeur Isabelle est presque determinee a souffrir qu'on la separe d'avec son mari ; que Colombine, qui travaille de concert avec lui, est apres elle pour la determiner entierement ; qu'on plaidera devant le dieu d'Hymen, et que lui-meme sera la divinite qui prononcera l'arret. Mezzetin s'en rejouit, et dit qu'il cherchera un avocat pour plaider en faveur d'Isabelle : apres quoi ils s'en vont.
+SCENE II. Isabelle, Colombine.
+COLOMBINE.
+Dieu merci, madame, ce que je demandais est enfin arrive : nous plaiderons, morbleu ! Nous plaiderons ! La gueule du juge en petera, et je ne souffrirai pas que vous soyez plus longtemps le rendez-vous des violences de Monsieur Sotinet. Vous ne serez plus Madame Sotinet, ou j'y perdrai mon latin. Je viens de consulter un avocat de mes amis sur votre affaire. Bon ! Il dit que cela ira son grand chemin, et qu'il y aurait la de quoi faire casser aujourd'hui vingt mariages.
+ISABELLE.
+En verite, Colombine, j'ai eu bien de la peine a me resoudre a ce que tu as voulu. On va me tympaniser par la ville, et je vais donner la comedie a tout Paris.
+COLOMBINE.
+Ah ! Vraiment, nous y voila ! On va vous tympaniser ! Eh ! Mort non pas de ma vie, madame, c'est vous eterniser, que de faire un coup d'eclat comme celui-la ! Dites-moi, je vous prie, auroit-on tant d'empressement a lire l'histoire galante de certaines femmes, si une separation ne les avait rendues celebres ? Saurait-on la magnificence de Madame Lycidas, en justaucorps de soixante pistoles, les discretions qu'elle perd avec son galant, si elle n'avait pas plaide contre son mari ? Et l'on n'aurait jamais connu tout l'esprit d'Artemise, sans ses lettres, qui ont ete produites a l'audience. Je vous le dis, madame, il n'y a rien tel que de bien debuter dans le monde, et voila le plus court chemin. On avance plus par la en un jour d'audience qu'en vingt annees de galanterie ; et vous me remercierez dans peu des bons avis que je vous donne.
+ISABELLE.
+Il fallait donc, Colombine, que j'apprisse de longue main a mepriser, comme ces femmes dont tu me parles, les chimeres et les fantomes de reputation et d'honneur qui font peur aux esprits simples comme le mien. Je conviens, avec toi, qu'il y a beaucoup d'honnetes femmes qui sont lasses de leur metier et de leur mari ; mais, du moins, elles n'en instruisent pas la ville par la bouche d'un avocat, et ne se font point declarer fieffees coquettes par arret de la cour.
+COLOMBINE.
+C'est qu'elles n'ont pas un mari aussi bourru que vous en avez un. Vous etes trop bonne, et vous gatez les maris. Une bonne separation, madame, une bonne separation ; et le plus tot, c'est le meilleur. Il y a deja pres de deux ans que vous etes femme de Monsieur Sotinet ; et quand ce serait le meilleur mari du monde, il serait gate depuis le temps.
+ISABELLE.
+Fais donc tout ce que tu voudras. Mais, faudra-t-il que j'aille solliciter toutes ces jeunes barbes de juges, qui me riront au nez, et qui sont ravis d'avoir des affaires de cette nature-la ?
+COLOMBINE.
+Oh ! Madame, ne vous mettez point en peine, vous n'irez point aux juridictions ordinaires : le dieu d'Hymen est arrive depuis quelque temps en cette ville, pour demarier toutes les personnes qui sont lasses du mariage. Il aura de la pratique, comme vous pouvez juger. Je veux qu'il commence par vous. Laissez-moi faire ; j'ai une peste de tete...
+SCENE III. Arlequin, Isabelle, Colombine.
+COLOMBINE.
+Ah ! Mon pauvre Arlequin, tu viens ici bien a propos. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tenez, madame, voila l'avocat que je vous veux donner. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Viens ca, sais-tu plaider ?
+ARLEQUIN.
+Si je sais plaider ? J'ai ete quatre ans cocher du plus fameux avocat de Paris. Il me fit une fois plaider en sa place pour un homme qui avait fait quelque petite friponnerie. Il devait naturellement, et suivant toutes les regles de la justice, aller droit aux galeres : je lui epargnai la fatigue du chemin : je fis tant qu'il n'alla qu'a la greve. Je criai comme un diable.
+COLOMBINE.
+Tu plaides donc bien ? Il n'en faut pas davantage pour gagner le proces le plus desespere. Allons, viens ; suis-moi : je te dirai ce qu'il faut que tu fasses.
+ISABELLE.
+Je ne sais pas, Colombine, dans quelle affaire tu m'embarques la. Ne vous mettez pas en peine, madame ; je vous en tirerai. Je ne vous dis pas ce que j'ai envie de faire.
+SCENE IV. Arlequin, Mezzetin.
+MEZZETIN.
+Je te cherchais. Colombine m'a dit que tu avais servi chez un avocat.
+ARLEQUIN.
+Cela est vrai. 
+MEZZETIN.
+Etois-tu clerc ?
+
+ARLEQUIN.
+Non. C'etait moi qui recousais les sacs et les etiquettes.
+MEZZETIN.
+J'ai besoin de toi. Voici la derniere fourberie que tu feras : il faut que tu plaides la cause de Mademoiselle Isabelle devant le dieu de l'Hymenee.
+ARLEQUIN.
+Et comment m'y prendre ? La profession d'avocat n'est pas si aisee.
+MEZZETIN.
+Bon ! Il n'y a rien au monde de si aise. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il le faut prendre par la gueule. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Un avocat va le matin en robe au palais. Des qu'il y est, il entre a la buvette, ou il mange des saucisses, des rognons, des langues, et boit du meilleur.
+ARLEQUIN.
+Un avocat mange des saucisses ? Oh ! Si cela est, je serai avocat, et bon avocat ; car je mangerai plus de saucisses qu'un autre : je les aime a la folie.
+MEZZETIN.
+D'abord, tu commenceras ton plaidoyer en disant : messieurs, je parle pour Mademoiselle Isabelle, contre son mari, qui est un debauche, un puant, un fou, et autres choses semblables.
+ARLEQUIN.
+Laisse-moi faire, pourvu que les saucisses marchent...
+MEZZETIN.
+Oh ! Cela s'en va sans dire. Oh ! ca, prends que je sois le juge ; commence par plaider.
+ARLEQUIN.
+Je ne puis pas.
+MEZZETIN.
+Et d'ou vient ?
+ARLEQUIN.
+C'est que je n'ai pas encore ete a la buvette.
+MEZZETIN.
+Nous irons apres : repetons toujours auparavant.
+ARLEQUIN.
+Mais repetons donc aussi la buvette.
+MEZZETIN.
+Voila une buvette qui te tient bien au coeur ! Tiens, prends que je sois le juge. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Avocat, plaidez.
+ARLEQUIN.
+Messieurs...
+MEZZETIN.
+Fort bien.
+ARLEQUIN.
+Messieurs... Messieurs... Messieurs, je conclus...
+MEZZETIN.
+A quoi concluez-vous ? Je conclus a ce que nous allions manger les saucisses, avant qu'elles refroidissent. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. Monsieur Sotinet, Pierrot.
+SOTINET.
+Eh bien ! Que t'a dit Monsieur De La Griffe, mon avocat ? Viendra-t-il bientot ?
+PIERROT.
+Monsieur, il est bien malade ; il ne pourra pas venir : en taillant sa plume, il s'est coupe un peu le doigt ; il dit qu'il ne pourra pas plaider dans l'etat ou il est.
+SOTINET.
+Comment ! Est-il fou ?
+PIERROT.
+Il m'a dit qu'il allait envoyer un jeune homme en sa place, qui plaide comme un diable, et qui vous fera aussi bien perdre votre proces que lui-meme.
+SOTINET.
+Cette affaire-la me fera mourir ; je n'en sortirai jamais a mon honneur. Ma femme m'a fait assigner devant le dieu d'Hymen ; on n'est guere favorable aux maris a ce tribunal-la. Ce qui me fache le plus, c'est que l'on me fera rendre vingt mille ecus que je n'ai point recus. Allons.
+PIERROT.
+He ! Monsieur, consolez-vous : il y a bien des gens qui voudroient etre quittes de leurs femmes a ce prix-la.
+SCENE VI. Aurelio, en dieu de l'Hymen ; Colombine, en avocat, sous le nom de Braillardet ; Arlequin, en avocat, sous le nom de Cornichon ; Monsieur Sotinet, Isabelle, plusieurs assistants.
+Le theatre represente le temple de l'Hymenee, au milieu duquel est un tribunal soutenu de bois de cerfs et de cornes d'abondance. Le dieu de l'Hymen, vetu de jaune, avec une tres grande mante, doublee de souci et parsemee de petits croissants, sort au son des instruments. Il est precede de la joie et des plaisirs, et suivi du chagrin et de la tristesse. Apres qu'il a fait le tour du theatre, il va se mettre sur son tribunal, qui est entoure tout aussitot par une infinite d'enfants et de nourrices, qui tiennent des berceaux, des poelons, des langes, et autres ustensiles qui servent a elever les petits enfants.
+BRAILLARDET, plaidant.
+Pour Messire Mathurin-Blaise Sotinet, sous-fermier, contre la dame Sotinet, sa femme, demanderesse en separation.Je ne suis pas surpris, messieurs, de voir a ce nouveau tribunal une femme qui veut secouer le joug d'un mari ; mais je m'etonne de n'y pas voir avec elle la moitie des femmes de Paris.
+CORNICHON.
+Donnez-vous un peu de patience ; nous n'aurons pas plus tot demarie la premiere, qu'elles y viendront toutes les unes apres les autres.
+BRAILLARDET.
+En effet, messieurs, une jeune femme qui epouse un vieillard, dans l'esperance de l'enterrer six mois apres, n'est-elle pas en droit de lui demander raison de son retardement ; et n'est-elle pas bien fondee a faire rompre son mariage, puisque son mari n'a pas satisfait a l'article le plus essentiel du contrat, par lequel il s'est oblige tacitement a ne pas passer l'annee ? Celui pour qui je parle, apres avoir longtemps contemple du port les naufrages de tant de malheureux epoux, s'embarqua enfin sur la mer orageuse du mariage ; et quand il fit ce solecisme en conduite, qu'il souffrit cette lethargie de bon sens, cette eclipse de raison, s'il se fut mis une corde au cou, ou qu'il se fut jete dans la riviere, il n'auroit jamais tant gagne en un jour.
+CORNICHON.
+Ni sa femme aussi.
+BRAILLARDET.
+Il fit ce qu'ont accoutume de faire les gens sur le retour, quand ils epousent de jeunes filles, c'est-a-dire qu'il confessa avoir recu vingt mille ecus, quoiqu'elle ne lui eut jamais apporte en mariage qu'un fonds de galanterie outree, et une fureur effrenee pour le jeu : voila la dot de la Dame.
+SOTINET.
+Cornichon.Avec votre permission, Maitre Braillardet, vous ne vous tiendrez pas pour interrompu si je vous dis que vous en avez menti : il a recu vingt mille bons ecus.
+BRAILLARDET.
+Des dementis, messieurs, des dementis ! Il est vrai que voila le style ordinaire de Maitre Cornichon.
+CORNICHON.
+Eh ! Allez, allez votre chemin : je vous vois venir avec vos suppositions. Une fureur pour le jeu ! Une femme qui n'a pas vingt ans, une fureur pour le jeu !
+BRAILLARDET.
+Oui, oui, messieurs ; quand je dis que voila la dot de la Dame Sotinet, je n'avance rien que de veritable ; mais ne croyez pas que, parcequ'elle n'a rien eu en mariage, elle en depense moins en se mariant. Les jeunes filles qui se vendent a des vieillards achetent en meme temps le droit de les envoyer a l'hopital promptement, par leurs depenses extravagantes : c'est ce qu'a presque fait la Dame Sotinet ; car enfin le pauvre homme ne fut pas plus tot marie, qu'il vit bien comme presque tous les autres qui s'enrolent dans cette milice qu'il avait fait une sottise ; que le mariage est une affaire a laquelle il faut songer toute sa vie ; qu'un bon singe et la meilleure femme sont souvent deux mechants animaux ; et que ce grand philosophe avait bien raison de s'ecrier, en voyant trois ou quatre femmes pendues a un arbre : que les hommes seraient heureux, si tous les arbres portaient de semblables fruits !
+CORNICHON.
+Ce fruit-la serait diablement acre, et il ne serait bon, tout au plus, qu'en compote.
+BRAILLARDET.
+Il vit, des le jour meme de son mariage, introduire chez lui l'usage des deux lits, usage condamne par nos peres, invente par la discorde, et fomente par le libertinage ; usage que je puis nommer ici la perte du menage, l'ennemi mortel de la reconciliation, et le couteau fatal dont on egorge sa posterite.
+CORNICHON.
+Est-ce que l'on se marie pour coucher avec sa femme ? Fi ! Cela est du dernier bourgeois.
+BRAILLARDET.
+Il vit fondre chez lui, des le lendemain, tous les faineants de la ville, chevaliers sans ordre, beaux esprits sans aveu ; cent petits poetes crottes, vrais chardons du Parnasse ; de ces fades blondins, minces colifichets de ruelles ; en un mot, il vit faire de sa maison une academie de jeux defendus, et fut oblige de payer une grosse amende, a quoi il fut condamne. Oui, oui, messieurs, je n'avance rien que de veritable ; et, malgre toutes les precautions, il n'a pas laisse de la payer cette amende, dont voici la quittance signee Pallot. Mais qui fut le denonciateur ? Vous croyez peut-etre que ce fut, comme d'ordinaire, quelque fripon de laquais, enrage d'avoir ete chasse de la maison ; ou quelque joueur, outre d'avoir perdu son argent ? Non, messieurs, non ; ce fut la Dame Sotinet. La Dame Sotinet ! Oui, messieurs, ce fut elle qui, ne sachant plus ou trouver de l'argent pour jouer, alla denoncer elle-meme que l'on jouait chez elle : elle fut condamnee a trois mille livres d'amende. Son mari les paya ; elle recut son tiers comme denonciatrice. Que direz-vous, races futures, d'un pareil brigandage ? Quid non muliebria pectora cogis, auri sacra fames ?
+CORNICHON.
+Vous devriez garder vos passages pour une meilleure cause. Voila bien du latin de perdu. S'il ne tient qu'a parler latin...
+BRAILLARDET.
+He ! Je parle bon francais, Maitre Cornichon ; on m'entend bien. Mais ce n'etait la qu'un prelude des pieces qu'elle devoit faire par la suite a son mari. Les pierreries engagees ; la vaisselle d'argent vendue ; des tableaux d'un prix extraordinaire enleves : car le Sieur Sotinet a toujours ete extremement curieux d'originaux, et se connaissait parfaitement en peinture.
+CORNICHON.
+Je le crois bien : il a porte les couleurs assez longtemps pour s'y connaitre. 
+BRAILLARDET.
+Cela est faux : il n'a jamais porte que du gris chez un homme d'affaires, et cela s'appelle apprenti sous-fermier, et non pas laquais, Maitre Cornichon, et non pas laquais. Mais, messieurs, s'il n'y avait que de la dissipation dans la conduite de la Dame Sotinet, vous n'entendriez pas retentir votre tribunal des plaintes de son mari ; mais puisqu'il est aujourd'hui oblige d'avouer sa honte et son malheur, approchez, financiers, plumets, chevaliers, et vous godelureaux les plus determines ; paraissez sur la scene. Oui, oui, messieurs, nous trouverons de tous ces gens-la dans l'equipage de la Dame Sotinet, equipage qu'elle promene scandaleusement par toute la ville, et la nuit et le jour. Mais, que dis-je, le jour ! Non, ce n'est point pour elle que le soleil eclaire, elle meprise cette clarte bourgeoise ; elle ne sort de chez elle qu'avec les oublieurs, et n'y rentre qu'a la faveur des crieurs d'eau-de-vie.
+CORNICHON.
+La pauvre femme y est bien obligee. Son mari a la cruaute de lui refuser un flambeau ; il faut bien qu'elle attende le jour pour s'en retourner chez elle.
+BRAILLARDET.
+On ne manquera pas de vous dire que celui pour qui je suis est un brutal ; j'en tombe d'accord : un ivrogne ; je le veux : un debauche ; j'y consens : un homme meme qui est quelquefois attaque de vertiges ; cela est vrai : mais, messieurs...
+SOTINET.
+Mais, monsieur l'avocat, qui vous a donne charge de dire tout cela ?
+BRAILLARDET.
+He ! Taisez-vous, ignorant, ce sont des figures de rhetorique qui persuadent. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand tout cela serait, dis-je, messieurs, sont-ce des raisons pour faire rompre un mariage ? Si je vous parlais des intrigues de la Dame Sotinet, de ses aventures galantes, de ses subtilites pour tromper son mari ; mais... vous rougiriez, illustres et vieilles coquettes de notre temps, de voir qu'une femme de dix-huit ans vous a laissees bien loin apres elle dans la carriere de la galanterie et j'apprendrais aux femmes qui m'ecoutent de nouveaux tours de souplesse (elles n'en savent deja que trop). Et apres cela, messieurs, une femme, qui est le precis, l'elixir, la mere-goutte de la transcendante coquetterie, viendra vous demander une separation ! Ne tiendra-t-il qu'a donner de pareilles detorses a l'Hymen ? Ordonnerez-vous qu'un mari soit declare veuf, avant que d'avoir eu le plaisir d'enterrer sa femme ? Non, non, vous n'autoriserez point une telle injustice. Nous esperons, au contraire, que vous obligerez la Dame Sotinet a retourner avec son mari, pour mieux vivre avec lui, s'il est possible. C'est a quoi je conclus.
+CORNICHON.
+Voila une belle conclusion. Oh ! ca, ca, nous allons voir. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Messieurs, je parle pour Damoiselle Zorobabel de Roqueventrousse, demanderesse en separation, contre Mathurin-Blaise Sotinet, sous-fermier, ci-devant laquais, et defendeur. L'aspect de ce senat cornu, pompe digne de l'Hymen ; cet attirail funeste et menacant, tout cela, je l'avoue, m'inspire quelque terreur : mais, d'un autre cote, l'equite de ma cause me recreat et reficit ; puisque je parle ici pour quantite de femmes, qui vous disent par ma bouche qu'un mari est a present un meuble fort inutile ; et que, quand il n'y en aurait point, le monde ne finirait pas pour cela. Le mois de mars 87, Mathurin-Blaise Sotinet, age de soixante-dix ans, sentit un prurit pour la noce, une demangeaison pour le mariage ; cette vieille rosse, refaite et maquignonee, cette meche seche et ridee, prit feu aux etincelles des yeux de celle pour qui je parle. Il l'epousa, et il ne tint qu'a lui de voir qu'il avait mis dans sa maison un tresor de sagesse et de prudence, puisqu'elle ne depensa, en se mariant, que les vingt mille ecus qu'elle avait eus en mariage. Rare exemple de moderation pour les femmes d'aujourd'hui, qui montent insolemment sur une grosse dot, pour insulter a l'economie de leurs maris.
+BRAILLARDET, en riant.
+Ah, ah, ah ! L'economie de la Dame Sotinet ! J'avais oublie de vous dire, messieurs, que le mariage fut presque rompu, parceque le futur n'avait envoye qu'un carreau de cinq cents ecus.
+CORNICHON.
+Je le crois bien : je connais la fille d'un drapier qui en a renvoye un de deux mille livres ; et si, dans ce temps-la, les drapiers n'avaient pas gagne leur proces contre les marchands de soie.
+BRAILLARDET.
+La femme d'un sous-fermier, un carreau de cinq cents ecus !
+CORNICHON.
+Oh ! Taisez-vous donc, si vous pouvez. Si on n'impose silence a Maitre Braillardet, je n'acheverai jamais ma plaidoirie. C'est une femme que cet homme-la ; il ne debabille pas. Vous la voyez, messieurs, a votre tribunal, cette innocente opprimee, cette femme qui engage ses pierreries, vend sa vaisselle d'argent. Mais pourquoi fait-elle tout cela ? Pour tirer son mari de prison. Le Sieur Sotinet etait entre malheureusement dans l'affaire du bois carre. Tous ses associes sont en fuite. On l'apprehende au corps ; on l'entraine au for-l'eveque. Cette chaste tourterelle, privee de son tourtereau, que d'impitoyables sergents lui ont enleve, va, court, engage tout. Mais pourquoi, messieurs ? Pourquoi encore une fois ? Pour tirer son mari d'un cul-de-basse-fosse.
+BRAILLARDET.
+En verite, messieurs, voila une calomnie atroce. Le Sieur Sotinet n'a jamais ete en prison. Je demande reparation.
+CORNICHON.
+Un sous-fermier, jamais en prison ! Eh bien ! Donnez-vous un peu de patience, nous l'y ferons bientot aller. Mais que dirons-nous, messieurs, de ses debauches, ou, pour mieux dire, que n'en dirons-nous pas ? Car, jusques a quel exces de crapule cet homme-la ne s'est-il point laisse emporter ? Mais, que dis-je, un homme ? Non, messieurs, c'est plutot une futaille, ou, pour mieux dire, un rape qui ne fait que se remplir et se vider a tous moments. C'est un bouchon ambulant ; c'est une eponge toute degouttante de vin, dont les vapeurs obscurcissent et soufflent enfin la chandelle de sa raison.
+BRAILLARDET.
+Je vous arrete la. C'est une calomnie diabolique... Le Sieur Sotinet ne boit que de l'eau ; cela est de notoriete publique.
+CORNICHON.
+Un homme qui a ete toute sa vie dans les aides ne boit que de l'eau ! N'avait-il bu que de l'eau, Maitre Braillardet, quand, sortant tout chancelant d'un cabaret, pour assister a l'enterrement d'un de ses meilleurs amis, il se laissa tomber dans la fosse, ou il serait encore, si, par malheur pour sa femme, on ne l'en eut retire ? N'a-t-il bu que de l'eau, quand il revient chez lui le soir, amenant avec soi des femmes d'une vertu delabree, et qu'il maltraite celle pour qui je suis de paroles et de coups ?
+BRAILLARDET.
+De coups ! Ah ! Messieurs, on ne sait que trop que c'est le pauvre homme qui les a recus. Il a porte plus de trois mois un emplatre sur le nez, d'un coup de chandelier que sa femme lui a donne.
+SOTINET, en pleurant.
+Cela est vrai. Je ne saurais m'empecher de pleurer toutes les fois que j'y songe.
+CORNICHON.
+Vous etes sous-fermier, monsieur, et vous pleurez !Mais, s'il n'y avait que des coups a essuyer, je ne m'en plaindrais pas ; car on sait bien qu'une femme veut etre un peu pansee de la main ; mais de se voir, a tous moments, exposee aux extravagances d'un fou !
+SOTINET.
+Moi, fou !
+CORNICHON.
+Oui, messieurs, je vous le garantis tel, et des plus fous qui se fassent. On n'a qu'a lire les depositions des temoins, on verra qu'on l'a encore vu aujourd'hui courir les rues a pied, la barbe faite d'un cote, et le bassin passe a son cou.
+SOTINET.
+Je n'ai jamais fait d'autre folie que celle de prendre ma femme. He ! Morbleu, plaidez votre cause si vous voulez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CORNICHON.
+Vous voyez, messieurs, que votre presence ne saurait servir de gourmette a ce furieux. Que serait-ce, si cette pauvre innocente se trouvait toute seule avec lui ? Approchez, malheureuse opprimee ; venez, epouse infortunee : c'est a l'ombre de ce tribunal que vous trouverez un asile assure contre la petulance de votre persecuteur. Souffrirez-vous, messieurs, qu'une femme qui (comme dit fort elegamment un savant philosophe) doit etre, vas dignitatis, non voluptatis, devienne un grenier a coups de poing ? Qu'une femme, qui doit etre la soucoupe des plaisirs d'un mari, soit le ballon de ses emportements ? Non, messieurs, vous ne souffrirez pas que ces innocentes brebis soient si cruellement egorgees par ces loups ravissants ! Eh ! Qui voudrait dorenavant se mettre en menage, si vous fermiez la porte aux separations ? Le divorce ayant ete de tout temps tout ce qu'il y a de plus piquant dans le mariage, ce ragout de veuvage anticipe, cette viduite prematuree que vous allez servir a la Dame Sotinet, va faire venir l'eau a la bouche a quantite de femmes de Paris : elles en voudront tater. Songez, messieurs, aux honneurs que vous allez recevoir ! Cornuum quanta seges ! Vous aurez plus d'affaires que toutes les juridictions de la France. L'hotel de Bourgogne crevera de monde : vous en aurez toute la gloire, et les comediens italiens tout le profit. Dixi. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)BRAILLARDET.
+Quand il y aurait quelque petit grain de folie, il y a des intervalles...
+CORNICHON.
+Ah ! Taisez-vous, taisez-vous. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le DIEU de L'HYMEN.
+Ayant aucunement egard a la requete de la partie de Maitre Cornichon, le dieu de l'Hymen a ordonne que la Dame Sotinet demeurera separee de corps et de biens d'avec son mari ; qu'elle reprendra les vingt mille ecus qu'elle a apportes en mariage ; qu'elle jouira, des a present, de son douaire, etant reputee veuve, et d'une pension de trois mille livres ; et, attendu la demence averee du Sieur Sotinet, nous avons ordonne qu'a la diligence de sa femme, il sera incessamment enferme aux Petites-Maisons, ou a Saint-Lazare.
+SOTINET.
+Moi, enferme ! Moi, a Saint-Lazare !
+CORNICHON.
+Bon ! Il y a dix ans que vous devriez y etre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Monsieur L'Hymenee, ce n'est pas tout : vous venez de defaire un mariage ; mais il s'agit d'en refaire un autre entre Colombine et moi.
+COLOMBINE.
+Ah ! Tres volontiers, a condition que l'on nous demariera au bout de l'an.
+ARLEQUIN.
+Je le veux bien ; car j'ai toujours oui dire qu'une femme et un almanach sont deux choses qui ne sont bonnes tout au plus que pour une annee.
+
+	==================================================

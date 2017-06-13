@@ -1,0 +1,1652 @@
+********************************************************
+	DC.Title                  = LA COQUETTE DE VILLAGE OU LE LOT SUPPOSE, COMEDIE EN TROIS ACTES.
+	DC.Author                 = DUFRESNY, Charles
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:21.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/DUFRESNY_COQUETTEDUVILLAGE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LA COQUETTE DE VILLAGE OU LE LOT SUPPOSE COMEDIE EN TROIS ACTES.M. DCC. XXXI. Avec approbation et Privilege du Roi.
+par M. Dufresny
+	A PARIS, Chez BRIASSON, rue Saint Jacques, a la Science.
+	
+	Representee pour la premiere fois le 27 mai 1715, au Theatre de la rue des Fosses Saint-Germain.
+	PREFACE DE L'AUTEUR.
+Depuis que l'on joue le Lot suppose, Je me suis attache a savoir au vrai les discours qu'on en tient dans le monde ; en voici quelques-uns des plus marques.
+Le premier, qui par bonheur est assez general, c'est celui-ci : Cette Comedie m'a plu, m'a rejoui ; C'est ce temoignage qui prouve la reussite de ma piece ; il met la critique en defaut, il abrege la dissertation. 
+Par les autre discours qui sont plus varies, j'ai connu le fort et le faible de mon ouvrage, et le caractere de mes juges. Une decision trop favorable me fera reconnaitre un ami zele, s'il dit : La piece est bonne, mais il y a des defauts. Au contraire, la piece ne vaut rien, dit un autre, mais il y a d'assez jolies choses. 
+Je vous entends ; vous faites ensuite l'eloge de quelque saillie brillante, je vous reconnais, vous etes auteur, monsieur Vadius. 
+J'apercois dans les Tuileries un docte censeur ; il est de la clique d'Aristophane, il a l'air ennuye et degoute, car il sort de ma comedie : il me voit, il prend un autre visage, et me dit gracieusement : Je vous felicite, il y a de l'esprit dans tout ce que vous faites. Je vous connais, masque ; vous me vendez cher cet esprit-la, quand vous faites mon eloge a d'autres qu'a moi. 
+Il y en a qui n'ont ni entetement, ni fiel ; mais avant que de se declarer, ils veulent savoir a qui ils ont a faire. Parmi ceux-la, voici la decision regnante : J'ai vu la piece, il y a du bon et du mauvais. Quelqu'un se dechaine-t-il contre tout l'ouvrage, celui-ci devient son echo, il blame tout aussi ; le mauvais aneantit le bon, elle est toute detestable. Vient-il un homme qui en est charme, le meme echo se tourne a bien ; c'est ce que je vous disais, conclut-il, la piece est excellente ! 
+Ces cameleons de critique ne hasardent pas beaucoup ; mais voici un juge important qui risque encore moins, c'est un censeur muet. Le somme-t-on de detailler son jugement sur le fond du poeme, sur l'action, les situations, les caracteres ; un sourire dedaigneux condamne tout cela, mais a jeu sur ; car des qu'il a hausse les epaules, et qu'il vous a tourne le dos, sa censure est sans replique. 
+Je garde pour une autre occasion la critique des Critiqueurs, cela nous menerait trop loin dans la petite preface d'une petite piece ; car au fonds, une piece en trois actes n'est qu'une petite piece, disent avec mepris quelques auteurs, qui, pour tout eloge d'une piece en cinq actes, m'en demanderait une en huit. 
+On m'accusera peut-etre d'avoir fait passer en revue ces critiques suspectes, pour insinuer que les autres approuvent ma comedie. Je me defendrais mal de cette accusation, c'est plutot fait d'avouer que je serais homme a dire moi-meme de ma piece une partie du bien que mes amis en disent. C'est trop de vanite ! S'ecriera quelqu'un. J'en conviens ; La vanite sied mal a un auteur, mais elle ne laisse pas de m'etre utile dans un siecle ou la malignite des censeurs irait jusqu'a convenir avec moi que mon poeme ne vaut rien, si j'etais assez modeste pour le dire : a Dieu ne plaise, je n'outrerai point la modestie ; mais aussi je borne ma vanite a l'unique espece de louange qu'un auteur peut et doit meme se donner, qui est de savoir les regles de son art. Il serait ridicule, par exemple, a un architecte, de dire, par modestie, qu'il ne sait pas les regles de l'architecture ; ce serait dire qu'il est un sot, car il doit savoir son metier.
+Plus sot encore serait celui qui dirait : J'ai du genie, j'ai du gout, j'ai le don des graces ; ainsi, mon architecture doit vous plaire. On ne saurait prouver qu'on doit plaire, et se vanter de ce qu'on ne peut prouver, c'est sottise ; mais a l'egard des regles, la dispute etant fondee entre l'architecte et le critique, le sot serait celui des deux qui prouverait mal la regularite ou l'irregularite de l'edifice.
+Ce que je dis la de l'architecture se peut appliquer aux ouvrages du theatre ; ils ont cela de commun avec les grands edifices, que le plus parfait ne laisse pas d'avoir quantite de defauts ; ainsi, la critique a toujours beau jeu contre un poeme comique, qui a des difficultes infinies, et dont la plupart sont insurmontables ; c'est ce que je ferai voir dans un traite de la comedie que j'espere donner bientot au public. 
+
+ACTEURS.
+LE BARON, seigneur du chateau.
+LA VEUVE, voisine du baron.
+ARGAN, voisin du baron.
+GIRARD, receveur du village.
+LUCAS, fermier du baron.
+LISETTE, fille du fermier.
+
+
+
+
+			ACTE I
+
+
+SCENE I. Girard, La Veuve.
+GIRARD tient deux lettres, et lit le dessus d'une des deux.
+De Paris. A monsieur le baron du hameau. 
+Gardons-lui cette lettre ; il n'est pas au chateau. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et l'autre a moi, Girard. J'ose bien me promettre 
+Que la liste des lots me vient dans cette lettre. 
+Justement : mon cousin, imprimeur a Paris, 			[5]
+Favorise par la le parti que j'ai pris. 
+L'amour qui m'a guide dans cette fourberie, 
+Fera qu'a la faveur de cette loterie 
+Et de vous, j'obtiendrai la fille de Lucas. 
+LA VEUVE.
+J'attends monsieur Argan, pourquoi ne vient-il pas ?			[10]
+GIRARD, lit la lettre.
+De Paris. Mon cher cousin, avant que d'avoir distribue les listes que j'imprime pour la grande loterie, je vous envoie deux listes fausses et faites expres, ou j'ai mis en gros caracteres : le gros lot pour Lucas, cent mille francs, avec la devise et le numero ; c'est ce que vous m'avez demande pour plaisanter dans votre village, en faisant croire a votre emule, le fermier Lucas, qu'il a le gros lot de cent mille francs. 
+Avec ceci, j'espere obtenir ma Lisette, 
+Lucas, pour ce gros lot, croyant fortune faite, 
+Des fermes du pays me cedera les baux ; 
+Il est homme a donner dans de pareils panneaux. 
+Au fond, c'est pour son bien ; je vous ai fait comprendre 			[15]
+Que cela l'obligeant a me faire son gendre, 
+Il y gagnera. Mais, qui vous fait tant rever ? 
+LA VEUVE.
+C'est que monsieur Argan me doit venir trouver. 
+GIRARD.
+Bientot dans le chateau ce voisin va se rendre. 
+LA VEUVE.
+J'ai de l'impatience. 
+GIRARD.
+Eh ! Devez-vous en prendre ? 			[20]
+Vous ne vous piquez pas de l'aimer tendrement ; 
+C'est un vieux epouseur qu'on attend froidement. 
+LA VEUVE.
+Tais-toi, Girard, tais-toi ; tu sais que je l'estime. 
+GIRARD.
+Croire vieux un vieillard, ce n'est pas un grand crime ; 
+Je l'honore de plus, etant son receveur ; 			[25]
+La recette est petite, et pour vous, de bon coeur, 
+Je voudrais lui payer cent mille ecus de rente. 
+LA VEUVE.
+Ce serait trop pour moi, demoiselle suivante, 
+Car c'etait mon etat quand j'etais a Paris, 
+Mais ici j'ai de plus un grade que j'ai pris 			[30]
+Avec feu mon mari, doyen de ce baillage. 
+C'est ainsi que je vins m'anoblir au village ; 
+Bonne noblesse au fond, et qui vaut prix pour prix 
+Celle que du village on va prendre a Paris. 
+GIRARD.
+Reparlons de Lisette et reprenons querelle : 			[35]
+Se peut-il qu'ayant pris tant d'empire sur elle, 
+Par droit de voisinage et droit de parente, 
+Au lieu de l'assagir par votre autorite, 
+Vous travaillez encore a la rendre coquette ? 
+LA VEUVE.
+Langage de Paris ; c'est la rendre parfaite. 			[40]
+GIRARD.
+Belle perfection ! Helas ! Bien mal lui prit 
+Quand vous vintes ici lui raffiner l'esprit, 
+Et lui rendre le coeur plus faux et plus superbe. 
+LA VEUVE.
+A neuf ans, elle etait deja coquette en herbe ; 
+Je n'ai fait que tourner son naturel en bien, 			[45]
+Afin que sa beaute ne tournat pas a rien, 
+Qu'elle lui profitat par un bon mariage. 
+Je veux que Lisette ait le moyen d'etre sage. 
+Elle a pour la fortune un naturel exquis, 
+J'ai joint a ses talents tout ce que j'ai d'acquis. 			[50]
+GIRARD.
+Tant de perfections en ont fait un prodige, 
+Mais en coquetterie. 
+LA VEUVE.
+Eh ! C'est tant mieux, te dis-je. 
+C'est ce qui fait valoir l'esprit et la beaute ; 
+Nous avons la-dessus tant de fois dispute. 
+Par coquette, j'entends une fille tres sage, 			[55]
+Qui du faible d'autrui sait tirer avantage, 
+Qui toujours de sang-froid, au milieu du danger, 
+Profite du moment qu'elle a su menager, 
+Et sauve sa raison, ou nous perdons la notre. 
+Une coquette sage est plus sage qu'une autre, 			[60]
+Puisque etant exposee elle a plus combattu. 
+On ne le peut nier ; la plus forte vertu 
+C'est celle qui soutient l'epreuve la plus rude. 
+La coquette a des droits bien plus hauts que la prude : 
+Le beau droit, que celui de faire des heureux ! 			[65]
+Une prude en sa vie epouse un homme, ou deux ; 
+Mais l'habile coquette, en n'epousant personne, 
+Flatte, fait esperer, promet, jamais ne donne, 
+Et laissant a chacun l'amour et ses desirs, 
+Par sa sagesse enfin fait durer les plaisirs. 			[70]
+GIRARD.
+Lisette, a mon avis, fait trop durer ma peine ; 
+J'ai beau m'en plaindre au pere ; helas ! Ma plainte est vaine. 
+Il me meprise. 
+LA VEUVE.
+Oui, car tu sors de ton etat ; 
+Tu brigues ma parente, et tu n'es qu'un pied-plat. 
+GIRARD.
+Et tres plat, d'accord ; mais c'est sans se meconnaitre. 			[75]
+Dois-je a Lucas respect ? Il m'en devrait peut-etre ; 
+Mais, non ; chacun de nous prime sur son palier. 
+Et qu'un receveur soit le gendre d'un fermier, 
+C'est le droit du jeu. 
+LA VEUVE.
+Bon ! C'est le vieux jeu, sans doute ? 
+Je vois avec regret ton projet en deroute ; 			[80]
+Lisette se repent d'avoir eu des egards, 
+Et n'en veut plus, dit-elle, avoir pour des Girards ; 
+Enfin, le pere fier, et la fille cruelle, 
+Trouvent que ta fortune est encor trop nouvelle ; 
+Tu dois en tout pays trouver des coeurs ingrats : 			[85]
+Maltotier de village, encor dans les regrats ; 
+Mais pendant quelque temps, agiote, grappille, 
+Controle, rogne, en plain pille et repille ; 
+A force d'encaisser, de compter, d'escompter, 
+Tu pourras parvenir a te faire ecouter. 			[90]
+GIRARD.
+Mon amour aujourd'hui vous parait temeraire ; 
+Vous blamer mon projet, ouais quel est ce mystere ? 
+J'ai, depuis pres d'un mois, rode, tourne, couru ; 
+En mon absence, helas ! Qu'est-il donc survenu ? 
+J'ouvre les yeux enfin. Lucas vient, je vous laisse. 			[95]
+Jusqu'au revoir, madame. 
+LA VEUVE.
+Allons a ce qui presse. 
+SCENE II. La Veuve, Lucas.
+LUCAS.
+O forteune, o forteune, est-c'baintot que j't'aurai ? 
+Tu t'enfuis toujours d'moi, quand est-c'que j't'attraperai ? 
+LA VEUVE.
+Toujours fortune en tete ? 
+LUCAS.
+Oui ; c'est qu'a m'fait envie. 
+Je sis si las, si las, de labourer ma vie ! 			[100]
+Labourer pour stici, labourer pour stila ! 
+J'ai laboure trente ans ; apres trente ans, me vla. 
+Labourer pour autrui, c'est un ptit labourage. 
+Faut labourer pour soi, c'est ca qui donn'courage. 
+Pour egaliser tout, faudrait-il pas, morgoi, 			[105]
+Que les autre'a leur tour labourissent pour moi ?
+LA VEUVE.
+Lucas voudrait d'abord monter sur le pinacle. 
+LUCAS.
+Tout d'un coup, oui, m'trouver tout vnu comme un miracle.
+J'ai l'principal pour ca, pisque j'sis hasardeux : 
+C'est pu d'a moique fait, il n'faut pu qu'etre heureux. 			[110]
+A quitte ou double aussi j'ai joue, car ca m'ennuie, 
+J'ai quarante billets a cette loterie. 
+LA VEUVE.
+C'est placer de l'argent tres prudemment. 
+LUCAS.
+Oui da.
+Car j'aime les gros lots, j'frai ma forteun'par la. 
+LA VEUVE.
+Vous la ferez bientot, Lucas, pour votre fille, 			[115]
+Et l'amour du baron augmente. 
+LUCAS.
+Il en petille, 
+Mais ma fill'n'aura pas l'adresse de l'epouser. 
+LA VEUVE.
+Elle est maligne et fine. 
+LUCAS.
+A cmence a s'eguiser. 
+LA VEUVE.
+Et le baron, qui n'est qu'un baron de village, 
+N'a pas, comme tu sais, grand esprit en partage. 			[120]
+SCENE III. La Veuve, Lucas, Lisette.
+LUCAS.
+N'faut pas dir'c'est un sot, car tout l'mond'el'sait bien : 
+Mais Lisett'nous ecoute. Eh vien, ma fille, eh vien. 
+Madame m'disait la, q'ton esprit la contente, 
+A dit qu'tes si subtile, a dit q'tes si savante... 
+LISETTE.
+Mon pere, je ne sais que ce qu'elle m'apprend. 			[125]
+LUCAS.
+Tant pis, ma fill', tant pis. Car quand la terr'ne rend 
+Pas pu que c'que j'y s'mons ; ca ne vaut pas la culture. 
+LA VEUVE.
+Vous avez aujourd'hui joint un peu de parure 
+A la simplicite de ce champetre habit. 
+LISETTE.
+C'est pour plaire au baron comme vous m'avez dit. 			[130]
+Je m'en suis fait aimer, je suis obeissante, 
+Et je voudrais, afin que vous fussiez contente, 
+Qu'il m'epousat bien vite. Ainsi c'est pour cela, 
+Que j'ai pris aujourd'hui cette parure-la. 
+LA VEUVE.
+Vous l'avez fait aimer, c'est deja quelque chose : 			[135]
+Mais pour faire epouser il faut doubler la dose 
+De regards, de soupirs, de petites facons ; 
+Mettez en oeuvre enfin mes dernieres lecons. 
+Par de simples appas, d'abord tachons de plaire, 
+Peu d'affectation, baisser les yeux, se taire, 			[140]
+Paraitre embarrassee ; un homme de sang-froid 
+Voyant trop minauder en croit moins qu'il n'en voit. 
+Il soupconne, examine, et reconnait la feinte ; 
+Mais quand la dupe est prise, affectez tout sans crainte ; 
+Les traits les plus grossiers de l'affectation 			[145]
+Loin de le rebuter charment sa passion, 
+Et l'art est pris par lui pour la belle nature. 
+LUCAS.
+Je comprends qu'a moitie vot'bell'predicature, 
+Faut que c'quon dit soit bau, car vous m'ebahissez. 
+LA VEUVE.
+Lisette m'entend bien. 
+LISETTE.
+Pas tant que vous pensez : 			[150]
+Vous m'avez bien appris, me parlant de ces mines, 
+Que celles qui les font, sont des femmes bien fines ; 
+Mais moi, qui ne suis pas fine comme elles sont, 
+Je ne pourrais jamais faire comme elles font. 
+LA VEUVE.
+Ah ! Que vous irez loin ; vous savez plaire et feindre. 			[155]
+LISETTE.
+Vous vous trompez ; en rien je ne puis me contraindre. 
+Si je plais au baron, sans feindre je lui plais ; 
+S'il fallait le tromper, je ne pourrais jamais. 
+Quand je veux dire un mot, contraire a ma pensee, 
+On le voit a mon air, je suis embarrassee. 			[160]
+LA VEUVE.
+Si le baron pouvait, par un tendre retour, 
+Reparler du contrat qu'il promit l'autre jour ; 
+Il est journalier, quinteux dans la tendresse, 
+On pensa profiter de son jour de faiblesse. 
+Vous a-t-il aujourd'hui repromis ? 
+LISETTE.
+Helas ! Non. 			[165]
+LA VEUVE.
+Il aura reflechi ; c'est son jour de raison, 
+Son bon jour : mais l'acces pourra bien lui reprendre ; 
+Pour le faire signer, c'est ce qu'il faut attendre. 
+Si quelque chose peut hater cet heureux jour, 
+C'est la feinte ; feignez un violent amour. 			[170]
+LISETTE.
+Helas ! Je feindrais mal. 
+LA VEUVE.
+Ca, je suis inquiete. 
+Je veux me marier aussi bien que Lisette. 
+Monsieur Argan m'occupe, et je vais voir chez lui, 
+Si, comme il m'a promis, il termine aujourd'hui. 
+SCENE IV. Lucas, Lisette.
+LUCAS.
+Faut feindre, a dit la veuve, et toi t'as la sottise 			[175]
+De n'savoir pas encore ben feindre d'la feintise.
+Tu dis trop c'que tu pense, et c'est un defaut qu'ca ; 
+Faut avoir la vertu d'mentir par-ci par-la. 
+Tu n'las guer', ca m'fache. 
+LISETTE.
+Oh ! Consolez-vous, mon pere. 
+Si je suis sotte encor, je ne le suis plus guere. 			[180]
+Je sais feindre bien mieux que la veuve ne croit, 
+J'ai de la ruse encor, bien plus qu'elle n'en voit ; 
+Si je lui dis toujours que je suis innocente, 
+Que malgre ses lecons je suis une ignorante. 
+C'est tout expres, afin qu'elle se fie a moi. 			[185]
+LUCAS.
+Oh ! Tu fais ben c'qu'a t'dit, et je ne m'plains pu d'toi. 
+LISETTE.
+Vous allez voir comment je veux faire fortune. 
+LUCAS.
+La forteun' c'est not'maitre. 
+LISETTE.
+Il est vrai, c'en est une ; 
+Mais s'il m'allait manquer. 
+LUCAS.
+Ha, ha, j'vois ben qu'tu veux, 
+Afin qu'un n'te manque pas, en avoir putot deux. 			[190]
+LISETTE.
+Oui, tout au moins, mon pere, et c'est a quoi je tache : 
+Mais l'autre a moins de bien, c'est la ce qui me fache. 
+Pour monsieur le baron, voici ce que je crains. 
+Quoique la veuve dise : ah ! J'ai bien des chagrins ! 
+Des discours, qu'il me tient, je ne suis point contente ; 			[195]
+Je l'ai tant fait parler en faisant l'innocente... 
+Non, pour le mariage il n'entend point raison ; 
+Il dit qu'il veut rester encre dix ans garcon. 
+LUCAS.
+Rester garcon encor, garcon ! Oh ! Oh ! Queux drille ! 
+Il voudrait t'epouser ! Q'tu restisse aussi fille ! 			[200]
+LISETTE.
+A l'entendre parler, les amours d'un seigneur, 
+Aux filles comme moi, font encor trop d'honneur. 
+LUCAS.
+Non, non, d'ces signeurs-la, l'amour sans epousaille 
+Ote aux filles toujours pu d'honneur qui n'en baille. 
+LISETTE.
+L'un a beaucoup de bien, mais il me trompera ; 			[205]
+L'autre n'en a pas tant, mais il m'epousera. 
+LUCAS.
+L'autre amoureux, c'est donc monsieur Girard peut-etre ?
+LISETTE.
+Fi ! 
+LUCAS.
+Je l'y dirai donc : fi ! Dres qu'j'le verrai paraitre ? 
+Je l'chasserai. 
+LISETTE.
+Le chasser ? Ah ! Gardez-vous en bien. 
+Laissez-le etre amoureux, cela ne gate rien ; 			[210]
+Si les autres manquaient et lui qui fit fortune, 
+Que sait-on ? 
+LUCAS.
+C'est ben dit ; en vla donc tras pour une ? 
+Mais qu'est donc c'nouveau-la q'tu dis qu'est l'pu certain ? 
+LISETTE.
+S'il m'epouse, la veuve aura bien du chagrin. 
+LUCAS.
+Diantre ! 
+LISETTE.
+J'empecherai par la son avantage. 			[215]
+LUCAS.
+Morgue ! 
+LISETTE.
+Car je romprai par la son mariage. 
+LUCAS.
+Tatigue ! 
+LISETTE.
+Ce qui va bien plus vous etonner, 
+Par la j'aurai les biens qu'on voulait lui donner : 
+J'epouse son amant. 
+LUCAS, s'ecriant.
+Ah ! Jarni ventrebille ! 
+Tu la ruine, ell' qui t'aim' comme si t'etais sa fille. 			[220]
+LISETTE.
+Puis-je faire autrement ? J'avais dit non d'abord, 
+Et j'aurais bien voulu ne lui point faire tort ; 
+Mais elle m'a donne mes lecons de fortune, 
+Qu'il faut bien profiter de ma jeunesse ; et d'une, 
+L'autre lecon qu'encor hier elle me fit ; 			[225]
+C'est que l'on doit aimer d'abord pour son profit. 
+L'aime la veuve, mais... 
+LUCAS.
+Mais, t'aim'plu c'qui profite. 
+Ces lecons-la, c'est sa faute, a n'a que c'qu'a merite. 
+LISETTE.
+J'en suis au desespoir ; au fond, j'ai le coeur bon. 
+J'aimerais mieux pour elle epouser le baron. 			[230]
+LUCAS.
+Oui, car il est pu riche, et tu gagnerais au change ; 
+En cas de tras amants, v'la c'ment l'trio s'arrange. 
+L'baron vaut mieux qu'Argan, il a six fois pu d'bien. 
+Argan vaut mieux qu'Girard ; Girard vaut mieux que rien. 
+LISETTE.
+C'est comme rien, oui ; mais a l'egard des deux autres, 			[235]
+Il faut tenir secrets mes desseins et les votres. 
+LUCAS.
+Faut bien du s'gret, oui, car d'ces deux bons epouseux, 
+Gni'en aurait pu pas un, s'ils savaient qu'ils sont deux. 
+LISETTE.
+Monsieur le baron rentre. 
+LUCAS.
+Oui, c'a j'm'en vas donc faire 
+C'que tu m'as dit. 
+LISETTE.
+Feignez d'etre bien en colere. 			[240]
+Il faut voir s'il m'epouse. 
+SCENE V. Lucas, Lisette, Le Baron.
+LUCAS a Lisette.
+Oh, c'est l'definitif. 
+Il t'epous'ra morgue, car le v'la tout pensif. 
+LE BARON, a part.
+Lucas veut me quitter ! Ouf, cela m'inquiete : 
+Pourrai-je me resoudre a ne plus voir Lisette ? 
+LISETTE, bas a son pere.
+Criez bien fort, et puis sortez sans lui parler. 			[245]
+LUCAS.
+Oui, j'veux quitter not'maitre, et j'm'en vas m'en aller. 
+LISETTE.
+Eh, ne le quittez pas. 
+LUCAS.
+J'ly ai dit, je n'sis point traitre. 
+J'ly ai dit Tantot, j'm'en vas. 
+LISETTE.
+Quitter un si bon maitre. 
+LUCAS.
+Aussi ben te v'la grande, et c'est eun' cruaute ; 
+Dans un villag'tu pars to temps et ta biaute : 			[250]
+A Paris en mariage on vend mieux sa jeunesse ; 
+Oui, j't'enmene a Paris, et dres demain, car ca presse. 
+Tanquia qu'un vartigo m'a fache tout a fait, 
+Et j'n'entends pu raison, dres qu'j'ai la mon toupet. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'sis fache de l'quitter, mais morgue j'm'en console. 			[255]
+SCENE VI. Lisette, Le Baron.
+LE BARON.
+Il m'a tantot brusque sur un sujet frivole ; 
+Est-il devenu fou ? Que peut-il donc vouloir ? 
+LISETTE, tire son mouchoir.
+Je ne vous verrai plus, j'en suis au desespoir. 
+LE BARON.
+Toujours sur la fortune il a quelque chimere. 
+LISETTE.
+Il a tort... car, monsieur, je vois ce qu'il espere. 			[260]
+LE BARON.
+Il voudrait tout d'un coup devenir grand seigneur. 
+LISETTE, regardant tendrement le baron.
+Oui ; me voir grande dame, et c'est la mon malheur. 
+Il s'imagine... mais... c'est ce qui ne peut etre, 
+La fille d'un fermier n'est pas tant que son maitre. 
+LE BARON.
+Vous serez avec moi comme mon propre enfant. 			[265]
+LISETTE.
+Oh ! Que ce n'est pas la, monsieur, ce qu'il entend. 
+LE BARON.
+Il veut me payer moins de la ferme je pense ? 
+LISETTE.
+Il veut bien autre chose. 
+LE BARON.
+Oui, quelque recompense ? 
+LISETTE commencant a pleurer.
+Non, ce n'est point cela que vous disiez un jour ; 
+La ce jour, que pour moi vous aviez tant d'amour ; 			[270]
+Vous vouliez, disiez-vous, ecrire une promesse, 
+Vous ne m'aimez plus tant. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE BARON.
+Ce jour-la ma tendresse 
+Etait comme aujourd'hui, pour vous pleine d'egards, 
+Je vous aime, Lisette. 
+LISETTE.
+Et si pourtant je pars. 
+LE BARON.
+De mon amour enfin vous aurez un sur gage. 			[275]
+Un contrat... 
+LISETTE, suspendant ses pleurs.
+Aujourd'hui ? 
+LE BARON.
+Contrat de mariage. 
+Il est ecrit deja, j'ai fait le premier pas ; 
+Signer, c'est le second. 
+LISETTE.
+Vous ne signerez pas ! 
+LE BARON.
+Je signerai. 
+LISETTE.
+Mais quand ? Car mon pere m'emmene 
+Il est si mefiant ! 
+LE BARON.
+Ma parole est certaine. 			[280]
+LISETTE.
+Je vous crois ; mais mon pere... 
+LE BARON.
+Oui, je vous fais serment. 
+LISETTE.
+Ne jurez pas pour moi, je vous crois bonnement : 
+Mais mon pere... 
+LE BARON.
+Je vais l'apaiser, je vous jure. 
+LISETTE, pleurant et l'arretant par le bras.
+Non, il va m'emmener, c'est de quoi je suis sure. 
+LE BARON.
+Non, non. Je me fais fort de retenir Lucas. 			[285]
+LISETTE.
+C'est moi qui veut partir, car vous ne m'aimez pas. 
+SCENE VII.
+LISETTE.
+Non, ce n'est qu'un trompeur, qui me croit innocente. 
+Il faut prendre au plutot l'amant de ma parente ; 
+Il n'a guere de bien ; c'etait mon pis-aller : 
+Mais il vient du jardin encor me reparler. 			[290]
+Continuons ; J'ai fait la naive et la tendre, 
+Faisons la reveuse. 
+SCENE VIII. Lisette, Argan.
+ARGAN.
+Oui, Lisette va se rendre. 
+Qu'elle est belle en revant ! Que de charmes je vois ! 
+Elle soupire !... Hon, je sens que c'est pour moi. 
+A quoi revez-vous ? 
+LISETTE.
+Ah ! Vous m'avez bien surprise. 			[295]
+Je revais... que je viens d'avoir trop de franchise, 
+Tout a l'heure au jardin... 
+ARGAN.
+C'est ce qui m'a charme : 
+Vous m'avez presque dit, non que je suis aime, 
+Mais que vous m'aimerez bientot. 
+LISETTE.
+Je suis confuse 
+De ce que vous pensez, je vous demande excuse ; 			[300]
+Vous aimer, ce serait vous manquer de respect. 
+ARGAN.
+Manquez-en, je le veux ; l'amour trop circonspect 
+N'obtient rien. 
+LISETTE.
+Mais je n'ose en dire davantage ; 
+Encouragez-moi donc ! 
+ARGAN.
+Pour vous donner courage, 
+Je fais un contrat, mais comblez donc mes desirs ! 			[305]
+SCENE IX. Argan, Lisette, La Veuve, qui ecoute.
+ARGAN.
+Accompagnez d'un mot, vos regards, vos soupirs. 
+Ce mot, c'est le grand mot ; dites-moi : je vous aime 
+LISETTE.
+Je vous l'ai dit cent fois, mille fois en moi-meme. 
+ARGAN.
+En vous-meme ? 
+LISETTE.
+Helas ! Oui. 
+ARGAN.
+Quelle naivete ! 
+LISETTE.
+Pourquoi vous le cacher, si c'est la verite ? 			[310]
+ARGAN.
+Voila l'amour, voila la sincerite pure, 
+Voila ce qui s'appelle aimer comme nature : 
+Ca Lisette, voici le parti que j'ai pris : 
+Je veux vous emmener en secret a Paris, 
+Car d'abord en secret ici je vous epouse : 			[315]
+Cachons tout a la veuve, elle en serait jalouse : 
+Je vous epouserai sans qu'elle en sache rien, 
+Au lieu d'elle, en un mot, vous aurez tout mon bien. 
+LISETTE.
+Ah ! Je ne veux que vous, rien que votre personne : 
+Donnez-lui votre bien. 
+ARGAN.
+Mais si je le lui donne, 			[320]
+Nous deux et nos enfants, de quoi donc vivrons-nous ? 
+LISETTE.
+Je n'en veux point pour moi, mais il en faut pour vous. 
+ARGAN.
+Ca separons-nous. Non... demeurez. 
+LISETTE.
+Je demeure. 
+ARGAN.
+Allez et trouvez-vous vers le bois dans une heure. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allez vite. Attendez, le mariage est fait. 			[325]
+LISETTE, apercevant la veuve.
+Ah ! Tout est decouvert. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARGAN.
+Je suis un indiscret. 
+SCENE X. La Veuve, Argan, interdit.
+LA VEUVE.
+Qu'ai-je entendu ! J'en suis muette de surprise. 
+ARGAN.
+Et moi je suis muet de honte... par franchise, 
+Je vais vous avouer... ce que vous avez vu. 
+J'ai tort... mon mariage avec vous resolu 			[330]
+Devait bien m'empecher d'en contracter un autre : 
+Mais comme l'amitie seule faisait le notre, 
+L'amour est le plus fort, il fera celui-ci : 
+Au fond j'ai tort pourtant de vous trahir ainsi 
+Mais si vous compreniez combien Lisette m'aime, 			[335]
+Par amitie pour moi vous me diriez vous-meme : 
+Epousez-la, monsieur, de bon coeur j'y consens. 
+Quel plaisir, a mon age, a cinquante et quatre ans, 
+D'etre aime pour moi-meme : oui, la, pour ma personne 
+Car elle refusait mon bien que je lui donne, 			[340]
+N'en voulant que pour moi... Mais j'ai tort doublement 
+Vous trahir, vous facher ! Je devais prudemment 
+Ne vous jamais parler de Lisette : oui, madame, 
+J'ai tort, cent fois tort : mais elle sera ma femme. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XI.
+LA VEUVE, seule.
+Je n'en puis revenir, ce coup est assommant ; 			[345]
+J'excuse Argan au fond. Il aime aveuglement ; 
+Moi, j'ai bien merite que Lisette me trompe : 
+Mais, pour son mariage, il faut que je le rompe ; 
+Le bon Argan dut-il jamais ne m'epouser, 
+Par amitie tachons de le desabuser. 			[350]
+
+
+			ACTE II
+
+
+SCENE I. La Veuve, Girard.
+GIRARD, tenant a sa main un paquet de lettres pour le baron.
+Sans lever le cachet, et sans me compromettre, 
+De monsieur le baron, j'entrouvre ainsi la lettre : 
+J'y mets l'imprime faux a la place du vrai. 
+La main me tremble, car c'est la mon coup d'essai 
+En faussete. 
+LA VEUVE.
+Argan epouserait Lisette ? 			[355]
+GIRARD.
+Il n'epousera point ma charmante coquette, 
+Ceci lui fera voir... ce que je vous ai dit.
+LA VEUVE.
+Fort bien : mais laissez-moi digerer mon depit. 
+Celui qui m'epousait, epouse la coquette ; 
+Etait-ce donc pour lui que j'elevais Lisette ? 			[360]
+Lisette impunement m'aura joue ce tour ? 
+Lorsque je l'instruisais a feindre de l'amour, 
+J'etais donc le jouet de son apprentissage ? 
+J'ai cru qu'elle n'avait de malice en partage, 
+Que ce que j'en semais dans mon instruction, 			[365]
+Quelque grain seulement pour la perfection. 
+Je devais par moi-meme etre bien informee, 
+Qu'en un coeur feminin la malice semee, 
+Profite, multiplie, et croit comme chiendent. 
+GIRARD.
+En malice Lisette est fertile, et pourtant 			[370]
+Je l'aime, je l'adore, et j'en ferai ma femme. 
+Mais que dis-je ? Je dois me souvenir, Madame, 
+Que vous ne donnez pas Lisette a des Girards ; 
+Je dois, ayant pour vous, pour elle, des egards, 
+Moi n'etant qu'un plat-pied, maltotier de village, 			[375]
+Lui laisser epouser votre amant. 
+LA VEUVE.
+A son age. 
+Menager sous mes yeux a la fois trois amants ! 
+Coquettes de Paris, et coquettes des champs. 
+A quelque jargon pres, quelque minauderie, 
+Ma foi tout est egal pour la coquetterie. 			[380]
+GIRARD.
+Vous vouliez la donner a quelque grand seigneur ? 
+LA VEUVE.
+Ah ! Je la donnerais au diable de bon coeur. 
+GIRARD.
+Sur lui je vous demande au moins la preference. 
+LA VEUVE.
+Soit : mais acheve-moi du moins la confidence ? 
+GIRARD.
+Vous savez tout : il faut leurrer par ce faux lot 			[385]
+Notre baron credule, avare, amoureux, sot, 
+Afin qu'a ma Lisette il offre mariage : 
+Qu'elle accepte et qu'Argan voie qu'elle s'engage. 
+LA VEUVE.
+Lisette doit quitter Argan pour le baron. 
+Le baron est plus riche, ainsi le tout est bon. 			[390]
+GIRARD.
+Oui : mais il ne faut pas que j'y perde Lisette. 
+LA VEUVE.
+Qu'Argan soit detrompe je serai satisfaite. 
+GIRARD.
+Qu'il la voie a demi mariee au baron. 
+LA VEUVE.
+Tout a fait s'il le faut. 
+GIRARD.
+Tout a fait ! Diable, non. 
+LA VEUVE.
+Il vient. 
+GIRARD.
+Ma surete, je saurai bien la prendre. 			[395]
+SCENE II. La Baron, La Veuve, Girard.
+GIRARD, presentant le paquet de lettres au baron.
+Je reviens de la poste, et j'ai l'honneur de rendre 
+A monsieur, ce qu'il m'a charge d'en retirer. 
+SCENE III. La Veuve, Le Baron.
+LE BARON ouvrant la lettre.
+Voisine, mon amour va me desesperer ; 
+Lisette veut partir. 
+LA VEUVE.
+Je lui tiens lieu de mere : 
+Je vous la garantis, tendre, sage et sincere, 			[400]
+Et vous ne connaissez que trop ce qu'elle vaut : 
+Elle veut un contrat, c'est la son seul defaut, 
+Et vous avez celui de n'en vouloir point faire. 
+LE BARON.
+Je veux bien l'epouser, qui vous dit le contraire ? 
+Mais pour faire un tel pas, le plus tard c'est le mieux. 			[405]
+Et je me marierai quand je serai plus vieux. 
+LA VEUVE.
+Eh, vous l'etes assez, monsieur, pour une femme. 
+LE BARON.
+Je suis irresolu, moi-meme je m'en blame. 
+Ha, ha ! Bon, cette lettre est d'un de mes amis, 
+C'est pour la loterie ou nous avons tous mis. 			[410]
+LA VEUVE.
+Elle est donc tiree ? 
+LE BARON.
+Oui, justement, c'est la liste. 
+LA VEUVE.
+Je suis sure d'un lot ; un physionomiste 
+A vu, la, sur mon front, grosse somme d'argent, 
+Que je dois, m'a-t-il dit, gagner en un instant. 
+C'est un lot, a coup sur, que cet instant presage : 			[415]
+C'est le gain le plus prompt pour une femme sage. 
+LE BARON.
+Hon, hon... Je sais par coeur les rebus de chacun, 
+Les numeros, les noms ; et je n'en vois pas un. 
+Lisons... Ah ! 
+LA VEUVE.
+Qu'avez-vous ? 
+LE BARON.
+Ce que je vois m'irrite. 
+LA VEUVE.
+Qu'est-ce donc ? D'ou vous vient cette douleur subite ? 			[420]
+LE BARON.
+Lucas, cent mille francs. 
+LA VEUVE.
+Au fermier le gros lot ! 
+Mais, voyons, relisons ; est-ce bien la son mot ? 
+Lucas... 
+LE BARON.
+De mon depit je ne suis pas le maitre. 
+LA VEUVE.
+Le gros lot a Lucas !... Tu nous ruines traitre. 
+LE BARON.
+A Lucas le gros lot ! 
+LA VEUVE.
+Ne te lasses-tu pas, 			[425]
+O sort, injuste sort, d'enrichir des Lucas ? 
+LE BARON.
+Je n'en puis revenir, son bonheur me desole. 
+LA VEUVE.
+Mais... rejouissons-nous, rions. 
+LE BARON.
+Etes-vous folle ? 
+LA VEUVE.
+Non, nous avions d'abord tous deux l'esprit bouche. 
+C'est la surprise. 
+LE BARON.
+He bien ? 			[430]
+LA VEUVE.
+Quoi, vous etes fache 			[430]
+De ce que le hasard vient d'enrichir Lisette ? 
+La fortune au contraire en favori vous traite ; 
+Elle vous determine a vouloir etre heureux. 
+LE BARON.
+Ha, ha ! 
+LA VEUVE.
+Pour de l'argent, et sans etre amoureux 
+Aujourd'hui le plus noble epouse des Lisettes. 			[435]
+LE BARON.
+D'accord : cent mille francs acquitteraient mes dettes ; 
+Ce motif et l'amour feront tout excuser. 
+LA VEUVE.
+Oui, mais dans le moment il faudrait l'epouser 
+Avant qu'on sut ce lot ; c'est la delicatesse 
+Qu'elle croie devoir tout a votre tendresse. 			[440]
+De plus, Lucas voudra partager le gros lot : 
+Mais pendant qu'il l'ignore, il faut brider le sot ; 
+Qu'il donne par contrat tous ses biens a Lisette. 
+Biens presents, a venir. 
+LE BARON.
+Oui ; mais, soyez discrete. 
+Je dirai que je prends Lisette sans un sou. 			[445]
+LA VEUVE.
+Le plaisant de ceci, c'est qu'on vous croira fou. 
+SCENE IV. La Veuve, Le Baron, Lisette.
+LE BARON.
+Ici, Lisette, ici. 
+LA VEUVE.
+Votre fortune est faite. 
+C'est moi qui la procure ; embrassez-moi, Lisette. 
+LE BARON.
+Vos pleurs m'ont attendri, Lisette ; je me rends : 
+Le parti du contrat est celui que je prends ; 			[450]
+Au plus vite il faudrait avertir le notaire. 
+Nous allons a l'instant terminer notre affaire. 
+LISETTE, a part.
+Voudraient-ils me tromper, car je n'y comprends rien ? 
+SCENE V. La Veuve, Le Baron, Lisette, Argan.
+ARGAN, a part.
+Un eclaircissement ici sera fort bien. 
+LISETTE, a part.
+Ah ! Les voila tous deux. Tout est perdu... que faire ? 			[455]
+ARGAN, au baron.
+Que m'apprend donc Girard ; mais c'est votre ordinaire 
+Et souvent sur l'amour je vous ai vu gascon : 
+Vous croyez etre aime de Lisette, dit-on ? 
+LE BARON.
+La preuve de cela, c'est que j'en fais ma femme. 
+ARGAN.
+Girard, en le disant, ne m'a point trouble l'ame. 			[460]
+Par vos grands biens d'abord vous voulez l'eblouir : 
+Mais son amour pour moi ne pourra se trahir. 
+LE BARON.
+Elle n'a point d'amour pour vous, je vous le jure. 
+ARGAN.
+C'est vous qui vous flattez a tort, je vous assure. 
+LE BARON.
+Je vous dis qu'elle n'a jamais aime que moi. 			[465]
+ARGAN.
+Je suis sur de son coeur et de sa bonne foi. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Decidez entre nous pour finir la dispute. 
+LE BARON.
+Qu'a mes yeux un mepris, un dedain le rebute. 
+Repetez-le cent fois, vous m'aimez tendrement. 
+LISETTE.
+Moi, vous dire cela ? Je n'ai garde vraiment. 			[470]
+Monsieur, c'est par respect que je vous laissais dire. 
+Je croyais que d'abord vous vous vantiez pour rire : 
+Mais sans vous offenser, monsieur, je vous dirai 
+Que je n'ai point d'amour pour vous, ni n'en aurai. 
+LE BARON.
+Quoi ? Comment ? 
+LA VEUVE, a part.
+Que dit-elle ? Ah, quelle est ma surprise ! 			[475]
+LE BARON.
+Que dites-vous ? 
+ARGAN.
+Faut-il qu'elle vous le redise ? 
+LE BARON.
+Quoi, vous ne m'avez pas mille fois repete 
+Que vous m'aimiez ? 
+LISETTE.
+Moi ? Non. 
+ARGAN.
+Quelle naivete ! 
+LA VEUVE.
+Qu'entends-je ! 
+LE BARON.
+Quoi ! Vos pleurs, vos soupirs... 
+LISETTE.
+Quel mensonge ! 
+ARGAN.
+Je connais mon voisin : sans doute c'est en songe 			[480]
+Qu'il vous a vue en pleurs et pousser des soupirs. 
+A son age, en dormant, on se fait des plaisirs. 
+LE BARON.
+Mais je n'ai pas reve que vous vouliez ecrire. 
+LISETTE.
+C'est mon pere, et madame est la pour vous le dire. 
+LA VEUVE.
+J'enrage. 
+ARGAN.
+Je connais Lucas ambitieux. 			[485]
+Il prefere vos biens ; pour lui vous valez mieux : 
+Mais d'ailleurs je la crois ; au fond quelle apparence 
+Que Lisette qui dit toujours ce qu'elle pense, 
+Vous ait parle d'amour quand elle m'aime moi ? 
+LISETTE.
+Que dites-vous, monsieur ? J'ai cru de bonne foi 			[490]
+Que vous vouliez aussi dire par raillerie 
+Que je vous aime : mais cette plaisanterie 
+N'est pas vraie. 
+ARGAN.
+Eh ! Comment ? 
+LA VEUVE, a part.
+Quel est donc son dessein ? 
+Reve-t-elle ? Est-ce moi qui reve ? 
+ARGAN.
+C'est en vain 
+Que vous croyez encor le secret necessaire. 			[495]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est que de notre amour nous faisions un mystere. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Parlez ; je vous permets de parler librement. 
+LISETTE.
+Si vous me permettez de parlez franchement, 
+Je ne vous aime point. 
+LA VEUVE.
+La-dessus elle est franche. 
+ARGAN.
+Que je suis indigne ! 
+LE BARON.
+Parbleu, j'ai ma revanche. 			[500]
+ARGAN.
+Mais je n'y comprends rien ; parlez net, je le veux. 
+Dites qui vous voulez menager de nous deux. 
+LISETTE.
+Je n'en veux menager aucun, je vous assure, 
+Et vous le voyez bien. 
+LA VEUVE.
+C'est parler sans figure. 
+LISETTE.
+Car tenez, j'aime mieux cent fois ma liberte 			[505]
+Que tous vos grands honneurs et votre qualite. 
+D'un mari grand seigneur je serais la servante ! 
+De vos bontes pourtant je suis reconnaissante, 
+Pardonnez-moi si j'ose ici les refuser.
+En un mot, vous voulez tous les deux m'epouser : 			[510]
+Moi, je n'epouserai jamais ni l'un ni l'autre. 
+LE BARON.
+Voila votre conge. 
+ARGAN.
+C'est bien aussi le votre. 
+LE BARON.
+C'est bien dit : plus d'amour. 
+ARGAN.
+Oui, meprisons Lisette. 
+LE BARON, a la veuve.
+Elle a cent mille francs pourtant que je regrette. 
+LA VEUVE, bas.
+Tenez-vous a l'ecart, nous allons lui parler. 			[515]
+ARGAN, bas.
+Madame... 
+LA VEUVE, bas.
+Eh bien, monsieur ? 
+ARGAN.
+Voudriez-vous aller 
+Faire venir chez vous tout a l'heure un notaire ? 
+Nous allons a l'instant terminer notre affaire. 
+LA VEUVE, au Baron, bas.
+Il l'abandonne, et c'est pour vous le principal : 
+Je vais en terminant vous oter un rival. 			[520]
+LE BARON.
+Non, je n'y comprends rien. 
+LA VEUVE.
+Ni moi ; mais la prudence 
+Veut qu'on aille d'abord au plus presse. 
+SCENE VI. Lisette, Argan qui revient par l'autre cote, regardant si la veuve ne le voit plus.
+LISETTE.
+Je pense... 
+Oui, sur ce que j'ai vu, j'ai fort bien fait je crois ; 
+Quand seul a seul tantot ils seront avec moi : 
+Pour les ravoir tous deux, je sais ce qu'il faut faire. 			[525]
+ARGAN, a part.
+La veuve est deja loin, penetrons ce mystere. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Par mepris... j'ai banni toute animosite ; 
+Je reviens seulement par curiosite... 
+Pour voir quelles raisons vous aurez a me dire. 
+LISETTE.
+En vous voyant fache, permettez-moi de rire. 			[530]
+Quoi... Vous n'avez pas vu mon dessein ? 
+ARGAN.
+Je ne l'ai pas vu, non, et tout detour est vain. 
+LISETTE.
+A monsieur le baron, sans detour et sans ruse, 
+J'ai dit la verite de peur qu'il ne s'abuse. 
+Je ne veux point tromper. 
+ARGAN.
+J'entends bien ; mais pourquoi 			[535]
+Me parler comme a lui, me rebuter, moi, moi ? 
+LISETTE.
+Parlons de lui d'abord : vous me voyez ravie ! 
+J'ai puni ce menteur, j'en avais bien envie. 
+ARGAN.
+Mais, moi, moi ? 
+LISETTE.
+Patience. Il voulait aujourd'hui 
+M'epouser, et mon pere est contre vous, pour lui, 			[540]
+Et puis vous voudriez que la veuve jalouse 
+Eut vu que je vous aime, et que je vous epouse ? 
+S'ils savaient tous les deux que je vous puisse aimer, 
+Ils diraient au baron de me faire enfermer. 
+ARGAN.
+Ha, ha. 
+LISETTE.
+Vraiment j'aurais tout gate le mystere, 			[545]
+Vous m'avez dit tantot vous-meme de me taire. 
+ARGAN.
+Vous avez fort bien fait : oui, vous avez raison ; 
+C'est moi qui suis un sot. Pour tromper le baron, 
+Oui, je vois que la feinte est utile et prudente. 
+LISETTE.
+J'ai cru bien faire au moins. 
+ARGAN.
+Que Lisette est charmante ! 			[550]
+Je ne m'aveugle point, clairement je le vois, 
+Lisette me prefere a plus riche que moi. 
+Que d'amour ! Que d'esprit ! 
+LISETTE.
+D'esprit ? Je n'en ai guere. 
+L'amour m'en a donne plus qu'a mon ordinaire. 
+ARGAN.
+Il faut secretement... 
+LISETTE.
+Oui, mais separons-nous ; 			[555]
+J'irai seule en secret dans un moment chez vous. 
+ARGAN.
+Sans votre pere... 
+LISETTE.
+Il vient ; laissez-moi, car je tremble, 
+Que le baron et lui ne nous voient ensemble. 
+SCENE VII. Lisette, Le Baron, Lucas.
+LISETTE.
+Me voila sure d'un, mais c'est mon pis-aller ; 
+Rattrapons l'autre encore, il revient me parler. 			[560]
+LUCAS.
+Faut qu'a sai d'venu folle, et c'qu'on dit'la m'etonne 
+Vous dir'qu'a n'vous aim'pas, et r'fuser d'etre baronne. 
+LE BARON, a Lisette.
+Vous venez d'encourir mon indignation. 
+Ah ! Que je devrais bien vaincre ma passion ! 
+Comment donc a votre age avoir deja l'audace 			[565]
+De me dementir... moi, me soutenir en face 
+Que vous ne m'aimez point ? 
+LISETTE.
+Oui, je l'ai soutenu, 
+Car il est vrai. 
+LE BARON.
+Sans doute il vous est survenu 
+Quelque vapeur qui trouble et bon sens et memoire. 
+Car enfin, sans cela, comment pourrais-je croire 			[570]
+Qu'apres l'ardent amour que vous m'avez montre ?... 
+LISETTE.
+Je ne vous aime point. 
+LE BARON.
+Encor ? Je suis outre. 
+Vous m'avez dit cent fois et devant votre pere... 
+LISETTE.
+Je ne vous l'ai point dit. 
+LE BARON.
+Elle me desespere ! 
+LISETTE.
+Non jamais... ou du moins...
+LE BARON.
+Du moins ? 			[575]
+LISETTE.
+Si je l'ai dit, 			[575]
+Je m'en repens si fort, j'en ai tant de depit, 
+Que, comme j'ai fait la, je dirai le contraire 
+Toujours, a tout le monde, a vous-meme, a mon pere. 
+Quoi ! Le monde saurait que je vous aimerais, 
+Et que lorsque tantot par amour je pleurais, 			[580]
+Vous n'avez point voulu de moi par mariage ? 
+Non, non, et contre vous j'ai repris du courage. 
+Moi, je vous aimerais ? J'aurais bien peu de coeur. 
+Mon amour serait franc et le votre trompeur. 
+LUCAS, tristement.
+J'ai vu qu'al'a raison. 
+LE BARON.
+C'etait donc par colere, 			[585]
+Soupconnant mon amour de n'etre pas sincere, 
+Que vous m'avez dit, la, que vous ne m'aimiez pas ? 
+LISETTE.
+Oui, vraiment ; ai-je tort ? 
+LE BARON.
+Vous m'aimez donc ? 
+LISETTE.
+Helas ! 
+LE BARON.
+Oublions tout, Lisette ; allons, vite, un notaire. 
+Qu'un contrat soit le prix de votre amour sincere : 			[590]
+Hatons-nous. 
+SCENE VIII. Lucas, Lisette.
+LUCAS.
+Vite, vite. 
+LISETTE.
+Allons tout doucement. 
+LUCAS.
+Me vla pere d'un'baronne ! 
+LISETTE.
+Oh ! J'en doute. 
+LUCAS.
+Comment ? 
+Il t'fait sa femme, et l'dit. 
+LISETTE.
+Non, j'ai vu du mystere. 
+LUCAS.
+Il t'epouse, v'la qu'est fait. 
+LISETTE.
+Je n'en crois rien, mon pere. 
+LUCAS.
+A n'croira point la noc', tant qu'l'lendemain sai v'nu. 			[595]
+LISETTE.
+On me trompe, je crois. Premierement j'ai vu 
+La veuve, quand Argan a declare l'affaire, 
+Pester avec Girard, mais, dans une colere... 
+Au desespoir ; et puis elle vient m'embrasser, 
+Sait que je la trompais, et vient me caresser ! 			[600]
+LUCAS.
+Oui, c'est la trahison. 
+LISETTE.
+Le baron me refuse, 
+Puis tout d'un coup il change et me veut. 
+LUCAS.
+C'est la ruse. 
+LISETTE.
+Si la veuve et Girard, qui savent bien ruser, 
+Avaient dit au baron : feignez de l'epouser, 
+Afin qu'elle y consente, et qu'Argan s'en degoute ? 			[605]
+LUCAS.
+Oh, vla l'hic, j'y vois clair. 
+LISETTE.
+Pour moi, je n'y vois goutte : 
+Car, d'un autre cote, peut-etre le baron 
+Voudrait-il par amour m'epouser tout de bon. 
+Tout cela m'embarrasse : oui, car plus j'examine... 
+Que n'ai-je assez d'esprit, que ne suis-je assez fine ! 			[610]
+LUCAS.
+Ecout'mes bons conseils, j'ai l'promptus merveilleux 
+Pour dans les embarras ou il y a du perilleux. 
+T'as d'l'esprit, mais en cas d'affaire de famille, 
+Un pere a, comme on dit, pu d'age que sa fille. 
+Vla donc mes tras conseils. Allons trouver l'baron. 			[615]
+C'est l'premier. 
+LISETTE.
+Non. 
+LUCAS.
+Non ? 
+LISETTE.
+Non. 
+LUCAS.
+C'est donc l'second qu'est l'bon. 
+Allons trouver Argan. 
+LISETTE.
+Non. 
+LUCAS.
+Je n'sis donc qu'un'bete ? 
+Oh, mon troisiem'conseil, c'est qu't'en fasse a ta tete. 
+LISETTE.
+Allez trouver tout seul le baron. 
+LUCAS.
+Oui, j'entends. 
+LISETTE.
+Et moi seule je vais trouver monsieur Argan. 			[620]
+Finissez d'un cote, je finirai de l'autre. 
+LUCAS.
+Tatigue ! Ca sra ben. J'epous'rons chacun l'notre. 
+LISETTE.
+Moi, quand les deux contrats seront faits, je verrai ; 
+Sur le premier signe, d'abord je signerai. 
+LUCAS.
+Tu prendras l'pu hatif ; c'est hasard a la blanque. 			[625]
+Signons les deux contrats putot, peur qu'un n'nous manque. 
+LISETTE.
+Monsieur Argan m'attend ; j'y cours. 
+SCENE IX.
+LUCAS, seul.
+Va vite, va. 
+Mais, qu'ment d'un seul cerveau peut-ell'tirer tout ca ? 
+Je crois, moi, qu'al n'a deux, car, par la mornombille, 
+Ca m'ebahit toujours : oui, quoiqu'a n'soit qu'ma fille, 			[630]
+Mornongoi son esprit s'rait deja l'per'du mien. 
+SCENE X. Lucas, Girard.
+GIRARD, a part.
+Emparons-nous du pere et je ne risque rien ; 
+Car sans lui le baron ne saurait rien conclure. 
+De cette fausse liste, en faisant la lecture, 
+Troublons-lui la cervelle, et jouons notre jeu. 			[635]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Liste, liste des lots. 
+LUCAS.
+Des lots ? Voyons un peu. 
+Quequ'tu dis la ? 
+GIRARD.
+Voyons, si cette loterie 
+Rendra bien. 
+LUCAS.
+Que j'voy'donc ? N'vois-j'pas la d'l'imprim'rie ? 
+GIRARD.
+D'ingenieux dictons etes-vous curieux ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Lisez ceci. 
+LUCAS.
+Fort ben ! Mais montrez-moi donc mieux. 			[640]
+GIRARD.
+Pour un lecteur avare, o la belle pensee, 
+Qu'une sottise heureuse avec un lot placee ! 
+LUCAS.
+Ha, ha ! C'est donc... 
+GIRARD.
+Oui. C'est... hon, hon. 
+LUCAS.
+Voyons cela. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tres volontiers, voyons. 
+LUCAS.
+Eh ! J'n'y vois rien par la. 
+GIRARD, tourne la liste de l'autre cote encore plus mal.
+Lisons, lisons... je vois... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LUCAS, avec un peu de joie.
+Qu'est-c' ? Montrez donc compere ? 			[645]
+GIRARD.
+Non. Je me suis trompe. Mais, hon, hon, hon, j'espere... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Morbleu ! Je ne vois rien. 
+LUCAS.
+Ah ! Morgue j'apercois, 
+Lisons vit' ca Girard, j'ai vu du noir pour moi. 
+GIRARD, cachant la liste.
+Non, ce n'est rien du tout. 
+LUCAS.
+Et moi j'ai vu paraitre. 
+Mon nom y est. 
+GIRARD.
+Composons, vous n'avez rien peut-etre. 			[650]
+Je vous donne cent francs, a tout hasard. 
+LUCAS.
+Non, non. 
+J'ai vu qu'ous avez vu Lucas, c'est mon dicton. 
+GIRARD.
+Si vous avez, du moins, je veux qu'on me rembourse. 
+Retirer mon argent c'est ma seule ressource. 
+LUCAS.
+Top'a ca, montrez vite. 
+GIRARD.
+Ah ! C'est un des bons lots ; 			[655]
+C'est au moins mille francs, j'ai vu plusieurs zeros. 
+LUCAS.
+Des zeros ? J'en voudrais voir la tant que d'grains d'sable. 
+GIRARD.
+Vous etes de zeros un homme insatiable. 
+LUCAS.
+Ah ! C'est dix mille francs. 
+GIRARD.
+Malpeste, oui ; je vois... 
+Mais, si ce n'etait pas le numero ? 
+LUCAS.
+Morgoi, 			[660]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'ai ben peur. 
+GIRARD.
+Confrontons. 
+LUCAS, transporte.
+Oui, le vla, c'est l'quantieme. 
+GIRARD, lui donnant la liste.
+Relisez donc l'article, et calculez vous-meme. 
+LUCAS, prenant la liste.
+Le coeur me bat... me bat... je sis tout transporte ; 
+J'ai peur d'avoir vu trouble, et d'avoir trop compte. 
+Un'... deux... trois... quatre et cinq... 
+GIRARD.
+Disons, nombre, dizaine. 			[665]
+LUCAS.
+Un', deux... quatre... ai-je dit trois ? 
+GIRARD.
+Oui, dizaine, centaine. 
+LUCAS.
+Ah ! J'vois l'mot qu'est moule. 
+GIRARD.
+Oui, je vois le grand mot. 
+LUCAS.
+J'n'en peu d'joye. 
+GIRARD.
+En marge, a Lucas le gros lot. 
+LUCAS.
+Oui. 
+GIRARD, le deboutonnant.
+Deboutonnez-vous. 
+LUCAS.
+Le gros lot ! 
+GIRARD.
+A la marge. 
+Des qu'on est riche, il faut un habit plus large. 			[670]
+LUCAS.
+Cent mille francs ! 
+GIRARD.
+Comptants ; je ne vous les plains pas. 
+LUCAS.
+Cent mille francs ! 
+GIRARD.
+Combien nous boirons chez Lucas ! 
+LUCAS.
+Allons vite a Paris. 
+GIRARD.
+Je vous donne une chaise 
+Et des chevaux. 
+LUCAS.
+Girard, ah ! J'crois qu'j'en mourrai d'aise. 
+Voyons vit'la lotri : qu'on m'voy'la tout l'premier. 			[675]
+GIRARD.
+A propos, voulez-vous etre encore fermier ? 
+LUCAS, d'un ton fache.
+Moi, farmier ! 
+GIRARD.
+Pardonnez si j'ai dit la parole. 
+Je vois bien qu'en effet la question est folle. 
+Ainsi, de votre bail rendez-moi possesseur : 
+Il ne vous convient plus, vous serez grand seigneur, 			[680]
+Je suis un pauvre diable, et votre ami fidele, 
+Vous me le cederez pour la bonne nouvelle. 
+LUCAS.
+Ouida. Fait'moi trouve sur l'champ des chaises, des ch'vaux, 
+Qu'aillent bian vite, bian vite. 
+GIRARD.
+Oui, comme des oiseaux, 
+Mais d'abord en passant entrons chez le notaire 			[685]
+Pour me ceder ce bail, entendez-vous compere ? 
+LUCAS.
+Oui, j'n'en veux pu pour moi, j'vous laiss'rai tous mes baux, 
+J'm'en vas bian a Paris en avoir de pu biaux. 
+
+
+			ACTE III
+
+
+SCENE I. La Veuve, Argan.
+LA VEUVE.
+Je vous prouverai tout, pouvez-vous en douter ? 
+Mais restez un moment du moins pour m'ecouter. 			[690]
+ARGAN.
+Le temps presse : j'ai la Lisette et le notaire. 
+Si Lucas paraissait, je conclurais l'affaire. 
+En amour les moments sont chers pour un vieillard. 
+LA VEUVE.
+Quand vous vous marierez un quart d'heure plus tard, 
+Vous aurez tout le temps d'etre las de Lisette, 			[695]
+Et de vous repentir d'une sottise faite : 
+Pardonnez-moi ce mot, c'est amitie pour vous ; 
+Mon zele n'est mele d'aucun transport jaloux ; 
+Puissiez-vous n'epouser ni moi, ni la coquette ; 
+Soyez desabuse, je serai satisfaite. 			[700]
+Eh ! Pouvez-vous rester dans votre aveuglement. 
+Je vous prouve qu'ici tantot en un moment 
+Au baron comme a vous elle a tendu le piege, 
+En se raccommodant, par le meme manege. 
+Simplicite traitresse, et mensonges naifs ; 			[705]
+Par les tours les plus fins, par les traits les plus vifs, 
+Elle a su lui donner de l'amour sans en prendre, 
+Elle fait de sang-froid le discours le plus tendre, 
+Et feint effrontement un timide embarras, 
+Pleurs qui vont droit au coeur, et qui n'en partent pas. 			[710]
+Elle abuse en un mot de son faible et du votre, 
+Vous offrant une main elle lui donne l'autre ; 
+Ainsi coquette franche et marquee au vrai coin, 
+Prise par les deux mains, la perfide au besoin 
+En trouverait encore une pour un troisieme. 			[715]
+ARGAN.
+Vous l'avez dit vingt fois, mais apres la centieme 
+Il vous faudrait encor les preuves...
+LA VEUVE.
+Parlez bas ; 
+J'apercois justement le baron et Lucas : 
+Tenez-vous a l'ecart ; vous pourrez voir peut-etre 
+Non seulement Lucas vous preferer son maitre, 			[720]
+Mais Lisette... 
+ARGAN.
+Voyons ; je serais detrompe. 
+SCENE II. La Veuve, Girard.
+LA VEUVE.
+He bien ? 
+GIRARD.
+De son faux lot Lucas est occupe. 
+LA VEUVE.
+Mais, le baron veut-il epouser ? 
+GIRARD.
+Patience. 
+Je me suis fait ceder tous les baux par avance : 
+Car c'est pour moi, primo, que j'ai tout dispose. 			[725]
+Lucas en grand seigneur est metamorphose. 
+Des qu'il a vu le lot, sa subite richesse 
+Lui troublant le cerveau l'a fait changer d'espece. 
+Il n'a plus rien d'humain que la forme et l'orgueil : 
+Grave, mysterieux, decidant d'un clin d'oeil, 			[730]
+Dedaignant de parler ou parlant par sentence, 
+Il croit qu'on applaudit jusques a son silence :; 
+Saluant de la tete, enfin, bouffi, gonfle, 
+Lucas est devenu subitement enfle 
+D'un mal contagieux qu'on appelle finance. 			[735]
+Deux grands pas avant lui l'on voit marcher sa panse. 
+LA VEUVE.
+Ca, Girard, il faut... mais Lisette court la-bas ; 
+Monsieur Argan la suit. Ceci ne tourne pas
+Comme il faut. 
+GIRARD.
+Non. 
+LA VEUVE.
+Je vais joindre Argan au plus vite. 
+Amusez ces deux-ci. 
+GIRARD.
+Tout ce que l'on medite 			[740]
+Ne reussit pas. 
+SCENE III. Girard, Lucas marchant a pas grave, Le Baron le chapeau a la main suit Lucas, qui remet son chapeau le premier.
+LE BARON.
+Oui, j'apprends avec plaisir 
+Que fortune propice a comble ton desir. 
+LUCAS.
+Quoiqu'ma forteune asteur soit bien pu haut qu'la votre, 
+J'frons pair a compagnon toujours l'un avec l'autre ; 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Car je n'suis pas glorieux. 
+LE BARON.
+Je le vois bien, Lucas. 			[745]
+GIRARD.
+Vous voyez que monsieur ne se meconnait pas ; 
+Il merite par la d'occuper un grand poste. 
+LUCAS.
+N'm'a-t-on pas fait ret'nir eun' bonn'place a la poste ? 
+Car faut qu'j'aille a Paris. 
+GIRARD.
+Je vous l'ai deja dit ; 
+On vous cherche une chaise aussi douce qu'un lit. 			[750]
+LUCAS.
+Mais qu'a vien'donc, ste chais', j'n'aim'point qu'on m'fasse attendre. 
+GIRARD.
+A vos ordres bientot les chevaux vont se rendre. 
+Attendons-les ici. Hola, laquais, hola, des sieges. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons donc sans facon pisqu'mi v'la. 
+LE BARON.
+Parlons de notre affaire. 
+LUCAS.
+Il m'vient d'bel'chose en tete. 
+LE BARON.
+Raisonnons. 			[755]
+LUCAS.
+En m'voyant tout Paris va m'faire fete, 
+V'la stila qu'a l'gros lot. 
+LE BARON.
+Avant que de partir... 
+LUCAS.
+Tout l'mond'sra pu gueux qu'moi, ca m'va bain divertir. 
+Pendant que j'srai dans l'grain, j'verai crier famine, 
+Queu plaisir ! 
+LE BARON.
+Ca Lucas, voulez-vous qu'on termine ? 			[760]
+Car mon ardent amour... 
+LUCAS.
+On m'va v'nir proposer 
+D'bel'charges, d'bel'maisons, d'bel'fam'pour epouser, 
+D'affaire a bain gagner : j'ach'trai tout c'qu'est a vendre. 
+GIRARD.
+Mais pour vous anoblir, il faut monsieur pour gendre. 
+LE BARON.
+Lisette nous attend. 
+LUCAS.
+J'aurai d'tou ca tres bain, 			[765]
+Car quand on est bain riche, on attrapp'tout pour rain
+LE BARON.
+Vous m'avez promis ? 
+LUCAS, d'un air important.
+Hain ! 
+LE BARON.
+De finir. 
+LUCAS.
+Quoi ! 
+LE BARON.
+L'affaire. 
+LUCAS.
+Quelle affaire ? 
+LE BARON.
+La notre, et j'ai la le notaire, 
+Pour regler un article il n'attendait que vous, 
+Nous en sommes deja convenus entre nous. 			[770]
+LUCAS.
+Ah ! J'crois que j'm'en souviens. 
+LE BARON.
+Vraiment c'est tout a l'heure. 
+LUCAS.
+Dame on a tant d'affair', qu'on songe a la meilleure : 
+Oui, nous parlions d'mariag', mais c'est que c'n'est pu ca 
+Ca n'est pu but a but. 
+LE BARON.
+Comment ! 
+GIRARD.
+Qu'entends-je la ! 
+Quoi donc vous voudriez deja nous meconnaitre ? 			[775]
+LE BARON.
+Souvenez-vous, Lucas, que je fus votre maitre. 
+GIRARD.
+Lucas, souvenez-vous que c'est bien de l'honneur, 
+Belle alliance, avoir pour gendre son seigneur. 
+LUCAS.
+Oh ! C'est l'argent qui fait les pu biaux alliages. 
+LE BARON.
+Quoi vous ne voulez pas ?... 
+LUCAS.
+J'veux rien qu'vos heritages. 			[780]
+LE BARON.
+Quoi !... 
+LUCAS.
+Mais, faut m'ecouter : j'sis natif du hamiau. 
+Ca fait q'j'aime d'amitie... vot'terre et vot'chatiau ; 
+Ca n'serai pas tout a moi, si vous etais mon gendre ; 
+Metavis qu'vaudrait mieux, qu'ou voulissiais me l'vendre. 
+LE BARON.
+Vous vous moquez je crois ! Vous vendre mon chateau ? 			[785]
+LUCAS.
+Il est tout delabre, j'en ferai faire un pu biau. 
+LE BARON.
+Il est devenu fol ! 
+GIRARD, bas au baron.
+Ce maraud vous meprise. 
+LUCAS.
+La terr'm'enoblira, c'est ell'qu'est a ma guise. 
+Vou...tandis qu'a Paris, j'frai grossir mon argent, 
+Vous frais valoir la terr', toujours en attendant. 			[790]
+GIRARD.
+Vous serez son fermier. 
+LE BARON, se leve.
+Ah ! C'est trop d'insolence. 
+GIRARD.
+Monsieur, moderez-vous, je vous promets vengeance. 
+LUCAS, a part s'etant leve aussi.
+Ce pti gentilhomiau, comm'ca fait l'entendu, 
+Ca doit d'l'argent partout, et ca croit qu'tout l'est du : 
+Mais j'aurai son chatiau, faudra qu'il deguerpisse ; 			[795]
+Il a des creanciers, j'aurai ca par justice. 
+GIRARD, apres avoir parle bas au baron.
+Nous avons fait le tout, monsieur, pour votre bien. 
+Mais pour vous mieux venger ne dites encor rien. 
+SCENE IV. Lucas, Le Baron, Girard, Lisette.
+LISETTE.
+Je vous cherche partout, ouf ! Je suis hors d'haleine. 
+A vous trouver mon pere, on a bien de la peine, 			[800]
+J'ai couru... car on dit... mais je ne le crois pas, 
+J'entends crier partout, le gros lot a Lucas ; 
+Ce sont des compliments que chacun me vient faire ; 
+On dit cent mille francs, serait-il vrai, mon pere ? 
+LUCAS.
+Bain vrai. 
+LISETTE.
+Cent mille francs ! 			[805]
+LUCAS.
+Comptants, ils sont moules. 			[805]
+LISETTE.
+Cent mille francs ! 
+SCENE V. Lucas, Le Baron, Girard, Lisette, Argan, La Veuve.
+ARGAN.
+He bien, me fuyez-vous ? Parlez ? 
+Si tot que du gros lot, vous savez la nouvelle, 
+Vous me meprisez. 
+LISETTE.
+Oui ! 
+ARGAN.
+Cette fortune est belle : 
+Mais elle ne doit pas m'attirer vos mepris. 
+Repondez-moi du moins, reprenez vos esprits, 			[810]
+Voulez-vous m'epouser ? 
+LISETTE.
+J'obeis a mon pere, 
+Il m'a dit qu'il voulait differer cette affaire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dites-lui que c'est vous qui refusez. 
+LUCAS.
+Bon, bon. 
+LISETTE, bas a Lucas.
+Cela ne coute rien, debarrassez-moi. 
+LUCAS.
+Non. 
+LISETTE, bas a Lucas.
+Dites-leur quelque mot du moins qui me degage. 			[815]
+LUCAS.
+Eh ! Tu t'souci's bain d'eux, laiss'-la ton clignotage ; 
+N'faut pu tant finasser, t'as de quoi t'marier tout franc. 
+LA VEUVE.
+Son pere la demasque, et le sot opulent 
+Aux sottises qu'il fait, ne cherche point d'excuse. 
+ARGAN.
+Par sa faute elle meme, elle me desabuse ; 			[820]
+Moi, pour ne point risquer un amoureux retour, 
+Je m'engage avec vous. 
+LA VEUVE.
+L'amitie sans amour, 
+C'est ce qui nous convient pour un bon mariage ; 
+L'amour est inquiet, et s'ennuie en menage. 
+LE BARON.
+Vous auriez eu nos biens, vous serez confondus. 			[825]
+LUCAS.
+Laiss'-les dir', t'en auras trois fois pus, quat'fois pus. 
+LISETTE.
+Allons vite a Paris etre dans l'abondance. 
+LUCAS.
+D'leux terre a not'argent, tiens vla la difference ; 
+Leux terre et leux chatiaux, ca n'fait qu'un pti ploton, 
+Ca n'grandira jamais, non pu qu'un avorton ; 			[830]
+Mais mon argent boute dans la grande aventure, 
+Ca renflera d'abord, et pi comme une enflure 
+Ca va gagner. 
+LISETTE.
+Gagner. 
+LUCAS.
+Gagner... ca gagnera. 
+LISETTE.
+Ah ! Que j'aurai d'amans, qu'on me respectera ! 
+Quel plaisir ! Je verrai des fortunes brillantes ; 			[835]
+Quel train je vais avoir ! Des laquais, des suivantes. 
+GIRARD.
+Et des valets de chambre, un page, et c'est Girard. 
+LUCAS.
+Qu'on m'amen'donc mes ch'vaux ? 
+LA VEUVE.
+On vous attelle un char. 
+GIRARD.
+Allez a pied de peur que votre char ne rompe ; 
+De votre train, ceci va reformer la pompe. 			[840]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est la veritable. 
+LA VEUVE.
+Oui. Retour tres affligeant : 
+Mais vous avez assez brille pour votre argent ; 
+Cent mille francs en l'air. 
+LE BARON.
+Cent mille francs pour rire. 
+LISETTE.
+Que disent-ils ? Comment ! 
+LUCAS, cherchant l'endroit ou le lot etait dans l'autre liste.
+Eh ! Va, va, laiss'-les dire. 
+Tien, tien, lis... c'est ici... pour Lucas le gros lot. 			[845]
+LE BARON.
+Vous n'acheterez pas mon chateau, maitre sot. 
+LUCAS.
+C'etait-la. 
+GIRARD.
+Les zeros sont restes. 
+LISETTE.
+Ah ! Mon pere. 
+On s'est moque de vous. 
+ARGAN.
+Oui, voila le mystere. 
+LA VEUVE.
+Vous n'avez rien. 
+GIRARD.
+Mais rien, ce qui s'appelle rien. 
+J'ai fait la fausse liste, et je m'en trouve bien ; 			[850]
+J'ai tire de Lucas ses ressources uniques, 
+Mon amour vous en fait les offres heroiques : 
+Je vous rends tout Lisette. 
+ARGAN.
+Allons souper chez moi. 
+LE BARON.
+Allons. 
+GIRARD.
+Oui, j'ai pitie du trouble ou je vous vois, 
+Ces messieurs hors des rangs, mon offre doit vous plaire ; 			[855]
+Ils ont fortune faite, et moi fortune a faire : 
+Mais je suis en un jour moi seul plus amoureux. 
+Qu'ils ne le peuvent etre en un mois tous les deux. 
+Ils n'auraient pu sans doute acquerir la jeunesse ; 
+Mais noblesse s'acquiert, aussi bien que richesse. 			[860]
+LISETTE, a la veuve.
+Que je vous veux de mal, madame ! Car c'est vous 
+Qui mettiez mon esprit tout sens dessus dessous, 
+En me disant qu'il faut de la coquetterie. 
+LA VEUVE.
+De mes mauvais conseils la peur m'a bien punie. 
+J'en conviens, j'avais tort. 
+LISETTE, a Girard.
+J'ecoutais ses discours : 			[865]
+Il vous faut un baron, disait-elle toujours. 
+Non, je n'aurais jamais pense qu'a vous sans elle : 
+Et si j'avais suivi ma pente naturelle 
+Par tendresse d'abord, je vous aurais choisi. 
+GIRARD.
+Eh ! Choisissez-moi donc ? Lucas consentez-y. 			[870]
+LUCAS, s'en allant.
+Ouf. 
+GIRARD.
+Parlez. 
+LUCAS.
+Ouf. 
+GIRARD.
+Deux fois... ouf, en langue muette, 
+Valent un oui. 
+LA VEUVE.
+Voila le sort d'une coquette. 
+Apres de hauts projets, on la voit tot ou tard, 
+Confuse, confondue, et reduite a Girard. 
+
+	==================================================

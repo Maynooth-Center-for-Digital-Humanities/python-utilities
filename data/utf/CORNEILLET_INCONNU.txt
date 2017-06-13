@@ -1,0 +1,3152 @@
+********************************************************
+	DC.Title                  = L'INCONNU, COMEDIE.
+	DC.Author                 = CORNEILLE, Thomas
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:16.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CORNEILLET_INCONNU.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'INCONNU COMEDIE MELEE D'ORNEMENTS et de Musique. 1675
+Thomas Corneille
+	
+	
+	Represente pour la premiere fois le 17 novembre 1675 au Theatre Guenegaud.
+	AU LECTEUR.
+Apres avoir fait paraitre dans Circe une partie de ce que le theatre a de plus pompeux pour la beaute des machines, j'ai cru que le public ne serait pas fache d'etre diverti par les agrements qu'une matiere galante est capable de recevoir. C'est ce qui m'a fait choisir le sujet de l'Inconnu, ou vous ne trouverez point ces grandes intrigues qui ont accoutume de faire le noeud des comedies de cette nature, parce que les ornements qu'on m'a pretes demandant beaucoup de temps, n'ont pu souffrir que j'aie pousse ce sujet dans toute son etendue. Si ce retranchement d'Incidents est un defaut, il est repare par quantite de choses agreables qui forment les divertissements que l'Inconnu donne a sa maitresse. Je me suis servi des noms de la Comtesse, du Marquis, du Chevalier, et du Vicomte, comme s'accommodant mieux a l'oreille, et etant plus de notre usage que les noms de roman dont on se sert quelquefois pour les pieces d'invention. Vous trouverez ici le cinquieme acte plus rempli qu'il ne l'est dans la representation, ou le Marquis se contente de promettre la comedie a la Comtesse. J'en fais un divertissement effectif qu'il lui fait donner sur le petit theatre, sous le titre de l'Inconnu. Il consiste en trois scenes fort courtes qui regardent l'embarras de Psyche enlevee par l'Amour dans un palais magnifique, ou rien ne manque a ses plaisirs que la satisfaction de connaitre l'amant qui prend soin de les lui procurer ; et comme cet incident n'eloigne point l'idee des fetes galantes du Marquis, je m'en sers pour denouer plus agreablement l'aventure de la Comtesse. 
+
+ACTEURS du PROLOGUE
+THALIE, Muse.
+LE GENIE DE LA FRANCELE GENIE DE LA FRANCE.
+ACTEURS DE LA COMEDIE
+LA COMTESSE.
+OLIMPE, aimee du Chevalier.
+LE MARQUIS, amant de la Comtesse.
+LE CHEVALIER, amant d'Olimpe.
+LE VICOMTE, amant de la Comtesse.
+LA MONTAGNE, valet de Chambre du Marquis.
+VIRGINIE, suivante de la Comtesse.
+MELISSE, suivante d'Olimpe.
+DEUX ENFANTS, representant l'Amour et la Jeunesse. 
+CASCARET, laquais de la Comtesse.
+La Scene est dans le Chateau de la Comtesse.
+
+
+
+			PROLOGUE
+
+
+Thalie, Le Genie de la France.
+DECORATION DU PROLOGUE. 
+La Decoration est une Montagne toute de rochers, aux cotes de laquelle on decouvre plusieurs Arbres, avec cette difference, que les Montagnes qui ont ete vues jusqu'ici au Theatre, sont d'une peinture plate qui represente le relief, et que celle-ci est d'un relief effectif. C'est en ce lieu que Thalie, qui est celle des Muses qui preside a la Comedie, rencontre le Genie de la France, avec qui elle s'etait deja declaree sur la peine ou elle se trouvait touchant quelque Nouveaute qu'elle avait dessein de faire paraitre, et comme elle ne pouvait sortir d'embarras par elle-meme, elle lui adresse les Paroles suivantes.
+THALIE.
+Genie incomparable, Esprit a qui la France 
+Doit les sages conseils qui la font admirer, 
+Pour reparer mon impuissance, 
+De ton secours qu'ai-je lieu d'esperer ? 
+LE GENIE.
+Tout, Divine Thalie, et je suis sans excuse, 			[5]
+Si pouvant t'appuyer contre ce qui t'abat, 
+Je neglige a servir la Muse, 
+De qui la Comedie emprunte son eclat. 
+C'est toi qui fais paraitre avec pompe, avec gloire, 
+Sur le Theatre des Francais, 			[10]
+Ce qu'aux Etrangers quelquefois 
+Le recit qu'on en fait rend difficile a croire. 
+THALIE.
+Je promettrais encor des Divertissements 
+Dont on aimerait le spectacle, 
+Si pour faire crier miracle 			[15]
+Je pouvais a mon choix regler les ornements. 
+Quand Semele, Circe, la Toison, Andromede, 
+Sur la Scene a l'envi se sont fait admirer, 
+Par la Machine a qui tout cede, 
+Chacun avec plaisir se laissait attirer. 			[20]
+Mais que pensera-t-on, si toujours je m'obstine 
+A faire voir Machine sur Machine ? 
+Comme on se plait a la diversite, 
+Il est de galantes matieres 
+Qui par les agrements de quelque nouveaute 			[25]
+Auraient des graces singulieres. 
+LE GENIE.
+J'en ferai tant voir a la fois, 
+Que je pourrai te satisfaire. 
+La nouveaute charme tous les Francais, 
+Et ce m'est un moyen assure de leur plaire. 			[30]
+THALIE.
+Je t'ai parle deja d'un Amant inconnu, 
+Qui pour toucher une fiere Maitresse, 
+Lui donnant des Fetes sans cesse, 
+En aurait enfin obtenu 
+L'heureux aveu de sa tendresse, 			[35]
+Mais l'Amour aura beau le rendre ingenieux. 
+Que fera-t-il de magnifique, 
+S'il n'a pour l'oreille et les yeux 
+Ni pompes de Ballets, ni charmes de Musique ? 
+LE GENIE.
+Il peut se reposer sur moi 			[40]
+Du soin de ses galantes Fetes. 
+Pour plaire a ce qu'il aime, et lui marquer sa foi ; 
+Il les trouvera toujours pretes. 
+THALIE.
+Ses desseins doivent etre heureusement conduits, 
+Si ta bonte les favorise. 			[45]
+LE GENIE.
+Il faut par un essai dont tu seras surprise, 
+Te faire voir ce que je puis. 
+Vois-tu cette inegale masse 
+Qui partout n'est que pierre ? En ce meme moment 
+Je lui veux devant toi donner du mouvement. 			[50]
+THALIE.
+Je brule de voir ces merveilles. 
+LE GENIE.
+Tu m'avoueras peut-etre que jamais 
+Il ne s'en est vu de pareilles ; 
+Mais il est temps d'en venir aux effets. 
+Animez-vous, Rochers, et changez de figure ; 			[55]
+Paraissez tout couverts d'Hommes et de Verdure. 
+C'est moi qui veux ces divers changements, 
+Et voir de votre sein naitre des Instruments. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)THALIE.
+Tu promets moins que tu ne donnes, 
+Et ma peine deja commence a s'adoucir. 			[60]
+Quels divertissements, lorsque tu les ordonnes, 
+Peuvent manquer de reussir ? 
+LE GENIE.
+C'est encor peu ; je veux que vous fassiez paraitre 
+Un Berger dont les doux accents 
+Suivent les tons ravissants 			[65]
+De quelque Nymphe champetre. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CHANSON DE LA NYMPHE.
+Amants, qui vous rebutez 
+De la fierte d'une Belle, 
+Aimez, souffrez, meritez. 
+La constance vous appelle 			[70]
+Aux grandes felicites. 
+Languir pour une inhumaine 
+Que d'abord en vain on poursuit, 
+C'est une cruelle gene ; 
+Mais regardez-en le fruit, 			[75]
+Vous en aimerez la peine. 
+CHANSON DU BERGER.
+Quand on differe a se rendre, 
+Une Belle peut prendre 
+De la fierte ; 
+Mais contre un coeur tendre 			[80]
+Pourquoi defendre 
+Sa liberte ? 
+LE GENIE.
+Achevez, et formez pour Spectacles nouveaux, 
+Et des Buissons et des Berceaux. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le Genie poursuit. 			[85]
+Et bien, Muse, es-tu satisfaite. 
+THALIE.
+J'admire, et me tais. 
+LE GENIE.
+Apres ce que tu vois, 
+Des Fetes dont l'Amour me doit laisser le choix, 
+Puisque j'en prends le soin, ne sois plus inquiete. 			[90]
+LA NYMPHE ET LE BERGER chantent ensemble.
+Ah, qu'il est doux de s'unir a l'Amour ! 
+Avec l'Amour on peut tout faire. 
+La Beaute la plus severe 
+A beau fuir ce qui peut l'enflammer a son tour. 
+Cherchez toujours a lui plaire, 			[95]
+Vous trouverez un nouveau jour. 
+Ah, qu'il est doux de s'unir a l'Amour ! 
+Avec l'Amour on peut tout faire. 
+LE GENIE.
+Allons c'est trop tarder suis moi. 
+THALIE.
+Pour l'Inconnu j'attends beaucoup de toi. 			[100]
+LE GENIE.
+L'entreprise est un peu hardie ; 
+Mais je n'ai rien promis dont je ne vienne a bout. 
+THALIE.
+Je le crois, ce n'est pas d'aujourd'hui qu'on publie 
+Que les Francais ont un Genie 
+Qui les rend capables de tout. 			[105]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			ACTE I
+
+
+SCENE PREMIERE. Le Marquis, La Montagne.
+LE MARQUIS.
+Entrer dans ce Chateau ! 
+LA MONTAGNE.
+Le grand peril ! 
+LE MARQUIS.
+Je tremble 
+Que quelqu'un ne t'observe, et ne nous voie ensemble. 
+LA MONTAGNE.
+Et quand on me verrait ? Monsieur, j'ai de l'esprit, 
+C'est vous qui m'employez ; je conduis tout, suffit. 
+Ne craignez rien. 
+LE MARQUIS.
+On peut remarquer ton visage. 			[110]
+LA MONTAGNE.
+Et n'en changerai-je pas a chaque personnage ? 
+Quand je suis deguise, je le donne au plus fin, 
+Si me voulant connaitre, il n'y perd son latin. 
+Ne vous inquietez pour aucun de mes roles. 
+Je les jouerai d'un air... Mais treve de paroles. 			[115]
+Vous avez par l'effet deja vu ce que vaut... 
+LE MARQUIS.
+N'as-tu rien oublie de tout ce qu'il nous faut ? 
+LA MONTAGNE.
+Quand je vous fais en tout paraitre un zele extreme, 
+Douter de moi qui suis la vigilance meme, 
+Et qui toujours sur pied pour servir votre amour, 			[120]
+Depuis un mois et plus ne dors ni nuit ni jour ? 
+Au moins si par hasard mon cerveau se demonte, 
+Ce sera, s'il vous plait, Monsieur, sur votre compte. 
+A force de veiller... 
+LE MARQUIS.
+Va, j'en reponds. 
+LA MONTAGNE.
+Ma foi, 
+Je suis sur qu'un jaloux dormirait plus que moi. 			[125]
+Avoir tout a la fois tant de choses a faire, 
+C'est assez pour... Allez, quoique prompt a vous plaire, 
+Pour bien songer a tout, bien vous prend qu'au besoin 
+Ma memoire ait fourni de quoi nous mener loin. 
+Il ne manque plus rien a l'ordre de la Fete ; 			[130]
+Et de l'air dont chacun sur mes Lecons s'apprete, 
+Ce que j'ai prepare de Divertissements, 
+Aura tout ce qu'on peut souhaiter d'agrements. 
+Ainsi la belle Veuve a qui vous voulez plaire, 
+Ignorant d'ou lui vient ce qu'elle verra faire, 			[135]
+Vous croira tout au moins demi Sorcier. Pour moi, 
+Je mets le Diable au pis, s'il brigue mon emploi. 
+C'est de quoi l'exercer, quelque adroit qu'il puisse etre. 
+LE MARQUIS.
+Mais tout cela n'est rien, si l'on me fait connaitre. 
+Prends bien garde au secret. 
+LA MONTAGNE.
+Il vous est sur. 			[140]
+LE MARQUIS.
+Comment ? 			[140]
+LA MONTAGNE.
+La plupart de mes gens ne parlent qu'Allemand. 
+Comme j'entends la Langue assez pour les instruire, 
+J'ai voulu les choisir incapables de nuire. 
+D'ailleurs, que craindre d'eux, puisqu'ils ignorent tous 
+Que vous etes mon Maitre, et que j'agis pour vous ? 			[145]
+Je les paye, et c'est la tout ce qui leur importe. 
+LE MARQUIS.
+C'en est assez. Va-t-en, avant que quelqu'un sorte. 
+LA MONTAGNE.
+Vous croyez donc qu'ici je sois venu pour rien ? 
+Il me faut... 
+LE MARQUIS.
+Quoi ? Dis vite. 
+LA MONTAGNE.
+Attendez, c'est...
+LE MARQUIS.
+Et bien ? 
+LA MONTAGNE.
+Vous m'avez fait songer a ce que je prepare, 			[150]
+Et souvent en courant ma memoire s'egare. 
+LE MARQUIS.
+Veux-tu que... 
+LA MONTAGNE.
+Laissez-la, Monsieur, se retrouver. 
+En revant... 
+LE MARQUIS.
+Est-ce ici, Bourreau, qu'il faut rever ? 
+LA MONTAGNE.
+La montre qu'il faudra... Non, je l'ai. 
+LE MARQUIS.
+Va-t-en, traitre, 
+Tu me perdras. 
+LA MONTAGNE.
+Et bien, Serviteur ; mais peut-etre 			[155]
+Quelque chose manquant, vous en aurez regret. 
+LE MARQUIS.
+Non, sors. 
+LA MONTAGNE, revenant.
+Ah, je le tiens. Monsieur, votre portrait. 
+LE MARQUIS.
+Prends et t'eloigne. Quoi, tu reviens ? 
+LA MONTAGNE.
+Autre affaire. 
+J'oubliais de l'argent, c'est le plus necessaire. 
+LE MARQUIS.
+Voila ma Bourse. 
+LA MONTAGNE.
+Mais... 			[160]
+LE MARQUIS.
+Redoute mon courroux. 			[160]
+Veux-tu sortir ? 
+LA MONTAGNE.
+Je sors. Combien me donnez-vous ? 
+J'ai besoin tout au moins... 
+LE MARQUIS.
+Quelqu'un ici s'avance. 
+LA MONTAGNE.
+Bon, c'est Virgine, elle est de notre intelligence. 
+LE MARQUIS.
+Laisse-moi lui parler, et songe qu'il est temps 
+Qu'a faire ce qu'il faut tu prepares tes Gens. 			[165]
+SCENE II. Le Marquis, Virgine.
+LE MARQUIS.
+Et bien, Comment la nuit s'est-elle ici passee ? 
+Que fait-on ? 
+VIRGINE.
+Ma maitresse est fort embarrassee, 
+Et ce que l'Inconnu fait pour la regaler, 
+Lui donne a tous moments matiere de parler. 
+Olimpe aussi bien qu'elle admire son adresse. 			[170]
+Sa maniere engageante, et toutes deux sans cesse 
+Font rouler l'entretien sur les soins d'un Amant 
+Qui, sans se decouvrir, aime si fortement. 
+LE MARQUIS.
+Si toujours le succes repond a l'entreprise, 
+La suite aura de quoi meriter leur surprise. 			[175]
+VIRGINE.
+Ce qui m'en cause a moi, dont je ne reviens pas, 
+C'est de vous voir tranquille, et si peu d'embarras, 
+Que quelque Fete ici tous les jours qui se donne, 
+On en cherche l'Auteur, sans que l'on vous soupconne. 
+LE MARQUIS.
+Par ou me soupconner ? J'en ai peu de souci. 			[180]
+Je loge dans le Bourg a quatre pas d'ici. 
+Tous mes Gens, hors un seul qui sait ce qu'il faut taire, 
+Passent la tout le jour a rire, a ne rien faire ; 
+Et cet unique Agent par qui tout se conduit, 
+Va porter dans un Bois mes ordres chaque nuit. 			[185]
+Peut-on mieux assurer un secret ? 
+VIRGINE.
+Je l'avoue, 
+Tant de precaution merite qu'on vous loue ; 
+Mais vous perdez beaucoup a vous cacher ainsi. 
+Deja pour vous Olimpe a le coeur adouci, 
+Et le galant Auteur de tant de belles Fetes 			[190]
+La mettrait aisement au rang de ses conquetes. 
+LE MARQUIS.
+Il est vrai, j'ai connu par certains embarras 
+Qu'elle serait d'humeur a ne me hair pas ; 
+Mais quand je serais moins a ma belle Comtesse, 
+Olimpe au Chevalier doit toute sa tendresse. 			[195]
+Il l'adore, et je l'ai toujours trop estime, 
+Pour lui ravir l'objet dont je le vois charme. 
+VIRGINE.
+Ma Maitresse aime Olimpe, et pour voir cette Belle, 
+Permet au Chevalier un libre acces chez elle. 
+Depuis qu'elle est ici par mille tendres soins, 			[200]
+De l'amour qui l'attire il rend nos yeux temoins ; 
+Mais plus on vous verra, plus je crains pour sa flamme. 
+Les devoirs qu'il lui rend ne touchent point son ame, 
+Et ses regards sur vous a toute heure arretes, 
+Ne parleraient que trop, s'ils etaient ecoutes. 			[205]
+Mais vous, par quel motif vouloir toujours vous taire ? 
+A-t-on a se cacher, quand on est sur de plaire ? 
+Vos soins sous votre nom auraient ete recus. 
+LE MARQUIS.
+Chacun a ses raisons, et j'en ai la-dessus. 
+Tout ce qui peut charmer se trouve en la Comtesse ; 			[210]
+Mais soit par defiance, ou par delicatesse, 
+Le secret de son coeur se menage si bien, 
+Qu'avec elle un Amant n'est jamais sur de rien. 
+Elle veut etre aimee, attire, ecoute, engage, 
+Mais le plus avance n'a pas grand avantage. 			[215]
+La presser c'est se rendre indigne de sa foi, 
+Et vingt fois, tu le sais, elle a dit devant moi 
+Qu'on aurait vers son coeur moins de chemin a faire, 
+Plus, sans rien exiger, on ferait pour lui plaire. 
+D'abord qu'elle fut Veuve, un tendre et pur amour 			[220]
+M'engagea sans reserve a lui faire ma cour. 
+Aucun autre avant moi n'avait brule pour elle, 
+Et par toute l'ardeur qui peut suivre un beau zele, 
+Je n'ai pu meriter qu'en faveur de mes feux 
+Elle ait daigne jamais refuser d'autres voeux. 			[225]
+J'en vois qui se livrant, sans que rien les alarme, 
+Aux malignes douceurs d'un accueil qui les charme, 
+Sur la foi de ses yeux s'osent imaginer 
+Que son coeur est sensible, et pret a se donner ; 
+Mais je connais le piege, et plains leur imprudence. 			[230]
+Cependant pour agir avec plus d'assurance, 
+J'ai voulu joindre aux voeux qu'elle recoit par moi, 
+L'amour d'un Inconnu qui pretend a sa foi. 
+D'estime en sa faveur je la vois prevenue, 
+Et de ce double appui ma flamme soutenue 			[235]
+En aura moins de peine a me faire emporter 
+Ce qu'en vain mes Rivaux me voudront disputer. 
+Son coeur aimant en moi mon amour, ma personne, 
+Aime dans l'In connu les plaisirs qu'il lui donne. 
+Elle y reve, et mon feu par cet heureux secours 			[240]
+A trouve les moyens de l'occuper toujours. 
+D'ailleurs, j'ai la douceur, (quel plaisir quand on aime !) 
+Que souvent elle vient me parler de moi-meme, 
+Et vantant l'Inconnu, sans le croire si pres, 
+Me montre un coeur touche de tout ce que je fais. 			[245]
+Que t'en dit-elle a toi ? Parle. 
+VIRGINE.
+Elle en est ravie. 
+La gloire fut toujours le charme de sa vie. 
+Plus vos soins font d'eclat, plus elle s'applaudit 
+De ce qu'a son merite ils donnent de credit. 
+Ce n'est point par sa flamme une flamme enhardie, 			[250]
+Elle recoit des voeux sans qu'elle les mendie ; 
+Et puis, contre l'Amour quoi qu'on ait resolu, 
+Le nombre des Amants n'a jamais trop deplu ; 
+Et comme on veut plutot augmenter que rabattre, 
+Un avec un fait deux, et deux et deux font quatre. 			[255]
+Les Femmes la plupart en sont la. Mais voici 
+De quoi changer de note ; Olimpe vient ici. 
+Songez a vous, elle a grand dessein de vous plaire. 
+LE MARQUIS.
+Souviens-toi seulement de ce que tu dois faire, 
+Je m'en tirerai bien. 
+SCENE I.I. Le Marquis, Olimpe, Melisse.
+OLIMPE.
+Vous a-t-on fait savoir 			[260]
+Le petit differend que nous venons d'avoir ? 
+Je voulais empecher qu'on ne vous fit l'outrage 
+De souffrir avec vous un Rival en partage ; 
+Mais contre l'Inconnu je me declare en vain. 
+La Comtesse... 
+LE MARQUIS.
+Eh, Madame, a quoi bon ce dessein ? 			[265]
+Laissons a son penchant liberte toute entiere. 
+Pour moi... 
+OLIMPE.
+La complaisance est un peu singuliere. 
+Un rival rend des soins, la Comtesse en fait cas... 
+LE MARQUIS.
+S'ils lui plaisent, pourquoi ne me plairaient-ils pas ? 
+OLIMPE.
+Et s'il faut qu'a l'aimer enfin elle consente ? 			[270]
+Qu'elle l'epouse ? 
+LE MARQUIS.
+Et bien, elle sera contente. 
+C'est tout ce que je veux. 
+OLIMPE.
+Ah, puisqu'il est ainsi, 
+Marquis, j'ai tort pour vous de m'en mettre en souci. 
+Puisque pour l'Inconnu vous avez tant de zele, 
+Pour vous plaire, je vais le servir aupres d'elle. 			[275]
+LE MARQUIS.
+Je ne m'en plaindrai point, favorisez ses feux. 
+Peut-etre son bonheur me rendra-t-il heureux. 
+L'Amour a des douceurs et pour l'un et pour l'autre. 
+OLIMPE.
+Un merite aussi bien etabli que le votre, 
+Peut pretendre beaucoup, et... 
+LE MARQUIS.
+Je sais bien aimer, 			[280]
+C'est la mon seul merite. 
+OLIMPE.
+On le doit estimer, 
+Et j'en connais fort peu qui comme la Comtesse 
+Ayant de votre coeur attire la tendresse, 
+Voulussent consentir au chagrin sans egal, 
+Ou vous peut exposer l'obstacle d'un Rival. 			[285]
+LE MARQUIS.
+Ce chagrin n'a sur moi qu'un assez faible empire ; 
+Et sans m'expliquer mieux, je puis ici vous dire 
+Que j'aurai vu remplir mes souhaits les plus doux, 
+Si la Comtesse prend l'Inconnu pour Epoux. 
+Adieu, Madame. 
+SCENE IV. Olimpe, Melisse.
+OLIMPE.
+Il sort, et veut bien que je croie 			[290]
+Qu'en perdant la Comtesse il aura de la joie. 
+D'un pareil sentiment que dois-je presumer ? 
+Aurais-je su lui plaire ? Et pourrait-il m'aimer ? 
+MELISSE.
+Quoi, vous le souffririez ? 
+OLIMPE.
+Qu'il est bien fait, Melisse ! 
+MELISSE.
+Oui, mais au Chevalier il faut rendre justice. 			[295]
+SCENE V. La Comtesse, Olimpe, Virgine, Melisse.
+LA COMTESSE.
+Savez-vous que Dorante arrive ici ce soir ? 
+OLIMPE.
+Avouez que deja vous brulez de le voir. 
+LA COMTESSE.
+Je ne le cache point, j'en aurai de la joie. 
+OLIMPE.
+Je ne sais plus de vous ce qu'il faut que je croie. 
+Les devoirs du Marquis ne vous deplaisent pas ; 			[300]
+Dans ceux de l'Inconnu vous trouvez quelque appas, 
+Et d'autres soupirants, aussitot qu'ils arrivent, 
+Peuvent pretendre au coeur que tous les deux poursuivent. 
+C'est aller un peu loin. 
+LA COMTESSE.
+De quoi vous etonner ? 
+Pour pretendre a mon coeur, me le font-ils donner ? 			[305]
+Croyez-moi, pour n'avoir nul reproche a se faire, 
+Il faut de sa conduite eloigner le mystere, 
+S'acquerir des Amis sans trop les rechercher, 
+Se divertir de tout, et ne point s'attacher. 
+C'est ainsi que j'en use, et je m'en trouve heureuse. 			[310]
+Point d'affaire de coeur qui me tienne reveuse. 
+Tous ceux qu'un peu d'estime engage a m'en conter, 
+Me trouvent sans facon prete a les ecouter. 
+Je vois avec plaisir leur different genie ; 
+Et j'appelle cela recevoir compagnie. 			[315]
+OLIMPE.
+Mais en vous en contant, ils vous parlent d'aimer ? 
+LA COMTESSE.
+Je n'y vois pas contre eux de quoi se gendarmer. 
+Est-il quelque entretien, hors de la, qui n'ennuie, 
+Et nous parleront-ils de beau temps, ou de pluie ? 
+Notre sexe partout fait des Adorateurs, 			[320]
+Et fut-ce la plus laide, on lui dit des douceurs. 
+Pour moi, qu'aucun aveu sur l'amour n'effarouche, 
+A personne jamais je ne ferme la bouche, 
+Et grossissant ma cour d'Esclaves differents, 
+J'ecoute les soupirs, et ris des Soupirants. 			[325]
+Ce n'est pas, apres tout, leur faire grande injure, 
+Ils ont beau de leurs maux nous tracer la peinture. 
+Tous ces empressements de belle passion 
+Souvent sont moins amour que conversation, 
+Et le plus languissant, quoi qu'il dise et proteste 			[330]
+A, tout pret d'expirer, de la sante de reste. 
+Si sur nous quelquefois le murmure s'etend, 
+C'est pour ce que l'on fait, non pour ce qu'on entend ; 
+Et ces miroirs d'honneur, ces Prudes consommees, 
+Qui du seul nom d'amour se montre gendarmees, 			[335]
+Succomberaient bientot a la tentation, 
+Puisqu'un mot sur leurs coeurs fait tant d'impression. 
+Jamais a prendre feu je n'ai l'ame si prompte. 
+Les declarations ne sont pour moi qu'un conte, 
+Et quoi que mes Amants par la se soient promis, 			[340]
+Je ne vois, ne regarde en eux que mes Amis. 
+Je prends sur leur esprit un empire commode ; 
+Et s'ils m'aiment, il faut qu'ils vivent a ma mode. 
+L'un veille a mes Proces, l'autre a mes batiments. 
+OLIMPE.
+Et comment accorder ce grand nombre d'amants ? 			[345]
+LA COMTESSE.
+Si c'est etre coquette, au moins quoi qu'on en croie, 
+C'est l'etre de bon sens, et vivre pour la joie. 
+Chacun cherche a me plaire, et ne promettant rien, 
+Je fais amas de coeurs sans engager le mien. 
+Comme a fuir le chagrin tous mes soins aboutissent, 			[350]
+Il n'est pas jusqu'aux Sots qui ne me divertissent, 
+Et dont le ridicule a pousser des soupirs 
+Ne me soit quelquefois un sujet de plaisirs. 
+Quoique Veuve, je suis peut-etre encor d'un age 
+A suivre l'humeur gaie ou mon penchant m'engage. 			[355]
+J'en veux jouir ; jamais je n'aurai meilleur temps. 
+J'ai du bien, des Maisons a Paris comme aux champs ; 
+Ma personne a de quoi ne pas deplaire, on m'aime, 
+Et tant que je voudrai me garder a moi-meme, 
+Ne point prendre de Maitre en prenant un Epoux, 			[360]
+Mon sort egalera le destin le plus doux. 
+OLIMPE.
+Cest ce qu'encor longtemps vous aurez peine a faire. 
+Le Marquis n'est point fait d'un air a ne pas plaire, 
+Et vous estimez tant ce qu'il vous rend de soins, 
+Qu'il n'y va pour l'aimer, que du plus, ou du moins. 			[365]
+L'Inconnu peut d'ailleurs avoir touche votre ame ; 
+Et si par ce qu'il fait on juge de sa flamme, 
+Il est bien malaise qu'un si parfait Amant 
+N'ait merite de vous un peu d'engagement. 
+Son coeur impatient de vous voir attendrie 			[370]
+Joint la magnificence a la galanterie, 
+Et les porte si loin, qu'on y voit chaque jour 
+Briller egalement et l'esprit et l'amour. 
+LA COMTESSE.
+Il faut vous l'avouer, l'Inconnu m'embarrasse. 
+Ce qu'il ordonne est fait avecque tant de grace, 			[375]
+Que je m'en sens touchee, et craindrais de l'aimer, 
+Si je le voyais tel qu'on peut le presumer. 
+J'admire chaque jour les detours qu'il emploie 
+Pour me faire agreer les Bouquets qu'il m'envoie. 
+Jamais si galamment rien ne fur concerte, 			[380]
+C'est toujours de l'adresse et de la nouveaute. 
+Cependant j'ai beau faire afin de le connaitre. 
+Tous ses Gens sont muets sur le nom de leur Maitre ; 
+Et meme comme ils sont Etrangers la plupart, 
+Son secret avec eux ne court point de hasard. 			[385]
+C'est en vain qu'on les suit, on n'en peut rien apprendre. 
+Ce sont Acteurs instruits qui savent ou se rendre, 
+Et qui se separant quand ils sortent d'ici, 
+Par leur prompte retraite augmentent mon souci. 
+Qui peut les employer ? 
+OLIMPE.
+J'en vois tant qui font gloire 			[390]
+De soupirer pour vous, que je ne sais qu'en croire. 
+Quel qu'il soit, c'est de vous un Amant bien epris. 
+LA COMTESSE.
+Mes soupcons sont d'abord tombes sur le Marquis. 
+Il m'aime, il est galant ; mais ses Gens qu'on epie, 
+Demeurent en repos dans son Hotellerie, 			[395]
+Et n'y passeraient pas tout le jour sans emploi, 
+Si leur Maitre faisait tant de Fetes pour moi. 
+D'ailleurs, qu'a-t-il besoin d'user de cette adresse ? 
+Je souffre que son coeur m'explique sa tendresse, 
+Et depuis mon Veuvage a me plaire attache, 			[400]
+Quand il m'a divertie, il ne s'est point cache. 
+OLIMPE.
+Soupconner le Marquis ! Non, non, quoi qu'il put faire, 
+Son amour si longtemps aurait peine a se taire, 
+Et voyant votre peine, un sourire indiscret 
+De ses soins applaudis trahirais le secret. 			[405]
+Il vous parle a toute heure. 
+LA COMTESSE.
+Et si notre Vicomte 
+S'etait avise... 
+OLIMPE.
+Lui ? 
+LA COMTESSE.
+Que j'en aurais de honte. 
+C'est un fatigant homme. 
+OLIMPE.
+Il va jusqu'a l'exces. 
+LA COMTESSE.
+Il doit venir m'instruire ici de mon Proces. 
+OLIMPE.
+Vous pouvez seul a seul lui donner audience, 			[410]
+Car pour moi je deserte, et suis sans complaisance. 
+LA COMTESSE.
+Et ne pouvez-vous pas en rire comme moi ? 
+OLIMPE.
+Non, ces sortes d'Amants... Mais qu'est-ce que je vois ? 
+Madame... 
+SCENE VI. La Comtesse, Olimpe, Deux Enfants representant L'Amour et la Jeunesse, Virgine, Melisse, Un More.
+L'AMOUR.
+Vous voyez l'Amour et la Jeunesse, 
+Qui viennent admirer la charmante Comtesse, 			[415]
+Et lui dire a l'envi qu'etre de ses plaisirs, 
+Fait l'unique bonheur qui flatte leurs desirs. 
+LA COMTESSE.
+Et qui les a conduits ? 
+VIRGINE.
+Ce More qui jargonne 
+Certains mots qui ne sont entendus de personne. 
+Ils sont tous deux entres, demandant a vous voir. 			[420]
+OLIMPE.
+C'est encor l'Inconnu. 
+LA COMTESSE.
+Nous allons le savoir. 
+L'AMOUR.
+Nous n'avions pas besoin que l'on nous vint conduire, 
+Et d'eux-memes jusqu'a ce jour 
+Jamais dans aucun lieu la Jeunesse et l'Amour 
+N'ont eu de peine a s'introduire. 			[425]
+OLIMPE.
+L'aimable couple ! 
+LA COMTESSE.
+Il n'est rien de si beau. 
+OLIMPE.
+De leur petite mascarade 
+Le dessein est assez nouveau. 
+LA COMTESSE.
+Il faut les ecouter, car je me persuade 
+Qu'ils nous vont de l'Amour faire un joli tableau.			[430]
+DIALOGUE DE L'AMOUR ET DE LA JEUNESSE.
+LA JEUNESSE.
+Quoique vous nous voyiez ensemble, 
+C'est assez rarement que nous sommes d'accord. 
+L'AMOUR.
+Comme tout me cede, il me semble 
+Que me ceder aussi ne vous ferait pas tort. 
+LA JEUNESSE.
+Moi, vous ceder ! Et pourquoi, je vous prie ? 			[435]
+Si vous avez des charmes assez doux, 
+Qui plaisent en coquetterie, 
+Je me fais aimer plus que vous. 
+Jamais je ne quitte personne, 
+Qu'on ne s'en fasse un dur tourment. 			[440]
+Helas ! Dit-on, faut-il si promptement 
+Que la Jeunesse m'abandonne ? 
+Mais quand le noir chagrin de vos transports jaloux 
+Force deux Coeurs a la rupture, 
+On y trouve un repos si doux 			[445]
+Qu'on vous laisse aller sans murmure ; 
+Et je ne sache que les Fous, 
+Qui mal gueris de leur blessure, 
+Veuillent renouer avec vous. 
+L'AMOUR.
+Et quand on ne rompt point est-il douceurs pareilles ? 			[450]
+LA JEUNESSE.
+C'est un miracle dont le bruit 
+Vient rarement a mes oreilles ; 
+Mais regardons le degout qui le suit. 
+Ce n'est pas comme la Jeunesse 
+Qui se trouve aimable en tout temps. 			[455]
+Vous n'avez point d'agrement qui ne cesse, 
+Pour peu que vous alliez au-dela du Printemps. 
+Quand l'age vient, la belle chose 
+Que les soupirs de deux Amants Barbons ! 
+A quoi peuvent-ils etre bons 			[460]
+Qu'a plaindre leur metamorphose ? 
+Ce n'est plus en douceurs qu'ils passent tout le jour. 
+L'un dort tandis que l'autre gronde, 
+Et jamais on ne vit au monde 
+Rien de si sot qu'un vieil amour. 			[465]
+L'AMOUR.
+De vos jeunes attraits vous faites bien la fiere. 
+LA JEUNESSE.
+On la ferait a moins ; partout je saute aux yeux. 
+On me nomme partout des Beautes la premiere, 
+Et c'est en quoi sur vous je l'emporte encor mieux. 
+Car enfin pour me vaincre, employez ruse, adresse, 			[470]
+Cherchez, artifice, detours : 
+Il n'est point de laide Jeunesse, 
+Mais il est de vilains Amours. 
+L'AMOUR.
+Vous croyez que je me chagrine, 
+De vous voir ravaler mes droits ? 			[475]
+LA JEUNESSE.
+Il n'est pas defendu de faire bonne mine, 
+Quoiqu'on enrage quelquefois. 
+Pour moi, je n'aime que la joie, 
+Et malgre nos debats qui durent trop longtemps, 
+Il faut qu'a danser je m'emploie. 			[480]
+L'AMOUR.
+Danser ! Ignorez-vous qu'on a...
+LA JEUNESSE.
+Je vous entends, 
+Mais je puis tout comme Deesse. 
+En vain on croirait m'arreter. 
+D'ailleurs, rien ne saurait contraindre la Jeunesse 
+Et qui voudrait l'empecher de sauter, 			[485]
+La ferait mourir de tristesse. 
+L'AMOUR.
+Songez-y bien, j'apprehende pour vous. 
+LA JEUNESSE.
+Chacun doit soutenir son Role. 
+L'AMOUR.
+Il est vrai, la Jeunesse est toujours un peu folle, 
+Et l'on ne prend pas garde aux Fous. 			[490]
+Olimpe apres que la Jeunesse a danse un Menuet. 
+La cadence a trouver ne lui fait point de peine. 
+LA COMTESSE.
+Elle est nee a la Danse, et peut s'en faire honneur. 
+L'Amour au More qui l'a amene. 
+Tandis qu'elle reprend haleine, 			[495]
+Approchez, notre Conducteur, 
+C'est a vous d'entrer sur la Scene. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Occhi neri, il cui splendore 
+Hora uccide, hora da vita ; 
+Al mio cuore 			[500]
+Che si muore 
+Deh, pietosi date vita. 
+Quel sol di giovintu ch'in voi risplende, 
+Quei raggi ridenti onde ogn'un s'accende, 
+V'insegnano, non gia rigore. 			[505]
+Occhi neri, il cui splendore 
+Hora uccide, hora da vita ; 
+Al mio cuore 
+Che si muore 
+Deh, pietosi date vita. 			[510]
+Con sguardi lusinghieri, strali di fuoco 
+Begli occhi, nel petto colto m'havete. 
+S'aiuto certese non mi porgete, 
+Ahira, ch'io vo morendo a poco a poco. 
+Su, su, dunque, che fate, 			[515]
+Pupille adorate ? 
+Con sguardo amoroso, 
+Non piu disdegnoso, 
+La plaga sanate 
+D'un' alma ferita. 			[520]
+Ahi che troppo tardata. 
+E che non mirate 
+Che gie nel mio seno 
+Lo spirto vien meno, 
+E sta su l'usteta. 			[525]
+Occhi neri, il cui splendore 
+Hora uccide, hora da vita ; 
+Al mio cuore 
+Che si muore 
+Deh, pietosi date vita. 			[530]
+OLIMPE.
+En toute Langue on vous dit des douceurs. 
+LA COMTESSE.
+Ignorant qui me les adresse, 
+Ce sont d'assez vaines ardeurs ; 
+Mais laissons parler la Jeunesse. 
+LA JEUNESSE.
+Et bien, de moi que dites-vous, Amour ? 			[535]
+L'AMOUR.
+A danser, a sauter employez tout le jour, 
+Cela n'a rien qui m'interesse ; 
+Mais puisque aucun de nous n'est d'humeur a ceder 
+Il faut du moins nous accorder, 
+Pour louer dignement cette belle Comtesse. 			[540]
+LA JEUNESSE.
+La louer ? Ce n'est point mon fait. 
+Je ne pourrais assez elever son merite, 
+Et j'aime mieux en etre quitte 
+Pour ma guirlande et ce Bouquet. 
+Prenez ; d'une Deesse il n'est rien qu'on refuse. 			[545]
+L'AMOUR.
+Pour moi, qui cherche a voir tous les Coeurs sous ses lois, 
+Je sais comme il faut que j'en use, 
+Et veux mettre a ses pieds mon Arc et mon Carquois. 
+OLIMPE, reprenant le carquois de l'Amour, d'ou elle tire un billet parmi les fleches.
+Qu'il est bien fait ! Mais Dieux ! A l'aimable Comtesse. 
+Madame, c'est a vous que ce billet s'adresse. 			[550]
+A l'aimable Comtesse. 
+LA COMTESSE.
+Lisons. 
+OLIMPE.
+De l'Inconnu j'admire le talent, 
+Tout ce qu'il fait enchante. 
+LA COMTESSE.
+Il n'est rien de plus galant. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoique ma passion extreme 
+Me fasse un souverain bonheur 			[555]
+Du plaisir de vous dire a quel point je vous aime, 
+Permettez que l'Amour vous parle en ma faveur, 
+Avant que je parle moi-meme. 
+J'ose attendre beaucoup d'un entretien si doux. 
+Eh, qui sait mieux que lui ce que je sens pour vous ? 			[560]
+OLIMPE.
+C'est s'exprimer avec tendresse. 
+LA COMTESSE.
+On dit plus qu'on ne sent ; mais je veux a mon tour 
+Faire present a la Jeunesse. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA JEUNESSE.
+J'accepte cette bague, attendant l'heureux jour 
+Ou vous saurez pour qui je m'interesse. 			[565]
+LA COMTESSE.
+Je ne donne rien a l'Amour ; 
+Il se vante, et je crains ses contes ordinaires. 
+L'AMOUR.
+Par lui-meme l'Amour trouve a se contenter 
+Et tant qu'il se fait ecouter, 
+Il n'est pas mal dans ses affaires. 			[570]
+L'amour et la Jeunesse s'en vont avec le More. 
+OLIMPE.
+On les a bien instruits. 
+LA COMTESSE.
+Tache a les amuser, 
+Virgine. Les Enfants n'aiment point a se taire, 
+Et de notre Inconnu par eux... 
+VIRGINE.
+Laissez-moi faire. 
+En badinant je les ferai jaser. 
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Olimpe, Melisse.
+MELISSE.
+Ainsi par une vue au Chevalier fatale, 
+La Comtesse en ces lieux trouve en vous sa rivale ? 
+OLIMPE.
+Il est vrai, c'est ici que j'ai pris malgre moi 
+Ce qui vers le Marquis a fait pencher ma foi. 
+A le voir, a l'entendre a toute heure exposee, 			[580]
+J'ai cru ne risquer rien, et me suis abusee. 
+Son esprit engageant, son air plein de douceur, 
+Sa mine, tout pour lui m'a demande mon coeur. 
+Pour peu qu'on se hasarde aupres d'un vrai merite, 
+Que la raison est faible, et que ce coeur va vite ! 			[585]
+D'un tendre mouvement l'appas flatteur et doux 
+M'a fait voir la Comtesse avec des yeux jaloux. 
+S'il lui parle un moment, je m'en sens inquiete, 
+Et trop pleine du trouble ou ce chagrin me jette, 
+Dans ce Bois frais et sombre ou je la viens trouver, 			[590]
+Je la cherche a pas lents, et n'aime qu'a rever. 
+MELISSE.
+Mais vous n'ignorez pas qu'il aime la Comtesse ? 
+OLIMPE.
+Nous pouvons l'un et l'autre avoir meme faiblesse. 
+J'aimais le Chevalier avant ce changement ; 
+Du moins je le souffrais en qualite d'Amant. 			[595]
+Cependant le Marquis fait balancer mon ame, 
+Et quoiqu'a la Comtesse il ait montre sa flamme, 
+Que sait-on si l'Amour pour m'assurer sa foi, 
+N'aura pas fait en lui ce qu'il a fait en moi ? 
+Tu sais ce qu'il m'a dit ; loin qu'il en prenne ombrage, 			[600]
+Il voit avec plaisir que l'Inconnu l'engage, 
+Qu'il s'en fasse estimer, et voudrait que l'Amour, 
+Pour les unir ensemble, eut deja pris le jour. 
+Me decouvrir ainsi le secret de son ame, 
+Melisse, n'est-ce pas que parler de sa flamme, 			[605]
+Et me dire a demi que son coeur tout a moi 
+N'aspire qu'au bonheur de degager sa foi ? 
+MELISSE.
+Gardez de vous flatter, on croit ce qu'on desire ; 
+Mais souvent... 
+OLIMPE.
+Ne crains rien. Si pour lui je soupire, 
+L'Amour qui m'y contraint, se conduira si bien, 			[610]
+Qu'aux yeux de la Comtesse il n'en paraitra rien. 
+Tout ce que je pretends, est de vanter sans cesse 
+Les soins de l'Inconnu, son esprit, son adresse ; 
+Et si de cet amour son hymen est le prix, 
+Je pourrai faire alors expliquer le Marquis.			[615]
+MELISSE.
+Ainsi le Chevalier n'a plus rien a pretendre ? 
+OLIMPE.
+Le voici, je ne puis refuser de l'entendre ; 
+Mais son amour du mien s'est un peu trop promis. 
+SCENE II. Le Chevalier, Olimpe, Melisse.
+LE CHEVALIER.
+Madame, apprenez-moi quel espoir m'est permis. 
+Mon chagrin ne peut plus se forcer au silence ; 			[620]
+Je vous vois, vous retrouve apres un mois d'absence, 
+Et vous me recevez d'un air froid, serieux... 
+OLIMPE.
+Je reve, et j'en ai pris l'habitude en ces lieux. 
+A me bien divertir quelques soins qu'on emploie, 
+Il y manque toujours quelque chose a ma joie. 			[625]
+La Campagne n'a point les charmes de Paris. 
+LE CHEVALIER.
+Paris a des beautes dont on peut etre epris ; 
+Mais enfin je n'en veux pour Juge que vous-meme. 
+On ne regrette rien quand on voit ce qu'on aime, 
+Et vous n'envieriez pas les plaisirs les plus doux, 			[630]
+Si vous etiez pour moi, ce que je suis pour vous. 
+OLIMPE.
+Je croyais n'etre pas obligee a vous rendre 
+Le meme empressement que l'Amour vous fait prendre, 
+Et qu'il m'etait permis, en recevant vos soins, 
+De vous trouver sensible, et de l'etre un peu moins. 			[635]
+LE CHEVALIER.
+Quelle reponse, helas ! C'est donc tout ce qu'emporte 
+Cette parfaite ardeur... 
+OLIMPE.
+Je l'avoue, elle est forte, 
+Vos feux par ces devoirs m'ont ete confirmes ; 
+Mais de grace, est-ce vous, ou moi, que vous aimez ? 
+Je parais a vos yeux bien faite, belle, aimable, 			[640]
+Vous me cherchez, de quoi vous suis-je redevable ? 
+Forcez-vous en cela votre inclination ? 
+Et quand vous me parlez d'ardeur, de passion, 
+Si le secret penchant qui pour moi vous inspire, 
+Ne vous attirait pas autant qu'il vous attire, 			[645]
+Ne trouvant rien en moi qui put vous enflammer, 
+Pour mes seuls interets me pourriez-vous aimer ? 
+De vos pretentions voyez l'abus extreme. 
+Parce que je vous plais, il faut que je vous aime, 
+Et je dois vous payer de la necessite 			[650]
+Qui vous tient malgre vous dans mes fers arrete. 
+Tachez de les briser, si leur poids vous etonne ; 
+Sinon, mon coeur est libre, attendez qu'il se donne, 
+Et quoi que enfin pour vous sa conquete ait d'appas, 
+N'exigez point de lui ce qu'il ne vous doit pas. 			[655]
+LE CHEVALIER.
+Ah, contre mon amour je vois ce qui s'apprete. 
+On veut... 
+OLIMPE.
+Finissons-la, j'ai quelque chose en tete, 
+Et comme je vous crois genereux et discret, 
+Je veux bien avec vous n'en pas faire un secret. 
+L'Inconnu par ses soins offre ici son Hommage, 			[660]
+A lui vouloir du bien quelque interet m'engage. 
+LE CHEVALIER.
+Qu'entends-je ? L'Inconnu ! Madame, l'aimez-vous ? 
+Me quittez-vous pour lui ? Sera-t-il votre Epoux ? 
+Vous a-t-il fait parler ? 
+OLIMPE.
+Voila de la jalousie 
+Comme souvent sans cause on a l'ame saisie. 			[665]
+LE CHEVALIER.
+Il est galant, je vois que vous en faites cas, 
+Vous dedaignez mes voeux, et je ne craindrais pas ? 
+OLIMPE.
+Non, puisque si pour lui ma bonte s'interesse, 
+Ce n'est que pour lui faire epouser la Comtesse. 
+LE CHEVALIER.
+Favorable assurance ! En des maux si pressants, 			[670]
+Pardonnez si d'abord l'Inconnu... 
+OLIMPE.
+J'y consens, 
+Mais a condition que pour servir sa flamme 
+Vous verrez la Comtesse, et ferez... 
+LE CHEVALIER.
+Moi, Madame ! 
+Le Marquis qui l'adore est mon ami. 
+OLIMPE.
+Fort bien. 
+Le Marquis vous est tout, et je ne vous suis rien. 			[675]
+LE CHEVALIER.
+Madame... 
+OLIMPE.
+A l'Amitie l'on doit un coeur fidele, 
+Prompt, ardent ; pour l'Amour, c'est une bagatelle. 
+LE CHEVALIER.
+Mais si du Marquis...
+OLIMPE.
+Non, faites-vous son appui, 
+Je veux bien qu'il l'emporte, et vous laisse avec lui. 
+Adieu. 
+SCENE III. Le Marquis, Le Chevalier.
+LE MARQUIS.
+De quel chagrin vous vois-je atteint ? Il semble 			[680]
+Qu'elle sort en colere ; etes-vous mal ensemble ? 
+LE CHEVALIER.
+Oui, Marquis, et jamais Amant ne fut traite 
+Avec tant d'injustice et tant de cruaute. 
+C'est peu que je la trouve ici toute changee ; 
+A nuire a votre amour elle s'est engagee, 			[685]
+Et veut me voir servir l'Inconnu contre vous. 
+LE MARQUIS.
+Si vous la refusez, j'approuve son courroux. 
+Qui se declare Amant, doit tout a ce qu'il aime. 
+LE CHEVALIER.
+Contre un parfait Ami ? Contre un autre soi-meme ? 
+LE MARQUIS.
+L'Amour n'excepte rien. 
+LE CHEVALIER.
+Pour ne pas l'irriter, 			[690]
+Je vous trahirais ! Non, laissons-la s'emporter. 
+Le temps et la raison eteindront sa colere. 
+LE MARQUIS.
+Une Maitresse ordonne, il faut la satisfaire. 
+Parlez pour l'Inconnu ; tous vos soins employes 
+Peut-etre me nuiront moins que vous ne croyez. 			[695]
+LE CHEVALIER.
+La Comtesse l'estime, et son ame incertaine 
+Peut malgre votre amour... 
+LE MARQUIS.
+N'en soyez point en peine. 
+Sur elle, sur son coeur je sais ce que je puis. 
+LE CHEVALIER.
+Comprenez-vous assez quels seraient mes ennuis, 
+S'il fallait que par moi... 
+LE MARQUIS.
+Vous n'avez rien a craindre. 			[700]
+Empechez seulement Olimpe de se plaindre. 
+LE CHEVALIER.
+Plus je vous vois agir en ami genereux, 
+Plus j'ai de repugnance a combattre vos feux. 
+Je m'oppose pour vous a ce qu'Olimpe exige, 
+Et crains tant d'obtenir... 
+LE MARQUIS.
+Ne craignez rien vous dis-je, 			[705]
+Et sans examiner le peril que je cours, 
+Assurez, s'il se peut, le repos de vos jours. 
+Je le verrai sans peine. 
+LE CHEVALIER.
+O bonte que j'admire ! 
+Que ne vous dois-je point, et que puis-je vous dire ? 
+Je vais rejoindre Olimpe, et malgre sa froideur 			[710]
+Lui jurer d'un Amant la plus soumise ardeur. 
+Je lui promettrai tout ; mais malgre ma promesse 
+J'aurai tant de reserve en voyant la Comtesse, 
+Que ce qu'a l'Inconnu je preterai d'appui, 
+Faisant peu contre vous, ne fera rien pour lui. 			[715]
+SCENE IV. Le Marquis, Virgine.
+LE MARQUIS.
+Virgine.
+VIRGINE.
+Vous riez ? D'ou vous vient cette joie ? 
+LE MARQUIS.
+De voir contre elle-meme Olimpe qui s'emploie. 
+Le Chevalier, d'erreur comme elle prevenu, 
+Va tacher, pour lui plaire, a servir l'Inconnu. 
+J'ai quelque part sans doute a ce qu'on lui fait faire. 			[720]
+VIRGINE.
+Qu'on est dupe souvent ! 
+LE MARQUIS.
+Le plaisant de l'affaire, 
+C'est qu'Olimpe qui croit par la me conserver, 
+Brigue pour moi le coeur qu'elle veut m'enlever. 
+VIRGINE.
+Cependant vous aviez besoin de mon adresse, 
+Quand j'ai suivi tantot l'Amour et la Jeunesse. 			[725]
+LE MARQUIS.
+Et qu'as-tu dit pour eux ? 
+VIRGINE.
+Qu'ils ont d'abord couru 
+Se jeter en carrosse, et qu'ils ont disparu. 
+LE MARQUIS.
+Et la Comtesse ? 
+VIRGINE.
+Elle est dans une peine extreme, 
+Et semble partagee entre vous et vous-meme. 
+Je viens de lui vanter vos tendres sentiments. 			[730]
+Elle a rendu justice a leurs empressements ; 
+Puis avec un soupir que l'amour a fait naitre, 
+Que n'est-il l'Inconnu, m'a-t-elle dit ! 
+LE MARQUIS.
+Peut-etre, 
+Si je me declarais, son coeur sans embarras, 
+Quoique touche pour moi, ne le sentirait pas. 			[735]
+Ne precipitons rien. 
+VIRGINE.
+C'est l'humeur de la Dame. 
+Le merite la charme, il peut tout sur son ame ; 
+Mais il faut lui laisser vouloir ce qu'elle veut. 
+LE MARQUIS.
+L'Amour est console, quand il fait ce qu'il peut. 
+Elle parait ; je vais pousser le stratageme, 			[740]
+Et faire quelque temps le jaloux de moi-meme. 
+C'est le plus sur moyen d'affermir mon bonheur. 
+SCENE V. La Comtesse, Le Marquis, Virgine.
+LE MARQUIS.
+Madame, je vous trouve un air sombre, reveur ; 
+Il me gene, il m'alarme, et cependant je n'ose 
+Permettre a mon amour d'en demander la cause. 			[745]
+Peut-etre quand mon coeur s'attache tout a vous, 
+Le votre cherche ailleurs des hommages plus doux. 
+Vous ne repondez point ? Je le vois trop, Madame. 
+Un autre feu sans doute est contraire a ma flamme. 
+Malgre ce que le temps m'a du preter d'appui, 			[750]
+C'est l'Inconnu qu'on aime, et vous pensez a lui. 
+LA COMTESSE.
+Vous l'avez devine. Ses galantes manieres, 
+Si propres a gagner les ames les plus fieres, 
+M'obligent tellement, qu'a ce qu'il fait pour moi 
+Un peu de reverie est le moins que je dois. 			[755]
+Je puis me la souffrir sur tout ce qui se passe. 
+LE MARQUIS.
+Quoi, Madame, un Rival... 
+LA COMTESSE.
+D'un ton plus bas, de grace. 
+S'il m'occupe l'esprit, vous devez presumer 
+Que c'est pour le connaitre, et non pas pour l'aimer. 
+Apres ce que pour moi ses soins marquent de zele, 			[760]
+La curiosite n'est pas fort criminelle; 
+Et vous-meme deja vous auriez du tacher 
+D'eclaircir le secret qu'il aime a nous cacher. 
+LE MARQUIS.
+Je vous l'eclaircirais ! Promettez-moi, Madame, 
+Que votre main sera l'heureux prix de ma flamme ; 			[765]
+Et pour le decouvrir, je fais ce que je puis. 
+LA COMTESSE.
+Cherchez a me tirer de la peine ou je suis. 
+Vous me ferez plaisir, et je vous le conseille. 
+LE MARQUIS.
+Est-il contre un Amant injustice pareille ? 
+Si l'Inconnu par moi se decouvre aujourd'hui, 			[770]
+Voudrez-vous point encor que je parle pour lui ? 
+Qu'en faveur de son feu le mien vous sollicite ? 
+Il peut, je le confesse, avoir plus de merite, 
+A l'ardeur de ses soins donner un plus grand jour ; 
+Mais jamais, quoi qu'il fasse, il n'aura plus d'amour. 			[775]
+LA COMTESSE.
+Je le veux croire ainsi ; mais puis-je avec justice 
+De son attachement vous faire un sacrifice, 
+Avant qu'avec lui-meme une civilite 
+Marque au moins que je sais ce qu'il a merite ? 
+LE MARQUIS.
+Le detour est adroit autant qu'il le peut etre. 			[780]
+Il faut etre civile afin de le connaitre, 
+Et vous donnant a lui, quand vous le connaitrez, 
+L'Etoile est le garant ou vous me renverrez. 
+LA COMTESSE.
+Ainsi c'est de nos coeurs l'Etoile qui dispose ? 
+LE MARQUIS.
+Mais... 
+LA COMTESSE.
+Je hais les raisons quand je veux quelque chose, 			[785]
+Et j'avais toujours cru que la soumission 
+D'un veritable Amant marquait la passion. 
+LE MARQUIS.
+Oui, quand il peut... 
+LA COMTESSE.
+Marquis, voyez ce que vous faites. 
+J'aime en qui m'ose aimer, des volontes sujettes, 
+Et qu'on m'estime assez, pour croire aveuglement 			[790]
+Que tout ce que je veux, je le veux justement. 
+LE MARQUIS.
+Mon malheur est certain. J'ai de bons yeux, Madame. 
+Vous cherchez un pretexte a rejeter ma flamme. 
+Si je desobeis, c'en est fait, plus d'espoir ; 
+Et si de mon Rival... Moi, vous le faire voir ? 			[795]
+Non, qu'il cherche lui-meme a se faire connaitre. 
+Ce ne sera jamais que trop tot, et peut-etre... 
+LA COMTESSE.
+Suffit ; j'aime a savoir, Marquis, ce que je sais. 
+Vous m'osez refuser, et je m'en souviendrai. 
+SCENE VI. La Comtesse, Olimpe, Le Chevalier, Le Marquis, Virgine, Melisse.
+LE CHEVALIER.
+Quoique j'ignore encor quel spectacle on apprete, 			[800]
+Je puis vous preparer a quelque grande Fete, 
+Madame ; dans ce Bois j'ai vu des Gens epars, 
+Qui pour vous la donner, viennent de toutes parts. 
+Ils s'avancent vers vous. 
+LE MARQUIS.
+Vous devez les attendre, 
+Madame, et l'Inconnu ne saurait moins pretendre. 			[805]
+Il connait mieux que moi ce que c'est qu'etre Amant, 
+Par tout il vous regale. 
+LA COMTESSE.
+Et toujours galamment. 
+Du moins j'ai tout sujet d'en etre satisfaite. 
+LE MARQUIS.
+Vous pouvez l'ecouter, voici son Interprete. 
+SCENE VI.. La Comtesse, Le Marquis, Le Chevalier, Olimpe, La Montagne representant Comus, Virgine, Melisse, Suite de Comus.
+Le Marquis sort.
+COMUS.
+Madame, par hasard si Comus est un Dieu 			[810]
+Qui soit de votre connaissance, 
+Vous le voyez en moi qui parais en ce lieu 
+Pour vous jurer obeissance. 
+Je suis un grand Maitre en Festins. 
+A les bien ordonner on connait mon genie, 			[815]
+Et l'Amour dont le gout fut toujours des plus fins, 
+Voulant en bonne compagnie 
+Vous donner un regale approchant des Divins, 
+M'a fait Maitre d'Hotel de la Ceremonie. 
+C'est un Dieu, quoique tres petit, 			[820]
+A qui l'on peut ceder sans honte. 
+Marchez sous sa conduite, et rendez-vous plus prompte 
+A faire tout ce qu'il vous dit ; 
+Vous y trouverez votre compte. 
+LA COMTESSE.
+Sur l'esperance des douceurs 			[825]
+Dont l'Amour doit combler nos coeurs, 
+Quand une fois il s'en empare, 
+Je suivrais volontiers ses pas, 
+Mais comme il est Enfant, j'ai peur qu'il ne s'egare, 
+Et j'aime a ne me perdre pas. 			[830]
+COMUS.
+Avancez, il est temps. Vite, que l'on commence. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE CHEVALIER, a la Comtesse.
+Tant de galanterie a droit de vous charmer, 
+Madame. 
+OLIMPE.
+N'epargner ni peine, ni depense, 
+Pour fournir des plaisirs toujours en abondance, 
+C'est la ce qui s'appelle aimer. 			[835]
+COMUS.
+Madame, il ne faut point differer davantage. 
+Quand l'Amour, dont je prends ici les interets, 
+Vous rend par ce Regale un volontaire hommage, 
+Vous connaissez a quel usage 
+En sont destines les apprets. 			[840]
+LA COMTESSE.
+Je ne veux pas les laisser inutiles. 
+Olimpe y prendra part ainsi que son amant. 
+OLIMPE.
+Volontiers ; les refus sont assez difficiles, 
+Quand on agit si galamment. 
+LA COMTESSE.
+J'ai besoin d'une main, la votre est-elle prete, 			[845]
+Marquis ? 
+LE MARQUIS.
+Vous vous moquez, je crois. 
+LA COMTESSE.
+Non, vous me conduirez. 
+LE MARQUIS.
+Je renonce a la fete, 
+Elle n'est pas faite pour moi. 
+LA COMTESSE.
+Point d'excuses, point de defaites ; 			[850]
+Je veux que vous veniez. 
+LE MARQUIS.
+Eh, Madame. 
+LA COMTESSE.
+Eh, Marquis, 
+Sans facon, croyez-moi, faites ce que je dis ; 
+Vous vous montrez plus jaloux que vous n'etes. 
+LE MARQUIS.
+Justement. 
+LA COMTESSE.
+Je connais votre coeur mieux que vous, 
+Et c'est si rarement que le trouble y peut naitre... 			[855]
+LE MARQUIS.
+Oui, Madame, j'ai tort de paraitre jaloux, 
+Car je n'ai pas sujet de l'etre. 
+SCENE VIII. La Comtesse, Olimpe, Le Chevalier, Virgine, Melisse, Comus, Suite de Comus.
+Pomone et Vertumne s'avancent, et chantent le Dialogue qui suit.
+OLIMPE.
+On dirait qu'il sort en courroux. 
+LA COMTESSE.
+Il aura tout loisir de s'en rendre le maitre. 
+Cependant divertissons-nous. 			[860]
+COMUS.
+Tandis que vous ferez une epreuve agreable 
+Des douceurs que ces fruits offrent aux Curieux, 
+L'Amour qui m'emploie en ces lieux, 
+M'a fait chercher ce qu'il a cru capable 
+De pouvoir attacher vos yeux. 			[865]
+Allons, faites de votre mieux, 
+Et qu'a l'envi chacun se montre infatigable. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA COMTESSE.
+On voit avec plaisir de semblables combats 
+Qui ne font craindre pour personne. 
+COMUS.
+Il serait malaise qu'ils manquassent d'appas, 			[870]
+Quand c'est l'Amour qui les ordonne. 
+Mais il est d'autres Dieux que moi, 
+Qui se sont meles de la Fete. 
+Vertumne y prend part, et je vois 
+Qu'ainsi que Pomone il s'apprete 			[875]
+A raisonner sur son emploi. 
+DIALOGUE DE VERTUMNE ET DE POMONE.
+VERTUMNE.
+De quel chagrin, Pomone, as-tu l'ame saisie ? 
+POMONE.
+Si Vertumne a des yeux, doit-il le demander ? 
+Je suis, quoique Deesse, obligee a ceder ; 
+Puis-je le voir sans jalousie ? 			[880]
+Quand en faveur d'un Amant inconnu 
+J'ai promis de venir regaler cette Belle, 
+J'avais cru ne trouver en elle 
+Que les appas d'une simple Mortelle. 
+Pour qui l'Amour etait trop prevenu ; 			[885]
+Mais les Divinites n'ont rien qui la surpasse. 
+Il n'est eclat qu'elle n'efface, 
+Et je viens d'avoir la douleur 
+Qu'aupres d'elle mes Fruits ont change de couleur. 
+Apres un tel affront puis-je etre sans colere ? 			[890]
+VERTUMNE.
+J'aurais la meme plainte a faire. 
+J'ai beau, comme Dieu des jardins, 
+Chercher a lui fournir toujours des fleurs nouvelles ; 
+Son teint en a de naturelles, 
+Dont l'eclat ternit mes jasmins. 			[895]
+POMONE.
+L'aveu que nous faisons augmente sa victoire. 
+VERTUMNE.
+Le moyen de s'en dispenser ? 
+POMONE.
+Elle est toute charmante, il faut le confesser. 
+VERTUMNE.
+Unissons donc nos voix, et chantons a sa gloire. 
+Tous les deux ensemble.
+Heureux, heureux l'Amant, dont la tendre langueur, 			[900]
+Pour meriter son choix, aura touche son coeur ! 
+CHANSON de POMONE.
+Vous avez beau vous defendre, 
+Vous aimerez quelque jour. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Sans attendre 
+Pourquoi craindre de vous rendre ? 			[905]
+Chacun lui cede a son tour. 
+On n'a point de plaisir sans tendresse, 
+Sans amour on n'a point de bonheur. 
+Si d'un Coeur 
+En langueur 			[910]
+Les soucis partages vous font peur, 
+Rendez-vous au beau feu qui le presse, 
+Vous verrez qu'ils sont pleins de douceur. 
+CHANSON de VERTUMNE.
+L'Amour est a suivre, 
+Laissez-vous charmer ; 			[915]
+Tout doit s'enflammer. 
+Quel plaisir de vivre, 
+Sans celui d'aimer ? 
+Les plus belles chaines 
+Font voir mille peines 			[920]
+A qui n'aime pas ; 
+Mais quand on aime, 
+Ce n'est plus de meme, 
+Tout est plein d'appas. 
+OLIMPE.
+L'un et l'autre a la voix charmante. 			[925]
+LE CHEVALIER.
+On aurait peine a mieux chanter. 
+LA COMTESSE.
+La beaute de la fete a passe mon attente. 
+OLIMPE.
+L'Inconnu l'ordonnant, avez-vous a douter 
+Qu'elle ne fut toute galante ? 
+COMUS.
+Et bien, pour toucher votre coeur, 			[930]
+Comus a-t-il su satisfaire, 
+En Dieu d'importance et d'honneur, 
+A tout ce que l'Amour l'avait charge de faire ? 
+LA COMTESSE.
+Comus peut s'assurer par tout de son bonheur, 
+Si Comus s'en fait un de plaire. 			[935]
+Mais comme en terre quelquefois 
+La Divinite s'humanise, 
+Le Dieu Comus pourrait m'apprendre a qui je dois 
+Le divertissement dont il me voit surprise. 
+COMUS.
+Un secret qu'a conserver 			[940]
+Ma qualite de Dieu m'engage. 
+Si de ses soins l'Amour qui veut vous eprouver, 
+Peut esperer quelque avantage, 
+Il m'attend dans le Ciel ou je le vais trouver. 
+Employez-moi pour le message. 			[945]
+LA COMTESSE.
+Je ne m'explique pas ainsi. 
+Je veux connaitre avant qu'entrer en confidence. 
+COMUS.
+Ma Suite est disparue, et je suis seul ici. 
+Bonsoir, vivez en esperance 
+De sortir bientot de souci. 			[950]
+LA COMTESSE.
+Se taire ! Se cacher si longtemps quand on aime ! 
+VIRGINE.
+J'avais cru par l'un d'eux, en lui parlant tout bas, 
+Developper ce stratageme ; 
+Mais apres quelques mots que peut-etre lui-meme 
+En les disant n'entendait pas, 			[955]
+Il a, d'une vitesse extreme, 
+Pour s'eloigner, double le pas. 
+LA COMTESSE.
+Pour moi, je ne sais plus qu'en dire. 
+OLIMPE.
+Le temps eclaircira l'amour de l'Inconnu, 
+Un peu de patience. 
+LA COMTESSE.
+Il faut tacher d'en rire, 			[960]
+En attendant que ce temps soit venu. 
+
+
+			ACTE III
+
+
+SCENE PREMIERE. La Comtesse, Olimpe, Virgine.
+LA COMTESSE.
+Nommez ce sentiment fierte, chagrin, caprice ; 
+Quand je parle une fois, je veux qu'on obeisse, 
+Et je ne pretends point, parce qu'on est jaloux, 
+Renoncer fortement aux plaisirs les plus doux. 			[965]
+Des voeux de l'Inconnu si le Marquis s'offense, 
+Il en doit redoubler ses soins, sa complaisance, 
+Et trop faire eclater l'ennui qu'il en recoit, 
+C'est servir son Rival beaucoup plus qu'il ne croit. 
+OLIMPE.
+En vain un peu d'aigreur contre lui vous anime, 			[970]
+L'Inconnu, je le sais, partage votre estime, 
+On ne peut condamner ce qu'il s'en est acquis ; 
+Mais enfin vous devez votre coeur au Marquis. 
+LA COMTESSE.
+Moi ? Je ne lui dois rien. 
+OLIMPE.
+Et qu'a donc fait, Madame, 
+Ce long et tendre amour qui vous soumet son ame ? 			[975]
+Pour vous rendre sensible il a tout essaye ; 
+Mille devoirs... 
+LA COMTESSE.
+Et bien, n'en est-il pas paye ? 
+OLIMPE.
+Comment ? Est-ce qu'a lui votre foi vous engage ? 
+LA COMTESSE.
+Il me voit quand il veut, que faut-il davantage ? 
+Quoi, pour quelques soupirs, pour un peu de langueur, 			[980]
+Vous croyez bonnement qu'il faut donner son coeur ? 
+S'engage qui voudra, je ne vais pas si vite 
+Avec tous mes Amants chaque jour je m'acquitte, 
+Et pretends que des voeux qui me sont adresses, 
+Le plaisir de me voir les a recompenses. 			[985]
+Tant qu'ils en usent bien, je leur fais bonne mine. 
+J'ecoute leurs douceurs, prends mon humeur badine, 
+Je raille ; mais aussi quand on fait un faux pas, 
+J'ai l'air sombre, je reve, et ne regarde pas. 
+D'ailleurs, point de caprice, et c'est par ou j'engage 			[990]
+Cette foule d'Amants dont je recois l'Hommage. 
+Ma Cour est toujours grosse, on y chante, on y rit ; 
+Et quand l'un me deplait, l'autre me divertit. 
+OLIMPE.
+J'avais cru qu'au Marquis une secrete flamme 
+Assurait, quoi qu'on fit, l'empire de votre ame, 			[995]
+Et plaignais l'Inconnu, dont les soins amoureux 
+Ne pouvaient meriter qu'il fut jamais heureux. 
+S'y prendre de la sorte est un grand avantage ; 
+Il doit n'etre qu'esprit, tout ce qu'il fait engage, 
+Et sans doute il faudrait, quand on l'a su charmer, 			[1000]
+Se mal connaitre en Gens, pour ne le point aimer. 
+LA COMTESSE.
+Je ne sais si pour lui j'ai plus que de l'estime, 
+Mais de ce que je sens je me fais presque un crime, 
+Et rougis en secret d'avoir tant de temoins 
+Du trop de complaisance ou m'engagent ses soins. 			[1005]
+Rien n'est plus obligeant, j'en dois cherir la cause ; 
+Mais enfin il se cache, et c'est pour quelque chose. 
+Tout galant qu'il parait, qui pourra m'assurer 
+Qu'il merite l'amour qu'il tache a m'inspirer ? 
+Il est de riches Sots, qui pour certains usages 			[1010]
+Tiennent un Bel Esprit quelquefois a leurs gages, 
+Et qui dans les Plaisirs qu'ils semblent inventer, 
+N'ont de part que l'argent qu'on leur a fait couter. 
+Que si tout au contraire il etait gueux ? 
+OLIMPE.
+Madame, 
+Tant de Fetes d'eclat qui vous prouvent sa flamme... 			[1015]
+LA COMTESSE.
+Il peut vivre d'emprunt, et sur le bien d'autrui 
+Faire, pour m'attraper, ce qu'il ne peut de lui. 
+Malgre moi quelquefois cette crainte m'occupe, 
+Je n'ai point encore eu le talent d'etre Dupe, 
+Et pour m'en garantir, je n'epargnerai rien. 			[1020]
+OLIMPE.
+Mais si vous connaissez sa naissance, son bien, 
+Que tout dans sa personne... 
+LA COMTESSE.
+Et le Marquis ? De grace, 
+Si j'aime l'Inconnu, que faut-il que j'en fasse ? 
+Il n'est pas sans merite, et doit etre ecoute, 
+Par lui-meme, ou du moins par l'anciennete.			[1025]
+De tous mes Protestants c'est le premier. 
+OLIMPE.
+J'avoue 
+Qu'il a des qualites bien dignes qu'on le loue, 
+L'air noble. 
+LA COMTESSE.
+Qui des deux me conseilleriez-vous, 
+Puisque j'en ai le choix, de prendre pour epoux ? 
+OLIMPE.
+Moi ? 
+LA COMTESSE.
+Vous vous etonnez ? 			[1030]
+OLIMPE.
+Si... 			[1030]
+LA COMTESSE.
+Parlons d'autre chose. 			[1030]
+On vous trouve chagrine, apprenez-m'en la cause, 
+Le Chevalier s'en plaint, et ne sait que penser
+De voir qu'il ne fait plus que vous embarrasser. 
+D'ou naissent les froideurs dont son amour s'alarme ? 
+OLIMPE.
+A ne rien vous cacher la liberte me charme. 			[1035]
+Je tremble, et s'agissant d'un Maitre a me donner, 
+Un choix si hasardeux commence a m'etonner. 
+LA COMTESSE.
+Ce Maitre a recevoir, dont le choix vous etonne, 
+Ne fait pas tant de peur quand l'Amour nous le donne. 
+C'est par notre tendresse un mal bien adouci. 			[1040]
+OLIMPE.
+He, Madame, pourquoi me parlez-vous ainsi ? 
+LA COMTESSE.
+Le trouble de vos yeux me fait beaucoup entendre ; 
+Et quand le Chevalier. 
+OLIMPE.
+Vous voulez m'entreprendre. 
+Je quitte, et me sentant trop faible contre vous, 
+Je vais chercher ailleurs des Ennemis plus doux. 			[1045]
+SCENE II. La Comtesse, Virgine.
+LA COMTESSE.
+Elle a beau deguiser, je l'ai trop su connaitre, 
+Elle aime le Marquis. 
+VIRGINE.
+Cela pourrait bien etre. 
+LA COMTESSE.
+Je n'ai point a m'en plaindre. Avant que s'expliquer, 
+Avec un autre Amant elle veut m'embarquer, 
+Et si jamais l'hymen a l'Inconnu m'engage, 			[1050]
+Je lui dois du Marquis abandonner l'hommage. 
+VIRGINE.
+Elle y gagnerait peu ; les coeurs que vous prenez 
+A soupirer pour vous sont longtemps destines, 
+Et le Marquis... 
+LA COMTESSE.
+Je crois, sans trop faire la vaine, 
+Qu'a m'oublier sitot il aurait quelque peine. 			[1055]
+Mais enfin l'Inconnu que je brule de voir, 
+Qu'en arrivera-t-il ? 
+VIRGINE.
+Le voulez-vous savoir ? 
+Un je ne sais quel bruit a frappe mes oreilles, 
+Que des Bohemiens font ici des merveilles. 
+Si vous les consultez, peut-etre ils vous diront 			[1060]
+De quel cote vos voeux a la fin tourneront. 
+Envoyez-les chercher. 
+LA COMTESSE.
+Sottise toute pure. 
+VIRGINE.
+Ils sont savants, dit-on, sur la bonne aventure. 
+LA COMTESSE.
+Par des Bohemiens eclaircir mon destin ! 
+VIRGINE.
+Comment ? Vous allez bien chez Madame Voisin ? 			[1065]
+En sait-elle plus qu'eux ? 
+LA COMTESSE.
+J'y vais par compagnie. 
+VIRGINE.
+Mon Dieu, comme a beaucoup, c'est la votre manie. 
+Les femmes ont ce faible, on ne les peut tenir. 
+Elles courent partout ou se dit l'avenir, 
+Et pour une reponse ou fausse, ou veritable, 			[1070]
+J'en sais qui volontiers iraient trouver le Diable. 
+Les avertira-t-on ? 
+LA COMTESSE.
+Fais ce que tu voudras. 
+VIRGINE.
+Vous en rirez. 
+SCENE III. La Comtesse, Le Chevalier.
+Il se met a genoux, et baise la main de la Comtesse.
+LA COMTESSE.
+Et quoi ? Toujours chagrin ? 
+LE CHEVALIER.
+Helas ! 
+Madame, ignorez-vous les ennuis qu'on me donne ? 
+On ne le voit que trop, Olimpe m'abandonne. 			[1075]
+Pour moi, pour mon amour, il n'est plus de secours. 
+LA COMTESSE.
+Ecoutons les Amants, ils se plaignent toujours. 
+La moindre vision, un rien, une chimere, 
+C'est assez, leur chagrin nous en fait une affaire. 
+Nous savons mal aimer. 
+LE CHEVALIER.
+J'ai voulu comme vous 			[1080]
+Traiter de noir chagrin mes sentiments jaloux ; 
+Mais (et vous l'avez pu vous-meme assez connaitre) 
+Olimpe fuit sitot qu'elle me voit paraitre. 
+Mon amour n'offre ici que des voeux superflus ; 
+Depuis qu'elle est chez vous, je ne la connais plus. 			[1085]
+Si j'obtiens qu'un moment elle souffre ma vue, 
+C'est un froid qui me glace, un dedain qui me tue, 
+Et sur ce qu'a toute heure elle cherche a rever, 
+Je soupconne un Rival que je ne puis trouver. 
+LA COMTESSE.
+Qu'on est fou quand on aime ! 
+LE CHEVALIER.
+Oui, blamez-moi, Madame. 			[1090]
+LA COMTESSE.
+Quoi, vous ne savez pas ce que c'est qu'une Femme, 
+Et que lorsqu'elle veut mettre sa flamme au jour, 
+Ses inegalites sont des marques d'amour ? 
+Souvent elle est chagrine, incommode, bizarre, 
+Pour voir a quoi contre elle un Amant se prepare ; 			[1095]
+Et juger de son coeur par la soumission 
+Ou cette rude epreuve a mis sa passion. 
+Pour vaincre ses froideurs, il parle, il presse, il prie ; 
+Et la paix succedant a cette brouillerie, 
+Ce qu'il montre de joie a se raccommoder, 			[1100]
+Acheve pleinement de la persuader. 
+LE CHEVALIER.
+Que je devrais cherir ce qui m'arrache l'ame, 
+Si l'on n'avait dessein que d'eprouver ma flamme ! 
+Mais qui m'assurera qu'on me garde sa foi ? 
+Qu'on ait le coeur touche de ma tendresse ? 
+LA COMTESSE.
+Moi. 			[1105]
+Ne vous alarmez point, Olimpe est mon Amie ; 
+Et quand votre experience encor mal affermie 
+Du succes de vos feux vous laisserait douter, 
+J'ai quelque droit ici de me faire ecouter. 
+Ses Chagrins passeront. 
+LE CHEVALIER.
+Vous me rendez la vie. 			[1110]
+Souffrez, lorsqu'a l'espoir cette offre me convie. 
+Que j'en marque ma joie, et... 
+SCENE IV. Le Marquis, La Comtesse, Le Chevalier.
+LE MARQUIS.
+Le transport est doux. 
+LA COMTESSE.
+Il ne me deplait pas. 
+LE MARQUIS.
+Que ne poursuivez-vous ? 
+Quoique l'usage ait mis les facons hors de mode, 
+Je me retirerai, si je vous incommode. 			[1115]
+LA COMTESSE.
+Vous le prenez d'un ton fort agreable. 
+LE MARQUIS.
+Moi ? 
+Je me fie a mes yeux, et crois ce que je vois. 
+LE CHEVALIER.
+Ce sont garants mal surs, et souvent l'apparence... 
+LA COMTESSE.
+Ne dites rien, de grace, il faut voir ce qu'il pense. 
+LE MARQUIS.
+Ce que je pense ? 
+LA COMTESSE.
+Et bien ? 			[1120]
+LE MARQUIS.
+Que pourrais-je penser ? 			[1120]
+Il vous baisait la main. 
+LA COMTESSE.
+Il peut recommencer ; 
+Est-ce-la tout ? 
+LE MARQUIS.
+Quoi donc, je puis etre si lache, 
+Que de... 
+LA COMTESSE.
+Continuez, j'aime assez qu'on se fache. 
+La, Monsieur le Marquis, emportez-vous, pestez. 
+Je voudrais bien de vous ouir des duretes. 			[1125]
+LE MARQUIS.
+Le respect me retient, malgre votre injustice ; 
+Mais au moins avouez qu'en deux ans de service, 
+Jamais a mon amour un traitement si doux... 
+LA COMTESSE.
+Et bien, le coeur m'en dit plus pour lui que pour vous. 
+Croyez-vous l'empecher, et vous en dois-je compte ? 			[1130]
+LE MARQUIS.
+M'abandonner ainsi sans scrupule, sans honte ? 
+Apres que tout mon coeur... 
+LA COMTESSE.
+Et quel engagement 
+M'oblige de repondre a votre attachement ? 
+De quels serments fausses suis-je vers vous coupable ? 
+Qu'ai-je promis ? Vraiment, je vous trouve admirable. 			[1135]
+LE CHEVALIER.
+Madame, permettez... 
+LA COMTESSE.
+Non, voyons jusqu'au bout ; 
+L'emportement est noble, il faut entendre tout. 
+LE MARQUIS.
+J'ai donc tort de me plaindre, et trop ose pretendre ? 
+LA COMTESSE.
+Vous me faites pitie. 
+LE MARQUIS.
+Je n'y puis rien comprendre. 
+Tantot a vous ouir parler de l'Inconnu, 			[1140]
+Je croyais que ses soins avaient tout obtenu, 
+Qu'a mon feu, de son coeur vous preferiez l'empire. 
+Maintenant... 
+LA COMTESSE.
+Croyez-vous n'avoir plus rien a dire ? 
+LE MARQUIS.
+Non, Madame, sinon que j'avais merite, 
+Pour prix de ma tendresse, un peu plus de bonte. 			[1145]
+Vous quittez l'Inconnu, vous me quittez moi-meme ; 
+Et ce qui me confond, le Chevalier vous aime, 
+Lui qui tantot chagrin, et d'Olimpe jaloux... 
+SCENE V. La Comtesse, Olimpe, Le Marquis, Le Chevalier.
+OLIMPE.
+Quoi donc, le Chevalier a de l'amour pour vous, 
+Madame ? Un si beau choix redouble mon estime, 			[1150]
+Et ce que vous valez le rend si legitime, 
+Que loin de l'en blamer, je veux bien aujourd'hui 
+Vous ceder tous les droits que j'eus d'abord sur lui. 
+LA COMTESSE.
+L'effort est genereux. 
+LE CHEVALIER, a Olympe.
+Et vous croyez, Madame... 
+OLIMPE.
+Est-ce une nouveaute, qu'une nouvelle flamme ? 			[1155]
+Un pareil changement est glorieux pour vous. 
+Il marque... 
+LA COMTESSE.
+En verite, je vous admire tous. 
+Voila comme souvent sur de pures chimeres, 
+Pour aller un peu vite, on se fait des affaires. 
+De votre froid accueil le Chevalier surpris 			[1160]
+M'est venu demander raison de vos mepris, 
+J'ai flatte son espoir, et rassure sa flamme ; 
+Un vif transport de joie en a saisi son ame, 
+Il m'a baise la main, embrasse les genoux. 
+Le Marquis le voyant, s'en est montre jaloux. 			[1165]
+Vous l'avez entendu, voila toute l'histoire. 
+LE MARQUIS.
+Quoi, c'est... 
+LA COMTESSE.
+Je vous conseille encor de n'en rien croire. 
+Ne faites pas le fier de voir tout eclairci, 
+Je n'agis que pour moi lorsque j'en use ainsi. 
+LE MARQUIS.
+Mais rien n'est debrouille, si trop de defiance 			[1170]
+Vous fait toujours tenir votre choix en balance. 
+De moi, de l'Inconnu, qui le doit emporter ? 
+LE CHEVALIER.
+Le Marquis a raison de s'en inquieter, 
+Et l'eclaircissement que vous venez de faire, 
+Ne nous rend pas a tous le repos necessaire, 			[1175]
+Puisque Olimpe, bien loin de m'aimer innocent, 
+Fait lire dans ses yeux l'ennui qu'elle en ressent. 
+OLIMPE.
+Je n'ai point repondre a qui se plaint sans cesse. 
+Mais voyez ce qu'ici le hasard nous adresse. 
+SCENE VI. La Comtesse, Olimpe, Le Marquis, Le Chevalier, Virgine, La Montagne, representant une Bohemienne, Troupe de Bohemiens.
+Ils entrent tous au bruit des Castagnettes, et des tambours de Biscaye.
+Ils entrent tous au bruit des Castagnettes, et des tambours de Biscaye.
+LA COMTESSE.
+Pour des Bohemiens, cet equipage est beau.			[1180]
+VIRGINE.
+On les a rencontres qui venaient au Chateau. 
+LA COMTESSE.
+Rien n'est si propre qu'eux. 
+LE CHEVALIER.
+La bande est fort complete. 
+OLIMPE.
+Elle vaut bien la voir. 
+LA COMTESSE.
+J'en suis tres satisfaite. 
+LA BOHEMIENNE.
+Nous ne faisons qu'arriver de Paris, 
+Ou pour avoir dit des nouvelles, 			[1185]
+Assez agreables aux Belles, 
+On nous a fait present de ces riches habits ; 
+Mais rien n'approche la de ce qu'on voit paraitre, 
+Ou vos divins attraits cessent d'etre caches. 
+Comme de tous les coeurs leur eclat se rend maitre, 			[1190]
+Souffrez qu'en l'admirant nous vous fassions connaitre, 
+Combien nous en sommes touches. 
+LA COMTESSE.
+La figure est galante. 
+OLIMPE.
+Et fort bien ordonnee. 
+Partout ou vous irez le prix vous est certain. 
+Mais voyez cette belle main, 			[1195]
+Et nous dites a qui l'Amour l'a destinee. 
+La Comtesse donnant la main. 
+Puisque vous le voulez, il faut y consentir. 
+LA BOHEMIENNE.
+Comme nous sommes Gens de qui la connaissance 
+Sut de l'erreur toujours se garantir, 			[1200]
+C'est sur nous seuls qu'on doit prendre assurance, 
+Les autres ne font que mentir. 
+Dans vos plus grands projets vous serez traversee, 
+Mais en vain contre vous la brigue emploiera tout 
+Vous aurez le plaisir de la voir renversee, 			[1205]
+Et d'en venir toujours a bout. 
+Vous avez quelque fois de flatteuses manieres 
+Qui seraient pour l'espoir un motif bien pressant, 
+Si pour les balancer vous n'en aviez de fieres, 
+Qui le font mourir en naissant. 			[1210]
+Cette ligne qui croise avec celle de vie, 
+Marque pour votre gloire un murmure fatal ; 
+Sur des traits ressemblants on en parlera mal, 
+Et vous aurez une Copie 
+Qui vous fera croire l'Original 			[1215]
+D'un honneur ennemi de la ceremonie. 
+N'en prenez pas trop de chagrin. 
+Si votre gaillarde Figure 
+Contre vous quelque temps cause un facheux murmure, 
+Un tour de Ville y mettra fin, 			[1220]
+Et vous rirez de l'aventure. 
+Votre coeur est brigue par quantite d'Amants, 
+Mais le premier de tous pourrait s'en rendre maitre, 
+Si le dernier, sans se faire connaitre, 
+Ne vous inspirait pas de tendres sentiments. 			[1225]
+Cependant vous aurez beau faire. 
+Meme prix, meme gloire est acquise a leurs feux. 
+Vous les epouserez tous deux, 
+C'est du Destin un Decret necessaire. 
+LA COMTESSE.
+Tous deux ? 
+OLIMPE.
+Si pour constant ce Decret est tenu, 			[1230]
+Madame, du Marquis nous demandons la vie, 
+Il vous a le premier servie. 
+Quand vous serez Veuve de l'Inconnu, 
+Vous pourrez l'epouser, s'il vous en prend envie. 
+LE MARQUIS.
+Non, non, je prends sur moi le soin de dementir 			[1235]
+La necessite du veuvage. 
+LA COMTESSE.
+Laissons-la tout ce badinage, 
+Et songeons a nous divertir. 
+Point de mort, ni de mariage. 
+LE CHEVALIER.
+Leur rapport ne peut rien que sur les scrupuleux, 			[1240]
+Qui s'en font un facheux augure. 
+OLIMPE.
+Et ces Enfants qu'ils menent avec eux, 
+Disent-ils la Bonne Aventure ? 
+PETIT BOHEMIEN.
+Croyez-vous qu'on nous mene en vain ? 
+Si vous voulez, je vous dirai la votre. 			[1245]
+OLIMPE.
+Je vous ecouterai plus volontiers qu'un autre. 
+Venez, j'abandonne ma main. 
+PETIT BOHEMIEN.
+Pour decouvrir plus a mon aise 
+Ce que j'y vois de plus cache, 
+Avant toute chose, il faut que je la baise. 			[1250]
+C'est la ce que je mets toujours a mon marche. 
+OLIMPE.
+Il peut garder son privilege, 
+Sans qu'on songe a le contester. 
+PETIT BOHEMIEN.
+Il est doux de vous en conter, 
+Mais il faut se garder du piege. 			[1255]
+Vous etes fine, fine, et vous ne dites pas 
+Tout ce que vous avez dans l'ame. 
+Un Amant declare brule pour vos appas ; 
+Mais comme un autre en secret vous enflamme, 
+De ce premier, ma bonne Dame, 			[1260]
+Vous avez peine a faire cas. 
+LE CHEVALIER.
+Vous le voyez, Madame, un Enfant vous accuse. 
+Condamnez mon jaloux depit. 
+OLIMPE.
+A faire un conte en l'air l'age lui sert d'excuse.
+Il parle comme il peut, sans savoir ce qu'il dit. 			[1265]
+PETITE BOHEMIENNE.
+Pour moi, dont la science encor n'est pas si grande, 
+Que de tout comme lui je puisse discourir, 
+Si vous me le voulez souffrir, 
+Je vais danser la Sarabande. 
+LA COMTESSE.
+Voyons. Quel passe-temps plus doux pourrait s'offrir ? 			[1270]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CHANSON DE LA BOHEMIENNE.
+Il faut aimer, c'est un mal necessaire 
+Quand le Bel age attire les Amours. 
+Qui fait la fiere 
+Dans ses beaux jours, 
+N'est pas toujours, 			[1275]
+Sure de plaire. 
+On court toujours ou brille la Jeunesse, 
+Menagez bien cet aimable printemps. 
+Pour la tendresse 
+Il n'est qu'un temps, 			[1280]
+Et les beaux ans 
+S'en vont sans cesse. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si l'Amour tot ou tard 
+Nous met sous son empire, 
+A ce qu'il desire 			[1285]
+Prenons quelque part, 
+Et fuyons le martyre 
+D'aimer par hasard. 
+Choisissons un coeur tendre, 
+Fidele, amoureux. 			[1290]
+Il est trop dangereux 
+De se laisser surprendre ; 
+Et pour trop attendre, 
+On est malheureux. 
+LA COMTESSE.
+J'admire egalement et la voix et la danse, 			[1295]
+Il n'est rien dont par la vous ne veniez a bout, 
+Et vous meritez tous que pour reconnaissance... 
+LA BOHEMIENNE.
+Vous avoir divertie est une recompense 
+Qui nous doit tenir lieu de tout. 
+LA COMTESSE.
+Mais je veux qu'un present... 
+LA BOHEMIENNE.
+Non, Madame, de grace, 			[1300]
+Reservez vos presents, et nous laissez aller. 
+OLIMPE.
+Ils sortent. 
+LA COMTESSE.
+Suivez-les, Virgine, et que l'on fasse 
+Tout ce qui se pourra pour les bien regaler. 
+SCENE VII. La Comtesse, Olimpe, Le Marquis, Le Chevalier.
+LA COMTESSE.
+Pour des gens de leur sorte, il n'est pas ordinaire 
+D'agir ainsi sans interet. 
+LE CHEVALIER.
+C'est la ce qui n'arrive guere ; 			[1305]
+Mais n'ai-je point devine ce que c'est ? 
+Ils vous auront volee, et dans la juste crainte 
+De se voir sur le fait honteusement surpris, 
+Leur generosite peut-etre est une feinte 
+Pour cacher ce qu'ils vous ont pris. 			[1310]
+Ils ont la main subtile, et l'un d'eux, ce me semble, 
+S'est assez approche de vous. 
+LA COMTESSE.
+J'ai peine... Mais o Ciel ! 
+LE CHEVALIER.
+Serait-ce un de leurs coups, 
+Et vous ai-je dit vrai ? 
+LE MARQUIS.
+J'en tremble. 
+LA COMTESSE.
+Non, c'est leur faire tort qu'avoir ces sentiments. 			[1315]
+Mais voyez ce que je rencontre, 
+Un Billet, avec cette montre. 
+OLIMPE.
+Quel eclat ! Ce ne sont partout que diamants. 
+LA COMTESSE lit.
+Puisque l'exces de ma tendresse 
+Rend mes jours par vous seule ou plus ou moins charmants, 			[1320]
+Souffrez que cette Montre o divine Comtesse, 
+Vous en offre tous les moments. 
+Qu'elle avance, qu'elle demeure, 
+Consultez-la souvent, si mon feu vous est doux. 
+Quelque heure qu'elle marque, elle marquera l'heure 			[1325]
+Ou vous m'aurez aupres de vous. 
+O Ciel, que de galanterie ! 
+Jamais par cette voie a-t-on fait des presents ? 
+Se servir pour cela de Gens 
+Qui mettent a voler toute leur industrie. 			[1330]
+Rappelez-les, allez. 
+SCENE VIII. La Comtesse, Olimpe, Virgine, Le Marquis, Le Chevalier.
+VIRGINE.
+Madame, il n'est plus temps, 
+J'ai descendu, couru, les ai pries d'attendre, 
+Ils n'ont rien voulu m'accorder. 
+LA COMTESSE.
+Mais la montre, je la veux rendre. 
+OLIMPE.
+Pour moi, je la voudrais garder. 			[1335]
+L'Inconnu le merite, et tout ce qui se passe
+Montre un coeur a vos lois si bien assujetti... 
+LA COMTESSE.
+Vous etes fort dans son parti. 
+LE MARQUIS.
+Laissons-la l'Inconnu, de grace. 
+LA COMTESSE.
+Le Marquis est chagrin, d'avoir vu malgre lui 			[1340]
+Un Divertissement que son amour redoute. 
+Il ne le croyait pas de son rival. 
+LE MARQUIS.
+Sans doute. 
+Je me serais epargne cet ennui. 
+LA COMTESSE.
+Il peut encor trouver lieu de s'accroitre. 
+Mais faisons un tour de Jardin ; 			[1345]
+Et comme l'Inconnu cache trop son destin, 
+Cherchons a le forcer de se faire connaitre. 
+L'Aventure embarrasse, et j'en veux voir la fin. 
+
+
+			ACTE IV
+
+
+SCENE PREMIERE. La Comtesse, Le Marquis, Virgine.
+LE MARQUIS.
+Ne me le cachez point, vous voila resolue ; 
+L'Inconnu seul vous touche, et ma perte est conclue. 			[1350]
+LA COMTESSE.
+Vous montrer de votre ombre a toute heure jaloux, 
+Ce n'est pas le moyen de m'attacher a vous. 
+L'Inconnu s'y prend mieux ; sans contraindre mon ame, 
+Par les plus tendres soins il fait parler sa flamme, 
+Et peut-etre ai-je tort de vouloir plus longtemps 			[1355]
+Que mon coeur se refuse a des feux si constants. 
+LE MARQUIS.
+Et bien, il faut ceder ; mais ce qui me console, 
+Quand a votre bonheur ma passion s'immole, 
+C'est qu'au moins je pourrai, malgre mes feux jaloux, 
+Montrer qu'en vous aimant je n'ai cherche que vous. 			[1360]
+LA COMTESSE.
+Je ne vous croyais pas l'ame si genereuse. 
+LE MARQUIS.
+L'Inconnu vous merite, il faut vous rendre heureuse. 
+LA COMTESSE.
+Le coup vous touchera plus que vous ne pensez. 
+LE MARQUIS.
+N'importe, vous vivrez contente, et c'est assez. 
+En deux ans je n'ai pu reussir a vous plaire ; 			[1365]
+Apres un mois de soins, l'Inconnu l'a su faire. 
+Votre penchant pour lui ne peut se dementir, 
+Je vois qu'il vous emporte, il faut y consentir. 
+LA COMTESSE.
+Vous le dites d'un air si plein de confiance, 
+Qu'il semble... 
+LE MARQUIS.
+Je le dis, parce que je le pense. 			[1370]
+LA COMTESSE.
+Un si beau sacrifice est digne d'un Amant ; 
+Mais d'ou vient que tantot vous parliez autrement ? 
+Inquiet, alarme, vous me faisiez un crime 
+De ce que l'Inconnu m'avait surpris d'estime. 
+Le louer, c'etait faire outrage a votre foi. 			[1375]
+LE MARQUIS.
+C'est qu'alors mon amour ne regardait que moi. 
+Il a vu son erreur ; et la secrete honte 
+D'ecouter pour lui-meme une chaleur trop prompte, 
+L'a rendu si conforme a tout ce qui vous plait, 
+Qu'il fait de vos desirs son plus cher interet. 			[1380]
+LA COMTESSE.
+C'est trop ; pour l'Inconnu je les ferai paraitre. 
+Je dois cherir sa flamme, et des demain peut-etre, 
+Puis que c'est pour vox voeux un spectacle si doux, 
+Vous aurez le plaisir de le voir mon Epoux. 
+LE MARQUIS.
+J'aurai ce plaisir ? 
+LA COMTESSE.
+Oui, rien n'y peut mettre obstacle, 			[1385]
+Mon choix sera pour lui. 
+LE MARQUIS.
+J'attendrai ce miracle. 
+Ainsi donc le voyant, d'abord vous l'aimerez ? 
+LA COMTESSE.
+Si je ne l'aime pas vous m'en accuserez. 
+SCENE II. La Comtesse, Le Chevalier, Le Marquis, Virgine.
+LA COMTESSE.
+Et bien ? Olimpe ? 
+LE CHEVALIER.
+En vain ma passion se flatte. 
+Toujours meme fierte dans sa froideur eclate, 			[1390]
+Et ce qui rend surtout mon esprit abattu, 
+C'est ce qu'elle m'a dit, et que je vous ai tu. 
+Si je veux qu'elle soit favorable a ma flamme, 
+Il faut pour l'Inconnu que je touche votre ame. 
+Je ne puis etre heureux, s'il n'obtient votre foi.			[1395]
+LA COMTESSE.
+Et contre le Marquis vous prenez cet emploi ? 
+C'est trahir l'amitie qui vous unit ensemble. 
+LE CHEVALIER.
+A vous parler ainsi, je l'avouerai, je tremble, 
+Et me tairais encor, si l'aveu du Marquis 
+Ne m'autorisait pas a ce que je vous dis. 			[1400]
+Sur que rien ne peut nuire a son amour extreme, 
+A satisfaire Olimpe il m'a porte lui-meme, 
+Et j'aurai tout gagne, si je puis obtenir 
+Que vos bontes pour moi la daignent prevenir. 
+Dites-lui qu'envers vous j'ai tout fait pour lui plaire. 			[1405]
+LE MARQUIS.
+Madame.... 
+LA COMTESSE, au Marquis.
+Je commence a percer le mystere. 
+Olimpe au Chevalier fait paraitre a vos yeux 
+Tout ce qu'a le mepris de plus injurieux ; 
+A servir l'Inconnu son adresse l'engage, 
+Et loin de murmurer d'un si sensible outrage, 			[1410]
+A ce meme Inconnu, faussement genereux, 
+Vous-meme vous osez sacrifiez vos feux ? 
+Chevalier, je ne sais si je me fais entendre, 
+Mais le noeud de l'intrigue est facile a comprendre. 
+Olimpe et le Marquis, l'un de l'autre charmes, 			[1415]
+Me craignent pour obstacle a leurs coeurs enflammes. 
+LE CHEVALIER.
+Le Marquis aimerait Olimpe ? 
+LE MARQUIS.
+Moi, Madame ? 
+Vous le croyez ? 
+LE CHEVALIER.
+L'Ingrat ! Il trahirait ma flamme ! 
+Olimpe a qui mes soins tendrement attaches... 
+Ah, si je le croyais... 
+LA COMTESSE.
+Quoi, vous vous en fachez ? 			[1420]
+Vous regrettez un coeur que l'inconstance entraine ? 
+Vous en plaignez la perte ? Il n'en vaut pas la peine. 
+Faites mieux, dedaignez ce manquement de foi ; 
+On nous quitte tous deux, riez-en comme moi. 
+Vous m'en voyez deja tellement consolee, 			[1425]
+Que si... 
+LE CHEVALIER.
+Des trahisons c'est la plus signalee. 
+Le Marquis ! 
+LA COMTESSE.
+A quoi bon ces mouvements jaloux ? 
+LE CHEVALIER.
+Je sors, pour ne me pas echapper devant vous ; 
+Mais en vain votre exemple a souffrir me convie. 
+Avant qu'il m'ote Olimpe il m'otera la vie ; 			[1430]
+C'est a lui d'y penser. 
+SCENE III. La Comtesse, Le Marquis, Virgine.
+LA COMTESSE.
+Allez, ne craignez rien, 
+Quelque emporte qu'il soit, je l'apaiserai bien. 
+Pour Olimpe, je crois que l'on n'ignore guere 
+Que j'ai quelque pouvoir sur l'esprit de sa Mere. 
+Je l'emploierai pour vous ainsi que je le dois. 			[1435]
+LE MARQUIS.
+Vous avez de la joie a mal juger de moi. 
+LA COMTESSE.
+Je n'en juge point mal, Olimpe est jeune et belle, 
+Et quoiqu'on risque un peu d'aimer une Infidele, 
+Elle a de quoi vous faire un destin assez doux ; 
+Mais je douterais fort qu'elle put etre a vous. 			[1440]
+LE MARQUIS.
+Moi ? Je n'y pretends rien. 
+LA COMTESSE.
+Mettons bas l'artifice. 
+LE MARQUIS.
+Madame, quelque jour vous me rendrez justice. 
+LA COMTESSE.
+Je vous la rend entiere, et pour vous obliger, 
+A choisir l'Inconnu j'ai voulu m'engager. 
+LE MARQUIS.
+C'est a quoi vous feriez peut-etre un peu moins prompte, 			[1445]
+Si vous preniez l'avis de Monsieur le Vicomte. 
+Le voici qui parait. 
+SCENE IV. La Comtesse, Le Vicomte, Le Marquis, Virgine.
+LA COMTESSE.
+Et bien, mon rapporteur ? 
+LE VICOMTE.
+J'ai, pour le convertir, parle mieux qu'un Docteur. 
+Et n'ai pas, Dieu merci, mal employe mes peines. 
+Il ne vous vuidera de plus de trois semaines, 			[1450]
+Et pour solliciter il vous donne le temps 
+D'attendre le retour de nos deux Arcs-boutants. 
+Par la, n'en doutez point, votre affaire est gagnee. 
+LA COMTESSE.
+Je puis donc de Paris me tenir eloignee ? 
+LE VICOMTE.
+De Paris ? Vous avez, la chose allant ainsi, 			[1455]
+Encor quinze grands jours a demeurer ici. 
+Goutez-y les plaisirs que donne la verdure. 
+Mais il faut vous conter quelle est mon aventure, 
+Voyez-m'en rire encor. 
+LA COMTESSE.
+Cela ne va pas mal. 
+LE VICOMTE.
+Il n'est rien si plaisant. 
+LE MARQUIS, bas.
+Le franc original ! 			[1460]
+LA COMTESSE.
+Enfin cette aventure ? 
+LE VICOMTE.
+Elle est aussi gaillarde... 
+LA COMTESSE.
+En rirez-vous toujours ? 
+LE VICOMTE.
+La chose vous regarde. 
+C'est a vous la-dessus a vous l'imaginer. 
+Devinez-la. 
+LA COMTESSE.
+Jamais je ne sus deviner. 
+On me dit tout au long ce qu'on veut que je sache. 			[1465]
+LE VICOMTE.
+On croit duper les Gens, a cause qu'on se cache ; 
+Mais j'ai si bien tourne, que j'y suis parvenu. 
+LA COMTESSE.
+A quoi ? 
+LE VICOMTE.
+Votre Inconnu ne m'est plus inconnu. 
+LE MARQUIS, bas.
+M'aurait-il decouvert ? 
+LA COMTESSE.
+Vous pourriez le connaitre ? 
+LE VICOMTE.
+Moi, qui vous parle, moi. 
+LE MARQUIS.
+Cela ne saurait etre. 			[1470]
+LE VICOMTE.
+Non, parce qu'il vous plait que cela ne soit pas. 
+Son amour fait honneur sans doute a vos appas ; 
+C'est, sans lui faire tort, une aussi franche bete... 
+LE MARQUIS.
+Comment ? Vous l'avez vu ? 
+LE VICOMTE.
+Des pieds jusqu'a la tete. 
+Il est basset, grosset, a les yeux hebetes. 			[1475]
+LA COMTESSE.
+Mais ou cette rencontre, et comment ? 
+LE VICOMTE.
+Ecoutez. 
+Revant a vos beautes dont j'avais l'ame pleine, 
+Je me suis egare dans la foret prochaine, 
+Et voulant accourcir, mon cheval m'a mene 
+Dans le sentier confus d'un endroit detourne. 			[1480]
+Quelques pas me montraient une route racee ; 
+J'ai suivi, tant qu'enfin une tente dressee 
+M'a fait apprehender le plus grand des malheurs. 
+J'ai cru qu'elle servait d'auberge a des voleurs. 
+LE MARQUIS.
+La peur prendrait a moins ; dans un bois ! Une tente ! 			[1485]
+LE VICOMTE.
+Tout franc, la vision n'est point divertissante. 
+LA COMTESSE.
+Ainsi donc la frayeur a bien fait son devoir ? 
+LE VICOMTE.
+J'aurais ete fache de mourir sans vous voir, 
+Car pour du coeur, je crois que j'en avais de reste ; 
+Mais j'ai bientot sorti d'un doute si funeste. 			[1490]
+Mon Cheval tout a coup s'elancant malgre moi, 
+J'ai connu mon erreur, et ris de mon effroi. 
+Au lieu de Mousquetons, j'ai vu dans cette Tente 
+Les apprets differents d'une Fete galante, 
+Et ceux qui la gardaient, de mon abord surpris, 			[1495]
+Parlaient certain jargon, ou je n'ai rien compris. 
+C'etaient, pour la plupart, visages a la Suisse. 
+Chacun, selon son role, avait la son office. 
+L'un, d'un Bohemien quittait l'habillement ; 
+L'autre, d'une Coiffure ajustait l'ornement. 			[1500]
+Force mains autour d'eux paraissaient occupees 
+A nouer des Rubans sur des fleurs coupees. 
+J'ai dans un certain coin remarque le debris 
+D'une Collation qui valait bien son prix, 
+Grands citrons, fruits exquis, Confitures choisies. 			[1505]
+J'ai vu des Violons, des Lustres, des Bougies, 
+J'ai vu... la, des... Enfin j'ai tant vu, que jamais 
+On n'eut tant d'attirail dans les plus grands Ballets. 
+J'ai donne droit au but, et devine l'affaire. 
+Mais pour mieux m'eclaircir, penche vers l'un d'eux ; Frere, 			[1510]
+Ai-je dit, n'a-t-on pas prepare tout ceci 
+Pour un certain Chateau qui n'est pas loin d'ici ? 
+Je l'embarrassais fort, il ne savait que dire ; 
+Mais c'etait dire assez, que se taire et sourire. 
+Je lui serrais toujours le bouton de fort pres ; 			[1515]
+Quand, comme si la chose eut ete faite expres, 
+Ce Grosset, ce Basset commencant a paraitre ; 
+Vous etres curieux, parlez a notre Maitre, 
+Le voila, m'a-t-il dit, tout a propos venu. 
+N'ayant pas a douter qu'il ne fut l'Inconnu, 			[1520]
+J'ai contemple longtemps sa grotesque figure. 
+Il avait sur son nez jete sa chevelure, 
+Et pour embarrasser mon curieux souci, 
+Sous une fausse barbe il cachait tout ceci. 
+Alors plein d'un chagrin que d'assez justes causes... 			[1525]
+Madame, pardonnez si j'ai pousse les choses. 
+Quand on voit qu'un Rival cherche a se rendre heureux, 
+Et qu'on peut l'epargner, on n'est guere amoureux. 
+LE MARQUIS.
+Et qu'avez-vous donc fait ? 
+LE VICOMTE.
+Ce que j'ai fait ? Silence. 
+Je dirai tout par ordre, un peu de patience. 			[1530]
+J'ai demande d'ou vient qu'il campait dans ce Bois ? 
+Pourquoi la fausse barbe ? Enquis deux ou trois fois, 
+Et presse de parler, plus il se voulait taire ; 
+Pourquoi je campe ici ? Qu'en avez-vous a faire ? 
+C'est mon plaisir, m'a-t-il sottement repondu. 			[1535]
+Alors d'un grand coup d'oeil qu'il a bien entendu, 
+Lui marquant fierement que je l'allais attendre, 
+Je me suis eloigne. 
+LE MARQUIS.
+C'etait fort bien le prendre. 
+LE VICOMTE.
+Me battre la ! Par tout j'aurais ete blame. 
+Il avait vingt Valets qui m'auraient assomme. 			[1540]
+LE MARQUIS.
+Il est bon quelquefois de voir comme on se fache. 
+LA COMTESSE.
+Et qu'est-il arrive ? 
+LE VICOMTE.
+Je n'ai trouve qu'un lache, 
+Qu'un farouche Animal, sans coeur et sans vertu, 
+Qu'un... cela fait pitie. 
+LE MARQUIS.
+Vous l'avez donc battu ? 
+LE VICOMTE.
+Vous me la baillez bonne ; il s'est en Bete fiere 			[1545]
+Tenu clos et couvert toujours dans sa taniere ; 
+Et moi, m'etant lasse de l'attendre a l'ecart, 
+D'un coup de Pistolet j'ai marque mon depart. 
+LE MARQUIS.
+C'est pousser la bravoure aussi loin... 
+LE VICOMTE.
+Sur mon ame, 
+Tout y va, quand il faut degainer.
+SCENE V. La Comtesse, Olimpe, Le Marquis, Le Vicomte, Virgine.
+OLIMPE.
+Ah, Madame ! 			[1550]
+J'ai trouve l'Inconnu. 
+LA COMTESSE.
+Vous ? 
+OLIMPE.
+Oui moi, dans ce bois. 
+LE VICOMTE.
+Justement. 
+OLIMPE.
+Vous savez que j'y vais quelquefois. 
+LE VICOMTE.
+Le plaisant personnage ! Il vous a bien fait rire. 
+OLIMPE.
+Lui ! 
+LE VICOMTE.
+Sans doute. Ecoutez ce qu'elle vous va dire. 
+OLIMPE.
+Jamais je n'ai rien vu de si... 
+LE VICOMTE.
+Tranchez le mot, 			[1555]
+De si bete. 
+OLIMPE.
+Comment ? 
+LE VICOMTE.
+Quoi, ce n'est pas un sot ? 
+OLIMPE.
+Quels contes vous fait-il ? 
+LA COMTESSE.
+Ecoutons-la, de grace. 
+LE VICOMTE.
+Qu'elle parle a son aise, apres je retiens place. 
+LA COMTESSE.
+Vous aurez audience a votre tour. 
+LE VICOMTE.
+Tant mieux. 
+OLIMPE.
+J'ai peine a croire encor au rapport de mes yeux. 			[1560]
+Je revois dans le Bois, quand pour jouir de l'ombre 
+M'avancant lentement vers l'endroit le plus sombre, 
+Je trouve un Cavalier, qui surpris de me voir, 
+Me rend d'un air civil ce qu'il croit me devoir. 
+Quels traits pourront suffire a lui rendre justice ? 			[1565]
+Peignez-vous Adonis, figurez-vous Narcisse, 
+Et tout ce que jamais on vanta de plus beau, 
+C'est ne vous en offrir qu'un imparfait tableau. 
+Je voudrais l'ebaucher, et n'en suis point capable. 
+Il a le port divin, la taille incomparable, 			[1570]
+Et le Ciel pour lui seul semble avoir reserve 
+Ce qu'il eut de plus rare et de plus acheve. 
+Il marchait tout reveur, et m'ayant apercue, 
+Il a voulu d'abord se soustraire a ma vue. 
+J'en ai compris la cause, et pour ne perdre pas 			[1575]
+L'heureuse occasion de sortir d'embarras ; 
+Je vois par quel souci vous suivez cette route. 
+Une aimable Comtesse en est l'objet sans doute, 
+Ai-je dit. A ce nom surpris, trouble, confus, 
+Il m'a parle longtemps en termes ambigus. 			[1580]
+J'ai remis le discours sur l'aimable Comtesse, 
+Et menage son trouble avecque tant d'adresse, 
+Que trahi par lui-meme, il n'a pu me cacher 
+Qu'il etait l'Inconnu que vous faites chercher. 
+Mais son nom est encor ce qu'il s'obstine a taire, 			[1585]
+J'ai voulu l'amener, et je ne l'ai pu faire. 
+Il ne paraitrait point, qu'il ne puisse juger 
+Que son attachement ait su vous engager. 
+Sa conversation ravit, enchante, enleve, 
+Sa personne commence, et son esprit acheve. 			[1590]
+Que ne m'a-t-il point dit du bonheur qu'il se fait 
+De ressentir pour vous l'amour le plus parfait ? 
+Ses manieres en tout sont douces, agreables ; 
+Et si nous nous trouvions encor au temps des fables, 
+Je croirais que pour vous quelque Dieu tout expres 			[1595]
+Serait venu du Ciel habiter ces forets. 
+Quand pour un tel Amant on prend de la tendresse, 
+Si c'est faiblesse en nous, l'excusable faiblesse ! 
+LE VICOMTE.
+Vous peignez assez bien, le Portrait n'est pas mal, 
+Les traits beaux, mais neant pour son original. 			[1600]
+J'ai vu l'Inconnu, moi, le vrai, ce qui s'appelle 
+L'Inconnu Regalant ; le votre, bagatelle. 
+C'est un fourbe qui veut causer de l'embarras. 
+OLIMPE.
+Tout rival est suspect, on ne vous croira pas. 
+LA COMTESSE.
+Mais le Vicomte a vu des marques de la Fete ; 			[1605]
+Les memes Gens qu'ici... 
+LE VICOMTE.
+J'ai vu de plus la bete, 
+Le tres vilain Monsieur... 
+OLIMPE.
+Il ne sait ce qu'il dit. 
+Soit qu'on s'attache au corps, soit qu'on cherche l'esprit, 
+L'inconnu passe tout ce qu'il faut qu'on attende... 
+SCENE VI. La Comtesse, Olimpe, Le Vicomte, Le Marquis, Le Chevalier, La Montagne, representant un Comedien, Virgine, Cascaret.
+CASCARET.
+Madame. 
+LA COMTESSE.
+Que veut-on ? 			[1610]
+CASCARET.
+Un Monsieur vous demande. 			[1610]
+LA COMTESSE.
+Voyez qui c'est, Virgine, et l'amener ici. 
+VIRGINE.
+Je n'irai pas bien loin, Madame, le voici. 
+LA MONTAGNE representant un comedien.
+Ayant plus d'une fois eu l'honneur de paraitre 
+Devant leurs Majestes, je croirais mal connaitre 
+Ce que l'on doit, Madame, a votre qualite, 			[1615]
+Si m'etant pour ce soir dans le Bourg arrete, 
+Je ne vous venais pas faire la reverence. 
+LA COMTESSE.
+Je suis fort obligee a votre complaisance ; 
+Mais ne sachant a qui... 
+LE COMEDIEN.
+Je suis comedien. 
+Madame. 
+LE VICOMTE.
+Ah, Serviteur. Ne vous manque-t-il rien 			[1620]
+Pour nous pouvoir ici donner la comedie ? 
+LE COMEDIEN.
+Non, Monsieur. 
+LE VICOMTE.
+Il faudrait quelque piece applaudie, 
+Ou l'emploi des acteurs repondit... 
+LE COMEDIEN.
+Laissez-nous 
+Le soin de la choisir. 
+LE VICOMTE.
+Et Circe, l'avez-vous ? 
+LE COMEDIEN.
+Nous, Circe ? Non, Monsieur ; Paris seul est capable... 			[1625]
+LE VICOMTE.
+Les Singes m'y charmaient, leur Scene est admirable. 
+OLIMPE.
+C'est la le bel endroit. 
+LE VICOMTE.
+Il plait a bien des gens. 
+LA COMTESSE au Comedien.
+Et comment jouerez-vous ? 
+LE COMEDIEN.
+Avec des paravents. 
+Un moment suffira pour dresser un theatre. 
+OLIMPE.
+La Comedie enchante, et j'en suis idolatre. 			[1630]
+LE VICOMTE.
+J'en voudrais retrancher ces grandes Passions. 
+On y pleure, et je hais les Lamentations. 
+OLIMPE.
+Vous etes gai. 
+LE COMEDIEN.
+Jamais aucun chagrin en tete, 
+Je ris toujours. 
+LE COMEDIEN.
+Tandis que la troupe s'apprete, 
+Nous avons parmi nous des voix dont on fait cas. 			[1635]
+Vous plait-il les ouir ? 
+LA COMTESSE.
+Qui ne le voudrait pas ? 
+LE VICOMTE.
+Ce debut de chanteurs servira de prologue. 
+Le comedien aux acteurs musiciens. 
+Avancez, vous allez entendre un Dialogue, 
+Dont j'ai vu jusqu'ici tout le monde charme. 			[1640]
+LE VICOMTE.
+Voyons ce Dialogue. 
+LE COMEDIEN.
+Il est fort estime. 
+DIALOGUE D'ALCIDON ET D'AMINTE.
+ALCIDON.
+Quoi, vous aimez ailleurs ? Vous pouvez me hair ? 
+A des ordres cruels vous voulez obeir, 
+Et sans pitie de l'ennui qui me presse, 
+Vous oubliez cette tendresse 			[1645]
+Que vous m'avez jure de ne jamais trahir ? 
+Vous gardez le silence ? Ah, c'est assez me dire. 
+Ma mort est resolue. Et bien, il faut vouloir 
+Ce que votre rigueur desire. 
+C'en est fait, je me meurs, j'expire, 			[1650]
+Goutez le plaisir de le voir. 
+AMINTE.
+De grace, moderez vos plaintes. 
+Je n'ai pas moins d'amour que vous, 
+Et la meme douleur dont vous sentez les coups, 
+Porte sur moi les plus vives atteintes. 			[1655]
+Elle m'abat, elle m'ote la voix, 
+Et ne peut rien sur ma tendresse. 
+ALCIDON.
+Quoi, toujours dans mon sort l'amour vous interesse ? 
+AMINTE.
+Vous avez merite mon choix, 
+Et si c'est le seul bien qui toucha votre envie, 			[1660]
+Rien ne vous devrait alarmer. 
+Quand on a commence d'aimer, 
+N'aime-t-on pas toute sa vie ? 
+ALCIDON.
+Ah, puisque toujours votre coeur 
+Est le prix du beau feu qui regne dans mon ame, 			[1665]
+Tout doit ceder a mon bonheur. 
+AMINTE.
+Vous avez doute de ma flamme. 
+ALCIDON.
+Helas ! M'en pouvez-vous blamer ? 
+AMINTE.
+Ma foi vous repondait de mon amour extreme, 
+ALCIDON.
+Qui ne craint point de perdre ce qu'il aime, 			[1670]
+Sait peu ce que c'est que d'aimer. 
+Tous deux ensemble.
+Aimons-nous a jamais, aimons ; et si l'envie 
+Qui s'oppose a des feux si doux, 
+Nous condamne a perdre la vie, 
+Mourons en disant, aimons-nous. 			[1675]
+LA COMTESSE.
+Il n'est guere de voix plus douces, ni plus nettes. 
+LE VICOMTE.
+D'accord ; mais quant a moi, vivent les Chansonnettes 
+Aux airs trop serieux, je prends peu de plaisir. 
+LE COMEDIEN.
+Ils en savent de gais, vous n'avez qu'a choisir. 
+LE VICOMTE.
+Allons. Voyons un peu comme ce Gai s'entonne ; 			[1680]
+Notre jeune Mourante a la mine friponne. 
+Ca, point de tons dolents, je ne les puis souffrir ; 
+Surtout plus de Mourrons, j'en ai pense mourir. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand l'Amour nous attire, 
+Les maux sont dangereux 			[1685]
+Qu'on souffre en son empire ; 
+Mais si l'on en soupire, 
+Un seul moment heureux 
+Repare le martyre 
+Des coeurs bien amoureux. 			[1690]
+Il est des inhumaines 
+Qui d'un coeur enflamme 
+Laissent durer les peines. 
+Ce sont de rudes genes ; 
+Mais d'un Amant aime 			[1695]
+Plus on serre les chaines, 
+Plus il en est charme. 
+LE VICOMTE.
+Voila mon amitie. 
+OLIMPE.
+La chanson est jolie. 
+Mais en chantant toujours, le Theatre s'oublie. 
+LE COMEDIEN.
+J'en aurai soin. 
+LE VICOMTE.
+Allons-y faire travailler, 			[1700]
+Et leur choisir un lieu commode a s'habiller. 
+SCENE VII. Olimpe, Le Marquis.
+OLIMPE.
+Si j'ai de l'Inconnu vante l'amour extreme, 
+Vous n'en devez, Marquis, accuser que vous-meme. 
+Je ne l'aurais pas fait, si vous ne m'aviez dit 
+Que cet amour n'a rien qui vous gene l'esprit, 			[1705]
+Et que las d'etaler une vaine tendresse, 
+Vous lui verriez sans peine epouser la Comtesse. 
+LE MARQUIS.
+Madame, je l'ai dit, et ne m'en dedis pas. 
+Leur union pour moi ne peut manquer d'appas. 
+Je trouve en cet hymen tout ce que je souhaite ; 			[1710]
+Mais pour m'en rendre encor la douceur plus parfaite, 
+J'ose vous demander une grace. 
+OLIMPE.
+Parlez. 
+Je veux des ce moment tout ce que vous voulez. 
+LE MARQUIS.
+Vous servez l'Inconnu ; promettez-moi, Madame, 
+Qu'apres que la Comtesse aura paye sa flamme, 			[1715]
+Vous prendrez un epoux de ma main. 
+OLIMPE.
+Doutez-vous 
+Que je n'en fasse pas mon bonheur le plus doux ? 
+LE MARQUIS.
+Je crains, quand vous saurez... 
+OLIMPE.
+Cette crainte est frivole. 
+Fiez-vous a moi, je vous tiendrai parole, 
+Et pour pouvoir plutot repondre a vos desirs, 			[1720]
+L'Inconnu n'a que trop pousse de vains soupirs. 
+Je veux que des demain la Comtesse le voie. 
+LE MARQUIS.
+Mais par ou l'informer... 
+OLIMPE.
+J'en trouverai la voie. 
+Il n'est pas difficile ; et si j'en juge bien, 
+LE COMUS de tantot fait le Comedien.
+A la taille, a la voix, j'ai cru le reconnaitre. 			[1725]
+Je pretends lui donner un billet pour son maitre, 
+Qui lui fera savoir, que galant, amoureux, 
+Il n'a qu'a se montrer, pour devenir heureux. 
+LE MARQUIS.
+Mais si de son Portrait la Comtesse eblouie 
+Se plaint, en le voyant, d'avoir ete trahie ? 			[1730]
+Car vous aurez plus dit... 
+OLIMPE.
+Il est vrai, j'ai voulu 
+Fixer en sa faveur son coeur irresolu ; 
+Mais un Homme galant remplit toujours sans peine 
+L'attente qu'en fait naitre une estime incertaine, 
+Et la Comtesse en lui... 			[1735]
+LE MARQUIS.
+Parlons sans le flatter. 			[1735]
+Lui trouvez-vous assez de quoi la meriter ? 
+Est-ce un homme si rare, et pour qui la Nature... 
+OLIMPE.
+Ne m'en demandez point une exacte peinture. 
+Il suffit que dans peu le succes fera foi 
+Que vous avez sujet d'etre content de moi. 			[1740]
+LE MARQUIS.
+Je le connais, Madame, et ne puis trop vous dire... 
+OLIMPE.
+Vous savez quel billet j'ai resolu d'ecrire. 
+Avant la Comedie, il est bon qu'il soit pret. 
+Quittons-nous un moment. 
+LE MARQUIS.
+Je veux ce qu'il vous plait. 
+
+
+			ACTE V
+
+
+SCENE PREMIERE. Le Marquis, Virgine.
+VIRGINE.
+Olimpe s'abusant, vous en etes coupable. 			[1745]
+LE MARQUIS.
+Mais je ne lui dis rien qui ne soit veritable. 
+Vois ce qu'a l'Inconnu, pour hater son espoir, 
+Par nos Comediens elle faisait savoir. 
+POUR LE GALANT INCONNU. 
+Vos manieres pour notre aimable Comtesse sont si engageantes, que je n'ai pu me defendre d'entrer dans vos interets. J'ai feint que je vous avais rencontre dans le Bois, ou vous m'aviez fort exagere la passion que vous avez pour elle, et j'en ai pris occasion de faire de vous une peinture qui ne vous a pas nui dans son coeur. Il est a vous si vous vous hatez de le venir demander. Profitez de l'avis que je vous donne. Il m'est important que vous ne differiez point davantage a vous decouvrir, et vous devez peut-etre assez au soin que je prends de faire reussir votre amour, pour faire au plutot ce que je souhaite. 
+VIRGINE.
+C'est la contre soi-meme employer son adresse. 
+LE MARQUIS.
+Je l'en plains ; mais dis-moi, que pense la Comtesse ? 			[1750]
+VIRGINE.
+Tout ce qu'on peut penser dans un depit jaloux. 
+Elle en a mieux senti l'amour qu'elle a pour vous, 
+Et quoi qu'elle deguise en quel trouble la jette 
+L'ardeur que vous montrez de la voir satisfaite, 
+Elle ne peut souffrir le feint detachement 			[1755]
+Qui semble la ceder aux voeux d'un autre Amant. 
+Ainsi ne doutez point que vous montrant pour elle, 
+Contre son esperance, et galant, et fidele, 
+Elle n'accorde enfin a de si tendres feux, 
+Le doux consentement qui vous doit rendre heureux. 			[1760]
+LE MARQUIS.
+L'ordre est deja donne pour me faire connaitre ; 
+Apres ce qu'on a su, je dois enfin paraitre. 
+Malgre moi dans le Bois on irait rechercher 
+Des verites qu'en vain je pretendrais cacher. 
+On sait par le Vicomte ou la Tente est dressee. 			[1765]
+VIRGINE.
+Et notre Chevalier ? 
+LE MARQUIS.
+Sa colere est passee. 
+L'amour par l'esperance est bientot adouci. 
+VIRGINE.
+Il a pu voir pourtant qu'Olimpe... 
+LE MARQUIS.
+La voici. 
+Laisse-nous un moment. 
+SCENE II. Olimpe, Le Marquis.
+OLIMPE.
+Ma joie est sans seconde, 
+Marquis, et grace au Ciel tout va le mieux du monde			[1770]
+Notre Comedien, comme je l'avais cru 
+S'est trouve l'un de ceux qui servent l'Inconnu. 
+Il a pris mon Billet, et l'envoie a son Maitre, 
+Sur, dit-il, que demain il se fera connaitre. 
+LE MARQUIS.
+Le terme n'est pas long. 
+OLIMPE.
+Pour moi, j'ai suppose 			[1775]
+Qu'il a suivi la Troupe en habit deguise. 
+L'entreprise pour lui ne serait pas frivole. 
+LE MARQUIS.
+Si dans la Comedie il avait pris un Role ? 
+Mais vous en connaissez son visage ? 
+OLIMPE.
+Il ne faut 
+Qu'un leger changement pour me mettre en defaut. 			[1780]
+LE MARQUIS.
+Qu'il vienne, c'est a lui de se tirer d'affaire. 
+OLIMPE.
+Je ne parlerai point, et le laisserai faire. 
+Mais s'il est bien recu, vous empecherez-vous, 
+Quoi que vous m'ayez dit, d'en paraitre jaloux ? 
+LE MARQUIS.
+Madame... 
+OLIMPE.
+Il ne vous faut que deux mots de tendresse, 			[1785]
+Pour faire de nouveau balancer la Comtesse ; 
+J'en crains dans votre coeur le dangereux retour. 
+LE MARQUIS.
+Non, si de l'Inconnu je traverse l'amour, 
+Me punisse le Ciel ; mais j'ai bien lieu de craindre 
+Que de moi son bonheur ne vous porte a vous plaindre, 			[1790]
+Et qu'apres son hymen vous n'accusiez ma foi... 
+OLIMPE.
+Repondez-moi de vous, je vous reponds de moi. 
+Mais la Comtesse vient. 
+SCENE III. La Comtesse, Le Vicomte, Le Chevalier, Olimpe, Le Marquis, Virgine.
+LE VICOMTE.
+Si mon coeur... 
+LA COMTESSE.
+Je vous prie, 
+Point d'amour aujourd'hui, voyons la comedie. 
+Sont-ils prets a jouer ? 
+LE CHEVALIER.
+Ils repassent leurs Vers ; 			[1795]
+S'ils n'ont un peu de temps, tout ira de travers. 
+LE VICOMTE.
+Avant que de les voir, si vous m'en voulez croire, 
+Nous souperons ; je sais quelques Chansons a boire, 
+Ou le verre a la main, je vaux mon pesant d'or, 
+Dieu me damne. Apres tout, la joie est un tresor. 			[1800]
+J'en fais provision en quelque lieu que j'aille. 
+LE MARQUIS.
+C'est bien fait. 
+LE VICOMTE.
+Vous ferez, Chorus, vaille que vaille, 
+Je donnerai je ton. 
+LA COMTESSE.
+Quelle cervelle ! 
+SCENE IV. La Comtesse, Le Vicomte, Le Chevalier, Olimpe, Le Marquis, Virgine, La Montagne representant Le Comedien, et vetu en Zephire.
+Ces Vers etant chantes, les Maures du petit Theatre, se joignent aux amours pour faire une Entree, laquelle etant finie, la Comtesse dit.
+LA COMTESSE.
+Et bien ? 
+Avance-t-on ? Vos Gens n'ont-ils besoin de rien ? 
+LE COMEDIEN.
+Je viens demander grace encor pour nos actrices. 			[1805]
+Leurs Coiffures toujours sont pour moi des supplices, 
+Jamais elles n'ont fait ; j'en suis au desespoir. 
+LA COMTESSE.
+Laissons-leur tout le temps qu'elles voudront avoir. 
+LE CHEVALIER.
+Vous aurez bien choisi ? La piece... 
+LE COMEDIEN.
+Sera bonne. 
+LE VICOMTE.
+Qui l'a faite ? 
+LE COMEDIEN.
+Jamais nous ne nommons personne. 			[1810]
+Nous voulons, si l'ouvrage a quelque approbateur, 
+Qu'il l'ait pour son merite, et non point pour l'auteur. 
+Par la point de cabale ; on condamne, on approuve, 
+Selon, ou le mauvais, ou le bon qui s'y trouve. 
+Quelquefois a Paris telle Piece fait bruit, 			[1815]
+Dont l'eclat en province aussitot se detruit. 
+LA COMTESSE.
+Il peut avoir raison. 
+LE VICOMTE.
+Bon, est-ce qu'en province 
+On a le sens commun ? Ce sont gens d'esprit mince. 
+LE COMEDIEN.
+A dire leurs avis s'ils sont trop ingenus, 
+Leurs suffrages du moins ne sont point retenus. 			[1820]
+Point d'extases chez eux pour une bagatelle. 
+LE VICOMTE.
+La piece d'aujourd'hui comment se nomme-t-elle ? 
+LE COMEDIEN.
+"L'Inconnu."
+LA COMTESSE.
+L'Inconnu ! 
+LE VICOMTE.
+Si c'etait le Grosset, 
+Madame ? 
+LE COMEDIEN.
+C'est Psyche, grand et pompeux sujet. 
+LE VICOMTE.
+Tant pis, le serieux en moins de rien m'ennuie. 			[1825]
+Et n'y joindrez-vous point quelque Crispinerie ? 
+J'aime tous les Crispins. 
+LE COMEDIEN.
+Vous en aurez le choix. 
+LE VICOMTE.
+J'ai vu le medecin, je crois, plus de cent fois. 
+Ce pendu qu'on etale sur la table, il m'enchante. 
+LE MARQUIS.
+C'est avecque justice. 
+LE VICOMTE.
+Et cet autre qui chante, 			[1830]
+Fa, sol fa, sol fa, re, mi, fa, 
+Quand il entonne ainsi son re, mi ; fa, je ris...
+LA COMTESSE.
+Vraiment. 
+OLIMPE.
+Il a toujours ses endroits favoris. 
+LE COMEDIEN.
+Pour ne point perdre temps, voulez-vous que je fasse 
+Mettre ici le theatre, ou j'ai marque sa place. 			[1835]
+LA COMTESSE.
+On dit qu'il est joli, voyons. 
+LE COMEDIEN.
+Notre chanteur 
+A quelque scene a faire avant que d'etre acteur, 
+Vous la pourrez entendre, elle est prete. Allons vite. 
+Ouvrez, et que chacun de son emploi s'acquitte. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE VICOMTE.
+L'invention est drole. Un theatre roulant ! 			[1840]
+LA COMTESSE.
+J'admire de le voir si propre, si galant. 
+LE CHEVALIER.
+La decoration en est bien entendue. 
+OLIMPE.
+Sans doute, elle a de quoi satisfaire la vue. 
+LE VICOMTE.
+S'ils prenaient le Marais que la Roque a laisse, 
+Les troupes de Paris auraient le nez casse. 			[1845]
+UN MAURE parait sur le petit Theatre, et chante ces Vers.
+Amour, a qui tout est possible, 
+Enflamme, anime tout ; et pour mieux faire voir 
+Qu'il n'est rien pour toi d'invincible, 
+Fais aimer cette insensible 
+Qui se rit de ton pouvoir... 			[1850]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'amour punit les cruelles, 
+Aimez pour fuir son courroux. 
+LE MAURE seul. 
+Que pourrait servir aux Belles 
+D'avoir des charmes si doux, 
+S'ils n'etaient faits que pour elles ? 			[1855]
+Tous deux ensemble. 
+L'amour punit les cruelles, 
+Aimez pour fuir son courroux. 
+La FEMME MAURE seule.
+Soyez tendres et fideles, 
+Il s'armera contre vous, 
+Si vous faites les rebelles. 			[1860]
+Tous deux ensemble. 
+L'amour punit les Cruelles, 
+Aimez pour fuir son courroux. 
+LA COMTESSE.
+On nous trompe ; et jamais comediens qui passent 
+N'eurent cet appareil. 
+OLIMPE.
+Ceux-ci vous embarrassent ? 
+LA COMTESSE.
+Non, je decouvre assez que tout est concerte. 			[1865]
+La Fete finira par cette nouveaute. 
+Mais enfin les Acteurs que l'on nous fait connaitre, 
+Comediens, ou non, commencent a paraitre. 
+Il faut les ecouter. 
+LE VICOMTE.
+Soyons donc ecoutants ; 
+Mais j'en tiens, s'il les faut ecouter bien longtemps. 			[1870]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. La Montagne representant Zephire, Aglaure.
+ZEPHIRE.
+Quoi, tout de bon, vous etes en colere 
+D'un secret qui ne peut encor se reveler ? 
+AGLAURE.
+Oui, c'est m'offenser, que se taire, 
+Quand je cherche a faire parler. 
+ZEPHIRE.
+Il n'est intention meilleure que la mienne. 			[1875]
+Si vos desirs ne sont pas exauces, 
+C'est qu'un ordre d'en haut... 
+AGLAURE.
+Il n'est d'ordre qui tienne, 
+Je prie, et ce doit etre assez. 
+ZEPHIRE.
+Encor n'est-ce pas un grand crime 
+De vous cacher le nom de l'Amant de Psyche, 			[1880]
+Quand vous voyez que l'amour qui l'anime 
+A chercher a lui plaire est sans cesse attache. 
+Tout ce qui peut charmer les yeux et les oreilles, 
+Se prodigue pour elle en ces aimables lieux, 
+Et jamais... 
+AGLAURE.
+Oui, ce sont merveilles sur merveilles ; 			[1885]
+Mais notre Sexe est curieux. 
+C'est peu pour nous de voir des fetes ordonnees 
+Avec un eclat sans pareil. 
+On compte a rien leur superbe appareil, 
+Si l'on ne sait par qui ces Fetes sont donnees. 			[1890]
+Que pretend un Amant tant qu'il est inconnu ? 
+ZEPHIRE.
+Sur le secret d'autrui je n'ai rien a vous dire. 
+Quant au mien, on ne peut etre plus ingenu, 
+Et des qu'avecque vous je suis ici venu, 
+Je vous ai decouvert qu'on me nommait Zephire. 			[1895]
+AGLAURE.
+Vous etes du nombre des Vents. 
+Nous l'avons assez vu, quand par l'air enlevees 
+Avec vous en ces lieux nous nous sommes trouvees ; 
+Mais pour Zephire, je pretends 
+Par tout ce que de vous vous me faites connaitre, 			[1900]
+Que vous ne l'etes point, et ne le sauriez etre. 
+ZEPHIRE.
+Je ne suis point Zephire ! Et d'ou vient ? 
+AGLAURE.
+En tous lieux 
+Zephire se fait voir doux, complaisant, traitable, 
+Et vous etes des Vents le plus inexorable, 
+Ou Boree, ou quelque autre encor moins gracieux. 			[1905]
+ZEPHIRE.
+Vous voulez que je sois Boree. 
+Adieu, je vais souffler si froidement pour vous, 
+Que vous aurez sujet d'en croire le courroux 
+Qui contre moi vous tient si declaree. 
+SCENE VI. Aglaure, Cephise.
+CEPHISE.
+D'ou vient, quand on me voit, que l'on vous quitte ainsi ? 			[1910]
+AGLAURE.
+Je suis brouillee avec Zephire. 
+Je l'avais prie de me dire 
+Le nom de l'Inconnu qui nous met en souci. 
+Sur ses refus j'ai perdu patience, 
+Et me suis echappee a quelques mots d'aigreur. 			[1915]
+CEPHISE.
+Croyez-moi, vous cherchez, ma Soeur, 
+Une fatale connaissance. 
+Pourquoi ce desir curieux ? 
+Manquons-nous de plaisirs et de galantes Fetes, 
+Depuis qu'avec Psyche nous habitons ces lieux ? 			[1920]
+Et quand vous apprendrez qui les tient toujours pretes, 
+Pretendez-vous en etre mieux ? 
+AGLAURE.
+Il est fort naturel de chercher a connaitre 
+Un amant qui s'obstine a se tenir cache. 
+CEPHISE.
+Mais s'il est connu de Psyche, 			[1925]
+Voyez-vous quel mal en peut naitre ? 
+Sa main paiera des feux si tendres et si doux, 
+Et par leur paisible hymenee, 
+La Fete aussitot terminee 
+Ne charmera plus que l'epoux. 			[1930]
+Alors, ou pour nous, je vous prie, 
+Seront et les jeux et les ris ? 
+Car enfin folle est qui s'y fie. 
+Quand les Amants sont Maris, 
+Adieu la Galanterie. 			[1935]
+AGLAURE.
+Non, l'Inconnu doit etre ne 
+Pour s'en faire toujours un plaisir necessaire, 
+Et son amour par l'hymen couronne, 
+N'aura pas moins d'ardeur de plaire. 
+CEPHISE.
+Si vous me repondez que mari comme amant, 			[1940]
+Nous le verrons toujours le meme, 
+Je saurai son secret. 
+AGLAURE.
+Vous le saurez ! Comment ? 
+Est-ce que Zephire vous aime ? 
+CEPHISE.
+Le beau sujet d'etonnement ! 			[1945]
+Croyez-vous sa conquete une si grande affaire ? 
+Et quand on me voit plus d'un jour, 
+N'ai-je pas assez de quoi plaire 
+Pour meriter un peu d'amour ? 
+AGLAURE.
+Voila toujours votre folie.			[1950]
+La plus Belle jamais n'eut tant de bonne foi. 
+CEPHISE.
+Je ne suis, si l'on veut, ni belle, ni jolie, 
+Mais j'ai certains je ne sais quoi 
+Qui me font preferer a la plus accomplie. 
+AGLAURE.
+Vous le croyez ? 
+CEPHISE.
+Si je le crois ? 			[1955]
+Avec mon humeur enjouee, 
+Je fais faire naufrage a qui m'en vient conter, 
+Et des qu'on a pu m'ecouter, 
+C'est une franchise echouee 
+Mais quand je trouverais Zephire indifferent, 			[1960]
+Le pressant de parler, s'en pourrait-il defendre ? 
+C'est la maniere de s'y prendre, 
+Qui fait qu'un obstine se rend, 
+Le voici, laissez-moi ; s'il vous voir eloignee, 
+Il me viendra soudain faire ici les yeux doux. 			[1965]
+AGLAURE.
+Ce sera pour Psyche, s'il s'explique avec vous, 
+De l'inquietude epargnee. 
+J'en attends le succes, adieu. 
+SCENE VII. Zephire, Cephise, Un Enfant representant l'Amour.
+Il se tourne vers l'Amour qui sort de la niche, et ote le masque qui lui couvrait le visage.
+ZEPHIRE.
+A la fin ta Compagne a quitte la partie. 
+Pour te voir, proche de ce lieu 			[1970]
+J'attendais qu'elle fut sortie. 
+Je me souviendrai quelque temps, 
+Qu'elle a tantot ose me traiter de Boree. 
+CEPHISE.
+Sais-tu qu'il est certains instants 
+Ou moi-meme de toi je suis mal assuree ? 			[1975]
+Tu t'es nomme Zephire ici, 
+J'en doute a voir ta taille. 
+ZEPHIRE.
+Et lorsque je t'adore, 
+De cette verite tu peux etre en souci ? 
+CEPHISE.
+De grace, etais-tu fait ainsi 			[1980]
+Lorsque tu soupirais pour Flore ? 
+ZEPHIRE.
+J'etais fort delicat, et le serais encore, 
+Mais le temps m'a tout epaissi. 
+CEPHISE.
+Tu pourrais bien m'avoir trompee. 
+La Jeunesse a souvent trop de credulite. 			[1985]
+Et l'amour dont pour toi je suis preoccupee... 
+ZEPHIRE.
+Non, foi de Vent d'honneur, j'ai dit la verite. 
+Je suis Zephire. 
+CEPHISE.
+Et bien, je le veux croire. 
+Mais quant a l'Inconnu, son nom ? Regarde-moi. 
+J'ai promis a Psyche de le savoir de toi. 			[1990]
+Je dois tenir parole, il y va de ma gloire. 
+ZEPHIRE.
+Ne me presse point la-dessus, 
+J'ai des raisons... 
+CEPHISE.
+Pures chimeres ! 
+ZEPHIRE.
+Je ne saurais parler. 
+CEPHISE.
+Abus. 
+Tu m'aimes ; s'il me faut essuyer tes refus, 			[1995]
+Tu n'es pas bien dans tes affaires. 
+ZEPHIRE.
+Je prendrais grand plaisir a ne te rien cacher ; 
+Mais veux-tu, parce que je t'aime. 
+Que l'Inconnu me vienne reprocher 
+Que ma langue ait fait tort a son amour extreme ? 			[2000]
+C'est de tous les Amants le plus passionne, 
+Rien ne saurait egaler sa tendresse ; 
+Mais il veut etre sur du coeur de sa Maitresse, 
+Avant que son secret lui soit abandonne. 
+CEPHISE.
+Qu'il ne craigne rien, Psyche l'aime. 			[2005]
+Tant de soins de lui plaire ont vaincu sa fierte. 
+ZEPHIRE.
+Si tu me disais vrai, me voila bien tente. 
+CEPHISE.
+N'en doute point, je le sais d'elle-meme. 
+Mais enfin je commence a prendre pour affront 
+Une si longue resistance. 			[2010]
+ZEPHIRE.
+Attends ; pour ne rien faire avec trop d'imprudence, 
+Il est bon que l'Amour me serve de second. 
+CEPHISE.
+Quoi, l'Amour deguise parmi nous ! 
+ZEPHIRE.
+Que t'en semble ? 
+CEPHISE.
+Je vois bien que c'est lui qui commande en ces lieux 
+Et cours dire a Psyche... 			[2015]
+ZEPHIRE.
+Non, Cephise, il vaut mieux 
+Que nous l'allions trouver ensemble. 
+CEPHISE.
+J'attends tout de l'Amour, s'il daigne s'en meler. 
+Ils descendent tous sur le grand Theatre. 
+ZEPHIRE, a la Comtesse.
+Madame, puisqu'il faut, sans excuse frivole 			[2020]
+Vous dire... 
+LA COMTESSE.
+A moi ? Cela n'est pas de votre role. 
+ZEPHIRE.
+Vous etes la Psyche dont nous voulons parler. 
+L'Amour en est croyable ; et quand je vous l'amene... 
+L'AMOUR.
+Oui, Comtesse, l'Amour vous veut tirer de peine, 
+Et du Ciel tout expres il est ici venu 			[2025]
+Pour finir l'embarras ou vous met l'Inconnu. 
+LA COMTESSE.
+Chacun depuis longtemps aspire a le connaitre. 
+L'AMOUR.
+Je n'ai qu'a dire un mot, vous le verrez paraitre. 
+OLIMPE.
+L'Amour peut sans scrupule user de son pouvoir. 
+L'AMOUR.
+Il faut donc me hater de vous le faire voir. 			[2030]
+Regardez ce Portrait. 
+OLIMPE, a la Comtesse.
+Si rien ne le deguise, 
+Vous y verrez des traits... Vous en etes surprise. 
+Et bien ? A-t-il l'air bon ? Qu'en dites-vous ? 
+LA COMTESSE.
+Je dis... 
+Voyez. 
+LE CHEVALIER regardant le portrait. 
+C'est le Marquis. 
+OLIMPE.
+Le Marquis ! 
+LE VICOMTE.
+Le Marquis ! 
+OLIMPE.
+Juste Ciel ! 
+LA COMTESSE, au Marquis.
+Quoi, c'est vous, dont l'adresse cachee 			[2035]
+Cherchait a me toucher ? 
+LE MARQUIS.
+En etes-vous fachee ? 
+LA COMTESSE.
+Je ne m'etonne plus si vos feux trop soumis 
+Aux voeux de l'Inconnu laissaient l'espoir permis. 
+LE MARQUIS.
+Tant d'amour ne peut-il meriter de vous plaire ? 
+Ne vous rendez-vous point ? 
+LA COMTESSE.
+C'est une grande affaire. 			[2040]
+D'ailleurs, deux Inconnus... 
+LE MARQUIS.
+Je n'en dois craindre rien. 
+L'Inconnu du Vicomte est le comedien. 
+Il ne s'est pas trop mal acquitte de son role. 
+LE VICOMTE.
+Il est vrai, je cherchais le son de sa parole, 
+Et sur Monsieur Grosset je me remets sa voix. 			[2045]
+LA COMTESSE.
+Et l'Inconnu qu'Olimpe a trouve dans le Bois ? 
+OLIMPE.
+J'ai dit ce que j'ai vu, sans savoir davantage. 
+LE CHEVALIER.
+Quelque Ami du Marquis a fait ce Personnage ; 
+Pour l'Inconnu par elle il voulait vous toucher. 
+LA COMTESSE.
+Qui l'aurait cru qu'en vous il l'eut fallu chercher ? 			[2050]
+LE MARQUIS, bas.
+Non, ne m'en croyez pas ; mais, aimable Comtesse, 
+Croyez-en ce present que m'a fait la Jeunesse. 
+LA COMTESSE.
+C'est la mon Diamant ; vous etiez destine 
+A recevoir enfin la main qui l'a donne. 
+Il est juste, et j'en fais le prix de votre flamme. 			[2055]
+LE MARQUIS.
+O bonheur qui remplit tous mes voeux ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais, Madame, 
+Vous souvenez-vous... 
+OLIMPE.
+Oui, je ne puis oublier 
+Que je vous ai promis d'aimer le Chevalier. 
+Vous avez de l'honneur, c'est assez vous en dire. 
+LE CHEVALIER.
+Doux et charmant aveu qui finit mon martyre ? 			[2060]
+Madame, je puis donc pretendre a votre foi ? 
+OLIMPE.
+Si ma mere y consent, repondez-vous de moi. 
+LE VICOMTE.
+Je vous vois la tous quatre en bonne intelligence. 
+Et moi, que devenir ? 
+LA COMTESSE.
+Vous prendrez patience. 
+LE VICOMTE.
+Oui ; de mes pas pour vous c'est donc la le succes ? 			[2065]
+Se charge qui voudra du soin de vos proces. 
+Adieu. 
+LA COMTESSE.
+Le prendrez-vous, Marquis, il vous regarde. 
+LE MARQUIS.
+Que ne ferais-je point ? 
+LE CHEVALIER.
+La retraite est gaillarde. 
+OLIMPE.
+C'est un extravagant dont nous sommes defaits. 
+LA COMTESSE.
+Allons. 
+LE MARQUIS.
+Puisse l'amour ne nous quitter jamais. 			[2070]
+
+	==================================================

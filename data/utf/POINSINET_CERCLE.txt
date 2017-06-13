@@ -1,0 +1,830 @@
+********************************************************
+	DC.Title                  = LE CERCLE, OU LA SOIREE A LA MODE, COMEDIE en un ACTE et en VERS.
+	DC.Author                 = POINSINET de SIVRY, Louis
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 01/06/2016 a 06:37:06.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/POINSINET_CERCLE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE CERCLE, OU LA SOIREE A LA MODE COMEDIE EPISODIQUEEN UN ACTE ET EN PROSE.M. DCC. LXIV. Avec approbation et privilege du Roi.
+Par M. POINSINET, de l'Academie des Arcades de Rome.
+	A PARIS, Chez DUCHESNE, Libraire, rue Saint-Jacques a dessous de la Fontaine Saint-Benoit, au Temple du Gout.
+	
+	Representee pour la premiere fois, par les Comediens Francois Ordinaires du Roi, le 7 Septembre 1764.
+	MONSIEUR,
+L'Hommage de cette petite comedie vous est du, les applaudissements dont elle a ete suivie, m'ont etonne mois-meme autant que mes ennemis, je cherche moins, en vous la presentant, a demander des nouvelles bontes, qu'a vous donner un temoignage public de ma reconnaissance pour les anciennes. N'attendez pas de moi des louanges que l'interet prodigue a l'orgueil. Votre merite, cheri de tous les gens de Lettres, va devenir precieux a la Nation entiere, quand elle apprendra que, sous le syeux toujours ouverts de Messieurs les premiers Gentilhommes de la Chambre, votre travail et vos soins ont donne a nos theatres une forme, une consistance qui nous avait ete jusqu'alors inconnue : vous avez banni les abus, et pesant dans une juste balance les interets du Public, et ceux des gens de talents, vous avez etabli un ordre, d'ou resulte la satisfaction de l'un et la gloire des autres ; vous protegez les Arts par etat, vous les suivez par gout, vous les cultivez vous-meme, vous les animes encore par l'attrait des recompenses, et la justice que je vous rends ici est pour un homme qui pense, le plus flatteur des eloges : puisse-je de nouveaux succes meriter de consacrer plus particulierement mes faibles talents aux plaisirs de notre auguste Monarque ; alors soumis a vos conseils et suffisamment recompense de mon travail pour la gloire d'en avoir ete charge, je n'en desirerai pres de vous d'autre prix que votre amitie, et la permission de vous assurer de l'inviolable attachement avec lequel je suis, MONSIEUR, 
+Votre tres humble et tres obeissant serviteur, POINSINET.
+
+ACTEURS.
+ARAMINTE, Veuve d'un Financier. Mme Preville
+CIDALISE, amie d'Araminte. Melle d'Epinay
+ISMENE, amie d'Araminte. Melle Hus.
+LUCILE, Fille d'Araminte. Melle Doligny.
+LISETTE, sa femme de hambre. Melle Bellecourt.
+LISIDOR, Conseiller au Parlement. M. D'Auberval.
+LE MARQUIS, jeune Colonel. M. Mole.
+LE BARON, ancien militaire. M. de Bonneval.
+UN MEDECIN. M. Preville.
+UN ABBE. M. Auger.
+DAMON, Bel-Esprit. M. Bouret.
+La Scene est a Paris, dans la Maison de Madame Araminte.
+
+
+
+			
+
+
+SCENE PREMIERE. Lisette, Lisidor, Ils entrent de differents cotes.
+Le theatre represente un salon de compagnie, ou se trouvent des sieges, un canape, un metier de tapisserie, des tables de jeu, des livres de musique, une guitare, etc.
+LISETTE.
+Ah ! C'est vous, Monsieur, quoique nous vous desirions sans cesse, nous ne vous attendions pas si tot.
+LISIDOR.
+Mon empressement t'etonnera moins quand le motif t'en sera connu. Je viens de recevoir quelques nouvelles qui m'affligent, et je voulais avoir a l'issue de son diner, une conversation avec l'aimable Lucile.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le repas me parait aujourd'hui plus long qu'a l'ordinaire.
+LISETTE.
+Ce n'est pas que Madame Araminte s'amuse a table : depuis que je la connais, j'ai toujours remarque que ce n'est jamais ou elle est qu'elle se desire ; mais nous avons compagnie.
+LISIDOR, tirant une bague de son doigt.
+En attendant que l'une ou l'autre de ces Dames soit visible.... Te pourrai-je consulter sur ce bijou ?
+LISETTE, prenant la bague.
+Comment ! C'est la plus jolie bague.
+LISIDOR.
+C'est un leger cadeau que j'ai dessein de faire.
+LISETTE.
+Il sera tres galant.
+LISIDOR.
+Mais a une condition ; c'est que la personne a qui je le destine ne m'en remerciera pas.
+LISETTE.
+Elle serait bien ingrate.
+LISIDOR, finement.
+J'espere cependant que tu ne le seras point, Lisette.
+LISETTE.
+Oh ! Pour le coup, Monsieur, vous etonnez jusqu'a ma reconnaissance. Que vous etes charmant ! Vous joignez au merite de donner, le merite plus rare encore, de savoir donner avec grace. Aussi qui ne s'interesserait a vous ? Si Lucile pouvait disposer d'elle-meme, je vous suis caution que le Marquis, malgre son elegance et ses talons rouges, ne remettrait jamais les pieds dans la maison.
+LISIDOR.
+Mais tu sais quels etaient avec moi les engagements de Madame Araminte. Serait-elle femme a les oublier ? Dois-je le craindre ? Toi, qui la sers depuis longtemps, Lisette, instruis-moi plus a fond de son caractere ; indiques-moi, de grace, quels seraient les moyens les plus assures de lui plaire.
+LISETTE.
+Des deux choses que vous me demandez, je ferai facilement l'une, parce qu'elle vous interesse et me contente ; nous autres domestiques, dont le ridicule devoir est d'ecouter sans cesse et de ne parler jamais, nous avons tant de penetration a decouvrir les defauts de nos Maitres, tant de plaisir a les divulguer ; tenez, cela nous console, nous soulage, et il semble que cette petite medisance, qui dans le fond est bien innocente, allege de temps en temps le poids de l'obeissance, et rapproche l'intervalle qui les separe d'avec nous. Je vous dirai donc bien sincerement ce que je pense d'Araminte ; mais pour vous indiquer les moyens de lui plaire, dispensez m'en je vous en prie ; elle n'y reussirait pas elle-meme. Sait-elle jamais ce qu'elle pense, ce qu'elle desire, ce qu'elle veut ? Veuve depuis deux ans d'un fort galant homme, mais que ses occupations dans la haute finance empechaient de veiller un peu soigneusement aux ridicules naissants de son epouse, elle a choisi des lors pour son idole cette liberte extreme, qui dans l'esprit d'une jolie femme, finit toujours par rendre penible l'exercice de la vertu. Tour a tour coquette et sensible, incertaine et bizarre, toujours le coeur vide, l'esprit jamais oisif, nous avons successivement aime la musique et les petits chiens, les magots et les mathematiques. Notre conduite est le resultat des sentiments de la societe qui nous environne ; et jeunes encore, aimables et riches, nous travaillons moins a jouir de la vie qu'a nous etourdir sur notre propre existence.
+LISIDOR.
+Tu ne prends pas garde, Lisette, que ce portrait est a peu pres celui de toutes les femmes de son etat : si demain la fortune t'en faisait changer, il deviendrait le tien...
+LISETTE.
+Peut-Etre, mais il n'en serait pas moins ridicule. Vraiment, le coeur me dit bien tout bas qu'il n'est pas trop dans les regles du respect de juger ainsi sa maitresse ; mais, ma foi, s'il y a du mal a le penser, il y a bien du plaisir a le dire, et l'un va pour l'autre.
+LISIDOR.
+Parce que je viens d'apprendre d'Araminte, il ne m'est pas difficile de soupconner quel peut etre a ses yeux le merite de mon nouveau rival.
+LISETTE.
+Votre rival, si donc ! Il faudrait, pour qu'il le fut qu'il eut au moins l'espoir de plaire ; mais ne le craignez pas, Lucile elevee en province sous les yeux d'un tante respectable ne connait que les douces impressions de la nature et de son coeur. Tout charmant, tout extraordinaire que le Marquis voudrait bien nous paraitre, elle sait apprecier son merite et s'apercoit, aussi bien que moi, tous les jours, que l'histoire de ses valets, le prix de ses chevaux, le dessein de sa voiture, quelques saillies, de la mauvaise foi, de l'impertinence et des dettes ; voila de cet homme si merveilleux quels sont en quatre mots la conversation, les vertus et les vices.
+LISIDOR.
+Un tel concurrent ne devrait pas etre redoutable. Ta vivacite m'enchante, mais ne crains-tu pas, Lisette, de me faire un peu aux depens de ton coeur les honneurs de ton esprit.
+LISETTE.
+Eh bien ! Que penserez-vous de moi ! Que je suis trop sincere, je vous l'avoue et tout est dit : aussi pourquoi ont-ils des ridicules ? S'ils les cachaient mieux, je n'en rirais pas. On n'est indulgent que pour les personnes que l'on cherit, et il est bien difficile d'aimer des gens qui n'aiment rien eux-memes. Ah ! Qu'il me serait aise de m'egayer encore aux depens de la societe d'Araminte ! Je vous parlerais de Cidalise la Prude, de la Minaudiere Ismene qui ne peut dire un mot sans l'accompagner de la plus jolie petite grimace...
+LISIDOR.
+Mais ta Maitresse ne verrait-elle plus cette homme sense, cet ancien militaire ? 
+LISETTE.
+Qui ? Ce Baron philosophe, qui dit tout ce qu'il pense et se permet de tout penser ? Si fait vraiment. C'est le tuteur de Lucile, nous lui avons cru pendant quelque temps des vues sur Madame. Mais tout cela est fini, il ne vient ici que rarement, ou plutot il n'y vient jamais qu'il n'y soit conduit par quelque affaire.
+LISIDOR.
+Je n'ai rien neglige pour le connaitre ; malheureusement il vit sans cesse a la campagne, mon etat m'enchaine a Paris.
+LISETTE.
+Vraiment, il conserve toujours le plus grand credit sur l'esprit d'Araminte, et s'il voulait... Mais quelqu'un vient, c'est ma jeune maitresse ; son petit coeur lui aura dit que je n'etais pas ici toute seule...
+SCENE II. Lisette, Lucile, Lisidor.
+LUCILE, d'un ton naif.
+Ah ! Vous voila, Monsieur ?
+LISIDOR.
+Quelles que soient mes occupations, belle Lucile, mes sentiments pour vous se justifient par ma conduite. Je consacre a vous attendre tous les moments ou je suis prive de vous voir.
+LUCILE.
+Je ne m'etonne plus si la fin du diner m'a tant ennuyee.
+LISIDOR.
+Que cet aveu m'enchante ! Ce qui ne serait qu'un trait ingenieux de la part d'une coquette, devient un sentiment dans votre bouche.
+LUCILE.
+Gardez-vous d'en tirer avantage, je ne sais plus ce que je vous ai dit ; je suis si troublee ! Ma mere m'a tant grondee !
+LISIDOR.
+Eh pourquoi ?
+LUCILE.
+Figurez-vous qu'elle n'a presque point dine, parce qu'elle se dit malade ; moi, j'ai cru lui faire ma cour en l'assurant qu'elle n'avait jamais eu le teint meilleur, et point du tout, je l'ai mis d'une humeur affreuse.
+LISETTE.
+Vraiment, c'est que vous ignorez encor, Mademoiselle, que rien n'est moins decent dans le grand monde que de jouir d'une sante parfaite, a quelque prix que ce soit, on veut inspirer un sentiment. Une jolie malade se fait plaindre, et pour la coquetterie, la petite sante est une ressource.
+LUCILE.
+Ah ! Je te promets que si j'eusse bien connu ce monde et ses travers, je n'aurais pas tant desire de quitter la province.
+LISIDOR.
+Que vous me chagrinez ! Ainsi vous haissez des lieux, belle Lucile, ou je puis chaque jour, et vous voir, et vous jurer que je vous aime.
+LUCILE.
+Vraiment non... Je sais bien que ce n'est pas votre faute. Je ne dois pas vous aimer ; mais je puis, je crois, vous avouer que de toutes les personnes qui viennent ici, vous etes le seul dont la conversation me soit chere.
+LISIDOR.
+Et vous me permettez encore de voir votre douleur : sur la resolution que, malgre ses promesses, votre mere a prise de vous unir avec le Marquis.
+LUCILE.
+Voila ce qui me desespere.
+LISIDOR.
+Vous... ne l'aimez pas ?
+LUCILE.
+Je ne le puis souffrir... Si cependant on me l'ordonne...
+LISIDOR.
+Je vous entends, je sais que l'obeissance est un devoir ; mais ce devoir a ses bornes.
+LUCILE.
+Vous me le repetez sans cesse, et d'apres vos discours et mes livres, je suis quelquefois bien tentee de croire qu'une obeissance aveugle tient un peu du prejuge, mais quand la reflexion me ramene a moi-meme, ce que je crois plus fermement encore, c'est que l'exacte observation des bienseances est un des premiers devoirs de mon sexe, et qu'entre le vice et la vertu, il n'y a souvent qu'un prejuge de difference.
+LISIDOR.
+Que vous etes charmante, et qu'il est rare et beau d'unir tant de raison a tant de graces ! Eh bien ne parlons plus de desobeissance ; mais par quelque resistance au moins tachons d'obtenir du temps. Si je connais bien Madame Araminte, le Marquis, d'un jour a l'autre peut lui deplaire ; l'inconsequence et la legerete sont le caractere distinctif des gens a la mode, et mon heureux rival peut en un instant perdre tout le credit que je ne sais quel heureux hasard lui a fait si vite acquerir.
+LISETTE, prenant le milieu du Theatre.
+Oh ! Ceci me regarde, c'est une petite anecdote que je possede et qu'il est bon de vous conter. Or, ecoutez. Notre Maitresse et ses deux inseparables, vous reconnaissez bien Ism7ne et Cidalise, ennuyees d'un Tri et ne sachant sur quoi medire, s'aviserent de s'occuper. Araminte a ce metier acheve une fleur de tapisserie ; Cidalise prend nonchalamment un fil d'or, fait approcher de son fauteuil un tambour et brode en baillant une garniture de robe, tandis qu'Ismene couchee sur le canape travaille un falbala de Marly : on entend des chevaux hennir, l'escalier retentir, un laquais annonce, et le Marquis parait : « Que je suis heureux de vous trouver Mesdames ! Mais que vois-je ? Que ce point est egal ! Comme ces fleurs sont nuancees ! C'est l'ouvrage des Graces, c'est celui des Fees, ou plutot c'est le votre. » Aussitot, il tire de sa poche un etui, dont assurement on ne le soupconnait pas d'etre porteur, il y choisit une aiguille d'or, s'empare de la soie, et voila mon Colonel qui fait de la tapisserie. On le considere, on l'admire ; mais ce n'est rien encore, il quitte Araminte et son ouvrage, il court a Cidalise, lui derobe le tambour, et deja sa main legere acheve le contour de la fleur a peine commencee. Ismene, la minaudiere Ismene, laisse alors tomber un regard, et ce regard veut dire, « serai-je la seule delaissee, mon ouvrage est-il indigne de vos soins ? Non, Madame, non certainement » reprend l'impetueux Marquis. Il s'elance sur le canape ; saisit un bout du falbala et accelere d'autant plus son ouvrage qu'il est plus jaloux d'etre aupres de l'aimable Ismene. Peignez-vous la surprise, l'extase de nos trois femmes ; le Marquis tire sa montre, suppose un rendez-vous et les quitte : mais que le fripon sait bien avoir grave dans leurs coeurs la plus profonde idee de son merite ! C'est un homme unique, essentiel ; un Colonel qui brode, qui fait de la tapisserie ; il est charmant, il faut se l'attacher ; mais comment ? Lucile est fille, eh bien ! qu'il soit son epoux. Le desirer, le dire et le vouloir, c'est l'ouvrage d'un moment ; Araminte prononce, ses deux compagnies approuvent, et c'est ainsi que des rares et precieux talents du Marquis, Mademoiselle devient en ce jour la recompense et la victime... Mais chut, taisons-nous, j'entends Madame, et je doute fort que nos petites reflexions lui conviennent.
+SCENE III. Lisette, Lucile, Araminte, Lisidor.
+ARAMINTE.
+En verite, Lisette, vous etes une fille bien etrange. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Bonjour, Monsieur. Que faites-vous ici, Lucile ? Il me semble, quand j'ai du monde chez moi, qu'une fille aussi grande que vous, doit etre bonne au moins a faire les honneurs de ma maison.
+LUCILE.
+Ce n'est que par discretion que je suis sortie.
+ARAMINTE.
+Taisez-vous. Je m'apercois assez, Mademoiselle, que mes plaisirs vous ennuient ; mais vous n'exigerez pas de moi, j'espere, que je m'accoutume aux votres.
+LUCILE.
+De grace, ma mere...
+ARAMINTE.
+Et je sais bien que je le suis. Rentrez, votre Maitre a chanter vous attend. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ils veulent absolument, Lisette, m'entrainer ce soir au spectacle.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je crois, Monsieur, vous faire assez joliment ma cour.
+LISIDOR.
+A moi ; Madame, ce seul mot me penetrerait de reconnaissance, si j'osais y trouver une explication.
+ARAMINTE.
+Voila de grandes phrases. La Compagnie est dans le petit salon, vous, restez dans celui-ci, je veux bien ne pas m'apercevoir que c'est ma fille qui vous y retient, il me semble que cela est fort honnete. Au reste, vous me rendez un vrai service, et si vous pouviez un peu redresser son esprit.
+LISIDOR.
+J'ai le malheur, Madame, d'etre l'homme du monde le moins propre a cet emploi, et s'il m'etait permis de souhaiter quelque chose a votre aimable fille, ce serait de rester toujours la meme.
+ARAMINTE.
+Oh ! Vos desirs seront parfaitement remplis, c'est dont je tremble... Que faites-vous donc la, Lisette ? Ne vous ai-je pas dit que j'allais au spectacle ? Il est pres de cinq heures. Vous ne songez point a ma toilette.
+LISETTE.
+Pardon, Madame, mais il y a quelque fois si loin de ce que vous dites a ce que vous faites.
+ARAMINTE.
+D'accord, mon enfant. Mais aujourd'hui je ne puis disposer de moi-meme, je te dis que l'on m'entraine.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LISIDOR.
+Je vous en felicite, vous allez, ainsi que tout Paris, admirer ce chef-d'oeuvre que cherit plus particulierement son auteur : vous melerez vos larmes a celles de Merope.
+ARAMINTE.
+Moi, Monsieur, je m'en garderai bien. Ah ! Ne presumez pas me surprendre a vos lamentables tragedies. Mais, fi donc ! Une femme ne sort de ce spectacle que les yeux gros de larmes et le coeur de soupirs. J'ai vu meme quelquefois qu'il m'en restait sur le visage et dans l'ame, une empreinte de tristesse que toute la vivacite du plus joli souper ne pouvait eclaircir. Et qu'est ce que tout cela, s'il vous plait ? un tintamarre d'incidents impossibles, des reconnaissances que l'on devine, des Princesses qui se passionnent si vertueusement pour des Heros que l'on poignarde quand on n'en sait plus que faire, un assemblage de maximes que tout le monde sait et que personne ne croit, des injures contre les grands et par-ci par-la quelques imprecations ; en verite cela vaut bien la peine d'avoir les yeux battus et le teint fletri.
+LISIDOR.
+Mais, Madame, il est des personnes....
+ARAMINTE.
+Eh ! Vive l'Opera-Comique, Monsieur, vive l'Opera-Comique : le theatre italien est, a mon gre, le vrai Spectacle de la Nation ; il n'interesse point l'ame, il n'attache point l'esprit, il reveille, il anime, il egaie, il enleve.
+LISIDOR.
+J'ai peine a concevoir comment des pieces en general aussi peu soignees....
+ARAMINTE.
+Mais ne donnez donc pas dans l'erreur commune, n'imaginez donc pas que ce soit le genre des pieces qui nous y attire ? Est-ce qu'on y prend garde ? Et non, Monsieur. C'est la musique, c'est cette musique brillante qu'il est du bon ton de trouver sublime ; pour les pieces, il y en a que j'ai vues dix fois, dont je serais fort embarrassee de vous dire le titre ; et pour moi, je fais personnellement si peu de cas des paroles, que j'ai toujours chez moi un poete pret a me parodier les airs qu'il me prend fantaisie de chanter... A propos, on me conseille de vendre ma terre en Champagne, vous la connaissez, nous en raisonnerons, je placerai cet argent sur ma tete et sur celle de ma fille ; cela m'arrangera, ainsi que le Marquis, dont l'unique desir est d'augmenter son revenu.
+LISIDOR.
+Ainsi malgre l'espoir que vous m'avez permis, il est decide que le Marquis ?...
+ARAMINTE.
+Oui, je lui donne Lucile... Et vous ne devez pas m'en vouloir... Je sais bien quelles etaient vos vues ; mais il y a dans ce dernier arrangement une sorte de convenance. Vous tenez a votre etat, il est triste, je le suis naturellement, et j'ai besoin d'un gendre qui m'egaie. Au reste je ne repons point des evenements.
+LISIDOR.
+Et moi je compte sur eux, Madame ; aujourd'hui je cede a mon rival, mais son triomphe pourrait avoir peu de duree. On le dit encore attache au char d'une certaine Comtesse, que sans doute il vous sacrifie. Je ne le soupconne point d'oser jamais vous sacrifier vous-meme. Il est pourtant vrai que dans le tourbillon qu'il habite, souvent les idees du matin sont contrariees par celles du soir.
+ARAMINTE.
+Je connais le coeur du Marquis.
+LISIDOR.
+Je le crois.
+ARAMINTE.
+Que me veux tu, Lisette ?
+SCENE IV. Lisette, Araminte, Lisidor.
+LISETTE.
+La Marquise Celiante...
+ARAMINTE.
+Cette petite precieuse ! Quoi ! Deja des visites !
+LISETTE.
+Soyez tranquille, ce n'est que son valet de chambre. Comme elle vient d'apprendre que vous allez ce soir au spectacle, elle vous envoie demander si vous voulez lui donner une place et venir la prendre.
+ARAMINTE.
+Comment ! Serieusement, Celiante me demande ?... Mais, en verite, Lisette, voila bien la proposition la plus etrange !
+LISIDOR.
+Vous ne la voyez plus ?
+ARAMINTE.
+Quelquefois encore.
+LISIDOR.
+Eh bien ?
+ARAMINTE.
+Revez-vous, mon cher Lisidor ? Que je me charge de Celiante, que je la conduise au Spectacle ! Mais j'aimerais autant y mener ma fille. Vous ne la connaissez donc pas ? C'est la plus maussade petite creature, d'une indolence, d'une langueur ! Cela n'a pas vingt ans, et Madame affecte de ne se parer jamais, elle ne met ni diamants, ni rouge. Elle semble dire : « Regardez-moi je suis jolie, mais ces charmes-la sont a moi, il n'y a point d'art, je n'en ai que faire : la nature a pourvu a tout »... Joignez a cela son impertinente manie de ne porter jamais que des ajustements jaunes et de se placer toujours a cote de moi qui suis blonde.
+LISIDOR.
+J'ignorais ces motifs, mais seraient-ils assez puissants pour vous faire renoncer au plaisir que vous vous promettiez au spectacle ?
+ARAMINTE.
+Assurement. D'ailleurs ou Celiante vit-elle ? A-t-on jamais vu quatre femmes d'un certain etat se resserrer dans une loge et braver en public tous les hasards de la chaleur ? Pour moi, je n'y tiendrais pas, et puis il faudrait au moins cinq ou six hommes pour nous conduire, et tout cela ressemblerait a un lendemain de noces. Allons, que ce tracas-la finisse. Que l'on dise a Celiante que j ai... ma migraine et que notre partie est remise. Je resterai chez moi, j'y verrai du monde. Faites savoir que je suis visible.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Aussi bien le Baron m'a-t-il ecrit qu'il viendrait ce soir ; s'il ne me trouvait pas, il faudrait bouder des siecles. Mais Qu'entens-je ? Serait-ce deja lui ? Je vous garde au moins Lisidor.
+LISIDOR.
+Je serai bien flatte de le connaitre.
+ARAMINTE.
+Ne m'abandonnez pas, je vous prie, a tout l'ennui d'un tete-a-tete de cette espece. Cet homme est un original, dont le caractere... Eh ! Bonjour, mon cher Baron.
+SCENE V. Lisidor, Araminte, Le Baron.
+LE BARON.
+Bonjour, ma belle Dame. Pardon, si j'entre sans facon, sans me faire annoncer, mais ce n'est pas ma faute. Vos gens sont si occupes a jouer dans votre antichambre, que malgre le bruit que j'ai fait, il n'ont pas daigne m'apercevoir.
+ARAMINTE.
+Il y a des siecles que vous nous abandonnez.
+LE BARON.
+D'accord, il y a longtemps que je ne suis venu. Mais, que voulez-vous ? On ne peut pas etre partout. Je ne dis pas partout ou l'on s'amuse, car si on n'allait que la, on resterait souvent chez soi.
+LISIDOR.
+Ce gentilhomme n'est pas complimenteur.
+ARAMINTE.
+Vous me paraissez toujours aussi franc qu'a votre ordinaire.
+LE BARON.
+Et je m'en fais honneur. Il y a tant de gens qui mentent, les uns par gout, les autres malheureusement par devoir ; que l'on oublierait enfin l'existence de la verite, si le coeur de quelque galant homme ne lui servait encor d'asile ; au reste, ce n'est point vous qui me devez reprocher ma franchise, elle vous a souvent ete utile et va vous l'etre encore aujourd'hui. Je viens vous parler d'affaires.
+ARAMINTE.
+Oh ! Je m'y attendais.
+LE BARON.
+Vous savez que je n'aime pas les visites inutiles ; mais savez-vous que l'objet qui m'occupe rend celle ci tres importante ? Peut-on s'expliquer devant Monsieur ?
+ARAMINTE.
+Il est de mes amis, il est digne d'etre des votres, sa reputation meme vous est deja connue : c'est Monsieur Lisidor.
+LE BARON.
+Oui, j'en conviens ; vous etes peut-etre, Monsieur, le seul homme dont je n'ai jamais entendu dire que du bien.
+LISIDOR.
+C'est trop me flatter.
+LE BARON.
+Entrons donc en matiere. Ca, dites moi, dois-je ajouter foi, ma chere Araminte, au singulier bruit qui se repand de vous dans le monde ?
+ARAMINTE.
+Comment !
+LE BARON.
+Etes-vous decidee absolument a marier votre fille, sans m'en donner le moindre avis, a un certain Marquis, un extravagant, un fou sans merite ?
+ARAMINTE.
+Doucement, Baron.
+LISIDOR, a Araminte a demi-voix
+Vous voyez, Madame, que je ne suis pas le seul....
+ARAMINTE.
+Oui, je sens que vous triomphez... Vous pourriez etre mal informe, Baron.
+LE BARON.
+Je ne le sais que trop bien. Croyez-moi, les gens de mon etat et de mon age ne se compromettent jamais, et n'avancent rien sans en avoir des preuves.
+ARAMINTE.
+Quelles que soient les votres, je vous conjure....
+LE BARON.
+Je vous conjure a mon tour de croire que ce mariage ne se fera point. Je viens tout expres ici vous proposer un autre parti pour Lucile.
+LISIDOR.
+Qu'entends-je ?
+ARAMINTE.
+Et quel est-il ?
+LE BARON.
+C'est moi.
+ARAMINTE.
+Quoi ! Vous-meme, Baron ?
+LE BARON.
+Oui, moi-meme ; que trouvez-vous donc la de si surprenant ? Je suis las de vivre seul au sein d'une maison, que ma fortune rend honnete ; mais ou mon age n'appelle plus les plaisirs, je m'ennuie de n'etre entoure que de valets qui me volent, ou des neveux qui traitent provisionnellement de ma succession avec des usuriers ; et puis, je ne sais, je me sens un certain vide dans l'ame, enfin je veux me marier. J'epouserai quelque personne honnete qui m'aimera, qui en aura l'air au moins ; je tacherai d'en avoir bien vite un couple d'enfants, dont l'education sera l'amusement, la consolation de mes vieux jours ; en formant leur coeur je jouirai du mien ; cela m'animera, m'occupera ; car il faut s'occuper : j'en ai plus besoin qu'un autre, et je ne concois pas qu'un homme oisif puisse etre vertueux.
+LISIDOR.
+C'est un peu trop vous defier de vos forces, Monsieur, et j'aurais cru qu'une ame aussi bien placee que la votre pouvait regarder la liberte comme le premier bonheur de la vie.
+LE BARON.
+Elle le serait, sans doute, pour qui n'en abuserait pas. Mais le pouvons-nous au milieu des seductions qui nous environnent ! Les plaisirs honnetes ennuient bientot un homme qui peut se livrer a tous : l'esprit s'y habitue, les sens s'emoussent, le coeur se blase, le gout s'endort, et ce n'est plus alors que les exces qui le reveillent ; du moins je pense ainsi, et voila ce qui me determine.
+LISIDOR.
+Je ne m'attendais point a ce nouveau concurrent.
+ARAMINTE.
+Votre proposition me flatte en meme temps qu'elle m'etonne ; songez-vous bien, Baron, que Lucile est si jeune ?...
+LE BARON.
+Vraiment, j'avais d'abord jete les yeux sur vous. Je vous estime, je vous honore, et meme, vu votre age et d'autres considerations, peut-etre nous conviendrions-nous beaucoup mieux ; mais vous vivez dans le monde, vous l'aimez, il faudrait y renoncer, et je m'apprecie ; je n'en vaux pas le sacrifice. C'est a la main de Lucile que j'aspire : elle a ete elevee en Province : elle est jeune, assez naive, il lui en coutera moins pour se faire a ma facon de penser, car je vous declare que j'ai dessein de vivre dans mes terres.
+ARAMINTE.
+Voila une resolution bien severe.
+LE BARON.
+Vous le croyez vous autres que le tourbillon du monde entraine, vous ne concevez pas le plaisir qu'il y a de vivre loin du tumulte et chez soi : une maison simple et bien disposee, ou l'agreable s'unit sans faste a l'utile, un ciel serein, un air pur, des aliments salubres, des vetements commodes, une societe peu nombreuse, mais choisie, des plaisirs vrais que ne suit jamais le repentir, et qui servent a la sante loin de la detruire. C'est-la, c'est du sein de son chateau qu'un bon gentilhomme voit se fertiliser sous ses yeux la terre, qu'il a souvent aide a defricher lui-meme. Les arbres qu'il a plantes, s'elevent sous sa vue et sa joie s'accroit avec eux. Entoure de Paysans qui le cherissent en pere, il les anime au travail le moins estime, mais le plus noble ; il les encourage, il les recompense. Ces gens-la ne le louent pas, mais il le benissent, et cela vaut mieux. Il connait ses prerogatives, il n'y deroge pas, mais il rougirait d'en abuser ; il sait qu'il commande a des hommes, et c'est en les rendant heureux qu'il s'assure le droit de l'etre lui-meme
+ARAMINTE.
+Je ne puis m'y refuser, Baron, il y a bien du vrai dans ce que vous dites. Quant a ma fille, j'en suis au desespoir ; mais les engagemenTs que j'ai pris sont d'une nature a ne se pouvoir rompre, et si j'osAis manquer aux egards que je dois au Marquis, voici Monsieur qui depuis longtemps se propose.
+LE BARON.
+Quoi ! Lisidor aussi pretend a Lucile ?
+LISIDOR.
+Je l'ai vue, c'est une excuse pour l'aimer, un titre pour lui vouloir plaire. S'il m'eut ete possible de vous prevenir sur mes sentiments...
+LE BARON.
+Il me suffit. Vous savez ce que je pense de vous, et je ne veux pas qu'il soit dit que j'aie jamais fait obstacle au bonheur d'un galant homme.
+ARAMINTE.
+Sans doute, vous nous demeurez ? On pourra s'amuser ; j'ai du monde.
+LE BARON.
+Raison de plus pour que je vous quitte.
+ARAMINTE.
+Au moins revenez souper ; j'ai quelques projets a vous communiquer a mon tour.
+LE BARON.
+J'ai de ma part, aussi bien des choses a vous dire. Je reviendrai ; mais a condition que nous ne seront pas plus de huit a table, et que les valets sortiront des qu'ils auront servi.
+ARAMINTE.
+On fera tout ce qui pourra vous plaire.
+LE BARON.
+En ce cas, a ce soir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous m'interessez, tenez ferme ; et s'il en est besoin, je vous promets mon secours. Au revoir, ma charmante Araminte.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARAMINTE.
+Quoique le Baron se plaise a paraitre extraordinaire, on ne peut lui refuser un fonds de bons sens et de probite.
+LISIDOR.
+Il serait a souhaiter que tous les hommes lui ressemblassent.
+SCENE VI. Damon, Araminte, Lisidor.
+ARAMINTE.
+Vous voila ; Monsieur Damon ? Que font nos Dames ?
+DAMON.
+Elles vont se rendre ici ; et si cela peut vous plaire, Madame, je n'attendrai plus que vos ordres et leur presence pour commecer la lecture de ma tragedie. Vous m'avez paru la desirer.
+ARAMINTE.
+Oui, j'en serai charmee ; cela vient a miracle ; je reste chez moi ; et, tenez, voila Monsieur 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)qui pourra vous donner d'excellents avis : c'est un connaisseur.
+DAMON.
+Je n'en doute pas... Cependant, pour des avis, je les ecouterai, sans doute... Mais... Ma piece est finie, Madame : et je crois avoir a peu pres tout prevu ; ainsi il ne reste plus...
+LISIDOR, en souriant.
+Que des eloges a en faire.
+DAMON.
+Je l'espere au moins : le choix du sujet a generalement paru tres heureux les situations frappantes, les incidents bien menages... Pour la versification, c'est un mediocre avantage, j'en conviens : mais encore en est-ce un ; et parmi les auteurs naissants, je n'en apercois pas qui s'avise de me le disputer.
+ARAMINTE.
+Pour moi, j'ai la plus haute idee de votre ouvrage. Votre merite a deja perce.
+DAMON.
+Il est vrai, Madame ; j'avais a peine mes dix-neuf ans que je faisais deja parler mon coeur.
+ARAMINTE.
+Il faudra me faire avertir : quoique j'aie renonce aux tragedies, je violerai pour vous mon serment... Nous aurons des loges.
+DAMON.
+N'en doutez pas : j'ai toujours compte sur votre bienveillance ; et, en verite, pour nous soutenir dans la carriere des Arts, nous avons besoin que les personnes de votre rang daignent semer quelques roses sur les epines dont elle est remplie.
+ARAMINTE, a Lisidor.
+Comment il parle !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous pouvez compter sur moi ; j'y menerai vingt femmes. Je vous le repete, j'en augure beaucoup. Je juge de votre tragedie par la jolie chanson que vous m'avez adressee le jour de ma fete... Je veux vous la montrer, Lisidor : vous en serez seduit ; elle est toute ame.
+SCENE VII. Lisette, Lisidor, Lucile, Damon, Cidalise, Araminte, Ismene, L'Abbe.
+Les portes s'ouvrent ; les deux femmes entrent d'abord. Ismene s'appuie sur le bras de l'Abbe. Lisidor va au devant de Lucile qui suit avec Lisette.
+ARAMINTE, allant au devant.
+Eh ! Venez donc, mes charmantes... Vous savez notre aventure ?
+CIDALISE.
+Lisette nous l'a racontee.
+ISMENE.
+Cela est incroyable ; cette petite Celiante a la fureur de se montrer partout.
+ARAMINTE.
+Il s'agit bien de cela vraiment ! C'est le Baron ; il sort d'ici : il est venu tout expres pour me demander Lucile.
+CIDALISE.
+La bonne folie ! Mais c'etait sur toi que nous avons toutes cru qu'il avait des vues.
+ARAMINTE.
+Je le soupconnais sans m'en occuper.
+ISMENE, a Lucile.
+Je vous en fais mon compliment, Mademoiselle ; le nombre de vos amants s'augmente avec vos charmes. On dirait que tous les aspirants se sont donne rendez vous aujourd'hui. Le Baron vient de sortir ; Monsieur Lisidor est ici, et le Marquis ne peut tarder d'y paraitre.
+ARAMINTE, a Ismene.
+Ah ! J'espere etre bientot delivree toutes ces tracasseries.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voulons-nous nous asseoir ? Monsieur Damon nous doit gratifier d'une lecture.
+ISMENE, a l'Abbe.
+Ah ! Ciel ! Soupconnez-vous ce que ce peut-etre ?
+L'ABBE.
+Je m'en doute. Quelque tragedie de sa facon.
+ISMENE, a part.
+Je suis deja morte.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, nous la lirez-vous toute entiere ?
+DAMON.
+Mais... comme il vous plaira, mesdames.
+ISMENE.
+C'est qu'une tragedie, je crois, est bien longue ; cela pourrait vous fatiguer.
+DAMON.
+Oh ! Point du tout, Mesdames ; on oublie aisement ses peines quand on reussit a vous amuser. Je vais commencer...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARAMINTE, a Ismene.
+Vous n'avez donc rien gagne sur notre cher Abbe ?
+ISMENE.
+Je le vais bouder pour la vie ; il est d'une maussaderie insoutenable.
+L'ABBE.
+Mais... c'est vous, Mesdames, qui etes de la derniere barbarie. Est-ce jamais apres le diner que l'on chante ? J'ai la poitrine si cruellement fatiguee !... A peine puis je parler...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous voyez... J'ai passe la moitie de la nuit chez une Duchesse ou l'on m'a fait impitoyablement chanter un acte de l'opera et six romances... Il y a des gens qu'on n'ose refuser.
+ARAMINTE.
+C'est-a-dire que vous nous rangez dans la classe de ceux que l'on peut refuser sans crainte.
+ARAMINTE.
+Point du tout ; mais, au defaut de la harpe, au moins, pour chanter, faudrait-il une guitare.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CIDALISE.
+C'est malice toute pure : les gens de son etat sont accoutumes qu'on les cajole.
+ISMENE.
+Ce sont de petits mortels assez heureux.
+DAMON.
+Le sujet de ma tragedie...
+L'ABBE.
+Il est vrai que l'on nous accueille. Sans devenir la terreur des maris, nous faisons quelquefois l'amusement des dames.
+ISMENE.
+Ce n'est point en ce moment, ou votre complaisance....
+LISIDOR.
+Ne vous fatiguez pas, Mesdames ; je connais Monsieur l'Abbe : il ne chantera point ; vous l'en priez trop.
+ARAMINTE.
+J'entends quelqu'un ; serait-ce deja le Marquis ?
+SCENE VIII. Lisette, Lisidor, Lucile, Damon, Cidalise, Le Medecin, Araminte, Ismene, l'Abbe.
+LISETTE.
+C'est votre Medecin, Madame.
+ARAMINTE.
+Qu'il entre ; j'en suis ravie ; qu'il entre. Venez ; je vous sais bon gre de ne pas m'abandonner. Ismene, je vous demande votre confiance pour Monsieur... Un fauteuil, Lisette... Ce cher Docteur, c'est qu'il est bien moins mon medecin que mon ami. C'est par attachement qu'il me traite, et dans ma derniere migraine, il ne m'a pas quitte d'une minute.
+LE MEDECIN.
+Que voulez vous ? Quoique vous nous fassiez mourir, il faut bien songer a vous faire vivre... Toutes vos santes, Mesdames, me paraissent assez belles.
+ARAMINTE.
+Oh ! Point du tout.
+DAMON, a part.
+Me voila perdu.
+L'ABBE, a Ismene.
+Vous croyez aux medecins, Madame ?
+ISMENE.
+Comme aux abbes.
+L'ABBE.
+Toujours mechante.
+LE MEDECIN.
+Comment donc ! Quelles sont ces indociles maladies que notre sagacite ne peut reduire ! Oh ! Nous en viendrons a bout, Madame... Voyons... Justement... L'estomac delabre..... et l'appetit ?
+ARAMINTE.
+Est-ce qu'on mange ?
+LE MEDECIN.
+Crachez-vous ?
+ARAMINTE.
+Je crois qu'oui.
+LE MEDECIN.
+Tant mieux. Poursuivons... Nous avons des nuages devant les yeux, des disparates dans la tete ?
+ARAMINTE.
+Precisement.
+LE MEDECIN.
+Je l'aurais gage.... Allons, allons : il faut prendre un parti serieux, il faut du regime, se mettre a l'eau de poulet. Je vous jure qu'avec des bols de savon nous parviendrons a attenuer ces humeurs errantes.
+LISIDOR.
+Des bols de savon !
+LE MEDECIN.
+Oui, Monsieur : c'est un specifique divin que, depuis deux ans, je reussis a mettre a la mode. Les anciennes drogues dont nos ancetres faisaient usage, pouvaient convenir a leurs santes robustes et grossieres ; mais aujourd'hui, tout doit etre soumis aux lois de notre delicatesse et de nos graces. Voudriez-vous, par exemple, que je dechirasse l'estomac d'une jolie malade avec du miel aerien, qui ne purge que par indigestion ?
+L'ABBE.
+Oserais-je vous demander, Monsieur, ce que c'est que du miel aerien ?
+LE MEDECIN.
+C'est de la manne, Monsieur l'Abbe ; c'est de la manne. Non seulement nous avons renonce aux drogues antiques ; mais nous avons encore change leurs denominations vulgaires.
+ARAMINTE.
+Il est charmant.
+DAMON, a part.
+Oh ! Des gens aussi superficiels ne sentiront jamais les beautes males de ma Tragedie.
+LE MEDECIN, a Ismene.
+Et vous, Madame, pour lier connaissance, n'avez-vous pas quelque confidence a me faire ?
+ISMENE.
+Mais vraiment oui.
+L'ABBE.
+Vous allez aussi consulter ?
+ISMENE.
+Sans doute ; ne me connaissez-vous pas de la langueur, des tiraillements ?
+L'ABBE, a part.
+Je n'y tiens plus.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE MEDECIN.
+Doucement, s'il vous plait, Madame ; doucement. De la pesanteur, dites-vous ; des degouts..... M'y voici... Quelques eblouissements... Des impatiences de fibres... Vapeurs que tout cela, vapeurs... Les Fluides nerveux que la chaleur electrise... Des nerfs qui se crispent... Une sorte de spasme... Vous portez sur vous des eaux de Cologne, de fleurs d'orange ?
+ISMENE.
+Toujours.
+LE MEDECIN.
+C'est bon. Il faut conserver cet usage-la. J'irai demain matin vous faire ma cour ; je serai bien aise de vous voit un peu assidument, afin de mieux etudier les causes de votre etat.
+LISIDOR, a Lucile.
+Le ridicule personnage !
+CIDALISE.
+Plus je l'ecoute, plus il m'enchante.
+DAMON, en se levant.
+Comme les moments s'ecoulent ! Si vous vouliez permettre, Mesdames...
+ARAMINTE.
+Ah ! De grace, Monsieur Damon, quartier. Laissez-nous jouir du cher Docteur.
+DAMON, a part.
+J'enrage : ou me suis-je fourre ?
+LE MEDECIN.
+Et vous, belle Cidalise ?
+CIDALISE.
+Je ne suis guere mieux.
+LE MEDECIN.
+Je le crois. C'est contre mon avis que vous avez fait eventer la veine. Mais voila comme vous etes, Mesdames : depuis que votre petit Chirurgien s'est donne le renom d'un joli saigneur, il vous fait tourner la cervelle... Je devrais, pour vous punir, vous abandonner a sa lancette inhumaine, vous laisser epuiser jusqu'au blanc : mais vous etes si interessante ! Voyons ce pouls ; il est frequent, mais egal : l'appetit, je parie, modeste, mais franc ; et le sommeil rare, mais dore. Je ne vous conseille pourtant pas de vous tranquilLiser sur ce pretendu bien-etre : il faut du regime, de l'exercice et de la petite diete... A vous, mon aimable Demoiselle.
+LUCILE.
+Oh ! Monsieur, je me porte tres bien.
+LE MEDECIN.
+Je n'en crois pas un mot.
+LUCILE.
+Mais j'en suis bien sure, moi.
+ARAMINTE.
+Eh ! Bien ! N'allez-vous pas faire ici la ridicule, quand Monsieur le Docteur a pour vous des complaisances ?
+LE MEDECIN.
+Il suffit ; ne chagrinons point ce cher enfant ; ne contraignons personne. La vivacite de ses yeux cependant me fait soupconner dans son sang une sorte d'effervescence dont je croirais prudent de prevenir les effets par des petits calmants, par quelque preparation d'aconit ou de cigue, que nous lui proposerons dans une creme aux pistaches.
+LISIDOR.
+En verite, Monsieur, j'ai cru jusqu'a ce moment qu'un habile Medecin ne devait consacrer ses lumieres qu'a soulager, ou du moins consoler la faible humanite : mais vos savants discours ne tendent qu'a l'epouvanter. De grace, laissez-nous attendre les maux : nous n'aurons que trop tot recours aux remedes.
+LE MEDECIN.
+Voila precisement ce que pense un peuple des Medecins qui ne songent qu'a guerir. Mais moi, Monsieur, mais moi, j'etudie le caractere, la tournure d'esprit de mes malades ; je prevois les accidents, et j'aime mieux preparer, et meme dans l'occasion, prolonger une maladie, que de trancher dans le vif, et vous rendre en huit jours une sante grossiere dont on ne jouit dans le monde que pour en abuser.
+LISIDOR.
+Voila certainement une etrange politique !
+L'ABBE, preludant.
+La, la, la, la, la.
+CIDALISE.
+Chut, taisons nous.
+DAMON, lisant.
+Tant mieux... Scene premiere...
+HIDASPE.
+Du centre des deserts de l'inculte Armenie.
+CIDALISE, l'interrompant.
+Paix donc : l'Abbe ne se doute pas qu'on l'ecoute.
+L'ABBE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Serait-il vrai jeune bergere,
+Que mes soins n'ont pu vous charmer ?
+Que d'efforts il faut pour vous plaire !
+Il n'en faut pas pour vous aimer.			[5]
+LE MEDECIN.
+Voila du delicieux.
+ARAMINTE.
+Personne ne chante mieux que lui.
+LISIDOR.
+Surtout quand on ne l'en prie pas.
+L'ABBE.
+Comment est-ce que j'ai chante ?
+ISMENE.
+Oui, par distraction, ou par contradiction plutot. Mais on vous le pardonne ; la bizarrerie est l'apanage du talent.
+L'ABBE.
+Quand j'osai decouvrir ma flamme ;
+J'attendais un sort plus heureux.
+Tout le feu qui brule mon ame
+Ne peut-il qu'animer vos yeux ? 
+Amour dans ses bras tu reposes ;			[10]
+De son teint tu peins la blancheur.
+Je t'ai vu sur son sein de roses ;
+Je te cherche encor dans son coeur.
+ISMENE.
+L'air est charmant.
+LE MEDECIN.
+Expressif.
+L'ABBE.
+Le trouvez-vous ? Ce n'est en verite que l'ouvrage d'une matinee.
+ARAMINTE.
+Il est de vous ?
+L'ABBE.
+Oui, Mesdames.
+DAMON.
+Les paroles...
+L'ABBE.
+Eh ! Bien, la? sincerement, qu'en pensez-vous ?
+DAMON.
+Ma foi, je les trouve assez mediocres.
+L'ABBE.
+Tout le monde, Monsieur, n'est pas de votre avis ; et quand je les ai composees...
+ARAMINTE.
+Comment ! Elles sont aussi de vous ? Mais il est universel, notre cher Abbe.
+L'ABBE.
+Monsieur n'a pas daigne saisir l'union intime, le tour de chant, la phrase musicale... Je vais recommencer.
+LE MEDECIN, se levant.
+Je suis penetre de ne pouvoir vous entendre.
+ARAMINTE.
+Vous nous demeurez a souper ?
+LE MEDECIN.
+Est-ce que cela m'est possible ? Je cours au Marais ; les insomnies y sont fort a la mode : de la aux Faubourg Saint Germain, ou regnent les petites fievres. J'ai vingt santes a consulter. En verite, quand je songe a toutes mes courses, le sort de mes chevaux me fait pitie. J'ai condamne la vieille Orphise.
+ARAMINTE.
+Decidement ?
+LE MEDECIN.
+Oui ; cela est fini. Elle s'est entetee d'un certain Empyrique... Je vous conterai quelque jour son aventure. Adieu, Mesdames.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Du regime, je vous en prie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je serai demain a vos pieds. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De grace congediez moi votre petit chirurgien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Bonjour, ma belle poulette.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Messieurs, je vous salue.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE I.. Lisidor, Lucile, Damon, Cidalise, Araminte, Ismene, L'Abbe.
+DAMON.
+Je puis esperer qu'a present.
+ARAMINTE.
+Oui, cela est trop juste. Commencez, Monsieur Damon.
+L'ABBE, a part.
+On ne s'occupe plus de nous, sortons.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mesdames, vous m'excuserez.
+ISMENE.
+Comment !
+L'ABBE.
+Je n'ai pas l'honneur de me connaitre en tragedies. D'ailleurs, mon suffrage importe peu a Monsieur. Nos gouts different ; les paroles que j'ai chantees lui ont deplu.
+ARAMINTE.
+Liberte toute entiere, mon cher Abbe : mais si vous vouliez etre tout-a-fait charmant, vous auriez la complaisance d'accompagner ma fille a son clavecin. Je ne la crois pas curieuse des grands poemes. Le Baron qui ne peut tarder a revenir, serait charme de vous entendre, et Lucile apprendrait de vous quelque jolie romance. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'ABBE.
+Il suffit que cela vous plaise, Madame : il n'est rien que je ne vous sacrifie. Je vous suis, Mademoiselle.
+LISIDOR, a Lucile.
+Que ne puis-je vous accompagner ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X. Lisidor, Damon, Cidalise, Araminte, Ismene, ensuite Lisette.
+ISMENE.
+Eh ! Bien, ai je tort de proteger l'Abbe ? Est il rempli de complaisance ?
+ARAMINTE.
+J'aimerais bien qu'il en manquat chez moi ! Ah ! Ca, rien ne nous occupe. A vous, Monsieur Damon.
+DAMON, prenant la main de Lisidor qui est distrait.
+Suivez-moi, Monsieur, s'il vous plait ; le titre de ma Tragedie est CYRUS, fils de Cambise. Vous savez, Mesdames, que le tyran Astyages......
+ISMENE.
+Mais puisque Monsieur veut nous lire, ma toute bonne, si nous demandions des cartes ?
+DAMON.
+Comment ?
+ARAMINTE.
+N'est ce pas a vous a commander chez moi ? Lisette, allons vite, une table.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ISMENE.
+Lisidor, je crois, n'est pas joueur. Il ecoutera mieux et nous ferons un tri, nous autres, pendant que Monsieur Damon lira sa tragedie.
+DAMON, a part.
+Ah ciel ! Je n'en puis revenir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CIDALISE.
+C'est on ne peut mieux imagine. Tu sais, ma chere, que je ne puis vivre un moment dans l'inaction.
+LISETTE.
+Voila tout prepare.
+DAMON.
+Quoi ! Mesdames, est ce bien serieusement ?
+ISMENE.
+Oui... Vous allez voir... Cela ne derange rien au contraire. Tirons d'abord les places. Bon. Araminte, Cidalise, et moi... Vous allez vous mettre ici...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oui, la. Vous nous tournerez le dos, afin d'etre moins distrait.
+LISIDOR, a part.
+Voila des auditeurs bien attentifs !
+DAMON, a part.
+Non, je ne sais ou j'en suis. Pauvres talents, comme on vous humilie ! Oh ! Qu'il est cruel d'avoir besoin de certaines gens ! N'importe...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Adieu, Mesdames, c'est moi qui craindrais de vous distraire de vos grandes occupations... J'en aurais du regret... Et... Je suis votre serviteur. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XI. Lisidor, Ismene, Araminte, Cidalise, jouant.
+CIDALISE.
+Je crois tout de bon qu'il s'en va.
+ARAMINTE.
+J'en suis extasiee. Mais que dites-vous donc de ce petit auteur ?
+ISMENE.
+Qu'il est impertinent. Ne faut-il pas tout quitter pour ecouter la tragedie de Monsieur ?
+CIDALISE.
+Je la crois detestable.
+ARAMINTE.
+Cela ressemble a tout, ou n'a pas le sens commun.
+LISIDOR.
+Le trouvez vous bien recompense des soins qu'il prend pour vous plaire, et de la jolie chanson qu'il vous a jadis adressee ?
+ARAMINTE.
+Comment ! Vous approuvez sa conduite ?
+LISIDOR.
+Oh ! Point du tout, Madame ; je suis chez vous, je pense qu'il a tort.
+ARAMINTE.
+Allons, venez me conseiller... Le coeur n'est-il pas la surfavorite ?
+SCENE XII. Ismene, Araminte, Cidalise, jouant ; Lisidor, tantot derriere le fauteuil d Araminte, tantot se promenant ; Le Marquis, qui se place a la droite d'Ismene
+La table est a la gauche du theatre.
+LE MARQUIS, dans la coulisse.
+Oui, oui ; j'arrangerai tout cela. Je verrai, j'irai, je parlerai.
+CIDALISE.
+C'est le Marquis.
+ISMENE.
+C'est lui-meme.
+LISIDOR.
+Je vais donc voir ce dangereux rival.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CIDALISE.
+L'etourdi ! Pourquoi venir si tard ? Voila notre partie arrangee. Nous aurions fait un reversis.
+LE MARQUIS.
+Ma foi, Mesdames, on arrive quand on peut. Il est pourtant reel que, pour tarder moins, je n'ai pas dormi quatre heures. Aussi, suis-je aneanti...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, je vous salue. Mais vous etes bien seules, Mesdames. Oh ! Voila qui est decide : je termine des demain ma satyre contre les bains. En honneur, c'est un attentat contre la vie des citoyens.
+ARAMINTE.
+Pourquoi les suivre tous ? Pourquoi deranger sa sante ?
+LE MARQUIS.
+Comment voulez-vous qu'on fasse ? Faut il se resoudre a passer pour un anachorete, ou un ridicule, un sage ? Vraiment la sante se delabre ; il y a pres de dix ans que je ne puis accoutumer la mienne a se soumettre a mes fantaisies. Mais apres tout, si on avait une sante, pourrait-on soutenir une campagne, vivre a la Cour, s'amuser a Paris ?
+ISMENE.
+Il a raison... Allons, voyons pourtant ; ce sera en pique, le roi de trefle.
+LE MARQUIS.
+A propos, dites moi donc ; je viens de rencontrer le bel esprit Damon : il ma paru d'une humeur sanglante. J'ai d'honneur cru que c'etait a moi qu'il en voulait.
+CIDALISE.
+Il venait nous lire toute une tragedie.... La preference.
+LE MARQUIS.
+Ah ! Ciel !
+ARAMINTE.
+Je te la cede. J'avais pourtant un assez joli mediateur de ce cote.
+LISIDOR.
+Il etait sur.
+ISMENE.
+De grace point de conseils.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARAMINTE.
+Ne crains rien : je suis d'un guignon decide.... Le Roi de carreau.... Pour revenir au petit Damon, il s'est avise de prendre de l'humeur, je ne me souviens plus sur quoi, et tout en grondant il nous a debarrassees de sa personne et de son ouvrage.
+LE MARQUIS.
+Ah ! Je respire. Le denouement n'est pas malheureux. Est-ce qu'on fait de ces especes-la sa societe ? Il est des Gens de Lettres d'un vrai merite avec qui l'on se fait honneur d'etre lie ; mais pour ceux ci, on les recoit quelquefois le matin, pour leur commander une chanson, ou bavarder pendant que l'on s'habille. Ou, le soir, oui le soir, on en rassemble une couple : on les excite, on les irrite l'un contre l'autre ; alors ils s'attaquent, ils s'accablent d'epigrammes, s'injurient, se dechirent : cela est plaisant, divin. Tenez, cela ressemble assez aux combats de coqs que l'on donne a Londres, ou sur nos navires. C'est un cadeau dont je veux vous regaler. Il est vrai qu'il en resulte le petit desagrement de les saluer le lendemain en Public, mais on a ri et cela console.
+ARAMINTE.
+Il est affreux de ne pouvoir jouer une seule fois.
+LISIDOR.
+Madame, a la verite, n'est pas heureuse.
+LE MARQUIS.
+Aussi vous ne risquez jamais rien : il faut savoir brusquer la fortune. Mais vous me ressemblez : vous etes trop prudente. Ce matin, cependant, j'ai pense avoir ce qui s'appelle une affaire.
+ARAMINTE.
+Toujours des aventures. Et qu'elle est celle-ci ?... Je passe.
+LE MARQUIS.
+Vous connaissez mon cocher, sa temerite, sa fierte, son bouquet, ses moustaches : c'est un coquin.... Je l'aime a la folie. Je veux pourtant le gronder. Ce maraud-la me fera quelque jour une scene. Il s'est avise de couper un triste berlingot, dans le fond duquel s'enterrait je ne sais quel personnage. Mon homme s'est fache, a baisse sa glace, a pretendu que je devais connaitre sa livree, ses armes. Ma foi, moi, je ne connais guere que celles du Roi et les miennes. Je descends de ma voiture ; il m'imite ; on s'echauffe, les valets se battent, le peuple accourt, et mon hibou tout essouffle, tout murmurant, est remonte dans sa cage en m'annoncant qu'il s'allait plaindre...
+LISIDOR.
+Mais cette affaire, Monsieur, pourrait devenir serieuse : il serait de la prudence de prevenir...
+LE MARQUIS.
+Oh ! Parbleu qu'il se plaigne. Vous verrez qu'on ne pourra plus courir Paris sans avoir le blason dans sa poche.
+LISIDOR, a part.
+Je sais a present a quoi m'en tenir sur le compte de mon rival.
+LE MARQUIS.
+Que vois-je ? Ce cher metier est encore monte ! Ce fauteuil n'est point fini ? Mais a quoi tuez-vous donc le temps ? Oh ! Cela prouve bien qu'il y a longtemps que je ne vous ai donne de bons exemples, que je n'ai mis la main a l'ouvrage.
+ISMENE.
+Oh ! Oui ; il vous sied bien de parler d'ouvrage ! Vous etes cause que ma petite robe n'est point montee. Vous vous donnez les airs de m'emporter un rang de falbala, sous pretexte d'y travailler.
+LE MARQUIS.
+Aussi fais-je : mais peu vous importe, pourvu que vous grondiez, et que vous fassiez aux gens une petite moue, que vous savez bien qui vous rend plus charmante encore... Tenez, vous ne menagez point vos amis ; c'est votre defaut, Ism7ne : Eh ! Bien, je vous jure que je n'ai que votre falbala dans la tete, que je m'en occupe serieusement.
+LISIDOR, a part.
+La belle occupation !
+LE MARQUIS.
+Hercule filait pour Omphale. Vous surpassez la maitresse en beaute, je ne me pique pas d'avoir toute la celebrite de l'amant : mais au moins suis-je jaloux de l'egaler en complaisance comme en courage. Si je vous prouvais que je n'ai cesse ce matin de travailler a votre ouvrage en raisonnant avec mon avocat, que je le porte toujours sur moi...
+ISMENE.
+Bonne plaisanterie !... Donnez-moi Spadille.
+LE MARQUIS.
+Parbleu ! Votre petite incredulite merite d'etre confondue. Tenez, tenez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Non ce n'est pas cela ; ce sont les jarretieres de Lise, les noeuds de Chloe.... Ah ! Bon, voici votre affaire.
+ISMENE.
+Que vois-je ! Avec le sac ! Il est charmant. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous permettrez ! Comment un etui, des ciseaux, des aiguilles !
+LE MARQUIS.
+Oh ! Rien ne me manque.
+CIDALISE, jetant son jeu.
+Cela est rebutant. En verite, Monsieur le Marquis, vous etes tres aimable : mais vous pourriez attendre la fin de la partie ; on ne peut s'occuper de son jeu, et vous ecouter.
+LE MARQUIS.
+Bon ! De l'humeur ! Allons, la paix, on se taira. Je vais, pendant que vous finirez, m'amuser a cette tapisserie. Mais, diable ! Dussiez-vous m'en vouloir encore, j'oubliais precisement ce que je suis venu tout expres pour vous dire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est une chose assez particuliere.
+ARAMINTE.
+Comment donc ?... C'est a vous a parler, Cidalise.
+LE MARQUIS.
+Vous connaissez bien le Comte d'Orvigni ?
+CIDALISE.
+Oui vraiment... Nous en sommes aux tours doubles.
+LISIDOR.
+Quoi ! Cet ancien militaire, cet homme respectable ?
+LE MARQUIS.
+Justement... Eh bien : il est mort.
+ISMENE.
+Cela est incroyable... Je demande....
+LE MARQUIS.
+Il s'est avise d'expirer subitement, hier au soir.
+ARAMINTE.
+Vous me desolez... Voila mon Roi, deux fiches.
+LE MARQUIS.
+Cela derange beaucoup le souper qu'il devait nous donner.
+LISIDOR.
+Il etait votre intime ami, Madame.
+ARAMINTE.
+Vraiment oui ; vous m'en voyez penetree... C'est a vous a parler, Cidalise.
+LE MARQUIS.
+Il n'a pas eu le temps de mettre le moindre ordre dans ses affaires.
+ARAMINTE.
+Je le jouerai sans prendre... Cela est cruel, Marquis... Le coup est assez beau... Sa pauvre veuve... C'est en coeur, Mesdames.
+ISMENE.
+En favorite ! Nous voila ruinees... Mais que ne fait-elle des demarches ?
+ARAMINTE.
+Sans doute... Spadille... Mon cher Comte... Manille... Il m'a rendu de tres grands services... Valet, Dame et Roi de coeur.
+LE MARQUIS.
+Nous lui avons conseille de prendre un parti dans cette affaire.
+ISMENE.
+C'est tout simple... Doucement, j'ai baste et encore une main.
+ARAMINTE.
+Il laisse de petits enfants... J'aurais gagne pour la vole... Marquis, vous m'avez serez le coeur... Il me revient encore deux fiches.
+SCENE XIII. Ismene, Araminte, Cidalise, Lisidor, Le Marquis, Lisette.
+LISETTE, accourant.
+Ah ! Madame, votre serin vient de s'echapper.
+ARAMINTE.
+Mon Serin prive ? Juste Ciel ! Eh ! Vite, suivez-moi, Lisette.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ISMENE.
+Comment ! Elle nous quitte ?... Mais cela est unique ! En verite, ma bonne, notre cher Araminte est d'un ridicule rare, avec sa passion pour les animaux.
+LISIDOR.
+On ne peut douter que cet oiseau ne lui soit cher, puisqu'elle lui sacrifie les suites d'une partie dont la mort d'un de ses amis n'a pu la distraire.
+LE MARQUIS.
+Oh ! Vous ne la connaissez pas. Si vous l'aviez vue, comme moi, a table ; entouree de chats, de chiens, de singes, de catacouas, elle les baise, les fait impitoyablement baiser a la ronde, partage avec eux son assiette.... C'est un charme. Mais aussi est-ce un petit plaisir dont elle ne regale que ses plus intimes amis.
+LISIDOR.
+Il est heureux pour vous, Monsieur, d'etre de ce nombre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'en ai bien assez vu. Quittons ce cercle d'etourdis, et ne songeons qu'a menager la bonne volonte du Baron, et le coeur de Lucile.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CIDALISE.
+Ce petit robin ne te semble-t-il pas un ennuyeux personnage ?
+ISMENE.
+Passablement.
+LE MARQUIS, se leve, et va a la table.
+On m'a dit qu'il se donnait les airs d'etre mon rival : par exemple, voila de ces choses auxquelles je ne saurais m'accoutumer.
+ISMENE.
+Pretends-tu t'enterrer ici jusqu'au souper ? Si nous faisions un tour de Boulevard.
+CIDALISE.
+Cela n'est guere decent que la nuit : on court les parades, les spectacles.
+LE MARQUIS, ayant pris la place d'Araminte.
+Oui, les Fantoccini... Oh ! Ils sont divins, etonnants : moi, en honneur, c'est le seul spectacle qui m'amuse.
+ISMENE.
+Ah ! Ca, nous voila seuls. De bonne foi, Marquis, comment conduisez-vous la grande Comtesse ?
+LE MARQUIS.
+Quoi ! Vous n'etes point au fait !.... Je l'ai quittee.
+CIDALISE.
+Serieusement !
+LE MARQUIS.
+Pouvois je y tenir ? C'est la plus exigeante de toutes les prudes : il faudrait toujours etre la, ne la pas quitter d'une minute. Ah ! Parbleu, je me suis menage avec elle la rupture la plus signalee. Vous n'imagineriez jamais quelle etait sa folie... Le mariage.
+CIDALISE.
+Vous badinez.
+LE MARQUIS.
+Non, Madame a la manie d'etre epousee.
+ISMENE.
+Mais elle est femme de qualite, d'un age tres convenable ; et il faut que vous aimiez bien eperdument votre petite bourgeoise de Lucile pour la preferer.
+LE MARQUIS.
+Moi de l'Amour, des Passions ! Ah ! Parbleu vous ne me connaissez guere. Prenez garde que Lucile est toute charmante, un vrai bijou ; oui, c'est precisement ce qu'il me faut : point d'esprit, peu de figure ; cela ne marquera point trop dans le monde, et ses soixante mille livres de rente.... Ah ! Ma chere Ismene, quelle petite maison brillante ! Que de chevaux, de chiens, de valets ! Laissez, laissez faire. Oh ! Je sais bien ce qu'il me faut.
+CIDALISE.
+Vous n'y pensez pas vous-meme, si c'est l'interet qui vous conduit.
+LE MARQUIS.
+Non pas absolument, vous imaginez bien que je ne calcule guere, moi : mais en verite, la vie que je mene m'accable ; la multiplicite des aventures m'excede. Savez-vous, Mesdames, qu'il faudrait etre de fer pour resister aux fatigues de vous faire sa cour ? Toujours des assiduites, des soins, des rendez vous, c'est a ne pas finir. Du moins, quand on est marie, on se tranquillise, on demeure chez soi, on y recoit ses amis dans sa robe de chambre, on s'y fait soigner par sa femme.
+CIDALISE.
+C'est une raison de plus pour retourner a la Comtesse ; elle est d'un age convenable, et sans vous mesallier, vous jouiriez alors d'une fortune qui surpasse de beaucoup celle de Lucile.
+LE MARQUIS.
+Vous plaisantez : oh ! Je ne me suis brouille qu'apres avoir pris la-dessus les informations les plus exactes.
+ISMENE.
+C'est vous-meme qui, je crois, etes le seul dans Paris a ignorer que, depuis votre rupture, elle est devenue l'unique heritiere de son oncle le Commandeur.
+CIDALISE.
+Et qu'elle joint a present a la reputation de jolie femme, celle de femme tres opulente. Aussi le petit Chevalier lui fait-il assidument sa cour.
+LE MARQUIS.
+Ecoutez donc, Mesdames, un moment : ceci merite toute mon attention. Le petit Chevalier me voudrait ravir la Comtesse ! Oh ! Nous allons voir. Ce que vous m'apprenez change beaucoup mes vues ; et tout bonnement, je serais tente de rendre Lucile a son robin. Moi, j'aime a faire des heureux.
+ISMENE.
+Cela serait peut-etre aussi genereux que sage.
+LE MARQUIS.
+La Comtesse me sacrifie a l'instant qu'elle herite ! Oh ! Parbleu je lui apprendrai a mieux choisir ses moments. Allons ; allons, j'y vais mettre ordre, et vous prouver que je sais soutenir mes droits. Comme vous dites, la Comtesse est jolie femme ; elle merite toutes sortes d'egards. Allons, il est de bonne heure, mon equipage m'attend, je vole chez elle. Tachez d'arranger tout cela avec Araminte : Elle est minutieuse, elle boudera. Ces Bourgeoises se formalisent de la plus petite chose : voyez, calmez-la. Lisidor est un galant homme ; je ne serai meme pas fache qu'il m'ait quelque obligation. Pardon, mille fois pardon, si je vous quitte. J'en suis honteux, desespere. Mais vous n'ignorez pas que je suis le premier a plaindre, puisque je vous laisse en partant et tous mes regrets et mon coeur.
+CIDALISE.
+En effet, on appelle cela savoir prendre son parti.
+SCENE XIV. Araminte, Cidalise, Ismene, Le Baron? Lisette et Lisidor entrent un instant apres.
+ARAMINTE.
+J'ai retrouve mon serin ; je vous ai quittees bien brusquement, j'en consens : mais vous connaissez ma sensibilite. 
+ISMENE.
+Aussi ne songeons nous qu'a te feliciter.
+ARAMINTE.
+Bon ! Les malheurs se succedent : Lisidor et le Baron me suivent. Je suis persecutee de tous les cotes... Mais ou donc
+est le Marquis ?
+ISMENE.
+Tu ne croirais pas ? Il est alle reprendre les fers de sa belle Comtesse, qui vient d'heriter.
+CIDALISE.
+Nous t'expliquerons cela plus en detail : mais dans ce moment-ci, ce que tu as de mieux a faire est de pourvoir ta fille, et de ne plus penser au plus etourdi et au plus inconsequent de tous les hommes.
+SCENE DERNIERE. Le Baron, Lisidor, Araminte, Cidalise, Ismene.
+LE BARON.
+Oh ! Ca, ma chere Araminte ; voici le moment decisif. Je viens vous demander Lucile pour Monsieur Lisidor. Elle l'aime, il le merite ; et je vous declare que je me brouille a jamais...
+ARAMINTE.
+Vous arrivez tres a propos, Monsieur ; j'avais a vous dire qu'il ne tient plus qu'a vous d'etre mon gendre.
+LISIDOR.
+Qu'entends je ? Quel bonheur !
+LE BARON.
+Et votre Marquis... ?
+ARAMINTE.
+De grace, mon cher Baron, ne m'obligez point a rougir a vos yeux de ma ridicule prevention en sa faveur. Il m'a rendu service en m'apprenant ce que je devais penser de tous les gens de son espece. Soyez heureux, Lisidor. Vous, mes bonnes amies, obligez-moi de ne me parler jamais de cette aventure. Vous, Baron, apres le souper, je vous demande un moment de conversation. Vous verrez que mes vues peuvent sympathiser avec les votres, et que tout aveugle que vous croyez mon coeur par le tourbillon du monde, il peut encore etre eclaire par les conseils d'un homme estimable.
+LE BARON.
+Je n'en doutai jamais, ma chere Araminte ; je crois vous deviner, et j'en suis enchante ! Oui, j'ai aussi mes idees. Assurons le bonheur de votre fille. Songeons au notre, et terminons par un arrangement solide et raisonnable, tous ces petits evenements, qui sont le vrai tableau d'une soiree a la mode. 
+VAUDEVILLE.
+LE BARON.
+Serait-il vrai jeune bergere,
+Que mes soins n'ont pu vous charmer ?			[15]
+Que d'efforts il faut pour vous plaire !
+Il n'en faut pas pour vous aimer.
+Quand j'osai decouvrir ma flamme,
+J'attendais un sort plus heureux.
+Tout le feu qui brule mon ame			[20]
+Ne peut-il qu'animer vos yeux ?
+Amour dans ses bras tu reposes ;
+De son teint tu peins la blancheur.
+Je t'ai vu sur son sein de roses ;
+Je te cherche encor dans son coeur.			[25]
+
+	==================================================

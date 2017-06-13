@@ -1,0 +1,1507 @@
+********************************************************
+	DC.Title                  = ARLEQUIN JOURNALISTE, COMEDIE
+	DC.Author                 = CHAZET, DUPATY
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:15.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CHAZETDUPATY_ARLEQUINJOURNALISTE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+ARLEQUIN JOURNALISTE COMEDIE EN UN ACTE ET EN PROSEMELEE DE VAUDEVILLES.AN VI.
+Par les CC. DUPATY et CHAZET.
+	A PARIS, Chez le Libraire au Theatre du Vaudeville. A l'Imprimerie rue des Droits-de-l'Homme, No. 44.
+	Les exemplaires ont ete fournis a la Bibliotheque nationale.
+	Representee, pour la premiere fois, sur le Theatre du Vaudeville, le 22 Frimaire, an 6.
+	PERSONNAGES, ACTEURS Citoyen, citoyenne.
+LARONDE, Ecrivain public.	Chapelle.
+DELPHINE, sa fille.	Sara Lescot.
+ARLEQUIN.	Laporte.
+GILLES.	Carpentier. 
+BALOURD, Auteur.	Rosieres. 
+L'IMPRIMEUR.	Fichet. 
+LE PROTE.	Tiphaine. 
+DEUX COLPORTEURS.	Le Noble. Clairville
+La Scene est a Paris. Le Theatre represente, a droite, l'echoppe et la maison de La Ronde; a gauche, l'imprimerie du Journal l'Original.
+
+
+
+			ACTE UNIQUE
+
+
+SCENE PREMIERE. Deux Colporteurs.
+Le premier sort de l'imprimerie ; l'autre vient par le fond.
+LES DEUX COLPORTEURS. 
+Achetez du nouveau ! Achetez ! 
+PREMIER COLPORTEUR. 
+Ah ! C'est toi ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons, courons, amis, courons, 
+La vitesse est utile. 
+Plus nous irons, plus nous vendrons. 
+Courons d'un pas agile 
+Pour vendre nos journaux ; courons, 			[5]
+Courons toute la ville, 
+Courons, 
+Courons toute la ville. 
+SECOND COLPORTEUR. 
+Pour tous les gouts j'ai des journaux, 
+Ainsi que des nouvelles ; 			[10]
+Car nous savons faire a propos 
+De nouvelles nouvelles, 
+Et meme nous donnons jusqu'aux, 
+Jusqu'aux vieilles nouvelles, 
+Jusqu'aux, 			[15]
+Jusqu'aux vieilles nouvelles. 
+PREMIER COLPORTEUR. 
+Pronons bien fort tous nos journaux, 
+Deja plus d'un chancelle ; 
+Je crains surtout pour les nouveaux... 
+Dans la saison nouvelle, 			[20]
+On voit souvent tomber jusqu'aux, 
+Jusqu'aux feuilles nouvelles, 
+Jusq'aux, 
+Jusqu'aux feuilles nouvelles. 
+SECOND COLPORTEUR.
+Voici du nouveau ; achetez !
+PREMIER COLPORTEUR. 
+Les tiens ne sont pas bons.
+SECOND COLPORTEUR.
+Les tiens ne valent rien.
+PREMIER COLPORTEUR. 
+Les tiens sont mauvais.
+TOUS DEUX. 
+Je te dis que si ; je te dis que non... Achetez !.... Achetez !... 
+PREMIER COLPORTEUR. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici l'etonnante Trompette, 			[25]
+SECOND COLPORTEUR.
+Qui ne fait pas le moindre bruit. 
+PREMIER COLPORTEUR. 
+Puis, voici l'echo.... 
+SECOND COLPORTEUR.
+Qui repete 
+Ce que personne n'a dit. (bis.) 
+PREMIER COLPORTEUR. 
+L'Observateur ! 
+SECOND COLPORTEUR.
+Qui n'y voit goutte. 
+PREMIER COLPORTEUR. 
+La Balance ! 
+SECOND COLPORTEUR.
+Un peu de cote. 			[30]
+PREMIER COLPORTEUR. 
+Le Tableau ! 
+SECOND COLPORTEUR.
+Ce n'est qu'une croute. 
+PREMIER COLPORTEUR. 
+Et le Postillon ! 
+SECOND COLPORTEUR.
+Mal monte. (bis.) 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PREMIER COLPORTEUR. 
+J'ai le Courrier.... 
+SECOND COLPORTEUR.
+Qui reste en place. 
+PREMIER COLPORTEUR. 
+Le Fanal ! 
+SECOND COLPORTEUR.
+Il est un peu noir. 
+PREMIER COLPORTEUR. 
+J'ai le Thermometre ! 
+SECOND COLPORTEUR.
+A la glace. 			[35]
+PREMIER COLPORTEUR. 
+Le Point du Jour ! 
+SECOND COLPORTEUR.
+Qu'on voit le soir. (bis.) 
+PREMIER COLPORTEUR. 
+Le Mercure ! 
+SECOND COLPORTEUR.
+Qui bat d'une aile. 
+PREMIER COLPORTEUR. 
+L'Esprit des Journaux ! 
+SECOND COLPORTEUR.
+Sans esprit. 
+PREMIER COLPORTEUR. 
+Puis, le Rapporteur ! 
+SECOND COLPORTEUR.
+Peu fidele. 
+PREMIER COLPORTEUR. 
+Enfin l'Acquereur ! 
+SECOND COLPORTEUR.
+Sans credit. (bis). 			[40]
+PREMIER COLPORTEUR. 
+Journaux a peine connus ; parlons des miens.... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)D'abord mon journal, 
+C'est l'Original : 
+Je vends aussi des Chroniques. 
+J'ai l'Indicateur, 
+J'ai le Narrateur. 			[45]
+SECOND COLPORTEUR.
+Et combien de Veridiques ? 
+PREMIER COLPORTEUR. 
+Je n'en ai plus.... mais.... 
+J'ai le Frondeur ! 
+Quel Raisonneur, 
+Ah ! peste ! 			[50]
+Le Babillard ! 
+C'est un gaillard 
+Fort leste. 
+Puis l'Avertisseur..... 
+Encore un menteur !... 			[55]
+Venez m'acheter mon reste.... 
+TOUS DEUX.
+Achetez, voila du nouveau !... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE II. Le Colporteur, Delphine.
+LE COLPORTEUR.
+Il faut que j'avertisse une petite demoiselle qui m'achete regulierement l'Original... Mamzelle ma pratique ? 
+DELPHINE, a la fenetre. 
+C'est vous ! Je descends.... 
+SCENE III.
+LE COLPORTEUR, seul. 
+C'est une jolie personne et de consideration que cette pratique-la, mamzelle Delphine La Ronde, fille d'un ecrivain public ! V'la ce qui s'appelle une famille consequente dans un quartier ! Son pere vous a une fiere main ! 
+SCENE IV. Le Colporteur, Delphine.
+LE COLPORTEUR.
+Mamzelle ! V'la le journal ; il est tout frais. 
+DELPHINE.
+Eh bien ! Comment va la vente ? 
+LE COLPORTEUR.
+Ah ! Tout doucement, mamzelle ! Nous ne sommes dans le metier que depuis la paix. Ah ! Que n'y etions nous pendant la guerre.... Jarni ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Alors j'aurions vendu bien mieux, 
+Comme vous pouvez croire. 
+Partout de nos combats fameux 
+On achetait l'histoire ; 			[60]
+Et speculant sur les exploits 
+Des enfants de la gloire ; 
+J'aurions fait fortune en trois mois 
+A deux sous par victoire. 
+D'ailleurs, la vente depend de tant de choses !... 
+DELPHINE.
+De quoi ? 
+LE COLPORTEUR.
+Du temps qui fait, et puis du titre... Quand il y a de grands evenements, de grands decrets, not'bourgeois dit qu'il y a du gain. Oh ! Le titre, v'la le principal ; et quand j'en trouvons un bon, je le commandons, queuquefois, pour le lendemain... C'est ca qui fait tout... Vous ne voulez pas d'autres journaux ? 
+DELPHINE.
+Celui-la seul m'interesse. 
+LE COLPORTEUR.
+Adieu, mamzelle ! V'la du nouveau ! Achetez l'Original !... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V.
+DELPHINE, seule. 
+C'est pourtant Arlequin qui fait ce journal ; et pourquoi ? Parce qu'il sait que mon pere ne veut me donner qu'a un homme de lettres. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Du choix brillant qu'on me destine, 			[65]
+Jaloux de meriter l'honneur ; 
+Pour avoir sa chere Delphine, 
+Mon Arlequin s'est fait auteur. 
+A ses prompts succes je dois croire, 
+Puisque je le vois en ce jour 			[70]
+Suivre le sentier de la gloire, 
+Pour voler au temple d'Amour. 
+Il reussira, mon Arlequin, pourvu que Monsieur Gilles n'aille pas l'emporter sur lui aupres de mon pere. 
+SCENE VI. Arlequin, Delphine.
+ARLEQUIN, sort du bureau sans voir Delphine. 
+Depuis vingt-quatre mortelles heures, je n'ai pas vu ma bonne amie, ma chere Delphine !... J'ai mis tout mon esprit dans le numero d'hier ; et si je ne la vois pas aujourd'hui ! Ah !... 
+DELPHINE.
+Ah !... 
+ARLEQUIN.
+Bonjour, ma bonne amie : tu tiens deja le journal ?... 
+DELPHINE.
+Il est charmant. Comment fais-tu donc ?... 
+ARLEQUIN.
+C'est un petit revenant - bon de notre amour. Je t'aime, et me voila tout de suite un homme.... Oui, un homme de merite... Pourtant ton monsieur pere, qui a des prejuges, ne veut pas que sa fille epouse Arlequin, parce qu'il pretend que je n'ai rien.... Il a tort. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il faut avoir quelque chose, 
+C'est la loi que l'on impose 
+A ton futur epoux. 			[75]
+J'ai ton amour : or donc, entre nous, 
+Je sens que j'ai quelque chose. (ter.) 
+DELPHINE.
+Mon c?ur est bien a toi ; mais en sommes-nous plus avances ? Qu'y gagnes-tu ? 
+ARLEQUIN.
+Comment, mademoiselle, ce que j'y gagne ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)D'abord, en gagnant ton amour, 
+J'ai bien gagne, ma chere ; 
+Mon esprit gagne chaque jour, 			[80]
+En gagnant l'art de plaire. 
+Ma plume gagne en ecrivant ; 
+Et je pourrai, j'espere, 
+Gagner, en gagnant de l'argent, 
+L'aveu de ton cher pere. 			[85]
+DELPHINE.
+Mais ta fortune s'accroit-elle autant que notre amour ?... 
+ARLEQUIN.
+Pas si vite... Attendu que Monsieur Gilles est le proprietaire de la propriete du journal, et que je n'en suis que le redacteur. 
+DELPHINE.
+C'est pourtant toi qui fais tout. 
+ARLEQUIN.
+Gilles a fourni tout l'argent... 
+DELPHINE.
+Ne fournis-tu pas tout l'esprit ?...
+ARLEQUIN.
+Sur ce point-la, Monsieur Gilles ne peut pas faire de fonds ; je suis un auteur pauvre, vois-tu ?... Mais lui, il ne serait jamais qu'un pauvre auteur... Ce n'est pas qu'il ne t'aime. Oh ca !... Mais ce n'est pas d'aimer qui donne de l'esprit ; au contraire, ca rend bete.... Ce qui en donne c'est d'etre aime : aussi...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dans tes yeux j'ai puise l'esprit : 
+Le doux regard d'une maitresse, 
+Quand c'est le bonheur qu'on y lit, 
+Donne du trait, de la finesse. 
+Mais au moins.... 			[90]
+Si l'esprit se prend dans tes yeux, 
+Lorsque l'on y voit sa conquete, 
+Pres de toi, que Gille amoureux 
+Ne cesse jamais d'etre bete...
+Pres de toi, que Gille amoureux 			[95]
+Ne cesse jamais d'etre bete...
+DELPHINE.
+Va, sois sur que Gille amoureux 
+Pres de moi sera toujours bete. 
+Va, sois sur que Gille amoureux 
+Pres de moi sera toujours bete. 			[100]
+ARLEQUIN.
+Tu m'enchantes !... Malheureusement je n'ai encore acquis que de l'honneur, et cela ne suffit pas... 
+DELPHINE.
+J'entends, je crois, mon pere, 
+ARLEQUIN.
+Je viendrai un jour le surprendre avec un gros sac d'ecus, et nous verrons s'il resistera a mes bonnes qualites.... Adieu, ma chere Delphine ! 
+DELPHINE.
+Rentre.... 
+ARLEQUIN.
+Adieu... Adieu, ma charmante Ronde, ma petite bonne amie... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DELPHINE.
+Pars donc.... Le voici.... 
+SCENE VII. Delphine, La Ronde.
+LA RONDE.
+Que faites-vous la ?... 
+DELPHINE.
+Je viens d'acheter le journal. 
+LA RONDE, le prend. 
+Et moi, je vais le lire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Bonne lecture, 
+De tout un journal met au fait. 
+Plus d'un nouveau riche figure, 
+Sans jamais, peut etre, avoir fait 
+D'autre lecture. 			[105]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Rentrez... 
+DELPHINE.
+Deja...
+LA RONDE.
+Je vous devine. Vous ne cherchez a sortir que pour voir, Monsieur Arlequin... Je vous declare que je ne souffrirai ni cet amour ni ce mariage...
+DELPHINE.
+Mais... 
+LA RONDE.
+La fille de Monsieur de La Ronde, expert dans les verifications, ci-devant syndic de la communaute des ecrivains, n'est pas faite pour epouser un homme sans etat, sans fortune : cependant je veux faire ton bonheur. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je te promets, ma chere, 
+Mari 
+Choisi, 
+De sorte a te plaire, 
+Et digne de ton pere ; 			[110]
+Fameux par ses ecrits, 
+Ses recits, 
+Son esprit, 
+Son credit. 
+Songe qu'un ecrivain 			[115]
+En gros ainsi qu'en fin, 
+Qui fait, pour tout le monde, 
+Billets, 
+Placets, 
+En batarde, en ronde, 			[120]
+Ne peut, sans qu'on le fronde, 
+Pour l'honneur du metier, 
+S'allier 
+Qu'a des gens 
+A talents. 			[125]
+Aussi je te destine au proprietaire de ce journal. Cet homme, a en juger par son ouvrage, est ce qu'il me faut.
+DELPHINE.
+Ciel !...
+LA RONDE.
+Je ne le connais pas, parce qu'il garde l'anonyme ; mais je le decouvrirai ; et s'il veut de toi, c'est arrange... Monte. 
+DELPHINE.
+Voulez-vous d'abord que je vous aide a ouvrir votre boutique ? 
+LA RONDE.
+Qu'appellez-vous, ma boutique ?... Apprenez que la boutique d'un homme de lettres est un bureau... Mettons-nous a l'ouvrage.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Arlequin, Delphine, La Ronde, dans son bureau.
+ARLEQUIN.
+St, st, est-il parti ?..... 
+DELPHINE.
+Vite, deux mots.
+ARLEQUIN.
+Quoi ! 
+DELPHINE.
+On me destine au proprietaire de ton journal.... 
+ARLEQUIN.
+Ah ! Sangodemi, je n'en suis que le redacteur. 
+DELPHINE.
+Que faire ? 
+ARLEQUIN.
+Sait-on que Gilles est le proprietaire ? 
+DELPHINE.
+Non.
+ARLEQUIN.
+Tant mieux ; il me vient une idee. 
+DELPHINE.
+Comment ! 
+ARLEQUIN.
+Je veux...
+DELPHINE.
+Paix. Il ouvre.... 
+LA RONDE.
+Encore ici ? Vous attendez surement que Monsieur Arlequin vienne...
+DELPHINE.
+Il ne viendra pas.... 
+ARLEQUIN.
+Il est tout venu... Il ne sait pas que je suis la. 
+LA RONDE.
+Montez donc...
+DELPHINE.
+Je prends l'air. 
+ARLEQUIN.
+Oui, l'air du bureau...
+LA RONDE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous prenez l'air ? Ah ! J'y consens ; 
+Mais l'air est malsain dans la rue. 
+DELPHINE, regardant Arlequin.
+C'est qu'en ces lieux, en meme-temps, 
+On a le plaisir de la vue... 
+LA RONDE.
+Ah ! Vous voulez prendre l'air et voir tout-a-la-fois. 
+Montez, je sais ce qu'il vous faut ; 			[130]
+Vous satisfaire est chose aisee. 
+On peut, en prenant l'air la-haut, 
+Tout voir par la croisee. 
+On peut, en prenant l'air la-haut, 
+Tout voir par la croisee. 			[135]
+ARLEQUIN, DELPHINE.
+Montons, nous pourrons de la-haut, 
+Tout voir par la croisee. 
+Montons, nous pourrons de la-haut, 
+Tout voir par la croisee. 
+DELPHINE.
+J'obeis. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Je monte aussi. 
+LA RONDE.
+Allez, vous serez plus commodement a la fenetre. 
+ARLEQUIN.
+Voila ce qui s'appelle des attentions !... Un pere qui est aux petits soins.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX.
+LA RONDE, seul. 
+Grace a Dieu, mon etat devient meilleur de jour en jour ; je n'y puis plus suffire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tout le jour a travailler 			[140]
+Se passe et se consume ; 
+A peine, dans mon metier, 
+Ai-je le tems de tailler 
+Ma plume. 
+Ma plume. 			[145]
+Ma plume. 
+Ce sont les petitions surtout qui me font du bien : je vis de	petitions.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Celui qui ne possede rien, 
+Se plaint d'un si mince partage ; 
+Un autre a-t-il un peu de bien, 
+Il veut en avoir davantage. 			[150]
+Aussi pres de nos comites, 
+Des postulants la foule est grande ; 
+On demande de tous cotes, 
+Et voila... ce que je demande. 
+Examinons nos papiers. 			[155]
+SCENE X. La Ronde, Gilles.
+GILLES.
+C'est donc ici qu'habite la maison de mademoiselle La Ronde, et cependant je ne puis jamais lui parler... Elle vous a une maniere si singuliere de vous regarder... qu'aussitot que je m'approche d'elle, je n'ai plus la parole a la main... Ecrivons-lui... Ecrire ! C'est fort bien ; mais c'est que je ne suis fort ni sur l'ecriture, ni sur l'orthographe... Comment faire !... Pardi ! Adressons nous a monsieur son pere, qui est au fait de ca...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voyons, je m'en vais lui dicter, 
+Pour sa fille, un billet bien tendre ; 
+Il ne pourra pas se douter 
+Du piege que je vais lui tendre. 
+D'ailleurs, moi, puisque chacun dit 			[160]
+Que c'est par les lettres qu'il brille, 
+Je veux voir comment il ecrit 
+Les lettres de famille. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur ! 
+LA RONDE.
+Monsieur ! 
+GILLES.
+Vous etes ecrivain ? 
+LA RONDE.
+Mon enseigne le dit. 
+GILLES.
+Vous ecrivez de tout ? 
+LA RONDE.
+Generalement. 
+GILLES.
+Tous les genres ? 
+LA RONDE.
+Quelconques. 
+GILLES.
+Je vous demanderai un billet doux. 
+LA RONDE.
+Volontiers. 
+GILLES.
+Ce n'est pas que je ne sache ecrire ; mais je ne veux pas qu'on voie mon ecriture. 
+LA RONDE.
+Voulez-vous entrer ? 
+GILLES.
+Je suis fort bien la. 
+LA RONDE.
+Quelle ecriture voulez-vous ? 
+GILLES.
+Comment, laquelle ! 
+LA RONDE.
+Nous en avons de plusieurs sortes. 
+GILLES.
+Ma foi, ca m'est egal, pourvu que ce soit de l'ecriture bien ecrite. 
+LA RONDE.
+Voulez-vous de la batarde ? 
+GILLES.
+Ah ca, Monsieur, pas de sottise... Cet autre, avec sa batarde ! 
+LA RONDE.
+Aimez-vous mieux la ronde ? 
+GILLES.
+Pardienne, si je l'aime.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Est-ce qu'il saurait quelque chose ? 
+LA RONDE.
+En ce cas, je vais vous donner la ronde. Laquelle preferez-vous, la petite ou la grande ? 
+GILLES.
+La petite ronde, s'il vous plait ; j'aime la petite ronde a la folie. 
+LA RONDE.
+Comme vous vous passionnez pour mon ecriture. 
+GILLES, a part. 
+Tiens, il prend sa fille pour une ecriture. 
+LA RONDE, montrant un exemple. 
+C'est qu'elle est bien moulee. 
+GILLES.
+Vous avez bien travaille ca. 
+LA RONDE.
+Voulez-vous que je compose, ou dictez-vous ? 
+GILLES.
+Dicter ! C'est mon fort. 
+LA RONDE.
+J'y suis. 
+GILLES.
+Attendez que je me reveille... C'est long a venir ; mais quand je vous tiens une fois le premier mot, je vous defile ca droit, currente calamo.
+LA RONDE.
+Y etes-vous ? 
+SCENE XI. Gilles, Arlequin, Le Ronde, Delphine.
+ARLEQUIN, a la fenetre. 
+M'y voila... 
+DELPHINE, a la fenetre. 
+Et moi aussi. 
+GILLES.
+Une minute. 
+ARLEQUIN.
+J'ai deja un plan.... 
+DELPHINE.
+Quoi ? 
+ARLEQUIN.
+Ah ! J'apercois Gilles chez ton pere. 
+LA RONDE.
+Etes-vous prets ? 
+GILLES.
+Je tiens tout. 
+ARLEQUIN.
+Il lui fait ecrire une lettre. 
+DELPHINE.
+Chut. 
+GILLES.
+Ecrivez... Mademoiselle. 
+LA RONDE.
+Mademoiselle. 
+ARLEQUIN.
+C'est pour une demoiselle. 
+GILLES.
+De depuis l'instant fortune, du moment ousque j'ai ete assez heureux pour avoir l'agrement de vous entrevoir au petit Coblentz, je me sens, a l'encontre de vous, une passion, et comme une maniere de feu qui me parcourt.
+ARLEQUIN.
+C'est une lettre d'amour. 
+LA RONDE.
+Pas si vite, on ne peut pas vous suivre. 
+GILLES.
+Impossible d'aller plus doucement. Quand l'esprit sort de chez moi, c'est comme l'eclair... et comme une maniere de feu qui me parcourt... Je vous prie donc de croire a l'estime proportionnee a la consequence de vos charmes que j'ai pour vous, et dont je vous demande une reponse cathe... cathe... catho... Mon dieu, que je suis bete !.... 
+LA RONDE.
+Que je suis bete !...
+GILLES.
+N'ecrivez donc pas cela.... C'est cathe.... cathe.... cathegorique, dont je vous demande une reponse cathegorique, pour me declarer a monsieur votre pere avec lequel j'ai l'honneur d'etre, et cetera ... absolument a votre service. Gilles.
+DELPHINE.
+Je crois que la lettre est pour moi. 
+ARLEQUIN.
+Oh ! Sangodemi, le coquin ! 
+LA RONDE.
+Tenez, monsieur, entre nous, votre billet n'est pas ce qu'il y a de mieux ; je vais en dicter un autre, l'ecrire, et vous repeterez... 
+ARLEQUIN.
+Parbleu ! Nous ausssi. 
+LA RONDE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour toi, du plus tendre amour, 
+Mon c?ur brule sans detour. 			[165]
+Sois sensible a ma tendresse, 
+Et nous pourrons, avant peu, 
+D'un pere obtenir l'aveu 
+Sans user de finesse
+En usant de finesse. 			[170]
+LA RONDE.
+Voila bien le vrai genre de La Ronde : comme il est attrape ! 
+GILLES.
+Oh ! Comme il est attrape ! 
+DELPHINE.
+Lui aussi est attrape. 
+ARLEQUIN.
+Ils sont attrapes. 
+LA RONDE.
+L'adresse ? 
+GILLES.
+Je m'en charge.... Voila votre argent. 
+LA RONDE.
+Monsieur. 
+GILLES.
+Je reprendrai ca sur la dot. 
+ARLEQUIN.
+Ton pere s'en va. Je descends pour executer mon dessein. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA RONDE.
+Portons en ville mes expeditions.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XII.
+GILLES.
+Voila ce qui s'appelle un vrai tour d'amoureux... Je verrai a faire remettre ma lettre : mais voyons d'abord Arlequin pour la composition du journal ; c'est l'essentiel.
+SCENE XIII. Arlequin, Gilles.
+ARLEQUIN, a part. 
+Il ne sait rien faire : commencons par le charger de la besogne. 
+GILLES.
+Ah ! Te voila, mon cher Arlequin ; je suis certainement tres content de ta redaction ; mais, pour dieu, mon ami, de la prudence !... Tu dis trop de mal de la piece nouvelle ; un auteur peut trouver cela mauvais... On ne sait pas...
+ARLEQUIN.
+Monsieur Gilles, il faut savoir parler vrai. 
+GILLES.
+Je tremble. 
+ARLEQUIN.
+Je conviens que votre etat est perilleux, et que les proprietaires sont exposes tous les jours a se faire assommer... Mais dusse-je vous mettre tous les mauvais auteurs a dos... Je pretends.... 
+GILLES.
+Quelle extravagance ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Un imprudent qui fronde 
+Paye cher son esprit : 
+En flattant tout le monde, 
+On se met en credit ; 
+Et c'est ainsi 			[175]
+Qu'on peut toujours s'epargner du souci. 
+ARLEQUIN.
+Ainsi, a votre compte. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il faut imiter, je comprends, 
+Ces journalistes fort prudents, 
+Qui, passant pour de bons apotres, 
+Flatteurs honnetes et polis, 			[180]
+N'ont jamais donne leur avis, 
+Sans songer a celui des autres. 
+Du reste, si vous avez peur, vous n'avez rien a craindre pour aujourd'hui ; le journal n'est pas fait, et ce n'est pas moi qui le ferai. 
+GILLES.
+Pourquoi ? 
+ARLEQUIN.
+Je suis triste. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous savez qu'un lecteur pretend 
+Qu'avant tout on le fasse rire ; 
+Et pour lui plaire, il faut souvent 			[185]
+L'amuser, plutot que l'instruire. 
+Or, j'ai des vapeurs aujourd'hui, 
+C'est la l'obstacle qui m'arrete : 
+On a peur d'inspirer l'ennui 
+Quand on a du noir dans la tete. 			[190]
+GILLES.
+Mais comment ferai-je ? 
+ARLEQUIN.
+Comme je fais quand vous ne faites rien. 
+GILLES.
+Allons donc... Moi, faire un journal !... Mais sais-tu que c'est tres difficile ? 
+ARLEQUIN.
+Il faut beaucoup de connaissances. 
+GILLES.
+Pour des connaissances, je n'en ai pas mal, et qui s'abonneront. 
+ARLEQUIN.
+Celles-la sont tres utiles ; mais je parle de la science... Il faut savoir rajeunir les nouvelles, les tourner, les arranger, leur donner un air de vraisemblance, combiner les evenements, les dates : voila le talent ; allons !... 
+GILLES.
+Je ne sais rien de neuf. 
+ARLEQUIN.
+Eh bien, on invente, on prend des villes, on gagne des batailles, on fait marcher les armees, on annonce la conquete des Pays-Bas, la prise de Mantoue, et puis mille autres petites nouveautes...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)A Paris on date de Londres
+Le grand renvoi de monsieur Pitt. 
+Par soi-meme on se fait repondre 
+A des lettres que l'on s'ecrit ; 
+On s'attaque pour se defendre, 			[195]
+Par-tout on extrait de l'esprit, 
+Et l'on a grand soin de repandre 
+Les on dit qu'on n'a jamais dit. 
+GILLES.
+Tu ne peux donc rien faire aujourd'hui ? 
+ARLEQUIN.
+Non. 
+GILLES.
+Eh bien, heureusement voici monsieur Balourd qui va nous tirer d'affaire, et qui nous apporte des morceaux. 
+ARLEQUIN, a part. 
+Oui, oui, tu crois ? Ah ! Tu vas voir. 
+SCENE XIV. ARLEQUIN, GILLES, BALOURD.
+GILLES.
+Que nous apportez-vous, monsieur Balourd ? 
+BALOURD.
+Dix pages.... C'est long.... mais c'est beau. 
+GILLES.
+Imprimons vite ! 
+ARLEQUIN.
+Un moment. 
+BALOURD.
+Prenez lecture. 
+GILLES, montrant Arlequin. 
+Donnez a monsieur, qui a un tres-bel organe. 
+ARLEQUIN.
+Je suis trop enroue. 
+GILLES.
+Lis a mi-voix. 
+ARLEQUIN.
+J'ai mal aux yeux. 
+BALOURD, a Gilles. 
+En ce cas, lisez... 
+GILLES.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Faisons semblant... Voyons. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)BALOURD.
+Lisez haut. 
+ARLEQUIN.
+Je n'entends point. 
+GILLES.
+Le taquin !... J'ai parcouru... C'est gentil... 
+BALOURD.
+Gentil !...
+ARLEQUIN.
+Ah ! Gentil ! Un morceau de Monsieur Balourd... C'est trop long. 
+GILLES.
+Il y en aura pour deux fois. 
+ARLEQUIN.
+C'est egal. 
+GILLES.
+Otons la fin. 
+BALOURD.
+Oter mon denouement ! 
+ARLEQUIN.
+Ca ne se peut pas... 
+GILLES.
+Alors otez le commencement. 
+BALOURD.
+Y pensez-vous ? Commencer, finir par le milieu mais ca n'a pas d'exemple.
+ARLEQUIN.
+Pardonnez-moi ; on a fait tant de choses qui n'avaient ni queue ni tete... Mais ca n'est pas une raison pour oter votre fin et votre commencement : j'aimerais mieux oter tout.
+BALOURD.
+Je vois que ce morceau ne vous convient pas ; je vais vous donner de la poesie, un distique.
+GILLES.
+Qu'est-ce que c'est que ca ? 
+BALOURD.
+Un poeme en deux vers. 
+ARLEQUIN.
+C'est de l'epique. 
+BALOURD.
+Ecoutez... 
+Que la reconnaissance a d'invincibles droits 
+Sur les c?urs... francs, bons, doux... hauts, purs, vifs... chauds et droits. 			[200]
+Hein !... 
+GILLES.
+Il n'y a que ca. 
+ARLEQUIN.
+Dites que c'est trop court. 
+GILLES.
+Si l'on pouvait allonger un peu les vers. 
+BALOURD.
+Allonger mes vers !... 
+GILLES.
+C'est que ca ne fera que deux lignes, et je voudrais que ca fasse au moins un quatrain. 
+BALOURD.
+Vous ne voulez donc pas de mes deux vers ? 
+ARLEQUIN.
+Vous voyez bien que Monsieur Gilles les trouve trop courts. 
+BALOURD.
+Trop longs, trop courts, point de commencement, point de fin : vous moquez-vous de moi ? 
+GILLES.
+Il se met en colere. 
+ARLEQUIN.
+Je vais arranger ca... ne vous emportez pas... Monsieur Gilles n'a voulu que s'amuser. 
+BALOURD.
+S'amuser a mes depens. 
+GILLES.
+Parle-lui donc ? 
+ARLEQUIN.
+Soyez tranquille... Monsieur, il est bien fache d'avoir trouve votre ouvrage mediocre... C'est qu'il a le gout comme ca. 
+BALOURD.
+Mediocre, moi ! Me trouver mediocre !... 
+GILLES.
+Il se fache ! 
+ARLEQUIN.
+Attendez... Monsieur, pardonnez, il le trouve tout-a-fait mauvais... mais par politesse...
+BALOURD.
+Comment, mauvais !... Apprenez, Monsieur, que je me soucie fort peu de votre jugement... que vous n'etes pas en etat de m'apprecier !... 
+ARLEQUIN.
+C'est vrai... 
+BALOURD.
+Que vous etes un ignorant. 
+ARLEQUIN.
+C'est vrai...
+BALOURD.
+Un fat.
+ARLEQUIN.
+C'est vrai. Il faut bien dire comme lui... 
+GILLES.
+Oui. 
+BALOURD.
+Et que je saurai m'en venger... 
+GILLES.
+Non... 
+BALOURD.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! morbleu, quelle impudence ! 
+Et je pourrais souffrir en silence 
+Une pareille insolence ? 
+Morbleu ! non, 
+J'en veux avoir raison. 			[205]
+GILLES.
+Mais permettez donc ?
+BALOURD.
+Bientot, bientot, ma vengeance 
+Prouvera, 
+Que de ma science 
+On fait plus de cas en France. 
+Ailleurs, oui, l'on m'imprimera. 			[210]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XV. Arlequin, Gilles.
+ARLEQUIN, a part.
+Ah ! La bonne circonstance ! 
+Il faut en profiter en silence ; 
+Car il croit que de l'offense, 
+Tout de bon, 
+Il veut avoir raison. 			[215]
+GILLES, a part. 
+Quelle affreuse circonstance ! 
+Comment faire ?... De cette offense 
+Il voudra, dans sa vengeance, 
+Tout de bon, 
+Me demander raison. 			[220]
+ARLEQUIN, a part. 
+Profitons de sa frayeur, et courons donner le mot aux Colporteurs et aux autres... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVI.
+GILLES, seul. 
+Monsieur Arlequin, avec votre obstination a ne pas lire, voyez... Oh ciel ! Il est parti, rien de fait ! Un auteur en colere ! Ma personne en danger !... Ou sera-t-il alle ? Vite, cherchons-le : il faudra bien qu'il travaille... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVII. Arlequin, Le Prote, L'Imprimeur, LE Colporteur.
+ARLEQUIN.
+Monsieur l'Imprimeur, monsieur le Prote ; et toi, mon ami, vous voulez donc bien me servir ?... 
+TOUS TROIS. 
+Certainement. 
+L'IMPRIMEUR.
+Il me chicane toujours pour la depense. 
+LE PROTE.
+Moi, pour l'impression. 
+LE COLPORTEUR.
+Moi, pour la recette. 
+ARLEQUIN.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous ferez donc tout ce qu'il faudra faire ? 
+LE PROTE.
+Qui mieux que nous, Monsieur, peut vous servir ? 
+L'IMPRIMEUR.
+Un Imprimeur est homme a caractere. 
+LE COLPORTEUR.
+Un Colporteur est homme a bien mentir. 
+ARLEQUIN.
+Je crois pouvoir, s'ils y mettent du zele, 			[225]
+Dans mes projets, des ce soir, reussir. 
+LES TROIS. 
+De notre part, s'il ne faut que du zele, 
+Dans vos desseins, vous allez reussir. 
+L'IMPRIMEUR.
+De mon talent je donnerai des preuves. 
+LE COLPORTEUR.
+Pour plus d'un jour je saurai l'effrayer. 			[230]
+LE PROTE.
+Un Prote est fait a faire des epreuves, 
+Et vous verrez si je sais mon metier. 
+ARLEQUIN.
+Puisque je puis compter sur votre zele, 
+Me voila donc certain de reussir. 
+LES TROIS. 
+Comptez sur nous, a vos lecons fideles, 			[235]
+D'attraper Gilles, on se fait un plaisir. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVIII. Arlequin, Delphine.
+DELPHINE, entr'ouvrant la porte. 
+Eh bien ! 
+ARLEQUIN.
+Viens. 
+DELPHINE.
+Quel est ton projet ? 
+ARLEQUIN.
+Je vais devenir le proprietaire. 
+DELPHINE.
+Vrai ?... 
+ARLEQUIN.
+Tu sauras tout... L'heure presse ; il faut bien vite que j'extraie tout ces papiers pour faire la feuille... 
+DELPHINE.
+Que de lettres ! 
+ARLEQUIN.
+En voila de tous les pays. 
+DELPHINE.
+Et tu recois tout cela ? 
+ARLEQUIN.
+Il le faut bien. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Chaque journaliste habile, 
+En tous lieux a des agents. 
+On ecrit de chaque ville 
+Par des couriers diligens. 			[240]
+Tous les jours en tres-bon style 
+Les depeches de Strasbourg, 
+Bale, Madrid, Naples, Lille, 
+Rome, Bourg, 
+Philisbourg, 			[245]
+De Luxembourg, 
+Magdebourg, 
+Petersbourg, 
+De Fribourg, 
+De Louisbourg, 			[250]
+De Hambourg, 
+De Limbourg. 
+D'Edimbourg 
+Et d'Ausbourg 
+Arrivent a la file. 			[255]
+DELPHINE.
+Un journaliste est donc un homme universel ? 
+ARLEQUIN.
+Il a des correspondances partout... D'abord... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Correspondances litteraires 
+Avec messieurs les gens d'esprit ; 
+Puis, avec messieurs les libraires, 
+Correspondance de profit. 
+DELPHINE.
+En voila de bonnes. 
+ARLEQUIN.
+Voici les mauvaises. 
+Correspondance d'ecritures, 			[260]
+Mais non d'esprit avec les sots ; 
+Puis correspondances d'injures 
+Avec la plupart des journaux. 
+Nous avons aussi des livres a annoncer. Tiens : voila un nouveau roman dont il faudra faire l'analyse. 
+DELPHINE.
+J'espere au moins qu'il ne ressemble pas a ces nouveaux romans anglais, si noirs... si effrayants... 
+ARLEQUIN.
+Ah ! Ne m'en parle pas, ils me font encore peur !... 
+DELPHINE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dis-moi pourquoi tous ces romans 
+N'offrent que tableaux sombres, 			[265]
+Des monstres et des revenants, 
+Des sorciers et des ombres, 
+Spectres ambulants, 
+Fantomes sanglants 
+Et demons effroyables ?... 			[270]
+ARLEQUIN.
+C'est que leurs auteurs 
+Et leurs traducteurs 
+Ont de l'esprit en diables. 
+Voici maintenant des articles communiques, ou mettrons-nous cela ?... Voyons... "Dissertation sur les fortunes" !... 
+DELPHINE.
+C'est tout simple : a l'article Changement de domicile. 
+ARLEQUIN.
+Et ce petit traite sur les "Opinions". 
+DELPHINE.
+Oh ! Cela va de droit a l'article "Varietes". 
+ARLEQUIN.
+Ce morceau sur les "Ecrivains du jour". 
+DELPHINE.
+Article "Melange3. 
+ARLEQUIN.
+Oh ! Pour cet "Essai sur la Morale et l'Innocence", je le placerai aux "Effets perdus... Recompense honnete a qui en donnera des renseignements". 
+DELPHINE.
+Tu penses donc bien mal de notre siecle ?... 
+ARLEQUIN.
+Oh ! Il n'y a pas de quoi... Tiens, voila une jeune personne qui me prie de l'afficher pour avoir un mari.
+DELPHINE.
+Bon moyen ! 
+ARLEQUIN.
+Excellent... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Plus d'une Grecque d'aujourd'hui, 
+Par sa conduite peu cachee, 			[275]
+Tout en affichant son mari, 
+Depuis l'hymen s'est affichee. 
+Apres l'hymen, encore passe ! . . . . 
+Mais fille qui s'en va cherchant 
+Epoux qui, sous ses lois, s'engage, 			[280]
+N'en trouve guere en s'affichant 
+Avant le mariage. 
+Ah ! Ceci est un article sur un certain bal d'hier. . . . 
+DELPHINE.
+Quoi ! Vas-tu, comme tant de journalistes, dire aussi du mal des femmes, les attaquer pour un rigodon, un menuet, un balance ?...
+ARLEQUIN.
+Oh ! Ce ne serait pas poli... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et puis je les aime trop pour cela... 
+DELPHINE.
+Cette raison-la ne vaut rien. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tour-a-tour detracteurs, amants, 
+Les hommes nous placent sans cesse 
+Entre la critique et l'encens, 			[285]
+Entre la haine et la tendresse. 
+Messieurs, suivez donc mieux nos lois, 
+Abjurez vos plaintes frivoles ; 
+Et, par respect pour votre choix, 
+Ne maltraitez pas vos idoles. 			[290]
+ARLEQUIN.
+Ne crains pas qu'un sexe charmant 
+Soit l'objet de mes epigrammes ; 
+On doit attaquer le mechant ; 
+On ne doit que chanter les femmes. 
+Pour les sots et les intrigants, 			[295]
+Pour tous les amis du desordre, 
+Je reserve mes traits piquants, 
+Et j'ai bien assez de quoi mordre. 
+Il faut que je fasse encore un petit article "Spectacle" ; car j'ai vu jouer hier Contat... 
+DELPHINE.
+Ah ! Je te concois... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Contat, sur la scene embellie, 
+Nous surprend par son jeu parfait ; 			[300]
+Et, confidente de Thalie, 
+Trahit et garde son secret. 
+Toujours d'une vaine imposture, 
+Meprisant l'eclat emprunte, 
+Elle a su faire a la nature 			[305]
+Le larcin de la verite. 
+ARLEQUIN.
+Voila encore des morceaux qu'il faudrait mettre en mille morceaux. Il sera impossible de tout inserer... Mais j'apercois Gilles : rentre, et sois tranquille... Un petit baiser.
+DELPHINE.
+Ca ne se demande pas... 
+ARLEQUIN.
+Tu as raison, ca se prend... Ah ! Monsieur le poltron ! Monsieur l'ignorant ! Monsieur l'avare ! Monsieur l'amoureux !. . . 
+SCENE XIX. Arlequin, Gilles.
+GILLES.
+Enfin je te retrouve. Songe donc a mon embarras. Si tu ne fais rien, le journal tombe. 
+ARLEQUIN, a part. 
+Voici le Prote : faisons venir les autres... Travaillez ; serviteur. 
+GILLES.
+Tu sors ! Et Monsieur Balourd, s'il revient ? 
+ARLEQUIN.
+Travaillez... 
+GILLES.
+Mon dieu ! Mon dieu ! 
+SCENE XX. Le Prote, Gilles.
+LE PROTE.
+Monsieur. 
+GILLES.
+Quoi ! 
+LE PROTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Bien vite, bien vite, 
+J'accours tout de suite, 
+Chercher quelque morceaux piquants, 
+De prose, de prose ; 			[310]
+C'est bien peu de chose 
+Pour votre esprit, pour vos talents. 
+J'attends de vous un chef-d'?uvre insigne ; 
+Car, en faisant l'Original, 
+Vous vous etes toujours ; oui, toujours rendu digne 			[315]
+Du titre, du titre de votre journal. 
+GILLES.
+Tu n'as rien ! 
+LE PROTE.
+Rien.
+GILLES.
+Et il en faut bien long... 
+LE PROTE.
+Tout le journal. 
+GILLES.
+Comment faire ?... J'irai tout-a-l'heure vous porter la copie... Allez.
+LE PROTE.
+Hatez-vous ?... Bon, le voila bien embarrasse ! 
+GILLES.
+Allons, j'irai trouver un de mes amis qui me fera quelques articles... A l'autre, voici I'Imprimeur... Que voulez-vous ?... 
+SCENE XXI. Gilles, L'Imprimeur.
+L'IMPRIMEUR.
+De l'argent ?
+GILLES.
+Je n'en ai pas... 
+L'IMPRIMEUR.
+Il m'en faut... 
+GILLES.
+Combien ? 
+L'IMPRIMEUR.
+Quinze cents francs. 
+GILLES.
+C'est trop... 
+L'IMPRIMEUR.
+Voila le compte. 
+GILLES.
+Arrangeons-nous... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vous donne tout de suite 
+Deux cents francs. 
+L'IMPRIMEUR.
+Non, non. 
+GILLES.
+Quoi ! non. 
+L'IMPRIMEUR.
+Non, non. 
+GILLES.
+Quoi ! non. 
+L'IMPRIMEUR.
+Non, non. 			[320]
+GILLES.
+De grace, tenez-moi quitte 
+Pour le quart ! 
+L'IMPRIMEUR.
+Non, non. 
+GILLES.
+Quoi ! non. 
+L'IMPRIMEUR.
+Non, non. 
+GILLES.
+Quoi ! non.
+L'IMPRIMEUR.
+Non, non. 
+ENSEMBLE. 
+Mettez-vous a la raison ? (bis.) 			[325]
+GILLES.
+En ce cas-la, je vous donne 
+Les deux tiers. 
+L'IMPRIMEUR.
+Non, tout. 
+GILLES.
+Quoi ! Tout. 
+L'IMPRIMEUR.
+Oui, tout. 
+GILLES.
+Quoi ! tout. 
+L'IMPRIMEUR.
+Oui, tout. 
+GILLES.
+Mais tant de rigueur m'etonne ! 			[330]
+Les trois quarts ! 
+L'IMPRIMEUR.
+Non, tout. 
+GILLES.
+Quoi ! Tout. 
+L'IMPRIMEUR.
+Oui, tout. 
+GILLES.
+Quoi ! Tout. 
+L'IMPRIMEUR.
+Oui, tout. 
+GILLES.
+Non, non, vous n'aurez pas tout. 
+L'IMPRIMEUR.
+Je pretends bien avoir tout. 			[335]
+GILLES.
+Rabattez un peu... 
+L'IMPRIMEUR.
+Je veux tout. 
+GILLES.
+Vous aurez tout. 
+L'IMPRIMEUR.
+Et de plus... 
+GILLES.
+Encore !... 
+L'IMPRIMEUR.
+Il me faut des avances... Encore autant ! 
+GILLES.
+Je n'ai pas mille ecus. 
+L'IMPRIMEUR.
+Cherchez-les... 
+GILLES.
+Jugez... 
+L'IMPRIMEUR.
+Mille ecus !...
+GILLES.
+Considerez...
+L'IMPRIMEUR.
+Mille ecus !...
+GILLES.
+Quoi ! Vous voulez...
+L'IMPRIMEUR.
+Mille ecus ?...
+GILLES.
+Donnez-moi...
+L'IMPRIMEUR.
+Mille ecus ?... 
+GILLES.
+Du temps ?... 
+L'IMPRIMEUR.
+Une heure. 
+GILLES.
+Huit jours !... 
+L'IMPRIMEUR.
+Non. 
+GILLES.
+Au moins... 
+L'IMPRIMEUR.
+C'est dit. 
+GILLES.
+Songez ! 
+L'IMPRIMEUR.
+Adieu... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)GILLES.
+Mille ecus ! Mille ecus ! Allons, je ferai un dernier effort ; mais je n'abandonne pas mon journal...
+SCENE XXII. Gillles, Le Colporteur.
+LE COLPORTEUR. 
+Monsieur ! 
+GILLES.
+M'apportes-tu des especes ? 
+LE COLPORTEUR.
+Non, et vous me voyez bien triste.
+GILLES.
+Tu sais ce qui m'arrive. 
+LE COLPORTEUR.
+Il faut de la bravoure. 
+GILLES.
+Non, c'est de l'argent. 
+LE COLPORTEUR.
+Ah ! C'est que vous ne savez pas... Laissez-moi vous pleurer d'avance.
+GILLES.
+Qu'as-tu ? 
+LE COLPORTEUR.
+Un si joli garcon ! 
+GILLES.
+Je le sais. 
+LE COLPORTEUR.
+A la fleur de son age. 
+GILLES.
+Trente ans... 
+LE COLPORTEUR.
+Qui a de quoi vivre ! 
+GILLES.
+Quinze mille francs de fonds. 
+LE COLPORTEUR.
+Et mourir !
+GILLES.
+Que dis-tu ? 
+LE COLPORTEUR.
+Je veux vous accompagner. 
+GILLES.
+Ou ? 
+LE COLPORTEUR.
+Jusqu'a l'endroit fatal. 
+GILLES.
+Quel endroit ? 
+LE COLPORTEUR.
+Je vous apporte un cartel. 
+GILLES.
+De qui ?... 
+LE COLPORTEUR.
+D'un auteur. 
+GILLES.
+Pour qui ? 
+LE COLPORTEUR.
+Pour vous... 
+GILLES.
+Gageons que c'est de Monsieur Balourd. 
+LE COLPORTEUR.
+Juste.
+GILLES.
+Ah ! Malheureux Arlequin, voila ce que tu m'attires... Je ne me bats pas.
+LE COLPORTEUR.
+Il vous tuera tout de meme. 
+GILLES.
+Alors je me battrai. 
+LE COLPORTEUR.
+Il vous tuera encore. 
+GILLES.
+En ce cas-la je ne me battrai pas. 
+LE COLPORTEUR.
+Vous ne pouvez pas l'echapper. Il veut vous tuer, n'importe comment. 
+GILLES.
+Lis donc. 
+LE COLPORTEUR.
+A monsieur le proprietaire de l'Original, 
+GILLES.
+L'Original !... C'est bien moi ! 
+LE COLPORTEUR.
+Monsieur, vous avez trouve ma prose trop longue, mes vers trop courts : en consequence de quoi, vous m'en rendrez raison ce soir au bois de Boulogne, ou j'aurai l'honneur d'etre, et de vous tuer... Balourd.
+GILLES.
+Tu crois donc que j'en mourrai ? 
+LE COLPORTEUR.
+Il ne se bat jamais sans tuer son homme. 
+GILLES.
+Eh bien ! Arlequin se battra. 
+LE COLPORTEUR.
+Il ne veut pas se battre avec Arlequin. 
+GILLES.
+Mais Arlequin est le redacteur. 
+LE COLPORTEUR.
+Vous voyez qu'il en veut au proprietaire, et je ne vois qu'un moyen ; c'est d'en faire tuer un autre a votre place.
+GILLES.
+Eh bien ! Veux-tu ? 
+LE COLPORTEUR.
+Moi ! 
+GILLES.
+Pour de l'argent...
+LE COLPORTEUR.
+Ce n'est pas ca... Monsieur Balourd ne veut se battre qu'avec le proprietaire... Donnez vite votre propriete a quelqu'un. Monsieur Balourd viendra, et c'est celui-la qui se battra.
+GILLES.
+Tu as raison, tu me sauves la vie. 
+LE COLPORTEUR.
+Depechez-vous, il sera ici dans deux heures. 
+SCENE XXIII.
+GILLES, seul. 
+Je n'aurai pas le tems de chercher un autre acheteur... Vendons mon journal a Arlequin... Je serais pourtant fache que ce pauvre Arlequin fut tue... Mais c'est prevu ; il est adroit, il tuera Monsieur Balourd, et je serai venge... Mettons-y mon adresse ordinaire, et faisons le donner dedans, en tachant de ne pas tout perdre... 
+SCENE XXIV. Arlequin, Gilles.
+ARLEQUIN.
+Eh bien, Monsieur Gilles, avez-vous pense a ce que vous feriez ? 
+GILLES.
+Oui. 
+ARLEQUIN.
+Que faites-vous ?... 
+GILLES.
+Rien ; mais j'ai reflechi que je ne sais pas travailler. Je te suis considerablement attache, et je veux faire ta fortune. 
+ARLEQUIN.
+Comment ?... 
+GILLES.
+Je te donne ma propriete. 
+ARLEQUIN.
+Vous me donnez !... 
+GILLES.
+Je te vendrai bon marche. 
+ARLEQUIN.
+Ah ! C'est comme ca que vous donnez. 
+GILLES.
+Nous traiterons. 
+ARLEQUIN.
+Je n'achete point. 
+GILLES.
+Qu'est-ce qui t'effarouche ? 
+ARLEQUIN.
+Un proprietaire repond de tout. 
+GILLES.
+Mais le redacteur aussi. 
+ARLEQUIN.
+Jamais... Il faut de l'argent, le proprietaire paye ; un auteur se fache, le proprietaire repond... L'auteur se fache encore, le proprietaire doit se facher ; on l'insulte, il faut se battre ; il se met en garde, il est tue.
+GILLES.
+Mais si le proprietaire tue l'auteur, comme tu es adroit. 
+ARLEQUIN.
+Il est pris. 
+GILLES.
+Tue ou pris. 
+ARLEQUIN.
+Il n'y a que ces deux manieres-la de se tirer d'affaire. 
+GILLES.
+Mais quand il est pris ? 
+ARLEQUIN.
+Les duels sont defendus... Enferme. 
+GILLES.
+Vrai ! 
+ARLEQUIN.
+Pour le reste de ses jours. 
+GILLES.
+Oh ! Mon dieu ! 
+ARLEQUIN.
+Sur la paille. 
+GILLES.
+Est-il possible ? 
+ARLEQUIN.
+Au pain et a l'eau. 
+GILLES.
+Quelle barbarie ! 
+ARLEQUIN.
+Dans un cachot... 
+GILLES.
+Ciel ! 
+ARLEQUIN.
+A vingt pieds sous terre. 
+GILLES.
+Misericorde ! 
+ARLEQUIN.
+Et quand il sort ? 
+GILLES.
+Quoi ! 
+ARLEQUIN.
+Aux galeres. 
+GILLES.
+Aux galeres ! 
+ARLEQUIN.
+Une chaine aux pieds. 
+GILLES.
+Ah ! 
+ARLEQUIN.
+Un grand aviron de cinquante pieds de long a la main. 
+GILLES.
+Si long que ca ! 
+ARLEQUIN.
+Puis des coups de batons. 
+GILLES.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je n'y tiens plus, je veux vendre mon journal.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je ne crains certainement pas tout cela... Mais rends-toi, mon cher Arlequin ! 
+ARLEQUIN.
+Je n'ai point d'argent.
+GILLES.
+Je te ferai credit. 
+ARLEQUIN.
+Je ne veux point le payer. 
+GILLES.
+Je te le donne. 
+ARLEQUIN.
+Je le prends. 
+GILLES, a part. 
+Comme il gobe ca ! 
+ARLEQUIN, a part. 
+Je le tiens. 
+GILLES.
+Passons le marche... 
+ARLEQUIN.
+Sur-le-champ. 
+GILLES.
+Je vais te chercher tout ce qu'il faut....
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Point d'ouvrage a faire, point d'argent a donner, point d'auteur a craindre, marche d'or...
+SCENE XXV. Arlequin, Delphine.
+ARLEQUIN.
+Ma chere Delphine, je triomphe ; je suis le proprietaire. 
+DELPHINE.
+Deja !... Voici mon pere, je descends. 
+SCENE XXVI. Arlequin, Gilles.
+GILLES.
+Voila tout. 
+ARLEQUIN.
+Je suis pret... 
+GILLES.
+Ecris. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Moi, Gilles ! Proprietaire 
+De l'Original, journal 
+Politique, litteraire, 
+Economique et moral ; 
+J'en declare titulaire 			[340]
+Arlequin le redacteur ; 
+Ce matin mon secretaire, 
+Et ce soir mon successeur. 
+As-tu mis ?
+ARLEQUIN.
+C'est fait. 
+GILLES.
+Une petite clause. 
+ARLEQUIN.
+Quoi ! 
+GILLES.
+Tu peux mourir, on ne sait pas ce qui peut arriver... Ecris. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si tu t'en allais le premier, 
+Chose dont n'est exempt personne, 			[345]
+Je redeviendrai l'heritier 
+De mon journal que je te donne. 
+ARLEQUIN.
+C'est juste. 
+GILLES, a part. 
+De cette facon, comme il peut etre tue ce soir, je n'y perdrai rien... En foi de quoi, j'ai souscrit, moi, Jean Gilles. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Homme-de-lettres, champenois, 
+ARLEQUIN.
+Lequel ne sachant pas ecrire,
+Suivant l'usage a fait sa croix. 
+Signez...
+GILLES, a part. 
+Il ne sait pas ce qu'il risque. 
+ARLEQUIN, a part. 
+Il ne sait pas ce qu'il perd. 
+GILLES.
+Maintenant il faut que je m'occupe de faire remettre une lettre a ma maitresse. 
+ARLEQUIN.
+Son nom ?... 
+GILLES.
+Delphine... 
+ARLEQUIN.
+La Ronde ? 
+GILLES.
+Juste. La voici ; je me declare. Mademoiselle, je trouve donc l'instant propice ousque... 
+SCENE XXVII. Arlequin, Delphine, Gilles.
+DELPHINE.
+Laissez-moi ! 
+GILLES.
+Lisez au moins cette lettre. 
+ARLEQUIN.
+Prends : nous en saurons faire usage. 
+GILLES.
+Elle la prend, signe explicatif du feu cache qu'elle montre pour moi. Justement voici le pere. 
+SCENE XXVIII. Arlequin, Delphine, Gilles, La Ronde.
+LA RONDE.
+Quoi ! Mademoiselle, avec Monsieur Arlequin ! 
+ARLEQUIN.
+Monsieur !... 
+GILLES.
+Monsieur... 
+LA RONDE, a Gilles.
+Encore un poulet. 
+GILLES.
+Chut... Je viens vous proposer un joli marche pour vous et votre fille. Un mari !... Moi ! 
+LA RONDE.
+Et la maitresse de tantot. 
+DELPHINE.
+Il ne sait seulement pas ecrire. 
+LA RONDE.
+Vous ne savez pas ecrire ? 
+DELPHINE.
+Je le prouve par cette lettre qu'il vous dicta pour moi, en vous trompant indignement. 
+LA RONDE.
+Mais c'est horrible. 
+GILLES.
+Ce n'etait qu'une plaisanterie. 
+ARLEQUIN.
+Monsieur La Ronde, je viens pour vous proposer un autre mari. 
+LA RONDE.
+Sait-il ecrire ? 
+DELPHINE.
+Le proprietaire du journal. 
+LA RONDE.
+Je suis charme de voir que tu te rends a mes intentions, et des que j'aurai vu Monsieur le journaliste... 
+ARLEQUIN.
+Le voila.
+LA RONDE.
+Vous, Arlequin !...
+ARLEQUIN.
+Oui, monsieur. 
+GILLES.
+Bah ! Il n'a rien.... 
+ARLEQUIN.
+Et le journal ?... 
+GILLES.
+Benefice en l'air ; il n'est pas fait, et il va tomber. 
+SCENE XXIX. Les Precedents, Le Colporteur, Le Prote, L'Imprimeur.
+LE PROTE.
+Voila la feuille toute imprimee pour demain. 
+GILLES.
+Il avait fait le journal... C'est egal, il faut qu'il donne mille ecus dans une heure, et il n'a pas le sou. 
+L'IMPRIMEUR.
+Je lui fais credit. 
+GILLES.
+Quoi !... C'est encore egal, il va etre tue en duel ce soir. 
+DELPHINE.
+Que dites-vous ? 
+LE COLPORTEUR.
+C'est un conte que je vous ont fait... Monsieur Balourd ne se bat pas. 
+GILLES.
+Je crois que je suis attrape ! 
+ARLEQUIN.
+Oui... Mais laissez-moi epouser Delphine, et je vous rendrai votre propriete. 
+GILLES.
+Ce n'est que ca ?... Elle ne m'aime pas. Je te pardonne ; epouse. 
+ARLEQUIN.
+Vous qui etes le papa de Delphine, puisque je suis le journaliste, vous voulez donc bien devenir le mien ? 
+LA RONDE.
+J'y consens ; et je suis sur que l'on dira par-tout, La Ronde ne s'est pas mesallie. 
+ARLEQUIN, DELPHINE.
+Le bon pere !... 
+VAUDEVILLE.
+DELPHINE.
+Chez nous plus que par-tout ailleurs, 			[350]
+La mode exerce sa puis-sance. 
+Nos gouts, nos ha-bits et nos m?urs 
+Sont soumis a son in-flu-en-ce, 
+Sont sou-mis a son in-flu-ence. 
+Que d'autres, par le-gere-te, 			[355]
+De l'a-mour fa-ti-guent les ai-les 
+Nous, met-tons la fi-de-li- te 
+Au nom-bre des mo-des nou-vel--les, 
+Au nombre des mo-des nou - velles. 
+GILLES.
+En poetes, vrais inventeurs, 			[360]
+La France n'est pas tres-feconde ; 
+En beaux-esprits imitateurs, 
+De tous les cotes elle abonde. 
+Aussi combien d'auteurs nouveaux, 
+En gatant les anciens modeles, 			[365]
+Replacent de mauvais bons mots 
+Dans de vieilles pieces nouvelles. 
+LE COLPORTEUR.
+Pour faire briller son esprit, 
+Un critique par trop severe, 
+Bien souvent, a ceux qu'il poursuit, 			[370]
+Reproche un tort imaginaire. 
+Si nous avons charge les traits 
+Des journalistes, nos modeles, 
+Ne croyez pas a nos portraits 
+Plus qu'on ne croit a leurs nouvelles. 			[375]
+ARLEQUIN, au Public. 
+De chaque ouvrage qui parait, 
+Soit qu'il tombe ou qu'il reussisse, 
+Au public je dois un extrait, 
+Envers lui c'est-la mon office. 
+Nous touchons a l'instant fatal, 			[380]
+Accueillez cette bagatelle, 
+Afin que demain mon journal 
+Puisse en donner bonne nouvelle. 
+
+	==================================================

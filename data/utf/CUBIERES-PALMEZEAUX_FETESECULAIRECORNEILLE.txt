@@ -1,0 +1,655 @@
+********************************************************
+	DC.Title                  = LA FETE SECULAIRE DE CORNEILLE, TRAGEDIE.
+	DC.Author                 = CUBIERES-PALMEZEAUX, Michel de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:16.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CUBIERES-PALMEZEAUX_FETESECULAIRECORNEILLE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LA FETE SECULAIRE DE CORNEILLE COMEDIE, EN UN ACTE ET EN VERSM. DCC. LXXXV.
+
+	A PARIS, Chez HARDOUIN et GATTEY, Libraires de S. A. S. Madame la Duchesse de Chartres, au Palais Royal, Nos 13 et 14. Et chez les Marchands de Nouveautes.
+	
+	
+	AVERTISSEMENT.
+Parmi les modes qui nous viennent d'Angleterre, celle de celebrer annuellement les grands Genies qui illustrent les Nations, ne nous est pas encore arrivee. Mais il est possible qu'elle arrive enfin. Tout le monde sait qu'a Londres le Musicien Haendel a sa Fete annuelle ; ainsi il n'y aurait rien de bien etrange, si le pere de la scene tragique jouissait un jour a Paris du meme honneur.
+Cette petite piece concourut avec quelques autres, l'annee derniere, pour la Centenaire de Corneille : De ces pieces, l'une a ete jouee au Theatre Francais, et deux autres, apres avoir ete jouees en Province, ont ete imprimees.
+On a donc cru devoir livrer celle-ci a l'impression. Plus les jeunes gens verront que Corneille est celebre, plus ils l'etudieront, pour voir au moins s'il merite tant d'eloges, et l'art dramatique ne peut rien perdre a une pareille etude.
+Comme ce petit Ouvrage etait destine au Theatre Francais, on s'est permis d'y mettre les noms des Acteurs. C'etaient eux qui devaient lui concilier, par leurs talents, le suffrage public ; et s'il a quelque succes, quoique prive d'un tel avantage, sa publicite sera suffisamment justifiee.
+
+PERSONNAGES.
+MELPOMENE,	Madme Vefstris.
+THALIE,	Melle Contat.
+LE TEMPS,	M. Brizard.
+ALCIPE,	Personnages du Menteur.	M. Mole.
+PHILISTE,	M. Fleury.
+ARISTE,	M. Vanhove.
+CLITON,	Valet du Menteur,	M. Preville.
+UN GREC,	M. Saint-Prix.
+UN ROMAIN,	M. Saint-Phal.
+RODRIGUE,	M. de la Rive.
+Un quadrille de Grecs.
+Un de Romains.
+Un de Castillans.
+Un de Francois.
+Suivants de Melpomene et de Thalie.
+Le Theatre represente une Place publique.
+
+On a cru pouvoir se dispenser d'imprimer en italique les vers de ce petit Ouvrage, qui ne font pas de l'Auteur. Quand les plagiats font manifestes, il faut s'en accuser soi-mAame, pour A©pargner cette peine aux lecteurs.
+
+
+			
+
+
+SCENE PREMIERE.
+ALCIPE, seul, se promenant.
+Comme Paris me plait par sa diversite;
+Chaque jour est marque par quelque nouveaute.
+A Poitiers, d'ou je viens, quelle monotonie !
+Il faut bien qu'en Province a la fin l'on s'ennuie ;
+Aussi je ne veux plus de ce triste sejour,			[5]
+Ou l'on commente un an, la nouvelle d'un jour ;
+Ou le gout et l'esprit, genes dans des lisieres,
+Ne savent rien aimer que ce qu'aimaient nos peres ;
+Ou l'amour bien note sur l'air des vieux romans,
+Fait bailler nos beautes aupres de leurs amants ;			[10]
+Ou tout respire enfin l'ennui de la constance.
+Philiste m'a deja montre la difference,
+Des plaisirs de Paris et de nos vieux travers;
+Et c'est sous ses drapeaux desormais que je sers.
+Ici tout nait, tout meurt, tout va, tout vient, tout vole,			[15]
+La mode impunement y renverse un idole
+De son haut piedestal, pour y porter un nain,
+Qu'elle-meme et le gout en chasseront demain.
+N'importe ; tout est bien, tout est gai, tout varie ;
+Le Sage veut en vain crier a la folie			[20]
+Sur la mode du jour ; elle n'est deja plus ;
+Et ses cris surannes paraitraient superflus.
+Ici chaque plaisir n'a qu'un instant d'ivresse ;
+L'instant est-il sonne, chacun fuit et se presse
+Vers un autre plaisir qu'indique la beaute,			[25]
+Dont l'attrait est si vif pour toute nouveaute.
+Mais Philiste est longtemps. Je me lasse d'attendre.
+SCENE II. Philiste et Alcipe.
+ALCIPE.
+Ah te voila !
+PHILISTE.
+Moulu ! J'ai bien cru que jamais
+Aupres de toi je ne pourrais me rendre.
+ALCIPE.
+Comment ?
+PHILISTE.
+Pour ces billets que je suis alle prendre,			[30]
+La grille n'etait pas d'un bien facile acces.
+ALCIPE.
+Aux Spectacles forains ?
+PHILISTE.
+Non, c'etait aux Francais.
+ALCIPE.
+Tu te moques de moi ?
+PHILISTE.
+Rien n'est plus veritable ;
+C'etait une foule incroyable ;
+Et l'on m'a dit de toutes parts			[35]
+Que dans le vrai Temple des Arts,
+Ce jour est un jour remarquable.
+ALCIPE.
+Parce qu'ils sont reconnaissants,
+Les Comediens vont-ils d'un auteur du vieux temps
+Nous faire encor l'apotheose ?			[40]
+Ils ne savent donc pas que c'est pour les vivants,
+Que l'encens doit surtout bruler a forte dose ?
+PHILISTE.
+Ce dernier, tout compte, donne plus de profit :
+Parmi certaines gens, c'est chose incontestable :
+L'eloge d'un vivant nourrit ;			[45]
+Celui d'un mort est impayable.
+ALCIPE.
+Me diras-tu quel est ce mortel glorieux,
+Que la scene aujourd'hui doit offrir a nos yeux ?
+PHILISTE.
+Non. Je sais qu'il vivait au siecle memorable,
+Qui sur les Lys Francois fixait tous les regards, 			[50]
+Lorsque les talents et les arts,
+Trouvaient aupres du trone une main secourable.
+ALCIPE.
+A ce que tu me dis, as-tu donc bien songe ?
+Par cette meme main, le talent protege,
+Brille et fleurit encor, pour l'honneur de la France ;			[55]
+Et la beaute, la bienfaisance,
+A cet egard n'ont rien change.
+PHILISTE.
+C'est juste.
+ALCIPE.
+Mais le nom ?
+PHILISTE.
+En tres gros caractere,
+Sur l'affiche j'ai lu, LA FETE SECULAIRE,
+Piece nouvelle. Un siecle, c'est cent ans.			[60]
+J'ai cru que tu saurais a peu pres dans ce temps,
+Quel grand homme acheva sa brillante carriere.
+ALCIPE.
+Quel ?... C'est le grand Corneille ! Oh ! Je suis enchante :
+De la faiblesse de l'enfance,
+A la vigueur de la maturite,			[65]
+Par lui son art fut tout a coup porte,
+Et d'un vrai createur il montra la puissance.
+Ah ! Comme avec transport son nom sera fete
+Par les enfants cheris, a qui dans sa bonte
+Il laissa quelque don de son riche heritage !			[70]
+Courons dans ce grand jour voir cette nouveaute.
+PHILISTE.
+Attendre an lendemain, quelquefois n'est pas sage. 
+ALCIPE.
+A l'entour du bureau parlait-on de l'ouvrage ?
+PHILISTE.
+Bien plus, on le jugeait fort prematurement,
+Comme l'on juge ailleurs, chez gens de haut parage,			[75]
+En bref, par ces deux mots, detestable, ou charmant :
+Mais un homme d'un certain age,
+Qui le connait apparemment,
+Nous a dit que l'Auteur esperait seulement,
+Par le choix du sujet echapper au naufrage.			[80]
+ALCIPE.
+D'abord sa modestie a droit a mon suffrage,
+Et je l'accorderai peut-etre a son talent.
+PHILISTE.
+Bien vu...
+ALCIPE.
+Nous aurons donc tres grande compagnie ?
+PHILISTE.
+Grande ! Oh ! Jamais on ne vit rien de tel.
+Et par mille etrangers cette foule grossie,			[85]
+S'empresse a partager l'hommage solennel,
+Que l'univers entier ne rend qu'au seul genie.
+ALCIPE.
+Tandis que tu percois cette foule de gens,
+Qu'un si noble sujet rassemble,
+Non loin d'ici, j'ai vu paraitre ensemble,			[90]
+Trois objets tres interessants ;
+L'un etait un vieillard ; dessous les cheveux blancs,
+Dont s'ombrageait sa tete venerable,
+Brillait le feu de ses regards percants : 
+Il paraissait enfin tel que jadis la fable			[95]
+Peignit, ou Saturne, ou le Temps ;
+A ses cotes marchaient deux Belles;
+L'une au minois fripon, l'autre a l'air imposant,
+Et du Public en un moment,
+Tous les yeux, tous les coeurs se sont tournes sur elles.			[100]
+PHILISTE.
+Eh ! Quoi tu n'es pas accouru ?
+ALCIPE.
+En un clin d'oeil ce groupe a disparu,
+Et personne n'a pu m'en dire des nouvelles:
+Tu conviendras bientot, comme moi transporte,
+Qu'elles avaient en verite,			[105]
+La tournure des Immortelles.
+PHILISTE.
+J'en conviendrai, si tu le veux :
+Mais songe donc que je ne peux
+Juger de leurs attraits avant de les connaitre.
+ALCIPE.
+D'accord, tu parles de bon sens ;			[110]
+Au Theatre, a coup sur, nous les verrons paraitre :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons ; depechons ; il est temps.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III. Thalie et Ariste.
+Thalie entre et epie dans la Salle : elle est appuyee sur la main d'Ariste.
+THALIE, a Ariste.
+Quoi ! Tout ce monde la pour ma soeur Melpomene ?
+Elle est donc folle ? Elle se plaint toujours,
+Qu'elle voit s'eclipser sa gloire et ses beaux jours.			[115]
+ARISTE.
+Vous le savez, Madame, aujourd'hui sur la scene,
+Le Temps va couronner l'aine de ses enfants ;
+Et vous voyez que l'amour des talents,
+Ici pour Corneille ramene 
+Les coeurs reconnaissants et les males esprits.			[120]
+THALIE.
+Eh ! Pourquoi donc m'a-t-on dit qu'a Paris,
+Ma soeur, pour l'aine de ses fils,
+Avait perdu quelques suffrages,
+Et que de secrets ennemis,
+Du vif eclat de nos hommages,			[125]
+Seraient affliges et surpris ? 
+ARISTE.
+Rien n'est plus faux, sur ma parole.
+Ah ! Si jamais s'echappant de la Cour,
+L'envie eut quelque acces chez ce peuple frivole,
+Son regne n'y dura qu'un jour,			[130]
+Comme celui d'une mode etourdie;
+Et le Francais s'honorera toujours,
+Par le culte assidu qu'il decerne au genie. 
+THALIE.
+Que j'aime a voir justifier
+Ce bon peuple que j'idolatre:			[135]
+Rire, chanter, aimer, se battre ;
+Il sait tout, hormis s'ennuyer ;
+Et ne pouvant l'humilier,
+L'orgueil cherche avec complaisance,
+Dans quelque trait leger de son inconsequence,			[140]
+Matiere a le calomnier.
+ARISTE.
+Tel se montre le caractere
+De nos Anglomanes fougueux ;
+Fatigues des talents qui naissent autour d'eux,
+Ils ne prisent que ceux d'une terre etrangere ;			[145]
+Et leur orgueil, plus que leur gout prefere,
+Dans la liste des noms fameux,
+Shakespeare a Corneille, et Congreve a Moliere.
+THALIE.
+Que ne vont-ils en Angleterre,
+C'est-la qu'ils doivent reussir ;			[150]
+Et chez le brave Anglais une fete annuelle,
+Fait revivre par son souvenir
+Les grands noms, revetus d'une gloire immortelle,
+De Haendel et de Shakespeare .
+ARISTE.
+Mais cette mode, autant que toute autre, je pense,			[155]
+Serait bonne sans doute a rapporter en France.
+THALIE.
+J'en veux parler a mes Francais ;
+Qu'en dites-vous ?
+ARISTE.
+Comptez sur un succes,
+THALIE.
+L'absence de ma soeur cependant m'inquiete :
+Ne pourrai-je savoir enfin ce qui l'arrete.			[160]
+ARISTE.
+Ordonnez ; pret a vous servir,
+Mon zele...
+THALIE.
+C'est pour revenir
+Paraitre a la ceremonie,
+Ou pres de moi tantot vous devez vous trouver :
+Vous me servirez a prouver,			[165]
+Que des gens de bon sens j'aime la compagnie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV.
+THALIE, seule.
+Ma soeur n'arrive point... Pour me desennuyer,
+S'il me venait au moins un ecuyer...
+Mais n'en est-ce pas un que je crois voir paraitre ?
+Comme il court... A coup sur il ne pretend pas etre			[170]
+A cette fete le dernier...
+Feignons, pour m'amuser, de ne le pas connaitre.
+ALCIPE, a part, avant d'approcher.
+C'est Thalie ! Elle feint ; fort bien ; feignons aussi !
+Et deployons l'ardeur dans ce projet hardi,
+D'un guerrier qui combat sous les yeux de son maitre.			[175]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. Alcipe, Thalie.
+ALCIPE.
+Des le premier instant que vous avez paru,
+Ah ! Madame, que n'ai-je pu,
+Me rapprocher de vous et de votre compagne ?
+Je ne la revois point ? Qu'est aussi devenu
+Ce vieillard qui vous accompagne ?			[180]
+THALIE.
+Monsieur, la curiosite
+Qui vous agite et qui vous presse
+A bien de la vivacite...
+Je croyais que la politesse...
+ALCIPE.
+Je suis Francais; je vois une beaute,			[185]
+Et pour elle aussitot tout mon coeur s'interesse.
+Dussiez-vous condamner mon importunite,
+Je ne vous quitte plus... vous semblez etrangere ?
+THALIE.
+Oui... non...
+ALCIPE.
+Lequel des deux ?... Vous riez... la colere,
+Convenez-en, ne vaut pas la gaiete.			[190]
+THALIE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il a raison.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais, Monsieur, je vous prie,
+Par votre regard indiscret,
+M'avez-vous assez poursuivie ? 
+ALCIPE.
+J'examinais, et mon ame ravie,
+Croyait voir...
+THALIE.
+Qui donc, s'il vous plait ?			[195]
+ALCIPE.
+Une Dame que j'ai servie.
+THALIE.
+Et cette Dame vous aimait ?
+ALCIPE.
+Je me tais...
+THALIE.
+C'est par modestie...
+Comment, elle me ressemblait ?
+ALCIPE.
+Oh ! C'etait vous, Madame, trait pour trait...			[200]
+Ne vous alarmez pas... Elle etait fort jolie.
+THALIE.
+Son nom ?
+ALCIPE.
+Son nom ?
+THALIE.
+Oui, je le veux...
+ALCIPE.
+Thalie.
+THALIE.
+Comment, traitre, vous me jouiez ?
+SCENE V. Thalie et Melpomene.
+MELPOMENE.
+Enfin je me vois libre, et je puis sans contrainte,
+Vous peindre les transports dont mon ame est atteinte ;			[205]
+Pretez, ma chere soeur, l'oreille a mes discours,
+Et sachez que je vois le plus beau de mes jours.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si mon nom, autrefois honore dans la Grece,
+Fit fumer un encens qui flatta ma tendresse,
+Je ne vous dirai point par quel affreux revers,			[210]
+Depuis ces jours brillants, j'errai dans l'univers,
+Nourrissant ma douleur, et ma triste pensee,
+Du cruel souvenir de ma gloire eclipsee ;
+Mes autels renverses, mes temples abattus,
+Redisaient en tous lieux, Melpomene n'est plus !			[215]
+Mes pas irresolus, et ma marche incertaine,
+Me conduisent enfin sur les bords de la Seine ;
+Mais son peuple egare connaissait-il alors,
+Des passions du coeur les terribles ressorts ?
+Le Theatre a ses yeux, dans des scenes barbares,			[220]
+N'offrait qu'un long tissu d'evenements bizarres.
+Aux etranges combats des heros et des dieux,
+Succedaient brusquement des discours langoureux;
+Leurs perils, leurs malheurs, leurs tendresses, leurs flammes,
+Ne parlaient point aux coeurs, n'agitaient point les ames;			[225]
+Et dans ces jeux, toujours l'ennui du merveilleux,
+Refroidissait la scene en fatiguant les yeux.
+J'invoquais (sans espoir) quelque dieu tutelaire,
+Qui put dans ce chaos, debrouiller la lumiere :
+Ce dieu, ce fut Corneille : il parut ; a sa voix			[230]
+Je repris tout-a-coup mon empire et mes droits.
+Cent ans sont ecoules depuis que sur la scene,
+Par ce nom glorieux je regne en souveraine.
+Le Cid me l'annonca ; je le vis, et soudain
+Je mis, sans balancer, mon sceptre dans sa main :			[235]
+Ce choix n'a point trompe ma superbe esperance,
+Sa gloire chaque jour cimentant ma puissance.
+Mille ennemis jaloux, confus, humilies,
+Virent bientot la France et l'Europe a mes pieds.
+Quand il eut medite sur la source profonde,			[240]
+Des malheurs, des vertus et des crimes du monde,
+Alors on entendit son eloquente voix,
+Porter la verite dans l'oreille des Rois,
+Et ce siecle fameux, si fertile en merveilles,
+Dut son plus grand eclat a l'aine des Corneilles.			[245]
+Ah ! Si ce sentiment paraissait une erreur,
+C'est une verite dans le fond de mon coeur.
+Mais faut-il, en des lieux illustres par sa gloire,
+De ses nombreux travaux rappeler la memoire ?
+Ma voix redira-t-elle a tous les coeurs emus,			[250]
+De quel attrait puissant il orna les vertus
+De ces nobles heros que la grandeur Romaine,
+Permit a ses pinceaux de montrer sur la scene,
+Pour l'ornement du monde et l'exemple des Rois ?
+De combien de devoirs il fait cherir les lois.			[255]
+Son art veut-il former un Prince doux et juste ?
+Il presente a son coeur la clemence d'Auguste.
+Ici la meme main qui si bien crayonna
+L'ame du grand Pompee et celle de Cinna.
+Prenant d'autres pinceaux, trace dans Rodogune,			[260]
+De la soif de regner, la sanglante infortune :
+La le coeur agite par de nobles douleurs,
+De Chimene admira les combats et les pleurs ;
+Et dans ces grands tableaux que sans cesse il varie,
+Tantot tendre, il rend cher l'amour de la patrie,			[265]
+Et tantot plus terrible, en des traits effrayants, 
+Il peint l'horreur du crime, ou l'effroi des tyrans.
+Enfin ce fils cheri, qui terrassa l'envie,
+Ne dut rien a son siecle, et tout a son genie.
+Aujourd'hui que du temps la severe equite,			[270]
+Le ceindra d'un laurier tant de fois merite,
+Partagez les transports d'un peuple qui s'apprete
+Au pompeux appareil de cette grande fete.
+THALIE, se levant.
+Mais entre nous, ma soeur, c'est un point arrete,
+De ma cour et de moi, disposez je vous prie,			[275]
+Par mon ordre elle est avertie;
+Et dans cette solennite,
+Si vous saviez combien mon peuple est enchante
+De rendre a la soeur de Thalie
+Le secours qu'elle m'a prete			[280]
+Dans pareille ceremonie,
+Vous l'aimeriez en verite.
+MELPOMENE.
+Que vous connaissez mal votre soeur Melpomene,
+Si vous la soupconnez d'etre en proie a la haine ;
+Ce sentiment affreux gaterait ce beau jour ;			[285]
+Et quand le coeur est plein d'un veritable amour,
+Il l'epanche aisement sur ce qui l'environne.
+THALIE.
+Vous ne haissez donc personne ?
+MELPOMENE.
+Non.
+THALIE.
+Pas meme les envieux ?
+Dont le ciel lachement verse sur le genie,			[290]
+Qui les choque ou les humilie,
+Son poison lent et dangereux?
+MELPOMENE.
+Ils sont bien assez malheureux !
+Je les plains, et je leur pardonne.
+THALIE.
+Je ne vous croyais pas si bonne.			[295]
+Pour moi ce me serait un deplaisir mortel,
+Si dans ce jour si solennel,
+Que notre amour consacre au grand nom de Corneille,
+Il nous venait des gens d'une espece pareille.
+MELPOMENE.
+Quoi ! Ma soeur, la critique a ce point vous aigrit ?			[300]
+Sachez de moi qu'un bon esprit
+Assez rarement s'en afflige :
+Est-elle mauvaise, il s'en rit ;
+Est-elle bonne, il se corrige.
+THALIE.
+Prenez garde, ma soeur, que votre gravite			[305]
+S'egare dans mon apanage.
+MELPOMENE.
+Par moi, pour cette fois, mon fils est imite ;
+Quand jadis a votre gaiete
+Il porta son premier hommage,
+Mon coeur...
+THALIE.
+Le mien en sut infiniment flatte.			[310]
+MELPOMENE.
+Permettez donc qu'ici, seules, en liberte,
+De mon austerite je suspende l'usage,
+Et je vais vous parler avec sincerite.
+Comment Apollon, je vous prie,
+En ce moment, s'est-il donc eloigne ?			[315]
+Pourrait-il avoir dedaigne
+De presider lui-meme a la ceremonie ? 
+THALIE.
+Ah ! Ne craignez pas qu'il oublie
+Un nom qu'il cherit a jamais ;
+Il sait qu'il le couvrit d'une gloire durable,			[320]
+En repandant sur lui ses plus rares bienfaits,
+Et sans doute il jouit d'un plaisir veritable,
+En voyant aujourd'hui, par le Temps equitable,
+Confirmer les dons qu'il a faits.
+MELPOMENE.
+Ce discours dissipe ma crainte			[325]
+Et vous savez me rassurer.
+Mais j'apercois dans cette enceinte
+Quelqu'un qui cherche a penetrer.
+SCENE VI. Thalie, Cliton, Melpomene.
+THALIE.
+C'est Cliton...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que veux-tu ?
+CLITON.
+Trois messieurs qui me suivent,
+Et qui dans le moment arrivent,			[330]
+Desireraient entretenir,
+Dans une secrete audience,
+La dame qu'avec vous ici j'ai vu venir.
+THALIE.
+Paraissent-ils gens d'importance ?
+CLITON.
+Je les crois etrangers.
+MELPOMENE.
+En toute diligence, 			[335]
+Dites-leur que je suis empressee a les voir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)THALIE.
+Ces beaux messieurs ont peut-etre a vous dire
+Ce que je ne veux pas savoir.
+Permettez que je me retire
+Pour vous les laisser recevoir.			[340]
+SCENE VII. Un Grec, Un Romain, Un Castillan, Melpomene.
+LE GREC.
+Le Temps, ce souverain des Dieux et des mortels,
+Ce vieillard dont la main rassemble tous les ages,
+Et qui vit notre encens fumer sur vos autels,
+Me commande a vos pieds d'apporter des hommages ;
+La Grece est ma patrie, et ce berceau des arts			[345]
+Eclaire le premier de vos divins regards,
+Veut par son depute, prendre part a la gloire,
+De ce mortel fameux qu'au temple de memoire,
+Sophocle a ses cotes verra bientot asseoir.
+MELPOMENE.
+J'aime le zele ardent que vous me faites voir ;			[350]
+Si le temps emporta les depouilles d'Athenes,
+Son genie et ses arts, sur des rives lointaines,
+Croyez que les climats ou je recus le jour,
+Seront toujours presents et chers a mon amour.
+LE ROMAIN.
+J'apporte aussi, Madame, au nom d'un peuple libre,			[355]
+Le tribut merite des rivages du Tibre,
+Pour celui dont le coeur a vu dans les Romains,
+Les plus grands des heros et les Rois des humains :
+Heureux si cet hommage aux manes d'un grand homme,
+Satisfait a la fois, vous, sa patrie et Rome.			[360]
+MELPOMENE.
+Seigneur, ce grand honneur qu'il recoit aujourd'hui,
+S'il est digne de vous, est bien digne de lui ;
+Mais le culte rendu par le monde au genie,
+De cent climats divers ne fait qu'une patrie.
+RODRIGUE.
+Le dirai-je, Madame ; oui, tout autre que moi,			[365]
+Au bruit de ce grand nom pourrait trembler d'effroi;
+Mais la palme du Cid qui s'eleve au Parnasse,
+Je l'espere a vos yeux me fera trouver grace :
+Souffrez donc que Rodrigue apporte a vos genoux,
+Tout ce qu'il sent d'amour pour Corneille et pour vous :			[370]
+La Castille le veut, et l'honneur me l'ordonne.
+MELPOMENE.
+Jeune et brillant appui de plus d'une Couronne,
+Je recois tous vos dons, ils me sont precieux;
+Deployez pres de moi le noble caractere
+De ces fameux heros, si grands, si glorieux,			[375]
+Faits pour servir d'exemple au reste de la terre ;
+Corneille en les peignant se montre aussi grand qu'eux.
+Mais deja je vois en ces lieux
+Revenir l'aimable Thalie.
+SCENE VIII. Thalie, sa suite et les precedents.
+THALIE.
+Ma soeur, vous me voyez suivie			[380]
+De l'elite de mes enfants ; 
+Et bientot avec eux les peuples differents,
+De cent climats divers, et nes dans tous les ages,
+Conduits pres de vous par le Temps,
+A la pompe de nos hommages,			[385]
+Vont meler leurs tendres accents.
+MELPOMENE.
+Ah ! Mon coeur me le dit, deja je les entends.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ces sons harmonieux m'annoncent leur presence.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Rangez-vous pres de moi : que la fete commence.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX. Le Temps, Melpomene, Thalie.
+Le Temps, une couronne a la main, arrive sur une marche, precede et suivi de quatre quadrilles, un de Grecs, un de Romains, un de Castillans et un de Francais : a la fin de la marche, il se trouve sur le devant de la scene au milieu des deux Muses.
+LE TEMPS, a tous.
+Illustres nations que l'ardeur de la gloire			[390]
+Et l'amour des talents rassemblent sous mes yeux ;
+Dans ce sacre parvis du temple de memoire,
+Ecoutez les accents du souverain des Dieux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Si sur les travaux de la plus noble vie,
+La haine a, trop de fois, attache ses serpents,			[395]
+Ma main seule les tue, et ce n'est que le Temps
+Qui d'un jour sans nuage eclaire le genie. 
+Ce jour est arrive, consacrons aujourd'hui
+La gloire du mortel qui le premier en France,
+De l'art de Melpomene exerca la puissance,			[400]
+Et qui forma des Rois pour regner apres lui.
+MELPOMENE au Temps.
+Seigneur daignez montrer a la foule eperdue,
+Le glorieux sejour par mon fils habite.
+LE TEMPS.
+Temple de l'immortalite,
+Paraissez, brillez a ma vue.			[405]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)THALIE.
+Mais n'entends je pas les accents
+De quelques langues etrangeres ?
+LE TEMPS.
+Elles ne le sont point : si l'espace et le temps,
+Aux etats, aux mortels, ont fixe des barrieres
+Pour le genie et les talents,			[410]
+L'amour sait les franchir, tous les hommes sont freres.
+MELPOMENE a tous.
+Ils renaissent pour vous, ces beaux jours ou Louis
+Se creait des sujets hors du sein de la France,
+Lorsque les Arts par lui proteges et cheris,
+Vous portaient le tribut de leur reconnaissance.			[415]
+La gloire des combats offre trop de hasards,
+Fait verser trop de sang, repandre trop de larmes:
+Mais il est une gloire a l'abri des alarmes,
+Une seule durable, et c'est celle des Arts. 
+LE TEMPS.
+Qu'elle brille en ces lieux, qu'elle nous environne			[420]
+Cette gloire, l'honneur des sujets et du trone,
+Par l'exemple fameux que je vais en donner.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous cependant allez environner
+Avec respect cette noble statue:
+Approchez-la de moi ; peuples a votre vue			[425]
+Saturne va la couronner.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE TEMPS, avant de placer la couronne.
+O vous ! Dont l'ame ambitionne
+L'immortalite des succes,
+Rappelez-vous cette couronne,
+Et sachez qu'un laurier ne se fane jamais,			[430]
+Lorsque c'est ma main qui le donne.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE TEMPS.
+Ramenez ce grand homme au sommet du Parnasse,
+A cote de Sophocle ou je marque sa place.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)THALIE.
+Mais seul au premier rang de l'immortalite,
+Si Corneille, Seigneur, est aujourd'hui porte,			[435]
+A ses nobles rivaux n'est-ce point faire injure ?
+LE TEMPS.
+Non, non, Madame, et la posterite
+Que je guide d'une main sure,
+Doit un jour avec equite,
+Au meme rang placer a son cote, 			[440]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et celui qui peignant l'amour et la nature,
+D'un charme si touchant leur preta la beaute ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et celui dont la main demasquant l'imposture,
+Contre tous ses tyrans, servit l'humanite.
+THALIE.
+Ah ! Je comprends, c'est une galerie...			[445]
+LE TEMPS.
+Vous plaisantez ? Pourquoi donc, je vous prie ?
+THALIE.
+Le projet n'est pas neuf, et deja dans Paris...
+LE TEMPS.
+Madame, je suis peu surpris
+De l'eclat de pareils hommages.
+Si les Rois ici bas tiennent le rang des Dieux,			[450]
+Ils se montrent surtout leurs plus dignes images,
+Quand ils sont eclaires et bienfaisants comme eux.
+MELPOMENE, a tous.
+Vous que rassemblent en ce jour
+La reconnaissance et l'amour,
+Aux yeux de la France charmee,			[455]
+Celebrez dans vos chants, consacrez dans vos jeux,
+Le nom du mortel glorieux,
+Qui ne dut qu'a lui seul toute sa renommee.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+	==================================================

@@ -1,0 +1,2619 @@
+********************************************************
+	DC.Title                  = ELOMIRE HYPOCONDRE OU LES MEDECINS VENGES, COMEDIE
+	DC.Author                 = CHALUSSAY, Le Boulanger de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:23.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/LEBOULANGERCHALUSSAY_ELOMIREHYPOCONDRE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+ELOMIRE HYPOCONDRE OU LES MEDECINS VENGESCOMEDIEM. DC. LXX. AVEC PRIVILEGE DU ROI.
+Par Monsieur LE BOULANGER DE CHALUSSAY
+	A PARIS, chez CHARLES DE SERCY, au Palais, au sixieme pilier de la Grand Salle, a la Bonne Foi Couronnee.
+	Acheve d'imprime ce 4 janvier 1670. Les exemplaires ont ete fournis.
+	
+	PREFACE
+Tous les curieux savent qu'Elomire voulant exceller dans le Comique et surpasser tous les plus habiles en ce genre d'ecrire, a eu dessein d'imiter cet Amour de la Fable, qui, ayant inutilement decoche toutes ses fleches et lance tous ses traits dans le coeur d'une Belle difficile a vaincre, s'y lanca enfin lui-meme pour n'y plus trouver de resistance. Car il est constant que tous ces portraits qu'il a exposes en vue a toute la France, n'ayant pas eu une approbation generale comme il pensait, et au contraire, ceux qu'il estimait le plus ayant ete frondes en bien des choses par la plus part des plus habiles, dont il a rejete la cause sur les originaux qu'il avait copies, il s'est enfin resolu de faire le sien et de l'exposer en public, ne doutant point qu'un tel chef-d'oeuvre ne dut charmer toute la terre. Il a donc fait son portrait, cet illustre peintre, et il a meme promis plus d'une fois de l'exposer en vue, et sur le meme theatre ou il avait expose les autres ; car il y a longtemps qu'il a dit, en particulier et en public, qu'il s'allait jouer lui-meme et que ce serait la que l'on verrait un coup de maitre de sa facon. J'attendais avec impatience et comme les autres curieux un spectacle si extraordinaire et si souhaite, lorsque j'ai appris que pour des raisons qui ne me sont pas connues, mais que je pourrais deviner, ce fameux peintre a passe l'eponge sur ce tableau ; qu'il en a efface tous les admirables traits ; et qu'on n'attend plus la vue de ce portrait qu'inutilement. J'avoue que cette nouvelle m'a surpris et qu'elle m'a ete sensible ; car je m'etais forme une si agreable idee de ce portrait fait d'apres nature, et par un si grand ouvrier, que j'en esperais beaucoup de plaisir : mais enfin j'ai fait comme les autres, je me suis console d'une si grande perte, et afin de le faire plus aisement, j'ai ramasse toutes ces idees, dont j'avais forme ce portait dans mon imagination, j'en ai fait celui que je donne au public. Si Elomire le trouve trop au-dessous de celui qu'il avait fait, et qu'une telle copie defigure par trop un si grand original, il lui sera facile de tirer raison de ma temerite, puisqu'il n'aura qu'a refaire ce portrait efface, et a le mettre au jour. S'il le fait ainsi, le public m'aura beaucoup d'obligation par le plaisir que je lui aurai procure, et s'il ne le fait pas, il ne laissera pas de m'en avoir un peu, puisque la copie d'un merveilleux original perdu, n'est pas une chose peu curieuse. Au reste, qu'on ne croie pas que le grand nombre d'acteurs puisse empecher la representation de cette Comedie ; car outre que la plupart de ceux qui paraissent au commencement ne paraissent point dans la suite, et par consequent, qu'ils puissent faire plus d'un personnage chacun, il est encore a observer que les deux tiers ne parlent point ou fort peu ; que ce sont des personnages muets qui ne servent qu'a l'embellissement de la scene et a l'explication du sujet, et qu'on a de ces sortes d'acteurs tant qu'on veut et partout.
+
+LES PERSONNAGES DE LA COMEDIE
+ELOMIRE.
+ISABELLE, femme d'Elomire.
+LAZARILLE, valet d'Elomire.
+CASCARET, laquais d'Isabelle.
+BARI, Operateur.
+L'ORVIETAN, Operateur.
+ALCANDRE, Medecin.
+ERASTE, Medecin.
+EPISTENEZ, Medecin.
+ORONTE, Medecin.
+CLIMANTE, Medecin.
+CLEARQUE, Medecin.
+CLARICE, femme de Medecin.
+LUCINDE, femme de Medecin.
+ALPHEE, femme de Medecin. 
+LUCILLE, femme de Medecin.
+CALISTE, femme de Medecin.
+CONVIES, a la Comedie et au bal. 
+DEUX MUSICIENS, representant Esculape et Mome.
+UN EXEMPT DU GUET.
+LE BALAFRE, Archer du Guet.
+SANS MALICE, Archer du Guet.
+AUTRES ARCHERS.
+SIX FEINTS TURCS.
+LE DRAGOMAN.
+UN SUISSE.
+ANTOINE, valet des Medecins.
+LES PERSONNAGES DE LA COMEDIE EN COMEDIE.
+FLORIMONT, comedien.
+ROSIDOR, comedien. 
+ELOMIRE, comedien.
+ANGELIQUE, comedienne.
+AUTRES COMEDIENS ET COMEDIENNES.
+LE PORTIER des comediens.
+LE CHEVALIER.
+LE COMTE.
+LE MARQUIS.
+UN VALET.
+La scene est a Paris. La scene de la comedie en comedie est dans la salle des Comedies du Palais-Royal.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Elomire, Isabelle, Lazarille.
+La scene de cet acte est dans la chambre d'Elomire, qui doit doit etre fort paree.
+ELOMIRE.
+Toi qui, depuis l'Hymen qui nous unit tous deux,
+N'eus que d'heureuses nuits, et que des jours heureux ;
+Toi qui fut mon plaisir, toi dont je fus la joie,
+Apprends le dur revers que le Ciel nous envoie :
+Et pour me soulager en de si grands travaux,			[5]
+Compagne de mes biens, viens l'etre de mes maux.
+ISABELLE.
+Quel mal avez-vous donc ?
+ELOMIRE.
+Ah ! J'en ai mille ensemble.
+ISABELLE.
+Quels maux et depuis quand ? Dites vite, je tremble.
+ELOMIRE
+N'as-tu point remarque que depuis quelque temps
+Je tousse et ne dors point ?
+ISABELLE.
+Non.			[10]
+ELOMIRE.
+Je crois que tu mens. 			[10]
+Et ce frais embonpoint dont brillait mon visage, 
+Comment le trouves-tu ?
+ISABELLE.
+Tout de meme.
+ELOMIRE.
+Je gage 
+Contre toi, qu'il s'en faut pour le moins les trois quarts.
+ISABELLE, a part.
+Que dit-il, justes Dieux ! Ah ! les vilains regards !
+Il est fou.
+ELOMIRE.
+Lazarile, ai-je pas le teint bleme ?			[15]
+LAZARILlE
+Oui, Monsieur.
+ELOMIRE.
+Le miroir me l'a dit tout de meme ;
+Et ces bras qui naguere etaient de vrais gigots,
+Comment les trouves-tu ?
+LAZARIlLE
+Ce ne sont que des os, 
+Et je crois que bientot, plus secs que vieux squelette 
+On s'en pourra servir au lieu de castagnettes.			[20]
+ISABELLE.
+Lazarile.
+LAZARILLE.
+Madame ?
+ISABELLE.
+Apprenez qu'un valet,
+Qui se moque d'un maitre, a souvent du balais ;
+Et si vous ne voulez proscrire vos epaules,
+Taisez-vous et sachez que nous avons des gaules.
+Quoi ! Votre maitre est maigre, et pale, dites-vous ?			[25]
+LAZARILLE.
+S'il n'est tel a mes yeux, qu'on m'assomme de coups.
+ISABELLE.
+Est-il tel a vos yeux, s'il est autre a ma vue ?
+ELOMIRE.
+Mais, ma femme, peut-etre, avez-vous la berlue ?
+Car, enfin, Lazarile...
+ISABELLE.
+Et Lazarile et vous, 
+Si vous vous croyez maigre et pale, etes deux fous. 			[30]
+Vous dormez comme un porc, vous mangez tout de meme ; 
+Qui diantre donc pourrait vous rendre maigre et bleme ?
+ELOMIRE.
+J'aurai donc la couleur telle que tu voudras ;
+Et meme, si tu veux, je serai gros et gras :
+Mais que m'importe-t-il, je me crois bien malade,			[35]
+Et qui croit l'etre, l'est.
+ISABELLE.
+Mais qui se persuade 
+D'etre malade alors qu'il est sain comme vous, 
+Est dans le grand chemin de l'hopital des fous.
+LAZARILLE.
+Madame dit fort bien, et si je ne m'abuse, 
+Il faudra vous y mettre...
+ELOMIRE.
+O la plaisante buse !			[40]
+Quand, comme il vous parait, j'aurais l'esprit gate,
+Est-ce que l'on met la les fous de qualite ?
+Y vit-on de la Cour jamais mener personne ?
+LAZARILLE.
+Mon maitre n'est pas fou, comment diable, il raisonne ?
+Il dit vrai, j'en connais a la Cour plus de six,			[45]
+Qui sont plus fous que lui.
+ELOMIRE.
+J'en connais plus de dix ; 
+Et je les nommerais s'il etait necessaire.
+ISABELLE.
+Ah ! Mon cher Elomire, apprenez a vous taire ; 
+Je connais votre mal : pour avoir trop parle, 
+Quelque ennemi vous a, sans doute, ensorcele.			[50]
+ELOMIRE.
+Comment, ensorcele ? Je suis donc sans remede ?
+ISABELLE.
+Qui vous a fait le mal, vous peut donner de l'aide.
+LAZARILLE.
+Oui bien, si le morceau n'est donne pour toujours : 
+Car autrement, mon maitre est sans aucun secours.
+ELOMIRE.
+Mais quand ce sorcier-la pourrait m'etre propice, 			[55]
+Comment le voudrait-il, s'il eut tant de malice ?
+LAZARILLE.
+S'il etait honnete homme ?
+ELOMIRE.
+Honnete homme et sorcier ?
+LAZARILLE.
+Il est d'honnetes gens, Monsieur, de tous metiers, 
+Comme de tous metiers il en est aussi d'autres.
+ELOMIRE.
+Mais s'il est contre nous, peut-il etre des notres ?			[60]
+LAZARILLE.
+On ramene souvent les gens au bon chemin,
+Et je vous en reponds, s'il n'est pas medecin ;
+Mais s'il est tel, ma foi, l'attente est ridicule,
+Je n'en connais pas un moins tetu que sa mule.
+ELOMIRE.
+Ah ! Je suis donc perdu, Lazarile.
+LAZARILLE.
+Pourquoi ?			[65]
+ELOMIRE.
+C'en est un ; qu'en dis-tu, ma femme ?
+ISABELLE.
+Je le crois ; 
+Mais pourquoi diantre aussi, vous mites-vous en tete 
+De jouer ces gens la ?
+ELOMIRE.
+Que veux-tu ? J'etais bete : 
+Mais quoi ! J'ai fait la faute, et je la paye bien.
+LAZARILLE.
+Bon courage, Monsieur, peut-etre n'est-ce rien : 			[70]
+L'on voit beaucoup de gens prendre pour sortilege 
+Ce qui n'est que poison.
+ELOMIRE.
+Mais comment le saurais-je ?
+LAZARILLE.
+Vous en allez bientot etre tout eclairci,
+L'Orvietan et Barry s'en vont venir ici :
+Je les en ai pries ce matin par votre ordre ;			[75]
+Si ceux-la n'y font rien, personne n'y peut mordre.
+ELOMIRE.
+Je le sais mieux que toi ; nous avons autrefois
+Etudie sous eux, et des jours plus de trois :
+Et sans eux, ce talent que j'ai pour le comique,
+Ce talent dont je charme, et dont je fais la nique			[80]
+Aux plus fameux bouffons, eut avant le berceau,
+En malheureux mort-ne, rencontre son tombeau.
+ISABELLE.
+Le Ciel l'eust-il permis?
+ELOMIRE.
+Mais, ma chere Isabelle,
+Sans lui nous verrions-nous une chambre si belle :
+Ces meubles precieux sous de si beaux lambris ;			[85]
+Ces lustres eclatants, ces cabinets de prix ;
+Ces miroirs, ces tableaux, cette tapisserie,
+Oui seule epuisa l'art de la Savonnerie :
+Enfin, tous ces bijoux qui te charment les yeux,
+Sans ce divin talent seraient-ils en ces lieux ?			[90]
+ISABELLE.
+Non, ils n'y seraient pas ; mais nous vous verrions sage.
+Et cela suffirait dans notre mariage :
+Car, enfin, dites-moi, sans ces maudits talents,
+Auriez-vous entrepris et les Dieux et les gens ?
+Et sans cette entreprise, aussi sotte qu'impie,			[95]
+Auriez-vous ces acces qui passent la folie ?
+Je n'entrepris de trop que les seuls medecins,
+Puisque pour s'en venger il sont mes assassins :
+Mais qui ne l'eut pas fait en une conjoncture
+Ou nous vimes leur art borne par la nature,			[100]
+Lorsque sans son secours, que meme il n'offrait pas, 
+Elle tira Daphne des portes du trepas.
+SCENE II. Cascaret, Elmire, Isabelle, Lazarille.
+ISABELLE.
+Que veux-tu, Cascaret ?
+CASCARET.
+C'est Monsieur qu'on demande.
+ELOMIRE.
+Qui ?
+CASCARET.
+Deux hommes, dont l'un a la barbe fort grande ; 
+L'autre fort courte.
+LAZARILLE.
+Bon, Monsieur, ce sont nos gens.			[105]
+ELOMIRE, a Lazarile.
+Va les faire monter.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous, entrez la dedans.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III. Bary, L'Orvietan, Elomire.
+Tous refusent le fauteuil et la chaise a dos, et veulent prendre le placet par ceremonie, en se faisant de grandes reverences les uns aux autres.
+BARY.
+L'humilite trop ravalee,
+Cache souvent beaucoup d'orgueil :
+C'est pourquoi dans une assemblee,
+Le plus grand doit d'abord s'emparer du fauteuil			[110]
+Le plus petit, tout au contraire,
+Toujours honteux de la misere,
+Ne doit se placer qu'au bas bout,
+Et ne parler jamais que nu-tete et debout.
+ELOMIRE.
+Par cette regle qui decide			[115]
+Ce point entre nous debattu,
+Celui de vous deux qui preside
+Doit prendre ce fauteuil, ou passer pour tetu :
+Car je ne puis sans meconnaitre
+Que l'un et l'autre fut mon maitre,			[120]
+Ni sans meriter mille coups,
+Me seoir ni me couvrir, sans m'eloigner de vous.
+L'ORVIETAN.
+La chosse a bien chanche de face, 
+Depuis le temps dont fou parlez : 
+Fou n'etiez lors qu'une limace 			[125]
+Et qu'un pauvre serpent ; maintenant fou folez : 
+Ma fou folez a tire d'ailes.
+Les Taparins et les Padelles
+Ne seraient que fos ecoliers,
+Dont la Cour, chaque jour, fou coufre de lauriers.			[130]
+ELOMIRE.
+Il est vrai qu'avec quelque gloire
+L'on me voit paraitre a la Cour ;
+Et sans par trop m'en faire accroire
+Je sais faire figure en ce brillant sejour;
+Mais quelque rang que l'on m'y donne,			[135]
+Et quelque eclat qui m'environne,
+Je ne prendrai point le dessus:
+Si je vois qui je suis, je sais ce que je fus.
+BARY.
+L'humilite, je vous l'avoue,
+Quand elle part du fond du coeur			[140]
+Fraichement sorti de la boue.
+Merite qu'on l'estime et qu'on lui fasse honneur :
+Mais a parler sans artifice,
+Je croirais avecque justice
+Devoir tenir mon quant-a-moi,			[145]
+Si j'etais, comme vous, le premier fou du Roi.
+LAZARILLE, a Bary.
+Dites bouffon, Monsieur, le nom de fou nous choque.
+BARY.
+Ah ! L'ignare ! Entre nous, ce terme est univoque ;
+Qui dit fou, dit bouffon ; qui dit bouffon, dit fou.
+LAZARILLE.
+Quoi, comme qui dirait, ou chou-vert, ou vert-chou ? 			[150]
+BARY.
+Tout de meme...
+LAZARILLE.
+En ce cas, mon maitre est l'un et l'autre ; 
+Car c'est un grand bouffon.
+ELOMIRE.
+Taisez-vous, valet notre ; 
+Je ne demeure pas bien d'accord de ce fait.
+BARY, s'asseyant brusquement dans le fauteuil.
+Je vais vous le prouver et fort clair et fort net.
+Soyez-vous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Apprenez, mes illustres confreres,			[155]
+Que tout notre art consiste en deux points necessaires :
+Le premier, c'est d'apprendre a grimacer des mieux ;
+L'autre, a bien debiter ces grands charmes des yeux,
+Ces gestes contrefaits, cette grimace affreuse,
+Dont on fait toujours rire une troupe nombreuse.			[160]
+Dedans ce premier point, nous ne sommes que fous ;
+Mais, dans l'autre, bouffons.
+LAZARILLE.
+De grace, expliquez-vous,
+Je ne vous entends point.
+BARY.
+Par exemple, Elomire 
+Veut se rendre parfait dans l'art de faire rire ;
+Que fait-il, le matois, dans ce hardi dessein ?			[165]
+Chez le grand Scaramouche il va soir et matin.
+La, le miroir en main, et ce grand homme en face,
+Il n'est contorsion, posture ni grimace,
+Que ce grand ecolier du plus grand des bouffons,
+Ne fasse et ne refasse en cent et cent facons :			[170]
+Tantot pour exprimer les soucis d'un menage,
+De mille et mille plis il fronce son visage ;
+Puis joignant la paleur a ces rides qu'il fait,
+D'un marI malheureux il est le vrai portrait.
+Apres, poussant plus loin cette triste figure,			[175]
+D'un cocu, d'un jaloux, il en fait la peinture;
+Tantot a pas comptez, vous le voyez chercher
+Ce qu'on voit par ses yeux,qu'il craint de rencontrer;
+Puis s'arretant tout court, ecumant de colere,
+Vous diriez qu'il surprend une femme adultere,			[180]
+Et l'on croit, tant ses yeux peignent bien cet affront,
+Qu'il a la rage au coeur, et les cornes au front.
+Ensuite...
+ELOMIRE.
+C'est assez, je l'entends et l'avoue,
+Je suis fou quand j'apprends, et bouffon quand je joue.
+BARY.
+Justement. Mais en quoi vous pouvons-nous servir ?			[185]
+ELOMIRE.
+En connaissant mes maux, et les pouvant guerir.
+BARY.
+Vous n'en pouvez douter, sans une erreur extreme,
+Je vous garantis sain, fussiez-vous le mal meme,
+Et l'Orvietan, sans doute, est de mon sentiment.
+L'ORVIETAN.
+Oui, s'il s'achit ici de poison seulement.			[190]
+Ma foussiez-fou larte d'aspic et de viperes,
+Lio forte et l'arsenic proulast-il fos fisceres ;
+Deja fos intestins en foussent-ils ronchez,
+Et foussiez-fou mordou de cent chians enrachez ;
+Ne crainde pu la mort, ni que le mal empire :			[195]
+Foici moi, l'Orvietan, et cela c'est tout dire.
+LAZARILLE.
+Mais, Messieurs, si mon maitre etait ensorcele ?
+BARY.
+Je le gueris, te dis-je, et fut-il endiable :
+Mieux je gueris les maux, plus ils sont incurables.
+ELOMIRE.
+Dieu benisse des gens si bons et si capables !			[200]
+BARY.
+Quel est donc votre mal ?
+ELOMIRE.
+Il est tel, mes amis, 
+Que sans vous je suis mort, et peut-etre encor pis.
+BARY.
+Et peut-etre encor pis ? La mort est, ce me semble, 
+Le suc et le pressis de tous les maux ensemble : 
+On remedie a tout, dit-on, fors qu'a la mort.			[205]
+ELOMIRE.
+Il est vrai ; sachez donc enfin quel est mon sort. 
+Mon Amour medecin, cette illustre satyre
+Qui plut tant a la Cour, et qui la fit tant rire ;
+Ce chef-d'oeuvre qui fut le fleau des medecins,
+Me fit des ennemis de tous ces assassins,			[210]
+Et du depuis leur haine, a ma perte obstinee,
+A toujours conspire contre ma destinee.
+BARY.
+Ce n'est pas sans sujet qu'on dit a ce propos
+Plures medecinam, nutrire nefandos.
+ELOMIRE.
+Ce n'est pas sans sujet, en effet, car moi-meme			[215]
+J'eprouve chaque jour cette malice extreme :
+Ecoutez. L'un d'entre eux, dont je tiens ma maison,
+Sans vouloir m'alleguer pretexte ni raison,
+Dit qu'il veut que j'en sorte, et me le signifie :
+Mais n'en pouvant sortir ainsi, sans infamie,			[220]
+Et d'ailleurs ne voulant m'eloigner du quartier,
+Je pare cette insulte augmentant mon loyer.
+Dieu sait si cette dent que mon hote m'arrache,
+Excite mon courroux, toutefois, je le cache ;
+Mais quelque temps apres que tout fut termine,			[225]
+Quand mon bail fut refait, quand nous l'eumes signe,
+Je cherche a me venger, et ma bonne fortune
+M'en fait trouver d'abord la rencontre opportune :
+Nous avions resolu, mes compagnons et moi,
+De ne jouer jamais, excepte chez le Roi.			[230]
+Devant ce medecin, ni devant la sequelle :
+Pourtant, soit a dessein de nous faire querelle ;
+Soit par d'autres motifs, la femme de ce fat
+Vint pour nous voir jouer, mais elle prit un rat :
+Car la mienne aussitot en etant avertie,			[235]
+Lui fit danser d'abord un branle de sortie. 
+Comme alors je croyais que tout m'etait permis,
+Je negligeai d'en dire un mot a mes amis.
+Las ! J'aurais prevenu, par la, ce que ce here,
+Pour venger cet affront, ne manqua pas de faire.			[240]
+Je fis donc ce faux pas ; tandis ce raffine
+Prevint toute la Cour dont je me vis berne.
+Car par un dur arret qui fut irrevocable,
+On nous ordonna presque une amende honorable.
+Je vais, je viens, je cours, mais j'ai beau tempeter,			[245]
+On me ferme la bouche, et loin de m'ecouter,
+Taisez-vous, me dit-on, petit vendeur de baume,
+Et croyez qu'Esculape est plus grand Dieu que Morne.
+Apres ce coup de foudre, il fallut tout souffrir ;
+Ma femme en enragea, je faillis d'en mourir ;			[250]
+Et ce qui fut le pis, pendant ma maladie,
+Fallut de mes bourreaux, souffrir la tyrannie.
+Ma femme les manda, sans m'en rien temoigner.
+D'abord qu'ils m'eurent vus, faut saigner, faut saigner,
+Dit notre bredouilleur. Ah ! n'allons pas si vite,			[255]
+L'on part toujours a temps, quand on arrive au gite,
+Dit Monsieur le lambin, C'est la bien decider,
+Dit un autre, il ne faut ni saigner ni tarder,
+Si l'on tarde, il est mort, si l'on saigne, hydropique ;
+Et notre peu d'espoir n'est plus qu'en l'emetique ;			[260]
+Chacun des trois s'obstine et soutient son avis,
+Et tous trois, tour a tour, enfin furent suivis :
+L'on saigna, l'on tarda, l'on donna l'emetique,
+Et je fus fort longtemps leur plus grande pratique.
+A la fin je gueris, mais s'il faut l'avouer,			[265]
+Ce fut par le plaisir que j'eus de voir jouer
+Mon Amour, medecin, par mes medecins memes ;
+Car malgre mes chagrins et mes douleurs extremes,
+J'admirai ma copie en ces originaux,
+Et je tirai mon mal d'ou j'avais pris mes maux.			[270]
+BARY.
+C'est ainsi qu'un miracle en a produit un autre.
+ELOMIRE.
+Si j'ai fait mon miracle, il faut faire le votre ?
+BARY.
+Nous vous l'avons promis, non pas semel, mais bis. 
+Mais, baste ; Operibus credita, non verbis.
+L'ORVIETAN.
+Res faciunt fidem, non verba, dit Flamine.			[275]
+ELOMIRE.
+Soit, voila de mes maux la premiere origine ;
+Ecoutez la seconde. Aussitot que mon coeur 
+Eut repris tant soit peu de force et de vigueur ;
+Et que de mon esprit la facheuse pensee 
+Des suites de la mort se fut un peu passee, 			[280]
+Je pris tant de plaisir a voir tous les matins,
+Mes grotesques docteurs precher sur mes bassins, 
+Et humer a plein nez leur fumante puree.
+Que de ma guerison j'ai la preuve assuree ;
+Car ma force redouble, et je deviens plus frais, 			[285]
+Et plus gros et plus gras que je ne fus jamais. 
+Lors je monte au theatre, ou par de nouveaux charmes,
+Mon Amour medecin fait rire jusqu'aux larmes,
+Car en le confrontant a ses originaux,
+Je l'avais corrige jusqu'aux moindres defauts.			[290]
+Ainsi, d'un nouveau bruit cette merveille eclate ;
+Chacun y court en foule epanouir sa rate ;
+Et quoi qu'a trente sols, il n'est point de bourgeois 
+Qui ne le veuille voir du moins cinq ou six fois.
+Jugez mes chers amis, si je ris dans ma barbe,			[295]
+De voir ainsi dauber la casse et la rhubarbe ;
+Et si, voyant grossir chaque jour mon gousset
+De ce douzain bourgeois j'ai le coeur satisfait.
+Je l'eus, n'en doutez point, et de toute maniere ;
+Mais que la joie est courte, alors qu'elle est entiere,			[300]
+Et qu'on voit rarement, du soir jusqu'au matin,
+Durer sans changement le cours d'un beau destin.
+Je vivais donc ainsi dans une paix profonde ;
+Plus heureux que mortel qui fut jamais au monde,
+Quand un soir, revenant du theatre chez moi,			[305]
+Un fantome hideux que de loin j'entrevois,
+Se plante sur ma porte et bouche mon allee :
+Je n'en fais point le fin, mon ame en fut troublee ;
+Et troublee a tel point, qu'etant tombe d'abord,
+On ne me releva que comme un homme mort.			[310]
+Je revins ; mais helas ! Depuis cette aventure,
+J'ai souffert plus de maux qu'un damne n'en endure ;
+Et, sans exagerer, je vous puis dire aussi
+Qu'homme n'a plus que moi de peine et de souci.
+Vous en voyez l'effet de cette peine extreme ;			[315]
+En ces yeux enfonces, en ce visage bleme ;
+En ce corps qui n'a plus presque rien de vivant,
+Et qui n'est presque plus qu'un squelette mouvant.
+BARY.
+Ou souffrez-vous le plus, au fort de ces tortures ?
+ELOMIRE.
+Par tout egalement, jusques dans les jointures :			[320]
+Mais ce qui plus m'alarme, encor qu'il le dut moins,
+C'est une grosse toux, avec mille tintouins
+Dont l'oreille me corne.
+BARY.
+O les grandes merveilles ! 
+Les cornes sont toujours fort proches des oreilles.
+ELOMIRE.
+J'aurais des cornes, moi ? Moi je serais cocu ?			[325]
+L'ORVIETAN.
+On ne dit pas qu'encor fou le soyez actu ;
+Mais etant marie, c'est chose tres certaine,
+Que fous l'etes, du moins, en puissance prochaine.
+ELOMIRE.
+Ah ! Treve de puissance et d'acte, s'il vous plait,
+Et de grace, laissez le monde comme il est ;			[330]
+Je ne suis point cocu, ni ne le saurais etre,
+Et j'en suis, Dieu merci, bien assure.
+BARY.
+Peut-etre.
+ELOMIRE.
+Sans peut-etre ! Qui forge une femme pour soi,
+Comme j'ai fait la mienne, en peut jurer sa foi.
+BARY.
+Mis quoi que par Arnolphe, Agnes ainsi forgee,			[335]
+Elle l'eut fait cocu, s'il l'avait epousee !
+ELOMIRE.
+Arnolphe commenca trop tard a la forger ;
+C'est avant le berceau qu'il y devait songer ;
+Comme quelqu'un l'a fait.
+L'ORVIETAN.
+On le dit.
+ELOMIRE.
+Et ce dire 
+Est plus vrai qu'il n'est jour...
+BARY ET L'ORVIETAN, s'eclatant de rire en meme temps.
+Ah ! Ah ! Ah !			[340]
+ELOMIRE.
+Pourquoi rire ?			[340]
+BARY.
+Bons Dieux, qui ne rirait ? Quoi vous, comedien, 
+Vous piquerez d'un nom, dont mille gens de bien 
+Se moquent tous les jours !
+ELOMIRE.
+Qui le voudra s'en moque ; 
+Je n'en fais point le fin : le nom de sot me choque.
+BARY.
+Mais,de grace, parlons un peu sans passion,			[345]
+Homme fit-il jamais votre profession,
+Qui femme eut pour lui seul ?
+ELOMIRE, brusquement.
+Et pourquoi pour les autres ?
+BARY.
+Parce que parmi vous toutes choses sont votres : 
+Point de mien, point de sien, non plus qu'au siecle d'or.
+ELOMIRE, haussant la voix.
+Bon pour les Tabarins et leur maitre Mondor ;			[350]
+Bon pour leurs descendants qui partout le royaume
+Courent ainsi que vous y debiter leurs baumes ;
+L'onguent pour la brulure et le contre-poison.
+BARY, haussant la voix et se mettant en colere.
+Elomire, morbleu !... Point de comparaison ;
+Le nom d'Operateur est d'un trop haut etage,			[355]
+Pour etre ravale par un... Sang bleu ! j'enrage !
+ELOMIRE, du meme ton.
+Je n'enrage pas moins, ventre ! et si ce n'etait
+Que vous etes chez moi, le gourdin trotterait.
+L'ORVIETAN, du meme ton.
+Le gourdin trotterait ! Dis donc sur tes epaules,
+Tarte a la creme !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ELOMIRE, transporte de colere a ce tour de chapeau.
+Ah tete, a moi mes gens, des gaules ! 			[360]
+Lazarille, fondons sur ces croque-crapaud !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LAZARILLE.
+Ah ! Songez a vos maux :
+Et vous ressouvenez que par cette colere
+Vous perdez un secours qui vous est necessaire.
+ELOMIRE, voulant se jeter sur Bary et sur l'Orvietan, malgre Lazarile.
+N'importe que je perde! En dussai-je mourir,			[365]
+Je veux venger l'affront que je viens de souffrir.
+BARY, d'un ton menacant.
+Et bien donc, tu mourras, frenetique caboche ;
+Mais quoique ton trepas deja soit assez proche,
+Il n'arrivera point qu'en l'Hopital des fous,
+Tu ne sois couronne, comme le roi de tous.			[370]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ELOMIRE, etant reste seul avec Lazarille, et demeure tout d'un coup comme interdit et confus.
+Cent fois plus etourdi qu'un homme que la foudre
+A sans briser ses os, renverse sur la poudre ;
+Interdit et confus du faux pas que j'ai fait ;
+Je commence deja d'en ressentir l'effet ;
+Oui, j'apercois deja que tous mes maux redoublent,			[375]
+Que ma raison s'egare et que mes sens se troublent;
+Et si ton amitie ne vient a mon secours ;
+Lazarille, tu vois le dernier de mes jours.
+LAZARILLE.
+Mais pourquoi quereller, et par un pur caprice,
+Des gens venus expres pour vous rendre service ?			[380]
+ELOMIRE.
+Ah ne connais-tu pas ma trop jalouse humeur,
+Elle emporte mon ame avec tant de fureur,
+Que d'abord qu'on me parle,ou de femme ou de cornes,
+Ma raison est sans force et ma rage sans bornes.
+LAZARILLE.
+Sans ce faible, on vous eut gueri dans un Pater ;			[385]
+Mais, uno avulso, non deficit alter ;
+Comme dit doctement, votre ami Carmeline :
+Quittez donc cet air triste, et cette humeur chagrine ;
+Car, sans etre connu par mon invention,
+Vous aurez aujourd'hui la consultation			[390]
+Des trois plus grands docteurs qui soient dans le Royaume ;
+Mais ne les traitez pas en debiteurs de baume ;
+Ils sont tous medecins, et de la Faculte ;
+Vous savez ce qu'on doit a cette qualite.
+ELOMIRE.
+Je sais ce qu'on lui rend et ce qu'on lui doit rendre ;			[395]
+Et par la, je ne sais ce que j'en dois attendre ;
+Mais n'importe, en l'etat ou je me vois reduit,
+Je me soumets a tout, fut-ce sans aucun fruit.
+LAZARILLE.
+Allons donc?
+ELOMIRE.
+Je le veux, allons, aimable drille ; 
+Si je gueri jamais, je te donne ma fille.			[400]
+LAZARILLE.
+Votre fille pourrait, possible, etre plus mal ;
+Mais...
+ELOMIRE.
+Sans mais, rien ne vaut un valet si loyal.
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Alcandre, Geraste, Epistenez, Antoine, Le Suisse.
+La scene de cet acte est devant une grande maison, a la porte de laquelle il y a un Suisse, et ou arrivent les trois medecins sur leurs mules pour voir Elomire deguise en Turc, sous le nom du Bassa Sigale.
+ANTOINE.
+Suisse, est-ce ici l'Hotel de Monseigneur Sigale ?
+LE SUISSE.
+Dis Bassa, point Monsgneur ; ma queu-sti parpe sale ?
+ANTOINE.
+Ce sont ses medecins qui viennent le guerir.			[405]
+LE SUISSE.
+Martecins ? Pon, mon foi, pour fare ly mourir. 
+Martecins pons pouriots ; comme il disait, mon fame. 
+Quand dy leu drogueman, il y voumit son lame.
+ALCANDRE.
+Ouvrez, Suisse, ouvrez vite ; apres, tout a loisir,
+Vous cuverez le vin qui vous fait discourir.			[410]
+LE SUISSE.
+Moi, livre ? Point pour tout : ton chival n'est qu'un peste ;
+Moi point mal a mon pied, moi point mal a mon teste.
+ALCANDRE.
+Antoine, entrez dedans, et parlez a quelqu'un.
+LE SUISSE, presentant sa hallebarde a Antoine qui veut entrer dans la maison.
+Parti, si lentre toi ; moi ti...
+ALCANDRE, a part.
+Quel importun !
+Sans doute, il nous fera perdre quelque pratique.			[415]
+LE SUISSE, jouant de la hallebarde et faisant un petit saut apres.
+Moi pou les martecins fair touchour trique, nique ?
+Frisque, fraque, et pon fin pour moi Suisse, mon foi.
+ALCANDRE, voyant des Turcs dans la cour.
+Hola, gens du Bassa ; venez et parlez-moy ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'en vois six, et, parbleu ! Pas un d'eux ne s'avance ;
+Mais, enfin, les voici. Dieux ! Quelle contenance !			[420]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE II. Six Turcs, Alcandre, Geraste, Epistenez, Antoine, Le Suisse.
+ALCANDRE, aux Turcs faisant les reverences.
+Treve de reverence, et parlez, s'il vous plait : 
+Est-il heure d'entrer ; votre maitre est-il pret ?
+LE SUISSE, a Alcandre.
+Toi l'est fou martecin, n'entendre point ton langue.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ma foicy ly Dracman, fiche a li ton harangue.
+SCENE III. Le Dragoman, Les Six Turcs, Alcandre, Geraste, Epistenez, Antoine, Le Suisse.
+ANTOINE.
+Monsieur le Dragoman, peut-on voir le Bassa ? 			[425]
+Voici les medecins.
+LE DRAGOMAN.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mustapha, 
+Baroc, Mil-duc, Dalec, Messieurs, votre arrivee 
+Profite a Monseigneur, comme aux champs la rosee.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV. Elomire, Lazarille.
+LAZARILLE.
+Et bien, n'aurez-vous pas la consultation
+Que vous souhaitez tant, par mon invention ?			[430]
+Et, sans etre connu des batards d'Hippocrate,
+Ne leur pourrez-vous pas montrer et foi et rate,
+Et tripes et boudins ; c'est-a-dire, en un mot,
+Leur dire tous vos maux, jusqu'a ceux du garrot.
+ELOMIRE.
+Qu'entends-tu par ces maux du garrot, il me semble			[435]
+Que cela sent le trot, et le galop, et l'amble ;
+C'est-a-dire la bete, et je ne la suis pas.
+LAZARILLE.
+Combien donc s'en faut-il ? Par ma foi ! Pas deux pas.
+Oui, vous etes cent fois moins homme que pecore,
+Monsieur, je vous l'ai dit, et je le dis encore :			[440]
+Ce faible soupconneux, enfin, vous rendra fou ;
+Et si j'y suis trompe, qu'on me casse le cou.
+Quoi ! Des qu'on dit un mot qui vous semble equivoque,
+Vous y trouvez a mordre, et votre esprit s'en choque !
+ELOMIRE.
+Mais quand on dit qu'un homme en tient sur le garrot, 			[445]
+Qu'est-ce a dire en francais, sinon qu'il est un sot ? 
+Et sot, en cet endroit, n'a-t-il pas un sens double ?
+LAZARILLE.
+Mon maitre, sur ma foi, peu de chose vous trouble ;
+Vous trouveriez, je pense, a tondre sur un oeuf :
+Mais, pour notre repos, fussiez-vous deja veuf :			[450]
+Aussi bien, sans cela, je vous crois sans remede,
+Dans ce faible facheux, qui si fort vous possede.
+ELOMIRE.
+Tel est l'ordre fatal de mes cruels destins.
+LAZARILLE.
+Mais si, comme il se peut, Messieurs vos medecins
+Vont toucher cette corde ?
+ELOMIRE.
+En ce cas, Lazarile, 			[455]
+Il faudra tout souffrir, quoique fasse ma bile.
+SCENE V. Le Dragoman, Elomire, Lazarile.
+LE DRAGOMAN.
+Seigneur, tes medecins sont la-bas ?
+ELOMIRE.
+Fais monter.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LAZARILLE, ayant mis trois sieges au cotes d'Elomire. 
+Monsieur, contraignez-vous ?
+ELOMIRE.
+Je te vais contenter.
+SCENE VI. Alcandre, Geraste, Epistenez, Elomire, Lazarile.
+ELOMIRE, ayant fait asseoir les medecins a ses cotes.
+Votre gloire, Messieurs, doit etre sans seconde,
+Qu'un homme tel que moi vienne du bout du monde,			[460]
+Et meme du plus beau de tous ses bouts divers,
+Chercher ce qu'en vous seuls on trouve en l'Univers,
+C'est-a-dire un remede a des maux incurables.
+ALCANDRE.
+Nous ne guerissons point, Seigneur, des maux semblables
+Et si les tiens sont tels, il n'etait pas besoin			[465]
+Que ta Hautesse vint nous chercher de si loin.
+ELOMIRE.
+Si je les nomme ainsi, c'est que je les mesure
+Aux cuisantes douleurs que sans cesse j'endure :
+Car en comparaison de ces vives douleurs,
+Tous les maux des enfers ne sont rien que des fleurs.			[470]
+GERASTE.
+Quels que soient ces grands maux, si l'art et la nature
+Y peuvent quelque chose, on en verra la cure ;
+Car nous te pouvons dire ici, sans vanite,
+Que tu vois en nous trois toute la Faculte ;
+C'est-a-dire, en un mot, tout le savoir du monde,			[475]
+Touchant notre science et sublime et profonde.
+Mais, Seigneur, je m'etonne, et non pas sans raison,
+Qu'ayant ete nourri loin de notre horizon,
+Tu nous parles francais, et mieux qu'un Francais meme.
+ELOMIRE.
+J'en ferais tout autant, si j'etais en Boheme,			[480]
+En Pologne, en Suede, en Prusse, en Danemark,
+A Venise, au milieu de la place Saint-Marc,
+En Espagne, en Savoie, en Suisse, en Angleterre ;
+Enfin, dans tous les lieux qu'on habite sur terre.
+ALCANDRE, demi-bas.
+Voila de la monnaie a duper bien des gens.			[485]
+ELOMIRE, bas a Lazarile.
+Ils m'appellent trompeur.
+LAZARILLE, bas a Elomire.
+St ! st !
+ELOMIRE, bas.
+Ah ! je t'entends.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Messieurs, revenons donc a notre maladie.
+ALCANDRE.
+Est-ce la lepre ?
+ELOMIRE.
+Non.
+GERASTE.
+Quoi donc, l'epilepsie ?
+Ces maux-la sont communs, dit-on, dans le Levant ?
+ELOMIRE.
+Quelque communs qu'ils soient, j'en suis pourtant exempt :			[490]
+Grace au ciel, je suis net, et jamais je ne tombe.
+ALCANDRE.
+Dis-nous donc sous quel mal ta Hautesse succombe ?
+Car, excepte ceux-la, je n'en connus jamais
+Aucun qui meritat les plaintes que tu fais :
+Car tous ces autres maux, comme goutte et gravelle,			[495]
+Nous les traitons ici de pure bagatelle ;
+Et si quelqu'un de nous ne les guerissait pas
+En moins de quatre jours, on n'en ferait nul cas.
+ELOMIRE.
+Tous ces maux-la chez nous sont pourtant incurables.
+ALCANDRE.
+Vraiment, vos medecins sont donc bien peu capables,			[500]
+Et j'avoue a present que c'est avec raison
+Que ta Hautesse cherche ailleurs sa guerison.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ca donc,un peu le bras. Ce pouls n'est pas trop juste.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, qu'en dites-vous?
+GERASTE.
+La, la...
+ALCANDRE.
+D'un sang adulte, 
+Proviennent quelquefois ces inegalites ; 			[505]
+Ne nous y trompons pas !
+GERASTE.
+Ho, ho, Monsieur, tatez : 
+Cette inegalite parait bien davantage.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ALCANDRE.
+En effet, je la vois jusques sur son visage :
+Il etait tout a l'heure et vif et colore,
+Et je le vois tout pale, et tout defigure.			[510]
+GERASTE.
+Ta Hautesse sent-elle au fond de ses entrailles
+De nouvelles douleurs?
+ELOMIRE, Interdit de peur.
+Oui, Non.
+GERASTE.
+Tu nous railles ?
+ELOMIRE.
+Non, je ne raille point.
+ALCANDRE.
+Dis donc, que ressens tu ? 
+As-tu plus de douleurs, es-tu plus abattu ?
+ELOMIRE, interdit de plus en plus.
+Oui, Non ; je ne sais.
+ERASTE, a Alcandre.
+Quelque acces qui redouble 			[515]
+Vient d'emouvoir sa bile, et c'est ce qui le trouble.
+ELOMIRE, tout transi de peur.
+Ah! je me meurs !
+ALCANDRE.
+Seigneur, parle donc, reponds-nous ?
+GERASTE.
+Courage, ce n'est rien ; je retrouve son pouls.
+ALCANDRE.
+En effet, je le sens, et fort ferme et fort juste.
+Voyez meme son teint, et comme il se rajuste.			[520]
+ELOMIRE, reprenant coeur a ces paroles.
+Vous dites vrai, Messieurs, je me porte bien mieux.
+GERASTE, a Alcandre.
+Ce symptome denote un corps bien bilieux.
+ALCANDRE, a Geraste.
+Vous croyez donc, Monsieur, qu'il vienne de la bile ?
+GERASTE.
+Oui, vraiment, il en vient, et de la plus subtile.
+ALCANDRE.
+S'il venait de la bile, il aurait plus dure,			[525]
+Et meme son esprit se serait egare.
+GERASTE.
+Ne l'a-t-il pas ete ? Ces oui, non...
+ELOMIRE, d'un ton menacant.
+Messieurs, treve
+D'egarement.
+LAZARILLE, bas a Elomire.
+St ! st !
+ELOMIRE, bas a Lazarille.
+Lazarille, je creve ! 
+Ils m'ont fait tant de peur, que j'ai pense mourir, 
+Et me traitent de fou...
+LAZARILLE, bas.
+Songez a vous guerir ; 			[530]
+Vous en pourrez un jour faire une comedie.
+ELOMIRE, aux medecins.
+Ca, Messieurs, dites donc, quelle est ma maladie, 
+En savez-vous la cause ?
+ALCANDRE.
+On etait sur ce point, 
+Tout a l'heure.
+ELOMIRE.
+Pourquoi n'y revenez-vous point ?
+ALCANDRE.
+Quand tu parles, Seigneur, c'est a nous a nous taire ; 			[535]
+Et tu t'entretenais avec ton secretaire.
+ELOMIRE.
+Je ne lui parle plus a present.
+GERASTE.
+Donc, Seigneur, 
+Je disais que ton mal provenait d'une humeur 
+Bilieuse ; et Monsieur soutenait le contraire, 
+Quand pour ne t'interrompre, il a fallu nous taire.			[540]
+ALCANDRE.
+Le contraire est aussi, ma foi, bien evident ;
+Car qui dit bilieux, dit jaloux et mordant,
+Et Sa Hautesse n'est pourtant ni l'un ni l'autre.
+ELOMIRE.
+Ce sentiment est juste, et fort conforme au notre.
+GERASTE.
+Il ne l'est pas au mien ; mais peut-etre, Seigneur 			[545]
+N'approuveras-tu pas une si libre humeur ; 
+Auquel cas je me tais.
+ELOMIRE.
+Je me tairai moi-meme, 
+Plutot que d'ignorer d'ou vient mon mal extreme ; 
+Car comme je recherche ici la verite, 
+Je veux que l'on me parle avec sincerite.			[550]
+ALCANDRE.
+Ta Hautesse a raison ; car qui veut qu'on le trompe, 
+Dit l'un de nos auteurs, merite qu'on le rompe : 
+C'est-a-dire qu'on laisse enraciner ses maux, 
+Jusqu'a pourrir sa chair, et ses nerfs, et ses os.
+ELOMIRE.
+Parlez donc librement, avec toute assurance			[555]
+D'avoir, si je gueris, une ample recompense.
+GERASTE.
+Je disais donc, Seigneur, et je te le redis,
+Que tout ce qu'il allegue est contre mon avis.
+Il dit, pour soutenir que ce n'est point la bile
+Qui cause tous tes maux, en corrompant ton chyle,			[560]
+Que tu ne fus jamais medisant, ni jaloux :
+Peut-on parler ainsi, sans etre au rang des fous ?
+Dites-moi, mon confrere, en bonne conscience,
+Avecques sa Hautesse avez-vous pris naissance ?
+Est-ce vous qui l'avez conduite jusqu'ici :			[565]
+D'ou la connaissez-vous, pour en parler ainsi ?
+ALCANDRE.
+Oh ! La belle incartade, et la bonne anerie :
+Ne connaissons-nous rien par physionomie ?
+GERASTE.
+Vraiment si c'est par la que vous jugez des maux,
+Et que vous les pensez, il est bien des lourdauds ;			[570]
+Car vous ne manquez pas, comme on sait, de pratique.
+ALCANDRE.
+Non, je n'en manque pas, et c'est ce qui vous pique
+Volontiers.
+GERASTE.
+Nullement ; mais, Monsieur, revenons, 
+Comme dit galamment Panurge, a nos moutons.
+ELOMIRE.
+C'est bien dit, car deja j'etais las de querelle.			[575]
+ALCANDRE.
+Ces petits differents ne viennent que du zele
+Que nous avons, Seigneur, pour ceux que nous traitons.
+ELOMIRE.
+Ce zele est indiscret, car, tandis, nous souffrons.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais vous, Monsieur, d'ou vient un si profond silence ? 
+Vous n'avez pas encor dit un mot.
+EPISTENEZ.
+Quand je pense			[580]
+A tout ce que je vois sur ton visage ecrit,
+Un tel etonnement vient saisir mon esprit,
+Que j'en suis stupefait.
+ELOMIRE, a Alcandre et a Geraste.
+Autre physionomie ?
+ALCANDRE.
+Oui, Seigneur, c'en est un, et des grands du Royaume ; 
+Je crois qu'aupres de lui le Maltois ne sait rien.			[585]
+ELOMIRE.
+Le Maltois ? Je me trompe, ou je le connais bien.
+Oui, jadis j'en vis un qu'on nommait de la sorte ;
+Mais celui-la passait pour grand fourbe a la Porte :
+On nomme ainsi, Messieurs, la Cour du grand Seigneur.
+ALCANDRE.
+Celui dont nous parlons est fort homme d'honneur,			[590]
+Fort savant, fort expert ; mais Monsieur le surpasse.
+ELOMIRE, a Epistenez.
+De grace, sachons donc, Monsieur, ce qui se passe
+Dans un si bel esprit, tandis que vos regards
+Roulent tout egares sur moi de toutes parts.
+EPISTENEZ.
+Ah ! S'il m'etait permis, Seigneur, de tout te dire,			[595]
+Tu guerirais d'un mal qui tous les jours empire.
+ELOMIRE, se levant brusquement, les medecins se levent aussi.
+De quel mal ? Dites vite ; ah ! Si j'en puis guerir,
+Votre fortune est faite.
+EPISTENEZ, a part, mais un peu haut.
+En dussai-je mourir, 
+Je m'en vais tout lui dire ; helas ! Que vais-je faire ? 
+Qui dit vrai chez les Grands, peut-il jamais leur plaire ?			[600]
+ELOMIRE.
+Oui, vous me plairez; je vous...
+EPISTENEZ.
+N'en jure point ; 
+D'autres que toi, Seigneur, m'ont manque sur ce point, 
+Qui ne me semblaient pas d'humeur plus inegale.
+ELOMIRE.
+Quoi ! Vous traitez ainsi le grand Bassa Sigale ?
+Et ce grand rejeton du sang des Ottomans,			[605]
+Sera cru sans parole, ainsi que vos Normands ?
+EPISTENEZ.
+Tu me commandes donc, Seigneur, que je te die
+Ce que de ta personne et de ta maladie,
+Les regles de mon art me viennent d'expliquer ?
+Et tu promets, de plus, de ne pas t'en piquer ?			[610]
+ELOMIRE.
+Oui, je vous le promets ; et je jure, au contraire,
+Que vous me facheriez, si vous le vouliez taire.
+EPISTENEZ.
+Sur ta parole donc, je te dirai, Seigneur,
+Pour montrer que mon art n'est point un art pipeur,
+Et que sur lui tu peux fonder tes esperances,			[615]
+Touchant ta guerison, que vainement tu penses
+Passer dans mon esprit pour ce Bassa fameux
+Dont tu portes le nom.
+ELOMIRE, brusquement et haut.
+Qui suis-je donc ? Un gueux ?
+EPISTENEZ.
+Je vois qu'avec raison j'avais voulu me taire ;
+Car tu parles d'un ton qui n'est pas sans colere :			[620]
+Demeurons-en donc la, c'est le plus assure.
+ELOMIRE.
+Non, Monsieur, je ne fus jamais plus modere,
+Si j'ai parle d'un ton trop haut pour vos oreilles,
+Je le rabaisserai.
+EPISTENEZ.
+Tu dis toujours merveilles, 
+Seigneur, mais...
+ELOMIRE.
+Point de mais ; soit pour ou contre moi :			[625]
+Parlez, j'ecoute tout, j'en engage ma foi : 
+Et si vous me voyez dans la moindre colere 
+Taisez-vous pour me perdre, et pour vous satisfaire.
+EPISTENEZ.
+Je l'ai donc dit, Seigneur, que mon art met au jour
+Le tour ingenieux que tu fais a la Cour,			[630]
+En t'y faisant passer pour le Bassa Sigale.
+ELOMIRE.
+Qui suis-je donc au vrai ?
+EPISTENEZ.
+Ce point est un dedale, 
+Ou, malgre tout mon art, je me trouve egare : 
+Car apres qu'a loisir je t'ai considere 
+Au front, aux yeux, au nez, a la barbe, a la bouche, 			[635]
+Et raisonne partout, sur tout ce qui te touche, 
+Je vois bien que tu viens de ce riche pays 
+Ou les Juifs ramasses demeurerent jadis.
+ELOMIRE, bas a Lazarile.
+Il dit vrai, je suis ne dedans la Friperie,
+Qu'autrement a Paris l'on nomme Juiverie.			[640]
+Lazarile, cet homme est habile en son art.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Poursuivez, s'il vous plait. Mais aussi, d'autre part, 
+Quand j'observe ton air, ta demarche et ta taille, 
+Je n'y trouve pour toi nulle marque qui vaille. 
+Et n'etait que ton front prend contre eux ton part y, 			[645]
+Je ne te croirais rien qu'un faquin travesti. 
+Mais d'un tel faquinisme, en vain je vois la marque, 
+Ce front que je te dis est le front d'un Monarque, 
+Et mon art est trompeur, ce que je ne crois pas, 
+Ou tu t'es vu naguere au rang des Potentats : 			[650]
+De ces diversites ne sachant point la cause, 
+Je n'en parlerai point.
+ELOMIRE.
+Bon, parlons d'autre chose.
+EPISTENEZ.
+Te plaira-t-il, Seigneur, que ce soit de ton mal?
+ELOMIRE.
+C'est comme je l'entends, s'il vous plait.
+EPISTENEZ.
+L'animal, 
+Disent tous nos auteurs, est sujet a cent choses ; 			[655]
+Mais dans la brute seule, on en connait les causes : 
+Et la raison en est, disent ces grands auteurs, 
+Qu'en la brute, aucun mal ne vient que des humeurs ; 
+Et comme ces humeurs sont toutes corporelles, 
+On connait aisement ces causes par les selles ;			[660]
+Car ces corps, une fois l'un a l'autre attaches,
+Ne se quittent jamais, sans etre entretaches.
+C'est alors qu'entassant remede sur remede,
+Un medecin triomphe, et que le mal lui cede ;
+Car pour grand qu'il puisse etre, il en aie dessus,			[665]
+Puisqu'ablata causa, tollitur effectus.
+Mais dans l'homme, Seigneur, il en va d'autre sorte :
+Les maux entrent chez lui par bien plus d'une porte,
+Et ces portes etant differentes en tout,
+Si l'on n'y prend bien garde, on n'en vient point a bout.			[670]
+Je m'explique, et pour mieux faire entendre ces choses,
+Je soutiens qu'un seul mal a souvent plusieurs causes.
+Par exemple, un poumon respire un mauvais air,
+Un air salpetrueux, propre a former l'eclair ;
+Sans doute un tel poumon, par telle nourriture,			[675]
+Serait en peu de temps reduit en pourriture,
+Si, d'abord qu'on commence a s'en apercevoir,
+Un savant medecin qui fait bien son devoir,
+Ne lui changeait cet air, le changeant de demeure.
+Puisque c'est le secret pour guerir de bonne heure,			[680]
+Personne ne saurait contester la-dessus,
+Puisqu'ablata causa, tollitur effectus.
+Mais si l'on joint a l'air qui ce poumon entiche,
+Une seconde cause, en vain on le deniche,
+Et l'on lui fait changer et d'air et de maison :			[685]
+Si cette cause dure, il est sans guerison.
+Par exemple, a Paris, l'air sale de nos boues,
+Me piquant les poumons, deja rougit mes joues ;
+Mais au lieu de choyer mes poumons entiches,
+Ils deviennent, enfin, fletris et desseches,			[690]
+Par l'effort que sans cesse ils font sur un theatre.
+Lors j'ai beau changer d'air, pour y mettre une emplatre,
+Mes poumons entiches ne gueriront jamais,
+Si je ne quitte aussi le metier que je fais.
+Mais si je quitte ensemble, et ville et comedie,			[695]
+Je vois bientot la fin de cette maladie.
+Personne ne saurait contester la-dessus,
+Puisqu'ablata causa, tollitur effectus.
+A ces causes, Seigneur, j'en peux joindre encore une,
+Qui, dans ce siecle ci, n'est que par trop commune;			[700]
+Mais, quand cette troisieme est jointe aux autres deux,
+On peut dire qu'un mal est des plus perilleux.
+Par exemple, attaque de cette maladie,
+On augmente son mal, faisant la comedie,
+Parce que les poumons trop souvent echauffes,			[705]
+Ainsi que je l'ai dit, s'en trouvent desseches.
+Et l'on en peut guerir, pourvu que l'on s'abstienne
+D'abord de comedie, et de comedienne.
+Mais alors que ce mal, dans un comedien,
+Augmente jour et nuit, parce qu'il ne vaut rien,			[710]
+Qu'il choque Dieux et gens dedans ses comedies,
+Le ciel seul peut alors guerir ses maladies :
+Et tous les medecins de notre Faculte
+Ne lui sauraient donner un seul brin de sante.
+Ce que je te dis la, d'un bouffon de theatre,			[715]
+Seigneur, n'est proprement qu'une image de platre
+Que j'expose a tes yeux, afin de t'expliquer
+Les principes des maux que tu peux t'appliquer.
+ELOMIRE.
+Quand il me connaitrait, fidele Lazarille,
+Pourrait-il mieux parler ?
+LAZARILLE, bas a Elomire.
+Sans doute,il est habile. 			[720]
+De pareils medecins ne sont pas du commun.
+EPISTENEZ.
+Par ce discours, Seigneur, te serais-je importun ?
+ELOMIRE.
+Au contraire, poussez, s'il vous plait.
+EPISTENEZ.
+De la these, 
+Puisque tu le permets, je viens a l'hypothese ; 
+Et je dis, ces Messieurs le diront du bonnet, 			[725]
+Qu'on ne te peut guerir, si tu ne parles net. 
+Oui, si tu ne nous dis l'histoire de ta vie, 
+C'est en vain que tu veux contenter ton envie ; 
+Au contraire, on pourra, par un beau quiproquo, 
+T'envoyer ad patres, Seigneur, incognito.			[730]
+ELOMIRE, en colere.
+Je ferai bien, sans vous, un si facheux voyage ; 
+N'en savez-vous pas plus ?
+ALCANDRE et ERASTE, ensemble.
+Non.
+ELOMIRE, brusquement.
+Pliez donc bagage : 
+Et vite, car de moi jamais vous ne saurez 
+Que ce que par votre art vous en devinerez. 
+Allez a la bonne heure, allez : mon secretaire 			[735]
+Va vous faire a chacun donner votre salaire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Fut-il jamais malheur a mon malheur egal ? 
+Quoi ! Je cherche et je trouve un remede a mon mal :
+On me l'offre, et je n'ai, pour sortir de misere,
+Qu'a raconter ma vie, et je ne le puis faire.			[740]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Mon cher Lazarile, approche, approche-toi ;
+Viens partager mes maux, et les plaindre avec moi,
+Puisque, pour mon malheur, je suis sans esperance
+D'y trouver, de ma vie, aucune autre allegeance.
+LAZARILLE.
+Qui cause donc en vous un si grand desespoir ?			[745]
+ELOMIRE.
+Tu l'ignores, apres ce que tu viens de voir ?
+LAZARILLE.
+J'ai fort peu de memoire, ou j'ai vu peu de chose, 
+Qui d'un tel desespoir puisse etre ainsi la cause.
+ELOMIRE.
+Quoi ! Tu n'as pas appris de ces trois medecins,
+Les plus doctes qui soient parmi ces assassins,			[750]
+Qu'ils ne sauraient guerir la moindre maladie,
+Si le souffre-douleurs ne leur conte sa vie ?
+LAZARILLE.
+Mais si je vous fais voir un autre medecin,
+Qui, sans que vous parliez, sans voir votre bassin.
+Sans vous tater le pouls, tout votre mal devine,			[755]
+En voyant seulement un peu de votre urine :
+Et si ce medecin vous guerit a l'instant,
+Des remedes qu'il donne, en serez-vous content ?
+ELOMIRE.
+Quoi ! Par l'urine seule il devine les causes,
+Et les effets des maux ?
+LAZARILLE.
+Il fait bien d'autres choses.			[760]
+ELOMIRE.
+Et comment donc s'appelle un homme si fameux ?
+LAZARILLE.
+On le nommait jadis le medecin de Beux ;
+Mais depuis quelque temps sa haute renommee
+M'a fait changer de nom, le changeant de contree,
+Et l'on nomme a present ce medecin savant,			[765]
+Du bourg de Sennelay l'Esculape vivant.
+ELOMIRE.
+Quoi ! De ce Sennelay, pour qui, sur notre Seine, 
+Quatre bateaux couverts voguent chaque semaine ?
+LAZARILLE.
+Ce Sennelay-la meme, et ces bateaux couverts 
+Sont tout pleins chaque jour de remedes divers			[770]
+Que ce grand medecin envoie a ses malades. 
+Lorsque de leur urine il a vu des rasades.
+ELOMIRE.
+Allons donc, Lazarille, allons a Sennelay.
+LAZARILLE.
+Il est ici.
+ELOMIRE.
+Lui-meme ?
+LAZARILLE.
+Oui.
+ELOMIRE.
+Mais, dis-tu vrai ?
+LAZARILLE.
+Il est si vrai, Monsieur, qu'avant qu'il soit une heure,			[775]
+Vous aurez le plaisir de le voir, ou je meure.
+Quittons donc le turban, et, sous d'autres habits.
+Allons voir promptement ce Rominagrobis.
+
+
+			ACTE III
+
+
+SCENE PREMIERE. Oronte, Climante, Clearque, Clarice, Lucinde, Alphee, Lucille.
+La scene de cet acte est dans une chambre, ou Oronte, feint medecin de Sennelay est assis devant une table sur laquelle il y a six fioles pleines, chacune avec un ecriteau, arrangees de suite ; et Climante, Clearque, Clarice, Lucinde, Alphee, Lucille feints malades, sont assis sur des sieges un peu eloignes de la table.
+ORONTE.
+Quoi ! Ce maitre moqueur qui n'epargnait personne, 
+Donne dans le panneau de la sorte ?
+CLIMANTE.
+Il y donne 			[780]
+Mille lois au-dela de ce que je vous dis : 
+Dom Quichot et Sancho furent moins fous jadis ; 
+Et je crois que devant qu'en son bon sens il rentre, 
+Nous pourrons sur ma foi le dauber dos et ventre : 
+Nos confreres deja l'ont berne comme il faut ; 			[785]
+Battons le fer comme eux, cependant qu'il est chaud.
+Que chacun donc s'apprete a bien jouer son role,
+Si tot que Lazarille aura livre le drole ;
+Il n'y manquera pas, puisqu'il nous l'a promis :
+Les voici justement : ils n'ont pas beaucoup mis.			[790]
+SCENE II. Elomire, Lazarille (tous deux vetus en Espagnol et se mettant a genou devant Oronte, une fiole a la main, Oronte, Climante, Clearque, Clarice, Lucinde, Alphee, Lucille.
+ELOMIRE.
+Extirpateur des maux qui n'ont point de remede,
+Souffrez qu'a vos genoux nous implorions votre aide,
+Et ne permettez pas que tombant par lambeaux,
+Nous descendions tout vifs dans de tristes tombeaux.
+Nous sommes etrangers ; mais pourtant assez riches			[795]
+Pour remplir vos desirs fussiez-vous des plus chiches :
+Car si vous nous pouvez exempter du trepas,
+Nous vous donnons chacun un millier de ducats.
+ORONTE.
+Si vous etiez Francais, vous sauriez mon histoire, 
+Et par la vous sauriez que mon but est la gloire : 			[800]
+Rengainez donc, Messieurs, vos milliers de ducats, 
+Je n'en ferai pas moins,pour ne les prendre pas.
+ELOMIRE, mettant la main a la poche et faisant semblant d'en vouloir tirer un sac d'argent.
+He ! de grace...
+ORONTE, prenant la role d'Elomire.
+Non, non ; donnez-moi votre urine. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La fiole est de jauge.
+LAZARILLE, donnant aussi sa fiole.
+Elle tient bien chopine, 
+Et la mienne ne tient, sur ma foi, guere moins. 			[805]
+Je ne merite pas qu'elle occupe vos soins ; 
+Mais, puisque vous voulez...
+ORONTE, mettant les urines sur la table.
+Il faut qu'elle repose ; 
+Apres, de vos douleurs nous vous dirons la cause : 
+Cependant de ceux-ci voyons quels sont les maux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'homme par la raison est roi des animaux ;			[810]
+Mais des qu'il lui resiste, ou qu'elle l'abandonne,
+C'est un roi depouille, sans sceptre et sans couronne ;
+Car en lachant la bride a ses desirs brutaux,
+Il devient le sujet de ses propres vassaux.
+De cette verite j'ai vu beaucoup d'exemples ;			[815]
+Mais je n'en vis jamais a mon sens de plus amples
+Que ceux que je remarque en ces urines-ci.
+Vous en aurez l'esprit tout a l'heure eclairci.
+Climante ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qui de vous porte ce nom ? 
+CLIMANTE.
+Moi-meme.
+ORONTE.
+Ecoutez le recit de votre mal extreme ;			[820]
+Apprenez-en la cause, et benissez les Dieux
+Qui m'ont de Sennelay fait venir en ces lieux.
+Monsieur, vous vous croyez ethique et pulmonique ;
+Mais vous vous abusez : vous etes frenetique ;
+Autrement hypocondre, et la cause, en un mot,			[825]
+Vient de ce que j'ai dit.
+CLIMANTE, brusquement.
+Quoi, je serais un sot ?
+ORONTE.
+Si vous aviez toujours eu la raison pour guide,
+Ou si vous n'aviez pas si fort lache la bride
+Aux desirs enrages de mordre Dieux et gens,
+Vous ne vous verriez pas, au plus beau de vos ans,			[830]
+Avec enfants et femme, et comble de richesses,
+Devore nuit et jour par de mornes tristesses :
+Car ces noires vapeurs qui vous troublent si fort,
+N'ont contre un innocent qu'un impuissant effort.
+Je sais bien, et cela sans doute est quelque chose,			[835]
+Qu'accable de l'effet, vous maudissez la cause,
+Et que vous voudriez, repentant du passe,
+Avoir ete sans vie, ou n'avoir point gausse ;
+Mais comme le passe jamais ne se revoque,
+D'un si vain repentir tout le monde se moque,			[840]
+Et de tous les mortels que vous avez joue,
+Aucun n'est sans plaisir de vous voir bafoue.
+L'un qui vous voit passer pres de lui dans la rue,
+Vous montre au doigt a l'autre, et cet autre vous hue :
+Puis, toussant tour a tour, et sur differents tons,			[845]
+Vous font tousser vous-meme,et de tous vos poumons ;
+Si vous les maudissez, ils vous traitent de meme,
+Dont le depit vous cause une douleur extreme,
+Et par cette douleur, sans un tres prompt secours,
+Vous allez voir dans peu le dernier de vos jours.			[850]
+Voila, Monsieur, l'etat de votre maladie ;
+Il ne tiendra qu'a vous que je n'y remedie :
+Car je ne mets qu'au rang de mes moindres travaux,
+D'avoir cent et cent fois gueri de pareils maux.
+ELOMIRE, a part.
+Je crois que c'est de moi qu'il parle.
+CLIMANTE, s'etant jette aux pieds d'Oronte.
+Grand genie,			[855]
+Qui par ma seule urine avez connu ma vie ;
+Qui par elle voyez jusqu'au fond de mon coeur ;
+Et qui par elle, enfin, connaissez ma douleur,
+Vous voyez a vos pieds un impie, un infame,
+Qui ne merite rien que le fer et la flamme ;			[860]
+Mais, de grace, grand homme, imitez le soleil ;
+Aussi bien, comme lui, vous etes sans pareil :
+Et comme egalement il repand sa lumiere
+Sur la pourpre et la bure, et l'or et la poussiere,
+Agissant comme lui, repandez vos bontes			[865]
+Sur moi, sans prendre garde a mes impietes.
+ORONTE.
+Vous etes repentant, et fut-ce a la potence,
+Quiconque devient tel recouvre l'innocence :
+Aussi, soyez certain, que quand vous seriez Roi.
+Vous ne pourriez jamais plus attendre de moi.			[870]
+Remettez-vous ; tandis, voyons cette autre urine.
+Clearque ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLEARQUE.
+C'est de moi, Monsieur.
+ORONTE.
+A votre mine,
+Quand vous n'auriez rien dit, je l'aurais devine;
+Car je n'en vis jamais d'un plus determine.
+La cause de vos maux est certes differente,			[875]
+En certaine facon, de celle de Climante ;
+Mais l'espece en etant pareille, leurs effets
+Se ressemblent si fort, que ce sont deux portraits
+D'un meme original, faits d'une main savante ;
+Climante est donc Clearque, et Clearque Climante :			[880]
+Je veux dire, en un mot, et voici mes temoins,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que si Climante est fou, vous ne l'etes pas moins :
+Ainsi n'ayant qu'un mal, vous n'aurez qu'un remede ;
+Mais soyez assure du succes.
+CLEARQUE, taisant une profonde reverence.
+Dieu vous aide !
+ORONTE, prenant une antre fiole, lisant son ecriteau.
+Clarice ?
+CLARICE.
+C'est mon nom.			[885]
+ORONTE.
+Si vos yeux trop fripons 			[885]
+N'avaient pas attire cet amas de garcons, 
+Qui vous ont fait passer pour reine des coquettes, 
+Vous ne vous verriez pas en l'etat ou vous etes ; 
+Mais quand on a blanchi sous ce honteux harnois, 
+On a tout le loisir de s'en mordre les doigts : 			[890]
+On en soupire, on pleure, on en devient malade, 
+Ou, si l'on ne l'est pas, on se le persuade ; 
+Mais des lors que l'on croit etre ce qu'on n'est pas, 
+On est folle, Clarice, et folle a maints carats. 
+Vous guerirez pourtant, et redeviendrez sage ; 			[895]
+Mais, comme ces Messieurs, vous resterez en cage. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Lucinde.
+LUCINDE.
+C'est de moi.
+ORONTE.
+La mort d'un jeune amant 
+Vous a fait perdre ensemble et joie et jugement ; 
+Et c'est ce qui vous fait errer parmi le monde, 
+Sous l'habit et le nom de triste vagabonde ; 			[900]
+Mais, allez, je reponds de votre guerison, 
+Et vous recouvrerez la joie et la raison : 
+Ne le voulez-vous pas ?
+LUCINDE.
+Oui, de grand coeur.
+ORONTE, prenant une antre fiole.
+Alphee ?
+Ah ! ma foi, nous tenons une folle fieffee :
+C'est une precieuse.
+ALPHEE.
+O Dieux ! Qui vous l'a dit ?			[905]
+ORONTE.
+Votre urine, ma fille, et cela me suffit ;
+Car, grace au ciel, je suis un peu naturaliste.
+ALPHEE.
+Mais que ne dites-vous plutot ulinaliste ?
+Ce terme convient mieux a la sose.
+ORONTE.
+Il est vrai ;
+Et le monde m'appelle ainsi dans Sennelay ;			[910]
+Mais, de grace, depuis que l'illustre Elomire
+A depeint votre engeance, et nous en a fait rire ;
+Depuis que son theatre a retenti des mots
+Dont vous charmiez jadis les sottes et les sots ;
+Se peut-il que, passant pour folles enragees,			[915]
+Vous ne vous soyez pas encore corrigees,
+Et qu'il s'en trouve encor, aujourd'hui, parmi nous,
+Une qui devrait etre a l'hopital des fous ?
+ALPHEE.
+Quoi, Monsieul, ce bouffon pal, de sottes glimaces,
+Dont il fait mal au coeul plus que sales limaces,			[920]
+Palce qu'en les faisant il ecume en velat, 
+Nous lirlela chez vous poul folles au Calat ?
+Je m'etonnelois peu qu'un caque d'ignolance
+Eust poul ce glimacier paleille defelence;
+Mais que de Sennelay le medecin fameux,			[925]
+Donne dans le panneau, comme un petit molveux,
+Qu'il estime un autheul, qu'il le loue et l'admile,
+Palce qu'en lecitant ses vels, il l'a fait lile,
+Pal des contolsions dignes d'un possede,
+Celtes, je suis a bout pal un tel plocede :			[930]
+Encol s'il nous cachoit sous ses gestes glotesques,
+Quelques beaux tlaits d'esplit en paloles bullesques,
+Aples qu'on auloit ly de ses contolsions,
+Ses livles nous plailaient, lolsque nous les lilions :
+Mais de glace, Monsieul, quelle est la comedie,			[935]
+Encol qu'il n'en ait fait aucune ou l'on ne die
+Qu'il faut clever de lile, ou l'on puisse tlouver
+Le moindle tlait d'esplit que l'on doive admiler.
+Pal exemple, ce le de l'Ecole des femmes,
+Ce le, qui fit tant lile, et qui chalma tant d'ames ;			[940]
+Ce le, qui mit cet homme au lang des beaux esplits,
+L'avez-vous jamais pu lile dans les eclits,
+Sans degout, sans chaglin, sans une holeul extleme,
+Non plus que son chat molt, et sa talte a la cleme ?
+Cependant, dites-vous pal de bonnes laisons,			[945]
+Cet auteul nous condamne aux petites-maisons,
+Et palce qu'il a dit que nous en estions dignes,
+Vous nous mettez au lang des folles plus insignes.
+ELOMIRE, bas a Lazarille.
+Ah ! La mechante bete.
+LAZARILLE, bas a Elomire.
+Elle a pourtant bien dit.
+ELOMIRE, bas.
+Tres mal ; mais ecoutons.
+ORONTE.
+Si je suis interdit, 			[950]
+Jusqu'a ne pouvoir pas former une parole, 
+Ne vous etonnez pas, belle et savante folle ; 
+J'en demeure d'accord, vous m'avez confondu :
+En effet, qui croirait qu'un esprit tout perdu 
+D'histoires, de romans, enfin qu'une hypocondre, 			[955]
+Par ses raisonnements aurait pu me confondre ? 
+Pourtant, vous l'avez fait, oui, j'avoue avec vous 
+Qu'Elomire ne doit sa gloire qu'a des fous, 
+Et qu'un esprit bien fait, quel qu'il soit, degenere, 
+D'abord que ses ecrits commencent a lui plaire. 			[960]
+Je demeure d'accord que pour se rejouir, 
+On le peut aller voir, et qu'on le peut ouir ; 
+Mais il faut que celui qui va voir Elomire, 
+Le voie en fagotin, c'est-a-dire pour rire. 
+Vos beaux raisonnements n'empechent pourtant pas 			[965]
+Qu'aux petites maisons vous n'alliez a grands pas ; 
+Elomire a son faible, et vous avez le votre : 
+Mais je vous guerirai. Voyons un peu cette autre.
+ELOMIRE, bu, tandis qu'Oronte prend une autre fiole.
+Lazarille, quel homme !
+LAZARILLE, bas.
+Ecoutez jusqu'au bout.
+ORONTE, lisant l'ecriteau de la fiole qu'il tient. 
+Lucille, voulez-vous que je vous dise tout ?			[970]
+LUCILLE.
+Non, Monsieur, vous voyez assez par mon urine, 
+Que je ne suis pas moins folle que ma voisine :
+Traitez-moi, s'il vous plait, de meme.
+ORONTE.
+Je le veux.
+ELOMIRE, bas a Lazarille, tandis qu'Oronte prend sa fiole.
+Lazarile, je suis au comble de mes voeux : 
+C'est mon tour a glisser.
+ORONTE, lisant le nom ecrit sur la fiole d'Elomire.
+Don Guzman d'Alicante. 			[975]
+Vous mentez, cette urine est encor de Climante.
+ELOMIRE.
+Foi d'Espagnol malade, elle est mienne.
+ORONTE.
+Tant pis.
+ELOMIRE.
+Pourquoi, tant pis ?
+ORONTE.
+Pourquoi ? Parce que je le dis. 
+Encor un coup, tant pis, vous dis-je.
+ELOMIRE.
+Mais, de grace, 
+A ce facheux tant pis, que faut-il que je fasse ?			[980]
+ORONTE.
+Ignorez-vous, Monsieur, ce que Climante a fait,
+Quand a mes pieds il a confesse son forfait,
+Et temoigne tout haut son repentir extreme ?
+ELOMRE, se levant et se jettent aux pieds d'Oronte.
+Ah ! De grace, Monsieur, traitez-moi donc de meme,
+Et puisque comme lui j'en suis au repentir,			[985]
+Veuillez-moi comme a lui vos bontes departir ?
+ORONTE.
+Ce juste repentir qu'exprime votre bouche,
+A vous dire le vrai, si vivement me touche,
+Que je jure ma foi, qu'avant qu'il soit deux jours,
+Vous verrez comme lui l'effet de mon secours.			[990]
+Mais parlons de cet autre ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Alphonse de la Rote ?
+Homme ne merita jamais mieux la marotte ;
+Parce qu'il croit que l'un de ses amis est fou,
+Et qu'il veut l'empecher de courre en loup-garou.
+Sa guerison lui tient tellement dans la tete,			[995]
+Qu'il en est hypocondre et plus que demi-bete.
+Il merite pourtant que j'aie soin de lui ;
+Car un ami si tendre est fort rare aujourd'hui.
+ELOMIRE, bas a Lazarille.
+Quel homme, cher ami ; quoi ! Par la seule urine
+Il n'est rien qu'il ne sache, et rien qu'il ne devine.			[1000]
+LAZARILLE, bas.
+Je vous l'avais bien dit.
+ORONTE.
+Je connais donc vos maux, 
+Ou, pour mieux m'expliquer, vos fantasques cerveaux ;
+Car je n'en vois pas un dedans cette assemblee, 
+Qui ne se portat bien, sans sa tete felee.
+Nous n'avons donc ici qu'a guerir ces cerveaux ; 			[1005]
+Puisqu'en eux seulement resident tous vos maux :
+Et comme le plus grand est la melancolie, 
+Dans laquelle votre ame est presque ensevelie, 
+Je la veux reveiller, en vous divertissant, 
+Et dissiper par la cet air assoupissant :			[1010]
+J'ai fait venir ici d'un certain vin de Beaune, 
+Pour qui j'acheterais un gosier long d'une aulne : 
+Car tandis qu'on l'avale, on sent un tel plaisir, 
+Qu'on voudrait qu'il durat jusqu'au dernier soupir ; 
+D'une agreable odeur, qui n'a point de pareille, 			[1015]
+Il vous charme d'abord qu'il sort de la bouteille ; 
+Et le vif incarnat, dont il frappe les yeux, 
+N'a pas un moindre eclat que le rouge des Cieux :
+Son esprit qui petille en tombant dans le verre, 
+Forme mille rubis, dont le petit tonnerre, 			[1020]
+S'accordant au glou-glou de ce jus precieux.
+Charme l'oreille, apres qu'il a ravi les yeux. 
+Ce vin que je vous dis est le premier remede 
+Que je veux appliquer au mal qui vous possede ;
+Car vos maux tout d'abord s'en trouvant adoucis,			[1025]
+Vous verrez dissiper tous ces facheux soucis 
+Qui fomentent en vous l'humeur melancolique, 
+Nous joindrons a ce vin, tant soit peu de musique,
+Un peu de symphonie, et par ces doux accords
+Je changerai d'abord vos esprits et vos corps. 			[1030]
+Mon deuxieme remede est une comedie, 
+Propre, comme ce vin, a votre maladie :
+Je vous la ferai voir d'ou je vais vous traiter ;
+On dit qu'elle est divine, et je ne n'en puis douter ;
+Car l'auteur est illustre, et l'histoire si belle,			[1035]
+Que les siecles passes n'en ont point vu de telle.
+Et ce qui doit encor augmenter ce regal,
+C'est qu'il sera suivi d'un magnifique bal,
+Ou nous irons masques. C'est ce que je prepare
+Pour premier appareil.
+ELOMIRE, bas.
+Que ce remede est rare, 			[1040]
+Lazarille, et, surtout, qu'il est doux et charmant.
+ORONTE.
+Passons donc, pour cela, dans cet appartement.
+
+
+			ACTE IV
+
+
+SCENE PREMIERE. Elomire, Lazarille, Oronte, Climante Clearque, Clarice, Lucinde, Alphee, Lucille.
+A cette scene, le theatre parait comme il est lors qu'on est pret de commencer la comedie, la toile n'etant pas encore tiree : et d'un cote il y a une facon de loge dans laquelle sont les acteurs de cette scene, pour voir la comedie.
+ORONTE.
+Des qu'on aura tire cette tapisserie,
+Sans peine vous verrez d'ici la comedie.
+Cependant, nul de vous ne se porte-t-il mieux ?			[1045]
+ELOMIRE.
+Votre regal, Monsieur, m'a rendu si joyeux,
+Et je me sens deja si propre a ce remede,
+Que je ne doute point que mon mal ne lui cede.
+CLIMANTE.
+Nos visages, Monsieur, vous en disent autant ; 
+Car je n'en vois pas un qui ne soit tres content.			[1050]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ORONTE.
+Bon, l'on ouvre ; voyez la belle compagnie.
+ELOMIRE, a Oronte, un peu bas.
+Quel titre donne-t-on a cette comedie ?
+ORONTE.
+"Le Divorce comique".
+ELOMIRE.
+Il est bon et nouveau.
+ORONTE.
+Silence, et vous verrez quelque chose de beau.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			DIVORCE COMIQUE
+
+COMEDIE EN COMEDIE, ACTE PREMIER ET DERNIER.
+
+SCENE PREMIERE. Florimont, Rosidor.
+La scene est dans la salle de comedie du Palais-Royal.
+ROSIDOR.
+Oui, je l'ai resolu, je vais quitter la troupe;			[1055]
+Tu me diras en vain qu'elle a le vent en poupe,
+Qu'elle seule a la vogue, et que dedans Paris,
+Pour toute autre aujourd'hui l'on n'a que du mepris ;
+Cet honneur qu'on lui fait, mais dont elle est indigne,
+Passe, dans mon esprit, pour un affront insigne ;			[1060]
+Aussi, loin de souffrir un encens si peu du,
+Comme on me l'a donne, je l'ai toujours rendu.
+Ne t'en flatte donc point ; mais, si tu m'en veux croire,
+Ferme l'oeil a l'eclat d'une si fausse gloire ;
+Et pour trouver la vraie, allons, allons ailleurs			[1065]
+Chercher des compagnons et des destins meilleurs.
+ROSIDOR.
+A te dire le vrai, je m'etonne moi-meme
+Du merveilleux eclat de ce bonheur extreme ;
+Car, enfin, comme toi, je connais nos defauts.
+Mais, qu'importe ? Le nombre autorise les sots,			[1070]
+Et quiconque leur plait ne doit point etre en peine
+Des defauts des acteurs, ni de ceux de la scene.
+La foule suit toujours leur applaudissement ;
+Et quiconque a la foule, a la gloire aisement.
+Je sais bien que tu dis que cette gloire est fausse ;			[1075]
+Qu'il la faut mepriser ; mais, pour moi, je m'en gausse ;
+Ma veritable gloire est ou j'ai du profit :
+J'en ai dans cette troupe, et cela me suffit.
+FLORIMONT.
+Et cela te suffit ? Ah ! Peux-tu bien sans honte,
+Dire que de l'honneur tu fais si peu de compte ?			[1080]
+ROSIDOR.
+En faire moins de cas que du moindre interet,
+N'est qu'agir a la mode.
+FLORIMONT.
+Et la mode t'en plait ?
+ROSIDOR.
+Puisqu'elle est aujourd'hui la regle de la vie,
+Je ne rougirai point, quand je l'aurai suivie.
+FLORIMONT.
+La regle de la vie ! Et qu'est donc la raison ?			[1085]
+ROSIDOR.
+La raison ni l'honneur ne sont plus de saison ;
+Et bannis pour jamais de la terre ou nous sommes,
+L'interet en leur place y gouverne les hommes.
+C'est lui seul qui les regle, et lui seul qui fait tout,
+Et qui meut l'Univers de l'un a l'autre bout :			[1090]
+Mais quand de cet honneur on ferait quelque compte ;
+Faut-il, pour en manquer, que je meure de honte.
+Et la profession dont nous sommes tous deux
+Ne permet-elle pas d'etre moins scrupuleux.
+FLORIMONT.
+Je l'avoue entre nous, autrefois le theatre			[1095]
+Voyait traiter d'egaux l'acteur et l'idolatre ;
+Et l'un et l'autre, alors l'opprobre des mortels,
+Etaient hais du peuple, et bannis des autels.
+Mais depuis qu'un heros, dont notre histoire est pleine,
+A purge le theatre et corrige la scene			[1100]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Depuis qu'il a chasse les infames farceurs,
+Nos plus grands ennemis sont nos adorateurs :
+Tout le monde a l'envi nous caresse et nous loue,
+Et nous sommes tout d'or, nous qui n'etions que boue.
+Mais, helas ! Je crains fort que d'un revers fatal,			[1105]
+Nous ne tombions bientot dans notre premier mal.
+Et que par le progres des pieces d'Elomire,
+Nous n'eprouvions encor quelque chose de pire.
+ROSIDOR.
+Il est vrai qu'Elomire a de certains appas,
+Dans les farces qu'il fait, que les autres n'ont pas.			[1110]
+FLORIMONT.
+Et c'est de ces appas de qui nous devons craindre
+Ce mal, dont, par avance, on me voit deja plaindre ;
+Car, pour peu que le peuple en soit encor seduit,
+Aux farces pour jamais le theatre est reduit.
+Ces merveilles du temps, ces pieces sans pareilles,			[1115]
+Ces charmes de l'esprit, des yeux et des oreilles,
+Ces vers pompeux et forts,ces grands raisonnements,
+Qu'on n'ecoute jamais sans des ravissements ;
+Ces chefs-d'oeuvre de l'art, ces grandes tragedies,
+Par ce bouffon celebre en vont etre bannies,			[1120]
+Et nous, bientot reduits a vivre en Tabarins,
+Allons redevenir l'opprobre des humains.
+La peur de retomber dans ce malheur infame,
+Ne saurait sans horreur se montrer a mon ame ;
+Et tout autant de fois qu'elle attaque mon coeur,			[1125]
+Malgre toute sa force, elle s'en rend vainqueur.
+ROSIDOR.
+Quoiqu'en quelque facon ta peur soit legitime,
+Faire rire pourtant n'est pas un si grand crime ;
+Et j'en connais beaucoup parmi nos courtisans,
+Qui seraient peu prises, s'ils n'etaient fort plaisants :			[1130]
+Aussi, loin qu'en cela je condamne Elomire,
+Avec beaucoup de gens je l'estime et l'admire;
+Mais l'insolent orgueil de cet esprit altier,
+Ses mepris pour tous ceux qui sont de son metier ;
+Et l'air dont il nous traite a present qu'il compose,			[1135]
+Fait que chacun de nous le censure et le glose,
+Et ce maitre maroufle en est en tel courroux,
+Qu'a peine peut-il plus souffrir aucun de nous.
+FLORIMONT.
+Comme je hais la farce et son Tabarinage,
+Il ne me parle plus qu'il ne me fasse outrage,			[1140]
+Mais pourvu qu'il reglat son style de farceur,
+Qu'il n'y melat plus rien qui fut contre l'honneur,
+Je lui pardonnerais volontiers ses caprices :
+Mais je ne veux plus etre accuse pour ses vices ;
+Le scandale qu'ils font est desormais trop grand,			[1145]
+Et quiconque le suit, en doit etre garant.
+Enfin, c'est aujourd'hui qu'il faut qu'il se declare.
+Il changera ce style, ou chacun se separe.
+La plupart de la troupe est de mon sentiment,
+Et nous nous assemblons pour cela seulement.			[1150]
+Mais je le vois paraitre avec nos camarades ;
+Preparons-nous d'ouir de plaisantes bravades.
+SCENE II. Elomire, Angelique, Plusieurs autres comediens et comediennes, un valet, Florimont, Rosidor.
+ELOMIRE, se faisant apporter un siege, et s'asseyant.
+Un siege, et qu'on m'ecoute ; on sait que je suis prompt.
+ANGELIQUE.
+Ne faut-il point aussi vous regarder au front,
+Et de meme qu'Agnes, faire la reverence ?			[1155]
+ELOMIRE.
+Treve de raillerie, et qu'on fasse silence !
+FLORIMONT.
+Autrement ?
+ELOMIRE.
+Autrement, quelqu'un en patira.
+ROSIDOR, a Florimont.
+Le plaisant fagotin.
+FLORIMONT, bas a RosiDor.
+Voyons ce qu'il dira :
+De l'humeur qu'il parait j'en attends des merveilles.
+ROSIDOR, a Elomire.
+Que ne parlez-vous donc? Nous ouvrons les oreilles.			[1160]
+ELOMIRE, faisant apporter des sieges.
+Seyez-vous.
+FLORIMONT, bas.
+Qu'il est fat !
+ELOMIRE.
+Le divin Salomon.
+Dont l'esprit fut plus grand que celui du demon :
+Ce savant qui sut tout jusqu'aux vertus des herbes,
+Ne fut jamais plus vrai qu'en l'un de ses proverbes,
+Qui dit qu'il vaudrait mieux qu'une cite perit.			[1165]
+Que de voir sur la terre un gueux qui s'enrichit.
+O divine parole ! Admirable sentence,
+Dont moi-meme aujourd'hui je fais l'experience ;
+Puisqu'apres que mes soins ont revetu des gueux,
+Je me vois mepriser et gourmander par eux.			[1170]
+C'est vous, o champignons, eleves sur ma couche,
+Vous pour qui j'ai veille tant de jours et de nuits,
+Vous pour qui j'ai tire jusqu'au pain de ma bouche;
+C'est vous, ingrats, c'est vous qui me combles d'ennuis,
+Et qui me faites voir d'une insulte superbe,			[1175]
+L'infaillibilite de ce divin proverbe.
+Rougissez, rougissez ingrats, de tant de biens,
+Dont je vous ai combles, meme aux depens des miens :
+Mais, pour tant de bienfaits, vous etes sans memoire,
+Il faut pour vous confondre en dire ici l'histoire.			[1180]
+FLORIMONT.
+Ecoutons,
+ELOMIRE.
+En quarante, ou quelque peu devant, 
+Je sortis du college, et j'en sortis savant ;
+Puis, venu d'Orleans ou je pris mes licences, 
+Je me fis avocat au retour des vacances. 
+Je suivis le barreau pendant cinq ou six mois, 			[1185]
+Ou j'appris a plein fond l'ordonnance et les lois. 
+Mais, quelque temps apres, me voyant sans pratique, 
+Je quittai la Cujas, et je lui fis la nique. 
+Me voyant sans emploi, je songe ou je pouvais 
+Bien servir mon pays, des talents que j'avais ; 			[1190]
+Mais ne voyant point ou, que dans la comedie, 
+Pour qui je me sentais un merveilleux genie, 
+Je formai le dessein de faire en ce metier 
+Ce qu'on n'avait point vu, depuis un siecle entier ; 
+C'est-a-dire, en un mot, ces fameuses merveilles, 			[1195]
+Dont je charme aujourd'hui les yeux et les oreilles.
+ROSIDOR, bas a Florimont.
+Ne t'etonnes-tu point, qu'il n'ait dit les esprits ?
+FLORIMONT, bas a Rosidor.
+Il se serait trompe plus de moitie du prix.
+ELOMIRE, a Florimont et a Rosidor.
+Que marmotez-vous la ?
+FLORIMONT.
+Rien du tout.
+ELOMIRE.
+Qu'on m'ecoute ?
+Ayant donc resolu de suivre cette route,			[1200]
+Je cherchai des acteurs qui fussent comme moi,
+Capables d'exceller dans un si grand emploi ;
+Mais me voyant siffle par les gens de merite,
+Et ne pouvant former une troupe d'elite,
+Je me vis oblige de prendre un tas de gueux,			[1205]
+Dont le mieux fait etait begue, borgne ou boiteux.
+Pour des femmes, j'eusse eu les plus belles du monde,
+Mais le meme refus de la brune et la blonde,
+Me jeta sur la rousse, ou, malgre le gousset,
+Grace au poudre d'alun, je me vis satisfait.			[1210]
+ROSIDOR, bas a Angelique.
+Angelique, il t'en veut.
+ANGELIQUE, bas a Rosidor.
+J'en ignore la cause.
+ELOMIRE, en colere.
+Quoi ! malgre ma defense, incessamment on cause ?
+ANGELIQUE, a Elomire.
+Je me tais ; mais tantot...
+ELOMIRE.
+Bien, tantot nous verrons ; 
+Cependant, taisez-vous, lorsque nous parlerons. 
+Donc, ma troupe ainsi faite, on me vit a la teste, 			[1215]
+Et, si je m'en souviens, ce fut un jour de fete ; 
+Car jamais le parterre, avec tous ses echos, 
+Ne fit plus de ah ! ah ! Ni plus mal a propos. 
+Les jours suivants, n'etant ni fetes ni dimanches, 
+L'argent de nos goussets ne blessa point nos hanches, 			[1220]
+Car alors excepte les exempts de payer, 
+Les parents de la troupe, et quelque batelier, 
+Nul animal vivant n'entra dans notre salle, 
+Dont, comme vous savez, chacun troussa sa malle. 
+N'accusant que le lieu d'un si facheux destin, 			[1225]
+Du port Saint-Paul, je passe au faubourg Saint-Germain. 
+Mais, comme meme effet suit toujours meme cause, 
+J'y vantai vainement nos vers et notre prose : 
+L'on nous siffla d'abord, et, malgre mon caquet, 
+Il fallut derechef trousser notre paquet. 			[1230]
+Pique de cet affront, dont s'echauffa ma bile, 
+Nous primes la campagne, ou la petite ville, 
+Admirant les talents de mon petit troupeau, 
+Protesta mille fois que rien n'etait plus beau : 
+Surtout, quand sur la scene on voyait mon visage, 			[1235]
+Les signes d'allegresse allaient jusqu'a la rage ; 
+Car ces provinciaux, par leurs cris redoubles 
+Et leurs contorsions, paraissaient tout troubles.
+Dieu sait si, me voyant ainsi le vent en poupe,
+Je devais etre gai ! Mais le soin de la soupe,			[1240]
+Dont il fallait remplir vos ventres et le mien :
+Ce soin, vous le savez, helas ! l'empechait bien :
+Car, ne prenant alors que cinq sols par personne,
+Nous recevions si peu, qu'encore je m'etonne
+Que mon petit gousset, avec mes petits soins,			[1245]
+Aient pu si longtemps suffire a nos besoins.
+Enfin, dix ans entiers coulerent de la sorte,
+Mais, au bout de ce temps, la troupe fut si forte,
+Qu'avec raison je crus pouvoir, dedans Paris,
+Me venger hautement, de ses sanglants mepris.			[1250]
+Nous y revinmes donc, surs d'y faire merveille,
+Apres avoir appris l'un et l'autre Corneille :
+Et tel etait deja le bruit de mon renom,
+Qu'on nous donna d'abord la salle de Bourbon.
+La, par Heraclius, nous ouvrons un theatre,			[1255]
+Ou je crois tout charmer et tout rendre idolatre ;
+Mais, helas ! Qui l'eut cru ? Par un contraire effet,
+Loin que tout fut charme, tout fut mal satisfait ;
+Et par ce coup d'essai que je croyais de maitre,
+Je me vis en etat de n'oser plus paraitre.			[1260]
+Je prends coeur, toutefois, et d'un air glorieux,
+J'affiche, je harangue, et fais tout de mon mieux ;
+Mais inutilement je tentai la fortune :
+Apres Heraclius, on siffla Rodogune ;
+Cinna le fut de meme, et le Cid tout charmant			[1265]
+Recut, avec Pompee, un pareil traitement.
+Dans ce sensible affront, ne sachant ou m'en prendre,
+Je me vis mille fois sur le point de me pendre ;
+Mais d'un coup d'etourdi que causa mon transport,
+Ou je devais perir, je rencontrai le port.			[1270]
+Je veux dire qu'au lieu des pieces de Corneille,
+Je jouai L'Etourdy, qui fut une merveille :
+Car a peine on m'eut vu la hallebarde au poing,
+A peine on eut oui mon plaisant baragouin,
+Vu mon habit, ma toque, et ma barbe et ma fraise,			[1275]
+Que tous les spectateurs furent transportes d'aise,
+Et qu'on vit sur leurs fronts s'effacer ces froideurs
+Qui nous avaient cause tant et tant de malheurs.
+Du parterre au theatre, et du theatre aux loges,
+La voix de cent echos fait cent fois mes eloges,			[1280]
+Et cette meme voix demande incessamment,
+Vendant trois mois entiers, ce divertissement.
+Nous le donnons autant, et sans qu'on s'en rebute,
+Et sans que cette piece approche de sa chute.
+Mon Depit amoureux suivit ce frere aine,			[1285]
+Et ce charmant cadet fut aussi fortune :
+Car quand du Gros Rene l'on apercut la taille,
+Quand on vit sa dondon rompre avec lui la paille ;
+Quand on m'eut vu sonner mes grelots de mulets,
+Mon begue dedaigneux dechirer ses poulets,			[1290]
+Et remener chez soi la belle desolee,
+Ce ne fut que ah! ah! dans toute l'assemblee,
+Et de tous les cotes chacun cria tout haut :
+« C'est la faire et jouer des pieces comme il faut. »
+Le succes glorieux de ces deux grands ouvrages,			[1295]
+Qui m'avaient mis au port, apres tant de naufrages,
+Me mit le coeur au ventre, et je fis un cocu,
+Dont, si j'avais voulu, j'aurais pris un ecu :
+Je veux dire un ecu par personne au parterre,
+Tant j'avais trouve l'art de gagner et de plaire.			[1300]
+Que vous dirai-je, enfin ? Le reste est tout constant,
+Dix pieces, oui, morbleu ! Dix pieces, tout autant,
+Ont, depuis ce temps-la, sorti de ma cervelle :
+Mais dix pieces, morbleu ! De plus belle eu plus belle :
+De sorte qu'a present, si je n'en suis l'auteur,			[1305]
+Quelque piece qu'on joue, on en a mal au coeur ;
+Et fut-elle jouee a l'Hotel de Bourgogne,
+L'auteur n'en est qu'un fat, et l'acteur qu'un ivrogne.
+Que d'honneurs, compagnons, apres tant de mepris,
+Qui de vous avec moi n'en serait pas surpris !			[1310]
+Mais qui ne le serait encore davantage,
+De voir qu'en moins de rien, des gueux a triple etage,
+Des caimans vagabonds, morts de faim, demi-nus,
+Soient devenus si gros, si gras et si dodus,
+Et soient si bien vetus des pieds jusques au crane,			[1315]
+Que le moindre de vous porte a present la panne :
+Vous me devez ces biens, ingrats, denatures :
+Mon esprit et mes soins vous les ont procures,
+Et laches, toutefois, loin de le reconnaitre,
+En valets revoltes vous traitez votre maitre ;			[1320]
+Vous le voulez contraindre a suivre vos avis,
+Et vous ne seriez plus, s'il les avait suivis.
+Repondez, maintenant, repondez fripe-sauce ;
+L'histoire que je conte est-elle vraie ou fausse ?
+N'entreprenez-vous pas de me donner la loi ?			[1325]
+Et de vous, toutefois, qui se peut plaindre ?
+TOUTE LA TROUPE, ensemble, fort haut.
+Moi ?
+ELOMIRE, en bouchant ses oreilles.
+Ah ! Pour un Dom Japhet, ils me prennent sans doute ; 
+Mais qu'on parle autrement, si l'on veut que j'ecoute.
+Bas, et l'un apres l'autre : ou...
+TOUTE LA TROUPE, ensemble, et fort haut.
+Qui commencera ?
+ELOMIRE, en colere.
+Le diable, si l'on veut ; oui parle qui voudra.			[1330]
+TOUTE LA TROUPE, ensemble, et fort haut.
+Donc...
+ELOMIRE, Interrompant, se bouchant derechef les oreilles.
+Donc, me voila sourd : he, de grace, Angelique, 
+Parle, aussi bien j'ai dit quelque mot qui te pique.
+ANGELIQUE.
+Oui, oui, je suis piquee, et c'est avec raison :
+Non pas comme tu crois, pour cette exhalaison
+Dont ta langue m'accuse avec tant d'insolence ;			[1335]
+Car tu mens, et ce mot suffit pour ma defense :
+Mais ce qui m'a piquee, et qui me pique au vif,
+C'est de voir que le fils... je ne dis pas d'un juif ;
+Quoique juif et fripier soit quasi meme chose :
+C'est, dis-je, qu'un tel fat nous censure et nous glose,			[1340]
+Nous traite de canaille, et principalement
+Mes freres qui l'ont fait ce qu'il est maintenant :
+J'entends comedien, dont il tire la gloire
+Qu'il nous vient d'etaler, racontant son histoire.
+ELOMIRE.
+Tes freres ? Qui, ce begue et ce borgne boiteux ?			[1345]
+ANGELIQUE.
+Eux-memes, oui, maroufle, eux-memes, ce sont eux ;
+Mais les ingrats, dis-tu, n'ont jamais de memoire,
+Il faut, pour te confondre, en dire ici l'histoire :
+En quarante, ou fort peu de temps auparavant,
+Il sortit du college, ane comme devant ;			[1350]
+Mais son pere ayant su que, moyennant finance,
+Dans Orleans un ane obtenait sa licence,
+Il y mena le sien ; c'est-a-dire ce fieux
+Que vous voyez ici, ce rogue audacieux.
+Il l'endoctora donc, moyennant sa pecune ;			[1355]
+Et croyant qu'au barreau ce fils ferait fortune,
+Il le fit avocat, ainsi qu'il vous a dit,
+Et le para d'habits qu'il fit faire a credit :
+Mais, de grace, admirez l'etrange ingratitude,
+Au lieu de se donner tout a fait a l'etude,			[1360]
+Pour plaire a ce bon pere et plaider doctement,
+Il ne fut au Palais qu'une fois seulement.
+Cependant, savez-vous ce que faisait le drole ?
+Chez deux grands charlatans il apprenait un role,
+Chez ces originaux, l'Orvietan et Bary,			[1365]
+Dont le fat se croyait deja le favori.
+ELOMIRE.
+Pour l'Orvietan, d'accord ; mais pour Bary, je nie
+D'avoir jamais brigue place en sa compagnie.
+ANGELIQUE.
+Tu briguas chez Bary le quatrieme emploi :
+Bary t'en refusa ; tu t'en plaignis a moi :			[1370]
+Et je me souviens bien qu'en ce temps-la, mes freres
+T'en gaussaient, t'appelant le mangeur de viperes ;
+Car tu fus si prive de sens et de raison,
+Et si persuade de son contre-poison,
+Que tu t'offris a lui pour faire ses epreuves ;			[1375]
+Quoiqu'en notre quartier nous connussions les venues.
+De six fameux bouffons creves dans cet emploi.
+Ce fut la que chez nous on eut pitie de toi.
+Car mes freres voulant prevenir ta folie,
+Dirent qu'il nous fallait faire la comedie :			[1380]
+Et tu fus si ravi d'esperer cet honneur,
+Ou, comme tu disais, gisait tout ton bonheur,
+Qu'en ce premier transport de ton ame ravie,
+Tu les nommas cent fois ton salut et ta vie.
+Toutefois, double ingrat, aux depens de ta foi,			[1385]
+Tu n'as que des mepris et pour eux et pour moi.
+Et parce que tu crois avoir le vent en poupe,
+Tu traites de hauteur et nous, et notre troupe.
+ELOMIRE.
+Pourquoi non ; suis-je pas le maitre de vous tous ?
+TOUTE LA TROUPE, ensemble et haut.
+Le maitre, double fat, en est-il parmi nous ?			[1390]
+ELOMIRE.
+Ah vous recommencez a brailler tous ensemble ?
+FLORIMONT.
+Camarades, songeons a ce qui nous assemble ;
+Et quittant la querelle, et l'injure et le bruit,
+Laissez-moi chapitrer Elomire avec fruit.
+Apprends, de grace, apprends que ce n'est point l'envie			[1395]
+Qui nous fait censurer tes pieces et ta vie,
+Elomire, et sois sur que notre unique but
+Est notre propre honneur, et ton propre salut.
+ELOMIRE.
+Mon salut ? Je suis donc dans un peril extreme ?
+FLORIMONT.
+Oui, grace aux saletes de ta tarte a la creme ;			[1400]
+Grace a ton Imposteur, dont les impietes
+T'appretent des fagots deja de tous cotes.
+ELOMIRE.
+He ! Ce sont des cotrets.
+FLORIMONT.
+Treve de raillerie ; 
+Le cotret pourrait bien etre de la partie : 
+Mille gens de la cour que tu joues...			[1405]
+ELOMIRE, d'un air meprisant, branlant ta tete.
+Ces gens...
+FLORIMONT.
+Ces gens ont les bras longs, et les coups fort pesants.
+Gardes de les sentir. Mais, sans plus m'interrompre,
+Saches que tout a l'heure, il faut changer ou rompre.
+Banni donc du theatre et ta prose et tes vers,
+Ou t'appretes tout seul a ces justes revers.			[1410]
+ELOMIRE.
+Mais apres, que jouer, les pieces de Corneille !
+Tu sais qu'on nous y siffle, y fissions-nous merveille.
+FLORIMONT.
+Merveilles, justes Dieux ! En fimes-nous jamais ? 
+Et comment le pouvoir, aux roles que tu fais ?
+ELOMIRE.
+Je fais le premier role ; et le fais d'importance ;			[1415]
+Quelque sujet qu'il traite.
+FLORIMONT.
+As-tu cette creance ? 
+Et ton orgueil peut-il t'aveugler a ce point, 
+Que de faire si mal, et de ne le voir point ? 
+Quoi ? Dans le serieux tu crois faire merveilles ?
+ELOMIRE.
+Quoi tu peux dementir tes yeux et tes oreilles ?			[1420]
+FLORIMONT.
+T'en veux-tu rapporter a tes meilleurs amis ?
+ELOMIRE.
+D'accord.
+SCENE III. Le portier des Comediens, Elomire, Angelique, Plusieurs autres et comediennes, Le Valet, Florimont, Rosidor.
+LE PORTIER.
+Le chevalier, le comte et le marquis 
+Sont la-bas.
+ELOMIRE.
+Qui dis-tu?
+LE PORTIER.
+Ces trois Messieurs sans queue, 
+Dont les couleurs des gens sont feuille-morte et bleue.
+ELOMIRE.
+Ah, je sais, fais monter.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ce sont des connoisseux, 			[1425]
+Surtout le chevalier.
+FLORIMONT.
+Eh bien, si tu le veux, 
+Ils pourront sur-le-champ vider notre querelle.
+ELOMIRE.
+J'y consens ; et je sois berne, si j'en appelle.
+SCENE QUATRIEME ET DERNIERE. Le Chevalier, Le Comte, Le Marquis, Elomire, Angelique, Plusieurs autres comediens et comediennes, Le Valet, Florimont, Rosidor.
+ELOMIRE.
+Vous ne pouviez jamais venir plus a propos,
+Pour nous servir d'amis et nous mettre en repos.			[1430]
+Sans vous, nous etions pres de rompre notre troupe.
+LE CHEVALIER.
+La rompre, dans un temps qu'elle a le vent en poupe,
+Ce serait, ce me semble, assez mal aviser ;
+Mais d'ou vient ce divorce ?
+FLORIMONT.
+Et qui le peut causer
+Qu'Elomire.
+ELOMIRE, en raillant.
+Elomire a toujours fait merveilles :			[1435]
+Il a scandalise des yeux et des oreilles.
+Perverti des esprits et corrompu des moeurs ;
+Enfin, c'est un demon, si l'on croit ces docteurs.
+Le diable les confonde, eux et leur calomnie.
+Mais il s'agit ici d'un point de comedie,			[1440]
+Qui m'importe bien plus que tous ces sots discours.
+LE CHEVALIER.
+Quel est-il ?
+ELOMIRE.
+Ces reveurs qui m'insultent toujours, 
+Disent qu'au serieux je ne suis qu'une bete : 
+Et cette impertinence est si fort dans leur tete, 
+Que le diable, je crois, ne l'en oterait pas.			[1445]
+LE CHEVALIER.
+Quoi ! C'est la ce grand point qui cause vos debats ?
+ELOMIRE.
+Lui-meme.
+LE CHEVALIER.
+Eh bien! Il faut terminer ces grabuges.
+FLORIMONT.
+De grace, faites-le ; nous vous en faisons juges.
+LE CHEVALIER.
+Juges d'un point comique : ah ! c'est nous faire honneur.
+D'autant plus qu'il s'agit de juger d'un acteur ;			[1450]
+Et d'un acteur, encor, tel que l'est Elomire.
+FLORIMONT.
+C'est-a-dire fort grand, dans les pieces pour rire:
+Moyennant que le drole en soit pourtant l'auteur ;
+Car, aux pieces d'autrui, je suis son serviteur ?
+De sa vie, il n'entra dans le sens d'aucun autre.			[1455]
+ELOMIRE.
+C'est la ton sentiment ; mais ce n'est pas le notre.
+LE CHEVALIER, a Elomire.
+Recite donc des vers, et des plus s2rieux.
+ELOMIRE.
+J'en vais dire a tirer les larmes de vos yeux. 
+Ecoutez, je vais dire une fort belle stance ; 
+Surtout observez bien mon geste et ma cadence.			[1460]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+	Noire Deesse de la nuit,
+	Pourquoi redoubles-tu tes voiles ;
+	Et, nous cachant jusqu'aux etoiles, 
+	Nous laisses-tu si peu de lumiere et de bruit ?
+	Jamais depuis que le silence
+	Accompagna l'obscurite,
+	L'on ne vit si peu de clarte
+	Se joindre a leur intelligence :
+	Ici rien ne parait que tenebres, qu'horreur ;
+	Mais las ! Pardonne a mon erreur ;
+	Puisque je vois les maux que ma Climene endure,
+	Triste Nuit, c'est a tort que je t'appelle obscure.
+
+			[0]
+Pourquoi donc...
+LE CHEVALIER, interrompant Elomire.
+Plus de stance ; ah ! ce n'est pas ton fait.
+ELOMIRE.
+Tout de bon ?
+LE CHEVALIER.
+Tout de bon.
+ELOMIRE.
+En effet !
+LE CHEVALIER.
+En effet.
+ELOMIRE.
+Disons donc d'autres vers qui soient plus magnifiques,			[1475]
+Et que mon action rende plus pathetiques.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que dites-vous, Climene ! Ah ! Plutot l'Univers
+Retourne en son chaos, que tout soit a l'envers ;
+Que tout perisse ensemble, et le Ciel et la Terre,
+Plutot que tant soit peu je vous puisse deplaire.			[1480]
+Mais que dis-je, insense ? Ne vous deplais-je pas ?
+Ne vous fuis-je pas seul souhaiter le trepas ?
+Un autre que Tircis cause-t-il votre peine ;
+Et ne suis-je pas seul votre fleau, Climene ?
+Oui Climene, c'est moi dont le coupable amour			[1485]
+Vous veut faire quitter Filidas et le jour :
+C'est moi qui fais l'ennui dont votre coeur soupire,
+Et qui fais tous les maux sous lesquels il expire ;
+Ah ! Si je pouvais vaincre un si fier ennemi ;
+Ou tout du moins, briser mes chaines a demi ?			[1490]
+Si cette passion que mon ame transporte,
+Etait un peu plus lente, etait un peu moins forte :
+Et que dans ces elans, je pusse sans ma mort,
+Vous ceder, en faisant un genereux effort ;
+Que vous venez bientot, adorable Climene,			[1495]
+Quelle horreur a Tircis, de causer votre peine ;
+Combien pour tous vos maux il endure de mal,
+Et jusqu'a quel exces il aime son rival !
+Mais cette passion, cet amour et ces chaines,
+Sont des chevaux fougueux, qui n'ont ni mors ni renes,			[1500]
+Ils m'emportent partout avec tant de raideur,
+Que ma chute peut seule apaiser leur fureur.
+Tombons donc ! Aussi bien ma chute est legitime,
+Puisque je ne saurais l'eviter sans un crime.
+Oui...
+LE CHEVALIER, l'interrompant.
+Fais-tu de ton mieux, Elomire ?			[1505]
+ELOMIRE.
+Pourquoi ?			[1505]
+LE CHEVALIER.
+Parce que tu le dois ; sinon, prends garde a toi.
+ELOMIRE, etonne.
+Quoi ! Je ne fais pas bien ?
+LE CHEVALIER.
+Comment ! Bien au contraire ; 
+Je ne t'ai, sur ma foi, jamais vu si mal faire. 
+Que t'en semble, Marquis ?
+LE MARQUIS.
+Que m'en semblerait-il ? 
+Pour en juger ainsi, faut-il etre subtil ?			[1510]
+LE CHEVALIER.
+Et toi, comte ?
+LE COMTE.
+Pour moi, je suis sur des epines, 
+Quand je l'entends parler, ou que je vois ses mines.
+ELOMIRE.
+Ne jugez pas encor ; quatre vers seulement
+Vous vont desabuser.
+LE CHEVALIER.
+Dis-les donc promptement.
+ELOMIRE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Apres tout, qui vous porte a m'etre si cruelle ?			[1515]
+Filidas est-il plus amoureux, plus fidele ;
+Est-il plus beau que moi ; vous merite-t-il mieux ?
+N'ai-je pas, comme lui, de quoi plaire a vos yeux ?
+Mais quand ce Filidas vous plairait davantage ;
+Quand du plus beau des Dieux il aurait le visage,			[1520]
+Et quand il en aurait toutes les qualites,
+N'etant pas Roi, ce choix fait tort a vos beautes.
+Ah..
+LE CHEVALIER, interrompant derechef Elomire et brusquement.
+De grace, tais-toi ; crois-moi, cher Mascarille, 
+Fais toujours le docteur, ou fais toujours le drille,
+Car enfin, il est temps de te desabuser,			[1525]
+Tu ne naquis jamais que pour faquiniser ;
+Ces roles d'amoureux ont l'action trop tendre ;
+Il faut, par un regard, savoir se faire entendre,
+Et par le doux accord d'un mot et d'un soupir,
+Toucher ses auditeurs de ce qu'on feint souffrir,			[1530]
+Mais si tu te voyais, quand tu veux contrefaire
+Un amant dedaigne qui s'efforce de plaire ;
+Si tu voyais tes yeux hagards et de travers ;
+Ta grande bouche ouverte, en prononcant un vers,
+Et ton col renverse sur tes larges epaules,			[1535]
+Qui pourraient, a bon droit, etre l'appui de gaules ;
+Si, dis-je...
+ELOMIRE, interrompant le chevalier.
+Cela dit qu'il faut faquiniser, 
+Eh bien, faquinisons ; mais comment apaiser 
+Ces critiques docteurs, qui me traitent d'impie,
+Et de maitre d'ecole, en fait de vilenie ?			[1540]
+LE CHEVALIER.
+Il n'est rien plus aise. Tu n'as qu'a retrancher 
+Tout ce que dans tes vers tu t'es vu reprocher.
+ELOMIRE.
+Je m'en garderai bien.
+LE CHEVALIER.
+Et pourquoi ?
+ELOMIRE.
+Pourquoi ? Parce 
+Il en resterait plus que pour faire une farce.
+LE CHEVALIER.
+Eh bien, la farce est bonne apres le serieux :			[1545]
+Tu la joueras toi-meme, et la joueras des mieux.
+Et meme avecque gloire. A-t-on, dans ce royaume,
+Jamais vu des acteurs pareils a Gros-Guillaume,
+Gautier et Turlupin ? De leur temps, toutefois,
+Le serieux etait le grand gout des Francais.			[1550]
+Mais apres qu'on avait admire Bellerose,
+Ces trois fameux bouffons triomphaient par leur prose,
+Et l'innocent plaisir, dont ils charmaient les coeurs,
+Les faisait adorer de tous les spectateurs.
+ELOMIRE.
+Parbleu ! l'avis me plait j'en veux faire de meme,			[1555]
+Et je vais tout chatrer, jusqu'a Tarte a la creme.
+Pour ces roles transis, les prenne qui voudra :
+Je ferai desormais tout ce qu'on resoudra.
+FLORIMONT.
+Nous ferons donc pleurer, et puis tu feras rire.
+ELOMIRE.
+J'accepte le parti.
+FLORIMONT.
+Mais garde-toi d'ecrire			[1560]
+Rien de sale et d'impie, et qui choque les moeurs ;
+Autrement, sans quartier.
+LE CHEVALIER.
+Il l'a promis, Messieurs.
+ELOMIRE.
+Je l'ai deja jure ; derechef, je le jure :
+Je ne ferai plus rien capable de censure.
+FLORIMONT.
+En ce cas, nous allons faire enrager l'Hotel.			[1565]
+ROSIDOR.
+Et nous crever de monde.
+LE CHEVALIER.
+En effet, rien de tel 
+Ne se verra jamais.
+FLORIMONT, parlant au Chevalier, au Comte et au Marquis.
+Nous serons redevables
+De cet heureux succes a vos soins favorables.
+Aussi, Messieurs...
+LE CHEVALIER, s'en allant avec le Comte et le Marquis.
+Adieu ; mais avertissez-nous,
+Alors que vous jouerez de la sorte chez vous.			[1570]
+Je le dis derechef, j'en attends des merveilles,
+Et j'en veux regaler mes yeux et mes oreilles.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ELOMIRE, bas.
+Lazarille, j'en tiens !
+LAZARILLE, bas.
+Il n'en faut dire rien.
+ELOMIRE, bas.
+Non ; mais si je gueris, je m'en souviendrai bien : 
+Et l'auteur apprendra dans peu, par sa satire, 			[1575]
+Qu'on rit a ses depens, quand on rit d'Elomire; 
+Car j'auraI ma revanche, ou bientot je mourrai.
+ALPHEE.
+Eh bien, gland medecin du fameux Sennelay,
+Vous voyez maintenant que je ne suis pas seule
+Qui, contle Mascalile ait deploye sa gueule.			[1580]
+L'autheul de cette piece, ainsi que vous voyez,
+Ne l'a pas mal daube, du clane jusqu'aux pieds;
+Mais ce qui me lavit, dedans cette satile,
+C'est que tout en est vlay, et que tout y fait lile.
+ELOMIRE, bas a Lazarille.
+Elle ment. Si j'osais...
+LAZARILLE, bas a Elomire.
+Gardez-vous de causer.			[1585]
+ORONTE.
+Voici l'heure du bal ; allons nous deguiser.
+
+
+			ACTE V
+
+
+SCENE PREMIERE. Alcandre, Caliste, Les Convies au bal, Un Laquais.
+Cette scene est dans une salle preparee pour un bal, ou il y a compagnie et des violons.
+ALCANDRE, a un laquais.
+Qu'on donne ordre, Laquais, de faire entrer les masques.
+CALISTE.
+Quelle est leur mascarade ?
+ALCANDRE.
+Elle est des plus fantasques : 
+Et comme ils ont en main chacun un instrument, 
+Sans doute ils donneront du divertissement : 			[1590]
+Les voici : peut-on voir de plus parfaits crotesques ?
+CALISTE, voyant entrer les masques.
+C'est Esculape et Mome ; o Dieux ! Qu'ils sont crotesques ?
+SCENE II. Deux musiciens representant Esculape ET Mome, Oronte, Climante, Clearque, Elomire, Lazarille, Clarice, Lucinde, Alphee, Lucille tous masquez et tenant en main chacun un instrument, Alcandre, Caliste, Les Convies.
+Esculape et Morne chantent en forme de dialogue le recit qui suit et les autres le repetent.
+ESCULAPE et MOME.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Rien n'egale la sante,
+Belles, cherissez-la par dessus toutes choses :
+Elle fait de votre beaute,			[1595]
+Tous les lys et toutes les roses :
+Sans elle vous n'auriez que de faibles appas,
+Encor ne les verrions-nous pas.
+Je suis le Dieu qui la donne
+A tous les autres Dieux, meme a celui qui tonne.			[1600]
+Et si vous me voyez ici,
+C'est pour vous la donner aussi.
+MOME.
+Esculape est un pipeur,
+N'ecoutez point sa voix, adorables mortelles :
+Si vous etes de belle humeur,			[1605]
+Vous demeurerez toujours belles.
+La joie est la sante que demandent vos yeux ;
+Elle seule charme les Dieux :
+Je suis celui qui la donne
+Aux Deesses du ciel, pour plaire au Dieu qui tonne :			[1610]
+Et si vous me voyez ici,
+C'est pour vous la donner aussi.
+ESCULAPE.
+Quoi ! Ce Tabarin des Cieux,
+Ce Mome qui cent fois reconnut ma puissance,
+Viendra m'insulter en ces lieux,			[1615]
+Et ne craindra point ma vengeance ?
+Non, non, ne souffrons point de cet enfarine,
+Sus, amis, pour etre berne.
+Qu'aux medecins on le donne : 
+Cet ordre plait aux Dieux, meme a celui qui tonne, 			[1620]
+Et si vous nous voyez ici, 
+C'est parce qu'il leur plait aussi.
+SCENE III. L'exempt, Le Balafre, Sans-malice, Plusieurs Autres Archers, Esculape, Mome, Oronte, Climante, Clearque, Elomire, Lazarille, Clarice, Lucinde, Alphee, Lucille, Alcandre, Caliste, Les Convies.
+L'EXEMPT.
+Archers, en haie, et tous vis-a-vis de la porte;
+Mais qu'on garde surtout que personne ne sorte.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Demeurez la, Monsieur ; mais qu'on ne craigne rien.			[1625]
+ALCANDRE, a l'Exempt.
+Guet, me connaissez-vous ?
+L'EXEMPT.
+Oui, je vous connais bien, 
+Et je sais ce qu'on doit aux gens de votre sorte.
+ALCANDRE.
+Pourquoi donc, a mon nez, vous saisir de ma porte ?
+L'EXEMPT.
+Parce qu'un assassin est parmi ces masques,
+Que je veux l'avoir vif ou mort.
+ALCANDRE.
+Vous vous moquez ; 			[1630]
+Je connais trop tous ceux qui sont dans cette bande.
+L'EXEMPT, montrant son baton.
+Connaissez ce baton, Monsieur, et qu'on lui rende
+Du respect, ou sachez que vous en repondez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons, le masque bas ! Vite, vous marchandez ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoi ! Vous, mon medecin ! Vous-meme ; vous, Oronte ! 			[1635]
+Vous, en masque ? Ah ! ma foi, vous devriez avoir honte ; 
+Vous en masque, grands Dieux, avec des assassins ?
+ORONTE.
+Vous nommez donc ainsi Messieurs les medecins ? 
+Car ceux que vous voyez le sont tous, et leurs femmes.
+L'EXEMPT, s'adressant a Elomire et a Lazarille, qui se sont demasques, avec tous les autres.
+Ceux-la ne le sont pas. Qu'etes-vous, bonnes ames? 			[1640]
+Car vos visages ont un certain air...
+ELOMIRE.
+Croyez 
+Que vous parleriez mieux si vous me connaissiez.
+ALCANDRE.
+Prenez garde, Monsieur, c'est le Bassa Sigale.
+L'EXEMPT.
+Qui ? ce fourbe qui fuit, de peur qu'on ne l'empale ?
+ELOMIRE.
+Je n'eus jamais ce nom, ni cette qualite.			[1645]
+ALCANDRE.
+Sous ce nom-la, pourtant, vous m'avez consulte,
+Si vous ne l'etes pas, vous etes un grand fourbe :
+Voyez-vous ce petit bout d'homme qui se courbe 
+Derriere lui, c'etait son secretaire.
+LAZARILLE, se redressant.
+Eh bien ;
+J'etais son secretaire, et je ne suis plus rien :			[1650]
+Concluez. 
+L'EXEMPT.
+Sur ma foi, ce petit homme est drole ; 
+Dans une comedie, il jouerait un bon role. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais,de grace, Monsieur, qu'etes-vous ? Car, enfin, 
+Je sais qu'il est entre ceans un assassin ;
+Qu'il cachait, comme vous, son visage d'un masque, 			[1655]
+Et tenait comme vous un gros tambour de basque.
+Je ne crois pas, Monsieur, qu'apres un tel rapport
+De l'assassin a vous, je puisse avoir grand tort, 
+Quand je vous trainerai dans la Conciergerie, 
+D'autant plus que pas un de cette compagnie			[1660]
+Ne sait ni votre nom, ni quel est le pays 
+D'ou vous etes, et dont, certes, je m'ebahis. 
+Quoi ! Malgre tout cela, vous n'ouvrez pas la bouche ?
+LE BALAFRE.
+C'est sans doute, Monsieur, que le remords le touche. 
+C'est notre homme ; je vais, si vous le trouvez bon, 			[1665]
+Le lier pieds et poings.
+L'EXEMPT.
+Direz-vous votre nom ?
+ELOMIRE.
+Helas ! Monsieur, je suis un Espagnol malade,
+Qui...
+L'EXEMPT.
+Fourbe, en cet etat va-t-on en mascarade ?
+ELOMIRE.
+Oui, Monsieur, l'on fait plus, l'on boit a rouges bords,
+On rit, on chante, on joue, on s'egaye le corps,			[1670]
+Quand c'est de Sennelay le grand urinaliste,
+Qui traite un hypocondre, et non pas un chimiste.
+L'EXEMPT.
+Quoi ! Pour faire le fou, vous pensez m'abuser ? 
+Ah ! Ma foi, je m'en vais vous faire degoiser, 
+Devant qu'il soit deux jours, de la belle maniere, 			[1675]
+Ou nous verrons tarir fontaines et riviere : 
+Oui, fourbe, nous saurons bientot votre dessein; 
+Nous vous saurons tirer la verite du sein. 
+Balafre, qu'on le lie !
+ELOMIRE, a Oronte.
+O Dieux ! Est-il possible,
+Qu'un homme tel que vous ait le coeur insensible ? 			[1680]
+Quoi donc ! de Sennelay, merveilleux medecin, 
+Vous me souffrez nommer fou, perfide, assassin, 
+Archi-fourbe : pour fou, passe, ma maladie 
+Est telle, dites-vous, par ma melancolie : 
+Mais pour ces autres noms, vous savez comme moi 			[1685]
+Que je ne les ai point.
+L'EXEMPT.
+Cet homme est fou, ma foi ? 
+Qu'est-ce que Sennelay ? Qu'est-ce qu'urinaliste ? 
+Qu'est-ce que votre mal ? N'etes-vous point l'uliste ? 
+Ces gens-la, d'ordinaire, ont un langage obscur 
+Qu'on entend justement comme l'entend un mur.			[1690]
+ELOMIRE, a Clitandre.
+Climante, vous savez...
+CLIMANTE.	
+Quoi, que je suis Climante ; 
+Si vous en voulez plus, vous voulez que je mente.
+Mais, Monsieur, vous savez si je suis l'assassin
+Que l'on cherche ? Je sais que je suis medecin 
+De Paris ; et de plus, qu'Oronte l'est de meme : 			[1695]
+Mais d'ou vient qu'a ces mots vous devenez tout bleme ?
+ELOMIRE, bas a Lazarille.
+Je suis mort, Lazarille.
+LAZARILLE, bas.
+Esperez jusqu'au bout : 
+Mais qu'on ne sache point qui vous estes, surtout.
+ELOMIRE, bas. 
+Je m'en garderai bien.
+L'EXEMPT, a Elomire.
+Que venez-vous de dire ?
+ELOMIRE, en toussant bien fort.
+Rien du tout.
+L'EXEMPT.
+Vous mentez.			[1700]
+LE BALAFRE.
+Monsieur, c'est Elomire : 			[1700]
+Oui c'est lui, je le viens de connaitre a sa toux.
+Lui ?
+ORONTE.
+Lui-meme, qui sort de l'hopital des fous : 
+Je dis de l'hopital du grand urinaliste.
+ELOMIRE, a Oronte.
+Vous m'avez donc joue, Monsieur ?
+ORONTE.
+Oui, Jean-Baptiste ; 
+Oui, Bassa ; oui, Guzman ; nous vous avons joue.			[1705]
+ELOMIRE.
+Par ma foi, j'en suis quitte a peu ; Dieu soit loue :
+Je me croyais deja dans la Conciergerie,
+Et de la dans la place, ou...
+L'EXEMPT.
+Badauderie ?
+Vous vous entendez tous, et je m'entends aussi.
+Balafre, qu'on le lie, et qu'on l'ote d'ici.			[1710]
+ELOMIRE.
+Ah ! Tous les medecins ont pour moi tant de haine,
+Que si j'etais coupable, ils le diraient sans peine.
+Oui, sans doute, ils seraient ravis de m'accuser,
+Et pas un d'eux, Monsieur, ne voudrait m'excuser.
+LE BALAFRE, liant les bras d'Elomire.
+Allons, causeur, allons ; aide moi, Sans-Malice ?			[1715]
+ELOMIRE, se voyant lie.
+Fit-on jamais, o Dieu ! Une telle injustice !
+ORONTE, gaussant Elomire.
+Le pauvre homme ! Messieurs, vous lui rompez les bras ?
+Prenez garde, il les a, dit-on, fort delicats ?
+Peut-etre qu'au sortir de la Conciergerie,
+Il en aura besoin : choyez-les, je vous prie ?			[1720]
+ELOMIRE, a l'exempt, se jetant a ses pieds.
+Monsieur, ayez pitie...
+L'EXEMPT.
+Pitie d'un assassin ?
+ELOMIRE.
+Je le serais, Monsieur, si j'etais medecin ?
+Mais je ne le suis pas, vous le savez vous-meme.
+ORONTE.
+Il nous nomme assassins, o l'impudence extreme !
+Que ne dirait-il point, s'il etait hors d'ici ?			[1725]
+L'EXEMPT.
+Messieurs, il parlera fort peu de temps ainsi ;
+Moyennant quelques pots de belle eau toute pure, 
+Je le ferai bientot changer de tablature ;
+Mais c'est trop epargner un insolent causeur ;
+Qu'on marche.
+ELOMIRE, se voyant traine.
+Lazarile, a moi ?			[1730]
+LAZARILLE, le suivant.
+J'y suis, Monsieur.			[1730]
+TOUS LES ACTEURS ensemble, voyant qu'on entraine Elomire. 
+Le pauvre homme ?
+ORONTE, apres qu'Elomire et ceux qui le menent ne paraissent plus.
+Ma foi, c'est par trop, ce me semble : 
+Il croit aller en Greve.
+CLIMANTE.
+Et si vrai, qu'il en tremble.
+ORONTE.
+S'il en mourait ?
+CLEARQUE.
+Qu'importe ! Il meurt bien d'autres fous
+En nos mains.
+ORONTE.
+Mais, enfin, que dirait-on de nous ? 
+CLEARQUE.
+On en dirait, ma foi, ce qu'on en voudrait dire ; 			[1735]
+Mais quoi que l'on en dit, je n'en ferais que rire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'exempt revient.
+CLIMANTE, a l'Exempt.
+Eh bien ! L'as-tu fait expirer ?
+L'EXEMPT.
+Donnez-moi, s'il vous plait, le temps de respirer :
+J'ai tant ri, que j'en ai presque perdu l'haleine.
+Ayant mis notre fou dans la chambre prochaine,			[1740]
+Avec son Lazarille et notre Balafre,
+Je les ai laisses seuls ; et puis etant rentre
+Sans etre vu, j'ai oui ce que je vais vous dire.
+Illustre Balafre, dit tout bas Elomire,
+L'occasion est chauve, et qui ne la prend pas,			[1745]
+Alors qu'il la rencontre, est mis au rang dos fats.
+Monsieur, je n'entends rien a ces belles paroles ;
+Mais je sais ce qu'on fait quand on tient des pistoles,
+Lui repond la Balafre ; et si vous en doutiez,
+Il ne tiendrait qu'a vous que vous ne le vissiez.			[1750]
+Elomire, a ces mots, lui met en main sa bourse :
+Le Balafre la prend, disant Je suis votre ourse,
+Suivez-moi : cela dit, le drole fait le saut
+De la fenetre en bas, l'etage est assez haut :
+Quoiqu'il soit le premier, toutefois Elomire,			[1755]
+Et c'est ceci, ma foi, qui m'a le plus fait rire,
+Autant presse de joindre un si grand conducteur,
+Qu'aveugle de l'exces de sa mortelle peur,
+Le suit si prestement, et par la meme route,
+Qu'il tombe sur son guide ; il l'eut creve, sans doute,			[1760]
+Si notre balafre, plus dur que n'est le fer,
+Ne l'eut d'un coup de reins fait retourner en l'air.
+Elomire retombe, et soudain se redresse,
+Et gagne le taillis d'une belle vitesse.
+ORONTE.
+Et le bon Lazarille ?
+L'EXEMPT.
+Il est encore ici.			[1765]
+ORONTE.
+Notre vengeance est due a ses soins.
+L'EXEMPT.
+Dieu merci, 
+Nous le pouvons payer aux depens d'Elomire ; 
+Car nous avons sa bourse.
+ORONTE.
+Il aura donc fait rire, 
+A ses frais, ceux qu'il a tant de fois outrages.
+L'EXEMPT.
+C'est assez : allons boire aux medecins venges.			[1770]
+
+	==================================================

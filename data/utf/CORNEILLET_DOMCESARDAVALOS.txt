@@ -1,0 +1,3173 @@
+********************************************************
+	DC.Title                  = DON CESAR D'AVALOS, COMEDIE.
+	DC.Author                 = CORNEILLE, Thomas
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:16.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CORNEILLET_DOMCESARDAVALOS.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+DON CESAR D'AVALOS COMEDIEM.DC.LXI. AVEC PRIVILEGE DU ROY.
+DE TH. CORNEILLE
+	.
+	
+	Represente pour la premiere fois le 21 decembre 1674 au Theatre de l'Hotel Guenegaud
+	ACTEURS.
+DON FERNAND DE VARGAS, pere d'Isabelle.
+DON CESAR D'AVALOS, amant d'Isabelle.
+DON PASCAL GIRON.
+ENRIQUE, ami de Don Fernand.
+ISABELLE, fille de Don Fernand.
+BEATRIX, suivante d'Isabelle.
+SGANARELLE, valet de Don Lope, fils de Don Fernand.
+CARLIN, valet de Don Cesar.
+GUZMAN, valet de Don Pascal.
+La Scene est a Madrid.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Isabelle, Beatrix.
+BEATRIX.
+Oui, vous dis-je, l'on vient d'assurer votre pere, 
+Qu'ici, depuis une heure, on a vu votre frere. 
+Par les derniers vaisseaux venus de Cadix 
+De son prochain retour on avait eu l'avis. 
+Peut-etre est-il facheux qu'apres douze ans d'absence 			[5]
+Il vienne avecque vous partager la finance ; 
+Mais le Ciel qui vous donne un epoux a souhait, 
+Repare assez le tort que ce frere vous fait. 
+Les Ducats... A propos, quand vous serez sa femme, 
+N'allez pas, s'il vous plait, faire trop la grand'Dame.			[10]
+Je suis de la maison depuis plus de vingt ans. 
+Je vous ai dirigee, et par la je pretends... 
+ISABELLE.
+Va, ta direction aura son plein salaire. 
+Ne crains rien ; mais dis-moi, je reviens a ce frere. 
+Si Don Lope est ici, pourquoi ne vient-il pas ? 			[15]
+BEATRIX.
+Peut-etre il craint encor le bonhomme ; en ce cas 
+Il cherche quelque ami par qui pouvoir apprendre, 
+Apres son fol hymen, l'accueil qu'il doit attendre. 
+Enlever une fille et sans nom et sans bien... 
+ISABELLE.
+Je n'avais que cinq ans, et me souviens fort bien 			[20]
+Que mon pere apprenant qu'ils avaient pris la fuite, 
+En fit faire partout une exacte poursuite. 
+C'etait fait de Don Lope, il n'etait plus son fils. 
+BEATRIX.
+Aussi pendant dix ans n'en a-t-on rien appris ; 
+Mais enfin etant veuf, il a demande grace ; 			[25]
+Sa femme etait son crime, elle est morte, il s'efface. 
+Les Lettres l'ont de loin assure du pardon. 
+Je crois le voir encor ; il avait l'air si bon. 
+C'etait un de ses Gens qu'on ne peut voir sans prendre, 
+Des la premiere fois, je ne sais quoi de tendre. 			[30]
+Son malheur fut d'aimer un peu trop fortement. 
+Qu'est-ce donc ? Vous voila tout je ne sais comment ? 
+ISABELLE.
+Tu me fais reflechir sur ce que je hasarde. 
+C'est au bien seulement que mon pere prend garde. 
+L'epoux qu'on me promet, peut n'etre pas de ceux 			[35]
+Qui font parler d'abord leur merite pour eux. 
+Mon coeur n'ose m'en faire une aimable peinture ; 
+Et s'il faut t'expliquer ce que je m'en figure, 
+Avec un tel exces la fortune lui rit, 
+Qu'il me trompera fort, s'il est riche en esprit. 			[40]
+Le bien fait de grands sots. 
+BEATRIX.
+C'est un pretexte honnete 
+Pour porter sans rougir la qualite de bete. 
+Mais n'apprehendez rien ; Don Cesar d'Avalos, 
+Quoique riche, n'est point du nombre de ces sots. 
+La preuve par Enrique en est assez facile. 			[45]
+Ainsi que Don Cesar Enrique est de Seville, 
+Et le bien qui s'en dit par lui-meme affermi, 
+Est d'autant moins suspect, qu'il est son Ennemi. 
+ISABELLE.
+Peut-etre est-ce par la qu'il tache de lui nuire. 
+Quelquefois on eleve afin de mieux detruire, 			[50]
+Rien n'est plus dangereux que de preoccuper. 
+BEATRIX.
+Et vous croyez qu'Enrique oserait vous tromper, 
+Lui qui depuis deux ans que dure son affaire, 
+N'a d'amis a Madrid que ceux de votre pere ? 
+ISABELLE.
+Quand il faut dire oui, pour ne plus dire non, 			[55]
+Crois-moi, l'on n'y saurait faire trop de facon ; 
+La chose est pour mon compte. 
+BEATRIX.
+Eh, puisque c'est la mode, 
+Ne songez qu'aux ecus, c'est la le plus commode. 
+Quand les maris en ont, de quoi s'inquieter ? 
+S'ils veulent etre Sots, il faut les contenter. 			[60]
+Est-il si difficile ? 
+ISABELLE.
+Ainsi sans nul scrupule 
+Le bien te ferait prendre un mari ridicule, 
+Un de ces obstines dont rien ne vient a bout ? 
+BEATRIX.
+Vivent les gens d'esprit, ils se tirent de tout. 
+Mais quand pour Don Cesar la crainte vous arrete, 			[65]
+Dites, n'auriez-vous point quelque autre chose en tete. 
+ISABELLE.
+Moi, qu'y pourrai-je avoir ? Est-ce que l'on me voit... 
+BEATRIX.
+Eh, mon Dieu, le mal vient plus vite qu'on ne croit. 
+Que sait-on ? Depuis peu je vous trouve inquiete. 
+De votre cabinet vous aimez la retraite, 			[70]
+Sans moi chez Leonor vous allez fort souvent. 
+ISABELLE.
+C'est ma cousine. 
+BEATRIX.
+Elle est une tete a l'event ; 
+Et pour vous parler franc, vous auriez bien la mine 
+D'avoir fait un cousin en cherchant la cousine. 
+ISABELLE.
+Quoi, tu presumerais que j'aurais pu... 
+BEATRIX.
+Ma foi, 			[75]
+Si vous me le cachez, defiez-vous de moi. 
+Je vais, pour le savoir, mettre tout en usage ; 
+Et si j'apprends sans vous... vous rougissez ? Courage, 
+C'est bon signe. Enfin donc vous aimez ? 
+ISABELLE.
+Moi, non pas, 
+Mais... 
+BEATRIX.
+Quelqu'un est epris de vos jeunes appas ! 			[80]
+ISABELLE.
+Eh. 
+BEATRIX.
+Poursuivez. 
+ISABELLE.
+Au moins garde-toi d'en rien dire. 
+BEATRIX.
+Je ne sais rien encor. Ce quelqu'un qui soupire 
+Est bien fait ? 
+ISABELLE.
+L'air, le port, la taille, tout en plait. 
+Galant, spirituel, mais je ne sais qui c'est. 
+BEATRIX.
+Vous l'ignorez ? 
+ISABELLE.
+Apprends l'aventure bizarre 			[85]
+Qui m'expose aux chagrins que l'amour me prepare. 
+Un de ces derniers soirs etant sortie expres 
+Pour aller ou chacun aime prendre le frais, 
+Je marchais a pas lents avecque ma cousine, 
+Quand un je ne sais qui d'assez mauvaise mine, 			[90]
+Troublant notre entretien par de sots compliments, 
+Nous ote la douceur de ces heureux moments. 
+Sa poursuite obstinee allant a l'insolence, 
+Un Cavalier survient qui prend notre defense. 
+Il repousse l'insulte, et d'un air peu commun, 			[95]
+Met la main a l'epee, et fait fuir l'importun. 
+Juge a quoi ce service engage une belle ame. 
+Ce cavalier m'aborde, et d'un oeil tout de flamme 
+S'attachant fortement a me considerer, 
+Me fait l'offre d'un coeur que je fais soupirer. 			[100]
+Cent discours obligeants secondent cet hommage. 
+Que d'esprit ! On ne peut en montrer davantage ; 
+Mais la nuit survenant, nous rompons l'entretien, 
+Lui sans dire son nom, moi sans dire le mien. 
+Le reste au lendemain, a meme heure, au lieu meme, 			[105]
+Il me repond d'un feu qui va jusqu'a l'extreme, 
+Et devant Leonor veut m'engager sa foi, 
+Que jamais, quoi qu'on fasse, il n'aimera que moi. 
+Je l'ai vu quatre fois ; toujours meme assurance 
+D'un amour sans egal, d'une entiere constance. 			[110]
+Mon coeur contre sa flamme a peine a s'obstiner, 
+Et voudrait etre a lui, s'il osait se donner. 
+BEATRIX.
+Qu'au moindre mot d'amour la Jeunesse est credule ! 
+Ce diseur de beaux mots sait dorer la pilule ; 
+Et si vous en croyez son doucereux jargon, 			[115]
+Votre fortune est faite avec lui ? 
+ISABELLE.
+Tout de bon, 
+Par tant de qualites il merite qu'on l'aime... 
+Il est fort riche. 
+BEATRIX.
+Bon, c'est la richesse meme ; 
+Il vous l'a dit, pourquoi ne l'en croiriez-vous pas ? 
+Pour noble, on l'est d'abord qu'on fait le fier-a-bras. 			[120]
+Ce fut la son debut ? 
+ISABELLE.
+Mais quel mal en peut naitre, 
+Puisque apprenant mon nom il se fera connaitre ? 
+BEATRIX.
+Tenez-vous-en, de grace, a votre epoux futur. 
+Avec lui l'abondance est pour vous un coup sur ; 
+C'est la qu'il faut donner ; le reste, bagatelle. 			[125]
+SCENE II. Don Fernand, Isabelle, Guzman, Beatrix.
+DON FERNAND.
+Je t'apporte, ma fille, une bonne nouvelle. 
+Don Cesar ton epoux est ici d'hier au soir. 
+GUZMAN.
+Il est a quatre pas, qui brule de vous voir, 
+Madame, et comme il veut tout faire avec methode, 
+Dans la crainte qu'il a de vous etre incommode... 			[130]
+DON FERNAND.
+Il ne le sera point, qu'il vienne promptement. 
+ISABELLE.
+Son Maitre, ou je me trompe, aime le compliment. 
+GUZMAN.
+Ah, Madame, il n'a point son pareil pour en faire. 
+C'est un esprit... Qu'il parle, on n'a plus qu'a se taire ; 
+Il sera quatre jours a discourir sur rien. 			[135]
+DON FERNAND.
+C'est beaucoup que d'avoir le don de l'entretien. 
+GUZMAN.
+D'abord qu'on l'apercoit, on accourt pour l'entendre. 
+C'est l'humeur la plus drole... 
+DON FERNAND.
+Oui ? 
+GUZMAN.
+S'il est votre gendre, 
+Je vous tiens tout au moins rajeuni de vingt ans. 
+DON FERNAND.
+Comment, s'il est mon gendre; est-ce que... 
+GUZMAN.
+Je m'entends, 			[140]
+Il vient a ce dessein; mais comme enfin son pere 
+A tant et tant de biens qu'il n'en saurait que faire, 
+Quoiqu'a Madrid encor on ne l'ait jamais vu, 
+Ses amis ont ecrit, il y sera connu. 
+Pour attraper les gens, il est de fines mouches. 			[145]
+DON FERNAND.
+Les belles de Madrid ne sont pas trop farouches; 
+Mais enfin a cela le remede est aise. 
+Si je trouve a l'hymen ton maitre dispose, 
+Pas plus tard que demain... 
+GUZMAN.
+C'est assez bien le prendre. 
+Le plutot vaut le mieux ; mon maitre a le coeur tendre, 			[150]
+Et quand on l'amadoue, il a peine a tenir. 
+DON FERNAND.
+Suffit qu'un prompt hymen puisse tout prevenir. 
+GUZMAN.
+Vous verrez la-dessus ce qui se devra faire. 
+Mais je cours l'avertir qu'il peut entrer. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ma chere, 
+Nous ferons connaissance au retour. 
+BEATRIX, a Guzman.
+On t'attend, 			[155]
+Va vite. 
+SCENE III. Don Fernand, Isabelle, Beatrix.
+DON FERNAND.
+Le parti, ma fille, est important. 
+Quand Don Cesar viendra, pour lui paraitre aimable, 
+Prends un air enjoue, complaisant, agreable, 
+Et l'attire si bien, que l'hymen resolu, 
+Par ses propres desirs des demain soit conclu. 			[160]
+Tu lui plairas sans doute. 
+ISABELLE.
+Et s'il ne peut me plaire ? 
+DON FERNAND.
+Il est unique, et c'est un Cresus que son pere. 
+Tu rouleras sur l'or, en l'epousant. 
+ISABELLE.
+Tant mieux. 
+L'or est d'une couleur qui rejouit les yeux ; 
+Mais le coeur ? 
+BEATRIX.
+De quel soin vous chargez-vous ? En somme 			[165]
+Il est riche, peut-il n'etre pas honnete homme ? 
+DON FERNAND.
+Beatrix a raison, l'argent est le bon mot, 
+Et tout gueux, quel qu'il soit, ne peut etre qu'un sot. 
+Je me souviens du temps ou dans notre jeune age 
+Je fis avec son pere un assez long voyage. 			[170]
+Nous etions l'un pour l'autre Amis si complaisants, 
+Qu'aux Indes pour lui seul je m'arretai six ans. 
+C'est la qu'a commence sa premiere fortune. 
+Il me jura des lors que nous l'aurions commune ; 
+Elle s'est augmentee, et quoique rarement 			[175]
+L'amitie tienne bon contre l'eloignement, 
+Les lettres ont toujours, malgre vingt ans d'absence, 
+Entretenu le cours de notre intelligence. 
+Nous avons l'un de l'autre assure le credit. 
+Je l'emploie a Seville, il m'emploie a Madrid, 			[180]
+Et sur divers paiements, pour la premiere lettre, 
+J'attends vingt mille ecus qu'il cherche a me remettre. 
+Son fils sera charge de Lettres pour cela. 
+ISABELLE.
+J'apprehende si fort... 
+BEATRIX.
+Taisez-vous, le voila. 
+SCENE IV. Don Fernand, Isabelle, Don Pascal, Beatrix, Guzman.
+GUZMAN, bas a Don Pascal. 
+Si Don Cesar arrive, adieu le personnage. 			[185]
+Sous ce nom derobe pressez le mariage. 
+Qu'on decouvre la fourbe apres qu'il sera fait, 
+Volontiers, les grands mots auront eu leur effet. 
+DON PASCAL.
+Ne t'inquiete point, je jouerai bien mon role. 
+Excusez, si je suis un peu court de parole. 			[190]
+Pour la premiere fois me trouver a la Cour, 
+Ou les mots recherches se disent nuit et jour, 
+Voir de plain-pied d'abord et Beau-pere et Maitresse, 
+Savoir qu'ils font tous deux la meme politesse, 
+C'est de quoi m'etonner, mais cela passera. 			[195]
+Mon espoir mal en train se raccommodera, 
+Et bientot pour vous faire une juste harangue, 
+J'espere rattraper l'usage de ma langue. 
+Pour la premiere fois, si je ne vous dis rien... 
+DON FERNAND.
+Vous en dites assez, et cela va fort bien. 			[200]
+Embrassez-moi. Ma fille, allons qu'on se demene. 
+Saluez votre epoux. 
+DON PASCAL.
+A-t-elle la migraine ? 
+Je lui vois certain air renfrogne, serieux. 
+ISABELLE.
+Qu'il est sot, Beatrix ! 
+BEATRIX.
+S'il l'est deja, tant mieux. 
+C'est pour vous au besoin de la peine epargnee. 			[205]
+DON PASCAL.
+Beau-pere, seriez-vous pour l'humeur renfrognee ? 
+Elle n'est nullement de mon gout. 
+DON FERNAND.
+Ni du mien. 
+DON PASCAL.
+Allons, ma belle, allons, gaiement, tout ira bien. 
+Puisque vous me voyez, tachez de mettre a l'ombre 
+La nebulosite de ce visage sombre. 			[210]
+Riez, goguenardez, et vivons sans facon. 
+Quant a moi, je suis gai toujours comme un Pinson. 
+Cent jovialites me sont partout de mise, 
+Et si le Mariage otait la gaillardise, 
+Plutot que ne pas rire, et danser, et sauter, 			[215]
+Je ferais voeu cent fois de m'encelibater. 
+Le mot est-il de Cour ? M'encelibater ! Peste. 
+Qu'il est long ! 
+DON FERNAND.
+Les plus fins auraient par vous leur reste... 
+Quel eveille ! 
+DON PASCAL.
+J'ai cru qu'il eut ete trop plat, 
+De dire simplement, suivre le celibat. 			[220]
+J'aime le style haut. Enfin a la bonne heure 
+Vous riez. Elle en est plus aimable, ou je meure. 
+Guzman, vois-tu ces yeux de feu tout petillants ? 
+Quand la friponne veut, qu'elle les a brillants ! 
+DON FERNAND.
+Elle est le vrai portrait de sa defunte mere. 			[225]
+DON PASCAL.
+J'oublie a vous donner les Lettres de mon pere. 
+DON FERNAND.
+Il est bien tourmente des gouttes ? 
+DON PASCAL.
+Quelquefois. 
+DON FERNAND.
+Nous nous sommes connus en six cent trente trois. 
+Ensemble de Goa nous fimes le voyage. 
+Grand commerce depuis d'ecriture. 
+ISABELLE.
+Ah, j'enrage. 			[230]
+Beatrix, epouser un ridicule, moi ! 
+DON PASCAL.
+Lisez. 
+BEATRIX.
+Il aime a rire, est-ce la tant de quoi ? 
+DON FERNAND, lit.
+A Don FERNAND DE VARGAS, a Madrid. Si j'etais moins sujet aux attaques de la goutte, je vous aurais mene mon fils moi-meme pour gouter avec vous la joie que la Noce vous donnera. C'est un fils qui m'est d'autant plus cher, qu'il est unique. Je l'ai toujours eleve dans la vue d'en faire votre gendre, et je suis ravi qu'en epousant votre fille, il vous fasse part des grands biens que j'ai commence d'amasser avec vous. Je m'acquitte par la de ce que je dois a notre vieille amitie, et meurs d'impatience que vous me donniez des nouvelles du Mariage. Comme mon fils n'est jamais sorti de Seville, ne vous etonnez point si vous ne le trouvez pas fait a l'usage de la Cour. 
+DON PASCAL.
+Avecque les lecons du reverend beau-pere, 
+Avant qu'il soit tres peu, je pretends bien m'y faire, 
+En province, on ne peut qu'etre provincial. 			[235]
+DON FERNAND.
+Je suis content de vous. 
+DON PASCAL.
+Ah ! 
+ISABELLE.
+Quel original ! 
+DON FERNAND, continue a lire.
+Il vous parlera d'une affaire facheuse qui est de la derniere importance pour lui. Je vous prie de l'y servir, en cas que vos soins lui soient necessaires, et de ne point faire difficulte de lui donner l'argent dont il pourra avoir besoin. 
+DON FERNAND.
+C'est pour vous en tout temps une sure ressource. 
+Employez mon credit, servez-vous de ma bourse. 
+DON PASCAL.
+Trop d'honneur ; le Beau-pere est un Homme obligeant, 
+Qui... 
+DON FERNAND.
+Vous ne manquerez ni d'amis ni d'argent. 			[240]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il vous porte des Lettres de Change pour la remise des vingt mille ecus que vous m'avez fait toucher ici. Donnez-moi au plutot de vos nouvelles, et me croyez toujours, Votre meilleur ami, Don ALONSE d'AVALOS, 
+Que de bonte ! 
+DON PASCAL.
+Voici les lettres de remise. 
+DON FERNAND.
+Sus, mon gendre, usez-en avec pleine franchise. 
+Quelle est donc cette affaire ou je puis vous servir ? 
+DON PASCAL.
+C'est qu'un jour... Voyez-vous, l'honneur qu'on veut ravir, 
+Porte souvent si loin la chaleur qu'il inspire, 			[245]
+Que m'etant arrive... 
+DON FERNAND.
+Quoi ? 
+GUZMAN.
+Que lui va-t-il dire ? 
+DON PASCAL.
+Il est des gens hargneux, qui sur les moindres cas... 
+DON FERNAND.
+Expliquez-moi la chose. 
+DON PASCAL.
+Elle ne la vaut pas 
+D'ailleurs, l'heur de vous voir si fortement me touche, 
+Que sur toute autre chose il me ferme la bouche. 			[250]
+Ne parlons que de joie, et jusqu'au conjungo, 
+Laissez-moi, s'il vous plait, m'en donner a gogo, 
+Point d'affaires en jeu que celle de la Noce. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vous promet au reste un superbe Carrosse, 
+Avec six Chevaux... La, de ces Chevaux fringants... 			[255]
+Pour des jupes, des points, des coiffes, et des gants, 
+A foison tout cela. 
+ISABELLE.
+Rien encor ne vous presse. 
+DON PASCAL.
+Non, dites-vous ; et moi je presserai sans cesse, 
+A moins que ce ne soit vous choquer, car mon coeur 
+A deja fait pour vous un si grand fond d'ardeur... 			[260]
+DON FERNAND.
+Pour pouvoir promptement ecrire a votre pere, 
+Demain, a petit bruit, nous conclurons l'affaire. 
+Vos emplettes apres se feront a loisir. 
+DON PASCAL.
+Me marier demain ! Vous me ferez plaisir. 
+J'ai naturellement quelques impatiences. 			[265]
+Qu'elle est belle ! 
+ISABELLE.
+Moi ? 
+DON PASCAL.
+Plus cent fois que tu ne penses, 
+Follette. Pardonnez, le style est familier ; 
+Mais quand le lendemain on doit se marier... 
+ISABELLE.
+Non pas si tot. 
+DON PASCAL.
+Beau-pere, on remet la partie. 
+Des six Chevaux fringants veut-elle etre nantie ? 			[270]
+Tout a l'heure, on en trouve a Madrid de tout faits. 
+On m'a bien defendu de prendre garde aux frais
+Mon pere a tant de bien, que pour etre aime d'elle, 
+Semer dix mille ecus c'est une bagatelle. 
+J'ai quelque diamants qui nous meneront loin. 			[275]
+DON FERNAND.
+Vous pouvez disposer de ma bourse au besoin 
+Je vous l'ai deja dit. Quant a l'hymen... 
+ISABELLE.
+Mon pere, 
+Vous voulez bien qu'au moins nous attendions mon frere. 
+DON PASCAL.
+Quoi, ce frere indien, Don Lope, qu'autrefois 
+L'Amour fit decamper ? Soleil ne vient de six mois ? 			[280]
+Le terme serait long. 
+ISABELLE.
+Pas tant qu'il dut detruire... 
+DON PASCAL.
+De tout en arrivant je me suis fait instruire. 
+On vous fait de ce fils esperer le retour ? 
+DON FERNAND.
+Nous le verrons sans doute avant la fin du jour, 
+Il doit etre a Madrid. 
+DON PASCAL.
+Don Lope ? 			[285]
+DON FERNAND.
+Ainsi, mon gendre, 			[285]
+Soyez sur que demain, sans davantage attendre... 
+ISABELLE.
+Eh, mon pere, daignez m'accorder quelques jours. 
+DON FERNAND.
+L'insensee ! 
+DON PASCAL.
+Il me faut mettre sur mes atours, 
+Et pour me faconner aller voir quelque Belle. 
+Beatrix de Guzman, j'ai des Lettres pour elle. 			[290]
+Ines de Velasco, je la dois voir aussi. 
+DON FERNAND.
+Non, mon gendre, il est bon que vous restiez ici ; 
+La Noce pour demain. Quand vous en serez quitte, 
+Je pretends vous mener partout faire visite. 
+DON PASCAL.
+Volontiers, c'est le mieux d'etre produit par vous. 			[295]
+ISABELLE.
+Mon pere. 
+DON FERNAND.
+Quoi, tu veux le perdre pour epoux ? 
+Ines et Beatrix, je n'ai rien a t'apprendre. 
+S'il en voit une, adieu. Ca, qu'on songe a mon Gendre ; 
+Qu'on aille donner ordre a son appartement. 
+Ma fille, ayez-y l'oeil vous-meme, promptement, 			[300]
+Que tout soit propre. 
+ISABELLE, a Beatrix.
+Helas que je suis malheureuse ! 
+BEATRIX.
+Le plus grand des malheurs, c'est celui d'etre gueuse. 
+GUZMAN, a Beatrix.
+La Beatrix pour moi ne sent-elle encor rien ? 
+BEATRIX.
+Tout vient avec le temps, laisse faire. 
+GUZMAN.
+Fort bien. 
+SCENE V. Don Fernand, Guzman, Beatrix.
+DON PASCAL.
+A ne vous rien cacher, votre Infante Isabelle, 			[305]
+Beau-pere, est d'une humeur grandement telle quelle. 
+Elle n'a qu'a parler, si je ne lui plais pas. 
+Le bien, vous le savez, est un puissant appas, 
+Je trouverai partout des Femmes a revendre. 
+C'est par pure amitie... 
+DON FERNAND.
+Je le sais bien, mon gendre. 			[310]
+Quoi qu'Isabelle dise, elle sait comme moi 
+L'honneur qu'elle recoit a vous donner sa foi ; 
+Mais souvent par pudeur une fille bien nee 
+Parle de reculer le jour de l'hymenee ; 
+La grimace sied bien a son sexe. 
+DON PASCAL.
+Demain, 			[315]
+Je me tiendrai donc pret a lui donner la main. 
+Si je la trouve encor d'humeur contrariante, 
+Bonsoir et bonne nuit. 
+DON FERNAND.
+Elle en sera contente, 
+J'en reponds. Cependant vous voulez acheter ? 
+Quelle somme faut-il que j'aille vous compter ? 			[320]
+DON PASCAL.
+Je crois n'avoir besoin que de cinq cents Pistoles. 
+DON FERNAND.
+Au moins ne faites pas de depenses frivoles.
+DON PASCAL.
+Eh, Beau-pere, il fera de l'argent apres nous. 
+J'irai faire tantot emplette de bijoux, 
+Je m'y connais. J'en veux regaler votre fille. 			[325]
+C'est l'ornement du Sexe, il aime ce qui brille. 
+DON FERNAND.
+Venez donc pour cela jusqu'en mon cabinet. 
+DON PASCAL.
+Je vous suis, laissez-moi parlez a ce valet, 
+J'ai quelque ordre a donner. 
+DON FERNAND.
+Coupez, taillez en maitre, 
+Vous pouvez tout. 
+SCENE VI. Don Pascal, Guzman.
+DON PASCAL.
+Guzman. 			[330]
+GUZMAN.
+Cela ne peut mieux etre. 			[330]
+Si le vrai Don Cesar dont vous volez le nom, 
+N'arrive point sitot, demain, c'est tout de bon, 
+Je vous tiens marie. 
+DON PASCAL.
+La rencontre est heureuse. 
+GUZMAN.
+Que ne repondiez-vous sur l'affaire facheuse, 
+Dont votre passeport fait mention ? 
+DON PASCAL.
+Suffit 			[335]
+Que je m'en suis tire. 
+GUZMAN.
+Tenez bon, tout vous rit. 
+Arriver a minuit dans une Hotellerie, 
+N'y trouver qu'une Chambre, et grande gueuserie, 
+Coucher sans vous rien dire ou couche un Cavalier, 
+Lui, partir avant vous, et si fort s'oublier 			[340]
+Qu'au lieu de sa Valise il fait prendre la votre. 
+DON PASCAL.
+Il pouvait s'y tromper ; qui fit l'une, a fait l'autre. 
+Toi-meme ne connus l'echange que le soir. 
+Sans argent, nous cherchions le moyen d'en avoir, 
+Le voila tout trouve. 
+GUZMAN.
+Mais si, comme il peut etre, 			[345]
+Quelqu'un pour Don Pascal vous allait reconnaitre ? 
+DON PASCAL.
+Va c'est si rarement que je viens a Madrid, 
+Qu'a moins de Don Cesar, je tiens la pie au nid. 
+Moyennant ce que j'ai trouve dans la valise, 
+Je passe ici pour lui, Don Fernand me courtise, 			[350]
+Et craint tant que de moi je n'ose disposer, 
+Qu'au besoin pour sa fille il voudrait m'epouser. 
+GUZMAN.
+Je crois de votre humeur qu'elle a pris de l'ombrage. 
+Vous avez je ne sais quel diable de langage. 
+DON PASCAL.
+C'est par la que je plais, on me cherche partout. 			[355]
+GUZMAN.
+Bon pour rire, mais quand un hymen se resout... 
+DON PASCAL.
+J'en ai pris l'habitude, et ne m'en puis defaire. 
+Il s'agit d'attraper les ecus du beau-pere. 
+Si Don Cesar ici me vient prendre sans vert, 
+Ce que j'aurai touche sera mis a couvert, 			[360]
+J'aurai bientot alors disparu. Va m'attendre 
+Dans ce petit Logis qu'expres tu m'as fait prendre 
+La fourbe va trop bien pour ne pas l'achever ; 
+Quand je serai garni, j'irai te retrouver. 
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Don Cesar, Carlin.
+DON CESAR.
+Il n'etait point connu dans cette hotellerie ? 			[365]
+CARLIN.
+Non, j'ai su seulement du valet d'ecurie, 
+Qu'ayant jusques au jour dormi fort en repos, 
+Il s'etait fait montrer la route de Burgos. 
+Je m'y rends au plus vite, et dans cette entreprise 
+Me servant des billets trouves dans sa valise, 			[370]
+Qui tous sont adresses a Don Pascal Giron, 
+Je m'informe avec soin si l'on connait ce nom. 
+Ma recherche n'est pas tout a fait inutile. 
+J'apprends que Don Pascal est natif de la ville, 
+Et que depuis deux mois et plus qu'on ne l'a vu, 			[375]
+Aucun n'a decouvert ce qu'il est devenu. 
+DON CESAR.
+Je n'en suis guere mieux, ne sachant ou le prendre 
+Jamais si lourdement a-t-on pu se meprendre ? 
+Avoir change de Malle en ce gite maudit, 
+Et n'en connaitre rien que le soir a Madrid ! 			[380]
+CARLIN.
+A moins que de l'ouvrir, dites-moi, comment diable 
+L'aurais-je pu connaitre ? Elle est toute semblable. 
+Voila ce que nous vaut l'ardeur de votre amour. 
+Vous nous faites partir une heure avant le jour. 
+Sans savoir que la place avec vous etait prise, 			[385]
+J'entre dans votre chambre, et trouve une valise. 
+Croyant que l'autre lit n'etait point occupe, 
+Je prends sans rien choisir ; qui ne s'y fut trompe ? 
+Vous deviez m'avertir que vous aviez un Hote. 
+DON CESAR.
+Blame mon imprudence, elle amoindrit ta faute. 			[390]
+La nuit s'avancait fort, lorsqu'on me vient prier 
+De souffrir qu'en ma chambre on couche un cavalier. 
+Je sais qu'elle est unique en cette Hotellerie, 
+Ma joie est d'obliger, et j'entends qu'on me prie. 
+Pouvais-je au Survenant refuser l'autre Lit ? 			[395]
+CARLIN.
+Ce voyageur nocturne a joue la d'esprit. 
+Fait a trouver son compte aux tours de passe-passe, 
+Sans doute il a change nos valises de place. 
+DON CESAR.
+Mais puisqu'il n'est parti que longtemps apres nous... 
+CARLIN.
+Eh, Monsieur, il est tant de ces adroits filous, 			[400]
+Qui toujours pour le monde observant des mesures, 
+Tournent sur le hasard toutes leurs aventures. 
+Celui-ci, m'a-t-on dit, est des plus ruses, 
+Malaise, si jamais il fut des malaises. 
+Il a mange son fait, et comme il ne subsiste 			[405]
+Que par le don qu'il a de n'etre pas fort triste, 
+S'introduisant partout, partout faisant fracas, 
+Quand il trouve a duper, il ne s'epargne pas. 
+DON CESAR.
+De tout ce que je perds par ce bizarre echange, 
+Je ne regrette rien que mes lettres de change. 			[410]
+A Seville d'abord j'ai mande l'accident. 
+CARLIN.
+On vous traitera de jeune, d'imprudent. 
+DON CESAR.
+Il est vrai qu'il est peu de meprises semblables. 
+CARLIN.
+Mais au seul Don Fernand ces Lettres sont payables, 
+A moins qu'il ne les signe, on n'en peut profiter. 			[415]
+L'avez-vous vu ? 
+DON CESAR.
+Non. 
+CARLIN.
+C'est assez mal debuter. 
+Quoi, vous, l'epoux futur de sa fille Isabelle, 
+Vous n'allez point chez lui ? La methode est nouvelle. 
+Vous veniez cependant tout echauffe d'amour. 
+DON CESAR.
+J'ai voulu pour les voir attendre ton retour. 			[420]
+CARLIN.
+Et qu'avez-vous donc fait depuis votre arrivee ? 
+DON CESAR.
+J'ai reve. 
+CARLIN.
+La douceur est assez bien trouvee. 
+En Auberge ! Personne en ce lieu de repos 
+Ne sait que vous soyez Don Cesar d'Avalos. 
+DON CESAR.
+La mort de Don Fabrique a me cacher m'engage. 			[425]
+Personne dans Madrid ne connait mon visage, 
+Et quelque fort appui qu'on m'y doive preter, 
+Si j'avais dit mon nom, on pourrait m'arreter. 
+Avant que je l'avoue, il est bon que mon pere 
+Ait avec la partie accommode l'affaire, 			[430]
+En tous cas, force amis doivent agir pour moi, 
+S'il faut solliciter ma grace aupres du Roi. 
+CARLIN.
+Mais Enrique est ici qui peut vous reconnaitre. 
+Vous etes mal ensemble, et s'il vous voit paraitre... 
+DON CESAR.
+Enrique a de l'honneur, je n'en dois craindre rien. 			[435]
+Quand il saurait l'affaire, il en userait bien ; 
+L'estime est entre nous plus forte que la haine. 
+J'avais cru ce matin ma precaution vaine ; 
+Un Homme qui de pres m'est venu regarder, 
+Surpris de ma rencontre, a voulu m'aborder. 			[440]
+J'ai recule pour etre en etat de defense, 
+S'il pretendait user de quelque violence, 
+Et ne comprenant rien a tout ce qu'il m'a dit, 
+J'ai cesse d'ecouter. 
+CARLIN.
+Rencontres de Madrid. 
+DON CESAR.
+Ah, Carlin, qu'il en est quelquefois d'agreables ? 			[445]
+Si tu savais... 
+CARLIN.
+Quoi ? 
+DON CESAR.
+Mais... 
+CARLIN.
+Et de par tous les Diables, 
+Contez-moi sans prelude... 
+DON CESAR.
+Ah, j'en suis enchante. 
+C'est... Imagine-toi la plus rare beaute. 
+Un teint, des yeux, la bouche... 
+CARLIN.
+Et quelle est cette belle ? 
+DON CESAR.
+Je ne sais. 
+CARLIN.
+N'ose-t-on que la regarder ? 			[450]
+DON CESAR.
+Elle ? 			[450]
+Nous nous sommes parle. 
+CARLIN.
+Faites-moi donc savoir... 
+DON CESAR.
+Le jour de ton depart me promenant le soir, 
+J'apercois un brutal qui chagrinait deux dames. 
+Moi, l'ennemi mortel des procedes infames, 
+Je m'avance, et d'abord... 
+CARLIN.
+J'entends, Flamberge au vent. 			[455]
+DON CESAR.
+Tu l'as dit ; mon brutal prend soudain le devant, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Gagne au pied. Je m'approche, et vois en l'une d'elles 
+Un si brillant amas de graces naturelles, 
+Que tout mon coeur charme, des ce premier moment, 
+Malgre moi prend pour elle un tendre engagement. 			[460]
+Elle y repond d'un air attirant, mais modeste. 
+La nuit au lendemain fait remettre le reste. 
+Tous les soirs je la vois, sans qu'il me soit permis 
+De la suivre, autrement nous sommes ennemis. 
+Ainsi je meurs d'amour, et j'ignore qui j'aime. 			[465]
+CARLIN.
+La verrez-vous ce soir ? 
+DON CESAR.
+Oui, toujours au lieu meme. 
+CARLIN.
+C'est assez, laissez-moi, Monsieur la deterrer. 
+DON CESAR.
+Elle s'en facherait. 
+CARLIN.
+Quoi, toujours soupirer, 
+Sans connaitre l'objet que votre amour oblige ! 
+DON CESAR.
+Je crains trop... 
+CARLIN.
+Laissez-moi la deterrer, vous dis-je ; 			[470]
+Tout n'en ira que mieux. Revenons sur nos pas. 
+Votre Epouse Isabelle, et Don Fernand Vargas, 
+A quand les voir ? 
+DON CESAR.
+A quand ? Plus pour moi d'Isabelle. 
+CARLIN.
+Et si votre inconnue etait quelque donzelle... 
+La, qui selon le cas fut d'accommodement ? 			[475]
+DON CESAR.
+Ah, parle avec respect d'un objet si charmant. 
+C'est une modestie a surprendre, un visage 
+Ou l'honnetete regne. 
+CARLIN.
+Ah d'accord. Elle est sage, 
+C'est la meme pudeur, mais quel qu'en soit l'appas, 
+Nous sommes a Madrid, ne vous y fiez pas. 			[480]
+Il est ici, Monsieur, de terribles sucrees. 
+DON CESAR.
+Les choses ne sont pas si longtemps ignorees. 
+On se connait enfin. 
+CARLIN.
+Cependant, entre nous, 
+Vous etes sans argent, grand embarras pour vous. 
+Rien ne vous eut manque chez le futur Beau-pere, 			[485]
+C'etait un sur recours ; il faut donner pour plaire. 
+Quel present ferez-vous a votre aimable ? 
+DON CESAR.
+Moi ? 
+Point d'autre que celui de mon coeur, de ma foi. 
+Ce Diamant offert, pour en etre le gage, 
+Lui tient lieu contre moi du plus terrible outrage. 			[490]
+Ma temeraire audace a pense tout gater. 
+CARLIN.
+On recule souvent, dit-on, pour mieux sauter. 
+Mais on vous rit de loin. N'est-ce pas sa suivante ? 
+DON CESAR.
+Non, elle n'a jamais qu'une jeune parente, 
+Qui deja mariee, accompagne ses pas. 			[495]
+CARLIN.
+C'est a vous qu'on en veut. Comment on vous lorgne ! 
+SCENE II. Don Cesar, Beatrix, Carlin.
+BEATRIX.
+Helas ! 
+Monsieur, quoi, c'est donc vous que le Ciel nous renvoie ? 
+CARLIN.
+Peste, on vous court partout. 
+BEATRIX.
+Vous revoir ? Quelle joie ! 
+Si j'osais... 
+CARLIN.
+La, Monsieur, bras dessus, bras dessous. 
+Voyez qu'on vous les rend. 
+BEATRIX.
+Douze ans entiers sans vous ! 			[500]
+DON CESAR.
+Elle est folle, Carlin. 
+BEATRIX.
+Je ne me sens point d'aise, 
+Monsieur. 
+CARLIN.
+Au lieu de lui, veux-tu que je te baise ? 
+Me voila pret. 
+BEATRIX.
+Pourquoi faire tant le surpris ? 
+Vous ne connaissez plus la pauvre Beatrix ? 
+DON CESAR.
+Beatrix ! 
+CARLIN, a Don Cesar.
+Comme on sait que nous sommes novices, 			[505]
+Pour nous donner lecon, d'abord des Beatrices. 
+Ma chere, fait-il sur te voir dans ton Reduit ? 
+Nous sommes bonnes Gens, qui n'aimons point le bruit. 
+BEATRIX.
+Que dit cet insense ? 
+CARLIN.
+L'aventure est gaillarde. 
+BEATRIX.
+Allons, il ne faut point qu'ici je vous retarde. 			[510]
+Entrez ; on vous attend, Monsieur. 
+CARLIN.
+Que n'entrez-vous ? 
+Le plaisir sera grand. 
+BEATRIX.
+Sans doute, et des plus doux. 
+CARLIN.
+As-tu quelque Marquise a montrer a mon Maitre ? 
+BEATRIX.
+Que veut-il dire ? 
+CARLIN.
+Enfin tu crois donc le connaitre ? 
+BEATRIX.
+Si je le connais ? Moi, qui dans ses feux secrets, 			[515]
+Sitot qu'on l'accusait, prenais ses interets ? 
+Il n'est donc pas Don Lope. 
+CARLIN.
+Il faut ici se rendre, 
+Monsieur Don Lope, on sait pour qui l'on doit vous prendre. 
+BEATRIX.
+S'il m'en eut voulu croire, il se fut bien garde 
+D'epouser... Mais l'amour l'avait trop possede. 			[520]
+Tout est bien comme il est, n'importe. 
+DON CESAR.
+Adieu, la belle. 
+Viens Carlin. 
+BEATRIX.
+Craignez-vous d'entrer ? Plus de querelle, 
+Le bonhomme est sans fiel, il vous pardonne tout. 
+DON CESAR.
+Va, tu reves. 
+BEATRIX.
+Son pere en viendra mieux a bout ! 
+Je m'en vais l'avertir. 
+SCENE III. Don Cesar, Carlin.
+CARLIN.
+Monsieur, que vous en semble ?			[525]
+DON CESAR.
+Il faut qu'elle ait connu quelqu'un qui me ressemble. 
+Celui qui m'a tantot dans la rue arrete, 
+M'en avoir dit autant, si je l'eusse ecoute. 
+CARLIN.
+C'est de quoi vous cacher, si par quelque pratique 
+On poursuivait ici la mort de Don Fabrique. 			[530]
+Vous pourriez de Don Lope alors prendre le nom, 
+N'etre plus Don Cesar. 
+DON CESAR.
+Et nous en croirait-on ? 
+Un mensonge aisement toujours se developpe. 
+Par ou justifier que je serais Don Lope ? 
+D'ou ? De quelle naissance ? 
+CARLIN.
+On pouvait le savoir, 			[535]
+Beatrix eut parle. 
+DON CESAR.
+Que de joie a me voir ? 
+CARLIN.
+Pour moi, j'ai cru d'abord, comme ici c'est la mode, 
+Que cette Beatrix etait d'humeur commode, 
+Et que pour vous rentrer par un air ingenu, 
+Elle feignait expres de vous avoir connu. 			[540]
+C'est ainsi, m'a-t-on dit, lorsque les gens s'y fient, 
+Que celles du metier a Madrid negocient. 
+Elles sentent de loin un provincial. Mais 
+Je crois qu'on vous en veut encor sur de nouveaux frais. 
+DON CESAR.
+Quel est ce bon vieillard ? 
+SCENE IV. Don Fernand, Don Cesar, Carlin.
+DON FERNAND.
+Ah quel bonheur ! 			[545]
+DON CESAR.
+De grace, 			[545]
+Monsieur. 
+DON FERNAND.
+Il se peut donc qu'enfin je vous embrasse ! 
+CARLIN.
+Voici bien le meilleur. 
+DON FERNAND.
+Vous n'etes point change. 
+DON CESAR.
+De votre accueil, Monsieur, je me tiens oblige ; 
+Mais bien d'autres que moi s'en laisseraient confondre. 
+Ne vous connaissant pas, que puis-je vous repondre ? 			[550]
+DON FERNAND.
+Quoi, pour me retrouver avec des cheveux gris, 
+Vous pourriez ne me plus reconnaitre ? Mon fils, 
+Ouvrez les yeux. 
+CARLIN.
+Son fils ! Morbleu, la bonne affaire ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Faut-il tant barguigner a connaitre son pere ? 
+Repondez a Nature. 
+DON FERNAND.
+Il est vrai, j'eus pour vous, 			[555]
+Quand vous prites la fuite, un peu trop de courroux ; 
+Il m'en a bien coute des larmes ; sans reproche, 
+J'en pleure encor. 
+CARLIN.
+Voila pour fendre un coeur de roche. 
+Ah, Monsieur, votre fils m'avait toujours bien dit 
+Que vous etiez un pere aussi tendre... Il suffit ; 			[560]
+Le sang... 
+DON CESAR.
+Que vas-tu dire ? 
+CARLIN, bas a Don Cesar.
+Acceptez-le pour pere. 
+Vous aimez, en aimant l'argent est necessaire, 
+Il vous en fournira. 
+DON FERNAND.
+Que n'ai-je point souffert, 
+Tant que de votre sort je n'ai rien decouvert ? 
+Allates-vous d'abord aux Indes ? 
+CARLIN.
+Bon voyage, 			[565]
+Dites oui. 
+DON CESAR.
+Non, monsieur, j'ai respect pour votre age, 
+Et ne puis consentir a vous tromper. Je viens... 
+CARLIN.
+Nous avons vu, Monsieur, de droles d'Indiens. 
+DON FERNAND.
+Vos Lettres de Goa me rendirent la vie. 
+Les voyant, les lisant, que j'eus l'ame ravie ! 			[570]
+Je vous avais cru mort. 
+CARLIN.
+Le voila bien vivant. 
+DON FERNAND.
+Mais, mon fils dites-moi... 
+DON CESAR.
+Sans aller plus avant, 
+Le nom de votre fils aurait de quoi me plaire, 
+Mais... 
+CARLIN.
+Quoi, vous n'etes pas le fils de votre pere ? 
+Vous vous moquez. 
+DON CESAR.
+En vain on veut vous eblouir. 			[575]
+DON FERNAND.
+Moi, je ne serais pas son pere ? 
+CARLIN.
+A vous ouir, 
+La chose est sure, il est votre fils, on le nomme... 
+DON FERNAND.
+Don Lope. 
+CARLIN.
+Oui, justement. Monsieur est honnete homme. 
+Pourquoi de son accueil faire si peu de cas ? 
+S'il n'etait votre pere, il ne le dirait pas. 			[580]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je sais ce qui le tient, que rien ne vous tourmente. 
+DON FERNAND.
+Il m'a trompe peut-etre, et sa femme est vivante. 
+CARLIN.
+Sa femme... 
+DON CESAR.
+Quelle Femme ? As-tu perdu l'esprit ? 
+CARLIN, a Don Fernand.
+Ne vous etonnez point de tout ce qu'il vous dit. 
+Revenant de Goa, nous avons eu du pire. 			[585]
+La tempete a longtemps battu notre navire. 
+Mon Maitre a cru trois fois etre englouti de l'eau, 
+Et la peur a si bien desseche son cerveau, 
+Que tombant par la fievre en certaine humeur noire, 
+Il en est demeure tout perclus de memoire. 			[590]
+Voyages, villes, gens, rien ne s'imprime. 
+DON FERNAND.
+Helas ! 
+CARLIN.
+Le plus souvent moi-meme il ne me connait pas. 
+Parlez-lui de la Mer, des choses qu'il a vues, 
+S'il repond, vous diriez qu'il est tombe des nues, 
+Point de reminiscence. 
+DON FERNAND.
+A quoi l'homme est sujet ! 			[595]
+Mon fils consolez-vous. 
+CARLIN.
+C'est votre fils tout fait. 
+Dans Goa (sa memoire etait alors entiere) 
+Il m'a dit mille fois que vous etiez son pere. 
+Un homme entretaille, sec, le visage frais. 
+DON CESAR.
+As-tu donc entrepris de ne finir jamais ? 			[600]
+SCENE V. Don Fernand, Don Cesar, Isabelle, Beatrix, Carlin.
+BEATRIX a Isabelle, lui montrant Don Cesar. 
+Vous avais-je pas dit qu'il avait bonne mine ? 
+ISABELLE.
+Que vois-je ? 
+DON FERNAND.
+Viens, ma fille. 
+DON CESAR.
+Ah, Carlin. 
+CARLIN.
+Je devine, 
+Monsieur, la soeur vous plait. 
+DON FERNAND.
+Le moment est venu. 
+Tu vois enfin ce frere a tes yeux inconnu. 
+ISABELLE, a Beatrix.
+C'est celui dont tantot nous parlions. 
+BEATRIX.
+Quoi ? 			[605]
+ISABELLE.
+Lui-meme. 			[605]
+DON CESAR.
+Carlin, c'est la Beaute que je t'ai dit que j'aime. 
+Que le destin m'est doux ! 
+ISABELLE.
+Que le sort m'est cruel ! 
+CARLIN.
+Vite, l'embrassement doit etre mutuel, 
+Avancez. Voyez-vous comme Nature opere. 
+DON CESAR.
+Quoi, vous etes ma soeur ? 
+ISABELLE.
+Quoi, vous etes mon frere ? 			[610]
+DON FERNAND.
+La memoire peut-etre un jour lui reviendra. 
+CARLIN.
+Sans doute, avec le temps il se reconnaitra. 
+Debarquant a Cadix, c'etait bien autre chose, 
+La, d'une potion il prit certaine dose, 
+Qui degageant le nez... Je crois qu'il serait bon 			[615]
+De lui faire souvent humecter le poumon ; 
+Car on tient... 
+DON FERNAND.
+Nous ferons tout ce qu'il faudra faire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et bien ? 
+DON PASCAL.
+Je n'ose encor vous appeler mon pere, 
+Tant le trouble stupide ou vous m'avez surpris 
+Me fait peu meriter le nom de votre fils. 			[620]
+J'eusse ecoute le sang, et cru son temoignage, 
+Sans la noire vapeur d'un importun nuage, 
+Qui me cachant vos traits, m'a fait tenir suspect 
+Ce que pour vous d'abord j'ai senti de respect. 
+Cet oubli malgre moi de temps en temps m'arrive, 			[625]
+Je me fais des Objets une image tardive, 
+Mais enfin cela passe, et mes egarements 
+Me laissent a moi-meme apres quelques moments. 
+DON FERNAND.
+Comme cet accident provient de maladie, 
+Il sera bien facheux, si l'on n'y remedie. 			[630]
+Plus qu'en tout autre lieu sur mille maux divers 
+Nous avons a Madrid des Medecins experts 
+Nous les assemblerons. 
+DON CESAR.
+Helas ! Chacun raisonne 
+Selon... 
+CARLIN.
+Surtout, Monsieur, la sueur vous est bonne, 
+Car vous avez le sang humide, intempere. 			[635]
+DON FERNAND.
+Il a pour vous du zele, et je lui sais bon gre. 
+CARLIN.
+Monsieur, il est bon Maitre, et l'on n'en trouve guere. 
+BEATRIX, a Isabelle.
+Vous soupirez ? 
+ISABELLE.
+Helas ! Faut-il qu'il soit mon frere ? 
+Car ne me parle plus de Don Cesar. 
+DON FERNAND.
+Enfin 
+J'aurais tort, si j'osais me plaindre du Destin. 			[640]
+Il ne manque plus rien, rien a ma joie. Et mon gendre ? 
+DON CESAR.
+Son gendre ! 
+DON FERNAND.
+Il va sans doute etre ravi d'apprendre... 
+BEATRIX.
+Pour faire un tour en Ville il ne fait que sortir. 
+DON FERNAND.
+Je crains qu'il ne visite, il fallait m'avertir. 
+Par lettres la partie est peut-etre liee. 			[645]
+DON CESAR.
+Quoi, mon pere, ma soeur est-elle mariee ? 
+DON FERNAND.
+Non, et vous ne pouviez arriver plus au point. 
+DON CESAR.
+Ma soeur merite bien que... 
+DON FERNAND.
+Ne la flattez point. 
+Une fille a s'aimer n'est toujours que trop prete. 
+Entrons, mon fils, je veux vous parler tete a tete. 			[650]
+Depuis votre depart j'ai sur quoi m'expliquer. 
+DON CESAR, a Isabelle.
+Ma soeur, au rendez-vous il vous faudra manquer. 
+ISABELLE.
+Que direz-vous de moi ? Ma honte en est extreme. 
+DON CESAR.
+Aimez-moi seulement autant que je vous aime. 
+SCENE VI. Carlin, Beatrix.
+CARLIN.
+Ecoute. 
+BEATRIX.
+Qu'est-ce ? 			[655]
+CARLIN.
+Enfin, ma chere Beatrix, 			[655]
+Comment sommes-nous ? 
+BEATRIX.
+Eh, comme tu sais. 
+CARLIN.
+Tu ris ; 
+Mais quand on doit s'aimer, l'etoile etant fort prompte, 
+D'abord que l'on se voit, on se sent. 
+BEATRIX.
+A ce compte, 
+Tu m'aimerais un peu. 
+CARLIN.
+Tout franc, cela va bien. 
+Le moyen que pour toi je ne sentisse rien ? 			[660]
+Mon Maitre en raisonnant sur ce qui te regarde, 
+M'a parle mille fois de ton humeur gaillarde. 
+Tu ne haissais pas qu'il t'en voulut conter ? 
+BEATRIX.
+Les jeunes gens toujours aiment a coqueter. 
+Il faut bien avec eux entendre raillerie. 			[665]
+CARLIN.
+Que diable ferait-on sans la friponnerie ? 
+Il en faut bien. Je sais que tu lui plaisais tant, 
+Que les soirs dans ta Chambre, en tout honneur s'entend... 
+BEATRIX.
+Oh, quoi qu'il m'eut offert, comme j'aime la gloire, 
+A moins que de l'honneur... 
+CARLIN.
+Vraiment, il le faut croire. 			[670]
+Pour avoir quelquefois la nuit des rendez-vous... 
+BEATRIX.
+Mais la petite soeur etait avecque nous. 
+CARLIN.
+Je le sais. 
+BEATRIX.
+C'etait plus qu'avoir la porte ouverte, 
+Des l'age de trois ans elle avait l'oeil alerte. 
+CARLIN.
+Voyez un peu. 
+BEATRIX.
+Jamais rien que de bienseant ; 			[675]
+Pour des paroles, passe ; autre chose, neant. 
+CARLIN.
+Ce que c'est que d'avoir de la conduite ! 
+BEATRIX.
+Dame ! 
+C'est le tout. 
+CARLIN.
+Mais dis-moi, mon maitre avait pris femme ; 
+C'est par la que tout jeune il s'etait decrie. 
+Je n'ai jamais bien su comme il s'etait marie. 			[680]
+BEATRIX.
+Avec certaine fille il eut intelligence, 
+Belle, mais mal en biens, de meme qu'en naissance ; 
+On la nommait Jacinte. Il la voyait souvent, 
+Parlait de l'epouser, son pere en eut le vent. 
+Il pesta, fulmina, lui defendit sa vue, 			[685]
+Et voyant par le temps sa passion accrue, 
+Pour la mettre ou son fils ne la put retrouver, 
+Il resolut enfin de la faire enlever. 
+Mais ayant eu sur l'heure avis du stratageme, 
+Le fils prevint le pere, et l'enleva lui-meme, 			[690]
+Et prenant ce qu'il put d'argent et de bijoux, 
+Par une prompte fuite evita son courroux. 
+Pour courir apres eux, quelque soin qu'on put prendre, 
+Autant de pas perdus, on n'en put rien apprendre, 
+Tant que Don Lope enfin apres plus de dix ans 			[695]
+Manda qu'il etait Veuf, et n'avait point d'Enfants ; 
+Qu'il s'etait a Goa par un peu d'industrie, 
+Fait un fonds assez grand pour y passer sa vie, 
+Et qu'il s'y resolvait, si son pere irrite 
+Gardait toujours pour lui meme severite. 			[700]
+De son eloignement voila ce qui fut cause. 
+CARLIN.
+Il m'avait, a peu pres, conte la meme chose ; 
+Mais ma foi, je doutais s'il fallait qu'on le crut. 
+BEATRIX.
+Il aimait bien sa Femme ? 
+CARLIN.
+Ah ! 
+BEATRIX.
+Quand elle mourut, 
+Quelle angoisse ! 
+CARLIN.
+Vois-tu, c'etaient de grosses larmes. 			[705]
+BEATRIX.
+Il pouvait la pleurer, elle avait bien des charmes. 
+Des yeux percants, un air a n'en point revenir. 
+CARLIN.
+De grande taille. 
+BEATRIX.
+Autant qu'il m'en peut souvenir, 
+Elle etait mediocre. 
+CARLIN.
+Il est vrai, mais bien prise. 
+L'air fait tout, c'est par l'air que la taille est de mise. 			[710]
+BEATRIX.
+Et Sganarelle ? 
+CARLIN.
+Et bien ? 
+BEATRIX.
+L'a t-on ramene ? 
+CARLIN.
+Quoi ? 
+Sganarelle ? 
+BEATRIX.
+Il etait a ton Maitre avant toi. 
+CARLIN.
+Ah, j'entends ; il peut bien ne se pas laisser prendre ; 
+Sinon, point de quartier, mon Maitre le fait pendre. 
+Il l'a vole. 
+BEATRIX.
+Vole ! Qui l'aurait cru de lui ? 			[715]
+CARLIN.
+Son proces est tout fait, qu'on l'attrape aujourd'hui, 
+Demain pendu. 
+BEATRIX.
+C'etait la fidelite meme, 
+Quand il etait ici. Comme on change ! 
+CARLIN.
+Un teint bleme 
+Tel qu'il l'avait, est bien sujet a caution. 
+BEATRIX.
+Il ne l'avait pas tant. 
+CARLIN.
+Adieu, ma passion, 			[720]
+Ma Beatrix, mon tout, tu m'aimeras ? 
+BEATRIX.
+Peut-etre. 
+CARLIN.
+J'enrage qu'il me faille aller joindre mon maitre ; 
+Mais il m'etrillerait, si je tardais. 
+BEATRIX.
+Entrons. 
+CARLIN.
+Mon coeur est tout a toi, sotte. 
+BEATRIX.
+Nous le verrons. 
+
+
+			ACTE III
+
+
+SCENE PREMIERE. Don Fernand, Don Cesar.
+DON FERNAND.
+N'y pensons plus, mon fils, ces choses sont passees ; 			[725]
+Qu'entre nous a jamais elles soient effacees. 
+Le brusque entetement qui vous fit marier, 
+Fut un coup de jeune homme, il le faut oublier, 
+Et songer seulement a bien gouter la joie 
+Qu'apres de longs chagrins le Ciel par vous m'envoie. 			[730]
+Je vous aime, agissez avec moi comme un fils 
+A qui tout ce que j'ai de fortune est acquis. 
+Je veux avant ma mort pourvoir a ma Famille. 
+Je ne suis deja plus en peine pour ma fille, 
+Ce soir pour son hymen on doit tout arreter. 			[735]
+DON CESAR.
+Mon pere, il serait bon de ne se point hater, 
+Vous avez du bien. 
+DON FERNAND.
+Oui, mais non pas pour pretendre 
+Celui que mon bonheur m'a fait trouver pour gendre. 
+Il est riche au-dela de tout ce qu'on en croit. 
+Je sais depuis dix ans... 
+DON CESAR.
+Quelque riche qu'il soit, 			[740]
+Si j'osais proposer un Ami que j'estime, 
+Le choix vous semblerait peut-etre legitime. 
+Quand il n'aurait de bien que ce que je connais, 
+Cela va loin. De taille il est fait comme moi, 
+Et si ma soeur savait tout ce qui s'en publie... 			[745]
+DON FERNAND.
+Qu'elle n'en sache rien, mon fils, je vous en prie. 
+Son coeur a deja pris je ne sais quels degouts 
+Pour celui que mon choix lui donne pour epoux. 
+Ils pourraient s'augmenter en lui parlant d'un autre. 
+DON CESAR.
+Je dois soumettre ici mon sentiment au Votre ; 			[750]
+Mais si le mariage est souvent sans douceur, 
+Vous hasardez beaucoup, en contraignant ma soeur. 
+Le desordre est a craindre ou l'epoux ne peut plaire. 
+DON FERNAND.
+Je sais ce qu'il lui faut, qu'elle me laisse faire. 
+Si mon gendre n'est pas tout a fait serieux, 			[755]
+S'il a l'humeur trop gaie, il n'en vaudra que mieux. 
+Les choses sont au point qu'on ne s'en peut defendre, 
+J'ai donne ma parole, et ne puis la reprendre. 
+C'est sur quoi je voulais vous parler en secret. 
+Vous avez l'esprit doux, insinuant, discret. 			[760]
+Conferez avec elle, et sur cet Hymenee 
+Dites-lui ce que doit une fille bien nee. 
+Elle vous en croira. 
+DON CESAR.
+Reposez-vous sur moi. 
+J'appuierai vos desseins autant que je le dois, 
+Et n'epargnerai rien pour vous faire connaitre, 			[765]
+Qu'aime par vous en fils, je merite de l'etre
+DON FERNAND.
+C'est la ce que mon coeur du votre s'est promis. 
+Cependant il nous faut assembler vos Amis. 
+Ah, qu'en vous embrassant Don Sanche aura de joie ! 
+Don Pedre... 
+DON CESAR.
+Il ne faut pas encor que je les voie, 			[770]
+A moins qu'on prenne soin de m'en entretenir. 
+A peine de leurs noms je puis me souvenir, 
+Et je crois qu'il serait a propos pour ma gloire 
+De cacher quelque temps ma perte de memoire. 
+DON FERNAND.
+Dix ans hors de Madrid passes sans revenir, 			[775]
+Ont pu les eloigner de votre souvenir ; 
+Mais au moins je croirais que les choses recentes... 
+DON CESAR.
+J'ai peine a m'en tenir les images presentes. 
+DON FERNAND.
+Quoi, ce qui dans Goa depuis peu s'est passe, 
+Ce que vous avez vu... 
+DON CESAR.
+C'est autant d'efface. 			[780]
+Je sais confusement que Goa... 
+DON FERNAND.
+Belle Ville, 
+Fort grande. 
+DON CESAR.
+Oui, spacieuse, en habitants fertile, 
+Ou qui veut s'employer, trouve aisement parti. 
+DON FERNAND.
+Je n'avais pas trente ans lorsque j'en suis sorti. 
+Vous remettez-vous point le Chateau de Garde. 			[785]
+DON CESAR.
+Ne me demandez rien de ce qui le regarde. 
+Si le discours vous plait, Carlin qui vient a nous 
+En pourra mieux que moi raisonner avec vous. 
+SCENE II. Don Fernand, Don Cesar, Carlin.
+DON CESAR, bas a Carlin.
+Tiens ferme, s'il le faut, et... 
+CARLIN, a Don Cesar.
+J'ai bonne cervelle. 
+DON FERNAND.
+A propos de Carlin, dites-moi, Sganarelle, 			[790]
+Qu'en est-il ? 
+DON CESAR.
+Sganarelle ? 
+DON FERNAND.
+Oui, vous en faisiez cas. 
+Qu'en avez-vous fait ? 
+DON CESAR.
+Moi ? Je ne le connais pas. 
+CARLIN, a Don Fernand. 
+Il ne le connait pas ! 
+DON CESAR.
+Non. 
+CARLIN, a Don Fernand.
+Monsieur quel dommage ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoi, ce diable d'escroc, ce renverse-menage, 
+Qu'en partant de Madrid pour venir a Goa, 			[795]
+Vous aviez amene comme un bon valet ? 
+DON CESAR.
+Ah, 
+Je sais. Tu l'as connu, Carlin ? 
+CARLIN.
+Il me le semble. 
+Nous vous avons servi cinq ou six mois ensemble. 
+DON FERNAND.
+Qu'est-il devenu ? 
+CARLIN.
+Lui ? Vous ne le verrez plus. 
+Le Coquin a mon Maitre a vole mille ecus. 			[800]
+DON FERNAND.
+Le Pendard ! Mille ecus ! 
+CARLIN.
+Oh, s'il est pris, je pense 
+Qu'il fera le pendard au bout d'une potence ; 
+En bon argent de mise et de poids, tout autant, 
+Mille ecus. 
+DON CESAR.
+Je n'avais que cela de comptant. 
+DON FERNAND.
+L'accident est facheux ; quand a sa seule adresse 			[805]
+On doit le peu qu'on a, la moindre perte blesse. 
+Il vous sera reste quelques effets ? 
+CARLIN.
+Vraiment. 
+Mon maitre a fait son compte aux Indes grassement. 
+Vous verrez apporter dans quelques jours... La peste ! 
+En matiere d'Enfants vous l'entendez de reste. 			[810]
+Vous avez fait un fils aussi fin... Croyez-moi, 
+Monsieur, qu'un Sot et lui ce sont deux. 
+DON FERNAND.
+Comme toi. 
+A ta mine... 
+CARLIN.
+Il est vrai, qu'a moins qu'on ne soit bete, 
+Quand on a vu Goa l'esprit... 
+DON FERNAND.
+On s'en entete, 
+Je ne l'ai pu quitter qu'avec peine. 
+DON CESAR.
+Sans vous 			[815]
+J'y serais demeure, le sejour m'etait doux, 
+Je n'y manquais de rien. 
+DON FERNAND.
+Pour vous mettre a votre aise, 
+Et faire que Madrid apres Goa vous plaise ; 
+Je veux vous marier. 
+DON CESAR.
+Ce doit m'etre une loi, 
+Que ce qu'il vous plaira de resoudre de moi. 			[820]
+Disposez de ma main ; si jamais je la donne, 
+Je pretends que l'amour par vous seul en ordonne, 
+Et fais de votre aveu dependre mon destin. 
+DON FERNAND.
+On trouve Elvire aimable, elle est fort riche. 
+DON CESAR.
+Enfin 
+Vous contenter, vous plaire, est tout ce qui m'importe. 			[825]
+DON FERNAND.
+Mais il faudra prouver que votre femme est morte. 
+N'en apportez-vous pas quelque attestation ? 
+CARLIN, a Don Fernand.
+Il l'a ; mais pardonnez a son affliction. 
+Vous avez reveille la douleur sans son ame. 
+La pauvre defunte ! Ah ! Monsieur, la brave femme ! 			[830]
+Belle comme le jour, douce comme un agneau, 
+Franchement, c'est dommage. 
+DON CESAR.
+Elle est dans le tombeau, 
+Helas ! 
+CARLIN.
+Depuis deux ans la pleurer c'est sa gloire. 
+DON FERNAND.
+Comment s'en souvient-il, s'il n'a point de memoire ? 
+CARLIN.
+Ah, Monsieur, une femme est un mal d'embarras 			[835]
+Qui tient comme le Diable, on ne s'en defait pas. 
+Il n'est oubli qui tienne, il faut que l'on y songe. 
+DON FERNAND.
+Tire-le, si tu peux, du chagrin qui le ronge, 
+Je te laisse avec lui. 
+DON CESAR.
+Mon pere, c'en est fait. 
+D'un tendre souvenir c'est le dernier effet ; 			[840]
+N'en apprehendez rien. 
+DON FERNAND.
+Tachez donc, je vous prie, 
+D'obtenir qu'au plutot votre soeur se marie. 
+Je vais vous l'envoyer. 
+DON CESAR.
+Soyez sur de mes soins. 
+DON FERNAND.
+C'est assez. 
+DON CESAR.
+Les effets en seront les temoins. 
+SCENE III. Don Cesar, Carlin.
+CARLIN.
+Ma foi, la piece est drole. 
+DON CESAR.
+Et l'incident bizarre. 			[845]
+Des traits si ressemblants sont une chose rare. 
+J'ai d'abord comme folle ecoute Beatrix, 
+Mais, Carlin, ce Vieillard me prendre pour son Fils ? 
+CARLIN.
+Profitons du bon temps que le hasard nous donne, 
+Si je ne suis trompe, Monsieur, l'Auberge est bonne. 			[850]
+Pouvions-nous mieux choisir ? 
+DON CESAR.
+Je m'en trouve fort bien. 
+CARLIN.
+Sans la soeur, avouez que je ne tenais rien, 
+J'aurais eu beau precher. 
+DON CESAR.
+Il est vrai que sans elle 
+J'eusse eu peine a me rendre. Ah ! Carlin, qu'elle est belle ! 
+L'as-tu bien regardee, et ne vaut-elle pas 			[855]
+Tous ses soins... 
+CARLIN.
+J'aurais fait tout comme, en pareil cas. 
+Mais n'osant plus ici l'entretenir qu'en frere, 
+Qu'en aurez-vous de joie ? 
+DON CESAR.
+Eh, mon Dieu, laisse faire. 
+L'Amour, sous quelque habit qu'il s'ose deguiser, 
+A toujours certains temps dont il sait bien user. 			[860]
+Le plus grand embarras ou par la je puisse etre, 
+Consiste a voir des Gens que je devrais connaitre. 
+C'est dont sans peine on ne vient pas a bout. 
+CARLIN.
+La memoire malade est un remede a tout. 
+DON CESAR.
+Ma fuite de Madrid jointe a mon mariage, 			[865]
+M'a fait jouer d'abord un mauvais personnage. 
+Sans toi j'etais perdu. 
+CARLIN.
+Je viens par Beatrix 
+De me faire compter l'aventure du fils. 
+Ainsi je parle instruit ; mais Beatrix est bonne. 
+J'ai feint en vous pour elle une amitie friponne ; 			[870]
+Qu'ensemble au temps jadis dans vos transports ardents 
+Vous aviez rendez-vous. Elle a donne dedans, 
+Et ce qu'elle m'a dit, m'a fait voir qu'avec elle 
+L'Indien certains soirs allait en sentinelle. 
+Mais lorsque vous passez pour Don Lope en ces lieux, 			[875]
+S'il allait revenir ? 
+DON CESAR.
+Il n'en serait que mieux. 
+La ressemblance est telle entre nous, que peut-etre 
+J'aurai peine au besoin a me faire connaitre. 
+On peut de Don Cesar me disputer le nom. 
+Mais au moins as-tu su celui du pere ? 
+CARLIN.
+Non. 			[880]
+DON CESAR.
+De la fille ? 
+CARLIN.
+Aussi peu. 
+DON CESAR.
+Ce point est necessaire. 
+S'il fallait en parler par hasard, comment faire ! 
+Puisque avec Beatrix... 
+CARLIN.
+Au premier entretien, 
+Je saurai l'un et l'autre, ils ne tiennent a rien. 
+Mais voici cette soeur dont la beaute vous pique. 			[885]
+SCENE IV. Isabelle, Don Cesar, Beatrix, Carlin.
+ISABELLE.
+Comment avecque vous faut-il que je m'explique, 
+Mon Frere ? Je rougis lorsque je me souviens, 
+Et de ma complaisance, et de nos entretiens. 
+Quelles plaintes de vous n'ai-je pas lieu de faire ? 
+Car vous saviez deja que vous etiez mon frere, 			[890]
+Et n'avez si longtemps cache votre retour, 
+Que pour voir sur mon coeur ce que pourrait l'amour. 
+DON CESAR.
+Oui, ma soeur, il est vrai, je vous avais connue. 
+J'appris qui vous etiez vous voyant dans la rue, 
+Et sans savoir pourquoi je ne vous parlais pas, 			[895]
+La curiosite me fit suivre vos pas. 
+C'est par la que d'abord avecque tant de zele, 
+Contre un lache Importun je pris votre querelle. 
+Je vous cachai mon nom, pour avoir la douceur 
+De connaitre a loisir le fond de votre coeur 			[900]
+Plus vous vous expliquiez sur la reconnaissance, 
+Plus j'aimais a jouir de votre complaisance, 
+Et pour pouvoir gouter plus longtemps avec vous 
+Les charmes innocents d'un commerce si doux, 
+Croyant qu'un autre Ciel, l'air de la Mer, et l'age, 			[905]
+Auraient assez change les traits de mon visage, 
+Rencontrant par malheur Beatrix sur mes pas, 
+J'ai feint d'en etre cru ce que je n'etais pas. 
+J'en avais deja fait autant avec mon Pere ; 
+Vous etes survenue, il a fallu me taire. 			[910]
+Plus de feinte a poursuivre etant connue de vous. 
+BEATRIX.
+Pouvoir a Beatrix soutenir... Entre nous, 
+Monsieur, vous savez bien ce qu'il faut que j'en pense. 
+CARLIN, a Don Cesar.
+La, deux pas en avant, renouez connaissance. 
+ISABELLE.
+Cependant la surprise est assez a blamer. 			[915]
+On sait de quelle sorte un frere doit aimer, 
+Et je ne concois point a quel dessein votre ame, 
+Tournant tout sur l'amour, m'a fait voir tant de flamme. 
+Pourquoi par mille voeux avoir tente ma foi ? 
+DON CESAR.
+Pour savoir ce qu'il faut que j'attende de moi. 			[920]
+Un Indien, prive par une longue absence 
+De ce que du beau Monde acquiert l'experience, 
+Avant qu'il se hasarde a paraitre au grand jour, 
+Doit par ce doux essais prendre l'air de la cour. 
+Ainsi j'ai cru, ma soeur, que sans vous faire injure, 			[925]
+Je pouvais d'un beau feu vous tracer la peinture ; 
+Et ce que par le sang je sens pour vous d'ardeur, 
+N'avait que trop de quoi faire parler mon coeur. 
+ISABELLE.
+Ne me blamez donc point, si m'y laissant surprendre, 
+Il peut m'etre echappe quelque soupir trop tendre. 			[930]
+Vous vous etiez pour moi declare hautement, 
+Vous avez du merite, et parliez en amant. 
+C'est par la que dans l'ame un beau feu se consomme, 
+Un frere qui se cache est fait comme un autre Homme, 
+Et pour se faire aimer, a d'autant plus d'appui, 			[935]
+Que le sang en secret s'interesse pour lui. 
+DON CESAR.
+Quoi, vous repentez-vous d'avoir ete capable 
+De suivre en me voyant un penchant favorable ? 
+D'avoir souffert mes soins ? 
+ISABELLE.
+Ne me demandez rien. 
+DON CESAR.
+Meritai-je si peu qu'on me veuille du bien ? 			[940]
+Soumis, passionne, suis-je indigne de plaire ? 
+ISABELLE.
+Qu'ai-je a dire, helas ! Quand vous etes mon frere ? 
+DON CESAR.
+Eh du moins dites-moi, si je ne l'etais pas, 
+Que de mes voeux offerts vous pourriez faire cas, 
+Que votre coeur sensible aimerait a se rendre. 			[945]
+ISABELLE.
+Vous n'avez la-dessus besoin de rien entendre, 
+Et vouloir a l'hymen pour jamais renoncer, 
+C'est... J'en dis trop, pourquoi m'en osez-vous presser ? 
+DON CESAR.
+Que de gloire pour moi ! 
+ISABELLE.
+Je sais qu'avec mon pere, 
+En prenant ce dessein, je me fais une affaire. 			[950]
+Il veut sans resister que je donne ma main. 
+DON CESAR.
+Il vient de me l'apprendre. 
+ISABELLE.
+Il le pretend en vain. 
+De mes sens abuses j'ai cru la flatterie ; 
+Plus d'hymen. 
+DON CESAR.
+Quoi, ma soeur ? Et si je vous en prie ? 
+Voudrez-vous de ma main refuser un epoux ? 			[955]
+ISABELLE.
+Je pourrais l'accepter, s'il etait tel que vous. 
+DON CESAR.
+Fiez-vous-en a moi, dont la tendresse extreme 
+Me fait vous regarder comme un autre moi-meme. 
+Don Cesar de vos jours peut faire le repos. 
+Il est... 
+ISABELLE.
+Don Cesar ? Quoi Don Cesar d'Avalos, 			[960]
+Dont le bien fait, dit-on, tant de bruit a Seville ? 
+DON CESAR.
+Lui-meme. 
+ISABELLE.
+Vous prenez un soin fort inutile. 
+Jamais homme ne fut jusques a maintenant, 
+Et de moins de merite, et plus impertinent. 
+Un esprit bas, rampant, qui ne sent que la fange. 			[965]
+CARLIN.
+Monsieur, entendez-vous ? Vers a votre louange. 
+DON CESAR.
+On vous a prevenue avec un faux portrait, 
+Ma soeur, et Don Cesar... 
+ISABELLE.
+Non, il est trait pour trait, 
+Je ne m'abuse point. 
+DON CESAR.
+Quoi... 
+BEATRIX.
+Vous ayant en tete, 
+Tout autre aupres de vous, Monsieur, lui parait bete ; 			[970]
+Mais Don Cesar n'est point si sot qu'elle vous dit. 
+Il a ce qui fait seul le merite et l'esprit, 
+Des ducats a milliers. 
+ISABELLE.
+Mais aussi la nature... 
+DON CESAR.
+Encor qui vous a fait cette belle peinture ? 
+ISABELLE.
+Mes yeux. 
+DON CESAR.
+Vous me raillez, ma soeur. 			[975]
+ISABELLE.
+Mes propres yeux. 			[975]
+C'est la sottise meme. 
+CARLIN.
+On ne peut dire mieux. 
+Vous etes en credit, Monsieur. 
+ISABELLE.
+Ainsi, mon frere, 
+Quoi que vous me disiez, quoi qu'ordonne mon pere... 
+DON CESAR.
+Et vous-meme avez vu ce Don Cesar. 
+ISABELLE.
+Oui, moi ! 
+Mais a ce que je dis ne donnez point de foi, 			[980]
+N'en croyez que vous seul, le voici qui s'avance. 
+DON CESAR.
+Carlin, demeles-tu tout ceci ? 
+CARLIN.
+Patience. 
+SCENE V. Don Cesar, Isabelle, Don Pascal, Beatrix, Carlin.
+DON PASCAL.
+Ah, mon Cher, de Goa soyez bien revenu. 
+A certain air sournois je l'aurais reconnu, 
+Et jure mille fois, en voyant sa figure, 			[985]
+Que de son propre pere il est la geniture. 
+Vers le menton aussi je lui trouve de vous 
+Je ne sais quoi, non pas aussi beau, ni si doux, 
+Mais assez approchant. Quoi qu'il en soit, beau-frere, 
+Touchez la. Serez-vous jusqu'au soir a vous taire ? 			[990]
+Vous ne me dites mot. 
+DON CESAR.
+De mon etonnement 
+Ne faites pas, de grace, un mauvais jugement. 
+Apres avoir passe loin d'ici tant d'annees, 
+Par un heureux retour voir mes courses bornees, 
+Arriver au moment qu'un Homme tel que vous 			[995]
+Estime assez ma soeur pour s'en faire l'epoux, 
+Un homme rare, en qui tout passe l'ordinaire, 
+C'est pour... 
+DON PASCAL.
+Vous dites bien, si vous ne parlez guere, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et ce ne sont point la selles a tous chevaux. 
+Peste, les indiens ne sont point des badauds, 			[1000]
+On a la le bon sens
+ISABELLE, a Don Cesar.
+M'avait-on prevenue ? 
+Le portrait est-il faux ? 
+DON PASCAL.
+Pour votre bienvenue 
+Je veux presser la noce, afin qu'en festoyant 
+Nous fassions amitie. 
+ISABELLE, a Don Cesar.
+Vous etes clairvoyant. 
+Me conseilleriez-vous... 
+DON CESAR.
+Oui, ma soeur. 			[1005]
+ISABELLE.
+Quoi, mon frere ? 			[1005]
+DON CESAR.
+Epousez Don Cesar, vous ne sauriez mieux faire. 
+DON PASCAL.
+Le brave homme ! 
+ISABELLE.
+Pas mieux ? 
+DON PASCAL.
+Non dea, je le maintiens. 
+On devient de bon gout parmi les indiens ; 
+Il se connait en gens. 
+DON CESAR.
+C'est de quoi je me pique. 
+DON PASCAL.
+Votre soeur Isabelle est un peu lunatique. 			[1010]
+DON CESAR, a Carlin.
+Isabelle ! Vois-tu qu'il est de mon destin 
+Que j'aime une Isabelle ? 
+ISABELLE.
+Ah, mon frere ! 
+DON CESAR.
+Carlin.
+Qu'elle est charmante ! 
+ISABELLE.
+Il faut l'avouer, j'eusse en peine 
+A croire en vous pour moi ce sentiment de haine, 
+Car sur ce triste hymen me parler d'obeir, 			[1015]
+L'appuyer contre moi, c'est plus que me hair. 
+DON PASCAL.
+Ah, vous en faites donc ainsi la degoutee, 
+Sans le Beau-frere, allez, vous seriez rejetee, 
+Et j'irais de ce pas, ou me faisant honneur, 
+Je suis sur que le Oui se dirait de grand coeur			[1020]
+ISABELLE.
+Vous pouvez y aller, car je vous certifie 
+Que si c'est sur vos biens que votre amour se fie, 
+Je n'en fais aucun cas, et crois valoir assez, 
+Pour ne pas m'abaisser autant que vous pensez. 
+DON PASCAL.
+Vous vous abaisseriez en m'epousant ? 
+ISABELLE.
+Sans doute. 			[1025]
+DON PASCAL.
+Gardez que je n'eclate, et qu'il ne vous en coute. 
+DON CESAR.
+Ah, ma soeur. 
+ISABELLE.
+Qu'il eclate autant qu'il lui plaira. 
+Je perdrai sans regret ce qu'il m'en coutera. 
+BEATRIX.
+Eh, Madame. 
+DON PASCAL.
+Oui ? 
+BEATRIX.
+Monsieur. 
+DON PASCAL.
+Suffit, qu'elle y revienne. 
+Ma Famille vaut mieux mille fois que la sienne ; 			[1030]
+Et si nous supputions, sans tout prendre en un tas, 
+Le Quart d'un Avalos vaudrait quinze Vargas ; 
+Soit dit sans offenser le Vargas, mon beau-frere. 
+DON CESAR, a Carlin.
+Vargas ! 
+CARLIN, a Cesar.
+Si nous etions au logis du beau-pere ? 
+DON CESAR.
+Il n'en faut point douter, Carlin. 
+DON PASCAL.
+Des maintenant 			[1035]
+J'en vais coucher ma plainte au vieux pere Fernand. 
+DON CESAR, a Carlin.
+Entends-tu ? 
+CARLIN.
+Quel matois ! Voyez-vous la surprise ? 
+DON CESAR.
+Sais-tu qui je le crois ? Notre homme a la valise. 
+CARLIN.
+Cela pourrait bien etre. 
+DON CESAR.
+Il faut m'en eclaircir. 
+Ne fachez point ma soeur, je saurai l'adoucir. 			[1040]
+Quand j'aurai dit trois mots, elle sera traitable. 
+ISABELLE.
+Quoi, vous-meme vouloir me rendre miserable ? 
+Ah, qu'aux Indes encor n'etes-vous retenu ! 
+Du moins... 
+DON PASCAL.
+Il a bien fait d'en etre revenu. 
+Ma foi, j'en suis d'avis qu'a Goa, pour vous plaire, 			[1045]
+Le reste de ses jours on vous confine un frere. 
+DON CESAR.
+C'est donc avec chagrin que vous me revoyez, 
+Ma soeur ? 
+ISABELLE.
+J'en ai bien lieu. 
+DON CESAR.
+Pas tant que vous croyez. 
+Vos interets me sont mieux connus qu'a vous-meme. 
+Je suis pour Don Cesar, je l'avoue, il vous aime, 			[1050]
+Votre bonheur depend de lui donner la main. 
+DON PASCAL, a Isabelle.
+Avisez, car a moins que ce ne soit demain, 
+Serviteur. 
+ISABELLE.
+J'aime assez un amant qui menace. 
+BEATRIX.
+Madame. 
+DON CESAR.
+Rendez-vous, ma soeur, de bonne grace. 
+Prenez pour Don Cesar des sentiments plus doux ; 			[1055]
+Aussi bien je suis sur qu'il sera votre epoux. 
+ISABELLE.
+Lui ? Vous en etes sur ? 
+DON CESAR.
+Oui, je vous le repete. 
+Votre hymen est conclu, mon pere le souhaite, 
+Et quoi qu'a son amour vous puissiez opposer, 
+Vous tiendrez a bonheur enfin de l'epouser. 			[1060]
+J'en ai la certitude. 
+ISABELLE.
+Et moi, je vous declare, 
+A quoi que Don Cesar contre moi se prepare, 
+Que la chose avec lui n'ira point plus avant, 
+Et que s'il faut parler, j'entre dans un couvent. 
+Avec vous la-dessus qu'il prenne ses mesures ; 			[1065]
+Viens. 
+BEATRIX.
+Qui vous a donne ces belles tablatures ? 
+Monsieur, ne croyez pas... 
+ISABELLE.
+Viens, te dis-je, suis moi. 
+SCENE VI. Don Cesar, Don Pascal, Carlin.
+DON PASCAL.
+La petite lionne ! Elle jase, ma foi. 
+DON CESAR.
+Ne vous etonnez point d'une telle reponse. 
+Au reste, vous saurez que j'ai vu Don Alonse. 			[1070]
+J'ai passe par Seville, ou fus averti 
+Que depuis quatre jours vous en etiez parti. 
+J'appris la votre hymen. 
+DON PASCAL.
+Vous avez vu mon pere ? 
+Don Alonse ? A Seville ? 
+DON CESAR.
+Oui. 
+DON PASCAL, bas.
+La maudite affaire ! 
+DON CESAR.
+Il me parla, je crois, en termes confus, 			[1075]
+Sur des lettres de change. 
+DON PASCAL.
+Oui, pour vingt mille ecus. 
+Aux mains de Don Fernand ces lettres sont remises. 
+DON CESAR.
+Carlin. 
+CARLIN, bas.
+Nous vous tenons, escroqueur de valise. 
+DON PASCAL.
+Mon pere est homme... Allez, je lui ferai savoir 
+Que pour moi le beau-frere a bien fait son devoir. 			[1080]
+Cependant je crains fort... 
+DON CESAR.
+Vous n'avez rien a craindre. 
+Que ma soeur parle, crie, elle aura beau se plaindre, 
+Je me ris du couvent. 
+DON PASCAL.
+Si nous pouvions, demain 
+Il faudrait que sans bruit... 
+DON CESAR.
+Mon pere a ce dessein, 
+Et je vais d'autant plus presser le mariage, 			[1085]
+Qu'a me rendre a Burgos certain devoir m'engage. 
+DON PASCAL.
+Quel ? 
+DON CESAR.
+C'est pour y chercher un Don Pascal Giron. 
+Si je le trouve...
+DON PASCAL.
+Et bien ? 
+DON CESAR.
+Le connaissez-vous ? 
+DON PASCAL.
+Non. 
+DON CESAR.
+Il a fait d'un ami certaine raillerie. 
+Au talent de hableur il joint l'effronterie, 			[1090]
+Dit-on, et je lui veux montrer aux yeux de tous...
+DON PASCAL.
+Cela merite-t-il de vous mettre en courroux ? 
+DON CESAR.
+Si l'on ne disait mot, il n'aurait qu'a poursuivre, 
+A de pareils hableurs il faut apprendre a vivre. 
+C'est un extravagant, un fat. 
+DON PASCAL.
+Sans compliment, 			[1095]
+Je vous quitte, et vais voir le beau-pere un moment. 
+SCENE VII. Don Cesar, Carlin.
+DON CESAR.
+Qu'en dis-tu ? 
+CARLIN.
+Vous avez bien rabattu sa joie. 
+Reste a vous decouvrir... 
+DON CESAR.
+J'en chercherai la voie ; 
+Mais sans tant me hater, peut etre il serait bon, 
+Comme ici Don Pascal fait connaitre mon nom, 			[1100]
+D'attendre sous celui que le hasard me prete, 
+Qu'avec nos Obstines mon affaire soit faite. 
+Si les Parents du Mort s'avisaient d'eclater, 
+Ce serait Don Pascal qu'on viendrait arreter. 
+CARLIN.
+Quand on le coifferait, la prise serait belle. 			[1105]
+Il le merite bien ; mais, Monsieur, Isabelle ? 
+La pourrez-vous laisser si longtemps en erreur ? 
+DON CESAR.
+Plus les dedains sont forts, mieux je lis dans son coeur. 
+CARLIN.
+Elle etait en partant dans un depit extreme. 
+DON CESAR.
+Qu'il est doux de me voir mepriser pour moi-meme ! 			[1110]
+CARLIN.
+Mais quand vous en riez, elle en souffre. 
+DON CESAR.
+Allons voir 
+Quels mepris de nouveau j'en pourrai recevoir. 
+
+
+			ACTE IV
+
+
+SCENE PREMIERE. Don Fernand, Enrique.
+ENRIQUE.
+Voila ce qu'on m'ecrit. 
+DON FERNAND.
+Vous m'etonnez, Enrique, 
+Et quel rang parmi vous tenait ce Don Fabrique 
+Ceux que le sang oblige a venger cette mort 			[1115]
+Sont-ce des gens a ne point vouloir parler d'accord ? 
+Mon gendre a-t-il affaire a puissante Partie ? 
+ENRIQUE.
+Non pas sans doute assez pour lui couter la vie. 
+Outre que l'action, a la prendre en rigueur, 
+Telle qu'on me la mande, est d'un Homme de coeur ; 			[1120]
+Mais c'est toujours un Mort, et tout Mort embarrasse. 
+DON FERNAND.
+Il faut agir en Cour, nous obtiendrons sa Grace. 
+ENRIQUE.
+Si l'affaire est tombee en accommodement ; 
+Nous en aurons bientot plus d'eclaircissement. 
+Au moins a voir le jour dont ma Lettre est datee, 			[1125]
+C'est de beaucoup trop tard qu'elle m'est apportee. 
+Comme avant cette mort Don Alonse avait dit 
+Que son fils se venait marier a Madrid, 
+Et qu'on nous voit toujours Ennemis, on veut croire 
+Qu'agissant contre lui, je dois en faire gloire, 			[1130]
+Et que s'il est chez vous, comme on n'en peut douter, 
+Je preterai la main a le faire arreter ; 
+Mais la division n'empeche point l'estime, 
+Et quand ma haine encor serait plus legitime, 
+Le nom de votre gendre, et ce que je vous dois, 			[1135]
+Contre ses ennemis lui repondraient de moi.
+DON FERNAND.
+Cette mort qu'il m'a tue est sans doute l'affaire 
+Que me recommandait la Lettre de son pere. 
+Vous en donner l'avis c'etait bien s'adresser ; 
+Mais, Enrique, avec moi c'est peu de commencer. 			[1140]
+Vous protegez mon gendre ; apres ce bon office 
+Souffrez avecque lui que je vous reunisse. 
+Je ne saurais vous voir plus longtemps Ennemis. 
+ENRIQUE.
+Ordonnez, je suis pret, et tout vous est permis. 
+Mais comme Don Cesar est plus fier qu'il me semble, 			[1145]
+Ne vous commettez point a nous trouver ensemble, 
+Que vous n'ayez pris soin vous-meme de savoir 
+S'il pourra sans aigreur consentir a me voir ; 
+Me montrant tout a coup, j'ai peur qu'il ne s'emporte. 
+Cependant empechez quelques jours qu'il ne sorte. 			[1150]
+Il s'est trop fait connaitre en arrivant chez vous ; 
+La nouvelle en est sue, il a force jaloux, 
+On l'epie, et pour lui la prison est a craindre. 
+DON FERNAND.
+Je doute qu'il soit homme a se vouloir contraindre. 
+Au reste, de Goa mon fils est de retour. 			[1155]
+ENRIQUE.
+Don Lope est a Madrid ? 
+DON FERNAND.
+Oui, de ce meme jour. 
+Absent depuis douze ans, le Ciel me le renvoie. 
+ENRIQUE.
+Croyez qu'avecque vous j'en partage la joie, 
+Quand Don Cesar et moi nous serons reunis, 
+Il faudra que je vienne embrasser ce cher fils. 			[1160]
+DON FERNAND.
+Je vous le menerai, c'est a quoi je m'engage. 
+ENRIQUE.
+Et l'aimable Isabelle ? A quand le mariage ? 
+DON FERNAND.
+Don Cesar n'a point eu le don de la charmer. 
+Quoi que je puisse dire, elle a peine a l'aimer, 
+Et si je veux pour elle ecouter ma tendresse, 			[1165]
+Je dois suspendre au moins l'hymen dont il me presse ; 
+Entre nous, je ne sais si l'air Provincial 
+Donne a certaines Gens un trait original ; 
+Mais dans sa gaie humeur ce Don Cesar s'oublie, 
+Et le bon sens toujours n'est pas de la partie. 			[1170]
+Au Portrait dont pour lui vous m'aviez prevenu 
+Il faut vous l'avouer, je ne l'ai point connu. 
+Je lui croyais l'esprit poli, galant, docile. 
+ENRIQUE.
+Depuis de deux ans que j'ai quitte Seville, 
+J'ignore ce qu'il est ; mais quand je suis parti, 			[1175]
+C'etait de mille dons un esprit assorti. 
+Je ne sais quoi d'aise, du brillant, du solide. 
+DON FERNAND.
+Il est brusque, et de tout en Souverain decide. 
+Si l'hymen des demain ne remplit ses desirs, 
+Il ne sait ce que c'est que pousser des soupirs. 			[1180]
+Il est riche, et partout peut choisir une femme. 
+ENRIQUE.
+Ah, Don Cesar n'a point cette bassesse d'ame. 
+Il est civil, honnete, et dans ce que j'en sais... 
+SCENE II. Don Fernand, Don Cesar, Don Pascal, Enrique, Carlin.
+DON FERNAND, voyant Don Pascal.
+Le voici qui parait. 
+ENRIQUE, voyant Don Cesar.
+C'est lui-meme, il est vrai. 
+CARLIN.
+Monsieur. 
+DON CESAR.
+Je vois Enrique, il faut rentrer. 			[1185]
+ENRIQUE.
+Je pense 			[1185]
+Qu'il aurait quelque peine a souffrir ma presence. 
+Je m'eloigne, et vous laisse en pouvoir d'obtenir 
+Qu'il consente a l'accord qui nous doit reunir. 
+SCENE III. Don Fernand, Don Pascal.
+DON FERNAND.
+De peur de vous choquer, vous voyez qu'il me quitte. 
+DON PASCAL.
+Il pouvait jusqu'au soir prolonger sa visite, 			[1190]
+C'est a quoi nul de nous n'eut voulu s'opposer. 
+Vous autres vieux Grisons, vous aimer a jaser, 
+Vous ne finissez point. 
+DON FERNAND.
+Il est prudent et sage ; 
+Et pour ne pas aigrir les choses davantage, 
+Il a voulu savoir avant que vous parler... 			[1195]
+DON PASCAL.
+A moi ? Qu'avons-nous donc ensemble a demeler ? 
+DON FERNAND.
+Rien ; il m'a tout conte, c'est une bagatelle. 
+DON PASCAL.
+La Lune a-t-elle point disloque sa cervelle ? 
+DON FERNAND.
+Il n'en faut point parler avec tant de mepris. 
+Enrique a du merite, et chacun vaut son prix. 			[1200]
+DON PASCAL.
+Enrique soit, Enrique est pour moi peu de chose. 
+DON FERNAND.
+Vos differends n'ont pas une assez juste cause. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il faut, pour vivre amis, mettre tout sous le pied. 
+DON PASCAL.
+Vous avez comme lui le timbre estropie, 
+Beau-pere. 
+DON FERNAND.
+Vous pourriez parler mieux, ce me semble. 			[1205]
+DON PASCAL.
+Que diable aussi veut-on que nous ayons ensemble ? 
+Je ne l'ai jamais vu. 
+DON FERNAND.
+Jamais vu ! 
+DON PASCAL.
+Non jamais. 
+DON FERNAND.
+Vous n'avez point tous deux sur certains interets, 
+Lorsqu'un jour son avis fut si contraire au votre, 
+Qu'il fallut... 
+DON PASCAL.
+Non, vous dis-je, il me prend pour un autre. 			[1210]
+DON FERNAND.
+Et dans ce meme instant que vous etes venu, 
+Pour Don Cesar encor il vous a reconnu. 
+DON PASCAL.
+D'Avalos ? 
+DON FERNAND.
+D'Avalos. Il est ne dans Seville, 
+A du bien, des Amis, connait toute la ville ; 
+Il ne se passe rien qui par lui ne soit su. 			[1215]
+DON PASCAL, bas.
+Serais-je Don Cesar sans m'en etre apercu ? 
+N'importe, avouons tout. 
+DON FERNAND.
+Ca, plus d'aigreur, mon gendre. 
+Enrique veut la Paix, c'est trop vous en defendre. 
+L'accord vous deplaisant, pour en fuir l'embarras, 
+Vous auriez bien voulu ne le connaitre pas. 			[1220]
+De grace, oubliez tout, vous avez l'ame bonne. 
+S'il a dit quelque chose... 
+DON PASCAL.
+Et bien, je lui pardonne, 
+Mais a condition que je ne le verrai 
+Qu'apres que de l'hymen j'aurai fait plein essai. 
+DON FERNAND.
+Il ne merite point ce reste de colere. 			[1225]
+Il a montre pour vous une estime sincere, 
+Et tout a l'heure encor il vient de m'avertir 
+De ce que l'on hasarde a vous laisser sortir. 
+DON PASCAL.
+Parce que je puis mettre une femme a son aise, 
+Il craint qu'on ne m'engage ailleurs ? Ne vous deplaise, 			[1230]
+Je veux aller, courir, voir, me faire prier. 
+Si l'on craint de me perdre, on peut me marier. 
+Je suis jusqu'a demain de l'Epouse future 
+Le tres futur Epoux ; passe cela, j'en jure, 
+Je porte le mouchoir ou le coeur m'en dira. 			[1235]
+DON FERNAND.
+Vous serez satisfait, ma fille obeira. 
+DON PASCAL.
+Tantot qu'elle a voulu jaser avec son frere, 
+Il l'a bientot reduite au parti de se taire 
+Voyant que pour l'hymen elle n'allait pas droit, 
+Il vous l'a chapitree. 
+DON FERNAND.
+Il agit comme il doit. 			[1240]
+Mais craignez tout pour vous, si l'on vous voit paraitre. 
+Chez moi pour Don Cesar on a su vous connaitre, 
+Et pour vous arreter on est au guet. 
+DON PASCAL.
+Comment ? 
+M'arreter ! Et pourquoi ? 
+DON FERNAND.
+Le beau deguisement ! 
+A quoi bon vous cacher, quand la chose est publique ? 			[1245]
+Quoi qu'il en ait coute la vie a Don Fabrique, 
+On sait qu'en le tuant... 
+DON PASCAL.
+Halte-la, s'il vous plait. 
+Moi, j'ai tue ? 
+DON FERNAND.
+L'honneur... 
+DON PASCAL.
+Je ne sais ce que c'est. 
+Suis-je un tueur de gens ? 
+DON FERNAND.
+On palliera l'affaire. 
+C'est d'elle assurement que m'ecrit votre pere, 			[1250]
+Quand il veut qu'on vous trouve au besoin du support. 
+DON PASCAL, bas.
+Tirons-nous de la lettre, avouant cette mort. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Sur tout cas chagrinant j'ai recours au silence, 
+Mais puisque enfin du fait vous avez connaissance... 
+DON FERNAND.
+Oui, je sais que l'honneur qui vous a fait agir, 			[1255]
+Vous doit sur cette mort empecher de rougir. 
+Comment arriva-t-elle ? 
+DON PASCAL.
+Ah, l'importun beau-pere ! 
+Payons d'effronterie. 
+DON FERNAND.
+En me contant l'affaire, 
+Enrique ne m'a point explique comme quoi... 
+DON PASCAL.
+Ce detail est de lui plus seant que de moi ; 			[1260]
+Puisqu'il a commence, qu'il vous dise le reste. 
+DON FERNAND.
+Sur les cas de bravoure on doit etre modeste, 
+Je le sais ; mais non pas s'en taire entierement. 
+Fut-ce duel ? Rencontre ? 
+DON PASCAL.
+Environ. 
+DON FERNAND.
+Mais comment ? 
+Sur le pre ? Dans la rue ? 
+DON PASCAL.
+Enfin vaille que vaille, 			[1265]
+Le Mort mourut, et moi j'eus le champ de bataille. 
+C'est un Mort bien complet, qu'un Mort de ma facon. 
+DON FERNAND.
+Il faut... 
+SCENE IV. Don Fernand, Don Pascal, Isabelle, Beatrix.
+DON PASCAL.
+Ah, vous voila, mon aimable Dondon. 
+Ca, qu'un peu moins de brun sur votre front se voie. 
+Le chagrin ne vaut rien, tournez-vous a la joie, 			[1270]
+Je vous donne l'exemple. 
+ISABELLE.
+En puis-je profiter, 
+Quand Enrique me dit qu'on vous doit arreter ? 
+Qui jamais aurait cru ce qu'il vient de m'apprendre. 
+Mon Pere ? Don Cesar... 
+DON FERNAND.
+Il m'a tout fait entendre. 
+Cela n'est rien, ma fille, et malgre les Jaloux... 			[1275]
+ISABELLE.
+Quand un homme est tue, ce n'est rien, dites-vous ? 
+DON FERNAND.
+Epargnant Don Fabrique, il eut passe pour lache ; 
+Il a du le tuer. 
+DON PASCAL.
+Je vous l'ai... Qu'on me fache, 
+Par la mort... Avez-vous des ennemis secrets ? 
+Parlez, j'estramaconne, et je vous en defais. 			[1280]
+ISABELLE.
+Si de vous seulement vous vouliez me defaire ?... 
+DON PASCAL.
+De moi ? 
+DON FERNAND.
+L'impertinente ! 
+DON PASCAL.
+A vous le de, beau-pere. 
+Vous pouvez bien user du pouvoir paternel ; 
+Autrement (et j'en fais un serment solennel) 
+Si vous ne la rendez, avant que le jour passe, 			[1285]
+D'humeur a souhaiter d'amplifier ma Race, 
+Je prends parti. 
+DON FERNAND.
+De quoi vous chagriner ? Demain 
+Vous la trouverez prete a vous donner la main. 
+ISABELLE.
+Moi ? 
+DON FERNAND.
+Vous. 
+ISABELLE.
+L'aveuglement pour moi serait honnete. 
+L'epouser, et qu'ensuite on lui coupe la tete ? 			[1290]
+DON PASCAL.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Couper la tete ! Diable, elle y va d'un plein faut. 
+ISABELLE.
+Qu'il se tire d'affaire ; ensuite, s'il le faut, 
+Je m'expliquerai net sur ce qui le regarde. 
+DON PASCAL.
+Beau-pere, encor un coup, si vous n'y prenez pas garde, 
+Rien de fait entre nous. Il faut vous donner temps 			[1295]
+De pouvoir seul a seul lui rendre le bon sens, 
+Et cependant j'irai... 
+DON FERNAND.
+Ne sortez point, de grace. 
+S'il fallait... 
+DON PASCAL.
+Que pour moi rien ne vous embarrasse. 
+Je vais vous envoyer le Beau-frere, avec lui 
+Vous pouvez en resoudre encor tout aujourd'hui. 			[1300]
+Cela fait, je deloge. 
+SCENE V. Don Fernand, Isabelle, Beatrix.
+DON FERNAND.
+Il est donc fort honnete, 
+Qu'une fille avec moi n'en fasse qu'a sa tete ? 
+En matiere d'epoux vous allez a grands frais ; 
+Si l'on veut qu'il vous plaise, il faut le faire expres. 
+Allez, pour vous punir, si je n'etais bon pere, 			[1305]
+Vous voulez tout perdre, je vous laisserais faire. 
+Ne voir pas qu'un Parti si riche, si puissant... 
+ISABELLE.
+Le bien pour l'hymenee est un motif pressant ; 
+Mais a quoi voulez-vous, mon pere, qu'il m'engage, 
+S'il n'est accompagne de quelque autre avantage ? 			[1310]
+DON FERNAND.
+Quand on vous a nomme Don Cesar pour epoux, 
+Qu'on l'a laisse venir, que ne l'empechiez-vous ? 
+Il fallait m'opposer alors votre scrupule. 
+ISABELLE.
+Pouvais-je deviner qu'il etait ridicule, 
+Que son discours rempli de termes affectes... 			[1315]
+DON FERNAND.
+Taisez-vous, il vaut plus que vous ne meritez. 
+C'est, si votre Morale en devient la Maitresse,
+Dans votre cerveau seul que loge la Sagesse ; 
+Et quand sur cet hymen nous sommes si pressants, 
+Votre frere, ni moi n'avons pas le bon sens. 			[1320]
+ISABELLE.
+A parler franchement, j'admire que mon frere 
+Sur le choix d'un tel gendre a vos souhaits defere. 
+DON FERNAND.
+Il a tort, et son gout devrait choquer le mien. 
+Est-ce vous Beatrix, qui l'instruisez si bien ? 
+Qui remplissez son coeur de ces belles idees ? 			[1325]
+BEATRIX.
+Encor tout maintenant nous nous sommes grondees ; 
+Il ne tient pas a moi qu'elle n'est le bon pli. 
+Je trouve Don Cesar un epoux accompli. 
+C'est le bien que j'en dis qui fait notre querelle ; 
+Je ne puis... Mais que vois-je ? 
+DON FERNAND.
+Ah, voici Sganarelle. 			[1330]
+SCENE VI. Don Fernand, Isabelle, Beatrix, Sganarelle avec un habit de deuil.
+DON FERNAND.
+Bonjour. 
+SGANARELLE, pleurant.
+Bonjour, Monsieur. Qui se fut attendu... 
+DON FERNAND.
+Pourquoi tant sangloter ? 
+BEATRIX, bas.
+C'est autant de pendu. 
+Ou vas-tu malheureux ? 
+SGANARELLE.
+La douleur qui me presse... 
+Ah, Monsieur ! 
+DON FERNAND.
+Apprends-nous quelle est cette tristesse. 
+D'ou te vient ce grand deuil ? 
+SGANARELLE.
+Monsieur, si je l'ai pris, 			[1335]
+C'est a mon grand... Bonjour, ma pauvre Beatrix. 
+BEATRIX.
+Dieu te garde. 
+SGANARELLE, montrant Isabelle.
+Est-ce la la petite Babette ; 
+Qui n'etait qu'un bouchon quand nous fimes retraite ? 
+BEATRIX.
+Elle-meme. 
+SGANARELLE.
+En douze ans comme une fille vient ? 
+Je l'ai bien fait sauter. 
+BEATRIX.
+Est-ce qu'il t'en souvient ? 			[1340]
+SGANARELLE.
+La voila belle et grande. 
+BEATRIX.
+Assez. 
+SGANARELLE.
+Mon pauvre Maitre, 
+En partant de Goa, brulait de la connaitre ; 
+Mais sa mort... 
+DON FERNAND.
+Tu viens donc m'annoncer son trepas ? 
+Il est mort ? 
+SGANARELLE.
+Si bien mort qu'il n'en reviendra pas. 
+DON FERNAND.
+Et l'as-tu vu mourir ? 
+SGANARELLE.
+Oui, la mort de sa femme 			[1345]
+L'a si bien tourmente, qu'il en a rendu l'ame. 
+DON FERNAND.
+Ou donc est arrive ce funeste accident ? 
+SGANARELLE.
+A Cadix, chez Gomez votre correspondant, 
+En cinq jours. Il m'est du la moitie de mes gages. 
+DON FERNAND.
+Coquin. 
+SGANARELLE.
+Comment Coquin ? 			[1350]
+DON FERNAND.
+Hem ? 			[1350]
+SGANARELLE.
+Quoi ? 			[1350]
+DON FERNAND.
+Tu m'envisages ? 			[1350]
+SGANARELLE.
+Les injures encor seront mon reconfort. 
+DON FERNAND.
+Donc, tu voles ton Maitre, et soutiens qu'il est mort ? 
+SGANARELLE.
+Moi ? 
+DON FERNAND, lui montrant Don Cesar.
+Regarde. 
+SCENE VII. Fernand, Isabelle, Don Cesar, Beatrix, Sganarelle, Carlin.
+SGANARELLE.
+Au secours. 
+DON FERNAND.
+Tu commences a craindre. 
+SGANARELLE.
+La voix me manque, ah, ah. 
+DON CESAR.
+Qu'a-t-il donc a se plaindre ? 
+SGANARELLE.
+Qu'il ne m'approche point ; j'ai si peur des esprits...			[1355]
+DON FERNAND.
+Ah, Monsieur Sganarelle, enfin vous voila pris. 
+CARLIN, a Don Cesar. 
+Sganarelle ! Monsieur, continuez la piece. 
+C'est le valet du fils. 
+DON CESAR, a Sganarelle.
+Que cette frayeur cesse, 
+Et sachons seulement ou sont les mille ecus. 
+SGANARELLE.
+Pouvez-vous... 
+DON CESAR.
+Point de bruit, j'en sais trop la-dessus. 			[1360]
+Tu me les as voles. 
+SGANARELLE.
+Voles ? 
+DON CESAR.
+Toi. 
+SGANARELLE.
+Patience, 
+Pour un mort, vous n'avez guere de conscience. 
+DON CESAR, a Don Fernand.
+Que dit-il ? 
+DON FERNAND.
+Il pretend qu'arrivant a Cadix, 
+En cinq jours chez Gomez vous etes mort. 
+DON CESAR.
+Tant pis, 
+Me voila mal. 
+SGANARELLE, a Don Fernand.
+Il croit vivre encor ? 			[1365]
+DON FERNAND.
+Quoi, tu penses 			[1365]
+Te sauver du gibet par tes extravagances ? 
+DON CESAR.
+Dans quelque Chambre sure il le faut enfermer. 
+La...
+DON FERNAND.
+Non, puisqu'a le perdre il nous veut animer, 
+Tout droit a la potence, il est juste qu'il meure. 
+CARLIN, a Sganarelle. 
+Courage, il ne s'agit que d'un mechant quart d'heure ; 			[1370]
+C'est a quoi des longtemps tu dois t'etre attendu. 
+N'es-tu pas bienheureux de n'etre que pendu ? 
+SGANARELLE.
+Au diable soient les Morts, et toute leur sequelle. 
+BEATRIX.
+Que j'ai pitie de toi, mon pauvre Sganarelle ! 
+DON FERNAND.
+Suis-moi, certain Caveau sera la-bas ton fait. 			[1375]
+Si tu n'y parles, va. 
+SGANARELLE.
+J'ai dit ce que j'ai fait. 
+CARLIN.
+Marchons vite. 
+DON FERNAND.
+Carlin, tiens-le bien, qu'il n'echappe. 
+CARLIN.
+Au Cachot noir. 
+SGANARELLE.
+Monsieur. 
+CARLIN.
+Tu viendras dans la trappe. 
+SCENE VIII. Isabelle, Don Cesar, Beatrix.
+ISABELLE.
+S'il fut ici venu quelque temps avant vous, 
+L'imposture eut trouve tout credit parmi nous. 			[1380]
+Nous vous aurions cru mort. 
+DON CESAR.
+Quand on ne perd qu'un frere, 
+Ma soeur, on se console, et la perte est legere. 
+ISABELLE.
+Ne vous connaissant pas, je dois tomber d'accord 
+Que j'aurais moins senti l'ennui de votre mort. 
+Vous pleurant, j'eusse au moins evite le supplice, 			[1385]
+Ou de vos sentiments m'expose l'injustice. 
+Me vouloir engager a Don Cesar ! 
+DON CESAR.
+Ma soeur, 
+Je ne prends son parti que pour votre bonheur. 
+Je vous l'ai deja dit. 
+ISABELLE.
+Et quel bonheur attendre, 
+Quand je ne vois en lui que du bien a pretendre ? 			[1390]
+DON CESAR.
+Et si je vous disais que lorsqu'on le connait, 
+Don Cesar n'est rien moins que ce qu'il vous parait. ? 
+ISABELLE.
+Ah, mon frere, toujours, encor qu'il se deguise, 
+Il aura l'air choquant, dira quelque sottise. 
+Le degout que j'en ai ne se peut surmonter. 			[1395]
+DON CESAR.
+N'en jurez pas trop fort, je pretends vous l'oter. 
+ISABELLE.
+Vous ? 
+DON CESAR.
+Oui, J'ai pris plaisir par des raisons secretes 
+A jouir quelque temps de l'erreur ou vous etes ; 
+Mais enfin apprenez qu'on vous abuse tous, 
+Que le vrai Don Cesar n'est point connu de vous, 			[1400]
+Et qu'un Extravagant qui tient ici sa place, 
+Lui derobant son nom, vous gene, et s'embarrasse. 
+ISABELLE.
+Serait-il vrai, mon Frere ? 
+DON CESAR.
+En pouvez-vous douter ? 
+ISABELLE.
+J'admirais, a le voir, qu'on me l'eut pu vanter. 
+Un Homme qui parait n'aimer qu'a faire rire. 			[1405]
+BEATRIX.
+J'y trouvais comme vous quelque chose a redire, 
+Je le cherchais en lui, mais je savais en gros 
+Qu'il etait honnete homme, et j'etais en repos. 
+Ai-je eu tort de vouloir toujours le mariage ? 
+ISABELLE.
+Mais quand cet Imposteur joue un faux Personnage, 			[1410]
+Ou le vrai Don Cesar peut-il etre ? 
+DON CESAR.
+A Madrid. 
+ISABELLE.
+En etes-vous content du cote de l'esprit ? 
+DON CESAR.
+Vous le verrez ; du moins on l'estime a Seville. 
+Il a l'humeur accorte, obligeante, civile, 
+Et si depuis l'instant que nous nous sommes vus, 			[1415]
+Je l'aimais un peu moins, j'en pourrais dire plus ; 
+Mais l'amitie seduit sitot qu'elle est extreme. 
+ISABELLE.
+Vous l'aimez donc, mon frere ? 
+DON CESAR.
+A l'egal de moi-meme. 
+ISABELLE.
+S'il l'a pu meriter, il doit etre parfait. 
+Mais, mon frere, daignez achever son portrait. 			[1420]
+L'air, les traits ? 
+DON CESAR.
+Tels que moi. Ce rapport de visage 
+Est-ce qui l'un pour l'autre a l'envi nous engage. 
+Le voudrez-vous, ma soeur, l'accepter pour Epoux ? 
+ISABELLE.
+Comment le refuser, s'il est fait comme vous ? 
+Mais ce faux Don Cesar qu'ici l'on voit paraitre, 			[1425]
+Se dit le vrai, comment peut-il ne le pas etre ? 
+Mon pere qui connait l'ecriture du sien, 
+A pour lui... 
+DON CESAR.
+La-dessus ne me demandez rien. 
+Le temps eclaircira cet embrouille mystere. 
+ISABELLE.
+Allez donc en donner la nouvelle a mon pere, 			[1430]
+Afin qu'instruit du piege, il puisse en l'evitant 
+S'assurer, s'il le faut, du Fourbe qui le tend. 
+DON CESAR.
+J'y vais ; mais attendant que Don Cesar vous voie, 
+Je pourrai lui parler ; Que voulez-vous qu'il croie, 
+Ma soeur ? 
+ISABELLE.
+Que s'il est tel que vous l'avez peint... 			[1435]
+Adieu mon frere. 
+BEATRIX, a Don Cesar. 
+On fuit. Bonne marque, on se craint. 
+
+
+			ACTE V
+
+
+SCENE PREMIERE. Don Fernand, Don Cesar, Carlin.
+DON FERNAND.
+J'ai pour les confronter envoye chez Enrique ; 
+Mais mon fils, contre vous je crains qu'il ne s'explique ; 
+Lui-meme, en le voyant, l'a tantot reconnu. 
+Pour epouser ma fille il sait qu'il est venu, 			[1440]
+Et par trop de raisons prend part a mes affaires, 
+Pour vouloir appuyer des fourbes si grossieres. 
+DON CESAR.
+Je le sais, mais croyez que des qu'il me verra, 
+Quoi qu'il ait pu vous dire, il le desavouera. 
+Les choses quelquefois se peuvent mal entendre. 			[1445]
+DON FERNAND.
+Mais il a regarde, vu, contemple mon gendre. 
+DON CESAR.
+Ses yeux dans ce moment l'auront mal eclairci, 
+Ils l'ont trompe. 
+DON FERNAND.
+Les miens me trompent donc aussi ? 
+J'ai pour ce Don Cesar, qui n'a pas l'air de plaire, 
+Recu presentement des lettres de son pere, 			[1450]
+Qui nous mande a tous deux que sur certaine mort 
+La Partie est contente, et qu'on a fait l'accord. 
+DON CESAR.
+L'accord est fait ? Tant mieux. J'attends de Don Alonse 
+Sur des avis donnes une prompte reponse, 
+Qui vous confirmera les choses que je dis. 			[1455]
+DON FERNAND.
+Mais les vingt mille ecus qu'il m'a par lui remis ? 
+DON CESAR.
+Pur hasard. 
+DON FERNAND.
+Croyez-moi, l'on cherche a vous surprendre. 
+Comme nouveau venu vous avez la foi tendre. 
+Quelqu'un hait Don Cesar, et vous a contre lui... 
+DON CESAR.
+Non, je ne parle point sur le rapport d'autrui. 			[1460]
+Je connais Don Cesar. 
+DON FERNAND.
+La chose est difficile. 
+D'ou ? Comment ? Et de quand ? 
+DON CESAR.
+Je l'ai vu dans Seville. 
+DON FERNAND.
+Dans Seville ! Avez-vous ete la de Cadix ? 
+DON CESAR.
+Suffit que je connais et le pere et le fils. 
+Don Alonse en partant m'a charge de vous dire 			[1465]
+Que de ce qu'il attend par le premier navire ; 
+Puisque vous le voulez, il vous mettra d'un quart ; 
+Que pour l'autre a charger l'avis est venu tard. 
+DON FERNAND.
+Il vous l'a dit ? 
+DON CESAR.
+Lui-meme, et vous m'en pouvez croire. 
+DON FERNAND.
+Carlin, son mal se passe, il a bonne memoire. 			[1470]
+CARLIN.
+Il faut avec le temps esperer que ce mal... 
+DON FERNAND.
+Il se souvient de tout. 
+CARLIN.
+Monsieur, c'est l'air natal. 
+Hier encor, qui l'eut mis sur ce qu'il vous explique, 
+C'eut ete de l'Hebreu pour lui, point de replique. 
+Les lieux nataux ouvrant les pores de l'esprit... 			[1475]
+DON FERNAND.
+Carlin sait de grands mots. 
+DON CESAR.
+Et fort peu ce qu'il dit. 
+CARLIN.
+Si je dis mal, du moins je sais ce que je pense. 
+Tachez a rattraper votre reminiscence, 
+Tout le reste ira bien. 
+DON FERNAND.
+Et quand pourrons-nous voir 
+Cet autre Don Cesar ? 
+CARLIN.
+Peut-etre des ce soir. 			[1480]
+Nous sommes de Seville ici venus vous voir ensemble. 
+DON FERNAND.
+Je ne sais ou j'en suis, car enfin il me semble 
+Qu'Enrique a m'abuser n'ayant point d'interet 
+Devrait m'avoir conte la chose comme elle est. 
+Pourquoi d'un Imposteur appuyer l'entreprise ? 			[1485]
+DON CESAR.
+Quand vous lui parlerez, vous saurez la surprise 
+Je crains peu que d'un Fourbe il veuille etre l'appui. 
+DON FERNAND.
+J'entends quelqu'un qui monte, et peut-etre est-ce lui. 
+Retirez-vous, mon Fils ; je veux de cette affaire, 
+Lui parlant seul a seul, penetrer le mystere			[1490]
+DON CESAR, a Carlin.
+Allons voir Isabelle, et l'amenons ici. 
+DON FERNAND, seul.
+Que peut pretendre Enrique a me tromper ainsi ? 
+A croire un Imposteur il m'a vu trop facile. 
+Tous ceux qui connaissaient la Carte de Seville, 
+De mon gendre futur m'avaient dit trop de bien, 			[1495]
+Pour le voir sans merite, et ne soupconner rien. 
+Son abord, ses discours remplis d'extravagance... 
+SCENE II. Don Fernand, Enrique.
+DON FERNAND.
+Apprenez-moi de vous ce qu'il faut que je pense, 
+Enrique. Vous voyez qu'on cherche a me duper, 
+Qu'on me joue, et vous-meme aidez a me tromper. 			[1500]
+ENRIQUE.
+J'aide a vous tromper ? Moi ? 
+DON FERNAND.
+Vous avez vu mon gendre ? 
+ENRIQUE.
+Oui, tantot un moment. 
+DON FERNAND.
+Comme on se peut meprendre, 
+En avez-vous assez examine les traits ? 
+ENRIQUE.
+Rien ne m'est plus connu. 
+DON FERNAND.
+C'est Don Cesar ? 
+ENRIQUE.
+Oui. 
+DON FERNAND.
+Mais 
+En etes-vous bien sur ? 
+ENRIQUE.
+Autant que de moi-meme. 			[1505]
+DON FERNAND.
+Don Cesar d'Avalos ? 
+ENRIQUE.
+Ma surprise est extreme. 
+Pourquoi ces questions ? 
+DON FERNAND.
+Pourquoi ? Si je vous dis 
+Que c'est un imposteur, en croirez-vous mon fils ? 
+Il connait Don Cesar. 
+ENRIQUE.
+Quoi, votre fils peut dire... 
+DON FERNAND.
+Qu'a mon bien sous ce nom un Imposteur aspire, 			[1510]
+Qu'il n'est point Don Cesar.
+ENRIQUE.
+C'est qu'il le connait mal. 
+DON FERNAND.
+Il pretend le savoir pourtant d'original. 
+ENRIQUE.
+J'appuierais contre vous un lache stratageme ? 
+Je l'ai vu, croyez-moi, c'est Don Cesar lui-meme
+DON FERNAND.
+Voyez-le de nouveau, pour n'en pouvoir douter. 			[1515]
+SCENE III. Don Fernand, Enrique, Beatrix.
+BEATRIX.
+Cette Lettre est pour vous, on vient de l'apporter. 
+DON FERNAND.
+Fais venir Don Cesar. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ENRIQUE.
+Qu'il vienne. 
+DON FERNAND.
+Autre aventure. 
+La Lettre est de Cadix, je connais l'ecriture, 
+C'est Gomes qui m'ecrit. Me pardonnerez-vous... 
+ENRIQUE.
+Lisez, les compliments sont bannis d'entre nous. 			[1520]
+DON FERNAND, lit.
+Je ne me suis point hate de vous ecrire les funestes nouvelles que Sganarelle vous a portees. Je ne doute point que vous n'en n'ayez ete fort surpris.La mort de Don Lope m'a tellement touche, que j'ai peine encore a m'en remettre. Il n'est rien qu'on n'ait fait pour le sauver. Les remedes se sont trouves sans force, et tout l'Art des Medecins n'a pu empecher qu'il n'ait ete emporte en cinq jours d'une fievre continue. Sganarelle vous dira les soins que j'ai pris a lui faire rendre les derniers honneurs. 
+ENRIQUE.
+L'avis est surprenant. Qu'est-ce qu'il vous en semble ? 
+Votre fils est-il mort et vivant tout ensemble. 
+Les termes sont precis. 
+DON FERNAND.
+Vous m'y voyez rever. 
+ENRIQUE.
+Je craindrais... 
+DON FERNAND.
+Permettez que je puisse achever. 
+En arrivant chez moi il y a fait decharger douze caisses bien conditionnees dont vous pouvez disposer. J'executerai ponctuellement vos ordres, et prends part a votre douleur autant que le peut faire Votre tres humble Serviteur GOMEZ. 
+ENRIQUE.
+Les Caisses chez Gomez par Don Lope laissees, 			[1525]
+Doivent causer un peu de trouble a vos pensees. 
+Le fait est positif. 
+DON FERNAND.
+C'est de quoi, m'occuper. 
+ENRIQUE.
+Mais celui qui pretend que j'ose vous tromper, 
+Qu'appuyant un faux nom j'ai part au stratageme, 
+Dites, serait-il point quelque Imposteur lui-meme. 			[1530]
+Qui chez vous introduit en qualite de fils, 
+Sous des traits ressemblants vous aurait tous surpris ? 
+DON FERNAND.
+La Lettre de Gomez sans doute m'embarrasse. 
+Je trouve du mystere en tout ce qui se passe, 
+Et le retour d'un fils, dont on m'ecrit la mort, 			[1535]
+Causerait quelque trouble a l'esprit le plus fort. 
+Mais pour tout eclaircir, commencons par mon gendre. 
+Voyez, qu'en dites-vous ? M'a-t-on voulu surprendre ? 
+SCENE IV, Don Fernand, Don Pascal, Enrique.
+DON FERNAND, a Don Pascal.
+Plus de froideur, Enrique est pret d'y renoncer. 
+DON PASCAL.
+Encor Enrique ? 
+DON FERNAND.
+Allons, il faut vous embrasser. 			[1540]
+DON PASCAL.
+Vous avais-je pas dit, impatient Beau-pere, 
+Qu'une si prompte paix n'etait pas necessaire ? 
+Il va faire le fier de se voir recherche ; 
+Cependant c'est lui seul qui gagne en ce marche. 
+En fera-t-il un pas ? 
+DON FERNAND, a Enrique.
+Voyez-le bien, de grace, 			[1545]
+Observez tous ses traits. 
+DON PASCAL.
+Si l'accord l'embarrasse, 
+Je l'en quitte, et suis pret a ne parler de rien. 
+ENRIQUE.
+Tout cela se dit-il par forme d'entretien ? 
+DON FERNAND.
+Daignez le regarder. 
+DON PASCAL.
+S'il ne l'a pas en tete, 
+Vous l'en pressez en vain, c'est une fine bete. 			[1550]
+Voyez comme en silence il tient son quant a moi 
+Dieu me damne, il se moque et de vous et de moi, 
+Beau-pere. 
+DON FERNAND, a Enrique.
+Vous revez ? 
+ENRIQUE.
+Je n'ai rien a vous dire. 
+C'est un jeu qui vous plait, d'accord, songeons a rire. 
+DON FERNAND.
+Vous croyez que je ris ? 
+ENRIQUE.
+Oui sans doute. 			[1555]
+DON PASCAL.
+Voila 			[1555]
+Comme il est sans rancune ? Allons donc, touchez la. 
+DON FERNAND.
+Cette froideur, Enrique, a droit de me surprendre, 
+Quand mon gendre pour vous... 
+ENRIQUE.
+C'est donc la votre gendre ? 
+DON PASCAL.
+Votre gendre ? Oui son gendre, et des mieux engendres. 
+DON FERNAND.
+Et bien qu'est-ce ? 
+ENRIQUE.
+Usez-en tout comme vous voudrez, 			[1560]
+Je ne dis mot. Un pere est maitre en sa famille, 
+Et peut, comme il lui plait, disposer de sa fille ; 
+Mais si vous pretendez... 
+DON PASCAL.
+Beau-pere, je suis las 
+D'entendre un harangueur a qui je ne plais pas. 
+Je suis venu ici par l'ordre de mon pere ; 			[1565]
+S'il faut rompre, rompons, volontiers. 
+DON FERNAND.
+Sans colere. 
+Mon gendre. 
+DON PASCAL.
+Est-ce qu'ailleurs je pourrais trouver pis ? 
+Allez, si ce n'etait Don Lope votre fils, 
+Qui m'aime, qui sait vivre et me demande grace, 
+Quand sa sotte de soeur me parle avec audace, 			[1570]
+J'aurais deja dix fois... Je m'en vais le chercher, 
+Lui conter mes raisons ; et si sans se facher 
+Je puis vous planter la, vous et Soeur Isabelle, 
+Tenez-vous tout plante. 
+SCENE V. Don Fernand, Enrique.
+ENRIQUE.
+La franchise est nouvelle. 
+Quel est ce digne gendre, et par quel changement 			[1575]
+Manquez-vous de parole a Don Cesar. 
+DON FERNAND.
+Comment ? 
+Je manque a Don Cesar ? C'est lui qui sort. 
+ENRIQUE.
+De grace, 
+Entendons-nous. Celui qui nous quitte la place, 
+C'est Don Cesar ? 
+DON FERNAND.
+Lui-meme. 
+ENRIQUE.
+Ah, si c'est lui, j'ai tort. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)D'avoir dit qu'il etait d'un esprit doux, accort. 			[1580]
+DON FERNAND.
+Vous riez ? 
+ENRIQUE.
+Don Cesar ! Un fou le pourrait etre ? 
+DON FERNAND.
+Vous-meme ici tantot l'avez su reconnaitre. 
+ENRIQUE.
+Quand avec vous ici j'ai tantot discouru, 
+Je l'avoue, a mes yeux Don Cesar a paru ; 
+Mais... 
+DON FERNAND.
+Vous le revoyez, que me voulez-vous dire ? 			[1585]
+C'etait le meme. 
+ENRIQUE.
+Quoi, ce fou qui se retire, 
+Est celui qui tantot s'est montre ! 
+DON FERNAND.
+D'aujourd'hui 
+Il n'est entre ceans aucun autre que lui. 
+ENRIQUE.
+Et c'est lui que j'ai vu ! 
+DON FERNAND.
+Lui, vous dis-je. 
+ENRIQUE.
+Sans doute 
+Vous avez vos desseins ; pour moi, je n'y vois goutte. 			[1590]
+DON FERNAND.
+Je vous comprends bien moins. Encor, si vous disiez 
+Qu'il ne vous parait plus ce que vous le pensiez ; 
+Qu'a Don Cesar de loin l'ayant trouve semblable, 
+De pres la difference a vos yeux est notable ; 
+Mais, Enrique, nier que dans ce meme lieu 			[1595]
+Vous l'ayez vu tantot... 
+ENRIQUE.
+Oui, je le nie. Adieu, 
+Vous vous divertissez. 
+DON FERNAND.
+M'abandonner, Enrique ? 
+ENRIQUE.
+Que puis-je, quand pour vous mon zele en vain s'explique ? 
+SCENE VI. Don Fernand, Isabelle, Don Cesar, Beatrix, Enrique, Carlin.
+DON CESAR, a Isabelle.
+C'est a moi de parler, soyez presente a tout. 
+Les debats seront grands, si je n'en viens a bout. 			[1600]
+DON FERNAND.
+Approchez, j'ai besoin de votre temoignage. 
+ENRIQUE.
+Et bien ? Pretendez-vous contester davantage ? 
+Voici Don Cesar. 
+DON FERNAND.
+Lui ? C'est mon fils. 
+ENRIQUE.
+Votre fils ! 
+DON FERNAND.
+Don Lope, qui vient de Goa. 
+ISABELLE.
+Beatrix.
+ENRIQUE.
+Du retour de Goa j'ignore le mystere ; 			[1605]
+Mais pour lui, j'en suis sur, Don Alonse est son pere. 
+DON FERNAND.
+Vous en etes sur ? 
+ENRIQUE.
+Oui, je ne m'abuse point. 
+C'est Don Cesar. 
+ISABELLE, bas a Beatrix.
+Serais-je heureuse jusqu'au point 
+Qu'il ne fut pas... Je n'ose en former l'esperance. 
+BEATRIX.
+Ecoutons. 
+DON CESAR.
+Il est temps de rompre le silence. 			[1610]
+Oui, Monsieur, vous voyez Don Cesar. 
+DON FERNAND.
+Justes Dieux ! 
+Don Cesar ! Mais comment n'en pas croire mes yeux ? 
+Si j'ose etre pour vous, j'entends qu'ils vous accusent ; 
+Ils me montrent Don Lope. 
+DON CESAR.
+Et ces yeux vous abusent. 
+Par des traits ressemblants, ce sont temoins surpris. 			[1615]
+ISABELLE.
+Se pourrait-il... Ah Ciel ! 
+DON FERNAND.
+Vous n'etes point mon fils ? 
+DON CESAR.
+Non. 
+ENRIQUE.
+Gomez de sa mort vous ecrit la nouvelle. 
+DON FERNAND.
+Mais vous avez tantot reconnu Sganarelle ! 
+DON CESAR.
+Je l'ai fait pour jouir quelque temps d'un faux nom, 
+Et quant au vol... 
+CARLIN.
+Monsieur, il est de ma facon. 			[1620]
+Beatrix m'a nomme Sganarelle, et pour rire 
+J'ai feint... 
+BEATRIX.
+Mais cependant le malheureux soupire ; 
+On l'entend au Caveau qui pousse les hauts cris. 
+DON CESAR.
+On l'en retirera. 
+DON FERNAND.
+Je n'ai donc plus de fils ? 
+Quand je crois le revoir, Don Lope cesse d'etre. 			[1625]
+DON CESAR.
+Oubliez-vous qu'en moi vous le voyez paraitre ? 
+DON FERNAND.
+C'est un soulagement a ma douleur bien doux ; 
+Mais ce Fourbe, a ma fille arrive pour epoux, 
+Qui se dit Don Cesar, quel est-il. 
+DON CESAR.
+Pour l'apprendre, 
+On m'a dit qu'il me cherche, il faut ici l'attendre. 			[1630]
+Soyons amis, Enrique, a l'heur ou je me vois 
+Il manque... 
+ENRIQUE.
+Don Fernand vous repondra de moi. 
+DON FERNAND.
+Plus je veux de ses traits trouver la difference, 
+Plus avecque mon fils j'y vois de ressemblance. 
+DON CESAR.
+Si vous doutez encor, je puis justifier...			[1635]
+DON FERNAND.
+Non, tout s'explique trop pour ne s'y pas fier ; 
+Et j'ai sans doute au Ciel des graces a rendre, 
+Qu'ayant a perdre un fils, quand je fais choix d'un gendre, 
+Par un enchainement de bonheurs inouis, 
+Dans ce gendre choisi je retrouve ce fils. 			[1640]
+ENRIQUE.
+Oubliez cette perte, et d'une ame contente 
+Donnez ordre a l'hymen qui charme son attente. 
+DON CESAR, a Isabelle.
+Et bien ? Pour vous, Madame, est-ce quelque douceur 
+De voir que vous cessiez sitot d'etre ma soeur, 
+Et suis-je a condamner, de vous avoir genee, 			[1645]
+Quand j'ai de Don Cesar appuye l'hymenee ? 
+ISABELLE.
+Si l'amour a sur vous un pouvoir absolu, 
+Ce que j'en ai souffert ne vous a pas deplu. 
+DON FERNAND.
+Notre fourbe parait, il faut... 
+DON CESAR.
+Laissez-moi faire. 
+SCENE VII. Don Fernand, Don Cesar, Don Pascal, Enrique, Isabelle, Beatrix, Carlin.
+DON PASCAL.
+Soyez le bien trouve, je vous cherchais, beau-frere. 			[1650]
+En deux mots comme en cent, je suis fort degoute 
+Des sots raisonnements de votre Parente. 
+L'un fait l'homme important, l'autre la delicate ; 
+Et ce vilain Monsieur, encor de fraiche date, 
+A ce qu'il m'a paru, semble n'approuver pas 			[1655]
+Que... 
+DON CESAR.
+Je viens d'apaiser tous ces petits debats. 
+Comme une longue absence efface tout, Enrique 
+A d'abord mal connu Don Cesar. 
+DON PASCAL.
+Qu'il s'explique ; 
+J'ai l'honneur place haut. Veut-il douter de moi ? 
+Que je sois Don Cesar ? 
+ENRIQUE.
+Non, c'est lui que je vois. 			[1660]
+DON PASCAL.
+Si c'est lui ? 
+ENRIQUE.
+Je me rends. 
+DON PASCAL.
+La meprise etait bonne. 
+Douter de Don Cesar ! Je le suis en personne, 
+Entre les Avalos Cesar tres signale. 
+CARLIN.
+Ah, fourbe de Cesar, vous serez regale. 
+DON FERNAND.
+Vous lui pouvez nommer vos parents de Seville,			[1665]
+Il connait tout. 
+DON PASCAL.
+Cela serait fort inutile. 
+Tant mieux s'il les connait, laissons-les en repos. 
+DON FERNAND.
+Mais... 
+DON PASCAL.
+Il n'est question ici que de trois mots. 
+Veut-on conclure ou non ? 
+DON FERNAND.
+Oui, sans plus de remise. 
+Ma fille, a Don Cesar votre main est promise, 			[1670]
+Donnez-la j'y consens. 
+DON PASCAL.
+Mais sans en rechigner ; 
+Autrement, marche nul. 
+ISABELLE.
+Non, j'y crois trop gagner, 
+Pour ne pas obeir avec toute la joie...
+DON PASCAL.
+Ah, vous entrez en gout a la fin. Si j'emploie 
+Tout mon talent de plaire, il faudra que bientot... 			[1675]
+Mais d'ou vient que ... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DON CESAR.
+Sa main m'est donnee en depot, 
+Tant que j'aie avec vous eclairci le mystere 
+D'une etroite amitie que vous me voulez taire. 
+On vient de m'assurer que Don Pascal Giron 
+N'etait qu'un avec vous. 
+DON PASCAL.
+Vous savez bien que non. 			[1680]
+DON CESAR.
+C'est un fourbe acheve, qui, quoi qu'il se deguise... 
+CARLIN.
+Ah, Don Pascal Giron, vous rendez la valise. 
+DON PASCAL, bas.
+La valise ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)A propos, j'oubliais un portrait 
+Que pour vous de mon pere un fameux peintre a fait, 
+Il faut vous le donner. Qu'on apporte ma malle. 			[1685]
+Guzman, hola, Guzman. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)BEATRIX.
+Monsieur, comme il detale. 
+DON FERNAND.
+Et vite, Beatrix, nous sommes affrontes. 
+CARLIN.
+J'ai bon pied. S'il m'echappe...
+DON FERNAND.
+Aux voleurs, arretez. 
+Coupez-lui le passage, empechez qu'il ne sorte. 
+BEATRIX.
+Sans Carlin c'etait fait, il eut gagne la porte ; 			[1690]
+Il l'a pris au collet, et le ramene ici ? 
+DON FERNAND.
+Ah, ah, mon cavalier, vous decampez ainsi ? 
+DON PASCAL.
+J'ai craint d'etre importun, mais sans tant de paroles, 
+En quoi vous suis-je utile ? 
+DON FERNAND.
+Et mes cinq cent pistoles ? 
+DON PASCAL.
+Bon. 
+DON FERNAND.
+Parlons net. 			[1695]
+DON PASCAL.
+Et bien, ca, de bonne amitie. 			[1695]
+Composons. 
+DON FERNAND.
+Composons ? 
+DON PASCAL.
+J'en rendrai la moitie ; 
+Sinon, des a present je prends la negative. 
+Faites preuve. 
+DON FERNAND.
+Comment ? 
+DON PASCAL.
+Il faut que chacun vive. 
+Je perds encor assez a n'etre point l'epoux 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)De cette belle infante ; et tout cela, pour vous. 			[1700]
+Je m'oppose a la fete a moins qu'on m'indemnise, 
+Il y va trop du mien. 
+DON CESAR.
+Il parle avec franchise ; 
+Prenons ce qu'il rendra sans contestation. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour le reste, Monsieur, je suis sa caution. 
+Il faut lui donner lieu de partager ma joie. 			[1705]
+DON PASCAL.
+Si l'on cherche un brave homme, en voici la monnaie. 
+DON FERNAND, a Don Pascal.
+Je ne vous quitte point, allons compter. 
+CARLIN.
+Et moi ? 
+DON CESAR.
+Avec cinq cents ecus Beatrix est a toi. 
+Vois si tu lui plairas. 
+CARLIN.
+Cinq cents ecus ? Ma chere, 
+Qu'est-ce ? Cinq cents ecus. 
+BEATRIX.
+C'est le moyen de plaire, 			[1710]
+Prends-les. 
+CARLIN.
+Quand nous serons maries, touche-la, 
+Nous irons, si tu veux, trafiquer a Goa. 
+
+	==================================================

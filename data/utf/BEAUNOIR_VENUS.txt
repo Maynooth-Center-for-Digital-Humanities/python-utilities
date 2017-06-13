@@ -1,0 +1,765 @@
+********************************************************
+	DC.Title                  = VENUS PELERINE,, COMEDIE
+	DC.Author                 = BEAUNOIR, Alexandre-Louis-Bertrand Robineau dit de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 02/06/2016 a 19:05:31.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/BEAUNOIR_VENUS.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+VENUS PELERINE, COMEDIE EPISODIQUEEn un Acte, et en Prose, Melee de Chants et de Danses.M. DCC. LXXVIII.
+Par M. de BEAUNOIR.
+	A AMSTERDAM, Et se trouve A PARIS, Chez CAILLEAU, Imprimeur-Libraire, rue Galande, vis-a-vis celle du Fouare.
+	
+	Representee, pour la premiere fois le 31 juillet 1779, a Paris, sur le Theatre des Grands Danseurs du Roi.
+	PREFACE.
+Cette Comedie episodique etait destinee aux Italiens : ce genre que Boissy a fait regner longtemps sur ce Theatre, plaisait beaucoup au Public, a en juger par le je ne sais quoi, la bagatelle, la frivolite, etc. Pieces qui ont eu le plus grand succes, et qui ont produit des recettes abondantes. Il faut tout dire aussi, il y avait alors des acteurs ; aujourd'hui point. Les Ariettes sont en vogue, et etouffent le germe du talent. Nous avons bien des chanteurs, mais point de comediens ; temoin le sieur Dossonville, qui chante merveilleusement , mais qui debite mal. Je reviens a Venus Pelerine, qui fut entre les mains du Comite pres de quinze jours. J'attendais une lecture, lorsque je recus cette lettre honnete et polie.
+MONSIEUR,
+Je suis charge par les Comediens, de vous temoigner toute leur reconnaissance de votre bonne volonte a leur egard, et de vous en remercier : agreez votre piece, dont ils ne peuvent faire usage.
+J'ai l'honneur d'etre, etc.
+Signe, Anseaume.
+Je l'ai transcrite pour cause. On me taxe d'etre l'ennemi jure de la race Histrione. Il est vrai que je deteste les mauvais acteurs ; mais j'estime le talent : ma Correspondance Dramatique*, en fait foi. Je n'approuverai jamais que les Comediens exercent un empire insolent, un despotisme injurieux sur les Gens de Lettres : a ce sujet je pris la liberte d'ecrire au Magistrat....
+Comme c'etait l'interet de l'Art qui me guidait, ce prononce engagea le Magistrat ( malgre le refus des sieurs de Hesse et Preville ) a donner des ordres pour faire jouer VENUS PELERINE. A l'egard de la mienne, j'ai pense que n'excitant point assez le gros rire, le rire du peuple qui compose ordinairement les chambrees des Spectacles de nos remparts, je ne devais point y risquer une representation. De plus, quelques personnes distinguees ont pretendu que ma Comedie n'etait faite que pour etre sentie et jugee par le petit nombre : elles ont voulu aussi me persuader qu'elle etait bien ecrite, et vivement dialoguee : la lecture en decidera.
+Il est vrai qu'on ne trouvera point dans mes pieces qui forment le Theatre de Famille, ce que les Anciens appelaient vis comica ; mais on y verra cette grande simplicite d'action, dont les Maitres de l'Art nous ont tant enseigne les principes, et dont les Grecs ont si bien donne l'exemple. J'ajouterai que le Theatre Francois n'a point dedaigne le genre episodique : nous y avons des Farces et des Comedies excellentes ; savoir, ESOPE A LA COUR, ESOPE A LA VILLE. A ce sujet, des amis peu difficiles m'ont blame de n'avoir point presente VENUS PELERINE, a ces Messieurs et a ces Dames qui viennent de jouer L'AVEUGLE PAR CREDULITE, vraie Parade, dit-on.
+Il ne me reste plus a dire que mon sujet est pris de ma Chanson, gravee et burinee de cinq ou six facons differentes. Or voici, comme je l'avoue :
+Venus apprenant que l'Amour
+Chez les humains portait besace,
+De crainte d'en perdre la trace,
+Quitta l'Olimpe et sa Cour :
+Sur terre en habit de mortelle,
+Cherchant son fils, avec Momus :
+Sous une coiffe, Venus, ( bis )
+N'en etait que plus belle.
+Ne sachant point dans quel climat, 
+Elle se transporte en Turquie ; 
+Mais sa douleur fut infinie 
+Lorsqu'on lui dit sans format
+« On ne connait dans notre Histoire.
+Ce Dieu tout au plus que de nom ; 
+Mais entrez dans la maison (bis)
+Nous en ferons memoire.»
+Notre Quereuse a l'?il fripon.
+S'en va chez l'autre Monastere
+Demander l'Enfant de Cythere.
+Un Calender** lui repond :
+« Ma s?ur, vous etes bien novice,
+De chercher l'amour en ces lieux :
+Nous n'eprouvons que ses feux ; (bis)
+Fort a votre service.
+Cypris parcourut a loisir »
+Les cellules les plus secretes :
+Dans certain couvent de Coquettes
+On lui conte avec plaisir :
+« L'aimable Dieu de la tendresse
+Que depuis longtemps vous cherchez,
+Sans doute pour nos peches
+Ne va que chez Lucrece. »
+Elle y vole du meme pas :
+Mais ses recherches furent vaines ;
+Car les plus agreables chaines
+Pour ce Dieu n'ont point d'appas.
+Lasse d'un aussi long voyage,
+Venus retournait dans sa Cour,
+Quand on lui dit que l'Amour
+N'habitait qu'au Village.***
+Je ne renonce point aux honneurs de la representation. ( Je compare une Piece, non jouee, a une jolie femme sans toilette ). Si donc le nouveau Theatre est au dessus des deux existants, si leurs sujets de l'un et de l'autre sexe sont meilleurs, si le Gouvernement permets la sollicitation des Gens de Lettres, de representer les petites Pieces que les Francois et Italiens refusent tous les jours ; je consens des lors a faire jouer la mienne sur ce theatre intermediaire. En effet, les Comediens ne trouvent point telle piece digne d'etre jouee sur leur theatre : Pourquoi en priver le Public ? Leur refus est une permission tacite du laissez-passer. Heureux ! Si nous pouvons la-dessus persuader le Gouvernement, et rengager a ne plus mettre d'entraves au genie dramatique, dont les productions ont si fort contribue a la gloire du siecle de Louis XIV. Peut-etre meme serait-il necessaire que les Auteurs de nos jours s'essayassent d'abord sur les petits Theatres, avant de paraitre sur celui de la Nation. Ces Messieurs connaitraient leurs forces et leur savoir faire ; ils ne donneraient plus au Public des Tragedies et des Comedies en cinq actes, qui tombent en un jour. O mes Concitoyens ! Ne vous ressouvient-il plus que Le Sage et Piron ont travaille pour la Foire. Sans ces coups d'essai, auriez-vous eu TURCARET et LA METROMANIE. Mais, sans y penser, je fais une dissertation : je finis donc en disant, qu'il m'eut ete facile de donner deux actes a cette Comedie episodique, avec d'autres scenes a tiroir, que j'ai dans mon porte-feuille. Mais comme a prononce Boileau :
+« Qui ne sait se borner, ne sut jamais ecrire.»
+Elle est suivie d'un divertissement, intitule L'Amour au Village : dont voici le sujet.
+Ennuye du ton de la Cour,
+Etourdi du bruit de la Ville,
+Enfin, devenu plus tranquille,
+Le Dieu que l'on nomme Amour,
+Quittant son pompeux etalage,
+Sans caprice et sans passion,
+Prit la resolution, (bis)
+D'habiter au Village.
+Ce fut dans un bois ecarte 
+Qu'il termina sa longue traite : 
+Content de sa belle retraite, 
+Il chantait avec gaite : 
+« Sans etre pour cela sauvage,
+Ni renoncer a tous desirs,
+Je goute de vrais plaisirs (bis)
+D'habiter au Village.
+Mille objets ravissants et beaux
+Viennent frapper ma faible vue : 
+Colette simple, Lise ingenue,
+ Courant apres leurs agneaux ; 
+Pour les enfermer dans sa cage, 
+Egle qui decouvre des nids : 
+Je vois les jeux et les ris (bis)
+Habiter au Village.
+Le repas de ces bonnes gens
+Sans aucun appret magnifique, 
+Simple, frugal et stomachique,
+M'offre des mets succulents ; »
+Dans leur danse ils font du tapage, » 
+L'esprit content, le c?ur joyeux, 
+L'Amour dit qu'il est heureux, (bis)
+D'habiter au Village.
+* Deux volumes in-8°. prix 6 liv. chez Desventes , Ruault, et Cailleau, Libraires.
+** Moine Mahometan.
+*** Les sieurs Tessier et Abraham, Directeurs.
+
+ACTEURS
+VENUS.
+MOMUS.
+L'AMOUR.
+LES TROIS GRACES.
+CALENDER DE LA SECTE D'OMAR.
+CALENDER DE LA SECTE D'HALI.
+UN VOLUPTUEUX.
+UNE JEUNE FILLE.
+UN DRAMATURGE.
+UN SAUVAGE.
+UN OFFICIER FRANCAIS.
+ARLEQUIN, Valet de Momus.
+La Scene est a Constantinople.
+
+
+
+			
+
+
+SCENE PREMIERE. Venus, Momus.
+MOMUS.
+Belle Venus, la chose est donc bien veritable ?
+VENUS.
+Helas ! Que trop veritable.
+MOMUS.
+Dans ce bas univers votre fils porte la besace ?
+VENUS.
+Porte la besace.
+MOMUS.
+L'idee est singuliere, et l'accoutrement peu noble.
+VENUS.
+Ajoutez, Seigneur Momus, ridicule, et indigne de l'Amour.
+MOMUS.
+Pas tout-a-fait.
+VENUS.
+Quoi ! Se travestir en gueux, la besace sur le dos et le baton blanc a la main ? Ce fait est digne de mon fils.
+MOMUS.
+Sans doute. Le Destin l'a fait naitre pour jouer differents roles, riche ou pauvre, berger et Roi.
+VENUS.
+A la bonne heure. Mais s'etablir sur les Boulevards, et par-la s'exposer a la risee du peuple !
+MOMUS.
+Vous pouviez bien dire de la canaille.
+VENUS.
+De la canaille : soit. Ne disputons point sur les mots.
+MOMUS.
+Non ; car nous aurions trop a faire : n'est-ce pas ?
+VENUS.
+Je suis accoutume a vos traits de satire.
+MOMUS.
+D'accord. Mais raisonnons. Quel est votre dessein en quittant l'Olympe ?
+VENUS.
+Le voici. Je viens sur la terre chercher mon fils, et le faire rougir de l'etat honteux qu'il a pris.
+MOMUS.
+C'est fort bien fait a vous, charmante Venus.
+VENUS.
+Quand une fois je l'aurai trouve, je le corrigerai de la bonne maniere.
+MOMUS.
+A merveille : mais vous, o rigide Deesse, n'avez-vous pas descendu sur la terre pour converser, soit le jour et la nuit, la nuit ou le jour, et peut-etre toutes deux ensemble, pour converser, dis-je, avec le charmant et bel Adonis ?
+VENUS.
+Point du tout, Seigneur Momus, ce sont les poetes qui m'ont prete cette faiblesse-la. Moi, un amant ? Je suis mariee.
+MOMUS.
+Et c'est justement pour cela : votre cher epoux, le Seigneur Vulcain, n'est pas trop beau, quoique, Dieu : ainsi le mortel a eu la preference.
+VENUS.
+Qui vous l'a dit, caustique Momus ? Y etiez-vous?
+MOMUS.
+Oh ! Non assurement. Mais encore, sans parler de vos amours avec le Dieu des Guerriers...
+VENUS.
+Laissons tout cela.
+MOMUS.
+Je le veux bien. Oui, changeons de discours.
+VENUS, se mirant.
+Comment me trouvez vous ?
+MOMUS.
+Moi, a merveille !
+VENUS.
+Ce deguisement me sied-il bien ?
+MOMUS.
+On ne peut mieux. Vous etes radieuse, quoique mise bien simplement.
+VENUS, se mirant.
+Est-ce galanterie, ou bien raillerie ?
+MOMUS.
+Ni l'un ni l'autre, je vous assure.
+VENUS.
+A propos, ce voile ?
+MOMUS, lui baisant la main.
+Sous ce voile Venus n'en est que plus belle.
+VENUS, riant.
+Ah ! Ah ! Ah! Seigneur Momus, vous donnez dans la fadeur ?
+MOMUS.
+Moi, Deesse, point du tout : je rends justice a vos charmes.
+VENUS.
+Laissez-la mes charmes, et occupez vous de ma peine. Instruisez-moi des coutumes de ce pays-ci. Ou sommes-nous d'abord ?
+MOMUS.
+Vous etes a Constantinople, capitale de la Turquie.
+VENUS.
+Quelle est cette place ? Quelles sont ces deux maisons ?
+MOMUS.
+Celle-ci, qui est a droite, est une maison de Calender de la Secte d'Omar.
+VENUS.
+Quels font ces animaux-la ?
+MOMUS.
+Ces animaux-la, pour me servir de votre expression, belle Venus, sont des hommes faineants mais pieux, qui ne travaillent point, et qui neanmoins gagnent beaucoup.
+VENUS.
+Cette vie inutile n'est point du tout ordonnee par le grand Jupiter.
+MOMUS.
+Non ; les Dieux ne l'approuvent point : mais les mortels souvent font penser la Divinite a leur maniere.
+VENUS.
+C'est une des faibleses humaines. Et cette autre maison ?
+MOMUS.
+Ce sont encore des Calenders d'une autre espece, d'une autre conduite, d'un autre uniforme, mais toujours du meme ordre.
+VENUS.
+Ils ne different peut-etre que du blanc au noir.
+MOMUS.
+Vous l'avez devine : ces derniers font de la Secte d'Hali.
+VENUS.
+Je vous remercie, Seigneur Momus ; me voila un peu au fait. Je vais voir si mon fils n'est point dans ces retraites.
+MOMUS.
+Quelle idee ! Pourquoi ne point vous transporter dans le Serail du Grand Seigneur ?
+VENUS.
+Y pensez-vous, Momus ? L'Amour est-il jamais dans ce lieu la ?
+MOMUS.
+Vous avez raison, vous le trouverez plutot chez le Grand Muphti.
+VENUS.
+Vous devinez cette fois : laissez-moi seule, et ne vous eloignez pas.
+MOMUS.
+Je vais faire ma ronde chez les auteurs, et peut-etre irai-je aux spectacles.
+SCENE II. Venus, Un Calender Noir.
+VENUS, a part.
+Bon, le Ciel me favorise : voici un Calender qui sort de sa retraite.
+LE CALENDRER, a part.
+Allons a la quete, je pense qu'aujourd'hui elle sera bonne.
+VENUS, a part.
+Je tremble... Tout coup vaille... Abordons-le.
+LE CALENDER.
+L'heureuse vie ! Point de peine ; aucun travail.
+VENUS, poliment.
+Monsieur, sans vous interrompre, pourrais-je vous demander...
+LE CALENDER, brusquement.
+Me demander, Madame ? Dites donc me prier.
+VENUS.
+Soit, Monsieur, vous prier.
+LE CALENDER.
+Une reflexion encore : changez le nom de Monsieur en Monseigneur.
+VENUS, salue.
+Volontiers , Monseigneur. Oserais-je donc vous prier, Monseigneur ?
+LE CALENDER.
+Bon, voila comme on parle a des personnes de notre etat.
+VENUS, salue.
+Je l'ignorais, Monseigneur.
+LE CALENDER.
+Les petits et les grands flechissent le genou devant mes confreres.
+VENUS, salue.
+Je vous crois , Monseigneur.
+LE CALENDER.
+Il parait, jeune Pelerine, que vous n'etes point de ce pays.
+VENUS, salue.
+Vous l'avez dit, Monseigneur.
+LE CALENDER.
+Vous n'etes pas oblige de savoir nos usages, nos coutumes : mais qui etes-vous ?
+VENUS, salue.
+Helas ! Monseigneur, je suis une pauvre femme.
+LE CALENDER.
+Joignez-vous a moi, et vous deviendrez riche.
+VENUS.
+De plus, je fuis une m7re affligee qui a perdu son fils, et son fils unique.
+LE CALENDER.
+N'importe, vous etes en age d'une heureuse fecondite.
+VENUS.
+Oui, encore, Monseigneur : je le crois, du moins...
+LE CALENDER.
+Enfin, finisions ; que cherchez vous ?
+VENUS.
+Je vous l'ai deja dit, Monseigneur, je cherche mon fils.
+LE CALENDER.
+Votre fils ! Eh ! Comment est-il ? Comment s'appelle-t-il ?
+VENUS, salue.
+L'Amour.
+LE CALENDER, surpris.
+L'Amour ?
+VENUS.
+Oui, Monseigneur, l'Amour.
+LE CALENDER.
+« On ne connait dans notre hospice ce petit Dieu tout au plus que de nom. »
+VENUS, salue.
+Je ne le savais pas, Monseigneur.
+LE CALENDER.
+Mais si vous voulez, gentille Pelerine, entrer dans la maison, mes confr7res et moi ensemble nous en serons memoire.
+VENUS.
+Cela m'est impossible pour le present.
+LE CALENDER.
+Eh bien ! Remettons cet office mysterieux a tantot : aussi bien je n'ai pas ce loisir : il faut que j'aille a la quete.
+VENUS.
+Comment ? Le monde vous donne ce que vous demandez ainsi ?
+LE CALENDER.
+Bien plus encore : les personnes nous rapportent : nous paraissons ; on vient au devant de nous, et on nous comble de presents.
+VENUS.
+Eh ! Par quelle puissance, par quel pouvoir ?
+LE CALENDER.
+Par le pouvoir, par la puissance de notre robe seule.
+VENUS, salue.
+Je ne le savais pas, Monseigneur.
+LE CALENDER.
+Je ne fais que sonner ; les hommes et les femmes se rendent au son de ma clochette, et m'apportent ce que je desire, quelquefois au dela.
+VENUS, au Parterre.
+Il n'est pas surprenant apres tout, si on considere qu'il y a plus de sots que de gens d'esprit.
+LE CALENDER, bas.
+Nous faisons bien des dupes, je m'en vante.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Sans adieu, Pelerine.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III. Venus, Un Calender.
+VENUS, seule.
+Je crains que ma recherche ne soit vaine ; neanmoins essayons de frapper a l'autre porte.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE CALENDER, du dedans.
+Qui va la ? Qui va la ?
+VENUS.
+Une pauvre femme, une mere affligee qui cherche son fils, et son fils unique.
+LE CALENDER, du dedans.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voyons. Ouf... Quel minois friand ! Quelle bouche appetissante ! Quelles vives prunelles !
+VENUS, salue.
+Monsieur, ou Monseigneur.
+LE CALENDER, lui prenant la main.
+Le nom de Monsieur me suffit ; je ne suis point glorieux.
+VENUS.
+Soit, Monsieur. N'est-il point entre chez vous, Monsieur, un jeune enfant ?
+LE CALENDER, lui baisant la main.
+Oui, belle Pelerine, oui. Un jeune homme assez grand est venu hier se rendre a la maison pour se faire de notre etat.
+VENUS.
+Ce n'est pas lui, Monsieur ; mon fils est petit.
+LE CALENDER, chaudement.
+J'en suis fache, car je me sens actif a vous obliger.
+VENUS.
+Oh ! Vous obligeriez un[e] ingrate.
+LE CALENDER.
+N'importe : mais comment nommez-vous Monsieur votre fils ?
+VENUS.
+L'Amour.
+LE CALENDER, chaudement.
+L'Amour ! L'Amour qui regne a Cythere ?
+VENUS.
+Oui, lui-meme, le Dieu de Cythere.
+LE CALENDER, avec feu.
+Vous etes donc Venus.
+VENUS.
+Oui, a peu pres.
+LE CALENDER.
+Eh bien, Madame Venus, vous etes bien novice de chercher votre fils en ces lieux.
+VENUS.
+Eh, pourquoi cela, je vous prie ?
+LE CALENDER, avec feu.
+Pourquoi ? Parce que nous ne ressentons, mes confreres et moi, de l'amour, que les flammes qui nous brulent, nous consument, en un mot qui..... qui sont fort a votre service.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)VENUS.
+Doucement, doucement : ne vous echauffez pas sous votre casaque.
+LE CALENDER, fortement.
+Vous etes bien froide, Madame : non , vous n'etes pas Venus, la Deesse de Paphos et d'Amathonte : il faut que vous soyez une fausse Venus.
+VENUS.
+Fausse ou veritable ; vous n'etes point mon fait.
+LE CALENDER, avec feu.
+Un petit baiser seulement sur vos levres de corail, soleil de mes jours ! Astre de lumiere en merveilles si feconde.
+VENUS, le repousse.
+Allons, rentrez a la maison, ou je porterai mes plaintes a votre	Superieur.
+LE CALENDER, avec colere.
+O c?ur de diamants ! O rosier garni d'epines fans fleurs ! Fille indigne de Mahomet ! Le Prophete te rejettera.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV. Venus, Une jeune fille.
+VENUS, seule.
+Que je fuis malheureuse ! O mere infortunee ! Le Destin doit-il t'etre toujours contraire.
+LA JEUNE FILLE, entre en sautant.
+Malgre les remontrances de ma Maitresse je veux connaitre l'Amour.
+VENUS.
+L'Amour ! Qui parle la de mon fils ?
+LA JEUNE FILLE, a part.
+L'Amour est, dit-on, un Dieu charmant, et ma Maitresse ose me dire qu'il est un monstre.
+VENUS.
+Vous souhaitez, la belle enfant, connaitre l'Amour ?
+LA JEUNE FILLE.
+Oui, Madame, c'est toute mon envie.
+VENUS.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'aimable enfant ; elle m'interesse.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Repondez : quel est l'Amour ?
+LA JEUNE FILLE.
+Je n'en sais rien ; tout ce que je sais , c'est que je l'aimerai beaucoup.
+VENUS.
+Voyez-vous ? La petite masque !
+LA JEUNE FILLE.
+On dit comme ca que l'Amour est le maitre de tout le monde ; pour moi je serai charmee d'etre son ecoliere.
+VENUS.
+Mais s'il allait vous donner le fouet ?
+LA JEUNE FILLE.
+Oh que non ! Madame ; l'Amour ne donne point le fouet ; il n'a ni verges, ni martinet : au contraire, on dit que ce Dieu ne donne que des sucreries et des bonbons, surtout aux jeunes filles.
+VENUS.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Elle n'est pas mal instruite pour son age... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'avez-vous vu ?
+LA JEUNE FILLE.
+Jamais ma Maitresse ne l'a voulu souffrir.
+VENUS.
+Comment ? Il est donc venu ici ?
+LA JEUNE FILLE.
+Apparemment ; ces jours derniers il y etait encore.
+VENUS.
+Je suis bien malheureuse de n'etre point arrivee plutot.
+LA JEUNE FILLE.
+Pourquoi, Madame ?
+VENUS.
+Parce que je l'aurais trouve.
+LA JEUNE FILLE.
+Par hasard, Madame, est-ce que vous cherchez aussi l'Amour ?
+VENUS.
+Sans doute, ma belle enfant.
+LA JEUNE FILLE.
+Oh bien ! Vous pourrez le trouver chez notre Maitresse, car elle l'a toujours detenu bien enferme, et mis les deux verrous meme.
+VENUS.
+Or sus, ma chere enfant, daignez me conduire dans votre maison.
+LA JEUNE FILLE.
+Avec grand plaisir, Madame.
+VENUS.
+Et enseignez moi l'appartement de votre Maitresse.
+LA JEUNE FILLE.
+Volontiers, volontiers. Suivez-moi, Madame.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. Momus, Un Voluptueux.
+MOMUS.
+A juger par vos propos, Monsieur, vous me paraissez un peu sensuel.
+LE VOLUPTUEUX.
+Un peu, Cadedis, vous pouvez dire beaucoup.
+MOMUS.
+Beaucoup, soit ; mais vous ne devriez pas vous en vanter.
+LE VOLUPTUEUX.
+Pourquoi pas, Seigneur Momus ? Je vis avec mes sens, parce qu'ils me sont plus chers, parce qu'ils sont plus pres de moi que tous ces sentiments romanesques.
+MOMUS.
+Vous traitez cela de sentiments romanesques.
+LE VOLUPTUEUX.
+Sans doute ; et je ne vis point de Romans. Moi, je suis la bonne et fimple nature ; j'obeis toujours a son instinct ; je me regarde cornme le benjamin de la terre ; j'en pompe les sucs jusques au moment du sommeil.
+MOMUS.
+Vous n'avez pas tort tout-a-fait.
+LE VOLUPTUEUX.
+Par ce moyen je jouis de tout ce que je desire ; et je ne desire rien non plus dont la possession ne soit en mon pouvoir.
+MOMUS.
+A merveille.
+LE VOLUPTUEUX.
+'J'ai tres peu de peine et de chagrin, parce que j'en eloigne jusqu'a l'ombre : content de profiter du present, je n'espere rien de l'avenir, afin de n'etre point trompe.
+MOMUS.
+Encore mieux.
+LE VOLUPTUEUX.
+Quand il me viendra quelques maux, je les endurerai avec patience et courage, parce que je me dirai a moi-meme : ce sont-la les seuls moyens d'alleger les douleurs.
+MOMUS.
+C'est fort bien penser.
+LE VOLUPTUEUX.
+Voila sur quoi roule tout le systeme de ma vie ; elle n'est point melancolique comme celle de ces pretendus Sages, qui font presque de l'ennui une vertu meritoire.
+MOMUS.
+Eh quoi ! Monsieur, vous faites un merite de suivre le culte de la volupte ? On doit vous savoir gre, en effet, des efforts que vous coute un tel hommage : pretendez-vous aussi etre recommandable par les plaisirs que vous vous procurez tous les jours ?
+LE VOLUPTUEUX.
+Belle demande ! Plaisante question ! Apparemment.
+MOMUS.
+C'est-a-dire qu'on doit vous respecter a raison des fruits delicieux que vous savourez, du bon vin que vous buvez, de la chere delicate que vous mangez.
+LE VOLUPTUEUX.
+Sandis ! Ne croyez point plaisanter, Seigneur Momus : il n'appartient pas a tout le monde de savoir etre voluptueux.
+MOMUS, rit.
+Un Gascon, voluptueux ! Ah ! Ah ! Ah ! Ah !
+LE VOLUPTUEUX.
+C'est une maniere d'etre qui ne convient qu'au petit nombre.
+MOMUS, avec ironie.
+Qu'au petit nombre : croyez-vous ca ?
+LE VOLUPTUEUX.
+Si peu d'hommes sont dignes de sacrifier au plaisir.
+MOMUS.
+Cette Divinite vous inspire sans doute les principes sur lesquels vous fondez toute votre conduite ; elle vous donne la boussole des bonnes m?urs : nourrit en vous cette vertu qui honore l'humanite.
+LE VOLUPTUEUX.
+L'humanite, la vertu, les bonnes m?urs, quel galimatias !
+MOMUS.
+Sans doute, elle eleve, elle perfectionne votre ame ; elle lui decouvre d'importantes et sublimes verites.
+SCENE VI. Momus, Le Dramaturge, en habit noir et blanc.
+MOMUS, seul.
+Les mortels ne doivent point se plaindre des maux qui les affligent : ils se procurent eux-memes les douleurs qui les tourmentent.
+LE DRAMATURGE.
+Ah ! Seigneur Momus, ayez pitie de mot et de mes Drames.
+MOMUS.
+De vous et de vos Drames, volontiers.
+LE DRAMATURGE.
+Ces productions merveilleuses, ces enfants de mon genie, en un mot mes Drames sombres etaient joues avec succes en Province.
+MOMUS.
+D'ou vient n'avoir point donne la preference a la Capitale ?...
+LE DRAMATURGE, declame.
+Pour deux raisons. La premiere, les Comediens ne s'en sont point soucies. La seconde , le mauvais gout des Constantinopolins, ce faux gout pour les chef-d'?uvres de nos anciens Tragiques, malgre nos grands principes en faveur du nouveau genre, de ce genre sublime...
+MOMUS.
+Quel est ce genre nouveau, ce genre sublime ?
+LE DRAMATURGE, pompeusement. 
+Le genre des Drames sombres.
+MOMUS.
+Il n'est point du gout de tout le monde.
+LE DRAMATURGE. 
+Ne fait pas des Drames qui veut !
+MOMUS.
+Bon ! Ils font au rabais.
+LE DRAMATURGE. 
+De plus, j'avoue, je pretends et je soutiens que la Tragedie doit etre ecrite en prose.
+MOMUS.
+En prose ? Une Tragedie en prose ?
+LE DRAMATURGE, avec emphase.
+Sans doute. Pourquoi pas ? Les Empereurs et les Rois parlent-ils plus en vers dans leurs palais, que les Bourgeois dans leurs maisons, et les Artisans dans leurs boutiques.
+MOMUS.
+Il est vrai, Monsieur, vous avez quelque raison en ce point.
+LE DRAMATURGE.
+Ce principe etabli, il est donc convenable de ne point faire parler en vers des personnes qui n'y parent jamais : j'ajouterai meme qu'il est indecent...
+MOMUS.
+Tout beau, Monsieur, tout beau : l'usage ou nous sommes : le precepte et la maniere des Anciens.
+LE DRAMATURGE.
+Les Anciens n'etaient que de pauvres genies la-dessus, et je pretends en desabuser mon siecle. Voici a ce sujet une dissertation, sur la Tragedie moderne.
+MOMUS, l'examine .
+L'exemplaire est frais ; les feuilles font encore humides.
+LE DRAMATURGE.
+Cela sort dessous presse ; c'est nouvellement imprime ; vous y lirez que les vers font inutiles a la Tragedie, et que la prose seule lui convient.
+MOMUS.
+A la bonne heure. La prose convient egalement a la Comedie ; mais dans la Tragedie il y faut des vers : mais vous n'aimez pas les vers.
+LE DRAMATURGE.
+Je les hais a tel point, Seigneur Momus , que je me fais appeler depuis longues annees, Monsieur de Prousas ; c'est mon nom favori.
+MOMUS.
+A vous permis, Monsieur de Prousas. Prousas ! Le beau nom de famille !... Dans quel cas Monsieur de Prousas, admettez-vous les vers ?
+LE DRAMATURGE.
+Pour que je les admisse, il faudrait d'abord qu'ils se rapprochassent de la prose.
+MOMUS.
+En ce cas, Monsieur de Prousas, tous les Poetes de Constantinople sont vos amis, car leurs vers ne different aucunement de la prose.
+LE DRAMATURGE.
+Point d'epigramme, Seigneur Momus, point d'epigramme : je m'explique ; c'est-a-dire, que les vers fussent doux, simples, faciles et naturels.
+MOMUS.
+J'entends : comme ceux de Racinios, par exemple, et de nos jours ceux de Volterios.
+LE DRAMATURGE.
+Ces deux celebres Poetes tragiques se sont donne beaucoup de peine, a mon avis, pour n'operer que ce que la prose aurait fait tout aussi bien et peut-etre mieux.
+MOMUS.
+Je ne conviendrai pas de ce point, Monsieur de Prousas.
+LE DRAMATURGE.
+Tout comme vous voudrez : mais je ne changerai jamais de sentiment.
+MOMUS.
+Eh quoi ! Monsieur de Prousas, malgre votre nom si je vous faisais voir clair comme le jour !
+LE DRAMATURGE.
+Oui, clair comme le jour ! Dites plutot clair comme la bouteille a l'encre.
+MOMUS.
+En matiere de l'art tragique, vous etes un heresiarque.
+LE DRAMATURGE.
+Point du tout : je vous fais juge, Seigneur Momus : n'y a-t-il point de la bizarrerie a parler en vers devant la populace, comme dans une assemblee de Gens de Lettres : repondez a cet argument ?
+MOMUS.
+C'est un sophisme, et des plus forts ; car il faudrait, d'apres votre raisonnement, parler le meme langage de la populace.
+LE DRAMATURGE.
+Oui, a peu pres, mais un langage epure.
+MOMUS.
+La scene du monde et celle du Theatre sont bien differentes : d'ailleurs le Parterre est tres instruit, et les meilleurs juges quelquefois y resident.... Serviteur.
+LE DRAMATURGE.
+Ah ! Seigneur Momus, ne m'abandonnez point, ni mes Drames sombres.
+MOMUS.
+Vous me faites pitie par vos blasphemes dramatiques.
+LE DRAMATURGE.
+Oh ! Je suivrai toujours vos pas.
+MOMUS, le reveillant.
+Arlequin, songez a bien recevoir les personnes qui se presenteront ici.
+ARLEQUIN, criant.
+Oui, Monsieur.
+SCENE VII. Un Sauvage, Arlequin.
+ARLEQUIN, seul.
+Mais ! Je represente donc mon Maitre ? Je joue ici le role du Seigneur Momus... Donnons6nous un air d importance...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quel est ce nouveau personnage-la ? Je l'ignore. En verite, une massue a la main. Ouf ! Il s'avance, Sangodemini, je tremble.
+LE SAUVAGE, au parterre.
+Que n'ai-je toujours eu commerce avec les habitants des forets!
+ARLEQUIN, au Parterre.
+Sans doute c'est un chasseur ; en tout cas il est bien crasseux.
+LE SAUVAGE.
+Avec leur rustique franchise, je jouirais de leur bonheur.
+ARLEQUIN.
+Quel bonheur ! Manger de l'herbe comme des lapins, et boire de l'eau comme des grenouilles, sans macaronis encore !
+LE SAUVAGE, declame.
+O homme ! Quelque soit ton rang, ton pays, tes m?urs, si tu n'es sauvage, ecoute et reforme-toi.
+ARLEQUIN, lazzis.
+Ah ! C'est un sauvage ; ecoutons et formons-nous.
+LE SAUVAGE.
+Le premier qui se fit des habits, se donna en cela des choses peu necessaires.
+ARLEQUIN.
+Il me semble cependant que mon habit me sert bien a couvrir ma nudite, et que lorsqu'il fait froid un bon manteau sur les epaules et un bonnet fourre sur la tete, me font choses necessaires.
+LE SAUVAGE, declame.
+Le premier qui se batit une maison fit tres mal.
+ARLEQUIN.
+Et moi j'ose dire, Monsieur Sauvaget, qu'il fit tres bien ; car, ou se mettre a l'abri quand il pleut ?
+LE SAUVAGE.
+Sous des arbres.
+ARLEQUIN, lazzis.
+Sous des arbres ! Hai, hai , hai.
+LE SAUVAGE, declame.
+« Le premier qui inventa les sabots devait etre puni comme l'auteur du luxe et corrupteur de la societe. »
+ARLEQUIN.
+Un moment, Monsieur Sabot, si je marchais sans souliers, je me piquerais la plante des pieds avec une epine ou un morceau de verre.
+LE SAUVAGE.
+« ... Plus on y reflechit, plus on trouve que l'etat de nature est le moins sujet aux revolutions, le meilleur a l'homme.» 
+ARLEQUIN, lazzis.
+Et a la femme.
+LE SAUVAGE.
+« L'exemple des Sauvages, qu'on a presque tous trouves a ce point, semble confirmer que le genre humain etait fait pour y demeurer toujours. »
+ARLEQUIN, lazzis.
+Toujours et jamais, jamais et toujours, c'est clair , c'est clair. Apres.
+LE SAUVAGE.
+« Que cet etat est la veritable jeunesse du monde, et que tous les progres ulterieurs ont ete en apparence autant de pas vers la perfection de l'individu, mais, en effet, vers la decrepitude de l'espece.»
+ARLEQUIN.
+Monsieur le decrepit de l'espece, dans tous ses discours je n'y vois pas de macaronis.
+LE SAUVAGE, declame.
+« Non, encore une fois, ce n'est point l'etat originel de l'homme, c'est le seul esprit de la societe qui change et altere ainsi nos inclinations naturelles. »
+ARLEQUIN.
+Mes inclinations naturelles a moi, c'est de boire et de manger.
+LE SAUVAGE.
+Boire et manger seulement, dis-tu ?
+ARLEQUIN.
+Oui, je le dis, parce que c'est vrai. Il m'arrive quelquefois de dormir apres.
+LE SAUVAGE.
+Dormir apres ! L'homme heureux ! Tu ne medites jamais ?
+ARLEQUIN, lazzis.
+Medites ! Je ne connais point cet animal-la.
+LE SAUVAGE.
+Mediter, c'est faire des reflexions.
+ARLEQUIN.
+Je n'en fais point faire, Monsieur Sauvage ; mon ch'pere ne m'a point appris ce metier-la.
+LE SAUVAGE.
+O homme digne des premiers siecles ! Digne d'habiter les bois !
+ARLEQUIN, criant.
+Ahi ! Ahi ! Ahi ! vous m'allez etouffer. Nenni, nenni, j'ai peur des loups.
+LE SAUVAGE.
+Apprends de moi que « l'etat de reflexion est un etat contre nature et que l'homme qui medite est un animal deprave. »
+ARLEQUIN.
+Animal, animal toi-meme. Je ne suis point animal, ni Annibal ; je suis Arlequin.
+LE SAUVAGE.
+Quoi ! Tu ne fais pas que l'homme est un animal plus feroce, plus vorace, plus carnassier, que les loups , les lions et les tigres ?
+ARLEQUIN, lazzis.
+Ah ! Ah ! Ah ! Vous avez bon air, bon air vous avez tout-a-fait.
+LE SAUVAGE.
+Il me siffle ; tant mieux, je n'en fuis que plus content de moi-meme, et d'ailleurs ma propre estime me suffit.
+ARLEQUIN.
+Monsieur Sauvaget, vous raisonnez comme un ange...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cornu...
+LE SAUVAGE.
+Continue ! C'est une occupation qui t'empeche de plus mal faire, et puisqu'il est ainsi, je viendrai te haranguer tous les jours.
+ARLEQUIN.
+Sans doute ; comme dit la Chanson, pour une fois, ce n'est pas la peine, pour une fois, c'est trop bourgeois.
+LE SAUVAGE, declame.
+Que n'ai-je que l'instinct !... « Dieux! que sont devenus ces toits couverts de chaumes qu'habitaient jadis la moderation et la vertu ? »
+ARLEQUIN.
+Ma foi je n'en fais rien, et je ne les ai point pris ; fouillez-moi plutot.
+LE SAUVAGE.
+» Quel[le] splendeur funeste a succede a la simplicite de nos aieux ! Quoi ? Vous ne renversez pas ces edifices ? Quoi ! Vous ne brulez pas ces tableaux ? Quoi ! Vous ne brisez point ces statue...» 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Adieu, Monsieur Cataquoi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si nous etions a Paris, je croirais que Monsieur Sauvaget est un echappe des Petites-Maisons ; mais retirons-nous pour faire place aux Calenders qui reviennent de la mosquee.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Venus, Un Officier.
+VENUS.
+Vous avez bien l'air d'un petit-maitre, d'un officier francais.
+L'OFFICIER.
+Aussi le suis-je : j'ai voulu porter mes conquetes jusqu'a Constantinople.
+VENUS.
+N'avez-vous pas envie d'enlever la Sultane favorite ?
+L'OFFICIER.
+Pourquoi pas ?... Mais pour revenir a ce que nous disions, vous avez de l'esprit, mais vous raisonnez faussement.
+VENUS, riant.
+Voila une galanterie a la Turque.
+L'OFFICIER.
+D'accord, votre esprit subtil et faux batit un edifice ou il se plait a habiter seul : vous vous enfoncez dans des reves fantastiques, qui vous abusent et vous derobent le veritable etat du beau monde.
+VENUS.
+Je le connais peut-etre aussi bien que vous Monsieur l'officier francais.
+L'OFFICIER.
+En tout cas, je vous plains : votre figure vous destinait a tous les hommages qu'une jolie femme peut recevoir : mais votre facon de penser vous rendra ridicule, je vous en avertis, belle Pelerine.
+VENUS.
+Recevez-en tous mes remerciements par cette reverence.
+L'OFFICIER.
+Dans le beau monde que vous connaissez aussi peu que vous en etes connue, vous ressemblez a une habitante de la lune, qui aurait fait un grand saut sur notre globe.
+VENUS.
+Comment ! Un officier, et un officier francais faire des allegories ; parler par metaphores !
+L'OFFICIER.
+Voyageuse dans les espaces imaginaires ; etrangere aux usages les plus communs.
+VENUS.
+Je ne suis point si etrangere que vous le vous imaginez bien.
+L'OFFICIER.
+Vous m'interrompez toujours.
+VENUS, riant.
+C'est grand dommage, en verite.
+L'OFFICIER.
+En un mot, comment peut-on former une femme qui a des craintes, des scrupules ?
+VENUS.
+Avez-vous bientot fini votre periode ? Elle m'ennuie, au moins.
+L'OFFICIER.
+Une femme, dis-je, et une jolie femme encore, qui exalte les douceurs de la campagne, tandis qu'elle dedaigne celles de la ville ou elle pourrait briller ?
+VENUS.
+Tout cela, Monsieur le Petit-Maitre, ne sont que des mots superflus, de vaines paroles.
+L'OFFICIER.
+Croyez-moi, Philosophe femelle ; vous avez, lu Platon, et moi j'ai lu dans le Livre du monde : vous avez etudie le Grec, et moi j'ai l'experience de la societe : celle-ci en fait plus que toutes les Langues Turques et Arabes jointes aux volumes antiques.
+VENUS.
+Neanmoins vous conviendrez que la philosophie est bonne.
+L'OFFICIER.
+La philosophie est bonne pour amuser quelques instans ; mais sa pratique est folle. Les Sectateurs d'Omar et d'Hali eux-memes n'en font qu'un jeu, et hors du cabinet ils redeviennent fort legers et frivoles.
+VENUS.
+Oui, les faux Philosophes, les Philosophes tels que vous.
+L'OFFICIER.
+Ah ! ah ! ah ! ah ! Moi Philosophe ! A travers vos extravagances j'ai apercu du bon ; vous ne tarderez pas a nous suivre, a etre des notres... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ou des miennes.
+VENUS.
+Qu'entendez-vous, Monsieur le Galantin par cette confidence mysterieuse, par ce mot des miennes.
+L'OFFICIER.
+C'est-a-dire, ma Reine, que je vous propose d'etre ma Sultane favorite.
+VENUS.
+On voit bien que vous etes a Constantinople, vous parlez comme le Grand Seigneur.
+L'OFFICIER.
+Vous persiflez, je pense. Tout coup vaille, je vous donnerai pour vingt-quatre mille francs de diamants, une voiture anglaise, et cent pistoles par mois.
+VENUS.
+Oh ! Je vous entends, mon cher Colonel ; mais vous aurez de la peine a me convaincre.
+L'OFFICIER.
+Si je ne puis vous convaincre, Madame ou Mademoiselle ( car je ne sais encore qui vous etes, ne vous connaissant que dans la minute ), le temps saura le faire.
+VENUS, avec ironie.
+Oui, le temps vient a bout de tout.
+L'OFFICIER.
+Je ne me rebute point, vous verrez qu'il n'y a rien de plus solide que le plaisir ; qu'il est necessaire a l'homme, encore plus a la femme.
+VENUS.
+Touchez la, beau Chevalier, defenseur des Belles... Je ne suis pas pour vous.
+L'OFFICIER.
+Une de perdue, cent de retrouvees. La nuit s'approche ; voici bientot le moment du sommeil ; je vais jouir des faveurs de la plus jolie femme de Constantinople, et demain avant l'aurore je dois enlever la maitresse du Grand Muphti, pour la faconner en France.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX ET DERNIERE. Venus, Momus.
+VENUS, seule.
+Cet officier francais ne dement point le caractere de sa nation.
+MOMUS.
+A la fin, tendre mere des Amours, je vous rejoins. Avez-vous trouve votre fils ?
+VENUS.
+Helas ! Non. J'ai rencontre plusieurs originaux.
+MOMUS.
+Et moi aussi. Je sors des spectacles, ou l'on se plaint de l'eternelle reprise des anciennes pieces, de la negligence, de la paresse des acteurs a jouer les nouveautes.
+VENUS.
+On pretend que leur Repertoire abonde en pieces nouvelles, et que l'on attend un second theatre, un theatre intermediaire, sous la denomination, d'Ecole Dramatique.
+MOMUS.
+Il est vrai, c'est le v?u de Constantinople entier. A propos, je peux vous donner des nouvelles do votre petit deserteur.
+VENUS.
+Rendez la paix et la consolation a une mere affligee.
+MOMUS.
+Dans le moment meme on vient de me dire que l'Amour n'habitait plus qu'au village.
+VENUS.
+Transportons-nous-y, et faisons des heureux.
+DIVERTISSEMENT. L'AMOUR AU VILLAGE.
+Le theatre doit representer un vallon delicieux.
+Le theatre doit representer un vallon delicieux.
+Le theatre doit representer un vallon delicieux.
+Le theatre doit representer un vallon delicieux.
+Le theatre doit representer un vallon delicieux.
+Le theatre doit representer un vallon delicieux.
+Le theatre doit representer un vallon delicieux.
+Le theatre doit representer un vallon delicieux.
+VENUS, bas, a part.
+J'apercois les Graces! 
+MOMUS. 
+Sans doute que l'Amour n'est pas loin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tenez, voici la-bas notre petit libertin.
+VENUS.
+Ah ! Mon fils, il y a longtemps que je vous cherche.
+L'AMOUR.
+Ah ! Ma mere, que je suis heureux d'habiter au village !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+	==================================================

@@ -1,0 +1,583 @@
+********************************************************
+	DC.Title                  = L'OMBRE DE MOLIERE
+	DC.Author                 = BRECOURT, Guillaume MARCOUREAU de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:09.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/BRECOURT_OMBREDEMOLIERE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'OMBRE DE MOLIERE COMEDIEM. DC. LXXIV. AVEC PRIVILEGE DU ROI.
+Par Brecourt
+	A PARIS, chez CLAUDE BARBIN, sur le second Perron de la Sainte Chapelle.
+	Acheve d'imprime pour la premiere fois le 2 Mai 1674.
+	Represente pour la premiere fois en mars 1674 a l'Hotel de Bourgogne
+	MONSEIGNEUR,
+Voici l'Ombre de Moliere ; c'est une comedie dont le bonheur sera parfait, si V. A. S. l'honore du moindre coup d'oeil. Sans l'autorite que me donne un long usage, je ne hasarderais pas de mettre votre illustre nom a la tete d'un Livre, lorsqu'il va si glorieusement eclater a la tete des armees. Alexandre mettait Homere sous son chevet ; Scipion et Lelie honorerent Terence de leur estime : mais sans le secours de ces exemples, il suffit de celui de V. A. S. pour justifier que les armes et les Lettres n'ont rien d'incompatible, et que le Cabinet et le camp peuvent etre amis. Souffrez donc, MONSEIGNEUR, que les OEuvres de Moliere tiennent quelque rang dans votre bibliotheque, et que ma comedie soit une espece de table pour les siennes.
+DE V.A.S.
+MONSEIGNEUR, Le tres humble et tres obeissant serviteur,
+BRECOURT.
+ACTEURS.
+DEUX OMBRES.
+CARON.
+LE POETE.
+PLUTON.
+RADAMANTE.
+MINOS.
+MOLIERE, poete Comique.
+LA PRECIEUSE, de la Comedie des Precieuses.
+LE MARQUIS DE MASCARILLE, de la meme Comedie.
+LE COCU, du Cocu Imaginaire.
+NICOLE, du Bourgeois Gentilhomme.
+POURCEAUGNAC, de la Comedie de Pourceaugnac.
+MADAME JOURDAIN, du Bourgeois Gentilhomme.
+QUATRE MEDECINS, de la Comedie des Medecins.
+L'ENVIE.
+La Scene est dans les Champs Elysees.
+
+
+
+			PROLOGUE DE L'OMBRE DE MOLIERE.
+
+
+ORONTE, CLEANTE.
+ORONTE.
+Point, vous dis-je ; c'est une raillerie qu'on vous a faite de moi.
+CLEANTE.
+Je vous dis que je suis sur de la chose.
+ORONTE.
+C'est quelqu'un qui a voulu se divertir a mes depens, vous dis-je.
+CLEANTE.
+Ah ! Que vous etes reserve !
+ORONTE.
+Mais que vous etes folatre avec votre comedie ! C'est bien a moi a entreprendre de ces ouvrages ? Non, non, Cleante, je me connais ; et si parmi mes Amis je me laisse aller a produire quelque epigramme, quelque madrigal, ou de semblables bagatelles, croyez que cela ne m'a point donne assez bonne opinion de moi pour entreprendre un ouvrage que l'on puisse appeler comedie. C'est un pas, a la verite, que presque tous les gens franchissent aisement ; et il semble qu'il suffise d'avoir fait a plusieurs reprises une certaine quantite de mediocres ou de mechants vers pour se donner avec beaucoup d'impunite le nom d'auteur ; et sous ce titre, on hasarde librement un assemblage de caracteres bien ou mal fondes, d'incidents amenes a force, et de galimatias redoubles, que l'on baptise effrontement du nom de comedie. Voila par ou plusieurs honnetes gens ont echoue dans le monde ; et sur leur exemple, je ne hasarderai point, mon cher Cleante, de perdre un peu d'estime que d'autres talents que la poesie m'ont acquise. Quand on peut faire quelque chose de mieux qu'une mechante piece, on ne doit point travailler a cet ouvrage ; et quoi qu'on entreprenne, si l'on ne peut y reussir parfaitement, il vaudrait encore mieux ne rien faire du tout.
+CLEANTE.
+Je vous trouve admirable, Oronte, avec tous ces justes et beaux raisonnements ! Mais ce qui m'en plait le plus, c'est de vous voir si bien condamner aux autres une demangeaison dont vous n'avez pu vous defendre.Oui, morbleu, je vous dis que vous avez fait une comedie.
+ORONTE.
+Moi ?
+CLEANTE.
+Vous l'avez donnee a etudier deja.
+ORONTE.
+Encore ?
+CLEANTE.
+C'est une petite piece en prose.
+ORONTE.
+Bon.
+CLEANTE.
+Et les Comediens qui la representeront, sont caches la-haut dans votre chambre, pour la repeter aujourd'hui. La, rougissez a present qu'on vous met le doigt sur la piece. He ? 
+ORONTE.
+Comment avez-vous su cela ?
+CLEANTE.
+Ah ! Comment je l'ai su ? Que me donnerez-vous, et je vous le dirai ?
+ORONTE.
+He, de grace, dites-moi qui m'aurait pu trahir. C'est une chose que je n'ai confiee qu'a mon frere et a ma femme.
+CLEANTE.
+Socrate se repentit d'avoir dit son secret a la sienne : mais ce n'est point de la votre dont j'ai appris ceci ; et pour vous tirer d'inquietude, sachez que le hasard, et votre peu de soin, m'ont appris que vous aviez fait une comedie. Vous connaissez votre ecriture apparemment, puisque je la connais aussi. Tenez. L'OMBRE DE MOLIERE, petite comedie en Prose. Eh ?
+ORONTE.
+Ah Cleante ! je vous l'avoue, puisque vous le savez : je m'y suis laisse aller ; il est vrai, vous tenez mon ouvrage ; c'est une petite piece de ma facon, et vous etes trop de mes amis, pour ne pas vous le dire.
+CLEANTE.
+Ah ! Je vous suis trop oblige vraiment ; et vous m'avez confie ce secret de trop bonne grace, pour ne vous en pas temoigner ma reconnaissance.
+ORONTE.
+Que vous etes fou ! Donnez donc. C'est une bagatelle que je n'ai pas juge digne d'entrer dans votre confidence ; et pour vous le dire franchement, c'est l'effet de quelques heures de melancolie qui m'ont fait griffonner ce petit ouvrage. Vous savez que j'estimais Moliere ; et cette piece n'est autre chose qu'un monument de mon amitie que je consacre a sa memoire. La maniere dont il parait dans ma comedie, le represente naturellement comme il etait, c'est-a-dire comme le censeur de toutes les choses deraisonnables, blamant les sottises, l'ignorance, et les vices de son siecle.
+CLEANTE.
+Il est vrai qu'il a heureusement joue toutes sortes de matieres ; et son theatre nous a servi longtemps d'une divertissante et profitable ecole.
+ORONTE.
+Il etait dans son particulier, ce qu'il paraissait dans la morale de ses pieces ; honnete, judicieux, humain, franc, genereux ; et meme, malgre ce qu'en ont cru quelques esprits mal faits, il tenait un si juste milieu dans de certaines matieres, qu'il s'eloignait aussi sagement de l'exces, qu'il savait se garder d'une dangereuse mediocrite. Mais la chaleur de notre ancienne amitie m'emporte, et je m'apercois qu'insensiblement je ferais son panegyrique, au lieu de vous demander quartier ; j'ai plus besoin de grace, que sa memoire de louanges. C'est pourquoi, cher Cleante, je vous redemande ma piece : mais puisque vous etes ici, honorez-la de votre attention, et ne la regardez, je vous prie, que comme une chose que j'ai dediee a la seule memoire de mon ami.
+CLEANTE.
+Allez, Oronte, quelque chose que ce soit, le seul sentiment qui vous l'a fait entreprendre, vous doit assurer de la reussite de votre ouvrage ; et rien n'est plus honnete a vous, que de montrer au public avec quelle justice vous estimiez un si grand homme.
+ORONTE.
+Ne me faites pas rougir davantage, Cleante ; et venez seulement donner votre avis sur notre repetition.
+
+
+			L'OMBRE DE MOLIERE.
+
+
+SCENE PREMIERE.
+Le theatre s'ouvre par DEUX OMBRES, qui, en dansant, apportent chacune un morceau de tout ce qui peut former un tribunal ; et apres l'avoir dresse, elles se disputent un balai pour nettoyer ce lieu, ou Pluton se doit venir rendre bientot.
+PREMIERE OMBRE.
+Donne, donne-moi ce balai.
+DEUXIEME OMBRE.
+Je n'en ferai rien, c'est a moi a balayer ici : Pluton y va venir, et je veux que tout soit net, et propre comme il faut.
+PREMIERE OMBRE.
+Oui, mais je te dispute cet honneur ; cela m'appartient mieux qu'a toi.
+DEUXIEME OMBRE.
+Et par quelle raison ?
+PREMIERE OMBRE.
+Par la raison que quand j'etais dans l'autre Monde, je me suis si bien acquitte de mon emploi, que je merite bien en celui-ci l'honneur de l'exercer encore.
+DEUXIEME OMBRE.
+Et quel merite avais-tu plus que moi en l'autre Monde ? N'etions-nous pas laquais tous deux ?
+PREMIERE OMBRE.
+Oui, mais il y a laquais, et laquais.
+DEUXIEME OMBRE.
+Et qu'as-tu a me reprocher ? N'ai-je pas fidelement servi tous les maitres a qui j'ai ete ?
+PREMIERE OMBRE.
+Ai-je manque en rien, moi, a tout ce que les miens m'ont commande ? Et quand je servais, par exemple, cet illustre et fameux tailleur, m'a-t-on jamais vu lui friponner la moindre guenille des choses qu'il derobait ?
+DEUXIEME OMBRE.
+Et quand je servais, moi, mon petit grison de Procureur, m'a-t-on jamais vu abuser des secrets qu'il me confiait, ni reveler aucune des friponneries qu'il faisait a ses parties ?
+PREMIERE OMBRE.
+M'a-t-on vu manquer jamais a la fidelite que j'ai due a une maitresse coquette que je servais, ni avertir son mari que je portais tous les jours des billets-doux a ses galants ?
+DEUXIEME OMBRE.
+Et, durant les quatre annees que j'ai servi ce fameux empirique, m'a-t-on jamais oui dire le moindre mot des poisons qu'il composait, et de toutes les vies qu'il vendait par ce moyen au plus offrant et dernier encherisseur ?
+PREMIERE OMBRE.
+Tout beau ; le secret de faire mourir les gens a quelque rapport avec la medecine, et nous ne serions pas bien venus a enfiler ce discours. Nous nous echapperions peut-etre a parler contre les medecins en parlant des morts. Tu sais que ces messieurs sont un peu vindicatifs, et que depuis quelque temps surtout, nous en avons ici qui ne prechent que la vengeance de ceux qui n'ont pas voulu mourir par leurs mains ; et s'il arrive que notre grand Pluton leur accorde quelque empire en ces lieux, comme ils le pretendent, ils pourraient bien etendre leur colere jusques sur nous, pour n'avoir pas parle d'eux avec tout le respect qu'ils attendent. C'est pourquoi nous ferons mieux de nous taire.
+DEUXIEME OMBRE.
+A propos, c'est donc pour ces Messieurs que la fete se fait, et que nous venons tout preparer ici ?
+PREMIERE OMBRE.
+Je ne sais si c'est pour d'autres, ou pour eux ; mais je sais bien que Pluton s'y doit rendre bientot pour juger une grande affaire. C'est pourquoi, si tu m'en crois, au lieu de quereller, et de disputer de nos avantages, nous prendrons chacun un balai, et nous nettoierons ensemble, pour avoir plus tot fait. Aussi bien je vois trop d'ordures ici pour un seul balayeur.
+DEUXIEME OMBRE.
+Tu as raison ; mais j'entends du bruit ; serait-ce deja Pluton ?
+PREMIERE OMBRE.
+Attends : Non, non ce n'est pas lui encore ; c'est Caron avec le genie du poete Doucet. Je crois qu'ils n'auront jamais fini leur querelle.
+DEUXIEME OMBRE.
+A qui en a Caron aussi, de tourmenter incessamment ce pauvre genie ?
+PREMIERE OMBRE.
+Il faut bien qu'il lui ait fait quelque chose.
+SCENE II. Caron, Le Poete, Les Deux Ombres.
+CARON.
+Que font la ces Coquins ? Allons, tout est-il net ?
+PREMIERE OMBRE.
+Oui, Messieurs, et vous pouvez quereller ici fort proprement.
+CARON.
+Quoi ! Tu ne me laisseras pas en repos ? Veux-tu te retirer ?
+LE POETE.
+Helas, Caron ! Helas !
+CARON, le raillant sur le meme ton.
+Helas, Caron ! Helas ! A qui diable en as-tu avec tes piteux helas ?
+LE POETE.
+Quoi ! Me laisser secher ainsi dans les Champs-Elysees ! N'as-tu point quelque endroit a me mettre, et dois-je rester parmi les Ombres errantes ? 
+CARON.
+Et ou veux-tu que je te fourre, malheureux Genie que tu es ? Veux-tu que je te mette parmi les poetes ? Cela est indigne de ton merite. Que je t'aille nicher aussi parmi des heros ? Ma foy, tu les as un peu trop bien accommodes, pour croire qu'ils s'accommodassent de toi.
+LE POETE.
+Et quel outrage leur ai-je fait ?
+CARON.
+Ce que tu leur as fait ? Ma foi, tu en as fait de forts jolis garcons ; et principalement les heros grecs ont grand sujet de se louer de toi. Tu les as si bien barbouilles, qu'ils n'ont plus besoin de masques de carnaval pour se deguiser.
+LE POETE.
+Que tu fais le plaisant mal a propos !
+CARON.
+Tu as raison, mais ce n'est que depuis que nous nous voyons. Ce faquin, sans me connaitre, m'a si bien traduit en diseur de bons mots, que l'on me chante en l'autre Monde comme un operateur grotesque, moi qui a force d'entendre des lamentations, dois etre triste comme un bonnet de nuit sans coiffe. He bien, tenez, ne voila-t-il pas encore ? Un Bonnet de nuit sans coiffe ! Depuis que je connais cet animal, je ne dis que des sottises. Il me prend envie de te mettre aux mains avec Virgile, il t'apprendra a me connaitre.
+LE POETE.
+Helas, Caron ! Helas !
+CARON.
+Encore ? Ma foi, je te baillerai de ma rame sur les oreilles.
+LE POETE.
+Peux-tu traiter avec tant de rigueur un genie qui a passe pour la douceur meme ?
+CARON.
+He tu n'etais que trop doux, mon enfant, et un peu de sel t'aurait fait grand bien. Mais je suis las de t'entendre ; nous avons bien d'autres affaires ; adieu, va te promener. Ne va pas gater nos belles allees au moins, ni t'amuser a cueillir nos lauriers. Ce n'est pas viande pour tes oiseaux.
+LE POETE.
+Ou veux-tu donc que j'aille ?
+CARON.
+Promene-toi sur l'egout ; et si la faim te prend, on te permet de manger quelques chardons pour te rafraichir la bouche.
+LE POETE.
+Helas, car...
+CARON.
+Ah, le Bourreau ! Tu ne sortiras pas ? Allons, Balayeurs, faites votre charge ; voici Pluton ; et cet animal n'a que faire ici. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III. Pluton, Radamate, MINOS, L'ENVIE, CARON.
+PLUTON assis dans son Tribunal.
+Ca, il est donc question de rendre justice aujourd'hui. Fais venir l'Accuse, Caron ; et que l'Envie amene les complaignants. Nous avons donc bien des affaires, Messieurs ?
+RADAMANTE.
+Sans-doute, et il nous est arrive aujourd'hui une Ombre qui nous va bien donner de la besogne.
+MINOS.
+Ce ne sera pas une bagatelle que cette affaire-ci.
+PLUTON.
+Comment ?
+MINOS.
+Je vais vous instruire de tout, afin que vous n'ayez pas la peine tantot d'interroger les parties. Il y avait autrefois la-haut un certain homme qui se melait d'ecrire, a ce qu'on dit ; mais il s'etait rendu si difficile, que rien ne lui semblait parfait. Il se mit d'abord a critiquer les facons de parler particulieres ; ensuite il donna sur les habillements ; de la il attaqua les moeurs, et se mit inconsiderement a blamer toutes les sottises du monde : il ne put jamais se resoudre a souffrir tous les abus qui s'y glissaient. Il devoila le mystere de chaque chose, fit connaitre publiquement quel interet faisait agir les hommes, et fit si bien enfin, que par les lumieres qu'il en donnait, on commencait de bonne-foi a trouver presque toutes les choses de la vie un peu ridicules. Il n'y eut pas jusqu'a la medecine meme qui n'eut part a sa censure ; et ce fut une des choses qu'il toucha le plus souvent, et sut si bien reussir en cette matiere, que pour peu qu'il l'eut traitee encore, il y aurait eu lieu de craindre pour les medecins qu'ils n'eussent accompli pour une seconde fois quelque petit bannissement de six cents annees.
+PLUTON.
+Cela nous aurait fait grand tort.
+MINOS.
+Et c'est son arrivee ici qui cause cette audience, qui sans doute ne sera pas sans difficulte. Chacun pretend avoir sujet de se plaindre de lui ; lui pretend n'avoir offense personne ; au contraire, de la maniere dont il parle, il semble que tout le monde lui soit oblige, et meme il en donne d'assez bonnes raisons, et voila qui est embarrassant.
+PLUTON.
+Tu l'as donc vu ?
+MINOS.
+Je viens de l'entretenir il n'y a qu'un moment.
+PLUTON.
+Ou l'as-tu laisse ?
+MINOS.
+Dans l'allee des Poetes, ou il a trouve l'esprit de Terence et de Plaute, avec qui il se divertit.
+PLUTON.
+Il faudra entendre les raisons de chacun. Qu'on les fasse venir ; mais faites-les moi paraitre sous les memes figures qu'ils avoient dans l'autre Monde, afin de les mieux discerner.
+RADAMANTE.
+Voici deja l'accuse que Caron vous amene.
+PLUTON.
+Ou sont les complaignants ?
+MINOS.
+L'Envie les doit conduire ici.
+SCENE IV. Moliere, Caron, Pluton, Radam, Minos.
+CARON.
+Je n'y puis plus tenir ; jamais il ne s'est vu tant d'Ombres en un jour ; et la porte va rompre si vous n'y donnez ordre.
+TOUTES LES AMES.
+Caron...
+CARON.
+Entendez-vous comme on m'appelle ? Des qu'ils ont vu que je faisais entrer cette Ombre, ils ont pense me devorer.
+TOUTES LES AMES.
+Caron...
+CARON.
+On y va. Ordonnez donc ce que vous voulez que je laisse entrer.
+TOUTES LES AMES.
+Caron...
+PLUTON.
+He patience. Qui sont-ils tous ces gens la ?
+CARON.
+Ce sont des precieuses, des bourgeoises, des marquis ridicules, des femmes savantes, des avares, des hypocrites, des jaloux, des cocus, et des medecins.
+PLUTON.
+En voila trop pour un jour : qu'il n'en vienne qu'une partie.
+CARON.
+J'oubliais encore un Limousin, dont l'esprit est assez materiel pour servir de corps en un besoin.
+PLUTON.
+Fais-les entrer selon le rang qu'ils auront a la porte. Radamante, prends le role pour ecrire le nom des complaignants. Ca, qui est celle-ci ?
+SCENE V. La Precieuse, Caron, Pluton, Moliere, Minos, Radam.
+CARON.
+Vous l'allez reconnaitre a son langage.
+LA PRECIEUSE.
+Grand Monarque des sombres habitations, plaise aux destins que vous pretiez attentivement le sens auriculaire de votre Justice aux eloquentes articulations de nos clameurs, et que par le triste visage de notre ame vous puissiez etre penetre de nos unanimes sentiments.
+PLUTON.
+Quel langage est-ce la ?
+CARON.
+C'est le franc precieux.
+PLUTON.
+Voila un beau jargon, vraiment. Ecoutons.
+LA PRECIEUSE.
+La surprenante horreur de notre accablement coutera, sans-doute, quelque egarement a la grandeur de votre ame. Vous voyez a vos genoux une addition de Precieuses qui vous en represente le Corps, pour faire pencher en leur faveur l'equilibre de votre Justice contre le materiel echappement de ce chronologiste scandaleux. Bien que la vengeance ne soit pas d'une ame du premier Ordre, lorsque l'outrage a pris le vif, c'est une faiblesse de se laisser aller aux tendres emulations d'une pitie seduite par les vaines erreurs de l'ostentation.
+PLUTON.
+Ma foi, je n'y entends goutte.
+LA PRECIEUSE.
+La ferocite de cet esprit sauvage a si bien donne la chasse au gibier de notre eloquence, que l'indigestion de nos pensees n'ose plus trouver le supplement de nos expressions. Il nous a si bien atteintes du crime d'absurdite, que nous en paraissons presque convaincues partout le piedestal du bas-monde. Pardonnez, grand Monarque, si j'ose vous parler si vulgairement, et si toutes nos pensees ne sont pas revetues d'expressions nobles et vigoureuses.
+PLUTON.
+He, il n'y a point de mal a cela ; au contraire, on ne se pique pas ici de beau langage. Dites un peu naturellement votre affaire, car foi de Dieu d'ici-bas je n'y ai rien compris encore.
+LA PRECIEUSE.
+Se peut-il faire que votre noire Majeste ait la forme si enfoncee dans la matiere ?
+PLUTON.
+Ma foi, je ne vous entends pas.
+LA PRECIEUSE.
+Quoi ! La durete de votre comprehension ne peut etre amollie par le concert eclatant des rares qualites de vos vertus sublimes ?
+PLUTON.
+Je ne sais ce que c'est que tout cela, mais j'aurai soin de vous rendre justice. Passez sur les ailes de mon trone.
+LA PRECIEUSE.
+Quoi, Monarque enfume ! Vous repandrez de vos propres bontes sur le gemissement de nos altercations ?
+PLUTON.
+Cela se pourra bien ; mais laissez-nous un peu travailler a d'autres jugements. Minos, ecrits-la sur le role, et me fais ressouvenir de tout ce qu'elle a dit. Allons, que repons-tu a cette accusation ?
+MOLIERE.
+Rien, et cette matiere est indigne de moi.
+PLUTON.
+He bien, que quelqu'autre entre donc, on jugera tout ensemble.
+CARON.
+Allons, que le plus proche de la porte vienne.
+SCENE VI. Le Marquis, Caron, Pluton, Minos, Radamante, Moliere.
+PLUTON.
+Ca, qui est celui-ci ?
+LE MARQUIS, a Moliere sur un ton de fausset.
+Ah parbleu ! Mon petit Monsieur, je suis bien-aise de vous trouver ici.
+MOLIERE.
+Qui es-tu, toi, pour me parler ainsi ?
+LE MARQUIS.
+Je suis un de ces Marquis, mon ami, que vous tournez en ridicule.
+MOLIERE.
+Et ou sont les grands canons que je t'avais donnes ?
+CARON.
+Ils sont restes a la porte, qui etait trop etroite pour les faire passer.
+PLUTON.
+Ca, que demandez-vous ?
+LE MARQUIS.
+Je demande justice pour mes rubans, mes plumes, ma perruque, ma caleche, et mon fausset, qu'il a joues publiquement.
+PLUTON.
+Que reponds-tu ?
+MOLIERE chagrin.
+Rien.
+PLUTON.
+Aux autres ; passez, on vous jugera a loisir.
+CARON, a l'entree de la porte.
+Arretez donc, vous n'entrerez pas.
+PLUTON.
+Qu'est-ce ?
+CARON.
+C'est le plus facheux de tous nos morts. Un Chasseur qui s'est casse la tete sur son cheval Alezan, et qui ne parle a tout le monde que de gaulis, de gigots, de pieds, de croupe, et d'encolure.
+PLUTON.
+Fais donc venir qui tu voudras. Je commence a me lasser de tout ceci.
+CARON.
+Entrez, vous.
+PLUTON.
+Ca, qu'est-ce encore que cette grosse ombre-ci ?
+CARON.
+C'est l'Ombre d'un Cocu.
+PLUTON.
+L'Ombre d'un Cocu ? Il faut que ce soit un furieux corps ! Parle, que veux-tu ?
+SCENE VII. Le Cocu Imaginaire, Moliere, Pluton, Caron, Minos, Radamante.
+LE COCU.
+Vous voyez en ma seule Ombre tout le corps des cocus ; vous les voyez ici en moi, dis-je, affliges, outrages, et tout contrits des affronts publics que ce grand corps a recus depuis que malicieusement cet ennemi jure de notre repos nous a rendus le jouet de tout le monde. Il n'est presque aucun mari qui n'ait senti les traits piquants de sa Satire ; et depuis qu'il s'est mele d'annexer le cocuage a de certains maris, il se voit peu de familles ou l'on ne soit persuade de trouver des cocus de pere en fils. Ce soupcon outrageant est devenu par son moyen comme un titre de maison ; et il en a excepte si peu de gens, que si je ne parle pour tout le monde, il ne s'en faut guere du moins. Voila de quoi se plaint notre illustre corps, qui avant sa scandaleuse medisance vivait dans l'etat de la premiere innocence. Chacun vivait content de sa petite reputation ; le scandale ne regnait point publiquement comme il fait ; et si l'on avait le malheur d'etre cocu, on avait du moins la douceur de l'etre en son petit particulier. Mais depuis qu'il a devoile les mysteres secrets, ce n'est plus partout qu'une gorge chaude des pauvres maris. On en va a la moutarde, et plusieurs honnetes gens meme ont pris en dot le titre de cocus en signant leur contrat de mariage. Si la discretion des notaires n'etait grande, quelqu'un de ces Messieurs en pourrait parler avec beaucoup de surete. Voila le desordre et le dereglement qu'il a mis en l'autre monde, dont nous demandons en celui-ci justice, vengeance, et reparation.
+PLUTON a Moliere.
+Qu'avez-vous a dire la-dessus ?
+MOLIERE.
+Rien ; je passe condamnation pour les cocus, et j'ai trop mal reussi dans cette affaire pour me pouvoir defendre. Quelque soin que j'aie pris de faire horreur du cocuage, j'avoue de bonne-foi que c'est un vice dont je n'ai pu corriger mon siecle.
+PLUTON.
+Minos, mets-le sur le Role. Allez, on va vous ecrire. Qu'est-ce ? Qu'y a-t-il de nouveau ?
+SCENE VIII. Caron, Pluton, Moliere, Minos, Radamante.
+CARON.
+Je ne sais d'ou nous est venue encore une plaisante espece d'Ombre : mais je crois, si l'on pouvait trepasser deux fois, qu'elle ferait mourir de rire tous les morts d'ici-bas.
+PLUTON.
+Comment donc ?
+CARON.
+Elle rit de tout, et ne s'afflige de rien, pas meme d'etre venue ici a la fleur de son age.
+PLUTON.
+Cela est de bon sens ; y venir tot ou tard, c'est toujours y venir ; et comme l'usage de la mort est un peu de duree, on fait bien de s'y accoutumer de bonne heure. Mais qui est-elle, cette Ombre ?
+CARON.
+Ce n'est qu'une servante.
+PLUTON.
+N'importe, fais-la entrer, il faut entendre tout le monde.
+CARON.
+Allons, la Rieuse, entrez.
+SCENE IX. Nicole, Pluton, Moliere, Minos, Radam, Caron.
+MOLIERE.
+Ah ! C'est Nicole.
+NICOLE, riant a gorge deployee.
+He, oui, c'est moi. Quand j'ai appris que vous etiez ici, par ma figue, ai-je dit en moi-meme, il faut que j'aille voir ce pauvre Homme qui m'a tant fait rire en l'autre Monde.
+MOLIERE.
+Tu es donc bien-aise d'etre en celui-ci, Nicole, puis que tu ris si fort ?
+NICOLE.
+C'est que vous m'avez appris a me moquer de tout : et puis franchement je ne suis pas trop fachee d'etre ici, et je ne trouve pas que la mort soit si degoutante que l'on se l'imagine.
+PLUTON.
+Et d'ou vient que tu t'accommodes si aisement d'une chose que les hommes trouvent si peu aimable ?
+NICOLE.
+C'est que je ne me souciais guere de vivre.
+PLUTON.
+Quoi ! Tu n'etais pas bien-aise de voir la lumiere ?
+NICOLE.
+Non, car je ne faisais tous les jours que la meme chose, dormir, boire, et manger ; et il me semble que le plaisir de la vie est de changer quelquefois. A cette heure, voulez-vous que je vous dise, il y a une certaine egalite parmi les morts qui ne me deplait pas. Je ne vois personne ici qui soit plus grand Seigneur l'un que l'autre ; et j'ai pense etouffer de rire quand j'ai rencontre en venant mille sortes de gens qui se desesperaient. Un riche banquier pale et maigre, qui endevait de s'etre laisse mourir de faim. Un Amoureux qui s'est tue pour une maitresse qui ne l'aimait point. Un Alchimiste qui enrageait d'avoir passe sa vie en fumee ; mais, entre-autres choses, des Dames qui pleuraient de me voir assise aupres d'elles. D'autres qui s'affligeaient de n'avoir plus de toilettes, de miroirs, et de petites boites. Il n'y a rien de plus plaisant que de les voir sans rouge, sans mouches, et sans cheveux ; avec leur grand front chauve, leurs yeux creuses, et leurs joues decharnees ; vous les prendriez pour des careme-prenants. Enfin la plus belle et la plus laide se ressemblent comme deux gouttes d'eau.
+PLUTON.
+Il n'est pas question de cela. Qu'avez-vous a dire contre l'accuse ?
+NICOLE.
+Moi ? Par ma figue, je n'ai rien a dire contre lui, c'est une bonne Ombre ; et tenez, Monsieur Pluton, c'est peut-etre la meilleure piece de votre sac.
+PLUTON.
+Que voulez-vous donc ?
+NICOLE, riant.
+Monsieur, je viens vous prier...
+PLUTON.
+He ?
+NICOLE, riant.
+Je viens vous prier, Monsieur...
+PLUTON.
+Et la, dites donc ?
+NICOLE, riant toujours.
+Je viens vous prier, Monsieur... de me... laisser... de me laisser... de me laisser...
+PLUTON, la contrefaisant.
+Et moi, ma Mie, je vous prie de nous laisser... de nous laisser... de nous laisser... de nous laisser en repos, s'il vous plait.
+NICOLE, eclatant de rire.
+Monsieur, je vous prie... S'il vous plait... De m'accorder le plaisir... Le plaisir de rire tout mon saoul, de vous, et de votre royaume.
+PLUTON.
+Otez-moi cette impudente. Qu'est-ce encore ? Je n'en veux plus entendre ; qu'on me laisse en repos ; l'audience est finie, et je vais prononcer.
+CARON.
+He, c'est l'Ombre de Pourceaugnac, ce brave Limousin ; elle n'a qu'un mot a vous dire.
+PLUTON.
+He bien, qu'il entre. Ah quelle peine ! Ne sera-ce jamais fait ?
+SCENE X. Pourceaugnac, Pluton, Moliere, Minos, Radam, Caron.
+POURCEAUGNAC.
+Grand Roi des Morts, vous me voyez ici, Depute de la part de tous les Limousins trepasses, qui vous demandent qu'il leur soit permis ajourner cette Ombre, leur partie, par-devant vous, a trois jours, pour se voir condamner a reparation d'honneur envers les Pourceaugnacs passes, presents, et futurs, tant des affronts recus, que de ceux qu'ils recevront. A quoi je conclus.
+PLUTON, a Moliere.
+Repondez.
+MOLIERE.
+He Monsieur de Pourceaugnac ! Quel sujet avez-vous de vous plaindre de moy ? Si vous preniez bien les choses, ne me loueriez-vous pas, au lieu de me blamer, d'avoir rendu votre nom aussi celebre que j'ai fait ? Car dites-moi un peu ; ne vous ai-je pas deterre du fond du Limousin, et a force de tourmenter ma cervelle, ne vous ai-je pas amene dans la plus illustre Cour du Monde ? Raisonnons un peu de bonne foi ; ne m'avez-vous pas quelque obligation de vous avoir fait faire un si beau voyage ?
+POURCEAUGNAC.
+He... Oui.
+MOLIERE.
+N'est-ce pas moi qui vous ai fait connaitre ?
+POURCEAUGNAC.
+D'accord.
+MOLIERE.
+Ne vous a-t-on pas vu avec beaucoup de plaisir ?
+POURCEAUGNAC.
+Cela est vrai, car chacun riait des qu'on me voyait.
+MOLIERE.
+Vous a-t-on jamais banni des lieux publics ?
+POURCEAUGNAC.
+Au contraire, on y donnait de l'argent pour me voir.
+MOLIERE.
+Et enfin n'ai-je pas rendu votre nom immortel pour tout votre royaume ?
+POURCEAUGNAC.
+Et comment immortel ?
+MOLIERE.
+Comment ? He des qu'il arrive en France quelqu'un qui ait tant-soit-peu votre air, de vos gentillesses, et de vos petites facons de faire, fut-ce un Prince, ne dit-on pas, voila un vrai Pourceaugnac ? Et n'est-ce pas un honneur considerable pour vous, et pour votre province, que votre nom quelquefois puisse servir d'une qualite aux gens de la plus haute naissance ?
+POURCEAUGNAC.
+Il a quelque raison au fond.
+MOLIERE.
+He, prenons toujours les choses du bon cote ; n'allons point envenimer les intentions, et croyons tout a notre avantage : je n'ai jamais rien fait qu'a votre honneur et gloire, et serais bien fache, Monsieur de Pourceaugnac, que les choses eussent tourne autrement.
+POURCEAUGNAC.
+Ma foi, apres tout, je pense en effet que j'ai tort de m'etre fache contre lui. Qui diantre sont les sottes Ombres aussi qui s'avisent de me mettre des fariboles dans la tete ? Allez, vous etes des betes : Monsieur est une honnete Ombre, qui a pris la peine de me faire connaitre, et vous ne savez pas prendre les choses du bon cote. Monsieur, je suis fache de tout ceci, et je vous demande pardon pour les Ombres de Limoges. Je suis votre valet, tout a vous, votre serviteur, et votre ami. Je vais chercher mon cousin l'assesseur, et mon neveu le chanoine, afin que nous buvions ensemble quelques verres d'oubli, pour ne nous plus souvenir du passe.
+MOLIERE.
+Adieu, Monsieur de Pourceaugnac.
+PLUTON.
+Messieurs, il est tard, et je vais lever le siege.
+SCENE XI. Madame Jourdain, Pluton, Moliere, Caron, Radam, Minos.
+MADAME JOURDAIN tout essoufflee.
+Justice, justice, justice, justice, justice.
+PLUTON.
+Qui est-ce encore ici ? Je ne veux plus entendre personne, et je suis las de tant d'impertinentes plaintes. Pourquoi l'as-tu laissee entrer ?
+CARON.
+Elle a force la porte.
+PLUTON.
+Prends donc bien garde aux autres, et qu'il n'en entre plus. Je n'ai jamais vu tant de canailles en un jour. Ca, que demandez-vous ?
+MADAME JOURDAIN, d'un air chagrin et brusque.
+Ce que je n'aurai pas.
+PLUTON.
+Que vous faut il ? He ?
+MADAME JOURDAIN.
+Il me faut ce qui me manque.
+PLUTON.
+Quelle nouvelle espece est-ce encore ici ? Dites-nous donc ce que vous avez ?
+MADAME JOURDAIN.
+J'ai la tete plus grosse que le poing, et si je ne l'ai pas enflee.
+MOLIERE.
+Ah ! C'est Madame Jourdain, je la reconnais : et comment etes-vous ici, Madame Jourdain ?
+MADAME JOURDAIN.
+Sur mes pieds comme une oie.
+PLUTON.
+Ah quelle femme !
+MOLIERE.
+Vous venez vous plaindre de moi, n'est-ce pas, Madame Jourdain ?
+MADAME JOURDAIN.
+Ca non ; j'aurais beau me plaindre, beau me plaindre j'aurais.
+PLUTON.
+Encore ?
+MOLIERE.
+Madame Jourdain est un peu en courroux.
+MADAME JOURDAIN.
+Oui, Jean Ridoux.
+PLUTON.
+Courage. He bien, qu'avez-vous a me dire ?
+MADAME JOURDAIN.
+Oui, qu'avez-vous a me frire ?
+PLUTON.
+Diable soit la Masque ; Que l'on me l'ote d'ici, et que d'aujourd'hui personne ne me parle. Je suis las de tous ces extravagants, et me voila dans une colere que je ne me sens pas. Qu'est-ce encore ? Qu'y a-t-il ? Que veut-on ? Serai-je toujours trouble, persecute, accable d'affaires ? He, quelle misere est-ce ci ? A-t-on jamais vu un Dieu plus fatigue que moi ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XII. Caron, Pluton, Minos, Radam.
+CARON.
+Grand Roi...
+PLUTON, marchant en colere.
+Non, je crois que tout cet embarras me fera renoncer a mon Empire. 
+CARON.
+Ce sont...
+PLUTON.
+Quoi, sans repos !
+CARON.
+Il y a...
+PLUTON.
+Sans plaisir !
+CARON.
+Ce sont...
+PLUTON.
+Sans relache ! Non, je ne veux plus rien entendre. Que tout soit renverse, bouleverse, sans-dessus-dessous, je n'ecoute personne ; Qu'on ne m'en parle plus.
+CARON.
+Ce sont des medecins qui viennent d'arriver, et qui voudraient vous demander un moment d'audience.
+PLUTON.
+Des ?
+CARON.
+Des Medecins.
+PLUTON courant se remettre sur son Tribunal.
+Des medecins ! Ho ! qu'on les fasse entrer : ce sont nos meilleurs Amis ; qu'ils viennent, qu'ils viennent. D'honnetes gens, a qui je dois trop pour leur rien refuser. Ils ont augmente le nombre de mes sujets, et je leur en dois sans doute une ample reconnaissance. Mais les voici.
+SCENE XIII. Quatre Medecins, Pluton, Radam, Minos,Moliere, Caron.
+MOLIERE.
+Ha, voici de mes gens. Ecoutons-les parler, et puis nous repondrons.
+PLUTON.
+Messieurs, soyez les bienvenus. Vous visitez un Prince qui vous honore fort ; je sais toutes les obligations que je vous ai, et que dans ce vaste Empire des Morts vous pouvez vous vanter avec raison d'y avoir aussi bonne part que moi : Aussi en revanche de tout vos bons et fideles services, je ne pretends pas vous rien refuser. Demandez seulement.
+PREMIER MEDECIN.
+Grand Monarque des Morts, vous voyez ici la fleur de vos plus fideles pensionnaires.
+SECOND MEDECIN, bredouillant.
+Jamais nous n'avons laisse echapper la moindre occasion de vous donner des marques de notre obeissance et fidelite.
+PLUTON.
+J'en suis persuade. L'opium, l'emetique, et la saignee, m'ont rendu temoignage que vous m'avez fidelement servi.
+TROISIEME MEDECIN.
+Nous avons fait notre devoir.
+PLUTON.
+Beaucoup de gens sont venus ici de votre part, qui m'en ont assure.
+QUATRIEME MEDECIN.
+C'est avec plaisir que l'on sert un si grand Monarque.
+PLUTON.
+Je vous suis oblige, et j'ai bien de la joie de vous voir. Ce n'est pas que vous ne m'eussiez ete encore un peu necessaires la-haut, et j'ai eu quelque chagrin quand les Parques m'ont dit que vous veniez ici : mais je m'en suis neanmoins console lorsque j'ai appris que vous aviez laisse de grands enfants qui savaient assez bien leur metier, et que meme il etait deja venu ici quelques morts de leurs amis, qui en avaient fait une experience fort raisonnable. Mais que souhaitez-vous de moi ?
+TROISIEME MEDECIN.
+Nous venons vous demander justice d'un temeraire qui pretend traiter la medecine d'imposture, et de charlatanerie.
+PLUTON.
+C'est donc quelqu'un qui la connait ?
+QUATRIEME MEDECIN.
+C'est une rage sans fondement, une simple avidite de tout satiriser, et une animosite envenimee par la seule envie d'ecrire, et de former des cabales contre nous.
+MOLIERE, a part.
+Je vous confondrai dans peu, superbes imposteurs.
+TROISIEME MEDECIN.
+Il s'est meme deja glisse jusques dans ces lieux une medisance secrete qui nous regarde. Tous les morts semblent se liguer contre nous ; il leur echappe des satires piquantes, et des injures calomnieuses contre les medecins ; et nous venons ici, Grand Monarque, vous remontrer humblement, de la part de notre Illustre Corps, de quelle importance il est, pour l'accroissement de votre Empire, que vous reprimiez l'audace et l'insolence de tous ces morts.
+PLUTON.
+On apprendra a vivre a ces morts-la. J'entends et je pretends qu'on vous regarde comme les plus fermes appuis de mon Etat. Mais qui sont ces morts-la qui ont l'impudence d'aller gater vostre metier ? Nommez, nommez-les moi ; j'en veux faire un bon exemple.
+QUATRIEME MEDECIN.
+C'est un nombre infini de petits esprits qui se sont laisses emporter au torrent, et qui n'ont pousse leur plainte que comme les echos qui repetent les peines des autres sans les avoir senties. Mais c'est a l'auteur de nos maux que nous en voulons ; c'est a celui qui comme un nouveau Caton, s'est venu dechainer contre nous et qui, apres le mepris evident qu'il a fait de notre illustre corps, a pousse son audace encore jusqu'a nous tourner en ridicules ; en nous rendant la fable et la risee du public. C'est cette Ombre, en un mot, cet insolent fleau de notre faculte, dont nous vous demandons une vengeance authentique.
+PLUTON.
+Repondez.
+MOLIERE.
+C'est donc a moi a qui vous en voulez, Messieurs ? Vous demandez vengeance du mepris que j'ai fait de votre illustre corps : Je vous ai tourne en ridicules, je vous ai rendus la fable et la risee du Public ? He bien, il faut vous repondre, et tracer plus naturellement vos traits, afin de vous bien faire connaitre. Pluton, je jure ici par le respect que je te dois, que ce n'est point contre ce grand art de la medecine que je pretends me dechainer. J'en adore l'etude, j'en revere la judicieuse pratique, mais j'en abhorre et deteste le pernicieux et mechant usage qu'en font par leur negligence des fourbes ignorants, que la seule robe fait appeler medecins ; et ce n'est qu'a ceux qui abusent de ce nom que je vais repondre.
+PLUTON.
+Ah ! Voici une conversation raisonnable celle-ci.
+MOLIERE.
+Imposteurs ! Qui peut mieux prouver votre ignorance, et l'incertitude de vos projets, que vos contrarietes perpetuelles ? Vous trouvez-vous jamais d'accord ensemble ? Et jusqu'a vos moindres Ordonnances, a-t-on jamais vu un medecin suivre celle de l'autre, sans y ajouter ou diminuer quelque chose ? Quant a leurs opinions, elles sont encore plus differentes que leurs pratiques. Les uns disent que la cause des maux est dans les humeurs ; les autres dans le sang. Quelques-uns, par un pompeux galimatias, l'imputent aux atomes invisibles, qui entrent dans les pores. Celui-ci soutient, que les maladies viennent du defaut des forces corporelles : celui-la, qu'elles procedent de l'inegalite des elements du corps, et de la qualite de l'air que nous respirons, ou de l'abondance, crudite, et corruption de nos aliments. Ah que cette diversite d'opinions marque bien l'ignorance des medecins ; mais encore plus la faiblesse ou la temerite des malades qui s'abandonnent aux agitations de tant de vents contraires !
+PLUTON, aux medecins.
+Messieurs, he ?
+MOLIERE.
+Ce qu'ils ont de plus unanime dans leur ecole, et ou ils s'entendent le mieux, c'est que tous tant qu'ils sont vous assurent que dans la composition d'une medecine, une chose purge le cerveau, celle-ci echauffe l'estomac, celle-la rafraichit le foie, et font partir un breuvage a bride abattue, comme si dans ce melange chaque remede portait son etiquette, et que tous n'allassent pas ensemble sejourner au meme lieu. Il faut que ces Messieurs soient bien assures de l'obeissance et de la sagesse de leurs drogues : car enfin, si par megarde l'une allait prendre le chemin de l'autre, et que la partie qui doit etre echauffee vint par meprise a etre refroidie, voyez un peu ou le pauvre malade en serait !
+PLUTON.
+Messieurs, he ?
+MOLIERE.
+Mais quoi, les imposteurs abusant de l'occasion, usurpent effrontement une autorite tyrannique sur de pauvres ames affaiblies et abattues par le mal, et par la crainte de la mort. Il prennent si bien leur avantage de nos faiblesses, que de notre aveu meme, dans ce dangereux moment, ils hasardent effrontement aux depens de nos vies toutes les epreuves que leur suggerent leurs ambitieuses imaginations. Les scelerats osent tout tenter, sur cette confiance que le Soleil eclairera leurs succes et que la Terre couvrira leurs fautes.
+PLUTON.
+Messieurs, he ?
+MOLIERE.
+Il me souvient ici, avec quelque douleur, de la faiblesse d'un de mes amis qui s'etait sottement confie par leurs noires seductions a l'experience d'un remede. Deux heures apres l'avoir pris, le medecin qui l'avait ordonne, lui en vint demander l'effet, et comment il s'en etait trouve. J'ai fort sue, lui repondit le malade. Cela est bon, dit le medecin. Trois heures en suite, il lui vint demander comment il s'etait porte depuis. J'ai senti, dit le Patient, un froid extreme, et j'ai fort tremble. Cela est bon, suivit le charlatan. Et sur le soir, pour la troisieme fois, il revint s'informer encore de l'etat ou il se trouvait. Je me sens, dit le Malade, enfler partout, comme d'hydropisie. Tout cela est bien, repondit le bourreau. Le lendemain j'allai voir ce pauvre Malade ; et lui ayant demande en quel etat il etait : Helas ! Mon cher ami, dit-il, en rendant le dernier soupir, a force d'etre bien, je sens que je me meurs. Ah ! M'ecriai-je alors tout perce de douleur, qu'heureux sont les animaux que la simple nature sait guerir sans le secours de leur consultations ! Que l'etre brutal serait a souhaiter, quand on devient malade ! Mais aussi qu'il serait a craindre, s'il se trouvait autant de medecins parmi les betes, que de betes parmi les medecins !
+PLUTON.
+Messieurs ?
+MOLIERE.
+Qu'ils se plaignent maintenant de moi, et que ton equite, Grand Monarque, paraisse dans tes jugements.
+SCENE DERNIERE. Caron, Les Ombres, Pluton, Radam, Minos, Moliere.
+CARON.
+Oh ! Je n'y puis plus tenir. Depuis que je conduits la barque, je n'ai jamais tant vu de morts pour un jour ; et si vous n'y venez donner ordre, je ne sais pas ce que nous en ferons.
+PLUTON.
+Comment ? Nous avons donc bien des gens ?
+CARON.
+Tout creve a la porte.
+PLUTON.
+Puisque nous avons tant de morts ici-bas, il faut qu'il y ait encore bien des medecins la-haut. Mais qu'ils attendent a un autre jour, je ne juge d'aujourd'hui, et voici ma derniere sentence. Retirez-vous un peu, que je prenne les opinions. Minos, qu'en dis-tu ?
+MINOS.
+Moi ? Que cette Ombre est de bon sens, et qu'elle merite bien quelque jugement avantageux.
+RADAMANTE.
+Il n'y a qu'honneur a juger en sa faveur.
+PLUTON.
+J'en demeure d'accord ; mais aussi les obligations que nous avons a ces messieurs m'embarrassent ; et je crois qu'un arbitrage conviendrait mieux a cette affaire qu'un jugement dans les formes. Ne trouvez-vous point a propos de leur proposer un accommodement ?
+MINOS.
+He, oui-da ; car il est vrai que nous avons quelque mesure a garder avec la Faculte.
+RADAMANTE.
+Je suis de cet avis.
+PLUTON.
+Je m'en vais leur parler. Ca, Messieurs ; Qu'est-ce ? N'y a-t-il pas moyen de vous rapatrier ? Je vois de part et d'autre que les raisons peuvent subsister ; d'accord ; mais a les bien peser, entre nous, la balance penchera de son cote ; et sans l'alliance juree entre nous, franchement, Messieurs, vous seriez tondus. C'est pourquoi si vous m'en croyez, tachez de vous accommoder ensemble ; et pour faciliter l'affaire, j'aime mieux relacher de mes interets, et consentir que vous m'en envoyiez quelques millions de morts moins qu'a votre ordinaire.
+LES MEDECINS.
+Quoi ! Notre ennemi jure ? Non, non...
+PLUTON.
+Ho, ho, Messieurs, si vous n'etes contents, prenez des cartes. J'y perds plus que vous, et si je ne me plains pas.
+LES MEDECINS.
+Quoi, Pluton...
+PLUTON.
+Quoi ! Vos Ombres temeraires m'osent repliquer, moi, qui puis vous faire evanouir d'un souffle seulement ?
+LES MEDECINS.
+Nous demandons justice, justice.
+PLUTON.
+Encore ? Ah je m'en vais souffler. Fu, fu. 
+Mais il est temps de prononcer
+En quel endroit je dois placer
+Ton Ombre avecque ta memoire.
+Que la Posterite t'en choisisse le lieu ;
+Et tandis qu'elle ira travailler a ta Gloire,			[5]
+Entre Terence et Plaute occupe le milieu.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CARON.
+Messieurs, Pluton se va coucher ; son Bonnet de nuit l'attend ; Vous avez oui la retraite. Bonsoir.
+
+	==================================================

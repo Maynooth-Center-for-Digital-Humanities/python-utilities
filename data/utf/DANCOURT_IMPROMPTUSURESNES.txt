@@ -1,0 +1,996 @@
+********************************************************
+	DC.Title                  = L'IMPROMPTU DE SURESNES, COMEDIE.
+	DC.Author                 = DANCOURT, Florent Carton dit
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:13.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/DANCOURT_IMPROMPTUSURESNES.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'IMPROMPTU DE SURESNES COMEDIE-BALLETM. DCC. XIII. AVEC PRIVILEGE DU ROI.
+De Mr DANCOURT
+	
+	
+	Representee pour la premiere fois, devant son Altesse Electorale Monseigneur le Duc DE BAVIERE, a Suresnes, le 2 Mai 1713.
+	ACTEURS DU PROLOGUE.
+PHILIS. 
+THERSANDRE. 
+Troupe de Paysans et de Paysannes. 
+ACTEURS DE LA COMEDIE.
+BACCHUS. 
+L'AMOUR.
+SILENE.
+FORET. 
+CLITANDRE. 
+ERASTE. 
+KERPINOT.
+LE CHEVALIER.
+LA FOLIE.
+LA VEUVE.
+NERINE.
+MADAME PINTERELLE.
+LUCILE. 
+CLAUDINE. 
+Le Theatre est a Suresnes, sur une terrasse ombragee d'ormes, de tilleuls et de marronniers, aux bords de la Seine.
+
+
+
+			PROLOGUE.
+
+
+
+PAYSAN conduisant une troupe de Paysans et de Paysannes. 
+Sur les rivages de la Seine, 
+La Paix que la victoire amene, 
+Revient dans nos charmants reduits, 
+Heureux habitants de Suresnes, 
+Vous en goutez les premiers fruits.			[5]
+THERSANDRE. 
+Depuis que les Dieux sur la terre 
+Ont eteint le feu de la guerre, 
+Le celeste flambeau 
+D'un feu nouveau s'allume, 
+Et plus brillant que de coutume, 			[10]
+Il nous promet un jour plus beau. 
+PHILIS. 
+Sensible aux maux de l'univers, 
+Il ne jetait sur lui ses regards qu'avec peine, 
+Sur les coteaux les raisins etaient verts ; 
+Ceres languissait dans la plaine, 			[15]
+Le Ciel nous redonne la paix, 
+Nos vins et nos moissons muriront desormais. 
+CH?UR. 
+Le Ciel nous redonne la paix. 
+Nos vins et nos moissons muriront desormais. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)THERSANDRE. 
+Loin des hasards 			[20]
+Les amours volent 
+De toutes parts, 
+Et nous consolent 
+Des fureurs de Mars. 
+Tous les c?urs s'enrolent 			[25]
+Sous leurs etendards. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PHILIS. 
+Dans cet asile 
+L'Onde tranquille 
+A regret semble le quitter ; 	
+Et des mers craignant les orages, 			[30]
+Elle refuse a leurs rivages 
+Les tributs qu'elle doit y porter. 
+THERSANDRE. 
+L'onde craintive 
+Et fugitive, 
+Tache en vain de l'arreter 			[35]
+Sur cette rive 
+Qu'elle a tant de peine a quitter. 
+Combles d'un bonheur extreme, 
+Gardons-nous de nous ecarter, 
+D'un lieu charmant que les Dieux meme 			[40]
+Ne dedaignent pas d'habiter. 
+CH?UR. 
+Combles d'un bonheur extreme, 
+Gardons-nous de nous ecarter, 
+D'un lieu charmant que les Dieux meme 
+Ne dedaignent pas d'habiter. 			[45]
+
+
+			ACTE UNIQUE
+
+
+SCENE I. Bacchus, La Folie.
+BACCHUS. 
+Quoi donc la Folie sans l'Amour. 
+LA FOLIE. 
+Est-ce pour vous une nouveaute, Seigneur Bacchus ? Il est bien vrai que l'Amour ne va jamais sans la Folie ; mais je vais souvent sans l'Amour. 
+BACCHUS. 
+Je vous croyais inseparables. 
+LA FOLIE. 
+He, vous voila bien seul aujourd'hui, tout cela me surprend. 
+BACCHUS. 
+J'ai laisse ma suite dans le Village. 
+LA FOLIE. 
+He, quel sujet vous y amene ? 
+BACCHUS. 
+L'envie de faire plaisir aux heureux habitants de cette agreable contree ; je ne suis pas la seule divinite qui s'interesse a leur bonheur. 
+LA FOLIE. 
+Je suis instruite de cela. 
+BACCHUS. 
+C'est un pays de vignoble, il est de mon domaine, je pretends le faire valoir, et lui donner des marques sensibles de ma protection. 
+LA FOLIE. 
+Cela est fort louable. 
+BACCHUS. 
+Je veux qu'il y ait cette annee une tres copieuse et tres excellente vendange, qu'on puisse faire passer pour du vin de Champagne. 
+LA FOLIE. 
+Cela ne sera pas nouveau ; mais ces bienfaits-la ne seront que pour les Vignerons, et il faut que tout le monde se ressente ici de l'honneur de votre presence. 
+BACCHUS. 
+Il ne tiendra pas a moi, je vous assure. 
+LA FOLIE. 
+Nous avons deux jeunes filles qui ont grand besoin de votre secours, et nous vous prions, l'Amour et moi, de vous unir avec nous pour les rendre heureuses. 
+BACCHUS. 
+Tres volontiers, vraiment, et qui sont-elles ?
+LA FOLIE. 
+L'une est fille d'un vieil usurier de Marchand de vin, qui a fait fortune, et l'autre est la niece de son associe ; ils ne veulent pas qu'elles epousent deux jeunes gens de Paris, qui les aiment eperdument. 
+BACCHUS. 
+Sont-elles du village ? Y demeurent-elles ? 
+LA FOLIE. 
+Oui, dans la maison d'un des deux amants dont le pere a loue les caves pour en faire un magasin d'assez bon vin.
+BACCHUS. 
+En a-t-il grande provision ? 
+LA FOLIE. 
+Oui, sans doute. 
+BACCHUS. 
+Cela est bon, je travaillerai a cela, il en faut faire la consommation, voila de bonne besogne. 
+LA FOLIE. 
+Mais c'est au mariage des filles qu'il faut songer plutot qu'a la consommation du vin. 
+BACCHUS. 
+Ne vous mettez pas en peine, l'un nous menera a l'autre : je vais faire un tour dans les vignes, et je me rends ici dans un moment. .
+LA FOLIE. 
+Je vous y attends. 
+BACCHUS. 
+Ayez soin de votre cote d'entretenir les filles et leurs amants dans des sentiments judicieux et raisonnables, tels que vous etes capable d'en inspirer. 
+LA FOLIE. 
+Laissez-moi faire, je ne les quitterai point, et je ne me ferai pourtant point connaitre a eux, que pour les assurer de votre protection. 
+SCENE II. Eraste, Lucile.
+ERASTE. 
+Savez-vous bien, ma chere Lucile, que vous me mettez au desespoir ? 
+LUCILE. 
+Je plains fort l'etat ou vous etes. Ma situation n'est pas meilleure. 
+ERASTE. 
+Quoi ! Nous cesserions de nous voir ?
+LUCILE. 
+Il faut bien s'y resoudre. 
+ERASTE. 
+Et vous cesserez de m'aimer ?
+LUCILE. 
+Je ne vous dis pas cela, mon c?ur depend de moi, je vous l'ai donne, je vous le laisse, ma volonte depend de celle de mes parents, je la soumets a ce qu'ils me prescrivent. 
+ERASTE. 
+Ah ! Lucile, Lucile ! Que l'amour est faible dans un c?ur ou le devoir se fait ecouter ! 
+LUCILE. 
+Eraste, Eraste que le c?ur souffre se s'assujettir au devoir ! 
+ERASTE. 
+He ! Pourquoi s'en faire l'esclave ? Mon pere me defend de m'attacher a vous, il me desherite si je vous epouse. Ai-je cesse de vous rendre des soins ? Ai-je change de resolution ? 
+LUCILE. 
+Non, je n'ai pas lieu de m'en plaindre. 
+ERASTE. 
+He ! Ne rougissez-vous point, dites-moi, d'etre si timide, quand je marque tant de fermete ? 
+LUCILE. 
+Ce qu'on pardonne a votre sexe ; ne serait pas excusable dans le notre. 
+ERASTE. 
+En verite charmante Lucile, vos chimeres et vos scrupules me deconcertent, faites pour moi ce que je fais pour vous, ou je croirai que vous ne m'aimez point. 
+LUCILE. 
+Mais quel parti prendre, et quel espoir nous peut flatter ? Vous etes homme de famille, vos parents se mesallieraient en consentant a notre mariage, mon pere est un bon Bourgeois de Suresnes, qui vient de faire fortune dans son negoce, il ne veut point entrer dans une famille qui mepriserait peut-etre la sienne. Ah ! Mon cher Eraste, que notre bonheur est eloigne ! 
+ERASTE. 
+Moins que vous ne pensez. Commencons par desobeir, et mettons les choses dans un etat qui puisse oter a nos familles l'esperance de nous desunir. 
+LUCILE. 
+Il y a de la folie dans votre proposition. 
+ERASTE. 
+Il n'y a que de l'amour, je vous jure. 
+LUCILE. 
+L'Amour vous donne des idees bien extravagantes. 
+ERASTE. 
+Les plus folles sont quelquefois justifiees par l'evenement. 
+LUCILE. 
+Les idees folles deshonorent, et l'evenement ne justifie point. 
+SCENE III. Nerine, Eraste, Lucile.
+NERINE. 
+Qu'est-ce que c'est, mes enfants, qu'y a-t-il de nouveau ? Vous voila dans les reflexions dans les grandes phrases, poussez-vous les beaux sentiments ? 
+ERASTE. 
+Venez, charmante Nerine, venez m'aider a persuader votre aimable compagne de ne pas desesperer un amant que vous savez bien qui l'adore 
+NERINE.
+Comment ? Que parlez-vous de desespoir ? Tu n'y songes donc pas, Lucile ? Un amant desespere n'est propre a rien : ils sont rares, les amants, et il est important de les menager, quand on en a de bons. 
+LUCILE.
+Mon pere vient de me defendre absolument de voir Eraste. 
+NERINE.
+Le grand malheur ! Tu l'en aimeras davantage. 
+ERASTE.
+Elle est resolue de lui obeir. 
+NERINE.
+Voila une sotte resolution, c'est une imbecile. 
+LUCILE.
+Quoi, ru ne penserais pas comme moi ? 
+NERINE.
+Oui da, le premier mouvement pourrait bien m'inspirer quelque faiblesse, mais la reflexion vient au secours des personnes qui aiment ; et l'esprit sert a bien des choses, par exemple. 
+LUCILE.
+Comment, par exemple ? 
+NERINE.
+Mon oncle vient de me defendre aussi de voir Clitandre. 
+LUCILE.
+Quoi tout de bon ? 
+NERINE.
+Tres serieusement. Pourquoi veux-tu que mon oncle soit plus raisonnable que ton pere ? 
+LUCILE.
+Ils se sont donne le mot apparemment. 
+NERINE.
+Ils sont associes pour leur negoce, ils ont voulu faire aussi societe de caprice. 
+LUCILE.
+Et quel est ton dessein, Nerine ? 
+NERINE.
+Mon dessein ? Je viens d'envoyer chercher Clitandre tout a l'heure. 
+ERASTE.
+Vous voyez, Lucile ? 
+LUCILE.
+Tu n'y songes pas vraiment. 
+NERINE.
+Je n'y songe pas ? Il faut bien lui signifier l'ordre et les menaces que l'on m'a faites en cas de contravention. 
+LUCILE.
+Vous voyez, Eraste. 
+NERINE.
+Lui faire bien voit toutes les consequences qu'il y aurait de ne pas obeir. 
+LUCILE.
+Je ne suis pas seule de mon sentiment. 
+NERINE.
+Afin qu'il m'ait plus d'obligation de n'en rien faire, et que la passion que nous avons l'un pour l'autre s'augmente par les difficultes. 
+ERASTE.
+On aime plus tendrement que vous, Lucile. 
+LUCILE.
+Mais, ma chere Nerine? 
+NERINE.
+Chacun pense a sa maniere ; mon enfant, voila la mienne. 
+LUCILE.
+Et quel objet te proposes-tu ? 
+NERINE.
+D'aimer et d'etre aimee : d'attendre, du temps et de la fortune, un changement a la notre ; meriter par la perseverance un bonheur que les obstacles auront rendu plus sensible. 
+ERASTE.
+Que Clitandre est heureux ! Et que ma destinee est differente de celle de mon ami ! 
+NERINE.
+Oh ! Je vous reponds bien qu'elle sera pareille. Le pere et l'oncle defendent de concert, il faut que la fille et la niece s'entendent de meme.
+SCENE IV. Clitandre, Eraste, Lucile, Nerine.
+CLITANDRE.
+Que vient-on de m'apprendre, ma chere Nerine ?
+NERINE.
+Que je voulais vous parler. 
+CLITANDRE.
+Pour me dire de ne plus vous voir. 
+NERINE.
+Non, je ne vous ferez pas ce compliment-la ; c'est le style de mon oncle, mais ce n'est pas le mien : et comme nous pensons differemment, cela fait que nous ne nous exprimons pas toujours de meme. 
+CLITANDRE.
+Qu'ai-je fait pour m'attirer cette disgrace de sa part ? 
+ERASTE.
+Qu'ai-je fait pour m'en attirer autant de la part du pere de Lucile ?
+CLITANDRE.
+Comment ? 
+ERASTE.
+Nous sommes dans le meme cas l'un et l'autre, et nous en ignorons le sujet. 
+NERINE.
+Cela est bien difficile a deviner ! Vous avez paru nous aimer, nous en avons paru contentes : le bonheur d'autrui leur fait peine, ils cherchent a le traverser. 
+CLITANDRE.
+Ils ont ete les premiers a nous souhaiter dans leur maison. 
+NERINE.
+Je le crois bien, vous aviez un millier de pistoles a y depenser, et vous n'en vouliez qu'a la cave. L'espece vous manque, vous prenez a credit, et vous vous attachez aux filles ; cela fait une grande difference, voyez-vous. 
+ERASTE.
+Nous n'obtiendrons jamais leur aveu. 
+NERINE.
+Nous l'aurons par force ou par adresse. 
+CLITANDRE.
+Comment nous y prendre ? 
+NERINE.
+C'est ce qu'il faudra voir. Le temps et l'Amour travailleront pour nous.
+SCENE V. La Folie, Lucile, Nerine, Eraste, Clitandre.
+LA FOLIE.
+Et la Folie ne vous sera pas inutile. 
+LUCILE.
+La Folie ? 
+LA FOLIE.
+Comment donc ? Vous me meconnaissez tous quatre, et vous me regardez a deux fois ? Ce n'est pourtant pas d'aujourd'hui que nous avons commerce ensemble. 
+NERINE.
+La Folie, soit. Nous ne nous defendons point d'etre de votre domaine. Nous sommes encore d'age a cela. 
+LUCILE.
+Pour moi, je ne sais pas ce que cela veut dire : mais en vous voyant, je me confirme tout a fait dans la resolution d'obeir aux lois de l'Amour, plutot qu'a celles de mon pere. 
+NERINE.
+J'aurai les memes egards pour mon oncle. 
+CLITANDRE.
+Il n'y a point d'extremite ou je ne me porte. 
+ERASTE.
+Il n'y a point de violence dont je ne sois capable.
+CLITANDRE.
+Contre ma famille et la votre. 
+ERASTE.
+Contre toute la terre ensemble. 
+CLITANDRE.
+Pour m'unir a l'aimable Nerine. 
+ERASTE.
+Pour posseder la charmante Lucile. 
+LA FOLIE.
+Les jolies gens ! Voila de mes traits, je me reconnais. 
+LUCILE.
+Mais quels moyens mettre en usage? 
+LA FOLIE.
+Ne vous inquietez point, on travaille pour vous. 
+NERINE.
+Comment ? 
+LA FOLIE.
+L'Amour, Bacchus et moi, nous agirons de concert pour vous rendre service. 
+CLITANDRE.
+Bacchus, l'Amour et la Folie s'interessent a notre sort ! 
+LA FOLIE.
+Cela vous etonne ? Vous etes deux jolis ivrognes. Vos maitresses sont faites pour l'Amour ; vous l'etes tous quatre pour la Folie. Nous cherchons tous trois a vous faire plaisir. 
+NERINE.
+Ce que c'est que d'avoir du merite, il ne manque jamais d'etre recompense. 
+LA FOLIE.
+Voici Bacchus avec votre pere, eloignons-nous : tout en marchant je vous instruirai de ce que vous aurez a faire.
+SCENE VI. Bacchus, Foret.
+BACCHUS.
+Vous etes un fripon, Monsieur le Marchand de Vin, d'en faire de si gros magasins pour le rencherir. Voila une nouvelle man?uvre ; Mais pour vous punir, je rendrai les vendanges prochaines si abondantes, que vous vous repentirez de votre usuriere precaution. 
+FORET.
+Puissant Dieu des buveurs, pouvais-je mieux marquer mon respect pour vous et pour votre divine liqueur, qu'en la conservant cherement comme j'ai fait. 
+BACCHUS.
+Oui, pour la vendre plus cher de jour en jour, et detruire presque entierement le culte de ma divinite. Comment diable, depuis pres de trois ans je n'ai presque pas remarque que personne se soit mis en etat de me faire veritablement honneur, tant l'avarice des usuriers, comme vous, a pris soin de faire triompher dans le monde mes deux grands ennemis, la soif et la sobriete. 
+FORET.
+Cela commence a revenir, Seigneur Bacchus, et vous n'avez pas lieu de vous plaindre. 
+BACCHUS.
+Qu'est-ce a dire : Je n'ai pas lieu de me plaindre ? Il y a un temps infini qu'on ne voit plus de Bourgeois ivres dans les rues, ni de petits Maitres entre deux vins rendre hommage au beau sexe dans les bosquets des Tuileries. On ne bat plus le Guet a Paris ; on ne casse plus de lanternes. Quelle honte est-ce la, Monsieur le Vinotier ! Oh, j'y veux mettre ordre. 
+FORET.
+Ce n'est pas ma faute, je vous assure. 
+BACCHUS.
+Ce n'est pas votre faute ? Ce n'est pas la seule qu'on vous impute ; vous ne vous contentez pas d'empecher de boire, vous ne voulez pas qu'on se marie. 
+FORET.
+Moi, Seigneur ! 
+BACCHUS.
+Oui, vous. Je sais de vos nouvelles, et vous avez un associe qui est dans le meme cas, a ce qu'on m'a dit ; mais je vous corrigerai l'un et l'autre, ou je vous ruinerai tous deux. Je vous en avertis. 
+FORET.
+He ! Ne sommes-nous pas deja tout ruines, si vous rendez, cette annee, les vignes si fertiles ? 
+BACCHUS.
+Oh ! Pour cet article-la, je vous en reponds. 
+FORET.
+Ah, malheureux que je suis ! Me voila perdu : que deviendrai-je ? He, misericorde, Seigneur Bacchus, laissez geler les vignes, je vous prie, et ne me refusez pas votre protection, pour me faire debiter le vin vieux qui me reste. 
+BACCHUS.
+Ce maraud-la me presente une plaisante Requete ! Voila comme sont les hommes. Ils ne nous adressent des prieres que par rapport a leur interet. 
+FORET.
+Si vous me refusez, j'irai me pendre de desespoir, et vous perdriez un fidele serviteur. 
+BACCHUS.
+Je ne perdrais pas grand-chose, et le Public y gagnerait. Mais il n'importe, je suis bon, j'aime a faire plaisir. Voyons un peu si tu te rendras digne de mes faveurs ; l'as-tu achete bien cher ce vin vieux ? 
+FORET.
+Qu'est-il besoin de vous le dire ? La conscience des hommes est-elle inconnue aux Divinites ? 
+BACCHUS.
+Non, la conscience de ceux qui en ont : mais comme les Marchands de vin n'en ont guere, je ne saurais lire dans la tienne. Prends garde a ne me pas mentir pourtant. 
+FORET.
+S'il faut vous dire la verite ? 
+BACCHUS.
+Oui, vraiment. 
+FORET.
+Depuis trois ou quatre ans, d'intelligence avec les Vignerons et les Courtiers, nous y mettions un prix fort haut, dont on nous donnait des contrelettres. 
+BACCHUS.
+Fort bien. 
+FORET.
+Ce prix servait de regle au Bourgeois delicat et au riche gourmet, chacun se pressait d'en avoir ; les aises se ruinaient, l'artisan souffrait, le malheureux languissait, le Brasseur gagnait, et nous ne perdions pas nous autres. 
+BACCHUS.
+Il n'y a rien a dire a cela, tu as profite de l'occasion. Oh bien, pour prix de m'avoir dit la verite, je te ferai defaire de ton vin vieux. 
+FORET.
+Que je vous aurai d'obligation ! Mais comment m'y prendre ? 
+BACCHUS.
+Cela ne sera pas bien difficile. Ton magasin est dans le Village ? 
+FORET.
+Oui, Seigneur. 
+BACCHUS.
+Dans une grande maison ? 
+FORET.
+Toutes des plus jolies. 
+BACCHUS.
+Beau jardon, cabinets de verdure, chambres, appartements proprement meubles ? 
+FORET.
+Oui, il y a de tout cela, vous avez raison. 
+BACCHUS.
+Laisse-moi faire le reste, je te fournirai un bon Cuisinier, des garcons actifs et vigilants, de jolies servantes : et nous etabliront une petite guinguette, ou je ne te laisserai pas manquer de pratiques, et j'en serai le maitre garcon, moi. 
+FORET.
+Bacchus le maitre garcon de ma guinguette ! Il en deviendra bientot le maitre. 
+SCENE VII. Bacchus, Foret, Claudine.
+CLAUDINE.
+He vite, Monsieu, depechez-vous.
+FORET.
+Qu'est-ce qu'il y a ? 
+CLAUDINE.
+Tout est au pillage dans votre magasin. 
+FORET.
+Comment donc ? 
+CLAUDINE.
+Les portes se sont ouvartes d'elles-memes ; il y a je ne sais combian de garcons qui tiront le vin dans de grandes cruches, les broches tournent dans toutes les cheminees. Il est tombe dans la maison une nuee d'affames qui feront la cuisine jusques dans le jardin, et ils disont comme ca, qu'il y en a encore davantage de l'autre cote de l'iau, qui s'appretont a venir faire comme eux. 
+BACCHUS.
+Voila des effets de ma protection, Monsieur Foret ; cela ne commence pas mal, comme vous voyez. 
+FORET.
+Il est vrai, mais? 
+CLAUDINE.
+Venez mettre ordre a ca, s'il vous plait. On ne sait auquel entendre, et ils mettront peut-etre le feu a la maison, s'ils ne voyont parsonne a qui parler.
+FORET.
+Misericorde, que faut-il que je fasse ? 
+SCENE VIII. Bacchus, Foret.
+BACCHUS.
+Ne vous embarrassez de rien, c'est mon affaire. Commencez par m'envoyer votre jolie fille et sa camarade, cela contiendra tout. Malepeste, c'est le meuble le plus necessaire d'une guinguette, que de jolies filles ! 
+FORET.
+Mais Monseigneur ? 
+BACCHUS.
+Ne raisonnez point, faites ce qu'on vous dit, et laissez-moi faire. 
+FORET.
+On me promet une belle fortune, je ne sais pas si on me tiendra parole.
+SCENE IX. L'Amour, Bacchus, la Folie.
+L'AMOUR.
+Mais ou m'emmenez-vous, s'il vous plait ? Madame la Folie ? 
+LA FOLIE.
+A la guinguette, Monsieur l'Amour. Avez-vous oublie notre projet, et que nous y avons affaire ? Il y a un temps infini que nous n'avons pas fait de petite debauche avec notre gros ami le Dieu du vin. 
+BACCHUS.
+Ce n'est pas ma faute, mes enfants. 
+L'AMOUR.
+Ni la mienne, Seigneur Bacchus. 
+BACCHUS.
+Ah, ah ! L'amour n'est plus aveugle, il me reconnait en m'abordant. 
+LA FOLIE.
+Aveugle, lui, est-ce qu'il l'a jamais ete ? Ce n'etait que pour me faire des tracasseries, qu'il se plaignit a Jupiter que je lui avais creve les yeux ; et pour pouvoir mettre sur mon compte, en m'obligeant de lui servir de guide, toutes les sottises qu'il est tres capable de faire par lui-meme. 
+L'AMOUR.
+He, la, la, Madame la Folie, un peu doucement, s'il vous plait, vous ne devez pas trop vous plaindre que par malice ou par raison j'aie su vous attacher a moi. Vos plus gracieuses occupations sont celles que je vous donne, et il n'y a gueres d'agreables folies que celles que l'amour fait faire. 
+LA FOLIE.
+Il n'y en a pas de moins excusables ; ni qui fassent tant murmurer contre moi. N'est-ce pas vous qui m'avez attire l'indignation de cette famille de robe, dont la grand-mere epousa dernierement ce joli petit Comte, a qui elle donna tout son bien, et qu'elle a laisse veuf au bout de huit jours ? 
+L'AMOUR.
+He ! De quoi vous embarrassez-vous de l'indignation de la famille de robe, quand vous avez le plaisir d'avoir etabli la fortune d'un joli homme, qui par plus de cent autres folies saura vous faire honneur de celle que vous avez fait faire en sa faveur ? 
+LA FOLIE.
+Je ne prends point le change, et j'en veux pour juge notre ami ; c'est a vous que le petit homme sait gre de sa fortune, et c'est a moi que l'on se prend de l'extravagance de la vieille. 
+L'AMOUR.
+Vous voila bien malade ; j'ai plus a souffrir que vous des aventures dont nous nous melons. Ce jeune Chevalier qu'on croit a l'armee, et qui mange avec des coquettes et des filous le bien de sa mere, dont il ne jouit pas encore, est-ce a vous que l'on se prend de sa conduite ? C'est moi qu'on en accuse, quoique je ne m'en mele, ni de part, ni d'autre : il n'est point amoureux, il n'est point aime, la folie seule et la debauche ruinent ses affaires, et c'est pourtant l'Amour qu'on rend responsable de l'evenement. 
+BACCHUS.
+C'est la notre malheur, a nous autres Divinites ; on nous impute quelquefois des choses ou nous n'avons pas la moindre part. Un honnete Procureur de ma connaissance donne tous les jours cent coups de pied dans le ventre de Madame sa femme ; on m'en accuse, on dit qu'il est ivre, il n'est qu'amoureux et jaloux ; ce sont vos affaires, et on en fait les miennes. 
+LA FOLIE.
+Rendons-nous justice, Seigneur Bacchus ; il n'arrive guere de sottises dans le monde, dont nous ne soyons cause, ou tous trois ensemble, ou separement ; et si vous voulez que je vous dise la verite, nous n'avons pas la-dessus de grands reproches a nous faire. 
+BACCHUS.
+Je ne m'en plains pas, et je laisse penser les hommes comme ils veulent. 
+L'AMOUR.
+C'est la Folie qui se plaint sans cesse, et qui finit pourtant toute seule quantite d'affaires que nous ne faisons qu'ebaucher. 
+LA FOLIE.
+C'est moi qui ai commence celle qui nous rassemble ; mais ce sera vous qui la finirez, s'il vous plait. 
+L'AMOUR.
+Tres volontiers, je m'interesse au sort des jolies filles.
+SCENE X. Bacchus, L'Amour, la Folie, Lucile, Nerine.
+LA FOLIE.
+En voici deux que je vous presente. 
+L'AMOUR.
+Je les connais, les Graces me les avaient deja presentees. 
+LA FOLIE.
+Les Graces ont pris soin de leur enfance ; mais je sais a present leur gouvernante, moi. 
+L'AMOUR.
+Et moi, je me declare leur protecteur. 
+BACCHUS.
+He, que leur ferai-je donc, s'il vous plait ? 
+LA FOLIE.
+Le promoteur de leur mariage. 
+BACCHUS.
+Cet emploi-la ne sera pas difficile. 
+LA FOLIE.
+Voila de jolies filles de cabaret, au moins. 
+BACCHUS.
+Vertu de ma vie, quelle provision pour notre guinguette ! 
+L'AMOUR.
+Je degarnis mes temples pour faire honneur aux votres.
+SCENE XI. L'Amour, la Folie, Lucile, Nerine, Eraste, Clitandre, Bacchus.
+L'AMOUR.
+Voici leurs amants qui se sont faits aussi garcons de cabaret, pour avoir l'honneur de servir sous vos ordres. 
+BACCHUS.
+L'imagination me plait, je leur en sais gre, et voila deux jeunes droles qui se presentent bien, au moins. Ecoutez, mes enfants, de filles de guinguette a garcon de cabaret, il n'y a que la main ; n'allez pas abuser de la protection qu'on vous donne, et anticiper? 
+ERASTE.
+Nous vous le promettons. 
+LA FOLIE.
+Ils auront peine a tenir parole ; l'air de Suresnes est terriblement dangereux pour ces choses-la. 
+BACCHUS.
+Point, point ; il y a de la bonne foi parmi les ivrognes, c'est la meilleure qualite de mes sujets. 
+L'AMOUR.
+Oui, mais les m?urs de mon empire sont toutes differentes. 
+LA FOLIE.
+C'est que vos deux Etats relevent des miens ; c'est moi qui en regle la police. 
+BACCHUS.
+N'ayons point de dispute la-dessus, et allons prendre possession de la nouvelle guinguette ; comme maitre-garcon, j'y ai ma table, et ce ne sera pas la plus mal servie. 
+L'AMOUR.
+Nous allons etre accables de monde : il nous faudrait quelqu'un pour ecarter un peu la foule, et ne laisser entrer que des masques de connaissances. Car tout le monde est aujourd'hui masque dans le Village. 
+BACCHUS.
+J'ai fait dire au bonhomme Silene de se rendre ici, nous en ferons notre Portier. 
+L'AMOUR.
+Du bonhomme Silene, il est toujours ivre ! 
+LA FOLIE.
+Tant mieux on le prendra pour un Suisse. 
+L'AMOUR.
+Mais en attendant qu'il soit venu ? 
+LA FOLIE.
+J'en ferai les fonctions, moi. Je n'aime point demeurer en place, et je ne me plais a table qu'a la fin des repas. 
+LUCILE.
+Ne laissez point entrer mon pere, Madame, je vous prie. 
+NERINE.
+Ni mon oncle de grace. 
+LA FOLIE.
+Oh pour cela il sera bien difficile de les en empecher ; mais leur presence ne gatera rien. 
+CLITANDRE.
+Les Dieux se melent de nos affaires, en pouvons-nous craindre l'evenement ? 
+SCENE XII. L'Amour, la Folie, Bacchus, Lucile, Nerine, Eraste, Clitandre, Kerpinot.
+KERPINOT en dehors. 
+Hola, ho, quelqu'un, du vin, de la glace, et de l'eau cordiale ! 
+L'AMOUR.
+Voici deja un honnete garcon, bien accommode. 
+BACCHUS.
+C'est un de mes favoris, Monsieur de Kerpinot, je le reconnais, tout masque qu'il est. 
+LA FOLIE.
+Oh ! Monsieur Kerpinot n'est point masque, il est ivre, c'est son naturel. 
+BACCHUS.
+Prenez soin de lui, il est en bon etat. 
+LA FOLIE.
+Je m'en charge, je vous l'enverrai, vous l'acheverez. 
+SCENE XIII. La Folie, Madame Pinterelle, Kerpinot.
+KERPINOT.
+Comment donc ! Vous me voulez quitter, vous m'abandonnez dans l'occasion, mon adorable, ma divine, ma robuste ! 
+MADAME PINTERELLE.
+Hola donc, doucement, tenez-vous, petit badin, ces sortes d'empressements-la sont trop marques, un peu de modestie. 
+LA FOLIE.
+Il est avec Madame Pinterelle, une de mes intimes : voila un joli tete a tete. 
+KERPINOT.
+Mais, mais, mais parbleu ! Charmante, je ne vous manque point de respect ; et si la vivacite de la passion autorise des mouvements de c?ur? qui causent? une palpitation, qu'on n'est pas maitre de renfermer dans une imagination toute remplie de vos charmes? 
+MADAME PINTERELLE.
+Qu'il parle bien ! Qu'il s'exprime juste ! Un discours poli, bien soutenu ! 
+KERPINOT.
+Oh ! Pour cela, oui, mon discours se soutient mieux que moi, et si mes resolutions avaient autant de fermete que ma penetration a d'agrement? He ! Bonjour, ma chere? mon aimable petite folichon. 
+LA FOLIE.
+Bonjour, Monsieur de Kerpinot, que vous voila joli garcon ? Que vous vous portez bien ! 
+KERPINOT.
+Ma sante ne s'altere point, parce que j'ai soin de boire. 
+MADAME PINTERELLE.
+C'est un homme de precaution, que Monsieur de Kerpinot. 
+KERPINOT.
+He ! Par quelle heureuse aventure? vous n'etes pas seule ici apparemment ? 
+LA FOLIE.
+Oh, vraiment non ; c'est moi qui y ai amene plus de la moitie de la Compagnie.
+KERPINOT.
+Ah ! Que vous avez bien fait ; voici une nouvelle petite guinguette aussi jolie, aussi attirante, je n'ai jamais pu m'empecher d'y entrer, et si nous venons deja de faire collation, dans une autre a Passy, Madame et moi, avec mon laquais, sa femme de chambre, notre Fiacre, tous cinq tete a tete. Quand on se trouve a la Ginguette, on n'y fait point tant de ceremonie. 
+LA FOLIE.
+Ce n'est pas d'aujourd'hui que vous vous connaissez, je sais de vos nouvelles, et Madame Pinterelle est depuis longtemps de vos amies. 
+MADAME PINTERELLE.
+Le moyen de n'en pas etre, il est si engageant. 
+KERPINOT.
+Oh ! Point du tout, mignonne, c'est vous qui etes aimable ; je suis un ivrogne, un brutal, un cheval de carrosse.
+LA FOLIE.
+Quelle modestie ! Il n'y a point la d'amour-propre. Mais que vous ne vous epousez-vous puisque vous vous aimez tant. 
+KERPINOT.
+Helas ! De tout mon c?ur, je ne demande pas mieux, moi, quelquefois. Mais Madame Pinterelle a dans l'esprit des contrarietes? 
+MADAME PINTERELLE.
+Il ne sait ce qu'il dit, ma chere, c'est delicatesse? Je ne veux devoir son engagement qu'a lui-meme. 
+KERPINOT.
+Oui, voila ce qui fait la difficulte. Mon amour, a moi est une passion qui est la suite d'une autre ; je ne veux epouser Madame que le soir, et Madame ne veut m'epouser que les matins ? Vous comprenez bien la difference ? 
+MADAME PINTERELLE.
+Elle est assez grande, comme vous voyez. 
+LA FOLIE.
+Point du tout ; du matin au soir seulement, c'est une bagatelle. 
+KERPINOT.
+Ne pourriez-vous point trouver quelque milieu a cela, vous qui etes si ingenieuse ? 
+LA FOLIE.
+Cela ne sera pas difficile a accommoder, passez ici la nuit a table. 
+KERPINOT.
+Voila deja une bonne proposition, cela m'accommode. 
+LA FOLIE.
+Comme vous ne serez point couche, le matin vous tiendra lieu du soir, et voila la difficulte levee. 
+KERPINOT.
+Oui, mais ce matin paraitra aussi le soir a Madame Pinterelle, c'est une delicate qui veut qu'on l'epouse de sens froid, cela ne se peut pas, ce n'est pas la maniere du pays, comme vous savez. 
+LA FOLIE.
+Je vous ferai changer de sentiment a tous deux. 
+MADAME PINTERELLE.
+Je defere beaucoup a vos conseils. 
+LA FOLIE.
+Allez-vous-en trouver de ma part Bacchus et l'Amour qui tiennent table au fond de ce petit bois, vous ne sortirez pas d'ici sans etre d'accord. 
+KERPINOT.
+Le conseil est bon, ma Princesse, il le faut suivre. 
+MADAME PINTERELLE.
+L'Amour et le Dieu du vin, voila bonne compagnie. 
+KERPINOT.
+On ne nous encanaille point, allons ma Princesse : que vous m'allez aimer, et que je m'en vais boire.
+SCENE XIV. La Folie, la Veuve.
+LA FOLIE.
+Voila une bonne recrue pour la table du Dieu du vin ; mais dans un repas de guinguette, il faut des fous et des folles de toute espece. En voici une joliment masquee. 
+LA VEUVE.
+C'est ici le lieu du rendez-vous, et le Chevalier n'y est point encore.
+LA FOLIE.
+Je la connais, c'est cette riche Veuve que l'Amour et moi avons rendu si folle d'un cadet Gascon dont nous voulons faire la fortune ; elle est ici sans lui, qu'est-ce que cela veut dire ? 
+LA VEUVE.
+He, bon Dieu ! Madame, que faites-vous ici ? Quoi ! Toute seule a la Guinguette ? Je croyais qu'il n'y avait que moi dans le monde assez folle pour cela. 
+LA FOLIE.
+Le pouvoir de la Folie est moins borne que vous ne croyez ; et si vous etes folle, comme vous le dites, Madame, vous pouvez vous vanter de l'etre en bonne compagnie. 
+LA VEUVE.
+Je crois l'etre, je crois ne l'etre pas ; ma folie me parait sage, la sagesse des autres me parait folie. Je ne connais personne sans ridicule, les uns plus outres, les autres moins. J'ai les miens, j'en suis persuadee ; mais ils me font plaisir, et je craindrais de les connaitre, de crainte de m'en corriger. 
+LA FOLIE.
+Je ne vous en crois point, moi, Madame, et vous me semblez toute parfaite. 
+LA VEUVE.
+Rien moins que cela, Madame, j'ai un entetement insupportable ; je suis esclave des bienseances. La crainte de la medisance me tient dans une gene, dans une contrainte effroyable. 
+LA FOLIE.
+Quelle simplicite ! 
+LA VEUVE.
+C'est mon ridicule ; je m'etais flattee que le veuvage me mettrait a portee de jouir un peu des douceurs de la vie, des petits plaisirs innocents que le commerce du monde peut fournir. 
+LA FOLIE.
+Cela doit etre, c'est la regle. 
+LA VEUVE.
+Ce ne l'est pas chez moi. Il y a quinze jours que je suis veuve, et depuis ce temps-la, Madame, nulle satisfaction dans la vie, point de partie de plaisir. Il a fallu renoncer aux Spectacles ; plus d'Opera ni de Comedie, pas de promenade meme ; je n'ai de ressource qu'au Bal, parce qu'on s'y deguise, et quelquefois a le Ginguette, cela est sans consequence. Oh ! Je suis bienheureuse qu'elle soit a la mode, et que ce plaisir-la n'ait point ete connu quand on a fait les regles du veuvage. 
+LA FOLIE.
+Vous y venez souvent apparemment ? 
+LA VEUVE.
+Helas ! Si peu, Madame ; Je me refuse a tout, je n'y ai encore soupe que huit ou dix fois depuis quinze jours ; mais je n'etais encore jamais venue dans celle-ci. 
+LA FOLIE.
+Ce n'est pas une des moins attirantes, et vous attendez compagnie sans doute. 
+LA VEUVE.
+Compagnie ? Non. Dans l'etat ou je suis, il ne me convient pas de voir grand monde ; et pour ne point m'ecarter des regles, je me reduis au tete a tete. 
+LA FOLIE.
+Quelle conduite ! 
+LA VEUVE.
+C'est avec un jeune homme de Province, qui me recherche, et que je prendrai le parti d'epouser, je pense, non pas par amour ni par faiblesse, mais pour changer de nom ; celui du defunt me fait toujours souvenir de la perte que j'ai faite, cela est trop triste. 
+LA FOLIE.
+Oui vraiment, et vous ferez bien de vous en defaire tout au plus vite. 
+LA VEUVE.
+C'est bien mon dessein. Voici le petit homme de Province. 
+LA FOLIE.
+Qu'il est bien fait ! Qu'il a bon air ! 
+LA VEUVE.
+Nous nous aimons a la folie, et nous avons tous deux raison.
+SCENE XV. La Folie, la Veuve, le Chevalier.
+LE CHEVALIER.
+He, comment donc, la premiere ici ? Oh pour le coup, je suis un fat, belle personne, et vous n'etes pas faite pour attendre. 
+LA VEUVE.
+Je n'attends pas seule, au moins Chevalier, et l'amant de Madame n'a ni plus de politesse, ni plus d'empressement que vous. 
+LA FOLIE.
+Moi, Madame, je n'ai point d'amant, mais on en trouve a la guinguette. 
+LA VEUVE.
+Un amant de guinguette ? La jolie chose ! 
+LE CHEVALIER.
+He de grace, Madame, ne meprisons pas les guinguettes, puisque je leur dois mon bonheur : c'etait ou nous avons fait connaissance. 
+LA FOLIE.
+Le hasard ne vous a pas trop mal adresses l'un et l'autre. 
+LE CHEVALIER.
+Sandis, je m'en loue et l'en remercie ; he, mardis, vive les guinguettes pour prendre des engagements. On s'y connait, on s'y developpe. En arrivant a Paris, je me dis d'abord a moi-meme, il te faut une occupation, Chevalier. Gens du pays sans quelque intrigue, sont les Maltotiers sans patron. Cherchons des belles ; je m'en informe, on me mene au Cours, on y voit les visages qu'au travers des glaces, ce sont des pastels, je n'achete point chat en poche, je veux connaitre. Je vais aux Comedies, a l'Opera ; maintes beautes toutes brillantes ; mais aux chandelles, cela m'est suspect. Que faire ? Il me faut une affaire de c?ur absolument. Ou la prendre pour n'etre point trompe ? Ma bonne fortune me conduit a la guinguette, j'y vois sans glace et sans chandelles cette belle dame en plein jour, j'en etudie l'esprit et le caractere, j'en surprends le c?ur, et j'en deviens fou. Voila l'histoire, ai-je tort, Madame ? 
+LA FOLIE.
+Je n'ai garde de trouver cela. Il n'y a rien de si joli qu'une passion de guinguette. 
+LA VEUVE.
+Il n'y a que celles-la de bonnes, mais on n'a que faire de dire d'ou on se connait. Oh ca, Chevalier, quand nous marierons-nous ? 
+LE CHEVALIER.
+Quand, Madame ? Et quand vous voudrez. Suis-je de taille et de pays a dire non dans une affaire ? Des ce soir, des le moment meme. 
+LA VEUVE.
+Son empressement me charme ; je me fais une idee si gracieuse de vivre avec lui. 
+LE CHEVALIER.
+Ah cadedis, laissez-moi faire, je vous attends dans la Province, vous n'y tiendrez pas, vous y mourrez de gloire et de joie. 
+LA FOLIE.
+De gloire et de joie, cela flatte agreablement. 
+LE CHEVALIER.
+Gouverneurs, Presidents, Directeurs d'affaires, Commis des postes, Gens de plaisir et de bonne chere ; ce sera belle Dame, a qui nous regalera, j'en suis sur. 
+LA VEUVE.
+Madame ? 
+LE CHEVALIER.
+Vous aurez le fauteuil chez l'Intendante, au moins, sans contestation. 
+LA FOLIE.
+Quelle prerogative ! 
+LE CHEVALIER.
+Pour ma famille, je n'en parle pas : le soleil n'a que douze maisons, et nous avons trente chateaux que je parcours toute l'annee. 
+LA FOLIE.
+Toujours en mouvement, on n'a pas le temps de s'ennuyer. 
+LE CHEVALIER.
+Magnificence, grand regal, et de l'argent partout ; nous jouissons entre nous de quatre-vingt-quinze mille livres de rente. 
+LA VEUVE.
+Et vous etes l'aine, Monsieur le Chevalier ? 
+LE CHEVALIER.
+Un Chevalier, l'aine ? Fi donc, Madame, je suis cadet de treize freres. 
+LA VEUVE.
+Mais les aines chez vous n'ont-ils pas tout le bien ? 
+LE CHEVALIER.
+Bonne partie quand on partage ; mais le pere et la mere vivent, nous jouissons par indivis ; qui plus en prend, plus en possede, et je pretends vous faire voir que je n'ai pas la main mauvaise : cette vie aisee vous conviendra-t-elle ? 
+LA FOLIE.
+Il, faudrait que Madame fut bien difficile. Oh ca, ca, puisque vous voila si bien d'accord, il faut que vos noces se fassent en bonne compagnie ; l'air de ce pays-ci est admirable pour les mariages. 
+LE CHEVALIER.
+Cadedis, oui, je vous en reponds. 
+LA FOLIE.
+Allez m'attendre dans ce petit bois, et joignez-vous a la compagnie que vous y trouverez a table avec l'Amour, vous n'y serez point de trop. 
+LE CHEVALIER.
+Volontiers, je suis sans facons, et ne refuse ni partie d'amour, ni partie de table, ce sont mes centres. 
+LA VEUVE.
+Allons, mon cher Chevalier, je me trouve bien partout ou vous etes. 
+LA FOLIE.
+Voila une noce bien avancee ; mais ne vois-je pas le bonhomme Silene ? C'est lui-meme, il est avec le Marchand de vin. Laissons-les ensemble, et allons parcourir un peu tous les echos de la nouvelle guinguette. 
+SCENE XVI. Silene, Foret.
+SILENE.
+Ne vous emportez point, mon ami, un peu de douceur et de tranquillite, il n'y aura point de desordre, je vous en reponds. Moi, je suis le pere de Silene. Bacchus m'a donne ordre de faire garder la porte pour eviter les inconvenients ; la pratique donne bien, comme vous voyez, la maison ne desemplit point, on se bat pour entrer. 
+FORET.
+Il est vrai, on se bat pour entrer ; mais tout le monde sort sans payer. Voila une bonne chienne de pratique, les bords de l'eau sont pleins d'ivrognes, qui emportent des bouteilles, et qui boivent en chemin a la sante du maitre-garcon. 
+SILENE.
+N'ont-ils pas raison ? Le maitre garcon leur fait credit, il prend tout sur son compte, ils en ont de la reconnaissance ; voila d'honnetes gens, il n'y a rien a dire. 
+FORET.
+Il prend tout sur son compte ? Mais ce n'est pas le mien. 
+SILENE.
+Vous l'y trouverez, ne vous mettez pas en peine, tout votre vin vieux sera consomme, il n'en restera pas une goutte : oh pour cela, il n'y a que Bacchus qui puisse imaginer des choses comme cela. 
+FORET.
+Maugrebleu de l'imagination. 
+SILENE.
+Paix, paix, taisez-vous, et nous laissez faire, nous retablirons l'abondance, il faut bien faire renaitre le credit. 
+FORET.
+Je ne veux point qu'il revive a mes depens, je n'ai que faire de cela. 
+SILENE.
+Fi donc, il serait a souhaiter que vous fussiez creves tous tant que vous etes, et que le credit fut ressuscite. Oh ! Le voila en bon train. 
+FORET.
+Et me voila en train de tout perdre, moi, si cela continue. 
+SILENE.
+Oh ! Non, diable ; nous avons affaire a d'honnetes gens, tous enfants de Paris ; et j'ai bien recommande qu'on ne laisse entrer que des personnes de connaissance. 
+FORET.
+On laissera entrer qui on voudra ; mais je vais etre le Portier, moi, pour ne laisser sortir personne qu'a bonnes enseignes. 
+SILENE.
+Qu'a bonnes enseignes ? Je ne te le conseille pas, tu t'attireras quelque mauvaise influence. 
+FORET.
+Que peut-il m'arriver de pis, que d'etre ruine ? 
+SILENE.
+J'ai encore le bras bon, tout vieillard que je suis, il me reste des forces dont tu feras l'epreuve. 
+FORET.
+On s'expose a tout pour defendre son bien. 
+SILENE.
+Je t'abandonnerai aux mecontents, et tu auras cent coups de baton, prends-y garde. 
+FORET.
+C'est ce qu'il faudra voir. 
+SCENE XVII. La Folie, Foret, Silene.
+LA FOLIE.
+Qu'entends-je ? Quel bruit fait-on ? Quelle impertinence, quelle audace ? Oser faire du desordre dans notre guinguette ? 
+FORET.
+Votre guinguette, Madame ? C'est bien la mienne, puisque c'est mon vin qu'on y boit. 
+LA FOLIE.
+Ton vin qu'on y boit ! Je t'en felicite, il s'en est fait grande consommation. 
+FORET.
+La consommation est grande, mais il n'y a point de recette. 
+LA FOLIE.
+Cela est ecrit sur le livre, il n'y a rien a perdre, a moins que je ne brule le livre, et cela pourrait bien arriver ; car je suis la Folie, au moins, defie-toi de mes caprices. 
+FORET.
+La Folie ? 
+SILENE.
+Oui, ta patronne, et celle de bien d'autres. 
+FORET.
+Il a raison, il faut etre fou pour confier sa cave au Dieu des ivrognes. 
+SILENE.
+Surtout quand la Folie s'en mele. 
+FORET.
+D'accord, mais les plus courtes folies? 
+LA FOLIE.
+Sont les mauvaises. Les plus suivies sont les meilleures, on s'epargne le moment de la reflexion, Bacchus tient ici table a ses depens, avec l'Amour. Ne te brouille pas avec eux. 
+FORET.
+Avec l'Amour ! L'Amour est ici ? Voila de quoi m'achever de peindre. 
+LA FOLIE.
+Est-ce que nous allons jamais l'un sans l'autre. 
+FORET.
+L'Amour, Bacchus, et la Folie, le beau trio pour faire fortune ! Mais, qu'est-ce que j'entends ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA FOLIE.
+Tu entends d'assez jolies musiques, on a soin de tout, comme tu vois, rien ne manque dans ta guinguette. 
+SCENE XVIII. La Folie, Lucile, Nerine, Foret, Silene, Eraste, Clitandre.
+FORET.
+Oh, vraiment non, rien n'y manque, mais il y a quelque chose de trop, de par tous les diables. 
+LA FOLIE.
+Que pourrait-ce etre ? 
+FORET.
+Ces deux Messieurs que je vois la-bas avec ma fille, et sa compagne, a qui on avait defendu de les voir. 
+LA FOLIE.
+Tu es mal obei, comme tu vois. Mais pour l'etre par de jolies filles, il ne leur faut commander que ce qu'elles souhaitent. 
+FORET.
+C'est une grande imprudence a elles...
+SCENE XIX. Bacchus, la Folie, Foret, l'Amour, Lucile, Nerine, Clitandre, Eraste, Silene.
+LA FOLIE.
+Taisez-vous, insolent, vous manquez de respect au maitre garcon, c'est lui qui se mele de cette affaire. 
+FORET.
+Il n'y a respect qui tienne ; ma fille est ma fille, et il ne sera pas dit? 
+BACCHUS.
+Doucement, maraud, c'est moi qui viens de faire ces deux mariages. 
+FORET.
+Ma fille est mariee sans mon aveu ? Et vous, Nerine, sans celui de votre oncle ? 
+NERINE.
+Ne suffit-il pas de celui de Bacchus et de l'Amour ? 
+LUCILE.
+Le moyen de resister a leurs volontes ? 
+FORET.
+Oh ! Parbleu, j'y resiste, moi. 
+CLITANDRE.
+Cela est inutile, c'est une chose reglee dans le conseil que l'on vient de tenir a table. 
+FORET.
+Je me moque de ce conseil-la, j'en appelle.
+SILENE. 
+Il n'y a point d'appel, mon bon ami, ce sont des Arrets de guinguette, qui s'executent toujours par provision.
+FORET.
+Marier ma fille, et vider mon magasin sans que je recoive d'argent ! 
+BACCHUS.
+Tu en recevras, donne-toi patience, et fais les choses de bonnes graces, tout ton vin vieux sera paye le double de ce que tu l'aurais vendu. 
+FORET.
+Mon vin vieux sera paye double ; et de quelle maniere ? 
+BACCHUS.
+Je te donnerai une Lettre de change sur la Fortune, moitie comptant, et le reste apres vendanges. 
+LA FOLIE.
+Et nous l'endosserons l'Amour et moi. 
+FORET.
+Les bons endosseurs ! Ce sera la de bon papier ! 
+L'AMOUR.
+Oui, oui, ce sera de bon papier. Oh ! Il n'y a personne sans vanite qui ait jamais eu dans le monde tant de credit qu'en ont l'Amour et la Folie. 
+FORET.
+Il faudra donc s'en contenter. 
+BACCHUS.
+Et etre de bonne humeur, surtout, ce n'est pas ici une Fete ordinaire, nous faisons cinq noces a la fois, et voila comme on achalande les Guinguettes. 
+FORET.
+Comment, cinq noces a la fois ; voudriez-vous aussi me remarier, moi ? 
+BACCHUS.
+Te remarier ! Es-tu veuf ? 
+FORET.
+Morbleu, non ! Mais par votre moyen, avec un de ces Arrets de Guinguettes, qui s'executent par provision, on pourrait toujours en attendant? 
+BACCHUS.
+Cela viendra quelqu'un de ces jours, epouse Claudine, ta servante, ce sont les allures des Marchands de Vin ; pour aujourd'hui, celebrons les mariages de ta fille et de sa camarade, avec leurs amants. 
+L'AMOUR.
+Celui du Chevalier et de la Veuve. 
+LA FOLIE.
+De Monsieur Kerpinot, et de Madame Pinterelle. 
+BACCHUS.
+Et le mien avec la Folie ? 
+LA FOLIE.
+Voila qui est fait, je le veux bien, vous n'en ferez pas dedit, et la plus grande folie que la Folie puisse faire, c'est d'epouser le Dieu des ivrognes. 
+L'AMOUR.
+Ecoutez, voila bien des mariages, prenez-y garde ; ce n'est pas la le moyen de me garder longtemps parmi vous. 
+BACCHUS.
+Vous y demeurerez plus que vous ne croyez. C'est votre element, que les Guinguettes. Allons, Messieurs de la Symphonie, de la Musique tendre, un peu folle, ou il y ait quelque air d'ivresse en ma faveur. 
+LA FOLIE.
+Vous serez content. C'est le caractere des Musiciens de la Guinguette. 
+DIVERTISSEMENT.
+L'AMOUR.
+Oh, la charmante retraite ! 
+De la felicite parfaite 
+C'est ici l'heureux sejour. 
+CH?UR. 
+Oh, la charmante retraite ! 
+De la felicite parfaite 			[50]
+C'est ici l'heureux sejour. 
+PHILIS, L'AMOUR ET THERSANDRE.
+Avec Bacchus on passe tout le jour, 
+On donne la nuit a l'Amour, 
+Et ce qui fait le charme de la vie, 
+On est avec eux tour a tour 			[55]
+Sans jamais quitter la Folie.
+L'AMOUR.
+Oh, la charmante retraite ! 
+De la felicite parfaite 
+C'est ici l'heureux sejour. 
+CH?UR. 
+Oh, la charmante retraite ! 			[60]
+De la felicite parfaite 
+C'est ici l'heureux sejour. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PHILIS. 
+Trop de contrainte 
+Dans les beaux jours 
+Revolte toujours ; 			[65]
+On en fait sa plainte 
+Au Dieu des Amours, 
+Il vient au secours 
+D'une ame atteinte 
+D'une juste crainte, 			[70]
+Et la contrainte 
+Dans les beaux jours 
+Revolte toujours. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA FOLIE.
+Sans la Folie 
+Vos plus beaux jours 			[75]
+Languiraient toujours ; 
+Sa douce manie 
+Est d'un grand secours 
+Au Dieu des Amours, 
+Quand il s'ennuie 			[80]
+Pres d'une Silvie. 
+Sans la Folie 
+Vos plus beaux jours 
+Languiraient toujours. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'AMOUR.
+La bonne chere 			[85]
+Des plus longe jours, 
+En fait les plus courts. 
+Quand Bacchus veut plaire 
+Au Dieu des Amours, 
+Son puissant secours 			[90]
+Rend la Bergere 
+Plus vive et moins fiere. 
+La bonne chere 
+Des plus longe jours, 
+En fait les plus courts. 			[95]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)KERPINOT, ivrogne. 
+Le Dimanche et les Lundis 
+Je cours de Guinguette en Guinguette, 
+J'y retourne les Mardis 
+Et Mercredis ; 
+Et dans ces douces retraites 			[100]
+Je passe aussi les Jeudis 
+Et Vendredis. 
+Amour, serait-ce la peine 
+D'en sortir les Samedis ! 
+Non, comme j'ai commence la semaine 			[105]
+Avec Bacchus je la finis. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'AMOUR.
+Ne quittons point cet aimable sejour, 
+Aux doux plaisirs tout ici nous convie, 
+Pour plaire a l'Amour 
+Avec la Folie 			[110]
+Bacchus s'allie 
+Dans cet heureux jour. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PHILIS. 
+Dans ces lieux l'Amour amene 
+Les plaisirs, les jeux, les ris ; 
+Des plus doux n?uds il enchaine 			[115]
+Les c?urs de ses feux epris, 
+Chacun deserte Paris 
+Pour venir rire a Suresnes. 
+THERSANDRE. 
+Suivons le cours de la Seine 
+Dans cet aimable pays, 			[120]
+Le doux penchant qui l'entraine 
+Vers ces bords des Dieux cheris, 
+Invite a quitter Paris 
+Pour venir rire a Suresnes.
+L'AMOUR.
+Qu'aucune Beaute n'y vienne 			[125]
+Sans des Amants favoris ; 
+A l'autre bord de la Seine 
+Faisons rester les Maris, 
+Aucun facheux n'est admis 
+Dans les plaisirs de Suresnes.			[130]
+FORET.
+Bacchus et le bon Silene 
+Font les honneurs du logis ; 
+Ils versent a tasse pleine 
+Tout mon vin vieux rouge ou gris, 
+Et nous font quitter Paris 			[135]
+Pour venir boire a Suresnes.
+LA FOLIE.
+Ceux qu'ici l'Amour amene, 
+Ou Celadon ou Cloris, 
+S'exposeraient a la haine 
+De la Reine de Cypris, 			[140]
+S'ils retournaient a Paris 
+Sans folatrer a Suresnes. 
+BACCHUS.
+Par Bacchus tout droit d'aubaine 
+Sur les vins y sont remis ; 
+Les filles sont du domaine 			[145]
+De Venus et de son fils. 
+Morbleu, quittez tous Paris, 
+Venez habiter Suresnes.
+LUCILE.
+Que le passeur du bac prenne 
+Le nom de chaque Adonis, 			[150]
+Qui vient avec sa Climene 
+Dans nos aimables reduits, 
+Et sort expres de Paris 
+Pour venir rire a Suresnes.
+LA FOLIE.
+Thalie avec Melpomene 			[155]
+Dans ces lieux nous ont conduits ; 
+Ces Deesses de la Scene, 
+Des soins que nous avons pris, 
+Nous ont assure pour prix 
+L'honneur de plaire a Suresnes. 			[160]
+TOUS LES ACTEURS ET ACTRICES chantent en refrain ces deux vers.
+C'est pour nous un digne prix 
+De pouvoir plaire a Suresnes.
+LA FOLIE.
+Pour faire honneur a la Scene 
+Les soins que nous avons pris 
+De Thalie et Melpomene 			[165]
+Recevront un digne prix, 
+Si nous avons a Paris 
+Meme foule qu'a Suresnes. 
+
+	==================================================

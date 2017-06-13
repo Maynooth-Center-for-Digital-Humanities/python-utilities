@@ -1,0 +1,707 @@
+********************************************************
+	DC.Title                  = LE BARBIER DE BAGDAD, COMEDIE UN ACTE.
+	DC.Author                 = PALISSOT de MONTENOY, Charles
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 30/09/2016 a 15:09:28.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/PALISSOT_BARBIERDEBAGDAD.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE BARBIER DE BAGDAD COMEDIE UN ACTEM DCC LX. Avec approbation et privilege du Roi.
+de Monsieur PALLISSOT de MONTENOY de plusieurs academies.
+	A Paris, chez Duchene, libraire, rue Saint Jacques, au dessous de la fontaine Saint-Benoit, au Temple du Gout.
+	
+	Represente pour le premiere fois en 1758.
+	AVERTISSEMENT.
+On se permet d'imprimer cette bagatelle, qui n'a ete faite pour aucun theatre, quoiqu'elle ait ete demandee plus d'une fois a l'Auteur. On peut la regarder comme un exemple de ce qu'on appelle dans le monde Piece de Societe.
+Elle servit a l'amusement d'une personne illustre, qui en indiqua le sujet. Il est tire des Contes Arabes, connus sous le nom des Mille et une Nuits. C'est une des meilleures histoires du livre : et peut-etre la gaiete francaise n'a-t-elle rien imagine de plus comique dans ce genre. Le personnage d'Arlequin est le seul qui soit de l'invention de l'Auteur. Il parut se soutenir a cote du role principal. L'entreprise n'etait pas aisee : on en appelle a tous ceux qui ont lu le conte. Le reste de la piece n'est que le sujet meme mis en dialogue. On a cru devoir conserver jusqu'aux expressions, qui, dans l'original, sont en effet aussi plaisantes qu'elles puissent l'etre.
+
+ACTEURS.
+LE CADI.
+ZULIME.
+ALMANZOR.
+FATME.
+ARLEQUIN.
+LE BARBIER.
+ESCLAVES D'ALMANZOR.
+SUITE DU CADI.
+La scene est a Bagdad.
+
+
+
+			
+
+
+SCENE PREMIERE. Almanzor, convalescent, en deshabille ; Farme.
+ALMANZOR.
+De grace, ma chere Fatme, que je te parle encore de Zulime.
+FATME.
+C'est-a-dire, que vous allez me repeter ce que vous m'avez deja dit cent fois.
+ALMANZOR.
+Non, Fatme, je ne t'ai point encore dit combien elle est aimable, du moins ne te l'ai-je pas dit comme je le sens. Mais toi qui as le bonheur de la servir, parle : vis-tu jamais plus de graces reunies sur un meme visage, des traits plus delicats, une physionomie plus piquante ? Tu peux me contredire, chere Fatme, je ne m'en offenserai pas. Apres son injuste rigueur, je souhaiterais de lui trouver un defaut.
+FATME, malignement.
+Je veux bien convenir que Zulime est en effet tres aimable ; mais...
+ALMANZOR, vivement.
+Je veux bien convenir ! Zulime ne vous est-elle pas. Bien obligee ? Ne voila-t-il pas une jolie expression ? En verite, vous autres femmes, quand vous louez les personnes de votre sexe, vous avez toujours un ton si sec, si aride, qu'il n'est pas possible de vous ecouter de sang-froid. Je veux bien convenir !
+FATME, riant.
+Ha, ha, ha, ha! Tu peux me contredire, Fatme, je ne m'en offenserai pas. Ha, ha, ha !
+ALMANZOR.
+Peux-tu me railler, Fatme, et voir l'etat deplorable ou je suis reduit ?
+FATME.
+Mais, riche comme vous l'etes, Almanzor, que ne vous adressez-vous directement au Cadi ?
+ALMANZOR.
+Je sais qu'il fut l'ami de mon pere, que ma fortune est egale a la sienne, et qu'il pourrait peut-etre me donner la preference sur mes rivaux ; mais, Fatme, le triste bonheur que de jouir d'un coeur a qui l'on aurait fait quelque violence ! Non, je ne veux obtenir Zulime que d'elle-meme.
+FATME.
+Voila bien de la delicatesse.
+ALMANZOR.
+Et c'est un plaisir de plus que je dois a l'amour. Mais n'aurais-je donc plus d'autre ressource ? Tu m'avais promis de me servir, et je n'ai vecu, tu le sais, que sur cette esperance.
+FATME.
+Vraiment, c'etait bien mon intention ; mais Zulime ne ressemble point du tout aux autres femmes.
+ALMANZOR.
+Il est trop vrai, Fatme ; nulle autre femme n'est comparable a Zulime.
+FATME.
+Je pourrais bien vous faire une confidence ; mais cela ne ferait qu'augmenter votre amour.
+ALMANZOR.
+Ah ! Ne me cache rien.
+FATME.
+Vous m'en priez de si bonne grace ! Apprenez donc que j'ai parie a Zulime.
+ALMANZOR.
+Acheve.
+FATME.
+Je lui ai represente cette langueur interessante dans laquelle vous etes tombe, cette maladie qui vient de nous donner tant d'alarmes pour vos jours, et que j'ai mise entierement sur le compte de son indifference.
+ALMANZOR.
+Eh bien ?
+FATME.
+Elle m'a ecoutee avec plaisir, tant que je ne lui ai parle que du mal qu'elle vous avait fait souffrir ; mais aussitot que j'ai voulu l'engager a vous permettre de la voir : « Vous etes bien hardie, m'a-t-elle dit, d'oser me faire une semblable proposition ».
+ALMANZOR.
+Que tu me desesperes, ma chere Fatme !
+FATME.
+Je le concois, car je fus desesperee moi-meme.
+ALMANZOR.
+Quoi ! Pas un mot plus favorable?
+FATME.
+Pas un mot.
+ALMANZOR.
+Et Zulime te dit tout cela d'un ton a ne te pas laisser le moindre doute de ses sentiments ?
+FATME.
+Oh ! Du ton le plus convaincant.
+ALMANZOR.
+Ah ! Fatme, que je suis malheureux ! Aurais-tu pense que l'amour put irriter a ce point une femme aimable ?
+FATME.
+En verite, les femmes sont impenetrables.
+ALMANZOR.
+Tu n'osas repliquer, sans doute ?
+FATME.
+Oh ! Que je ne me rebute pas si legerement !
+ALMANZOR.
+Eh! Dis donc vite. Peux-tu me laisser dans cette cruelle incertitude ?
+FATME.
+Helas ! Il en mourra, lui dis-je.
+ALMANZOR.
+Eh bien ?
+FATME.
+Je prononcai ces derniers mots d'un ton si naturel et si vrai, qu'elle en devint toute reveuse. Ses beaux yeux se baisserent ; mais un regard en-dessous qu'elle me jeta, m'en apprit plus qu'elle ne m'en voulait cacher.
+ALMANZOR.
+Comment ?
+FATME.
+Je compris qu'elle voulait observer sur mon visage, si j'etais en effet aussi penetree de vos sentiments que je semblais l'etre. Je m'y connais, seigneur Almanzor ; il y avait de l'interet dans ce regard-la, et les mouvements d'une femme echappent rarement aux yeux d'une autre femme.
+ALMANZOR, avec transport.
+Ah ! Fatme, chere Fatme, que ne te dois-je pas ! Quoi ! Zulime ?...
+FATME.
+Voila bien les amants ! Tour-a-tour les victimes du desespoir, ou les jouets de l'esperance.
+ALMANZOR, vivement.
+Cours, ma chere Fatme, cours. Ose tenter avec Zulime un nouvel entretien. Prends ma bourse, ces bijoux ; tout est a toi, si je peux reussir a toucher le coeur de la belle Zulime. Ne laisse point au faible interet qu'elle a pu te marquer pour moi, le temps de se refroidir. Songe que je vais compter tous les moments, et mesure ton zele sur mon impatience.
+FATME.
+Adieu, seigneur Almanzor. Croyez que je vous servirai bien ; mais que l'amour a toujours dans le coeur d'une femme quelque intelligence secrete, qui a plus de credit que tous nos services.
+SCENE II. Arlequin, Almanzor.
+ARLEQUIN, voyant sortir Fatme.
+J'ai dine quand je vois cette femme-la. Des qu'un maitre est amoureux, il n'y a plus rien a gagner que pour ces intrigantes.
+ALMANZOR.
+Ah ! Te voila, maraud ; eh ! D'ou viens-tu ?
+ARLEQUIN.
+D'ou je viens, Monsieur ?
+ALMANZOR.
+Oui, reponds...
+ARLEQUIN.
+Eh ! Mais de chez le Barbier apparemment.
+ALMANZOR.
+Quoi ! Toujours ce maudit Barbier ?
+ARLEQUIN.
+Doucement, Monsieur, doucement : n'en dites pas de mal. Si vous saviez combien il vous aime ! C'est lui qu'il faut entendre parier de monsieur votre pere, de sa sagesse, de sa prudence ! Oh ! Vraiment c'etait un homme, lui !
+ALMANZOR.
+Que veux-tu dire avec ces impertinences ?
+ARLEQUIN.
+Oui, Monsieur, ce n'etait pas une tete a donner dans les pieges d'une jeune coquette, ni a depenser inutilement son bien en presents pour des soubrettes ; entendez-vous ? Enfin, quelque jour peut-etre vous serez curieux d'entendre le barbier.
+ALMANZOR.
+Plaisant oracle, en effet, d'une tete comme la tienne !
+ARLEQUIN.
+Oh ! C'est que ce n'est pas un barbier qui ne sache faire que la barbe, du moins.
+ALMANZOR.
+Tant pis.
+ARLEQUIN.
+C'est un grand astrologue, un grand philosophe, qui predit le beau temps et la pluie mieux qu'un almanach, qui explique tous les songes.... Mais ce n'est rien, ce n'est rien que tout cela.
+ALMANZOR.
+Auras-tu bientot fini ?
+ARLEQUIN.
+Un grand astrologue ! Un grand philosophe ! Un grand Barbier ! Ce n'est rien. Ce sont ses histoires dont vous seriez enchante. Il faut qu'il ait une bibliotheque dans la tete. Dans le moment meme, il en racontait une ; mais d'une beaute !.... D'une beaute !... D'un interet !... D'une longueur qui ne se concoit pas !.... Des enchantements, un genie, une baleine, une tortue... Oh ! Rien n'est si beau.
+ALMANZOR.
+Laisse-la tes histoires, te dis-je, et songe que j'ai besoin de toi. Enfin, mon cher Arlequin, j'ai lieu de croire que la belle Zulime commence a devenir plus sensible ; Fatme vient de me promettre d'employer...
+ARLEQUIN, en meme temps que son maitre, dit entre ses dents :
+La tortue aux ecailles dorees montee sur l'elephant couleur de rose.... Non : l'elephant couleur de rose monte sur la tortue....
+ALMANZOR.
+Que marmottes-tu la entre tes dents ?
+ARLEQUIN.
+N'y prenez pas garde, Monsieur ; c'etait une distraction : je vous ecoute.
+ALMANZOR.
+Fatme m'a donc promis d'employer toute son adresse aupres de Zulime...
+ARLEQUIN, continuant toujours sans ecouter son maitre.
+L'elephant prit son vol pour traverser... L'Euphrate, oui, l'Euphrate, pendant que la tortue...
+ALMANZOR.
+Encore ?
+ARLEQUIN, comme s'eveillant.
+Achevez, Monsieur, je ne perds pas un mot.
+ALMANZOR.
+Concois, mon cher Arlequin, concois tout l'exces de ma joie, si Fatme ne m'abuse point. Mais, dis-moi, penses-tu que Zulime ne se rende pas en effet a tant d'amour ?
+ARLEQUIN, avec distraction.
+Si Fatme a promis de vous servir...
+ALMANZOR.
+Oh ! Oui, je peux compter entierement sur son zele.
+ARLEQUIN, du meme ton.
+Je ne doute pas qu'elle ne reussisse. Elle a une de ces physionomies qui promet beaucoup , cette fille-la ! Quant a Zulime, je vous dirai, seigneur Calife, que la tortue ayant passe l'Euphrate, fut tres effrayee de ne plus apercevoir l'elephant ; mais puisque Fatme veille a vos interets....
+ALMANZOR.
+Quel diable de galimatias me fais-tu la d'elephant, de tortue, et de je ne sais combien d'autres impertinences ?
+ARLEQUIN, se frappant la tete.
+Cette maudite histoire me revient toujours a l'esprit ! Mais voila qui est fait, Monsieur, je me l'appelle tres-bien ce que j'avais a vous dire. Il est certain que Zulime est femme, par consequent susceptible d'amour ; et quand elle aurait le coeur aussi dur que les arches du pont d'argent, les soumissions du prince bossu l'emporteraient a la fin sur les enchantements de la perfide baleine : ce qui doit absolument vous tranquilliser.
+ALMANZOR.
+Ce coquin est ivre ou ensorcele. Quel est le demon qui t'a fourre dans la tete toutes ces extravagances ?
+ARLEQUIN.
+Le Barbier.
+ALMANZOR.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais peux-tu me voir dans l'inquietude ou je suis, et t'occuper de pareilles miseres ? Songes-tu bien que ma vie depend du succes de mon amour, et ne devrais-tu pas, du moins, te montrer sensible ?...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oh ! Pour le coup, je t'y attendais. Voila donc, double traitre, l'attention que tu me pretes ! Parle, reponds, ou allais-tu ?
+ARLEQUIN, avec crainte.
+Monsieur....
+ALMANZOR.
+Parle, dis-je, ou je t'assomme.
+ARLEQUIN, avec crainte.
+Eh bien ! Monsieur, puisqu'il faut vous le dire, j'allais....
+ALMANZOR.
+Ou ?
+ARLEQUIN, avec un soupir.
+Chez le Barbier.
+ALMANZOR.
+Chez le Barbier, malheureux !
+ARLEQUIN.
+Oui, Monsieur ; je suis persuade qu'il n'a pas encore acheve sa belle histoire de la tortue aux trois royaumes, et je voulais....
+ALMANZOR.
+Maudit soit le belitre avec ses histoires !
+ARLEQUIN.
+Si vous me permettiez de vous la raconter.
+ALMANZOR.
+Te tairas-tu, bourreau ! Crois-tu que mon amour me permette ?...
+ARLEQUIN.
+Oui, votre amour ; et voila precisement ce que vous reproche le Barbier.
+ALMANZOR.
+Eh ! Que m'importe, dis-moi, le suffrage de ton miserable Barbier ?
+ARLEQUIN.
+Ce n'etait pas ainsi que pensait monsieur votre pere.
+ALMANZOR.
+Approche, babillard insupportable, approche, que je me donne une fois le plaisir de te confondre. Eh bien ! Parle, que peut-on trouver a redire a mon amour?
+ARLEQUIN.
+Vous aurez toujours raison contre moi ; mais si vous souhaitiez, j'irais....
+ALMANZOR.
+Non, j'ecouterai de sang-froid, reponds.
+ARLEQUIN.
+Premierement, Monsieur, il est clair que Zulime se moque de vous.
+ALMANZOR.
+Eh ! Qui te l'a dit, traitre, qu'elle se moquat de moi ?
+ARLEQUIN.
+Le Barbier.
+ALMANZOR.
+Peste soit du maroufle !
+ARLEQUIN.
+Vous-meme enfin, Monsieur, puisqu'il faut parler. Vos plaintes continuelles, vos imprecations, vos soupirs, et toutes ces pieces d'or que vous enleve cette coquine de Fatme, ne voila-t-il pas d'assez bonnes preuves que l'on se moque de vous ?
+ALMANZOR.
+Ah ! Je t'entends ; mes liberalites pour Fatme te deplaisent. Si tu etais moins interesse, tu me trouverais plus raisonnable. Il me semble pourtant que le rang que tu tiens dans ma maison, et les esperances que je t'ai donnees pour l'avenir, devraient suffire a ton avidite.
+ARLEQUIN.
+Bon ! Des esperances ! Eh ! Qui les remplira, ces belles esperances, si ce maudit amour continue de vous tourner la tete ? Vous n'avez qu'a retomber malade, comme dernierement ; ne refusiez-vous pas tous les secours qu'on voulait vous donner ?
+ALMANZOR.
+Mais si je te demontre, maraud, que ma passion meme devient pour toi le veritable chemin de la fortune, que repondras-tu ? N'est-il pas vrai que si j'ai le bonheur de plaire a Zulime, je l'epouse ? Si je l'epouse, il faudra que je lui fasse une maison, que je lui donne des esclaves, des eunuques ; et c'est toi precisement sur qui j'avais jete les yeux, toi que je destinais interieurement a cette fonction bienheureuse....
+ARLEQUIN.
+Moi !
+ALMANZOR.
+Oui, je me proposais de te faire le chef de mes eunuques.
+ARLEQUIN.
+Chef des eunuques! oh! oh! c'est sans doute quelque dignite considerable ?
+ALMANZOR.
+Oui, qui t'eut donne tes entrees partout dans mon serail.
+ARLEQUIN.
+Mais d'un exercice peut-etre bien penible ?
+ALMANZOR.
+Non, rien du tout a faire, meme quand tu le voudrais.
+ARLEQUIN.
+Et je pourrais par consequent boire, manger, dormir a mon aise ?
+ALMANZOR.
+Tu te verrais engraisser a vue d'oeil.
+ARLEQUIN.
+Ah ! L'excellente chose, l'excellente chose ! Je n'aurais de ma vie songe a cet emploi-la.
+ALMANZOR.
+J'entends quelqu'un, c'est Fatme. Que vient-elle m'apprendre ?
+SCENE III. Fatme, Almanzor, Arlequin.
+FATME.
+Ouf ! Je n'en puis plus; j'ai couru d'une vitesse inconcevable : laissez-moi, s'il vous plait, reprendre haleine.
+ALMANZOR.
+Ma chere Fatme, comment pourrais-je m'acquitter de tant de services ?
+FATME.
+Il faut que l'interet que vous m'avez inspire soit bien vif. Je ne m'occupe, en verite, que de vos affaires.
+ARLEQUIN, a part.
+La fine mouche !
+ALMANZOR.
+Sois bien sure aussi que je ne mettrai point de bornes a ma reconnaissance. Tu as parie a Zulime, sans doute ?
+FATME.
+Oh! je la crois enfin dans les dispositions...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais quelle est cette plaisante figure ? Ha, ha, ha !
+ARLEQUIN.
+Voila une fille qui me parait bien joyeuse.
+FATME.
+Comment donc ! Seigneur Almanzor, cela parle ! Ha, ha, ha, ha, ha, ha!
+ALMANZOR.
+C'est un de mes esclaves noirs, qui se nomme Arlequin. Mais de grace, ma chere Fatme, dis-moi....
+FATME.
+Arlequin, dites-vous ? Ah ! La bonne figure ! Ha ha, ha, ha !
+ARLEQUIN.
+Oui, Arlequin, Mademoiselle ; qu'y trouvez-vous donc de si risible ?
+FATME.
+Ha, ha, ha, ha, ha !
+ALMANZOR.
+Fatme.
+FATME.
+Non, je n'ai rien vu de si comique. Ha, ha, ha !
+ARLEQUIN.
+Voila, par exemple, qui commence a devenir impertinent. Savez-vous, mademoiselle la Soubrette, que je n'entends pas raillerie ?
+FATME.
+Ah ! La drole de chose ! Pourquoi donc ne me l'aviez-vous pas encore montre ?... Je crois que j'en deviendrai folle ; ha, ha, ha !
+ALMANZOR, a Arlequin.
+Retire-toi, maraud.
+FATME.
+Non, s'il vous plait, qu'il ne s'en aille pas ; il est trop divertissant ; ha, ha, ha !
+ALMANZOR.
+Ma chere Fatme!
+FATME.
+Le singe de Zulime n'est pas, a beaucoup pres, si plaisant ; ha, ha, ha, ha !
+ARLEQUIN.
+Voyez un peu cette guenon-la, avec son singe ! Savez-vous bien a qui vous pariez, Mademoiselle ? Vous perdez le respect a un chef des eunuques, entendez-vous?
+FATME.
+Un chef des eunuques ! Ha, ha, ha ! Mais, oui, vraiment, il en a bien la mine ; ha, ha, ha ! Je n'ai jamais tant ri de ma vie : ha, ha !
+ARLEQUIN, la contrefaisant.
+Ho, ho, ho, ho, ho ! Est-ce que vous croyez que l'on ne sait pas rire aussi bien que vous ?
+FATME.
+Ha, ha, ha, ha !
+ARLEQUIN.
+Ho, ho, ho, ho !
+ALMANZOR.
+Je n'y peux plus tenir moi-meme.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh bien, Fatme ! Cette gaiete du moins est-elle d'un heureux presage pour mon amour ?
+FATME.
+Quoi ! Je ne vous ai pas encore dit ?....
+ALMANZOR.
+Vraiment, non.
+FATME.
+Allons, seigneur Almanzor, de la vivacite, de la joie. Tout reussit au gre de vos esperances. Cette Zulime si fiere vous l'accorde enfin ce rendez-vous si desire. Elle vous attend chez elle dans une heure.
+ALMANZOR.
+Ah ! Chere Fatme, que je t'embrasse !
+FATME.
+Son pere sera sorti pour quelques affaires de son commerce. Vous vous presenterez a cette porte, ou vous me trouverez pour vous recevoir. Convenez, seigneur Almanzor, que je n'ai pas la main malheureuse.
+ALMANZOR.
+Je ne peux trop te payer une si bonne nouvelle. Tiens, Fatme.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FATME.
+Disposez toujours de meme de mes petits services. Adieu, Monsieur le chef des eunuques.
+ARLEQUIN.
+Adieu, Soubrette infernale, adieu.
+SCENE IV. ALmanzor, Arlequin.
+ALMANZOR.
+Allons ! Vite un Barbier. Depeche-toi, je n'ai pas un moment a perdre.
+ARLEQUIN.
+Oui, Monsieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais le votre demeure fort loin ; si j'allais chercher l'autre ?
+ALMANZOR.
+Qui, l'autre ?
+ARLEQUIN.
+Eh oui ! Celui dont je vous parlais ; notre voisin le Barbier.
+ALMANZOR.
+Que m'importe ! Va ou tu voudras, et reviens au plutot.
+ARLEQUIN.
+Oui, Monsieur : ah, quel plaisir !
+SCENE V.
+ALMANZOR, seul.
+Enfin, je suis le plus heureux des hommes ; je suis aime de Zulime ! Mes peines passees ne sont plus qu'un songe, dont le bonheur est le reveil. Moments fortunes ! Que vous tardez encore a mon amour. Ali ! Zulime, ma chere Zulime ! Par combien de caresses je vais vous faire expier vos rigueurs ! Mais ce traitre d'Arlequin ne revient pas. Ce Barbier loge a ma porte, et le malheureux n'est pas encore ici ! Je crois que tout le monde s'est donne le mot aujourd'hui pour m'impatienter. Arlequin ! Ce maraud me fera perdre l'esprit. Maudit Arlequin ! Peste soit du faquin de Barbier !
+SCENE VI. Le Barbier, Alamanzor, Arlequin.
+ARLEQUIN.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le voici, le voici le Barbier ! Vous prenez feu d'abord, comme si tout etait perdu.
+ALMANZOR, se relevant.
+Voyez un peu ce butor ! Allons, maraud, depeche-toi.
+LE BARBIER, apres de grandes reverences qui etonnent Almanzor.
+Beni soit, seigneur Almanzor, l'heureux jour qui m'approche de votre personne, le fidele esclave qui est venu m'apporter vos ordres, et l'occasion fortunee qui me procure le precieux avantage de vous etre utile !
+ALMANZOR, a part.
+Voila bien des ceremonies !
+LE BARBIER.
+Ah ! Seigneur, la renommee ne ment point. Vous etes en effet le vivant portrait du plus honnete et du plus vertueux pere. Je crois le voir, l'entendre, et ce souvenir m'arrache encore des larmes.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ALMANZOR.
+Consolez-vous, bonhomme, et songez que j'ai besoin de vous. Allons donc vite, Arlequin, allons donc vite !
+ARLEQUIN, pleurant.
+Oui, Monsieur.
+LE BARBIER, avec un profond soupir.
+Puisqu'il faut etouffer une douleur si juste, permettez-moi, Seigneur, de vous demander comment vous vous portez. Votre visage ne semble pas des meilleurs.
+ALMANZOR, avec une nuance d'impatience.
+Aussi ne fais-je que relever de maladie.
+LE BARBIER.
+Dieu veuille vous preserver de tous maux, et que l'esprit du Prophete vous conduise en toutes vos demarches !
+ALMANZOR.
+Arlequin ?...
+ARLEQUIN, preparant une toilette au fond du theatre.
+Tout est pret, Monsieur, tout est pret.
+LE BARBIER.
+Oserai-je a present vous demander en quoi mon petit ministere peut vous etre utile ? Est-ce le Medecin, l'Astrologue ou le Barbier dont vous avez besoin ?
+ALMANZOR.
+Quoi ! Ce traitre ne vous a pas dit ?....
+LE BARBIER.
+Doucement, seigneur Almanzor, doucement, toute impatience est dangereuse apres une grande maladie. Si vous etes curieux de votre horoscope, j'ai mon astrolabe. S'il faut vous tirer du sang, voici mes lancettes...
+ALMANZOR.
+Eh non ! Ce sont vos rasoirs qu'il me faut, et promptement, s'il vous plait.
+LE BARBIER.
+Je vais donc les chercher, et je suis a vous dans le moment ; dans le moment je suis a vous.
+SCENE VII. Almanzor, Arelquin.
+ALMANZOR.
+Comment, double faquin, tu vas m'appeler ce barbier, et tu ne lui dis pas ?...
+ARLEQUIN.
+Dans le moment il est a vous, Monsieur, dans le moment. Monsieur votre pere n'etait pas impatient comme vous, du moins ; mais tenez, le voila deja, le barbier, le voila !
+SCENE VIII. Le Barbier, Almanzor, Arlequin.
+LE BARBIER. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je n'ai pas tarde, comme vous le voyez, a prendre mes rasoirs ; mon grand age ne m'a point encore fait perdre de mon activite... Mais qu'allais-je faire ?
+ALMANZOR.
+Quelle diable de ceremonie faites-vous donc la ?
+LE BARBIER.
+La plus essentielle de toutes, celle sans laquelle l'homme raisonnable ne commence jamais aucune action.
+ALMANZOR.
+Aurez-vous bientot fini ?
+LE BARBIER.
+Voila qui est fait. Vous serez, sans doute, fort aise d'apprendre que nous sommes aujourd'hui au dix-huitieme de la lune de Saphar, de l'an quatorze cent treize, de l'epoque du grand Iskender aux deux cornes ; c'est-a-dire que, par la conjonction actuelle de Venus et de Mercure, vous ne pouviez choisir d'heure plus commode, plus propice et plus salutaire pour vous faire raser.
+ARLEQUIN.
+Ah, la belle chose ! La belle chose !
+ALMANZOR.
+Savez-vous, seigneur Astrologue ?....
+LE BARBIER.
+Il est vrai que je dois vous prevenir aussi que la meme conjonction vous expose...
+ALMANZOR.
+Eh ! Je n'ai que faire de vos avis, ni de vos predictions. Commencez, de grace, ou retirez-vous.
+LE BARBIER.
+Mais quel sujet avez-vous de vous mettre en colere ? Savez-vous que dans tout Bagdad vous ne trouveriez pas un Barbier qui me ressemble ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Un homme qui possede a fond la cosmometrie, la geometrie, la trigonometrie et l'arithmetique ! Qui soit plus verse dans la metallurgie, la chimie, l'anatomie, la zoologie, la musurgie, la myologie et la rhetorique ! Qui ait plus approfondi la chiromancie, l'arithmancie, la geomancie, l'hydromancie, la gyromancie, la pyromancie, l'onomancie, la rabdomancie, la myomancie, la necromancie et la grammaire ! Je ne parle point de la physiognonomie, de la metoposcopie, de l'onirocratie et de l'orthographe ! Il suffit de vous dire que vous voyez en moi la polymathie, ou plutot l'encyclopedie des connaissances humaines.
+ARLEQUIN, laissant tomber d'admiration le plat a barbe.
+Oh ! L'habile homme, l'habile homme!
+ALMANZOR, a part.
+Je crois que si j'etais moins presse, ce bourreau parviendrait a me faire rire.
+LE BARBIER, s'essuyant le visage.
+Ah ! Que votre honnete homme de pere connaissait bien tout mon merite ! Aussi...
+ALMANZOR.
+Homme, Barbier ou Diable, finiras-tu ? Je ne crois pas qu'il y ait dans toute la Perse un babillard de cette espece.
+LE BARBIER.
+Qui ? Moi babillard ? Vous me faites injure. J'avais six freres, a la verite, qui pouvaient meriter ce nom. L'aine se nommait Bacbouc; le second, Baebarac ; le troisieme Bacbac ; le quatrieme Alcouz ; le cinquieme Alnaschar ; et le sixieme Schacabac. C'etaient d'insupportables parleurs ; mais moi, qui suis leur cadet, je suis grave et concis dans mes discours : aussi m'avait-on surnomme le Silencieux...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ALMANZOR.
+Arlequin, donne-lui trois pieces d'or, qu'il s'en aille et me laisse en repos ; je ne veux plus me faire raser.
+LE BARBIER.
+Eh ! Qu'entendez-vous, s'il vous plait, par ce discours ? Ce n'est pas moi qui suis venu vous chercher ; c'est vous qui m'avez fait quitter ma boutique, et je jure, foi de Musulman, que je ne sortirai point d'ici que je ne vous aie rase. Si vous ne connaissez pas ce que je vaux, ce n'est pas ma faute.
+ALMANZOR, abattu d'impatience.
+Non ! Il n'est pas possible qu'il y ait au monde un homme qui se fasse, comme vous, un plaisir de desoler les gens ! Au nom de Dieu ! Laissez la tous vos beaux discours...
+LE BARBIER.
+Je vais parier que vous avez quelque affaire tres pressante.
+ALMANZOR.
+Eh ! Sans doute, il y a deux heures que je vous le dis.
+LE BARBIER, commencant a le raser, et s'arretant alternativement.
+Allons ! Seigneur Almanzor, nous allons commencer ; mais, au lieu de vous mettre en colere, si vous m'appreniez la nature de votre affaire, je pourrais vous donner d'excellents conseils.
+ALMANZOR, a part.
+Que puis-je dire a ce miserable ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Des amis m'attendent a un festin qu'ils me donnent pour celebrer le retour de ma sante.
+LE BARBIER.
+Ah ! Seigneur, s'il est ainsi, je vous accompagne, et des ce moment, je m'attache a votre service pour jamais. Je veux m'acquitter envers vous de tout ce que je dois a votre illustre pere. Aussi bien ma profonde science et ma profession me donnent a peine de quoi vivre : malgre cela, je n'engendre point de melancolie. Nous sommes quatre ou cinq amis de la meme humeur ; Zantou qui vend des feves; Aboumekares qui arrose les rues, et Cassem de la garde du Calife, tous bons vivants, ni querelleurs, ni facheux; silencieux, comme voire serviteur, et plus contents que le Calife lui-meme. Chacun d'eux a sa petite danse ou sa petite chanson pour amuser les passants. Je crois me rappeler celle d'Aboumekares qui arrose les rues.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Balada, balachou, balada, balada, balachou.
+ALMANZOR, en fureur.
+Maudit Barbier !... Traitre d'Arlequin !... Peste soit de l'extravagant ! Barbier de malheur, finirez-vous ?
+LE BARBIER, se remettant a l'ouvrage.
+Allez ! Seigneur Almanzor, quand vous aurez a votre suite un homme tel que moi...
+ALMANZOR.
+Juste Ciel ! Je ne pourrai donc pas me defaire de ce facheux ! Au nom de Dieu ! Cruel Barbier, treve de discours : allez trouver votre Zantou et vos autres amis ; buvez, mangez, rejouissez-vous, et laissez-moi la liberte d'aller avec les miens...
+LE BARBIER.
+Non, je n'abandonnerai pas ainsi le fils de mon genereux bienfaiteur. Il ne sera pas dit qu'on puisse me reprocher, dans Bagdad, une pareille ingratitude. Vos amis ne peuvent pas trouver mauvais que je vous accompagne : d'ailleurs, c'est une chose resolue; battez-moi, tuez-moi, je vous suivrai.
+ALMANZOR, a part.
+Ouf ! Dissimulons, et tachons par la douceur d'eloigner ce miserable.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh bien ! Voila qui est fini, sans doute ?
+LE BARBIER.
+A l'instant meme.
+ALMANZOR.
+Remportez vos rasoirs, vos lancettes, votre astrolabe, je ne partirai point sans vous.
+LE BARBIER, lui otant la serviette, et lui faisant plusieurs reverences.
+Voila une barbe qui m'a coute bien des peines ! Je vais vite chez moi, Seigneur, prendre un equipage plus honnete, et je reviens sans vous faire attendre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Balada, balachou, balada.
+SCENE IX. Almanzor, Arlequin.
+ALMANZOR.
+Que la foudre t'accompagne ! Enfin, m'en voila defait. Ah ! Scelerat d'Arlequin , rends grace au moment qui me presse, et qui m'empeche de t'assommer : oui de t'assommer, bourreau ! Mais a mon retour, quel orage de coups de baton ! Allons ! Mon doliman, miserable : vite ! Mes pabouches, mon turban.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'on m'attende. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN, l'appelant.
+Monsieur, Monsieur !
+ALMANZOR.
+Qu'est-ce encore ?
+ARLEQUIN.
+Vous oubliez donc ?...
+ALMANZOR.
+Quoi ?
+ARLEQUIN.
+Le Barbier.
+ALMANZOR, le battant.
+Attends-moi, traitre, attends ! Tiens, voila pour ton impertinence.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X.
+ALMANZOR, a la porte de Zulime.
+C'est ici la maison de Zulime. Je ne vois personne paraitre. Il me semble pourtant que Fatme devait se tenir aux environs pour m'introduire. Frappons. Mais que vois-je ?... Ah ! C'est encore ce facheux, ce demon que l'enfer a detache sur mes pas ! Fatme ! Fatme ! Il me prend fantaisie d'etrangler ce miserable. Je ne sais par quel pressentiment je crains sa presence. Fatme ! Mais on ouvre, et je crois entendre la voix de Zulime.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XI.
+LE BARBIER, accourant avec empressement.
+Seigneur Almanzor ! Seigneur Almanzor ! Ah ! Je vois ce que c'est. Il a quelque affaire chez le Cadi, dont il a voulu me faire un secret. Mais non... Le Cadi vient de sortir il n'y a qu'un moment... Il a passe devant ma boutique... Ah, diable ! Mais il a une tres-jolie fille. Ce sera, sans doute, cette Zulime dont Arlequin m'a parle. Ah ! Ah ! Je ne m'etonne plus s'il m'a donne tant d'impatience. Peste ! L'amour le tenait eveille de bon matin !... Mais pourquoi m'en faire un mystere ? Bon ! Demandez de la prudence aux jeunes gens! J'aurais pu le servir, ecarter les surveillants, les facheux... Si le Cadi allait rentrer ? Almanzor est tres heureux que je puisse observer ce qui se passe.... Mais il me semble... Non... Oui, je ne me trompe pas... C'est lui-meme, c'est le Cadi. Ah ! Les pauvres amants, les pauvres amants ! Comment empecher ce maudit vieillard de rentrer chez lui ? Si je voyais Arlequin... Il n'y a pas un moment a perdre, il faut l'aborder.
+SCENE XII. Le Cadi, Le Barbier, Suite du Cadi.
+LE BARBIER.
+Justice, seigneur Cadi, justice ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que diable lui dire ?
+AMBLETUSE.
+Approchez, l'honnete homme, approchez ; que voulez-vous ?
+LE BARBIER, a part.
+Arlequin est eloigne... Bon ! Il me vient l'idee d'un stratageme.
+AMBLETUSE.
+Rassurez-vous, et parlez. Croyez que tant que je vivrai, on n'aura pas fait impunement une injustice dans Bagdad. Levez-vous, bonhomme, levez-vous.
+LE BARBIER.
+Seigneur...
+AMBLETUSE.
+Levez-vous, vous dis-je.
+LE BARBIER.
+Je sais trop...
+AMBLETUSE.
+Je vous l'ordonne.
+LE BARBIER.
+Seigneur, je traversais a l'instant une rue detournee, charge d'un panier plein de provisions pour la subsistance de ma famille. J'avais fait emplette de deux chapons gras, d'une oie, et surtout d'un morceau de fromage d'une saveur admirable. J'invitais deja, dans ma tete, ceux de mes amis a qui je ferais part de ces mets delicieux, lorsqu'un esclave du seigneur Almanzor a passe pres de moi. L'occasion a tente ce miserable. Voir mes provisions, se jeter sur elles, y demeler, comme par une espece d'instinct, le morceau choisi dont je me regalais en esperance, et s'en emparer, fut l'affaire d'un instant. Voulant du moins lui disputer sa proie, je me suis au plutot debarrasse de mon panier ; mais lui, sans paraitre occupe de sa defense, tranquillement et comme pour me braver, a commence par devorer le fromage avec une avidite qui tient du prodige. La douleur me pretait des forces : j'allais m'elancer sur lui ; deja meme je croyais le saisir, quand le traitre, me passant sous le bras, a trouve le moyen de s'emparer encore du panier ; et me laissant immobile d'etonnement, s'est mis a courir d'une vitesse qui m'a fait perdre l'idee de le suivre.
+AMBLETUSE.
+Le cas est grave. Il est un de ceux expressement condamnes dans l'Alcoran, chapitre sept, verset soixante. Revenez ce soir, mon ami, je vous ferai justice : une affaire pressante m'appelle actuellement dans ma maison.
+LE BARBIER, a part, en se mettant entre la porte et le Cadi.
+Vraiment, ce n'est pas la mon compte.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Seigneur ?...
+AMBLETUSE.
+Eh bien !
+LE BARBIER.
+Si vous differez de me faire justice, ce malheureux pourra s'evader et se soustraire au chatiment.
+AMBLETUSE.
+Mais quel est-il encore cet esclave ? Le connaissez-vous ?
+LE BARBIER.
+Oui, Seigneur ; il se nomme Arlequin.
+AMBLETUSE.
+Arlequin ! Je crois connaitre cette figure-la.
+LE BARBIER.
+Vous avez pu cent fois l'apercevoir de vos fenetres.
+AMBLETUSE.
+Un balourd ?
+LE BARBIER.
+Justement.
+AMBLETUSE.
+Homme fort laid ?
+LE BARBIER.
+C'est lui-meme.
+AMBLETUSE.
+Une physionomie tres remarquable ?
+LE BARBIER.
+C'est cela.
+AMBLETUSE.
+Oui, je me le rappelle. Une figure assez patibulaire, d'ailleurs ?
+LE BARBIER.
+Precisement....
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais que vois-je ? Ah ! Pauvre Arlequin, ou viens-tu te fourrer? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)AMBLETUSE.
+Il y a longtemps que j'ai des memoires contre ce coquin-la.
+SCENE XIII. Arlequin, Le Cadi et sa Suite, Le Barbier.
+LE BARBIER, a part.
+Ah ! Pauvre Arlequin, pauvre Arlequin !
+LE CADI.
+Que murmurez-vous la de ce miserable ?... Mais ne serait-ce pas ?... Eh ! Oui, je pense, c'est lui-meme. La peine ne saurait fuir le criminel. Approche, malheureux, approche !
+ARLEQUIN.
+Ah ! Bonjour monsieur le Cadi.
+AMBLETUSE.
+Bonjour, monsieur le fripon, bonjour !
+ARLEQUIN.
+Fripon, Monsieur ?
+AMBLETUSE.
+Oui, fripon, voleur meme.
+ARLEQUIN.
+Ceci devient bien fort, au moins.
+AMBLETUSE.
+Et que je ferai pendre dans mon premier moment de loisir.
+ARLEQUIN.
+Monsieur, Monsieur, voila le Barbier....
+AMBLETUSE.
+Eh ! Oui, je le sais bien, maraud, voila le Barbier.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'on lui applique sur-le-champ la plus vigoureuse bastonnade.
+ARLEQUIN, battu.
+Ah, ah, ah, ah ! Seigneur. Cadi ; ah, ah ! Doucement, Messieurs. Ah, ah, ah ! Monsieur le Barbier, a mon secours.
+LE BARBIER, a Arlequin, d'un air de finesse.
+Paix ! C'est un stratageme.
+AMBLETUSE.
+Une autre fois, faquin, cela t'apprendra, a derober les passants.
+SCENE XIV. Le Barbier, Arlequin.
+ARLEQUIN.
+Que diable veut-il dire avec ses passants ?
+LE BARBIER.
+Ah ! Mon pauvre Arlequin, tu vois un homme au desespoir.
+ARLEQUIN.
+Quoi donc ?
+LE BARBIER.
+Tu me vois pret a m'aller pendre.
+ARLEQUIN.
+Comment ! Vous aurait-on donne aussi la bastonnade ?
+LE BARBIER.
+Au contraire, mon cher Arlequin ; ce sont les coups de baton que l'on t'a donnes dont je me plains. Ah, ah, ah !
+ARLEQUIN.
+Il est vrai que j'ai les cotes toutes rompues.
+LE BARBIER.
+Ah ! Ce ne sera rien, des que je t'aurai applique les specifiques convenables. Mais ce qui me desole, c'est que tu les aies recus ces coups de baton. Ah, ah, ah !
+ARLEQUIN.
+Ah ! L'honnete homme !
+LE BARBIER.
+Je voudrais qu'on me les rendit.
+ARLEQUIN, se mettant en devoir de le battre.
+Absolument ?
+LE BARBIER.
+Oui, mon cher Arlequin. Tu ne sais peut-etre pas encore qui t'a fait donner ces coups de baton ?
+ARLEQUIN.
+Non.
+LE BARBIER.
+Devine.
+ARLEQUIN.
+Ma foi... Cela m'est egal a present.
+LE BARBIER.
+C'est moi.
+ARLEQUIN.
+Vous, monsieur le Barbier ?
+LE BARBIER.
+Oui, mon cher Arlequin. Tu m'en vois penetre de douleur ; mais c'etait le plus beau stratageme !
+ARLEQUIN.
+Comment donc cela, s'il vous plait ?
+LE BARBIER.
+Ecoute ! Ton maitre est actuellement chez la fille du Cadi.
+ARLEQUIN.
+Eh bien !
+LE BARBIER.
+J'ai juge qu'il y etait pour une intrigue d'amour, et que le retour du Cadi allait le jeter dans le plus grand embarras. J'ai voulu empecher ce maudit vieillard d'entrer chez lui, et pour l'en detourner, je lui ai conte l'histoire
+ARLEQUIN.
+De la tortue ?
+LE BARBIER.
+Non ; mais celle d'un pretendu vol que tu m'avais fait : tu concois combien cela devenait plaisant.
+ARLEQUIN, riant.
+Oh, oh, oh, oh ! Oui, c'etait effectivement une drole d'invention.
+LE BARBIER.
+C'etait le plus adroit stratageme que j'eusse imagine de ma vie ! Mais, par malheur, tu es arrive precisement pour recevoir cette grele de coups de baton...
+ARLEQUIN.
+Oui, voila qui ne vaut plus rien, par exemple.
+LE BARBIER.
+Je regretterai toute ma vie ce stratageme-la. Il faut pourtant se consoler, mon cher Arlequin, et ne pas laisser ton maitre dans la crise. Si ce malheureux Cadi venait a le decouvrir...
+ARLEQUIN.
+Il n'en serait peut-etre pas quitte pour une bastonnade ?
+LE BARBIER.
+Vraiment, non. Je suis dans une agitation, dans une inquietude affreuse... N'entends-tu pas quelque bruit, mon cher Arlequin ? Approche-toi tout doucement de la porte du Cadi.
+ARLEQUIN, s'approchant de la porte.
+Ah ! Monsieur le Barbier, l'excellente odeur de macarons !
+LE BARBIER.
+Ecoute ! ecoute !
+ARLEQUIN.
+Voila des macarons qui embaument !
+LE BARBIER.
+N'entends-tu rien ?
+ARLEQUIN.
+Oh ! Que si, j'entends.
+LE BARBIER.
+Quoi ?
+ARLEQUIN.
+Je me trompais ; ce n'est que le tournebroche.
+LE BARBIER.
+Tout est donc bien tranquille ?
+ARLEQUIN.
+Oh ! Pour le coup, j'entends quelque chose. Venez, venez ecouter vous-meme.
+LE BARBIER, s'approchant.
+Je n'entends rien.
+ARLEQUIN.
+Ah ! Je l'entends bien, moi. Peste ! Quel sabbat !
+LE BARBIER.
+Comment ?
+ARLEQUIN.
+Ce n'est rien, ce n'est rien ; c'est le petit chat qui miaule.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oh ! Oh ! Ce n'est plus un badinage, au moins.
+LE BARBIER.
+Qu'est-ce donc, mon cher Arlequin ?
+ARLEQUIN.
+J'entends un bruit epouvantable.
+LE BARBIER.
+Oh ! Il n'en faut plus douter ! C'est assurement ton maitre qui est decouvert. Pauvre jeune homme ! Que diable allait-il faire chez ce chien de Cadi ? Cours vite, mon cher Arlequin. Cours chercher tous les esclaves du malheureux Almanzor. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Au secours ! Mes voisins, au secours ! Au meurtre ! Ah ! C'est une chose abominable, et, qui crie vengeance ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Te voila, mon pauvre Arlequin ! Frappons tous, mes amis ; brisons la porte de ce maudit vieillard.
+SCENE XV. Le Cadi, Le Barbier, Arlequin, Esclaves d'Almanzor.
+AMBLETUSE.
+Que veut donc dire tout ce tapage ? A-t-on jamais fait un pareil bruit a la porte d'un honnete homme ?
+ARLEQUIN.
+Ah ! Ah ! Monsieur le Cadi, vous croyez donc qu'il ne tient qu'a faire donner la bastonnade, et qu'il vous sera permis d'assassiner les gens ?
+AMBLETUSE.
+Assassiner les gens ?
+LE BARBIER.
+Oui, mechant Cadi. Rendez-nous notre maitre au plus vite, ou nous allons bruler la maison.
+ALMANZOR, a la fenetre, faisant inutilement des signes au Barbier.
+Quoi ! C'est encore ce malheureux ! Ce traitre !....
+AMBLETUSE.
+Votre maitre, imposteur, votre maitre ? Eh ! Quel sujet m'aurait-il donne de le maltraiter ? Est-ce qu'il est dans ma maison ?
+LE BARBIER.
+Vous ne m'en ferez point accroire avec votre grande barbe, vieil hypocrite. Je sais bien ce que je dis. Votre fille aime notre maitre, et lui a donne un rendez-vous pendant votre absence....
+ALMANZOR.
+Juste Ciel!
+LE BARBIER.
+Quelque demon vous en aura sans doute averti, vieux magicien ; vous les avez surpris ensemble, et vous...
+LE CADI.
+Cet homme me semblait tout-a-l'heure dans son bon sens. Quelque maligne vapeur, sans doute
+ARLEQUIN.
+Oh ! Que nenni, Monsieur, oh ! Que nenni ; le Barbier n'a point de vapeurs.
+LE CADI.
+La tete tourne assurement a,ces bonnes gens. Mes amis, si ce que vous dites est vrai, il n'est pas besoin, de faire tant d'eclat. Entrez, voyez, cherchez, je vous le permets.
+LE BARBIER.
+Oui, oui , nous chercherons. Attendez-moi la seulement, mes amis. Le Calife sera informe de cette action, et il en fera bonne et breve justice.
+LE CADI.
+Entrez seulement sans tant de rumeur.... Mais que vois-je ? C'est Almanzor lui-meme : qu'on l'arrete, a l'instant.
+SCENE XVI. Les Acteurs precedents, Almanzor.
+ALMANZOR.
+Il n'en est pas besoin, seigneur Cadi. Je viens moi-meme me livrer a votre ressentiment. J'adore, il est vrai, la belle Zulime. Mon amour, ma constance, ont flechi son insensibilite. Voudrez-vous faire deux malheureux ?...
+AMBLETUSE.
+Vous en etes aime, dites-vous ?
+SCENE XVII ET DERNIERE. Les Acteurs precedents, Zulime.
+ZULIME.
+Oui, mon pere , j'ose vous l'avouer. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ma perte et ma grace sont entre vos mains ; mais Zulime vous est chere, et le meme arret qui lui donnerait la mort, entrainerait aussi la mienne.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE CADI, apres un moment de silence.
+Levez-vous, mes enfants ! Je ne briserai pas des noeuds que le Ciel meme semble avoir pris plaisir a former.
+ALMANZOR.
+Je suis au comble du bonheur. En faveur de cet evenement, trouvez bon, seigneur Cadi, que je donne la liberte a mes esclaves. Je me charge de l'etablissement de Fatme, et meme de ce malheureux Arlequin.
+ARLEQUIN.
+Et le Barbier ?
+ALMANZOR.
+Je lui pardonne aussi ; mais ne m'en parle jamais.
+LE BARBIER.
+Mon zele ne saurait se dementir. Je vais, seigneur Almanzor, faire tout disposer pour les apprets de la noce.
+
+	==================================================

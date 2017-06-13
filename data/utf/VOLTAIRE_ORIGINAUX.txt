@@ -1,0 +1,1405 @@
+********************************************************
+	DC.Title                  = LES ORIGINAUX OU MONSIEUR DU CAP-VERT, COMEDIE
+	DC.Author                 = VOLTAIRE
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:30.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/VOLTAIRE_ORIGINAUX.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LES ORIGINAUX OU MONSIEUR DU CAP-VERT COMEDIE EN TROIS ACTES, ET EN PROSE.M DDD XXXII
+Voltaire
+	
+	
+	Represente pour la premiere fois en 1732 dans un theatre particulier.
+	AVERTISSEMENT DE BEUCHOT.
+Cette piece n'a jamais ete representee sur des theatres publics; mais elle l'a ete sur un theatre particulier, en 1732. C'est Voltaire lui-meme qui le dit dans son article Art dramatique des Questions sur l'Encyclopedie. La premiere edition des Originaux a ete donnee par M. E.-A. Lequien, en 1820, dans le tome IX de son edition des Oeuvres de Voltaire. Un manuscrit intitule Monsieur du Cap-Vert, et qui etait dans la bibliotheque de Pont-de-Veyle, appartenant aujourd'hui a M. de Soleinne, presente des differences de texte dont quelques-unes ont ete admises par M. Lequien, et reproduites par des editeurs plus recents. Je m'en suis tenu au manuscrit dont je suis redevable a feu Decroix, et qu'il avait fait faire sur une copie venant de Longchamp, secretaire de Voltaire. J'ai mis en variantes les passages introduits dans le texte par M. Lequien.
+Chalet de Jetphort, editeur des Etrennes lyriques, donna, dans le volume de 1785, les cinq couplets qui terminent les Originaux, comme tires d'une comedie de Voltaire, intitulee: Le Capitaine Boursoufle. Mais il manquait deux vers au 3e couplet; et d'Aquin de Chateaulyon, dans son Almanach litteraire de 1786, ne cita que quatre couplets. Le nom de Boursoufle est au nombre des personnages dans le manuscrit intitule Monsieur du Cap-Vert et c'est sous le titre de Grand Boursoufle que Mme de Grafigny parle des Originaux (voyez Vie privee de Voltaire et de Mme du Chatelet, 1820, in-8°, pages 130 et 135). Voltaire avait aussi donne le titre de Boursoufle aune piece dont il existe plusieurs versions: voyez l'Avertissement (de M. Decroix) en tete de l'Echange.
+Les Originaux ont donne l'idee du Prejuge a la mode, comedie de Lachaussee, jouee en 1735. La scene v du cinquieme acte du Prejuge a la mode a surtout quelque rapport avec la scene ix du troisieme acte des Originaux.
+
+PERSONNAGES
+MONSIEUR DU CAP-VERT, armateur.
+LE PRESIDENT BODIN.
+LA PRESIDENTE BODIN.
+LE COMTE DES APPRETS, gendre du president. 
+LA COMTESSE, epouse du comte.
+LE CHEVALIER DU HASARD, frere inconnu du comte.
+FANCHON, fille cadette du president, soeur de la comtesse, et amante du chevalier. 
+MADAME DU CAP-VERT, femme de l'armateur.
+MONSIEUR DE L'ETRIER, ecuyer du comte.
+MONSIEUR DU TOUPET, perruquier du comte.
+PLUSIEURS VALETS DE CHAMBRE.
+UN PAGE.
+CHAMPAGNE, laquais de la presidente. 
+NUIT-BLANCHE, laquais du chevalier du Hasard.
+MADAME RAFLE, gouvernante.
+La scene est dans la maison du president.
+
+
+
+			ACTE I
+
+
+SCENE I. Le Chevalier du Hasard, Nuit-Blanche.
+LE CHEVALIER.
+Nuit-Blanche !
+NUIT-BLANCHE.
+Monsieur ?
+LE CHEVALIER.
+N'est-ce point ici la maison ?
+NUIT-BLANCHE.
+Je crois que nous y voici. Nous sommes pres du jardin du president Bodin : n'est-ce pas cela que vous cherchez ?
+LE CHEVALIER.
+Oui, c'est cela meme ; mais il faut bien autre chose.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Elle ne parait point encore.
+NUIT-BLANCHE.
+Qui ?
+LE CHEVALIER.
+Elle.
+NUIT-BLANCHE.
+Qui, elle ?
+LE CHEVALIER.
+Cette fille charmante.
+NUIT-BLANCHE.
+Quoi ! Monsieur, la fille du president Bodin vous aurait deja donne rendez-vous ?
+LE CHEVALIER.
+Je vous trouve bien impertinent avec votre deja il y a un mois entier que je l'aime, et qu'elle le sait ; il y a par consequent bientot un mois qu'elle aurait du m'accorder cette petite faveur. Mais que veux-tu ? les filles s'enflamment aisement et se rendent difficilement : si c'etait une dame un peu accoutumee au monde, nous nous serions peut-etre deja quittes.
+NUIT-BLANCHE.
+Eh ! De grace, monsieur, ou avez-vous deja fait connaissance avec cette demoiselle dont le coeur est si aise, et l'acces si difficile ?
+LE CHEVALIER.
+Ou je l'ai vue ? Partout, a l'opera, au concert, a la comedie, enfin en tous les lieux ou les femmes vont pour etre lorgnees, et les hommes perdre leur temps. J'ai gagne sa suivante de la facon dont on vient a bout de tout, avec de l'argent : c'etait a elle que tu portais toutes mes lettres, sans la connaitre. Enfin, apres bien des prieres et des refus, elle consent a me parler ce soir. Les fenetres de sa chambre donnent sur le jardin. On ouvre, avancons.
+SCENE II. Fanchon, a la fenetre ; Le Chevalier, au-dessous.
+FANCHON.
+Est-ce vous, Monsieur le Chevalier ?
+LE CHEVALIER.
+Oui, c'est moi, mademoiselle, qui fais, comme vous voyez, l'amour a l'espagnole, et qui serais tres heureux d'etre traite a la francaise, et de dire a vos genoux que je vous adore, au lieu de vous le crier sous les fenetres, au hasard d'etre entendu d'autres que de vous.
+FANCHON.
+Cette discretion me plait : mais parlez-moi franchement, m'aimez-vous ?
+LE CHEVALIER.
+Depuis un mois, je suis triste avec ceux qui sont gais ; je deviens solitaire, insupportable a mes amis et a moi-meme ; je mange peu, je ne dors point : si ce n'est pas la de l'amour, c'est de la folie ; et, de facon ou d'autre, je merite un peu de pitie.
+FANCHON.
+Je me sens toute disposee a vous plaindre ; mais si vous m'aimiez autant que vous dites, vous vous seriez deja introduit aupres de mon pere et de ma mere, et vous seriez le meilleur ami de la maison, au lieu de faire ici le pied de grue et de sauter les murs d'un jardin.
+LE CHEVALIER.
+Helas que ne donnerais-je point pour etre admis dans la maison
+FANCHON.
+C'est votre affaire ; et, afin que vous puissiez y reussir, je vais vous faire connaitre le genie des gens que vous avez a menager.
+LE CHEVALIER.
+De tout mon coeur, pourvu que vous commenciez par vous.
+FANCHON.
+Cela ne serait pas juste ; je sais trop ce que je dois a mes parents. Premierement, mon pere est un vieux president riche et bonhomme, fou de l'astrologie, ou il n'entend rien. Ma mere est la meilleure femme du monde, folle de la medecine, ou elle entend tout aussi peu : elle passe sa vie a faire et a tuer des malades. Ma soeur ainee est une grande creature, bien faite, folle de son mari, qui ne l'est point du tout d'elle. Son mari, mon beau-frere, est un soi-disant grand seigneur, fort vain, tres fat, et rempli de chimeres. Et moi, je deviendrais peut-etre encore plus folle que tout cela si vous m'aimiez aussi sincerement que vous venez de me l'assurer.
+LE CHEVALIER.
+Ah ! Madame ! Que vous me donnez d'envie de figurer dans votre famille ! Mais...
+FANCHON.
+Mais, il serait bon que vous me parlassiez un peu de la votre ; car je ne connais encore de vous que vos lettres.
+LE CHEVALIER.
+Vous m'embarrassez fort : il me serait impossible de donner du ridicule a mes parents.
+FANCHON.
+Comment ! Impossible ! Vous n'avez donc ni pere ni mere ?
+LE CHEVALIER.
+Justement.
+FANCHON.
+Ne peut-on pas savoir au moins de quelle profession vous etes ?
+LE CHEVALIER.
+Je fais profession de n'en avoir aucune ; je m'en trouve bien. Je suis jeune, gai, honnete homme ; je joue, je bois, je fais, comme vous voyez, l'amour : on ne m'en demande pas davantage. Je suis assez bien venu partout ; enfin je vous aime de tout mon coeur : c'est une maladie que votre astrologue de pere n'a pas prevue, et que votre bonne femme de mere ne guerira pas, et qui durera peut-etre plus que vous et moi ne voudrions.
+FANCHON.
+Votre humeur me fait plaisir ; mais je crains bien d'etre aussi malade que vous je ne vous en dirais pas tant si nous etions de plain-pied ; mais je me sens un peu hardie, de loin... Eh ! Mon Dieu ! Voici ma grande soeur qui entre dans ma chambre, et mon pere et ma mere dans le jardin. Adieu ; je jugerai de votre amour si vous vous tirez de ce mauvais pas en habile homme. 
+NUIT-BLANCHE, en se collant a la muraille.
+Ah ! Monsieur, nous sommes perdus ! Voici des gens avec une arquebuse.
+LE CHEVALIER.
+Non, ce n'est qu'une lunette ; rassure-toi. Je suis sur de plaire a ces gens-ci, puisque je connais leur ridicule et leur faible.
+SCENE III. Le President Bodin, La Predisente, Domestiques, Le Chavalier, Nuit-Blanche.
+LE PRESIDENT, avec une grande lunette.
+On voit bien que je suis ne sous le signe du cancre ; toutes mes affaires vont de guingois. Il y a six mois que j'attends mon ami Monsieur du Cap-Vert, ce fameux capitaine de vaisseau qui doit epouser ma cadette ; et je vois certainement qu'il ne viendra de plus d'un an : le bourreau a Venus retrograde. Voici, d'un autre cote, mon impertinent de gendre, Monsieur le comte des Apprets, a qui j'ai donne mon ainee ; il affecte l'air de la mepriser ; il ne veut pas me faire l'honneur de me donner des petits-enfants : ceci est bien plus retrograde encore. Ah ! Malheureux president ! Malheureux beau-pere ! Sur quelle etoile ai-je marche ? Ca, voyons un peu en quel etat est le ciel ce soir.
+LA PRESIDENTE.
+Je vous ai deja dit, mon toutou, que votre astrologie n'est bonne qu'a donner des rhumes ; vous devriez laisser la vos lunettes et vos astres. Que ne vous occupez-vous, comme moi, de choses utiles ? J'ai trouve enfin l'elixir universel, et je gueris tout mon quartier. Eh bien, Champagne, comment se porte ta femme, a qui j'en ai fait prendre une dose ?
+CHAMPAGNE.
+Elle est morte ce matin.
+LA PRESIDENTE.
+J'en suis fachee : c'etait une bonne femme. Et mon filleul, comment est-il depuis qu'il a pris ma poudre corroborative ?... Eh mais ! Que vois-je, mon toutou ? Un homme dans notre jardin !
+LE PRESIDENT.
+Ma toute, il faut observer ce que ce peut etre, et bien calculer ce phenomene.
+LE CHEVALIER, tirant sa lunette d'opera.
+Le soleil entre dans sa cinquantieme maison.
+LE PRESIDENT.
+Et vous, monsieur, qui vous fait entrer dans la mienne, s'il vous plait ?
+LE CHEVALIER, en regardant le ciel.
+L'influence des astres, monsieur, Venus, dont l'ascendance...
+LE PRESIDENT.
+Que veut dire ceci ? C'est apparemment un homme de la profession.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA PRESIDENTE.
+C'est apparemment quel que jeune homme qui vient me demander des remedes ; il est vraiment bien joli : c'est grand dommage d'etre malade a cet age.
+LE PRESIDENT.
+Excusez, monsieur, si, n ayant pas l'honneur de vous connaitre...
+LE CHEVALIER.
+Ah ! Monsieur, c'etait un bonheur que les conjonctions les plus benignes me faisaient esperer : je me promenais pres de votre magnifique maison pour...
+LA PRESIDENTE.
+Pour votre sante apparemment.
+LE CHEVALIER.
+Oui, madame ; je languis depuis un mois, et je me flatte que je trouverai enfin du secours. On m'a assure que vous aviez ici ce qui me guerirait.
+LA PRESIDENTE.
+Oui, oui, je vous guerirai ; je vous entreprends, et je veux que ma poudre et mon dissolvant...
+LE PRESIDENT.
+C'est ma femme, monsieur, que je vous presente. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La pauvre toute est un peu blessee la... Mais parlons un peu raison, s'il vous plait. Ne disiez-vous pas qu'en vous promenant pres de ma maison vous aviez...
+LE CHEVALIER.
+Oui, monsieur, je vous disais que j'avais decouvert un nouvel astre au-dessus de cette fenetre, et qu'en le contemplant j'etais entre dans votre jardin.
+LE PRESIDENT.
+Un nouvel astre ! Comment ! Cela fera du bruit.
+LE CHEVALIER.
+Je voudrais bien pourtant que la chose fut secrete. Il brillait comme Venus, et je crois qu'il a les plus douces influences du monde. Je le contemplais, j'ose dire, avec amour ; je ne pouvais en ecarter mes yeux j'ai meme, puisqu'il faut vous le dire, ete fache quand vous avez paru.
+LE PRESIDENT.
+Vraiment, je le crois bien.
+LE CHEVALIER.
+Pardonnez, monsieur, a ce que je vous dis ; ne me regardez pas d'un aspect malin, et ne soyez pas en opposition avec moi : vous devez savoir l'empressement que j'avais de vous faire ma cour. Mais enfin, quand il s'agit d'un astre...
+LE PRESIDENT.
+Ah ! Sans doute. Et ou l'avez-vous vu ? Vous me faites palpiter le coeur.
+LE CHEVALIER.
+C'est l'etat ou je suis. Je l'ai vu, vous dis-je. Ah ! Quel plaisir j'avais en le voyant ! Quel aspect ! C'etait tout juste ici ; mais cela est disparu des que vous etes venu dans le jardin.
+LE PRESIDENT.
+Ceci merite attention : c'etait sans doute quelque comete.
+LE CHEVALIER.
+Du moins elle avait une fort jolie chevelure.
+LA PRESIDENTE, le tirant par le bras.
+Mon pauvre jeune homme, ne vous arretez point aux visions cornues de mon mari. Venons au fait : peut-etre votre mal presse.
+LE CHEVALIER.
+Oui, madame ; je me sentais tout en feu avant que vous parussiez.
+LA PRESIDENTE, lui tatant le pouls.
+Voila cependant un pouls bien tranquille.
+LE CHEVALIER.
+Ah ! Madame, ce n'est que depuis que j'ai l'honneur de vous parler : c'etait tout autre chose auparavant. Ah ! Quelle difference, madame !
+LA PRESIDENTE.
+Pauvre enfant vous avez pourtant la couleur bonne et l'oeil assez vif. Ca, ne deguisez rien : avez-vous la liberte du...
+LE CHEVALIER.
+Plus de liberte, madame ; c'est la mon mal : cela commenca, il y a un mois, sur l'escalier de la Comedie ; mes yeux furent dans un eblouissement involontaire, mon sang s'agita ; j'eprouvai des palpitations, des inquietudes, ah ! Madame, des inquietudes !...
+LA PRESIDENTE.
+Dans les jambes ?
+LE CHEVALIER.
+Ah ! Partout, madame, des inquietudes cruelles ; je ne dormais plus ; je revais toujours a la meme chose, j'etais melancolique.
+LA PRESIDENTE.
+Et rien ne vous a donne du soulagement ?
+LE CHEVALIER.
+Pardonnez-moi, madame ; cinq ou six ordonnances par ecrit mont donne un peu de tranquillite. Je me suis mis entre les mains d'un medecin charmant, qui a entrepris ma cure ; mais je commence a croire qu'il faudra que vous daigniez l'aider : heureux si vous pouvez consulter avec lui sur les moyens de me mettre dans l'etat ou j'aspire.
+LA PRESIDENTE.
+Oh ! Vous n'avez qu'a l'amener, je le purgerai lui-meme, je vous en reponds.
+LE PRESIDENT.
+Or ca, monsieur, point de compliments entre gens du metier : vous souperez avec nous ce soir, si vous le trouvez bon ; et cela en famille avec ma femme, ma fille la comtesse, et ma fille Fanchon.
+LE CHEVALIER.
+Ah ! Monsieur, vous ne pouviez, je vous jure, me faire un plus grand plaisir.
+LE PRESIDENT.
+Et apres souper, je veux que nous observions ensemble l'etat du ciel.
+LE CHEVALIER.
+Pardonnez-moi, monsieur ; j'ai d'ordinaire apres souper la vue un peu trouble.
+LA PRESIDENTE.
+Vous voulez me tuer ce pauvre garcon ; et moi, je vous dis qu'apres souper il prendra trois de mes pilules. Mais je veux auparavant qu'il fasse connaissance avec toute ma famille.
+LE PRESIDENT.
+C'est bien dit, ma toute : qu'on fasse descendre madame la comtesse et Fanchon.
+LA PRESIDENTE.
+Mes filles ! Madame la comtesse !
+LA COMTESSE.
+Nous descendons, madame.
+FANCHON.
+Je vole, ma mere.
+SCENE IV. Le President, La Presidente, Madame La Comtesse, Fanchon, Le Chevalier.
+LA PRESIDENTE.
+Mes filles, voici un de mes malades que je vous recommande je veux que vous en ayez soin ce soir a souper.
+FANCHON.
+Ah ! Ma mere, si nous en aurons soin ! Il sera entre nous deux, et ce sera moi qui le servirai.
+LE PRESIDENT.
+Ce jeune gentilhomme, mes filles, est un des grands astrologues que nous ayons : ne manquez pas de lui bien faire les honneurs de la maison.
+LE CHEVALIER.
+Ah ! Monsieur, je revois la brillante comete dont la vue est si charmante.
+LE PRESIDENT.
+J'ai beau guigner, je ne vois rien.
+LE CHEVALIER.
+C'est que vous ne regardez pas avec les memes yeux que moi.
+LA PRESIDENTE.
+Eh bien ! Madame la comtesse, serez-vous toujours triste ? Et ne pourrai-je point purger cette mauvaise humeur ? J'ai deux filles bien differentes. Vous diriez Democrite et Heraclite l'une a l'air d'une veuve affligee ; et cette etourdie-ci rit toujours. Il faut que je donne des gouttes d'Angleterre a l'une, et de l'opium a l'autre.
+LA COMTESSE.
+Helas ! Madame, vous me traitez de veuve ; il est trop vrai que je le suis. Vous m'avez mariee, et je n'ai point de mari : monsieur le comte s'est mis dans la tete qu'il derogerait s'il m'aimait. J'ai le malheur de respecter des noeuds qu'il neglige, et de l'aimer parce qu'il est mon mari, comme il me meprise parce que je suis sa femme : je vous avoue que j'en suis inconsolable.
+LA PRESIDENTE.
+Votre mari est un jeune fat, et toi, une sotte, ma chere fille : je n'ai point de remedes pour des cas si desesperes. Le comte ne vous voit point du tout la nuit, rarement le jour. Je sais bien que l'affront est sanglant ; mais enfin c'est ainsi que M. Le president en use avec moi depuis quinze ans : vois-tu que je m'arrache les cheveux pour cela ?
+FANCHON.
+La chose est un peu differente : pour moi, si j'etais a la place de ma soeur ainee, je sais bien ce que je ferais.
+LA PRESIDENTE.
+Eh quoi, coquine ?
+FANCHON.
+Ce qu'elle est assez sotte pour ne pas faire.
+LE PRESIDENT.
+J'ai beau observer, je me donne le torticolis, et je ne decouvre rien. Je vois bien que vous etes plus habile que moi : oui, vous etes venu tout a propos pour me tirer de bien des embarras.
+LE CHEVALIER.
+Il n'y a rien que je ne voulusse faire pour vous.
+LE PRESIDENT.
+Vous voyez, monsieur, mes deux filles : l'une est malheureuse parce qu'elle a un mari ; et celle-ci commence a l'etre parce qu'elle n'en a point. Mais ce qui me desoriente et me fait voir des etoiles en plein midi...
+FANCHON.
+Eh bien ! Mon pere ?
+LE CHEVALIER.
+Eh bien ! Monsieur ?
+LE PRESIDENT.
+C'est que le mari qui est destine a ma fille cadette...
+FANCHON.
+Un mari, mon pere !
+LE CHEVALIER.
+Un mari, monsieur !
+LA PRESIDENTE.
+Eh bien ! Ce mari, peut-etre est-il malade. Cela ne sera rien ; je le guerirai.
+LE PRESIDENT.
+Ce mari, Monsieur du Cap-Vert, ce fameux armateur...
+FANCHON.
+Ah ! Mon pere, un corsaire ?
+LE PRESIDENT.
+C'est mon ancien ami : vous croyez bien que j'ai tire sa nativite. Il est ne sous le signe des poissons. Je lui avais promis de plus Fanchon avant qu'elle fut nee ; en un mot, ce qui me confond, c'est que je vois clairement que Fanchon sera mariee bientot, et encore plus clairement que Monsieur du Cap-Vert ne sera de retour que dans un an : il faut que vous m'aidiez a debrouiller cette difficulte.
+FANCHON.
+Cela me parait tres aise, mon pere : vous verrez que je serai mariee incessamment, et que je n'epouserai pas votre marin.
+LE CHEVALIER.
+Autant que mes faibles lumieres peuvent me faire entrevoir, mademoiselle votre fille, monsieur, raisonne en astrologue judicieuse encore plus que judiciaire ; et je crois, moi, par les aspects d'aujourd'hui, que ce forban ne sera jamais son mari.
+FANCHON.
+Sans avoir etudie, je l'ai devine tout d'un coup.
+LE PRESIDENT.
+Et sur quoi pensez-vous, monsieur, que le capitaine ne sera pas mon gendre ?
+LE CHEVALIER.
+C'est qu'il est deja gendre d'un autre. Ce capitaine n'est-il pas de Bayonne ?
+LE PRESIDENT.
+Oui, monsieur.
+LE CHEVALIER.
+Eh bien ! Je suis aussi de Bayonne, moi qui vous parle.
+FANCHON.
+Je crois que le pays d'ou vous etes sera le pays de mon mari.
+LE PRESIDENT.
+Que fait au mariage de ma fille que vous soyez de Bayonne ou de Pampelune ?
+LE CHEVALIER.
+Cela fait que j'ai connu Monsieur du Cap-Vert lorsque j'etais enfant, et que je sais qu'il etait marie a Bayonne.
+LE PRESIDENT.
+Eh bien ! Je vois que vous ne savez pas le passe aussi bien que l'avenir. Je vous apprends qu'il n'est plus marie, que sa femme est morte il y a quinze ans, qu'il en avait environ cinquante quand il l'a perdue, et que, des qu'il sera de retour, il epousera Fanchon. Allons tous souper.
+LE CHEVALIER.
+Oui. Mais je n'ai point oui dire que sa femme fut morte.
+FANCHON.
+Je me trompe bien fort, ou les etoiles auront un pied de nez dans cette affaire, et je ne m'embarquerai pas avec Monsieur du Cap-Vert.
+LE CHEVALIER.
+Au moins, mademoiselle, le voyage ne serait pas de long cours. Par le calcul de monsieur votre pere, le pauvre cher homme a soixante-dix ans, et pourrait mourir de vieillesse avant de me faire mourir de douleur.
+LA PRESIDENTE.
+Allons, mon malade, ne vous amusez point ici. Tout ce que je connais du ciel a l'heure qu'il est, c'est qu'il tombe du serein. Donnez-moi la main, et venez vous mettre a table a cote de moi.
+SCENE V. La Comtesse, Fanchon.
+LA COMTESSE.
+Demeure un peu, ma soeur Fanchon.
+FANCHON.
+Il faut que j'aille servir notre malade, ma chere comtesse : le ciel le veut comme cela.
+LA COMTESSE.
+Donne-moi pour un moment la preference.
+FANCHON.
+Pour un moment, passe.
+LA COMTESSE.
+Je n'ai plus de confiance qu'en toi, ma petite soeur.
+FANCHON.
+Helas ! Que puis-je pour vous, moi qui suis si fort embarrassee pour moi-meme ?
+LA COMTESSE.
+Tu peux m'aider.
+FANCHON.
+A quoi ? A vous venger de votre glorieux et impertinent mari ? Oh ! De tout mon coeur.
+LA COMTESSE.
+Non, mais a m'en faire aimer.
+FANCHON.
+Il n'en vaut pas la peine, puisqu'il ne vous aime pas. Mais voila malheureusement la raison pour quoi vous etes si fort attachee a lui : s'il etait a vos pieds, vous seriez peut-etre indifferente.
+LA COMTESSE.
+Le cruel me traite avec tant de mepris !... Il en use avec moi comme si nous etions maries de cinquante ans.
+FANCHON.
+C'est un air aise : il pretend que ce sont les manieres du grand monde. Le fat ! Ah ! Que vous etes bonne, ma soeur, d'etre honnete femme !
+LA COMTESSE.
+Prends pitie de ma sottise.
+FANCHON.
+Oui, mais a condition que vous prendrez part a ma folie.
+LA COMTESSE.
+Aide-moi a gagner le coeur de mon mari.
+FANCHON.
+Pourvu que vous me pretiez quelque secours pour m'empecher d'etre l'esclave du corsaire qu'on me destine.
+LA COMTESSE.
+Viens, je te communiquerai mes desseins apres souper.
+FANCHON.
+Et moi, je vous communiquerai mes petites idees... Voila comme les soeurs devraient toujours vivre. Allons donc, ne pleurez plus, pour que je puisse rire.
+
+
+			ACTE II
+
+
+SCENE I. La Comtesse, Fanchon.
+LA COMTESSE.
+J'ai passe une nuit affreuse, ma chere petite soeur.
+FANCHON.
+Je n'ai pas plus dormi que vous.
+LA COMTESSE.
+J'ai toujours les dedains de mon mari sur le coeur.
+FANCHON.
+Et moi, les agrements du chevalier dans l'imagination.
+LA COMTESSE.
+Tu te moques de moi, de voir a quel point j'aime mon mari.
+FANCHON.
+Vous ne songez guere combien le chevalier me tourne la tete.
+LA COMTESSE.
+Je tremble pour toi.
+FANCHON.
+Et moi, je vous plains.
+LA COMTESSE.
+Aimer un jeune aventurier qui a meme la bonne foi de faire entendre qu'il n'a ni naissance ni fortune !
+FANCHON.
+Larmoyer pour un mari qui n'est peut-etre pas si grand seigneur qu'il le dit !
+LA COMTESSE.
+Ah !
+FANCHON.
+Qui a plus de dettes que de bien, plus d'impertinence que d'esprit, plus d'orgueil que de magnificence, plus...
+LA COMTESSE.
+Ah ! Ma soeur !
+FANCHON.
+Qui vous dedaigne, qui prodigue avec des filles d'opera ce que vous lui avez apporte en mariage, un debauche, un fat...
+LA COMTESSE.
+Ah ! Ma soeur, arretez donc.
+FANCHON.
+Un petit freluquet idolatre de sa figure, et qui est plus longtemps que nous a sa toilette, qui copie tous les ridicules de la cour sans en prendre une seule bonne qualite, qui fait l'important, qui...
+LA COMTESSE.
+Ma soeur, je ne puis en entendre davantage.
+FANCHON.
+Il ne tient pourtant qu'a vous : cela ne finira pas sitot.
+LA COMTESSE.
+Il a de grands defauts, sans doute, je ne les connais que trop ; je les ai remarques expres, j'y ai pense nuit et jour pour me detacher de lui, ma chere enfant ; mais, a force de les avoir toujours presents a l'esprit, enfin je m'y suis presque accoutumee comme aux miens ; et peut-etre qu'avec le temps ils me seront egalement chers.
+FANCHON.
+Ah ! Ma soeur, s'il vous faisait l'honneur de vous traiter comme sa femme, et si vous connaissiez sa personne aussi bien que vous connaissez ses vices, peut-etre en peu de temps seriez-vous tranquille sur son compte. Enfin vous voila donc resolue d'employer a sa conversion tout ce que vous tenez de la liberalite de mon pere ?
+LA COMTESSE.
+Assurement : quand il n'en coute que de l'argent pour gagner un coeur, on l'a toujours a bon marche.
+FANCHON.
+Oui, mais un coeur ne s'achete point : il se donne, et ne peut se vendre.
+LA COMTESSE.
+Quelquefois on est touche des bienfaits. Ma chere enfant, je te charge de tout.
+FANCHON.
+Vous me donnez un emploi singulier entre un mari et sa femme. Le metier que je m'en vais faire est un peu hardi : il faudra que je prenne les apparences de la friponnerie pour faire une action de vertu. Allons, il n'y a rien qu'on ne fasse pour sa soeur. Retirez-vous ; allez faire votre cour a sa toilette : je prendrai mon temps pour lui parler. Souvenez-vous de moi dans l'occasion, je vous en prie, et empechez qu'on ne m'envoie sur mer.
+SCENE II. Le Comte des Apprets parait a sa toilette, essayant son habit ; son Ecuyer, Un Tailleur, Un Page, Un Laquais ; La Comtese entre chez lui.
+Le fond du theatre s'ouvre.
+LE COMTE, sans l'apercevoir, parlant toujours d'un air important.
+Je vous ai deja dit, mons des Coutures, que les paniers de mes habits ne sont jamais assez amples : il faut, s'il vous plait, les faire aussi larges que ceux des femmes, afin que l'on puisse un peu etre seul dans le fond de son carrosse. Et vous, mons du Toupet, songez un peu plus a faire fuir la perruque en arriere : cela donne plus de grace au visage.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Vous voila, comtesse !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)He ! Un peu d'eau de miel, he !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je suis fort aise de vous voir, madame.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Un miroir, he !... Page, a-t-on fait porter ce vin d'Espagne chez la petite Trousse ?
+LE PAGE.
+Oui, monseigneur.
+LA COMTESSE.
+Pourrait-on avoir l'honneur de vous dire un mot, monsieur ?
+LE COMTE.
+Ecoutez, page : etait-elle eveillee, la petite ?
+LE PAGE.
+Non, monseigneur.
+LE COMTE.
+Et la grosse duchesse ?
+LE PAGE.
+Monseigneur, elle s'est couchee a huit heures du matin.
+MONSIEUR DE L'ETRIER.
+Monseigneur, voici votre lingere, votre baigneur, votre parfumeur, votre rotisseur, votre doreur, votre sellier, votre eperonnier, votre bijoutier, votre usurier, qui attendent dans l'antichambre, et qui demandent tous de l'argent.
+LE COMTE, d'un air languissant.
+Eh mais ! Qu'on les jette par les fenetres : c'est ainsi que j'en ai use avec la moitie de mon bien, qui m'etait pourtant plus cher que tous ces messieurs-la. Allez, allez ; dites-leur qu'ils reviennent... Dans quelques annees, dans quelques annees... He ! Prenez ce miroir, page ; et vous, mons de l'Etrier...
+MONSIEUR DE L'ETRIER.
+Monseigneur ?
+LE COMTE.
+Dites un peu, mons de l'Etrier, qu'on mette mes chevaux napolitains a ma caleche verte et or.
+MONSIEUR DE L'ETRIER.
+Monseigneur, je les vendis hier pour acheter des boucles d'oreilles a Mlle Manon.
+LE COMTE.
+Eh bien ! Qu'on mette les chevaux barbes.
+MONSIEUR DE L'ETRIER.
+Un coquin de marchand de foin les fit saisir hier avec votre berline neuve.
+LE COMTE.
+En verite, le roi devrait mettre ordre a ces insolences : comment veut-on que la noblesse se soutienne, si on l'oblige de deroger au point de payer ses dettes ?...
+LA COMTESSE.
+Pourrai-je obtenir audience a mon tour ?
+LE COMTE.
+Ah ! Vous voici encore, madame ? Je vous croyais partie avec mes autres creanciers.
+LA COMTESSE.
+Peut-on se voir meprisee plus indignement ! Eh bien ! Vous ne voulez donc pas m'ecouter ?
+LE COMTE, a son ecuyer.
+Monsieur de l'Etrier, un peu d'or dans mes poches... Eh ! Madame, revenez dans quelques annees.
+LA COMTESSE.
+Mauvaise plaisanterie a part, il faut pourtant que je vous parle.
+LE COMTE.
+Eh bien ! Allons donc, il faut bien un peu de galanterie avec les dames mais ne soyez pas longue.
+LA COMTESSE.
+Que de coups de poignard !
+LE COMTE, a ses gens.
+Messieurs de la chambre, qu'on ote un peu cette toilette.
+SCENE III. Le Comte, La Comtesse.
+LA COMTESSE.
+Avez-vous resolu, monsieur, de me faire mourir de chagrin ?
+LE COMTE.
+Comment donc, madame, en quoi vous ai-je deplu, s'il vous plait ?
+LA COMTESSE.
+Helas ! C'est moi qui ne vous deplais que trop. Il y a six mois que nous sommes maries, et vous me traitez comme si nous etions brouilles depuis trente ans.
+LE COMTE, se regardant dans un miroir de poche, en ajustant sa perruque.
+Vous voila toute prete a pleurer ! De quoi vous plaignez-vous ? N'avez-vous pas une tres grosse pension ? N'etes-vous pas maitresse de vos actions ? Suis-je un ladre, un bourru, un jaloux ?
+LA COMTESSE.
+Plut a Dieu que vous fussiez jaloux ! Insultez-vous ainsi a mon attachement ? Vous ne me donnez que des marques d'aversion etait-ce pour cela que je vous ai epouse ?
+LE COMTE, se nettoyant les dents.
+Mais vous m'avez epouse, madame, vous m'avez epouse pour etre dame de qualite, pour prendre le pas sur vos compagnes avec qui vous avez ete elevee, pour les faire crever de depit. Moi, je vous ai epousee... Je vous ai epousee, madame, pour ajouter deux cent mille ecus a mon bien. De ces deux cent mille ecus, j'en ai deja mange cent mille ; par consequent, je ne vous dois plus que la moitie des egards que je vous devais. Quand j'aurai mange les cent mille autres, je serai tout a fait quitte avec vous. Raillerie a part, je vous aime ; je ne veux pas que vous soyez malheureuse, mais j'exige que vous ayez un peu d'indulgence.
+LA COMTESSE.
+Vous m'outrez : vous vous repentirez peut-etre un jour de m'avoir desesperee.
+LE COMTE.
+Quoi donc ! Qu'avez-vous ? Venez-vous ici gronder votre mari de quelque tour que vous aura joue votre amant ? Ah ! Comtesse, parlez-moi avec confiance : qui aimez-vous actuellement ?
+LA COMTESSE.
+Ciel ! Que ne puis-je aimer quelque autre que vous !
+LE COMTE.
+On dit que vous soupates hier avec le chevalier du Hasard. Il est vraiment aimable : je veux que vous me le presentiez.
+LA COMTESSE.
+Quelles etranges idees ! vous ne pensez donc pas qu'une femme puisse aimer son mari ?
+LE COMTE.
+Oh ! Pardonnez-moi ; je pense qu'il y a des occasions ou une femme aime son mari : quand il va a la campagne sans elle pour deux ou trois annees, quand il se meurt, quand elle essaye son habit de veuve.
+LA COMTESSE.
+Voila comme vous etes ; vous croyez que toutes les femmes sont faites sur le modele de celles avec qui vous vous ruinez ; vous pensez qu'il n'y en a point d'honnetes.
+LE COMTE.
+D'honnetes femmes ! Mais si fait, si fait ; il y en a de fort honnetes : elles trichent un peu au jeu, mais ce n'est qu'une bagatelle.
+LA COMTESSE.
+Voila donc tous les sentiments que j'obtiendrai de vous ?
+LE COMTE.
+Croyez-moi, le president et la presidente ont beau faire, je ne veux pas vivre sitot en bourgeois ; et puisque vous etes madame la comtesse des Apprets, je veux que vous souteniez votre dignite, et que vous n'ayez rien de commun avec votre mari que le nom, les armes, et les livrees. Vous ne savez pas votre monde ; vous vous imaginez qu'un mari et une femme sont faits pour vivre ensemble : quelle idee ! Hola ! He ! La-bas ! Quelqu'un ! Hola ! He ! Messieurs de la chambre !
+SCENE IV. Le President, La Presidente, Le Comte, La Ccomtesse, Le Chevalier, Un Page.
+LE PAGE.
+Monseigneur, voici le president et la presidente.
+LE PRESIDENT.
+Vous pourriez bien dire : Monsieur le president, petit maroufle !
+LE PAGE, en s'en allant,
+Ah ! Le vilain bourgeois !
+LE PRESIDENT.
+Par Saturne, monsieur le comte, vous en usez bien indignement avec nous, et c'est un phenomene bien etrange que votre conduite. Vous nous meprisez, moi, ma femme et ma fille, comme si vous etiez une etoile de la premiere grandeur. Vous nous traitez en bourgeois. Parbleu ! Quand vous seriez au zenith de la fortune, apprenez qu'il est d'un malhonnete homme de mepriser sa femme, et la famille dans laquelle on est entre. Corbleu ! Je suis las de vos facons : nous ne sommes point faits pour habiter sous le meme meridien. Je vous le dis, il faudra que nous nous separions ; et de partout le zodiaque ! (Car vous me faites jurer) Dans quelles ephemerides a-t-on jamais lu qu'un gendre traite de haut en bas son beau-pere le president et sa belle-mere la presidente, ne dine jamais en famille, ne revienne au point du jour que pour coucher seul ? Parbleu ! Si j'etais madame la comtesse, je vous ferais coucher avec moi, mon petit mignon, ou je vous devisagerais.
+LE COMTE.
+Bonjour, president, bonjour.
+LA PRESIDENTE.
+N'est-ce pas une honte qu'on ne puisse vous guerir de cette maladie ? Et que moi, qui ai gueri tout mon quartier, aie chez moi un gendre qui me desespere, et fait mourir sa femme des pales couleurs ? Et ou on seriez-vous, si Monsieur le president en eut toujours use ainsi avec moi ? Vous n'auriez pas touche six cents sacs de mille livres que nous vous avons donnes en dot. Savez-vous bien que ma fille est l'elixir des femmes, et que vous ne la meritez pas pour epouse, ni moi pour belle-mere, ni M. Le president pour beau-pere, ni mon... ni mon... Allez, vous etes un monstre.
+LE COMTE.
+Je suis charme de vous voir et de vous entendre, ma chere presidente... Eh ! Voila, je crois, le chevalier du Hasard, dont on m'a tant parle. Bonjour, mons du Hasard, bonjour : vraiment, je suis fort aise de vous voir.
+LE CHEVALIER.
+Il me semble que j'ai vu cet homme-la a Bayonne, dans mon enfance. Monsieur, je compte sur l'honneur de votre protection.
+LE COMTE.
+Comment trouvez-vous madame la comtesse, mons le chevalier ?
+LE CHEVALIER.
+Monsieur, je...
+LE COMTE.
+Ne vous sentez-vous rien pour elle ?
+LE CHEVALIER.
+Le respect que...
+LE COMTE.
+Ne pourrai-je point vous etre bon a quelque chose a la cour, mons le chevalier ?
+LE CHEVALIER.
+Monsieur, je ne...
+LE COMTE, l'interrompant toujours d'un air important.
+Aupres de quelques ministres, de quelques dames de la cour ?
+LE CHEVALIER.
+Heureusement, monsieur...
+LE COMTE.
+Il faudra que vous veniez prendre huit tableaux de cavagnole chez la grosse duchesse. President, presidente, voila midi qui sonne ; allez, allez diner : vous dinez de bonne heure, vous autres. Hola ! He ! Quelqu'un ! Qu'on ouvre a ces dames. Adieu, mesdames. Vous viendrez me voir quelque matin, monsieur le chevalier.
+LE CHEVALIER, en s'en allant.
+Votre gendre est singulier.
+LE PRESIDENT.
+Il est lunatique.
+LA PRESIDENTE, en s'en allant..
+Il est incurable.
+LA COMTESSE.
+Je suis bien malheureuse !
+SCENE V. Le Comte, Monsieur de l'Etrier.
+LE COMTE.
+Monsieur de l'Etrier, je ne laisse pas d'etre bien embarrasse, oui.
+MONSIEUR DE L'ETRIER.
+Et moi aussi, monseigneur.
+LE COMTE.
+J'ai mange en trois mois deux annees de mon revenu d'avance.
+MONSIEUR DE L'ETRIER.
+Cela prouve votre generosite.
+LE COMTE.
+Je vois que les vertus sont assez mal recompensees en ce monde : personne ne veut me preter. Comme je suis un grand seigneur, on me craint ; si j'etais un bourgeois, j'aurais cent bourses a mon service.
+MONSIEUR DE L'ETRIER.
+Au lieu de cent preteurs vous avez cent creanciers. J'ai l'honneur d'etre votre ecuyer, et vous n'avez point de chevaux. Vous avez un page qui n'a point de chemises, des laquais sans gages, des terres en decret : ma foi, j'oserais vous conseiller d'accepter quelque bonne somme du beau-pere, et de lui faire un petit comte des Apprets.
+LE COMTE.
+Je ne veux rien faire d'indigne d'un grand seigneur. Ne voudrais-tu pas que je soupasse, comme un homme desoeuvre, avec ma femme ? que j'allasse bourgeoisement au lit avec elle, tristement affuble d'un bonnet de nuit, et asservi comme un homme vulgaire aux lois insipides d'un devoir languissant ? que je m'humiliasse jusqu'a paraitre en public a cote de ma femme ? ridicule pendant le jour, degoute pendant la nuit ; et, pour comble d'impertinence, pere de famille ? Dans trente ans, mon ami, dans trente ans, nous verrons ce que nous pourrons faire pour la fille du president.
+MONSIEUR DE L'ETRIER.
+Mais ne la trouvez-vous pas jolie ?
+LE COMTE.
+Comment ! Elle est charmante.
+MONSIEUR DE L'ETRIER.
+Eh bien donc !
+LE COMTE.
+Ah ! Si elle etait la femme d'un autre, j'en serais amoureux comme un fou ; je donnerais tout ce que je dois (et c'est beaucoup) pour la posseder, pour en etre aime : mais elle est ma femme ; il n'y a pas moyen de la souffrir ; j'ai trop l'honneur en recommandation ; il faut un peu soutenir son caractere dans le monde.
+MONSIEUR DE L'ETRIER.
+Elle est vertueuse, elle vous aime.
+LE COMTE.
+Parlons de ce que j'aime : aurez-vous de l'argent ?
+MONSIEUR DE L'ETRIER.
+Non, monseigneur.
+LE COMTE.
+Comment, mons de l'Etrier, vous n'avez pu trouver de l'argent chez des bourgeois ?
+SCENE VI. Fanchon, Le Comte.
+FANCHON, au page qui la suivait.
+Mon petit page, allez un peu voir la-dedans si j'y suis.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE COMTE, a fanchon.
+Eh ! Ma chere enfant, qui vous amene si matin dans mon appartement ?
+FANCHON.
+L'envie de vous rendre un petit service.
+LE COMTE.
+Aimable creature, toute soeur de ma femme que vous etes, vous me feriez tourner la tete si vous vouliez.
+FANCHON.
+Je voudrais vous la changer un peu. Ne me dites point de douceurs : ce n'est pas pour moi que je viens ici.
+LE COMTE.
+Comment !
+FANCHON.
+Soyez discret, au moins.
+LE COMTE.
+Je vous le jure, ma chere enfant.
+FANCHON.
+N'allez jamais en parler a votre femme.
+LE COMTE.
+Est-ce qu'on parle a sa femme ?
+FANCHON.
+A Monsieur le president, ni a madame la presidente.
+LE COMTE.
+Est-ce qu'on parle a son beau-pere ou a sa belle-mere ?
+FANCHON.
+A mon mari, quand j'en aurai un.
+LE COMTE.
+Est-ce qu'un mari sait jamais rien ?
+FANCHON.
+Eh bien ! Je suis chargee de la part d'une jeune femme extremement jolie...
+LE COMTE.
+Voila un plaisant metier a votre age !
+FANCHON.
+Plus noble que vous ne pensez : les intentions justifient tout ; et quand vous saurez de quoi il est question, vous aurez meilleure opinion de moi, et vous verrez que tout ceci est en tout bien et en tout honneur.
+LE COMTE.
+Eh bien, mon coeur, une jolie femme ?...
+FANCHON.
+Qui a de la confiance en moi, m'a priee de vous dire...
+LE COMTE.
+Quoi ?
+FANCHON.
+Que vous etes le plus...
+LE COMTE.
+Ah ! J'entends.
+FANCHON.
+Le plus ridicule de tous les hommes.
+LE COMTE.
+Comment ! Race de president...
+FANCHON.
+Ecoutez jusqu'au bout : vous allez etre bien surpris. Elle vous trouve donc, comme j'avais l'honneur de vous le dire, extremement ridicule, vain comme un paon, dupe comme une buse, fat comme Narcisse ; mais, au travers de ces defauts, elle croit voir en vous des agrements. Vous l'indignez, et vous lui plaisez ; elle se flatte que si vous l'aimiez, elle ferait de vous un honnete homme. Elle dit que vous ne manquez pas d'esprit, et elle espere de vous donner du jugement. La seule chose ou elle en manque, c'est en vous aimant ; mais c'est son unique faiblesse : elle est folle de vous, comme vous l'etes de vous-meme. Elle sait que vous etes endette par-dessus les oreilles ; elle a voulu vous donner des preuves de sa tendresse qui vous enseignassent a avoir des procedes genereux ; elle a vendu toutes ses nippes, elle en a tire vingt mille francs en billets et en or, qui dechirent mes poches depuis une heure. Tenez, les voila ; ne me demandez pas son nom ; promettez-moi seulement un rendez-vous pour elle ce soir, dans votre chambre, et corrigez-vous pour meriter ses bontes.
+LE COMTE, en prenant l'argent.
+Ma belle Fanchon, votre inconnue m'a la mine d'etre une laideron, avec ses vingt mille francs.
+FANCHON.
+Elle est belle comme le jour ; et vous etes un miserable, indigne que la petite Fanchon se mele de vos affaires. Adieu ; tachez de meriter mon estime et mes bontes.
+SCENE VII.
+LE COMTE.
+Franchement, je suis assez heureux. Ne sans fortune, je suis devenu riche sans industrie ; inconnu dans Paris, il m'a ete tres aise d'etre grand seigneur ; tout le monde l'a cru, et je le crois a la fin moi-meme plus que personne. J'ai epouse une belle femme (ad honores), j'ai le noble plaisir de la mepriser ; a peine manque-je un peu d'argent, que voila une femme de la premiere volee, titree sans doute, qui me prete mille louis d'or, et qui ne veut etre payee que par un rendez-vous ! Oh ! Oui, madame, vous serez payee ; je vous attends chez moi tout le jour ; et, pour la premiere fois de ma vie, je passerai mon apres-dinee sans sortir. Hola ! He ! Page, ecoutez. Page, qu'on ne laisse entrer chez moi qu'une dame qui viendra avec la petite Fanchon.
+SCENE VIII. Monsieur Du Cap-Vert, heurtant a la porte ; Le Comte, L'Etrier, Le Page.
+LE COMTE.
+Voici apparemment cette dame de qualite a qui j'ai tourne la tete.
+LE PAGE, allant a la porte.
+Est-ce vous, mademoiselle Fanchon ?
+MONSIEUR DU CAP-VERT, poussant la porte en dedans.
+Eh ! Ouvrez, ventrebleu ! Voici une rade bien difficile : il y a une heure que je parcours ce batiment sans pouvoir trouver le patron. Ou est donc le president et la presidente ? Et ou est Fanchon ?
+LE PAGE.
+Tout cela est alle promener bourgeoisement en famille. Mais, mon ami, on n'entre point ainsi dans cet appartement : denichez.
+MONSIEUR DU CAP-VERT.
+Petit mousse, je te ferai donner la cale.
+LE COMTE, d'un ton nonchalant.
+Qu'est-ce que c'est que ca ? Mais qu'est-ce que c'est que ca ? Mes gens ! Hola ! He ! Mes gens ! Monsieur de l'Etrier ! qu'on fasse un peu sortir cet homme-la de chez moi ; qu'on lui dise un peu qui je suis, ou il est, et qu'on lui apprenne un peu a vivre.
+MONSIEUR DU CAP-VERT.
+Comment ! Qu'on me dise qui vous etes ! Et n'etes-vous pas assez grand pour le dire vous-meme, jeune muguet ? Qu'on me dise un peu ou je suis ! Je crois, ma foi, etre dans la boutique d'un parfumeur ; je suis empuanti d'odeur de fleur d'orange.
+MONSIEUR DE L'ETRIER.
+Monsieur, monsieur, doucement vous etes ici chez un seigneur qui a bien voulu epouser la fille ainee du president Bodin.
+MONSIEUR DU CAP-VERT.
+C'est bien de l'honneur pour lui ; voila un plaisant margajat ! Eh bien ! Monsieur, puisque vous etes le gendre de...
+MONSIEUR DE L'ETRIER.
+Appelez-le monseigneur, s'il vous plait.
+MONSIEUR DU CAP-VERT.
+Lui ! Monseigneur ? Je pense que vous etes fou, mon drole : j'aimerais autant appeler galion une chaloupe, ou donner le nom d'esturgeon a une sole. Ecoutez, gendre du president, j'ai a vous avertir...
+LE COMTE.
+Arretez, arretez ; l'ami, etes-vous gentilhomme ?
+MONSIEUR DU CAP-VERT.
+Non, ventrebleu ! Je ne suis point gentilhomme ; je suis honnete homme, brave homme, bon homme.
+LE COMTE, toujours d'un air important.
+Eh bien donc, je ne prendrai pas la peine de vous faire sortir moi-meme. Monsieur de l'Etrier, mes gens, faites un peu sortir monsieur.
+MONSIEUR DU CAP-VERT.
+Par la Sainte-barbe ! si votre chiourme branle, je vous coulerai tous a fond de cale, esclaves.
+LE PAGE.
+Oh ! Quel ogre !
+L'ETRIER, en tremblant.
+Monsieur, ce n'est pas pour vous manquer de respect...
+MONSIEUR DU CAP-VERT.
+Taisez-vous, ou je vous lacherai une bordee.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est donc vous, monsieur le freluquet, qui avez epouse Catau ?
+LE COMTE, d'un ton radouci.
+Oui, monsieur : asseyez-vous donc, monsieur.
+MONSIEUR DU CAP-VERT.
+Savez-vous que je suis monsieur du Cap-Vert ?
+LE COMTE.
+Non, monsieur... Oh ! Quel importun !
+MONSIEUR DU CAP-VERT.
+Eh bien ! Je vous l'apprends donc. Avez-vous jamais ete a Rio-Janeiro ?
+LE COMTE.
+Non, je n'ai jamais ete a cette maison de campagne-la.
+MONSIEUR DU CAP-VERT.
+Ventre de boulets ! C'est une maison de campagne un peu forte, que nous primes d'assaut a deux mille lieues d'ici, sous l'autre tropique. C'etait en 1711, au mois de septembre. Monsieur le blanc-poudre, je voudrais que vous eussiez ete la, vous seriez mort de peur. Il y faisait chaud, mon enfant, je vous en reponds. Connaissez-vous celui qui nous commandait ?
+LE COMTE.
+Qui ? Celui qui vous commandait ?
+MONSIEUR DU CAP-VERT.
+Oui, celui qui nous commandait, de par tous les vents !
+LE COMTE.
+C'etait un tres bel homme a ce que j'ai oui-dire : il s'appelait le duc de...
+MONSIEUR DU CAP-VERT.
+Et non, cornes de fer, ce n'etait ni un duc, ni un de vos marquis ; c'etait un drole qui a pris plus de vaisseaux anglais dans sa vie que vous n'avez trompe de begueules et ecrit de fades billets doux. Ce fut une excellente affaire que cette prise du fort de Saint-Sebastien de Rio-Janeiro : j'en eus vingt mille ecus pour ma part.
+LE COMTE.
+Si vous vouliez m'en preter dix mille, vous me feriez plaisir.
+MONSIEUR DU CAP-VERT.
+Je ne vous preterais pas du tabac a fumer, mon petit mignon, entendez-vous, avec vos airs d'importance ? Tout ce que j'ai est pour ma femme : vous avez epouse l'ainee Catau, et je viens expres pour epouser la cadette Fanchon, et etre votre beau-frere. Le president reviendra-t-il bientot ?
+LE COMTE.
+Vous ! Mon beau-frere !
+MONSIEUR DU CAP-VERT.
+Par la sancable ! Oui, votre beau-frere, puisque j'epouse votre belle-soeur.
+LE COMTE.
+Vous pouvez epouser Fanchon tant qu'il vous plaira ; mais vous ne serez point mon beau-frere : je vous avertis que je ne signe point au contrat de mariage.
+MONSIEUR DU CAP-VERT.
+Parbleu ! Que vous signiez ou que vous ne signiez pas, qu'est-ce que cela me fait ? Ce n'est pas vous que j'epouse, et je n'ai que faire de votre signature. Mais est-ce que le president tardera encore longtemps a venir ? Cet homme-la est bien mauvais voilier.
+LE COMTE.
+Je vous conseille, monsieur du Cap-Vert, de l'aller attendre ailleurs.
+MONSIEUR DU CAP-VERT.
+Comment ! Est-ce que ce n'est pas ici sa maison ?
+LE COMTE.
+Oui, mais c'est ici mon appartement.
+MONSIEUR DU CAP-VERT.
+Eh bien ! Je le verrai ici.
+LE COMTE, a part.
+Le traitre !...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'attends du monde a qui j'ai donne rendez-vous.
+MONSIEUR DU CAP-VERT.
+Je ne vous empeche pas de l'attendre.
+LE COMTE, a part.
+Le bourreau !...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est une dame de qualite.
+MONSIEUR DU CAP-VERT.
+De qualite ou non, que m'importe ?
+LE COMTE, a part.
+Je voudrais que ce monstre marin-la fut a cinq cents brasses avant dans la mer.
+MONSIEUR DU CAP-VERT.
+Que dites-vous la de la mer, beau garcon ?
+LE COMTE.
+Je dis qu'elle me fait soulever le coeur. Eh ! Voila, pour m'achever de peindre ! Le president et la presidente : je n'y puis plus tenir, je quitte la partie, je vais me refugier ailleurs.
+SCENE IX. Le President, La Presidente, Monsieur Du Cap-Vert, Le Chevalier du Hasard.
+LE PRESIDENT, regardant attentivement Monsieur du Cap-Vert.
+Ce que je vois la est incomprehensible !
+MONSIEUR DU CAP-VERT.
+Cela est tres aise a comprendre : j'arrive de la cote de Zanguebar, et je viens debarquer chez vous, et epouser Fanchon.
+LE PRESIDENT.
+Il ne se peut pas que ce soit la Monsieur du Cap-Vert : son theme porte qu'il ne reviendra que dans deux ans.
+MONSIEUR DU CAP-VERT.
+Eh bien ! Faites donc votre theme en deux facons ; car me voila revenu.
+LA PRESIDENTE.
+Il a bien mauvais visage.
+LE CHEVALIER.
+Monsieur, soyez le tres bien arrive en cette ville.
+LE PRESIDENT.
+Est-ce que je ne serais qu'un ignorant ?
+MONSIEUR DU CAP-VERT.
+Beau-pere, votre raison va a la bouline : parbleu ! Vous perdez la tramontane. Dressez vos lunettes, observez-moi ; je n'ai point change de pavillon : ne reconnaissez-vous pas mons du Cap-Vert, votre ancien camarade de college ? Il n'y a que trente-cinq ans que nous nous sommes quittes, et vous ne me remettez pas !
+LE PRESIDENT.
+Si fait, si fait ; mais...
+MONSIEUR DU CAP-VERT.
+Mais oublier ses amis en si peu de temps ! Tout le monde me parait bien etourdi du bateau dans cette maison-ci. Je viens de voir un jeune fat, mon beau-frere, qui a perdu la raison ; le beau-pere a perdu la memoire. Bonhomme de president, allons, ou est votre fille ?
+LA PRESIDENTE.
+Ma fille, monsieur, s'habille pour paraitre devant vous ; mais je ne crois pas que vous vouliez l'epouser sitot.
+MONSIEUR DU CAP-VERT.
+Je lui donne du temps ; je ne compte me marier que dans trois ou quatre heures. J'ai hate, ma bonne ; j'arrive de loin.
+LA PRESIDENTE.
+Quoi ! Vous voulez vous marier aujourd'hui avec le visage que vous portez ?
+MONSIEUR DU CAP-VERT.
+Sans doute : je n'irai pas emprunter celui d'un autre.
+LA PRESIDENTE.
+Allez, vous vous moquez : il faut que vous soyez auparavant quinze jours entre mes mains.
+MONSIEUR DU CAP-VERT.
+Pas un quart d'heure seulement. Presidente, quelle proposition me faites-vous la ?
+LA PRESIDENTE.
+Voyez ce jeune homme que je vous presente : quel teint ! Qu'il est frais ! Je ne l'ai pourtant entrepris que d'hier.
+MONSIEUR DU CAP-VERT.
+Comment dites-vous ? Depuis hier ce jeune homme et vous...
+LE CHEVALIER.
+Oui, monsieur, madame daigne prendre soin de moi.
+LA PRESIDENTE.
+C'est moi qui l'ai mis dans l'etat ou vous le voyez.
+LE PRESIDENT, a part.
+Non, il n'est pas possible que cet homme-la soit arrive.
+MONSIEUR DU CAP-VERT.
+Je ne comprends rien a toutes les lanternes que vous me dites, vous autres.
+LA PRESIDENTE.
+Je vous dis qu'il faut que vous soyez saigne et purge dument avant de songer a rien.
+MONSIEUR DU CAP-VERT.
+Moi, saigne et purge ! J'aimerais mieux etre entre les mains des Turcs qu'entre celles des medecins.
+LA PRESIDENTE.
+Apres un voyage de long cours, vous devez avoir amasse des humeurs de quoi infecter une province : vous autres marins, vous avez de si vilaines maladies !
+MONSIEUR DU CAP-VERT.
+Parlez pour vous, messieurs du continent : les gens de mer sont des gens propres ; mais vous !.
+LA PRESIDENTE.
+Je vous en quitterai pour cinquante pilules.
+MONSIEUR DU CAP-VERT.
+J'aimerais mieux epouser la fille d'un Cafre, ma bonne femme ; je romprai plutot le marche.
+LE CHEVALIER, en lui faisant une grande reverence.
+Souffrez que je vous dise, par l'interet que je prends a ce mariage...
+MONSIEUR DU CAP-VERT, de meme.
+Eh ! Quel interet prenez-vous, s'il vous plait, a ce mariage ?
+LE CHEVALIER.
+Je vous conseille de ne rien precipiter, et de suivre l'avis de madame : j'ai des raisons importantes pour cela, j'ose vous le dire.
+MONSIEUR DU CAP-VERT.
+L'equipage de ce batiment-ci est compose d'etranges gens, j'ose vous le dire : un fat me refuse la porte, un doucereux me fait des reverences et me donne des conseils sans me connaitre ; l'un me parle de ma nativite, l'autre veut qu'on me purge. Je n'ai jamais vu de vaisseau si mal frete que cette maison-ci.
+LE PRESIDENT.
+Oh ca ! Puisque vous voila : nous allons preparer Fanchon a vous venir trouver.
+MONSIEUR DU CAP-VERT.
+Allez, beau-pere et belle-mere.
+SCENE X. Monsieur Du Cap-Vert, Le Chevalier.
+LE CHEVALIER.
+Monsieur, je ne me sens pas de joie de vous voir.
+MONSIEUR DU CAP-VERT.
+Vraiment, je le crois bien que vous ne vous sentez pas de joie en me voyant : pourquoi en sentiriez-vous ? Vous ne me connaissez pas.
+LE CHEVALIER.
+Je veux dire que ma joie est si forte...
+MONSIEUR DU CAP-VERT.
+Vous vous moquez de moi. Qui etes-vous ? Et que me voulez-vous ?
+LE CHEVALIER.
+Ah ! Monsieur, que c'est une belle chose que la mer !
+MONSIEUR DU CAP-VERT.
+Oui, fort belle.
+LE CHEVALIER.
+J'ai toujours eu envie de servir sur cet element.
+MONSIEUR DU CAP-VERT.
+Qui vous en empeche ?
+LE CHEVALIER.
+Quel plaisir que ces combats de mer, surtout lorsqu'on s'accroche !
+MONSIEUR DU CAP-VERT.
+Vous avez raison il n'y a qu'un plaisir au-dessus de celui-la.
+LE CHEVALIER.
+Et quel, monsieur, s'il vous plait ?
+MONSIEUR DU CAP-VERT.
+C'est lorsqu'on se debarrasse sur terre des importuns.
+LE CHEVALIER.
+Oui, cela doit etre delicieux. Que vous etes heureux, monsieur, que vous etes heureux ! Vous avez sans doute vu le cap de Bonne-Esperance, monsieur ?
+MONSIEUR DU CAP-VERT.
+Assurement. Je veux vous faire lire le recit d'un petit combat assez drole que je donnai a la vue du cap : je vous assure que je menai mes gens galamment.
+LE CHEVALIER.
+Vous me ferez la plus insigne faveur : ah ! Monsieur, que c'est dommage qu'un homme comme vous se marie !
+MONSIEUR DU CAP-VERT.
+Pourquoi, dommage ?
+LE CHEVALIER.
+Voila qui est fait ; il ne sera plus question de vous dans les gazettes ; vous n'aurez plus le plaisir de l'abordage ; vous allez languir dans les douces chaines d'un hymen plein de charmes ; une beaute tendre, touchante, voluptueuse, va vous enchanter dans ses bras. Ne savez-vous pas que Venus est sortie du sein de la mer ?
+MONSIEUR DU CAP-VERT.
+Peu me chaut d'ou elle est sortie. Je ne comprends rien a votre galimatias.
+LE CHEVALIER.
+Oui, dis-je, voila qui est fait ; Monsieur du Cap-Vert devient un homme terrestre, un vil habitant de la terre ferme, un citoyen qui s'enterre avec Mlle Fanchon.
+MONSIEUR DU CAP-VERT.
+Non ferai, par mes sabords : je l'emmene dans huit jours en Amerique.
+LE CHEVALIER.
+Vous ! Monsieur ?
+MONSIEUR DU CAP-VERT.
+Assurement ; je veux une femme, il me faut une femme, je grille d'avoir une femme... Fanchon est-elle jolie ?
+LE CHEVALIER.
+Assez passable pour un officier de terre : mais, pour un marin delicat, oh ! Je ne sais pas. Vous comptez donc reellement epouser cette jeune demoiselle ?
+MONSIEUR DU CAP-VERT.
+Oui, tres reellement.
+LE CHEVALIER.
+A votre place, je n'en ferais rien.
+MONSIEUR DU CAP-VERT.
+Vraiment, je crois bien que vous n'en ferez rien... Mais que me vient conter cet homme-ci ?
+LE CHEVALIER.
+Je me sens attache tendrement a vous. Je dois vous parler vrai : elle n'a pas assez d'embonpoint pour un capitaine de vaisseau.
+MONSIEUR DU CAP-VERT.
+J'aime les tailles deliees.
+LE CHEVALIER.
+Elle parle trop vite.
+MONSIEUR DU CAP-VERT.
+Elle en parlera moins longtemps.
+LE CHEVALIER.
+Elle est folle, folle a lier, vous dis-je
+MONSIEUR DU CAP-VERT.
+Tant mieux ! Elle me divertira.
+LE CHEVALIER.
+Oh bien ! Puisqu'il ne vous faut rien cacher, elle a une inclination.
+MONSIEUR DU CAP-VERT.
+C'est une preuve qu'elle a le coeur tendre, et qu'elle pourra m'aimer.
+LE CHEVALIER.
+Enfin, pour vous dire tout, elle a deux enfants en nourrice.
+MONSIEUR DU CAP-VERT.
+Ce serait une marque certaine que j'en aurai lignee : mais je ne crois rien de toutes ces fadaises-la.
+LE CHEVALIER.
+Voila un homme inebranlable : c'est un rocher.
+SCENE XI. Fanchon, Le Chevalier, Monsieur Du Cap-Vert.
+LE CHEVALIER.
+Ah ! La voici qui vient reconnaitre l'ennemi : mon amiral, voila donc l'ecueil contre lequel vous echouez. A votre place, j'irais me jeter la tete la premiere dans la mer : un grand homme comme vous ! Ah ! Quelle faiblesse !
+MONSIEUR DU CAP-VERT.
+Taisez-vous, babillard. C'est donc vous, Fanchon, qui m'allez appartenir ? Je jette l'ancre dans votre port, m'amie, et je veux, avant qu'il soit quatre jours, que nous partions tous les deux pour Saint-Domingue.
+FANCHON, au chevalier.
+Quoi ! Monsieur le chevalier, c'est donc la ce fameux Monsieur du Cap-Vert, cet homme illustre, la terreur des mers et la mienne ?
+LE CHEVALIER.
+Oui, mademoiselle.
+MONSIEUR DU CAP-VERT.
+Voila une fille bien apprise.
+FANCHON.
+C'est donc vous, monsieur, dont mon pere m'a entretenue si souvent ?
+MONSIEUR DU CAP-VERT.
+Oui, ma poupe ; oui, mon perroquet ; c'est moi-meme.
+FANCHON.
+Il y a cinquante ans que vous etes son intime ami ?
+MONSIEUR DU CAP-VERT.
+Environ, si mon estime est juste.
+FANCHON.
+Voudriez-vous faire a sa fille un petit plaisir ?
+MONSIEUR DU CAP-VERT.
+Assurement, et de tout mon coeur ; je suis tout pret : parlez, mon enfant. Vous me paraissez timide : qu'est-ce que c'est ?
+FANCHON.
+C'est, monsieur, de ne me point epouser.
+MONSIEUR DU CAP-VERT.
+J'arrive pourtant expres pour cette affaire, et pour me donner a vous avec tous mes agres : vous m'etiez promise avant que vous fussiez nee. Il y a trente ans que votre pere m'a promis une fille. Je consommerai tout cela ce soir, vers les dix heures, si vous le trouvez bon, m'amie.
+FANCHON.
+Mais entre nous, monsieur du Cap-Vert, vous figurez-vous qu'a mon age, et faite comme je suis, il soit si plaisant pour moi de vous epouser, d'etre empaquetee dans votre bord comme votre pacotille, et d'aller vous servir d'esclave aux antipodes ?
+MONSIEUR DU CAP-VERT.
+Vous vous imaginez donc, la belle, que je vous epouse pour votre plaisir ? Apprenez que c'est pour moi que je me marie, et non pas pour vous. Ai-je donc si longtemps vogue dans le monde pour ne savoir pas ce que c'est que le mariage ? Si l'on ne prenait une femme que pour en etre aime, les notaires de votre pays feraient, ma foi, peu de contrats. M'amie, il me faut une femme, votre pere m'en doit une, vous voila ; preparez-vous a m'epouser.
+FANCHON.
+Savez-vous bien ce que risque un mari de soixante-cinq ans quand il epouse une fille de quinze ?
+MONSIEUR DU CAP-VERT.
+Eh bien ! Merluche, que risque-t-il ?
+FANCHON.
+N'avez-vous jamais oui-dire qu'il y a eu autrefois des cocus dans le monde ?
+MONSIEUR DU CAP-VERT.
+Oui, oui, petite effrontee ; et j'ai oui dire aussi qu'il y a des filles qui font deux ou trois enfants avant leur mariage ; mais je n'y regarde pas de si pres.
+FANCHON, en glapissant.
+Trois enfants avant mon mariage !
+MONSIEUR DU CAP-VERT.
+Nous savons ce que nous savons.
+FANCHON.
+Trois enfants avant mon mariage, imposteur !
+MONSIEUR DU CAP-VERT.
+Trois ou deux, qu'importe ?
+FANCHON.
+Et qui vous dit ces belles nouvelles-la ?
+MONSIEUR DU CAP-VERT.
+Parbleu ! C'est ce jeune muguet frise.
+FANCHON.
+Quoi ! C'est vous qui...
+LE CHEVALIER.
+Ah ! Mademoiselle...
+MONSIEUR DU CAP-VERT.
+Mais je suis bien bon, moi, de parler ici de balivernes avec des enfants, lorsqu'il faut que j'aille signer les articles avec le beau-pere. Adieu, adieu : vous entendrez bientot parler de moi.
+SCENE XII. Le Chevalier, Fanchon.
+LE CHEVALIER.
+Me voila au desespoir : ce loup marin-la vous epousera comme il le dit, au moins.
+FANCHON.
+Je mourrais plutot mille fois.
+LE CHEVALIER.
+Il y aurait quelque chose de mieux a faire.
+FANCHON.
+Et quoi, chevalier ?
+LE CHEVALIER.
+Si vous etiez assez raisonnable pour faire avec moi une folie, pour m'epouser, ce serait bien le vrai moyen de desorienter notre corsaire.
+FANCHON.
+Et que diraient le president et la presidente ?
+LE CHEVALIER.
+Le president s'en prendrait aux astres, la presidente ne me donnerait plus de ses remedes, les choses s'apaiseraient au bout de quelque temps, Monsieur du Cap-Vert irait jeter l'ancre ailleurs, et nous serions tous contents.
+FANCHON.
+J'en suis un peu tentee ; mais, chevalier, pensez-vous que mon pere veuille absolument me sacrifier a ce vilain homme ?
+LE CHEVALIER.
+Je le crois fermement, dont j'enrage.
+FANCHON.
+Ah ! Que je suis malheureuse !
+LE CHEVALIER.
+Il ne tient qu'a vous de faire mon bonheur et le votre.
+FANCHON.
+Je ne me sens pas le courage de faire d'emblee un coup si hardi : je vois qu'il faut que vous m'y accoutumiez par degres.
+LE CHEVALIER.
+Ma belle Fanchon, si vous m'aimiez...
+FANCHON.
+Je ne vous aime que trop : vous m'attendrissez, vous m'allez faire pleurer, vous me dechirez le coeur ; allez-vous-en.
+SCENE XIII. La Comtesse, Fanchon, Le Chevalier.
+LA COMTESSE.
+Eh bien ! Comment vont nos affaires ?
+FANCHON.
+Helas ! Tout de travers.
+LA COMTESSE.
+Quoi ! N'aurait-il pas daigne ?...
+FANCHON.
+Bon ! Il veut seulement avoir une femme pour la faire mourir de chagrin.
+LA COMTESSE.
+Mais enfin, ma soeur, vous lui avez parle ?
+FANCHON.
+Je vous en reponds, et de la bonne maniere : monsieur le chevalier y etait present.
+LA COMTESSE.
+Et pourquoi monsieur le chevalier ?
+FANCHON.
+Parce qu'heureusement il s'est trouve la.
+LA COMTESSE.
+Mais enfin qu'est-ce que ce cruel a repondu ?
+FANCHON.
+Lui, ma soeur ? Il m'a repondu que j'etais une merluche, une impertinente, une morveuse.
+LA COMTESSE.
+Oh ciel !
+FANCHON.
+Il m'a dit que j'avais en deux ou trois enfants, mais qu'il ne s'en mettait pas en peine.
+LA COMTESSE.
+A quel exces...
+FANCHON.
+Que cela ne l'empecherait de rien.
+LA COMTESSE.
+Helas !
+FANCHON.
+Qu'il allait trouver mon pere et ma mere.
+LA COMTESSE.
+Mais, ma soeur !...
+FANCHON.
+Qu'il signerait les articles ce soir.
+LA COMTESSE.
+Quels articles ?
+FANCHON.
+Et qu'il m'epouserait cette nuit.
+LA COMTESSE.
+Lui, ma soeur !
+FANCHON, criant et pleurant.
+En dut-il etre cocu ! Ah ! Le coeur me fend. Monsieur le chevalier et moi, nous sommes inconsolables.
+LA COMTESSE.
+Je ne comprends rien a ce que vous me dites. Quoi ! Monsieur le comte, mon mari...
+FANCHON.
+Eh non ! Ce n'est pas de votre mari dont je parle ; c'est du bourreau qui veut etre le mien.
+LA COMTESSE.
+Quoi ! Mon pere s'obstine a vouloir vous donner pour mari ce grand vilain Monsieur du Cap-Vert ? Que je vous plains, ma soeur ! Mais avez-vous parle a monsieur le comte ?
+FANCHON.
+Au nom de Dieu ; ma soeur, engagez mon pere a differer ce mariage. Monsieur le chevalier vous en prie avec moi.
+LE CHEVALIER.
+Vous etes soeurs ; vous devez vous rendre la vie douce l'une a l'autre ; et je voudrais vous rendre service a toutes deux.
+LA COMTESSE.
+J'irai me jeter aux pieds de mon pere et de ma mere. Mais avez-vous vu monsieur le comte ?
+FANCHON.
+Ma soeur, ne m'abandonnez pas.
+LA COMTESSE.
+Mais dites si vous avez fait quelque chose pour moi.
+LE CHEVALIER.
+Donnez donc quelque reponse a madame.
+FANCHON.
+Voyez-vous, ma soeur, si l'on me force a epouser cet homme-la, je suis fille a mettre le feu aux poudres, et a sauter en l'air avec son maudit vaisseau, lui, l'equipage, et moi.
+LA COMTESSE.
+Si je ne puis parvenir a rendre mon mari raisonnable, vous me verrez expirer de douleur.
+FANCHON.
+Ne manquez pas de representer a ma mere la cruaute qu'il y aurait a me laisser manger par ce cancre de corsaire.
+LE CHEVALIER.
+Vous avez toutes deux la tete pleine de votre affaire. Daignez rentrer l'une et l'autre, et souffrez que je vous donne mes petits avis pour le bonheur de tous trois.
+
+
+			ACTE III
+
+
+SCENE I. Le Comte, L'Etrier.
+MONSIEUR DE L'ETRIER.
+Votre Excellence n'a pas le sou, a ce que je vois.
+LE COMTE.
+Il est vrai : ayant su que mon rendez-vous n'etait que pour le soir, j'ai ete jouer chez la grosse duchesse ; j'ai tout perdu. Mais j'ai de quoi me consoler ce sont au moins des gens titres qui ont eu mon argent.
+MONSIEUR DE L'ETRIER.
+Argent mal acquis ne profite pas, comme vous voyez.
+LE COMTE.
+Il n'etait, ma foi, ni bien ni mal acquis ; il n'etait point acquis du tout : je ne sais qui me l'a envoye ; c'est pour moi un reve, je n'y comprends rien. Il semble que Fanchon ait voulu se moquer de moi. Voila pourtant vingt mille francs que j'ai recus et que j'ai perdus en un quart d'heure. Oui, je suis pique, je suis pique, outre ; je sens que je serais au desespoir si cela n'etait pas au-dessous de moi... Monsieur de l'Etrier !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE II. Le Comte, Fanchon.
+FANCHON, faisant signe a l'etrier de sortir.
+C'est-a-dire, notre beau-frere, que vous avez perdu l'argent que je vous avais donne tantot.
+LE COMTE.
+Ne songeons point a ces bagatelles, ma belle enfant. Quand voulez-vous me faire voir cette genereuse inconnue, cette beaute, cette divinite qui se transforme en pluie d'or pour m'obtenir ?
+FANCHON.
+Vous ne pourrez la voir que ce soir, sur le tard : mais je viens vous consoler.
+LE COMTE.
+Mon aimable enfant, rien n'est si consolant que votre vue : et, le diable m'emporte ! il me prend fantaisie de vous payer ce que je dois a cette aimable personne.
+FANCHON.
+Je ne suis point interessee, et ne vais point sur le marche des autres. Reservez toutes vos bontes pour elle ; elle les merite mieux que moi : c'est le visage du monde le plus aimable, la taille la plus belle, des airs charmants...
+LE COMTE.
+Ah ! Ma chere Fanchon !
+FANCHON.
+Un ton de voix tendre et touchant, un esprit juste, fin, doux, le coeur le plus noble : helas ! Vous vous en apercevrez assez. Si vous vouliez etre honnete homme au lieu d'etre petit-maitre, vous conduire en homme sage au lieu de vous ruiner en grand seigneur, elle vous adorera toute sa vie.
+LE COMTE.
+Ma chere Fanchon !
+FANCHON.
+Soyez sur qu'elle ne vivra que pour vous, et que son amour ne sera point incommode ; qu'elle cherira votre personne, votre honneur, votre famille, comme sa personne, son honneur, sa famille propre ; que vous gouterez ensemble un bonheur dont vous n'avez point d'idee... Ni moi non plus.
+LE COMTE.
+Ma chere Fanchon, vous m'eblouissez, vous me ravissez ! Je suis en extase, je meurs deja d'amour pour elle. Ah ! Pourquoi faut-il que j'attende encore une heure a la voir ?
+FANCHON.
+Vous voila emu de tout ce que je viens de dire ; vous le seriez bien davantage si... Enfin, que diriez-vous si je vous donnais de sa part cinquante mille livres en diamants ?
+LE COMTE.
+Ce que je dirais ?... Je dirais que cela est impossible ; je ferais imprimer ce conte a la fin des Mille et une Nuits.
+FANCHON.
+Cela n'est point impossible : les voila.
+LE COMTE.
+Juste ciel ! Est-ce un miracle ? Est-ce un songe ?... J'avoue que j'ai cru jusqu'ici avoir quelque petit merite ; mais je ne pensais pas en avoir a ce point-la.
+FANCHON.
+Ecoutez bien : ce n'est pas parce que vous avez du merite que l'on vous traite ainsi ; mais c'est afin que vous en ayez, si vous pouvez. Ah ca ! Je vous ai parle assez longtemps de vos affaires ; venons aux miennes : je vous rends, je crois, un assez joli service ; il faut me recompenser.
+LE COMTE.
+Parlez : le service est si recent qu'il n'y a pas moyen que je sois ingrat.
+FANCHON.
+Mon pere a chausse dans sa tete de me faire madame du Cap-Vert : on dresse actuellement le contrat, c'est-a-dire mon arret de mort. Jugez de l'etat ou je suis, puisque j'ai perdu toute ma gaiete : cependant je suis si bonne que j'ai pense a vos affaires avant que de regler les miennes. Le moment fatal arrive, la tete commence a me tourner ; je ne sais plus que devenir.
+LE COMTE, d'un air important.
+Eh bien ! que voulez-vous que je fasse ?
+FANCHON.
+Je n'en sais rien ; mais que je ne sois pas madame du Cap-Vert.
+LE COMTE.
+Ma fille, il faudra voir cette affaire-la. On lavera la tete au president. Je lui parlerai, je lui parlerai, et du bon ton : oui, fiez-vous a moi. Mais quand viendra la fee aux diamants et a l'argent comptant ?
+FANCHON.
+Elle a plus d'envie de vous voir que vous n'en avez de la remercier : elle viendra bientot, je vous jure. Vous savez que l'on court apres son argent ; mais ceux qui l'ont recu sont d'ordinaire fort tranquilles. Adieu ; je vais chercher une femme qui vous aime : servez-moi seulement contre un homme que je n'aime point.
+SCENE III. Le Comte, L'Etrier.
+LE COMTE.
+Monsieur de l'Etrier, il arrive d'etranges choses dans la vie.
+MONSIEUR DE L'ETRIER.
+Oui, et surtout aux etranges gens, monseigneur.
+LE COMTE.
+Ne gratte-t-on pas a la porte ?
+MONSIEUR DE L'ETRIER.
+Oui, monseigneur ;
+LE COMTE.
+C'est sans doute celle a qui j'ai tourne la tete : je vous avoue que j'ai quelque curiosite de la voir.
+SCENE IV. Le Comte, Madame Du Cap-Vert, avec une canne a bec de corbin, un habillement de vieille, et une petite voix glapissante.
+LE COMTE.
+C'est sans doute elle qui se cache dans ses coiffes.
+MADAME DU CAP-VERT, a l'etrier.
+C'est donc ici la maison du president Bodin ?
+L'ETRIER, en sortant.
+Oui, la vieille, c'est la maison du president Bodin ; mais c'est ici chez monsieur le comte.
+MADAME DU CAP-VERT, sautant au cou du comte.
+Ah ! Mon petit comte, vois-tu, il faut que tu secoures ici une pauvre affligee.
+LE COMTE.
+Madame, souffrez qu'a vos genoux...
+MADAME DU CAP-VERT.
+Non, mon cher enfant, c'est a moi de me jeter aux tiens.
+LE COMTE, en l'examinant.
+Elle a raison... Ah ! Qu'elle est laide ! Eh bien ! Madame, c'est donc vous qui avez bien voulu me faire des avances si solides, et qui...
+MADAME DU CAP-VERT.
+Oui, mon ami, je te fais toutes les avances. Est-il bien vrai que mon petit traitre est dans la maison ?
+LE COMTE.
+Quoi ! Madame ! Quel traitre ? De qui me parlez-vous ? Est-ce de moi ?
+MADAME DU CAP-VERT.
+Mon traitre, mon petit traitre, mon petit mari : on dit qu'il est ici.
+LE COMTE.
+Votre mari ? Eh ! S'il vous plait, comment nommez-vous ce pauvre homme-la ?
+MADAME DU CAP-VERT.
+Monsieur du Cap-Vert, monsieur du Cap-Vert.
+LE COMTE, d'un air important.
+Eh mais ! Oui, madame, je crois qu'oui ; je crois qu'il est ici.
+MADAME DU CAP-VERT.
+Tu crois qu'oui !... Me voila la femme de la terre habitable la plus heureuse. J'aurai le plaisir de devisager ce fripon-la. Il est joli ! Il y a vingt ans qu'il m'a abandonnee, il y a vingt ans que je le cherche : je le trouve ; voila qui est fait. Ou est-il ? Qu'on me le montre ! Qu'on me le montre !
+LE COMTE.
+Quoi ! serieusement, vous seriez un peu madame du Cap-Vert ?
+MADAME DU CAP-VERT.
+Oui, mon petit fripon ; il y a tantot cinquante ans.
+LE COMTE.
+Ecoutez : vous arrivez fort mal a propos pour moi, mais encore plus mal a propos pour lui. Il va se marier a la fille du president Bodin.
+MADAME DU CAP-VERT.
+Lui, epouser une fille du president ! Non, mort de ma vie ! Je l'en empecherai bien.
+LE COMTE.
+Et pourquoi ? J'en ai bien epouse une, moi qui vous parle.
+MADAME DU CAP-VERT.
+Il y a vingt ans qu'il me joue de ces tours-la, et qu'il va epousant tout le monde. Il me fit mettre dans un couvent apres deux ans de mariage, a cause d'un certain regiment de dragons qui vint alors a Bayonne, et qui etait extremement galant : mais nous avons saute les murs, nous nous sommes venge ! Ah ! Que nous nous sommes venge, mon petit freluquet !
+LE COMTE.
+Est-ce donc vous, ma bonne, qui m'avez envoye...
+MADAME DU CAP-VERT.
+Moi, je ne t'ai rien envoye que je sache : je viens chercher mon traitre.
+LE COMTE.
+O ciel ! Mon destin sera-t-il toujours d'etre importune ! M'amie, il y a ici deux affaires importantes : la premiere est un rendez-vous que vous venez interrompre ; la seconde est le mariage de Monsieur du Cap-Vert, que je ne serai pas fache d'empecher. C'est un brutal ; il est bon de le mortifier un peu : je vous prends sous ma protection. Retirez-vous un peu, s'il vous plait. Hola ! He ! Quelqu'un ! Monsieur de l'Etrier, qu'on ait soin de madame. Allez, ma bonne, on vous presentera a Monsieur du Cap-Vert dans l'occasion.
+MADAME DU CAP-VERT.
+Tu me parais tant soit peu impertinent ; mais puisque tu me rends service de si bon coeur, je te le pardonne.
+SCENE V.
+LE COMTE.
+Serai-je enfin libre un moment ? Oh ciel ! Encore un importun ! Ah ! Je n'y puis plus tenir ; j'aime mieux quitter la partie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Le Chavalier, Fanchon.
+LE CHEVALIER.
+A qui diable en a-t-il donc de s'enfuir ? Et vous, a qui diable en avez-vous de ne vouloir pas que je vous parle ?
+FANCHON.
+J'ai affaire ici : retirez-vous, vous dis-je ; songez seulement a eloigner Monsieur du Cap-Vert.
+LE CHEVALIER.
+Mais quelle affaire si pressante ?...
+FANCHON.
+Croyez-vous que je n'ai pas ici d'autres interets a menager que les votres ?
+LE CHEVALIER.
+Vous me desesperez..
+FANCHON.
+Vous m'excedez.
+LE CHEVALIER.
+Je veux savoir absolument...
+FANCHON.
+Absolument vous ne saurez rien.
+LE CHEVALIER.
+Je resterai jusqu'a ce que je voie de quoi il s'agit.
+FANCHON.
+Oh ! Oh ! Vous voulez etre jaloux.
+LE CHEVALIER.
+Non, mais je suis curieux.
+FANCHON.
+Je n'aime ni les curieux ni les jaloux, je vous en avertis : si vous etiez mon mari, je ne vous pardonnerais jamais ; mais je vous le passe, parce que vous n'etes que mon amant. Denichez, voici ma soeur.
+LE CHEVALIER.
+Puisque ce n'est que sa soeur, encore passe.
+SCENE VII. La Comtesse, Fanchon.
+FANCHON.
+Ma chere soeur, vos affaires et les miennes sont embarrassantes : ce n'est pas une petite entreprise de reformer le coeur de monsieur le comte, et de renvoyer le monstre marin qu'on me veut donner. Mais ou avez-vous laisse Monsieur du Cap-Vert ?
+LA COMTESSE.
+Il est la-bas qui gronde tout le monde, et qui jure qu'il vous epousera dans un quart d'heure. Mais, monsieur le comte, que fait-il, ma soeur ?
+FANCHON.
+Il est a sa toilette qui se poudre pour vous recevoir.
+LA COMTESSE.
+Va-t-il venir bientot ?
+FANCHON.
+Tout a l'heure.
+LA COMTESSE.
+Ne me reconnaitra-t-il point ?
+FANCHON.
+Non, si vous parlez bas, si vous deguisez le son de votre voix, et s'il n'y a point de lumieres.
+LA COMTESSE.
+Le coeur me bat, les larmes me viennent aux yeux...
+FANCHON.
+Ne pleurez donc point : Songez-vous bien que je vais peut-etre mourir de douleur dans un quart d'heure, moi qui vous parle ? Mais cela ne m'empeche pas de rire en attendant. Ah ! Voici votre fat de mari : emmitouflez-vous bien dans vos coiffes, s'il vous plait. Monsieur le comte, arrivez, arrivez.
+SCENE VIII. Le Comte, La Comtesse, Fanchon.
+LE COMTE.
+Enfin donc, mn chere Fanchon, voici la divinite aux louis d'or et aux diamants.
+FANCHON.
+Oui, c'est elle-meme preparez-vous a lui rendre vos hommages.
+LA COMTESSE.
+Je tremble.
+FANCHON.
+Ma presence est un peu inutile ici : je vais trouver mon cher Monsieur du Cap-Vert. Adieu ; comportez-vous en honnete homme.
+SCENE IX. Le Comte, La Comtesse, dans l'obscurite.
+LE COMTE.
+Quoi ! Genereuse inconnue, vous m'accablez de bienfaits, vous daignez joindre a tant de bontes celle de venir jusque dans mon appartement, et vous m'enviez le bonheur de votre vue, qui est pour moi d'un prix mille fois au-dessus de vos diamants !
+LA COMTESSE.
+Je crains que, si vous me voyez, votre reconnaissance diminue : je voudrais etre sure de votre amour avant que vous puissiez lire le mien dans mes yeux.
+LE COMTE.
+Doutez-vous que je ne vous adore, et qu'en vous voyant je ne vous en aime davantage ?
+LA COMTESSE.
+Helas ! Oui ; c'est dont je doute, et c'est ce qui fait mon malheur.
+LE COMTE, se jetant a ses pieds.
+Je jure, par ces mains adorables, que j'aurai pour vous la passion la plus tendre.
+LA COMTESSE.
+Je vous avoue que je n'ai jamais rien desire que d'etre aimee de vous ; et si vous me connaissiez bien, vous avoueriez peut-etre que je le merite, malgre ce que je suis.
+LE COMTE.
+Helas ! Ne pourrai-je du moins connaitre celle qui m'honore de tant de bontes ?
+LA COMTESSE.
+Je suis la plus malheureuse femme du monde : je suis mariee, et c'est ce qui fait le chagrin de ma vie. J'ai un mari qui n'a jamais daigne me regarder : si je lui parlais, a peine reconnaitrait-il ma voix.
+LE COMTE.
+Le brutal ! Est-il possible qu'il puisse mepriser une femme comme vous ?
+LA COMTESSE.
+Il n'y a que vous qui puissiez m'en venger : mais il faut que vous me donniez tout votre coeur ; sans cela, je serais encore plus malheureuse qu'auparavant.
+LE COMTE.
+Souffrez donc que je vous venge des cruautes de votre indigne mari ; souffrez qu'a vos pieds...
+LA COMTESSE.
+Je vous assure que c'est lui qui s'attire cette aventure : s'il m'aimait, je vous jure qu'il aurait en moi la femme la plus tendre, la plus soumise, la plus fidele.
+LE COMTE.
+Le bourreau ! Il merite bien le tour que vous lui jouez.
+LA COMTESSE.
+Vous etes mon unique ressource dans le monde. Je me suis flattee que, dans le fond, vous etes un honnete homme ; qu'apres les obligations que vous m'avez, vous vous ferez un devoir de bien vivre avec moi.
+LE COMTE.
+Tenez-moi pour le plus grand faquin, pour un homme indigne de vivre, si je trompe vos esperances. Ce que vous faites pour moi me touche sensiblement ; et, quoique je ne connaisse de vous que ces mains charmantes que je tiens entre les miennes, je vous aime deja comme si je vous avais vue. Ne differez plus mon bonheur : permettez que je fasse venir des lumieres, que je voie toute ma felicite.
+LA COMTESSE.
+Attendez encore un instant, vous serez peut-etre etonne de ce que je vais vous dire. Je compte souper avec vous ce soir, et ne vous pas quitter sitot : en verite, je ne crois pas qu'il y ait en cela aucun mal. Promettez-moi seulement de ne m'en pas moins estimer.
+LE COMTE.
+Moi ! Vous en estimer moins, pour avoir fait le bonheur de ma vie ! Il faudrait que je fusse un monstre. Je veux dans l'instant...
+LA COMTESSE.
+Encore un mot, je vous prie. Je vous aime plus pour vous que pour moi : promettez-moi d'etre un peu plus range dans vos affaires, et d'ajouter le merite solide d'un homme sage et modeste aux agrements exterieurs que vous avez. Je ne puis etre heureuse si vous n'etes heureux vous-meme, et vous ne pourrez jamais l'etre sans l'estime des honnetes gens.
+LE COMTE.
+Tout ceci me confond : Vos bienfaits, votre conversation, vos conseils, m'etonnent, me ravissent. Eh quoi ! Vous n'etes venue ici que pour me faire aimer la vertu !
+LA COMTESSE.
+Oui, je veux que ce soit elle qui me fasse aimer de vous : c'est elle qui m'a conduite ici, qui regne dans mon coeur, qui m'interesse pour vous, qui me fait tout sacrifier pour vous ; c'est elle qui vous parle sous des apparences criminelles ; c'est elle qui me persuade que vous m'aimerez.
+LE COMTE.
+Non, madame, vous etes un ange descendu du ciel : chaque mot que vous me dites me penetre l'ame. Si je vous aimerai, grand Dieu !.,.
+LA COMTESSE.
+Jurez-moi que vous m'aimerez quand vous m'aurez vue.
+LE COMTE.
+Oui, je vous le jure a vos pieds, par tout ce qu'il y a de plus tendre, de plus respectable, de plus sacre dans le monde. Souffrez que le page qui vous a introduite apporte enfin des flambeaux : je ne puis demeurer plus longtemps sans vous voir.
+LA COMTESSE.
+Eh bien donc j'y consens.
+LE COMTE.
+Hola ! Page, des lumieres.
+LA COMTESSE.
+Vous allez etre bien surpris.
+LE COMTE.
+Je vais etre charme... Juste ciel ! C'est ma femme !
+LA COMTESSE, a part.
+C'est deja beaucoup qu'il m'appelle de ce nom : c'est pour la premiere fois de sa vie.
+LE COMTE.
+Est-il possible que ce soit vous ?
+LA COMTESSE.
+Voyez si vous etes honnete homme, et si vous tiendrez vos promesses.
+LE COMTE.
+Vous avez touche mon coeur : vos bontes l'emportent sur mes defauts. On ne se corrige pas tout d'un coup : je vivrai avec vous en bourgeois ; je vous aimerai ; mais qu'on n'en sache rien, s'il vous plait.
+SCENE X. Fanchon, arrivant tout essoufflee ; Le President, La Presidente, Monsieur de Cap-Vert, Le Chevalier, Le Comte, La Comtesse.
+FANCHON.
+Au secours ! Au secours contre des parents et un mari ! Monsieur le comte, rendez-moi service a votre tour.
+MONSIEUR DU CAP-VERT.
+Eh bien ! Est-on pret a demarrer ?
+LE PRESIDENT.
+Allons, ma petite fille, point de facon : voici l'heure de l'annee la plus favorable pour un mariage.
+FANCHON.
+Voici l'heure la plus triste de ma vie.
+LA PRESIDENTE.
+Ma fille, il faut avaler la pilule.
+FANCHON, se jetant a genoux.
+Mon pere, encore une fois...
+MONSIEUR DU CAP-VERT.
+Levez-vous ; vous remercierez votre pere apres.
+FANCHON.
+Ma chere mere...
+LA PRESIDENTE.
+Vous voila bien malade !
+FANCHON.
+Mon cher monsieur le comte...
+LE COMTE.
+Je vois bien qu'il vous faut tirer d'intrigue... Monsieur de l'Etrier, amenez un peu cette dame... Monsieur le marin, je crois qu'on va mettre quelque opposition a vos bans.
+SCENE XI. Madame du Cap-Vert, Les Precedents.
+MADAME DU CAP-VERT.
+Eh ! Mon petit mari, te voila, infame, bigame, polygame ! Je vais te faire pendre, mon cher coeur.
+MONSIEUR DU CAP-VERT.
+Sainte-barbe ! C'est ma femme ! Quoi ! Tu n'es pas morte il y a vingt ans ?
+MADAME DU CAP-VERT.
+Non, mon bijou ; il y a vingt ans que je te guettais. Embrasse-moi, fripon, embrasse-moi : il vaut mieux tard que jamais.
+LE PRESIDENT.
+Quoi ! C'est la madame du Cap-Vert, que j'ai enterree dans toutes les regles !
+MADAME DU CAP-VERT.
+Tes regles ne valent pas le diable, ni loi non plus. Mon mari, il est temps d'etre sage : tu as assez couru le monde, et moi aussi. Tu seras heureux avec moi ; quitte cette petite morveuse-la.
+MONSIEUR DU CAP-VERT.
+Mais de quoi t'avises-tu de n'etre pas morte ?
+LE PRESIDENT.
+Je croyais cela demontre.
+FANCHON, a Monsieur du Cap-Vert.
+Ma chere dame, embrassez-moi. Mon Dieu ! Que je suis aise de vous voir !
+LE CHEVALIER.
+Ma bonne dame du Cap-Vert, vous ne pouviez venir plus a-propos ; je vous en remercie.
+MADAME DU CAP-VERT.
+Voila un assez aimable garcon.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Traitre ! Si mes deux enfants etaient aussi aimables que cela, je te pardonnerais tout. Ou sont-ils, ou sont-ils, mes deux enfants ?
+MONSIEUR DU CAP-VERT.
+Tes deux enfants ? Ma foi, c'est a toi a en savoir des nouvelles ; il y a vingt ans que je n'ai vu toute cette marmaille-la : Dieu les benisse ! J'ai ete cinq ou six fois aux antipodes depuis ; j'ai mouille une fois a Bayonne pour en apprendre des nouvelles : je crois que tout cela est creve. J'en suis fache au fond, car je suis bonhomme.
+MADAME DU CAP-VERT.
+Traitre ! Et Mme Eberne, chez qui tu avais mis un de mes enfants ?
+MONSIEUR DU CAP-VERT.
+C'etait une fort honnete personne, et qui m'a toujours ete d'un grand secours.
+LE CHEVALIER.
+Eh ! Mon Dieu ! A qui en parlez-vous ? J'ai ete eleve par cette Mme Eberne : a Bayonne je me souviens des soins qu'elle prit de mon enfance, et je ne les oublierai jamais.
+LE COMTE.
+Mais qu'est-ce que c'est que ca ? Mais qu'est-ce que c'est que ca ? Je me souviens aussi fort bien de cette Madame Eberne.
+MONSIEUR DU CAP-VERT.
+Et corbleu ! Qu'est-ce que c'est que ca aussi ? Par la sambleu ! Voila qui serait drole ! Vous etes donc aussi de Bayonne, monsieur le fat ?
+LE COMTE.
+Point d'injures, s'il vous plait : oui, la maison des Apprets est aussi de Bayonne.
+MONSIEUR DU CAP-VERT.
+Et comment avez-vous connu Mme Eberne ?
+MADAME DU CAP-VERT.
+Oui, comment ? Repondez. Vous... Vous... Ouf !... Mon coeur me dit...
+LE COMTE.
+C'etait ma gouvernante, Mme Rafle, qui m'y menait souvent.
+MONSIEUR DU CAP-VERT, au Comte.
+Madame Rafle vous a eleve ?
+MADAME DU CAP-VERT, au chevalier.
+Madame Eberne a ete votre mie ?
+LE COMTE.
+Oui, monsieur.
+LE CHEVALIER.
+Oui, madame.
+MONSIEUR DU CAP-VERT.
+Ouais ! Cela serait plaisant ! Cela ne se peut pas. Mais si cela se pouvait, je ne me sentirais pas de joie.
+MADAME DU CAP-VERT.
+Je commence deja a pleurer de tendresse.
+SCENE XII. Madame Rafle, Les Precedents.
+MADAME DU CAP-VERT.
+Approchez, approchez, madame Rafle, et reconnaissez, comme vous pourrez, ces deux especes-la.
+LE PRESIDENT.
+Allez, allez, je vois bien ce qui vous tient ; vous vous imaginez qu'on peut retrouver vos enfants : cela ne se peut pas. J'ai tire leur horoscope ils sont morts en nourrice.
+MONSIEUR DU CAP-VERT.
+Oh ! si votre art les a tues, je les crois donc en vie : sans doute, je retrouverai mes enfants.
+MADAME DU CAP-VERT.
+Assurement, cela va tout seul, n'est-il pas vrai, madame Rafle ? Vous savez comment celui-ci est venu : c'etait un petit mystere.
+MADAME RAFLE.
+Eh ! Mon Dieu oui ! Je les reconnais... Bonjour, mes deux espiegles. Comme cela est devenu grand !
+MADAME DU CAP-VERT.
+Allons, allons, n'en parlons plus. J'ai retrouve mes trois vagabonds tout cela est a moi.
+MADAME RAFLE, en examinant le comte et le chevalier.
+On ne peut pas s'y meprendre : voila vingt marques indubitables auxquelles je les reconnais.
+MONSIEUR DU CAP-VERT.
+Oh ! Cela va tout seul, et je n'y regarde pas de si pres.
+LE PRESIDENT.
+Qu'est-ce que vous dites la ?
+LA PRESIDENTE.
+Quelles vapeurs avez-vous dans la tete ?
+LE CHEVALIER, se jetant aux genoux de mme du cap-vert.
+Quoi ! Vous seriez effectivement ma mere ?
+LE COMTE.
+Mais qu'est-ce que ca ? Qu'est-ce que ca ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si vous etes mon pere, vous etes donc un homme de qualite ?
+MONSIEUR DU CAP-VERT.
+Malheureux ! Comment as-tu fait pour le devenir, et pour etre gendre du president ?
+LE COMTE.
+Mais, mais, que me demandez-vous la ? Que me demandez-vous la ? Cela s'est fait tout seul, tout aisement. Premierement, j'ai l'air d'un grand seigneur ; j'ai epouse d'abord la veuve d'un negociant qui m'a enrichi, et qui est morte ; j'ai achete des terres ; je me suis fait comte ; j'ai epouse madame ; je veux qu'elle soit comtesse toute sa vie.
+LA COMTESSE.
+Dieu m'en preserve ! J'ai ete trop maltraitee sous ce titre. Contentez-vous d'etre fils de votre pere, gendre de votre beau-pere, et mari de votre femme.
+MONSIEUR DU CAP-VERT, au comte.
+Ecoute : s'il t'arrive de faire encore le seigneur, c'est-a-dire le fat, je te romprai bras et jambes. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et toi, mons le freluquet, par quel hasard es-tu dans cette maison ?
+LE CHEVALIER.
+Par un dessein beaucoup plus raisonnable que le votre, mon pere, avec le respect que je vous dois : je voulais epouser mademoiselle, dont je suis amoureux, et qui me convient un peu mieux qu'a vous.
+LE PRESIDENT.
+Ma foi, tout ceci n'etait point dans mes ephemerides. Voila qui est fait, je renonce a l'astrologie.
+LA PRESIDENTE.
+Puisque ce malade-ci m'a trompee, je ne veux plus me meler de medecine.
+MONSIEUR DU CAP-VERT.
+Moi, je renonce a la mer pour le reste de ma vie.
+LE COMTE.
+Et moi, a mes sottises.
+MONSIEUR DU CAP-VERT.
+Je partage mon bien entre mes enfants, et donne cet etourdi-ci a cette etourdie-la. Je ne suis pas si malheureux : il est vrai que j'ai retrouve ma femme ; mais puisque le ciel me redonne aussi mes deux enfants, ne pensons plus qu'a nous rejouir. J'ai amene quelques Turcs avec moi, qui vont vous donner un petit ballet en attendant la noce.
+
+
+			ENTREE DE DIVERSES NATIONS
+
+
+
+Apres la danse, une Turque chante.
+UNE TURQUE.
+Tout l'Orient 
+Est un vaste couvent. 
+Un musulman voit a ses volontes 
+Obeir cent beautes. 
+La coutume est bien contraire en France,			[5]
+Une femme sous ses lois 
+A vingt amants a la fois. 
+Ah ! quelle difference ! 
+Un Portugais 
+Est toujours aux aguets, 			[10]
+Et jour et nuit de son diable battu, 
+Il craint d'etre cocu. 
+On n'est point si difficile en France 
+Un mari, sans craindre rien, 
+Est cocu tout aussi bien ; 			[15]
+Ah ! quelle difference ! 
+Par tout pays 
+On voit de sots maris, 
+Fesse-mathieux, ou bourrus, ou jaloux ; 
+On les respecte tous. 			[20]
+C'est, ma foi, tout autre chose en France : 
+Un seul couplet de chanson 
+Les met tous a la raison ; 
+Ah ! quelle difference ! 
+Un Allemand 			[25]
+Est quelquefois pesant ; 
+Le sombre Anglais meme dans ses amours
+Veut raisonner toujours. 
+On est bien plus raisonnable en France :
+Chacun sait se rejouir, 			[30]
+Chacun vit pour le plaisir ; 
+Ah ! quelle difference ! 
+Dans l'univers 
+On fait de mauvais vers ; 
+Chacun jouit du droit de rimailler 			[35]
+Et de nous ennuyer. 
+On y met un bon remede en France : 
+On inventa les sifflets, 
+Dont Dieu nous garde a jamais !
+Ah ! Quelle difference !			[40]
+
+	==================================================

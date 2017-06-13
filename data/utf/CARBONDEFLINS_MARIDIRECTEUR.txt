@@ -1,0 +1,975 @@
+********************************************************
+	DC.Title                  = LE MARI DIRECTEUR ou LE DEMENAGEMENT DU COUVENT, COMEDIE EN UN ACTE et EN VERS LIBRES.
+	DC.Author                 = CARBON DE FLINS, Claude-Marie
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:11.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CARBONDEFLINS_MARIDIRECTEUR.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE MARI DIRECTEUR ou LE DEMENAGEMENT DU COUVENTCOMEDIE en un acte, et en vers libres.M. DCC. XCI.
+de M. de FLINS.
+	A PARIS, chez Brunet, libraire, rue de Marivaux, place du Theatre Italien.
+	
+	Jouee pour la premiere fois sur le Theatre de la Nation, le Vendredi 25 fevrier 1791.
+	PERSONNAGES
+L'ABBESSE.
+SOEUR PETRONILLE.
+SOEUR APPLOLLINE.
+SOEUR EUDALIE.
+AGNES, novice.
+THEOTIME, bernardin, directeur du couvent.
+GABRIEL, religieux qui a quitte le couvent.
+SERAPHIN, religieux qui a quitte le couvent.
+JANETE, tourriere du couvent.
+NICOLAS, jardinier du couvent.
+Monsieur DORVAL, commissaire du district.
+MADAME DORVAL, sa femme.
+LA FLEUR, Domestique de M. Dorval.
+RELIGIEUSES, personnages muets.
+La Theatre representent une salle de couvent la grille est placee au fond du theatre.
+
+
+
+			
+
+
+SCENE PREMIERE. L'Abbesse, Soeur Petronille, Soeur Appoline, Soeur Eudalie, Agnes, Thetime, La Tourriere, Gabriel coiffe et habille a l'anglaise, Seraphin coiffe et habille a la francaise, Religieuses.
+Les religieuses accourent eperdues et dispersees sur le theatre ; l'abbesse s'oppose au passage de Gabriel et de Seraphin, qui veulent entrer.
+GABRIEL.
+Pourquoi me fuyez-vous ?
+L'ABBESSE.
+Arretez, malheureux.
+Ce n'est qu'avec l'horreur que je vous vois tous deux ;
+Vous etes retourne dans un monde profane ;
+Vous avez delie les noeuds les plus sacree.
+SERAPHIN.
+La raison nous absout.
+L'ABBESSE.
+L'Eglise vous condamne.			[5]
+Dans ces lieux saint et retires
+Venez-vous apporter vos coupables maximes ?
+GABRIEL.
+Nous venons detromper d'innocentes victimes ;
+Et nous reussirons.
+L'ABBESSE.
+Nous ne redoutons rien;
+Nous regardons comme des crimes			[10]
+Les lois qui de vos voeux ont rompu le lien.
+PETRONILLE.
+Oui, notre ame est constante et pure,
+Et nous resterons dans ces lieux,
+Fideles aux serments qu'ont entendu les cieux.
+APPOLINE.
+Nous le promettons.
+LA TOURRIERE.
+Je le jure.			[15]
+EUDALIE a Gabriel.
+Mais quelle est donc cette coiffure ?
+Ah ! Frere Gabriel, qui vous aurait remis,
+Avec ces cheveux plats tombants sur vos habits ?
+GABRIEL.
+Je suis vraiment fache que cela vous deplaise :
+C'est une coiffure a l'anglaise.			[20]
+Elle est fort a la mode, et rend le cerveau sain ;
+On en est leve plus matin.
+EUDALIE.
+Vous avez donc plus d'une affaire ?
+GABRIEL.
+Oh ! Je vous en reponds : du parti populaire,
+Je suis le plus ferme soutien.			[25]
+J'avais, quand j'etais bernardin,
+Un talent marque par le chaire ;
+Je faisais des sermons que l'on me payait bien ;
+Mais aujourd'hui pour la fortune
+Je descends de la chaire et monte a la tribune.			[30]
+EUDALIE.
+Oh ! Frere Seraphin, comme vous voila fait !
+Cette enorme cravate, et ce joli toupet,
+Ces cordons, ce petit gilet,
+Pour un religieux, semblent bien peu modestes ;
+N'en redoutez-vous pas quelques suites funestes ?			[35]
+SERAPHIN.
+Il faut se conformer a l'etat qu'on a pris.
+Je chantais assez bien ; pour nos moines ravis,
+Ma voix charma souvent la longueur de l'office ;
+Et j'aurais dans le temps jadis,
+Obtenu le benefice :			[40]
+La nation les a tous pris.
+EUDALIE.
+Vous aviez, il est vrai, la voix douce et touchante.
+SERAPHIN.
+J'ai garde mon gout, et je chante.
+EUDALIE.
+Des oremus.
+SERAPHIN.
+Des operas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Jadis, je chantais tristement			[45]
+Quelque devote rapsodie ;
+Aujourd'hui, je chante gaiment
+L'amour, les jeux et la folie ;
+Tout change de role a present.
+L'aristocrate maintenant,			[50]
+N'a plus aucun projet de guerre ;
+Le prelat ne fait de serment
+Qu'a la maitresse qu'il prefere ;
+Tout change de role a present.
+Vous avez aime le couvent			[55]
+Malgre la tristesse profonde ;
+Mais vous allez prendre un amant,
+Et suivre tous les gouts du monde ;
+Tout change de role a present.
+L'ABBESSE.
+Fuyons, fuyons, mes soeurs, et ne l'ecoutons pas.			[60]
+PETRONILLE.
+Monstre !
+EUDALIE.
+Faussaires.
+APPOLINE.
+Apostats.
+AGNES, bas a Thetime.
+Vous voyez.
+THEOTIME, bas a Agnes.
+Attendons.
+PETRONILLE.
+Pouvez-vous a votre age
+Vous laissez entrainer aux mondaines erreurs ?
+Tandis que les plus jeunes coeurs,
+A qui le monde, encore offre plus d'avantages,			[65]
+Vous donnent l'exemple des moeurs.
+Regardez ; Theotime est vertueux et sage,
+Il n'est ni pervers, ni volage ;
+Cependant il n'a que vingt ans.
+GABRIEL.
+C'est qu'il lui manque un peu d'usage.			[70]
+Cela viendra.
+L'ABBESSE.
+Sortez, mechants.
+THEOTIME, bas a Agnes.
+Lorsqu'elles vantent ma sagesse,
+Elles ne savent pas ce que je sens pour vous ;
+Et je suis plus faible qu'eux tous,
+Si l'amour est une faiblesse.			[75]
+GABRIEL
+Pour porter un bon jugement,
+Gardons de nous fier a la seule apparence.
+Pouvez-vous vous vanter de notre resistance
+Qu'on ne tentera que faiblement ?
+Sous une heure au plus tard, monsieur le commissaire			[80]
+Doit arriver dans le couvent,
+Et nous verrons.
+SERAPHIN.
+Pour moi j'espere
+Que l'on va voir ici beaucoup de changement ;
+Et je crois que le plus grondeuses
+Ne voudront pas, a m'imiter,			[85]
+Se montrer les plus paresseuses.
+PRETONILLE
+Quel blaspheme, grand Dieux !
+GABRIEL.
+J'ose aussi me flatter
+Que ces dames vont adopter
+Un habit a la fois plus frais, et plus commode,
+Vont changer de parure, ainsi que de maison ;			[90]
+Et je vais, pour cette raison,
+Leur envoyer bientot, des chapeaux a la mode.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE II. Les Memes, hors Gabriel et Seraphin.
+PETRONILLE.
+Des chapeaux, malheureux !
+APPOLINE
+Ah ! Quels horribles mots !
+Ma mere qu'a-t-il dit ?
+PETRONILLE.
+Il a dit : des chapeaux.
+L'ABBESSE.
+Venez, entourez-moi, meres obeissantes :			[95]
+J'entends autour de nous, colombes gemissantes,
+Voler les feroces vautours.
+Mais nous saurons braver leur fureur impuissante ;
+Et dans le paix promise aux ames innocentes,
+Nous verrons s'ecouler les derniers de nos jours.			[100]
+AGNES, bas a Theotime.
+Soupconnez-vous encore ?
+THEOTIME, bas a Agnes.
+Attendons votre pere.
+AGNES, de meme.
+Mon pere !
+THEOTIME, bas a Agnes.
+Oui c'est lui qui doit venir;
+Son district l'a nomme.
+SCENE III. Les memes, Nicolas.
+L'ABBESSE.
+Parle, que viens-tu faire,
+Nicolas ?
+NICOLAS.
+Je viens avertir
+Qu'il faut ici qu'on demenage ;			[105]
+Qu'on va bientot ouvrir la cage,
+Et que les oiseaux vont partir.
+L'ABBESSE.
+Comment ?
+NICOLAS.
+Ce n'est plus un mystere.
+PETRONILLE.
+Quoi donc ?
+NICOLAS
+Voici le commissaire.
+EUDALIE, a part.
+Ceci commence a me tenter.			[110]
+L'ABBESSE.
+Il connaitra les coeurs qui l'on ose insulter
+Par une injuste prevoyance ;
+Nous ne mentirons pas a notre conscience ;
+Nous saurons resister a tout.
+AGNES, bas a Theotime.
+Vous voyez, Theotime.
+THEOTIME, bas a Agnes.
+Ecoutons jusqu'au bout.			[115]
+NICOLAS
+Quant a moi, je serai plus sage ;
+Je suis encore chez vous engage pour deux ans.
+Mais le couvent bine tot sera desert, je gage ;
+Et libre desormais de mes engagements,
+Je renonce a tous les couvents ;			[120]
+Je retourne a mes champs, et vais dans mon village.
+PRETONILLE
+Est-ce ainsi, Nicolas, que vous devez payer
+Les soins qu'ont eu pour vous nos meres,
+Et leurs attentions si fines et si chere ?
+Avez-vous pu donc oublier			[125]
+Leur vif empressement, leur tendre inquietude ?
+Helas ! Faut-il qu'un jardiniers
+Connaisse ainsi l'ingratitude ?
+NICOLAS
+Les douceurs et les agrements
+Qu'on fit gouter a ma jeunesse,			[130]
+Ma rendent plus cruels les mauvais traitements
+Dont on accable ma vieillesse.
+Le travail ne me fait pas peur.
+Lorsque je fus elu pour remplacer mon pere,
+Je crois, en jardinier d'honneur,			[135]
+Avoir rempli mon ministere.
+Outre le jardin du couvent,
+Qui fleurit en mes mains indubitablement,
+Il me fallait soigner celui de chaque mere ;
+Il me fallait secretement,			[140]
+Dans le silence des offices,
+Cultiver les oeillets des soeurs,
+Les pavots des meres des choeurs,
+Avec les roses des novices...
+Chacune, autour de moi, courait d'un pas presse,			[145]
+Avec cet air charmant, dont la douceur engage.
+Dans les nombreux travaux que leur zele partage,
+J'etais quelquefois devance,
+Et j'avais fini mon ouvrage,
+Avant de l'avoir commence.			[150]
+Maintenant, quoique vieux, j'ai garde mon courage,
+Et je m'epuise encore des efforts superflus ;
+Mais mon ouvrage ne plait plus.
+On s'ecarte a ma vue, et tout bas on murmure ;
+A peine daigne-t-on me dire quelque injure.			[155]
+j'ai chez moi, pour m'aider, pris l'un de mes neveux,
+Jeune, mais libertin, et surtout paresseux ;
+Qui, dans votre jardin, gate tout, je vous jure ;
+N'importe, il a l'oeil tendre et l'air tres degage ;
+De vous, tout ce qu'il dit, obtient quelque louange ;			[160]
+Il a mieux fait, quand il derange,
+Que moi quand j'ai tout arrange ;
+Mai j'apercois le commissaire.
+EUDALIE, a part.
+Bon !
+PRETONILLE
+Repondons avec vigueur.
+APPOLINE
+Helas !
+L'ABBESSE
+Du courage, ma soeur.			[165]
+SCENE IV. Les memes, Monsieur Dorval, La greffier.
+DORVAL
+Je viens remplir un ministere,
+Qui peut-etre agreable, et qui ne peut deplaire.
+Dans cet asile solitaire,
+Il vous est permis de rester ;
+Mais celles qui pourraient tenter			[170]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le soin de consoler la vieillesse d'un pere,
+De vivre dans le monde au sein de leur parents,
+Peuvent sortir de leurs couvents ;
+On pourvoit a leur necessaire.
+La nation fidele a ses engagements,			[175]
+Leur fera toucher tous les ans
+Une pension viagere.
+PRETONILLE
+Je cheris la retraite et j'aime ce couvent,
+Ou dans un saint recueillement,
+J'ai vu mes premieres annees			[180]
+Par de pieux devoirs l'une a l'autre enchainees ;
+Mais ma mere a pour moi de si doux sentiments !
+J'ai pris dans son aveu l'etat que je professe.
+On a dit qu'une fille, ecoutant le tendresse,
+Pour suivre son mari, doit quitter ses parents ;			[185]
+Mais on ne m'a jamais dit, pour suivre les couvents.
+De ma mere, je veux consoler la vieillesse,
+C'est mon premier devoir, et pour cette raison,
+Je vais dans ma famille, et prends la pension.
+L'ABBESSE
+Soeur Petronile.
+LA TOURRIERE
+O ciel !			[190]
+EUDALIE
+Oh ! Qui l'aurait pu croire !			[190]
+Des que ma dignite se trouve aneantie,
+Au monde, que je hais je me sens convertie :
+Le desir des honneurs fit ma vocation ;
+Puisque je perds ma croix, je prends la pension.
+LA TOURRIERE.
+Je verrai finir ma carriere,			[195]
+Dans ces lieux ou j'ai vu le jour ;
+Je ne suis que simple tourriere,
+Mais je suis fidele a mon tour.
+DORVAL.
+Mon enfant, la constance est toujours tres louable ;
+Mais vous n'avez point fait de voeux ;			[200]
+On detruit ce couvent ; vous semblez estimable,
+Je puis vous procurer, chez l'un de mes neveux,
+Un sort beaucoup plus agreable.
+LA TOURRIERE.
+Non, c'est mon dernier mot ; il me faut un couvent.
+Je m'ennuierais ailleurs indubitablement ;			[205]
+Et si de ces lieux l'on me chasse,
+Puis-je ailleurs trouver une place
+Qui soit digne de mon talent ?
+DORVAL, s'avancant avec la Tourriere sur le devant du theatre.
+Quel est l'art principal ou votre esprit s'applique ?
+LA TOURRIERE.
+Monsieur, c'est a la politique.			[210]
+DORVAL.
+Soit ; le ministre est mon parent,
+Je vous place chez lui.
+LA TOURRIERE.
+Bon ! C'est un ignorant.
+Et dans la politique il me faudrait l'instruire :
+Quand on servit dans un couvent,
+On en sait plus que ceux qui gouvernent l'empire.			[215]
+Ne faut-il pas pour plaire a tous
+Se plier aux differents gouts ?
+Avoir l'air enjoue pres des pensionnaires ?
+Montrer un sombre ennui sous des rides severes,
+Devant les meres en courroux ?			[220]
+Savoir par interet et louer et medire ?
+Pour la novice qui soupire,
+Du jeune directeur servir les rendez-vous ?
+Trouver tout ce qui plait, eviter ce qui blesse ?
+Flatter surtout l'abbesse, en ce qui l'interesse,			[225]
+Et lui citer a tout propos
+Son neveu le marquis, et sa soeur la comtesse ?
+Ou puis-je retrouver ces importants travaux ?
+Il faudrait m'elever moi-meme au ministere
+Pour que je pusse encore etaler au grand jour			[230]
+La politique necessaire
+A qui sut regner dans un tour.
+DORVAL.
+Suivez un conseil salutaire.
+LA TOURRIERE.
+Non, non, on ne me seduit pas,
+Je sais quel est mon poste, et j'y cours de ce pas ;			[235]
+J'embrasserai mon tour a mon heure derniere :
+Dans le tour je suis nee, et je mourrai touriere.
+Mon coeur ne peut etre change
+Par un espoir trompeur et d'odieux maneges ;
+Je defends mieux mes privileges			[240]
+Que la noblesse et le clerge.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. Les memes, hors la Tourriere.
+DORVAL.
+Nous la ferons changer de resolutions.
+Du reste, on est d'accord, personne ne resiste.
+De ces dames, greffier, vous prendrez tous les noms,
+Et vous les mettrez sur la liste			[245]
+Qui renferme les pensions.
+NICOLAS.
+Monsieur le commissaire, a quoi monte la mienne ?
+DORVAL.
+Ecoute : il me souvient...
+NICOLAS.
+Il faut qu'on s'en souvienne.
+DORVAL.
+Que les jardiniers n'en ont point.
+NICOLAS.
+J'ai trente ans cultive la terre ;			[250]
+Les Dames ont passe trente ans a ne rien faire ;
+On leur assure un sort, je reste sans salaire ;
+Ma foi la nation est injuste en ce point.
+EUDALIE.
+Si je suis etourdie, au moins j'ai l'ame bonne ;
+Mon cher Nicolas, je te donne			[255]
+L'argent de mon premier quartier.
+L'ABBESSE.
+Il n'est plus bon a rien.
+EUDALIE.
+Eh ! C'est ce qui m'engage.
+L'ABBESSE.
+Je veux de mon argent, faire un plus noble usage,
+Pour mon neveu le chevalier.
+Il sera colonel.
+NICOLAS.
+Ce titre qui vous flatte,			[260]
+Pour moi vous rend injuste, et vous fait oublier
+Les services constants d'un pauvre jardinier.
+Jeunesse est genereuse, et vieillesse est ingrate.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Les memes, hors Nicolas.
+DORVAL.
+De tous les meubles du couvent
+Je vais commencer l'inventaire.			[265]
+EUDALIE.
+Moi, je vais faite aussi mon paquet promptement
+DORVAL.
+ J'attends ici ma femme, elle m'est necessaire
+Pour estimer quelques objets
+Auxquels je ne me connais guere.
+PETRONILLE.
+Mais avant de quitter ce couvent pour jamais,			[270]
+Il est decent de voir, je pense,
+Notre pere Honorin.
+APPOLINE.
+Oh ! Combien je l'aimais !
+PETRONILLE.
+Il dirigeait ma conscience.
+EUDALIE.
+Allons, depechons-nous, car je perds patience.			[275]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VII. Agnes, Dorval, Theotime.
+DORVAL.
+Quel est cet Honorin ?
+THEOTIME.
+Un pretre respecte,
+Qui, dans cette maison a trente ans habite.
+Severe pour lui-meme, indulgent pour les autres.
+DORVAL.
+ Je le vois ; du couvent c'etait un des apotres ?
+AGNES.
+A peu pres.
+DORVAL.
+Chere Agnes, reparons nos malheurs.			[280]
+Une mere cruelle, en depit de vos pleurs,
+Vous immola jadis a l'orgueil de vos soeurs ;
+Votre mere n'est plus ; et votre belle-mere
+Vous adopte pour fille, et ses soins complaisants
+S'efforcent deja de vous plaire.			[285]
+De noeuds penibles et genants,
+Ma tendre amitie vous delivre,
+Des ce soir, vous pourrez me suivre.
+THEOTIME a Agnes.
+Je vous perds, c'en est fait.
+AGNES a Dorval.
+Mon pere, le couvent....
+DORVAL.
+Qui peut vous arreter ? Vous n'etes que novice,			[290]
+Vous n'avez point fait de serment.
+THEOTIME bas a Agnes.
+Quel nouveau malheur !
+AGNES, bas a Theotime.
+Quel supplice !
+DORVAL bas a Agnes.
+Quel est donc ce religieux,
+Qui sur vous, tout a l'heure, avait toujours les yeux ?
+AGNES.
+C'est un jeune homme que j'estime.			[295]
+DORVAL.
+Comment l'appelez-vous ?
+AGNES.
+Le pere Theotime.
+DORVAL.
+Vous le voyez beaucoup ?
+AGNES.
+Mon pere, tres souvent.
+Car Monsieur cultive un talent,
+Auquel depuis six mois volontiers je m'applique.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je me decouvre assurement.			[300]
+DORVAL.
+Et ce talent ?
+AGNES.
+Mon pere, il m'apprend la musique.
+DORVAL.
+Il a l'air fort interessant.
+Et je crois qu'il chante a merveille.
+AGNES.
+Sa voix, je l'avouerai, plait fort a mon oreille.
+DORVAL.
+Ce que vous dites la, me fait naitre un desir,			[305]
+AGNES.
+Et ce desir...
+DORVAL.
+Est de l'entendre.
+AGNES.
+Qui ? Lui ? Pour vous faire plaisir
+Il est pret a tout entreprendre.
+THEOTIME bas a Agnes.
+Je ne chante pas bien.
+AGNES bas a Theotime.
+Mais comme vous pourrez.
+THEOTIME bas a Agnes.
+Je n'ai point de chansons.
+AGNES bas a Theotime.
+Eh bien ! Vous en ferez.			[310]
+THEOTIME chante.
+Quand par un oncle surprise
+Dans les bras de son amant,
+La trop sensible Heloise
+Vit commencer son tourment.
+Coup affreux ! Douleur extreme !			[315]
+L'amant seul peut la sentir :
+N'est-ce pas deja mourir,
+Que de perdre ce qu'on aime ?
+DORVAL.
+J'aime beaucoup cette romance.
+THEOTIME.
+Voici le couplet qui commence :			[320]
+Agnes en sait la suite.
+AGNES bas a Theotime.
+Quoi ?...
+Je n'en sais pas un mot.
+THEOTIME bas a Agnes.
+Vous ferez comme moi.
+AGNES chante.
+Heloise est plus a plaindre :
+Non, jamais son tendre amant,
+Sans l'outrager ne peut craindre			[325]
+De son coeur un changement.
+Heloise le lui jure,
+Qu'il entende ce soupir ;
+Heloise peut mourir,
+Mais ne peut etre parjure.			[330]
+DORVAL.
+Cette musique me plait fort,
+Vous chantez bien ensemble, et vos voix sont d'accord.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je vous suis oblige...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je suis charme, ma fille,
+De vous voir ce nouveau talent ;
+Sans doute il charmera Monsieur de Vintimille,			[335]
+Dont j'approuve l'empressement,
+Et qui doit, en vous epousant,
+Entrer bientot dans ma famille.
+AGNES bas a Theotime.
+Non, je serai fidele, et mon coeur l'a jure.
+THEOTIME bas a Agnes.
+C'en est trop, chere Agnes, je pars desespere.			[340]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Dorval, Agnes.
+DORVAL.
+Comment ! Vous changez de visage,
+Agnes, je vois vos pleurs couler
+Alors que je viens vous parler
+Du projet d'un bon mariage ;
+Vraiment, cela n'est pas naturel a votre age.			[345]
+AGNES.
+Pardonnez au trouble ou je suis ;
+Oui, j'ai peine a quitter une maison si chere,
+Pour entrer dans le monde ou je suis etrangere ;
+Et je vais loin de vous rever a mes ennuis.
+SCENE IX.
+DORVAL seul.
+Ma fille, en verite m'etonne.			[350]
+Redouter un mari, regretter le couvent !
+Plus j'y pense, plus je soupconne...
+Mais on est injuste souvent A force d'etre penetrant.
+SCENE X. Dorval, Lafleur.
+LA FLEUR.
+Je suis charge de vous remettre
+Ce paquet, avec cette lettre.			[355]
+DORVAL.
+De quelle part ?
+LA FLEUR.
+C'est du pere Honorin.
+DORVAL.
+Pose ici le paquet. (Ah ! C'est de notre saint.)
+SCENE XI.
+DORVAL seul.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+Que ces nouvelles curieuses
+Vont donner de surprises a nos religieuses !
+Oui, voila bien la robe avec le capuchon,			[360]
+Qui, de tout le couvent, avait la confiance,
+Et qui dut entendre, dit-on,
+Plus d'une bonne confidence.
+Je voudrais un moment etre sous cet habit,
+Pour ecouter les choses rares Que sous le secret on lui dit......			[365]
+Le projet est plaisant, mais les moyens bizarres.
+Je ne prendrai jamais la resolution...
+Si l'on me decouvrait ! N'importe ;
+La curiosite l'emporte.
+Je cede a la tentation.			[370]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Un porte-feuille ! bon, il pourra m'etre utile :
+Des dames du couvent, examinons le style.
+Je lirai leur secret avant de l'ecouter ;
+Je serai confident de quelque tendre flamme ;
+Cela sera charmant. On vient. Bon ! c'est ma femme.			[375]
+SCENE XII. Monsieur Dorval, Madame Dorval.
+Madame DORVAL.
+Mon pere, avec respect je viens vous consulter.
+DORVAL.
+Sur quoi ?
+Madame DORVAL.
+C'est sur une entreprise
+Par qui je craindrais d'attenter
+Aux proprietes de l'eglise.
+Mon mari veut que du couvent			[380]
+Je fasse avec lui l'inventaire,
+N'est-ce pas un peche ?
+DORVAL.
+Non pas, assurement,
+Votre mari, d'ailleurs, est un homme prudent ;
+En suivant ses conseils, vous ne pouvez mieux faire.
+Madame DORVAL.
+Vous le croyez bien sage ?
+DORVAL.
+Assurement.			[385]
+Madame DORVAL.
+En croyez-vous la renommee ?
+Elle flatte ou medit, trompe en exagerant,
+Et dit juste tres rarement.
+Des defauts de Dorval je suis bien informee,
+Sans doute il n'est pas sans esprit,			[390]
+Mais il n'a point de caractere ;
+Vous l'avez toujours vu se plaire
+A ces modes d'un jour qu'aupres du sot vulgaire,
+Un charlatan met en credit.
+Il livra sa fortune aux fourneaux d'un chimiste ;			[395]
+Il alla chercher la sante
+Au bout du doigt d'un Mesmeriste !
+Du grand Cagliostro je le vis entete,
+Au point que deux jours par semaine
+Il conversait avec Turenne			[400]
+Tout comme je cause avec vous.
+Si Mahomet eut eu quelque credit en France,
+Je crois que mon bizarre epoux,
+Mettant dans Mahomet toute sa confiance,
+Aurait ete turc un moment :			[405]
+Il n'en est rien heureusement.
+Il quitta le service assez etourdiment,
+Il eut pu parvenir aux grades militaires,
+Il aime son pays ; mais il ne le sert guere.
+Dans son district il fait beaucoup de bruit,			[410]
+Il y perore jour et nuit ;
+Et pendant ce temps-la neglige ses affaires
+Il est dupe.
+DORVAL, a part.
+Bonne lecon !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous ne l'aimez donc pas ?
+Madame DORVAL.
+Pardonnez-moi, je l'aime,
+Il est juste, honnete, et si bon !			[415]
+Dans moi, sa confiance en tout point est extreme.
+DORVAL.
+Vous n'en abusez pas ?
+Madame DORVAL.
+Moi, non.
+Quoique je sois vive et jolie,
+Mon coeur resta toujours exempt de passions ;
+C'est a trois inclinations			[420]
+Que se borne en effet le roman de ma vie.
+DORVAL.
+Trois !
+Madame DORVAL.
+Vous trouvez que c'est bien peu.
+DORVAL, a part.
+Bien peu ! La scelerate ! Ah ! Cachons notre jeu.
+Il n'est pas temps encor de montrer qui nous sommes.
+Madame DORVAL.
+D'abord, mon premier gout fut pour les gentilshommes,			[425]
+Celui que je choisis fut un brave guerrier,
+Et jamais on ne vit plus aimable officier.
+DORVAL.
+Et le second ?...
+Madame DORVAL.
+Suivant un etat pacifique,
+Faisait des reglements, tantot bien, tantot mal ;
+C'etait ce qu'on appelle en bonne politique,			[430]
+Un conseiller municipal.
+DORVAL.
+Reste un troisieme.
+Madame DORVAL.
+Oui.
+DORVAL a part.
+La confidence est rare
+Pour un mari.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Madame DORVAL.
+Mon choix vous paraitra bizarre ;
+Mais l'amour est aveugle, et tel est mon destin,
+Que j'adore a present...
+DORVAL.
+Qui donc ?			[435]
+Madame DORVAL.
+Un Bernardin.			[435]
+DORVAL.
+C'est pousser trop loin l'insolence ;
+Ma colere est plus forte,
+Et je perds patience.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Me reconnaissez-vous ?
+Madame DORVAL, souriant.
+Vous etes mon mari.			[440]
+DORVAL.
+Vous ne rougissez pas ?
+Madame DORVAL.
+Je veux faire un pari.
+DORVAL.
+Comment ? Un pari ?
+Madame DORVAL.
+Je suis sure
+Monsieur, que par cette aventure,
+Vous croyez m'embarrasser fort.
+DORVAL.
+Sans doute.
+Madame DORVAL.
+Et la verite pure,			[445]
+C'est que je suis sans aucun tort.
+DORVAL.
+Cela, Madame, est un peu fort.
+Vous avez, dites-vous, aime dans votre vie
+Un conseiller municipal,
+Un militaire, un moine.
+Madame DORVAL.
+Et pourquoi, je vous prie,			[450]
+Vous dirais-je que non ? Je n'y vois pas de mal.
+DORVAL.
+Cela passe la raillerie.
+Madame DORVAL.
+Quoi, Monsieur, seriez-vous jaloux ?
+DORVAL.
+Madame.....
+Madame DORVAL.
+Ecoutez-moi, sans vous mettre en colere ;
+Quand je vous epousai, vous etiez militaire.			[455]
+DORVAL.
+J'en conviens.
+Madame DORVAL.
+Et voila comment
+un officier fut mon premier amant.
+Pour le bien, pour la paix, pour la chose publique,
+Votre empressement sans egal
+Fit de vous, dans ce temps critique,			[460]
+Un officier municipal.
+Par-la, mon autre amour suffisamment s'explique :
+Ici vous etes moine, ou bien votre habit ment ;
+J'adore un moine maintenant ;
+Voila tout le noeud de l'affaire.			[465]
+DORVAL, a part.
+Pour moi la verite n'est pas encor trop claire ;
+Cependant il faut croire, ou bien faire semblant.
+Madame DORVAL.
+Comptez sur ma vertu : je fais tout pour vous plaire ;
+Et je cours estimer les meubles du couvent.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIII.
+DORVAL seul.
+Me voici bien paye ; les epoux curieux			[470]
+Doivent toujours s'attendre a des choses pareilles.
+Un mari doit fermer les yeux....
+Et non pas ouvrir les oreilles.....
+J'ai forme l'entreprise et je l'acheverai ;
+Et d'un autre secret je me divertirai.			[475]
+Examinons ce portefeuille.
+Je vois que la premiere feuille
+Est de celle qui prit le voile malgre soi,
+Qui cherche a soulager sa tristesse profonde,
+Et qui veut bien qu'on se doute pourquoi			[480]
+Elle va rentrer dans le monde.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'ai lu tres bas, et j'ai bien fait.
+Mais je suis plus content de cet autre billet.
+Dieux ! On y parle de ma fille.
+Plus que je n'en voudrais, peut-etre j'en saurai.			[485]
+Allons, il est ecrit qu'aujourd'hui j'apprendrai
+Tous les secrets de ma famille.
+Il faut vous apprendre ce que j'aurais du vous cacher plus longtemps. J'aime Agnes, et j'en suis aime ; mais nous ne pouvons etre heureux ensemble. Quand je consentirais a rompre mes voeux, son pere ne consentira jamais a nous unir ; car je suis pauvre et cadet de famille. Je dois me sacrifier moi-meme : je vais quitter la France. Engagez Agnes a obeir a son pere ; c'est son premier devoir. Adieu, je serai moins malheureux quand je saurai que je suis seul a plaindre.
+Theotime.
+Ce n'est point la du tout, ecrire en suborneur,
+Ce jeune Theotime est un homme d'honneur.
+SCENE XIV. Tous les Acteurs ; hors Seraphin, Gabriel, Nicolas et la Tourriere.
+Madame DORVAL.
+Le voici ce saint personnage,			[490]
+A ses rares vertus, accourez rendre hommage.
+PRETONILLE a Dorval.
+Avant de vous quitter, apprenez mon secret,
+A cette confidence une heure peut suffire,
+Quand on sort du couvent, ou n'en saurait trop dire.
+APPOLINE.
+Un mot, et j'aurai bientot fait.			[495]
+PETRONILLE.
+Je passe la premiere.
+EUDALIE.
+Ah ! Je suis si pressee.
+APPOLINE.
+D'attendre si longtemps je suis deja lassee.
+EUDALIE.
+Ah ! Mes soeurs, que de temps perdu !
+DORVAL.
+Je quitte cet habit, j'en ai trop entendu.
+Plus que vous ne croyez, j'ai votre confidence,			[500]
+Ce que vous me diriez, je le connais d'avance.
+EUDALIE.
+Ah ! C'est Monsieur Dorval.
+Madame DORVAL.
+Allez, c'est un malin,
+Qui surprend nos secrets sous l'habit d'Honorin.
+DORVAL.
+Il faut bien qu'on me le pardonne.
+J'avais voulu surprendre et c'est moi qu'on surprit.			[505]
+Pour avoir un moment endosse cet habit,
+La lecon, j'en conviens, fut bonne :
+Ceux qui l'ont porte plus longtemps
+En doivent bien savoir sur les ames devotes,
+Et pourraient fournir tous les ans			[510]
+Un plaisant recueil d'anecdotes.
+EUDALIE.
+Ce capuchon, Monsieur ?...
+DORVAL.
+Oui ; d'abord il m'apprit
+Que ma femme.... est femme d'esprit.
+APPOLINE.
+Vous le saviez d'avance.
+Madame DORVAL.
+Et ce ne n'est pas un crime.
+DORVAL.
+Et que ma fille...
+L'ABBESSE.
+Ici tout le monde l'estime.			[515]
+DORVAL.
+Aime fort tendrement le pere Theotime.
+SCENE XV. Les Memes, La Tourriere, Theotime, Nicolas.
+LA TOURRIERE.
+Je ramene un transfuge : il fuyait du couvent,
+Et je ne l'ai saisi qu'a son corps defendant.
+Madame DORVAL.
+Enfin, vous l'aimez donc ?
+AGNES.
+Plus qu'on ne saurait dire.
+C'est dans la solitude et le desoeuvrement			[520]
+Qu'avec plus de pouvoir l'amour tient son empire.
+DORVAL.
+L'avis est fort bon a present.
+Faites donc elever vos filles au couvent.
+L'ABBESSE.
+Helas ! Que dira-t-on ?
+Madame DORVAL.
+Eh bien ! Qu'allez-vous faire ?			[525]
+DORVAL.
+Theotime est honnete, et moi je suis bon pere.
+Il est aime d'Agnes, je lui donne sa main.
+AGNES.
+Mon pere a vos genoux...
+THEOTIME.
+Jour heureux !... sort propice !
+Madame DORVAL.
+Il sera tres plaisant de voir une novice			[530]
+Epouser un ex-bernardin.
+L'ABBESSE.
+Si je me determine a profiter enfin
+De cette liberte que le decret nous laisse,
+A m'avoir un mari, travaillez sourdement ;
+Mais il faut necessairement,			[535]
+Qu'il ait appartenu jadis a la noblesse,
+Ou du moins ait ete dans quelque parlement.
+Songez qu'il faut un ci-devant
+Pour une ci-devant abbesse.
+Je quitte le couvent avant la fin du jour.			[540]
+APPOLINE.
+Je vais enfin revoir mon pere.
+PETRONILLE.
+Je cours dans les bras de ma mere.
+EUDALIE.
+ Je vais, je ne sais ou.
+LA TOURRIERE.
+Je vais chercher un tour.
+SCENE XVI. Tous les acteurs, hors la Fleur.
+GABRIEL.
+Mesdames, vous voyez si je m'etais trompe.
+SERAPHIN.
+De vous je me suis occupe ;			[545]
+Je viens vous apporter un charmant vaudeville,
+Que depuis ce matin l'on chante par la ville.
+PETRONILLE.
+Je vais donc essayer mon talent pour le chant.
+EUDALIE.
+Un vaudeville, ah c'est plaisant !
+Pour moi j'aime le chant presque autant que la danse.			[550]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PETRONILLE.
+Par Madame l'abbesse il faut que l'on commence.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'ABBESSE.
+Je perds le titre d'abbesse ;
+C'est un facheux accident.
+Quoi ! L'on veut de sa noblesse
+Priver aussi le couvent ?			[555]
+Mais un destin plus propice
+A mes voeux est presente ;
+Il n'est point de sacrifice
+Qu'on ne fasse a la liberte.
+LA TOURRIERE.
+Que si j'etais jeune et belle,			[560]
+Et faite encore pour l'amour,
+Je pourrais etre infidele,
+Et quitter aussi mon tour.
+Par un retour de tendresse
+Mon coeur est souvent tente ;			[565]
+Mais helas ! Dans la vieillesse,
+Que faire de la liberte ?
+AGNES.
+Si je sors du monastere,
+L'hymen m'enchaine a jamais :
+Le lien que l'on prefere			[570]
+Ne laisse point de regrets.
+Le nouveau noeud que j'adore
+Sera toujours respecte.
+C'est pour l'engager encore,
+Que je reprends, ma liberte.			[575]
+EUDALIE.
+Ce qui chez vous est fort sage,
+Chez moi serait imprudent.
+Je vais faire un autre usage
+Du bonheur que l'on me rend,
+Mon coeur toujours vif et tendre,			[580]
+Veut, par l'amour agite,
+Souvent quitter et reprendre
+Tous les droits de sa liberte.
+THEOTIME.
+L'Hymen n'est point une chaine
+Lorsqu'il unit deux amants,			[585]
+Et je vous soumets sans peine
+Mes voeux et mes sentiments.
+En vous, le pouvoir supreme
+Ne peut etre redoute ;
+Obeir a ce qu'on aime			[590]
+Vaut bien mieux que la liberte.
+Madame DORVAL.
+On dit souvent que les belles
+Tyrannisent leurs amants ;
+Mais pour les amants fideles
+Ce sont de bien chers tyrans ;			[595]
+Et de ce fexe equitable
+Reconnaissez la bonte,
+Quand l'amant n'est plus aimable
+On lui donne sa liberte.
+PETRONILLE.
+Je vais rentrer dans le monde			[600]
+Ou m'appellent mes desirs ;
+Je vois partout qu'on le fronde,
+Et qu'on cherche ses plaisirs :
+Mais en sortant d'esclavage,
+Si mon coeur a palpite,			[605]
+C'est sans trop savoir l'usage
+Qu'il fera de sa liberte.
+SERAPHIN.
+Si nous sortons d'esclavage,
+Mes amis de ce bienfait,
+Aux femmes rendons hommage,			[610]
+Car les femmes ont tout sait :
+Leurs bons mots et leur aisance
+De tout temps ont eclate,
+Et nous leur devons en France
+L'exemple de la liberte.			[615]
+
+	==================================================

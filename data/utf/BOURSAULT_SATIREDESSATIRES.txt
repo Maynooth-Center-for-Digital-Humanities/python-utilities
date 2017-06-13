@@ -1,0 +1,1440 @@
+********************************************************
+	DC.Title                  = LA SATIRE DES SATIRES, COMEDIE.
+	DC.Author                 = BOURSAULT, Edme
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:10.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/BOURSAULT_SATIREDESSATIRES.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LA SATIRE DES SATIRES COMEDIEM. DC. LXIX. AVEC PRIVILEGE DU ROI.
+PAR MONSIEUR BOURSAULT
+	A PARIS, Chez JEAN RIBOU, au Palais, vis a vis la Porte de l'Eglise de la Sainte Chapelle, a l'image Saint-Louis.
+	Acheve d'imprimer le 4 mai 1669.
+	Representee, pour la premiere fois en octobre 1669 au Theatre du Marais.
+	MONSEIGNEUR,
+Comme il etait juste, ayant une galanterie a dedier, que je la destinasse a l'un des plus galants hommes de la Cour, je n'ai point hesite sur le choix que j'avais a faire. Si vous blamez ma temerite, du moins jouerez vous mon industrie : puisque malgre tous les efforts que l'on a fait pour abimer la piece que je vous presente, je trouve le moyen, en vous la consacrant, de rendre don sort illustre. Je sais, MONSEIGNEUR, que c'est beaucoup faire pour moi, que choisir un appui si considerable a un ouvrage qui a ete si cruellement persecute ; mais je doute que ce soit faire assez pour vous ; et qu'un Nom aussi fameux que le votre l'est, s'accommode d'une bagatelle, qui peut-etre doit une partie de sa reputation a l'injustice qu'on lui a rendue. Ce n'est pas qu'il n'y ait des endroits qui au dire des experts sont assez delicatement touches : pour me faire supporter plus facilement l'injustice que l'on m'a faite, on l'a presque toujours accompagnee de quelque louange : et je puis dire que ceux-meme qui m'ont fait le plus de mal, dans le dessein de ma le faire moins sentir, m'ont toujours enivre d'encens avant de de m'en faire. Vous en jugerez, MONSEIGNEUR, Vous qui avez au moins autant de lumieres que ceux qui ont decide souverainement ; et de qui l'on ne peut mieux faire l'eloge qu'en publiant que vous etes l'homme le mieux fait de la Cour, et que votre esprit est encore mieux fait que votre personne. Je dirais de Vous ce que je pense, et ce que toute la France sait, si ce que je vous offre valait la peine d'y attacher votre panegyrique. Mais je travaille, MONSEIGNEUR ; ce que je fais meme sera peut-etre digne d'etre transmis a la posterite a la faveur de votre Nom ; et d'abord que je pourrai mettre vos louanges au devant de quelque ouvrage qui ne les deshonore pas, vous verrez que c'est avec la passion la plus respectueuse du monde que je fais gloire d'etre, MONSEIGNEUR, 
+Votre tres humble et tres obeissant serviteur, BOURSAULT.
+
+AU LECTEUR
+Les Satires de Monsieur Despreaux ont fait un si grand fracas, et tant de personnes capables de juger des belles choses leur ont donne leur approbation, que je serais du moins aussi emporte que leur Auteur, si le peu qu'on y remarque de mauvais me faisait condamner tout ce qu'il y a de bon. J'avoue que la gloire qu'il pretend s'etre acquise, lui serait legitimement due, si l'on acquerait une veritable gloire a faire beaucoup de mauvais bruit : mais pour un homme tel que Monsieur Despreaux, qui par la delicatesse de sa plume pouvait s'attirer des applaudissements sans restriction, c'est en avoir mal use, qu'avoir reduit tout ce qu'il y a de gens raisonnables a ne pouvoir faire l'eloge de son esprit, sans etre obliges de faire le proces a sa conduite. S'il est vrai que son genie soit si borne, qu'il soit en pays perdu aussitot qu'il est hors de la Satire, je consens qu'il n'en sorte point : mais il y a bien de la difference entre satiriser et medire ; reprendre, et injurier ; condamner des fautes, et en commettre. Attaquer les vices dans tous les hommes, et faire des peintures de leur noirceur, qui donnent de l'horreur a ceux qui en faisant reflexion sur leur vie s'en trouvent convaincus, c'est ce qu'on appelle une Satire : mais declarer ceux d'un particulier ; et decliner son nom pour le faire mieux connaitre, c'est un Libelle diffamatoire. En vain Monsieur Despreaux cherche des exemples pour autoriser ce qui n'en eut jamais. Si les Romains, qu'il cite dans un discours qu'il a fait sur la Satire, ont quelquefois nomme des gens connus, ils faisaient par prudence ce qu'il fait aujourd'hui par le seul plaisir qu'il a de faire du mal. Ceux qu'ils decriaient, etaient deja decries par les crimes qu'ils avaient commis, de par les reprehensions qu'ils n'avaient pu eviter ; et si l'on en faisait des portraits epouvantables, c'etait pour effrayer la jeunesse qu'ils pouvaient seduire : mais de tous ceux que nomme Monsieur Despreaux, il n'y en a pas un que je connaisse, (si l'on m'en excepte) en qui l'on ne trouve toutes les qualites requises pour faire d'aussi honnetes gens qu'il y en ait en France ; et pour ce qui est de ceux que je ne connais pas, j'en juge favorablement par le mal qu'il ne peut s'empecher de leur vouloir. Qu'on ne m'allegue point que j'ai voulu faire pis que Monsieur Despreaux n'a fait, et que s'il y a du crime a mettre du monde sous la presse, il y en a encore davantage a en vouloir traduire sur un Theatre : je n'ai pas vecu jusqu'a present sans le savoir, aussi bien que ceux qui me l'allegueraient ; mais outre que pour se venger, on doit faire un peu plus de mal qu'on n'en a recu, Monsieur Despreaux meritait bien d'etre joue en presence de toute la terre qu'il joue : et le Tribunal auguste ou il a mendie les defenses dont il s'est servi, et qui a coutume de se declarer contre toutes sortes d'agresseurs, ne lui aurait pas ete si favorable, n'etait qu'il en a surpris la religion. Ceux qui se donneront la peine de lire la Piece que je mets au jour, verront bien que je n'y ai rien mis de diffamatoire contre son honneur, ni contre sa personne, comme il le suppose dans l'Arret qui fait defenses aux Comediens de la representer. Je ne sais rien de lui qui soit a son desavantage, que ce que toute la France sait aussi : c'est-a-dire cette liberte qu'il prend d'offenser des gens qui ne lui ont jamais fait de mal ; et je pense qu'il n'y en aurait guere qui lui refusassent leur estime, s'il faisait un meilleur usage de son genie. Ce n'est pas que dans ce qu'il a fait il n'y ait a retoucher, comme dans tout ce que font les autres. Le plaisir qu'on a d'entendre medire fait qu'on passe, sans y prendre garde, par dessus des endroits ou l'on s'arreterait, si une injure qui s'y trouve a point nomme, n'attirait toute l'attention de ceux qui parcourent ses Ouvrages : et si j'etais d'humeur a faire une Critique en prose, je lui en citerais plusieurs, sans compter ceux que j'ai deja repris, ou il a oublie de mettre du jugement. Mais je me contente du temps que j'ai perdu a lui repondre ; et je lui declare que de quelque facon qu'il me traite desormais, je ne m'en vengerai que par mon silence. Si je fais de mechants vers, il aura peu de gloire a faire tomber un homme qui tomberait bien sans lui ; et si j'en fais de bons, ils se soutiendront assez d'eux memes.
+
+PERSONNAGES
+EMILIE, maitresse du Chevalier.
+LE CHEVALIER, Amant d'Emilie.
+LE MARQUIS, marquis du Bel-Air.
+LA MARQUISE ORTODOXE, jeune veuve et precieuse.
+AMARANTE, Amie d'Emilie.
+BOURSAULT.
+LA WALTOLINE, suisse d'Emilie.
+LA FRANCE, laquais d'Emilie.
+La scene est a Paris, chez Emilie.
+
+Dans l'avis Au Lecteur qui ouvre la piA ce, Boursault prA©cise que Boileau a obtenu du Parlement un "ArrAat qui fait dA©fenses aux ComA©diens de la reprA©senter". L'information selon laquelle la piA ce aurait A©tA© reprA©sentA©e en octobre 1669 au thA©A¢tre du Marais (voir ci-dessous) est donc sujette A  caution. [Georges Forestier]
+
+
+			
+
+
+SCENE PREMIERE. Emilie, Le Chevalier, Un Laquais.
+EMILIE.
+Allez-moi de ce pas chercher la Waltoline,
+Et revenez.
+LE CHEVALIER.
+D'ou vient que vous etes chagrine ?
+Qu'avez-vous ?
+EMILIE.
+Juste-Dieu ! Qui ne le serait pas ?
+A-t-on rien dit de bon pendant tout le repas ?
+Sans facon, suivez-moi, si vous me voulez suivre :			[5]
+Mais je ne puis rester la-dedans ; je suis ivre.
+Pour peu qu'on ait de sens, se figure-t-on rien
+Qui soit plus fatiguant qu'un si sot entretien ?
+Votre ami le Marquis dont la langue estropie,
+Est un original qui n'a point de copie :			[10]
+Il emporte le prix sur les plus eventes,
+Et ne dit que fadaise, et qu'inutilites.
+Ce qu'il a d'assommant, quelque sot qu'il puisse etre,
+Aux ouvrages d'esprit il pretend se connaitre ;
+Et n'en croyant jamais que son faible cerveau,			[15]
+Ce qu'il loue est blamable, et ce qu'il blame est beau.
+Mal avec la raison, il n'est point de rencontre
+Ou, sitot qu'on en parle, il ne se ligue contre.
+J'ai de son entretien autrefois fait l'essai :
+Il est si plein de soi, qu'il en creve.
+LE CHEVALIER.
+Il est vrai.			[20]
+Qu'il soit seul a manger, d'une mine adoucie,
+Il boit a sa sante, puis il se remercie ;
+A se complimenter passe le tiers d'un jour,
+Et croit qu'on s'apercoit quand il manque a la Cour,
+Mais tout fat qu'il puisse etre, une Dame galante			[25]
+Doit, quand elle regale, etre plus complaisante.
+Je n'ai jamais rien vu qui fut mieux ordonne
+Que le pompeux repas que vous avez donne :
+Lorsqu'a charmer nos sens votre esprit s'etudie,
+Et qu'au Bal qui s'apprete il joint la Comedie,			[30]
+Faut-il qu'un etourdi, qui n'a point de raison,
+Avec si peu d'esprit en alarme un si bon ?
+Si vous le trouvez fat, riez-en.
+EMILIE.
+Que j'en rie ?
+Et morbleu ! (car enfin il m'a mise en furie,
+Et s'il faut librement vous en faire l'aveu.			[35]
+Je ne puis en sortir, si je ne jure un peu. )
+Riez-en, dites-vous ? Faudrait-il me le dire ?
+N'en aurais-je pas ri, si j'en avais pu rire ?
+A plusieurs mechants mots, qu'il garantissait bons,
+J'ai fait semblant de rire, et j'enrageais au fonds.			[40]
+Plein de son Despreaux, qu'en louant il dechire,
+(Car ce qui n'en vaut rien est ce qu'il en admire,)
+Il en parle sans cesse, et pretend fortement
+Que l'Univers en corps soit de son sentiment.
+J'ai bien affaire, moi, pour se faire de fete,			[45]
+Que de son Despreaux il me rompe la tete,
+Et qu'a brule-pourpoint il m'attaque vingt fois
+Pour piller mon suffrage, et corrompre ma voix.
+Grace au babil fecond d'un Marquis ridicule,
+Qui toujours se regarde, et toujours gesticule,			[50]
+Si Monsieur Despreaux n'eut servi d'entretien,
+Tant qu'a dure le jour, on n'eut parle de rien :
+On l'a plus de cent fois conjure de se taire,
+Mais le traitre qu'il est, n'en a rien voulu faire :
+Despreaux qui l'entete, est si fort a son gout,			[55]
+Qu'il le mettait en uvre, et l'enchassait partout.
+Defaites-vous-en. Fi !
+LE CHEVALIER.
+Je suis pret de le faire.
+Il vous blesse la vue, et je cherche a vous plaire :
+Mais (et vous voulez bien que je vous parle ainsi)
+Il n'est pas le seul fat que vous souffriez ici.			[60]
+Le Marquis, a mon sens, est plus sage qu'Eudoxe,
+Qui se fait appeler la Marquise Orthodoxe ;
+Parce que dans Alger son aieul fait captif,
+Pour la religion fut empale tout vif :
+Cependant chaque jour vous souffrez sa visite ;			[65]
+Et, si je m'y connais, c'est un mince merite
+Est-il rien de si fade, et de plus degoutant,
+Que les mots qu'elle affecte, et qu'elle estime tant ?
+N'est-ce pas a dessein faire rire le monde,
+Que toujours repeter que l'on couvre sa Blonde ;			[70]
+Pour dire aux gens de Cour, en des termes nouveaux,
+"Usez-en librement, et mettez vos chapeaux".
+EMILIE.
+Et puis-je honnetement m'en debarrasser ? Dites :
+Puis-je sans l'offenser, refuser ses visites ?
+Et de la qualite dont vous savez qu'elle est,			[75]
+Lui dirai-je tout franc que son air me deplait ?
+LE CHEVALIER.
+Par la meme raison, sur la moindre matiere,
+Voulez-vous qu'au Marquis j'aille rompre en visiere ?
+Et du rang dont il est, (car dans tout cet etat
+On trouverait a peine un plus illustre fat,)			[80]
+Son pere qui descend d'un echappe de Prince,
+Met dans ses qualites, Gouverneur de Province,
+Duc, Vicomte, Marquis, Chevalier, Marechal,
+Comte, Baron, Vidame, Ecuyer, Senechal,
+A Paris Pair de France, a Madrid Grand d'Espagne,			[85]
+Tresorier d'Angleterre, Electeur d'Allemagne ;
+Et comme si pour lui c'etait peu que cela,
+Il fait encor au bout mettre un et cetera,
+Apres vingt qualites d'une telle importance,
+Comme font la plupart des grands Seigneurs de France.			[90]
+A des gens de sa sorte ira-t-on dire au nez,
+Qu'en theatre public leurs pareils sont bernes ?
+Sur qu'a vos sentiments c'est a tort qu'il s'oppose,
+Le Marquis est un fou, mais je n'en suis pas cause ;
+Et je suis etonne qu'avec tant de clartes,			[95]
+Vous vouliez me charger de ses iniquites.
+EMILIE.
+Vous l'avez amene.
+LE CHEVALIER.
+Je l'ai du, ce me semble :
+Accordes aujourd'hui, pour etre unis ensemble,
+L'honneur dont vos bontes recompensent mes soins,
+Me parait assez grand pour avoir des temoins.			[100]
+D'ailleurs, vous faire voir en l'etat ou vous etes,
+A ce qui m'a charme c'est mener des conquetes ;
+Rien n'echappe a vos yeux, et je ne voulais pas
+Faire tort d'un hommage a vos charmants appas.
+EMILIE.
+Vous voulez m'adoucir, mais enfin je m'obstine.			[105]
+SCENE II. Emilie, Le Chevalier, La Waltoline, Un Laquais.
+EMILIE.
+A la fin, grace au Ciel, voici la Waltoline.
+Mon Dieu, comme il est fait ! Il s'est battu !
+LA WALTOLINE.
+Pardi !
+Un Laquais par deux fois dit que j'avre menti :
+Par mon foi, moi d'abord que lui tourne son tete,
+Je tiens mon Halibarde en mon main toute prete,			[110]
+Et quand il ne voit rien, pardi tout a l'instant
+J'en donne un coup bien fort dessus son dos qu'il tend.
+Mais le Laquais, mon foi, qui n'est guere pagnote,
+Me prend mon Halibarde, et pardi m'en tapote ;
+De son main qu'il fait poing, me casse tous les dents.			[115]
+Mon foi, le maison s'ouvre, et j'ai sorti dedans :
+J'aime encore plus que mieux qu'il dechire mon manche.
+Voudrais bien maintenant un petite fil blanche
+Pour deux liards.
+EMILIE.
+Et faquin, faut-il se battre ?
+LA WALTOLINE.
+Ho, ho !
+Voulez-vous que j'endure un menti tout de go ?			[120]
+Non par mon foi !
+EMILIE.
+Viens ca ; tu sais lire, je pense ?
+LA WALTOLINE.
+Point, pardi !
+EMILIE.
+Point !
+LA WALTOLINE.
+Ah, ah ! j'avre la souvenance
+Que si fait. Oui pardi. Foi de Suisse d'honneur.
+EMILIE.
+Tu sais lire ?
+LA WALTOLINE.
+Mon foi, savre lire par cur,
+Et fort pien.
+EMILIE.
+Viens-ca donc. La noblesse ambigue			[125]
+Qui traine le desordre, et qui fait la cohue,
+Me fatigue, m'assomme, et tout en sera plein,
+A moins que de bonne heure on n'y tienne la main :
+C'est pourquoi, songes-y, je pretends qu'aucun n'entre,
+Hormis ceux dont les noms sont la-dessus.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LA WALTOLINE.
+Oh, diantre !			[130]
+Si quelqu'un vient : Qui tape ? Ami. Dis votre nom ?
+Moi, je veux pas le dire ; et moi, j'ouvre point.
+EMILIE.
+Bon,
+Retourne, et souviens-toi de ce que je t'ordonne.
+LA WALTOLINE.
+Oh pardi ! J'avre moi la souvenance bonne :
+S'il ne cline son nom, personne entre aujourd'hui.			[135]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dis-moi vous ; l'ecriture est-ce pas le noir ?
+LE CHEVALIER.
+Oui.
+LA WALTOLINE.
+Grand-merci.
+SCENE III. Le Marquis, Emilie, Le Chevalier, Un Laquais.
+LE MARQUIS, de derriere le Theatre.
+Chevalier.
+EMILIE.
+Me revoila chagrine ;
+L'etourdi de Marquis, dont la langue assassine,
+A dessein de nous joindre, et je crains son caquet.
+LE MARQUIS.
+Chevalier !
+EMILIE.
+Paix.			[140]
+LE MARQUIS.
+Ma foi, je vous prends sur le fait ;			[140]
+Vous voila l'un et l'autre a ma misericorde :
+Comment Diable ? A l'ecart des le jour qu'on s'accorde ?
+A vous dire le vrai, si je m'y connais bien,
+Deux amants comme vous, ne sont pas la pour rien :
+Pour fausser compagnie, il faut avoir affaire,			[145]
+Dieu me damne !
+LE CHEVALIER.
+L'Amour, n'est jamais sans mystere,
+Tu le sais.
+LE MARQUIS.
+Dites-moi, dansera-t-on bientot ?
+Je m'en suis autrefois demele comme il faut.
+Dolivet, et Beauchamp, m'en faisaient la grimace.
+EMILIE.
+Les gens faits comme vous ont partout bonne grace.			[150]
+LE MARQUIS.
+Assurement.
+EMILIE.
+La danse est votre vrai talent ;
+Vous avez le corps souple, et de plus l'air galant.
+LE MARQUIS.
+Pour souple, il est certain que je n'ai pas les gouttes ;
+Je saute...
+EMILIE.
+A quelle danse excellez-vous ?
+LE MARQUIS.
+A toutes.
+Par ma foi.
+EMILIE.
+Vous dansez les Menuets ?			[155]
+LE MARQUIS.
+Oh, qu'oui,			[155]
+Et qui plus est, j'espere y piper aujourd'hui.
+Mais a propos de danse, as-tu su des paroles
+Que je fis l'autre jour, et qui sont assez droles ?
+EMILIE.
+Sur quel air ?
+LE MARQUIS.
+Sur quel air ? Sur l'air des Menuets.
+LE CHEVALIER.
+Des vers de ta facon sont, je crois, bien mal faits.			[160]
+Les auteurs de ta sorte effarouchent les Muses.
+LE MARQUIS.
+Dieu me damne, mon cher, pour le coup tu t'abuses.
+Pour des vers cavaliers, qui toujours sont mauvais,
+Je n'en ai jamais vu de plus joliment faits.
+Les voici.
+
+
+	« Un jour Lisis au bord de l'onde
+	Parlait d'amour a Rosemonde ;
+	Mais cette Blonde,
+	Qui toujours gronde,
+	Et que jamais le Berger ne choqua,
+	Sans raison du monde
+	S'en estomaqua ;
+	Depuis, par depit, le Berger la troqua. »
+
+			[0]
+Qu'en dis-tu ?			[165]
+
+
+	« Mais cette Blonde,
+	Qui toujours gronde,
+	Et que jamais le Berger ne choqua,
+	Sans raison du monde
+	S'en estomaqua ;
+	Depuis, par depit, le Berger la troqua. »
+
+			[0]
+M'en croyais-tu capable ?			[165]
+LE CHEVALIER.
+Non.
+LE MARQUIS.
+Tu vois bien par la que je suis veritable.
+Les trois vers de la fin sentent l'homme de Cour.
+
+
+	« Sans raison du monde
+	S'en estomaqua ;
+	Depuis, par depit, le Berger la troqua. »
+
+			[0]
+N'est-ce pas, Chevalier, que j'y mets le beau tour ?
+Et que sans le secours des preceptes frivoles,
+Je fais passablement de mechantes paroles ?			[170]
+Dis donc ?
+LE CHEVALIER.
+Passablement ? Sans te flatter en rien,
+Tu fais de mechants vers admirablement bien.
+EMILIE.
+A merveille.
+LE MARQUIS.
+Oh, parbleu ! Moderez la louange
+Touchant votre repas, je vous rendrais le change :
+A vous congratuler je serais occupe ;			[175]
+Mais je pense jamais n'avoir plus mal soupe,
+J'en enrage.
+EMILIE.
+Et pour moi, ce reproche me pique.
+LE CHEVALIER.
+Je n'ai jamais rien vu qui fut plus magnifique.
+On a meme trouve bien des mets superflus ;
+Il se moque.
+LE MARQUIS.
+Ma foi, ce que j'aime le plus			[180]
+Y manquait.
+LE CHEVALIER.
+Sait-on bien quels ragouts tu souhaites ?
+LE MARQUIS.
+Non ; mais dans un repas n'avoir point d'alouettes,
+C'est pour moi, qui les aime, un supplice cruel ;
+Parbleu !
+EMILIE.
+Prenez-vous-en a mon maitre d'hotel.
+LE MARQUIS.
+C'est un manger de Prince ; elles font succulentes...			[185]
+LE CHEVALIER.
+C'est en cette saison qu'elles font excellentes,
+Il a raison.
+LE MARQUIS.
+Comment ! C'est en cette saison !
+LE CHEVALIER.
+Oui ; car durant l'ete l'on n'en mange point.
+LE MARQUIS.
+Bon !
+Veux-tu que je te prouve, et par raisons fort nettes,
+Qu'au plus fort de l'ete l'on voit des alouettes ?			[190]
+LE CHEVALIER.
+En l'air donc.
+EMILIE.
+Comme il dit, en l'air donc ?
+LE MARQUIS.
+Point du tout.
+EMILIE.
+Voyons comme il fera pour en venir a bout,
+Et comme il prouvera par des raisons fort nettes,
+Qu'au plus fort de l'ete l'on ait des alouettes.
+LE CHEVALIER.
+Il ne saurait.
+LE MARQUIS.
+Parbleu, nous allons voir cela.			[195]
+As-tu lu Despreaux ?
+EMILIE.
+De grace, brisons-la ;
+Laissons-la Despreaux, et les vers qu'il compose ;
+On n'a tout aujourd'hui discouru d'autre chose.
+Je suis lasse a la fin d'ouir citer son nom.
+LE MARQUIS.
+Tout de bon ?
+EMILIE.
+Oui.			[200]
+LE MARQUIS.
+Ma foi, soyez-en lasse, ou non ;			[200]
+Je pretends vous prouver, et par raisons fort nettes,
+Qu'au plus fort de l'ete l'on a des alouettes ;
+Vous m'en avez, tous deux defie.
+LE CHEVALIER.
+Mais, Marquis,
+Ne peux-tu le prouver, sans citer ses ecrits ?
+Tu n'en as pas besoin pour ce que tu souhaites.			[205]
+LE MARQUIS.
+Et quel autre ecrivain a parle d'alouettes,
+Dis, benet ?
+EMILIE.
+Croyez-moi ; laissez-le discourir.
+C'est un mal qui le tient dont il faut le guerir,
+Despreaux qui le charme, est dans sa fantaisie ;
+Et j'en vais tant parler, que je l'en rassasie.			[210]
+Des sieges, Laquais. Ca.
+LE MARQUIS.
+Je vous tiens, par ma foi.
+N'as-tu pas les ecrits de Despreaux ?
+LE CHEVALIER.
+Sur moi ?
+Non.
+LE MARQUIS.
+Les voici. Je ris de ton extravagance.
+As-tu lu le repas qu'il decrit ?
+LE CHEVALIER.
+Oui, je pense.
+LE MARQUIS.
+Fort bien. Te souviens-tu des mets qu'il fait venir ?			[215]
+LE CHEVALIER.
+Confusement.
+LE MARQUIS.
+Je vais t'en faire souvenir.
+"Sur un amas confus de viandes entassees,
+Regnait un long cordon d'Alouettes pressees."
+Mot pour mot. Que t'en semble ? Avais-je le gout bon ?
+Mange-t-on en ete des alouettes ?			[220]
+EMILIE.
+Non.
+LE MARQUIS.
+Comment ? C'est Despreaux qui dans une Satire...
+EMILIE.
+D'accord, mais c'est peut-etre en hiver qu'il veut dire.
+LE MARQUIS.
+Bon ! Par ce faux-fuyant vous croyez m'echapper.
+Mais parbleu ! Sans courir, je vais vous rattraper.
+Dans le meme repas, pour comble de disgrace,			[225]
+"Par le chaud qu'il faisait l'on n'avait point de glace ;
+Point de glace, bon Dieu ! Dans le fort de l'ete !"
+Ah mois de Juin ! Voyez, ai-je rien invente ?
+Voila l'endroit, lisez.
+LE CHEVALIER.
+Que veux-tu qu'elle lise ?
+Tant pis pour Despreaux, s'il met une sottise.			[230]
+Comme ami de l'auteur, tu pourrais repliquer ;
+Qu'il fait ce repas, qu'il retend s'en moquer ;
+Que c'est un fat qui traite, et qu'on peut sans scrupule
+Orner d'un mechant plat, un festin ridicule,
+A cela je repons pour te pousser a bout,			[235]
+Qu'en Mai, Juin, et Juillet, on n'en voit point du tout ;
+Que chez les rotisseurs pas une ame n'en trouve ;
+Que c'est en ce temps-la que l'alouette couve ;
+Et que tout fat qu'il fut, le maitre du logis
+N'avait pas envoye denicher les petits.			[240]
+LE MARQUIS.
+Mon pauvre Chevalier, que ta reponse est sotte !
+Tu sais, quand je m'y mets, de quel air je te frotte :
+Sur le raisonnement, je suis plus fort que toi.
+SCENE IV. Emilie, Le Marquis, Le Chevalier, La Waltonine.
+EMILIE.
+Qu'est-ce ? La Waltoline, ou revas-tu ?
+LA WALTOLINE.
+Mon foi,
+Je vas apprendre a vous, qu'une personne il tape.			[245]
+EMILIE.
+Qui se nomme ?
+LA WALTOLINE.
+Bour... Bour... son nom me chape,
+Lui trois fois l'avre dit, mais je m'en dessouviens.
+EMILIE.
+As-tu bien consulte le papier que tu tiens ?
+Est-ce Acante, Licas, Oriane, Caliste,
+Damon, Tirsis...
+LA WALTOLINE.
+Mon foi, lui n'est point sur mon liste ;			[250]
+Cartinement.
+EMILIE.
+He bien, n'ouvre donc point.
+LA WALTOLINE.
+Pardi ?
+Lui voudrait vous, Madame, un peu voir un petit !
+EMILIE.
+Ouvre donc.
+LA WALTOLINE.
+Voule-vous ? Moi, suis votre serfice.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE MARQUIS.
+De quel endroit de France est Monsieur votre Suisse ?
+S'il vous plait.
+EMILIE.
+He, mon Dieu ! Point de subtilite,			[255]
+Parlons de Despreaux, vous l'avez souhaite ;
+Ou je dirai partout, pour vous faire la guerre,
+Que des qu'on vous resiste, on vous jette par terre.
+Defendez ce qu'il fait, je suis contre, et vous pour ;
+Voyons. 
+SCENE V. Boursault, Emilie, Le Chavalier, Le Marquis.
+BOURSAULT.
+C'est un peu tard venir faire ma Cour,			[260]
+Madame ?
+EMILIE.
+Etait-ce vous qui heurtiez ?
+BOURSAULT.
+Oui, Madame.
+EMILIE.
+Un siege.
+LE CHEVALIER.
+Songez-vous a notre epithalame ?
+L'hymen ou j'aspirais, est conclu d'aujourd'hui :
+Et vous m'avez promis que vous la feriez.
+BOURSAULT.
+Oui.
+LE MARQUIS.
+En vers ?
+EMILIE.
+Monsieur en fait de fort beaux.			[265]
+LE MARQUIS.
+On le nomme ?			[265]
+EMILIE.
+Monsieur Boursault.
+LE MARQUIS.
+Ah fi ! Ce n'est pas la mon homme.
+Un pareil compliment lui doit sembler nouveau :
+Mais des mechants auteurs, je suis parbleu, le fleau :
+Je n'en puis souffrir un, s'il n'excelle.
+LE CHEVALIER.
+Il se moque.
+LE MARQUIS.
+Point, par ma foi.
+LE CHEVALIER.
+Point ?			[270]
+LE MARQUIS.
+Non.			[270]
+LE CHEVALIER.
+Mais ton discours le choque.			[270]
+BOURSAULT.
+Moi ? Comment voulez-vous qu'il trouve mes vers beaux ?
+Monsieur est partisan de Monsieur Despreaux ;
+Je le connais.
+LE MARQUIS.
+Ma foi, c'est un charmant genie.
+"Lorsque d'un froid rimeur il depeint la manie,
+Ses vers, comme un torrent, coulent sur le papier :			[275]
+Il rencontre a la fois Perrin, et Pelletier,
+Bardou, Mauroy, Boursault." Au moins sans artifice,
+Boursault.
+EMILIE.
+C'est vous, je crois ?
+BOURSAULT.
+Pour vous rendre service ;
+C'est moi-meme.
+EMILIE.
+Pour moi, quand je lis Despreaux,
+Je trouve en des endroits quelques vers assez beaux ;			[280]
+Mais ce qui me deplait de sa veine feconde,
+Elle est trop satirique, et nomme trop de monde.
+C'est pour un galant homme, un peu s'etre oublie :
+Plus son nom fait de bruit, plus il est decrie ;
+On court a ses ecrits, mais chacun les achete,			[285]
+Moins pour voir ce qu'il fait, que les gens qu'il maltraite.
+Caresse d'un Libraire, a qui va le butin,
+Aux depens de sa gloire, il enrichit Barbin ;
+Et sur que sans nommer son genie est aride,
+Pour un honneur frivole, il en quitte un solide,			[290]
+S'il avait des amis, il devrait le savoir.
+LE MARQUIS.
+Avec tout le respect que je crois vous devoir,
+Ce que vous dites la, Madame, est ridicule ;
+Parbleu. Despreaux nomme ! O le plaisant scrupule ?
+C'est qu'il est franc.
+SCENE VI. Amarante, Ortodoxe, Emilie, Le Marquis, Le Chavalier, Boursault.
+AMARANTE, qui de la porte apercoit Emilie.
+Madame, avancez, s'il vous plait ;			[295]
+J'ai pris la bonne route, et c'est ici qu'elle est ;
+Avec l'epoux futur je la vois qui s'amuse.
+ORTODOXE, de la porte.
+Ne font-ils rien de plus ? Je sais comme on en use :
+Je m'en irais.
+EMILIE.
+Entrez, nous vous en prions tous ;
+Si vous n'avez dessein que l'on coure apres vous.			[300]
+Que pretendez-vous donc que nous fissions ?
+ORTODOXE.
+Que sais-je ?
+Les Amants de sa sorte ont un grand privilege.
+Et puis, a le bien prendre, ayant trouve son fait,
+Quand on est accorde, n'est-ce pas quasi fait ?
+C'est en deux oui qu'on dit que tout l'Hymen consiste.			[305]
+Et parmi le grand nombre on n'est point formalise :
+Des qu'on est accorde, la pudeur prend l'essor.
+Que je vous baise un peu, je vous en prie : encor,
+Et Monsieur l'accorde veut-il que je le baise ?
+EMILIE.
+S'il le veut ? De sa vie on ne l'a fait plus aise :			[310]
+Vous moquez-vous ?
+ORTODOXE.
+Bon Dieu ! qu'il s'en acquitte bien !
+Je vous en congratule.
+LE MARQUIS.
+Et moi, n'aurai-je rien ?
+ORTODOXE.
+Et Monsieur ; quel est-il ?
+LE CHEVALIER.
+Bel esprit.
+LE MARQUIS.
+Il se raille.
+EMILIE.
+C'est un auteur.
+LE MARQUIS.
+D'accord, qui ne fait rien qui vaille.
+BOURSAULT.
+J'avoue ingenument que j'ai fort peu d'esprit,			[315]
+Mais, si vous le savez, il faut qu'on vous l'ait dit.
+LE MARQUIS.
+Vous enragez, parbleu, de ce qu'on vous terrasse :
+Le parti de l'esprit est celui que j'embrasse ;
+Par un vu solennel je m'y suis engage.
+BOURSAULT.
+En verite, l'esprit vous est fort oblige.			[320]
+C'est etre genereux autant qu'on le puisse etre,
+Que prendre son parti, sans meme le connaitre.
+EMILIE.
+Des sieges donc, Laquais ; faut-il dire cela,
+Petit sot ?
+AMARANTE.
+He, mon Dieu, ne demeurons point la ;
+Ou du moins, car pour moi j'aime la comedie,			[325]
+Avant qu'on la commence, ordonnez qu'on le die.
+LE MARQUIS.
+Quels Comediens sont-ce ? Est-ce pas Moliere ?
+LE CHEVALIER.
+Oui,
+Et Tartuffe.
+LE MARQUIS.
+Ma foi j'en suis bien rejoui.
+Je ne l'ai jamais vu.
+ORTODOXE.
+Ni moi, certes.
+EMILIE, au Laquais.
+La France,
+Allez voir de ce pas quand la piece commence :			[330]
+Vous viendrez nous chercher, si les acteurs sont prets.
+ORTODOXE.
+Evangelisez mieux votre petit laquais,
+De grace.
+EMILIE.
+Asseyez-vous ; cela suffit.
+LE MARQUIS.
+Marquise,
+Savez-vous qu'elle et moi, nous venons d'avoir prise ?
+ORTODOXE.
+Je vous donne le droit sans rever. Fais-je bien ?			[335]
+LE MARQUIS.
+Je l'ai toujours.
+AMARANTE.
+Sur quoi roulait votre entretien ?
+LE CHEVALIER.
+Sur Despreaux.
+ORTODOXE.
+Oh oui !
+EMILIE.
+Qu'en dites-vous ?
+ORTODOXE.
+Qu'en dis-je ?
+Qu'il ravit tout le monde, et que c'est un prodige :
+Quand je lis ce qu'il fait, j'ai l'esprit si content !
+Despreaux !
+LE MARQUIS.
+Par ma foi, j'en disais tout autant ;			[340]
+Mais, Madame, et Monsieur, deux facheuses personnes,
+De cent sottes raisons ont combattu mes bonnes.
+Sans leurs cruelles mains le bon sens est martyr.
+LE CHEVALIER.
+Pour moi, je ne crois pas devoir te repartir :
+Mais respecte Madame, elle est si delicate...			[345]
+LE MARQUIS.
+Il est vrai. Dieu me damne ! Elle approuve l'Astrate.
+AMARANTE.
+Quoi ! l'Astrate ?
+LE MARQUIS.
+L'Astrate.
+ORTODOXE.
+Ah, mon Dieu ! je l'ai vu ;
+Que les vers en sont forts, et que tout m'en a plu !
+J'en revins satisfaite autant qu'on le puisse etre ;
+Un ouvrage si beau, part de la main d'un maitre ;			[350]
+Bien des gens qu'il charma l'applaudirent tout haut.
+Dites-moi, s'il vous plait, qui l'a fait ?
+BOURSAULT.
+C'est Quinault.
+ORTODOXE.
+Bon, Quinault !
+EMILIE.
+Oui, vraiment ; voudrait-il vous le dire ?
+ORTODOXE.
+Quoi ! Le meme Quinault que Despreaux dechire,
+A compose...
+EMILIE.
+L'Astrate, ou l'on donne un anneau.			[355]
+ORTODOXE.
+Je suis au desespoir de l'avoir trouve beau.
+Il me parut charmant, j'en admirai le tendre ;
+Mais si jamais j'y vais, j'en dirai pis que pendre :
+Il ne doit rien valoir ; car Despreaux le dit.
+LE MARQUIS.
+Quoi que ce soit.
+LE CHEVALIER.
+Tout beau, Quinault a de l'esprit.			[360]
+AMARANTE.
+Et du beau.
+ORTODOXE.
+Monsieur raille, ou Madame le flatte.
+LE MARQUIS.
+S'il avait de l'esprit, aurait-il fait l'Astrate ?
+LE CHEVALIER.
+Parle mieux de l'Astrate, ou du moins n'en dis rien ;
+Il a charme Madame.
+ORTODOXE.
+Ah ! Je m'en repens bien ;
+A tous les beaux endroits que l'acteur y rencontre,			[365]
+Je fis le brouhaha, mais je proteste contre.
+On doit me pardonner, si je le fis tout haut ;
+Ce fut innocemment que j'applaudis Quinault.
+Si l'auteur par l'ouvrage avait pu se connaitre,
+Je l'aurais trouve laid, tout galant qu'il puisse etre,			[370]
+En conscience.
+EMILIE.
+Et vous, depuis quand, et pourquoi,
+Etes-vous gendarme contre l'Astrate ?
+LE MARQUIS.
+Moi ?
+EMILIE.
+Oui, vous, oui.
+LE MARQUIS.
+J'aime assez depuis quand.
+EMILIE.
+Il me semble
+Que dans sa nouveaute nous le vimes ensemble :
+Je ne sais depuis quand vous vous etes dedit ;			[375]
+Mais je sais qu'a mes yeux vous l'avez applaudi,
+Et qu'en vous demembrant pour louer cet ouvrage
+Comme font la plupart des Marquis de votre age,
+De vos bras fatiguants vous donnates cent coups
+A ceux qui par malheur s'etaient mis pres de vous ;			[380]
+Vous trouvates la piece admirablement belle.
+LE MARQUIS.
+Elle etait belle aussi, quand elle etait nouvelle ;
+Mais elle ne l'est plus a present.
+LE CHEVALIER.
+Ah ! Fort bien.
+Pompee est deja vieux, il ne vaut donc plus rien ?
+Dans deux ans l'Alexandre et sa soeur l'Andromaque			[385]
+Ne seront donc plus beaux, si quelqu'un les attaque ?
+Le Cid, dont tout Paris admira la beaute,
+A donc perdu sa grace avec sa nouveaute,
+A ce compte ?
+ORTODOXE.
+Oh ! Le Cid ! Quel Poeme en approche ?
+Y songez-vous ?
+LE MARQUIS.
+Ma foi, ta comparaison cloche.			[390]
+Le Cid est de Corneille, ou Diable as-tu l'esprit ?
+Il ne vaudrait plus rien, si Despreaux l'eut dit ;
+J'en demeure d'accord : mais d'assez fraiche date,
+Il approuve le Cid, et : condamne l'Astrate.
+BOURSAULT.
+Les ouvrages d'esprit cessent donc d'etre beaux,			[395]
+Des qu'ils sont attaques par Monsieur Despreaux ?
+LE MARQUIS.
+Qui doute de cela, Sieur Boursault ?
+BOURSAULT.
+Moi, peut-etre ;
+Qui sais rendre justice, et qui crois m'y connaitre.
+Il ne faut pas avoir l'esprit fort delicat,
+Pour nommer l'un fripon, appeler l'autre fat.			[400]
+Qu'a-t-il fait jusqu'ici, qu'exciter des murmures ?
+Insulter des auteurs, et rimer des injures ?
+Quelle honteuse gloire, et quel plaisir brutal,
+De ne pouvoir bien faire, a moins de faire mal ?
+A quel homme d'honneur a-t-il vu sa manie ?			[405]
+Qui jamais a medire a borne son genie ?
+Quand d'un si grand genie on a l'esprit doue,
+Sur la meme matiere est-on toujours cloue ?
+A la Satire seule est-il beau qu'on s'amuse ?
+Et n'en peut-on sortir, sans egarer sa Muse ?			[410]
+Sorti d'assez bon lieu, c'est vouloir sans raison
+Prostituer sa race, aussi bien que son nom :
+Si par malheur pour eux, ses ecrits sont durables,
+Ce qu'il a de parents, en seront crus coupables :
+Nos neveux apres nous, ne distingueront pas			[415]
+Qui de cette famille avait le cur si bas :
+Et l'erreur populaire, ou la haine publique
+Confondra l'honnete homme avec le satirique.
+Si l'Astrate qu'il blame, est un monstre a ses yeux,
+Comme il est du metier, il devrait faire mieux.			[420]
+Mais je pense, ma foi, qu'il ne l'ose entreprendre.
+LE MARQUIS.
+S'il voulait s'en meler, que d'auteurs s'iraient pendre !
+Corneille le premier, quoiqu'auteur assez bon ;
+Je crois, s'il ne fait rien, que c'en est la raison ;
+Sur qu'il est de ravir, et de faire merveille,			[425]
+Il veut bien faire grace au bonhomme Corneille ;
+Et lui laissant en paix achever tout son sort,
+L'empecher de mourir que de sa belle mort.
+C'est ma pensee.
+ORTODOXE.
+Au vrai ?
+LE MARQUIS.
+D'homme d'honneur.
+ORTODOXE.
+Je meure,
+Si je n'allais songer de penser tout a l'heure			[430]
+La meme chose.
+LE MARQUIS.
+Oh, oui ?
+ORTODOXE.
+Oui, foi de veuve.
+LE MARQUIS.
+Allez,
+Il est aise de voir que vous me ressemblez ;
+Vous crevez d'esprit.
+ORTODOXE.
+Moi ?
+LE MARQUIS.
+Pour un si grand service.
+Je veux que Despreaux vous accole la cuisse.
+AMARANTE.
+D'ou vient qu'il ne dit rien de cet auteur galant			[435]
+Qui compose a la glace, et qui rime en tremblant ?
+BOURSAULT.
+Je ne le connais point ; quel auteur est-ce ?
+LE MARQUIS.
+Diable !
+Je le connais, la peste ! Il est bien agreable.
+C'est Boyer.
+EMILIE.
+Bon, Boyer, vous le connaissez peu.
+Boyer, quand il compose, est toujours tout en feu ;			[440]
+Dans ses moindres discours on voit ce feu qui brille ;
+Et dans les vers qu'il fait, le salpetre petille.
+Quand d'un crime parfois il exprime l'horreur,
+La fureur poetique est sa moindre fureur.
+S'il faut peindre Bellone au milieu du carnage,			[445]
+Son Pegase bondit, et sa Muse fait rage ;
+Il sait camper, resoudre, assaillir, effrayer,
+Et dans ses vers pompeux etaler tout Boyer :
+Mais s'il faut de vers doux embellir quelques scenes,
+On le saigne d'abord de trois ou quatre veines,			[450]
+Pour faire evaporer par ces canaux ouverts,
+La grandeur du genie, et la force des vers.
+LE MARQUIS.
+Boyer fait mal des vers a ce compte ?
+LE CHEVALIER.
+Au contraire,
+Il serait mal aise de pouvoir en mieux faire ;
+Il ecrit nettement ; et pour dire encor plus,			[455]
+Ses vers ont de la pompe, et ne sont point confus ;
+Car enfin, cher Marquis, et souvent on s'y trompe,
+Le galimatias est voisin de la pompe.
+La plupart des grands vers qu'on devrait supprimer,
+Ressemblent a ces gens que je n'ose nommer ;			[460]
+A ces sots du bel air, dont l'esprit est sans force ;
+Avec qui le bon sens est toujours en divorce,
+Et qui de trois grands mots ornant leur entretien,
+Parleront tout un jour, pour ne se dire rien.
+LE MARQUIS.
+Que ta comparaison est absurde !
+AMARANTE.
+Et de grace.			[465]
+Revenons a l'auteur qui compose a la glace,
+Je vous en prie.
+LE MARQUIS.
+Ah ; ah ! C'est sans doute...
+AMARANTE.
+Qui ?
+LE MARQUIS.
+Non,
+Ce ne l'est pas.
+AMARANTE.
+Mon Dieu, qu'ai-je fait de son nom ?
+C'est un auteur galant, mais qui ferait scrupule
+De se lever sans feu pendant la canicule.			[470]
+C'est Gilbert.
+EMILIE.
+Que Madame en parle comme il faut !
+Quelque chaleur qu'il fasse, il n'a jamais eu chaud :
+Apollon et Gilbert sont toujours mal ensemble,
+Quand tout le monde brule, on le trouve qui tremble :
+Un de ses bons amis que je vis hier au soir,			[475]
+Me soutint par deux fois que l'etant alle voir,
+Il trouva son Laquais qui lui chauffait Dimanche
+L'epingle qu'il lui faut pour attacher sa manche.
+LE CHEVALIER.
+Est-il possible ?
+LE MARQUIS.
+A l'autre ! Il la croit.
+LE CHEVALIER.
+Ce Galant
+A pour se faire croire un merite assez grand :			[480]
+J'ai l'honneur, tu le sais, de grossir ses conquetes ;
+Et d'ailleurs...
+LE MARQUIS.
+He, morbleu, que les amants sont betes !
+Regardez, que Gilbert s'il avait ce defaut,
+Pour chauffer une epingle, en aurait bien plus chaud.
+LE CHEVALIER.
+Nullement, mais a tort ton esprit se gendarme ;			[485]
+Que cela soit ou non, la figure m'en charme :
+Quand parfois a Gilbert le froid livre un assaut,
+Pour chauffer une epingle, il n'en a pas plus chaud,
+D'accord : mais notre ami, sans t'echauffer la soie.
+Le plaisant de l'affaire, est que Gilbert le croie :			[490]
+Et qu'il ait pretendu se morfondre le bras,
+S'il osait s'en servir, et ne la chauffer pas.
+LE MARQUIS.
+Le mechant raisonneur !
+ORTODOXE.
+Il faut bien qu'il conteste :
+Qui reprend Despreaux, peut medire du reste.
+LE MARQUIS.
+Ma foi, je voudrais bien, pendant qu'il est ici,			[495]
+Qu'il censurat encore un endroit que voici,
+Jamais dans aucun siecle on n'a vu mieux ecrire ;
+Et je le maintiens fou, s'il y trouve a redire.
+C'est l'endroit de Cotin, l'as-tu vu ?
+LE CHEVALIER.
+Je le crois ;
+Mais Cotin, tu le sais, est en bien des endroits :			[500]
+Quand je lis quelquefois ses satires malignes,
+Je rencontre Cotin presqu'a toutes les lignes ;
+Et mes yeux voltigeants de Cotin en Cotin,
+Sans m'en apercevoir, je me trouve a la fin,
+Apprends-moi quel endroit tu veux dire.
+LE MARQUIS.
+Il est juste ;			[505]
+C'est l'endroit, tu sais bien, ou Despreaux l'ajuste !
+Quand "chacun, malgre soi, l'un sur l'autre porte
+Faisait un tour a gauche, et mangeait de cote :
+Juge si dans ce lieu Despreaux put si plaire,
+Lui qui ne compte rien, ni le vin, ni la chere,			[510]
+Si l'on n'est plus au large assis dans un Festin,
+Qu'aux Sermons de... ou de l'Abbe Cotin".
+ORTODOXE.
+Que cet endroit me plait.
+EMILIE.
+Il me plairait, je pense,
+Si j'avais pour l'entendre assez d'intelligence.
+Bien des gens comme vous en font assez de cas ;			[515]
+Mais, j'ai l'esprit si lourd, que je ne l'entends pas.
+Despreaux hait Cotin, et ce qui m'a surprise.
+On ne sait s'il le loue, ou s'il le satirise,
+N'est-il pas vrai ?
+BOURSAULT.
+Sans doute, et vous avez bien dit,
+On ne sait s'il critique, ou bien s'il applaudit,			[520]
+Je le soutiens.
+LE MARQUIS.
+Et moi, je soutiens le contraire.
+Moi qui ne compte rien, ni le vin, ni la chere,
+"Si l'on n'est plus au large assis dans un festin,
+Qu'aux sermons de Cassaigne ou de l'Abbe Cotin".
+Il veut dire par la, j'en fais juge Madame,			[525]
+Qu'aux sermons de Cotin il n'y va pas une ame.
+Voila ce qu'il veut dire.
+LE CHEVALIER.
+Oh ! D'accord, en ce cas ;
+Il le veut dire, bon ; mais il ne le dit pas :
+Au contraire, a l'entendre, on dirait qu'on s'y tu ;
+Que la foule y fatigue, et que chacun y sue.			[530]
+Vouloir plus etre au large assis en ce lieu-ci,
+Qu'au Tartuffe qu'on joue on ne fut Vendredi,
+Ce n'est, je crois, pas dire, au rapport de Madame
+Qu'au Tartuffe qu'on joue il n'y va pas une ame.
+LE MARQUIS.
+C'est bien de meme ?
+ORTODOXE.
+Oh ! Non ; cela n'y vient pas bien.			[535]
+LE MARQUIS.
+Comment voudrais-tu dire autrement ? Voyons.
+LE CHEVALIER.
+Tiens ;
+Si j'avais son esprit, j'aurais mis, pour mieux faire ;
+"Moi qui ne compte rien ni le vin, ni la chere",
+A moins d'etre a mon aise "assis dans un Festin",
+Comme... il aurait pu dire aux Sermons de "Cotin",			[540]
+S'il l'eut voulu ; mais la, sans faire l'habile homme,
+En la place de "plus", il fallait mettre "comme" ;
+Sans contredit.
+LE MARQUIS.
+Oui ?
+LE CHEVALIER.
+Oui. Reves-y quelque temps.
+LE MARQUIS.
+En tout cas rien n'y manque, excepte le bon sens.
+La belle affaire !
+AMARANTE.
+Et si, je pense qu'il se moque ;			[545]
+Il n'y manque autre chose, et cet endroit le choque !
+Du bon sens, plus ou moins, n'y fait rien.
+LE MARQUIS.
+C'est bien dit.
+ORTODOXE.
+Laissez-moi lui citer un endroit plein d'esprit,
+C'est au discours au Roi. Rien n'est plus agreable ;
+Je n'en lis pas un vers qui ne soit impayable.			[550]
+L'endroit que je veux dire, est un endroit nouveau,
+Si galamment tourne...
+LE MARQUIS.
+Madame, qu'il est beau !
+Il m'enleve.
+ORTODOXE.
+Avouez que c'est un coup de maitre.
+LE MARQUIS.
+Il ne me souvient pas quel endroit ce peut etre.
+Mais a mon gre, Madame, il est beau ! Ris, mon cher.			[555]
+LE CHEVALIER.
+Qui Diable, en t'ecoutant, pourrait s'en empecher ?
+Quand on loue un endroit qu'on nomme un coup de maitre,
+On doit dire du moins quel endroit ce peut etre :
+Cet endroit si galant que tu dis qui te plait
+Peux-tu le trouver beau, sans savoir ce que c'est ?			[560]
+LE MARQUIS.
+Et c'est donc de cela que tu ris ? Je t'admire.
+Qu'ai-je dit de bouffon, qui t'ait du faire rire ?
+Je vois dans ses ecrits cent endroits delicats :
+Il doit peu t'importer, s'il ne m'en souvient pas ;
+Celui que dit Madame, en doit etre un, je gage.			[565]
+ORTODOXE.
+Monsieur a le sens bon.
+LE MARQUIS.
+Point du tout ! Mais j'enrage,
+De voir rire de rien un esprit egare :
+Je suis des idiots l'ennemi declare.
+La Marquise Ortodoxe aurait dit des merveilles,
+Sans ce perturbateur du repos des oreilles.			[570]
+Pour le desarconner, reparlez-nous ici,
+De l'endroit qui vous charme ; et qui me charme aussi :
+Je n'ai rien vu de beau, qu'aisement il n'efface ;
+Qu'il le censure apres, s'il le peut.
+ORTODOXE.
+Qu'il le fasse,
+Je l'en defie.
+LE MARQUIS.
+Allons, mortifiez-le un peu.			[575]
+ORTODOXE.
+Despreaux parle au Roi.
+LE MARQUIS.
+Bon.
+ORTODOXE.
+Et lui dit...
+LE MARQUIS.
+Morbleu !
+Cela me touche !
+EMILIE.
+Et quoi ? Qu'a-t-on dit ? Rien.
+LE MARQUIS.
+N'importe ;
+Je ne vois point d'auteurs s'exprimer de la sorte.
+Despreaux parle au Roi, ne saurait se payer.
+J'ai beau lire Corneille, et Racine, et Boyer,			[580]
+Je ne vois rien d'egal.
+EMILIE.
+Pour cela, je l'avoue.
+ORTODOXE.
+Quand donc il parle au Roi, voici comme il le loue.
+"Et tandis que ton bras, des peuples redoute,
+Va, la foudre a la main, retablir l'equite,
+Et retient les mechants, par la peur des supplices,			[585]
+Moi, la plume a la main, je gourmande les vices".
+Ces vers sont d'une force a jamais n'egaler.
+LE MARQUIS.
+Justement : c'est l'endroit dont je voulais parler ;
+Sur des vers si pompeux, je m'arrete sans cesse.
+Ils sont si beaux. "Tandis que ton bras..." Comment est-ce ?			[590]
+ORTODOXE.
+"Et tandis que ton bras, des peuples redoute,
+Va, la foudre a la main, retablir l'equite,
+Et retient les mechants, par la peur des supplices"...
+LE MARQUIS.
+"Moi, la plume a la main, je gourmande les vices".
+Censure donc.
+LE CHEVALIER.
+Peut-etre.			[595]
+LE MARQUIS.
+Et censure, crois-moi,			[595]
+Blame des vers royaux qui sont faits pour le Roi,
+Tu dois, pour ton honneur, les censurer.
+LE CHEVALIER.
+Ecoute.
+On le pourrait.
+LE MARQUIS.
+Madame, on le pourrait !
+LE CHEVALIER.
+Sans doute.
+Ne me presse point tant de te rendre confus.
+LE MARQUIS.
+Parbleu ! Je t'en defie.
+ORTODOXE.
+Et pour moi je fais plus,			[600]
+Je l'en conjure.
+LE CHEVALIER.
+He bien, il faut vous satisfaire.
+Qu'ont de si beau ces vers, qui vous puisse tant plaire ?
+Toi qui crois posseder un esprit plus qu'humain,
+Dis-moi, dit-on "qu'un bras va la foudre a la main" ?
+LE MARQUIS.
+Et qu'on le dise, ou non ; que t'importe ?
+LE CHEVALIER.
+Il m'importe.			[605]
+Le dit-on ?
+LE MARQUIS.
+Non.
+LE CHEVALIER.
+Ta foi ?
+LE MARQUIS.
+Non, le Diable m'emporte.
+Tu peux, sur ma parole, etre sur de cela.
+Mais, pourquoi, s'il te plait, cette question-la ?
+Despreaux le dit-il ?
+LE CHEVALIER.
+Oui vraiment.
+LE MARQUIS.
+Imposture.
+ORTODOXE.
+Je le crois, moi.
+LE CHEVALIER.
+Ses vers font encore en nature.			[610]
+"Et tandis que ton bras, des peuples redoute,
+Va la foudre a la main..." Je n'ai rien invente ;
+Vous le voyez.
+ORTODOXE, au Marquis.
+Marquis, on le dit, ou je meure.
+LE MARQUIS.
+Je m'en viens, comme vous, d'aviser tout a l'heure.
+Il est vrai, l'on le dit ; il est meme fort bon ;			[615]
+Malepeste !
+EMILIE.
+Pour moi, je ne dis oui, ni non.
+Je condamne avec peine, et sans peine j'admire :
+Peut-etre est-ce bien dit ; mais il eut pu mieux dire ;
+Et les vers dont on parle, auraient moins d'embarras,
+S'il eut mis la Personne en la place du Bras.			[620]
+Pour parler nettement, par exemple, on peut mettre,
+"Que la foudre a la main, le Roi tout va soumettre" ;
+Par exemple, on peut dire, en parlant de son Bras,
+"Qu'il va lancer la foudre au milieu des combats" ;
+En parlant de lui-meme, on peut dire avec grace,			[625]
+"Que suivi de la foudre, il va punir l'audace" :
+Mais dans cette occurrence, un meilleur ecrivain,
+N'aurait pas dit qu'un "bras va la foudre a la main".
+BOURSAULT.
+Je suis du sentiment de Madame.
+LE MARQUIS.
+Et de grace,
+Diminutif d'auteur, exile du Parnasse,			[630]
+Laissez-nous seuls.
+LE CHEVALIER.
+Ho, ho ! C'est parler un peu haut ?
+Chez de plus grands Seigneurs on endure Boursault :
+Ce qu'il a dit est juste, et n'a rien que je blame ;
+C'est prendre un bon parti, que celui de Madame.
+AMARANTE.
+J'en suis aussi.
+ORTODOXE.
+Vous ?			[635]
+AMARANTE.
+Oui.			[635]
+LE MARQUIS.
+Tant pis.			[635]
+LE CHEVALIER.
+Tant mieux.			[635]
+LE MARQUIS.
+Ma foi,			[635]
+C'est un faible ennemi, qu'un censeur comme toi.
+Viens au sens, notre ami ; c'est le sens qu'on admire.
+Qui chicane des vers, ne saurait plus que dire.
+"Et tandis que ton bras..." C'est-a-dire, "Grand Roi,
+Nous allons faire rage a present, vous et moi.			[640]
+On nous craindra tous deux ; vous, de peur des supplices ;
+Moi, de peur de mes vers qui gourmandent les vices ;
+Et pourvu que tous deux nous nous entendions bien,
+Votre nom ira loin, aussi bien que le mien.
+Quand je bats des auteurs, vous gagnez, des batailles."			[645]
+Voila ce qui s'appelle etre sense.
+LE CHEVALIER.
+Tu railles.
+Ces vers, de son bon sens, font de faibles temoins.
+ORTODOXE.
+Jamais rien n'en eut tant.
+EMILIE.
+Jamais rien n'en eut moins.
+LE MARQUIS.
+Vous avez l'un et l'autre, ou je sois miserable,
+Une absence d'esprit que je trouve effroyable ;			[650]
+Que voit-on la dedans qui soit hors de raison ?
+LE CHEVALIER.
+C'est avec un grand Roi faire comparaison.
+Simplement. Tu dirais, si tu savais l'Histoire,
+Que ce sont les auteurs qui dispensent la gloire ;
+Que les Rois du vieux temps qui les ont reveres,			[655]
+Ont souffert qu'avec eux ils se soient compares :
+Mais ces comparaisons ne se sont jamais faites
+Qu'entre de petits rois, et d'excellents poetes :
+Au lieu que dans l'exemple allegue tant de fois,
+C'est un petit poete, et le plus grand des Rois.			[660]
+LE MARQUIS.
+Et bon, bon !
+AMARANTE.
+Quoi ! Bon, bon ? Cela ne veut rien dire,
+Mon cher Marquis.
+LE MARQUIS.
+Bon, bon, doit pourtant vous suffire ;
+Je ne vous dirai rien autre chose.
+ORTODOXE.
+Il fait bien.
+A cent bonnes raisons on ne lui repond rien.
+Par-ci, par-la, du moins, le bon sens doit paraitre.			[665]
+LE MARQUIS.
+Je gage que Boursault, tout Boursault qu'il puisse etre,
+De l'endroit qu'on censure est lui-meme content.
+BOURSAULT.
+Un tailleur Bearnais en fit un jour autant :
+Il se nommait Barangue, et disait a quelqu'autre,
+Que ceux de son pays ne faisaient rien au notre :			[670]
+Que pour lui, grace au Ciel, il avait le bonheur,
+Quoique ne Bearnais, d'etre maitre-tailleur :
+Qu'ils etaient dans Paris, d'une ville commune,
+Deux adroits Bearnais, compagnons de fortune :
+Mais qu'en France jamais, quoiqu'ils eussent d'appui,			[675]
+Nul n'avait fait fortune, hors Henry-Quatre et lui,
+Cette comparaison est egale.
+LE MARQUIS.
+La peste !
+Soit du traitre d'auteur, qui sans cesse conteste !
+Je n'ai jamais rien vu de plus extravagant.
+J'allais encor citer un endroit elegant,			[680]
+Ou Despreaux du Roi dit tout ce qu'on peut dire :
+C'est l'endroit le plus beau qui soit dans sa Satire :
+Mais je n'en dirai rien, Dieu me damne.
+ORTODOXE.
+Et pourquoi ?
+Pour vouloir m'en priver, que vous ai-je fait, moi !
+A Monsieur Despreaux je sais rendre justice.			[685]
+De ses vers, bons ou non, je suis l'admiratrice :
+C'est peut-etre un endroit que je n'ai point oui.
+LE MARQUIS.
+Vous m'en aurez donc, seule, obligation ?
+ORTODOXE.
+Oui.
+LE MARQUIS.
+Jamais a Despreaux rien n'acquittant de gloire ;
+Jamais plus a propos on n'a cite l'Histoire ;			[690]
+Lorsqu'au grand Alexandre il compare le Roi ?
+Il me charme.
+ORTODOXE.
+On dirait qu'il s'entend avec moi.
+Les endroits qu'il admire, ont tous eu mon suffrage.
+Que vous avez d'esprit ! On ne peut davantage.
+LE MARQUIS.
+Vous vous y connaissez ; en ai-je ?
+ORTODOXE.
+Autant que dix.			[695]
+LE MARQUIS.
+Vous tombez dans mon sens sur l'endroit que je dis ;
+Sur la comparaison d'Alexandre.
+ORTODOXE.
+Elle est belle.
+LE MARQUIS.
+Et Madame qui rit, comment la trouve-t-elle ?
+S'il lui plait.
+EMILIE.
+Comment ?
+LE MARQUIS.
+Oui.
+EMILIE.
+Je la trouve la-la.
+ORTODOXE.
+J'ai pense me douter qu'elle dirait cela.			[700]
+Vraiment !
+LE MARQUIS.
+Et moi de meme, ou je me donne au Diable.
+Et si, Morbleu ! Madame, etes-vous raisonnable ?
+Lors qu'au grand Alexandre on compare le Roi,
+Dire la-la, Tudieu ! Qu'en dites-vous ?
+AMARANTE.
+Qui ? Moi ?
+Pour blamer un endroit contre qui chacun peste,			[705]
+Le la-la de Madame, est un la-la modeste.
+Quoi qu'en pense l'auteur, il a tort, selon moi.
+LE MARQUIS.
+Lorsqu'au grand Alexandre, il compare le Roi ?
+Il a tort !
+LE CHEVALIER.
+Oui-da, tort ; et le bon sens en gronde.
+Non de le comparer a ce vainqueur du Monde.			[710]
+Je sais bien que Louis qui parait si galant,
+Est bien plus equitable, et n'est pas moins vaillant ;
+Et qu'un Roi comme lui, dont la gloire est extreme,
+Ne se peut sans erreur comparer qu'a lui-meme ;
+De Despreaux pourtant l'on souffrirait cela,			[715]
+Si son fougueux genie en fut demeure la :
+Mais au plus fameux Roi que la Grece ait vu naitre,
+Comparer le plus grand que l'on puisse connaitre,
+Et dans un autre endroit, par de sottes raisons,
+Vouloir mettre Alexandre aux Petites Maisons,			[720]
+N'est-ce pas du bon sens avoir perdu l'usage ?
+LE MARQUIS.
+Et crois-tu qu'Alexandre ait toujours ete sage ?
+Il etait quelquefois presque aussi fou que toi.
+LE CHEVALIER.
+Il ne fallait donc pas lui comparer le Roi ;
+Ce Monarque intrepide, en qui tout est auguste,			[725]
+Et qui sert de modele a qui veut etre juste.
+L'Univers etonne de ses faits eclatants,
+Sait qu'en lui la sagesse a devance les ans ;
+Et que pour faire voir ce qu'il aurait l'heur d'etre,
+Les vertus avec lui commencerent de naitre.			[730]
+Apres ces verites, vois ta comparaison.
+LE MARQUIS.
+Ma foi, si tu n'as point de meilleure raison,
+Tu n'es qu'un fat.
+EMILIE.
+Pour fat, pas tant fat que l'on pense.
+ORTODOXE.
+En verite, Madame, il l'est : a toute outrance.
+Je veux qu'avec raison vous blamiez Despreaux,			[735]
+Mais des flots d'encenseurs trouvent ses ecrits beaux ?
+On se fait par le monde un tort irreparable.
+EMILIE.
+Tout le monde qu'on voit n'est pas deraisonnable.
+Despreaux d'encenseurs eut-il meme des flots.
+On doit par charite desabuser les sots.			[740]
+Les endroits qu'on reprend font bien voir sa conduite ;
+Il fait quelques beaux vers, mais le reste est sans suite ;
+C'est un jeune emporte, qui dans ce qu'il ecrit,
+Prise le jugement, moins que le bel esprit ;
+Et pour courre un bon mot, que par fois il attrape,			[745]
+Du bon sens qu'il neglige, a tout moment s'echappe ;
+Ses amis les plus chers, n'en disconviennent pas.
+LE MARQUIS.
+Vous etes, vous et lui, deux aussi francs ingrats...
+LE CHEVALIER.
+Nous, ingrats !
+LE MARQUIS.
+Oui, morbleu ! Despreaux versifie,
+Et les fruits de sa veine, il vous les sacrifie :			[750]
+Clairvoyant dans le Code, et savant dans les Lois,
+Il pouvait obscurcir Montauban, et Langlois ;
+N'etait qu'il a change, pour vous mieux faire rire,
+Ses cornes d'avocat, en cornes de satyre.
+ORTODOXE.
+A ce que dit Monsieur, il donne un tour d'esprit.			[755]
+LE MARQUIS.
+Tout de bon ?
+ORTODOXE.
+Oui.
+LE MARQUIS.
+Ma foi, bien des gens me l'ont dit ;
+Que ma discretion ne veut pas que je nomme.
+Toi, qui parles, as-tu vu la Satire de l'homme ?
+LE CHEVALIER.
+Oui, je l'ai vue.
+LE MARQUIS.
+He bien, l'endroit de l'Ane ?
+AMARANTE.
+Ah, si !
+LE MARQUIS.
+A tous les ecrivains je vais faire un defi,			[760]
+Tant a ceux qui font mal, qu'a ceux qui font merveille,
+Comme depuis Boursault, jusqu'a l'aine Corneille,
+D'en faire autant.
+EMILIE.
+A peine en viendraient-ils a bout.
+LE MARQUIS.
+Si vous dites si la, dites donc si partout ;
+L'Ane de Despreaux me ravit, Dieu me damne.			[765]
+ORTODOXE.
+Il est vrai, pour cela, que c'est un plaisant ane.
+LE MARQUIS.
+Tout-a-fait. Pres de lui, s'il avoir dit un mot,
+Feu l'Ane de la Fable eut passe pour un sot :
+Je crois qu'en droite ligne il descend de sa race.
+EMILIE.
+Jamais facon d'ecrire a-t-elle ete plus basse ?			[770]
+Y songez-vous ?
+LE CHEVALIER.
+Pour moi, je ne m'y connais pas,
+Ou, comme dit Madame, il n'est rien de si bas.
+Cet ane sociable, et qui n'est point farouche,
+Ou plutot Despreaux qui parle par sa bouche,
+Dit-il rien de passable, et n'eut-il pas mieux fait,			[775]
+D'etre comme un autre ane, imbecile et muet ?
+Par les bas sentiments de sa derniere page,
+Il avilit sa plume, et salit son ouvrage :
+Qui veut satiriser, doit moins etre etourdi.
+LE MARQUIS.
+Et comment pretends-tu qu'un ane parle ? Dis.			[780]
+Quoique pour s'expliquer, il emprunte un organe,
+Ne soutient-il pas bien son caractere d'ane ?
+Lui voit-on dementir ce qu'il est ? Va, parbleu,
+A la beaute de l'art, tu te connais fort peu.
+Si cet endroit n'est fin, pour qui veut du risible,			[785]
+Je suis un sot.
+LE CHEVALIER.
+Ecoute, il n'est rien d'impossible.
+Je te crois habile homme, et puis m'etre mepris :
+Cet endroit...
+SCENE VII. Emilie, Le Chevalier, Le Marquis, Ortodoxe, Amarante, Boursaut, La France.
+LA FRANCE.
+Les acteurs ont mis leurs beaux habits,
+Madame, ils vont bientot commencer.
+AMARANTE.
+Ah ! Madame ;
+Allons ouir des vers qui vous raviront l'ame :			[790]
+Jamais dans une piece on n'en mit de si beaux.
+ORTODOXE, au Chevalier.
+Vous demandez quartier, concernant Despreaux,
+Je le vois bien.
+LE CHEVALIER.
+Non pas.
+LE MARQUIS.
+Tu le dois.
+EMILIE.
+Je le nie :
+Non qu'enfin Despreaux n'ait beaucoup de genie ;
+Quand il aura plus d'age, et les yeux mieux ouverts,			[795]
+Pour venger ceux qu'il choque, il relira ses vers :
+Devenu raisonnable, et ravi qu'on le croie,
+Il fera son chagrin de ce qui fait sa joie ;
+Et sentira dans l'ame un deplaisir secret,
+D'avoir pu si bien faire, et d'avoir si mal fait.			[800]
+
+	==================================================

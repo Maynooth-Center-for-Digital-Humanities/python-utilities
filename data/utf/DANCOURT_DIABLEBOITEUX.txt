@@ -1,0 +1,831 @@
+********************************************************
+	DC.Title                  = LE DIABLE BOITEUX, COMEDIE
+	DC.Author                 = DANCOURT, Florent Carton dit
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:13.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/DANCOURT_DIABLEBOITEUX.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE DIABLE BOITEUX COMEDIEM. DCC. VII.
+De Mr DANCOURT
+	
+	
+	Representee pour la premiere fois le 5 Octobre 1707 au Theatre de la rue des Fosses Saint-Germain.
+	ACTEURS DU PROLOGUE
+LE DIABLE.
+THERESE.
+SANCHETTE.
+ACTEURS DE LA COMEDIE
+MADAME LUCAS.
+ANGELIQUE, Niece de Madame Lucas.
+ERASTE, Amant d?Angelique.
+MARTON, Femme de Chambre.
+LEANDRE.
+GRIFFONNET.
+LEPINE, Valet d?Eraste.
+MONSIEUR CORBEAU, Jure-Crieur.
+LE COMMISSAIRE.
+LE NOTAIRE.
+CASCARET, Laquais.
+UN LAQUAIS.
+La Scene est a Paris, chez Madame Lucas.
+
+
+
+			PROLOGUE DU DIABLE BOITEUX
+
+
+Le Diable, Therese, Sanchette.
+LE DIABLE.
+Reposons-nous un peu, s?il vous plait, Mesdames, je suis las comme un pauvre Diable ; et ce n?est pas peu de fatigue a un boiteux comme moi, d?avoir apporte deux femelles comme vous, de plus de trois cent lieues.
+THERESE.
+Je trouve que vous ne nous avez pas encore assez eloignees de Madrid ; et si mon mari decouvre ou nous sommes?
+LE DIABLE.
+Qu?il le decouvre ou non, il n?a plus de pouvoir sur moi, le charme est fini, c?est lui-meme cette fouis-ci, qui a casse la fiole, et qui m?a mis en liberte.
+THERESE.
+Vous en avez l?obligation de la colere ou je le mis ; et sans l?emportement qui lui fit me jeter a la tete ce gros livre que j?eus l?adresse d?eviter, et qui alla, par hasard, briser la bouteille, vous seriez encore dedans, ne vous en deplaise.
+LE DIABLE.
+Je conviens de l?obligation que je vous ai, quoique le hasard y ait grande part, et je n?ai pas nui moi-meme a me rendre ce bon office.
+THERESE.
+Vous, Seigneur Asmodee ? Et comment donc, s?il vous plait ?
+LE DIABLE.
+C?est moi, qui, en rentrant par la force des conjurations de votre mari, dans la fiole dont Cleophas m?avait tire, passai par votre appartement, et qui a depuis fache tant le Magicien, et qui est cause de l?aventure a qui je dois ma liberte.
+SANCHETTE.
+Oh, Monsieur le Diable Boiteux, vous etes un ingrat, vous voulez diminuer le bon office que vous a rendu ma bonne maman. Ce n?est point vous qui lui avez souffle la coquetterie, en rentrant dans la bouteille ; elle a toujours ete coquette, ma bonne maman, je le sais bien, mon vilain papa s?en est toujours plaint ; et toutes les mies que j?ai eues, m?ont toujours dit qu?il n?avait pas tort d?etre fache, et que je n?etais pas tout a fait sa fille.
+LE DIABLE.
+Cela se pourrait, et je sais ce qui en est mieux qu?un autre.
+SANCHETTE.
+He, dites-le moi, si vous le savez ; je voudrais bien que cela fut vrai, et je serais bien aise de n?etre point la fille du Magicien.
+LE DIABLE.
+Oh bien, soyez contente, vous ne l?etes point, Mademoiselle Sanchette ; c?est un des plus grands Seigneurs de la Cour, le parrain de votre bonne maman, qui est votre papa.
+SANCHETTE.
+Est-il possible ? Ah ! Que je vous ai d?obligation de m?apprendre ce secret-la ! Cela me va donner cent fois plus d?esprit et de confiance.
+THERESE.
+Votre indiscretion, Seigneur Asmodee?
+LE DIABLE.
+Oh, sans colere, Madame Therese, remerciez-moi de ne mettre qu?un joli homme sur votre compte, vous savez bien que j?en puis nommer d?autres.
+SANCHETTE.
+Ah ! Ne me changez pas ce papa-la, Monsieur le Diable, j?en suis fort contente.
+THERESE.
+Mais avec cela, Seigneur Asmodee, le genre humain n?etait pas peu redevable a mon mari le Magicien, de vous retenir dans la bouteille, et je ne sais pas si je ne me repentirai point d?etre cause que vous en etes echappe.
+LE DIABLE.
+Vous n?avez pas jusqu?a present sujet de vous en plaindre, je vous ai sauvee de la fureur d?un vilain mari, je vous ai tiree de Madrid, ou vous aviez deja fait trop de conquetes pour continuer encore longtemps d?en faire : vous voila, par mes soins, dans la plus belle ville du monde, dans Paris.
+SANCHETTE.
+Dans Paris ! Monsieur Asmodee, c?est ici Paris. ?
+LE DIABLE.
+Oui, Sanchette.
+SANCHETTE.
+Ah ! Que je suis charmee d?y etre, et que vous etes un aimable Diable de nous y avoir d?abord amenees.
+LE DIABLE.
+Je ne vous fais point de montre, comme vous voyez, je vais tout d?abord au meilleur. Apres avoir passe les monts, j?aurais pu me reposer, vous arreter, en passant, a Bayonne, a Bordeaux, a Tours, a Poitiers ; mais j?ai eu peur de vous laisser prendre un air de Province, dont les femmes ne se defont pas aisement : il n?y a rien de plus ridicule que ces airs de Province, a ce que l?on dit du moins. Il n?est rien tel que de se trouver d?abord dans le centre, et de commencer, avec les dispositions que vous avez deja pour le monde, a se former sur ce modele de la Cour et de Paris.
+THERESE.
+Est-ce qu?a Paris et a la Cour, il n?y a point de ridicule, Seigneur Asmodee ?
+LE DIABLE.
+Oh que pardonnez-moi ; mais ce ridicule-la est tellement recu et si aveuglement approuve, qu?il a le credit de ridiculiser les meilleures manieres des autres endroits du Royaume, la sagesse des etrangers meme ; mais je vous apprendrai a vous, petite fille, pour premiere maxime, qu?il faut que les gens du monde soient esclaves du gout et de la mode.
+SANCHETTE.
+Oh je retiendrai bien vos lecons, Monsieur le Diable Boiteux, j?ai un penchant si naturel a vous croire, tant de disposition a profiter de vos bons conseils.
+LE DIABLE.
+Je ferai quelque chose de vous, je vois bien cela.
+THERESE.
+Mais en quel endroit de Pris sommes-nous, s?il vous plait ? Voila bien du monde assemble, la Ville serait-elle partout aussi peuplee qu?elle l?est ici ?
+LE DIABLE.
+Une femme d?esprit et d?experience, comme vous, peut-elle faire cette question ? Et ne voyez-vous pas que vous etes dans un lieu de spectacle, que c?est ici le Theatre de la Comedie ?
+SANCHETTE.
+Nous sommes ici a la Comedie ? Ah ! Que je suis aise.
+LE DIABLE.
+La Comedie et ses dependances sont de ma direction, comme vous savez ; et quand on arrive dans une Ville, il est bon de descendre d?abord dans un lieu connu.
+THERESE.
+Vous connaissez donc les Comediens, Seigneur Asmodee ?
+LE DIABLE.
+Si je les connais ? Parfaitement. C?est moi, qui souffle de la malice a l?un, de la presomption a l?autre, qui donne de l?esprit a celui-ci, l?opinion d?en avoir a celui-la, et qui leur inspire a tous en general, ces sentiments d?union, d?intelligence et de politesse, qui regnent ordinairement parmi eux.
+THERESE.
+Ils vous ont bien de l?obligation vraiment, et je ne donne pas qu?ils n?aient de grandes deferences pour vous.
+LE DIABLE.
+La reconnaissance n?est pas leur faible ; ils trouvent qu?il y a quelque chose de trop bas la-dedans pour les caracteres des heros qu?ils representent : mais a cela pres ; ce sont de bonnes personnes, et il n?y a presque pas un de ces cerveaux-la que je ne gouverne. Savez-vous bien que c?est mon nom seul qui leur attire aujourd?hui tout le monde que vous voyez ? Je ne voudrais pas jurer que cela durat ; mais quand je ne les aiderais a attraper le public qu?une fois par jour, ne serait-ce pas quelque chose ?
+THERESE.
+Une fois par jour ! Ce serait beaucoup, et vous auriez peine a y suffire.
+LE DIABLE.
+Pardonnez-moi, je ne desespererais pas d?y reussir, sans un certain nombre de connaisseurs, qui ne veulent rire que de bonnes choses, ne se divertir que par raison. Oh, ces Messieurs-la sont bien incommodes, c?est une peste pour les pieces nouvelles.
+SANCHETTE.
+Mais ecoutez-moi un peu, Monsieur Asmodee, vous nous avez amenees a Paris, pour nous faire connaitre le monde, en voici une belle occasion, nous ne pouvons guere en voir davantage a la fois ; faites-nous, s?il vous plait, connaitre le caractere, les intrigues et le ridicule de toutes les personnes qui sont ici.
+LE DIABLE.
+Ce serait justement le moyen de les y faire revenir ! Vous etes folle, petite fille.
+SANCHETTE.
+Pourquoi folle ? Je suis curieuse, et j?aime a m?instruire aux depens d?autrui.
+LE DIABLE.
+Voila une bonne maniere !
+SANCHETTE.
+Une bonne maniere ? N?est-ce pas la votre ? J?ai oui que c?etait la meilleure.
+LE DIABLE.
+Oui, mais ce n?est point ici qu?il faut s?en servir. Le devoir, la societe, la bienseance rendent les lieux de spectacle tres respectables, et ceux qui s?y trouvent, le deviennent, quand ils ne le seraient pas par eux-memes. Tout Diable que je suis, je me garderai bien de dire en face des verites outrageantes, et de scandaliser en public d?honnetes personnes, qui n?ont presque point de defauts qui ne soient de ma facon.
+THERESE.
+Vous etes un fort honnete Diable, Seigneur Asmodee, et je ne vous croyais point tant de conscience.
+SANCHETTE.
+Il en a trop, ma bonne maman, et je sens bien que je suis deja plus malicieuse que lui, moi.
+LE DIABLE.
+Vous avez la une jolie enfant, Madame Therese.
+SANCHETTE.
+He dites-nous quelque chose qui nous amuse : voila tant de monde de tous cotes, faut-il que tout cela nous echappe ? Disons un peu de mal de quelqu?un, Monsieur le Diable.
+LE DIABLE.
+Nous aurons tout le temps de satisfaire votre temperament et votre curiosite : pour a present qu?il vous suffise de savoir que dans ces lieux-ci, ordinairement la vanite et l?amour-propre sont sur le Theatre, le luxe et la coquetterie dans les loges, et la fine critique dans le parterre.
+SANCHETTE.
+Voila quelque chose de bien instructif. J?aimerais autant ne rien savoir.
+THERESE.
+Elle a raison, cela est bien en general.
+LE DIABLE.
+Oh bien, si vous voulez quelque chose de particulier, je vais vous faire voir, sans sortir d?ici, c?est ce qui se passe a l?heure qu?il est, vers la place Maubert, chez un Procureur de ma connaissance. Quoique je ne sois pas le Diable de la Chicane, je fais les affaires de la maison, j?y suis connu, j?y regente ; et cette intrigue, ou je me trouverai mele par-ci par-la moi-meme de la petite Comedie qu?on leur a promise : nous feront ensuite entre nous trois, nos reflexions en musique sur l?aventure ; et nous verrons de quoi vous etes capables, et si vous profiterez bien du livre du monde, dont je vous ferai voir de temps en temps quelques nouveaux chapitres, avez-les figures.
+
+
+			
+
+
+SCENE I. Angelique, Marton.
+ANGELIQUE.
+Ah ! Le mauvais livre que le Diable Boiteux, ma chere Marton ! Le dangereux genie que Monsieur Asmodee.
+MARTON.
+Comme toutes choses ont differentes faces ! Vous vous plaignez de lui sous le nom du Diable Boiteux ; et comme Cupidon, vous n?etes pas une de ses plus mauvaises pratiques.
+ANGELIQUE.
+Ah ! Je ne le connais point pour Cupidon a la man?uvre qu?on lui voit faire dans ce nouveau livre ; il revele tout ce qu?on fait, il enleve les toits des maisons, pour decouvrir les moindres faiblesses de tout le monde. On n?est pas en surete dans le reduit le plus obscur, et l?on n?oserait pas hasarder de penser meme avec ce vilain demon-la.
+MARTON.
+Il est vrai qu?il est furieusement indiscret : mais y a-t-il rien la qui ne convienne a l?Amour ?
+ANGELIQUE.
+Ce vilain livre-la m?a donne une timidite, m?a jete dans l?ame des scrupules. Oui, si tout le monde etait comme moi, le Diable Boiteux corrigerait plus de gens que tout le reste de l?enfer ensemble.
+MARTON.
+C?est pourtant un assez bon Diable ; et vous remarquerez, s?il vous plait, qu?en decouvrant les defauts des hommes, il ne les revele point aux personnes interessees, et qui pourraient faire eclat. Il s?est bien garde de faire voir a Don Cleophas ce qui se passait dans sa famille, et peut-etre n?aurait-ce pas ete l?endroit du livre le moins vif et le moins plaisant.
+ANGELIQUE.
+Je ne sache rien de plus impertinent qu?un petit vilain Diable Boiteux, qui, par ses instigations, engage les gens a faire des sottises, et qui est le premier a les donner en spectacle, et a s?en divertir avec un jeune etourdi d?ecolier.
+MARTON.
+Oh, ne parlez pas mal des ecoliers ni des clercs, s?il vous plait : vous avez un amant aux ecoles de Droit, et ce n?est pas le plus mal voulu d?une dizaine de vos soupirants.
+ANGELIQUE.
+Ah ! Je n?aime plus rien, ma chere Marton, je n?aime plus rien. La lecture du Diable Boiteux, et la maladie de mon oncle ont fait d?etranges revolutions dans mon c?ur et dans mon esprit.
+MARTON.
+Il faut pourtant que ce soit un bon livre ; votre tante me l?a demande pour le lire au chevet du malade. Mais a propos de votre oncle qui se meurt, et de votre tante qui en est bien aise, n?est-ce point d?eux que le Diable Boiteux fait mention dans la fin du livre ? Il y a un Procureur et une Procureuse.
+ANGELIQUE.
+Comment, que veux-tu dire ?
+MARTON.
+Oui, le Procureur reve qu?il va voir un de ses clients a l?hopital, la Procureuse songe que son mari chasse un clerc qu?elle aime. Votre oncle a ruine bien du monde, et il a chasse bien des clercs.
+SCENE II. Angelique, Marton, un Laquais.
+ANGELIQUE.
+Que me veut-on ?
+UN LAQUAIS.
+C?est de la part de Monsieur Leandre, qui m?a dit de vous rendre ce billet, et qui vous prie de lui faire reponse.
+ANGELIQUE.
+Voyons ce qu?il m?ecrit, donne.
+MARTON.
+Le Diable Boiteux vous regarde.
+ANGELIQUE.
+Oh ! Ne me tourmente point, Marton, laisse-moi l?oublier. Qu?il me regarde, soit ; mais qu?il se taise : ce ne sont pas ses yeux, c?est sa langue que j?apprehende.
+MARTON.
+Ah ! Voila vos craintes dissipees ; la peur du Diable est ce qui dure le moins dans l?esprit d?une jeune coquette.
+ANGELIQUE.
+Cela est trop plaisant, Marton. Leandre, qui sait que mon oncle est mourant, et qui me propose d?aller au bal a vingt pas d?ici !
+MARTON.
+Et vous refusez une partie de plaisir ? Vous n?y songez pas.
+ANGELIQUE.
+Au bal, moi, quand mon oncle agonise ?
+MARTON.
+Pourquoi non ? Votre oncle agonise, il est vrai ! Mais je sais de science certaine, que cet oncle a fait un testament, par lequel il vus desherite. Si j?etais a votre place, j?en porterais le deuil, comme Leandre vous le propose.
+ANGELIQUE.
+Me le conseilles-tu ?
+MARTON.
+Si je vous e conseille ! Je serai de la partie peut-etre ?
+ANGELIQUE.
+Il compte la-dessus apparemment ; car il me mande que Monsieur le Greffier en sera.
+MARTON.
+Oh ! Allons-y, il n?y a point a hesiter.
+ANGELIQUE.
+Tes conseils sont des lois pour moI. Je vais faire reponse.
+SCENE III.
+MARTON, seule.
+L?heureuse disposition de fille pour la vie aisee ! Quel dommage que cela ne soit que Bourgeoise, et moi soubrette ! Nous avons bien les manieres de qualite. Voici la tante, elle n?a guere moins de talent que nous : mais elle se contraint davantage.
+SCENE IV. Madame Lucas, Marton.
+MADAME LUCAS.
+C?est un assez sot livre, Marton, que ce Diable Boiteux, les fades plaisanteries ! Les mauvais contes ! Il donne des idees funestes, et j?ai cru voir deux ou trois fois au chevet du lit du malade, ce vilain genie qui s?appelle Flagel, et qui est l?esprit de la chicane.
+MARTON.
+Voila une triste vision, Madame, un bien mauvais pronostique. Voir le Diable au chevet du lit d?un Procureur malade, c?est une marque qu?il n?en reviendra pas ; il va partir, la voiture est prete. Vous ferez une grande perte, Madame.
+MADAME LUCAS.
+Helas ! Le pauvre homme, il n?a plus gueres a souffrir, du moins les Medecins disent qu?il ne passera pas la journee.
+MARTON.
+Quel dommage ! C?etait un si honnete homme, Madame.
+MADAME LUCAS.
+Helas ! Oui : heureusement son testament est fait et signe, et voila sa conscience en repos.
+MARTON.
+Et la votre aussi, n?est-ce pas, Madame ?
+MADAME LUCAS.
+Sans son grand benet de neveu Blaise Lucas, qui arriva hier d?Amiens, a pied, toujours chassant, ma conscience serait encore plus tranquille, Marton : cet animal-la m?est venu voler, comme s?il m?avait attendue au coin d?un bois.
+MARTON.
+Le fripon !
+MADAME LUCAS.
+S?il avait tarde vingt-quatre heures, il etait desherite tout a fait, aussi bien que la niece.
+MARTON.
+Le testament n?est donc pas plus favorable a la niece qu?au neveu ?
+MADAME LUCAS.
+Helas ! Mon pauvre mari, que je n?ose encore dire defunt, leur laisse une petite somme en commun, a condition qu?ils se marieront ensemble : mais on dit que je pourrai contester cela, et leur faire quelque chicane. Nous verrons ce qu?il y aura a faire, quand mes premieres douleurs seront passees.
+MARTON.
+Il faut bien se donner le loisir de pleurer.
+MADAME LUCAS.
+Je n?aurai plus guere que cela a faire, Marton, et j?ai pris toutes mes mesures d?ailleurs, comme tu sais.
+MARTON.
+Oh ! Pour cela, oui, il n?y aura rien de perdu dans la succession ; et voila une armoire qui etait pleine de belles et bonnes nippes, ou il ne reste plus que la robe et le bonnet carre de Monsieur le Procureur, et encore ne les avez-vous laisses que parce qu?ils ne valent pas grand-chose.
+MADAME LUCAS.
+Il ne faut pas depouiller un homme de tout avant sa mort, ma pauvre Marton. Adieu, je vais attendre dans mon appartement : qu?on me vienne avertir quand il expirera, afin de lui rendre les derniers devoirs.
+MARTON.
+Vous faites fort bien, Madame ; il ne faut pas se refuser ce plaisir-la.
+SCENE V. Marton, Lepine.
+MARTON.
+Voila une pauvre femme qui sera fort affligee, si son mari en revient. Mais que vois-je ? Est-ce lui? mes yeux me trompent? non vraiment, c?est lui-meme, c?est Lepine. Personne ne t?a-t-il vu entrer ?
+LEPINE.
+Non. Pourquoi, ma Reine ?
+MARTON.
+Depuis quand es-tu ici ? Que fait ton maitre ?
+LEPINE.
+Nous arrivons dans le moment, mon ange, Eraste, pour paraitre plus beau et plus poli aux yeux d?Angelique, est alle se faire adoniser chez le Baigneur ; moi, qui suis plus vif, et qui ne peux souffrir de retardement, je viens saluer mon adorable, et tu me vois tout frais emoulu de l?armee.
+MARTON.
+Vous avez mal pris votre temps pour arriver, et il est dangereux qu?on te voie ici.
+LEPINE.
+Bon, dangereux ! La tante est dans nos interets : le Procureur seul n?approuvait pas la recherche de mon maitre. On nous a mande qu?il etait presque a l?agonie : j?en suis fache ; car nous nous ressemblons comme deux gouttes d?eau.
+MARTON.
+Ah ! Pour cela oui, la ressemblance est si bien marquee?
+LEPINE.
+Que mon maitre qui lui en voulait d?ailleurs, comme tu sais, pensa lui donner un jour cent coups de baton, sous ce pretexte-la. En quel etat est-il, le pauvre homme ? Comment va sa maladie ?
+MARTON.
+Le mieux du monde, il ne passera pas la journee.
+LEPINE.
+He bien donc, qu?avons-nous a craindre ?
+MARTON.
+Toutes choses. Pendant la maladie de l?oncle, la tante est devenue plus a craindre qu?il ne l?etait lui-meme.
+LEPINE.
+Comment donc ?
+MARTON.
+Elle a defendu a sa niece de voir Eraste.
+LEPINE.
+Elle lui a defendu de le voir ? La niece l?en aimera davantage. Je vais l?amener.
+MARTON.
+Et attends, attends.
+LEPINE.
+Je m?en vais le chercher, te dis-je, vous n?avez toutes deux qu?a nous attendre.
+MARTON.
+Voila un retour imprevu, qui pourra bien deranger notre partie de bal.
+SCENE VI. Marton, Angelique.
+ANGELIQUE.
+J?ai mande que nous irions, Marton, que l?on vint nous prendre.
+MARTON.
+Oh ! Vraiment oui, que l?on vint nous prendre. Eraste et Lepine sont arrives de l?armee.
+ANGELIQUE.
+Ils sont arrives, Marton ? Que je suis a plaindre !
+MARTON.
+J?ai bien aussi mes petites raisons, pour ne pas trop me rejouir du retour de Lepine, et cependant c?est lui qui est le veritable.
+ANGELIQUE.
+De quoi s?est avise mon oncle d?avoir pris en pension chez lui ce jeune etourdi de Dorante ?
+MARTON.
+Oui, que ne le faisait-on d?abord recevoir Conseiller ? Il aurait fait son cours de Droit apres, sans nous venir embarrasser de ses etudes et de sa personne.
+ANGELIQUE.
+C?est lui qui fait aujourd?hui ma principale inquietude, Marton.
+MARTON.
+Et c?est notre Maitre Clerc qui est cause de tout mon embarras, a moi.
+ANGELIQUE.
+Que pourra penser, que dira Eraste, s?il a seulement lieu de soupconner que j?ai pu preter l?oreille aux tendres protestations d?un jeune ecolier ?
+MARTON.
+Et si Lepine vient a savoir que j?aie ecoute les sornettes d?un Compagnon Procureur.
+ANGELIQUE.
+Nous n?avons pas bien fait, Marton.
+MARTON.
+Non, vous avez raison, d?accord ; mais en Ete, comment mieux faire ? Les gens de Robe raisonnables sont si rares, les Financiers si brutaux, et les Abbes si fades. Un Clerc et un Ecolier sont sans consequence, il faut s?amuser, cela vaut mieux que rien.
+ANGELIQUE.
+Si Eraste n?etait point parti pour l?armee.
+MARTON.
+Si Lepine fut demeure a Paris.
+ANGELIQUE.
+Je n?aurais pas seulement regarde Orante.
+MARTON.
+Je n?eusse jamais ecoute le maitre Clerc.
+ANGELIQUE.
+Les absents ont toujours tort, Marton.
+MARTON.
+Oui, ce sont eux qui font la faute, et on nous en rend responsables.
+ANGELIQUE.
+Cela est bien injuste.
+MARTON.
+Je ne trouve rien de plus deraisonnable, moi ; et ce qu?il y a de plus chagrinant, plus l?absence dure, plus le tort augmente.
+ANGELIQUE.
+Oui, cela est vrai, tu as raison. Hasarderons-nous d?aller au bal ? Si Eraste y vient, et qu?il nous y trouve ?
+MARTON.
+Nous serons deguisees, il ne nous reconnaitra pas.
+ANGELIQUE.
+Quel reproche a me faire, si mon oncle vient a expirer pendant que nous danserons, Marton ?
+MARTON.
+Il en expirera plus gaiement, ce n?est pas la l?affaire.
+ANGELIQUE.
+Tu as raison, puisqu?il m?a desheritee. Mais que vois-je ? C?est Eraste, c?est lui-meme, qu?allons-nous faire ?
+SCENE VII. Eraste, Angelique, Marton, Lepine.
+ERASTE.
+Vous voyez, charmante Angelique, un Amant outre d?inquietude de ce qu?il vient d?apprendre des sentiments de votre tante, et qui n?a d?autre consolation, d?autre espoir que dans la constance des votres.
+ANGELIQUE.
+Eraste, vous me mettez dans le plus grand embarras? Allez, sortez d?ici, je vous en conjure, vous aurez de mes nouvelles, je vous ecrirai tout ce que je pense : allez-vous-en, vous dis-je encore une fois.
+ERASTE.
+Quel accueil ! Ah Ciel ! Vous me chassez ! Moi qui ne viens a Paris que pour vous, vous avez la force?
+ANGELIQUE.
+Non, je ne l?ai pas, demeurez, Eraste, je me plais trop a vous voir ici : mais il serait important pour mon repos et pour le votre, qu?on ne vous vit point de quelque temps.
+MARTON.
+Allons, Monsieur, si vous aimez Mademoiselle, ne l?exposez point?
+ERASTE.
+Personne ne nous a vus, Marton.
+MARTON.
+Mais on va vous voir, Monsieur. He vraiment oui, tout est perdu ; j?entends quelqu?un : si c?est Madame ?
+ANGELIQUE.
+C?est elle assurement. Ah ! Eraste, avez-vous jure ma perte ?
+ERASTE.
+Oh, pour cela non, je vous assure. Quels menagements n?ai-je point pour vous ?
+MARTON, bas.
+Tout est perdu, Mademoiselle : c?est Leandre et Monsieur le Greffier, qui viennent nous prendre pour aller au bal.
+ANGELIQUE.
+Ah Ciel !
+SCENE VIII. Leandre et Griffonnet deguises en Diables, Eraste, Lepine, Angelique, Marton.
+LEANDRE.
+Ne perdons point de temps, Mesdames, le bal est commence, il durera peu. Voici de quoi vous deguiser.
+ERASTE.
+Ah, Ciel ! Que veut dire ceci, Angelique ?
+MARTON.
+Cela veut dire, Monsieur, que ce sont des importuns d?Ete, dont le retour de l?hiver et le votre nous debarrasseront.
+LEPINE.
+Nous avons eu des Substituts, Monsieur, pendant notre absence.
+LEANDRE.
+Eraste est ci, Monsieur Griffonnet.
+GRIFFONNET.
+Et Lepine aussi, Monsieur, allons-nous-en.
+ERASTE.
+Non, non, Messieurs, approchez ; vous avez tout a fait bon air dans ces habits-la, et la mascarade est bien assortie.
+LEANDRE.
+Monsieur, il ne faut point? Au moins, Messieurs, la violence et les voies de faits?
+LEPINE.
+Le Diable a plus peur de nous, que nous du Diable.
+ERASTE.
+Votre partie de bal est derangee, Messieurs, l?oncle d?Angelique agonise, me voila de retour.
+LEPINE.
+Oui, Messieurs les Bourgeois, quand il arrive des troupes reglees, c?est a vous d?evacuer la place ; ainsi choisissez de la porte ou de la fenetre, et remerciez-nous de vous laisser l?alternative.
+ERASTE.
+Non, non, je veux avoir avec ces Messieurs un petit moment d?entretien, cela m?est important...
+MARTON.
+He, laissez-les aller, Monsieur, que diantre voulez-vous faire de ces deux pauvres Diables ?
+ERASTE.
+Ce que j?en veux faire ?
+ANGELIQUE.
+Quel contretemps, ah, Ciel ! Allez-vous-en, Eraste. Sortez. Messieurs.
+SCENE IX. Madame Lucas, Marton, Angelique, Eraste, Lepine.
+MADAME LUCAS, derriere le theatre.
+Ah, quelle cruelle separation ! Mon cher mari est mort ! Je le veux suivre.
+MARTON.
+C?en est fait, il n?y a plus moyen de sortir, l?oncle est defunt apparemment, la tante vient ici.
+ANGELIQUE.
+Comment ferons-nous ? Ou les cacher ?
+MARTON.
+Voici la clef de la grande armoire, ils y tiendront bien tous quatre. Entrez vite.
+ERASTE.
+M?enfermer avec ces gens-la ? Je n?ai point de menagement a avoir, moi.
+LEPINE.
+Messieurs, il faut entrer, il n?y a point de milieu.
+MADAME LUCAS, derriere le theatre.
+Me voila donc separee de toi pour toujours, mon cher epoux !
+MARTON.
+Voila la tante a la porte, mort de ma vie depechons.
+LEPINE.
+Tu nous mets la en mauvaise compagnie, ne nous y laisse pas longtemps, Marton.
+MARTON.
+Le moins qu?on pourra, ne te mets pas en peine. Les voila sous la clef, tranquillisons-nous.
+ANGELIQUE.
+Je ne saurais me soutenir, je suis tremblante.
+MARTON.
+Voici votre tante.
+SCENE X. Madame Lucas, Marton, Angelique.
+MADAME LUCAS.
+Mon pauvre mari ! Mon cher mari ! Je veux qu?on m?ensevelisse avec toi.
+MARTON.
+He, la, la, Madame, ne vous abandonnez point tant a la douleur.
+MADAME LUCAS.
+J?etouffe, je me meurs, je n?en puis plus, Marton.
+ANGELIQUE.
+Ma chere tante.
+MADAME LUCAS.
+J?ai tout perdu, mes enfants, un mari qui m?aimait, cela n?est pas concevable?
+MARTON.
+Il vient de vous en donner une assez belle preuve, s?etre laisse mourir a son age ? Cet homme-la pouvait encore vivre trente ans.
+MADAME LUCAS.
+Cela est vrai, je suis inconsolable, et je suis si affligee que je ne saurais pleurer, c?est ce qui m?etonne.
+SCENE XI. Marton, Madame Lucas, Angelique, Cascaret.
+CASCARET.
+Votre Couturiere et le Marchand, Madame, pour des habits de deuil.
+MADAME LUCAS.
+Qu?on les fasse entrer.
+MARTON.
+He, passez dans votre chambre, Madame, il y fait plus clair qu?ici, et il faut faire arranger cette salle.
+MADAME LUCAS.
+He bien, fais, donnes-y ordre, je te laisse ; dis bien a tout le monde au moins a quel point je suis affligee.
+MARTON.
+Oui, Madame.
+SCENE XII. Angelique, Marton.
+ANGELIQUE.
+Qu?allons-nous faire, Marton ? Leandre et Eraste seront-ils jusqu?a demain dans cette armoire ?
+MARTON.
+J?ai plus d?impatience que vous de les en tirer.
+ANGELIQUE.
+Ouvre-leur donc vite, pendant que je ferai le guet? Attends, ne bouge, la voila qui revient avec un homme de robe.
+SCENE XIII. Madame Lucas, le Commissaire, Angelique, Marton.
+MADAME LUCAS.
+Un Commissaire chez moi, Monsieur ! Chez la veuve d?un Procureur de la Cour, un Commissaire !
+LE COMMISSAIRE.
+He, pourquoi non, Madame Lucas ? Nous allons tous les jours chez des Duchesses et des Presidentes, qui sont d?aussi bonne maison que des Procureuses.
+MADAME LUCAS.
+Oh, je me moque de cela, moi, je n?ai point d?affaires.
+LE COMMISSAIRE.
+Si vous n?en avez point, ne vous en faites pas. Ca, voyons, par ou commencerons-nous ?
+MADAME LUCAS.
+Mais, qu?on sache du moins ce que vous venez faire ici.
+LE COMMISSAIRE.
+Y mettre le scelle, Madame.
+MADAME LUCAS.
+Le scelle, Monsieur, le scelle !
+LE COMMISSAIRE.
+Oui, Madame, le scelle, a la requete de Blaise Lucas, habile a succeder pour un tiers a la succession de maitre Yves Lucas, Procureur de la Cour, son oncle paternel, decede sans enfants.
+MADAME LUCAS.
+Oui, sans enfants, Monsieur, mais non pas sans femme. Cela est fort plaisant, vraiment. Blaise Lucas habile a succeder : cet idiot, ce fat, ce benet, dont la famille n?a jamais pu rien faire, devient habile justement quand il est question d?heriter. Oh, bien, bien, Monsieur ! Vous pouvez dire a Blaise Lucas que malgre son habilete, il n?aura pas un sou de la succession, le defunt a fait un bel et bon testament.
+LE COMMISSAIRE.
+Je ne suis pas ici, Madame, pour examiner le droit des parties, mais pour y faire le du de ma Charge. Commencons toujours par sceller cette armoire.
+ANGELIQUE, bas.
+Ma pauvre Marton !
+MARTON.
+Mademoiselle !
+LE COMMISSAIRE.
+Qu?est-ce, Mesdames ? Vous me paraissez surprises, inquietes, embarrassees. Y aurai-il la-dedans quelques bijoux, quelques billets doux, quelques portraits que vous voulussiez retirer ?
+MARTON.
+Non, non, Monsieur, il n?y a point de portraits la-dedans, il n?y a que des originaux, de par tous les diables.
+MADAME LUCAS.
+Non, non, Monsieur, faites le du de votre Charge ; Il n?y a la-dedans, ni billets doux, ni portraits : vous etes dans une maison d?honneur ; helas ! C?est ou le pauvre defunt mettait son bonnet et sa robe.
+LE COMMISSAIRE.
+Qu?on se garde bien de toucher la, au moins, l?affaire serait serieuse ; les femmes quelquefois croient que ce ne sont que des bagatelles.
+MARTON.
+Mais je n?en repondrais pas trop. Si le diable s?en mele? Sera-t-on longtemps sans lever le scelle, Monsieur le Commissaire ?
+LE COMMISSAIRE.
+Mais, non, six semaines ou deux mois, selon la diligence que feront les personnes interessees ?
+ANGELIQUE, bas.
+Six semaines ou deux mois, Marton !
+MARTON.
+Oh ! Il y a des personnes interessees qui feront plus de diligence que cela, sur ma parole.
+ANGELIQUE, bas.
+Ils creveront la-dedans, je vais tout decouvrir.
+MARTON.
+Ne craignez rien, donnez-vous-en bien de garde.
+LE COMMISSAIRE.
+Ne voulez-vous rien retirer de ce cabinet, Madame ?
+MADAME LUCAS.
+He ! Non, non, monsieur, je ne veux rien tirer, il ne sera pas dit que j?aurai detourne la moindre chose.
+LE COMMISSAIRE.
+C?est agir prudemment. Je ne vois plus rien ici passons ailleurs.
+SCENE XIV. Madame Lucas, Monsieur Corbeau, Angelique, Marton, Cascaret.
+CASCARET.
+Le Jure-Crieur, Madame, pour les funerailles de Monsieur.
+MADAME LUCAS.
+Qu?il vienne. Allez, ma niece, conduisez Monsieur le commissaire partout ou il voudra, je n?ai rien de cache. Demeure ici, toi, Marton, tu nous conseilleras. Ah ! Mon cher Monsieur, vous voyez une pauvre veuve dans une terrible affliction.
+MARTON.
+Helas ! Oui.
+MONSIEUR CORBEAU.
+Je le crois bien, Madame.
+MADAME LUCAS.
+J?ai tout perdu, Monsieur Corbeau : un mari qui m?aimait si tendrement. Si quelque chose peut m?en consoler, c?est qu?il est bien mort, le pauvre homme.
+MARTON.
+C?est une grande consolation que cette certitude-la.
+MONSIEUR CORBEAU.
+Il y faut encore ajouter celle de lui faire de belles funerailles. Ca, de quoi s?agit-il ? Voyons quelle est votre volonte la-dessus.
+MADAME LUCAS.
+Je n?en ai point d?autre que de faire les choses de la maniere la plus honorable qu?il se pourra.
+MONSIEUR CORBEAU.
+Combien ferons-nous de billets, premierement ?
+MADAME LUCAS.
+Mais combien crois-tu qu?il en faille, Marton ?
+MARTON.
+Huit ou dix mille tout au moins, Madame.
+MONSIEUR CORBEAU.
+Huit ou dix mille !
+MARTON.
+Oui vraiment. Une jeune et jolie veuve comme vous, qui enterre un mari, c?est une femme qui affiche la situation ou elle se trouve ; la peut-elle apprendre a trop de gens ?
+MADAME LUCAS.
+Tu as raison, Marton. Cette fille-la est d?un bon conseil, Monsieur Corbeau.
+MONSIEUR CORBEAU.
+Je vois bien que votre dessein n?est pas de rien epargner.
+MARTON.
+Epargner, Monsieur, epargner ? Cela serait beau vraiment ! C?est bien quand il s?agit de rendre les derniers devoirs a un mari, qu?on songe a epargner ! C?est peut-etre la depense que Madame aura faite dans sa vie avec moins de regret.
+MADAME LUCAS.
+Oh ! Pour cela oui, Monsieur Corbeau.
+MONSIEUR CORBEAU.
+Mais vous ne voulez pas aussi rien de trop superbe, rien de trop magnifique ?
+MADAME LUCAS.
+Oh ! Non, Monsieur, quelque chose de simple, une petite facon de mausolee seulement.
+MONSIEUR CORBEAU.
+Un Mausolee, Madame ?
+MADAME LUCAS.
+Oui, quelques figures expressives des bonnes qualites du defunt ; les vertus qui pleurent, par exemple, qui dechirent leurs vetements, quelques bandes de velours, semees de chiffres et des armes du defunt ; il n?en faudra pas davantage, Monsieur Corbeau, il n?en faudra pas davantage.
+MONSIEUR CORBEAU.
+Parbleu je le crois bien, Madame. Vous vous moquez de moi, je pense ? Des bandes de velours, des chiffres, des armoiries, les vertus qui pleurent a la mort d?un Procureur ! Et fi donc, Madame ; vous n?aurez rien de tout cela, nous avons nos regles.
+MADAME LUCAS.
+Mais vos regles sont bien bizarres et bien ridicules, Monsieur Corbeau. Une femme qui, pendant tout le cours de sa vie, aura ete tendrement cherie de son mari, ne pourra pas, apres sa mort, lui donner des marques les plus solides de son affection ?
+MARTON.
+Cela est bien desagreable, je vous avoue, et une tenture sans velours, sans armoiries, cela sera bien simple et bien uni, Madame. N?y aurait-il pas moyen d?egayer cela avec quelques petites pretintailles ; Monsieur Corbeau ?
+MONSIEUR CORBEAU.
+Des pretintailles, ma mie, des pretintailles ? M?a-t-on fait venir ici pour se moquer de moi ? Adieu, Madame, fasse qui voudra les obseques du Procureur, je ne l?en mele point. Il ferait beau voir une tenture mortuaire en falbala ? Des pretintailles.
+MARTON.
+Il faut que cet homme-la soit fou au moins : comme s?il n?etait pas permis pour son argent de se faire enterrer a sa fantaisie.
+SCENE XV. Madame Lucas, Marton, Angelique, Cascaret.
+ANGELIQUE.
+La Couturiere et le Marchand disent qu?ils commencent a s?ennuyer.
+MADAME LUCAS.
+Ils commencent, ma niece, ils commencent ? He bien, qu?on leur dise qu?ils achevent.
+MARTON.
+He, ne les impatientez pas, Madame, vous aurez fait dans un moment ; et quand j?aurai fait arranger la salle, je ne tarderai pas a vous rejoindre.
+MADAME LUCAS.
+Depeche-toi donc, Marton, je ne puis rester seule, et je crois toujours voir le defunt. A-t-on envoye quelqu?un chez le Notaire ?
+CASCARET.
+J?en viens, Madame. Il va tout a l?heure apporter ici le Testament.
+MADAME LUCAS.
+Des qu?il viendra, qu?on m?avertisse.
+CASCARET.
+Oui, Madame.
+SCENE XVI. Marton, Angelique, Lepine.
+MARTON.
+He Lepine ?
+LEPINE, dans l'armoire.
+Es-tu seule, Marton ?
+MARTON.
+Oui. Comment te trouves-tu d?etre sous le scelle ?
+LEPINE.
+Pas trop mal : tiens, vois, je leve les scelles a merveilles, moi, Marton.
+MARTON.
+Ah, malheureux ! Tu nous vas faire de belles affaires.
+LEPINE.
+Je n?en ferai que de bonnes ; nous dechirerons le testament, et nous epouserons Mademoiselle.
+MARTON.
+Et comment cela ?
+LEPINE.
+Ne te mets pas en peine?
+ANGELIQUE.
+Tu pourrais?
+LEPINE.
+Je pourrai tout : allez seulement attendre la-bas que le Notaire vienne, amenez-le dans cette salle, et me laissez faire, vous dis-je ; J?ai dans cette armoire-la deux Diables a ma devotion?
+MARTON.
+Defie-toi de ces diables-la, Lepine.
+LEPINE.
+Je ne m?en defie point. Que le plus hardi me desobeisse, d?un porte-respect que j?ai dans ma poche, je lui brule la cervelle, pour accoutumer le Diable au feu seulement. Tout ce que tu as a faire, toi, Marton, c?est de faire entendre a Madame Lucas, que l?ame de son mari revient ici, qu?elle t?est apparue.
+MARTON.
+Cela ne sera pas difficile a lui persuader, elle est peureuse : mais pourquoi?
+LEPINE.
+Ne t?en informe pas, tu le sauras. J?entends quelqu?un qui vient, c?est Madame Lucas, je rentre sous le scelle ; raccommode les cachets le mieux que tu pourras, Marton.
+MARTON.
+Va, va, on n?y prendra pas garde de si pres.
+SCENE XVII. Madame Lucas, Marton.
+MADAME LUCAS.
+A qui en as-tu donc, Marton, tu parles toute seule ?
+MARTON.
+Bon, toute seule, plut a Dieu que nous fussions toutes seules.
+MADAME LUCAS.
+Comment ?
+MARTON.
+Est-ce que vous ne voyez rien ?
+MADAME LUCAS.
+Que veux-tu que je voie ?
+MARTON.
+Votre mari.
+MADAME LUCAS.
+Mon mari !
+MARTON.
+Oui vraiment, votre mari ; depuis que vous etes sortie d?ici, il me lutine d?une maniere ; la, la, la, la, ne le voila-t-il pas derriere vous ?
+MADAME LUCAS.
+Derriere moi ? Misericorde, ahi, ahi, ahi.
+MARTON.
+Quelle grimace il vous fait ! He, ne nous faites point de peur ; si votre ame est en peine, voila Madame, qui vous a trop aime pendant votre vie, pour vous refuser quelque chose apres votre mort.
+MADAME LUCAS.
+Helas oui !
+MARTON.
+Hai, hai, hai, il me serre la main, il me serre la main ; la sienne est plus froide qu?un glacon ! Qui l?aurait cru qu?un Procureur eut si froid apres sa mort ?
+MADAME LUCAS.
+Qu?il ne me touche pas, Marton, qu?il ne me touche pas.
+MARTON.
+Ah ! Tenez, tenez, tenez, le voila qui badine avec les barbes de vos cornettes ?
+MADAME LUCAS.
+Ah, ah, ah.
+MARTON.
+Ne craignez point, le voila qui disparait.
+MADAME LUCAS.
+Le ciel en soit loue, ne vois-tu plus rien ?
+MARTON.
+Non ; mais il ne tardera pas a revenir. Il faut changer de logis, il fait quitter cette maison-ci, Madame.
+MADAME LUCAS.
+C?est bien mon dessein : mais si c?est a nous que le defunt en veut, il nous viendra chercher partout, Marton.
+SCENE XVIII. Madame Lucas, Angelique, Marton, Le Notaire, Lepine.
+ANGELIQUE.
+Ma tante, voila, Monsieur le Notaire que je vous amene.
+MADAME LUCAS.
+Soyez le bienvenu, Monsieur Debonnefoi ; ne nous apportez-vous pas le testament ?
+LE NOTAIRE.
+Le voila, Madame : Mais je puis vous dire que je n?ai jamais signe d?acte en ma vie avec tant de repugnance que celui-la. Frustrer l?heritiere legitime pour vous enrichir, c?est une chose criante ; vous devriez vous accommoder et supprimer le testament, Madame.
+MADAME LUCAS.
+Supprimer le testament ? Oh, non pas, Monsieur, il aura son plein et entier effet.
+LE NOTAIRE.
+Vous etes la maitresse, Madame : mais quand le pauvre defunt m?a appele, et qu?il est comparu?
+MARTON.
+Madame, voila le defunt qui comparait.
+MADAME LUCAS.
+Ah, ah, ah, ah, Monsieur le Notaire !
+LE NOTAIRE.
+C?est un conte, Madame, je ne vois rien.
+ANGELIQUE.
+Ni moi non plus : mais je n?en ai pas moins de frayeur.
+MARTON.
+Vous ne voyez rien : mais je vois, moi.
+LEPINE, dans l'armoire.
+Madame Lucas, ma chere petite femme !
+MADAME LUCAS.
+Ah ! Je n?en puis plus ! Je me meurs, c?est lui-meme, voila comme il avait coutume de m?appeler : je ne reconnais pas tout e fait sa voix cependant.
+MARTON.
+Oh ! Madame, la mort change bien la voix des personnes.
+MADAME LUCAS.
+Ah, ah, ah ! Je le vois, Marton, je n?en saurais douter ; c?est lui, Monsieur le Notaire.
+LE NOTAIRE.
+Que veut dire ceci ?
+MARTON.
+Ah ! Vous le voyez donc a present ; n?est-il pas en robe de Palais ?
+MADAME LUCAS.
+Oui, je le vois comme toi.
+LE NOTAIRE, bas a Marton.
+C?est ici un plat de ton metier, Marton ?
+MARTON.
+Il est vrai, Monsieur, ne nous derangez point.
+LE NOTAIRE.
+Je n?ai garde : mais tu me fais plaisir de m?avouer la chose.
+ANGELIQUE.
+Voila deux Diables qui le suivent, ma tante.
+MARTON.
+Cet homme-la avait des connaissances partout.
+LEPINE.
+Je suis en peine, ma chere femme.
+MARTON.
+Ecoutez, Madame.
+LEPINE.
+A cause du testament que vous m?avez fait faire.
+MADAME LUCAS.
+Moi, Monsieur Lucas ? C?est vous qui l?avez fait vous-meme, je ne me suis melee de rien.
+MARTON.
+Vous le disiez bien, Monsieur le Notaire, que ce testament etait une injustice criante.
+LEPINE.
+Les diables meme en sont scandalises, Monsieur le Notaire, et voila deux honnetes Messieurs de leur compagnie ; celui que vous voyez a ma droite est le Diable Boiteux.
+MARTON.
+Et l?autre le diable borgne ?
+LEPINE.
+Non, celui-ci est un diable moderne, que j?ai connu Greffier a la Peau, et qui, pou continuer ses fonctions dans l?autre monde, c?est fait recevoir Diable a la derniere promotion.
+MARTON.
+Voila une belle Charge !
+LEPINE.
+Nous avons ordre, ma chere femme, de demeurer tous trois chez vous en garnison, jusqu?a ce que l?original du testament soit en pieces.
+MADAME LUCAS.
+Dechirer votre testament !
+LEPINE.
+Je le revoque, ma chere femme, prenez garde a ne pas me contredire.
+LE NOTAIRE.
+Votre resistance pourrait avoir des suites. Dechirai-je, Madame ?
+MARTON.
+He donnez, donnez, je le dechirerai, moi, il ne faut pas souffrir que son obstination soit cause de sa perte.
+MADAME LUCAS.
+He ! Que fais-tu, Marton ? Ah ! Le vilain defunt ! Je suis ravie de le voir a tous les Diables. Faire dechirer son testament !
+LEPINE.
+Si ce n?est pas de l?ordre du defunt, c?est de l?imagination des vivants du moins ; et apres un si beau coup, Madame, il ne nous reste plus que de faire trouver Eraste dans l?armoire, et son valet Lepine sous le bonnet carre du Procureur.
+MADAME LUCAS.
+Ah ! J?ouvre les yeux, je suis trahie. Vous etes tous de complot, Monsieur le Notaire ?
+LE NOTAIRE.
+Pour cela, non, Madame, je vous jure : mais l?original du testament est dechire, le Diable s?en est mele, que voulez-vous que j?y fasse ?
+MADAME LUCAS.
+Fourbes !
+LEPINE.
+Point d?invectives, Madame Lucas : faites enterrer le defunt sans mausolee, puisque la succession vous manque, et laissez-nous nous applaudir d?avoir pu vous prendre pour dupe.
+SCENE XIX. Les Acteurs du Prologue, et ceux de la Piece, hors Madame Lucas.
+LE DIABLE.
+Et remerciez le Diable Boiteux de l?heureux succes de vos affaires. C?est moi, Monsieur de Lepine, qui vous ai inspire l?idee qui a fait dechirer le testament.
+LEPINE.
+Je m?en suis doute d?abord, et je me sentais plus d?esprit que de coutume.
+LE DIABLE.
+Oh ca, Madame Therese, vous venez de voir au naturel ce qui s?est passe chez le defunt Procureur, que vous en semble ?
+THERESE.
+Il me parait qu?on a beau voyager, on ne trouve rien de nouveau. Le genre humain est partout le meme, et les femmes de Madrid pleurent leurs epoux a la maniere de ce pays-ci.
+LE DIABLE.
+Mais que dites-vous de la petite niece, qui, sans consulter ni sens ni raison, epouse sottement un jeune Officier qui n?a rien ? Approuvez-vous fort sa conduite ?
+THERESE.
+Je ne l?approuve pas, mais je l?excuse : en voici la raison, ecoutez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tandis que l?Amour sommeille, 
+La raison nous dit tout bas 
+De n?aimer pas.
+L?Amour se reveille, 
+Et nous conseille 			[5]
+De nous livrer a ses appas.
+On cede, helas !
+La timide raison ne parle qu?a l?oreille.
+L?Amour vainqueur 			[10]
+S?adresse au c?ur.
+LE DIABLE.
+Oui, voila le fait, on peut vous en croire, vous avez ete quelquefois dans le cas, mais dites un peu a Monsieur l?Officier ce que vous prevoyez des suites de son mariage.
+THERESE, chante.
+Mon brave Officier, vous etes gueux, 
+Et vous prenez femme coquette ; 
+Demandez au Diable Boiteux, 
+Si vous ne faites pas tous deux 			[15]
+Une tres mauvaise emplette.
+Voici ce qu?il vous dira, 
+Le bien du defunt vous menera 
+Tout aussi loin qu?il pourra.
+Grand chere et beau feu, tant qu?il durera, 			[20]
+Le bon temps que ce sera !
+Mais ce bon temps passera.
+Il finira, 
+On enragera, 
+On se haira, 			[25]
+On se le dira, 
+On se maudira, 
+De son cote chacun tirera ; 
+Ainsi se terminera 
+Ce beau mariage-la.			[30]
+LE DIABLE.
+Ne vous effarouchez point du pronostic, Seigneur Eraste ; vous etes aujourd?hui ravi de la prendre, vous serez quelque jour ravi de la quitter.
+LEPINE.
+Notre mariage pourrait bien tourner a peu pres de meme. Qu?en penses-tu, Marton.
+LE DIABLE.
+Oh, ce n?est pas de meme ; votre revenu n?est qu?en fonds d?esprit, a vous autres, et l?on tire toujours parti de ce fonds-la.
+THERESE, chante.
+Heureux qui vit du bien d?autrui, 
+Jamais rien ne lui manque ; 
+Dans le commerce d?aujourd?hui, 
+C?est la plus sure banque.
+On vit sans proces, sans chagrin, 			[35]
+Et sans souci du lendemain.
+On ne craint orage ni grele ; 
+Et quand un peu d?esprit s?en mele, 
+On boit toujours le meilleur vin 
+Chez sa voisine ou son voisin.			[40]
+LE DIABLE.
+Ce n?est pas la situation de la vie la plus malheureuse. Mais achevez, Madame Therese, de faire part a cette belle assemblee de vos reflexions et des petites confidences que je vous ai faites pendant la piece.
+THERESE, chante.
+Sans peur des censures 
+Du Diable Boiteux, 
+Que les ris, les jeux, 
+Dans vos galantes aventures, 
+Avec les Amours 			[45]
+Vous suivent toujours.
+SANCHETTE.
+Ce Diable revele 
+Ce que chacun fait ; 
+Mais il est discret, 
+Sitot qu?un tendre Amour s?en mele, 			[50]
+Et trompe avec nous 
+Les yeux des Jaloux.
+THERESE.
+En ce lieu Lisette, 
+Avec son Amant, 
+Est en ce moment ; 			[55]
+Et le pauvre epoux qui les guette 
+Ouvre de grands yeux, 
+Et n?en voit pas mieux.
+SANCHETTE.
+Tel de la satire 
+Qu?on debite ici 			[60]
+Ne prend nul souci, 
+Et de son voisin pense rire, 
+Qui prend pour autrui 
+Ce qu?on dit de lui.
+THERESE.
+La vieille Artemise, 			[65]
+S?etant ce matin 
+Cru voir un beau teint, 
+Dans une glace de Venise, 
+Est ici ce soir 
+Pour le faire voir.			[70]
+SANCHETTE.
+La, pres d?une belle 
+Un vieux Financier, 
+Amant pour payer, 
+Baille dans la loge avec elle.
+Et l?Amant cheri 			[75]
+Au parterre en rit.
+LEPINE.
+Si de notre zele 
+Le Public content 
+Vient ici souvent 
+Revoir notre Piece nouvelle, 			[80]
+Le Diable Boiteux 
+Sera trop heureux.
+
+	==================================================

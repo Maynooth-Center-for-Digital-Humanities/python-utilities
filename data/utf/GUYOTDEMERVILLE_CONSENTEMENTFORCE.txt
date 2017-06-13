@@ -1,0 +1,1083 @@
+********************************************************
+	DC.Title                  = LE CONSENTEMENT FORCE, COMEDIE.
+	DC.Author                 = GUYOT DE MERVILLE, Michel
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 25/09/2016 a 08:22:49.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/GUYOTDEMERVILLE_CONSENTEMENTFORCE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE CONSENTEMENT FORCE COMEDIE, EN UN ACTE ET EN PROSE.M. DCC. XXXIX. Avec Approbation et Privilege du Roi.
+Par M. GUYOT DE MERVILLE.
+	A PARIS, Chez CHAUBERT, Quai des Augustins, a la Renommee et a la Prudence.
+	
+	
+	PREFACE.
+Si un auteur doit etre sensible a des applaudissements qui l'honorent, il doit encore avoir plus d'egard pour des critiques qui l'eclairent. Le Public est non seulement notre juge ; il est aussi notre maitre ; et c'est se rendre indigne de ses eloges que de ne pas profiter de ses censures. Aussi n'ai-je point balance a corriger certains defauts que l'on a remarques d'abord dans la Scene X. et dans le denouement du Consentement force.
+Mais lorsque quelques personnes, trop attachees a des beautes de mode, condamnent dans un ouvrage ce qui n'y est pas conforme, je pense qu'un auteur peut ne point deferer a leurs decisions, et qu'il est meme en droit de les combattre. Ces personnes, peu flattees de la simplicite de mon style, pretendent que j'aurais du le rendre plus delicat, plus fin ; en un mot, plus epigrammatique ; et ils censurent dans cette piece ce qu'ils louent eux-memes, ou plutot ce qui les frappe malgre eux, dans les Comedies de Moliere. Je ne sais si je ne leur prete point a l'egard de cet excellent ecrivain des sentiments que peut-etre ils n'ont pas. Mais au moins ne peuvent-ils disconvenir du plaisir que ses pieces font encore tons les jours aux spectateurs. Diront-ils qu'en faveur de leur anciennete on y rit par complaisance, ou par habitude ; et que ce qui etait bon autrefois, ne vaut plus rien aujourd'hui ? Il ne leur reste que ce retranchement, ou je me garderai bien de les attaquer.
+Pour moi qui fais gloire de prendre Moliere pour modele, sans me flatter de pouvoir jamais l'egaler, j'ai voulu faire une Comedie qui plut sur le Theatre, sans eblouir, et qui se soutint a la lecture. Or je ne vois que le sentiment et le bon sens qui puissent produire ce double effet. Quelques-uns de nos auteurs ont beau vouloir mettre en credit leurs brillants et leurs saillies. Ce pretendu esprit, comme l'experience le prouve, ne plait que dans la nouveaute.
+Sa pointe aiguisee avec affectation s'emousse a la vue, des qu'on la considere de pres, et je pourrais citer plusieurs de ces traits d'esprit, applaudis sans reflexion, qui dans le fond ne sont rien moins qu'ingenieux. Ce n'est pas en courant apres l'esprit qu'on l'atteint. Jaloux de sa liberte, il fuit ceux qui le cherchent, et ne se presente qu'a ceux qui l'attendent. Je ne pretends pas, neanmoins que nos bonnes pieces manquent d'esprit. Elles ont l'esprit qui convient a la Comedie, c'est-a-dire l'esprit solide, qui n'est pas celui avec lequel on brille dans les cercles et dans les ruelles, ou l'on ne demande qu'un plaisir vif et passager, C'est par cet esprit simple, vrai et naturel que les pieces de Moliere ont toujours plu et plairont toujours. Le Glorieux, l'Ecole des Amants, l'Avare amoureux, la Pupille, et quelques autres Comedies de notre temps, ont la meme destinee, et je crois que c'est-la la seule et veritable Comedie. 
+
+ACTEURS
+ORGON.
+CLEANTE, fils d'Orgon.
+CLARICE, femme de Cleante.
+LISIMON, ami d'Orgon et de Cleante.
+TOINETTE, suivante de Clarice.
+La Scene est a Auteuil.
+
+
+
+			
+
+
+SCENE PREMIERE. Lisimon, Cleante.
+LISIMON.
+La joie que j'ai de vous voir, Cleante, m'est d'autant plus sensible que je ne m'y attendons pas. Quoi ! Vous quittez Paris, dans le temps que les plaisirs y regnent ?
+CLEANTE.
+On n'est pas toujours dans les memes dispositions, mon cher Lisimon. On change a tout age, et ces plaisirs, autrefois si flatteurs pour moi, ne me touchent plus.
+LISIMON.
+Ce que vous me dites-la est-il bien sincere ?
+CLEANTE.
+Rien n'est plus vrai, je vous assure.
+LISIMON.
+J'applaudis de ban coeur a de si beaux sentiments, et je m'en rejouis pour l'amour de vous. La seule chose qui me fache, c'est que vous ayez choisi une saison si peu favorable pour les amusements de la campagne. Auteuil est fort joli en ete ; mais il ne peut etre agreable en hiver qu'a une espece de Misanthrope comme moi.
+CLEANTE.
+Il n'est pas en mon pouvoir de mieux prendre mon temps. Car (et c'est ce qui me fait de la peine) ma visite est interessee.
+LISIMON.
+Je puis vous rendre quelque service, mon cher Cleante ?
+CLEANTE.
+Un service de la derniere importance.
+LISIMON.
+Voila pour moi un surcroit de plaisir.
+CLEANTE.
+Je vous demande pardon de la liberte que j'ai prise ; mais j'ai amene une personne avec moi.
+LISIMON.
+Votre excuse m'offense. Quel que soit celui pour qui vous vous interessez, il est digne de mon estime, des qu'il merite la votre. Mais ou donc est cet ami ? Pourquoi n'entre-t-il pas ?
+CLEANTE.
+Un moment, je vous prie. Vous allez etre etonne. C'est une Dame que je vous amene.
+LISIMON.
+Une Dame !
+CLEANTE.
+Vous ne serez pas fache de la connaitre.
+LISIMON.
+Voila donc comme vous etes change ?
+CLEANTE.
+C'est la plus grande preuve que j'en puisse donner.
+LISIMON.
+Effectivement, c'en est une fort belle, qu'une nouvelle amourette !
+CLEANTE.
+Le terme est trop faible. C'est un veritable amour, un amour pur et solide, puisqu'il est fonde sur l'estime et sur la raison.
+LISIMON.
+Style ordinaire des amants.
+CLEANTE.
+Rien, ne pourra jamais me detacher d'elle.
+LISIMON.
+Ce n'est pas la premiere fois que vous tenez ce langage.
+CLEANTE.
+Si vous connaissiez Clarice ; si vous saviez combien elle a de merite...
+LISIMON.
+Bon ! Ne sais-je pas de quel oeil un amant voit sa maitresse ? Je vais vous faire son portrait, si vous voulez.
+CLEANTE.
+Elle n'est pas ma maitresse.
+LISIMON.
+Comment ?
+CLEANTE.
+C'est ma femme.
+LISIMON.
+Vous etes marie ?
+CLEANTE.
+Depuis huit jours.
+LISIMON.
+Quoi ! Vous vous mariez sans que j'en sois informe, moi qui ai toujours ete si fort attache a votre famille ; moi l'ami intime de votre pere, et encore plus le votre ?
+CLEANTE.
+C'est cette raison meme qui m'a porte a vous cacher ce mariage, vous vous y seriez sans doute oppose, et j'ai craint l'effet que pouvAit faire sur moi l'amitie dont vous m'honorez.
+LISIMON.
+Je concois. Vous avez forme cette union sans le consentement de votre pere.
+CLEANTE.
+J'ai tout fait pour l'obtenir ; mais mon pere a ete inexorable ; et je tremble de me voir pour jamais l'objet de son indignation, si vous me refusez le secours que j'attends de votre bonte.
+LISIMON.
+Oh ! Je ne doute plus de la violence de votre amour, et il faut en effet que votre epouse ait bien du merite pour avoir fixe un coeur comme le votre.  
+CLEANTE.
+Ah ! Que ne pouvez-vous entendre son eloge d'une autre bouche que de la mienne ! Car je sens bien que dans l'etat ou je me trouve, mon temoignage doit vous etre suspect de prevention, ou d'artiFice. Ne vous figurez pas que j'aIe ete seduit par des charmes, qui ne frappent que les yeux. Sa douceur, sa modestie, sa sagesse, son attachement a ses devoirs, son aversion pour les vains amusemenTs du sexe, une humeur toujours egale, la bonte de son coeur, enfin la solidite et la delicatesse de son esprit surpassent encore sa beaute, quelque eclatante qu'elle soit. Vous ne croyez pas, j'en suis sur, la moitie de ce que je vous dis, et cependant je ne vous dis pas la moitie de ce qui en est.
+LISIMON.
+Mais quel est donc le motif du refus de votre pere?
+CLEANTE.
+L'interet. Avec toutes ces qualites, Clarice a encore de la naissance. Mais elle n'est pas riche.
+LISIMON.
+Plaisante raison ! Si votre pere pensAit comme moi, cette difficulte ne l'aurAit pas arrete, suppose que votre epouse soit aussi parfaite que vous le dites.
+CLEANTE.
+Elle l'est en effet. Mais mon pere s'imagine que je lui en impose, et il se persuade que tous les eclaircissements ou il pourrait entrer la-dessus, bien loin de detruire cette idee, ne serviraient qu'a la confirmer.
+LISIMON.
+Votre situation me touche. Que puis-je faire pour votre service ?
+CLEANTE.
+Mon pere, que les affaires de son commerce ont retenu quelque mois en province, est enfin de retour a Paris.
+LISIMON.
+Il est revenu ? J'en suis ravi. Voulez-vous que je lui aille parler ?
+CLEANTE.
+Vous n'aurez pas la peine de l'aller chercher. Je sais de bonne part qu'il doit vous venir voir aujourd'hui. Il ne tardera pas. J'apprehendais meme qu'il ne m'eut devance.  
+LISIMON.
+Le bon homme cherche a evaporer sa bile. Je m'y attends. Je vous promets de mettre tout en oeuvre pour vous reconcilier avec lui. Mais je ne vous reponds pas du succes de mes soins ; car il est terriblement entete.
+CLEANTE.
+Il m'est venu une idee, dont je crois la reussite infaillible, des que vous voudrez bien nous seconder, comme vous m'en flattez. Je ne juge pas a propos de paraitre devant lui. Outre qu'il me l'a defendu expressement, ma vue ne ferait qu'augmenter sa colere. Il s'agit de me justifier, et il n'y que le merite de Clarice qui puisse produire cet effet. Je voudrais donc qu'il la vit, mais sans savoir qu'elle est ma femme, afin qu'il l'examinat sans prevention. Encore une fois, j'ose m'assurer que s'il la connoiss	it, il approuverait notre mariage.
+LISIMON.
+Fort bien. Je lui dirai que c'est une de mes parentes.
+CLEANTE.
+Votre niece, par exemple.
+LISIMON.
+Encore mieux. Votre pere sait que j'en ai une en Province ; mais il ne l'a jamais vue.
+CLEANTE.
+Que je vous ai d'obligation ! Je ne puis vivre heureux sans la possession de Clarice ; mais je ne puis l'etre aussi sans l'amitie de mon pere.
+LISIMON.
+Ne nous arretons pas ici davantage. Je rougis de la lasser seule si longtemps.
+CLEANTE.
+Elle est dans la chambre voisine, et je cours la chercher.
+LISIMON.
+Je vous suis. Je veux l'aller recevoir.
+CLARICE.
+Helas ! Quand je pense que je vais parler a un homme qui me hait, qui me regarde comme l'unique cause de ses chagrins et de la perte de son fils ; quand je me le represente dans la colere violente ou il est contre vous et contre moi, je fremis du danger ou je m'expose.
+CLEANTE.
+Votre crainte est frivole. Si vous paraissiez a ses yeux sous le nom de ma femme, je concois que vous auriez alors un furieux orage a essuyer. Mais il ne vous connait point et vous avez l'avantage de le connaitre. Non, Clarice, le peril que vous courez n'est rien. Mais fut-il aussi terrible que votre imagination vous le represente, que ne devez-vous point entreprendre, pour eviter le malheur qui nous menace ? Ah, si mon, pere allait nous separer pour jamais... Je vois deja que cette triste idee, toute eloignee qu'elle est, vous penetre le coeur. Vous pleurez, Clarice, vous pleurez ! Ne me derobez point vos larmes. Elles sont des marques de votre tendresse et de votre vertu ; elles naissent de l'une et de l'autre, et vous sentez qu'en me perdant, vous perdriez une reputation qui vous est aussi precieuse que moi-meme.
+CLARICE.
+C'en est fait, Cleante ; mon courage revient, et il n'y a point de danger que je n'affronte. C'est vous que je dois sauver. Je n'aurai plus que vous devant les yeux. Quel bonheur, si je puis reussir ! Si je ne reussis pas, nous aurons fait du moins tout ce que la raison et la nature exigent et de deux coeurs unis par la vertu.
+SCENE IV. Cleante, Clarice, Toinette.
+TOINETTE.
+Monsieur, je vous annonce que Monsieur votre pere vient d'arriver.
+CLEANTE.
+Cela suffit.
+CLARICE.
+Ah, ciel!  
+TOINETTE.
+Quoi, Madame, vous tremblez encore !
+CLEANTE.
+Allons, Clarice, c'est maintenant que vous avez besoin du courage que vous me promettiez tout a l'heure.
+CLARICE.
+Pardonnez-moi ce premier mouvement ; il n'aura pas de suite, je l'espere. Mais retirez-vous, et ne paraissez point que je ne vous avertisse.
+CLEANTE.
+Adieu. Songez que ma destinee est entre vos mains.
+SCENE V. Clarice, Toinette.
+TOINETTE.
+Je me flatte, Madame, que tout ira bien, et la qualite de niece, que Monsieur Lisimon m'a dit qu'il vous avait donnee, leve toutes les difficultes qui pouvaient vous effrayer. Mais je vois entrer Monsieur Orgon.
+SCENE VI. Orgon, Lisimon, Clarice, Toinette.
+ORGON.
+Je serai charme de la voir.
+CLARICE, bas.
+Toinette, ne m'abandonne pas !
+TOINETTE, bas.
+Oh, je n'ai garde.
+LISIMON.
+Ma niece, voici Monsieur Orgon, dont vous aurez sans doute entendu parler a mon frere.
+ORGON.
+J'ai l'avantage, Mademoiselle, d'etre de ses intimes amis.
+LISIMON, bas.
+Excusez sa timidite.
+LISIMON.
+Vous avez raison. Depuis quand etes-vous de retour ?
+ORGON.
+Depuis avant-hier. On se tue pour amasser du bien a ces ingrats-la, et en voila la recompense ! Combien d'argent n'ai-je pas depense pour l'education de Cleante ! Et vous voyez comme il en profite ! L'auriez-vous cru capable d'un tel egarement ?
+LISIMON.
+Non, car il m'a toujours paru assez sage.
+ORGON.
+Prendre une femme sans bien !
+LISIMON.
+Voila le mal.
+ORGON.
+Par amourette !
+LISIMON.
+Mais vous qui parlez, mon cher Orgon, n'avez-vous pas aime dans votre jeunesse ?
+ORGON.
+Sans doute j'ai aime, j'ai aime, je ne le nie point. Mais l'amour ne m'a jamais fait faire de folies.
+LISIMON.
+C'etait donc un amour bien extraordinaire.
+ORGON.
+Ce que c'est qu'un jeune etourdi ! Il ne faut qu'un petit nez tourne d'une certaine facon, pour lui bouleverser la cervelle. Et se marier encore malgre moi !
+LISIMON.
+Vous n'avez pas voulu lui accorder votre consentement.
+ORGON.
+Faut-il pour cela qu'il s'en passe ?
+LISIMON.
+Ce n'est pas mon sentiment.
+ORGON.
+Je lui ferai voir ce que c'est que l'autorite d'un pere. C'est un mariage nul de toute nullite.
+LISIMON.
+Il faudra voir. 
+ORGON.
+Comment, il faudra voir ? Oh, cela est tout vu.
+LISIMON.
+Ce mariage...
+ORGON.
+Sera casse.
+LISIMON.
+On pourrait trouver quelque expedient...
+ORGON.
+L'expedient c'est de le casser.
+LISIMON.
+Je veux dire quelque temperament pour...
+ORGON.
+Je pretends qu'on le casse.
+LISIMON.
+Calmez-vous. Je vois ma niece qui revient.
+SCENE VIII. Orgon, Lisimon, Clarice, Toinette.
+LISIMON, a Clarice.
+He bien, comment vous trouvez-vous ?
+CLARICE.
+Fort bien, mon oncle, et ma faiblesse est entierement dissipee.
+ORGON.
+J'en suis en verite ravi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ce qui m'etonne ; c'est que cet evanouissement lui ait pris au moment que je l'embrassais.
+TOINETTE.
+Croyez-vous, Monsieur, qu'on puisse embrasser une personne comme vous sans emotion ?
+ORGON.
+Qu'en dois-je croire, Mademoiselle ? C'est a vous a expliquer ce mystere.
+CLARICE.
+Je suis trop sincere pour vous cacher que c'est votre presence qui a produit cet accident.
+TOINETTE, a Orgon.
+Que vous ai-je dit ?  
+LISIMON.
+Comment, ma niece ! Qu'est-ce que cela signifie ?
+CLARICE.
+En voyant Monsieur, j'ai cru voir un pere que je cheris infiniment.
+ORGON, a Lisimon.
+Est-ce que je ressemble a votre frere ?
+LISIMON.
+Je n'y avais pas pris garde ; mais elle m'en fait apercevoir.
+ORGON.
+Serieusement ?
+TOINETTE.
+Oui, vous avez des yeux... une bouche... Je ne puis pas bien dire ce que c'est ; mais il y a mille gens qui se ressemblent moins.
+ORGON.
+Elle l'a remarque d'abord. Cela est tout-a-fait singulier.
+CLARICE.
+Les traits d'un pere, digne de la plus parfaite veneration, sont toujours une impression profonde sur l'esprit d'une fille qui sait son devoir.
+ORGON.
+On ne peut pas mieux parler.
+LISIMON.
+Je vous assure que vous seriez encore plus content de ses sentiments, si vous la connaissiez.
+CLARICE.
+Il ne me conviendrait pas de les developper ici. Je craindrais qu'on ne m'accusat d'affectation et d'orgueil.
+ORGON, a Lisimon.
+J'ai entendu dire beaucoup de bien de votre niece. Mais en verite ce que j'en vois par moi-meme passe encore l'idee qu'on m'en a donnee.
+LISIMON.
+J'espere que vous n'en rabattrez point, quand vous la connaitrez mieux.
+CLARICE, a Orgon.
+L'estime d'une personne comme vous, Monsieur, est pour moi d'un prix infini.
+ORGON.
+Ah, que votre pere est heureux d'avoir une fille si raisonnable. Pourquoi mon coquin de fils n'a-t-il pas un pareil caractere ?
+CLARICE.
+Votre fils, Monsieur ! Avez-vous lieu de vous plaindre de lui ?
+ORGON.
+Que trop vraiment. Mais laissons-le la. Il ne merite pas d'etre mele dans un entretien si aimable.
+CLARICE.
+Il suffit qu'il vous appartienne, pour que je m'interesse a ce qui le regarde. Qu'a-t-il donc fait qui vous irrite si fort contre lui ?
+ORGON.
+Une extravagance impardonnable. Il s'est pendant mon absence amourache d'une certaine Clarice, et l'a epousee sans mon aveu.
+CLARICE.
+Le cas est grave. Mais peut-etre n'est-il pas si coupable que vous le pensez.
+ORGON.
+Vous voulez prendre sa defense ?
+LISIMON.
+Ma niece, vous aurez de la peine a le justifier.
+ORGON, a Lisimon.
+Elle a bien de l'esprit ; mais elle embrasse une mauvaise cause.
+CLARICE.
+La seule chose qui m'arrete, c'est que je me fais scrupule de combattre vos sentiments.
+ORGON.
+D'autant plus que le succes est impossible.
+CLARICE.
+Il y a des circonstances qui rendent quelquefois une action moins criminelle. Je parle par conjectures. Supposons que l'attachement de Monsieur votre fils pour Clarice, au lieu d'etre fonde sur un fol amour, comme apparemment vous le pensez, n'ait ete produit que par une veritable estime pour quelques bonnes qualites qu'il aura cru apercevoir en elle.
+ORGON.
+C'est une supposition en l'air.
+CLARICE.
+Je l'avoue. Mais si je disais vrai par hasard, ne conviendriez-vous pas que Monsieur votre fils serait alors plus excusable, que s'il avait ete emporte par une passion, que je condamne comme vous, lorsque l'estime ne l'a pas fait naitra.
+TOINETTE.
+La chose est claire.
+ORGON.
+Soit.
+CLARICE.
+Je ne saurais vous dire si Clarice a quelque merite. Je le suppose. Mais quant a Monsieur votre fils, vous ne pouvez pas disconvenir qu'il n'en ait beaucoup.
+ORGON, a Lisimon.
+Qu'en sait-elle ?
+LISIMON.
+C'est un fait que vous ne sauriez nier.
+ORGON, d'un air fache.
+Il est vrai que le fripon n'en manque pas.
+CLARICE.
+He bien, Monsieur, si une fille n'a pu resister au pouvoir legitime que le vrai merite a sur les coeurs ; si sa raison lui a fait entendre que la possession d'un homme en qui il eclatait la rendrait parfaitement heureuse ; enfin si elle s'est aveuglee elle-meme jusqu'a lui sacrifier sa reputation, en consentant ; ou peut-etre en l'engageant a une union si irreguliere, ne m'avouerez-vous pas qu'il faut qu'elle ait aime votre fils avec bien de la tendresse, et ne la trouvez-vous pas plus malheureuse que criminelle ?
+ORGON.
+Oh, je vous prie, Mademoiselle, finissons.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Comme elle assaisonne tout ce qu'elle dit ! Quand ce serait sa propre cause, elle ne la defendrait pas mieux.
+LISIMON.
+Vous sentez donc la force de ses raisonnements ?
+ORGON.
+Je sens... Oui... Que tout cela est une belle imagination.
+CLARICE.
+Si vous avez la-dessus des lumieres que je n'ai pas, je n'ai plus rien a dire.
+ORGON.
+Je ne sais point le fond de toute cette intrigue ; mais je gagerais bien qu'elle n'est pas telle que vous la representez. Apres tout, quand cela serait, il me reste toujours une raison tres forte, qui m'empechera d'approuver le mariage en question.
+CLARICE.
+M'est-il permis, Monsieur, de vous demander quelle est cette raison ?
+ORGON.
+C'est que Clarice n'a pas de bien.
+CLARICE.
+He, Monsieur, si elle n'a pas apporte de richesses a votre fils, elle en sera plus humble dans sa conduite, plus reservee dans sa depense, et d'autant plus reconnaissante qu'il aura ete plus genereux. Il me semble que je suis a sa place. Si j'avais un epoux a qui je dusse tout, je mettrais mon bonheur et mon devoir a faire sa felicite. Je n'aurais d'autre loi que ses desirs, d'autre satisfaction que la sienne, et je tacherais enfin de remplacer le bien que je ne lui aurais pas donne, par des vertus qui sont infiniment plus estimables.
+ORGON.
+Il suffit ; je ne veux plus vous ecouter.
+CLARICE.
+Je serais au desespoir de vous deplaire, et je vais...
+ORGON.
+Vous ne m'entendez pas, non, votre conversation m'enchante.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais parlons d'autre chose.
+TOINETTE, a part.
+Monsieur Orgon craint de n'avoir pas raison.
+CLARICE.
+Je n'ai que trop abuse de votre bonte, et je me retire.
+ORGON.
+He non, Mademoiselle... Attendez donc.
+LISIMON.
+Laissez-la aller. Elle a quelques ordres a donner. Vous ne nous quittez pas si tot, et vous aurez tout le temps de l'entretenir.
+SCENE IX. Orgon, Lisimon, Toinette qui ecoute.
+ORGON.
+Par ma foi, Lisimon, vous avez-la une niece d'un merite incomparable.
+LISIMON.
+Il ne me sierait pas de faire son eloge ; mais je ne puis m'empecher de convenir qu'elle a l'esprit bien fait et le coeur bien place.
+ORGON.
+Ils sont au-dessus de tout, et se soutiennent mutuellement. Que l'un est venu a propos au secours de l'autre, et avec quelle adresse elle allait a son but par un detour !... A present que j'y reflechis, il me vient certains soupcons.
+LISIMON.
+Vous avez des soupcons ?
+ORGON.
+Tres bien fondes, et qui autorisent un projet...
+LISIMON.
+Qu'est-ce que c'est ?
+ORGON.
+Avant que de vous en faire part, je veux etre sur de mon fait. Ayez la bonte d'aller dire a votre niece, que je voudrais lui parler en particulier.
+LISIMON.
+Quoi, vous ne voulez pas m'apprendre...
+ORGON.
+Patience, mon cher ami, patience. Vous le saurez.
+LISIMON.
+Je vais donc vous l'envoyer.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quelle idee lui passe par la tete ?... Ah, ah, que faisiez-vous la, Toinette ?
+TOINETTE.
+A vous dire le vrai, Messieurs, j'ecoutais.
+ORGON.
+Elle est sincere.
+LISIMON, vivement.
+Comment donc.
+ORGON.
+Ne la grondez pas. Elle a fort bien fait, et je suis ravi qu'elle nous ait entendus. Approchez, Toinette, approchez ; et vous, Lisimon, faites-moi le plaisir que je vous ai demande.
+LISIMON.
+Vous allez etre satisfait.
+SCENE X. Orgon, Toinette.
+TOINETTE, a part.
+Il va me questionner. Tenons ferme.
+ORGON.
+Je vois, Toinette que vous etes franche, et je compte que vous m'allez dire la verite.
+TOINETTE.
+Vous avez tout lieu de l'esperer, Monsieur. La sincerite est ma vertu favorite. Que voulez-vous savoir ?
+ORGON.
+Quel est d'abord le motif qui vous portait a nous ecouter ?
+TOINETTE.
+L'interet que ma maitresse et moi prenons a ce qui vous regarde.
+ORGON.
+Je me suis attendu a cette reponse. N'est-il pas vrai que ma vue a fait quelque impression sur elle?
+TOINETTE.
+Certainement, et cette impression a meme ete tres forte.
+ORGON.
+Cet evanouissement si singulier n'etait-il pas une suite de cette impression ?
+TOINETTE.
+Une suite fort naturelle, et vous devez vous souvenir de ce qu'elle vous a dit a cette occasion.
+ORGON.
+Sur quoi ? Sur ma pretendue ressemblance avec son pere ? Ah, la rusee ! Oui, oui, de la ressemblance !... Hem, qu'est-ce que cela veut dire ?
+TOINETTE.
+Ce que cela veut dire ?
+ORGON.
+Oui... Allons, Toinette, ne vous dementez point. Voila une belle occasion de signaler cette sincerite, votre vertu favorite.
+TOINETTE.
+Allons donc, Monsieur. Ce n'est que pour m'eprouver que que vous faites semblant d'etre si curieux. Une personne de votre merite n'est pas susceptible d'un pareil defaut.
+ORGON.
+Non, j'agis de bonne foi.
+TOINETTE.
+Se prevaloir de ma franchise ! Oh, cela n'est pas bien. Qui le croirait a votre physionomie ?
+ORGON.
+Mais vous en avez deja trop dit vous-meme, pour ne pas achever.
+TOINETTE.
+Moi, Monsieur ?
+ORGON.
+Ce mot d'emotion, qui vous est echappe par exemple, ne signifie-t-il rien, a votre avis ?
+TOINETTE.
+Ah, je m'apercois qu'il faut prendre garde a ce qu'on dit devant vous.
+ORGON.
+Croyez-vous donc que je manque de penetration ?
+TOINETTE.
+Au contraire, Monsieur, je vois que vous en avez infiniment.
+ORGON, a part.
+Elle cherche a eluder mes questions. Prenons un autre tour.
+TOINETTE, a part.
+O le malicieux vieillard !
+ORGON.
+Vous me cachez ce que je decouvre moi-meme... Passons. Votre maitresse a des manieres qui plaisent. Mais quel est le fond de son caractere.
+TOINETTE.
+Pourquoi me faites-vous cette question ?
+SCENE XI. Orgon, Clarice.
+ORGON.
+Je vous attendais, Mademoiselle, et je brule de vous entretenir.
+CLARICE.
+Ce que mon oncle m'a dit, sans s'expliquer, ne me donne pas moins d'impatience.
+ORGON.
+C'est en dire trop, et je pourrais a ce sujet me former des idees, qui seraient fort au-dessus de la realite.
+CLARICE.
+Si vous me connaissiez, vous verriez qu'elles seraient bien eloignees d'y atteindre.
+ORGON.
+Vous me ravisse... Il est donc vrai que je ne me suis point abuse... Ne doutez plus que je ne vous connaisse. Oui, oui, je vous connois.
+CLARICE, avec effroi.
+Vous me connaissez !
+ORGON.
+J'ai penetre vos dispositions... Vous ne me haissez pas.
+CLARICE.
+Ah, Monsieur, que mes sentiments a votre egard sont differents de la haine !
+ORGON.
+Ceux que j'ai concus pour vous en different bien davantage.
+CLARICE.
+Mon bonheur serait parfait, s'ils etaient tels que je le souhaite.
+ORGON.
+Ne seriez-vous pas bien aise de passer votre vie avec moi ?
+CLARICE.
+Une grace si singuliere ferait toute ma felicite.
+ORGON.
+J'aurais pour vous une complaisance extreme.
+CLARICE.
+Je tacherais de la meriter par mon attachement.
+ORGON.
+L'heureux hasard que celui qui m'a offert a vos yeux !
+CLARICE.
+Que n'ai-je eu ce bonheur plutot !
+ORGON.
+A quoi dis-je des sentiments si favorables ?
+CLARICE.
+Un mouvement secret me les inspire.
+ORGON.
+Je ne vous suis donc pas indifferent ?
+CLARICE.
+Non, vous ne me l'etes point, et je ne puis vous refuser l'estime la plus parfaite.
+ORGON.
+Oui, l'estime ! Ah, que ce mot est joli ! Il est inutile de l'expliquer. C'est de l'amour, n'est-ce pas ?
+CLARICE, doucement.
+De l'amour !
+ORGON.
+Ne Vous en defendez point. A mon age on voit clair. Avouez franchement que vous m'aimez.
+CLARICE.
+Vous ne vous trompez pas, Monsieur. Je vous aime, et je ne rougis point de le dire... Mais...
+ORGON.
+Point de mais, je vous prie. Le mot est lache, Mignonne. Il n'est plus temps de chercher des detours. Je suis enchante de cet aveu. Vous serez satisfaite. Je vais parler a votre oncle. Souffrez que je vous quitte.
+CLARICE, a part.
+Quel est donc son dessein ?
+ORGON.
+Mais le voici lui-meme.
+CLARICE, a part.
+Allons cacher ailleurs le trouble ou je suis.
+ORGON, a Clarice.
+Vous sortez ?
+CLARICE.
+Ma presence, je crois, n'est pas necessaire.
+ORGON.
+J'entends. Il faut laisser agir votre modestie.
+SCENE XII. Orgon, Lisimon.
+LISIMON.
+Je viens trop tot sans doute, et j'ai interrompu votre entretien.
+ORGON, d'un air gai.
+Point du tout. Vous ne pouviez pas venir plus a propos.
+LISIMON.
+Vous etes bien joyeux !
+ORGON.
+Plus je vois votre niece, plus je la trouve charmante.
+LISIMON.
+Vous voudriez bien, j'en suis sur, que la femme de Cleante lui ressemblat.
+ORGON.
+A propos de lui. J'avais resolu de faire casser son mariage ; mais je change d'avis.
+LISIMON.
+Voila une resolution tres louable.
+ORGON.
+Je saurai le punir d'une autre maniere.
+LISIMON.
+Quoi ! Vous etes toujours aigri contre lui ?
+ORGON.
+J'ai envie de me marier.
+LISIMON.
+De vous marier !
+ORGON.
+Oui, de me marier. J'aurai des enfants qui partageront mon bien avec mon pendard de fils, et cela le mortifiera.
+LISIMON.
+L'idee est singuliere.
+ORGON.
+Et tres sensee.
+LISIMON.
+Vous avez quelque personne en vue ?
+ORGON.
+Certainement.
+LISIMON.
+Puis-je savoir quelle est l'heureuse mortelle sur qui tombe l'honneur de votre choix ?
+ORGON.
+C'est une personne pleine de raison, de bon sens, d'esprit, et qui brille de toutes sortes de vertus ; en un mot, votre niece.
+LISIMON.
+Vous vous moquez.
+ORGON.
+Je ne me moque point.
+LISIMON.
+Vous n'y pensez pas.
+ORGON.
+J'y pense tres fort.
+LISIMON.
+Elle vous plait donc ?
+ORGON.
+Infiniment.
+LISIMON.
+Vous voila amoureux.
+ORGON.
+Amoureux ou non, je suis determine a l'epouser.
+LISIMON.
+Tout de bon ?
+ORGON.
+Tout de bon.
+LISIMON.
+Il y a cependant une petite difficulte qui pourra traverse cette affaire.
+ORGON.
+Quelle est-elle ?
+LISIMON.
+Nous ne sommes point d'humeur, son pere ni moi, de forcer son inclination.
+ORGON.
+Je ne l'exige point.
+LISIMON.
+Elle ne nous a jamais donne aucun sujet de mecontentement, et par les qualites qu'elle possede, elle merite de notre part toutes sortes de considerations.
+ORGON.
+D'accord.
+LISIMON.
+Ainsi il faut voir si son penchant est conforme au votre.
+ORGON.
+Si vous n'avez que cet obstacle a m'opposer, ce n'est rien.
+LISIMON.
+Plait-il ?
+ORGON.
+Ce n'est rien, vous dis-je.
+LISIMON.
+Expliquez-vous.
+ORGON.
+Apprenez mon cher ami que votre niece m'aime.
+LISIMON.
+Ma niece ?
+ORGON.
+Et qu'en m'approchant elle s'est evanouie par un effet de sympathie pour moi.
+LISIMON, a part.
+Quelle extravagance !
+ORGON.
+Que dites-vous ?
+LISIMON.
+Je dis qu'il y a beaucoup d'apparence.
+ORGON.
+Elle m'aime, encore une fois. C'est un fait incontestable.
+LISIMON.
+Cela etant, voila l'affaire fort avancee.
+ORGON.
+Je la regarde comme faite.
+LISIMON.
+Et moi aussi.
+ORGON.
+Je ne me sens pas de joie. 
+LISIMON.
+Ni moi non plus.
+ORGON.
+Je veux lui donner un petit divertissement, pour la preparer au bonheur que je lui destine.
+LISIMON.
+Cela est fort bien pense.
+ORGON.
+Pourrons nous avoir des violons, des chanteurs, des danseurs ?
+LISIMON.
+Sans difficulte. J'ai un de mes voisins qui a chez lui un Opera tout entier.
+ORGON.
+A merveille. Voulez-vous prendre sur vous le soin de cette fete ?
+LISIMON.
+Volontiers, et je vais tout preparer pour cet effet.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il donne de lui-meme dans le piege, et je crois que nous le tenons.
+SCENE XIII.
+ORGON.
+Voila une aventure qui me fera rajeunir de plus de vingt ans, et qui me dedommagera pleinement des chagrins que Cleante me cause. S'il s'est marie a sa fantaisie, je me marierai a la mienne, et ni lui, ni personne n'aura lieu de s'en formaliser. Quelle difference de lui a moi ! C'est a mon age qu'il convient de prendre une femme par inclination. Pour sentir un amour raisonnable, il faut etre en etat de juger du merite d'une belle, et un jeune evente en est-il capable ? Il n'y a que nous qui nous y connaissons. Aussi n'y a-t-il que nous qui sachions aimer, et qui puissions aimer legitimement.
+SCENE XIV. Orgon, Toinette.
+ORGON.
+Ah, vous voila, Toinette.
+TOINETTE.
+Qu'y a-t-il donc de nouveau, Monsieur ? Je viens de voir Monsieur Lisimon sortir du logis avec empressement.
+ORGON.
+Je l'ai charge d'une commission, qui va repandre dans toute la maison le plaisir que je sens.
+TOINETTE.
+Effectivement vous avez l'air bien satisfait.
+ORGON.
+On ne peut pas etre plus content que je le suis ?
+TOINETTE.
+Apprenez-moi de grace le sujet de votre joie, afin que je me rejouisse aussi.
+ORGON.
+Cela ne se peut pas. La bienseance veut que j'en instruise votre maitresse avant vous, et c'est ce que je vais faire. Adieu. Vous allez etre toutes deux bien etonnees.
+SCENE XV.
+TOINETTE.
+Ouais ! Quelle nouvelle folie acheve de lui demonter la cervelle ? Il me prend tout a coup un acces de curiosite et d'inquietude. Je ne vois pas trop quelle sera la fin de cette intrigue. Apres tout, quel inconvenient en peut-il arriver ? Monsieur Orgon se met dans la tete que ma maitresse l'aime. Ce n'est pour lui qu'une erreur de plus. Bagatelle... Mais il est amoureux, et ceci est une affaire serieuse... Pourquoi ? C'est sa faute. Ma maitresse ne pretendait lui inspirer que de l'estime, et il a pris de l'amour. Oh, tant pis pour lui. Oui, oui, Monsieur Orgon, tant pis pour vous.
+SCENE XVI. Clarice, Toinette.
+CLARICE.
+He bien, Toinette, que t'a dit Monsieur Orgon ?
+TOINETTE.
+Vous ne l'avez pas rencontre ? Il vient de sortir pour vous aller chercher.
+CLARICE.
+Je ne l'ai point vu. Sais-tu quelle resolution il a prise ?
+TOINETTE.
+Je n'ai pu rien tirer de lui, et il m'a declare positivement, que c'etait a vous, Madame, qu'il reservait le secret qu'il m'a cache.
+CLARICE.
+Par quelle bizarrerie va-t-il s'imaginer que j'ai de l'amour pour lui !
+TOINETTE.
+Que vous importe ? Un mot suffira pour le desabuser.
+CLARICE.
+He, puis-je le desabuser sans me perdre ? Car tu le vois ? Toinette ; ce qu'il sent pour moi est aussi de l'amour.
+TOINETTE.
+Tant mieux. Avec cela un vieillard est bien faible, et vous ferez de lui ce qu'il vous plaira.
+CLARICE.
+Je tremble qu'il ne m'arrive tout le contraire, lorsqu'il connaitra son erreur. Quelle femme s'est jamais vue dans l'embarras ou je me trouve ?
+TOINETTE.
+Je le vois qui entre. Songez a vous. Je sors. Surtout prenez courage.
+SCENE XVII. Orgon, Clarice.
+ORGON.
+VOus me voyez transporte de joie, Mademoiselle, et il ne tient plus qu'a vous de me rendre le plus heureux de tous les hommes.
+CLARICE.
+De quelle maniere, Monsieur, puis-je vous prouver le zele ardent que j'ai pour vous ?
+ORGON.
+Le zele ardent ? Ce n'est pas cela que je vous demande. A quoi bon eluder, comme vous faites, le terme d'amour qui seul peut me satisfaire ? Ne m'avez vous pas dit que vous m'aimiez ?
+CLARICE.
+Je vous l'ai dit sans doute, et je suis prete encore a vous le confirmer. Je vous aime, Monsieur, comme le meilleur ami de ma famille, et de ce que j'ai de plus cher au monde, comme un second pere, et meme comme un protecteur dont l'appui mettrait le comble a ma felicite.
+ORGON.
+Je ne comprends rien a ce que vous me dites. Nous ne nous entendons point, et vous ne repondez pas a mes sentiments. Car enfin je vous adore, et je viens de vous demander en mariage a votre oncle.
+CLARICE.
+Moi, Monsieur !
+ORGON.
+Vous-meme.
+CLARICE, a part.
+O Ciel, quelle nouvelle !
+ORGON.
+Vous n'en etes pas fachee ?
+CLARICE.
+Je suis ravie que vous me trouviez digne de l'attachement d'un honnete homme... Mais...  
+ORGON.
+Achevez.
+CLARICE.
+Se peut-il que vous pensiez a m'epouser ? Ah, Monsieur, renoncez a ce projet. Conservez-moi votre estime. Elle m'est infiniment precieuse. Personne ne vous respecte et ne vous revere plus que moi, si ce n'est peut-etre votre fils, et je reconnais en vous tant de bonte, de douceur et de complaisance, que sans un obstacle invincible je ne balancerais pas a vous donner ma main.
+ORGON.
+Quel est donc cet obstacle ?
+CLARICE.
+Je ne saurais le cacher, et mon coeur ne demande qu'a s'epancher dans votre sein... Vous le dirai-je ? Vous allez me hair. Ce coeur...
+ORGON.
+He bien, Mademoiselle ?
+CLARICE.
+J'en ai dispose, et il n'est plus a moi.
+ORGON.
+Un autre le possede ?
+CLARICE.
+Et le possedera toujours.
+ORGON.
+Sentiments romanesques ! Quand la jeunesse aime une fois, elle croit etre capable d'aimer eternellement. C'est un feu follet qui se dissipera.
+CLARICE.
+Non, mon amour ne s'eteindra jamais. L'estime et la raison l'ont fait naitre, la reconnaissance l'exige, et le devoir le justifie.
+ORGON.
+Le devoir !
+CLARICE.
+L'engagement le plus fort nous attache l'un a l'autre.
+ORGON.
+Une promesse de mariage peut etre ?
+CLARICE.
+Ce n'est pas la le plus fort engagement.
+ORGON.
+Comment donc ! Seriez-vous mariee ?
+CLARICE.
+Moderez votre colere. J'avoue que je la merite ; mais je merite encore plus votre compassion. Si je vous avais connu avant que de former des noeuds qui vous revoltent, ou j'y aurais renonce ou vous les auriez approuvez. Considerez ma triste situation. Les sentiments que j'ai pour vous me forcent de condamner une alliance si chere, et je crains que ceux que vous avez pour moi ne detruisent un bonheur, dont ils auraient ete la source.
+ORGON.
+Je ne puis le nier. La nouvelle de votre mariage m'afflige autant qu'elle me surprend, et j'ai lieu de me plaindre du mystere que l'on m'en a fait.
+CLARICE.
+Mon oncle n'a pu vous en parler. Nous nous sommes unis, mon mari et moi, sans l'aveu de nos parents.
+ORGON.
+En voila bien d'une autre !
+CLARICE.
+Et vous ne devez ma confidence qu'a la confiance extreme que j'ai en vous.
+ORGON.
+Je ne m'etonne plus que vous ayez defendu mon fils avec tant de chaleur.
+CLARICE.
+Nos causes sont pareilles, et j'ai juge des motifs qui l'ont fait agir, par ceux qui m'ont entrainee. Puissiez-vous trouver dans son epouse autant de vertus que j'en ai trouve dans mon epoux ! Car ne pensez pas que son merite exterieur, et les vaines richesses qu'il possede, aient ete capables de m'eblouir. J'aime en lui des dons plus rares et plus precieux, des dons qui doivent me justifier aux yeux de tout le monde, et qui seuls me l'auraient fait preferer a tout autre, comme ils m'ont fait tout sacrifier au bonheur d'etre a lui. Jugez par le prix qu'il me coute, combien il doit m'etre cher. Ah ! Je ne survivrais pas au coup qui nous desunirait. Cependant ce malheur est tout pres de m'accabler, si vous n'avez pitie de moi, et si l'estime, dont vous voulez bien m'honorer, n'est pas un acheminement a la grace que j'attends de votre generosite.
+ORGON.
+Vous m'arrachez des larmes... J'entends a present le titre de protecteur que vous m'avez donne.
+CLARICE.
+C'est en vous seul que j'espere.
+ORGON.
+Vous souhaitez que j'embrasse vos interets aupres de votre oncle ?
+CLARICE.
+Je n'ai point d'autre appui que vous.
+ORGON.
+Oui, oui, je serai le votre. La tendresse que j'ai pour vous ne vous sera pas inutile. Je vais decouvrir votre mariage a votre oncle, et l'engager a l'approuver, pour travailler ensuite de concert a le faire gouter a votre pere.
+CLARICE.
+Que je suis charmee des dispositions ou je vous vois !
+ORGON.
+Le voici justement.
+CLARICE.
+Je vous laisse. Songez, Monsieur, que c'est de vous seul que depend ma felicite.
+SCENE XVIII. Orgon, Lisimon.
+LISIMON.
+VOtre commission est faite, Monsieur Orgon. Les Musiciens vont venir... Mais que vois-je ! Qu'avez-vous ? Vous me paraissez inquiet.
+ORGON.
+Ce n'est pas sans sujet, mon cher ami. Votre niece ne veut absolument point m'epouser.
+LISIMON.
+Cela est extraordinaire.
+ORGON.
+Pas trop. Ce que j'ai a vous apprendre l'est bien davantage.
+LISIMON.
+Qu'est-il donc arrive ?
+ORGON.
+La nouvelle est un peu chagrinante.
+LISIMON.
+Pour vous ?
+ORGON.
+Non, pour vous-meme. Je me figure la peine qu'elle vous sera sur celle que je sens ; car je suis a peu pres dans le meme cas que vous.
+LISIMON.
+Je ne vous entends point.
+ORGON.
+Et je prends autant de part a votre situation que vous en avez pris a la mienne.
+LISIMON.
+Hatez-vous de me tirer d'inquietude.
+ORGON.
+N'avez-vous point quelques soupcons sur votre niece ?
+LISIMON.
+A quelle occasion ?
+ORGON.
+N'a-t-elle pas ete tentee de se marier ?
+LISIMON.
+Vous me demandez cela ! Ce n'est pas a un oncle que les filles confient de pareils secrets.
+ORGON.
+Aussi a-t-elle craint de vous en parler, et c'est moi qu'elle a charge de cette commission.
+LISIMON.
+Ma niece a envie de se marier ?
+ORGON.
+Non, cette fantaisie est passee.
+LISIMON.
+Elle est mariee ?
+ORGON.
+Oui.
+LISIMON.
+Elle vous a fait cette confidence ?
+ORGON.
+Elle m'a assure qu'elle avait epouse un tres honnete homme.
+LISIMON.
+Juste ciel !
+ORGON.
+Ne vous fachez pas, mon ami, votre niece a trop de lumieres et de conduite, pour avoir fait un mariage indigne d'elle.
+LISIMON.
+Vous avez bonne grace en verite a prendre son parti !
+ORGON.
+C'est le moins que je puisse faire pour une personne que j'ai voulu epouser, et c'est un hommage que je rends a son merite. Accordez-lui le pardon que je vous demande pour elle, et joignez-vous a moi pour l'obtenir de son pere.
+LISIMON.
+Vous exigez que je pardonne a ma niece, vous qui ne voulez pas pardonner a votre fils !
+ORGON.
+Il y a bien de la difference. Votre niece n'a pas epouse un homme sans bien.
+LISIMON.
+Cleante n'en a-t-il pas assez pour sa femme et pour lui ?
+ORGON.
+L'amitie vous previent pour mon fils.
+LISIMON.
+Et l'amour vous previent pour ma niece.
+ORGON.
+Oh, voila de nos raisonneurs ! Ils donnent des conseils, et n'en veulent suivre aucun.
+LISIMON.
+La reflexion est juste.
+ORGON.
+Ils condamnent ce que les autres font, et ils font comme eux.
+LISIMON.
+A l'application.
+ORGON.
+Vous ne voulez donc pas m'accorder la grace de votre niece ?
+LISIMON.
+Je ne vous la refuse pas absolument. Mais encore faut-il que vous vous mettiez en etat de l'obtenir.
+ORGON.
+Par quel moyen, je vous prie ?
+LISIMON.
+En pardonnant a Cleante.
+ORGON.
+Vous revenez toujours a votre but.
+LISIMON.
+Il ne m'est pas possible de m'en ecarter.
+ORGON.
+Voila un furieux entetement.
+LISIMON.
+Vous avez beau dire. Je ne puis pardonner a ma niece que vous ne pardonniez a votre fils.
+ORGON, en colere.
+Ce n'est pas la meme chose, encore une fois.
+LISIMON.
+Et moi je vous dis que c'est la meme chose.
+ORGON.
+Quel homme !... Mais parbleu, je ne veux pas en avoir le dementi.
+LISIMON.
+Ou allez-vous donc ?
+ORGON.
+Nous verrons si vous resisterez a ses larmes.
+SCENE XIX. Orgon, Lisimon, Clarice, Toinette.
+ORGON, a Clarice.
+Venez, Madame, joindre vos prieres a mes instances. Et vous, Lisimon, voyez si l'on peut rien refuser a une personne si charmante ?
+LISIMON.
+Vos mesures sont inutiles, et je ne veux pas seulement la voir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XX. Orgon, Clarice, Toinette.
+ORGON.
+Il a perdu l'esprit.
+CLARICE.
+Helas !
+TOINETTE.
+Peut-on pousser si loin l'opiniatrete ?
+CLARICE, a Orgon.
+Il ne me reste donc plus d'esperance ?
+ORGON.
+Votre oncle m'impose des conditions si dures. Vouloir que je pardonne a mon fils!
+CLARICE.
+Mon bonheur vous touche faiblement, si cet obstacle vous arrete.
+ORGON.
+Me croyez-vous capable d'une telle faiblesse ?
+CLARICE.
+En est-ce une que d'etre pere ?
+ORGON.
+Quoi, vous pretendriez...
+CLARICE.
+Vous avez deja eu pour moi tant de bontes. Voulez-vous, par le refus d'une nouvelle grace, me faire soupconner que je ne les meritais pas, et que vous vous en repentez ? Vous avez daigne m'accorder votre estime. Un sentiment plus tendre s'y est joint encore. Ma main ne vous a pas paru indigne de la votre ; et quand je ne puis etre a vous ; vous poussez la generosite jusqu'a me defendre. Mettez le comble a tant de bienfaits, par un bonheur d'autant plus grand que celui de votre fils en sera la source.
+TOINETTE.
+Ah, Monsieur, cela fend le coeur.
+ORGON.
+Vous exigez de moi ce sacrifice !
+CLARICE.
+Tout ce que j'ai de plus cher y est attache.
+ORGON.
+Vous abusez du pouvoir que vous avez sur moi.
+CLARICE.
+Votre fils est pret a venir se jeter a vos genoux.
+ORGON.
+Est-ce que vous l'avez vu ?
+CLARICE.
+Il est ici.
+ORGON.
+Cleante ?
+SCENE XXI. Orgon, Lisimon, Cleante, Clarice, Toinette.
+LISIMON.
+Oui, le voila. Prononcez sur son sort. Mais songez qu'en meme-temps vous prononcerez sur celui de ma niece.
+ORGON.
+Ah, te voila, libertin.
+CLEANTE.
+Calmez votre courroux, mon pere, et daignez m'entendre.
+ORGON.
+Oh, il va nous dire de belles choses !
+LISIMON.
+Patience.
+ORGON.
+Fils denature !
+CLEANTE.
+Je mourrais plutot que de meriter un titre si odieux.
+ORGON.
+Le beau mariage que vous avez fait !
+CLEANTE.
+J'ose me flatter que vous l'excuseriez, si vous le regardiez du meme oeil que celui que vous avez voulu faire.
+ORGON, a Lisimon.
+Il va me donner des conseils.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Avez-vous aussi amene la digne personne que vous avez epousee ?
+CLEANTE.
+Oui, mon pere.
+ORGON.
+Quelle insolence !
+LISIMON.
+Moderez-vous mon cher Orgon.
+ORGON.
+Moderez-vous vous-meme, et laissez parler votre niece. Elle merite mieux que vous d'obtenir ce qu'elle demande. He bien, Madame, serez-vous encore favorable a Cleante, apres la hardiesse qu'il a de se presenter devant moi ?
+CLARICE.
+Sa vue ne fait qu'augmenter l'interet que je prends en lui.
+ORGON.
+Quelle bonte !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et vous ne la remerciez pas, ingrat que vous etes ?
+CLEANTE.
+Madame sait bien que ma reconnaissance ne cede qu'au profond respect que j'ai pour vous.
+ORGON.
+Elle sait cela ? Quel discours !
+LISIMON.
+Soyez sur qu'elle en est aussi persuadee que moi.
+ORGON.
+A l'autre !
+CLARICE.
+Non, Monsieur, je n'en doute nullement.
+ORGON.
+L'excellent petit-coeur ! Allez, Cleante, vous n'etes pas digne de ses bontes ni des miennes... Mais enfin vous le voulez, Madame, et il faut bien vous satisfaire. Oui, si je pardonne a Cleante, ce n'est qu'en votre faveur, et qu'a condition que votre oncle vous pardonne.
+CLEANTE.
+Ah, mon pere ! Ah Clarice !
+ORGON.
+Clarice !
+LISIMON.
+Oui, c'est Clarice que vous voyez.
+TOINETTE.
+Elle-meme.
+ORGON, a Lisimon.
+Votre niece est sa femme!
+LISIMON.
+C'est sa femme, mais ce n'est pas ma niece.
+ORGON.
+Qu'entends-je !
+LISIMON.
+Pardonnez-nous l'innocent stratageme, dont nous nous sommes servis, pour vous faire connaitre le merite de votre belle-fille.
+CLARICE, a Orgon.
+C'est a moi a obtenir la grace de votre fils, et je vous la demande a genoux.
+CLEANTE.
+C'est a vos pieds que je l'attends.
+LISIMON.
+Allons, mon ami, montrez un coeur de pere.
+TOINETTE.
+Allons, Monsieur, laissez-vous flechir.
+ORGON.
+Je suis trompe... Mais on ne peut l'etre plus agreablement. Voila qui est fini ; levez-vous tous les deux. Je vous pardonne, je vous donne mon amitie, et je vous reconnais pour mes enfants.
+CLEANTE.
+Vous me rendez la vie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLARICE.
+Je suis au comble de mes voeux.  
+LISIMON.
+Votre reunion me charme ne songeons qu'a nous rejouir.
+TOINETTE.
+Voila, je crois, le premier homme que l'amour ait rendu raisonnable.
+DIVERTISSEMENT.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La beaute, victime des ans,
+Ne peut imprimer sur les sens
+Que des traits passagers, qui s'effacent comme elle ;
+Mais comment resister a ce charme vainqueur,
+Que pretent aux yeux d'une belle			[5]
+Les dons de l'esprit et du coeur ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est par l'amour par l'estime
+Que sur un couple uni d'un lien legitime
+Le vrai bonheur est dispense.
+Mais s'ils veulent qu'entre eux nul trouble ne s'eleve,			[10]
+Ce que l'amour a commence,
+Il faut que l'estime l'acheve.
+VAUDEVILLE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+	Jeune on raille la vieillesse,
+	Vieux on blame la jeunesse,
+	Tel fronde jeunes et vieux
+	C'est notre usage ordinaire;
+	Mais valons-nous mieux ?
+	C'est une autre affaire.
+
+
+	Mon fils n'a point de cervelle :
+	Le jeu, le vin, une belle
+	Le rendent fou, furieux.  
+	C'est le langage d'un pere.
+	Mais lui vaut-il mieux ?
+	C'est une autre affaire.
+
+
+	Ma fille aime la fleurette ;
+	C'est une langue indiscrete,
+	Un esprit capricieux ;
+	Ainsi s'exprime une mere.
+	Mais vaut elle mieux ?
+	C'est une autre affaire.
+
+
+	Un jeune amant que lutine
+	Une maitresse mutine
+	Est discret et serieux ;
+	Mais a-t-il l'art de se taire,
+	S'il est trop joyeux ?
+	C'est une autre affaire.
+
+
+	Chez la coquette volage
+	Un vieillard par son langage
+	En amant peut s'eriger ;
+	Mais, dans l'ile de Cythere
+	Veut-il voyager ?
+	C'est une autre affaire.
+
+
+	Si dans l'amoureux empire
+	Le coeur seul pouvait suffire
+	Quel serait notre bonheur !
+	Mais un amant qui sait plaire
+	S'en tient-il au coeur ?
+	C'est une autre affaire.
+
+
+	L'auditeur pris par l'oreille
+	Souvent comme une merveille
+	Eleve une piece aux cieux ;
+	Mais l'Imprimeur temeraire
+	L'offre-t-il aux yeux,
+	C'est une autre affaire.  
+
+
+	Des caresses de Silvie
+	Dorimon se glorifie :
+	Il peut en etre cheri;
+	Mais est-il de la commere
+	Le seul favori ?
+	C'est une autre affaire.
+
+
+	Qu'un amant nous sollicite,
+	Et qu'un baiser nous acquitte,
+	Au fond c'est peu que cela.
+	Veut-il un plus doux salaire ?
+	On lui dit, hola
+	C'est une autre affaire.
+
+
+	Cloris aux yeux du grand monde
+	Sait de l'Amour, qu'elle fronde,
+	Repousser tous les complots.
+	Mais cette Prude severe
+	L'est-elle a huis clos ?
+	C'est une autre affaire.
+
+
+	Sur la promesse eternelle
+	De l'ardeur la plus fidele
+	Le mariage est fonde.
+	Mais un serment si vulgaire
+	Est-il bien garde ?
+	C'est une autre affaire.
+
+
+	Le merite au coeur d'Aminte
+	Ne saurait porter d'atteinte ;
+	L'amour meme est en defaut.
+	Mais lorsqu'un millionnaire
+	Lui livre l'assaut,
+	C'est une autre affaire.
+
+
+	Dans un bal la jeune Hortense
+	Berna la tendre eloquence
+	D'un procureur fort subtil.  
+	Il survint un mousquetaire :
+	Qu'en arriva-t-il?
+	C'est une autre affaire.
+
+AU PARTERRE.
+
+	Lorsqu'on a par quelque ouvrage
+	Merite votre suffrage,
+	Qu'on doit etre glorieux!
+	L'auteur pour vous satisfaire,
+	Voudrait faire mieux,
+	Mais c'est-la l'affaire.
+
+			[0]
+
+	==================================================

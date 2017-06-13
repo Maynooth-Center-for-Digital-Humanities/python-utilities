@@ -1,0 +1,597 @@
+********************************************************
+	DC.Title                  = LE CAFE, COMEDIE EN UN ACTE
+	DC.Author                 = ROUSSEAU, Jean-Baptiste
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:25.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/ROUSSEAUJB_CAFE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE CAFE COMEDIE EN UN ACTEM. DC. LXXXXIV.
+par M. Jean-Baptiste ROUSSEAU
+	
+	
+	Representee pour la premiere fois par les comediens francais le 2 fevrier 1694.
+	PREFACE.
+Les comedies d'un acte sont aussi anciennes que le theatre. Celles des Grecs se representaient tout de suite ; et la methode de les partager en cinq actes est une pratique ingenieuse, inconnue aux premiers poetes, et dont l'honneur n'est proprement du qu'a leurs scholiastes. Le chant des choeurs, dont les derniers se sont servis pour marquer le repos de l'action, et qui faisaient une des plus grandes beautes de l'ancienne comedie, n'y fut d'abord conserve que par respect pour l'origine du poeme dramatique, qui, comme tout le monde sait, n'etait autre chose, dans ses commencements, qu'une ou plusieurs chansons rustiques a l'honneur de Bacchus, auxquelles on joignit avec le temps des episodes, qui, en se perfectionnant peu a peu, y introduisirent l'action qui y manquait.
+Nos petites comedies ont commence en France a peu pres de la meme maniere. Ce n'etait d'abord qu'une chanson grossiere, dont quelque acteur enfarine venait regaler le peuple apres la representation d'une piece serieuse. Les Gros-Guillaume, les Jodelet, les Guillot-Gorjus y melerent leurs bouffonneries et il se trouva des auteurs complaisants qui voulurent bien y mettre la main, en les liant par une espece d'action exprimee le plus souvent en petits vers. C'est ce qu'on appelait la farce. L'impression en conserve encore quelques-unes qui, a dire le vrai, meritaient fort peu de nous etre conservees.
+Moliere, que nous pouvons regarder comme le createur de la comedie moderne, s'avisa le premier de faire de ces petites pieces un spectacle digne des honnetes gens, et le grand succes des comedies qu'il fit, en un acte et en trois actes, justifia bientot qu'il ne manquait a celles qu'on avait faites avant lui, que de la noblesse et de la regularite, pour etre d'excellentes pieces de theatre. Car c'est une pure imagination de croire que le temps d'une comedie doive etre determine par autre chose que par le temps de son action; et si on regarde comme une faute de donner vingt quatre heures de duree a une action qui se represente en deux heures et demie, c'en serait une bien plus grande de donner deux heures et demie de representation a une action qui ne doit durer qu'une demi-heure. Il n'est donc pas question de savoir si une comedie d'un acte peut etre parfaite ; il ne s'agit que de distraire celles qui sont parfaites, d'avec celles qui ne le sont pas ; et comme ce qui constitue le poeme n'est autre chose que l'instruction qui en est la fin, et le plaisir qui en est le moyen, on peut dire que ceux en qui ces deux conditions se rencontrent sont des poemes parfaits, et que ceux a qui l'une des deux manque, ne le sont point car il est inutile de parler des poemes a qui elles manquent toutes deux, puisqu'ils ne peuvent jamais rien valoir. Or, il est certain que l'imitation vive et naturelle d'une chose qui merite d'etre imitee, ne saurait manquer de plaire et d'instruire ; et sur ce principe, je ne craindrai point de dire que de petites comedies, comme les Precieuses ou la Comtesse de d'Escarbagnas, et quelques autres qui representent dans un tableau acheve des ridicules dignes de correction, meritent autant de louanges que les plus grandes pieces du meme genre, quoiqu'il y ait peut-etre plus de travail dans celles-ci que dans les premieres.
+J'ai cru devoir cet eclaircissement au public, en faveur de plusieurs pieces auxquelles quelques savants semblent ne refuser la justice qui leur est due, que parce qu'elles n'ont point leurs cinq actes bien comptes. Je n'ai point eu d'autre vue en ecrivant ces reflexions ; et, bien loin d'en vouloir tirer quelque avantage pour moi meme, j'avouerai de bonne foi que si j'avais ete capable de les faire dans l'age ou j'ai compose la petite comedie suivante, j'aurais choisi un sujet plus digne, de l'attention du public. Car quoiqu'elle represente assez naturellement les personnages qui hantaient les cafes de ce temps-la, il est toujours vrai qu'elle peint une chose qui ne merite pas d'etre peinte ; et que quand meme elle n'aurait d'autre defaut, on ne pourrait la ranger tout au plus que dans la seconde classe des petites pieces, puisqu'il ne suffit pas, dans la comedie, de faire rire le public, mais qu'il faut encore, si on peut, le faire rire utilement. C'est tout ce que j'ai a dire de ce petit ouvrage. J'ajouterai seulement qu'en etablissant ici des regles qui sont plus anciennes que moi, je n'ai pas pretendu oter a toutes les pieces qui n'instruisent point le merite de leur agrement et de leur vivacite. Ce serait faire un trop grand tort a quantite de bonnes comedies anciennes et modernes. Ce que je veux dire, c'est que pour les rendre absolument parfaites il serait a souhaiter qu'elles fussent aussi utiles qu'agreables ; et qu'en faisant rire leurs lecteurs, elles eussent encore l'avantage de leur apprendre quelque
+chose qui fut digne de leur etre appris.
+Ergo, non satis est diducere rictum
+Auditoris ; et est in hoc quoedam quoque virtus.
+
+PERSONNAGES
+MADAME JEROME, marchande de cafe.
+LOUISON, sa fille.
+DORANTE, amant de Louison.
+MONSIEUR JOBELIN, notaire.
+LA SOURDIERE, ami de Monsieur Jobelin.
+LE CHEVALIER, ami de Dorante.
+CORONIS, gascon, ami de Dorante.
+L'ABBE, ami de Dorante.
+CARONDAS, poete.
+LA FLECHE, valet de Dorante..
+PREMIER JOUEUR de dames.
+SECOND JOUEUR de dames.
+
+
+
+
+			
+
+
+SCENE PREMIERE. La Sourdiere, Coronis, Carondas, L'Abbe, Deux Joueurs.
+Le theatre represente une salle de cafe, meublee de plusieurs tables. Le Poete parait revant d'un cote aupres de deux joueurs de dames. L'Abbe dort dans le fond ; et de l'autre cote, Coronis et La Sourdiere disputent ensemble assis, en prenant leur cafe.
+LA SOURDIERE.
+Oh parbleu ! Je vous soutiens que si.
+CORONIS.
+Et moi, mordi, je vous soutiens que non et je mets cent pistoles que nous n'aurons rien cette annee en Hongrie.
+LA SOURDIERE.
+Vous me feriez enrager, monsieur Coronis. Vous voulez savoir cela mieux que moi qui vois tous les jours aux Tuileries un homme qui recoit toutes les semaines la gazette de Constantinople.
+CORONIS.
+Quand ce serait celle de Babylone.
+LA SOURDIERE.
+C'est etre bien tetu. Et moi, je vous dis que je vis hier, entre ses mains, une lettre de l'aumonier d'un des principaux bachas, qui marque expressement que le grand vizir est en marche avec deux cent mille hommes, et qu'il va droit a Belgrade, pour l'assieger par terre et par mer.
+CORONIS.
+Belgrade par mer et par terre ! Ou avez-vous appris la geographie, s'il vous plait ?
+LA SOURDIERE.
+Comment, Belgrade n'est pas un port de mer ?
+CORONIS.
+Non pas, que je sache ou bien c'est depuis fort peu de temps.
+LA SOURDIERE.
+Morbleu, je sais la carte, et j'ai voyage. Je parie que monsieur Carondas sera de mon avis. Monsieur, hola ! Monsieur Carondas, reveillez-vous.
+CARONDAS.
+Ah morbleu ! Que la peste soit de votre babil ! Est-il possible qu'on ne puisse faire ici quatre vers en repos, et que les plus belles pensees du monde y soient sans cesse immolees a la petulante loquacite du premier importun !
+CORONIS.
+Quoi ! Vous faites des vers au cafe ? Voila un plaisant Parnasse !
+CARONDAS.
+Je revois a l'epithalame de monsieur Jobelin le notaire et de la fille du logis. Ils attendent qu'elle soit faite pour se marier ; et j'ai bien voulu y donner un de ces quarts d'heure precieux que j'emploie a chanter les louanges des dieux et des heros.
+CORONIS.
+Comment ! La petite Louison se marie ! Et que deviendra le pauvre Dorante ?
+LA SOURDIERE.
+Il prendra la peine de s'en passer. Monsieur Jobelin est mon ancien ami, et je dois prendre part a tout ce qui regarde ce mariage. Monsieur Carondas, peut-on voir votre epithatame ?
+CARONDAS.
+Je n'en ai fait encore que la premiere strophe. La voici :
+Hymen io, o Hymenee!
+Celebrons la douce journee,
+Ou deux amants heureux s'unissent pour toujours.
+Venez, tendres Amours, combler la destinee
+De cette epouse fortunee.			[5]
+Que de ses flancs feconds, puisse dans peu de jours
+Sortir une heureuse lignee1
+Hymen io o Hymenee
+LA SOURDIERE.
+Diable, voila du sublime, et cela s'appelle un debut magnifique.
+CORONIS.
+Et tres avantageux pour le futur epoux.
+CARONDAS.
+Vous verrez bien autre chose, si je puis obtenir des libraires qu'ils impriment mon incomparable traduction de la Batrachomyomachie d'Homere, car j'excelle dans les traductions des anciens auteurs, et je travaille actuellement a mettre en vers grecs l'Eneide de Virgile, pour la commodite de ceux qui n'entendent point la langue latine. Mais laissez-moi songer a ma seconde strophe.
+LA SOURDIERE.
+C'est bien dit ; aussi bien notre cafe refroidit.
+CARONDAS.
+Du flambeau de l'hymen.
+LE PREMIER JOUEUR DE DAMES.
+Je vous souffle.
+LE SECOND JOUEUR.
+Attendez, monsieur, ce n'est pas cela ; vous derangez le jeu.
+LE PREMIER JOUEUR.
+Pardonnez-moi. J'ai joue la vous avez jouez ici ; je vous ai donne a prendre ; vous avez mis dans le coin ; et je vous souffle.
+LE SECOND JOUEUR.
+Ah ventrebleu ! On n'a jamais joue du malheur dont je joue.
+CARONDAS.
+Eh quoi toujours du bruit ?
+SCENE II. Le Chevalier, Coronis, La Sourdiere, L'Abbe, Carondas, Les Joueurs.
+LE CHEVALIER entre en chantant et dansant.
+La, la, la, la, ra, re. Allons he du cafe.
+CARONDAS.
+Encore, de tous cotes ?
+LE CHEVALIER chante.
+Que chacun me suive.			[10]
+Trinquons hardiment,
+Point de menagement;
+Je ne bois jamais autrement.
+Je hais un convive
+Qui dans un repas			[15]
+Ne boit que par compas,
+Et craindrait de faire un faux pas.
+Que chacun me suive.
+Trinquons hardiment,
+Point de menagement;			[20]
+Je ne bois jamais autrement.
+CARONDAS.
+Ah ! Je n'y puis plus tenir. Sortons, fuyons : ultra sauromatas hinc libet.
+LE CHEVALIER.
+Adieu donc, monsieur Carondas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Bonjour, mon ami.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh, te voila, vieux pecheur !
+L'ABBE, se reveillant et baillant tout haut.
+Ahi ! Ouf !
+LE CHEVALIER.
+Ah parbleu ! Petit Abbe, mon mignon, je ne vous voyais pas. Comment te portes-tu ?
+L'ABBE.
+Quelle heure est-il ?
+LE CHEVALIER, brouillant le jeu.
+Ah! Ah ! Messieurs, vous jouez aux dames.
+LE PREMIER JOUEUR.
+Morbleu, monsieur, cela ne se fait point ; vous avez tort. Attendez, Monsieur, j'avais gagne. Vous me devez une tasse de cafe au moins.
+LE SECOND JOUEUR.
+Oui ! Tarare.
+SCENE III. L'Abbe, Le Chavalier, Coronis, La Sourdiere.
+L'ABBE.
+Dites-moi un peu, jeunes gens, Dorante n'est-il point venu ici pendant que je dormais ? En cas qu'il vienne, je vous prie monsieur Coronis, de lui dire que je me suis informe de son monsieur Jobelin, et que je suis instruit a fond de tout ce qui regarde cet homme-la.
+LA SOURDIERE, a part.
+Oh, oh ! voici bien d'autres affaires. Malepeste ! Ceci ne vaut pas le diable. Allons l'avertir de ce qui se passe.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'ABBE.
+Pour moi j'ai rendez-vous chez Forel. Il est tard, et j'ai peur qu'on ne soupe sans moi. Je n'ai point dine.
+CORONIS.
+Comment, monsieur l'Abbe, a dix heures du soir n'avoir point dine, et etre ivre! Quelle benediction !
+L'ABBE.
+Je me suis mis a table ce matin entre sept et huit, et nous avons dejeune jusqu'a l'heure qu'il est.
+LE CHEVALIER.
+Voila un pauvre garcon qui me fait pitie.
+L'ABBE.
+Nous n'avons bu qu'environ vingt-cinq bouteilles de vin a quatre. J'ai fait un petit somme ; me voila pret a	recommencer.
+CORONIS.
+Quel heureux naturel ! Quel temperament !
+L'ABBE.
+Pour vingt-cinq bouteilles s'enivrer ! Quelle honte est-ce la? Il n'y a plus d'hommes, mes amis, et le monde va toujours en declinant. Je soutiens encore un peu noblesse ; mais je m'en irai comme les autres. Bonsoir, messieurs, je m'en vais boire a votre sante.
+SCENE IV. Coronis, Le Chavalier, Dorante.
+LE CHEVALIER.
+Ou diable trouverons-nous Dorante ?
+CORONIS.
+Eh donc ! Le voici, Dieu me damne ! D'ou viens tu, grand belitre ? L'Abbe te cherchait tout a l'heure; il a des 'nouvelles a t'apprendre.
+DORANTE.
+Ou est-il alle ?
+CORONIS.
+Il vient de sortir. Tu le trouveras chez Forel.
+DORANTE.
+Il faut necessairement que je lui parle ce soir.
+LE CHEVALIER.
+Qu'est-ce, mon ami; on dit que tu n'epouses plus en ce pays-ci ?
+DORANTE.
+Ma foi, cela m'intrigue un peu, franchement.
+CORONIS.
+Comment tu serais amoureux ? Oh le fat !
+DORANTE.
+Amoureux ou non, je t'assure que la petite personne est fort aimable; et, sa beaute a part, elle a vingt mille ecus. Cela ne messierait point a un cadet qui n'a que la cape et l'epee.
+LE CHEVALIER.
+Tu n'es pas riche, nous le savons; mais un gentilhomme se noyer dans une chocolatiere ! Il y a de la folie, ma foi ; il y a de la folie.
+DORANTE.
+De la folie ! Va, va, mon pauvre Chevalier, l'interet a rapproche les conditions, et nous voyons bien des gentilshommes qui vivraient en roturiers, s'ils n'avaient epouse des roturieres.
+CORONIS.
+Sans doute ; et la delicatesse sur les mesalliances ne subsiste plus que chez les Allemands.
+DORANTE.
+Au bout du compte, qu'est-ce que je risque ? Je suis gentilhomme et gueux : elle est roturiere et riche ; j'aurai de l'argent pour ma noblesse la compensation ne m'est pas desavantageuse; Vous etes tous deux mes amis. Je ne desespere pas encore, et si vous voulez me seconder, avant qu'il soit peu nous ferons bien tourner la chance.
+LE CHEVALIER.
+Oui-da ! De quoi s'agit-il ? Tu sais que je suis a toi, a vendre et a engager.
+CORONIS.
+Tu sais combien je t'aime, et avec quelle fidelite nous avons toujours partage les emoluments du lansquenet.
+DORANTE.
+Voici ce que je veux faire. Vous savez que notre notaire est joueur, et que la confiance qu'il a en son habilete, fait qu'il s'embarque le plus aisement du monde. Or, j'ai un valet, qui assurement est un des plus adroits fripons qu'il y ait a vingt lieues a la ronde. J'ai concerte avec lui qu'il engagerait mon homme au jeu, et que pendant que vous amuseriez ce vieux renard de La Sourdiere qui ne le quitte jamais. Mais voici mon valet.
+SCENE V. La Fleche, Dorante, Le Chevalier, Coronis.
+LA FLECHE.
+Monsieur, je n'ai pu trouver votre gros Abbe ; et si, j'ai ete dans tous les cabarets de la ville.
+DORANTE.
+Je sais ou il est ; il suffit. Va-t'en etudier ton personnage, et reviens quand il sera temps.
+LA FLECHE.
+Etudier, dites-vous ? Vraiment, voila bien de quoi, et j'en ai bien fait d'autres il n'y a que huit jours que j'ai l'honneur de vous servir ; mais quand nous nous connaitrons mieux, vous verrez qu'en fait de fourberie, personne, Dieu merci, n'est capable de me faire la lecon. S'agit-il de deniaiser quelque etranger nouvellement debarque de faire mordre un jeune homme a l'hamecon d'une coquette, ou de maquignonner un mariage impromptu c'est moi qu'on vient chercher j'excelle je triomphe. Mais surtout pour enfiler une dupe a quelque jeu que ce soit, et lui, tirer par cent moyens ingenieux tout l'argent de sa bourse, je suis le garcon de France le plus en reputation.
+LE CHEVALIER.
+Vertubleu voila un joli garcon.
+DORANTE.
+Dis-moi ! N'es-tu jamais venu ici ?
+LA FLECHE.
+Oh vraiment, monsieur, pardonnez-moi. J'ai ete autrefois un des principaux marguilliers du cafe et j'avais droit de seance a ce banc redoutable, d'ou il part tous les jours tant d'arrets contre la reputation des femmes ; ou les mysteres du gouvernement sont si bien developpes et les interets des princes de l'Europe si savamment approfondis. Vous moquez-vous ? Je suis plus connu dans les cafes que Pilot-Bouffi dans les cabarets.
+CORONIS.
+Je gagerais, a l'entendre, qu'il est de quelque province au-dela de la Loire. Il n'est pas permis d'avoir	tant d'esprit autrement.
+LA FLECHE.
+Je suis de Dauphine, a vous rendre mes services.
+CORONIS.
+Malepeste ! Joli pays. De l'argent peu, a la verite mais de l'esprit, beaucoup. C'est l'apanage de la nation.
+DORANTE.
+Mais on te reconnaitra.
+LA FLECHE.
+Point du tout, monsieur; c'est mon fort que le deguisement, et je suis un petit Protee. Est-il question de representer un partisan par exemple ; j'ai des secrets pour me noircir la barbe, epaissir ma taille, me rendre l'oeil hagard et grossir mon ton de voix. Faut-il faire un jeune abbe ; qui sait mieux que moi rapetisser sa bouche, rire des epaules, marmoter une chanson, faire la main potelee, prendre un visage gai et un ton radouci ? Par cent petites metamorphoses de cette nature, j'avais amasse quelque argent, et je serais a mon aise, sans un revers de fortune qui m'a coule a fond.
+DORANTE.
+Comment, un revers de fortune ?
+LA FLECHE.
+Oui : un fils de famille, a qui j'avais gagne un soir mille ecus au jeu s'avisa d eplucher ma conduite dans un proces qu'il me fit ; la justice donna une mauvaise tournure a la chose, et cela m'a ruine. J'ai ete oblige de revenir a la livree.
+DORANTE.
+Fort bien. Mais voici monsieur Jobelin ; retire-toi, et va te preparer.
+SCENE VI. Monsieur Jobelin, Le Chavalier, Coronis, Dorante.
+MONSIEUR JOBELIN, a part.
+Il me semble que je suis assez propre, et qu'en cet etat je puis aller faire le galant aupres d'une maitresse.
+LE CHEVALIER, a Dorante.
+Comme le voila beau ! Il vient ici pour coqueter. Oh parbleu, il faut que je derange l'economie de sa parure. Bonsoir, monsieur Jobelin. Vous ne faites pas semblant de nous voir !
+JOBELIN.
+Serviteur, je n'ai pas le temps de m'amuser.
+LE CHEVALIER, en l'amusant de son galimatias, lui chiffonne son rabat, le deboutonne, et le met en desordre.
+Eh que diable ! Ne saurait-on vous dire un mot ? Je suis bien aise de vous faire compliment sur vos noces ; car enfin il serait fort extraordinaire que dans un cafe il ne se trouvat pas une fille dont l'esprit put entrer en concurrence, pour la preference... de votre indifference. Vous me direz que quand il s'agit de se marier, il y a peu de conformite entre le douaire de votre affection et le preciput de vos sentiments ; mais aussi vous m'avouerez que quand on veut se retirer dans son menage, la comedie, le bal et les promenades sont des choses qui divertissent beaucoup. Pour ce qui est de l'opera, comme je vous dis, je n'aime guere a aller aux Tuileries mais a cela pres, je trouve, tout compte, tout rabattu, que c'est fort bien fait a vous de vous marier.
+JOBELIN.
+Que diantre me dit-il la ? J'ecoute de toutes mes oreilles, et je n'y comprends rien.
+LE CHEVALIER.
+Mais, a propos de tapisserie, on est quelquefois bien aise de se mettre dans ses meubles. Par exemple, voila une tabatiere qui est assez jolie mais si vous aviez vu les brocatelles de Venise, c'est tout autre chose. Je ne dis pas que Launay ne soit le premier homme que nous ayons en fait de vaisselle ; quoiqu'a le bien prendre, la manufacture des Gobelins ne laisse pas d'avoir son merite. Mais apres tout, depuis que les toiles des Indes sont defendues, je suis pour les bureaux de la Chine.
+JOBELIN.
+Quel coq-a-l'ane est ceci ? Mais a quoi est-ce que je m'amuse ?
+SCENE VII. Louison, Dorante, Le Chavalier, Coronis, Jobelin.
+JOBELIN.
+Voici ma maitresse ; il faut la saluer. Mademoiselle...
+LOUISON, et les autres.
+Ah, ah, ah, ah, ah, ah!
+JOBELIN.
+Qu'est-ce donc que vous avez a rire ? Mais que vois-je ? Comme me voila debraille ! Ah ! J'enrage de paraitre comme cela.  Morbleu, messieurs, je vous enverrai au diable avec vos sottises.
+DORANTE.
+Laissez-moi seul, mes amis. Je vais vous joindre chez Principe et nous acheverons la de regler nos affaires.
+SCENE VIII. Dorante, Louison.
+DORANTE.
+He bien, Louison, vous allez etre mariee ; je perds toute esperance d'etre a vous et vous avez consenti a un mariage qui me fera mourir.
+LOUISON.
+Mon Dieu ! Pourquoi-me querellez-vous est-ce ma faute a moi ? Ma mere m'a menacee de me renvoyer dans le couvent, si je n'epousais monsieur Jobelin. Je serais bien aise d'etre mariee avec vous ; mais je ne veux point retourner au couvent.
+DORANTE.
+Quoi ! Vous verrez vos attraits en proie a un homme haissable, et qui n'en connaitra jamais le prix ; et moi, il faudra me resoudre a vous perdre, a ne vous jamais voir ? Ah Louison, je le vois bien, vous ne m'aimez plus.
+LOUISON.
+Allez, allez, laissez faire ma mere, puisqu'elle veut que je me marie. Quand je ne serai plus sous sa conduite, nous nous verrons, et nous nous aimerons tant qu'il vous plaira.
+DORANTE.
+Non, ce n'est pas la de quoi me contenter : et je ne saurais souffrir que votre personne et votre coeur soient partages. Consentiriez-vous que je fisse en sorte d'empecher votre mariage ?
+LOUISON.
+Oui, pourvu que ma mere ne sut pas que je vous l'ai conseille, car elle me querellerait bien fort.
+DORANTE.
+Elle n'en saura rien. Aimez-moi toujours ; c'est tout ce que ma tendresse exige de vous.
+LOUISON.
+Voyez-vous, elle m'a toujours tenue dans la dependance, et elle ne veut pas seulement que je parle aux messieurs qui viennent ici, parce qu'elle dit que leurs discours font venir l'esprit aux filles. Elle ne veut pas que j'en aie.
+DORANTE.
+Mais, Louison, si ce que je medite allait manquer, que feriez-vous ?
+LOUISON.
+Ce que je ferais ? Dame, je vous l'ai deja dit ; je ne veux point retourner au couvent. Ah, voila ma mere. Ne lui dites pas que je vous aime, au moins !
+DORANTE.
+Je vais rassembler les gens dont j'ai besoin pour mon entreprise.
+SCENE IX. Madame Jerome, Louison.
+MADAME JEROME.
+Qu'est-ce donc, petite fille, vous parlez a des hommes quand je n'y suis pas ?
+LOUISON.
+Je vous demande pardon, ma mere ; c'est lui qui me parlait.
+MADAME JEROME.
+Monsieur Jobelin est-il ici ?
+LOUISON.
+Oui. Il m'a pense faire mourir de rire, de la figure dont il etait bati. Apparemment, il est alle se raccommoder et, Dieu merci, il ne m'a point parle.
+MADAME JEROME.
+Qu'est-ce a dire ? Est-ce ainsi qu'il faut parler d'un homme que vous allez epouser ? Il faut dire Ma mere il ne m'a point parle j'en suis bien fachee.
+LOUISON.
+Moi, fachee de cela ? Je n'aime point a mentir.
+MADAME JEROME.
+Ouais ! Qu'est-ce que tout ceci ? Vous ne l'aimez donc pas, a ce que je vois ?
+LOUISON.
+Moi ma mere ? Helas ! Non.
+MADAME JEROME.
+Non ? 
+LOUISON.
+Non. Vous m'avez dit qu'il ne fallait point qu'une fille aimat les hommes ; je fais ce que vous m'avez dit.
+MADAME JEROME.
+Mais il faut aimer celui-la, puisqu'il sera votre mari.
+LOUISON.
+C'est donc une necessite qu'il faille aimer son mari ? Si cela est, donnez-m'en un autre, je vous prie.
+MADAME JEROME.
+Comment dites-vous ? Ah, ah ! Petite impertinente, vous etes entetee, a ce que je vois ; et quelque colifichet blondin vous aura donne dans la vue. N'est-ce point Narcisse, ce petit fat, qui depuis le matin jusqu'au soir se fait l'amour a lui-meme ; qui passe toute la journee a se mirer dans sa perruque, ajuster sa steinkerque, et se faire les yeux doux dans un miroir ?
+LOUISON.
+Oh si ! Ma mere, j'aimerais autant aimer une femme.
+MADAME JEROME.
+Je parie que c'est ce jeune conseiller qui vient ici tous les soirs en epee et en chapeau borde ?
+LOUISON.
+Qui ? Ce bourgeois qui se croit de qualite, parce qu'il s'enivre avec ceux qui en sont ? Mon Dieu ! Il a mille defauts que je ne saurais souffrir.
+MADAME JEROME.
+Si bien donc que c'est Dorante qui vous tient au coeur ?
+LOUISON.
+Dorante ?
+MADAME JEROME.
+Eh bien Dorante ? Vous ne lui trouvez point de defaut a celui-la ?
+LOUISON.
+Helas ! Pourquoi lui en trouverais-je ?
+MADAME JEROME.
+Je ne m'embarrasse pas que vous lui en trouviez. Je sais qu'il est assez honnete homme ; mais Monsieur Jobelin a une bonne charge par devers lui, et c'est mieux votre fait qu'un jeune homme qui n'a rien que son esprit et sa bonne mine. En un mot, c'est lui que je veux qui soit votre epoux. Le voici qu'on lui fasse civilite, et qu'on reponde comme il faut a tout ce qu'il dira.
+SCENE X. Monsieur Jobelin, Madame Jerome, Louison.
+MADAME JEROME.
+Monsieur, voila ma fille, qui est ravie de vous voir, et qui se dispose le plus agreablement du monde a vous epouser.
+LOUISON.
+Oui, voila un beau magot, pour etre ravie de l'epouser !
+JOBELIN.
+Mademoiselle, tout ainsi qu'es-pays coutumiers, le vassal est tenu de preter serment de foi et d'hommage-lige entre les mains de son seigneur feodal, avant qu'entrer en possession des terres acquises dans sa mouvance ; de meme viens-je en qualite de votre vassal indigne, vous promettre foi et loyaute perpetuelle, avant qu'entrer en possession du fief seigneurial de vos beautes, a moi acquis par la cession de madame votre mere, et le contrat qui sera incessamment passe par-devant les notaires au Chatelet de Paris.
+MADAME JEROME.
+Allons, petite fille, repondez.
+LOUISON.
+Moi, je ne sais ce qu'il me veut dire ; qu'il se reponde lui-meme, s'il s'entend.
+MADAME JEROME.
+Impertinente ! Elle dit, monsieur, qu'elle vous est fort obligee, et que le don de votre coeur lui est extremement cher.
+JOBELIN.
+Mon coeur, mademoiselle, est un immeuble qui vous appartient, et sur lequel vous avez hypotheque, depuis que j'ai eu l'honneur de vous voir.
+MADAME JEROME.
+Eh bien vous voila muette ?
+LOUISON.
+J'ai bien affaire a son hypotheque ! Je n'en bois jamais.
+MADAME JEROME.
+Ah! monsieur, il faut l'excuser si elle ne repond pas aux choses que vous dites ; elle est un peu honteuse. Le mariage l'enhardira ; et demain a l'heure qu'il vous plaira nous ferons dresser le contrat. Allons, petite fille.  Monsieur, je vous donne le bonsoir.
+JOBELIN, apres avoir salue Louison, qui detourne la tete.
+Voila ! Les affaires en bon train. La mere prevenue, la fille charmee de moi, le mariage pret a se conclure, et vingt mille ecus qui vont me sauter au collet. Oh parbleu je ne craindrai plus la persecution de mes creanciers, et j'aurai enfin de quoi payer ma charge. Ma foi, les habiles gens se tirent toujours d'intrigue, et l'esprit est le vrai passe-partout de la fortune.
+SCENE XI. La Sourdiere, Jobelin.
+LA SOURDIERE.
+Ah ! Vous voila, a la fin ; il y a deux heures que je vous cherche.
+JOBELIN.
+Ah ! Serviteur je suis bien aise de vous rencontrer.
+LA SOURDIERE.
+J'ai bien des choses a vous dire.
+JOBELIN.
+J'ai de bonnes nouvelles a vous apprendre.
+LA SOURDIERE.
+La mine est eventee, et Dorante est instruit de toutes vos affaires.
+JOBELIN.
+La becasse est bridee, et demain le mariage doit etre conclu.
+LA SOURDIERE.
+Je vous dis encore une fois de prendre garde a vous, et qu'on songe a vous jouer un mauvais tour.
+JOBELIN.
+Un mauvais tour, a moi ? Et qui cela, s'il vous plait ?
+LA SOURDIERE.
+Dorante.
+JOBELIN.
+Dorante ? Ah parbleu c'est bien d'un novice comme lui que je m'embarrasse. Allez, allez, Monsieur de La Sourdiere, nous sommes un peu Grecs ; et on ne prend pas des chats comme nous sans mitaines. J'ai mis ordre a tout ; ayez l'esprit en repos.
+LA SOURDIERE.
+Vous me faites mourir, avec votre confiance imprudente, et... Mais quelle figure est ceci ?
+SCENE XII. Jobelin, La Sourdiere, La Fleche deguise et contrefaisant l'ivre.
+LA FLECHE, a part.
+Voici mes gens. Jouons bien notre role, et faisons les donner dans le panneau.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Messieurs, serviteur. J'interromps votre conversation, peut-etre : mais tout coup vaille. On m'a dit que vous etiez Monsieur Jobelin. Est-il vrai ?
+JOBELIN.
+Oui, c'est moi. Que me veut cet ivrogne-la ?
+LA FLECHE.
+Je vous en sais bon gre car j'ai besoin de vous. Je vous ai tantot ete chercher dans votre etude ; mais comme vous n'y etiez pas, je ne vous y ai point trouve, et je suis alle de la a l'Alliance, prendre un peu de nourriture, moderement pourtant.
+JOBELIN.
+Je le vois bien.
+LA FLECHE.
+La moderation est une belle chose !
+JOBELIN.
+De quoi s'agit-il ? 
+LA FLECHE.
+Attendez, que je rappelle mes idees. Ah ! m'y voici. Je voudrais que vous me fissiez un petit plaisir. Je vous demande pardon monsieur, si je parle de mes affaires devant vous. Vous le voulez bien ?
+LA SOURDIERE.
+Ah ! Monsieur, de tout mon coeur.
+LA FLECHE.
+De tout mon coeur fort bien. Vous etes un brave homme. Or, comme vous savez, ou comme vous ne savez pas, je suis capitaine dans le regiment de Limoges.
+JOBELIN.
+Vous etes capitaine ? Et que faites-vous a Paris, pendant que tout le monde est en campagne ?
+LA FLECHE.
+J'y suis venu pour faire une recrue ; et en attendant, je passe le temps au cabaret a faire mes observations sur la guerre presente.
+JOBELIN.
+Voila des observations d'un grand secours a la republique !
+LA FLECHE.
+D'un grand secours ? Je me donne au diable, si j'etais general d'armee et qu'on me laissat faire, j'ai un plan dans ma tete pour conquerir toute l'Europe en une campagne. Ecoutez bien ce raisonnement-ci. Je voudrais avoir deux armees, l'une au midi, et l'autre au septentrion. Avec celle-ci, je marche en Allemagne et je commence par m'emparer de toutes les vignes qui bordent le Rhin. Les Allemands n'ayant plus de vin. Il faut qu'ils crevent ; la mortalite se met dans leur armee, et par consequent, me voila maitre de tout ce pays-la. J'y fais rafraichir mes troupes, et de la je passe en Hollande. Allons, me voila en Hollande ; qui m'aime me suive. Je vais d'abord... Attendez je crois que nous ferions mieux de conquerir auparavant la Turquie. Qu'en croyez-vous ? Oui, c'est bien dit. Allons, enfants, ne nous rebutons point nous arriverons bientot. Nous voici deja dans la Grece. Ah, le beau pays ! Dieu sait comme nous allons souffler de ce bon vin grec ! Mais messieurs ne vous enivrez pas, au moins. Tudieu ! nous avons besoin de notre cervelle. Buvons seulement chacun notre bouteille, en chantant une petite chanson.
+Et brin, bron, brac,
+Donnez-moi du tabac, la relera, etc.
+JOBELIN.
+Voila un pauvre diable qui est bien ivre !
+LA SOURDIERE.
+Prenez haleine, monsieur, vous avez fait une assez belle campagne.
+JOBELIN.
+Oui, mais voila bien du pays battu et pour faire tout ce chemin-la, il faudrait donner des chevaux de poste a toute votre armee. Revenons a votre affaire s'il vous plait. Que souhaitez-vous de moi ?
+LA FLECHE.
+Je m'en vais vous le dire. J'ai quinze hommes a refaire a ma compagnie, avant de retourner a notre garnison ; et comme je n'ai point d'argent, voila un diamant de cinq cents ecus, que je vous prie de me faire mettre en gage pour deux ou trois cents pistoles.
+JOBELIN.
+Pour deux ou trois cents pistoles ! Vous voulez dire deux ou trois cents ecus ?
+LA FLECHE.
+Eh oui, quelque chose comme cela.
+JOBELIN, a part.
+Peste voila un fort beau diamant. Ce serait un vrai present a faire a ma maitresse. Tachons d'empaumer cet ivrogne-la. Monsieur, vous ne trouverez guere que quatre cents francs la-dessus.
+LA FLECHE.
+Quatre cents francs ? J'aimerais mieux que le diamant fut au fin fond de la mer Mediterranee. Allons, je m'en vais te jouer au piquet pour cent pistoles contre le premier venu. Je n'aime point a lanterner, moi.
+JOBELIN, a part.
+Parbleu ! Il ne faut point manquer l'occasion ; il est soul comme une grive, embarquons-le dans le jeu. Monsieur, si vous etes homme a jouer, je ferai votre affaire.
+LA FLECHE.
+Oui ? Parbleu ! J'aime les gens d'accommodement ; touchez la. Je veux vous procurer la pratique du regiment, pour tous les contrats de mariage et d'acquisition de rente que feront nos officiers.
+JOBELIN.
+Je vous remercie. Je crois que les acquisitions aussi bien que les mariages de ces messieurs-la se font aisement sans contrat.
+LA FLECHE.
+Allons-nous-en la-dedans boire une bouteille de persicot.
+JOBELIN.
+Volontiers.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je tiens l'ane par la bride, et le diamant est bien aventure.
+LA FLECHE, a part.
+Le poisson est dans la nasse, et nous allons voir beau jeu. Allons, mon ami lara, lera, lera.
+LA SOURDIERE.
+Il faut que je conduise ceci de l'oeil. Je serai bien aise de lui aider a gagner le diamant, afin d'etre de moitie.
+SCENE XIII. Le Chevalier, Coronis, La Sourdiere.
+LE CHEVALIER et CORONIS.
+Ah, ah, ah, ah, ah, ah !
+LE CHEVALIER.
+Parbleu, cela est trop plaisant, ah, ah, ah! He, bonsoir, La Sourdiere, ou vas-tu ?
+LA SOURDIERE.
+Laisse-moi aller, j'ai affaire.
+LE CHEVALIER.
+Je suis ton serviteur. Tu ne t'en iras pas que je ne t'aie conte ce qui vient de nous arriver; cela merite bien ton attention. Nous etions chez Principe.
+LA SOURDIERE.
+Je n'ai pas le temps de t'entendre.
+CORONIS.
+Oh ! Cadedis, vous nous ecouterez, ou nous aurons du bruit.
+LE CHEVALIER.
+Un de nos amis, qui se desennuyait a casser des vitres et des lanternes dans la rue Saint-Honore, a ete poursuivi par une compagnie du guet a pied. Les archers ont passe par devant la boutique. Nous les avons arretes en leur presentant du rossolis et de l'eau-de-vie. Ils y ont pris gout ; et pendant qu'ils buvaient, nous leur avons escamote leurs armes. Ils s'en sont apercus ; recours a la rasade. Ils ont voulu se facher, autre rasade si bien que de rasade en rasade, nous les avons tellement enivres, qu'ils ont pris querelle ensemble, et se sont donne je ne sais combien de coups de poing. Le sergent, plus ivre qu'eux, les a tous menes au Chatelet, comme perturbateurs du repos public. Ne trouves-tu pas cela plaisant?
+LA SOURDIERE.
+Oui, fort plaisant. Vous jouez a vous faire de jolies affaires. Boire le jour, courir la nuit, casser des vitres, arracher des enseignes enivrer le guet : voila le secret d'attraper un jour quelques bons coups de mousquet sur les oreilles.
+LE CHEVALIER.
+Oh ! vous voila, monsieur le Caton, qui parlez par sentences. Parbleu, vous ne le prenez pas mal. Sais-tu bien qu'il n y a rien de meilleur pour la sante, que de berner de temps en temps les gens qui nous deplaisent ? Demande aux medecins cela eclaircit les humeurs, cela rafraichit le sang, et cela aide a la digestion.
+CORONIS.
+Sans doute. Comment, mordi des coquins s'erigeront en perturbateurs des divertissements de tune, et nous ne reformerions pas cet abus ?
+LA SOURDIERE.
+Ma foi, ce sont vos affaires. Serviteur.
+LE CHEVALIER.
+Que diantre, tu es bien presse! Parlons un peu d'affaires. As-tu vu le nouvel opera ?
+LA SOURDIERE.
+Non, et n'ai nulle envie de le voir.
+LE CHEVALIER.
+Et toi, l'as-tu vu ?
+CORONIS.
+Oui, certes, je l'ai vu.
+LE CHEVALIER.
+He bien ! Dis-nous un peu comment le trouves-tu ?
+CORONIS.
+Cadedis ! Comment je le trouve ? Ravissant, merveilleux. Tout ce qui s'appelle opera, voyez-vous, ne peut etre que bon et agreable ; et la raison, la voici c'est que dans un opera, vous trouvez de tout, vers, musique, ballets, machines, symphonies ; c'est une variete surprenante, il y a de quoi contenter tout le monde. Voulez-vous du grand, du tragique, du pathetique ?
+Le perfide Renaud me fuit.
+Tout perfide qu'il est, mon lache coeur le suit.			[25]
+Aimez-vous le tendre, le doux, le passionne ?
+Non, je ne voudrais pas encor
+Quitter mon berger pour Medor.
+Voulez-vous du burlesque ? 
+Mes pauvres compagnons, helas!
+Le dragon n'en a fait qu'un fort leger repas.
+Voulez-vous de la morale ?
+Les dieux punissent la fierte;			[30]
+Il n'est point de grandeur que le ciel irrite
+N'abaisse quand il veut, et ne reduise en poudre.
+Et le reste. On y trouve jusqu'a des vaudevilles et des imitations naives des airs du Pont-Neuf, si vous	voulez.
+Les rossignols, des que le jour commence,
+Chantent l'amour qui les anime tous.
+En un mot, c'est un enchantement ; et ce serait une chose accomplie, si l'on pouvait faire encore que le chant fut fait pour les vers, et les vers pour le chant.
+LE CHEVALIER.
+Pour moi, je ne me divertis point a l'Opera ; et je n'y vais jamais que pour folatrer dans les coulisses avec quelque danseuse.
+CORONIS.
+Il est vrai que bien des gens y vont presentement pour tout autre plaisir que celui des oreilles.
+SCENE XIV. Madame Jerome, Le Chevalier, Coronis, La Sourdiere.
+MADAME JEROME.
+Messieurs, il est minuit sonne ; faites-moi la grace de vous retirer.
+LA SOURDIERE.
+Volontiers.
+LE CHEVALIER.
+Attends, attends. Et par quelle raison nous retirer, madame Jerome ?
+MADAME JEROME.
+Par la raison, monsieur, que voici l'heure des femmes ; et puisqu'elles ne viennent pas vous incommoder le jour, il est bien juste que vous leur laissiez la nuit chacun le sien n'est pas trop.
+LE CHEVALIER.
+Vous etes pour les recreations nocturnes, madame Jerome.
+MADAME JEROME.
+Oh vraiment, si on n'avait d'autres rentes que la depense qui se fait ici de jour, et sans le casuel de la nuit, on courrait risque d'avoir les dents bien longues. Vous etes cinq ou six, qui, pourvu que vous soyez toute une apres-dinee ici a chanter des chansons, dire des fadaises, conter une histoire de celui-ci, une aventure de celle-la, et faire la chronique scandaleuse du genre humain, ne vous embarrassez pas du reste. Cependant ce n'est pas la mon compte, et je ne dine pas de vos conversations. Vous voila trois, par exemple, qui me devez de l'argent depuis longtemps, et qui ne me parlez non plus de payer, que si vous etiez ici loges par etape.
+CORONIS.
+Quant a moi, madame Jerome, je vous dois, je pense, trois ecus mais j'attends ma lettre de change.
+LE CHEVALIER.
+Pour moi je suis brouille avec ma petite marchande de dorure, et je ne saurais vous payer qu'a la paix.
+LA SOURDIERE.
+Et moi, je vous proteste que le premier argent que je gagnerai a trois des, sera pour vous.
+MADAME JEROME.
+Voila des dettes bien assurees.
+SCENE XV. Jobelin, La Fleche, Mme Jerome, Coronis, Le Chevalier, La Sourdiere.
+CORONIS, au chevalier.
+Voici nos gens. Songeons a ce que nous a recommande Dorante.
+LA FLECHE.
+Vous me devez six-vingts pistoles ; payez-moi, je ne joue plus.
+JOBELIN.
+Comment vous ne me donnez pas ma revanche ?
+LA FLECHE.
+De quoi vous plaignez-vous? Je vous ai gagne au piquet vous me demandez votre revanche a pair et non, je vous la donne; je ne vous gagne que douze cents livres; et j'ai hasarde mon diamant, qui en vaut quinze cents c'est cent ecus que je perds clairement. Il me semble que je fais assez bien les choses.
+JOBELIN.
+Tudieu vous avez la parole bien libre, pour un homme qui etait ivre il n'y a qu'un moment.
+LA FLECHE.
+C'est que je me suis desenivre en gagnant votre argent. Allons, les bons comptes font les bons amis ; payez-moi tout a l'heure ou je vous passe mon epee au travers du corps.
+JOBELIN.
+Messieurs separez-nous, je vous prie.
+LE CHEVALIER.
+Comment, morbleu, on insulte monsieur Jobelin.
+CORONIS.
+Allons, sandis, coupons les oreilles a ce maraud.
+LA SOURDIERE.
+Des epees tirees. Allons-nous-en d'ici.
+MADAME JEROME.
+Messieurs quel desordre je suis perdue.
+LA FLECHE.
+Comment, canailles, deux contre un ? Ah, j'ai le corps perce ! Je suis mort ! Un chirurgien ! 
+MADAME JEROME.
+Misericorde ! Un homme tue dans ma maison. Me voila ruinee.
+CORONIS.
+Sauvons-nous, messieurs.
+SCENE XVI. Dorante, L'Abbe, M~ Jerome, Jobelin, La Fleche.
+DORANTE.
+Quel bruit ai-je entendu ? Mais que vois-je ? Ah, ciel monsieur de Boisclair, qui vous a mis en cet etat?
+LA FLECHE.
+Ah, mon cousin je me meurs. Trois coquins viennent de m'assassiner, et c'est ce scelerat de notaire qui les a fait agir. Eh, de grace, qu'on me fasse venir le suceur du regiment.
+SCENE XVII. Dorante, Jobelin, L'Abbe, Madame Jerome.
+DORANTE.
+Un de mes parents assassinee. Ah ! Je vous apprendrai a qui vous vous jouez. Hola, laquais, qu'on m'aille querir le commissaire.
+JOBELIN.
+Ah ! Je tremble, et je voudrais etre bien loin.
+L'ABBE.
+Vous voila dans un vilain cas, madame Jerome, et j'en suis fache pour l'amour de vous.
+MADAME JEROME.
+Monsieur Dorante, ne me perdez pas, je vous conjure.
+DORANTE.
+Non, non, cela ne passera pas ainsi. C'est mon cousin-germain on l'a assassine chez vous ; c'est a vous a m'en repondre, et je pretends que justice soit faite.
+MADAME JEROME.
+Eh monsieur, voudriez-vous me ruiner ?
+DORANTE.
+Vous n'en serez, pas quitte a si bon marche et je veux vous faire punir corporellement.
+L'ABBE.
+Corporellement cela ne vaut pas le diable madame Jerome.
+SCENE XVIII. Dorante, L'Abbe, Madame Jerome, Jobelin, La Fleche, en commissaire avec un faux nez.
+DORANTE.
+Voici, fort a propos, monsieur le commissaire. Monsieur, on vient de tuer ici un officier qui est de mes parents. Je vous prie de faire votre charge.
+LA FLECHE, prenant une voix enrouee.
+Votre laquais m'a informe de la chose, et j'amene des archers pour conduire les delinquants au Chatelet.
+MADAME JEROME.
+Au Chatelet !
+JOBELIN.
+Monsieur, je suis notaire royal, et conseiller du roi.
+LA FLECHE.
+N'importe; le delit est flagrant il y a mort d'homme et vous viendrez au Chatelet.
+MADAME JEROME.
+Ah! Je suis au desespoir. Monsieur l'Abbe, faites en sorte que je n'aille point au Chatetet.
+L'ABBE.
+Attendez,-je viens de trouver un moyen d'ajuster ceci. Dorante il faut accommoder cette affaire-la mon enfant. il ne tient qu'a toi de ruiner madame Jerome, mais en seras-tu mieux ? Elle a une jeune fille il faut qu'elle te la donne en mariage, et qu'il ne soit plus parle de rien.
+DORANTE.
+Non non, madame l'a promise a monsieur Jobelin il faut la laisser faire. Elle le croit riche, et je vois bien.
+L'ABBE.
+Lui riche ! Il n'a point d'autre patrimoine que son industrie, et il y a actuellement une sentence contre lui pour le paiement de sa charge n'est-il pas vrai, monsieur Jobelin ?
+JOBELIN.
+Ah ! Tout est decouvert; j'enrage.
+MADAME JEROME.
+Qu'entends-je? Vous devez votre charge, monsieur ? Vraiment, un jour plus tard j'allais faire un joli marche!
+L'ABBE.
+Eh bien madame, etes-vous dans le gout de ma proposition ?
+MADAME JEROME.
+Oui, monsieur, puisque je suis detrompee, je serai ravie de donner ma fille a monsieur Dorante, pourvu qu'il apaise l'affaire qui vient d'arriver.
+L'ABBE.
+Oh, pour cela, madame, il en est le maitre, je vous assure. Ca, il n'y a qu'a dresser le contrat tout a l'heure. Monsieur Jobelin se trouve ici fort a propos.
+JOBELIN.
+Moi dresser le contrat ?
+DORANTE.
+Tout beau, ne vous faites pas tirer l'oreille ou je vais faire entrer les archers.
+LA FLECHE.
+Et l'on vous menera au Chatelet.
+JOBELIN.
+Quoi j'aurais encore la mortification de faire le contrat de mariage de mon rival ? Ah maudit pair et non.
+DORANTE.
+Allons, monsieur l'Abbe, et monsieur le Commissaire, venez servir de temoins et signer au contrat que nous allons passer tout a 1'heure.
+LA FLECHE.
+Ma foi, voila une veritable aventure de cafe.
+
+	==================================================

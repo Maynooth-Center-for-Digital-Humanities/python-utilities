@@ -1,0 +1,2518 @@
+********************************************************
+	DC.Title                  = MELITE, COMEDIE
+	DC.Author                 = CORNEILLE, Pierre
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 31/05/2016 a 14:34:05.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CORNEILLEP_MELITE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+MELITE COMEDIEM. DC. LXXXII. AVEC PRIVILEGE DU ROI.
+
+	A PARIS, Chez GULLAUME DE LUYNE, Libraire jure, au Palais, en la Galerie des Merciers, sous la montee de la Cour des Aides, a la Justice.
+	Acheve d'imprimer pour le premiere fois, le 26 Fevrier 1682.
+	Represente pour la premiere fois en 1642 au Theatre du Marais
+	MONSIEUR,
+Melite serait trop ingrate de rechercher une autre protection que la votre ; elle vous doit cet hommage et cette legere reconnaissance de tant d'obligations qu'elle vous a : non qu'elle presume par la s'en acquitter en quelque sorte, mais seulement pour les publier a toute la France. Quand je considere le peu de bruit qu'elle fit a son arrivee a Paris, venant d'un homme qui ne pouvait sentir que la rudesse de son pays, et tellement inconnu qu'il etait avantageux d'en taire le nom, quand je me souviens, dis-je, que ses trois premieres representations ensemble n'eurent point tant d'affluence que la moindre de celles qui les suivirent dans le meme hiver, je ne puis rapporter de si faibles commencements qu'au loisir qu'il fallait au monde pour apprendre que vous en faisiez etat, ni des progres si peu attendus qu'a votre approbation, que chacun se croyait oblige de suivre apres l'avoir sue. C'est de la, monsieur, qu'est venu tout le bonheur de Melite ; et quelques hauts effets qu'elle ait produits depuis, celui dont je me tiens le plus glorieux, c'est l'honneur d'etre connu de vous, et de vous pouvoir souvent assurer de bouche que je serai toute ma vie,
+Monsieur,
+Votre tres humble et tres obeissant serviteur,
+CORNEILLE.
+Au lecteur
+Je sais bien que l'impression d'une piece en affaiblit la reputation : la publier, c'est l'avilir ; et meme il s'y rencontre un particulier desavantage pour moi, vu que ma facon d'ecrire etant simple et familiere, la lecture fera prendre mes naivetes pour des bassesses. Aussi beaucoup de mes amis m'ont toujours conseille de ne rien mettre sous la presse, et ont raison, comme je crois ; mais, par je ne sais quel malheur, c'est un conseil que recoivent de tout le monde ceux qui ecrivent, et pas un d'eux ne s'en sert. Ronsard, Malherbe et Theophile l'ont meprise ; et si je ne les puis imiter en leurs graces, je les veux du moins imiter en leurs fautes, si c'en est une que de faire imprimer. Je contenterai par la deux sortes de personnes, mes amis et mes envieux, donnant aux uns de quoi se divertir, aux autres de quoi censurer : et j'espere que les premiers me conserveront encore la meme affection qu'ils m'ont temoignee par le passe ; que des derniers, si beaucoup font mieux, peu reussiront plus heureusement, et que le reste fera encore quelque sorte d'estime de cette piece, soit par coutume de l'approuver, soit par honte de se dedire. En tout cas, elle est mon coup d'essai ; et d'autres que moi ont interet a la defendre, puisque, si elle n'est pas bonne, celles qui sont demeurees au-dessous doivent etre fort mauvaises.
+
+Argument
+Eraste, amoureux de Melite, la fait connaitre a son ami Tircis, et, devenu peu apres jaloux de leur hantise, fait rendre des lettres d'amour supposees, de la part de Melite, a Philandre, accorde de Chloris, soeur de Tircis. Philandre s'etant resolu, par l'artifice et les suasions d'Eraste, de quitter Chloris pour Melite, montre ces lettres a Tircis. Ce pauvre amant en tombe en desespoir, et se retire chez Lisis, qui vient donner a Melite de fausses alarmes de sa mort. Elle se pame a cette nouvelle, et temoignant par la son affection, Lisis la desabuse, et fait revenir Tircis, qui l'epouse. Cependant Cliton, ayant vu Melite pamee, la croit morte, et en porte la nouvelle a Eraste, aussi bien que de la mort de Tircis. Eraste, saisi de remords, entre en folie ; et remis en son bon sens par la nourrice de Melite, dont il apprend qu'elle et Tircis sont vivants, il lui va demander pardon de sa fourbe, et obtient de ces deux amants Chloris, qui ne voulait plus de Philandre apres sa legerete.
+
+Examen
+Cette piece fut mon coup d'essai, et elle n'a garde d'etre dans les regles, puisque je ne savais pas alors qu'il y en eut. Je n'avais pour guide qu'un peu de sens commun, avec les exemples de feu Hardy, dont la veine etait plus feconde que polie, et de quelques modernes qui commencaient a se produire, et qui n'etaient pas plus reguliers que lui. Le succes en fut surprenant : il etablit une nouvelle troupe de comediens a Paris, malgre le merite de celle qui etait en possession de s'y voir l'unique ; il egala tout ce qui s'etait fait de plus beau jusques alors, et me fit connaitre a la cour. Ce sens commun, qui etait toute ma regle, m'avait fait trouver l'unite d'action pour brouiller quatre amants par un seul intrique, et m'avait donne assez d'aversion de cet horrible dereglement qui mettait Paris, Rome et Constantinople sur le meme theatre, pour reduire le mien dans une seule ville.
+La nouveaute de ce genre de comedie, dont il n'y a point d'exemple en aucune langue, et le style naif qui faisait une peinture de la conversation des honnetes gens, furent sans doute cause de ce bonheur surprenant, qui fit alors tant de bruit. On n'avait jamais vu jusque-la que la comedie fit rire sans personnages ridicules, tels que les valets bouffons, les parasites, les capitans, les docteurs, etc. Celle-ci faisait son effet par l'humeur enjouee de gens d'une condition au-dessus de ceux qu'on voit dans les comedies de Plaute et de Terence, qui n'etaient que des marchands. Avec tout cela, j'avoue que l'auditeur fut bien facile a donner son approbation a une piece dont le noeud n'avait aucune justesse. Eraste y fait contrefaire des lettres de Melite, et les porter a Philandre. Ce Philandre est bien credule de se persuader d'etre aime d'une personne qu'il n'a jamais entretenue, dont il ne connait point l'ecriture, et qui lui defend de l'aller voir, cependant qu'elle recoit les visites d'un autre avec qui il doit avoir une amitie assez etroite, puisqu'il est accorde de sa soeur. Il fait plus : sur la legerete d'une croyance si peu raisonnable, il renonce a une affection dont il etait assure, et qui etait prete d'avoir son effet. Eraste n'est pas moins ridicule que lui, de s'imaginer que sa fourbe causera cette rupture, qui serait toutefois inutile a son dessein, s'il ne savait de certitude que Philandre, malgre le secret qu'il lui fait demander par Melite dans ces fausses lettres, ne manquera pas a les montrer a Tircis ; que cet amant favorise croira plutot un caractere qu'il n'a jamais vu, que les assurances d'amour qu'il recoit tous les jours de sa maitresse, et qu'il rompra avec elle sans lui parler, de peur de s'en eclaircir. Cette pretention d'Eraste ne pouvait etre supportable a moins d'une revelation ; et Tircis, qui est l'honnete homme de la piece, n'a pas l'esprit moins leger que les deux autres, de s'abandonner au desespoir par une meme facilite de croyance a la vue de ce caractere inconnu. Les sentiments de douleur qu'il en peut legitimement concevoir devraient du moins l'emporter a faire quelques reproches a celle dont il se croit trahi, et lui donner par la l'occasion de le desabuser. La folie d'Eraste n'est pas de meilleure trempe. Je la condamnais des lors en mon ame ; mais comme c'etait un ornement de theatre qui ne manquait jamais de plaire, et se faisait souvent admirer, j'affectai volontiers ces grands egarements, et en tirai un effet que je tiendrais encore admirable en ce temps : c'est la maniere dont Eraste fait connaitre a Philandre, en le prenant pour Minos, la fourbe qu'il lui a faite et l'erreur ou il l'a jete. Dans tout ce que j'ai fait depuis, je ne pense pas qu'il se rencontre rien de plus adroit pour un denouement.
+Tout le cinquieme acte peut passer pour inutile. Tircis et Melite se sont raccommodes avant qu'il commence, et par consequent l'action est terminee. Il n'est plus question que de savoir qui a fait la supposition des lettres ; et ils pouvaient l'avoir su de Chloris a qui Philandre l'avait dit pour se justifier. Il est vrai que cet acte retire Eraste de folie, qu'il le reconcilie avec les deux amants, et fait son mariage avec Chloris ; mais tout cela ne regarde plus qu'une action episodique, qui ne doit pas amuser le theatre quand la principale est finie ; et surtout ce mariage a si peu d'apparence, qu'il est aise de voir qu'on ne le propose que pour satisfaire a la coutume de ce temps-la, qui etait de marier tout ce qu'on introduisait sur la scene. Il semble meme que le personnage de Philandre, qui part avec un ressentiment ridicule dont on ne craint pas l'effet, ne soit point acheve, et qu'il lui fallait quelque cousine de Melite ou quelque soeur d'Eraste pour le reunir avec les autres. Mais des lors je ne m'assujettissais pas tout a fait a cette mode, et je me contentai de faire voir l'assiette de son esprit sans prendre soin de le pourvoir d'une autre femme.
+Quant a la duree de l'action, il est assez visible qu'elle passe l'unite de jour ; mais ce n'en est pas le seul defaut ; il y a de plus une inegalite d'intervalle entre les actes qu'il faut eviter. Il doit s'etre passe huit ou quinze jours entre le premier et le second, et autant entre le second et le troisieme ; mais du troisieme au quatrieme, il n'est pas besoin de plus d'une heure, et il en faut encore moins entre les deux derniers, de peur de donner le temps de se ralentir a cette chaleur qui jette Eraste dans l'egarement d'esprit. Je ne sais meme si les personnages qui paraissent deux fois dans un meme acte (pose que cela soit permis, ce que j'examinerai ailleurs), je ne sais, dis-je, s'ils ont le loisir d'aller d'un quartier de la ville a l'autre, puisque ces quartiers doivent etre si eloignes l'un de l'autre, que les acteurs aient lieu de ne pas s'entreconnaitre. Au premier acte, Tircis, apres avoir quitte Melite chez elle, n'a que le temps d'environ soixante vers pour aller chez lui, ou il rencontre Philandre avec sa soeur, et n'en a guere davantage au second a refaire le meme chemin. Je sais bien que la representation raccourcit la duree de l'action, et qu'elle fait voir en deux heures, sans sortir de la regle, ce qui souvent a besoin d'un jour entier pour s'effectuer ; mais je voudrais que, pour mettre les choses dans leur justesse, ce raccourcissement se menageat dans les intervalles des actes, et que le temps qu'il faut perdre s'y perdit en sorte que chaque acte n'en eut, pour la partie de l'action qu'il represente, que ce qu'il en faut pour sa representation.
+Ce coup d'essai a sans doute encore d'autres irregularites ; mais je ne m'attache pas a les examiner si ponctuellement que je m'obstine a n'en vouloir oublier aucune. Je pense avoir marque les plus notables ; et pour peu que le lecteur ait d'indulgence pour moi, j'espere qu'il ne s'offensera pas d'un peu de negligence pour le reste.
+
+ACTEURS
+ERASTE, amoureux de Melite.
+TIRCIS, ami d'Eraste et son rival.
+PHILANDRE, amant de Chloris.
+MELITE, maitresse d'Eraste et de Tircis.
+CHLORIS, soeur de Tircis.
+LISIS, ami de Tircis.
+CLITON, voisin de Melite.
+LA NOURRICE DE MELITE.
+La scene est a Paris.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Eraste, Tircis.
+ERASTE.
+Je te l'avoue, ami, mon mal est incurable ;
+Je n'y sais qu'un remede, et j'en suis incapable :
+Le change serait juste, apres tant de rigueur ;
+Mais malgre ses dedains, Melite a tout mon coeur ;
+Elle a sur tous mes sens une entiere puissance ;			[5]
+Si j'ose en murmurer, ce n'est qu'en son absence,
+Et je menage en vain dans un eloignement
+Un peu de liberte pour mon ressentiment ;
+D'un seul de ses regards l'adorable contrainte
+Me rend tous mes liens, en resserre l'etreinte,			[10]
+Et par un si doux charme aveugle ma raison,
+Que je cherche mon mal et fuis ma guerison.
+Son oeil agit sur moi d'une vertu si forte,
+Qu'il ranime soudain mon esperance morte,
+Combat les deplaisirs de mon coeur irrite,			[15]
+Et soutient mon amour contre sa cruaute ;
+Mais ce flatteur espoir qu'il rejette en mon ame
+N'est qu'un doux imposteur qu'autorise ma flamme,
+Et qui, sans m'assurer ce qu'il semble m'offrir,
+Me fait plaire en ma peine, et m'obstine a souffrir.			[20]
+TIRCIS.
+Que je te trouve, ami, d'une humeur admirable !
+Pour paraitre eloquent tu te feins miserable :
+Est-ce a dessein de voir avec quelles couleurs
+Je saurais adoucir les traits de tes malheurs ?
+Ne t'imagine pas qu'ainsi, sur ta parole,			[25]
+D'une fausse douleur un ami te console ;
+Ce que chacun en dit ne m'a que trop appris
+Que Melite pour toi n'eut jamais de mepris.
+ERASTE.
+Son gracieux accueil et ma perseverance
+Font naitre ce faux bruit d'une vaine apparence :			[30]
+Ses mepris sont caches, et s'en font mieux sentir ;
+Et n'etant point connus, on n'y peut compatir.
+TIRCIS.
+En etant bien recu, du reste que t'importe ?
+C'est tout ce que tu veux des filles de sa sorte.
+ERASTE.
+Cet acces favorable, ouvert et libre a tous,			[35]
+Ne me fait pas trouver mon martyre plus doux :
+Elle souffre aisement mes soins et mon service ;
+Mais loin de se resoudre a leur rendre justice,
+Parler de l'hymenee a ce coeur de rocher,
+C'est l'unique moyen de n'en plus approcher.			[40]
+TIRCIS.
+Ne dissimulons point ; tu regles mieux ta flamme,
+Et tu n'es pas si fou que d'en faire ta femme.
+ERASTE.
+Quoi ! Tu sembles douter de mes intentions ?
+TIRCIS.
+Je crois malaisement que tes affections,
+Sur l'eclat d'un beau teint qu'on voit si perissable,			[45]
+Reglent d'une moitie le choix invariable.
+Tu serais incivil, de la voir chaque jour
+Et ne lui pas tenir quelques propos d'amour ;
+Mais d'un vain compliment ta passion bornee
+Laisse aller tes desseins ailleurs pour l'hymenee.			[50]
+Tu sais qu'on te souhaite aux plus riches maisons,
+Que les meilleurs partis...
+ERASTE.
+Treve de ces raisons ;
+Mon amour s'en offense, et tiendrait pour supplice
+De recevoir des lois d'une sale avarice :
+Il me rend insensible aux faux attraits de l'or,			[55]
+Et trouve en sa personne un assez grand tresor.
+TIRCIS.
+Si c'est la le chemin qu'en aimant tu veux suivre,
+Tu ne sais guere encore ce que c'est que de vivre.
+Ces visages d'eclat sont bons a cajoler,
+C'est la qu'un apprenti doit s'instruire a parler ;			[60]
+J'aime a remplir de feux ma bouche en leur presence ;
+La mode nous oblige a cette complaisance ;
+Tous ces discours de livre alors sont de raison :
+Il faut feindre des maux, demander guerison,
+Donner sur le Phebus, promettre des miracles,			[65]
+Jurer qu'on brisera toutes sortes d'obstacles ;
+Mais du vent et cela doivent etre tout un.
+ERASTE.
+Passe pour des beautes qui sont dans le commun ;
+C'est ainsi qu'autrefois j'amusai Chrysolithe :
+Mais c'est d'autre facon qu'on doit servir Melite.			[70]
+Malgre tes sentiments, il me faut accorder
+Que le souverain bien n'est qu'a la posseder.
+Le jour qu'elle naquit, Venus, bien qu'immortelle,
+Pensa mourir de honte en la voyant si belle ;
+Les Graces, a l'envi, descendirent des cieux			[75]
+Pour se donner l'honneur d'accompagner ses yeux ;
+Et l'Amour, qui ne put entrer dans son courage,
+Voulut obstinement loger sur son visage.
+TIRCIS.
+Tu le prends d'un haut ton, et je crois qu'au besoin
+Ce discours emphatique irait encore bien loin.			[80]
+Pauvre amant, je te plains qui ne sais pas encore
+Que bien qu'une beaute merite qu'on l'adore,
+Pour en perdre le gout, on n'a qu'a l'epouser.
+Un bien qui nous est du se fait si peu priser,
+Qu'une femme, fut-elle entre toutes choisie,			[85]
+On en voit en six mois passer la fantaisie.
+Tel au bout de ce temps n'en voit plus la beaute
+Qu'avec un esprit sombre, inquiet, agite ;
+Au premier qui lui parle, ou jette l'oeil sur elle,
+Mille sottes frayeurs lui brouillent la cervelle ;			[90]
+Ce n'est plus lors qu'une aide a faire un favori,
+Un charme pour tout autre, et non pour un mari.
+ERASTE.
+Ces caprices honteux et ces chimeres vaines
+Ne sauraient ebranler des cervelles bien saines ;
+Et quiconque a su prendre une fille d'honneur			[95]
+N'a point a redouter l'appat d'un suborneur.
+TIRCIS.
+Peut-etre dis-tu vrai, mais ce choix difficile
+Assez et trop souvent trompe le plus habile ;
+Et l'hymen de soi-meme est un si lourd fardeau,
+Qu'il faut l'apprehender a l'egal du tombeau.			[100]
+S'attacher pour jamais aux cotes d'une femme !
+Perdre pour des enfants le repos de son ame !
+Voir leur nombre importun remplir une maison !
+Ah ! Qu'on aime ce joug avec peu de raison !
+ERASTE.
+Mais il y faut venir ; c'est en vain qu'on recule,			[105]
+C'est en vain qu'on refuit, tot ou tard on s'y brule ;
+Pour libertin qu'on soit, on s'y trouve attrape :
+Toi-meme, qui fais tant le cheval echappe,
+Nous te verrons un jour songer au mariage.
+TIRCIS.
+Alors ne pense pas que j'epouse un visage :			[110]
+Je regle mes desirs suivant mon interet.
+Si Doris me voulait, toute laide qu'elle est,
+Je l'estimerais plus qu'Aminte et qu'Hippolyte ;
+Son revenu chez moi tiendrait lieu de merite :
+C'est comme il faut aimer. L'abondance des biens			[115]
+Pour l'amour conjugal a de puissants liens :
+La beaute, les attraits, l'esprit, la bonne mine,
+Echauffent bien le coeur, mais non pas la cuisine ;
+Et l'hymen qui succede a ces folles amours,
+Apres quelques douceurs, a bien de mauvais jours.			[120]
+Une amitie si longue est fort mal assuree
+Dessus des fondements de si peu de duree.
+L'argent dans le menage a certaine splendeur
+Qui donne un teint d'eclat a la meme laideur ;
+Et tu ne peux trouver de si douces caresses			[125]
+Dont le gout dure autant que celui des richesses.
+ERASTE.
+Aupres de ce bel oeil qui tient mes sens ravis,
+A peine pourrais-tu conserver ton avis.
+TIRCIS.
+La raison en tous lieux est egalement forte.
+ERASTE.
+L'essai n'en coute rien ; Melite est a sa porte ;			[130]
+Allons, et tu verras dans ses aimables traits
+Tant de charmants appas, tant de brillants attraits,
+Que tu seras force toi-meme a reconnaitre
+Que si je suis un fou, j'ai bien raison de l'etre.
+TIRCIS.
+Allons, et tu verras que toute sa beaute			[135]
+Ne saura me tourner contre la verite.
+SCENE II. Eraste, Melite, Tircis.
+ERASTE.
+De deux amis, madame, apaisez la querelle.
+Un esclave d'amour le defend d'un rebelle,
+Si toutefois un coeur qui n'a jamais aime,
+Fier et vain qu'il en est, peut etre ainsi nomme.			[140]
+Comme, des le moment que je vous ai servie,
+J'ai cru qu'il etait seul la veritable vie,
+Il n'est pas merveilleux que ce peu de rapport
+Entre nos deux esprits seme quelque discord.
+Je me suis donc pique contre sa medisance			[145]
+Avec tant de malheur, ou tant d'insuffisance,
+Que des droits si sacres et si pleins d'equite
+N'ont pu se garantir de sa subtilite,
+Et je l'amene ici, n'ayant plus que repondre,
+Assure que vos yeux le sauront mieux confondre.			[150]
+MELITE.
+Vous deviez l'assurer plutot qu'il trouverait,
+En ce mepris d'amour, qui le seconderait.
+TIRCIS.
+Si le coeur ne dedit ce que la bouche exprime,
+Et ne fait de l'amour une plus haute estime,
+Je plains les malheureux a qui vous en donnez,			[155]
+Comme a d'etranges maux par leur sort destines.
+MELITE.
+Ce reproche sans cause avec raison m'etonne :
+Je ne recois d'amour et n'en donne a personne.
+Les moyens de donner ce que je n'eus jamais ?
+ERASTE.
+Ils vous sont trop aises ; et par vous desormais			[160]
+La nature pour moi montre son injustice
+A pervertir son cours pour me faire un supplice.
+MELITE.
+Supplice imaginaire, et qui sent son moqueur.
+ERASTE.
+Supplice qui dechire et mon ame et mon coeur.
+MELITE.
+Il est rare qu'on porte avec si bon visage			[165]
+L'ame et le coeur ensemble en si triste equipage.
+ERASTE.
+Votre charmant aspect suspendant mes douleurs,
+Mon visage du votre emprunte les couleurs.
+MELITE.
+Faites mieux ; pour finir vos maux et votre flamme,
+Empruntez tout d'un temps les froideurs de mon ame.			[170]
+ERASTE.
+Vous voyant, les froideurs perdent tout leur pouvoir ;
+Et vous n'en conservez que faute de vous voir.
+MELITE.
+Eh quoi ! Tous les miroirs ont-ils de fausses glaces ?
+ERASTE.
+Penseriez-vous y voir la moindre de vos graces ?
+De si freles sujets ne sauraient exprimer			[175]
+Ce que l'amour aux coeurs peut lui seul imprimer ;
+Et quand vous en voudrez croire leurs impuissances,
+Cette legere idee et faible connaissance
+Que vous aurez par eux de tant de raretes
+Vous mettra hors de pair de toutes les beautes.			[180]
+MELITE.
+Voila trop vous tenir dans une complaisance
+Que vous dussiez quitter, du moins en ma presence,
+Et ne dementir pas le rapport de vos yeux,
+Afin d'avoir sujet de m'entreprendre mieux.
+ERASTE.
+Le rapport de mes yeux, aux depens de mes larmes,			[185]
+Ne m'a que trop appris le pouvoir de vos charmes.
+TIRCIS.
+Sur peine d'etre ingrate, il faut de votre part
+Reconnaitre les dons que le ciel vous depart.
+ERASTE.
+Voyez que d'un second mon droit se fortifie.
+MELITE.
+Voyez que son secours montre qu'il s'en defie.			[190]
+TIRCIS.
+Je me range toujours d'avec la verite.
+MELITE.
+Si vous la voulez suivre, elle est de mon cote.
+TIRCIS.
+Oui, sur votre visage, et non en vos paroles.
+Mais cessez de chercher ces refuites frivoles ;
+Et prenant desormais des sentiments plus doux,			[195]
+Ne soyez plus de glace a qui brule pour vous.
+MELITE.
+Un ennemi d'amour me tenir ce langage !
+Accordez votre bouche avec votre courage ;
+Pratiquez vos conseils, ou ne m'en donnez pas.
+TIRCIS.
+J'ai connu mon erreur aupres de vos appas.			[200]
+Il vous l'avait bien dit.
+ERASTE.
+Ainsi donc, par l'issue
+Mon ame sur ce point n'a point ete decue ?
+TIRCIS.
+Si tes feux en son coeur produisaient meme effet,
+Crois-moi, que ton bonheur serait bientot parfait.
+MELITE.
+Pour voir si peu de chose aussitot vous dedire,			[205]
+Me donne a vos depens de beaux sujets de rire ;
+Mais je pourrais bientot a m'entendre flatter
+Concevoir quelque orgueil qu'il vaut mieux eviter.
+Excusez ma retraite.
+ERASTE.
+Adieu, belle inhumaine,
+De qui seule depend, et ma joie, et ma peine.			[210]
+MELITE.
+Plus sage a l'avenir, quittez ces vains propos,
+Et laissez votre esprit et le mien en repos.
+SCENE III. Eraste, Tircis.
+ERASTE.
+Maintenant suis-je un fou ? Merite-je du blame ?
+Que dis-tu de l'objet ? Que dis-tu de ma flamme ?
+TIRCIS.
+Que veux-tu que j'en die ? Elle a je ne sais quoi			[215]
+Qui ne peut consentir que l'on demeure a soi.
+Mon coeur, jusqu'a present a l'amour invincible,
+Ne se maintient qu'a force aux termes d'insensible ;
+Tout autre que Tircis mourrait pour la servir.
+ERASTE.
+Confesse franchement qu'elle a su te ravir,			[220]
+Et que tu ne veux pas prendre pour cette belle
+Avec le nom d'amant le titre d'infidele.
+Rien que notre amitie ne t'en peut detourner ;
+Mais ta muse du moins, facile a suborner,
+Avec plaisir deja prepare quelques veilles			[225]
+A de puissants efforts pour de telles merveilles.
+TIRCIS.
+En effet, ayant vu tant et de tels appas,
+Que je ne rime point, je ne le promets pas.
+ERASTE.
+Tes feux n'iront-ils point plus avant que la rime ?
+TIRCIS.
+Si je brule jamais, je veux bruler sans crime.			[230]
+ERASTE.
+Mais si sans y penser tu te trouvais surpris ?
+TIRCIS.
+Quitte pour decharger mon coeur dans mes ecrits.
+J'aime bien ces discours de plaintes et d'alarmes,
+De soupirs, de sanglots, de tourments et de larmes ;
+C'est de quoi fort souvent je batis ma chanson,			[235]
+Mais j'en connais, sans plus, la cadence et le son.
+Souffre qu'en un sonnet je m'efforce a depeindre
+Cet agreable feu que tu ne peux eteindre :
+Tu le pourras donner comme venant de toi.
+ERASTE.
+Ainsi ce coeur d'acier qui me tient sous sa loi,			[240]
+Verra ma passion pour le moins en peinture.
+Je doute neanmoins qu'en cette portraiture
+Tu ne suives plutot tes propres sentiments.
+TIRCIS.
+Me prepare le ciel de nouveaux chatiments,
+Si jamais un tel crime entre dans mon courage !			[245]
+ERASTE.
+Adieu. Je suis content, j'ai ta parole en gage,
+Et sais trop que l'honneur t'en fera souvenir.
+TIRCIS, seul.
+En matiere d'amour rien n'oblige a tenir ;
+Et les meilleurs amis, lorsque son feu les presse,
+Font bientot vanite d'oublier leur promesse.			[250]
+SCENE IV. Philandre, Chloris.
+PHILANDRE.
+Je meure, mon souci, tu dois bien me hair ;
+Tous mes soins depuis peu ne vont qu'a te trahir.
+CHLORIS.
+Ne m'epouvante point ; a ta mine, je pense
+Que le pardon suivra de fort pres cette offense,
+Sitot que j'aurai su quel est ce mauvais tour.			[255]
+PHILANDRE.
+Sache donc qu'il ne vient sinon de trop d'amour.
+CHLORIS.
+J'eusse ose le gager, qu'ainsi par quelque ruse
+Ton crime officieux porterait son excuse.
+PHILANDRE.
+Ton adorable objet, mon unique vainqueur,
+Fait naitre chaque jour tant de feux en mon coeur,			[260]
+Que leur exces m'accable, et que pour m'en defaire
+J'y cherche des defauts qui puissent me deplaire :
+J'examine ton teint dont l'eclat me surprit,
+Les traits de ton visage et ceux de ton esprit ;
+Mais je n'en puis trouver un seul qui ne me charme.			[265]
+CHLORIS.
+Et moi, je suis ravie, apres ce peu d'alarme,
+Qu'ainsi tes sens trompes te puissent obliger
+A cherir ta Chloris, et jamais ne changer.
+PHILANDRE.
+Ta beaute te repond de ma perseverance,
+Et ma foi qui t'en donne une entiere assurance...			[270]
+CHLORIS.
+Voila fort doucement dire que, sans ta foi,
+Ma beaute ne pourrait te conserver a moi.
+PHILANDRE.
+Je traiterais trop mal une telle maitresse
+De l'aimer seulement pour tenir ma promesse :
+Ma passion en est la cause et non l'effet ;			[275]
+Outre que tu n'as rien qui ne soit si parfait,
+Qu'on ne peut te servir sans voir sur ton visage
+De quoi rendre constant l'esprit le plus volage.
+CHLORIS.
+Ne m'en conte point tant de ma perfection :
+Tu dois etre assure de mon affection ;			[280]
+Et tu perds tout l'effort de ta galanterie,
+Si tu crois l'augmenter par une flatterie.
+Une fausse louange est un blame secret :
+Je suis belle a tes yeux, il suffit, sois discret ;
+C'est mon plus grand bonheur, et le seul ou j'aspire.			[285]
+PHILANDRE.
+Tu sais adroitement adoucir mon martyre.
+Mais parmi les plaisirs qu'avec toi je ressens,
+A peine mon esprit ose croire mes sens,
+Toujours entre la crainte et l'espoir en balance ;
+Car s'il faut que l'amour naisse de ressemblance,			[290]
+Mes imperfections nous eloignant si fort,
+Qu'oserais-je pretendre en ce peu de rapport ?
+CHLORIS.
+Du moins ne pretends pas qu'a present je te loue,
+Et qu'un mepris ruse, que ton coeur desavoue,
+Me mette sur la langue un babil affete,			[295]
+Pour te rendre a mon tour ce que tu m'as prete :
+Au contraire, je veux que tout le monde sache
+Que je connais en toi des defauts que je cache.
+Quiconque avec raison peut etre neglige
+A qui le veut aimer est bien plus oblige.			[300]
+PHILANDRE.
+Quant a toi, tu te crois de beaucoup plus aimable ?
+CHLORIS.
+Sans doute ; et qu'aurais-tu qui me fut comparable ?
+PHILANDRE.
+Regarde dans mes yeux, et reconnais qu'en moi
+On peut voir quelque chose aussi parfait que toi.
+CHLORIS.
+C'est sans difficulte, m'y voyant exprimee.			[305]
+PHILANDRE.
+Quitte ce vain orgueil dont ta vue est charmee.
+Tu n'y vois que mon coeur, qui n'a plus un seul trait,
+Que ceux qu'il a recus de ton charmant portrait,
+Et qui, tout aussitot que tu t'es fait paraitre,
+Afin de te mieux voir, s'est mis a la fenetre.			[310]
+CHLORIS.
+Le trait n'est pas mauvais ; mais puisqu'il te plait tant,
+Regarde dans mes yeux, ils t'en montrent autant ;
+Et nos feux tout pareils ont memes etincelles.
+PHILANDRE.
+Ainsi, chere Chloris, nos ardeurs mutuelles,
+Dedans cette union prenant un meme cours,			[315]
+Nous preparent un heur qui durera toujours.
+Cependant, en faveur de ma longue souffrance...
+CHLORIS.
+Tais-toi, mon frere vient.
+SCENE V. Tircis, Philandre, Chloris.
+TIRCIS.
+Si j'en crois l'apparence,
+Mon arrivee ici fait quelque contretemps.
+PHILANDRE.
+Que t'en semble, Tircis ?
+TIRCIS.
+Je vous vois si contents,			[320]
+Qu'a ne vous rien celer touchant ce qu'il me semble
+Du divertissement que vous preniez ensemble,
+De moins sorciers que moi pourraient bien deviner
+Qu'un troisieme ne fait que vous importuner.
+CHLORIS.
+Dis ce que tu voudras ; nos feux n'ont point de crimes,			[325]
+Et pour t'apprehender ils sont trop legitimes,
+Puisqu'un hymen sacre promis ces jours passes,
+Sous ton consentement, les autorise assez.
+TIRCIS.
+Ou je te connais mal, ou son heure tardive
+Te desoblige fort de ce qu'elle n'arrive.			[330]
+CHLORIS.
+Ta belle humeur te tient, mon frere.
+TIRCIS.
+Assurement.
+CHLORIS.
+Le sujet ?
+TIRCIS.
+J'en ai trop dans ton contentement.
+CHLORIS.
+Le coeur t'en dit d'ailleurs.
+TIRCIS.
+Il est vrai, je te jure ;
+J'ai vu je ne sais quoi...
+CHLORIS.
+Dis tout, je t'en conjure.
+TIRCIS.
+Ma foi, si ton Philandre avait vu de mes yeux,			[335]
+Tes affaires, ma soeur, n'en iraient guere mieux.
+CHLORIS.
+J'ai trop de vanite pour croire que Philandre
+Trouve encore apres moi qui puisse le surprendre.
+TIRCIS.
+Tes vanites a part, repose-t'en sur moi
+Que celle que j'ai vue est bien autre que toi.			[340]
+PHILANDRE.
+Parle mieux de l'objet dont mon ame est ravie ;
+Ce blaspheme a tout autre aurait coute la vie.
+TIRCIS.
+Nous tomberons d'accord sans nous mettre en pourpoint.
+CHLORIS.
+Encor, cette beaute, ne la nomme-t-on point ?
+TIRCIS.
+Non, pas si tot. Adieu : ma presence importune			[345]
+Te laisse a la merci d'Amour et de la brune.
+Continuez les jeux que vous avez quittes.
+CHLORIS.
+Ne crois pas eviter mes importunites :
+Ou tu diras le nom de cette incomparable,
+Ou je vais de tes pas me rendre inseparable.			[350]
+TIRCIS.
+Il n'est pas fort aise d'arracher ce secret.
+Adieu : ne perds point temps.
+CHLORIS.
+O l'amoureux discret !
+Eh bien ? Nous allons voir si tu sauras te taire.
+PHILANDRE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est donc ainsi qu'on quitte un amant pour un frere ?
+CHLORIS.
+Philandre, avoir un peu de curiosite,			[355]
+Ce n'est pas envers toi grande infidelite :
+Souffre que je derobe un moment a ma flamme,
+Pour lire malgre lui jusqu'au fond de son ame.
+Nous en rirons apres ensemble, si tu veux.
+PHILANDRE.
+Quoi ! C'est la tout l'etat que tu fais de mes feux ?			[360]
+CHLORIS.
+Je ne t'aime pas moins, pour etre curieuse,
+Et ta flamme a mon coeur n'est pas moins precieuse.
+Conserve-moi le tien, et sois sur de ma foi.
+PHILANDRE.
+Ah, folle ! Qu'en t'aimant il faut souffrir de toi !
+
+
+			ACTE II
+
+
+SCENE PREMIERE.
+ERASTE, seul.
+Je l'avais bien prevu que ce coeur infidele			[365]
+Ne se defendrait point des yeux de ma cruelle,
+Qui traite mille amants avec mille mepris,
+Et n'a point de faveurs que pour le dernier pris.
+Sitot qu'il l'aborda, je lus sur son visage
+De sa deloyaute l'infaillible presage ;			[370]
+Un inconnu frisson dans mon corps epandu
+Me donna les avis de ce que j'ai perdu.
+Depuis, cette volage evite ma rencontre,
+Ou, si malgre ses soins le hasard me la montre,
+Si je puis l'aborder, son discours se confond,			[375]
+Son esprit en desordre a peine me repond ;
+Une reflexion vers le traitre qu'elle aime
+Presque a tous moments le ramene en lui-meme ;
+Et tout reveur qu'il est, il n'a point de soucis
+Qu'un soupir ne trahisse au seul nom de Tircis.			[380]
+Lors, par le prompt effet d'un changement etrange,
+Son silence rompu se deborde en louange.
+Elle remarque en lui tant de perfections,
+Que les moins eclaires verraient ses passions ;
+Sa bouche ne se plait qu'en cette flatterie,			[385]
+Et tout autre propos lui rend sa reverie.
+Cependant, chaque jour aux discours attaches,
+Ils ne retiennent plus leurs sentiments caches ;
+Ils ont des rendez-vous ou l'amour les assemble ;
+Encor hier sur le soir je les surpris ensemble ;			[390]
+Encor tout de nouveau je la vois qui l'attend.
+Que cet oeil assure marque un esprit content !
+Perds tout respect, Eraste, et tout soin de lui plaire :
+Rends, sans plus differer, ta vengeance exemplaire ;
+Mais il vaut mieux t'en rire, et pour dernier effort			[395]
+Lui montrer en raillant combien elle a de tort.
+SCENE II. Eraste, Melite.
+ERASTE.
+Quoi ! Seule et sans Tircis ! Vraiment c'est un prodige ;
+Et ce nouvel amant deja trop vous neglige,
+Laissant ainsi couler la belle occasion
+De vous conter l'exces de son affection.			[400]
+MELITE.
+Vous savez que son ame en est fort depourvue.
+ERASTE.
+Toutefois, ce dit-on, depuis qu'il vous a vue,
+Il en porte dans l'ame un si doux souvenir,
+Qu'il n'a plus de plaisirs qu'a vous entretenir.
+MELITE.
+Il a lieu de s'y plaire avec quelque justice.			[405]
+L'amour ainsi qu'a lui me parait un supplice ;
+Et sa froideur, qu'augmente un si lourd entretien,
+Le resout d'autant mieux a n'aimer jamais rien.
+ERASTE.
+Dites : a n'aimer rien que la belle Melite.
+MELITE.
+Pour tant de vanite j'ai trop peu de merite.			[410]
+ERASTE.
+En faut-il tant avoir pour ce nouveau venu ?
+MELITE.
+Un peu plus que pour vous.
+ERASTE.
+De vrai, j'ai reconnu,
+Vous ayant pu servir deux ans, et davantage,
+Qu'il faut si peu que rien a toucher mon courage.
+MELITE.
+Encor si peu que c'est vous etant refuse,			[415]
+Presumez comme ailleurs vous serez meprise.
+ERASTE.
+Vos mepris ne sont pas de grande consequence,
+Et ne vaudront jamais la peine que j'y pense ;
+Sachant qu'il vous voyait, je m'etais bien doute
+Que je ne serais plus que fort mal ecoute.			[420]
+MELITE.
+Sans que mes actions de plus pres j'examine,
+A la meilleure humeur je fais meilleure mine ;
+Et s'il m'osait tenir de semblables discours,
+Nous romprions ensemble avant qu'il fut deux jours.
+ERASTE.
+Si chaque objet nouveau de meme vous engage,			[425]
+Il changera bientot d'humeur et de langage.
+Caresse maintenant aussitot qu'apercu
+Qu'aurait-il a se plaindre, etant si bien recu ?
+MELITE.
+Eraste, voyez-vous, treve de jalousie ;
+Purgez votre cerveau de cette frenesie :			[430]
+Laissez en liberte mes inclinations.
+Qui vous a fait censeur de mes affections ?
+Est-ce a votre chagrin que j'en dois rendre conte ?
+ERASTE.
+Non, mais j'ai malgre moi pour vous un peu de honte,
+De ce qu'on dit partout du trop de privaute			[435]
+Que deja vous souffrez a sa temerite.
+MELITE.
+Ne soyez en souci que de ce qui vous touche.
+ERASTE.
+Le moyen, sans regret, de vous voir si farouche
+Aux legitimes voeux de tant de gens d'honneur,
+Et d'ailleurs si facile a ceux d'un suborneur ?			[440]
+MELITE.
+Ce n'est pas contre lui qu'il faut en ma presence
+Lacher les traits jaloux de votre medisance.
+Adieu. Souvenez-vous que ces mots insenses
+L'avanceront chez moi plus que vous ne pensez.
+SCENE III.
+ERASTE, seul.
+C'est la donc ce qu'enfin me gardait ton caprice ?			[445]
+C'est ce que j'ai gagne par deux ans de service ?
+C'est ainsi que mon feu, s'etant trop abaisse,
+D'un outrageux mepris se voit recompense ?
+Tu m'oses preferer un traitre qui te flatte ;
+Mais dans ta lachete ne crois pas que j'eclate,			[450]
+Et que par la grandeur de mes ressentiments
+Je laisse aller au jour celle de mes tourments.
+Un aveu si public qu'en ferait ma colere
+Enflerait trop l'orgueil de ton ame legere,
+Et me convaincrait trop de ce desir abject			[455]
+Qui m'a fait soupirer pour un indigne objet.
+Je saurai me venger, mais avec l'apparence
+De n'avoir pour tous deux que de l'indifference.
+Il fut toujours permis de tirer sa raison
+D'une infidelite par une trahison.			[460]
+Tiens, deloyal ami, tiens ton ame assuree
+Que ton heur surprenant aura peu de duree,
+Et que, par une adresse egale a tes forfaits,
+Je mettrai le desordre ou tu crois voir la paix.
+L'esprit fourbe et venal d'un voisin de Melite			[465]
+Donnera prompte issue a ce que je medite.
+A servir qui l'achete il est toujours tout pret,
+Et ne voit rien d'injuste ou brille l'interet.
+Allons sans perdre temps lui payer ma vengeance,
+Et la pistole en main presser sa diligence.			[470]
+SCENE IV. Tircis, Chloris.
+TIRCIS.
+Ma soeur, un mot d'avis sur un mechant sonnet
+Que je viens de brouiller dedans mon cabinet.
+CHLORIS.
+C'est a quelque beaute que ta muse l'adresse ?
+TIRCIS.
+En faveur d'un ami je flatte sa maitresse.
+Vois si tu le connais, et si, parlant pour lui,			[475]
+J'ai su m'accommoder aux passions d'autrui.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Apres l'oeil de Melite il n'est rien d'admirable...
+CHLORIS.
+Ah ! Frere, il n'en faut plus.
+TIRCIS.
+Tu n'es pas supportable
+De me rompre sitot.
+CHLORIS.
+C'etait sans y penser ;
+Acheve.
+TIRCIS.
+Tais-toi donc, je vais recommencer.			[480]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+	Apres l'oeil de Melite il n'est rien d'admirable ;
+	Il n'est rien de solide apres ma loyaute.
+	Mon feu, comme son teint, se rend incomparable ;
+	Et je suis en amour ce qu'elle est en beaute.
+
+
+	Quoi que puisse a mes sens offrir la nouveaute,
+**** JE SUIS ICI ***********
+	Mon coeur a tous ses traits demeure invulnerable ;
+	Et bien qu'elle ait au sien la meme cruaute,
+	Ma foi pour ses rigueurs n'en est pas moins durable.
+
+
+	C'est donc avec raison que mon extreme ardeur
+	Trouve chez cette belle une extreme froideur,
+	Et que sans etre aime je brule pour Melite :
+
+
+	Car de ce que les dieux, nous envoyant au jour,
+	Donnerent pour nous deux d'amour et de merite,
+	Elle a tout le merite, et moi j'ai tout l'amour.
+
+			[0]
+CHLORIS.
+Tu l'as fait pour Eraste ?
+TIRCIS.
+Oui, j'ai depeint sa flamme.			[495]
+CHLORIS.
+Comme tu la ressens peut-etre dans ton ame ?
+TIRCIS.
+Tu sais mieux qui je suis, et que ma libre humeur
+N'a de part en mes vers que celle de rimeur.
+CHLORIS.
+Pauvre frere ! Vois-tu, ton silence t'abuse ;
+De la langue ou des yeux, n'importe qui t'accuse :			[500]
+Les tiens m'avaient bien dit, malgre toi, que ton coeur
+Soupirait sous les lois de quelque objet vainqueur ;
+Mais j'ignorais encore qui tenait ta franchise,
+Et le nom de Melite a cause ma surprise
+Sitot qu'au premier vers ton sonnet m'a fait voir			[505]
+Ce que depuis huit jours je brulais de savoir.
+TIRCIS.
+Tu crois donc que j'en tiens ?
+CHLORIS.
+Fort avant.
+TIRCIS.
+Pour Melite ?
+CHLORIS.
+Pour Melite ; et, de plus, que ta flamme n'excite
+Au coeur de cette belle aucun embrasement.
+TIRCIS.
+Qui t'en a tant appris ? Mon sonnet ?
+CHLORIS.
+Justement.			[510]
+TIRCIS.
+Et c'est ce qui te trompe avec tes conjectures,
+Et par ou ta finesse a mal pris ses mesures.
+Un visage jamais ne m'aurait arrete,
+S'il fallait que l'amour fut tout de mon cote.
+Ma rime seulement est un portrait fidele			[515]
+De ce qu'Eraste souffre en servant cette belle ;
+Mais quand je l'entretiens de mon affection,
+J'en ai toujours assez de satisfaction.
+CHLORIS.
+Montre, si tu dis vrai, quelque peu plus de joie ;
+Et rends-toi moins reveur, afin que je te croie.			[520]
+TIRCIS.
+Je reve, et mon esprit ne s'en peut exempter ;
+Car sitot que je viens a me representer
+Qu'une vieille amitie de mon amour s'irrite,
+Qu'Eraste s'en offense, et s'oppose a Melite,
+Tantot je suis ami, tantot je suis rival ;			[525]
+Et, toujours balance d'un contrepoids egal,
+J'ai honte de me voir insensible, ou perfide.
+Si l'amour m'enhardit, l'amitie m'intimide.
+Entre ces mouvements mon esprit partage
+Ne sait duquel des deux il doit prendre conge.			[530]
+CHLORIS.
+Voila bien des detours pour dire, au bout du conte,
+Que c'est contre ton gre que l'amour te surmonte.
+Tu presumes par la me le persuader ;
+Mais ce n'est pas ainsi qu'on m'en donne a garder.
+A la mode du temps, quand nous servons quelque autre,			[535]
+C'est seulement alors qu'il n'y va rien du notre.
+Chacun en son affaire est son meilleur ami,
+Et tout autre interet ne touche qu'a demi.
+TIRCIS.
+Que du foudre a tes yeux j'eprouve la furie,
+Si rien que ce rival cause ma reverie !			[540]
+CHLORIS.
+C'est donc assurement son bien qui t'est suspect ;
+Son bien te fait rever, et non pas son respect ;
+Et, toute amitie bas, tu crains que sa richesse
+En depit de tes feux n'obtienne ta maitresse.
+TIRCIS.
+Tu devines, ma soeur ; cela me fait mourir.			[545]
+CHLORIS.
+Ce sont vaines frayeurs dont je veux te guerir.
+Depuis quand ton Eraste en tient-il pour Melite ?
+TIRCIS.
+Il rend depuis deux ans hommage a son merite.
+CHLORIS.
+Mais dit-il les grands mots ? Parle-t-il d'epouser ?
+TIRCIS.
+Presque a chaque moment.
+CHLORIS.
+Laisse-le donc jaser.			[550]
+Ce malheureux amant ne vaut pas qu'on le craigne ;
+Quelque riche qu'il soit, Melite le dedaigne :
+Puisqu'on voit sans effet deux ans d'affection,
+Tu ne dois plus douter de son aversion ;
+Le temps ne la rendra que plus grande et plus forte.			[555]
+On prend soudain au mot les hommes de sa sorte,
+Et sans rien hasarder a la moindre longueur,
+On leur donne la main des qu'ils offrent le coeur.
+TIRCIS.
+Sa mere peut agir de puissance absolue.
+CHLORIS.
+Crois que deja l'affaire en serait resolue,			[560]
+Et qu'il aurait deja de quoi se contenter
+Si sa mere etait femme a la violenter.
+TIRCIS.
+Ma crainte diminue, et ma douleur s'apaise ;
+Mais si je t'abandonne, excuse mon trop d'aise.
+Avec cette lumiere et ma dexterite,			[565]
+J'en veux aller savoir toute la verite.
+Adieu.
+CHLORIS.
+Moi, je m'en vais paisiblement attendre
+Le retour desire du paresseux Philandre.
+Un moment de froideur lui fera souvenir
+Qu'il faut une autre fois tarder moins a venir.			[570]
+SCENE V. Eraste, Cliton.
+ERASTE, lui donnant une lettre.
+Va-t'en chercher Philandre, et dis-lui que Melite
+A dedans ce billet sa passion decrite ;
+Dis-lui que sa pudeur ne saurait plus cacher
+Un feu qui la consume et qu'elle tient si cher :
+Mais prends garde surtout a bien jouer ton role ;			[575]
+Remarque sa couleur, son maintien, sa parole ;
+Vois si dans la lecture un peu d'emotion
+Ne te montrera rien de son intention.
+CLITON.
+Cela vaut fait, monsieur.
+ERASTE.
+Mais, apres ce message,
+Sache avec tant d'adresse ebranler son courage,			[580]
+Que tu viennes a bout de sa fidelite.
+CLITON.
+Monsieur, reposez-vous sur ma subtilite ;
+Il faudra malgre lui qu'il donne dans le piege ;
+Ma tete sur ce point vous servira de pleige ;
+Mais aussi vous savez...
+ERASTE.
+Oui, va, sois diligent.			[585]
+Ces ames du commun n'ont pour but que l'argent ;
+Et je n'ai que trop vu par mon experience...
+Mais tu reviens bientot ?
+CLITON.
+Donnez-vous patience,
+Monsieur ; il ne nous faut qu'un moment de loisir,
+Et vous pourrez vous-meme en avoir le plaisir.			[590]
+ERASTE.
+Comment ?
+CLITON.
+De ce carrefour j'ai vu venir Philandre.
+Cachez-vous en ce coin, et de la sachez prendre
+L'occasion commode a seconder mes coups.
+Par la nous le tenons. Le voici ; sauvez-vous.
+SCENE VI. Philandre, Eraste, Cliton.
+PHILANDRE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quelle reception me fera ma maitresse ?			[595]
+Le moyen d'excuser une telle paresse ?
+CLITON.
+Monsieur, tout a propos je vous rencontre ici,
+Expressement charge de vous rendre ceci.
+PHILANDRE.
+Qu'est-ce ?
+CLITON.
+Vous allez voir, en lisant cette lettre,
+Ce qu'un homme jamais n'oserait se promettre.			[600]
+Ouvrez-la seulement.
+PHILANDRE.
+Va, tu n'es qu'un conteur.
+CLITON.
+Je veux mourir, au cas qu'on me trouve menteur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Malgre le devoir et la bienseance du sexe, celle-ci m'echappe en faveur de vos merites, pour vous apprendre que c'est Melite qui vous ecrit, et qui vous aime. Si elle est assez heureuse pour recevoir de vous une reciproque affection, contentez-vous de cet entretien par lettres, jusqu'a ce qu'elle ait ote de l'esprit de sa mere quelques personnes qui n'y sont que trop bien pour son contentement.
+ERASTE, feignant d'avoir lu la lettre par-dessus son epaule.
+C'est donc la verite que la belle Melite
+Fait du brave Philandre une louable elite,
+Et qu'il obtient ainsi de sa seule vertu			[605]
+Ce qu'Eraste et Tircis ont en vain debattu ?
+Vraiment dans un tel choix mon regret diminue ;
+Outre qu'une froideur depuis peu survenue,
+De tant de voeux perdus ayant su me lasser,
+N'attendait qu'un pretexte a m'en debarrasser.			[610]
+PHILANDRE.
+Me dis-tu que Tircis brule pour cette belle ?
+ERASTE.
+Il en meurt.
+PHILANDRE.
+Ce courage a l'amour si rebelle ?
+ERASTE.
+Lui-meme.
+PHILANDRE.
+Si ton coeur ne tient plus qu'a demi,
+Tu peux le retirer en faveur d'un ami ;
+Sinon, pour mon regard ne cesse de pretendre :			[615]
+Etant pris une fois, je ne suis plus a prendre.
+Tout ce que je puis faire a ce beau feu naissant,
+C'est de m'en revancher par un zele impuissant ;
+Et ma Chloris la prie, afin de s'en distraire,
+De tourner, s'il se peut, sa flamme vers son frere.			[620]
+ERASTE.
+Aupres de sa beaute qu'est-ce que ta Chloris ?
+PHILANDRE.
+Un peu plus de respect pour ce que je cheris.
+ERASTE.
+Je veux qu'elle ait en soi quelque chose d'aimable ;
+Mais enfin a Melite est-elle comparable ?
+PHILANDRE.
+Qu'elle le soit ou non, je n'examine pas			[625]
+Si des deux l'une ou l'autre a plus ou moins d'appas.
+J'aime l'une ; et mon coeur pour toute autre insensible...
+ERASTE.
+Avise toutefois, le pretexte est plausible.
+PHILANDRE.
+J'en serais mal voulu des hommes et des dieux.
+ERASTE.
+On pardonne aisement a qui troue son mieux.			[630]
+PHILANDRE.
+Mais en quoi git ce mieux ?
+ERASTE.
+En esprit, en richesse.
+PHILANDRE.
+O le honteux motif a changer de maitresse !
+ERASTE.
+En amour.
+PHILANDRE.
+Chloris m'aime, et si je m'y connais,
+Rien ne peut egaler celui qu'elle a pour moi.
+ERASTE.
+Tu te detromperas, si tu veux prendre garde			[635]
+A ce qu'a ton sujet l'une et l'autre hasarde.
+L'une en t'aimant s'expose au peril d'un mepris :
+L'autre ne t'aime point que tu n'en sois epris ;
+L'une t'aime engage vers une autre moins belle :
+L'autre se rend sensible a qui n'aime rien qu'elle,			[640]
+L'une au-dessus des siens te montre son ardeur ;
+Et l'autre apres leur choix quitte un peu sa froideur :
+L'une...
+PHILANDRE.
+Adieu : des raisons de si peu d'importance
+Ne pourraient en un siecle ebranler ma constance.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dans deux heures d'ici tu viendras me revoir.			[645]
+CLITON.
+Disposez librement de mon petit pouvoir.
+ERASTE, seul.
+Il a beau deguiser, il a goute l'amorce ;
+Chloris deja sur lui n'a presque plus de force :
+Ainsi je suis deux fois venge du ravisseur,
+Ruinant tout ensemble, et le frere, et la soeur.			[650]
+SCENE VII. Tircis, Eraste, Melite.
+TIRCIS.
+Eraste, arrete un peu.
+ERASTE.
+Que me veux-tu ?
+TIRCIS.
+Te rendre
+Ce sonnet que pour toi j'ai promis d'entreprendre.
+MELITE, au travers d'une jalousie, cependant qu'Eraste lit le sonnet.
+Que font-ils la tous deux ? Qu'ont-ils a demeler ?
+Ce jaloux a la fin le pourra quereller ;
+Du moins les compliments, dont peut-etre ils se jouent,			[655]
+Sont des civilites qu'en l'ame ils desavouent.
+TIRCIS.
+J'y donne une raison de ton sort inhumain.
+Allons, je le veux voir presenter de ta main
+A ce charmant objet dont ton ame est blessee.
+ERASTE, lui rendant son sonnet.
+Une autre fois, Tircis ; quelque affaire pressee			[660]
+Fait que je ne saurais pour l'heure m'en charger.
+Tu trouveras ailleurs un meilleur messager.
+TIRCIS, seul.
+La belle humeur de l'homme ! O dieux, quel personnage !
+Quel ami j'avais fait de ce plaisant visage !
+Une mine froncee, un regard de travers,			[665]
+C'est le remerciement, que j'aurai de mes vers.
+Je manque, a son avis, d'assurance ou d'adresse,
+Pour les donner moi-meme a sa jeune maitresse,
+Et prendre ainsi le temps de dire a sa beaute
+L'empire que ses yeux ont sur ma liberte.			[670]
+Je pense l'entrevoir par cette jalousie :
+Oui, mon ame de joie en est toute saisie.
+Helas ! Et le moyen de pouvoir lui parler,
+Si mon premier aspect l'oblige a s'en aller ?
+Que cette joie est courte, et qu'elle est cher vendue !			[675]
+Toutefois tout va bien, la voila descendue.
+Ses regards pleins de feu s'entendent avec moi ;
+Que dis-je ? En s'avancant elle m'appelle a soi.
+SCENE VIII. Melite, Tircis.
+MELITE.
+Eh bien ! Qu'avez-vous fait de votre compagnie ?
+TIRCIS.
+Je ne puis rien juger de ce qui l'a bannie :			[680]
+A peine ai-je eu loisir de lui dire deux mots.
+Qu'aussitot le fantasque, en me tournant le dos,
+S'est echappe de moi.
+MELITE.
+Sans doute il m'aura vue,
+Et c'est de la que vient cette fuite imprevue.
+TIRCIS.
+Vous aimant comme il fait, qui l'eut jamais pense ?			[685]
+MELITE.
+Vous ne savez donc rien de ce qui s'est passe ?
+TIRCIS.
+J'aimerais beaucoup mieux savoir ce qui se passe,
+Et la part qu'a Tircis en votre bonne grace.
+MELITE.
+Meilleur aucunement qu'Eraste ne voudrait.
+Je n'ai jamais connu d'amant si maladroit ;			[690]
+Il ne saurait souffrir qu'autre que lui m'approche.
+Dieux ! Qu'a votre sujet il m'a fait de reproche !
+Vous ne sauriez me voir sans le desobliger.
+TIRCIS.
+Et de tous mes soucis c'est la le plus leger.
+Toute une legion de rivaux de sa sorte			[695]
+Ne divertirait pas l'amour que je vous porte,
+Qui ne craindra jamais les humeurs d'un jaloux.
+MELITE.
+Aussi le croit-il bien, ou je me trompe.
+TIRCIS.
+Et vous ?
+MELITE.
+Bien que cette croyance a quelque erreur m'expose,
+Pour lui faire depit, j'en croirai quelque chose.			[700]
+TIRCIS.
+Mais afin qu'il recut un entier deplaisir,
+Il faudrait que nos coeurs n'eussent plus qu'un desir,
+Et quitter ces discours de volontes sujettes,
+Qui ne sont point de mise en l'etat ou vous etes.
+Vous-meme consultez un moment vos appas ;			[705]
+Songez a leurs effets, et ne presumez pas
+Avoir sur tous les coeurs un pouvoir si supreme,
+Sans qu'il vous soit permis d'en user sur vous-meme.
+Un si digne sujet ne recoit point de loi,
+De regle, ni d'avis, d'un autre que de soi.			[710]
+MELITE.
+Ton merite, plus fort que ta raison flatteuse,
+Me rend, je le confesse, un peu moins scrupuleuse.
+Je dois tout a ma mere, et pour tout autre amant
+Je voudrais tout remettre a son commandement ;
+Mais attendre pour toi l'effet de sa puissance,			[715]
+Sans te rien temoigner que par obeissance,
+Tircis, ce serait trop ; tes rares qualites
+Dispensent mon devoir de ces formalites.
+TIRCIS.
+Que d'amour et de joie un tel aveu me donne !
+MELITE.
+C'est peut-etre en trop dire, et me montrer trop bonne ;			[720]
+Mais par la tu peux voir que mon affection
+Prend confiance entiere en ta discretion.
+TIRCIS.
+Vous la verrez toujours dans un respect sincere
+Attacher mon bonheur a celui de vous plaire,
+N'avoir point d'autre soin, n'avoir point d'autre esprit ;			[725]
+Et si vous en voulez un serment par ecrit,
+Ce sonnet que pour vous vient de tracer ma flamme,
+Vous fera voir a nu jusqu'au fond de mon ame.
+MELITE.
+Garde bien ton sonnet, et pense qu'aujourd'hui
+Melite veut te croire autant et plus que lui.			[730]
+Je le prends toutefois comme un precieux gage
+Du pouvoir que mes yeux ont pris sur ton courage.
+Adieu : sois-moi fidele en depit du jaloux.
+TIRCIS.
+O ciel ! Jamais amant eut-il un sort plus doux !
+
+
+			ACTE III
+
+
+SCENE PREMIERE
+PHILANDRE, seul.
+Tu l'as gagne, Melite ; il ne m'est pas possible			[735]
+D'etre a tant de faveurs plus longtemps insensible.
+Tes lettres ou sans fard tu depeins ton esprit,
+Tes lettres ou ton coeur est si bien par ecrit,
+Ont charme tous mes sens par leurs douces promesses.
+Leur attente vaut mieux, Chloris, que tes caresses.			[740]
+Ah ! Melite, pardon ! Je t'offense a nommer
+Celle qui m'empecha si longtemps de t'aimer.
+Souvenirs importuns d'une amante laissee,
+Qui venez malgre moi remettre en ma pensee
+Un portrait que j'en veux tellement effacer			[745]
+Que le sommeil ait peine a me le retracer,
+Hatez-vous de sortir sans plus troubler ma joie ;
+Et retournant trouver celle qui vous envoie,
+Dites-lui de ma part pour la derniere fois
+Qu'elle est en liberte de faire un autre choix ;			[750]
+Que ma fidelite n'entretient plus ma flamme,
+Ou que s'il m'en demeure encore un peu dans l'ame,
+Je souhaite, en faveur de ce reste de foi,
+Qu'elle puisse gagner au change autant que moi.
+Dites-lui que Melite, ainsi qu'une deesse,			[755]
+Est de tous nos desirs souveraine maitresse,
+Dispose de nos coeurs, force nos volontes,
+Et que par son pouvoir nos destins surmontes
+Se tiennent trop heureux de prendre l'ordre d'elle ;
+Enfin que tous mes voeux...
+SCENE II. Tircis, Philandre.
+TIRCIS.
+Philandre !			[760]
+PHILANDRE.
+Qui m'appelle ?			[760]
+TIRCIS.
+Tircis, dont le bonheur au plus haut point monte
+Ne peut etre parfait sans te l'avoir conte.
+PHILANDRE.
+Tu me fais trop d'honneur par cette confidence.
+TIRCIS.
+J'userais envers toi d'une sotte prudence,
+Si je faisais dessein de te dissimuler			[765]
+Ce qu'aussi bien mes yeux ne sauraient te celer.
+PHILANDRE.
+En effet, si l'on peut te juger au visage,
+Si l'on peut par tes yeux lire dans ton courage,
+Ce qu'ils montrent de joie a tel point me surprend,
+Que je n'en puis trouver de sujet assez grand ;			[770]
+Rien n'atteint, ce me semble, aux signes qu'ils en donnent.
+TIRCIS.
+Que fera le sujet, si les signes t'etonnent ?
+Mon bonheur est plus grand qu'on ne peut soupconner.
+C'est quand tu l'auras su qu'il faudra t'etonner.
+PHILANDRE.
+Je ne le saurai pas sans marque plus expresse.			[775]
+TIRCIS.
+Possesseur, autant vaut...
+PHILANDRE.
+De quoi ?
+TIRCIS.
+D'une maitresse
+Belle, honnete, jolie, et dont l'esprit charmant
+De son seul entretien peut ravir un amant ;
+En un mot, de Melite.
+PHILANDRE.
+Il est vrai qu'elle est belle :
+Tu n'as pas mal choisi ; mais...
+TIRCIS.
+Quoi, mais ?			[780]
+PHILANDRE.
+T'aime-t-elle ?			[780]
+TIRCIS.
+Cela n'est plus en doute.
+PHILANDRE.
+Et de coeur ?
+TIRCIS.
+Et de coeur,
+Je t'en reponds.
+PHILANDRE.
+Souvent un visage moqueur
+N'a que le beau semblant d'une mine hypocrite.
+TIRCIS.
+Je ne crains rien de tel du cote de Melite.
+PHILANDRE.
+Ecoute, j'en ai vu de toutes les facons ;			[785]
+J'en ai vu qui semblaient n'etre que des glacons,
+Dont le feu retenu par une adroite feinte
+S'allumait d'autant plus qu'il souffrait de contrainte ;
+J'en ai vu, mais beaucoup, qui, sous le faux appas
+Des preuves d'un amour qui ne les touchait pas,			[790]
+Prenaient du passe-temps d'une folle jeunesse
+Qui se laisse affiner a ces traits de souplesse,
+Et pratiquaient sous main d'autres affections :
+Mais j'en ai vu fort peu de qui les passions
+Fussent d'intelligence avec tout le visage.			[795]
+TIRCIS.
+Et de ce petit nombre est celle qui m'engage ;
+De sa passion je me tiens aussi sur
+Que tu te peux tenir de celle de ma soeur.
+PHILANDRE.
+Donc si ton esperance a la fin n'est decue,
+Ces deux amours auront une pareille issue ?			[800]
+TIRCIS.
+Si cela n'arrivait, je me tromperais fort.
+PHILANDRE.
+Pour te faire plaisir j'en veux etre d'accord.
+Cependant apprends-moi comment elle te traite,
+Et qui te fait juger son ardeur si parfaite.
+TIRCIS.
+Une parfaite ardeur a trop de truchements			[805]
+Par qui se faire entendre aux esprits des amants ;
+Un coup d'oeil, un soupir...
+PHILANDRE.
+Ces faveurs ridicules
+Ne servent qu'a duper des ames trop credules.
+N'as-tu rien que cela ?
+TIRCIS.
+Sa parole et sa foi.
+PHILANDRE.
+Encor c'est quelque chose. Acheve, et conte-moi			[810]
+Les petites douceurs, les aimables tendresses
+Qu'elle se plait a joindre a de telles promesses.
+Quelques lettres du moins te daignent confirmer
+Ce voeu qu'entre tes mains elle a fait de t'aimer ?
+TIRCIS.
+Recherche qui voudra ces menus badinages,			[815]
+Qui n'en sont pas toujours de fort surs temoignages ;
+Je n'ai que sa parole, et ne veux que sa foi.
+PHILANDRE.
+Je connais donc quelqu'un plus avance que toi.
+TIRCIS.
+J'entends qui tu veux dire, et pour ne te rien feindre,
+Ce rival est bien moins a redouter qu'a plaindre.			[820]
+Eraste, qu'ont banni ses dedains rigoureux...
+PHILANDRE.
+Je parle de quelque autre un peu moins malheureux.
+TIRCIS.
+Je ne connais que lui qui soupire pour elle.
+PHILANDRE.
+Je ne te tiendrai point plus longtemps en cervelle :
+Pendant qu'elle t'amuse avec ses beaux discours,			[825]
+Un rival inconnu possede ses amours ;
+Et la dissimulee, au mepris de ta flamme,
+Par lettres, chaque jour, lui fait don de son ame.
+TIRCIS.
+De telles trahisons lui sont trop en horreur.
+PHILANDRE.
+Je te veux, par pitie, tirer de cette erreur.			[830]
+Tantot, sans y penser, j'ai trouve cette lettre ;
+Tiens, vois ce que tu peux desormais t'en promettre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je commence a m'estimer quelque chose, puisque je vous plais ; et mon miroir m'offense tous les jours, ne me representant pas assez belle, comme je m'imagine qu'il faut etre pour meriter votre affection. Aussi je veux bien que vous sachiez que Melite ne croit la posseder que par faveur, ou comme une recompense extraordinaire d'un exces d'amour, dont elle tache de suppleer au defaut des graces que le ciel lui a refusees.
+PHILANDRE.
+Maintenant qu'en dis-tu ? N'est-ce pas t'affronter ?
+TIRCIS.
+Cette lettre en tes mains ne peut m'epouvanter.
+PHILANDRE.
+La raison ?
+TIRCIS.
+Le porteur a su combien je t'aime,			[835]
+Et par galanterie il t'a pris pour moi-meme,
+Comme aussi ce n'est qu'un de deux parfaits amis.
+PHILANDRE.
+Voila bien te flatter plus qu'il ne t'est permis,
+Et pour ton interet aimer a te meprendre.
+TIRCIS.
+On t'en aura donne quelque autre pour me rendre,			[840]
+Afin qu'encore un coup je sois ainsi decu.
+PHILANDRE.
+Oui, j'ai quelque billet que tantot j'ai recu ;
+Et puisqu'il est pour toi...
+TIRCIS.
+Que ta longueur me tue !
+Depeche.
+PHILANDRE.
+Le voila que je te restitue.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous n'avez plus affaire qu'a Tircis ; je le souffre encore, afin que par sa hantise je remarque plus exactement ses defauts et les fasse mieux gouter a ma mere. Apres cela Philandre et Melite auront tout loisir de rire ensemble des belles imaginations dont le frere et la soeur ont repu leurs esperances.
+PHILANDRE.
+Te voila tout reveur, cher ami ; par ta foi,			[845]
+Crois-tu que ce billet s'adresse encore a toi ?
+TIRCIS.
+Traitre ! C'est donc ainsi que ma soeur meprisee
+Sert a ton changement d'un sujet de risee ?
+C'est ainsi qu'a sa foi Melite osant manquer,
+D'un parjure si noir ne fait que se moquer ?			[850]
+C'est ainsi que sans honte a mes yeux tu subornes
+Un amour qui pour moi devait etre sans bornes ?
+Suis-moi tout de ce pas ; que l'epee a la main
+Un si cruel affront se repare soudain :
+Il faut que pour tous deux ta tete me reponde.			[855]
+PHILANDRE.
+Si, pour te voir trompe, tu te deplais au monde,
+Cherche en ce desespoir qui t'en veuille arracher.
+Quant a moi, ton trepas me couterait trop cher.
+TIRCIS.
+Quoi ! Tu crains le duel ?
+PHILANDRE.
+Non ; mais j'en crains la suite,
+Ou la mort du vaincu met le vainqueur en fuite ;			[860]
+Et du plus beau succes le dangereux eclat
+Nous fait perdre l'objet et le prix du combat.
+TIRCIS.
+Tant de raisonnement et si peu de courage
+Sont de tes lachetes le digne temoignage.
+Viens, ou dis que ton sang n'oserait s'exposer.			[865]
+PHILANDRE.
+Mon sang n'est plus a moi ; je n'en puis disposer,
+Mais puisque ta douleur de mes raisons s'irrite,
+J'en prendrai, des ce soir, le conge de Melite.
+Adieu.
+SCENE III.
+TIRCIS, seul.
+Tu fuis, perfide, et ta legerete
+T'ayant fait criminel, te met en surete !			[870]
+Reviens, reviens defendre une place usurpee :
+Celle qui te cherit vaut bien un coup d'epee.
+Fais voir que l'infidele, en se donnant a toi,
+A fait choix d'un amant qui valait mieux que moi,
+Soutiens son jugement, et sauve ainsi de blame			[875]
+Celle qui pour la tienne a neglige ma flamme.
+Crois-tu qu'on la merite a force de courir ?
+Peux-tu m'abandonner ses faveurs sans mourir ?
+O lettres, o faveurs, indignement placees,
+A ma discretion honteusement laissees !			[880]
+O gages qu'il neglige ainsi que superflus !
+Je ne sais qui de nous vous diffamez le plus ;
+Je ne sais qui des trois doit rougir davantage :
+Car vous nous apprenez qu'elle est une volage,
+Son amant un parjure, et moi sans jugement,			[885]
+De n'avoir rien prevu de leur deguisement :
+Mais il le fallait bien que cette ame infidele,
+Changeant d'affection, prit un traitre comme elle ;
+Et que le digne amant qu'elle a su rechercher
+A sa deloyaute n'eut rien a reprocher.			[890]
+Cependant j'en croyais cette fausse apparence
+Dont elle repaissait ma frivole esperance ;
+J'en croyais ses regards, qui, tout remplis d'amour,
+Etaient de la partie en un si lache tour.
+O ciel ! Vit-on jamais tant de supercherie,			[895]
+Que tout l'exterieur ne fut que tromperie ?
+Non, non, il n'en est rien ; une telle beaute
+Ne fut jamais sujette a la deloyaute.
+Faibles et seuls temoins du malheur qui me touche,
+Vous etes trop hardis de dementir sa bouche.			[900]
+Melite me cherit, elle me l'a jure ;
+Son oracle recu, je m'en tiens assure.
+Que dites-vous la contre ? Etes-vous plus croyables ?
+Caracteres trompeurs, vous me contez des fables,
+Vous voulez me trahir ; mais vos efforts sont vains :			[905]
+Sa parole a laisse son coeur entre mes mains.
+A ce doux souvenir ma flamme se rallume :
+Je ne sais plus qui croire ou d'elle ou de sa plume :
+L'une et l'autre en effet n'ont rien que de leger ;
+Mais du plus ou du moins je n'en puis que juger.			[910]
+Loin, loin, doutes flatteurs que mon feu me suggere ;
+Je vois trop clairement qu'elle est la plus legere ;
+La foi que j'en recus s'en est allee en l'air,
+Et ces traits de sa plume osent encor parler,
+Et laissent en mes mains une honteuse image			[915]
+Ou son coeur, peint au vif, remplit le mien de rage.
+Oui, j'enrage, je meurs, et tous mes sens troubles
+D'un exces de douleur se trouvent accables ;
+Un si cruel tourment me gene et me dechire,
+Que je ne puis plus vivre avec un tel martyre.			[920]
+Mais cachons-en la honte, et nous donnons du moins
+Ce faux soulagement, en mourant sans temoins.
+Que mon trepas secret empeche l'infidele
+D'avoir la vanite que je sois mort pour elle.
+SCENE IV. Chloris, Tircis.
+CHLORIS.
+Mon frere, en ma faveur retourne sur tes pas.			[925]
+Dis-moi la verite ; tu ne me cherchais pas ?
+Eh quoi ! Tu fais semblant de ne me pas connaitre ?
+O dieux ! En quel etat te vois-je ici paraitre !
+Tu palis tout a coup, et tes louches regards
+S'elancent incertains presque de toutes parts !			[930]
+Tu manques a la fois de couleur et d'haleine !
+Ton pied mal affermi ne te soutient qu'a peine !
+Quel accident nouveau te trouble ainsi les sens ?
+TIRCIS.
+Puisque tu veux savoir le mal que je ressens,
+Avant que d'assouvir l'inexorable envie			[935]
+De mon sort rigoureux qui demande ma vie,
+Je vais t'assassiner d'un fatal entretien,
+Et te dire en deux mots mon malheur et le tien.
+En nos chastes amours de tous deux on se moque ;
+Philandre... Ah ! La douleur m'etouffe et me suffoque.			[940]
+Adieu, ma soeur, adieu ; je ne puis plus parler ;
+Lis, et, si tu le peux, tache a te consoler.
+CHLORIS.
+Ne m'echappe donc pas.
+TIRCIS.
+Ma soeur, je te supplie...
+CHLORIS.
+Quoi ! Que je t'abandonne a ta melancolie ?
+Voyons auparavant ce qui te fait mourir,			[945]
+Et nous aviserons a te laisser courir.
+TIRCIS.
+Helas ! Quelle injustice !
+CHLORIS, apres avoir lu les lettres qu'il lui a donnees.
+Est-ce la tout, fantasque ?
+Quoi ! Si la deloyale enfin leve le masque,
+Oses-tu te facher d'etre desabuse ?
+Apprends qu'il te faut etre en amour plus ruse ;			[950]
+Apprends que les discours des filles bien sensees
+Decouvrent rarement le fond de leurs pensees
+Et que, les yeux aidant a ce deguisement,
+Notre sexe a le don de tromper finement.
+Apprends aussi de moi que ta raison s'egare,			[955]
+Que Melite n'est pas une piece si rare,
+Qu'elle soit seule ici qui vaille la servir ;
+Assez d'autres objets y sauront te ravir.
+Ne t'inquiete point pour une ecervelee
+Qui n'a d'ambition que d'etre cajolee,			[960]
+Et rend a plaindre ceux qui, flattant ses beautes,
+Ont assez de malheur pour en etre ecoutes.
+Damon lui plut jadis, Aristandre et Geronte ;
+Eraste apres deux ans n'y voit pas mieux son conte.
+Elle t'a trouve bon seulement pour huit jours,			[965]
+Philandre est aujourd'hui l'objet de ses amours ;
+Et peut-etre deja (tant elle aime le change)
+Quelque autre nouveaute le supplante et nous venge.
+Ce n'est qu'une coquette avec tous ses attraits ;
+Sa langue avec son coeur ne s'accorde jamais.			[970]
+Les infidelites sont ses jeux ordinaires ;
+Et ses plus doux appas sont tellement vulgaires,
+Qu'en elle homme d'esprit n'admira jamais rien
+Que le sujet pourquoi tu lui voulais du bien.
+TIRCIS.
+Penses-tu m'arreter par ce torrent d'injures ?			[975]
+Que ce soient verites, que ce soient impostures,
+Tu redoubles mes maux au lieu de les guerir.
+Adieu : rien que la mort ne peut me secourir.
+SCENE V.
+CHLORIS, seule.
+Mon frere... Il s'est sauve ; son desespoir l'emporte :
+Me preserve le ciel d'en user de la sorte !			[980]
+Un volage me quitte, et je le quitte aussi ;
+Je l'obligerais trop de m'en mettre en souci.
+Pour perdre des amants, celles qui s'en affligent
+Donnent trop d'avantage a ceux qui les negligent :
+Il n'est lors que la joie ; elle nous venge mieux ;			[985]
+Et la fit-on a faux eclater par les yeux,
+C'est montrer par bravade a leur vaine inconstance
+Qu'elle est pour nous toucher de trop peu d'importance.
+Que Philandre a son gre rende ses voeux contents ;
+S'il attend que j'en pleure, il attendra longtemps.			[990]
+Son coeur est un tresor dont j'aime qu'il dispose ;
+Le larcin qu'il m'en fait me vole peu de chose ;
+Et l'amour qui pour lui m'eprit si follement
+M'avait fait bonne part de son aveuglement.
+On encherit pourtant sur ma faute passee ;			[995]
+Dans la meme folie une autre embarrassee
+Le rend encor parjure, et sans ame, et sans foi,
+Pour se donner l'honneur de faillir apres moi.
+Je meure, s'il n'est vrai que la moitie du monde
+Sur l'exemple d'autrui se conduit et se fonde !			[1000]
+A cause qu'il parut quelque temps m'enflammer,
+La pauvre fille a cru qu'il valait bien l'aimer,
+Et sur cette croyance elle en a pris envie :
+Lui put-elle durer jusqu'au bout de sa vie !
+Si Melite a failli me l'ayant debauche,			[1005]
+Dieux, par la seulement punissez son peche !
+Elle verra bientot que sa digne conquete
+N'est pas une aventure a me rompre la tete :
+Un si plaisant malheur m'en console a l'instant.
+Ah ! Si mon fou de frere en pouvait faire autant,			[1010]
+Que j'en aurais de joie, et que j'en ferais gloire !
+Si je puis le rejoindre, et qu'il me veuille croire,
+Nous leur ferons bien voir que leur change indiscret
+Ne vaut pas un soupir, ne vaut pas un regret.
+Je me veux toutefois en venger par malice,			[1015]
+Me divertir une heure a m'en faire justice ;
+Ces lettres fourniront assez d'occasion
+D'un peu de defiance et de division.
+Si je prends bien mon temps, j'aurai pleine matiere
+A les jouer tous deux d'une belle maniere.			[1020]
+En voici deja l'un qui craint de m'aborder.
+SCENE VI. Philandre, Chloris.
+CHLORIS.
+Quoi ! Tu passes, Philandre, et sans me regarder ?
+PHILANDRE.
+Pardonne-moi, de grace ; une affaire importune
+M'empeche de jouir de ma bonne fortune ;
+Et son empressement, qui porte ailleurs mes pas,			[1025]
+Me remplissait l'esprit jusqu'a ne te voir pas.
+CHLORIS.
+J'ai donc souvent le don d'aimer plus qu'on ne m'aime ;
+Je ne pense qu'a toi, j'en parlais en moi-meme.
+PHILANDRE.
+Me veux-tu quelque chose ?
+CHLORIS.
+Il t'ennuie avec moi ;
+Mais, comme de tes feux, j'ai pour garant ta foi,			[1030]
+Je ne m'alarme point. N'etait ce qui te presse,
+Ta flamme un peu plus loin eut porte la tendresse,
+Et je t'aurais fait voir quelques vers de Tircis
+Pour le charmant objet de ses nouveaux soucis.
+Je viens de les surprendre, et j'y pourrais encore			[1035]
+Joindre quelques billets de l'objet qu'il adore ;
+Mais tu n'a pas le temps : toutefois, si tu veux
+Perdre un demi-quart d'heure a les lire nous deux...
+PHILANDRE.
+Voyons donc ce que c'est, sans plus longue demeure ;
+Ma curiosite pour ce demi-quart d'heure			[1040]
+S'osera dispenser.
+CHLORIS.
+Aussi tu me promets,
+Quand tu les auras lus, de n'en parler jamais ?
+Autrement, ne crois pas...
+PHILANDRE, reconnaissant les lettres.
+Cela s'en va sans dire :
+Donne, donne-les-moi, tu ne les saurais lire ;
+Et nous aurions ainsi besoin de trop de temps.			[1045]
+CHLORIS, les resserrant.
+Philandre, tu n'es pas encore ou tu pretends ;
+Quelque hautes faveurs que ton merite obtienne,
+Elles sont aussi bien en ma main qu'en la tienne ;
+Je les garderai mieux, tu peux en assurer
+La belle qui pour toi daigne se parjurer.			[1050]
+PHILANDRE.
+Un homme doit souffrir d'une fille en colere ;
+Mais je sais comme il faut les ravoir de ton frere ;
+Tout expres je le cherche, et son sang ou le mien...
+CHLORIS.
+Quoi ! Philandre est vaillant, et je n'en savais rien !
+Tes coups sont dangereux quand tu ne veux pas feindre,			[1055]
+Mais ils ont le bonheur de se faire peu craindre ;
+Et mon frere, qui sait comme il s'en faut guerir,
+Quand tu l'aurais tue, pourrait n'en pas mourir.
+PHILANDRE.
+L'effet en fera foi, s'il en a le courage.
+Adieu. J'en perds le temps a parler davantage.			[1060]
+Tremble.
+CHLORIS.
+J'en ai grand lieu, connaissant ta vertu,
+Pourvu qu'il y consente, il sera bien battu.
+
+
+			ACTE IV
+
+
+SCENE PREMIERE. Melite, la Nourrice.
+La NOURRICE.
+Cette obstination a faire la secrete
+M'accuse injustement d'etre trop peu discrete.
+MELITE.
+Ton importunite n'est pas a supporter :			[1065]
+Ce que je ne sais point, te le puis-je conter ?
+La NOURRICE.
+Les visites d'Eraste un peu moins assidues
+Temoignent quelque ennui de ses peines perdues,
+Et ce qu'on voit par la de refroidissement
+Ne fait que trop juger son mecontentement.			[1070]
+Tu m'en veux cependant cacher tout le mystere.
+Mais je pourrais enfin en croire ma colere,
+Et pour punition te priver des avis
+Qu'a jusqu'ici ton coeur si doucement suivis.
+MELITE.
+C'est a moi de trembler apres cette menace,			[1075]
+Et toute autre du moins tremblerait a ma place.
+La NOURRICE.
+Ne raillons point. Le fruit qui t'en est demeure
+(Je parle sans reproche, et tout considere)
+Vaut bien... Mais revenons a notre humeur chagrine ;
+Apprends-moi ce que c'est.
+MELITE.
+Veux-tu que je devine ?			[1080]
+Degoute d'un esprit si grossier que le mien,
+Il cherche ailleurs peut-etre un meilleur entretien.
+La NOURRICE.
+Ce n'est pas bien ainsi qu'un amant perd l'envie
+D'une chose deux ans ardemment poursuivie ;
+D'assurance un mepris l'oblige a se piquer ;			[1085]
+Mais ce n'est pas un trait qu'il faille pratiquer.
+Une fille qui voit, et que voit la jeunesse,
+Ne s'y doit gouverner qu'avec beaucoup d'adresse ;
+Le dedain lui messied, ou, quand elle s'en sert,
+Que ce soit pour reprendre un amant qu'elle perd.			[1090]
+Une heure de froideur, a propos menagee,
+Peut rembraser une ame a demi degagee,
+Qu'un traitement trop doux dispense a des mepris
+D'un bien dont cet orgueil fait mieux savoir le prix.
+Hors ce cas, il lui faut complaire a tout le monde,			[1095]
+Faire qu'aux voeux de tous l'apparence reponde,
+Et sans embarrasser son coeur de leurs amours,
+Leur faire bonne mine et souffrir leurs discours ;
+Qu'a part ils pensent tous avoir la preference,
+Et paraissent ensemble entrer en concurrence ;			[1100]
+Que tout l'exterieur de son visage egal
+Ne rende aucun jaloux du bonheur d'un rival ;
+Que ses yeux partages leur donnent de quoi craindre,
+Sans donner a pas un aucun lieu de se plaindre ;
+Qu'ils vivent tous d'espoir jusqu'au choix d'un mari,			[1105]
+Mais qu'aucun cependant ne soit le plus cheri,
+Et qu'elle cede enfin, puisqu'il faut qu'elle cede,
+A qui paiera le mieux le bien qu'elle possede :
+Si tu n'eusses jamais quitte cette lecon,
+Ton Eraste avec toi vivrait d'autre facon.			[1110]
+MELITE.
+Ce n'est pas son humeur de souffrir ce partage ;
+Il croit que mes regards soient son propre heritage,
+Et prend ceux que je donne a tout autre qu'a lui
+Pour autant de larcins faits sur le bien d'autrui.
+La NOURRICE.
+J'entends a demi-mot ; acheve, et m'expedie			[1115]
+Promptement le motif de cette maladie.
+MELITE.
+Si tu m'avais, nourrice, entendue a demi,
+Tu saurais que Tircis...
+La NOURRICE.
+Quoi ! Son meilleur ami !
+N'a-ce pas ete lui qui te l'a fait connaitre ?
+MELITE.
+Il voudrait que le jour en fut encore a naitre ;			[1120]
+Et si d'aupres de moi je l'avais ecarte,
+Tu verrais tout a l'heure Eraste a mon cote.
+La NOURRICE.
+J'ai regret que tu sois leur pomme de discorde :
+Mais puisque leur humeur ensemble ne s'accorde,
+Eraste n'est pas homme a laisser echapper ;			[1125]
+Un semblable pigeon ne se peut rattraper :
+Il a deux fois le bien de l'autre, et davantage.
+MELITE.
+Le bien ne touche point un genereux courage.
+La NOURRICE.
+Tout le monde l'adore et tache d'en jouir.
+MELITE.
+Il suit un faux eclat qui ne peut m'eblouir.			[1130]
+La NOURRICE.
+Aupres de sa splendeur toute autre est fort petite.
+MELITE.
+Tu le places au rang qui n'est du qu'au merite.
+La NOURRICE.
+On a trop de merite etant riche a ce point.
+MELITE.
+Les biens en donnent-ils a ceux qui n'en ont point ?
+La NOURRICE.
+Oui, ce n'est que par la qu'on est considerable.			[1135]
+MELITE.
+Mais ce n'est que par la qu'on devient meprisable.
+Un homme dont les biens font toutes les vertus
+Ne peut etre estime que des coeurs abattus.
+La NOURRICE.
+Est-il quelques defauts que les biens ne reparent ?
+MELITE.
+Mais plutot en est-il ou les biens ne preparent ?			[1140]
+Etant riche, on meprise assez communement
+Des belles qualites le solide ornement ;
+Et d'un luxe honteux la richesse suivie
+Souvent par l'abondance aux vices nous convie.
+La NOURRICE.
+Enfin je reconnais...
+MELITE.
+Qu'avec tout ce grand bien			[1145]
+Un jaloux sur mon coeur n'obtiendra jamais rien.
+La NOURRICE.
+Et que d'un cajoleur la nouvelle conquete
+T'imprime, a mon regret, ces erreurs dans la tete ;
+Si ta mere le sait...
+MELITE.
+Laisse-moi ces soucis,
+Et rentre, que je parle a la soeur de Tircis.			[1150]
+La NOURRICE.
+Peut-etre elle t'en veut dire quelque nouvelle.
+MELITE.
+Ta curiosite te met trop en cervelle.
+Rentre, sans t'informer de ce qu'elle pretend ;
+Un meilleur entretien avec elle m'attend.
+SCENE II. Chloris, Melite.
+CHLORIS.
+Je cheris tellement celles de votre sorte,			[1155]
+Et prends tant d'interet en ce qui leur importe,
+Qu'aux pieces qu'on leur fait je ne puis consentir,
+Ni meme en rien savoir sans les avertir.
+Ainsi donc, au hasard d'etre la mal venue,
+Encor que je vous sois, peu s'en faut, inconnue,			[1160]
+Je viens vous faire voir que votre affection
+N'a pas ete fort juste en son election.
+MELITE.
+Vous pourriez, sous couleur de rendre un bon office,
+Mettre quelque autre en peine avec cet artifice ;
+Mais pour m'en repentir j'ai fait un trop bon choix ;			[1165]
+Je renonce a choisir une seconde fois ;
+Et mon affection ne s'est point arretee
+Que chez un cavalier qui l'a trop meritee.
+CHLORIS.
+Vous me pardonnerez, j'en ai de bons temoins ;
+C'est l'homme qui de tous la merite le moins.			[1170]
+MELITE.
+Si je n'avais de lui qu'une faible assurance,
+Vous me feriez entrer en quelque defiance ;
+Mais je m'etonne fort que vous l'osiez blamer,
+Ayant quelque interet vous-meme a l'estimer.
+CHLORIS.
+Je l'estimai jadis, et je l'aime et l'estime			[1175]
+Plus que je ne faisais auparavant son crime.
+Ce n'est qu'en ma faveur qu'il ose vous trahir,
+Et vous pouvez juger si je le puis hair,
+Lorsque sa trahison m'est un clair temoignage
+Du pouvoir absolu que j'ai sur son courage.			[1180]
+MELITE.
+Le pousser a me faire une infidelite,
+C'est assez mal user de cette autorite.
+CHLORIS.
+Me le faut-il pousser ou son devoir l'oblige ?
+C'est son devoir qu'il suit alors qu'il vous neglige.
+MELITE.
+Quoi ! Le devoir chez vous oblige aux trahisons !			[1185]
+CHLORIS.
+Quand il n'en aurait point de plus justes raisons,
+La parole donnee, il faut que l'on la tienne.
+MELITE.
+Cela fait contre vous ; il m'a donne la sienne.
+CHLORIS.
+Oui, mais ayant deja recu mon amitie,
+Sur un voeu solennel d'etre un jour sa moitie,			[1190]
+Peut-il s'en departir pour accepter la votre ?
+MELITE.
+De grace, excusez-moi, je vous prends pour une autre,
+Et c'etait a Chloris que je croyais parler.
+CHLORIS.
+Vous ne vous trompez pas.
+MELITE.
+Donc, pour mieux me railler,
+La soeur de mon amant contrefait ma rivale ?			[1195]
+CHLORIS.
+Donc, pour mieux m'eblouir, une ame deloyale
+Contrefait la fidele ? Ah ! Melite, sachez
+Que je ne sais que trop ce que vous me cachez.
+Philandre m'a tout dit : vous pensez qu'il vous aime :
+Mais, sortant d'avec vous, il me conte lui-meme			[1200]
+Jusqu'aux moindres discours dont votre passion
+Tache de suborner son inclination.
+MELITE.
+Moi, suborner Philandre ! Ah ! Que m'osez-vous dire ?
+CHLORIS.
+La pure verite.
+MELITE.
+Vraiment, en voulant rire,
+Vous passez trop avant ; brisons la, s'il vous plait.			[1205]
+Je ne vois point Philandre, et ne sais quel il est.
+CHLORIS.
+Vous en croirez du moins votre propre ecriture.
+Tenez, voyez, lisez.
+MELITE.
+Ah, dieux, quelle imposture !
+Jamais un de ces traits ne partit de ma main.
+CHLORIS.
+Nous pourrions demeurer ici jusqu'a demain,			[1210]
+Que vous persisteriez dans la meconnaissance :
+Je les vous laisse. Adieu.
+MELITE.
+Tout beau ! Mon innocence
+Veut apprendre de vous le nom de l'imposteur,
+Pour faire retomber l'affront sur son auteur.
+CHLORIS.
+Vous pensez me duper, et perdez votre peine.			[1215]
+Que sert le desaveu, quand la preuve est certaine ?
+A quoi bon dementir ? A quoi bon denier... ?
+MELITE.
+Ne vous obstinez point a me calomnier ;
+Je veux que si jamais j'ai dit mot a Philandre...
+CHLORIS.
+Remettons ce discours : quelqu'un vient nous surprendre ;			[1220]
+C'est le brave Lisis, qui semble sur le front
+Porter empreints les traits d'un deplaisir profond.
+SCENE III. Lisis, Melite, Chloris.
+Lisis, a Chloris.
+Preparez vos soupirs a la triste nouvelle
+Du malheur ou nous plonge un esprit infidele ;
+Quittez son entretien, et venez avec moi			[1225]
+Plaindre un frere au cercueil par son manque de foi.
+MELITE.
+Quoi ! Son frere au cercueil !
+LISIS.
+Oui, Tircis, plein de rage
+De voir que votre change indignement l'outrage,
+Maudissant mille fois le detestable jour
+Que votre bon accueil lui donna de l'amour,			[1230]
+Dedans ce desespoir a chez moi rendu l'ame ;
+Et mes yeux desoles...
+MELITE.
+Je n'en puis plus ; je pame.
+CHLORIS.
+Au secours ! Au secours !
+SCENE IV. Cliton, la Nourrice, Melite, Lisis, Chloris.
+CLITON.
+D'ou provient cette voix ?
+La NOURRICE.
+Qu'avez-vous, mes enfants ?
+CHLORIS.
+Melite, que tu vois...
+La NOURRICE.
+Helas ! Elle se meurt ; son teint vermeil s'efface,			[1235]
+Sa chaleur se dissipe ; elle n'est plus que glace.
+LISIS, a Cliton.
+Va querir un peu d'eau ; mais il faut te hater.
+CLITON, a Lisis.
+Si proches du logis, il vaut mieux l'y porter.
+CHLORIS.
+Aidez mes faibles pas ; les forces me defaillent,
+Et je vais succomber aux douleurs qui m'assaillent.			[1240]
+SCENE V.
+ERASTE, seul.
+A la fin je triomphe, et les destins amis
+M'ont donne le succes que je m'etais promis.
+Me voila trop heureux, puisque par mon adresse
+Melite est sans amant, et Tircis sans maitresse ;
+Et comme si c'etait trop peu pour me venger,			[1245]
+Philandre et sa Chloris courent meme danger.
+Mais par quelle raison leurs ames desunies
+Pour les crimes d'autrui seront-elles punies ?
+Que m'ont-ils fait tous deux pour troubler leurs accords ?
+Fuyez de ma pensee, inutiles remords ;			[1250]
+La joie y veut regner, cessez de m'en distraire.
+Chloris m'offense trop d'etre soeur d'un tel frere ;
+Et Philandre, si prompt a l'infidelite,
+N'a que la peine due a sa credulite.
+Mais que me veut Cliton, qui sort de chez Melite ?			[1255]
+SCENE VI. Eraste, Cliton.
+CLITON.
+Monsieur, tout est perdu : votre fourbe maudite,
+Dont je fus a regret le damnable instrument,
+A couche de douleur Tircis au monument.
+ERASTE.
+Courage ! Tout va bien, le traitre m'a fait place,
+Le seul qui me rendait son courage de glace,			[1260]
+D'un favorable coup la mort me l'a ravi.
+CLITON.
+Monsieur, ce n'est pas tout, Melite l'a suivi.
+ERASTE.
+Melite l'a suivi ! Que dis-tu, miserable ?
+CLITON.
+Monsieur, il est trop vrai ; le moment deplorable
+Qu'elle a su son trepas, a termine ses jours.			[1265]
+ERASTE.
+Ah, ciel ! S'il est ainsi...
+CLITON.
+Laissez la ces discours,
+Et vantez-vous plutot que par votre imposture
+Ces malheureux amants trouvent la sepulture,
+Et que votre artifice a mis dans le tombeau
+Ce que le monde avait de parfait et de beau.			[1270]
+ERASTE.
+Tu m'oses donc flatter, infame, et tu supprimes
+Par ce reproche obscur la moitie de mes crimes ?
+Est-ce ainsi qu'il te faut n'en parler qu'a demi ?
+Acheve tout d'un coup ; dis que maitresse, ami,
+Tout ce que je cheris, tout ce qui dans mon ame			[1275]
+Sut jamais allumer une pudique flamme,
+Tout ce que l'amitie me rendit precieux,
+Par ma fourbe a perdu la lumiere des cieux ;
+Dis que j'ai viole les deux lois les plus saintes,
+Qui nous rendent heureux par leurs douces contraintes ;			[1280]
+Dis que j'ai corrompu, dis que j'ai suborne,
+Falsifie, trahi, seduit, assassine :
+Tu n'en diras encor que la moindre partie.
+Quoi ! Tircis est donc mort, et Melite est sans vie !
+Je ne l'avais pas su, Parques, jusqu'a ce jour,			[1285]
+Que vous relevassiez de l'empire d'Amour ;
+J'ignorais qu'aussitot qu'il assemble deux ames,
+Il vous put commander d'unir aussi leurs trames.
+Vous en relevez donc, et montrez aujourd'hui
+Que vous etes pour nous aveugles comme lui !			[1290]
+Vous en relevez donc, et vos ciseaux barbares
+Tranchent comme il lui plait les destins les plus rares !
+Mais je m'en prends a vous, moi qui suis l'imposteur,
+Moi qui suis de leurs maux le detestable auteur !
+Helas ! Et fallait-il que ma supercherie			[1295]
+Tournat si lachement tant d'amour en furie !
+Inutiles regrets, repentirs superflus,
+Vous ne me rendez pas Melite qui n'est plus !
+Vos mouvements tardifs ne la font pas revivre :
+Elle a suivi Tircis, et moi je la veux suivre.			[1300]
+Il faut que de mon sang je lui fasse raison,
+Et de ma jalousie, et de ma trahison,
+Et que de ma main propre une ame si fidele
+Recoive... Mais d'ou vient que tout mon corps chancelle ?
+Quel murmure confus ! Et qu'entends-je hurler ?			[1305]
+Que de pointes de feu se perdent parmi l'air !
+Les dieux a mes forfaits ont denonce la guerre ;
+Leur foudre decoche vient de fendre la terre,
+Et, pour leur obeir, son sein me recevant
+M'engloutit, et me plonge aux enfers tout vivant.			[1310]
+Je vous entends, grands dieux ; c'est la-bas que leurs ames
+Aux champs Elysiens eternisent leurs flammes ;
+C'est la-bas qu'a leurs pieds il faut verser mon sang :
+La terre a ce dessein m'ouvre son large flanc,
+Et jusqu'aux bords du Styx me fait libre passage ;			[1315]
+Je l'apercois deja, je suis sur son rivage.
+Fleuve, dont le saint nom est redoutable aux dieux,
+Et dont les neuf replis ceignent ces tristes lieux,
+N'entre point en courroux contre mon insolence,
+Si j'ose avec mes cris violer ton silence :			[1320]
+Je ne te veux qu'un mot. Tircis est-il passe ?
+Melite est-elle ici ?... Mais qu'attends-je ? Insense !
+Ils sont tous deux si chers a ton funeste empire,
+Que tu crains de les perdre, et n'oses m'en rien dire.
+Vous donc, esprits legers, qui, manque de tombeaux,			[1325]
+Tournoyez vagabonds a l'entour de ces eaux,
+A qui Caron cent ans refuse sa nacelle,
+Ne m'en pourriez-vous point donner quelque nouvelle ?
+Parlez, et je promets d'employer mon credit
+A vous faciliter ce passage interdit.			[1330]
+CLITON.
+Monsieur, que faites-vous ? Votre raison, troublee
+Par l'effort des douleurs dont elle est accablee,
+Figure a votre vue...
+ERASTE.
+Ah ! Te voila, Caron !
+Depeche promptement et d'un coup d'aviron
+Passe-moi, si tu peux, jusqu'a l'autre rivage.			[1335]
+CLITON.
+Monsieur, rentrez en vous, regardez mon visage ;
+Reconnaissez Cliton.
+ERASTE.
+Depeche, vieux nocher,
+Avant que ces esprits nous puissent approcher.
+Ton bateau de leur poids fondrait dans les abimes ;
+Il n'en aura que trop d'Eraste et de ses crimes.			[1340]
+Quoi ! Tu veux te sauver a l'autre bord sans moi ?
+Si faut-il qu'a ton cou je passe malgre toi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VII.
+PHILANDRE, seul.
+Presomptueux rival, dont l'absence importune
+Retarde le succes de ma bonne fortune,
+As-tu si tot perdu cette ombre de valeur			[1345]
+Que te pretait tantot l'effort de ta douleur ?
+Que devient a present cette bouillante envie
+De punir ta volage aux depens de ma vie ?
+Il ne tient plus qu'a toi que tu ne sois content ;
+Ton ennemi t'appelle, et ton rival t'attend.			[1350]
+Je te cherche en tous lieux, et cependant ta fuite
+Se rit impunement de ma vaine poursuite.
+Crois-tu, laissant mon bien dans les mains de ta soeur,
+En demeurer toujours l'injuste possesseur ;
+Ou que ma patience a la fin echappee			[1355]
+(Puisque tu ne veux pas le debattre a l'epee),
+Oubliant le respect du sexe, et tout devoir,
+Ne laisse point sur elle agir mon desespoir ?
+SCENE VIII. Eraste, Philandre.
+ERASTE.
+Detacher Ixion pour me mettre en sa place,
+Megeres, c'est a vous une indiscrete audace.			[1360]
+Ai-je, avec meme front que cet ambitieux,
+Attente sur le lit du monarque des cieux ?
+Vous travaillez en vain, barbares Eumenides :
+Non, ce n'est pas ainsi qu'on punit les perfides.
+Quoi ! Me presser encor ? Sus, de pieds et de mains			[1365]
+Essayons d'ecarter ces monstres inhumains.
+A mon secours, esprits ! Vengez-vous de vos peines !
+Ecrasons leurs serpents ! Chargeons-les de vos chaines !
+Pour ces filles d'enfer nous sommes trop puissants.
+PHILANDRE.
+Il semble a ce discours qu'il ait perdu le sens.			[1370]
+Eraste, cher ami, quelle melancolie
+Te met dans le cerveau cet exces de folie ?
+ERASTE.
+Equitable Minos, grand juge des enfers,
+Voyez qu'injustement on m'apprete des fers !
+Faire un tour d'amoureux, supposer une lettre,			[1375]
+Ce n'est pas un forfait qu'on ne puisse remettre.
+Il est vrai que Tircis en est mort de douleur,
+Que Melite apres lui redouble ce malheur,
+Que Chloris sans amant ne sait a qui s'en prendre ;
+Mais la faute n'en est qu'au credule Philandre ;			[1380]
+Lui seul en est la cause et son esprit leger,
+Qui trop facilement resolut de changer ;
+Car ces lettres, qu'il croit l'effet de ses merites,
+La main que vous voyez les a toutes ecrites.
+PHILANDRE.
+Je te laisse impuni, traitre ; de tels remords			[1385]
+Te donnent des tourments pires que mille morts :
+Je t'obligerais trop de t'arracher la vie ;
+Et ma juste vengeance est bien mieux assouvie
+Par les folles horreurs de cette illusion.
+Ah, grands dieux ! Que je suis plein de confusion !			[1390]
+SCENE IX.
+ERASTE, seul.
+Tu t'enfuis donc, barbare ! Et me laissant en proie
+A ces cruelles soeurs, tu les combles de joie ?
+Non, non, retirez-vous, Tisiphone, Alecton,
+Et tout ce que je vois d'officiers de Pluton.
+Vous me connaissez mal ; dans le corps d'un perfide			[1395]
+Je porte le courage et les forces d'Alcide.
+Je vais tout renverser dans ces royaumes noirs,
+Et saccager moi seul ces tenebreux manoirs.
+Une seconde fois le triple chien Cerbere
+Vomira l'aconit en voyant la lumiere.			[1400]
+J'irai du fond d'enfer degager les Titans ;
+Et si Pluton s'oppose a ce que je pretends,
+Passant dessus le ventre a sa troupe mutine,
+J'irai d'entre ses bras enlever Proserpine.
+SCENE X. Lisis, Chloris.
+LISIS.
+N'en doute plus, Chloris, ton frere n'est point mort ;			[1405]
+Mais ayant su de lui son deplorable sort,
+Je voulais eprouver, par cette triste feinte,
+Si celle qu'il adore, aucunement atteinte,
+Deviendrait plus sensible aux traits de la pitie
+Qu'aux sinceres ardeurs d'une sainte amitie.			[1410]
+Maintenant que je vois qu'il faut qu'on nous abuse,
+Afin que nous puissions decouvrir cette ruse,
+Et que Tircis en soit de tout point eclairci,
+Sois sure que dans peu je te le rends ici.
+Ma parole sera d'un prompt effet suivie :			[1415]
+Tu reverras bientot ce frere plein de vie ;
+C'est assez que je passe une fois pour trompeur.
+CHLORIS.
+Si bien qu'au lieu du mal nous n'aurons que la peur ?
+Le coeur me le disait. Je sentais que mes larmes
+Refusaient de couler pour de fausses alarmes,			[1420]
+Dont les plus dangereux et plus rudes assauts
+Avaient beaucoup de peine a m'emouvoir a faux ;
+Et je n'etudiai cette douleur menteuse
+Qu'a cause qu'en effet j'etais un peu honteuse
+Qu'une autre en temoignat plus de ressentiment.			[1425]
+LISIS.
+Apres tout, entre nous, confesse franchement,
+Qu'une fille en ces lieux, qui perd un frere unique,
+Jusques au desespoir fort rarement se pique :
+Ce beau nom d'heritiere a de telles douceurs,
+Qu'il devient souverain a consoler des soeurs.			[1430]
+CHLORIS.
+Adieu, railleur, adieu : son interet me presse
+D'aller rendre d'un mot la vie a sa maitresse ;
+Autrement je saurais t'apprendre a discourir.
+LISIS.
+Et moi, de ces frayeurs de nouveau te guerir.
+
+
+			ACTE V
+
+
+SCENE PREMIERE. Cliton, la Nourrice.
+CLITON.
+Je ne t'ai rien cele ; tu sais toute l'affaire.			[1435]
+La NOURRICE.
+Tu m'en as bien conte. Mais se pourrait-il faire
+Qu'Eraste eut des remords si vifs et si pressants
+Que de violenter sa raison et ses sens ?
+CLITON.
+Eut-il pu, sans en perdre entierement l'usage,
+Se figurer Caron des traits de mon visage,			[1440]
+Et de plus, me prenant pour ce vieux nautonier,
+Me payer a bons coups des droits de son denier ?
+La NOURRICE.
+Plaisante illusion !
+CLITON.
+Mais funeste a ma tete,
+Sur qui se dechargeait une telle tempete,
+Que je tiens maintenant a miracle evident			[1445]
+Qu'il me soit demeure dans la bouche une dent.
+La NOURRICE.
+C'etait mal reconnaitre un si rare service.
+ERASTE, derriere le theatre.
+Arretez, arretez, poltrons !
+CLITON.
+Adieu, nourrice.
+Voici ce fou qui vient, je l'entends a la voix ;
+Crois que ce n'est pas moi qu'il attrape deux fois.			[1450]
+La NOURRICE.
+Pour moi, quand je devrais passer pour Proserpine,
+Je veux voir a quel point sa fureur le domine.
+CLITON.
+Contente, a tes perils, ton curieux desir.
+La NOURRICE.
+Quoi qu'il puisse arriver, j'en aurai le plaisir.
+SCENE II. Eraste, la Nourrice.
+ERASTE.
+En vain je les rappelle, en vain pour se defendre			[1455]
+La honte et le devoir leur parlent de m'attendre ;
+Ces laches escadrons de fantomes affreux
+Cherchent leur assurance aux cachots les plus creux,
+Et se fiant a peine a la nuit qui les couvre,
+Souhaitent sous l'enfer qu'un autre enfer s'entr'ouvre.			[1460]
+Ma voix met tout en fuite, et dans ce vaste effroi,
+La peur saisit si bien les ombres et leur roi,
+Que, se precipitant a de promptes retraites,
+Tous leurs soucis ne vont qu'a les rendre secretes.
+Le bouillant Phlegethon, parmi ses flots pierreux,			[1465]
+Pour les favoriser ne roule plus de feux ;
+Tisiphone tremblante, Alecton et Megere,
+Ont de leurs flambeaux noirs etouffe la lumiere ;
+Les Parques meme en hate emportent leurs fuseaux,
+Et dans ce grand desordre oubliant leurs ciseaux,			[1470]
+Caron, les bras croises, dans sa barque s'etonne
+De ce qu'apres Eraste il n'a passe personne.
+Trop heureux accident, s'il avait prevenu
+Le deplorable coup du malheur avenu !
+Trop heureux accident, si la terre entr'ouverte			[1475]
+Avant ce jour fatal eut consenti ma perte,
+Et si ce que le ciel me donne ici d'acces
+Eut de ma trahison devance le succes !
+Dieux, que vous savez mal gouverner votre foudre !
+N'etait-ce pas assez pour me reduire en poudre,			[1480]
+Que le simple dessein d'un si lache forfait ?
+Injustes ! Deviez-vous en attendre l'effet ?
+Ah, Melite ! Ah, Tircis ! Leur cruelle justice
+Aux depens de vos jours me choisit un supplice.
+Ils doutaient que l'enfer eut de quoi me punir			[1485]
+Sans le triste secours de ce dur souvenir.
+Tout ce qu'ont les enfers de feux, de fouets, de chaines,
+Ne sont aupres de lui que de legeres peines ;
+On recoit d'Alecton un plus doux traitement.
+Souvenir rigoureux ! Treve, treve un moment !			[1490]
+Qu'au moins avant ma mort, dans ces demeures sombres
+Je puisse rencontrer ces bienheureuses ombres !
+Use apres, si tu veux, de toute ta rigueur ;
+Et si pour m'achever tu manques de vigueur,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici qui t'aidera : mais derechef, de grace,			[1495]
+Cesse de me gener durant ce peu d'espace.
+Je vois deja Melite. Ah ! Belle ombre, voici
+L'ennemi de votre heur qui vous cherchait ici ;
+C'est Eraste, c'est lui qui n'a plus d'autre envie
+Que d'epandre a vos pieds son sang avec sa vie :			[1500]
+Ainsi le veut le sort ; et tout expres les dieux
+L'ont abime vivant en ces funestes lieux.
+La NOURRICE.
+Pourquoi permettez-vous que cette frenesie
+Regne si puissamment sur votre fantaisie ?
+L'enfer voit-il jamais une telle clarte ?			[1505]
+ERASTE.
+Aussi ne la tient-il que de votre beaute ;
+Ce n'est que de vos yeux que part cette lumiere.
+La NOURRICE.
+Ce n'est que de mes yeux ! Dessillez la paupiere,
+Et d'un sens plus rassis jugez de leur eclat.
+ERASTE.
+Ils ont, de verite, je ne sais quoi de plat ;			[1510]
+Et plus je vous contemple, et plus sur ce visage
+Je m'etonne de voir un autre air, un autre age :
+Je ne reconnais plus aucun de vos attraits ;
+Jadis votre nourrice avait ainsi les traits,
+Le front ainsi ride, la couleur ainsi bleme,			[1515]
+Le poil ainsi grison. O dieux ! C'est elle-meme.
+Nourrice, qui t'amene en ces lieux pleins d'effroi ?
+Y viens-tu rechercher Melite comme moi ?
+La NOURRICE.
+Cliton la vit pamer, et se brouilla de sorte
+Que la voyant si pale, il la crut etre morte ;			[1520]
+Cet etourdi trompe vous trompa comme lui.
+Au reste, elle est vivante ; et peut-etre aujourd'hui
+Tircis, de qui la mort n'etait qu'imaginaire,
+De sa fidelite recevra le salaire.
+ERASTE.
+Desormais donc en vain je les cherche ici-bas ;			[1525]
+En vain pour les trouver je rends tant de combats.
+La NOURRICE.
+Votre douleur vous trouble, et forme des nuages
+Qui seduisent vos sens par de fausses images ;
+Cet enfer, ces combats, ne sont qu'illusions.
+ERASTE.
+Je ne m'abuse point de fausses visions,			[1530]
+Mes propres yeux ont vu tous ces monstres en fuite,
+Et Pluton, de frayeur, en quitter la conduite.
+La NOURRICE.
+Peut-etre que chacun s'enfuyait devant vous,
+Craignant votre fureur et le poids de vos coups.
+Mais voyez si l'enfer ressemble a cette place ;			[1535]
+Ces murs, ces batiments, ont-ils la meme face ?
+Le logis de Melite et celui de Cliton
+Ont-ils quelque rapport a celui de Pluton ?
+Quoi ! N'y remarquez-vous aucune difference ?
+ERASTE.
+De vrai, ce que tu dis a beaucoup d'apparence,			[1540]
+Nourrice ; prends pitie d'un esprit egare
+Qu'ont mes vives douleurs d'avec moi separe :
+Ma guerison depend de parler a Melite.
+La NOURRICE.
+Differez, pour le mieux, un peu cette visite,
+Tant que, maitre absolu de votre jugement,			[1545]
+Vous soyez en etat de faire un compliment.
+Votre teint et vos yeux n'ont rien d'un homme sage ;
+Donnez-vous le loisir de changer de visage ;
+Un moment de repos que vous prendrez chez vous...
+ERASTE.
+Ne peut, si tu n'y viens, rendre mon sort plus doux ;			[1550]
+Et ma faible raison, de guide depourvue,
+Va de nouveau se perdre en te perdant de vue.
+La NOURRICE.
+Si je vous suis utile, allons ; je ne veux pas
+Pour un si bon sujet vous epargner mes pas.
+SCENE III. Chloris, Philandre.
+CHLORIS.
+Ne m'importune plus, Philandre, je t'en prie ;			[1555]
+Me rapaiser jamais passe ton industrie.
+Ton meilleur, je t'assure, est de n'y plus penser ;
+Tes protestations ne font que m'offenser :
+Savante, a mes depens, de leur peu de duree,
+Je ne veux point en gage une foi parjuree,			[1560]
+Un coeur que d'autres yeux peuvent si tot bruler,
+Qu'un billet suppose peut si tot ebranler.
+PHILANDRE.
+Ah ! Ne remettez plus dedans votre memoire
+L'indigne souvenir d'une action si noire ;
+Et pour rendre a jamais nos premiers voeux contents,			[1565]
+Etouffez l'ennemi du pardon que j'attends.
+Mon crime est sans egal ; mais enfin, ma chere ame...
+CHLORIS.
+Laisse la desormais ces petits mots de flamme,
+Et par ces faux temoins d'un feu mal allume
+Ne me reproche plus que je t'ai trop aime.			[1570]
+PHILANDRE.
+De grace, redonnez a l'amitie passee
+Le rang que je tenais dedans votre pensee
+Derechef, ma Chloris, par ces doux entretiens,
+Par ces feux qui volaient de vos yeux dans les miens,
+Par ce que votre foi me permettait d'attendre...			[1575]
+CHLORIS.
+C'est ou dorenavant tu ne dois plus pretendre.
+Ta sottise m'instruit, et par la je vois bien
+Qu'un visage commun, et fait comme le mien,
+N'a point assez d'appas, ni de chaine assez forte,
+Pour tenir en devoir un homme de ta sorte.			[1580]
+Melite a des attraits qui savent tout dompter :
+Mais elle ne pourrait qu'a peine t'arreter :
+Il te faut un sujet qui la passe ou l'egale ;
+C'est en vain que vers moi ton amour se ravale ;
+Fais-lui, si tu m'en crois, agreer tes ardeurs.			[1585]
+Je ne veux point devoir mon bien a ses froideurs.
+PHILANDRE.
+Ne me deguisez rien, un autre a pris ma place ;
+Une autre affection vous rend pour moi de glace.
+CHLORIS.
+Aucun jusqu'a ce point n'est encore arrive ;
+Mais je te changerai pour le premier trouve.			[1590]
+PHILANDRE.
+C'en est trop, tes dedains epuisent ma souffrance.
+Adieu. Je ne veux plus avoir d'autre esperance,
+Sinon qu'un jour le ciel te fera ressentir
+De tant de cruautes le juste repentir.
+CHLORIS.
+Adieu. Melite et moi nous aurons de quoi rire			[1595]
+De tous les beaux discours que tu me viens de dire.
+Que lui veux-tu mander ?
+PHILANDRE.
+Va, dis-lui de ma part
+Qu'elle, ton frere et toi, reconnaitrez trop tard
+Ce que c'est que d'aigrir un homme de ma sorte.
+CHLORIS.
+Ne crois pas la chaleur du courroux qui t'emporte ;			[1600]
+Tu nous ferais trembler plus d'un quart d'heure ou deux.
+PHILANDRE.
+Tu railles, mais bientot nous verrons d'autres jeux :
+Je sais trop comme on venge une flamme outragee.
+CHLORIS.
+Le sais-tu mieux que moi, qui suis deja vengee ?
+Par ou t'y prendras-tu ? De quel air ?
+PHILANDRE.
+Il suffit.			[1605]
+Je sais comme on se venge.
+CHLORIS.
+Et moi comme on s'en rit.
+SCENE IV. Tircis, Melite.
+TIRCIS.
+Maintenant que le sort, attendri par nos plaintes,
+Comble notre esperance et dissipe nos craintes,
+Que nos contentements ne sont plus traverses
+Que par le souvenir de nos malheurs passes,			[1610]
+Ouvrons toute notre ame a ces douces tendresses
+Qu'inspirent aux amants les pleines allegresses ;
+Et d'un commun accord cherissons nos ennuis,
+Dont nous voyons sortir de si precieux fruits.
+Adorables regards, fideles interpretes			[1615]
+Par qui nous expliquions nos passions secretes,
+Doux truchements du coeur, qui deja tant de fois
+M'avez si bien appris ce que n'osait la voix,
+Nous n'avons plus besoin de votre confidence ;
+L'amour en liberte peut dire ce qu'il pense,			[1620]
+Et dedaigne un secours qu'en naissante ardeur
+Lui faisaient mendier la crainte et la pudeur.
+Beaux yeux, a mon transport pardonnez ce blaspheme !
+La bouche est impuissante ou l'amour est extreme ;
+Quand l'espoir est permis, elle a droit de parler ;			[1625]
+Mais vous allez plus loin qu'elle ne peut aller.
+Ne vous lassez donc point d'en usurper l'usage ;
+Et quoi qu'elle m'ait dit, dites-moi davantage.
+Mais tu ne me dis mot, ma vie ! Et quels soucis
+T'obligent a te taire aupres de ton Tircis ?			[1630]
+MELITE.
+Tu parles a mes yeux, et mes yeux te repondent.
+TIRCIS.
+Ah ! Mon heur, il est vrai, si tes desirs secondent
+Cet amour qui parait et brille dans tes yeux,
+Je n'ai rien desormais a demander aux dieux.
+MELITE.
+Tu t'en peux assurer ; mes yeux, si pleins de flamme,			[1635]
+Suivent l'instruction des mouvements de l'ame :
+On en a vu l'effet, lorsque ta fausse mort
+A fait sur tous mes sens un veritable effort :
+On en a vu l'effet, quand, te sachant en vie,
+De revivre avec toi j'ai pris aussi l'envie :			[1640]
+On en a vu l'effet, lorsqu'a force de pleurs
+Mon amour et mes soins, aides de mes douleurs,
+Ont flechi la rigueur d'une mere obstinee
+Et gagne cet aveu qui fait notre hymenee ;
+Si bien qu'a ton retour ta chaste affection			[1645]
+Ne trouve plus d'obstacle a sa pretention.
+Cependant l'aspect seul des lettres d'un faussaire
+Te sut persuader tellement le contraire,
+Que sans vouloir m'entendre, et sans me dire adieu,
+Jaloux et furieux tu partis de ce lieu.			[1650]
+TIRCIS.
+J'en rougis ; mais apprends qu'il n'etait pas possible
+D'aimer comme j'aimais, et d'etre moins sensible ;
+Qu'un juste deplaisir ne saurait ecouter
+La raison qui s'efforce a le violenter ;
+Et qu'apres des transports de telle promptitude,			[1655]
+Ma flamme ne te laisse aucune incertitude.
+MELITE.
+Tout cela serait peu, n'etait que ma bonte
+T'en accorde un oubli sans l'avoir merite,
+Et que, tout criminel, tu m'es encore aimable.
+TIRCIS.
+Je me tiens donc heureux d'avoir ete coupable,			[1660]
+Puisque l'on me rappelle au lieu de me bannir,
+Et qu'on me recompense au lieu de me punir.
+J'en aimerai l'auteur de cette perfidie ;
+Et si jamais je sais quelle main si hardie...
+SCENE V. Chloris, Tircis, Melite.
+CHLORIS.
+Il vous fait fort bon voir, mon frere, a cajoler,			[1665]
+Cependant qu'une soeur ne se peut consoler,
+Et que le triste ennui d'une attente incertaine
+Touchant votre retour la tient encore en peine !
+TIRCIS.
+L'amour a fait au sang un peu de trahison ;
+Mais Philandre pour moi t'en aura fait raison.			[1670]
+Dis-nous, aupres de lui retrouves-tu ton conte,
+Et te peut-il revoir sans montrer quelque honte ?
+CHLORIS.
+L'infidele m'a fait tant de nouveaux serments,
+Tant d'offres, tant de voeux, et tant de compliments,
+Meles de repentirs...
+MELITE.
+Qu'a la fin exorable,			[1675]
+Vous l'avez regarde d'un oeil plus favorable.
+CHLORIS.
+Vous devinez fort mal.
+TIRCIS.
+Quoi ! Tu l'as dedaigne ?
+CHLORIS.
+Du moins, tous ses discours n'ont encor rien gagne.
+MELITE.
+Si bien qu'a n'aimer plus votre depit s'obstine ?
+CHLORIS.
+Non pas cela du tout, mais je suis assez fine :			[1680]
+Pour la premiere fois, il me dupe qui veut ;
+Mais pour une seconde, il m'attrape qui peut.
+MELITE.
+C'est-a-dire, en un mot...
+CHLORIS.
+Que son humeur volage
+Ne me tient pas deux fois en un meme passage.
+En vain dessous mes lois il revient se ranger.			[1685]
+Il m'est avantageux de l'avoir vu changer
+Avant que de l'hymen le joug impitoyable,
+M'attachant avec lui, me rendit miserable.
+Qu'il cherche femme ailleurs, tandis que, de ma part,
+J'attendrai du destin quelque meilleur hasard.			[1690]
+MELITE.
+Mais le peu qu'il voulut me rendre de service
+Ne lui doit pas porter un si grand prejudice.
+CHLORIS.
+Apres un tel faux-bond, un change si soudain,
+A volage, volage, et dedain pour dedain.
+MELITE.
+Ma soeur, ce fut pour moi qu'il osa s'en dedire.			[1695]
+CHLORIS.
+Et pour l'amour de vous, je n'en ferai que rire,
+MELITE.
+Et pour l'amour de moi vous lui pardonnerez.
+CHLORIS.
+Et pour l'amour de moi vous m'en dispenserez.
+MELITE.
+Que vous etes mauvaise !
+CHLORIS.
+Un peu plus qu'il ne semble.
+MELITE.
+Je vous veux toutefois remettre bien ensemble.			[1700]
+CHLORIS.
+Ne l'entreprenez pas ; peut-etre qu'apres tout
+Votre dexterite n'en viendrait pas a bout.
+SCENE VI. Tircis, la Nourrice, Eraste, Melite, Chloris.
+TIRCIS.
+De grace, mon souci, laissons cette causeuse :
+Qu'elle soit, a son choix, facile ou rigoureuse,
+L'exces de mon ardeur ne saurait consentir			[1705]
+Que ces frivoles soins te viennent divertir.
+Tous nos pensers sont dus, en l'etat ou nous sommes,
+A ce noeud qui me rend le plus heureux des hommes,
+Et ma fidelite, qu'il va recompenser...
+La NOURRICE.
+Vous donnera bientot autre chose a penser.			[1710]
+Votre rival vous cherche, et la main a l'epee,
+Vient demander raison de sa place usurpee.
+ERASTE, a Melite.
+Non, non, vous ne voyez en moi qu'un criminel,
+A qui l'apre rigueur d'un remords eternel
+Rend le jour odieux, et fait naitre l'envie			[1715]
+De sortir de sa gene en sortant de la vie.
+Il vient mettre a vos pieds sa tete a l'abandon ;
+La mort lui sera douce a l'egal du pardon.
+Vengez donc vos malheurs ; jugez ce que merite
+La main qui separa Tircis d'avec Melite,			[1720]
+Et de qui l'imposture avec de faux ecrits
+A derobe Philandre aux voeux de sa Chloris.
+MELITE.
+Eclaircis du seul point qui nous tenait en doute,
+Que serais-tu d'avis de lui repondre ?
+TIRCIS.
+Ecoute
+Quatre mots a quartier.
+ERASTE.
+Que vous avez de tort			[1725]
+De prolonger ma peine en differant ma mort !
+De grace, hatez-vous d'abreger mon supplice,
+Ou ma main previendra votre lente justice.
+MELITE.
+Voyez comme le ciel a de secrets ressorts
+Pour se faire obeir malgre nos vains efforts.			[1730]
+Votre fourbe, inventee a dessein de nous nuire,
+Avance nos amours au lieu de les detruire :
+De son facheux succes, dont nous devions perir,
+Le sort tire un remede afin de nous guerir.
+Donc, pour nous revancher de la faveur recue,			[1735]
+Nous en aimons l'auteur a cause de l'issue ;
+Obliges desormais de ce que tour a tour
+Nous nous sommes rendu tant de preuves d'amour,
+Et de ce que l'exces de ma douleur sincere
+A mis tant de pitie dans le coeur de ma mere,			[1740]
+Que, cette occasion prise comme aux cheveux,
+Tircis n'a rien trouve de contrainte a ses voeux ;
+Outre qu'en fait d'amour la fraude est legitime ;
+Mais puisque vous voulez la prendre pour un crime,
+Regardez, acceptant le pardon ou l'oubli,			[1745]
+Par ou votre repos sera mieux etabli.
+ERASTE.
+Tout confus et honteux de tant de courtoisie,
+Je veux dorenavant cherir ma jalousie ;
+Et puisque c'est de la que vos felicites...
+La NOURRICE, a Eraste.
+Quittez ces compliments, qu'ils n'ont pas merites ;			[1750]
+Ils ont tous deux leur compte, et sur cette assurance
+Ils tiennent le passe dans quelque indifference,
+N'osant se hasarder a des ressentiments
+Qui donneraient du trouble a leurs contentements.
+Mais Chloris qui s'en tait vous la gardera bonne,			[1755]
+Et seule interessee, a ce que je soupconne,
+Saura bien se venger sur vous, a l'avenir,
+D'un amant echappe qu'elle pensait tenir.
+ERASTE, a Chloris.
+Si vous pouviez souffrir qu'en votre bonne grace
+Celui qui l'en tira put occuper sa place,			[1760]
+Eraste, qu'un pardon purge de son forfait,
+Est pret de reparer le tort qu'il vous a fait.
+Melite repondra de ma perseverance :
+Je n'ai pu la quitter qu'en perdant l'esperance ;
+Encore avez-vous vu mon amour irrite			[1765]
+Mettre tout en usage en cette extremite ;
+Et c'est avec raison que ma flamme contrainte
+De reduire ses feux dans une amitie sainte,
+Mes amoureux desirs, vers elle superflus,
+Tournent vers la beaute qu'elle cherit le plus.			[1770]
+TIRCIS.
+Que t'en semble, ma soeur ?
+CHLORIS.
+Mais toi-meme, mon frere ?
+TIRCIS.
+Tu sais bien que jamais je ne te fus contraire.
+CHLORIS.
+Tu sais qu'en tel sujet ce fut toujours de toi
+Que mon affection voulut prendre la loi.
+TIRCIS.
+Encor que dans tes yeux tes sentiments se lisent,			[1775]
+Tu veux qu'auparavant les miens les autorisent.
+Parlons donc pour la forme. Oui, ma soeur, j'y consens,
+Bien sur que mon avis s'accommode a ton sens.
+Fassent les puissants dieux que par cette alliance
+Il ne reste entre nous aucune defiance,			[1780]
+Et que m'aimant en frere, et ma maitresse en soeur,
+Nos ans puissent couler avec plus de douceur !
+ERASTE.
+Heureux dans mon malheur, c'est dont je les supplie,
+Mais ma felicite ne peut etre accomplie
+Jusqu'a ce qu'apres vous son aveu m'ait permis			[1785]
+D'aspirer a ce bien que vous m'avez promis.
+CHLORIS.
+Aimez-moi seulement, et, pour la recompense,
+On me donnera bien le loisir que j'y pense.
+TIRCIS.
+Oui, sous condition qu'avant la fin du jour
+Vous vous rendrez sensible a ce naissant amour.			[1790]
+CHLORIS.
+Vous prodiguez en vain vos faibles artifices ;
+Je n'ai recu de lui ni devoir, ni services.
+MELITE.
+C'est bien quelque raison ; mais ceux qu'il m'a rendus,
+Il ne les faut pas mettre au rang des pas perdus ;
+Ma soeur, acquitte-moi d'une reconnaissance			[1795]
+Dont un autre destin m'a mise en impuissance ;
+Accorde cette grace a nos justes desirs.
+TIRCIS.
+Ne nous refuse pas ce comble a nos plaisirs.
+ERASTE.
+Donnez a leurs souhaits, donnez a leurs prieres,
+Donnez a leurs raisons ces faveurs singulieres ;			[1800]
+Et pour faire aujourd'hui le bonheur d'un amant,
+Laissez-les disposer de votre sentiment.
+CHLORIS.
+En vain en ta faveur chacun me sollicite,
+J'en croirai seulement la mere de Melite ;
+Son avis m'otera la peur du repentir,			[1805]
+Et ton merite alors m'y fera consentir.
+TIRCIS.
+Entrons donc ; et tandis que nous irons le prendre,
+Nourrice, va t'offrir pour maitresse a Philandre.
+La NOURRICE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La, la, n'en riez point ; autrefois en mon temps
+D'aussi beaux fils que vous etaient assez contents,			[1810]
+Et croyaient de leur peine avoir trop de salaire
+Quand je quittais un peu mon dedain ordinaire.
+A leur compte, mes yeux etaient de vrais soleils
+Qui repandaient partout des rayons nonpareils ;
+Je n'avais rien en moi qui ne fut un miracle ;			[1815]
+Un seul mot de ma part leur etait un oracle.
+Mais je parle a moi seule. Amoureux, qu'est ceci ?
+Vous etes bien hates de me quitter ainsi !
+Allez, quelle que soit l'ardeur qui vous emporte,
+On ne se moque point des femmes de ma sorte ;			[1820]
+Et je ferai bien voir a vos feux empresses
+Que vous n'en etes pas encor ou vous pensez.
+
+	==================================================

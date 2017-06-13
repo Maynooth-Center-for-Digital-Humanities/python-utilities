@@ -1,0 +1,953 @@
+********************************************************
+	DC.Title                  = LES ECOSSEUSES DE LA HALLE, AMBIGU-POISSARD.
+	DC.Author                 = TACONET, Toussaint-Gaspard
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 24/09/2016 a 09:20:12.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/TACONET_ECOSSEUSES.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LES ECOSSEUSES DE LA HALLE AMBIGU-POISSARD, EN UN ACTE, EN VERS LIBRESDEDIE A MADAME POLICARPE, MARCHANDE DE MAREE.M. DCC. LXVII. Avec Approbation et permission,
+PAR M. TACONET.
+	A PARIS, Chez PHILIPPE-DENIS LANGLOIS, Libraire, rue du Petit-Pont , pres le petit Chatelet, au Saint-Esprit couronne.
+	
+	Represente pour la premiere fois sur le Grand Theatre des Boulevards, le 25 Juin 1767.
+	MADAME,
+Votre reputation est trop bien etablie pour que cette Dedicace puisse lui donner un nouveau lustre. C'est au contraire sur moi seul que retombe tout l'avantage.
+AIR : De tous les Capucins.
+L'honneur de vous offrir cette ouvre,
+N'est pas une mince manoeuvre,
+Avec l'esprit que vous avez,
+C'est s'exposer a la critique :
+Protegez- moi. Car vous savez
+Que je prends a votre boutique.
+Oui, Madame, vous savez qu'autant de jours de Careme, c'est autant de harengs pour moi ; et que de tous les baquets de la Halle, c'est au votre a qui j'ai donne la preference.
+AIR : Le tout par nature.
+Votre commerce me plait,
+Et le tout sans interet ;
+Vous savez au Freluquet
+Donner la tablature;
+Votre poisson est mon fait,
+Le tout par nature.
+Il faut vous rendre justice, Madame, votre place est le rendez-vous des Maitres-d'Hotel les plus huppes ; et je serais trop heureux, si vous vouliez me procurer la connaissance de quelques-uns qui me mettent dans le cas de pouvoir me dire avec un peu plus d'embonpoint que je n'en ai,
+MADAME,
+Votre tres humble et tres maigre Serviteur,
+TACONET.
+
+ACTEURS
+LA FERMIERE des Places de la Halle.
+MONSIEUR NOYAU, Marchand de Ratafia.
+MARIE-JEANNE, Fruitiere.
+BABET, Fruitiere.
+FANCHON, Fruitiere.
+MARGOT, ecosseuses.
+GENEVIEVE, ecosseuses.
+JEROME, Fort de la Halle au Bled.
+BELLE-ROSE, Dragon de la Generale.
+MANON, Bouquetiere.
+UN PETIT-MAITRE.
+UN GARCON PERRUQUIER.
+UNE MARCHANDE DE CITRONS.
+UN AVEUGLE, jouant du Violon.
+PERSONNAGES de tous metiers.
+La Scene est a la Halle.
+
+Le ThA©A¢tre reprA©sente la Boutique d'un Marchand d'Eau-de-Vie.
+
+
+			
+
+
+SCENE PREMIERE. Fanchon, Margot.
+FANCHON.
+Dis donc ? Quelle heure est-il, Margot ?
+MARGOT.
+Je n'en sais rien : buvons l'coco,
+Puis j'ecosserons, l'on sait comme !
+Mais, quien, v'la que je vois Jerome.
+SCENE II. Jerome, Les Precedents.
+JEROME.
+Bonjour, Margot. Bonsoir, Fanchon,			[5]
+Que j'vous embrasse sans facon.
+FANCHON.
+Volontiers. Ces grosses bourgeoises
+Font des compliments longs d'cent toises.
+Pour nous, j'vallons ben autant qu'eux,
+Quoique j'ayons les doigts terreux,			[10]
+Et que j'vendions du fruit d'z'oranges.
+MARGOT.
+Finis- tu, Mamselle Fontanges ?
+Avec ton discours si choisi ,
+Vas-tu nous t'nir jusqu'a midi ?
+JEROME.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh ben, quoi ! Voyons donc ste prise.			[15]
+MARGOT.
+Fanchon, veux-tu de la cerise ?
+FANCHON.
+Moi, j'prendrai ce que tu voudras.
+MARGOT.
+Mais vraiment, j'n'en aurais donc pas?
+Tu n'es pas a moiquie maline.
+FANCHON.
+Moi, j'veux du bon ; allons, chopine.			[20]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'aimons mieux l'rogome tout pur,
+Dans l'gosier ca nous parait dur ;
+Chacun a sa facon de mode,
+On peut s'prendre ou ca fait plaisir,
+Et j'aimons quand queuqu'un commode			[25]
+Veut ben servir notre desir.
+Marchand, apportez nous du votre.
+LE MARCHAND.
+Du mele ?
+FANCHON.
+Eh ! Non , point d'ca,
+De l'eau-de-vie en ratafia.
+Du bon.
+MARGOT.
+Tu vas ben :			[30]
+FANCHON.
+Comme un autre.			[30]
+Si j'buvons ben l'p'tit coup ici,
+Tu ne liches pas mal aussi.
+Eh ben ! Marchand ?
+LE MARCHAND.
+Me v'la, ma Reine.
+FANCHON.
+T'nez, v'ia du poussier, rien n'est du.
+LE MARCHAND.
+C'est bon.
+JEROME.
+Fanchon, y penses-tu ?			[35]
+Crois-tu qu'je n'pairons pas la mienne ?
+FANCHON.
+Qu'est-c'qui t'dis ca ? Hustuberlu,
+J'avons du temPs. Crois-tu qu'on t'fraude ?
+D'mande putot au Marchand d'eau chaude ?
+N'est-il pas vrai, Monsieur l'comptoir,			[40]
+Qui n'est pas si tard ? Tu vas voir.
+LE MARCHAND, regardant sa montre.
+Non, il s'en manque un quart ici.
+FANCHON.
+L'quart de quoi, Monsieur l'ahuri ?
+LE MARCHAND.
+Quoi ! Monsieur Jerome s'ennuie ?
+Est-il meilleure compagnie			[45]
+Qu'avec Fanchon et puis Margot ?
+MARGOT.
+Mais vraiment ! Monsieur Fouille-au-pot,
+Comme il veut nous eN faire accroire ?
+LE MARCHAND.
+Mais, en me contant votre histoire,
+Vous m'amusez.
+MARGOT.
+Qu'est-c'q'vous fait' la ?			[50]
+Allons, Jerome, a propos d'ca ,
+Chante, ou ben tu n'as pas a boire :
+J'tiens la mesure ; et l'on verra...
+FANCHON.
+Y va chanter, laisse ca la.
+JEROME.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Fillettes, z'acourez pour entendre			[55]
+L'histoir' d'un Amant courageux ;
+Ses parents n'voulions pas l'y rendre
+Reponse au sujet de ses voeux :
+Comme ils etions a la campagne,
+Il fut les trouver z'hardiment,			[60]
+R'li, r'lan , r'lan tan plan, il vous les t'magne,
+R'ian tan plan, tambour battant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mon ch'pere , dit-il, j'vous accuse
+Que j'suis t'aime d'Mamlelle Fanchon ;
+L'autre jour je y'ai pris, par ruse ,			[65]
+Un bouquet qui sentait ben bon :
+Y' n'faut rien z'avoir a personne,
+Vla ma pipe a tuyau d'argent,
+R'li, r'ian, r'ian tan plan, j'veux qu'on l'y donne,
+R'ian , etc.			[70]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ce jour-la je goutions ensemble
+Tete a tete, etant rien qu'nous deux ;
+Ne v'la t'y pas Fanchon qui tremble,
+Et qui s'trouve mal on n'peut pas mieux :
+Il faut me la donner, mon ch'pere ,			[75]
+Je sais, pour son temperament,
+R'li, r'lan , r'lan tan plan, ce qu'il faut faire,
+R'lan, etc.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le daron , instruit de l'affaire,
+Embrassit son fils Cadichon ;
+Puis il s'en fut cheux le Notaire,			[80]
+Et lui presenta son garcon :
+Disant, faisons une alliance,
+C'est un mariage absolument,
+R'li, r'lan , r'lan tan plan, de conscience ,
+R'ian, etc.			[85]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FANCHON.
+Jerome a z'une voix d'n'oblesse.
+JEROME.
+Oh ! quand il s'agit de tendresse,
+J'nous en tirons.
+MARGOT.
+A propos d'ca ,
+Vous autres, savez-vous s'tella ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Jusques dans la moindre vue			[90]
+J'vois mon Amant z'en tableau,
+Dres que j'mets l'pie dans la rue,
+Je l'vois m'oter son chapeau ;
+Je le rencontre a toute heure,
+Au couchant comme au lever,			[95]
+Et, sans savoir ous qui d'meure,
+Mon cur va toujours l'trouver.
+Si je fuis a not' fenete,
+Dans l'dessein d'voir le passant,
+J'distingue toujours sa tete ,			[100]
+Quand ail' serait parmi cent ;
+Si je lis quel jour nous sommes,
+Dans l'Armonac d'cabinet,
+Au lieu d'Saint, je n'vois qu'des hommes,
+Rapport a s'tila qui m'plait.			[105]
+Que j'blanchisse a la riviere,
+Mes amours sont savonnes,
+Que j'ouvre ma tabaquiere,
+Mon amant me monte au nez ;
+Lorsque j'endosse ma hotte ,			[110]
+Y m'sembe que j'porte l'Amour,
+Enfin, la tendre Javotte
+Pense a Cadet nuit z'et jour.
+SCENE III. Genevieve, Les Precedents.
+FANCHON.
+Qu'ien v'la Genevieve ! Ais, ma commere,
+Veux-tu boire un coup de s't'affaire ?			[115]
+GENEVIEVE.
+Plutot deux. J'venions tout expres :
+Marchand, donnez d'misquie du frais.
+MARGOT.
+J'en avons. Quoi donc ! Qu'tu veux faire.
+GENEVIEVE.
+Chopine a moiquie ? Qu'eux misere !
+FANCHON.
+Oh ! C'est assez; car moi j'm'en vas.			[120]
+GENEVIEVE.
+Par ainsi je n'vous craignons pas ,
+Mamselle Fanchon : est-c'que j'vous chasse ?
+Comm'vous nous faites la grimace !
+FANCHON.
+Moi, la grimace ! A qu'eux surget ?
+GENEVIEVE.
+Oh ! dam' de c'a, n'y a qu'vous qui l'sait.			[125]
+MARGOT, versant.
+Allons, buvons, qu'in toi, Genevieve :
+Dis donc, Fanchon , veux-tu qu'j'acheve ?
+Mettai-je tout, y viendra-t-il l'tien ?
+FANCHON.
+Allons, verse, je l'voulons bien.
+GENEVIEVE.
+All' voulait s'en aller. S'te charge !			[130]
+FANCHON.
+Je n'voulons pas vous etre a charge,
+Et j'comptons payer not' ecot.
+GENEVIEVE.
+Marchand, chopine de coco,
+Puisque Mam'selle Fanchon se pique :
+Allez, vous aurez sa pratique ,			[135]
+Elle est bonne, et vous s'rez content.
+FANCHON.
+Allons, n'te goberge pas tant.
+GENEVIEVE.
+Mais, vraiment, tu m'empech'ras d'rire ?
+Eh ben ! S't'eau-de-vie ?
+LE MARCHAND, dans la coulisse.
+On en tire.
+GENEVIEVE.
+Depechez donc. J'ai mal aux dents.			[140]
+MARGOT.
+Un moment, s't'homme a ses chalands.
+Crois-tu quignia qu'nous qui contente ?
+GENEVIEVE.
+Ah ! Vous avez raison, la Plante.
+JEROME.
+Oui, c'est du bon. Sur ce ton-la,
+Fanchon, sais-tu ce couplet-la ?			[145]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)L'autre jour, avec sa hotte ,
+Charlotte me rencontra,
+Larira ;
+Je l'emmena cheux not' hote,
+Et puis je la regala			[150]
+De cela ;
+Apres je lui dis, Charlotte,
+C'est assez sur ce ton-la.
+FANCHON.
+Jerome, toi qu'en sais des belles,
+Chante z'en donc pour ces pucelles.			[155]
+JEROME.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour ces pucelles, mais oui da, (bis)
+Enseignez-nous ous qui y'en a ; (bis)
+Je voudrions en faire emplette,
+Et leur dire la chansonnette.
+J'en ont cherche par tout Paris, (bis)			[160]
+Mais je n'ont trouve qu'du fouillis ; (bis)
+C'est une terre ben trompeuse,
+En vain le plus savant z'y'creuse.
+LE MARCHAND.
+Voila votre affaire, Mesdames.
+MARGOT.
+Mesdames ! J'sommes ben des femmes.			[165]
+Parlez-nous avec verite,
+J'n'aimons pas l'honneur frelatte :
+Y vous vient queuques fois des dames,
+Qu'avons bien plus de corps que d'ames.
+GENEVIEVE, versant.
+Allons, n'restons pas en defaut.			[170]
+JEROME.
+En v'la tout autant qui m'en faut,
+J'n'en boirais pu seul'ment deux gouttes.
+FANCHON.
+Quand ni en a plus, tu t'en degoutes :
+Allons, fouinons, l'tems veut changer.
+MARGOT.
+L'dis-tu pour nous faire enrager ?			[175]
+N'nous porte pas guignon d'avance.
+FANCHON.
+N'vas-tu pas tomber en fayance ?
+S'il pleut, j'avons le parasol.
+GENEVIEVE.
+Voyez, Mam'selle Croquignol !
+Fait-y beau, quand il pleut z'a verse ?			[180]
+JEROME, se levant, brusquement.
+Allons, faut toujours qu'ca converse ;
+J'navons pu rien, allons-nous-en.
+GENEVIEVE, egoutant la mesure.
+Que j'y voye, Monsieur Gourmand.
+JEROME.
+Quand j'te l'dis, tu dois etre sure ;
+Allons-nous-en payer s'te mesure. ,			[185]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)R'venez-vous de Chantilly ?
+Vraiment, mon compere, oui :
+Y'avez-vous bu de s'taffaire ?
+Vraiment, mon compere, voire,
+Vraiment, mon compere, oui.			[190]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV. Jerome, Fanchon, Margot, Genevieve sont etales d'un cote, Babet, Fruitiere, etalee de l'autre ; et Marie-Jeanne, Babet.
+Le fond du Theatre change, et represente le carreau de la Halle, ou l'on voit plusieurs places d'ecosseuses.
+MARIE-JEANNE.
+Dis donc, Babet ? Quoi donc qu'tu penses
+De t'etaler la par avance ?
+T'as la porte du Viterier,
+Vas-t'en z'y faire ton metier.
+BABET.
+De quel droit, Madame J'ordonne,			[195]
+Vlez-vous chasser une personne ?
+J'venons la plus souvent que vous.
+MARIE-JEANNE.
+Allons, hu, aussi non des coups.
+Crois-moi, n'jase pas, bonne bete,
+La cervelle m'monte a la tete :			[200]
+Et je pourrions ben te r'liche ,
+Comm'j'ons deja fait z'au marche.
+BABET.
+Ah ! Oui, voyons donc voir ? Que j'voye ?
+MARIE-JEANNE.
+Allons, tais ton bec, et devoye,
+J'te dis qu'tu n'esteras pas la.			[205]
+BABET.
+Et moi j'vous dis que l'on verra :
+Si tu m'fais peur, tu n'm'en fais guere.
+MARIE-JEANNE.
+Decampe toujours, harangere ;
+La place est a moi, d'mande a eux.
+Ais, Fanchon, parle, si tu veux.			[210]
+Pas vrai que j'ai l'accoutumance
+De m'mettre ila par preference ?
+FANCHON.
+Sans doute, faut-il tant crier?
+MARGOT.
+Quoi! Tu n'scaurois la renvoyer?
+Est ce qu'tu n'es pas assezgrande ?			[215]
+BABET.
+Voyez , c'est ben ca qu'on l'y d'mande !
+Dites donc, marnsell' Boute-feu,
+N'faut-y pas q'vous parliez fur l'jeu ?
+MARIE-JEANNE.
+Allons, va-t'en dans ta bataque.
+BABET.
+N'pousse pas tant que je n'te claque,			[220]
+J'm'en vas. Mais, tu t'souviendras d'moi :
+En attendant, v'la qu'est pour toi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Adieu, Marchande d'amourette,
+C'est chez vous qu'on va faire emplette :
+J'vous envoyrons nos Amoureux,			[225]
+Dres que j'n'aurons plus besoin d'eux;
+Comptez-y, bouche a toute graine.
+MARIE-JEANNE.
+Eh ! vas, vas, pas tant qu'toi, vilaine !
+Ton pere qu'est un portefaix,
+Ne porte pas comme tu fais.			[230]
+BABET.
+Ah, qu'ca te va ben d'faire la grosse !
+Souvent est gausse qui nous gausse.
+C'est un proverbe qu'est ben bon.
+MARIE-JEANNE.
+Passez, Madame Guenillon,
+Qu'on n'vous dechire votre robe.			[235]
+BABET.
+Si j'm'en vas, c'est peur qu'on m'derobe ;
+On t'connait pour c'a dans l'quarquier.
+MARIE-JEANNE.
+Ah, comme j'men vas t'etrier !
+T'attaque un honneur en personne ?
+Il faut tout du long que j't'en donne.			[240]
+Qu'en v'la d'abord, qui t'apprendra ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)BABET.
+Ah, double chienne, on t'en donn'ra
+Des bonnets pour qu'tu les dechires ?
+MARIE-JEANNE.
+Attends, c'n'est encor que pour rire :
+J'vas t'en donner tout ton. Chien d'sou.			[245]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)BABET.
+A moi, ma mere, on me rompt l'cou.
+SCENE V. La Fermiere des Places, Les precedents.
+LA FERMIERE.
+Eh bien ! c'est tous les jours de meme !
+MARIE-JEANNE , montrant Babet.
+Voyez comme la v'la blaspheme !
+On n'lui fait pourtant rien.
+BABET, pleurant.
+Vraiment,
+On me bat pas a tout moment ?			[250]
+Vous m'avez frappee, on sait comme !
+Madame, d'mandez a Jerome,
+Fanchon, Margot ?
+TOUS TROIS.
+J'navons rien vu !
+BABET.
+Du moins, vous lavez entendu :
+Un soufflet s'fait toujours entendre.			[255]
+LA FERMIERE, a Babet.
+Allons, commencez par me prendre
+De ce cote.
+MARIE-JEANNE.
+Oui, va t'coucher.
+BABET.
+Les plus forts n'doivent pas s'facher.
+Tout l'monde m'en veut, z'on m'echigne ;
+Va bonnet d'dentelles de Maligne,			[260]
+Qu'on vient de me mettre en hachi ;
+Pour de tout le reste j'men chi :
+Mais j'vas toujours faire ma plainte,
+Et dire que j'suis grosse enceinte.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Les Precedents, excepte Babet.
+LA FERMIERE, d'un ton de Petite-Maitresse.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah, bon Dieu ! Qu'on voit de scandale			[265]
+Parmi ces femmes de la Halle !
+Faut-il qu'on n'en puisse entrevoir
+Une seule bonne a la ronde ?
+Tandis qu'ailleurs on peut avoir
+Les meilleures femmes du monde.			[270]
+FANCHON.
+Madame la Fermiere a raison
+D'quereller ceux qui font carillon.
+MARGOT, ironiquement.
+Voyez-nous, si j'avons de la peine !
+LA FERMIERE, sortant.
+Oui, vous etes de bonne graine.
+SCENE VII. Jerome, Fanchon, Margot, Genevieve, Marie-Jeanne.
+JEROME.
+Fanchon, tu ne gouailles pas mal.			[275]
+MARGOT.
+Eh moi, donc ? J ai suivi l'signal,
+J'ai flatte Madam' la Fermiere.
+Mais, si vous saviez, par derriere,
+Ce que j'pensions ?
+GENEVIEVE.
+Moi, je m'cachais ;
+Mais c'etait pour rire a ses frais.			[280]
+SCENE VIII. Belle-Rose, Dragon ; Manon, la Bouquetiere, Les Precedents.
+BELLE-ROSE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons, ma belle enfant,
+Je suis content
+De toi pendant toute l'annee;
+Mais il faut, dans ce jour,
+De mon amour			[285]
+Fixer la destinee :
+Si tu veux que tes bouquets
+Fixent mes voeux coquets,
+Joins, ma poulette,
+La rose et le bouton			[290]
+D'amourette,
+La rose et le bouton.
+FANCHON.
+Bonjour donc, la belle Manon.
+JEROME.
+Te v'la, vivant !
+BELLE-ROSE.
+Bonjour, luron.
+Eh ben ! Comment vont l's'ecosseuses ?			[295]
+JEROME.
+Elles vont ben, toujours joyeuses.
+BELLE-ROSE.
+Tant mieux, j'allons y prendre part.
+FANCHON.
+Avancez donc, Monsieur Gaillard ?
+MARGOT.
+Belle-Rose a l'air d'etre en ribotte.
+BELLE-ROSE.
+Mais, vraiment, Mam'selle Margotte !			[300]
+C'a vous arrive quelquefois.
+MARGOT.
+Allons, v'nez ecosser des pois,
+C'a vous reposera la tete.
+Vla z'un man'quin pour vot'conquete ;
+Vous, prenez c'sac, mettez-vous d'ssus.			[305]
+BELLE-ROSE.
+M'y vla.
+SCENE IX. Une Marchande de citrons, Les Precedents.
+LA MARCHANDE.
+Mes bons citrons a jus.
+MARGOT.
+C'est vous ! Comment va l'eventaire ?
+LA MARCHANDE.
+C'a va ben douc'ment, ma commere.
+BELLE-ROSE.
+Comben la couple, la Maman ?			[310]
+LA MARCHANDE.
+Dix sous.
+BELLE-ROSE.
+Dix sous ?
+LA MARCHANDE.
+Oui, tout autant :
+Si vous criez, m'en faudra douze.
+BELLE-ROSE.
+Ah ben oui, comme je m'y blouze !
+MANON.
+Allons, qu'as-tu besoin de citron ?
+BELLE-ROSE.
+V'la le Barbier de l'Arche Marion !			[315]
+Dites-lui qu'il en fasse emplette,
+C'a lui servira d'savonnette.
+SCENE X. Un Garcon perruquier Perruquier, Les Precedents.
+LA MARCHANDE.
+Vous en faut, le beau blondin ?
+LE PERRUQUIER, Gascon.
+De quoi ?
+LA MARCHANDE.
+D'citron ?
+LE PERRUQUIER.
+Oui. Pour le tein.
+LA BOUQUETIERE.
+C'est ca qu'il l'a si beau.
+LE PERRUQUIER.
+Les quatres,			[320]
+Combien ?
+LA MARCHANDE.
+Vingt sous, sans rien rabattre.
+LE PERRUQUIER.
+Eh ! Combien, ne rabattant rien ,
+Cela fait-il ?
+LA MARCHANDE.
+Vous l'savez bien.
+Est-c'pour se moquer qu'on s'arrete ?			[325]
+Avec votre etrille a la tete,
+Si vous n'en v'le pas, laissez-nous.
+LE PERRUQUIER.
+Vingt sous les quatre, c'est cinq sous :
+Vous etes dans le tort, la femme !
+LA MARCHANDE.
+Eh ! Tais-toi donc, vilain infame ?			[330]
+C'est ben putot toi qu'il la tort.
+N'jette pas not'citron si fort ?
+Il n'avait qu'a choir dans la boue,
+Queque t'auroit paye ? La moue.
+LE PERRUQUIER.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Capedebious, l'erreur est grande !			[335]
+C'est faire une sotte demande.
+Qui, moi, ce que je payerois ?
+Me croyez-bous donc fans ressource ?
+Un Gascon manque-t-il jamais,
+Surtout du cote de la bourse ?			[340]
+LA MARCHANDE.
+Voyez donc comme il sent son bien ?
+LE PERRUQUIER.
+La bonne ? Vous ne perdrez rien,
+Si je vous fais quelque dommage.
+LA MARCHANDE.
+Oui, c'est marque sur vot' visage.
+J'voyons ben, a tous vos boutons,			[345]
+A peu pres c'que je gagnerions.
+LE PERRUQUIER.
+Cadedis, qu'elle est insolente !
+MARGOT.
+Ma commere, t'es medisante.
+Pourquoi donc dire des gros mots
+A c'Monsieur qu'est homme en repos ?			[350]
+LA MARCHANDE.
+Mais aussi, c'est vrai, Dieu m'pardonne !
+Quand j'voyons comm' ca queuque personne,
+Qui meprise c'que vous vendez...
+LE PERRUQUIER.
+C'est donc mal que vous entendez.
+Je ne meprise en nulle sorte.			[355]
+Mais je dis que la somme est forte :
+Eh donc ! Parlez au juste, la.
+LA MARCHANDE.
+Ah ben ! J'vous entendons comm' ca.
+Faut donc vous dire en conscience ?
+Quatre sous, et vot' connaissance.			[360]
+Voila notre dernier mot dit.
+LE PERRUQUIER.
+Donnez-m'en six, et plus de bruit.
+LA MARCHANDE.
+Tenez, mon Roi, v'la qu'est tout sucre.
+LE PERRUQUIER.
+Je vous souhaite bien du lucre.
+MARGOT.
+Et ben, est-c' qu'vous n'aidez pas			[365]
+Pour ecosser ?
+LE PERRUQUIER.
+J'ai mal aux bras.
+FANCHON.
+L'pauvre petit ! Faut de la rybarbe :
+C'est fatiguant d'faire une barbe.
+LE PERRUQUIER.
+Sandis ! Plus que vous ne pensez.
+MARGOT.
+Fanchon, vois donc c'grand elance ?			[370]
+SCENE XI. Un Petit-Maitre, Les Precedents.
+LA BOUQUETIERE.
+Monsieur, achetez donc du notre,
+Un petit bouquet pour la votre.
+LE PETIT-MAITRE.
+Pour qui, la mienne ? Expliquez-vous.
+LA BOUQUETIERE.
+Pardi, nous le demandez-vous ?
+Votre Maitresse.
+LE PETIT-MAITRE.
+Ah ! je m'en passe.			[375]
+LA BOUQUETIERE.
+C'est donc quand elle est en disgrace ;
+J'savons que vous en etes fou.
+Allons, prenez ca, mon bijou :
+Elle aura l'air de la mariee,
+Et je s'rai par vous etrennee.			[380]
+LE PETIT-MAITRE.
+Combien faut-il pour cette fleur ?
+LA BOUQUETIERE.
+Six sous pour vous; mon petit coeur.
+LE PETIT-MAITRE.
+En voila quatre, et je la garde.
+LA BOUQUETIERE.
+Allez, c'nest pas a vous qu'on r'gardes
+LE PETIT-MAITRE.
+De plus, je veux une chanson.			[385]
+LA BOUQUETIERE.
+Oh ! Pour moi, j'ai la voix batarde.
+D'mandez a eux ?
+FANCHON.
+V'nez ca, mignon.
+LE PETIT-MAITRE.
+Volontiers : soyez ma mignarde.
+FANCHON.
+Vous tri'avez Pair sur le bon ton.
+Assisez-vous.
+LE PETIT-MAITRE.
+Je vous rends grace.			[390]
+FANCHON.
+Rougissez-vous d'etre a not' place?,
+MARGOT.
+Laisses l'ai : c'est qui veut grandir.
+FANCHON.
+Ah ! Sans gene, il peut ben agir.
+LE PETIT-MAITRE.
+Allons, chantez donc, ma mignonne.
+FANCHON.
+Je l'voulons ben, Monsieur J'ordonne.			[395]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Y'Amour, comme tu nous empaume ;
+Pourquoi faur-il z'aimer, Jerome,
+Comme j'faisons ?
+Mon coeur sait ben qu'c'est un volage,
+Mais j'ai beau vouloir qu'il soit sage ,			[400]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Chansons, chansons.
+Au cabaret, quand faut qu'j'attende,
+A tout bout d'champ je le demande
+A ces garcons :
+Ils disont qu'il ne vient personne,			[405]
+Et ca me rend l'humeur ben bonne,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Chansons, chansons.
+C'qui fait encor plus que j'endeve,
+C'est qu'il faut seule que j'acheve
+Tout s'te boisson :			[410]
+Moi que jamais le vin ne presse,
+Et qui ne suis point z'ivrognesse,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Chansons, chansons.
+J'ai souvent refuse du monde,
+Qui pretendions que je reponde			[415]
+A leux facons :
+Mais je ne suis point de c'te pate,
+Et je leux reponds, si t'en tate,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Chansons, chansons.
+JEROME.
+Chacun son tour, comme dit l'autre.			[420]
+FANCHON.
+Jerome, attends. Monsieu, la votre.
+Vous v'la pensif comme un reveur !
+Est-c' que j'vous fesons deshonneur ?
+LE PETIT-MAITRE.
+Deshonneur, vous ! Non pas, ma belle :
+Si je vous regardais pour telle ,			[425]
+Je ne me serais pas mis la.
+FANCHON.
+Si j'voulons du galant, en v'la.
+Eh ben ! Chantez donc queuque air tendre.
+LE PETIT-MAITRE.
+Non, j'aime beaucoup mieux entendre ;
+Et Monsieur Jerome a raison			[430]
+De prendre son tour.
+BELLE-ROSE.
+Chantez donc ?
+J'allons faire chorus en rond.
+JEROME.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Un jour j'etions a Vaugirard,
+Dont j'somm' deboules un peu tard ,'
+Y'aisement cela se peut croire ;			[435]
+A notre table, a tous moments,
+Y venait des troupeaux d'Marchands :
+Jarni, moi qui aime a etre tranquille quand j'prends mes repas de nourriture, je leux dis, le premier qui me fait parler la bouche pleine,
+Je veux t'etre un chien,
+Y a coups d'pied, y a coups de poing,
+J'l'y casserai la gueule et la machoire.			[440]
+Ca finit, mais l'instant d'apres,
+V'la la marchande de croquets,
+Y'aisement cela se peut croire ;
+Monsieur, dit-elle, en voulez-vous ?
+Tirez, on gagne a tous les coups :			[445]
+Sandie, moi qui ne rate d'aucune loterie qu'a lacelle des Enfants trouves, parce que je y'ai ete eleve,
+Je veux t'etre, etc.
+Il nous vient z'un autre animal,
+Crier gateaux a la Royal,
+Y'aisement cela se peut croire ;
+Moi qu'avait la z'un bon fricot,			[450]
+Je vous pris mon homme au gavio,
+Et lui dis : allons, patronet, va-t-en vendre ton gateau plus loin, sinon j'te vas donner la feve sur l'oeil. Il voulait me faire sortir dans la rue du dehors ; mais moi tout de quite, pif, paf, z'on,
+Je veux t'etre, etc.
+Le Marchand d'tisane en bonnet,
+Vient nous montrer son robinet,
+Y'aisement cela se peut croire ;			[455]
+Nous qu'avions la du vin ben chenu,
+J'vous lui disons d'abord, eh ! hu :
+Allons, passe ton chemin, Marchand d'ratafia de grenouille, avec ta Saintmaritaine sur le dos ; comptes-tu nous faite peur parce que tas un baton de reglisse dans ta poche, retire-toi, au signon,
+Je veux t'etre, etc.
+Pour augmenter le carillon ,
+Vla z'un Joueur de timpanon,			[460]
+Y'aisement cela se peut croire ;
+Moi qu'ai la Musique en degout,
+J'vous l'y riva bentot son clou :
+En lui disant, papa, allez jouer a s'tautre table, vous nous faites grincer les oreilles. Au lieur de s'en aller, ne v'la t'y pas le vieux chnapan qui m'accipe l'epingue de mon col, pour faire, sus son timpanon, zigue, zin, zigue, zin ; moi, pi, pan,
+Je voux suis un, etc.
+La Marchande aux coeurs, a son tour,			[465]
+S'en vint pour nous faire sa cour,
+Y'aisement cela se peut croire ;
+A la parfin elle fit tant,
+Que j'en pris un, en lui disant,
+La maman, si la devise n'est pas chenatre, je ne sis pas vif de promptitude, mais j'commence ; par vous le dire doucement,
+Je veux t'etre, etc.			[470]
+J'en fus content, car c'etait bon ,,
+D'abord j'l'offrit a ma Fanchon,
+Y'aisement cela se peut croire ;
+Y'avait, je suis dans, vot' lien,
+Et pour longtemps mon cour en tient.			[475]
+Oui, dis-je-t'y a ma parsonniere, j't'aimerai toute la vie de mon existence; si queuqu'un venait pour contrarier le contraire,
+Je veux t'etre, etc.
+Eh ben, Monsieu ! Qu'dites-vous d'ca ?
+C'est il d'vot' gout sur ce ton-la ?
+Savons je y donner la tournure ?
+LE PETIT-MAITRE.
+On ne peut pas mieux, je vous jure :			[480]
+Je vous en fais mon compliment.
+JEROME.
+Vous et' courtois comme un galant,
+J'vois ben que ca vous plait z'a dire.
+GENEVIEVE.
+Monsieur met-il dans la tir'-lire ?
+LE PETIT-MAITRE.
+Ma bonne amie, en verite ,			[485]
+Je suis fache d'etre arrete
+Pour aller faire une visite.
+Sans cela...
+MARGOT.
+Quoi ! Monsieur nous quitte !
+FANCHON.
+Allez-vous loin, mon benjamin ?
+Ces souyers-la n'f'ront pas l'chemin,			[490]
+Changez-les de pies pour ben faire.
+Il a l'encolure legere ;
+Voyez donc qu'il est revenant
+Avec son nez en catogant !
+On dirait d'un enfant z'en chartre			[495]
+Avec ses oreilles d'Montmartre.
+Monsieu, voulez-vous un godant ?
+LE PETIT-MAITRE.
+Bonne chienne, on t'en livre autant.
+Si nous n'avons pas l'air d'un Prince,
+Le tien est encor bien plus mince.			[500]
+A la blancheur de son minois,
+C'est un signe du Gatinais ;
+Voyez sa petite menotte ,
+Aussi large qu'un dos de hotte :
+Rien qu'a voir, c'est un plaisir,			[505]
+Elle est d'un laid a eblouir.
+FANCHON.
+Mon laid est moins laid qu'ton grouin.
+Viens donc que j'te r'magne un p'tit brin ,
+Avec ton menton de galoche,
+Et ta jambe en facon d'bancroche :			[510]
+Veux-tu te r'tirer, vilain ple ?
+LE PETIT-MAITRE.
+Adieu, femme a mari sangle.
+Ah, que je plains le pauvre diable
+D'avoir une femme semblable !
+Il fait son purgatoire ici.			[515]
+FANCHON.
+Eh ! Oui, beau male en racourci.
+Va donc visage a verre a biere,
+Jardinier de not' cemetiere;
+Quand tu s'ras grand, t'iras tout seul,
+Avec ta face d'epagneul :			[520]
+Dites donc, Monsieu la Flamberge,
+N'allez pas tirer vot' esperge.
+LE PETIT-MAITRE.
+Adieu, couturiere en chaussons,
+Maraine a tenir grands garcons,
+Tourriere de Couvent sans ordre,			[525]
+C'est pour toi que Samson fait tordre.
+Ton pere eut six chiens, comptant toi,
+Il en noya cinq : et pourquoi ?
+C'est qu'il voulait que tu fus feule,
+Il n'a garde que mille gueule.			[530]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XII. Tout le Monde, excepte le Petit-Maitre.
+MARGOT.
+Dis donc, Fanchon, s'tila va ben.
+FANCHON.
+Y s'en va pas moins : c'est vilain.
+JEROME.
+Enfants, j'entends l'pere Chantrelle.
+BELLE-ROSE.
+Allons ? Dansons, et point d'querelle.
+SCENE XIII. Un Aveugle, Un Joueur de Violon, acteurs precedents, differents personnages.
+FANCHON.
+Pere Chantrelle, j'allons ben,			[535]
+Continuez, d'nous mettre en train.
+JEROME.
+Oui, un menuet pour, l'ouverture,
+Allons, a nous deux, ma future.
+LE VIOLON.
+Quel menuet voulez-vous danser ?
+JEROME.
+C'lui qui finit par s'embrasser.			[540]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)JEROME.
+Allons, Bell'-Rose.
+FANCHON.
+A toi, Manon.
+LA BOUQUETIERE.
+Moi, j'aime mieux le rigodon.
+BELLE-ROSE.
+Eh ben ! Dansons une contre-danse ;
+Allons, a huit violons d'cherence.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le violon va ben en dansant,			[545]
+Voyons si c'est d'meme en chantant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MARIE-JEANNE.
+Prenez d'nos pois ecosses,
+C'est les meilleurs fricasses ;
+Je voyons ben des tendrons
+Qui deviennent ronds, (bis)			[550]
+Lorsque je les nourrissons
+Des pois que nous ecossons. (bis)
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)BABET.
+J'vendons des pois ecosses
+A des gens fort ben trousses ;
+Mais les meilleures facons,			[555]
+C'est ceux qui payons ; (bis)
+Car j'navons pas de bien d'fonds,
+Si ce n'est dans nos litrons. (bis)
+LE PERRUQUIER.
+Tous vos pois font ecosses,
+Allons, chantez et dansez ;			[560]
+Filles, prenez ces garcons ,
+Et cabriolons ; (bis)
+Si vous gatez vos chignons,
+Je vous les retaperons. (bis)
+LA BOUQUETIERE.
+Si vos pois sont ecosses,			[565]
+Tous mes bouquets sont passes ;
+J'avons toujours des lurons
+Pour qui j'en faisons, (bis)
+Et ma rose et mes boutons
+Valent bien tous vos litrons. (bis)			[570]
+GENEVIEVE.
+Pour crier, pois ecosses,
+J'ai deja d'la voix assez ;
+Etant petite, j'suivions
+Les petits garcons ; (bis)
+Mais d'puis que je grandissons,			[575]
+Avec les grands j'ecossons. (bis)
+LA MARCHANDE DE CITRONS.
+Souvent les pois ecosses
+Vous rendent les doigts poisses ;
+Approchez, je vous vendrons
+Du jus de citrons ; (bis)			[580]
+Avec ca j'rafraichissons,
+Quand on s'echauffe aux litrons, (bis)
+BELLE-ROSE.
+Dans l'tems des pois ecosses,
+Les ennemis sont rosses ;
+Lorsque je les rencontrons ,			[585]
+Je les ecossons ; (bis)
+Quand ils voyent nos Dragons,
+ils s'cachraient dans des litrons. (bis)
+LE MARCHAND DE RATAFIA.
+Vous vendez pois ecosses,
+Et vous vous divertissez ;			[590]
+Je vois bien des Chambrillons
+Qui vous en prenons, (bis)
+Afin que les Marmitons
+Fassent la fausse aux litrons. (bis)
+JEROME.
+Fanchon, tes pois ecosses			[595]
+A mes yeux sont ben de fes ;
+Tu sais comme je portons,
+J'avons les reins bons, (bis)
+Et puis de bonnes chansons,
+Lorsque j'emplis tes litrons. (bis)			[600]
+FANCHON.
+Au temps des pois ecosses,
+Ben des Galants sont r'lances ;
+Quand y vient des fanfarons,
+Je les rembarrons, (bis)
+C'est Jerome qu'est des bons			[605]
+Pour toucher a mes litrons. (bis)
+L'AVEUGLE.
+Mes enfants, je ne vois rien,.
+Mais je connais le chemin ;
+Pour le peu que je touchions,
+Je nous en tirons ; (bis)			[610]
+Et je parie a tatons,
+Que je vous prends vos litrons. (bis)
+MARGOT.
+Parmi les pois ecosses,
+Tous les Marchands sont presses ;
+Le monde, quand j'etalons,			[615]
+Est sur nos talons ; (bis).
+On s'mettrait, si je voulions,
+Jusques dedans nos litrons, (bis)
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si pour nos pois ecosses,
+Messieurs, vous applaudissez ;			[620]
+Toujours, avec vos lecons,
+Nous reussissons ; (bis)
+De vos ecus que j'aimons,
+Venez emplir nos litrons. (bis)
+
+	==================================================

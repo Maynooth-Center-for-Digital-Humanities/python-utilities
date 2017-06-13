@@ -1,0 +1,1072 @@
+********************************************************
+	DC.Title                  = L'INDISCRET, COMÉDIE UN ACTE
+	DC.Author                 = VOLTAIRE
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Théâtre, Pièces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cité en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 à 19:30:30.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/VOLTAIRE_INDISCRET.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Théâtre Classique
+***************************************************************
+
+L'INDISCRET COMÉDIE EN UN ACTE1725
+Voltaire
+	
+	
+	Représentée pour la première le 1er août 1725.
+	AVERTISSEMENT DE LOUIS MOLAND
+Ce fut aux eaux de Forges que Voltaire composa ce petit acte dont « l'impitoyable M. de Richelieu » se montrait assez content. Il fut représenté, avec la Mariamne, le 1er août 1725. « Cette petite pièce fut représentée avant-hier avec assez de succès, écrit Voltaire; mais il me parut que les loges étaient plus contentes que le parterre. Dancourt et Legrand ont accoutumé le parterre au bas comique et aux grossièretés, et insensiblement le public s'est formé le préjugé que les petites pièces en un acte doivent être des farces pleines d'ordures, et non pas des comédies nobles où les moeurs soient respectées. » Marais, avant de l'avoir vue, rapportait ainsi le sentiment public: « Voltaire vient de donner une petite comédie de l'Indiscret, à la suite de sa Mariamne; on dit qu'il y a beaucoup d'esprit cependant elle a déplu à la chambre basse, qui y a trouvé peu de règles du théâtre, et à la chambre haute, qui s'y est trouvée trop bien dépeinte. » La chambre haute, ce sont les loges, la haute société, la cour, un peu mécontentes des libertés que prenait l'auteur.
+L'indiscret n'eut que six représentations en 1725, et fut imprimé la même année. Voici l'approbation du censeur: « J'ai lu, par l'ordre de monseigneur le garde des sceaux, l'Indiscret, comédie, par M. de Voltaire: cette pièce, où règne un comique noble et épuré, qui instruit en amusant, m'a paru très digne de l'impression. Ce 3 septembre 1725. Secousse. » Ce ne fut qu'en 1752 que l'auteur, ainsi qu'on le verra dans les variantes, fit quelques corrections à sa pièce.
+
+PERSONNAGES
+EUPHÉMIE.
+DAMIS.
+HORTENSE.
+TRASIMON.
+CLITANDRE.
+NÉRINE.
+PASQUIN.
+Plusieurs laquais de Damis.
+.
+
+
+
+			
+
+
+SCÈNE I. Euphémie, Damis.
+EUPHÉMIE.
+N'attendez pas, mon fils, qu'avec un ton sévère 
+Je déploie à vos yeux l'autorité de mère : 
+Toujours prête à me rendre à vos justes raisons, 
+Je vous donne un conseil, et non pas des leçons ; 
+C'est mon coeur qui vous parle, et mon expérience 			[5]
+Fait que ce coeur pour vous se trouble par avance. 
+Depuis deux mois au plus vous êtes à la cour : 
+Vous ne connaissez pas ce dangereux séjour ; 
+Sur un nouveau venu le courtisan perfide
+Avec malignité jette un regard avide, 			[10]
+Pénètre ses défauts, et, dès le premier jour, 
+Sans pitié le condamne, et même sans retour. 
+Craignez de ces messieurs la malice profonde. 
+Le premier pas, mon fils, que l'on fait dans le monde 
+Est celui dont dépend le reste de nos jours : 			[15]
+Ridicule une fois, on vous le croit toujours ; 
+L'impression demeure. En vain, croissant en âge, 
+On change de conduite, on prend un air plus sage, 
+On souffre encor longtemps de ce vieux préjugé ; 
+On est suspect encor lorsqu'on est corrigé ; 			[20]
+Et j'ai vu quelquefois payer dans la vieillesse 
+Le tribut des défauts qu'on eut dans la jeunesse ; 
+Connaissez donc le monde, et songez qu'aujourd'hui 
+Il faut que vous viviez pour vous moins que pour lui. 
+DAMIS.
+Je ne sais où peut tendre un si long préambule. 			[25]
+EUPHÉMIE.
+Je vois qu'il vous paraît injuste et ridicule ; 
+Vous méprisez des soins pour vous bien importants : 
+Vous m'en croirez un jour ; il n'en sera plus temps. 
+Vous êtes indiscret : ma trop longue indulgence 
+Pardonna ce défaut au feu de votre enfance ; 			[30]
+Dans un âge plus mur il cause ma frayeur. 
+Vous avez des talents, de l'esprit et du coeur ; 
+Mais croyez qu'en ce lieu tout rempli d'injustices, 
+Il n'est point de vertu qui rachète les vices, 
+Qu'on cite nos défauts en toute occasion, 			[35]
+Que le pire de tous est l'indiscrétion, 
+Et qu'à la cour, mon fils, l'art le plus nécessaire 
+N'est pas de bien parler, mais de savoir se taire. 
+Ce n'est pas en ce lieu que la société 
+Permet ces entretiens remplis de liberté : 			[40]
+Le plus souvent ici l'on parle sans rien dire ; 
+Et les plus ennuyeux savent s'y mieux conduire. 
+Je connais cette cour : on peut fort la blâmer ; 
+Mais lorsqu'on y demeure, il faut s'y conformer : 
+Pour les femmes surtout, plein d'un égard extrême, 			[45]
+Parlez-en rarement, encor moins de vous-même. 
+Paraissez ignorer ce qu'on fait, ce qu'on dit ; 
+Cachez vos sentiments, et même votre esprit ; 
+Surtout de vos secrets soyez toujours le maître : 
+Qui dit celui d'autrui doit passer pour un traître ; 			[50]
+Qui dit le sien, mon fils, passe ici pour un sot. 
+Qu'avez-vous à répondre à cela ? 
+DAMIS.
+Pas le mot ; 
+Je suis de votre avis je hais le caractère
+De quiconque n'a pas le pouvoir de se taire ; 
+Ce n'est pas là mon vice, et, loin d'être entiché 			[55]
+Du défaut qui par vous m'est ici reproché, 
+Je vous avoue enfin, madame, en confidence 
+Qu'avec vous trop longtemps j'ai gardé le silence 
+Sur un fait dont pourtant j'aurais dû vous parler : 
+Mais souvent dans la vie il faut dissimuler. 			[60]
+Je suis amant aimé d'une veuve adorable, 
+Jeune, charmante, riche, aussi sage qu'aimable ; 
+C'est Hortense. À ce nom jugez de mon bonheur ; 
+Jugez, s'il était su, de la vive douleur 
+De tous nos courtisans qui soupirent pour elle ; 			[65]
+Nous leur cachons à tous notre ardeur mutuelle : 
+L'amour depuis deux jours a serré ce lien, 
+Depuis deux jours entiers ; et vous n'en savez rien. 
+EUPHÉMIE.
+Mais j'étais à Paris depuis deux jours. 
+DAMIS.
+Madame, 
+On n'a jamais brûlé d'une si belle flamme. 			[70]
+Plus l'aveu vous en plaît, plus mon coeur est content ; 
+Et mon bonheur s'augmente en vous le racontant. 
+EUPHÉMIE.
+Je suis sûre, Damis, que cette confidence 
+Vient de votre amitié, non de votre imprudence. 
+DAMIS.
+En doutez-vous ? 
+EUPHÉMIE.
+Eh, eh... mais enfin, entre nous, 			[75]
+Songez au vrai bonheur qui vient s'offrir à vous : 
+Hortense a des appas ; mais de plus cette Hortense 
+Est le meilleur parti qui soit pour vous en France. 
+DAMIS.
+Je le sais. 
+EUPHÉMIE.
+D'elle seule elle reçoit des lois, 
+Et le don de sa main dépendra de son choix. 			[80]
+DAMIS.
+Et tant mieux. 
+EUPHÉMIE.
+Vous saurez flatter son caractère, 
+Ménager son esprit. 
+DAMIS.
+Je fais mieux, je sais plaire. 
+EUPHÉMIE.
+C'est bien dit ; mais, Damis, elle fuit les éclats ; 
+Et les airs trop bruyants ne l'accommodent pas : 
+Elle peut, comme une autre, avoir quelque faiblesse ; 			[85]
+Mais jusque dans ses goûts elle a de la sagesse, 
+Craint surtout de se voir en spectacle à la cour, 
+Et d'être le sujet de l'histoire du jour ; 
+Le secret, le mystère est tout ce qui la flatte. 
+DAMIS.
+Il faudra bien pourtant qu'enfin la chose éclate. 			[90]
+EUPHÉMIE.
+Mais près d'elle, en un mot, quel sort vous a produit ? 
+Nul jeune homme jamais n'est chez elle introduit ; 
+Elle fuit avec soin, en personne prudente, 
+De nos jeunes seigneurs la cohue éclatante. 
+DAMIS.
+Ma foi ! chez elle encor je ne suis point reçu ; 			[95]
+Je l'ai longtemps lorgnée, et, grâce au ciel, j'ai plu. 
+D'abord elle rendit mes billets sans les lire ; 
+Bientôt elle les lut, et daigne enfin m'écrire. 
+Depuis près de deux jours je goûte un doux espoir ; 
+Et je dois, en un mot, l'entretenir ce soir. 			[100]
+EUPHÉMIE.
+Eh bien ! je veux aussi l'aller trouver moi-même. 
+La mère d'un amant qui nous plaît, qui nous aime, 
+Est toujours, que je crois, reçue avec plaisir. 
+De vous adroitement je veux l'entretenir, 
+Et disposer son coeur à presser l'hyménée 			[105]
+Qui fera le bonheur de votre destinée. 
+Obtenez au plus tôt et sa main et sa foi, 
+Je vous y servirai ; mais n'en parlez qu'à moi. 
+DAMIS.
+Non, il n'est point ailleurs, madame, je vous jure, 
+Une mère plus tendre, une amitié plus pure : 			[110]
+A vous plaire à jamais je borne tous mes voeux. 
+EUPHÉMIE.
+Soyez heureux, mon fils, c'est tout ce que je veux. 
+SCÈNE II.
+DAMIS.
+Ma mère n'a point tort ; je sais bien qu'en ce monde 
+Il faut, pour réussir, une adresse profonde. 
+Hors dix ou douze amis à qui je puis parler, 			[115]
+Avec toute la cour je vais dissimuler. 
+Çà, pour mieux essayer cette prudence extrême, 
+De nos secrets ici ne parlons qu'à nous-même ; 
+Examinons un peu, sans témoins, sans jaloux, 
+Tout ce que la fortune a prodigué pour nous. 			[120]
+Je hais la vanité ; mais ce n'est point un vice
+De savoir se connaître et se rendre justice. 
+On n'est pas sans esprit, on plaît ; on a, je crois, 
+Aux petits cabinets l'air de l'ami du roi. 
+Il faut bien s'avouer que l'on est fait à peindre ; 			[125]
+On danse, on chante, on boit, on sait parler et feindre. 
+Colonel à treize ans, je pense avec raison 
+Que l'on peut à trente ans m'honorer d'un bâton. 
+Heureux en ce moment, heureux en espérance, 
+Je garderai Julie, et vais avoir Hortense ; 			[130]
+Possesseur une fois de toutes ses beautés, 
+Je lui ferai par jour vingt infidélités, 
+Mais sans troubler en rien la douceur du ménage, 
+Sans être soupçonné, sans paraître volage ; 
+Et mangeant en six mois la moitié de son bien,			[135]
+J'aurai toute la cour sans qu'on en sache rien. 
+SCÈNE III. Damis, Trasimon.
+DAMIS.
+Hé ! bonjour, commandeur. 
+TRASIMON.
+Aye ! Ouf ! On m'estropie... 
+DAMIS.
+Embrassons-nous encor, commandeur, je te prie. 
+TRASIMON.
+Souffrez... 
+DAMIS.
+Que je t'étouffe une troisième fois. 
+TRASIMON.
+Mais quoi ? 
+DAMIS.
+Déride un peu ce renfrogné minois ; 			[140]
+Réjouis-toi, je suis le plus heureux des hommes. 
+TRASIMON.
+Je venais pour vous dire... 
+DAMIS.
+Oh ! Parbleu tu m'assommes 
+Avec ce front glacé que tu portes ici. 
+TRASIMON.
+Mais je ne prétends pas vous réjouir aussi ; 
+Vous avez sur les bras une fâcheuse affaire. 			[145]
+DAMIS.
+Eh ! eh ! pas si fâcheuse. 
+TRASIMON.
+Erminie et Valère 
+Contre vous en ces lieux déclament hautement : 
+Vous avez parlé d'eux un peu légèrement ; 
+Et même depuis peu le vieux seigneur Horace 
+M'a prié... 
+DAMIS.
+Voilà bien de quoi je m'embarrasse ! 			[150]
+Horace est un vieux fou, plutôt qu'un vieux seigneur, 
+Tout chamarré d'orgueil, pétri d'un faux honneur, 
+Assez bas à la cour, important à la ville, 
+Et non moins ignorant qu'il veut paraître habile. 
+Pour madame Erminie, on sait assez comment 			[155]
+Je l'ai prise et quittée un peu trop brusquement. 
+Qu'elle est aigre, Erminie ! Et qu'elle est tracassière ! 
+Pour son petit amant, mon cher ami Valère, 
+Tu le connais un peu, parle : as-tu jamais vu 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Un esprit plus guindé, plus gauche, plus tortu ?... 			[160]
+A propos, on m'a dit hier, en confidence, 
+Que son grand frère aîné, cet homme d'importance, 
+Est reçu chez Clarice avec quelque faveur ; 
+Que la grosse comtesse en crève de douleur. 
+Et toi, vieux commandeur, comment va la tendresse ? 			[165]
+TRASIMON.
+Vous savez que le sexe assez peu m'intéresse. 
+DAMIS.
+Je ne suis pas de même ; et le sexe, ma foi, 
+À la ville, à la cour, me donne assez d'emploi. 
+Écoute ; il faut ici que mon coeur te confie 
+Un secret dont dépend le bonheur de ma vie. 			[170]
+TRASIMON.
+Puis-je vous y servir ? 
+DAMIS.
+Toi ? point du tout. 
+TRASIMON.
+Eh bien ! 
+Damis, s'il est ainsi, ne m'en dites donc rien. 
+DAMIS.
+Le droit de l'amitié... 
+TRASIMON.
+C'est cette amitié même 
+Qui me fait éviter avec un soin extrême 
+Le fardeau d'un secret au hasard confié, 			[175]
+Qu'on me dit par faiblesse, et non par amitié, 
+Dont tout autre que moi serait dépositaire, 
+Qui de mille soupçons est la source ordinaire, 
+Et qui peut nous combler de honte et de dépit, 
+Moi d'en avoir trop su, vous d'en avoir trop dit. 			[180]
+DAMIS.
+Malgré toi, commandeur, quoi que tu puisses dire, 
+Pour te faire plaisir, je veux du moins te lire 
+Le billet qu'aujourd'hui... 
+TRASIMON.
+Par quel empressement ?... 
+DAMIS.
+Ah ! tu le trouveras écrit bien tendrement. 
+TRASIMON.
+Puisque vous le voulez enfin... 
+DAMIS.
+C'est l'amour même, 			[185]
+Ma foi, qui l'a dicté. Tu verras comme on m'aime. 
+La main qui me l'écrit le rend d'un prix... vois-tu... 
+Mais d'un prix... eh, morbleu ! je crois l'avoir perdu. 
+Je ne le trouve point... Holà ! La Fleur ! La Brie ! 
+SCÈNE IV. Damis, Trasimon, Plusieurs Laquais.
+UN LAQUAIS.
+Monseigneur ? 
+DAMIS.
+Remontez vite à la galerie, 			[190]
+Retournez chez tous ceux que j'ai vus ce matin ;
+Allez chez ce vieux duc... Ah ! je le trouve enfin ; 
+Ces marauds l'ont mis là par pure étourderie. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Laissez-nous. Commandeur, écoute, je te prie. 
+SCÈNE V. Damis, Trasimon, Clitandre, Pasquin.
+CLITANDRE, à Pasquin, tenant un billet à la main.
+Oui, tout le long du jour demeure en ce jardin ; 			[195]
+Observe tout, vois tout, redis-moi tout, Pasquin ; 
+Rends-moi compte, en un mot, de tous les pas d'Hortense 
+Ah ! je saurai... 
+SCÈNE VI. Damis, Trasimon, Clitandre.
+DAMIS.
+Voici le marquis qui s'avance. 
+Bonjour, marquis. 
+CLITANDRE, un billet à la main.
+Bonjour. 
+DAMIS.
+Qu'as-tu donc aujourd'hui ? 
+Sur ton front à longs traits qui diable a peint l'ennui ? 			[200]
+Tout le monde m'aborde avec un air si morne, 
+Que je crois... 
+CLITANDRE, bas.
+Ma douleur, hélas ! n'a point de borne. 
+DAMIS.
+Que marmottes-tu là ? 
+CLITANDRE, bas.
+Que je suis malheureux ! 
+DAMIS.
+Çà, pour vous égayer, pour vous plaire à tous deux, 
+Le marquis entendra le billet de ma belle. 			[205]
+CLITANDRE, bas, en regardant le billet qu'il a entre les mains.
+Quel congé ! quelle lettre ! Hortense... Ah ! la cruelle ! 
+DAMIS, à Clitandre.
+C'est un billet à faire expirer un jaloux. 
+CLITANDRE.
+Si vous êtes aimé, que votre sort est doux ! 
+DAMIS.
+Il le faut avouer, les femmes de la ville, 
+Ma foi, ne savent point écrire de ce style. 			[210]
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Enfin je cède aux feux dont mon coeur est épris ; 
+Je voulais le cacher, mais j'aime à vous le dire 
+Eh ! pourquoi ne vous point écrire 
+Ce que cent fois mes yeux vous ont sans doute appris ? 
+Oui, mon cher Damis, je vous aime, 			[215]
+D'autant plus que mon coeur, peu propre à s'enflammer, 
+Craignant votre jeunesse, et se craignant lui-même, 
+A fait ce qu'il a pu pour ne vous point aimer. 
+Puissé-je, après l'aveu d'une telle faiblesse, 
+Ne me la jamais reprocher ! 			[220]
+Plus je vous montre ma tendresse, 
+Et plus à tous les yeux vous devez la cacher. 
+TRASIMON.
+Vous prenez très grand soin d'obéir à la dame, 
+Sans doute, et vous brûlez d'une discrète flamme. 
+CLITANDRE.
+Heureux qui, d'une femme adorant les appas, 			[225]
+Reçoit de tels billets, et ne les montre pas ! 
+DAMIS.
+Vous trouvez donc la lettre... 
+TRASIMON.
+Un peu forte. 
+CLITANDRE.
+Adorable. 
+DAMIS.
+Celle qui me l'écrit est cent fois plus aimable. 
+Que vous seriez charmés si vous saviez son nom ! 
+Mais dans ce monde il faut de la discrétion. 			[230]
+TRASIMON.
+Oh ! nous n'exigeons point de telle confidence. 
+CLITANDRE.
+Damis, nous nous aimons, mais c'est avec prudence. 
+TRASIMON.
+Loin de vouloir ici vous forcer de parler... 
+DAMIS.
+Non, je vous aime trop pour rien dissimuler. 
+Je vois que vous pensez, et la cour le publie, 			[235]
+Que je n'ai d'autre affaire ici qu'avec Julie. 
+CLITANDRE.
+On le dit d'après vous, mais nous n'en croyons rien.
+DAMIS.
+Oh ! crois... Jusqu'à présent, la chose allait fort bien ; 
+Nous nous étions aimés, quittés, repris encore : 
+On en parle partout. 
+TRASIMON.
+Non, tout cela s'ignore. 			[240]
+DAMIS.
+Tu crois qu'à cet oison je suis fort attaché ; 
+Mais, par ma foi, j'en suis très faiblement touché. 
+TRASIMON.
+Ou fort, ou faiblement, il ne m'importe guère. 
+DAMIS.
+La Julie est aimable, il est vrai, mais légère ; 
+L'autre est ce qu'il me faut, et c'est solidement 			[245]
+Que je l'aime. 
+CLITANDRE.
+Enfin donc cet objet si charmant... 
+DAMIS.
+Vous m'y forcez ; allons, il faut bien vous l'apprendre : 
+Regarde ce portrait, mon cher ami Clitandre ; 
+Çà, dis-moi si jamais tu vis de tes deux yeux 
+Rien de plus adorable et de plus gracieux, 			[250]
+C'est Macé qui l'a peint ; c'est tout dire, et je pense 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Que tu reconnaîtras... 
+CLITANDRE.
+Juste ciel ! C'est Hortense. 
+DAMIS.
+Pourquoi t'en étonner ? 
+TRASIMON.
+Vous oubliez, monsieur, 
+Qu'Hortense est ma cousine, et chérit son honneur, 
+Et qu'un pareil aveu... 
+DAMIS.
+Vous nous la donnez bonne ; 			[255]
+J'ai six cousines, moi, que je vous abandonne ; 
+Et je vous les verrais lorgner, tromper, quitter, 
+Imprimer leurs billets, sans m'en inquiéter. 
+Il nous ferait beau voir, dans nos humeurs chagrines, 
+Prendre avec soin sur nous l'honneur de nos cousines ! 			[260]
+Nous aurions trop à faire à la cour ; et, ma foi, 
+C'est assez que chacun réponde ici pour soi. 
+TRASIMON.
+Mais Hortense, monsieur... 
+DAMIS.
+Eh bien ! Oui, je l'adore, 
+Elle n'aime que moi, je vous le dis encore ; 
+Et je l'épouserai pour vous faire enrager. 			[265]
+CLITANDRE, à part.
+Ah ! plus cruellement pouvait-on m'outrager ? 
+DAMIS.
+Nos noces, croyez-moi, ne seront point secrètes ; 
+Et vous n'en serez pas, tout cousin que vous êtes. 
+TRASIMON.
+Adieu, monsieur Damis : on peut vous faire voir 
+Que sur une cousine on a quelque pouvoir. 			[270]
+SCÈNE VII. Damis, Clitandre.
+DAMIS.
+Que je hais ce censeur, et son air pédantesque, 
+Et tous ces faux éclats de vertu romanesque ! 
+Qu'il est sec ! qu'il est brut ! et qu'il est ennuyeux ! 
+Mais tu vois ce portrait d'un oeil bien curieux ? 
+CLITANDRE, à part.
+Comme ici de moi-même il faut que je sois maître ! 			[275]
+Qu'il faut dissimuler ! 
+DAMIS.
+Tu remarques peut-être 
+Qu'au coin de cette boîte Il manque un des brillants ? 
+Mais tu sais que la chasse hier dura longtemps ; 
+A tout moment on tombe, on se heurte, on s'accroche. 
+J'avais quatre portraits ballottés dans ma poche ; 			[280]
+Celui-ci, par malheur, fut un peu maltraité ; 
+La boîte s'est rompue, un brillant a sauté. 
+Parbleu, puisque demain tu t'en vas à la ville, 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Passe chez La Frenaye ; il est cher, mais habile ; 
+Choisis, comme pour toi, l'un de ses diamants : 			[285]
+Je lui dois, entre nous, plus de vingt mille francs. 
+Adieu : ne montre au moins ce portrait à personne. 
+CLITANDRE, à part.
+Où suis-je ? 
+DAMIS.
+Adieu, marquis : à toi je m'abandonne ; 
+Sois discret. 
+CLITANDRE, à part.
+Se peut-il ? 
+DAMIS, revenant.
+J'aime un ami prudent : 
+Va, de tous mes secrets tu seras confident. 			[290]
+Eh ! peut-on posséder ce que le coeur désire, 
+Être heureux, et n'avoir personne à qui le dire ? 
+Peut-on garder pour soi, comme un dépôt sacré, 
+L'insipide plaisir d'un amour ignoré ? 
+C'est n'avoir point d'amis qu'être sans confiance ; 			[295]
+C'est n'être point heureux que de l'être en silence.
+Tu n'as vu qu'un portrait, et qu'un seul billet doux. 
+CLITANDRE.
+Eh bien ? 
+DAMIS.
+L'on m'a donné, mon cher, un rendez-vous. 
+CLITANDRE, à part.
+Ah ! Je frémis. 
+DAMIS.
+Ce soir, pendant le bal qu'on donne, 
+Je dois, sans être vu ni suivi de personne, 			[300]
+Entretenir Hortense, ici, dans ce jardin. 
+CLITANDRE, à part.
+Voici le dernier coup. Ah je succombe enfin. 
+DAMIS.
+Là, n'es-tu pas charmé de ma bonne fortune ? 
+CLITANDRE.
+Hortense doit vous voir ? 
+DAMIS.
+Oui, mon cher, sur la brune : 
+Mais le soleil qui baisse amène ces moments, 			[305]
+Ces moments fortunés, désirés si longtemps. 
+Adieu. Je vais chez toi rajuster ma parure, 
+De deux livres de poudre orner ma chevelure, 
+De cent parfums exquis mêler la douce odeur ; 
+Puis paré, triomphant, tout plein de mon bonheur, 			[310]
+Je reviendrai soudain finir notre aventure. 
+Toi, rôde près d'ici, marquis, je t'en conjure. 
+Pour te faire un peu part de ces plaisirs si doux, 
+Je te donne le soin d'écarter les jaloux. 
+SCÈNE VIII.
+CLITANDRE.
+Ai-je assez retenu mon trouble et ma colère ? 			[315]
+Hélas ! après un an de mon amour sincère, 
+Hortense en ma faveur enfin s'attendrissait ; 
+Las de me résister, son coeur s'amollissait. 
+Damis en un moment la voit, l'aime, et sait plaire ; 
+Ce que n'ont pu deux ans, un moment l'a su faire. 			[320]
+On le prévient ! On donne à ce jeune éventé 
+Ce portrait que ma flamme avait tant mérité ! 
+Il reçoit une lettre... Ah ! celle qui l'envoie 
+Par un pareil billet m'eût fait mourir de joie : 
+Et, pour combler l'affront dont je suis outragé, 			[325]
+Ce matin par écrit j'ai reçu mon congé. 
+De cet écervelé la voilà donc coiffée ! 
+Elle veut à mes yeux lui servir de trophée. 
+Hortense, ah ! Que mon coeur vous connaissait bien mal ! 
+SCÈNE IX. Clitandre, Pasquin.
+CLITANDRE.
+Enfin, mon cher Pasquin, j'ai trouvé mon rival. 			[330]
+PASQUIN.
+Hélas ! monsieur, tant pis. 
+CLITANDRE.
+C'est Damis que l'on aime ; 
+Oui, c'est cet étourdi. 
+PASQUIN.
+Qui vous l'a dit ? 
+CLITANDRE.
+Lui-même. 
+L'indiscret, à mes yeux de trop d'orgueil enflé, 
+Vient se vanter à moi du bien qu'il m'a volé. 
+Vois ce portrait, Pasquin. C'est par vanité pure 			[335]
+Qu'il confie à mes mains cette aimable peinture ; 
+C'est pour mieux triompher. Hortense ! eh ! qui l'eût cru 
+Que jamais près de vous Damis m'aurait perdu ? 
+PASQUIN.
+Damis est bien joli. 
+CLITANDRE, prenant Pasquin à la gorge.
+Comment ? Tu prétends, traître, 
+Qu'un jeune fat... 
+PASQUIN.
+Aye ! Ouf ! Il est vrai que peut-être... 			[340]
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Eh, ne m'étranglez pas ! Il n'a que du caquet... 
+Mais son air... entre nous, c'est un vrai freluquet. 
+CLITANDRE.
+Tout freluquet qu'il est, c'est lui qu'on me préfère. 
+Il faut montrer ici ton adresse ordinaire. 
+Pasquin, pendant le bal que l'on donne ce soir, 			[345]
+Hortense et mon rival doivent ici se voir. 
+Console-moi, sers-moi, rompons cette partie. 
+PASQUIN.
+Mais, monsieur... 
+CLITANDRE.
+Ton esprit est rempli d'industrie ; 
+Tout est à toi : voilà de l'or à pleines mains. 
+D'un rival imprudent dérangeons les desseins ; 			[350]
+Tandis qu'il va parer sa petite personne, 
+Tâchons de lui voler les moments qu'on lui donne. 
+Puisqu'il est indiscret, il en faut profiter ; 
+De ces lieux, en un mot, il le faut écarter. 
+PASQUIN.
+Croyez-vous me charger d'une facile affaire ? 			[355]
+J'arrêterais, monsieur, le cours d'une rivière, 
+Un cerf dans une plaine, un oiseau dans les airs, 
+Un poète entêté qui récite ses vers, 
+Une plaideuse en feu qui crie à l'injustice, 
+Un Manceau tonsuré qui court un bénéfice, 			[360]
+La tempête, le vent, le tonnerre et ses coups, 
+Plutôt qu'un petit-maître allant en rendez-vous. 
+CLITANDRE.
+Veux-tu m'abandonner à ma douleur extrême ? 
+PASQUIN.
+Attendez. Il me vient en tête un stratagème. 
+Hortense ni Damis ne m'ont jamais vu ? 
+CLITANDRE.
+Non. 			[365]
+PASQUIN.
+Vous avez en vos mains un sien portrait ? 
+CLITANDRE.
+Oui. 
+PASQUIN.
+Bon. 
+Vous avez un billet que vous écrit la belle ? 
+CLITANDRE.
+Hélas ! Il est trop vrai. 
+PASQUIN.
+Cette lettre cruelle 
+Est un ordre bien net de ne lui parler plus ? 
+CLITANDRE.
+Eh ! oui, je le sais bien. 
+PASQUIN.
+La lettre est sans dessus ? 			[370]
+CLITANDRE.
+Eh ! Oui, bourreau. 
+PASQUIN.
+Prêtez vite et portrait et lettre. 
+Donnez. 
+CLITANDRE.
+En d'autres mains, qui, moi, j'irais remettre 
+Un portrait confié ?... 
+PASQUIN.
+Voilà bien des façons : 
+Le scrupule est plaisant. Donnez-moi ces chiffons. 
+CLITANDRE.
+Mais... 
+PASQUIN.
+Mais reposez-vous de tout sur ma prudence. 			[375]
+CLITANDRE.
+Tu veux... 
+PASQUIN.
+Eh ! dénichez. Voici madame Hortense. 
+SCÈNE X. Hortense, Nérine.
+HORTENSE.
+Nérine, j'en conviens, Clitandre est vertueux ; 
+Je connais la constance et l'ardeur de ses feux : 
+Il est sage, discret, honnête homme, sincère ; 
+Je le dois estimer ; mais Damis sait me plaire : 			[380]
+Je sens trop, aux transports de mon coeur combattu, 
+Que l'amour n'est jamais le prix de la vertu. 
+C'est par les agréments que l'on touche une femme ; 
+Et pour une de nous que l'amour prend par l'âme, 
+Nérine, il en est cent qu'il séduit par les yeux. 			[385]
+J'en rougis. Mais Damis ne vient point en ces lieux ! 
+NÉRINE.
+Quelle vivacité ! quoi ! cette humeur si fière ?... 
+HORTENSE.
+Non, je ne devais pas arriver la première. 
+NÉRINE.
+Au premier rendez-vous vous avez du dépit ? 
+HORTENSE.
+Damis trop fortement occupe mon esprit. 			[390]
+Sa mère, ce jour même, a su, par sa visite, 
+De son fils dans mon coeur augmenter le mérite. 
+Je vois bien qu'elle veut avancer le moment 
+Où je dois pour époux accepter mon amant ; 
+Mais je veux en secret lui parler à lui-même, 			[395]
+Sonder ses sentiments. 
+NÉRINE.
+Doutez-vous qu'il vous aime ? 
+HORTENSE.
+Il m'aime, je le crois, je le sais. Mais je veux 
+Mille fois de sa bouche entendre ses aveux ; 
+Voir s'il est en effet si digne de me plaire ; 
+Connaître son esprit, son coeur, son caractère ; 			[400]
+Ne point céder, Nérine, à ma prévention, 
+Et juger, si je puis, de lui sans passion. 
+SCÈNE XI. Hortense, Nérine, Pasquin.
+PASQUIN.
+Madame, en grand secret, monsieur Damis mon maître... 
+HORTENSE.
+Quoi ! ne viendrait-il pas ?
+PASQUIN.
+Non. 
+NÉRINE.
+Ah ! Le petit traître ! 
+HORTENSE.
+Il ne viendra point ? 
+PASQUIN.
+Non ; mais, par bon procédé, 			[405]
+Il vous rend ce portrait dont il est excédé. 
+HORTENSE.
+Mon portrait ! 
+PASQUIN.
+Reprenez vite la miniature. 
+HORTENSE.
+Je doute si je veille. 
+PASQUIN.
+Allons, je vous conjure. 
+Dépêchez-moi, j'ai hâte ; et, de sa part, ce soir, 
+J'ai deux portraits à rendre, et deux à recevoir. 			[410]
+Jusqu'au revoir. Adieu. 
+HORTENSE.
+Ciel ! Quelle perfidie ! 
+J'en mourrai de douleur. 
+PASQUIN.
+De plus, il vous supplie 
+De finir la lorgnade, et chercher aujourd'hui, 
+Avec vos airs pincés, d'autres dupes que lui. 
+SCÈNE XII. Hortense, Nérine, Damis, Pasquin.
+DAMIS, dans le fond du théâtre.
+Je verrai dans ce lieu la beauté qui m'engage. 			[415]
+PASQUIN.
+C'est Damis. Je suis pris. Ne perdons point courage. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Vous voyez, monseigneur, un des grisons secrets 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Qui d'Hortense partout va portant les poulets. 
+J'ai certain billet doux de sa part à vous rendre. 
+HORTENSE.
+Quel changement ! Quel prix de l'amour le plus tendre ! 			[420]
+DAMIS.
+Lisons. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Hom... hom... « Vous méritez de me charmer. 
+Je sens à vos vertus ce que je dois d'estime...
+Mais je ne saurais vous aimer. » 
+...
+Est-il un trait plus noir et plus abominable ? 			[425]
+Je ne me croyais pas à ce point estimable. 
+Je veux que tout ceci soit public à la cour, 
+Et j'en informerai le monde dès ce jour. 
+La chose assurément vaut bien qu'on la publie. 
+HORTENSE, à l'autre bout du théâtre.
+A-t-il pu jusque-là pousser son infamie ? 			[430]
+DAMIS.
+Tenez ; c'est là le cas qu'on fait de tels écrits. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)PASQUIN, allant à Hortense.
+Je suis honteux pour vous d'un si cruel mépris. 
+Madame, vous voyez de quel air il déchire 
+Les billets qu'à l'ingrat vous daignâtes écrire. 
+HORTENSE.
+Il me rend mon portrait ! Ah ! Périsse à jamais 			[435]
+Ce malheureux crayon de mes faibles attraits ! 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)PASQUIN, revenant à Damis.
+Vous voyez devant vous l'ingrate met en pièces 
+Votre portrait, monsieur. 
+DAMIS.
+Il est quelques maîtresses 
+Par qui l'original est un peu mieux reçu. 
+HORTENSE.
+Nérine, quel amour mon coeur avait conçu ! 			[440]
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Prends ma bourse. Dis-moi pour qui je suis trahie, 
+À quel heureux objet Damis me sacrifie. 
+PASQUIN.
+A cinq ou six beautés dont il se dit l'amant, 
+Qu'il sert toutes bien mal, qu'il trompe également ; 
+Mais surtout à la jeune, à la belle Julie. 			[445]
+DAMIS, s'étant avancé vers Pasquin.
+Prends ma bague, et dis-moi, mais sans friponnerie, 
+À quel impertinent, à quel fat de la cour, 
+Ta maîtresse aujourd'hui prodigue son amour. 
+PASQUIN.
+Vous méritez, ma foi, d'avoir la préférence ; 
+Mais un certain abbé lorgne de près Hortense ; 			[450]
+Et chez elle, de nuit, par le mur du jardin, 
+Je fais entrer parfois Trasimon son cousin. 
+DAMIS.
+Parbleu, j'en suis ravi. J'en apprends là de belles, 
+Et je veux en chansons mettre un peu ces nouvelles. 
+HORTENSE.
+C'est le comble, Nérine, au malheur de mes feux, 			[455]
+De voir que tout ceci va faire un bruit affreux. 
+Allons, loin de l'ingrat je vais cacher mes larmes. 
+DAMIS.
+Allons, je vais au bal montrer un peu mes charmes. 
+PASQUIN, à Hortense.
+Vous n'avez rien, madame, à désirer de moi ? 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Vous n'avez nul besoin de mon petit emploi ? 			[460]
+Le ciel vous tienne en paix. 
+SCÈNE XIII. Hortense, Damis, Nérine.
+HORTENSE, revenant.
+D'où vient que je demeure ? 
+DAMIS.
+Je devrais être au bal, et danser à cette heure. 
+HORTENSE.
+Il rêve. Hélas ! d'Hortense il n'est point occupé. 
+DAMIS.
+Elle me lorgne encore, ou je suis fort trompé. 
+Il faut que je m'approche. 
+HORTENSE.
+Il faut que je le fuie. 			[465]
+DAMIS.
+Fuir, et me regarder ! ah ! quelle perfidie ! 
+Arrêtez. A ce point pouvez-vous me trahir ? 
+HORTENSE.
+Laissez-moi m'efforcer, cruel, à vous haïr. 
+DAMIS.
+Ah ! l'effort n'est pas grand, grâces à vos caprices. 
+HORTENSE.
+Je le veux, je le dois, grâce à vos injustices. 			[470]
+DAMIS.
+Ainsi, du rendez-vous prompts à nous en aller, 
+Nous n'étions donc venus que pour nous quereller ? 
+HORTENSE.
+Que ce discours, ô ciel ! est plein de perfidie, 
+Alors que l'on m'outrage ; et qu'on aime Julie ! 
+DAMIS.
+Mais l'indigne billet que de vous j'ai reçu ? 			[475]
+HORTENSE.
+Mais mon portrait enfin que vous m'avez rendu ? 
+DAMIS.
+Moi, je vous ai rendu votre portrait, cruelle ? 
+HORTENSE.
+Moi ! j'aurais pu jamais vous écrire, infidèle, 
+Un billet, un seul mot, qui ne fût point d'amour ? 
+DAMIS.
+Je consens de quitter le roi, toute la cour, 			[480]
+La faveur où je suis, les postes que j'espère, 
+N'être jamais de rien, cesser partout de plaire, 
+S'il est vrai qu'aujourd'hui je vous ai renvoyé 
+Ce portrait à mes mains par l'amour confié. 
+HORTENSE.
+Je fais plus. Je consens de n'être point aimée 			[485]
+De l'amant dont mon âme est malgré moi charmée, 
+S'il a reçu de moi ce billet prétendu. 
+Mais voilà le portrait, ingrat, qui m'est rendu ; 
+Ce prix trop méprisé d'une amitié trop tendre, 
+Le voilà : pouvez-vous... 
+DAMIS.
+Ah ! J'aperçois Clitandre. 			[490]
+SCÈNE XIV. Hortense, Damis, Clitandre, Nérine, Pasquin.
+DAMIS.
+Viens çà, marquis, viens çà. Pourquoi fuis-tu d'ici ? 
+Madame, il peut d'un mot débrouiller tout ceci. 
+HORTENSE.
+Quoi ! Clitandre saurait... 
+DAMIS.
+Ne craignez rien, madame ; 
+C'est un ami prudent à qui j'ouvre mon âme : 
+Il est mon confident, qu'il soit le vôtre aussi. 			[495]
+Il faut... 
+HORTENSE.
+Sortons, Nérine : ô ciel ! quel étourdi ! 
+SCÈNE XV. Damis, Clitandre, Pasquin.
+DAMIS.
+Ah ! marquis, je ressens la douleur la plus vive : 
+Il faut que je te parle... il faut que je la suive. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Attends-moi. Demeurez. Ah ! Je suivrai vos pas. 
+SCÈNE XVI. Clitandre, Pasquin.
+CLITANDRE.
+Je suis, je l'avouerai, dans un grand embarras. 			[500]
+Je les croyais tous deux brouillés sur ta parole. 
+PASQUIN.
+Je le croyais aussi. J'ai bien joué mon rôle ; 
+Ils se devraient haïr tous deux assurément : 
+Mais pour se pardonner il ne faut qu'un moment. 
+CLITANDRE.
+Voyons un peu tous deux le chemin qu'ils vont prendre. 			[505]
+PASQUIN.
+Vers son appartement Hortense va se rendre. 
+CLITANDRE.
+Damis marche après elle ; Hortense au moins le fuit. 
+PASQUIN.
+Elle fuit faiblement, et son amant la suit. 
+CLITANDRE.
+Damis en vain lui parle ; on détourne la tête. 
+PASQUIN.
+Il est vrai ; mais Damis de temps en temps l'arrête. 			[510]
+CLITANDRE.
+Il se met à genoux ; il reçoit des mépris. 
+PASQUIN.
+Ah ! vous êtes perdu, l'on regarde Damis. 
+CLITANDRE.
+Hortense entre chez elle enfin, et le renvoie. 
+Je sens des mouvements de chagrin et de joie, 
+D'espérance et de crainte, et ne puis deviner 			[515]
+Où cette intrigue-ci pourra se terminer. 
+SCÈNE XVII. Clitandre, Damis, Pasquin.
+DAMIS.
+Ah ! marquis, cher marquis, parle ; d'où vient qu'Hortense 
+M'ordonne en grand secret d'éviter sa présence ? 
+D'où vient que son portrait, que je fie à ta foi, 
+Se trouve entre ses mains ? Parle, réponds, dis-moi. 			[520]
+CLITANDRE.
+Vous m'embarrassez fort. 
+DAMIS, à Pasquin.
+Et vous, monsieur le traître, 
+Vous, le valet d'Hortense, ou qui prétendez l'être, 
+Il faut que vous mouriez en ce lieu de ma main. 
+PASQUIN, à Clitandre.
+Monsieur, protégez-nous. 
+CLITANDRE, à Damis.
+Eh ! monsieur... 
+DAMIS.
+C'est en vain... 
+CLITANDRE.
+Épargnez ce valet, c'est moi qui vous en prie. 			[525]
+DAMIS.
+Quel intérêt si grand peux-tu prendre à sa vie ? 
+CLITANDRE.
+Je vous en prie encore, et sérieusement. 
+DAMIS.
+Par amitié pour toi je diffère un moment. 
+Çà, maraud, apprends-moi la noirceur effroyable... 
+PASQUIN.
+Ah ! monsieur, cette affaire est embrouillée en diable ; 			[530]
+Mais je vous apprendrai de surprenants secrets, 
+Si vous me promettez de n'en parler jamais. 
+DAMIS.
+Non, je ne promets rien, et je veux tout apprendre. 
+PASQUIN.
+Monsieur, Hortense arrive, et pourrait nous entendre. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ah ! monsieur, que dirai-je ? Hélas ! je suis à bout. 			[535]
+Allons tous trois au bal, et je vous dirai tout. 
+SCÈNE XVIII. Hortense, un masque à la main et en domino ; Trasimon, Nérine.
+TRASIMON.
+Oui, croyez, ma cousine, et faites votre compte 
+Que ce jeune éventé nous couvrira de honte. 
+Comment ! montrer partout et lettres et portrait ! 
+En public ! À moi-même ! Après un pareil trait, 			[540]
+Je prétends de ma main lui brûler la cervelle. 
+HORTENSE, à Nérine.
+Est-il vrai que Julie à ses yeux soit si belle 
+Qu'il en soit amoureux ? 
+TRASIMON.
+Il importe fort peu 
+Mais qu'il vous déshonore, il m'importe, morbleu ! 
+Et je sais l'intérêt qu'un parent doit y prendre. 			[545]
+HORTENSE, à Nérine.
+Crois-tu que pour Julie il ait eu le coeur tendre ? 
+Qu'en penses-tu ? dis-moi. 
+NÉRINE.
+Mais l'on peut aujourd'hui 
+Aisément, si l'on veut, savoir cela de lui. 
+HORTENSE.
+Son indiscrétion, Nérine, fut extrême : 
+Je devrais le haïr ; peut-être que je l'aime. 			[550]
+Tout à l'heure, en pleurant, il jurait devant toi 
+Qu'il m'aimerait toujours, et sans parler de moi ; 
+Qu'il voulait m'adorer, et qu'il saurait se taire. 
+TRASIMON.
+Il vous a promis là bien plus qu'il ne peut faire. 
+HORTENSE.
+Pour la dernière fois je le veux éprouver. 			[555]
+Nérine, il est au bal ; il faut l'aller trouver. 
+Déguise-toi ; dis-lui qu'avec impatience 
+Julie ici l'attend dans l'ombre et le silence. 
+L'artifice est permis sous ce masque trompeur, 
+Qui du moins de mon front cachera la rougeur : 			[560]
+Je paraîtrai Julie aux yeux de l'infidèle ; 
+Je saurai ce qu'il pense et de moi-même et d'elle : 
+C'est de cet entretien que dépendra mon choix. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ne vous écartez point, restez près de ce bois ; 
+Tâchez auprès de vous de retenir Clitandre : 			[565]
+L'un et l'autre en ces lieux daignez un peu m'attendre ; 
+Je vous appellerai quand il en sera temps. 
+SCÈNE XIX.
+HORTENSE, seule en domino, et son masque à la main.
+Il faut fixer enfin mes voeux trop inconstants. 
+Sachons, sous cet habit, à ses yeux travestie, 
+Sous ce masque, et surtout sous le nom de Julie, 			[570]
+Si l'indiscrétion de ce jeune éventé 
+Fut un excès d'amour ou bien de vanité ; 
+Si je dois le haïr ou lui donner sa grâce. 
+Mais déjà je le vois. 
+SCÈNE XX. Hortense, en domino et masquée ; Damis.
+DAMIS, sans voir Hortense.
+C'est donc ici la place 
+Où toutes les beautés donnent leurs rendez-vous ? 			[575]
+Ma foi, je suis assez à la mode, entre nous. 
+Oui, la mode fait tout, décide tout en France ; 
+Elle règle les rangs, l'honneur, la bienséance, 
+Le mérite, l'esprit, les plaisirs. 
+HORTENSE, à part.
+L'étourdi ! 
+DAMIS.
+Ah ! si pour mon bonheur on peut savoir ceci, 			[580]
+Je veux qu'avant deux ans la cour n'ait point de belle 
+A qui l'amour pour moi ne tourne la cervelle. 
+Il ne s'agit ici que de bien débuter. 
+Bientôt Eglé, Doris... Mais qui les peut compter ? 
+Quels plaisirs ! quelle file ! 
+HORTENSE, à part.
+Ah ! la tête légère ! 			[585]
+DAMIS.
+Ah ! Julie, est-ce vous ? vous qui m'êtes si chère ! 
+Je vous connais malgré ce masque trop jaloux, 
+Et mon coeur amoureux m'avertit que c'est vous. 
+Otez, Julie, ôtez ce masque impitoyable ; 
+Non, ne me cachez point ce visage adorable, 			[590]
+Ce front, ces doux regards, cet aimable souris, 
+Qui de mon tendre amour sont la cause et le prix. 
+Vous êtes en ces lieux la seule que j'adore. 
+HORTENSE.
+Non, de vous mon humeur n'est pas connue encore. 
+Je ne voudrais jamais accepter votre foi, 			[595]
+Si vous aviez un coeur qui n'eût aimé que moi. 
+Je veux que mon amant soit bien plus à la mode, 
+Que de ses rendez-vous le nombre l'incommode, 
+Que par trente grisons tous ses pas soient comptés, 
+Que mon amour vainqueur l'arrache à cent beautés, 			[600]
+Qu'il me fasse surtout de brillants sacrifices ; 
+Sans cela je ne puis accepter ses services : 
+Un amant moins couru ne me saurait flatter. 
+DAMIS.
+Oh ! j'ai sur ce pied-là de quoi vous contenter : 
+J'ai fait en peu de temps d'assez belles conquêtes ; 			[605]
+Je pourrais me vanter de fortunes honnêtes ; 
+Et nous sommes couru de plus d'une beauté 
+Qui pourraient de tout autre enfler la vanité. 
+Nous en citerions bien qui font les difficiles, 
+Et qui sont avec nous passablement faciles. 			[610]
+HORTENSE.
+Mais encore ? 
+DAMIS.
+Eh !... ma foi, vous n'avez qu'à parler, 
+Et je suis prêt, Julie, à vous tout immoler. 
+Voulez-vous qu'à jamais mon coeur vous sacrifie 
+La petite Isabelle et la vive Erminie, 
+Clarice, Églé, Doris ?... 
+HORTENSE.
+Quelle offrande est-ce là ? 			[615]
+On m'offre tous les jours ces sacrifices-là ? 
+Ces dames, entre nous, sont trop souvent quittées. 
+Nommez-moi des beautés qui soient plus respectées, 
+Et dont je puisse au moins triompher sans rougir. 
+Ah ! si vous aviez pu forcer à vous chérir 			[620]
+Quelque femme à l'amour jusqu'alors insensible, 
+Aux manèges de cour toujours inaccessible, 
+De qui la bienséance accompagnât les pas, 
+Qui, sage en sa conduite, évitât les éclats, 
+Enfin qui pour vous seul eût eu quelque faiblesse... 			[625]
+DAMIS, s'asseyant auprès d'Hortense.
+Écoutez. Entre nous, j'ai certaine maîtresse 
+À qui ce portrait-là ressemble trait pour trait : 
+Mais vous m'accuseriez d'être trop indiscret. 
+HORTENSE.
+Point, point. 
+DAMIS.
+Si je n'avais quelque peu de prudence, 
+Si je voulais parler, je nommerais Hortense. 			[630]
+Pourquoi donc à ce nom vous éloigner de moi ? 
+Je n'aime point Hortense alors que je vous vois ; 
+Elle n'est près de vous ni touchante ni belle : 
+De plus, certain abbé fréquente trop chez elle ; 
+Et de nuit, entre nous, Trasimon son cousin 			[635]
+Passe un peu trop souvent par le mur du jardin. 
+HORTENSE, à part.
+A l'indiscrétion joindre la calomnie ! 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Contraignons-nous encore. Écoutez, je vous prie ; 
+Comment avec Hortense êtes-vous, s'il vous plaît ? 
+DAMIS.
+Du dernier bien : je dis la chose comme elle est. 			[640]
+HORTENSE, à part.
+Peut-on plus loin pousser l'audace et l'imposture ! 
+DAMIS.
+Non, je ne vous mens point ; c'est la vérité pure. 
+HORTENSE, à part.
+Le traître ! 
+DAMIS.
+Eh ! sur cela quel est votre souci ? 
+Pour parler d'elle enfin sommes-nous donc ici ? 
+Daignez, daignez plutôt... 
+HORTENSE.
+Non, je ne saurais croire 			[645]
+Qu'elle vous ait cédé cette entière victoire. 
+DAMIS.
+Je vous dis que j'en ai la preuve par écrit. 
+HORTENSE.
+Je n'en crois rien du tout. 
+DAMIS.
+Vous m'outrez de dépit. 
+HORTENSE.
+Je veux voir par mes yeux. 
+DAMIS.
+C'est trop me faire injure. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Tenez donc : vous pouvez connaître l'écriture. 			[650]
+HORTENSE, se démasquant.
+Oui, je la connais, traître ! et je connais ton coeur. 
+J'ai réparé ma faute, enfin ; et mon bonheur 
+M'a rendu pour jamais le portrait et la lettre 
+Qu'à ces indignes mains j'avais osé commettre. 
+Il est temps ; Trasimon, Clitandre, montrez-vous. 			[655]
+SCÈNE XXI. Hortense, Damis, Trasimon, Clitendre.
+HORTENSE, à Clitandre.
+Si je ne vous suis point un objet de courroux, 
+Si vous m'aimez encore, à vos lois asservie, 
+Je vous offre ma main, ma fortune et ma vie. 
+CLITANDRE.
+Ah ! madame, à vos pieds un malheureux amant 
+Devrait mourir de joie et de saisissement. 			[660]
+TRASIMON, à Damis.
+Je vous l'avais bien dit que je la rendrais sage. 
+C'est moi seul, Mons Damis, qui fais ce mariage. 
+Adieu : possédez mieux l'art de dissimuler. 
+DAMIS.
+Juste ciel ! Désormais à qui peut-on parler ?
+
+	==================================================

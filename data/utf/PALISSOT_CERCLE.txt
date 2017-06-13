@@ -1,0 +1,618 @@
+********************************************************
+	DC.Title                  = LE CERCLE OU LES ORIGINAUX, COMEDIE UN ACTE.
+	DC.Author                 = PALISSOT de MONTENOY, Charles
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 29/09/2016 a 16:13:51.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/PALISSOT_CERCLE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE CERCLE OU LES ORIGINAUXCOMEDIE UN ACTEM DCC LX. Avec approbation et privilege du Roi.
+de Monsieur PALLISSOT de MONTENOY de plusieurs academies.
+	A Paris, chez Duchene, libraire, rue Saint Jacques, au dessous de la fontaine Saint-Benoit, au Temple du Gout.
+	
+	DIVERTISSEMENT execute sur le nouveau theatre de Nancy, le jour de la dedicace de la statue de Louis XV, par ordre du roi de Pologne, duc de Lorraine et de Bar, le 26 novembre 1755.
+	AVIS DES EDITEURS. [1809]
+Une scene de cette comedie excita contre l'Auteur l'animosite la plus violente. Non seulement le repos de sa vie fut trouble pendant longtemps par les suites de cette etrange querelle, mais elle eut, sur la plupart des ouvrages qu'il a donnes depuis, une influence, remarquable. Nous avons cru devoir conserver ces details, parce qu'ils appartiennent a l'histoire litteraire du siecle.
+
+DISCOURS PRELIMINAIRE QUI ETAIT JOINT A LA PIECE.
+Un grand roi[1] a fait elever la statue de Louis XV, dans une place qui est a-la-fois le monument de son gout pour les arts et de son amour pour ses peuples. L'antiquite n'offre point d'exemple d'un pareil trait. C'est la vertu qui rend hommage a la vertu ; c'est un roi qui consacre, dans un roi son contemporain, ce qui le rend lui-meme si respectable et si cher au monde.
+Mes eloges peindraient mal ce que les traits eloquents de cette statue attesteront a la posterite[2]. On saura qu'il y eut, ailleurs que dans la fable, un siecle heureux ou deux souverains se disputaient, pour ainsi dire, le coeur des nations ; qu'il y avait entre eux une espece de rivalite, non seulement a qui ferait le bien, mais a qui perfectionnerait l'art de le faire ; qu'enfin de si grands modeles se reproduisaient aux yeux de l'Europe dans un jeune prince[3], l'unique heritier, de leur gloire, et deja les delices de la patrie.
+On saura que ces deux monarques etaient unis, et qu'une princesse auguste [4], appelee par le ciel pour etre le gage de cette union sacree, donnait alors a sa Cour le rare spectacle de la grandeur modeste, et l'exemple de ces vertus d'autant plus respectees, qu'en moderant leur propre eclat, elles semblent vouloir se derober a l'admiration.
+La piece que j'expose aux yeux du public (si, la circonstance ou elle parut peut me permettre d'en parler apres de pareils objets), a fait partie d'un divertissement que la ville de Nancy a donne a ses concitoyens, le jour de la dedicace de la statue du roi. L'honneur qu'on m'a fait de jeter les yeux sur moi, pour contribuer a cette fete, prouve a la fois et la bonte de mes compatriotes, et cette indulgence si rare, qui, dans les dispositions les plus communes, croit devoir recompenser l'emulation. Si j'ai faiblement repondu a cette distinction flatteuse, du moins est-il consolant pour moi d'etre ne dans une province ou l'on eut pu si facilement, et au hasard, trouver tant de personnes capables d'honorer le choix de leurs concitoyens.
+Cette piece (si on la juge digne du nom de comedie) est dans le genre episodique. C'est peut-etre celui qui convenait le mieux pour une fete. La variete des portraits qui se succedent rapidement l'un a l'autre, multiplie, en quelque sorte, la comedie meme, et soutient l'attention des spectateurs. Ce fut du moins dans une pareille occasion que Moliere se permit, en ce genre, la piece des Facheux ; mais quelle piece ! Et qu'il est delicat de citer Moliere meme comme autorite ! Il n'etait guere possible d'ailleurs que dans le court espace que mit la ville entre sa demande et l'execution de la fete projetee, j'eusse entrepris de travailler sur un plan plus regulier et plus vaste. Un tableau eut exige du temps - je me bornai a de simples esquisses.
+Plutot que de faire une comedie purement analogue a la ceremonie de ce jour memorable, je me suis contente de l'indiquer dans un prologue, a l'exemple du meme, grand homme que je citais a l'instant : mais ce Prologue, denue maintenant du merite de l'a-propos et de l'agrement que pouvait lui preter la musique, n'offrirait plus aucun interet. Il n'en est pas de meme de la Comedie: une imitation des moeurs, quelque imparfaite qu'elle soit, a toujours quelque attrait pour la curiosite, et peut convenir a tous les temps.
+Tres jeune alors, mais ayant deja l'habitude de l'observation, j'avais tache, autant que mes faibles talents pouvaient me le permettre, de donner a mes personnages le ton de couleur qui leur etait propre au moment ou j'ecrivais.
+Cette nature, que Moliere a si bien saisie, n'a point change ; mais les nuances ne sont plus les memes. Elles sont du ressort de la mode, comme les plumes dont il chargeait ses marquis, et les chapeaux pointus qu'il donnait a ses medecins. Tout cela n'existe plus : on doit rendre les objets, non tels qu'ils etaient, mais tels qu'ils sont, et croire que l'art n'est point epuise.
+Ma femme savante, par exemple, n'est pas une bourgeoise qui se choquerait de ce qu'un mot que sa servante eut dit devant elle, ne serait point approuve par Vaugelas. On ne trouve plus de pareilles bourgeoises, dont le ridicule cependant se fait si bien sentir dans la comedie de Moliere. J'ai tache de peindre une de ces femmes qui ont veritablement quelques connaissances, et dont le commerce n'en est que plus fastidieux ; une de ces femmes, en un mot (et j'en connais l'espece), qui composent l'esprit de leur journee de tout ce qu'elles ont entendu la veille. Nos financiers importants (car il en est d'un autre genre) sont aussi loin de Turcaret, qu'ils sont peut-etre encore loin des Graces. On ne reconnaitrait plus personne dans un medecin tel que Monsieur Purgon.
+C'est d'apres ces observations que j'ai imite a peu pres ce que j'ai vu. Mais c'est arreter trop longtemps les yeux du public sur un ouvrage que j'aurais voulu rendre meilleur, et qui meme, dans des mains plus habiles , eut encore ete si fort au-dessous de l'auguste ceremonie dont il eut fallu donner quelque idee. Les plus grandes choses ne sont pas toujours les mieux celebrees. Des heros fabuleux furent chantes par Homere; l'heureux Octave trouva des Virgiles. Le genie des Romains avait baisse sous Titus ; l'amour des nations l'en a venge.
+(1) Le roi de Pologne, Stanislas, due de Lorraine et de Bar.
+(2) L'auteur etait loinde prevoir alors les orages qui ont renverse cette statue.
+(3) Feu monsieur le Dauphin, pere de Louis XVI.
+(4) Marie Leczinsta, fille de Stanislas, femme de Louis XV.
+
+ACTEURS DU PROLOGUE.
+MINERVE.
+LA GLOIRE.
+SUITE DE MINERVE ET DE LA GLOIRE.
+ACTEURS.
+ORPHISE.
+ARISTE.
+UN POETE.
+UNE FEMME SAVANTE.
+UN FINANCIER important.
+UN PHILOSOPHE.
+UN MEDECIN.
+LUCINDE.
+LINDOR.
+FRONTIN.
+La scene est a Paris.
+
+
+
+			RPOLOGUE
+
+Le decor representait l'interieur du temple de la Gloire, decore des statues des Grands Hommes. On lisait sur les piedestaux les noms de TITUS, de TRAJAN, de MARC-AURELE, etc. On voyait dans le fond celle se SESOSTRIS, de BELUS, d'ALXEANDRE, qui designaient les conquerants.
+
+Minerve, La Gloire.
+MINERVE.
+Oui, c'est la verite, c'est elle qui m'inspire :
+Chaque jour, chaque instant voit tomber son empire ;
+Par la voix de Minerve elle s'en plaint a vous.
+GLOIRE, partagez son courroux.
+Je vois ici des noms celebres			[5]
+Qu'a l'immortalite l'Erreur a consacres ;
+Mais combien de ces noms sur la terre adores,
+Ne meritaient que les tenebres
+Dans vos fastes les ont tires !
+Pour la posterite, quel plus funeste exemple			[10]
+Que ces crimes  brillants egales aux vertus !
+Et parmi les heros rassembles dans ce temple,
+Doit-on voir Alexandre a cote de Titus ?
+Quoi, ce conquerant de l'Asie,
+Ne pour le malheur des humains,			[15]
+Qui de leur sang trempa sas mains, 
+Pour prix de son audace impie,
+A recu les honneurs divins ?
+Lui dont la fureur vagabonde
+Alluma le flambeau de la destruction;			[20]
+Et donc l'aveugle ambition
+Brulait de s'elancer hors de bornes du monde !
+Comptez vous parmi ses vertus
+Des fleuves teints de sang, des murs reduits en cendre ?
+O GLOIRE ! Un seule jour de Titus			[25]
+Eut terni tout l'eclat des beaux jours d'Alexandre.
+LA GLOIRE.
+Oui, leur regne est passe ; qu'ils tremblent a leur tour,
+Ces conquerants de sang avides ;
+La Terre a trop gemi sous leurs lois homicides :
+Oui, vous m'ouvrez les yeux ; voici leur dernier jour.			[30]
+L'eclat d'une juste victoire,
+Des lauriers arroses de pleurs, 
+N'usurperont point les honneurs
+A la seule vertu reserves par la Gloire.
+Disparaissez, vains monuments,			[35]
+Eriges par la crainte a l'orgueil des tyrans ;
+Tombez avec leurs noms dans une nuit profonde.
+Cedez, superbes conquerants,
+Cedez aux bienfaiteurs du monde.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Sur ces bronzes nouveaux voyez les traits cheris			[40]
+Des rois dont la vertu consacre la memoire.
+MINERVE.
+Ah ! Je les reconnais, STANISLAS et LOUIS !
+Je reconnais aussi la Gloire.
+Que, livree aux tourments des ses poisons vengeurs,
+L'Envie exhale en vain son impuissante rage ;			[45]
+A ces autels nouveaux, a ces Dieux bienfaiteurs,
+Mortels, venez offrir un eternel hommage.
+Que ces bronzes reveres,
+Entre ceux des Titus, des Trajans, des Aureles, 
+Leurs noms a l'univers soient a jamais sacres,			[50]
+Et qu'aux rois a venir ils servent de modeles.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			
+
+
+SCENE PREMIERE. Orphise, Ariste.
+ORPHISE.
+Convenez que cela sera plaisant.
+ARISTE, d'un ton serieux.
+Ah ! Tres plaisant.
+ORPHISE.
+Et que c'est une idee delicieuse.
+ARISTE.
+Admirable, en verite, admirable !
+ORPHISE.
+Pour moi, je crois que nous allons nous divertir prodigieusement.
+ARISTE.
+Oui, prodigieusement ; c'est le mot.
+ORPHISE.
+Mais vous dites cela d'un ton bien serieux, Ariste. N'allez-vous pas encore m'opposer des difficultes ?
+ARISTE.
+Tenez, Madame, toutes ces parties dont on se promet tant de plaisir, finissent ordinairement par de l'ennui. Vous voyez ma repugnance, je jouerai mal mon role, dispensez-moi de m'en charger.
+ORPHISE.
+Et moi je vous reponds que vous le jouerez tres bien.
+ARISTE.
+Point du tout. Vous m'annoncez des poetes, des beaux-esprits, des auteurs ; et, soit prejuge ou non, je me fais conscience de m'amuser de ces messieurs-la. J'aime les arts ; je respecte ceux qui les cultivent, et je pense serieusement que le peu de consideration que l'on a pour eux dans le monde, est un reste de barbarie, une espece de vengeance que prennent les sots de la superiorite que les gens de merite ont sur eux ; et je ne concois pas comment la France, qui doit tant aux grands hommes qui l'ont eclairee, peut avilir elle-meme ce qui la rend si considerable aux yeux des autres nations.
+ORPHISE.
+Vous n'y pensez pas, Ariste; je fais autant de cas que vous des vrais talents : mais il en est de subalternes qu'un esprit de vertige ou de mode a tires de l'obscurite, qui, a la faveur de la singularite ou du manege, sont parvenus a une reputation usurpee, dont ils abusent pour etouffer le vrai merite ; et je crois que, dans tous les etats, il est permis de s'amuser des charlatans et du peuple.
+ARISTE.
+J'en tombe d'accord, Madame, et vous savez que je ne les epargne pas. Cependant le public injuste fait rejaillir indifferemment sur les uns, le mepris qu'on lui donne pour les autres. Insensiblement on l'accoutume a confondre....
+ORPHISE.
+Savez-vous bien, Ariste, que vous vous etes rouille dans ce long sejour que vous avez fait en province ? A vous entendre, on croirait qu'il n'est question ici que de gens de lettres, et vous savez que je vous ai promis des ridicules de plus d'un genre. Mais je suppose que nous ne nous amusions pas autant que je l'imagine, avons-nous rien de mieux a faire ?
+ARISTE.
+Et comptez-vous pour rien la malice de votre projet ?
+ORPHISE.
+Ah ! Voici de la morale. Voyons pourtant, examinons bien la pretendue malice de ce projet. Mon mari a la fantaisie de tenir cercle trois jours de la semaine, de recevoir des savants, des beaux-esprits, des originaux de toute espece ; et ce qui a tout autre que lui paraitrait singulier, bizarre, extravagant meme, est precisement ce qui lui plait davantage. J'ai la complaisance de me preter a son gout, et souvent de feindre beaucoup de gaite au milieu de ces importuns qui m'excedent. Aujourd'hui qu'il est a la campagne, je me propose de me rejouir un peu aux depens de sa societe ; je veux vous la faire connaitre, jouir de la surprise que vous causeront, certains ridicules que j'aurai soin de faire sortir assez pour qu'ils nous donnent la comedie. Ou donc est le crime de tout cela ? Ne puis-je me venger une fois de toute l'humeur que m'ont donnee ces originaux depuis deux ans que j'ai la generosite de m'ennuyer avec eux ? En verite, Ariste, vous avez des scrupules qui ne vous vont point.
+ARISTE.
+Mais, Madame...
+ORPHISE.
+Oh ! Vos mais ne finiraient pas : l'heure ou je recois du monde approche, et je vous promets que vous n'aurez personne de connaissance. Vous n'en serez que plus a votre aise pour remplir le role que je vous destine. La beaute du jour nous invite a rester dans ce jardin ; je vais donner mes ordres pour qu'on laisse entrer : mais souvenez-vous que je veux que vous soyez plaisant.
+ARISTE.
+Bon moyen pour m'empecher de l'etre.
+ORPHISE.
+Et que vous ne vous refusiez aucune epigramme, entendez-vous, Ariste ?
+ARISTE.
+Il faut vouloir tout ce que vous voulez.
+ORPHISE.
+Frontin ! Frontin !...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous laisserez entrer le monde ordinaire. Je voudrais cependant eviter la cohue. Je n'y suis, que pour une personne ou deux a la fois tout au plus... Vous n'annoncerez que celles qui n'ont pas coutume de venir habituellement au cercle... Attendez ! Si Lucinde ou Lindor se presentent, dites-leur que je suis ici.
+ARISTE.
+Quoi ! Lucinde ? Cette aimable enfant qui promettait un si bel avenir, lorsque je partis pour la province, et qui, je crois, vous est un peu parente ?
+ORPHISE.
+Elle-meme. Un petit chagrin dont elle ne m'a pas encore fait la confidence, mais que je devine a peu pres, doit l'amener tantot ici. C'est une affaire de coeur, une querelle de jeunes gens...
+ARISTE.
+Une affaire de coeur ?
+ORPHISE.
+Oui, le choix qu'elle a fait est convenable ; et si je reussis, comme je l'espere, a dissiper ce petit nuage, la fete dont je vous ai parle sera pour elle. Allons, Ariste ; je crois apercevoir une des personnes la plus assidue de notre societe.
+ARISTE.
+Qui ? Cet homme que je vois au bout de cette allee, dont la physionomie, parait moitie serieuse, moitie comique, qui marche d'un air distrait, et qui semble ne pas nous remarquer ?
+ORPHISE.
+Precisement. C'est un poete qui a fait autrefois quelque bruit, mais avec qui ses protecteurs viennent de s'abonner pour qu'il cesse d'ecrire.
+ARISTE.
+Il n'a pas encore jete les yeux sur nous ; il parait de mauvaise humeur, et si nous voulons en jouir, il faut le tirer un peu de cette reverie.
+ORPHISE.
+C'est un petit ressentiment qu'il a contre le public, qui vient de siffler impitoyablement une de ses pieces, dont le succes lui tournait la tete avant la representation.
+ARISTE.
+Tant mieux, nous allons peut-etre lui trouver de la modestie.
+ORPHISE, riant.
+Un poete mediocre, siffle, et modeste ! Ah, ah, ah, ah ! Vous allez en juger, Ariste. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh ! De grace, monsieur du Volcan, un moment de treve a vos reflexions.
+SCENE II. Le Poete, Orphise, Ariste.
+ORPHISE.
+Je parie que vous etiez assez bon pour vous occuper encore de la petite disgrace de la semaine passee ?
+LE POETE, d'un ton de modestie tres charge.
+Non, Madame. J'avais tache de plaire au public ; je m'etais, autant que je l'avais pu, rapproche des grands modeles, que nous devons regarder comme nos maitres. Je me suis trompe. Il faut bien que j'aie merite mon malheur par quelque endroit, et que la prevention qu'il est si naturel d'avoir pour ses ouvrages, m'ait aveugle sur mes defauts.
+ARISTE, a Orphise.
+Mais c'est parler on ne peut pas plus sensement, et je vois bien que vous avez voulu me surprendre...
+ORPHISE, au poete.
+Je vous avoue que je ne reviens pas de cette chute. La piece avait pris une si grande faveur avant qu'on ne la jouat....
+LE POETE, du meme ton ampoule.
+Eh ! Voila precisement ce qui nous perd, Madame ! Des amis trop zeles nous etouffent en nous caressant. On nous annonce comme des prodiges ; le public n'en est que plus en garde contre nous : et malheureusement ma piece dementait trop visiblement les eloges fastueux qu'on m'avait donnes.
+ARISTE, a Orphise.
+Oh ! Pour le coup, je me declare pour lui, et...
+ORPHISE, malignement au poete.
+Votre modestie, monsieur du Volcan , ne peut me convaincre que l'on vous ait rendu justice. J'en appelle du public au public meme : car enfin de veritables connaisseurs m'ont assure que le plan de votre piece etait absolument dans les regles ; qu'il y avait de l'interet, des situations parfaitement dessinees, une decoration merveilleuse, des coups de theatre a chaque scene...
+LE POETE, d'un ton precieux.
+Oh ! Pour le plan, j'avoue, Madame, qu'il etait regulier, s'il en fut jamais ; que le spectacle en etait pompeux, les situations neuves et frappantes. Quant a l'interet, comme il ne depend que du choix du sujet, et que souvent ce choix n'est pour nous qu'une bonne fortune du hasard, je crois pouvoir convenir, sans orgueil, que le pathetique du mien s'est fait sentir des l'exposition : aussi, malgre le tumulte du parterre ; on a remarque des moments ou le grand interet gagnait jusqu'au souffleur.
+ARISTE.
+Il faut croire que votre piece ne pechait apparemment que par les vers. Le style est en effet une partie bien essentielle...
+LE POETE, avec vivacite.
+Oh ! Pour les vers, Monsieur est excusable d'en parler ainsi : il ne connait pas l'ouvrage.
+ORPHISE, eclatant de rire.
+Ah, ah, ah, ah, ah, ah !
+LE POETE, un peu deconcerte.
+Quelques ennemis, Madame, peuvent vous avoir prevenue contre mes vers ; mais si vous me permettiez seulement de vous reciter une tirade...
+ORPHISE.
+Ah ! Monsieur du Volcan.
+LE POETE.
+Une petite tirade.
+ORPHISE.
+Ah !
+LE POETE.
+De cinquante a soixante vers au plus.
+ORPHISE.
+Ah !
+LE POETE.
+Celle-ci, seulement, que le hasard me rappelle.
+ORPHISE.
+Eh ! De grace.
+LE POETE, declamant avec enthousiasme.
+« Aveugle ambition, cruelle politique... »
+ORPHISE.
+Treve aux citations, je vous en prie, monsieur du Volcan : elles m'ennuient a perir.
+ARISTE.
+A ce que je peux comprendre, Monsieur, votre piece etait un chef-d'oeuvre ; qui peut donc l'avoir fait siffler ?
+LE POETE, tres vivement.
+La cabale ; car avec du merite on a des flots d'ennemis : le mauvais gout ; on ne veut plus aujourd'hui que des miseres, des brochures, des sauts perilleux, de vils bouffons, de ridicules ariettes, et c'est ce qui deshonore la nation : le poete Capraro, a qui l'impuissance de plaire a donne la fureur de nuire, et qui, de temps en temps, s'agite sous le mepris public dont il est couvert, pour tacher d'en rejeter quelque partie sur les autres : les acteurs enfin, qui ne savaient pas leurs roles, qui ont joue faux d'un bout a l'autre de la piece : une actrice surtout, a qui j'avais refuse de faire une epigramme contre sa rivale, et qui ne m'a jamais pardonne de l'avoir surprise dans son neglige. Mais je me flatte d'avoir imagine un moyen de contenter le public, malgre qu'il en ait.
+ARISTE.
+Vous cesserez d'ecrire, peut-etre ?
+LE POETE.
+Je l'avais resolu d'abord par depit ; mais on ne se derobe pas a l'impulsion du genie. J'ai remarque qu'il est difficile que le Francais admire longtemps, sans qu'il lui prenne envie de rire. Il en saisit l'occasion avec une avidite qui prouve bien que c'est son gout dominant. Il conserve cependant quelque sensibilite pour les beautes vraiment touchantes : j'imagine donc de lui donner des pieces qui le fassent rire et pleurer en meme temps ; des comedies, par exemple.
+ORPHISE.
+Des comedies qui fassent pleurer !
+ARISTE.
+Vous n'y pensez pas, monsieur du Volcan !
+LE POETE.
+Eh oui, Madame, oui, des comedies. Cela vous parait singulier, tant mieux ! C'est un presage de reussite : aussi bien, ne voyez-vous pas que Moliere ennuie ? C'est qu'il est trop uniforme ; il faut toujours rire avec lui : mais par le melange que j'invente, on aura de plus le plaisir d'etre attendri.
+ORPHISE.
+J'entends ; vous voulez parler de ces pieces naives, qui peuvent affecter le coeur par des peintures delicates et gracieuses...
+LE POETE.
+Non, Madame, non. Il n'y a pas le mot pour rire dans ces comedies-la. Je veux bien qu'il y ait de l'interet dans les miennes ; mais j'y veux de plus de bonnes plaisanteries, des paysans, des valets, des crispins meme, et je vous reponds que cela prendra.
+ORPHISE, ironiquement.
+Veritablement, cette idee commence a me paraitre tres comique.
+LE POETE.
+C'est de l'invention que cela !
+ARISTE.
+Oui. Quelques situations romanesques que l'on trouve partout ; quelques portraits plaisants d'originaux qui n'existent pas ; des lieux communs de morale mis en rimes : voila de quoi se faire la reputation d'un genie du premier ordre. C'est savoir se placer, que d'imaginer une ressource comme celle-la, et je concois que ce genre amphibie peut devenir tres plaisante.
+LE POETE.
+Je brule d'en etre a l'essai. J'avais d'abord songe a relever l'opera ; mais les musiciens et le public s'accoutument a se passer de paroles. Adieu, Madame ; je ne me suis jamais senti l'imagination si brillante.
+SCENE III. Orphise, Ariste.
+ARISTE.
+Je l'avais pris pour le plus sense ; mais voila bien le plus fou de tous nos poetes !
+ORPHISE.
+Parlez bas, Ariste ; je vois une personne qui ne vous pardonnerait jamais d'avoir trouve monsieur du Volcan ridicule.
+ARISTE.
+Cette femme qui vient a nous, et qui, si je ne me trompe, cache encore des pretentions sous cette physionomie prude ?
+ORPHISE.
+Elle-meme ; c'est la douairiere de nos femmes beaux esprits.
+ARISTE.
+De nos femmes beaux-esprits ?
+ORPHISE.
+Du moins elle a droit de passer pour telle. Physique, geometrie, beaux-arts, tout est de son ressort ; et nous avons d'elle un traite des forces mouvantes.
+ARISTE.
+Elle lit ; apparemment elle etudie son livre !
+ORPHISE.
+Cela pourrait bien etre ; car, entre nous, je me defie beaucoup de ces femmes a sciences profondes. Celle-ci d'ailleurs est si journaliere, qu'on la trouve, tour-a-tour, ingenieuse ou sotte, selon les personnes qu'elle a vues la veille. Elle a son jour de belles-lettres, son jour de philosophie, son jour de vapeurs enfin, qui est ordinairement celui ou elle ecoute tout le monde, pour avoir de l'esprit le lendemain.
+ARISTE.
+Elle approche.
+SCENE IV. La Femme Savante, Orphise, Ariste.
+LA FEMME SAVANTE.
+Pardon, Madame ; je croyais vous trouver seule : je crains d'etre importune... Je me retire.
+ORPHISE.
+Non, Madame. Une personne de votre merite ne peut jamais etre de trop. Je ne suis alarmee que de la diversion que nous avons pu faire a vos savantes meditations. Tous vos moments sont si precieux !
+LA FEMME SAVANTE.
+Oh ! Point du tout. Je n'etais occupee que d'un probleme assez abstrait, a la verite, mais qu'il me sera facile de resoudre par la methode des infiniment petits.
+ORPHISE, a Ariste.
+Ah ! Nous sommes perdus ! Elle est dans son jour d'erudition. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Des infiniment petits, Madame !
+LA FEMME SAVANTE, du ton d'une personne qui reciterait de memoire.
+Oui, Madame. C'est par cette heureuse methode que l'on est parvenu a determiner les quantites incommensurables. Sans elle nous irions encore a tatons dans les sublimes mysteres de la geometrie transcendante. Descartes l'avait indiquee par sa methode des tangentes ; le grand Newton la mit dans son plus beau jour, quoique l'illustre Leibnitz lui dispute l'honneur de cette decouverte.
+ORPHISE.
+Ah ! Madame, quelle profusion de science ! Que ne suis-je digne de vous entendre !
+LA FEMME SAVANTE, avec emphase.
+Vous vous moquez, Madame ! Ce n'est la qu'une legere esquisse d'un article que je destine a l'Encyclopedie. Je pourrai bien y joindre aussi une nouvelle methode d'operer sur les sections coniques : cela sera lumineux, par exemple.
+ARISTE.
+J'admire, Madame, cette erudition imposante ; mais faites grace a mes prejuges. Mon oreille, trop vulgaire sans doute, a quelque peine a se familiariser avec ce langage sublime, et vous-meme, ne le trouvez-vous pas un peu deplace dans une personne de votre sexe ?
+LA FEMME SAVANTE.
+Prejuges ridicules, puises dans une comedie de l'autre siecle ! Les savants de nos jours pensent bien differemment. Ils sont convenus de deferer en tout au jugement des femmes ; et ce n'est pas une legere preuve des progres de l'esprit philosophique dont s'honore la nation. C'est du moins ce que demontra parfaitement, il y a quelques jours, monsieur du Volcan, dans un cercle ou je presidais. Il faut convenir que c'est un homme admirable, que ce monsieur du Volcan ! Il est si persuade de cette verite, qu'il ne donnerait pas la plus petite brochure sans m'avoir consultee. Il est vrai que je lui communique aussi mes ouvrages ; et il en est toujours si content ! Si content !
+ARISTE.
+Et ses vers, sans doute, vous paraissent toujours les plus beaux du monde ?
+LA FEMME SAVANTE.
+Je n'en saisis pas toujours la pensee, et c'est ce qui me charme : j'aime qu'elle soit assez adroitement enveloppee, pour laisser un merite a la penetration du lecteur. Je vous avoue qu'apres les mathematiques, ma passion eut ete de deviner des enigmes.
+ORPHISE.
+C'est un plaisir delicieux, et que monsieur du Volcan a pu vous donner quelquefois.
+LA FEMME SAVANTE.
+Vous me rappelez qu'il me doit la lecture d'un volume d'Odes, ou l'esprit geometrique brille dans toute sa justesse. C'est Euclide et Pindare tout ensemble. Pardon, Madame, si je vous quitte pour aller l'entendre ; et vous, Monsieur, songez qu'il y a de la barbarie a vouloir interdire aux femmes l'habitude des connaissances profondes.
+ARISTE.
+J'avoue que leur partage est de plaire ; que leur sentiment vif et delicat doit etre consulte de preference, peut-etre, dans les ouvrages d'agrement ; que les Savants memes sont redevables a leur commerce, de ce vernis de politesse qui s'est repandu jusque sur eux. Mais permettez-moi de croire (ne fut-ce que parce qu'elles y perdraient) qu'elles ne sont pas nees pour ces sciences abstraites et sauvages, qui substitueraient a leurs graces naturelles le ridicule qui resulte presque toujours des demi-connaissances.
+LA FEMME SAVANTE, avec aigreur.
+Des demi-connaissances ! Il faut esperer que l'on vous desabusera, Monsieur. Que n'ai-je existe du temps de cet impertinent de Moliere ! Il n'eut pas sans doute ose me confondre avec ces plates bourgeoises qui s'occupent a des dissertations de grammaire. Cet homme-la n'avait nulle idee du haut comique; et je sais bon gre a nos auteurs d'avoir abandonne son genre. Mais je crains de me faire attendre. Adieu, Madame.
+SCENE V. Orphise, Ariste.
+ARISTE.
+Un pedant, meme en rabat, est, a mon avis, un etrange animal ; mais un pedant en cornettes confond toutes mes idees ! C'est un genre de ridicule si bizarre, qu'a peine je l'aurais cru possible.
+ORPHISE.
+C'est encore la plus raisonnable de son espece. Heureusement que cette manie n'entre guere dans le systeme d'une femme de vingt ans. Avant que les sciences paraissent un besoin, il faut que les moyens de plaire soient bien epuises ; et la-dessus, on ne s'en tient pas ordinairement a la premiere experience.
+SCENE VI. Le Financier important, Orphise, Ariste.
+LE FINANCIER, entrant avec precipitation, et s'annoncant par l'etourderie.
+Eh ! Bonjour, charmante Orphise ; je suis comble de vous rencontrer. J'ai les plus jolis bijoux du monde a vous faire voir. En verite, ce George est divin, sublime, essentiel a l'Etat. Tout ce qui sort de ses mains est d'une elegance qui enchante. Je lui dois pres de vingt mille ecus... Que dites-vous de cette bague ?
+ORPHISE.
+Le travail en est surprenant.
+LE FINANCIER, d'un ton qui veut etre petit-maitre.
+Mais, peut-etre, ai-je commis une indiscretion ? Vous pouviez etre en affaire, et je suis desespere quand je derange.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)N'admirez-vous pas l'email de cette boite, Monsieur, les facettes de ce diamant ? Je crois cependant m'apercevoir qu'il est un peu louche.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qui est cet homme-la ?
+ORPHISE, au Financier.
+C'est un de mes amis, monsieur Lisidor, homme de gout, de bonne compagnie.
+LE FINANCIER.
+Connaisseur par consequent ? Tant mieux. Je veux que Monsieur juge de toutes mes emplettes. C'est mon faible, a moi, que les gens de gout, ceux, surtout, qui ont l'epigramme leste. Vous savez, Madame, que je me pique un peu d'y reussir. J'ai chez moi deux ou trois poetes, sur lesquels je tire a bout-portant, et que je paie expres pour se dechirer les uns les autres. Je dois leur connaissance a mon cuisinier, qui est lui-meme un virtuose, du premier ordre : je veux que Monsieur en decide, et je me flatte que ce soir...
+ARISTE.
+J'avoue que la decision est interessante ; mais...
+LE FINANCIER, sans attendre de reponse.
+Ce sera dans ma petite maison. Vous la connaissez, Madame : n'en rougissez pas. Plus d'une femme de la Cour, si j'etais indiscret.... mais on se doit des egards a soi-meme. Je veux voir un peu Monsieur en prise avec mes poetes. Je lui detacherai l'invulnerable Capraro : cela sera plaisant. Je pretends aussi qu'il voie ma bibliotheque. Je ne crois pas qu'il y ait au monde un relieur comme le mien : il faut qu'il ait employe chez moi tout le maroquin du Levant ; mais c'est son travail dont il faut juger. Des filets, des bordures d'un gout qui etonne ! En verite, ce n'est qu'a regret que j'ouvre mes livres.
+ORPHISE.
+C'est en faire un tres bon usage.
+LE FINANCIER.
+Vous riez, Madame ? Mais vous avez tort, et d'honneur, vous, en serez enchantee vous-meme. A propos, j'ai fait l'acquisition du plus joli sujet du monde. Une cantatrice italienne, qui parle a peine le francais, et qui met dans son chant l'expression la plus seduisante ! C'est un organe dont on ne se fait point d'idee, et l'instrument le plus melodieux, le plus enchanteur que je connaisse. Nous ne sommes arranges que d'hier au soir ; elle sera, du souper, Monsieur ; vous voudrez bien en etre aussi, Madame.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Convenez que nous nous amuserons prodigieusement.
+ORPHISE.
+Non, monsieur Lisidor. Je soupe aujourd'hui chez moi; j'ai meme le projet de donner un bal, et je me flatte que vous aurez la complaisance d'y figurer.
+LE FINANCIER.
+Un bal ! Mais c'est ou je triomphe. De son aveu, Marcel n'a pas fait de meilleur eleve que moi. Un bal !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous m'y verrez, Madame, sous un deguisement d'une espece neuve, dont l'idee m'appartient, et qui, le carnaval dernier, me reussit a faire envie. La Duchapt, vaincue dans sa propre science, est venue me demander des modeles. C'est par moi que la Finance a commence, dans les choses de gout, a prendre insensiblement le pas sur la Cour ; et c'est une justice que doit me rendre publiquement un de mes poetes dans sa premiere dedicace.
+ARISTE.
+Eh oui ! Voila ce qui s'appelle du gout ! Mais pourquoi ne pas me prevenir aussi que Monsieur etait financier ? Qui diable l'eut jamais devine !
+ORPHISE.
+Et comment vous representiez-vous donc un homme de finance ?
+ARISTE.
+Je l'avouerai : sur le prejuge que les faveurs de la fortune sont ordinairement tres gratuites, qu'elle est d'ailleurs presque toujours suivie de la flatterie qui la caresse, et de l'ignorance, fille du luxe et de l'oisivete, j'envisageais ces messieurs en gros, comme des etres necessairement massifs, lourds, epais, n'existant qu'en estomac, ensevelis dans un volume de matiere grotesquement taillee...
+ORPHISE.
+Eh ! Fi donc, Ariste ; vous ne connaissez que la vieille finance.
+LE FINANCIER.
+Il est vrai que le portrait de Monsieur est d'une decrepitude !... Il faut qu'il sache son Turcaret par coeur.
+ARISTE.
+Oh ! Voila de l'epigramme, monsieur Lisidor ! Eh bien ! Je reformerai mes idees, et je concois a present que mon premier portrait n'etait pas assez ridicule pour etre ressemblant.
+LE FINANCIER, un peu deconcerte, tirant sa montre.
+Adieu, Madame ; voici l'heure des boulevards, et je dois au public le spectacle d'une caleche d'un nouveau genre, attelee de six chevaux anglais, uniques dans leur espece. C'est ma passion que de mener. Nos plus habiles cochers, nos jeunes seigneurs meme, ne me le disputeraient pas.
+SCENE VIII. Orphise, Ariste.
+ORPHISE.
+Eh bien, Ariste, votre penetration etait en defaut.
+ARISTE.
+Je ne m'attendais pas, je vous l'avoue, a ce personnage de sous-seigneur. Quel alliage ! Quelle metamorphose !... Mais quelqu'un vient.
+ORPHISE.
+C'est un homme d'un genre si nouveau dans la societe, que je n'ai pas encore eu le temps de l'approfondir.
+SCENE VIII. Le Philosophe, Orphise, Ariste.
+LE PHILOSOPHE.
+Vous voyez, Madame, un homme desespere. La situation ou je me trouve exige les remedes les plus prompts, et je crains de ne pouvoir en sortir sans un secours surnaturel.
+ORPHISE.
+Eh ! De quoi vous plaignez-vous donc, Monsieur ?
+LE PHILOSOPHE.
+D'etre devenu philosophe ! Madame.
+ORPHISE.
+Comment ! D'etre devenu philosophe ? Mais, en effet, c'est la maladie epidemique : jamais on ne vit tant de philosophes.
+ARISTE.
+Vous me surprenez, Monsieur. Quoi ! Vous avez du regret d'etre philosophe ?
+LE PHILOSOPHE.
+Oui, et mon malheur veut que je ne puisse plus m'en dedire.
+ORPHISE.
+Je n'y concois rien ; mais ne vous tromperiez-vous pas, Monsieur ? Etes-vous bien sur d'etre philosophe?
+LE PHILOSOPHE.
+Ah ! Si je le suis ? S'il ne faut que faire mes preuves, Madame, il me sera facile de vous persuader. Premierement, j'ai donne quelques ouvrages au public ; et tandis qu'on voit tant d'auteurs qui rougissent de leur nom, parce qu'ils ne le trouvent pas assez noble, j'ai eu le courage d'afficher le mien, et d'apprendre, a qui l'a voulu, que je m'appelle Blaise-Gille-Antoine, le Cosmopolite,
+ORPHISE.
+Blaise-Gille-Antoine ! Il faut en effet de la philosophie pour porter un nom comme celui-la.
+ARISTE.
+Passons a la seconde preuve.
+LE PHILOSOPHE.
+J'ai fait des prefaces, ou j'ai dit tout naturellement au public que je me moquais de lui.
+ARISTE.
+Et, sans doute, il vous l'a bien rendu?
+LE PHILOSOPHE.
+Il m'a siffle ; mais j'ai dit que j'en etais bien aise.
+ORPHISE.
+Voila une moderation tout-a-fait philosophique.
+LE PHILOSOPHE.
+Ah ! Madame, vous n'etes pas encore au bout. J'ai publie que ce que tous les hommes avaient estime jusqu'a present, n'avait servi qu'a les rendre fripons ; et que, tout calcul fait, il valait mieux parier pour la probite d'un sot, que pour celle d'un homme d'esprit.
+ARISTE.
+Vous seriez la preuve du contraire : mais pourquoi, Monsieur, avez-vous debite toutes ces gentillesses-la ?
+LE PHILOSOPHE.
+Parce que je voulais etre philosophe.
+ARISTE.
+Et vous n'avez pas trouve d'autres moyens ?
+LE PHILOSOPHE.
+J'aurais tort de m'en plaindre ; on ne me connaissait pas : depuis ce temps-la chacun me montre au doigt, et je doute fort que Diogene ait fait plus de bruit chez les Atheniens.
+ARISTE.
+Mais ne pouviez-vous pas travailler plus heureusement a decouvrir des verites neuves, qu'a soutenir ainsi des paradoxes bizarres ?
+LE PHILOSOPHE.
+Eh ! Qu'importe, si par-la-je me suis fait une reputation ? Pensez-vous , lorsque j'ai debute dans le monde, que je n'aie pas ri moi-meme de me trouver des partisans ? Mais enfin, c'est tout ce que je desirais. Et pourquoi preferer une route difficile a des chemins plus aises ? Le philosophe, ainsi que la nature, doit toujours aller a l'epargne de la peine.
+ARISTE.
+J'entends.
+ORPHISE.
+Quel motif avez-vous donc d'etre afflige ? Vous vouliez etre philosophe, ou le paraitre ; on vous a pris au mot : il me semble que vous devriez etre content.
+LE PHILOSOPHE.
+Ah ! Voici ce qui m'afflige, Madame. J'ai debite toutes ces belles choses-la sans les croire, dans l'idee qu'un philosophe devait penser, parler, ecrire, et meme s'habiller autrement que le vulgaire. J'ai refuse jusqu'a de l'argent, pour ne ressembler a personne. A la faveur de mes opinions singulieres, je pretendais a la consideration ; j'ai reussi d'abord au-dela de mes esperances, tout concourait a ma celebrite : mais l'estime se perd par l'habitude. J'aurais du paraitre moins encore que je ne l'ai fait, et ne pas familiariser le public avec mes manieres. La facilite avec laquelle je me suis fait des partisans m'a seduit ; et il y a bien autant de monde qui me prend aujourd'hui pour un fou, qu'il y en avait autrefois qui me prenait pour un sage.
+ORPHISE.
+Ah ! Monsieur le Philosophe, vous pretendiez a la consideration ?
+LE PHILOSOPHE.
+Pour l'honneur de la philosophie, Madame.
+ORPHISE.
+Eh bien ! Monsieur Blaise-Gille-Antoine, le Cosmopolite, il faut que la vraie philosophie vous console, et que vous reveniez tout naturellement a vous reconcilier avec le sens commun.
+LE PHILOSOPHE.
+Eh ! Quel avantage trouverais-je a penser comme tout le monde ?
+ARISTE.
+D'inspirer, peut-etre, moins de curiosite, mais d'eviter le ridicule.
+LE PHILOSOPHE.
+Non, Monsieur, non. Je ne compromettrai pas ainsi l'honneur de la philosophie ; et puisque vous n'avez rien de mieux a me conseiller, je vais m'egayer dans quelque brochure nouvelle, aux depens de la Nation, de la Noblesse et de l'Academie royale de musique.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand on sait aimer et plaire, 
+A-t-on besoin d'autre bien ?
+ORPHISE.
+Vous allez achever de desabuser le public sur votre compte, et peut-etre y reussirez-vous assez bien pour vous corriger.
+SCENE IX. Orphise, Ariste.
+ARISTE.
+Voila des philosophes dont je n'aurais jamais imagine l'espece. Mais je crois apercevoir Lucinde.
+ORPHISE.
+C'est elle-meme.
+SCENE X. Lucinde, Orphise, Ariste.
+ORPHISE.
+Comment ! Ma chere Lucinde ! Ceci devient serieux. De la langueur, des yeux charges, une physionomie abattue, un neglige de convalescente. Voila qui devient respectable ; et si je ne m'etais arrangee pour etre gaie toute la journee, j'aurais toutes les peines du monde a ne pas m'affliger avec vous. L'interet a deja gagne le coeur d'Ariste ! Mais il a beau faire, l'exemple n'operera pas sur moi. Lindor serait trop flatte, s'il etait temoin de ce petit desordre ; et s'il est dans son tort, comme je le pense, il ne merite pas de deranger nos plaisirs.
+LUCINDE.
+Ah ! S'il est dans son tort, Madame ? Quel souvenir me rappelez-vous !
+ARISTE.
+Ce ton serieux va mal avec tant de charmes. Un caprice, une fausse apparence peut-etre, a pu vous donner des soupcons contre votre amant. Rendez-vous justice, belle Lucinde, vos yeux ne permettent pas de le croire infidele.
+ORPHISE.
+Ma chere Lucinde, un moment de treve a vos douleurs. Ceci ne finira pas aussi mal que vous le pensez : fiez-vous a mon experience. J'apercois quelqu'un qui peut faire diversion a votre tristesse : gardez-vous de vous laisser deviner. J'exige, au contraire, que vous vous fassiez quelque violence pour prendre part a nos amusements. Je veux vous le faire connaitre, Ariste. Il approche ; c'est mon medecin.
+ARISTE.
+Un medecin ! Je ne m'en serais pas doute.
+SCENE XI. Un Medecin, Orphise, Lucide, Ariste.
+ORPHISE.
+Ah ! Bonjour, cher petit Docteur ; vous etes charmant d'etre venu. Je vous demande, Ariste, votre confiance pour Monsieur.
+ARISTE.
+Monsieur est un eleve d'Hippocrate ?
+LE MEDECIN, d'un ton precieux.
+Je suis medecin, Monsieur ; je sais qu'Hippocrate etait un fort bon homme, plein de bon sens, et voila tout.
+ARISTE.
+On me l'avait peint comme un philosophe respectable, dont les moeurs etaient simples, et qui guerissait.
+LE MEDECIN.
+Il guerissait, oui ; mais si maussadement !
+ORPHISE.
+Comment !
+LE MEDECIN.
+Mais, oui, sans doute ; y a-t-il rien, par exemple, de plus ridicule, de plus insupportable que son eau blanche ? J'ose a peine en prononcer le nom. Quel triste regime pour les malades !
+ORPHISE.
+Mais s'ils s'en portaient mieux ?
+LE MEDECIN.
+C'est au moins se bien porter d'une facon tres malhonnete. Le bon homme allait fort terre-a-terre. Il en etait encore aux seules maladies du corps : pour nous, nous avons sante, par-dessus tout cela, aux maladies de l'esprit.
+ARISTE.
+Aux maladies de l'esprit ? C'est avoir fait du chemin : mais j'interromps l'histoire d'Hippocrate.
+LE MEDECIN.
+C'est pitie de voir combien il se donnait de peine pour observer les maladies ! A ce metier, il eut fait ici tres mauvaise figure : il y perdait un temps infini.
+ORPHISE.
+Appelez-vous cela perdre son temps pour un medecin ? Eh ! Que faites-vous donc, Messieurs ?
+LE MEDECIN.
+Nous, Madame ? Nous voyons des malades; pour des maladies, c'est autre chose.
+ORPHISE.
+Et quelle difference faites-vous entre voir des malades et des maladies ?
+LE MEDECIN.
+Oh ! Je vous reponds qu'il y en a une tres grande pour le malade et pour le medecin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais Mademoiselle pourra vous faire juger de la difference. Cet air abattu, ce neglige annoncent surement quelque indisposition.
+ORPHISE, bas a Lucinde.
+N'allez pas le contredire.
+LE MEDECIN, d'un ton mignard.
+A travers ce leger desordre, elle a pourtant l'air d'une tres belle sante ; et ce neglige-la lui reussit a miracle. De quoi vous plaignez-vous, ma belle Demoiselle ? Avec une physionomie si interessante, peut-on savoir ?...
+LUCINDE, embarrassee.
+Monsieur...
+ORPHISE, avec vivacite.
+C'est son estomac dont elle se plaint.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pretez-vous donc a sa manie.
+LE MEDECIN.
+C'est une petite tracasserie que cela, et qui n'est pas sans doute fort ancienne ?
+LUCINDE.
+Depuis deux mois, elle me tourmente.
+LE MEDECIN.
+Deux mois ! Voila qui est d'une opiniatrete choquante. Il y a comme cela des estomacs qui ont des fantaisies. Apparemment, vous n'avez qu'un extrait d'appetit ?
+LUCINDE.
+Je devore.
+LE MEDECIN.
+Le petit coeur, quelquefois mal a son aise ?
+LUCINDE.
+Jamais.
+LE MEDECIN.
+La tete ne vous dit rien ? Point de disparates ?
+LUCINDE.
+Mais, ne me dit rien... Je n'y ressens point de mal.
+LE MEDECIN.
+Quoi ! Rien de tout cela ?
+LUCINDE.
+Rien absolument.
+LE MEDECIN.
+Je l'avais precisement devine. J'ai le coup-d'oeil d'une justesse !... Vapeurs que cela.
+LUCINDE.
+Comment ! Des vapeurs !
+LE MEDECIN, d'un ton capable, mais toujours precieux.
+Le terme vous choque ? C'est, plus honnetement, l'esprit ethere, le fluide nerveux, devenu de nos jours electrique, qui vous cause des grippements de nerfs, des agacements, des mouvements spasmodiques....
+ORPHISE.
+Il est savant, du moins, le petit Docteur !
+ARISTE.
+C'est ce qu'il me semble.
+LE MEDECIN.
+Ma belle malade, je vais vous ordonner de la poudre temperante, un joli petit julep, une liqueur anodine....
+LUCINDE, avec impatience.
+Eh ! Monsieur, je suis nourrie de tout cela.
+LE MEDECIN.
+Ceci deviendrait serieux : voyons donc.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oh ! Oh ! Il y a de la frequence dans ce pouls-la. Mais la nuit, avez-vous le sommeil dore ?
+LUCINDE.
+Le sommeil dore ? Il me semble que je repose fort bien.
+ORPHISE.
+Le sommeil dore ! C'est qu'il est charmant avec ses petites phrases ! Je ne connais personne qui parle comme lui. Le sommeil dore !
+ARISTE.
+Effectivement, les malades de Monsieur, doivent mourir le plus gaiement du monde.
+ORPHISE.
+Ce sont ses bulletins qu'il faut voir ! En verite, cela se lit avec autant de plaisir qu'un joli madrigal. Mais revenons a la malade.
+LE MEDECIN.
+Tout bien pese, je croirais a propos qu'elle se fit eventer la veine.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)N'auriez-vous pas ceci meteorise ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LUCINDE.
+Meteorise ? Je ne vous entends pas.
+LE MEDECIN.
+Oui, meteorise : votre pouls l'indique ; et votre maladie m'eut donne le change, si la pneumato-pathologie, decouverte de nos jours, ne me marquait la route que je dois suivre : prenez donc du miel aerien, des siliques egyptiaques...
+ORPHISE.
+Voila des remedes que je ne me rappelle pas d'avoir entendu nommer.
+LE MEDECIN.
+Ce sont de nouveaux mots que nous avons resolu d'adopter, pour nous exprimer avec plus de decence. Le miel aerien, c'est de la manne : les siliques egyptiaques, de la casse. Les apothicaires sont prevenus.
+ORPHISE.
+J'entends.
+LE MEDECIN.
+Oh ! Nous ne ressemblons pas a ces medecins de l'autre siecle, et nous avons mis la medecine sur un ton d'elegance qui ne laisse plus de prise au ridicule.
+ORPHISE.
+Vous en etes la preuve. Actuellement, je suis au fait de la difference qu'il y a entre voir un malade et une maladie. Ici, vous avez vu la malade, et meme de tres-pres ; pour la maladie...
+LE MEDECIN.
+J'avoue que je l'ai un peu tiree au juger. Il y a cependant beaucoup de vraisemblance que ce sont des vapeurs.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Comment ? Deja six heures ! J'ai cent visites encore a faire avant la nuit. Il faut que je vole au Marais, chez la presidente Belise : c'est aujourd'hui son jour de migraine. On m'attend a une consultation au faubourg, pour tacher de faire dormir une jeune duchesse, dont l'insomnie a tenu bon contre un roman de sentiment en douze volumes. De la, le marquis Mondor m'a fait promettre de passer chez cette petite danseuse qui le ruine, et qui m'a recommande la sante d'un jeune abbe qui garde l'incognito chez elle depuis six semaines. En verite, je suis excede ; je n'ai pas un moment a moi, et je ne concois pas comment nos vieux medecins pouvaient se passer d'equipage. Adieu, Madame; et vous, Mademoiselle, observez ce que je vous ai prescrit.
+SCENE XII. Orphise, Lucinde, Ariste.
+ORPHISE.
+Ce n'est point la le medecin qu'il vous faut, ma chere Lucinde. Mais je vois Lindor. Quand on ne s'evite pas plus que cela, on n'est pas loin de se rapprocher.
+LUCINDE.
+Ciel ! Ou fuirai-je? ?
+SCENE XIII. Lindor, Orphise, Lucinde, Ariste.
+ORPHISE.
+Approchez, Lindor, approchez. Nous parlions de vous, et nous avons un sujet de querelle a vous faire.
+LINDOR, d'un ton de depit.
+Non, Madame, non ; c'est une perfidie qui n'a point d'exemple, et vous aurez beau me parler en sa faveur.
+LUCINDE, piquee.
+En ma faveur, Monsieur ! Eh ! Qui vous dit que Madame en ait la moindre idee ?
+LINDOR.
+Je ne doute pas, ingrate, du soin que vous aurez pris de prevenir ici tout le monde contre moi; mais j'aurai du moins la consolation de publier une inconstance qui vous.... deshonore, oui, qui vous deshonore : le terme est fort, je l'avoue, mais il est place.
+LUCINDE.
+Et moi, Monsieur, dans la crainte de m'abaisser a vous faire des reproches...
+LINDOR, vivement.
+A me faire des reproches ! A moi ? A l'amant le plus tendre et le plus outrage ?
+LUCINDE.
+Madame ne m'obligera pas a souffrir plus longtemps votre humeur. Adieu, Monsieur, je vous laisse le champ fibre; je me retire.
+LINDOR, l'arretant.
+Vous voyez, Madame, qu'elle ne peut supporter ma presence ; c'est un temoin qui l'accuse, et une confusion que je veux bien encore lui epargner.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARISTE.
+Non, Monsieur, vous ne nous echapperez pas. Je suis bien aise de voir le denouement de tout ceci.
+LINDOR.
+C'est vous, Lucinde, qui m'y forcez.
+ORPHISE.
+Expliquez-vous, je le veux.
+LINDOR.
+Vous le voulez, Madame ? Eh bien, Lucinde, je ne vous reprocherai pas d'abord cette indolence de l'ame, cette froideur dont je me suis plaint mille fois. Je croyais, parce que vous me l'aviez dit, que vous ne m'en aimiez pas moins, et que cet air d'indifference n'etait en vous que l'effet du caractere. Je feignais de le croire du moins ; et quelquefois, je l'avoue, j'imaginais vous avoir trouvee plus sensible. Mais, apres ce que j'ai vu, il ne m'est plus permis de douter de la verite de cette indifference. Que dis-je, indifference ! On ne pousse pas le mepris plus loin.
+LUCINDE, a part, avec douleur.
+Le mepris ! Ah ciel !
+LINDOR, avec feu.
+Oui, le mepris : ne dissimulez plus; jugez-en, Madame. Je rends, en sa presence, pendant un bal entier, les soins les plus decides a Cydalise. Je me fais violence pour lui dire les choses les plus flatteuses et les plus tendres, de maniere que Lucinde les entendit. J'etais bien aise d'eprouver enfin si ce coeur qu'on m'avait peint si naturel et si vrai, repondait en effet a tout l'amour dont je l'avais cru digne ; et l'insensible n'en perdit pas un moment de gaite : pas le moindre trouble, pas l'ombre de la jalousie. Est-ce ainsi que l'on aime, Madame ? Je vous le demande, est-ce ainsi que l'on aime ? Mais j'ai decouvert enfin d'ou partait ce fond d'indifference pour moi; et l'entretien secret qu'elle eut pendant le meme bal avec Dorante, ne m'apprend que trop de quoi je dois me plaindre.
+LUCINDE.
+Et fites-vous paraitre, Monsieur, moins de gaite, plus de trouble, plus de jalousie, pendant cet entretien avec Dorante ?
+LINDOR.
+Non, Mademoiselle, non. Je ne voulus point vous donner le triomphe de paraitre afflige. C'etait tout ce que vous desiriez, sans doute, pour jouir avec mon rival des coups que vous me portiez l'un et l'autre : mais il n'y a que moi qui sache ce que j'ai souffert. J'ai renferme mon depit au point de vous inquieter peut-etre, et j'ai pris, a mon tour, cet air de froideur que je vous avais tant de fois reproche.
+LUCINDE, tendrement.
+Vous n'aimez donc point Cydalise, Lindor ?
+LINDOR.
+Moi ? L'aimer ! Je le voudrais, ingrate. Ma vengeance en serait plus complete : mais est-on le maitre de disposer si facilement d'un coeur ou vous avez regne ? Ah, Lucinde ! Je ne meritais pas un pareil traitement. Il n'y a que vous, dans le monde, capable d'une inconstance si prompte, si c'est une inconstance encore : car, vous ne m'avez jamais aime, et vous n'avez que le choix de la legerete ou de la coquetterie.
+LUCINDE, naivement.
+Vous avez donc beaucoup souffert, Lindor ?
+LINDOR.
+Si j'ai souffert ? Cruelle !
+LUCINDE.
+Eh bien ! Je souffrais aussi tandis que vous parliez a Cydalise, et j'avais les memes raisons que vous pour cacher mon trouble.
+LlNDOR, tendrement.
+Vous n'aimez donc pas Dorante, Lucinde ?
+LUCINDE.
+Non, mais je sens que je devrais vous hair. Je voulus me venger d'une epreuve que je ne meritais point, et que je prenais pour une perfidie. Ce n'etait pas de vous que je devais apprendre a me faire une violence si cruelle.
+LINDOR, penetre.
+Vous n'aimez point Dorante ?... Ah ! Belle Lucinde, comment pourrai-je expier mon injustice ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LUCINDE.
+Une autre serait tentee de jouir de votre confusion ; mais non, Lindor, je veux achever de vous rendre inexcusable, je vous pardonne.
+LINDOR.
+Adorable Lucinde ! Puis-je me justifier a mes propres yeux ?
+ORPHISE.
+Vous vous etes trompes tous deux par une fausse inconstance. Je n'aurais peut-etre pas ete si facile a vous pardonner, Lindor ; mais les fautes de l'amour portent leur excuse avec elles. Allons, Ariste, c'est une scene de plus a notre comedie ; et les folies de deux jeunes amants ne sont pas si deplacees qu'on le croirait, dans un cercle d'originaux.
+SCENE XIV ET DERNIERE. Frontin, et les Acteurs precedents.
+FRONTIN.
+Madame, les musiciens que vous avez mandes viennent d'arriver, avec une suite assez nombreuse, et sont la-bas a vous attendre.
+ORPHISE.
+Que cette petite fete, ma chere Lucinde, serve de prelude a votre bonheur; et vous, Ariste, venez m'aider a en faire les honneurs.
+
+	==================================================

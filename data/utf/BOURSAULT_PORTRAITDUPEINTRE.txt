@@ -1,0 +1,1119 @@
+********************************************************
+	DC.Title                  = LE PORTRAIT DU PEINTRE, OU LA CONTRE-CRITIQUE DE L'ECOLE DES FEMMES, COMEDIE.
+	DC.Author                 = BOURSAULT, Edme
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:10.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/BOURSAULT_PORTRAITDUPEINTRE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE PORTRAIT DU PEINTRE OU LA CONTRE-CRITIQUE DE L'ECOLE DES FEMMESCOMEDIEM. DC. LXIII. AVEC PRIVILEGE DU ROI.
+Par le Sieur BOURSAULT.
+	A PARIS, Chez CHARLES DE SERCY.
+	Acheve d'imprimer pour la premiere fois le dix-sept Novembre 1663.
+	Representee pour la premiere fois en 1663 sur le Theatre Royal de l'Hotel de Bourgogne.
+	MONSEIGNEUR,
+Je n'aurais jamais ose prendre la liberte de lever les yeux jusques sur VOTRE ALTESSE SERENISSIME, pour lui faire un Present si peu digne d'Elle, sans la Permission qu'elle semble m'en avoir donne par les genereux Applaudissements dont Elle a eu la bonte d'honorer un Ouvrage qui n'est considerable que par l'avantage de ne lui avoir pas Deplu. Je sais MONSEIGNEUR, que la seule Gloire de votre Suffrage peut remplir la respectueuse attente d'une Personne aussi ambitieuse que moi ; mais quiconque a l'honneur de connaitre combien il y a de plaisir a vous etre redevable, ne peut s'empecher de rechercher l'Occasion de vous etre oblige plus d'une fois. Jamais Piece n'eut si besoin d'Appui que celle que je vous consacre ; Et je ne vois point de Protecteur qui soit si Auguste que Vous. Car enfin, MONSEIGNEUR, si l'on considere VOTRE ALTESSE SERENISSIME du cote du Sang, celui dont elle est formee ne produit que des Heros qui naissent pour immortaliser les Siecles qui auront eu le bonheur de les posseder ; et pour ce qui est de la capacite, il semble qu'il n'y ait que ces memes Heros qui aient merite de faire voir a la Posterite que la Naissance Royale n'est pas incompatible avec les sublimes Clartes que l'on remarque en Eux. A toutes ces illustres verites, MONSEIGNEUR, je n'en veux joindre qu'une ; Je suis avec tout le respect imaginable, 
+MONSEIGNEUR, 
+De V. A. SERENISSIME, 
+Tres humble, tres obeissant, et tres fidele serviteur, 
+BOURSAULT. 
+
+AU LECTEUR.
+Je ne me serais jamais avise, mon cher Lecteur de vouloir t'ennuyer par une espece de Preface, si je n'etais oblige d'en faire le sacrifice a la Gloire outragee des plus honnetes Gens de notre Siecle. Si l'on s'etait contente de me ravir l'avantage d'avoir attaque Moliere, et de l'avoir reduit a la honteuse necessite de recourir aux invectives pour repousser la Satyre spirituelle qui a mis en plein jour les defauts du plus considerable de ses Ouvrages, j'eusse laisse la liberte du doute a tous ceux a qui l'on a voulu persuader que je n'etais pas l'Auteur de la moindre chose que je sois capable de produire ; Mais il n'est pas juste que je me laisse depouiller d'un bien qui ne peut enrichir personne, et je suis contraint de defendre tout le Parnasse contre l'injurieuse charite qu'on lui a voulu preter. Les grands Hommes n'ont point d'occupations si basses, ils ne travaillent qu'alors qu'il y a de la gloire a acquerir ; et c'est dire assez clairement que Moliere n'a rien a craindre d'Eux. Pour moi je suis redevable a l'Ouvrage qu'il m'a voulu faire : croire ma Piece digne de ceux qui sont accuses d'y avoir mis la main, c'est demeurer d'accord de son merite, et toutes les injures qu'on me dit dans le Galimatias que Moliere appelle Impromptu ne peuvent detruire la bonne Opinion qu'il a fait concevoir de mon Ouvrage. Je pourrais repousser ces injures par d'autres injures plus piquantes, si j'en avais aussi bien la volonte que j'en ai le droit, mais je n'y suis pas accoutume comme lui ; Et puis cette sorte de vengeance est si indigne d'un honnete homme, que la sienne n'a pas eu lieu de me surprendre. 
+
+PERSONNAGES
+DAMIS, Baron, amant d'Amarante.
+AMARANTE, maitresse de Damis. 
+CLITIE, cousine d'Amarante.
+LE COMTE, courtisan ridicule.
+LE CHEVALIER DORANTE, courtisan ridicule.
+LA MARQUISE ORIANE, qui fait la Precieuse.
+LISIDOR, poete.
+PETIT-JEAN, page d'Amarante.
+LA RAMEE, laquais du Comte.
+La Scene est dans une Salle du Logis d'Amarante.
+
+
+
+			
+
+
+SCENE PREMIERE. Clitie, Damis.
+CLITIE.
+Ma Cousine s'habille, et je viens vous apprendre 
+Qu'elle a bien du regret de vous tant faire attendre ; 
+Car de votre presence elle aura du plaisir ; 
+Pour venir vous le dire elle a su me choisir. 
+Votre retour la charme, et sa joie est extreme. 			[5]
+DAMIS.
+La charmante Clitie est toujours elle-meme, 
+Toujours l'ame sensible, et le coeur obligeant, 
+Il ne sort de sa bouche aucun mot affligeant. 
+Plut au Ciel qu'en revanche une fille si belle 
+En semblable rencontre eut besoin de mon zele ! 			[10]
+Il n'est soins ni devoirs que ne dut eprouver... 
+CLITIE.
+Patience ; Il n'est rien qui ne puisse arriver, 
+Je me sens dans un age a ne plus guere attendre, 
+Vous avez un cousin dont le coeur parait tendre, 
+Et s'il etait d'humeur a languir sous ma loi 			[15]
+Ce que je fais pour vous, vous le feriez pour moi. 
+Quand ma cousine aussi daigne ouir ma harangue 
+A lui parler de vous je prepare ma langue ; 
+De mon zele assidu son esprit est confus ; 
+Eussiez-vous des defauts, j'en ferais des vertus ; 			[20]
+Je la charme par la (car je sais par moi-meme 
+Qu'on oblige une fille en louant ce qu'elle aime, 
+Et que lorsqu'un amant s'est range sous nos lois, 
+Qui nous vante sa grace applaudit notre choix.) 
+J'ai cent fois d'Amarante affermi la tendresse, 			[25]
+Et du courtois Damis si j'etais la maitresse, 
+Peut-etre que... 
+DAMIS.
+Peut-etre en amour n'est pas bon, 
+Vous m'aimeriez peut-etre, et peut-etre que non : 
+Quand d'un coeur une fois l'amour s'est rendu maitre, 
+Il ne veut rien devoir au secours d'un peut-etre, 			[30]
+Et quand d'une maitresse on souhaite la main, 
+Un bonheur dont on doute est un malheur certain. 
+De ma chere Amarante un semblable peut-etre... 
+CLITIE.
+Amarante vous aime, et j'ai su le connaitre, 
+A pouvoir de sa bouche arracher cet aveu, 			[35]
+Vous n'aurez point de peine, ou vous en aurez peu : 
+Adieu mon cher ; souffrez qu'un moment je vous laisse, 
+Je viendrai vous rejoindre avec votre maitresse, 
+A certaine Marquise elle donne a diner 
+Et touchant ce repas j'ai quelque ordre a donner : 			[40]
+Entre amis tout s'excuse, et chacun s'accommode... 
+DAMIS.
+Je m'en vais ; je vois bien que je suis incommode, 
+Sur le soir Amarante aura plus de loisir... 
+CLITIE.
+Vous n'auriez qu'a nous faire un pareil deplaisir, 
+Ma charmante cousine en serait si surprise... 			[45]
+DAMIS.
+Mais paraitre en desordre aupres d'une Marquise, 
+M'exposer de la sorte a des yeux delicats ! 
+CLITIE.
+Si Damis l'apprehende il ne la connait pas : 
+Vous ne vites jamais dame plus incommode, 
+Jusqu'au ton de la voix elle observe la mode, 			[50]
+A la nature meme elle impose des lois, 
+En user autrement c'est sentir le bourgeois, 
+Jamais ce qui vous plait n'a l'honneur de lui plaire, 
+Ce qu'on croit naturel lui parait trop vulgaire, 
+Et c'est a cette belle une espece d'affront 			[55]
+Que de boire et manger comme les autres font. 
+Aussi quoi qu'elle fasse a toute heure on la joue, 
+Mais alors qu'on la raille elle croit qu'on la loue, 
+Elle tourne a son gre tous les mots qu'on lui dit, 
+Si l'on rit de la voir c'est que l'on l'applaudit, 			[60]
+Quand on la contrefait elle croit qu'on l'imite, 
+Elle affecte des mots qu'elle seule debite, 
+Et comme si son ame agissait par ressorts 
+Son esprit se demonte aussi bien que son corps. 
+Sur tout ce qui la choque on sait bien qu'elle glose, 			[65]
+Mais lui plaire, et deplaire est une meme chose, 
+Vos soupirs a ses yeux ne sont pas adresses, 
+Amarante vous aime, et cela c'est assez. 
+Jusqu'au revoir. 
+DAMIS.
+Ma joie est enfin apparente... 
+SCENE II. Le Comte, Damis.
+LE COMTE, en entrant.
+Oh quelqu'un, fait-il jour chez la belle Amarante ? 			[70]
+Ah, Ah, c'est toi Baron, ne fais pas le surpris ; 
+Et depuis quand, mon cher, es-tu donc a Paris ? 
+Parbleu de ton voyage il faut dire la cause ; 
+Entrons. 
+DAMIS.
+Tu peux entrer, mais pour moi je ne l'ose. 
+On habille Amarante, et je viens de savoir 			[75]
+Que dans quelques moments j'aurai l'heur de la voir, 
+Par respect l'un et l'autre attendons qu'elle sorte. 
+Mais peut-on me connaitre a me voir de la sorte ? 
+LE COMTE.
+Parbleu, Baron, tout autre y serait attrape ; 
+Te voila Dieu me damne, assez bien equipe, 			[80]
+Tetebleu ! Des collets de dentelle de Flandre ! 
+Justice. 
+DAMIS.
+Quoi... 
+LE COMTE.
+Parbleu, je ne veux pas t'entendre, 
+Justice, Baron. 
+DAMIS.
+Mais... 
+LE COMTE.
+Mais Justice. 
+DAMIS.
+Dis-moi... 
+LE COMTE.
+Si tu m'en crois, Mon cher, ne va pas chez le Roi, 
+Tu n'entrerais jamais dans la Salle des Gardes 			[85]
+Qu'il ne plut sur ton nez plus de mille nasardes. 
+DAMIS.
+Quoi les Gardes... 
+LE COMTE.
+Baron, moi qui te parle, moi, 
+Je te dis en ami, si tu vas chez le Roi 
+Que tu n'entreras point sans un point de Venise. 
+DAMIS.
+Et s'il arrivait donc que par une surprise... 			[90]
+LE COMTE.
+Quelque sot ! Sur mon ame on ne me surprend point, 
+J'ai parbleu depense dix mille ecus en point. 
+Mais le bon de cela, Baron, quand je m'ajuste 
+Pour me tirer du pair je calcule si juste 
+Que parbleu, notre ami, chez les gens comme toi 			[95]
+Quand la mode commence elle est vieille pour moi. 
+Il me serait beau voir les dentelles de Flandres ! 
+DAMIS.
+N'ai-je que ce defaut que tu puisses reprendre ? 
+De ces riches collets si tel est le pouvoir 
+Aussi bien comme toi j'ai moyen d'en avoir : 			[100]
+Mais dis-moi dans Paris n'a-t-on pas la franchise ? 
+Ce qui fait l'honnete homme est-ce un point de Venise ? 
+C'est un faible avantage a ces gens du bel air 
+Qu'emprunter du secours pour se tirer du pair : 
+Quand d'un sang assez bon nous avons l'heur de naitre 			[105]
+Notre eclat naturel nous doit faire paraitre : 
+C'est mon sentiment, Comte, et tu dois m'avouer... 
+LE COMTE.
+Dieu me damne, Baron, tu te feras jouer, 
+Prends garde a toi. 
+DAMIS.
+Pourquoi ? 
+LE COMTE.
+Pourquoi ! 
+DAMIS.
+Daigne me dire... 
+LE COMTE.
+Par ma foi cher Baron, ton pourquoi me faire rire, 			[110]
+Il est bon. 
+DAMIS.
+Mais pourquoi... 
+LE COMTE.
+Continue. 
+DAMIS.
+Apprends-moi... 
+LE COMTE.
+On te jouera, te dis-je, He demande pourquoi 
+Je t'en prie, Allons donc, soutiens ton caractere. 
+DAMIS.
+Ou sois plus raisonnable, ou bien songe a te taire. 
+LE COMTE.
+On te jouera. 
+DAMIS.
+Dis donc quel sujet on aura... 			[115]
+LE COMTE.
+On te jouera, Morbleu, parce qu'on te jouera. 
+DAMIS.
+Mais... 
+LE COMTE.
+Mais prends garde a toi, car nous avons un homme 
+Qui fait mieux des portraits que les peintres de Rome ; 
+Il vous depeint, Morbleu, mais je dis traits pour traits ; 
+Il est vrai, quelques sots ne s'en doutent jamais ; 			[120]
+Quoi que des spectateurs tous les traits y paraissent, 
+Plus ils sont ressemblants, moins ils les reconnaissent ; 
+Ce qu'on a fait pour eux leur parait pour autrui, 
+Et tel y rit souvent de voir rire de lui. 
+DAMIS.
+A ce compte, ce peintre en badins vous erige ? 			[125]
+Mais se voit-on jouer sans que l'on se corrige ? 
+En est-il d'assez sots pour ne pas s'abstenir... 
+LE COMTE.
+S'il est des sots, ma foi tu m'en fais souvenir 
+Des sots ; Pour t'en montrer, et de plus d'une espece. 
+Si tu veux des tantot nous irons voir sa piece, 			[130]
+Mais il faut, notre Cher, me promettre ce point 
+Si tu vas autre part que tu ne riras point. 
+DAMIS.
+Pourquoi cela ? 
+LE COMTE.
+Pourquoi ? Je ne puis te le dire, 
+On m'a dit seulement que c'est la qu'on va rire, 
+Et j'ai fait, tetebleu, des serments qui tiendront 			[135]
+De ne rire jamais qu'ou les autres riront. 
+DAMIS.
+Moi qui hais ta maniere, et qui suis equitable, 
+Je ris quand j'ai de rire un sujet raisonnable, 
+Et je tiens que tout homme a moins d'etre brutal 
+Doit rire de la chose, et non pas du signal. 			[140]
+Car tu ris de voir rire, et ma foi je parie... 
+LE COMTE.
+Et de quoi donc Baron, pretends-tu que je rie ? 
+DAMIS.
+De quelque endroit risible ou paraisse l'esprit. 
+LE COMTE.
+Parbleu l'endroit risible est l'endroit ou l'on rit, 
+Je le soutiens. 
+DAMIS.
+Soutiens, je suis pret d'y souscrire ; 			[145]
+Mais rit-on de l'endroit quand on rit d'y voir rire ? 
+Pour juger d'un ouvrage il faut lire... 
+LE COMTE.
+En effet ; 
+Et voit-on en lisant les grimaces qu'on fait ? 
+DAMIS.
+Cette Piece... 
+LE COMTE.
+Ma foi j'en ai fait deux lectures, 
+Mais je n'y puis trouver ces plaisantes postures, 			[150]
+Eh, parlez, depechez, vite, promptement, tot. 
+On appelle cela reciter comme il faut. 
+Verra-t-on en lisant, fut-on grand philosophe, 
+Ce que veut dire un « Ouf » qui fait la catastrophe ? 
+Baron « Ouf » ! Que dis-tu de ce « Ouf », place la ? 			[155]
+Par ma foi, cher Baron, il faut voir tout cela, 
+Viens-y tantot, mon fils, tu verras si j'impose. 
+Mais venons au voyage, et m'en apprends la cause, 
+On habille Amarante, et tu peux en deux mots... 
+DAMIS.
+Sa divine beaute m'a ravi le repos, 			[160]
+De l'oser declarer la douceur m'est permise, 
+Chacun sait qu'a Damis Amarante est promise. 
+Et depuis mon depart jusques a mon retour 
+Mille ecrits de sa main ont flatte mon amour. 
+La voici. 
+SCENE III. Amarante, Clitie, Le Comte, Damis.
+AMARANTE, a un Page.
+Demeurez pour nous donner des sieges. 			[165]
+LE COMTE.
+Notre ami le Baron est tombe dans vos pieges, 
+Comment Diable, il vous aime, et vous n'en disiez rien, 
+Finette ! 
+AMARANTE.
+Je croyais que vous le saviez bien. 
+Damis m'aime, je l'aime ; en est-ce assez ? 
+CLITIE.
+Cousine 
+Il n'appartient qu'a lui d'aimer a la sourdine ; 			[170]
+La Marquise d'Oriane a des appas si doux...
+LE COMTE.
+A propos d'Oriane, elle dine chez vous, 
+J'y dine aussi, ma chere, et je suis de la bande, 
+Sans facon. 
+AMARANTE.
+Trop d'honneur. 
+SCENE IV. Petit-Jean, Amarante, Le Comte, Damis, Clitie.
+PETIT-JEAN.
+Madame, on vous demande. 
+AMARANTE.
+Nous voulons etre seuls, retourne sur tes pas, 			[175]
+Si c'est quelque facheux dis que je n'y suis pas. 
+ORIANE.
+La voit-on, Madame ? 
+PETIT-JEAN.
+Oui, mais je crains qu'elle crie. 
+Si vous etes facheuse elle sera sortie. 
+ORIANE.
+Dis que c'est Oriane. 
+PETIT-JEAN.
+Attendez donc un peu, 
+Voila qui c'est Madame, entrera-t-elle ? 
+AMARANTE.
+O Dieu, 			[180]
+C'est Madame ! 
+ORIANE.
+Servante a ma toute adorable. 
+AMARANTE.
+Hola, qu'on se depeche et qu'on couvre la table, 
+Puisque voila Madame, il est temps de servir. 
+Chacun se sied. 
+ORIANE.
+Quel est ce gentilhomme, il est fait a ravir ? 
+AMARANTE.
+C'est le Baron Damis. 
+ORIANE.
+A qui vous devez etre, 			[185]
+Madame ? 
+AMARANTE.
+Oui, Madame. 
+ORIANE.
+Ah, je veux le connaitre. 
+DAMIS.
+N'eut ete que j'ai craint de vous etre suspect 
+J'eusse precipite l'offre de mon respect, 
+Madame, et desormais je pretends que mon zele... 
+ORIANE.
+Certes sa miniature est parfaitement belle. 			[190]
+CLITIE.
+Miniature ! Mon Dieu que ce mot est bien dit, 
+Et qu'il faut pour le dire avoir bien de l'esprit ! 
+Je suis au desespoir de ne pas le comprendre. 
+LE COMTE.
+Elle n'apercoit pas ta dentelle de Flandres, 
+Baron. 
+ORIANE.
+Oh mon Dieu fi ! Chez le monde choisi 			[195]
+Des beautes a la mode il faut etre saisi ; 
+La plus claire dentelle est la plus en usage, 
+Et le point de Venise assaisonne un visage. 
+CLITIE.
+Cousine, que Madame a de jolis detours, 
+Et que cet assaisonne assaisonne un discours ! 			[200]
+En effet, fi ! Votre ame est une malapprise ; 
+Comment, faire l'amour sans un point de Venise ! 
+DAMIS.
+Pour etre en galant homme il faut donc de ce point. 
+LE COMTE.
+Je l'ai dit, Dieu me damne, et ne m'en dedis point, 
+Il en faut pour paraitre, et de plus notre singe 			[205]
+Fait un nouveau tableau qui sera tout de linge. 
+Je ne t'en avertis que de peur d'accidents, 
+S'il te voit sur mon ame il te mettra dedans. 
+Rien n'echappe a sa plume, et dedans sa critique 
+Il n'est point de gros dos que sa langue ne pique : 			[210]
+A jouer tout le monde il a tant de penchant... 
+ORIANE.
+Hay, hay, hay ! 
+AMARANTE.
+Qu'avez-vous ? 
+ORIANE.
+Que vous etes mechant 
+Monsieur le Comte ? 
+LE COMTE.
+Moi ? 
+ORIANE.
+Je n'en puis plus, vous dis-je. 
+AMARANTE.
+Oh quelqu'un. 
+ORIANE.
+Ne bougez. 
+AMARANTE.
+J'ai peur qu'on vous neglige, 
+Un si prompt accident vous peut etre fatal. 			[215]
+ORIANE.
+Il m'a fait souvenir que je me porte mal. 
+Hier dans une visite il se trouva des Dames 
+Qu'Alcidon regala de L'Ecole des Femmes ; 
+Et qui d'intelligence avecque mon destin 
+Ne voulurent jamais en entendre la fin : 			[220]
+Comme si pour me perdre elles eussent fait pacte 
+On fit cesser la piece apres le second acte, 
+Et je ne remarquai des risibles endroits 
+Que celui de la soupe ou l'on trempe les doigts. 
+Dans un chagrin mortel ce caprice me plonge. 			[225]
+CLITIE.
+Voyez, comme les maux viennent sans qu'on y songe. 
+LE COMTE.
+Dans mon ame j'enrage. 
+AMARANTE.
+Et pourquoi ? 
+LE COMTE.
+Tout expres, 
+La Marquise y courait pour voir le « Le » d'Agnes. 
+ORIANE.
+Je l'ai vu, que je l'aime, et que j'en suis contente ! 
+Ce « Le » c'est une chose horriblement touchante ; 			[230]
+Il m'a pris « Le »... ce « Le » fait qu'on ouvre les yeux. 
+LE COMTE.
+Oui, ce « Le » Dieu me damne est un « Le » merveilleux : 
+Quand je vis que l'actrice y faisait une pose 
+Je crus que l'innocence allait dire autre chose. 
+Et le ruban, ma foi je ne l'attendais pas. 			[235]
+ORIANE.
+Et ce « Le », pour Madame eut-il beaucoup d'appats ? 
+AMARANTE.
+J'en dirais mon avis en pouvant m'en defendre, 
+Mais qui s'en ressouvient prit plaisir a l'entendre ; 
+Et moi de qui l'esprit s'en est peu soucie 
+A peine l'eus-je appris que je l'eus oublie. 			[240]
+ORIANE.
+A le revoir pour moi je serais toute prete, 
+Ce « Le » toute la nuit m'a tenu dans la tete 
+Ma chere ; aussi ce « Le » charme tous les galants. 
+LE COMTE.
+En effet, j'en vois peu qui ne donnent dedans, 
+La beaute de ce « Le » n'eut jamais de seconde. 			[245]
+CLITIE.
+Il est vrai que ce « Le » contente bien du monde ; 
+C'est un « Le » fait expres pour les gens delicats. 
+AMARANTE.
+Elle est maligne, au moins, ne vous y fiez pas. 
+Car je sais que ce « Le » lui parait detestable. 
+CLITIE.
+Il est vrai, ma Cousine, il me semble effroyable, 			[250]
+Mais ce « Le » par Madame est si bien appuye 
+Que je meurs de regret qu'il nous ait ennuye, 
+Le parti qu'elle prend est celui que j'embrasse, 
+Tout ce que dit Madame est de si bonne grace 
+Que je veux la prier de ne pas s'irriter 			[255]
+Si je fais mes efforts pour la bien imiter. 
+Sa galante facon s'insinue en mon ame. 
+ORIANE.
+Oh Madame ! 
+CLITIE.
+Oh Madame ! 
+ORIANE.
+Oh Madame ! 
+CLITIE.
+Oh Madame ! 
+ORIANE.
+Quoi me railler chez vous, Madame, ah je vois bien... 
+CLITIE.
+Vous le dites, Madame, et vous n'en croyez rien. 			[260]
+ORIANE.
+Assurement Madame... 
+CLITIE.
+Assurement... 
+LE COMTE.
+Marquise 
+Savez-vous quelles gens le matois satirise ? 
+Des Marquis. 
+DAMIS.
+Des Marquis ! Il aspire si haut... 
+LE COMTE.
+Je t'en vais montrer trois chapitres comme il faut ; 
+J'ai la clef de sa piece. 
+AMARANTE.
+Imprimee. 			[265]
+LE COMTE.
+Imprimee. 			[265]
+Oh ! Mes Laquais, Picard, Bearnois, la Ramee. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Sous la tapisserie, au-dessous du miroir 
+Tu verras cette clef, je l'y mis hier au soir ; 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je croyais, palsembleu, meriter ta croyance 
+Baron. 
+DAMIS.
+Quand une chose a si peu d'apparence... 			[270]
+LE COMTE, a son Laquais;
+Va querir cette clef, et me l'apporte ici. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Incredule Baron tu seras eclairci. 
+Mais... 
+AMARANTE.
+Mais quoi ? Du Critique on connait la coutume. 
+A ma Muse peut-etre il donne un coup de plume ; 
+Avouez ; vous riez, je le verrai bientot. 			[275]
+LE COMTE.
+« Et femme qui compose en sait plus qu'il ne faut », 
+C'est vous. 
+AMARANTE.
+C'est moi ? 
+LE COMTE.
+C'est vous. 
+AMARANTE.
+Ce n'est pas qu'il m'importe, 
+Mais l'Auteur est hardi d'en user de la sorte, 
+Il me doit du respect, il a du le savoir. 
+SCENE V. Petit-Jean, Amarante, Oriane, Clitie, Le Comte, Damis.
+PETIT-JEAN.
+Un monsieur est la-bas qui demande a vous voir,			[280]
+Madame. 
+AMARANTE.
+Quel est-il, ce Monsieur ? 
+PETIT-JEAN.
+C'est un homme. 
+AMARANTE.
+Et ne t'a-t-il pas dit comme c'est qu'on le nomme ? 
+PETIT-JEAN.
+Le Chevalier de chose... Et la... 
+AMARANTE.
+Qui Dorante ? 
+PETIT-JEAN.
+Oui. 
+AMARANTE.
+Qu'il entre. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il vous connait ? 
+DAMIS.
+Oui, Madame. 
+SCENE VI. Dorante, Damis, Amarante, Le Comte, Clitie, Oriane.
+DORANTE, voyant Damis.
+C'est lui ! 
+Oui, c'est lui ! 
+LE COMTE, a Damis.
+De te voir sa surprise est extreme. 			[285]
+DORANTE.
+Est-ce le Baron ? 
+DAMIS.
+Oui. 
+DORANTE.
+Quoi c'est toi ? 
+DAMIS.
+C'est moi-meme. 
+DORANTE.
+Comment te portes-tu, vieil ami ? touche-la. 
+Tu viens incognito voir l'objet que voila ? 
+DAMIS.
+Il est vrai. 
+DORANTE.
+Dieu me damne il est beau comme un ange. 
+Cet objet. 
+AMARANTE.
+Chevalier, mon Dieu, point de louange, 			[290]
+Un homme comme vous Critique au dernier point 
+Fait assez de plaisir quand il ne medit point. 
+La critique est blamable apres tout, et j'avoue... 
+DORANTE.
+Ce que vous blamez la, tout le monde le loue, 
+Il est vrai, je critique, et je m'en trouve bien, 			[295]
+De bien faire ma Cour c'est l'unique moyen ; 
+La Satire est en regne et le point de Venise, 
+Et le reste on le nomme une pure sottise. 
+DAMIS.
+Et pour plaire a present il ne faut en ce cas... 
+DORANTE.
+Que de la medisance, et de riches rabats. 			[300]
+Je plais aussi, Dieu sait. 
+DAMIS.
+Toi, plais-tu ? Chose vraie. 
+DORANTE.
+Si je plais ! Ce Collet est le moindre que j'aie, 
+J'ai ma foi chez le Roi de secrets ennemis 
+Mutines contre moi de me voir si bien mis : 
+Moi qui vois leur envie, et qui sais leur betise 			[305]
+J'achete si souvent quelque point de Venise 
+Que pour mieux les punir d'avoir cru m'outrager 
+Je me ruine expres pour les faire enrager, 
+Dieu me damne. Vois donc si je plais. Pour medire 
+Tu te peux informer si Dorante s'en tire. 			[310]
+On me craint, sur mon ame, et je passe en tous lieux 
+Pour un des Courtisans qui critiquent le mieux : 
+Mais aussi, je frequente et je joue a la paume 
+Avec le medisant le meilleur du Royaume : 
+Le compere vous drape, et vous mord en riant, 			[315]
+C'est de nos courtisans le demon foudroyant, 
+Il les pique ! 
+AMARANTE.
+A la fin craint-il point qu'on s'en choque ? 
+J'en sais un enrage dont souvent il se moque ; 
+A son meilleur ami je veux bien l'avouer. 
+DORANTE.
+J'en sais vingt trop heureux de se laisser jouer : 			[320]
+Oui, j'en sais de ravis qu'on leur fasse la guerre ; 
+Temoins trois l'autre jour qu'on nommait du Parterre, 
+Et qui dans une Loge ou chacun les voyait 
+Riaient comme des fous de ce qu'on les jouait. 
+Aussi loin qu'au Critique aucune ame s'oppose 			[325]
+Aussi doux que du lait il faut boire la chose ; 
+On ne peut l'attaquer sans en etre marri ; 
+De tous nos Turlupins c'est un homme cheri ; 
+Contre qui que ce soit ils prendront sa defense. 
+DAMIS.
+Et ces sortes de gens vous imposent silence ? 			[330]
+Ce que Paris peut-etre a de plus odieux, 
+Des Turlupins... 
+LE COMTE.
+Baron, tu pourrais parler mieux, 
+J'en suis un. 
+DAMIS.
+Qui toi ? 
+LE COMTE.
+Moi. 
+DAMIS.
+Mais l'Ami, tu te blames. 
+LE COMTE.
+Et oui, oui. Dans la Clef de L'Ecole des Femmes 
+Tu verras qui de nous a le plus de raison ; 			[335]
+Je suis le Turlupin de la moindre Maison, 
+Tous les autres... Mais tiens, mon Laquais me l'apporte. 
+SCENE VII. La Ramee, Le Comte, Damis, Amarante, Dorante, Clitie, Oriane.
+LA RAMEE, au Comte.
+Je n'ai point vu de Clef que la clef de la porte. 
+LE COMTE.
+Peste le sot. 
+DAMIS.
+Sait-il ce que c'est que cela ? 
+LE COMTE.
+Je te jure Baron qu'elle est en ce lieu-la. 			[340]
+LA RAMEE.
+Je gage que non. 
+LE COMTE.
+Paies. 
+DAMIS.
+Crois-moi, Comte, allons, gage ! 
+LE COMTE.
+L'un de nous deux, Laquais, est un sot personnage. 
+LA RAMEE.
+Ce n'est pas moi, Monsieur. 
+LE COMTE.
+Tais-toi donc, s'il te plait. 
+La Marquise l'a lue, elle sait ce que c'est. 
+AMARANTE.
+Mais parlez de sa Piece, et soyez equitable, 			[345]
+Que vous en semble ? 
+DORANTE.
+A moi ? Je la trouve admirable. 
+Comment la trouves-tu, Comte ? 
+LE COMTE.
+Admirable. 
+DORANTE.
+Et vous ? 
+ORIANE.
+Admirabilissime.
+AMARANTE.
+Entre nous ? 
+DORANTE.
+Entre nous. 
+AMARANTE.
+Mais la, sans vous trahir, la trouvez-vous passable ? 
+DORANTE.
+Admirable, Monsieur, du dernier admirable. 			[350]
+DAMIS.
+Je puis, sans l'avoir vue en dire autant que toi ; 
+Quand on loue une Piece il faut dire pourquoi, 
+Et tu dois nous donner une raison valable. 
+DORANTE.
+Par plus de vingt raisons je la trouve admirable. 
+CLITIE.
+Par plus de trente. 
+DAMIS.
+Ecoute, on te croit si tu veux, 			[355]
+Mais de tant de raisons j'en dirais une, ou deux. 
+DORANTE.
+Te dirai-je pourquoi je la trouve admirable, 
+Parce que cette Piece est admirable. 
+LE COMTE.
+Diable ! 
+Ta raison est bonne. 
+CLITIE.
+Ah ! 
+ORIANE.
+J'allais le dire aussi. 
+DORANTE.
+Il s'en faut rapporter a Monsieur que voici, 			[360]
+C'est un Auteur. 
+SCENE VI.I. Lisidor, Amarante, Dorante, Damis, Oriane, Le Comte, Clitie.
+DORANTE, a Lisidor.
+Mon cher, pour contenter ces Dames 
+Donnez-nous votre avis sur L'Ecole des Femmes : 
+Vous verrez si la Piece a pour lui des appats. 
+AMARANTE.
+Oui, jugez-en. 
+LISIDOR.
+Madame, on ne m'en croirait pas ; 
+Et puis, d'en bien juger je ne suis pas capable. 			[365]
+DAMIS.
+Ah, Monsieur Lisidor vous etes un fin Diable, 
+Au succes de l'Auteur vous prenez trop de part. 
+AMARANTE.
+Point, Monsieur Lisidor est un homme sans fard. 
+J'en croirai bonnement ce qu'il en voudra dire. 
+On deteste sa Piece, et chacun la dechire ; 			[370]
+Pour moi qui n'y vois rien que de bien assorti 
+Contre tous ces Messieurs je soutiens son parti. 
+Ils ont beau l'abhorrer je la trouve admirable. 
+LISIDOR.
+Votre parti, Madame est le plus raisonnable. 
+Ce que vous soutenez tout Paris le soutient. 			[375]
+DORANTE.
+Bon, ma foi, c'est bien fait la Connaisseuse en tient. 
+LE COMTE.
+Comme tu dis, bon. 
+CLITIE.
+Bon. 
+AMARANTE.
+J'en parais peu marrie. 
+DORANTE.
+Il vous vient de payer de votre raillerie. 
+Le Seigneur Lisidor est un homme d'esprit. 
+DAMIS.
+Mais Monsieur Lisidor doit prouver ce qu'il dit. 			[380]
+AMARANTE.
+S'il l'a fait trouver bonne il sera fort habile. 
+LISIDOR.
+En verite, Madame, il n'est rien si facile. 
+Jamais scene plaisante eut-elle tant d'appats 
+Que la Scene d'Arnolphe a qui l'on n'ouvre pas ? 
+N'a-t-on pas pour Alain une estime secrete 			[385]
+Quand pour ouvrir la porte il appelle Georgette ? 
+DORANTE.
+Ah, ah, ah. 
+LE COMTE.
+Quel Compere ! 
+DORANTE.
+Il entend son metier. 
+ORIANE.
+A miracle. 
+CLITIE.
+A merveille. 
+AMARANTE.
+Il faut... 
+DORANTE.
+Point de quartier, 
+Allons, Allons. 
+LISIDOR.
+Ensuite, Est-il rien qui ne plaise 
+Dans ce que dit Arnolphe a la fille niaise ? 			[390]
+Rien de plus innocent se peut-il faire voir ? 
+Il arrive des champs, et desire savoir 
+Si durant son absence elle s'est bien portee ; 
+« Hors les Puces la nuit qui m'ont inquietee » 
+Repond Agnes. Voyez ce qu'elle adresse a l'auteur, 			[395]
+Comme il sait finement reveiller l'auditeur. 
+De peur que le sommeil ne s'en rendit le maitre 
+Jamais plus a propos vit-on puces paraitre ? 
+D'aucun trait plus galant se peut-on souvenir ? 
+Et ne dormait-on pas qu'il n'en eut fait venir ? 			[400]
+DORANTE.
+Tudieu ! 
+LE COMTE.
+C'est raisonner. 
+ORIANE.
+Divinement. 
+CLITIE.
+Courage. 
+DORANTE.
+Diable ! Qu'un tel ami fait valoir un ouvrage ! 
+LE COMTE.
+Je t'en reponds. 
+LISIDOR.
+Le Gres, n'est-il pas etonnant ? 
+Voit-on rien de si preste, et de si surprenant ? 
+Aucun des auditeurs osait-il se promettre 			[405]
+Qu'Agnes sut seulement ce que c'est qu'une lettre ? 
+Et pour la lettre seule ou l'on voit tant d'amour 
+Faut-il pas que l'auteur ait reve plus d'un jour ? 
+Cependant dans une heure une innocente extreme 
+La compose, l'ecrit, et la rend elle-meme, 			[410]
+Quoi qu'Arnolphe l'eclaire avec un oeil percant ; 
+Un pareil procede n'est-il pas innocent ? 
+Lui voit-on dementir son niais caractere ? 
+DORANTE.
+Oh, oh, Comte ! 
+LE COMTE.
+La peste ! 
+ORIANE.
+On ne saurait mieux faire. 
+CLITIE.
+Je le crois. 
+DAMIS.
+Mais Dorante il pouvait s'affranchir... 			[415]
+DORANTE.
+He Baron ! 
+DAMIS.
+Si... 
+DORANTE.
+Ma foi, tu ne fais que blanchir. 
+Pres d'un homme si docte on fait mieux de se taire. 
+LISIDOR.
+Est-il rien de si beau que l'endroit du Notaire ? 
+Et cet endroit charmant qu'on a tant admire 
+Avec tout l'Art possible est-il pas digere ? 			[420]
+Le petit Dialogue est d'une adresse extreme ; 
+Car ce que dit Arnolphe il le dit en lui-meme, 
+Et les moins delicats sont d'accord de ce point 
+Qu'on ne peut pas repondre a ce qu'on n'entend point ; 
+Cependant par un jeu dont l'eclat doit surprendre 			[425]
+L'un ne veut pas repondre a ce qu'il doit entendre ; 
+Et pour des deux cotes faire voir des appats. 
+L'autre repond sans peine a ce qu'il n'entend pas. 
+DORANTE.
+C'est tout dire. 
+LE COMTE.
+Fort bien. 
+CLITIE.
+Vivat. 
+ORIANE.
+Il extasie. 
+DORANTE.
+Le Seigneur Lisidor comme il se mortifie. 			[430]
+AMARANTE.
+Je pourrais lui repondre, et je crois entre nous... 
+DORANTE.
+Dieu me damne, Madame, il en sait plus que vous, 
+Des raisons qu'il vous dit nulle n'est contestable. 
+LISIDOR.
+Enfin le denouement n'est-il pas admirable ! 
+Le voyage d'Oronte est-il pas assure ? 			[435]
+Et le retour d'Enrique est-il pas prepare ? 
+Vous m'allez alleguer que touchant cet Enrique 
+On le tire aux cheveux pour quitter l'Amerique ; 
+Et que durant la Piece en aucun des endrets 
+On ne s'apercoit point qu'il soit pere d'Agnes ; 			[440]
+Mais il n'est point d'auteurs dont la plume m'apprenne 
+Que dans ce qu'on attend il n'est rien qui surprenne ; 
+Au contraire on croit beau ce qu'on trouve etonnant ; 
+Et ce qu'on n'attend pas est toujours surprenant. 
+DORANTE.
+De s'en mieux demeler je depite le Diable. 			[445]
+LE COMTE.
+Repondez, Madame. 
+DORANTE.
+Elle ! Il est insurmontable. 
+ORIANE.
+Il oublie un endroit effroyablement bon 
+Ou l'on parle d'Agnes qui joue au Corbillon ; 
+Pour moi quand je l'ouis mon plaisir fut extreme. 
+DORANTE.
+Vous verrez sur ma foi, que c'est « Tarte a la creme ». 			[450]
+ORIANE.
+Oui, c'est « Tarte a la creme », et je l'aime d'amour. 
+LE COMTE.
+Parbleu « Tarte a la creme » a fait bruit a la Cour. 
+DORANTE.
+Pour moi, je ne vois rien qui me charme de meme. 
+AMARANTE.
+Qu'y trouvez-vous de beau ? 
+DORANTE.
+Moi ? Rien. « Tarte a la creme » 
+Madame. 
+AMARANTE.
+Il faut repondre, et je voudrais du moins 			[455]
+Que de bonnes raisons appuyassent mes soins, 
+Car enfin pour l'auteur votre zele est extreme. 
+DORANTE.
+« Tarte a la creme ». 
+DAMIS.
+Ami, tu dois... 
+DORANTE.
+« Tarte a la creme » 
+Ami. 
+AMARANTE.
+Quoi qu'il en pense il nous doit etre egal, 
+Il aime trop l'auteur pour en dire du mal. 			[460]
+DORANTE.
+Je soutiens, sans l'aimer, quoi que l'envie oppose 
+Que sa Piece tragique est une belle chose. 
+AMARANTE.
+Sa Piece tragique ? 
+DORANTE.
+Oui. 
+LE COMTE.
+Sa piece tragique ? 
+DORANTE.
+Oui. 
+AMARANTE.
+Je n'ai jamais rien vu de tragique de lui. 
+LE COMTE.
+Ni moi. 
+LISIDOR.
+Ni moi. 			[465]
+ORIANE.
+Ni moi. 			[465]
+DORANTE.
+Qu'est-ce qu'il represente ? 			[465]
+AMARANTE.
+Nommez-vous Tragedie une piece plaisante ? 
+DAMIS.
+Tu te moques de nous, Chevalier. 
+DORANTE.
+Pourquoi ? 
+DAMIS.
+Bon ; 
+Appelle-t-on tragique un poeme bouffon ? 
+DORANTE.
+Vous blamez justement ce qu'il faut qu'on admire, 
+Quoi, Morbleu du tragique ou l'on creve de rire, 			[470]
+C'est cela qu'on appelle un melange d'appas. 
+AMARANTE.
+Mais le tragique est noble, et n'a rien de si bas. 
+DORANTE.
+Mais je sais le Theatre, et j'en lis la Pratique ; 
+Quand la scene est sanglante une piece est tragique. 
+LE COMTE.
+Oui. 
+LISIDOR.
+Sans doute. 			[475]
+ORIANE.
+Il est vrai. 			[475]
+DAMIS.
+Sans contredit. 			[475]
+AMARANTE.
+D'accord. 			[475]
+DORANTE.
+Dans celle que je dis, « Le petit Chat est mort ». 
+LE COMTE.
+C'est le bien prendre ! 
+LISIDOR.
+Oh, oh ! 
+ORIANE.
+Sa remarque est certaine. 
+DAMIS.
+Quoi ? Le trepas d'un chat ensanglante la scene ? 
+AMARANTE.
+Dans une tragedie un Prince meurt, un Roi. 
+DORANTE.
+« Nous sommes tous mortels, et chacun est pour soi », 			[480]
+Et je tiens qu'une piece est egalement bonne. 
+Quand un matou trepasse, ou quelque autre personne. 
+LE COMTE.
+Tu sais le theatre ! 
+LISIDOR.
+Oui. 
+ORIANE.
+Son langage est profond. 
+DAMIS.
+Mais... 
+LE COMTE.
+Mais reponds, reponds, reponds, reponds, reponds. 
+DAMIS.
+Quoi... 
+LE COMTE.
+Reponds donc Baron. 			[485]
+DAMIS.
+Tu penses me confondre, 			[485]
+Et tu crois... 
+LE COMTE.
+Par ma foi, tu ne saurais repondre. 
+DAMIS.
+Je ne le puis de vrai tant que tu parleras, 
+Mais enfin si... 
+LE COMTE.
+Ma foi, si tant que tu voudras. 
+Sa raison... 
+AMARANTE.
+Sa raison est aisee a combattre. 
+DORANTE.
+Il est vrai que l'auteur n'entend pas le theatre. 			[490]
+AMARANTE.
+Mais ce n'est pas l'entendre, apres tout. 
+DORANTE.
+Oh que non ; 
+Quand un homme en burlesque a su faire un sermon, 
+Il me semble pourtant qu'on n'est pas malhabile ; 
+L'Auteur prend l'agreable, et le joint a l'utile ; 
+A ce que veut le peuple il se rend complaisant ; 			[495]
+Et le force de rire en le catechisant. 
+LE COMTE.
+Tudieu ! Tu l'entends. 
+LISIDOR.
+Oh. 
+DAMIS, a Dorante.
+Tu n'as rien dit qui vaille. 
+DORANTE.
+Pourquoi Baron ? 
+AMARANTE.
+Pourquoi ? Retournons la medaille. 
+Outre qu'un Satirique est un homme suspect, 
+Au seul mot de Sermon nous devons du respect : 			[500]
+C'est une verite qu'on ne peut contredire ; 
+Un Sermon touche l'ame, et jamais ne fait rire ; 
+De qui croit le contraire on se doit defier ; 
+Et qui veut qu'on en rie en a ri le premier. 
+LE COMTE.
+C'est mal repondre ! 
+LISIDOR.
+Puth. 			[505]
+DORANTE.
+Pitoyable critique ! 			[505]
+DAMIS.
+Dites donc ce que c'est que d'etre satirique ? 
+DORANTE.
+Que d'etre Satirique ? 
+DAMIS.
+Oui. 
+DORANTE.
+C'est satiriser. 
+AMARANTE.
+Oui, mais satiriser c'est railler ; mepriser ; 
+Ainsi pour l'obliger quoi que vous puissiez dire, 
+Votre ami du Sermon nous a fait la Satire ; 			[510]
+Et de quelque facon que le sens en soit pris, 
+Pour ce que l'on respecte on n'a point de mepris. 
+LE COMTE.
+Bagatelle ! 
+DAMIS.
+Mais Comte, apres tout je m'engage... 
+LE COMTE.
+Je serais bien fache de t'ouir davantage, 
+Tu m'as trop fatigue par tes sottes raisons. 			[515]
+AMARANTE.
+Il ne peut rien repondre a ce que nous disons ; 
+Mais Dorante sait bien qu'on ne peut mettre en doute. 
+DORANTE.
+Moi ; Je n'ecoute pas si le Comte n'ecoute. 
+DAMIS, au Comte.
+Tu sais... 
+LE COMTE.
+Je n'entends pas. 
+AMARANTE, a Dorante.
+Je crois... 
+DORANTE.
+Ni moi non plus. 
+DAMIS, au Comte.
+Mais... 
+LE COMTE, chante.
+La, la, la, la, la, lare, la, la, la, la, la, la.
+AMARANTE, a Dorante.
+Quoi... 			[520]
+DORANTE, chante aussi.
+La, la, la, la, lare, la, la, la, la, la, la.
+DAMIS, au Comte.
+Si... 			[520]
+LE COMTE.
+La, la, la, la, la, lare, la, la, la, la, la, la, la, la.
+AMARANTE, a Dorante.
+Vous... 			[520]
+DORANTE.
+La, la, la, lare, la, la, la, la, la, la, la, la, la, la.
+DAMIS.
+Ma foi vous me rendez confus. 			[520]
+AMARANTE.
+Pour moi, je les ecoute, et je les etudie, 
+Car il faut de ceci faire une Comedie ; 
+Je crois que dans son genre elle aurait ses appats. 
+DORANTE.
+A ce dessein, ma foi, je ne m'oppose pas, 
+Car je sais que mon role y serait raisonnable. 			[525]
+ORIANE.
+Le mien y serait court, mais assez agreable. 
+LISIDOR.
+Et le mien, ce me semble y serait assez bon. 
+LE COMTE.
+Pour Damis, a merveille il ferait le bouffon, 
+La Sottise en sa bouche est placee en son centre. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous savez composer, travaillez-y. 
+AMARANTE.
+Moi ? Diantre, 			[530]
+Je n'ai garde. 
+DORANTE.
+Et qui donc, la fera comme il faut ? 
+AMARANTE.
+Un garcon que je sais qu'on appelle Boursault... 
+LE COMTE.
+Je le connais, Pecore. 
+DAMIS.
+Il est bien chez la Muse. 
+LE COMTE.
+Il s'amuse a la Muse, et la Muse l'amuse. 
+AMARANTE.
+Mais les vers de Boursault sont assez bien choisis. 			[535]
+LE COMTE.
+Je le soutiens, Madame, un Butor parisis, 
+Une grosse pecore, une pure mazette. 
+DAMIS.
+Mais ou la jouerait-on quand Boursault l'aurait faite ? 
+AMARANTE.
+A l'Hotel de Bourgogne, ou les plus delicats... 
+DORANTE.
+Ah, Je vous promets bien qu'on ne l'y jouera pas : 			[540]
+Le Critique est a craindre, on a peur qu'il n'eclate, 
+Et l'Hotel de Bourgogne a passe sous sa patte. 
+S'ils etaient avises de vouloir le bourrer, 
+Ou les pauvres acteurs pourraient-ils se fourrer ? 
+Toute la Normandie a-t-elle assez de pommes 			[545]
+Pour jeter a la tete a ces malheureux hommes ? 
+Ils ne le feront pas, je te le dis encor, 
+Dieu me damne. 
+DAMIS.
+Ecoutez, je connais Floridor, 
+Je prendrai son avis si cela se peut faire, 
+Et je vous l'enverrai s'il vous est necessaire. 			[550]
+Un petit denouement est utile a cela, 
+Que faire ? 
+SCENE VIII, et DERNIERE. Petit-Jean, Amarante, Le Comte, Damis, Dorante, Lisidor, Oriane, Clitie.
+PETIT-JEAN.
+On a servi, Madame. 
+AMARANTE.
+Le voila, 
+Je le donne a l'epreuve au plus grand Satirique, 
+C'est de cette facon que finit la Critique, 
+Et les plus degoutes trouveront des appats 			[555]
+Quand apres du comique ils auront un repas. 
+
+	==================================================

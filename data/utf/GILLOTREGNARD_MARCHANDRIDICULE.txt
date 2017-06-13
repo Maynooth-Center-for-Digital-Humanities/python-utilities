@@ -1,0 +1,183 @@
+********************************************************
+	DC.Title                  = LE MARCHAND RIDICULE, COMEDIE
+	DC.Author                 = GILLOT REGNARD
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:19.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/GILLOTREGNARD_MARCHANDRIDICULE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE MARCHAND RIDICULE COMEDIE EN UN ACTE1695
+par Gillot et Regnard
+	
+	
+	Representee pour la premiere fois en fevrier 1695 a la Foire Saint-Germain.
+	PERSONNAGES.
+MONSIEUR LE MARQUIS.
+POLICHINELLE, valet du marchand.
+JANBROCHE, marchand de drap.
+Mademoiselle JANBROCHE, la fille du marchand.
+PIERROT, valet de Janbroche.
+LE COMPERE.
+La scene est dans une boutique de la Foire Saint-Germain.
+
+
+
+			
+
+
+SCENE I. Janbroche, Le Compere.
+JANBROCHE, au Compere. 
+Monsieur, je suis votre serviteur. Pourriez-vous me faire un plaisir ?
+LE COMPERE.
+Quel plaisir voulez-vous de moi ? 
+JANBROCHE.
+Je voudrais bien vous prier de garder ma boutique et surtout ma fille.
+LE COMPERE.
+Monsieur, d'un tel embarras je ne me soucie point : mais vous avez votre domestique Pierrot ; qui fera votre affaire. 
+JANBROCHE.
+Vous etes bien peu complaisant. Je vais donc appeler mon domestique. Pierrot, hola, Pierrot. 
+SCENE II. Janbroche, Pierrot.
+PIERROT.
+Monsieur, qu'y a-t-il pour votre service ? 
+JANBROCHE.
+Il faut que tu representes ma personne, et que tu sois l'econome de ma maison.
+PIERROT.
+Ma foi, monsieur, je ne puis servir de colonne a votre batiment. 
+JANBROCHE.
+C'est de garder ma boutique, et d'avoir soin surtout de ma fille. 
+PIERROT.
+Ma foi, Monsieur, je veux bien me charger de garder votre boutique, et non pas votre fille, parce que c'est une marchandise qui est comme de l'eau de la reine de Hongrie ; sitot qu'on la laisse eventer, la saveur s'en va : une fille est de meme. Ainsi, monsieur, vous pouvez bien la garder vous-meme. 
+JANBROCHE.
+Va, va, maraud que tu es : va dire a ma fille qu'elle vienne me parler. 
+PIERROT.
+Monsieur, je m'en vais dans l'instant.
+SCENE III. Janbroche, Mademoiselle Janbroche.
+MADEMOISELLE JANBROCHE.
+Que souhaitez-vous, mon cher pere. 
+JANBROCHE.
+Ma fille, approchez quand je vous parle ; je vais partir pour aller en marchandise chercher des draps qui me manquent, et je veux que dans ma boutique il ne soit rien vendu en mon absence. 
+MADEMOISELLE JANBROCHE.
+Cela paraitra tout a fait ridicule. 
+JANBROCHE.
+C'est a cause de cela que l'on m'appelle le marchand ridicule. 
+MADEMOISELLE JANBROCHE.
+Mais, mon cher pere, de quelle facon voulez-vous que je renvoie les marchands ? 
+JANBROCHE.
+Ma fille, quand il viendra quelque marchand vous demander du drap, et qui vous dira : mademoiselle, n'auriez-vous pas un beau drap d'Hollande a me vendre ? Il faut lui repondre : vraiment nenni, monsieur ; par la vous conserverez votre honneur et votre reputation. 
+MADEMOISELLE JANBROCHE.
+Cela suffit, mon cher pere, je n'y manquerai pas. 
+JANBROCHE.
+Adieu, ma petite fille. 
+MADEMOISELLE JANBROCHE.
+Adieu, mon cher papa.
+SCENE IV. Monsieur le Marquis, Polichinelle.
+MONSIEUR LE MARQUIS.
+Dis-moi, coquin, depuis le temps que je te cherche, d'ou viens-tu ?
+POLICHINELLE.
+Ma foi, monsieur, j'etais a la garde-robe a faire des vers. 
+MONSIEUR LE MARQUIS.
+Comment, impertinent, est-ce la une place pour faire des vers ?
+POLICHINELLE.
+Mais, Monsieur, chacun se met ou il peut. Que voulez-vous de moi ? 
+MONSIEUR LE MARQUIS.
+Il faut que tu t'en ailles tout a l'heure de ma part chez Janbroche, mon marchand ordinaire, me chercher tout l'equipage d'un gentilhomme.
+POLICHINELLE.
+Mais, monsieur, sans trop de curiosite, pour quelle occasion ? 
+MONSIEUR LE MARQUIS.
+C'est que je suis sur le point de me marier. 
+POLICHINELLE.
+Mais, monsieur, que ne vous mettez-vous sur la dentelle, cela est plus propre que le point. 
+MONSIEUR LE MARQUIS.
+Animal que tu es, ce n'est pas cela : je veux prendre une femme. 
+POLICHINELLE.
+Ah ! Monsieur, je vous entends : c'est que, comme vous savez que j'ai besoin de femme, vous en prenez pour moi et pour vous ?
+MONSIEUR LE MARQUIS.
+Impertinent que tu es, sache que si je prends une femme, que ce n'est point pour un impertinent comme toi, et que c'est pour moi.
+POLICHINELLE.
+Eh bien, monsieur, si en tout cas elle se perd, vous la pouvez cherchez tout seul. 
+MONSIEUR LE MARQUIS.
+Ca, ca, point tant de verbiage, fais ma commission au plus vite. 
+POLICHINELLE.
+Mais, monsieur, ou demeure-t-il ? 
+MONSIEUR LE MARQUIS.
+Tiens, voila sa porte, marche. 
+POLICHINELLE.
+Cela est bon, monsieur, j'y vais. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Va, va, compere, je m'en vais ferrer la mule. 
+LE COMPERE.
+Mais comment veux-tu ferrer la mule. On ne t'a pas donne de l'argent ? 
+POLICHINELLE.
+Tu as encore raison, je m'en vais, l'appeler...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, monsieur, vous ne m'avez point donne de l'argent ? 
+MONSIEUR LE MARQUIS.
+Va, va, c'est mon marchand ordinaire, je ne paye qu'a l'annee. 
+POLICHINELLE.
+Bon ; nous voila pas mal : je comptais ferrer la mule, et je ne ferrerai pas seulement le bourriquet.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. Mademoiselle Janbroche, Polichinelle.
+POLICHINELLE, saluant mademoiselle Janbroche.
+Monsieur Janbroche, je suis votre serviteur. 
+LE COMPERE.
+Impertinent que tu es, ne vois-tu pas que c'est mademoiselle sa fille ? 
+POLICHINELLE.
+Eh bien ! J'embrasserai mieux la fille que le pere. Mademoiselle, avez-vous du drap de Hollande ? 
+MADEMOISELLE JANBROCHE.
+Vraiment nenni, monsieur. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vraiment nenni, monsieur... 
+SCENE VI. Janbroche, Le Compere.
+Janbroche revient de son voyage, et demande au compere ce qui s'est passe chez lui durant son absence.
+LE COMPERE.
+Ma foi, monsieur, je n'en sais rien, et vous pouvez appeler votre domestique Pierrot. 
+JANBROCHE.
+Pierrot ! 
+SCENE VII. Janbroche, Pierrot.
+PIERROT.
+Monsieur, depuis que je ne vous ai vu, il y a bien des nouvelles. 
+JANBROCHE.
+Qu'est-ce que c'est que ces nouvelles ? 
+PIERROT.
+C'est que les males couchent avec les femelles. 
+JANBROCHE.
+Bete que tu es : de tout temps cela a ete, et de tout temps cela sera. 
+PIERROT.
+He bien, monsieur, puisqu'il faut que cela soit, je vous dirai qu'il y a un gros garcon couche avec mademoiselle votre fille.
+JANBROCHE, voulant frapper Pierrot. 
+Comment ! Un garcon couche avec ma fille ! Me voila perdu d'honneur et de reputation. 
+PIERROT.
+Mais, monsieur... mais, monsieur, laissez divertir la jeunesse. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Janbroche, Polichinelle.
+POLICHINELLE.
+Mais, monsieur, rendez-moi donc ma culotte.
+JANBROCHE, repoussant Polichinelle, et lui donnant des coups de baton. 
+Tiens, voila ta culotte. 
+SCENE IX. Mademoiselle Janbroche, Polichinelle.
+MONSIEUR LE MARQUIS, au Compere.
+Monsieur, dites-moi un peu, n'auriez-vous pas vu mon coquin de domestique ? 
+POLICHINELLE.
+Monsieur, me voila.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)POLICHINELLE, a genoux. 
+Ah ! Monsieur, si vous allez crever le baril a la moutarde, elle va vous sauter aux yeux. 
+MONSIEUR LE MARQUIS.
+Malheureux : Dans quel equipage es-tu ? 
+POLICHINELLE.
+En m'allant baigner, des petits fripons, monsieur, m'ont vole ma culotte. 
+MONSIEUR LE MARQUIS.
+Maraud, si tu ne me dis la verite, je te vais rouer de coups de baton dans l'instant. 
+POLICHINELLE.
+Monsieur, tenez, ne vous mettez pas en colere. Je vais vous dire la verite ; comme la fille de Monsieur Janbroche avait peur, elle m'a prie d'aller coucher avec elle, et moi, fort obligeant, je n'ai pu la refuser. 
+MONSIEUR LE MARQUIS.
+Va, va, tu es un malheureux, il faut que tu l'epouses. 
+POLICHINELLE.
+Bon, bon, tant mieux, voila mon affaire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+	==================================================

@@ -1,0 +1,101 @@
+********************************************************
+	DC.Title                  = ORPHEE, OU ARLEQUIN AUX ENFERS, DIVERTISSEMENT.
+	DC.Author                 = FUZELIER, Louis
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:19.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/FUZELIER_ORPHEE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+ORPHEE, OU ARLEQUIN AUX ENFERS DIVERTISSEMENT QUI a ete joue ensuite du Pedant le samedi douze Septembre 1711.M. DCC. XI.
+
+	De l'Imprimerie de G. VALLEYRE, rue S. Jacques, a la ville de Riom.
+	
+	Representee pour la premiere fois a la Foire Saint-Laurent, le 12 septembre 1711.
+	ACTEURS
+ARLEQUIN.
+SCARAMOUCHE.
+PLUTON.
+PROSEPINE.
+SUITE INFERNALE.
+UN CHINOIS.
+SUITE DU CHINOIS.
+TROUPE DE SONGES.
+DEUX FURIES.
+CERBERE.
+MONSTRES DE L'ENFER.
+UN ROMAIN.
+UN INTENDANT.
+La Scene est aux Enfers.
+
+
+
+			
+
+
+SCENE I.
+Le theatre represente une montagne : et dans le fond une bouche d'Enfer. Arlequin sort de la montagne et s'endort sur un gazon, plusieurs songes agreables voltigent autour de lui et font un ballet ; et un des songes presente ce couplet, sur l'air : « Ici chacun s'engage ».
+UN DES SONGES.
+L'amour est une rage
+Ou plutot un poison,
+Qui par son feu volage
+Nous ote la raison.
+Fuyez cet esclavage			[5]
+Fatal a tant d'epoux,
+Restez dans le veuvage,
+Il n'est rien de si doux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE II.
+Le Vaudeville chante, il decoche une de ses fleches a Arlequin et ensuite s'envole.
+SCENE III.
+Arlequin s'eveille en baillant, il fait plusieurs lazzi sur ce qu'il a vu en songe, et ensuite il presente ce couplet, sur l'air : « Tout cela m'est indifferent ».
+[ARLEQUIN].
+Si je reprends ma femme helas !
+Quels caquets ne fera-t-on pas ?			[10]
+Otons cela de notre tete :
+Car si l'on dit que c'est mal fait,
+J'ai ma reponse toute prete,
+C'est que tout le monde le fait.
+SCENE IV.
+Scaramouche arrive. Arlequin le prie de venir aux Enfers ou il veut aller pour y reprendre sa femme. Scaramouche hesite d'y descendre ; mais a la fin y ayant consenti, ils se deshabillent, et jettent leurs hardes dans le trou. Dans le temps qu'ils veulent sauter dans l'Enfer, Cerbere sort environne de flammes avec deux Furies, et veut devorer Arlequin qui les charme par sa lyre, et plusieurs autres monstres de l'Enfer. Arlequin fait plusieurs jeux de theatre avec les Monstres, ce qui finit cette scene.
+SCENE V.
+Le theatre change et represente le Palais de Pluton. Arlequin et Scaramouche veulent y entrer, un Ours les en empeche : ce qui donne lieu a ce couplet, sur l'air de Grimaudin.
+[ARLEQUIN].
+Ce vilain Suisse fait connaitre			[15]
+A tous venants,
+Qu'on ne parle point de son maitre
+Que par argent,
+Cette inexorable rigueur
+Sent l'apprentif Agioteur.			[20]
+SCENE VI.
+Arlequin charme le Suisse par sa lyre, Proserpine qui l'entend, et qui en est charmee fait ouvrir une porte : elle parait sur son trone a cote de Pluton et entouree de sa Cour infernale. Arlequin montre ce couplet, sur l'air « Des folies d'Espagne ».
+ARLEQUIN.
+Pour Colombine ici l'amour m'amene,
+Loin de ses yeux je souffre extremement ;
+Deesse helas, pour soulager ma peine
+Je ne voudrais que la voir un moment.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE DERNIERE.
+Un Chinois arrive en Enfer poste sur un brancard, il est bien recu par Pluton : la suite du Chinois forme une entree des plus comiques. Pluton dit a Arlequin de jouer quelque air sur sa lyre, Arlequin fait mille lazzi devant le Chinois. Un Romain et un Intendant viennent entendre Arlequin et se moquent de lui. Arlequin repond au Romain, sur l'air « Des folies d'Espagne ».
+ARLEQUIN.
+Trop orgueilleux Romains que je deteste,			[25]
+Qui paraissez dans le ravissement,
+Si ce n'etait ma femme, je proteste,
+Je ne jouerais plus de cet instrument.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCARAMOUCHE.
+Dites-moi Monsieur l'intendant,
+Auriez-vous fait tant le fendant,			[30]
+Si vous n'aviez pas comme un traitre
+Prete l'argent de votre Maitre
+A grosse usure a vos amis
+Comme font d'autres dans Paris?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+	==================================================

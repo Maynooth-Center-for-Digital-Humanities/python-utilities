@@ -1,0 +1,1035 @@
+********************************************************
+	DC.Title                  = L'EPREUVE, COMEDIE.
+	DC.Author                 = MARIVAUX
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 06/05/2016 a 13:10:45.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/MARIVAUX_EPREUVE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'EPREUVE COMEDIE EN UN ACTE ET EN PROSEM. DCC. XL. avec APPROBATION et PRIVILEGE DU ROI.
+Par M. D***
+	A PARIS, Chez F. G. MERIGOT, Quai des Augustins, a la descente du Pont Saint Michel, a Saint Louis.
+	
+	representee pour la premiere fois par les comediens Italiens le 19 novembre 1740.
+	ACTEURS.
+MADAME ARGANTE.
+ANGELIQUE, sa fille.
+LISETTE, suivante.
+LUCIDOR, amant d'Angelique.
+FRONTIN, valet de Lucidor.
+MAITRE BLAISE, jeune fermier du village.
+La scene se passe a la campagne, dans une terre appartenant depuis peu a Lucidor.
+
+
+
+			
+
+
+SCENE PREMIERE. Lucidor, Frontin, en bottes et en habit de maitre.
+LUCIDOR.
+Entrons dans cette salle. Tu ne fais donc que d'arriver ?
+FRONTIN.
+Je viens de mettre pied a terre a la premiere hotellerie du village, j'ai demande le chemin du chateau suivant l'ordre de votre lettre, et me voila dans l'equipage que vous m'avez prescrit. De ma figure, qu'en dites-vous ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Y reconnaissez-vous votre valet de chambre, et n'ai-je pas l'air un peu trop seigneur ?
+LUCIDOR.
+Tu es comme il faut ; a qui t'es-tu adresse en entrant ?
+FRONTIN.
+Je n'ai rencontre qu'un petit garcon dans la cour, et vous avez paru. A present, que voulez-vous faire de moi et de ma bonne mine ?
+LUCIDOR.
+Te proposer pour epoux a une tres aimable fille.
+FRONTIN.
+Tout de bon ? Ma foi, Monsieur, je soutiens que vous etes encore plus aimable qu'elle.
+LUCIDOR.
+Eh ! Non, tu te trompes, c'est moi que la chose regarde.
+FRONTIN.
+En ce cas-la, je ne soutiens plus rien.
+LUCIDOR.
+Tu sais que je suis venu ici il y a pres de deux mois pour y voir la terre que mon homme d'affaires m'a achetee ; j'ai trouve dans le chateau une Madame Argante, qui en etait comme la concierge, et qui est une petite bourgeoise de ce pays-ci. Cette bonne dame a une fille qui m'a charme, et c'est pour elle que je veux te proposer. 
+FRONTIN, riant.
+Pour cette fille que vous aimez ? La confidence est gaillarde ! Nous serons donc trois, vous traitez cette affaire-ci comme une partie de piquet.
+LUCIDOR.
+Ecoute-moi donc, j'ai dessein de l'epouser moi-meme.
+FRONTIN.
+Je vous entends bien, quand je l'aurai epousee.
+LUCIDOR.
+Me laisseras-tu dire ? Je te presenterai sur le pied d'un homme riche et mon ami, afin de voir si elle m'aimera assez pour te refuser.
+FRONTIN.
+Ah ! C'est une autre histoire ; et cela etant, il y a une chose qui m'inquiete.
+LUCIDOR.
+Quoi ?
+FRONTIN.
+C'est qu'en venant, j'ai rencontre pres de l'hotellerie une fille qui ne m'a pas apercu, je pense, qui causait sur le pas d'une porte, mais qui m'a bien la mine d'etre une certaine Lisette que j'ai connue a Paris, il y a quatre ou cinq ans, et qui etait a une dame chez qui mon maitre allait souvent. Je n'ai vu cette Lisette-la que deux ou trois fois ; mais comme elle etait jolie, je lui en ai conte tout autant de fois que je l'ai vue, et cela vous grave dans l'esprit d'une fille.
+LUCIDOR.
+Mais, vraiment, il y en a une chez Madame Argante de ce nom-la, qui est du village, qui y a toute sa famille, et qui a passe en effet quelque temps a Paris avec une dame du pays.
+FRONTIN.
+Ma foi, Monsieur, la friponne me reconnaitra ; il y a de certaines tournures d'hommes qu'on n'oublie point.
+LUCIDOR.
+Tout le remede que j'y sache, c'est de payer d'effronterie, et de lui persuader qu'elle se trompe.
+FRONTIN.
+Oh ! Pour de l'effronterie, je suis en fonds.
+LUCIDOR.
+N'y a-t-il pas des hommes qui se ressemblent tant, qu'on s'y meprend ?
+FRONTIN.
+Allons, je ressemblerai, voila tout, mais dites-moi, Monsieur, souffririez-vous un petit mot de representation ?
+LUCIDOR.
+Parle.
+FRONTIN.
+Quoique a la fleur de votre age, vous etes tout a fait sage et raisonnable, il me semble pourtant que votre projet est bien jeune. 
+LUCIDOR, fache.
+Hein ?
+FRONTIN.
+Doucement, vous etes le fils d'un riche negociant qui vous a laisse plus de cent mille livres de rente, et vous pouvez pretendre aux plus grands partis ; le minois dont vous parlez la est-il fait pour vous appartenir en legitime mariage ? Riche comme vous etes, on peut se tirer de la a meilleur marche, ce me semble.
+LUCIDOR.
+Tais-toi, tu ne connais point celle dont tu parles. Il est vrai qu'Angelique n'est qu'une simple bourgeoise de campagne ; mais originairement elle me vaut bien, et je n'ai pas l'entetement des grandes alliances ; elle est d'ailleurs si aimable, et je demele, a travers son innocence, tant d'honneur et tant de vertu en elle ; elle a naturellement un caractere si distingue, que, si elle m'aime, comme je le crois, je ne serai jamais qu'a elle.
+FRONTIN.
+Comment ! Si elle vous aime ? Est-ce que cela n'est pas decide ?
+LUCIDOR.
+Non, il n'a pas encore ete question du mot d'amour entre elle et moi ; je ne lui ai jamais dit que je l'aime ; mais toutes mes facons n'ont signifie que cela ; toutes les siennes n'ont ete que des expressions du penchant le plus tendre et le plus ingenu. Je tombai malade trois jours apres mon arrivee ; j'ai ete meme en quelque danger, je l'ai vue inquiete, alarmee, plus changee que moi ; j'ai vu des larmes couler de ses yeux, sans que sa mere s'en apercut et, depuis que la sante m'est revenue, nous continuons de meme ; je l'aime toujours, sans le lui dire, elle m'aime aussi, sans m'en parler, et sans vouloir cependant m'en faire un secret ; son coeur simple, honnete et vrai, n'en sait pas davantage.
+FRONTIN.
+Mais vous, qui en savez plus qu'elle, que ne mettez-vous un petit mot d'amour en avant, il ne gaterait rien ?
+LUCIDOR.
+Il n'est pas temps ; tout sur que je suis de son coeur, je veux savoir a quoi je le dois ; et si c'est l'homme riche, ou seulement moi qu'on aime : c'est ce que j'eclaircirai par l'epreuve ou je vais la mettre ; il m'est encore permis de n'appeler qu'amitie tout ce qui est entre nous deux, et c'est de quoi je vais profiter.
+FRONTIN.
+Voila qui est fort bien ; mais ce n'etait pas moi qu'il fallait employer.
+LUCIDOR.
+Pourquoi ?
+FRONTIN.
+Oh ! Pourquoi ? Mettez-vous a la place d'une fille, et ouvrez les yeux, vous verrez pourquoi, il y a cent a parier contre un que je plairai.
+LUCIDOR.
+Le sot ! He bien ! Si tu plais, j'y remedierai sur-le-champ, en te faisant connaitre. As-tu apporte les bijoux ? 
+FRONTIN, fouillant dans sa poche.
+Tenez, voila tout.
+LUCIDOR.
+Puisque personne ne t'a vu entrer, retire-toi avant que quelqu'un que je vois dans le jardin n'arrive, va t'ajuster, et ne parais que dans une heure ou deux.
+FRONTIN.
+Si vous jouez de malheur, souvenez-vous que je vous l'ai predit.
+SCENE II. Lucidor, Maitre Blaise, qui vient doucement habille en riche fermier.
+LUCIDOR.
+Il vient a moi, il parait avoir a me parler.
+MAITRE BLAISE.
+Je vous salue, Monsieur Lucidor. Eh bien ! Qu'est-ce ? Comment vous va ? Vous avez bonne maine a cette heure.
+LUCIDOR.
+Oui je me porte assez bien, Monsieur Blaise.
+MAITRE BLAISE.
+Faut convenir que voute maladie vous a bian fait du proufit ; vous vela, morgue ! Pus rougeaud, pus varmeil, ca rejouit, ca me plait a voir.
+LUCIDOR.
+Je vous en suis oblige.
+MAITRE BLAISE.
+C'est que j'aime tant la sante des braves gens, alle est si recommandabe, surtout la votre, qui est la pus recommandabe de tout le monde.
+LUCIDOR.
+Vous avez raison d'y prendre quelque interet, je voudrais pouvoir vous etre utile a quelque chose.
+MAITRE BLAISE.
+Voirement, cette utilite-la est belle et bonne ; et je vians tout justement vous prier de m'en gratifier d'une.
+LUCIDOR.
+Voyons.
+MAITRE BLAISE.
+Vous savez bian, Monsieur, que je frequente chez Madame Argante, et sa fille Angelique, alle est gentille, au moins.
+LUCIDOR.
+Assurement. 
+MAITRE BLAISE, riant.
+Eh ! Eh ! Eh ! C'est, ne vous deplaise, que je vourais avoir sa gentillesse en mariage.
+LUCIDOR.
+Vous aimez donc Angelique ?
+MAITRE BLAISE.
+Ah ! Cette criature-la m'affole, j'en pards si peu d'esprit que j'ai ; quand il fait jour, je pense a elle ; quand il fait nuit, j'en reve ; il faut du remede a ca, et je vians envars vous a celle fin, par voute moyen, pour l'honneur et le respect qu'on vous porte ici, sauf voute grace, et si ca ne vous torne pas a importunite, de me favoriser de queuques bonnes paroles aupres de sa mere, dont j'ai itou besoin de la faveur.
+LUCIDOR.
+Je vous entends, vous souhaitez que j'engage Madame Argante a vous donner sa fille. Et Angelique vous aime-t-elle ?
+MAITRE BLAISE.
+Oh ! Dame, quand parfois je li conte ma chance, alle rit de tout son coeur, et me plante la, c'est bon signe, n'est-ce pas ?
+LUCIDOR.
+Ni bon, ni mauvais ; au surplus, comme je crois que Madame Argante a peu de bien, que vous etes fermier de plusieurs terres, fils de fermier vous-meme...
+MAITRE BLAISE.
+Et que je sis encore une jeunesse, je n'ons que trente ans, et d'humeur folichonne, un Roger-Bontemps.
+LUCIDOR.
+Le parti pourrait convenir, sans une difficulte.
+MAITRE BLAISE.
+Laqueulle ?
+LUCIDOR.
+C'est qu'en revanche des soins que Madame Argante et toute sa maison ont eu de moi pendant ma maladie, j'ai songe a marier Angelique a quelqu'un de fort riche, qui va se presenter, qui ne veut precisement epouser qu'une fille de campagne, de famille honnete, et qui ne se soucie pas qu'elle ait du bien.
+MAITRE BLAISE.
+Morgue ! Vous me faites la un vilain tour avec voute avisement, Monsieur Lucidor ; vela qui m'est bian rude, bian chagrinant et bian traitre. Jarnigue ! Soyons bons, je l'approuve, mais ne foulons parsonne, je sis voute prochain autant qu'un autre, et ne faut pas peser sur ceti-ci, pour alleger ceti-la. Moi qui avais tant de peur que vous ne mouriez, c'etait bian la peine de venir vingt fois demander : Comment va-t-il, comment ne va-t-il pas ? Vela-t-il pas une sante qui m'est bian chanceuse, apres vous avoir mene moi-meme ceti-la qui vous a tire deux fois du sang, et qui est mon cousin, afin que vous le sachiez, mon propre cousin gearmain ; ma mere etait sa tante, et jarni ! Ce n'est pas bian fait a vous.
+LUCIDOR.
+Votre parente avec lui n'ajoute rien a l'obligation que je vous ai.
+MAITRE BLAISE.
+Sans compter que c'est cinq bonnes mille livres que vous m'otez comme un sou, et que la petite aura en mariage.
+LUCIDOR.
+Calmez-vous, est-ce cela que vous en esperez ? Eh bien ! Je vous en donne douze pour en epouser une autre et pour vous dedommager du chagrin que je vous fais. 
+MAITRE BLAISE, etonne.
+Quoi ! Douze mille livres d'argent sec ?
+LUCIDOR.
+Oui, je vous les promets, sans vous oter cependant la liberte de vous presenter pour Angelique ; au contraire, j'exige meme que vous la demandiez a Madame Argante, je l'exige, entendez-vous ; car si vous plaisez a Angelique, je serais tres fache de la priver d'un homme qu'elle aimerait. 
+MAITRE BLAISE, se frottant les yeux de surprise. 
+Eh mais ! C'est comme un prince qui parle ! Douze mille livres ! Les bras m'en tombont, je ne saurais me ravoir ; allons, Monsieur, boutez-vous la, que je me prosterne devant vous, ni pus ni moins que devant un prodige.
+LUCIDOR.
+Il n'est pas necessaire, point de compliments, je vous tiendrai parole.
+MAITRE BLAISE.
+Apres que j'ons ete si malappris, si brutal ! Eh ! Dites-moi, roi que vous etes, si, par aventure, Angelique me cherit, j'aurons donc la femme et les douze mille francs avec ?
+LUCIDOR.
+Ce n'est pas tout a fait cela, ecoutez-moi, je pretends, vous dis-je, que vous vous proposiez pour Angelique, independamment du mari que je lui offrirai ; si elle vous accepte, comme alors je n'aurai fait aucun tort a votre amour, je ne vous donnerai rien ; si elle vous refuse, les douze mille francs sont a vous.
+MAITRE BLAISE.
+Alle me refusera, Monsieur, alle me refusera ; le ciel m'en fera la grace, a cause de vous qui le desirez.
+LUCIDOR.
+Prenez garde, je vois bien qu'a cause des douze mille francs, vous ne demandez deja pas mieux que d'etre refuse.
+MAITRE BLAISE.
+Helas ! Peut-etre bien que la somme m'etourdit un petit brin ; j'en sis friand, je le confesse, alle est si consolante !
+LUCIDOR.
+Je mets cependant encore une condition a notre marche, c'est que vous feigniez de l'empressement pour obtenir Angelique, et que vous continuiez de paraitre amoureux d'elle.
+MAITRE BLAISE.
+Oui, Monsieur, je serons fidele a ca, mais j'ons bonne esperance de n'etre pas daigne d'elle, et memement j'avons opinion, si alle osait, qu'alle vous aimerait pus que parsonne.
+LUCIDOR.
+Moi, Maitre Blaise ? Vous me surprenez, je ne m'en suis pas apercu, vous vous trompez ; en tout cas, si elle ne veut pas de vous, souvenez-vous de lui faire ce petit reproche-la, je serais bien aise de savoir ce qui en est, par pure curiosite.
+MAITRE BLAISE.
+An n'y manquera pas ; an li reprochera devant vous, dres que Monsieur le commande.
+LUCIDOR.
+Et comme je ne vous crois pas mal a propos glorieux, vous me ferez plaisir aussi de jeter vos vues sur Lisette, que, sans compter les douze mille francs, vous ne vous repentirez pas d'avoir choisi, je vous en avertis.
+MAITRE BLAISE.
+Helas ! Il n'y a qu'a dire, an se revirera itou sur elle, je l'aimerai par mortification.
+LUCIDOR.
+J'avoue qu'elle sert Madame Argante, mais elle n'est pas de moindre condition que les autres filles du village.
+MAITRE BLAISE.
+Eh ! Voirement, alle en est nee native.
+LUCIDOR.
+Jeune et bien faite, d'ailleurs.
+MAITRE BLAISE.
+Charmante. Monsieur verra l'appetit que je prends deja pour elle.
+LUCIDOR.
+Mais je vous ordonne une chose ; c'est de ne lui dire que vous l'aimez qu'apres qu'Angelique se sera expliquee sur votre compte ; il ne faut pas que Lisette sache vos desseins auparavant.
+MAITRE BLAISE.
+Laissez faire a Blaise, en li parlant, je li dirai des propos ou elle ne comprenra rin ; la vela, vous plait-il que je m'en aille ?
+LUCIDOR.
+Rien ne vous empeche de rester.
+SCENE III. Lucidor, Maitre Blaise, Lisette.
+LISETTE.
+Je viens d'apprendre, Monsieur, par le petit garcon de notre vigneron, qu'il vous etait arrive une visite de Paris.
+LUCIDOR.
+Oui, c'est un de mes amis qui vient me voir.
+LISETTE.
+Dans quel appartement du chateau souhaitez-vous qu'on le loge ?
+LUCIDOR.
+Nous verrons quand il sera revenu de l'hotellerie ou il est retourne ; ou est Angelique, Lisette ?
+LISETTE.
+Il me semble l'avoir vue dans le jardin, qui s'amusait a cueillir des fleurs. 
+LUCIDOR, en montrant Maitre Blaise. 
+Voici un homme qui est de bonne volonte pour elle, qui a grande envie de l'epouser, et je lui demandais si elle avait de l'inclination pour lui ; qu'en pensez-vous ?
+MAITRE BLAISE.
+Oui, de queul avis etes-vous touchant ca, belle brunette, m'amie ?
+LISETTE.
+Eh mais ! Autant que j'en puis juger, mon avis est que jusqu'ici elle n'a rien dans le coeur pour vous. 
+MAITRE BLAISE, gaiement.
+Rian du tout, c'est ce que je disais. Que Mademoiselle Lisette a de jugement !
+LISETTE.
+Ma reponse n'a rien de trop flatteur, mais je ne saurais en faire une autre. 
+MAITRE BLAISE, cavalierement.
+Cetelle-la est belle et bonne, et je m'y accorde. J'aime qu'on soit franc, et en effet, queul merite avons-je pour li plaire a cette enfant ?
+LISETTE.
+Ce n'est pas que vous ne valiez votre prix, Monsieur Blaise, mais je crains que Madame Argante ne vous trouve pas assez de bien pour sa fille. 
+MAITRE BLAISE, riant.
+Ca est vrai, pas assez de bian. Pus vous allez, mieux vous dites.
+LISETTE.
+Vous me faites rire avec votre air joyeux.
+LUCIDOR.
+C'est qu'il n'espere pas grand-chose.
+MAITRE BLAISE.
+Oui, vela ce que c'est, et pis tout ce qui viant, je le prends. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le biau brin de fille que vous etes !
+LISETTE.
+La tete lui tourne, ou il y a la quelque chose que je n'entends pas.
+MAITRE BLAISE.
+Stapendant, je me baillerai bian du tourment pour avoir Angelique, et il en pourra venir que je l'aurons, ou bian que je ne l'aurons pas, faut mettre les deux pour deviner juste. 
+LISETTE, en riant.
+Vous etes un tres grand devin !
+LUCIDOR.
+Quoi qu'il en soit, j'ai aussi un parti a lui offrir, mais un tres bon parti, il s'agit d'un homme du monde, et voila pourquoi je m'informe si elle n'aime personne.
+LISETTE.
+Des que vous vous melez de l'etablir, je pense bien qu'elle s'en tiendra la.
+LUCIDOR.
+Adieu, Lisette, je vais faire un tour dans la grande allee ; quand Angelique sera venue, je vous prie de m'en avertir. Soyez persuadee, a votre egard, que je ne m'en retournerai point a Paris sans recompenser le zele que vous m'avez marque.
+LISETTE.
+Vous avez bien de la bonte, Monsieur. 
+LUCIDOR, a Maitre Blaise, en s'en allant, et a part.
+Menagez vos termes avec Lisette, Maitre Blaise.
+MAITRE BLAISE.
+Aussi fais-je, je n'y mets pas le sens commun.
+SCENE IV. Maitre Blaise, Lisette.
+LISETTE.
+Ce Monsieur Lucidor a le meilleur coeur du monde.
+MAITRE BLAISE.
+Oh ! Un coeur magnifique, un coeur tout d'or ; au surplus, comment vous portez-vous, Mademoiselle Lisette ?
+LISETTE, riant.
+Eh ! Que voulez-vous dire avec votre compliment, Maitre Blaise ? Vous tenez depuis un moment des discours bien etranges.
+MAITRE BLAISE.
+Oui, j'ons des manieres fantasques, et ca vous etonne, n'est-ce pas ? Je m'en doute bian. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que vous etes agriable !
+LISETTE.
+Que vous etes original avec votre agreable ! Comme il regarde ; en verite, vous extravaguez.
+MAITRE BLAISE.
+Tout au contraire, c'est ma prudence qui vous contemple.
+LISETTE.
+Eh bien ! Contemplez, voyez, ai-je aujourd'hui le visage autrement fait que je l'avais hier ?
+MAITRE BLAISE.
+Non, c'est moi qui le voix mieux que de coutume ; il est tout nouviau pour moi.
+LISETTE, voulant s'en aller.
+Eh ! Que le ciel vous benisse.
+MAITRE BLAISE, l'arretant.
+Attendez donc.
+LISETTE.
+Eh ! Que me voulez-vous ? C'est se moquer que de vous entendre ; on dirait que vous m'en contez ; je sais bien que vous etes un fermier a votre aise, et que je ne suis pas pour vous, de quoi s'agit-il donc ?
+MAITRE BLAISE.
+De m'acouter sans y voir goutte, et de dire a part vous : Ouais ! Faut qu'il y ait un secret a ca.
+LISETTE.
+Et a propos de quoi un secret ? Vous ne me dites rien d'intelligible.
+MAITRE BLAISE.
+Non, c'est fait expres, c'est resolu.
+LISETTE.
+Voila qui est bien particulier ; ne recherchez-vous pas Angelique ?
+MAITRE BLAISE.
+Ca est itou conclu.
+LISETTE.
+Plus je reve, et plus je m'y perds.
+MAITRE BLAISE.
+Faut que vous vous y perdiais.
+LISETTE.
+Mais pourquoi me trouver si agreable ; par quel accident le remarquez-vous plus qu'a l'ordinaire ? Jusqu'ici vous n'avez pas pris garde si je l'etais ou non, croirai-je que vous etes tombe subitement amoureux de moi ? Je ne vous en empeche pas. 
+MAITRE BLAISE, vite et vivement.
+Je ne dis pas que je vous aime. 
+LISETTE, riant.
+Que dites-vous donc ?
+MAITRE BLAISE.
+Je ne vous dis pas que je ne vous aime point ; ni l'un ni l'autre, vous m'en etes temoin ; j'ons donne ma parole, je marche droit en besogne, voyez-vous, il n'y a pas a rire a ca ; je ne dis rien, mais je pense, et je vais repetant que vous etes agriable ! 
+LISETTE, etonnee et le regardant.
+Je vous regarde a mon tour et, si je me figurais pas que vous etes timbre, en verite, je soupconnerais que vous ne me haissez pas.
+MAITRE BLAISE.
+Oh ! soupconnez, croyez, persuadez-vous, il n'y aura pas de mal, pourvu qu'il n'y ait pas de ma faute, et que ca vianne de vous toute seule sans que je vous aide.
+LISETTE.
+Qu'est-ce que cela signifie ?
+MAITRE BLAISE.
+Et memement, a vous permis de m'aimer, par exemple, j'y consens encore ; si le coeur vous y porte, ne vous retenez pas, je vous lache la bride la-dessus ; il n'y aura rian de pardu.
+LISETTE.
+Le plaisant compliment ! Eh ! Quel avantage en tirerais-je ?
+MAITRE BLAISE.
+Oh ! Dame, je sis bride, mais ce n'est pas comme vous, je ne saurais parler pus clair ; voici venir Angelique, laissez-moi li toucher un petit mot d'affection, sans que ca empeche que vous soyez gentille.
+LISETTE.
+Ma foi, votre tete est derangee, Monsieur Blaise, je n'en rabats rien.
+SCENE V. Angelique, Lisette, Maitre Blaise.
+ANGELIQUE, un bouquet a la main.
+Bonjour, Monsieur Blaise. Est-il vrai, Lisette, qu'il est venu quelqu'un de Paris pour Monsieur Lucidor ?
+LISETTE.
+Oui, a ce que j'ai su.
+ANGELIQUE.
+Dit-on que ce soit pour l'emmener a Paris qu'on est venu ?
+LISETTE.
+C'est ce que je ne sais pas, Monsieur Lucidor ne m'en a rien appris.
+MAITRE BLAISE.
+Il n'y a pas d'apparence, il veut auparavant vous marier dans l'opulence, a ce qu'il dit.
+ANGELIQUE.
+Me marier, Monsieur Blaise, et a qui donc, s'il vous plait ?
+MAITRE BLAISE.
+La personne n'a pas encore de nom.
+LISETTE.
+Il parle vraiment d'un tres grand mariage ; il s'agit d'un homme du monde, et il ne dit pas qui c'est, ni d'ou il viendra. 
+ANGELIQUE, d'un air content et discret. 
+D'un homme du monde qu'il ne nomme pas !
+LISETTE.
+Je vous rapporte ses propres termes.
+ANGELIQUE.
+Eh bien ! je n'en suis pas inquiete, on le connaitra tot ou tard.
+MAITRE BLAISE.
+Ce n'est pas moi, toujours.
+ANGELIQUE.
+Oh ! Je le crois bien, ce serait la un beau mystere, vous n'etes qu'un homme des champs, vous.
+MAITRE BLAISE.
+Stapendant j'ons mes pretentions itou, mais je ne me cache pas, je dis mon nom, je me montre, en publiant que je suis amoureux de vous, vous le savez bian.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ANGELIQUE.
+Je l'avais oublie.
+MAITRE BLAISE.
+Me vela pour vous en aviser derechef, vous souciez-vous un peu de ca, Mademoiselle Angelique ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ANGELIQUE.
+Helas ! Guere.
+MAITRE BLAISE.
+Guere ! C'est toujours queuque chose. Prenez-y garde, au moins, car je vais me douter, sans facon, que je vous plais.
+ANGELIQUE.
+Je ne vous le conseille pas, Monsieur Blaise ; car il me semble que non.
+MAITRE BLAISE.
+Ah ! Bon ca ; vela qui se comprend ; c'est pourtant facheux, voyez-vous, ca me chagraine ; mais n'importe, ne vous genez pas, je reviendrai tantot pour savoir si vous desirez que j'en parle a Madame Argante, ou s'il faudra que je m'en taise ; ruminez ca a part vous, et faites a votre guise, bonjour. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php) Que vous etes avenante !
+LISETTE, en colere.
+Quelle cervelle !
+SCENE VI. Lisette, Angelique.
+ANGELIQUE.
+Heureusement, je ne crains pas son amour, quand il me demanderait a ma mere, il n'en sera pas plus avance.
+LISETTE.
+Lui ! c'est un conteur de sornettes qui ne convient pas a une fille comme vous.
+ANGELIQUE.
+Je ne l'ecoute pas ; mais dis-moi, Lisette, Monsieur Lucidor parle donc serieusement d'un mari ?
+LISETTE.
+Mais d'un mari distingue, d'un etablissement considerable.
+ANGELIQUE.
+Tres considerable, si c'est ce que je soupconne.
+LISETTE.
+Et que soupconnez-vous ?
+ANGELIQUE.
+Oh ! Je rougirais trop, si je me trompais !
+LISETTE.
+Ne serait-ce pas lui, par hasard, que vous vous imaginez etre l'homme en question, tout grand seigneur qu'il est par ses richesses ?
+ANGELIQUE.
+Bon, lui ! Je ne sais pas seulement moi-meme ce que je veux dire, on reve, on promene sa pensee, et puis c'est tout ; on le verra, ce mari, je ne l'epouserai pas sans le voir.
+LISETTE.
+Quand ce ne serait qu'un de ses amis, ce serait toujours une grande affaire ; a propos, il m'a recommande d'aller l'avertir quand vous seriez venue, et il m'attend dans l'allee.
+ANGELIQUE.
+Eh ! Va donc ; a quoi t'amuses-tu la ? Pardi, tu fais bien les commissions qu'on te donne, il n'y sera peut-etre plus.
+LISETTE.
+Tenez, le voila lui-meme.
+SCENE VII. Angelique, Lucidor, Lisette.
+LUCIDOR.
+Y a-t-il longtemps que vous etes ici, Angelique ?
+ANGELIQUE.
+Non, Monsieur, il n'y a qu'un moment que je sais que vous avez envie de me parler, et je la querellais de ne me l'avoir pas dit plus tot.
+LUCIDOR.
+Oui, j'ai a vous entretenir d'une chose assez importante.
+LISETTE.
+Est-ce en secret ? M'en irai-je ?
+LUCIDOR.
+Il n'y a pas de necessite que vous restiez.
+ANGELIQUE.
+Aussi bien je crois que ma mere aura besoin d'elle.
+LISETTE.
+Je me retire donc.
+SCENE VIII. Lucidor, Angelique, Lucidor la regardant attentivement.
+ANGELIQUE, en riant.
+A quoi songez-vous donc en me considerant si fort ?
+LUCIDOR.
+Je songe que vous embellissez tous les jours.
+ANGELIQUE.
+Ce n'etait pas de meme quand vous etiez malade. A propos, je sais que vous aimez les fleurs, et je pensais a vous aussi en cueillant ce petit bouquet ; tenez, Monsieur, prenez-le.
+LUCIDOR.
+Je ne le prendrai que pour vous le rendre, j'aurai plus de plaisir a vous le voir.
+ANGELIQUE prend.
+Et moi, a cette heure que je l'ai recu, je l'aime mieux qu'auparavant.
+LUCIDOR.
+Vous ne repondez jamais rien que d'obligeant.
+ANGELIQUE.
+Ah ! Cela est si aise avec de certaines personnes ; mais que me voulez-vous donc ?
+LUCIDOR.
+Vous donner des temoignages de l'extreme amitie que j'ai pour vous, a condition qu'avant tout, vous m'instruirez de l'etat de votre coeur.
+ANGELIQUE.
+Helas ! Le compte en sera bientot fait ! Je ne vous en dirai rien de nouveau ; otez notre amitie que vous savez bien, il n'y a rien dans mon coeur, que je sache, je n'y vois qu'elle.
+LUCIDOR.
+Vos facons de parler me font tant de plaisir, que j'en oublie presque ce que j'ai a vous dire.
+ANGELIQUE.
+Comment faire ? Vous oublierez donc toujours, a moins que je ne me taise ; je ne connais point d'autre secret.
+LUCIDOR.
+Je n'aime point ce secret-la ; mais poursuivons : il n'y a encore environ que sept semaines que je suis ici.
+ANGELIQUE.
+Y a-t-il tant que cela ? Que le temps passe vite ! Apres ?
+LUCIDOR.
+Et je vois quelquefois bien des jeunes gens du pays qui vous font la cour ; lequel de tous distinguez-vous parmi eux ? Confiez-moi ce qui en est comme au meilleur ami que vous ayez.
+ANGELIQUE.
+Je ne sais pas, Monsieur, pourquoi vous pensez que j'en distingue, des jeunes gens qui me font la cour ; est-ce que je les remarque ? Est-ce que je les vois ? Ils perdent donc bien leur temps.
+LUCIDOR.
+Je vous crois, Angelique.
+ANGELIQUE.
+Je ne me souciais d'aucun quand vous etes venu ici, et je ne m'en soucie pas davantage depuis que vous y etes, assurement.
+LUCIDOR.
+Etes-vous aussi indifferente pour maitre Blaise, ce jeune fermier qui veut vous demander en mariage, a ce qu'il m'a dit ?
+ANGELIQUE.
+Il me demandera en ce qu'il lui plaira, mais, en un mot, tous ces gens-la me deplaisent depuis le premier jusqu'au dernier, principalement lui, qui me reprochait, l'autre jour, que nous nous parlions trop souvent tous deux, comme s'il n'etait pas bien naturel de se plaire plus en votre compagnie qu'en la sienne ; que cela est sot !
+LUCIDOR.
+Si vous ne haissez pas de me parler, je vous le rends bien, ma chere Angelique : quand je ne vous vois pas, vous me manquez, et je vous cherche.
+ANGELIQUE.
+Vous ne cherchez pas longtemps, car je reviens bien vite, et ne sors guere.
+LUCIDOR.
+Quand vous etes revenue, je suis content.
+ANGELIQUE.
+Et moi, je ne suis pas melancolique.
+LUCIDOR.
+Il est vrai, je vois avec joie que votre amitie repond a la mienne.
+ANGELIQUE.
+Oui, mais malheureusement vous n'etes pas de notre village, et vous retournerez peut-etre bientot a votre Paris, que je n'aime guere. Si j'etais a votre place, il me viendrait plutot chercher que je n'irais le voir.
+LUCIDOR.
+Eh ! Qu'importe que j'y retourne ou non, puisqu'il ne tiendra qu'a vous que nous y soyons tous deux ?
+ANGELIQUE.
+Tous deux, Monsieur Lucidor ! Eh mais ! Contez-moi donc comme quoi.
+LUCIDOR.
+C'est que je vous destine un mari qui y demeure.
+ANGELIQUE.
+Est-il possible ? Ah ca, ne me trompez pas, au moins, tout le coeur me bat ; loge-t-il avec vous ?
+LUCIDOR.
+Oui, Angelique ; nous sommes dans la meme maison.
+ANGELIQUE.
+Ce n'est pas assez, je n'ose encore etre bien aise en toute confiance. Quel homme est-ce ?
+LUCIDOR.
+Un homme tres riche.
+ANGELIQUE.
+Ce n'est pas la le principal ; apres.
+LUCIDOR.
+Il est de mon age et de ma taille.
+ANGELIQUE.
+Bon ; c'est ce que je voulais savoir.
+LUCIDOR.
+Nos caracteres se ressemblent, il pense comme moi.
+ANGELIQUE.
+Toujours de mieux en mieux, que je l'aimerai !
+LUCIDOR.
+C'est un homme tout aussi uni, tout aussi sans facon que je le suis.
+ANGELIQUE.
+Je n'en veux point d'autre.
+LUCIDOR.
+Qui n'a ni ambition, ni gloire, et qui n'exigera de celle qu'il epousera que son coeur.
+ANGELIQUE, riant.
+Il l'aura, Monsieur Lucidor, il l'aura, il l'a deja ; je l'aime autant que vous, ni plus ni moins.
+LUCIDOR.
+Vous aurez le sien, Angelique, je vous en assure, je le connais ; c'est tout comme s'il vous le disait lui-meme.
+ANGELIQUE.
+Eh ! Sans doute, et moi je reponds aussi comme s'il etait la.
+LUCIDOR.
+Ah ! Que de l'humeur dont il est, vous allez le rendre heureux !
+ANGELIQUE.
+Ah ! Je vous promets bien qu'il ne sera pas heureux tout seul.
+LUCIDOR.
+Adieu, ma chere Angelique ; il me tarde d'entretenir votre mere et d'avoir son consentement. Le plaisir que me fait ce mariage ne me permet pas de differer davantage ; mais avant que je vous quitte, acceptez de moi ce petit present de noce que j'ai droit de vous offrir, suivant l'usage, et en qualite d'ami ; ce sont de petits bijoux que j'ai fait venir de Paris.
+ANGELIQUE.
+Et moi je les prends, parce qu'ils y retourneront avec vous, et que nous y serons ensemble ; mais il ne fallait point de bijoux, c'est votre amitie qui est le veritable.
+LUCIDOR.
+Adieu, belle Angelique ; votre mari ne tardera pas a paraitre.
+ANGELIQUE.
+Courez donc, afin qu'il vienne plus vite.
+SCENE IX. Angelique, Lisette.
+LISETTE.
+Eh bien ! Mademoiselle, etes-vous instruite ? A qui vous marie-t-on ?
+ANGELIQUE.
+A lui, ma chere Lisette, a lui-meme, et je l'attends.
+LISETTE.
+A lui, dites-vous ? Et quel est donc cet homme qui s'appelle lui par excellence ? Est-ce qu'il est ici ?
+ANGELIQUE.
+Eh ! Tu as du le rencontrer ; il va trouver ma mere.
+LISETTE.
+Je n'ai vu que Monsieur Lucidor, et ce n'est pas lui qui vous epouse.
+ANGELIQUE.
+Eh ! Si fait, voila vingt fois que je te le repete ; si tu savais comme nous nous sommes parle, comme nous nous entendions bien sans qu'il ait dit : C'est moi ! Mais cela etait si clair, si clair, si agreable, si tendre !...
+LISETTE.
+Je ne l'aurais jamais imagine, mais le voici encore.
+SCENE X. Lucidor, Frontin, Lisette, Angelique.
+LUCIDOR.
+Je reviens, belle Angelique ; en allant chez votre mere, j'ai trouve Monsieur qui arrivait, et j'ai cru qu'il n'y avait rien de plus presse que de vous l'amener ; c'est lui, c'est ce mari pour qui vous etes si favorablement prevenue, et qui, par le rapport de nos caracteres, est en effet un autre moi-meme ; il m'a apporte aussi le portrait d'une jeune et jolie personne qu'on veut me faire epouser a Paris. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Jetez les yeux dessus : comment le trouvez-vous ?
+ANGELIQUE, d'un air mourant, le repousse.
+Je ne m'y connais pas.
+LUCIDOR.
+Adieu, je vous laisse ensemble, et je cours chez Madame Argante. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Etes-vous contente ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XI. Angelique, Frontin, Lisette.
+FRONTIN.
+Mademoiselle, l'etonnante immobilite ou je vous vois intimide extremement mon inclination naissante ; vous me decouragez tout a fait, et je sens que je perds la parole.
+LISETTE.
+Mademoiselle est immobile, vous muet, et moi stupefaite ; j'ouvre les yeux, je regarde, et je n'y comprends rien.
+ANGELIQUE, tristement.
+Lisette, qui est-ce qui l'aurait cru ?
+LISETTE.
+Je ne le crois pas, moi qui le vois.
+FRONTIN.
+Si la charmante Angelique daignait seulement jeter un regard sur moi, je crois que je ne lui ferais point de peur, et peut-etre y reviendrait-elle : on s'accoutume aisement a me voir, j'en ai l'experience, essayez-en.
+ANGELIQUE, sans le regarder.
+Je ne saurais ; ce sera pour une autre fois. Lisette, tenez compagnie a Monsieur, je lui demande pardon, je ne me sens pas bien ; j'etouffe, et je vais me retirer dans ma chambre.
+SCENE XII. Lisette, Frontin.
+FRONTIN, a part.
+Mon merite a manque son coup.
+LISETTE, a part.
+C'est Frontin, c'est lui-meme.
+FRONTIN, les premiers mots a part.
+Voici le plus fort de ma besogne ici ; m'amie, que dois-je conjecturer d'un aussi langoureux accueil ? (Elle ne repond pas, et le regarde. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh bien ! Repondez donc. Allez-vous me dire aussi que ce sera pour une autre fois ?
+LISETTE.
+Monsieur, ne t'ai-je pas vu quelque part ?
+FRONTIN.
+Comment donc ? Ne t'ai-je pas vu quelque part ? Ce village-ci est bien familier.
+LISETTE, a part les premiers mots.
+Est-ce que je me tromperais ? Monsieur, excusez-moi ; mais n'avez-vous jamais ete a Paris chez une Madame Dorman, ou j'etais ?
+FRONTIN.
+Qu'est-ce que c'est que Madame Dorman ? Dans quel quartier ?
+LISETTE.
+Du cote de la place Maubert, chez un marchand de cafe, au second.
+FRONTIN.
+Une place Maubert, une Madame Dorman, un second ! Non, mon enfant, je ne connais point cela, et je prends toujours mon cafe chez moi.
+LISETTE.
+Je ne dis plus mot, mais j'avoue que je vous ai pris pour Frontin, et il faut que je me fasse toute la violence du monde pour m'imaginer que ce n'est point lui.
+FRONTIN.
+Frontin ! Mais c'est un nom de valet.
+LISETTE.
+Oui, Monsieur, et il m'a semble que c'etait toi... Que c'etait vous, dis-je.
+FRONTIN.
+Quoi ! toujours des tu et des toi ! Vous me lassez a la fin.
+LISETTE.
+J'ai tort, mais tu lui ressembles si fort !... Eh ! Monsieur, pardon. Je retombe toujours ; quoi ! Tout de bon, ce n'est pas toi... je veux dire, ce n'est pas vous ?
+FRONTIN, riant.
+Je crois que le plus court est d'en rire moi-meme ; allez, ma fille, un homme moins raisonnable et de moindre etoffe se facherait ; mais je suis trop au-dessus de votre meprise, et vous me divertiriez beaucoup, n'etait le desagrement qu'il y a d'avoir une physionomie commune avec ce coquin-la. La nature pouvait se passer de lui donner le double de la mienne, et c'est un affront qu'elle m'a fait, mais ce n'est pas votre faute ; parlons de votre maitresse.
+LISETTE.
+Oh ! Monsieur, n'y ayez point de regret ; celui pour qui je vous prenais est un garcon fort aimable, fort amusant, plein d'esprit et d'une tres jolie figure.
+FRONTIN.
+J'entends bien, la copie est parfaite.
+LISETTE.
+Si parfaite que je n'en reviens point, et tu serais le plus grand maraud... Monsieur, je me brouille encore, la ressemblance m'emporte.
+FRONTIN.
+Ce n'est rien, je commence a m'y faire : ce n'est pas a moi a qui vous parlez.
+LISETTE.
+Non, Monsieur, c'est a votre copie, et je voulais dire qu'il aurait grand tort de me tromper ; car je voudrais de tout mon coeur que ce fut lui ; je crois qu'il m'aimait, et je le regrette.
+FRONTIN.
+Vous avez raison, il en valait bien la peine. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que cela est flatteur !
+LISETTE.
+Voila qui est bien particulier ; a chaque fois que vous parlez, il me semble l'entendre.
+FRONTIN.
+Vraiment, il n'y a rien la de surprenant ; des qu'on se ressemble, on a le meme son de voix, et volontiers les memes inclinations ; il vous aimait, dites-vous, et je ferais comme lui, sans l'extreme distance qui nous separe.
+LISETTE.
+Helas ! Je me rejouissais en croyant l'avoir retrouve.
+FRONTIN, a part le premier mot.
+Oh ?... Tant d'amour sera recompense, ma belle enfant, je vous le predis ; en attendant, vous ne perdrez pas tout, je m'interesse a vous et je vous rendrai service ; ne vous mariez point sans me consulter.
+LISETTE.
+Je sais garder un secret ; Monsieur, dites-moi si c'est toi...
+FRONTIN, en s'en allant.
+Allons, vous abusez de ma bonte ; il est temps que je me retire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ouf, le rude assaut !
+SCENE XIII. Lisette, un moment seule, Maitre Blaise.
+LISETTE.
+Je m'y suis pris de toutes facons, et ce n'est pas lui sans doute, mais il n'y a jamais rien eu de pareil. Quand ce serait lui, au reste, Maitre Blaise est bien un autre parti, s'il m'aime.
+MAITRE BLAISE.
+Eh bien ! Fillette, a quoi en suis-je avec Angelique ?
+LISETTE.
+Au meme etat ou vous etiez tantot.
+MAITRE BLAISE, en riant.
+Eh mais ! Tant pire, ma grande fille.
+LISETTE.
+Ne me direz-vous point ce que peut signifier le tant pis que vous dites en riant ?
+MAITRE BLAISE.
+C'est que je ris de tout, mon poulet.
+LISETTE.
+En tout cas, j'ai un avis a vous donner ; c'est qu'Angelique ne parait pas disposee a accepter le mari que Monsieur Lucidor lui destine, et qui est ici, et que si, dans ces circonstances, vous continuez a la rechercher, apparemment vous l'obtiendrez.
+MAITRE BLAISE, tristement.
+Croyez-vous ? Eh mais ! Tant mieux.
+LISETTE.
+Oh ! Vous m'impatientez avec vos tant mieux si tristes, vos tant pis si gaillards, et le tout en m'appelant ma grande fille et mon poulet ; il faut, s'il vous plait, que j'en aie le coeur net, Monsieur Blaise : pour la derniere fois, est-ce que vous m'aimez ?
+MAITRE BLAISE.
+Il n'y a pas encore de reponse a ca.
+LISETTE.
+Vous vous moquez donc de moi ?
+MAITRE BLAISE.
+Vela une mauvaise pensee.
+LISETTE.
+Avez-vous toujours dessein de demander Angelique en mariage ?
+MAITRE BLAISE.
+Le micmac le requiert.
+LISETTE.
+Le micmac ! Et si on vous la refuse, en serez-vous fache ?
+MAITRE BLAISE, riant.
+Oui-da.
+LISETTE.
+En verite, dans l'incertitude ou vous me tenez de vos sentiments, que voulez-vous que je reponde aux douceurs que vous me dites ? Mettez-vous a ma place.
+MAITRE BLAISE.
+Boutez-vous a la mienne.
+LISETTE.
+Eh ! Quelle est-elle ? Car si vous etes de bonne foi, si effectivement vous m'aimez...
+MAITRE BLAISE, riant.
+Oui, je suppose...
+LISETTE.
+Vous jugez bien que je n'aurai pas le coeur ingrat.
+MAITRE BLAISE, riant.
+He, he, he... Lorgnez-moi un peu, que je voie si ca est vrai.
+LISETTE.
+Qu'en ferez-vous ?
+MAITRE BLAISE.
+He, he... Je le garde. La gentille enfant, queu dommage de laisser ca dans la peine !
+LISETTE.
+Quelle obscurite ! Voila Madame Argante et Monsieur Lucidor ; il est apparemment question du mariage d'Angelique avec l'amant qui lui est venu ; la mere voudra qu'elle l'epouse ; et si elle obeit, comme elle y sera peut-etre obligee, il ne sera plus necessaire que vous la demandiez ; ainsi, retirez-vous, je vous prie.
+MAITRE BLAISE.
+Oui, mais je sis d'obligation aussi de revenir voir ce qui en est, pour me comporter a l'avenant.
+LISETTE, fachee.
+Encore ! Oh ! Votre enigme est d'une impertinence qui m'indigne.
+MAITRE BLAISE, riant et s'en allant.
+C'est pourtant douze mille francs qui vous fachent.
+LISETTE, le voyant aller.
+Douze mille francs ! Ou va-t-il prendre ce qu'il dit la ? Je commence a croire qu'il y a quelque motif a cela.
+SCENE XIV. Madame Argante, Lucidor, Frontin, Lisette.
+MADAME ARGANTE, en entrant, a Frontin.
+Eh ! Monsieur, ne vous rebutez point, il n'est pas possible qu'Angelique ne se rende, il n'est pas possible. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php) Lisette, vous etiez presente quand Monsieur a vu ma fille ; est-il vrai qu'elle ne l'ait pas bien recu ? Qu'a-t-elle donc dit ? Parlez ; a-t-il lieu de se plaindre ?
+LISETTE.
+Non, Madame, je ne me suis point apercu de mauvaise reception ; il n'y a eu qu'un etonnement naturel a une jeune et honnete fille, qui se trouve, pour ainsi dire, mariee dans la minute ; mais pour le peu que Madame la rassure, et s'en mele, il n'y aura pas la moindre difficulte.
+LUCIDOR.
+Lisette a raison, je pense comme elle.
+MADAME ARGANTE.
+Eh ! Sans doute ; elle est si jeune et si innocente !
+FRONTIN.
+Madame, le mariage en impromptu etonne l'innocence, mais ne l'afflige pas, et votre fille est allee se trouver mal dans sa chambre.
+MADAME ARGANTE.
+Vous verrez, Monsieur, vous verrez... Allez, Lisette, dites-lui que je lui ordonne de venir tout a l'heure. Amenez-la ici ; partez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il faut avoir la bonte de lui pardonner ces premiers mouvements-la, Monsieur, ce ne sera rien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FRONTIN.
+Vous avez beau dire, on a eu tort de m'exposer a cette aventure-ci ; il est facheux a un galant homme, a qui tout Paris jette ses filles a la tete, et qui les refuse toutes, de venir lui-meme essuyer les dedains d'une jeune citoyenne de village, a qui on ne demande precisement que sa figure en mariage. Votre fille me convient fort ; et je rends graces a mon ami de l'avoir retenue ; mais il fallait, en m'appelant, me tenir sa main si prete et si disposee que je n'eusse qu'a tendre la mienne pour la recevoir ; point d'autre ceremonie.
+LUCIDOR.
+Je n'ai pas du deviner l'obstacle qui se presente.
+MADAME ARGANTE.
+Eh ! Messieurs, un peu de patience ; regardez-la, dans cette occasion-ci, comme un enfant.
+SCENE XV. Lucidor, Frontin, Angelique, Lisette, Madame Argante.
+MADAME ARGANTE.
+Approchez, Mademoiselle, approchez, n'etes-vous pas bien sensible a l'honneur que vous fait Monsieur, de venir vous epouser, malgre votre peu de fortune et la mediocrite de votre etat ?
+FRONTIN.
+Rayons ce mot d'honneur, mon amour et ma galanterie le desapprouvent.
+MADAME ARGANTE.
+Non, Monsieur, je dis la chose comme elle est ; repondez, ma fille.
+ANGELIQUE.
+Ma mere...
+MADAME ARGANTE.
+Vite donc !
+FRONTIN.
+Point de ton d'autorite, sinon je reprends mes bottes et monte a cheval. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous ne m'avez pas encore regarde, fille aimable, vous n'avez point encore vu ma personne, vous la rebutez sans la connaitre ; voyez-la pour la juger.
+ANGELIQUE.
+Monsieur...
+MADAME ARGANTE.
+Monsieur !... Ma mere ! Levez la tete.
+FRONTIN.
+Silence, maman, voila une reponse entamee.
+LISETTE.
+Vous etes trop heureuse, Mademoiselle, il faut que vous soyez nee coiffee.
+ANGELIQUE, vivement.
+En tout cas, je ne suis pas nee babillarde.
+FRONTIN.
+Vous n'en etes que plus rare ; allons, Mademoiselle, reprenez haleine, et prononcez.
+MADAME ARGANTE.
+Je devore ma colere.
+LUCIDOR.
+Que je suis mortifie !
+FRONTIN, a Angelique.
+Courage ! Encore un effort pour achever.
+ANGELIQUE.
+Monsieur, je ne vous connais point.
+FRONTIN.
+La connaissance est si tot faite en mariage, c'est un pays ou l'on va si vite...
+MADAME ARGANTE.
+Comment ? Etourdie, ingrate que vous etes !
+FRONTIN.
+Ah ! Ah ! Madame Argante, vous avez le dialogue d'une rudesse insoutenable.
+MADAME ARGANTE.
+Je sors, je ne pourrais pas me retenir, mais je la desherite, si elle continue de repondre aussi mal aux obligations que nous vous avons, Messieurs. Depuis que Monsieur Lucidor est ici, son sejour n'a ete marque pour nous que par des bienfaits ; pour comble de bonheur, il procure a ma fille un mari tel qu'elle ne pouvait pas l'esperer, ni pour le bien, ni pour le rang, ni pour le merite...
+FRONTIN.
+Tout doux, appuyez legerement sur le dernier.
+MADAME ARGANTE, en s'en allant.
+Et, merci de ma vie ! Qu'elle l'accepte, ou je la renonce.
+SCENE XVI. Lucidor, Frontin, Angelique, Lisette.
+LISETTE.
+En verite, Mademoiselle, on ne saurait vous excuser ; attendez-vous qu'il vienne un prince ?
+FRONTIN.
+Sans vanite, voici mon apprentissage ; en fait de refus, je ne connaissais pas cet affront-la.
+LUCIDOR.
+Vous savez, belle Angelique, que je vous ai d'abord consulte sur ce mariage ; je n'y ai pense que par zele pour vous, et vous m'en avez paru satisfaite.
+ANGELIQUE.
+Oui, Monsieur, votre zele est admirable, c'est la plus belle chose du monde, et j'ai tort, je suis une etourdie, mais laissez-moi dire. A cette heure que ma mere n'y est plus, et que je suis un peu plus hardie, il est juste que je parle a mon tour, et je commence par vous, Lisette ; c'est que je vous prie de vous taire, entendez-vous ; il n'y a rien ici qui vous regarde ; quand il vous viendra un mari, vous en ferez ce qu'il vous plaira, sans que je vous en demande compte, et je ne vous dirai point sottement, ni que vous etes nee coiffee, ni que vous etes trop heureuse, ni que vous attendez un prince, ni d'autres propos aussi ridicules que vous m'avez tenus, sans savoir ni quoi, ni qu'est-ce.
+FRONTIN.
+Sur sa part, je devine la mienne.
+ANGELIQUE.
+La votre est toute prete, Monsieur. Vous etes honnete homme, n'est-ce pas ?
+FRONTIN.
+C'est en quoi je brille.
+ANGELIQUE.
+Vous ne voudrez pas causer du chagrin a une fille qui ne vous a jamais fait de mal, cela serait cruel et barbare.
+FRONTIN.
+Je suis l'homme du monde le plus humain, vos pareilles en ont mille preuves.
+ANGELIQUE.
+C'est bien fait, je vous dirai donc, Monsieur, que je serais mortifiee s'il fallait vous aimer, le coeur me le dit ; on sent cela ; non que vous ne soyez fort aimable, pourvu que ce ne soit pas moi qui vous aime ; je ne finirai point de vous louer quand ce sera pour une autre ; je vous prie de prendre en bonne part ce que je vous dis la, j'y vais de tout mon coeur ; ce n'est pas moi qui ai ete vous chercher, une fois ; je ne songeais pas a vous, et si je l'avais pu, il ne m'en aurait pas plus coute de vous crier : Ne venez pas ! que de vous dire : Allez-vous-en.
+FRONTIN.
+Comme vous me le dites ?
+ANGELIQUE.
+Oh ! Sans doute, et le plus tot sera le mieux. Mais que vous importe ? Vous ne manquerez pas de filles ; quand on est riche, on en a tant qu'on veut, a ce qu'on dit, au lieu que naturellement je n'aime pas l'argent ; j'aimerais mieux en donner que d'en prendre ; c'est la mon humeur.
+FRONTIN.
+Elle est bien opposee a la mienne ; a quelle heure voulez-vous que je parte ?
+ANGELIQUE.
+Vous etes bien honnete ; quand il vous plaira, je ne vous retiens point, il est tard, a cette heure, mais il fera beau demain.
+FRONTIN, a Lucidor.
+Mon grand ami, voila ce qu'on appelle un conge bien conditionne, et je le recois, sauf vos conseils, qui me regleront la-dessus cependant ; ainsi, belle ingrate, je differe encore mes derniers adieux.
+ANGELIQUE.
+Quoi, Monsieur ! Ce n'est pas fait ? Pardi ! vous avez bon courage ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Votre ami n'a guere de coeur, il me demande a quelle heure il partira, et il reste.
+SCENE XVII. Lucidor, Angelique, Lisette.
+LUCIDOR.
+Il n'est pas si aise de vous quitter, Angelique ; mais je vous debarrasserai de lui.
+LISETTE.
+Quelle perte ! Un homme qui lui faisait sa fortune !
+LUCIDOR.
+Il y a des antipathies insurmontables ; si Angelique est dans ce cas-la, je ne m'etonne point de son refus, et je ne renonce pas au projet de l'etablir avantageusement.
+ANGELIQUE.
+Eh, Monsieur ! Ne vous en melez pas. Il y a des gens qui ne font que nous porter guignon.
+LUCIDOR.
+Vous porter guignon, avec les intentions que j'ai ! Et qu'avez-vous a reprocher a mon amitie ?
+ANGELIQUE, a part.
+Son amitie, le mechant homme !
+LUCIDOR.
+Dites-moi de quoi vous vous plaignez.
+ANGELIQUE.
+Moi, Monsieur, me plaindre ! Eh ! Qui est-ce qui y songe ? Ou sont les reproches que je vous fais ? Me voyez-vous fachee ? Je suis tres contente de vous ; vous en agissez on ne peut pas mieux ; comment donc ! Vous m'offrez des maris tant que j'en voudrai ; vous m'en faites venir de Paris sans que j'en demande : y a-t-il rien la de plus obligeant, de plus officieux ? Il est vrai que je laisse la tous vos mariages ; mais aussi il ne faut pas croire, a cause de vos rares bontes, qu'on soit oblige, vite et vite, de se donner au premier venu que vous attirerez de je ne sais ou, et qui arrivera tout botte pour m'epouser sur votre parole ; il ne faut pas croire cela, je suis fort reconnaissante, mais je ne suis pas idiote.
+LUCIDOR.
+Quoi que vous en disiez, vos discours ont une aigreur que je ne sais a quoi attribuer, et que je ne merite point.
+LISETTE.
+Ah ! J'en sais bien la cause, moi, si je voulais parler.
+ANGELIQUE.
+Hem ! Qu'est-ce que c'est que cette science que vous avez ? Que veut-elle dire ? Ecoutez, Lisette, je suis naturellement douce et bonne ; un enfant a plus de malice que moi ; mais si vous me fachez, vous m'entendez bien ? Je vous promets de la rancune pour mille ans.
+LUCIDOR.
+Si vous ne vous plaignez pas de moi, reprenez donc ce petit present que je vous avais fait, et que vous m'avez rendu sans me dire pourquoi.
+ANGELIQUE.
+Pourquoi ? C'est qu'il n'est pas juste que je l'aie. Le mari et les bijoux etaient pour aller ensemble, et en rendant l'un, je rends l'autre. Vous voila bien embarrasse ; gardez cela pour cette charmante beaute dont on vous a apporte le portrait.
+LUCIDOR.
+Je lui en trouverai d'autres ; reprenez ceux-ci.
+ANGELIQUE.
+Oh ! Qu'elle garde tout, Monsieur, je les jetterais.
+LISETTE.
+Et moi je les ramasserai.
+LUCIDOR.
+C'est-a-dire que vous ne voulez pas que je songe a vous marier, et que, malgre ce que vous m'avez dit tantot, il y a quelque amour secret dont vous me faites mystere.
+ANGELIQUE.
+Eh mais, cela se peut bien, oui, Monsieur, voila ce que c'est, j'en ai pour un homme d'ici, et quand je n'en aurais pas, j'en prendrais tout expres demain pour avoir un mari a ma fantaisie.
+SCENE XVIII. Lucidor, Angelique, Lisette, Maitre Blaise.
+MAITRE BLAISE.
+Je requiers la parmission d'interrompre, pour avoir la declaration de voute darniere volonte, Mademoiselle, retenez-vous voute amoureux nouviau venu ?
+ANGELIQUE.
+Non, laissez-moi.
+MAITRE BLAISE.
+Me retenez-vous, moi ?
+ANGELIQUE.
+Non.
+MAITRE BLAISE.
+Une fois, deux fois, me voulez-vous ?
+ANGELIQUE.
+L'insupportable homme !
+LISETTE.
+Etes-vous sourd, Maitre Blaise ? Elle vous dit que non.
+MAITRE BLAISE, a Lisette, les premiers mots a part, et ne souriant.
+Oui, ma mie. Ah ca, Monsieur, je vous prends a temoin comme quoi je l'aime, comme quoi alle me repousse, que, si elle ne me prend pas, c'est sa faute, et que ce n'est pas sur moi qu'il en faut jeter l'endosse. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php) Bonjour, poulet. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Au demeurant, ca ne me surprend point ; Mademoiselle Angelique en refuse deux, alle en refuserait trois ; alle en refuserait un boissiau ; il n'y en a qu'un qu'alle envie, tout le reste est du fretin pour alle, hormis Monsieur Lucidor, que j'ons devine dres le commencement.
+ANGELIQUE, outree.
+Monsieur Lucidor !
+MAITRE BLAISE.
+Li-meme, n'ons-je pas vu que vous pleuriez quand il fut malade, tant vous aviez peur qu'il ne devint mort ?
+LUCIDOR.
+Je ne croirai jamais ce que vous dites la ; Angelique pleurait par amitie pour moi ?
+ANGELIQUE.
+Comment, vous ne croirez pas ! Vous ne seriez pas un homme de bien de le croire. M'accuser d'aimer, a cause que je pleure ; a cause que je donne des marques de bon coeur ! Eh mais ! Je pleure tous les malades que je vois, je pleure pour tout ce qui est en danger de mourir ; si mon oiseau mourait devant moi, je pleurerais ; dira-t-on que j'ai de l'amour pour lui ?
+LISETTE.
+Passons, passons la-dessus ; car, a vous parler franchement, je l'ai cru de meme.
+ANGELIQUE.
+Quoi ! Vous aussi, Lisette ? Vous m'accablez, vous me dechirez. Eh ! Que vous ai-je fait ? Quoi ! Un homme qui ne songe point a moi, qui veut me marier a tout le monde, et je l'aimerais, moi, qui ne pourrais pas le souffrir s'il m'aimait, moi qui ai de l'inclination pour un autre ? J'ai donc le coeur bien bas, bien miserable ; ah ! Que l'affront qu'on me fait m'est sensible !
+LUCIDOR.
+Mais en verite, Angelique, vous n'etes pas raisonnable ; ne voyez-vous pas que ce sont nos petites conversations qui ont donne lieu a cette folie qu'on a revee, et qu'elle ne merite pas votre attention ?
+ANGELIQUE.
+Helas ! Monsieur, c'est par discretion que je ne vous ai pas dit ma pensee ; mais je vous aime si peu, que, si je ne me retenais pas, je vous hairais, depuis ce mari que vous avez mande de Paris ; oui, Monsieur, je vous hairais, je ne sais trop meme si je ne vous hais pas, je ne voudrais pas jurer que non, car j'avais de l'amitie pour vous, et je n'en ai plus ; est-ce la des dispositions pour aimer ?
+LUCIDOR.
+Je suis honteux de la douleur ou je vous vois, avez-vous besoin de vous defendre, des que vous en aimez un autre, tout n'est-il pas dit ?
+MAITRE BLAISE.
+Un autre galant ? Alle serait, morgue ! bian en peine de le montrer.
+ANGELIQUE.
+En peine ? Eh bien ! Puisqu'on m'obstine, c'est justement lui qui parle, cet indigne.
+LUCIDOR.
+Je l'ai soupconne.
+MAITRE BLAISE.
+Moi !
+LISETTE.
+Bon ! Cela n'est pas vrai.
+ANGELIQUE.
+Quoi ! Je ne sais pas l'inclination que j'ai ? Oui, c'est lui, je vous dis que c'est lui !
+MAITRE BLAISE.
+Ah ! Ca, Mademoiselle, ne badinons point ; ca n'a ni rime ni raison. Par votre foi, est-ce ma personne qui vous a pris le coeur ?
+ANGELIQUE.
+Oh ! Je l'ai assez dit. Oui, c'est vous, malhonnete que vous etes ! Si vous ne m'en croyez pas, je ne m'en soucie guere.
+MAITRE BLAISE.
+Eh mais ! Jamais voute mere n'y consentira.
+ANGELIQUE.
+Vraiment, je le sais bien.
+MAITRE BLAISE.
+Et pis, vous m'avez rebute d'abord, j'ai compte la-dessus, moi, je me sis arrange autrement.
+ANGELIQUE.
+Eh bien ! Ce sont vos affaires.
+MAITRE BLAISE.
+On n'a pas un coeur qui va et qui vient comme une girouette : faut etre fille pour ca ; on se fie a des refus.
+ANGELIQUE.
+Oh ! Accommodez-vous, benet.
+MAITRE BLAISE.
+Sans compter que je ne sis pas riche.
+LUCIDOR.
+Ce n'est pas la ce qui embarrassera, et j'aplanirai tout ; puisque vous avez le bonheur d'etre aime, Maitre Blaise, je donne vingt mille francs en faveur de ce mariage, je vais en porter la parole a Madame Argante, et je reviens dans le moment vous en rendre la reponse.
+ANGELIQUE.
+Comme on me persecute !
+LUCIDOR.
+Adieu, Angelique, j'aurai enfin la satisfaction de vous avoir mariee selon votre coeur, quelque chose qu'il m'en coute.
+ANGELIQUE.
+Je crois que cet homme-la me fera mourir de chagrin.
+SCENE XIX. Maitre Blaise, Angelique, Lisette.
+LISETTE.
+Ce Monsieur Lucidor est un grand marieur de filles ; a quoi vous determinez-vous, Maitre Blaise ?
+MAITRE BLAISE, apres avoir reve.
+Je dis qu'ous etes toujours bian jolie, mais que ces vingt mille francs vous font grand tort.
+LISETTE.
+Hum ! Le vilain procede !
+ANGELIQUE, d'un air languissant.
+Est-ce que vous aviez quelque dessein pour elle ?
+MAITRE BLAISE.
+Oui, je n'en fais pas le fin.
+ANGELIQUE, languissante.
+Sur ce pied-la, vous ne m'aimez pas.
+MAITRE BLAISE.
+Si fait da : ca m'avait un peu quitte, mais je vous r'aime cherement a cette heure.
+ANGELIQUE, toujours languissante.
+A cause des vingt mille francs ?
+MAITRE BLAISE.
+A cause de vous, et pour l'amour d'eux.
+ANGELIQUE.
+Vous avez donc intention de les recevoir ?
+MAITRE BLAISE.
+Pargue ! A voute avis ?
+ANGELIQUE.
+Et moi je vous declare que, si vous les prenez, que je ne veux point de vous.
+MAITRE BLAISE.
+En veci bian d'un autre !
+ANGELIQUE.
+Il y aurait trop de lachete a vous de prendre de l'argent d'un homme qui a voulu me marier a un autre, qui m'a offensee en particulier en croyant que je l'aimais, et qu'on dit que j'aime moi-meme.
+LISETTE.
+Mademoiselle a raison ; j'approuve tout a fait ce qu'elle dit la.
+MAITRE BLAISE.
+Mais acoutez donc le bon sens, si je ne prends pas les vingt mille francs, vous me pardrez, vous ne m'aurez point, voute mere ne voura point de moi.
+ANGELIQUE.
+Eh bien ! Si elle ne veut point de vous, je vous laisserai.
+MAITRE BLAISE, inquiet.
+Est-ce votre dernier mot ?
+ANGELIQUE.
+Je ne changerai jamais.
+MAITRE BLAISE.
+Ah ! Me vela biau garcon.
+SCENE XX. Lucidor, Maitre Blaise, Angelique, Lisette.
+LUCIDOR.
+Votre mere consent a tout, belle Angelique j'en ai sa parole, et votre mariage avec Maitre Blaise est conclu, moyennant les vingt mille francs que je donne. Ainsi vous n'avez qu'a venir tous deux l'en remercier.
+MAITRE BLAISE.
+Point du tout ; il y a un autre vartigo qui la tiant ; elle a de l'aversion pour le magot de vingt mille francs, a cause de vous qui les delivrez : alle ne veut point de moi si je les prends, et je veux du magot avec alle. 
+ANGELIQUE, s'en allant.
+Et moi je ne veux plus de qui que ce soit au monde.
+LUCIDOR.
+Arretez, de grace, chere Angelique. Laissez-nous, vous autres. 
+MAITRE BLAISE, prenant Lisette sous le bras, a Lucidor. 
+Noute premier marche tiant-il toujours ?
+LUCIDOR.
+Oui, je vous le garantis.
+MAITRE BLAISE.
+Que le ciel vous conserve en joie ; je vous fiance donc fillette.
+SCENE XXI. Lucidor, Angelique.
+LUCIDOR.
+Vous pleurez, Angelique ?
+ANGELIQUE.
+C'est que ma mere sera fachee, et puis j'ai eu assez de confusion pour cela.
+LUCIDOR.
+A l'egard de votre mere, ne vous en inquietez pas, je la calmerai ; mais me laisserez-vous la douleur de n'avoir pu vous rendre heureuse ?
+ANGELIQUE.
+Oh ! Voila qui est fini ; je ne veux rien d'un homme qui m'a donne le renom que je l'aimais toute seule.
+LUCIDOR.
+Je ne suis point l'auteur des idees qu'on a eu la-dessus.
+ANGELIQUE.
+On ne m'a point entendue me vanter que vous m'aimiez, quoique je l'eusse pu croire aussi bien que vous, apres toutes les amities et toutes les manieres que vous avez eues pour moi, depuis que vous etes ici, je n'ai pourtant pas abuse de cela ; vous n'en avez pas agi de meme, et je suis la dupe de ma bonne foi.
+LUCIDOR.
+Quand vous auriez pense que je vous aimais, quand vous m'auriez cru penetre de l'amour le plus tendre, vous ne vous seriez pas trompee. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et pour achever de vous ouvrir mon coeur, je vous avoue que je vous adore, Angelique.
+ANGELIQUE.
+Je n'en sais rien ; mais si jamais je viens a aimer quelqu'un, ce ne sera pas moi qui lui chercherai des filles en mariage, je le laisserai plutot mourir garcon.
+LUCIDOR.
+Helas ! Angelique, sans la haine que vous m'avez declaree, et qui m'a paru si vraie, si naturelle, j'allais me proposer moi-meme. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais qu'avez-vous donc encore a soupirer ?
+ANGELIQUE.
+Vous dites que je vous hais, n'ai-je pas raison ? Quand il n'y aurait que ce portrait de Paris qui est dans votre poche.
+LUCIDOR.
+Ce portrait n'est qu'une feinte ; c'est celui d'une soeur que j'ai.
+ANGELIQUE.
+Je ne pouvais pas deviner.
+LUCIDOR.
+Le voici, Angelique ; et je vous le donne.
+ANGELIQUE.
+Qu'en ferai-je, si vous n'y etes plus ? Un portrait ne guerit de rien.
+LUCIDOR.
+Et si je restais, si je vous demandais votre main, si nous ne nous quittions de la vie ?
+ANGELIQUE.
+Voila du moins ce qu'on appelle parler, cela.
+LUCIDOR.
+Vous m'aimez donc ?
+ANGELIQUE.
+Ai-je jamais fait autre chose ?
+LUCIDOR, se mettant tout a fait a genoux.
+Vous me transportez, Angelique.
+SCENE XXII et DERNIERE. Tous les acteurs qui arrivent avec Madame Argante.
+MADAME ARGANTE.
+Eh ! Bien ! Monsieur ; mais que vois-je ? Vous etes aux genoux de ma fille, je pense ?
+LUCIDOR.
+Oui Madame, et je l'epouse des aujourd'hui, si vous y consentez.
+MADAME ARGANTE, charmee.
+Vraiment, que de reste, Monsieur, c'est bien de l'honneur a nous tous, et il ne manquera rien a la joie ou je suis, si Monsieur...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qui est votre ami, demeure aussi le notre.
+FRONTIN.
+Je suis de si bonne composition, que ce sera moi qui vous verserai a boire a table. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ma reine, puisque vous aimiez tant Frontin, et que je lui ressemble, j'ai envie de l'etre.
+LISETTE.
+Ah ! Coquin, je t'entends bien, mais tu l'es trop tard.
+MAITRE BLAISE.
+Je ne pouvons nous quitter, il y a douze mille francs qui nous suivent.
+MADAME ARGANTE.
+Que signifie donc cela ?
+LUCIDOR.
+Je vous l'expliquerai tout a l'heure ; qu'on fasse venir les violons du village, et que la journee finisse par des danses.
+DIVERTISSEMENT.
+Vaudeville.
+MADAME ARGANTE.
+Maris jaloux, tendres amants,
+Dormez sur la foi des serments,
+Qu'aucun soupcon ne vous emeuve ;
+Croyez l'objet de vos amours,
+Car on ne gagne pas toujours			[5]
+A la mettre a l'epreuve.
+LISETTE.
+Avoir le coeur de son mari,
+Qu'il tienne lieu d'un favori,
+Quel bonheur d'en fournir la preuve !
+Blaise me donne du souci ;			[10]
+Mais en revanche, Dieu merci,
+Je le mets a l'epreuve.
+FRONTIN.
+Vous qui courez apres l'hymen,
+Pour eloigner tout examen,
+Prenez toujours fille pour veuve ;			[15]
+Si l'amour trompe en ce moment,
+C'est du moins agreablement :
+Quelle charmante epreuve !
+MAITRE BLAISE.
+Que Mathuraine ait de l'humeur,
+Et qu'al me refuse son coeur,			[20]
+Qu'il vente, qu'il tonne ou qu'il pleuve,
+Que le froid gele notre vin,
+Je n'en prenons point de chagrin,
+Je somme a toute epreuve.
+LISETTE.
+Vous qui tenez dans vos filets			[25]
+Chaque jour de nouveaux objets,
+Soit fille, soit femme, soit veuve,
+Vous croyez prendre, et l'on vous prend.
+Gardez-vous d'un coeur qui se rend
+A la premiere epreuve.			[30]
+ANGELIQUE.
+Ah ! que l'hymen parait charmant
+Quand l'epoux est toujours amant !
+Mais jusqu'ici la chose est neuve :
+Que l'on verrait peu de maris,
+Si le sort nous avait permis			[35]
+De les prendre a l'epreuve !
+
+	==================================================

@@ -1,0 +1,1510 @@
+********************************************************
+	DC.Title                  = LE CENTENAIRE DE MOLIERE, COMEDIE.
+	DC.Author                 = ARTAUD, Jean-Baptiste
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:06.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/ARTAUD_CENTENAIREMOLIERE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE CENTENAIRE DE MOLIERE COMEDIE en un acte, en vers et en proseSuivie d'un Divertissement relatif a l'Apotheose de MoliereM. DCC LXXIII. Avec Approbation et Privilege du Roi.
+Par M. Artaud.
+	A Paris, Chez la Veuve Duchesne. Librairie, rue Saint-Jacques, au-dessous de la Fontaine S.-Benoit, au Temple du Gout.
+	
+	Representee pour la premiere fois par les Comediens Francais Ordinaires du Roi, a Paris, le Jeudi 18 Fevrier 1773. Et a Versailles devant Sa Majeste, le Mardi 3 Mars 1773.
+	AVIS DU LIBRAIRE
+Monsieur Bret, Auteur du nouveau Commentaire des oeuvres de Moliere, dont l'Edition va paraitre incessamment, ayant paru desirer que cette Piece fut imprimee dans le meme format, on s'est empresse de satisfaire a son desir. Quelques personnes sont toujours bien aises d'avoir ensemble tout ce qui est relatif aux oeuvres d'un aussi grand homme que Moliere.
+
+MONSEIGNEUR,
+En me permettant de vous offrir ce leger hommage, vous hasardiez beaucoup, si je n'avais su combien vous haissez la louange, et que l'histoire ne prend jamais des materiaux dans les epitres dedicatoires. Il faut donc que je me borne a vous presenter ici les assurances de mon respectueux attachement, et de ma reconnaissance, sans en detailler les motifs. Partout ou vous etes connu, ces sentiments ne peuvent manquer de me faire un honneur infini. 
+Je suis avec respect,
+MONSEIGNEUR,
+Votre Tres humble, et tres obeissant Serviteur, ARTAUD. 
+
+PERSONNAGES
+THALIE, Madame Bellecour.
+MOMUS, M. Dugazon.
+SOSIE, M. Preville.
+LELIE ou l'etourdi, M. Mole.
+TARTUFFE M. Auge.
+HARPAGON, M. Des Essarts.
+TRISSOTIN, M. Dauberval.
+ALCESTE, M. Bellecour.
+MONSIEUR JOURDAIN, M. Feulie.
+GEORGE DANDIN, M. Bouret.
+ANGELIQUE, sa femme, Mlle. Hus.
+CLITANDRE, son Amant, M. Monvel.
+MADAME PERNELLE, Madame Drouin.
+CLAUDINE, Mademoiselle Fannier.
+MONSIEUR LE KAIN.
+MONSIEUR BRIZARD.
+MADEMOISELLE DUMESNIL.
+MADAME VESTRIS.
+MADEMOISELLE SAINT-VAL.
+MADEMOISELLE SAINT-VAL, la jeune.
+MADEMOUSELLE RAUCOURT.
+Et les autres personnages des Pieces de Moliere.
+La scene est sur le theatre.
+
+
+
+			
+
+
+SCENE PREMIERE. Thalie, deguisee en nuit ; Momus, en Medecin.
+MOMUS.
+De mon deguisement, que dites-vous, Thalie ?
+THALIE.
+Et vous du mien, Momus, que pensez-vous ?
+MOMUS.
+Qu'on dira que nous sommes fous,
+De voyager ainsi de compagnie. 
+Vous en Nuit !
+THALIE, riant.
+Vous en Medecin 			[5]
+Non, de cette plaisanterie, 
+D'honneur je ne vois pas le fin1. 
+MOMUS.
+Que voulez-vous ? Chacun a sa methode ;
+Moi, pour tromper le genre humain,
+Je crois que cet habit sera toujours de mode.			[10]
+THALIE.
+Eh ! non. Je l'en ai corrige.
+MOMUS, en confidence
+Vous n'avez corrige personne,
+C'est un avis que je vous donne ;
+Et si quelque chose est change,
+Ce n'est pas l'humaine folie ;			[15]
+Mais vous, par exemple, Thalie ;
+Est-ce un habit de gout que ce deguisement ?
+THALIE.
+Comme le votre, assurement.
+MOMUS.
+Avec tout cela, je parie 
+Qu'on vous devinera plus aisement que moi.			[20]
+THALIE.
+Voudrez-vous bien me dire a quoi ?
+MOMUS, avec humeur
+Non, non, il ne faut pas nous moquer l'un de l'autre.
+Sur la diversite des gouts,
+Des Dieux et des auteurs, tant de sots sont jaloux
+Que, si l'on rit du mien, on sifflera le votre.			[25]
+THALIE.
+Mon cher Momus, en prenant de l'humeur,
+Vous gatez votre caractere ;
+Oui, vous devenez raisonneur :
+Mon amitie ne peut le taire ;
+Et cependant a l'instant nous disions			[30]
+Moi, vous et notre ami Moliere,
+Que, lorsque de la sorte on se met en colere,
+On fait croire qu'on a de mauvaises raisons.
+MOMUS.
+Contre des Dieux tels que nous sommes
+La meilleure epigramme a tort,			[35]
+Et les ridicules des hommes
+Sont les seuls de votre ressort.
+THALIE.
+D'accord. Mais vous me faites rire
+Avec de semblables propos ;
+Et depuis quand le Dieu de la Satire			[40]
+Parle-t-il morale et grands mots ?
+MOMUS.
+Depuis que je suis en voyage.
+Ici-bas, a ce qu'on m'a dit,
+Pour les bien connaitre, il est sage
+De se monter au ton des gens chez qui l'on vit.			[45]
+THALIE.
+Vous voila bien. L'inconsequence
+Est toujours de votre cote ;
+Car enfin nous sommes en France, 
+C'est le pays de la gaite,
+Et je ne vois pas, quand j'y pense,			[50]
+Le mot pour rire a cette gravite.
+MOMUS.
+Depuis que vous l'avez quitte.
+THALIE.
+Cent ans ! c'est une bagatelle.
+MOMUS.
+Oui pour vous, pour une Immortelle ;
+Mais aux Francais, ainsi qu'a la beaute, 			[55]
+Dix ans font quelquefois une perte cruelle.
+THALIE.
+Vous m'effrayez... Est-ce qu'on ne rit plus ?
+MOMUS.
+De vous repondre la-dessus
+De grace epargnez-moi la peine ;
+Ainsi que moi, vous voila sur la scene.			[60]
+Voyez ; et supprimons des details superflus.
+Songeons d'abord qu'il faut faire un mystere
+De notre venue en ces lieux ;
+Que Jupiter, presse du desir curieux 
+De savoir si toujours Moliere			[65]
+Plait ici-bas comme il charme les Dieux,
+Nous envoie expres sur la scene, 
+Au jour precis des cent ans revolus : 
+Qu'imaginez-vous la-dessus ?
+THALIE.
+Je n'imagine rien ; car je suis tres certaine			[70]
+Que du Public jamais il ne fut plus fete,
+Ni par mes Acteurs mieux traite.
+MOMUS.
+Moi, je soupconne, en verite, 
+Que Jupiter va faire la folie
+De l'agreger a l'immortalite.			[75]
+THALIE.
+N'est-elle pas toujours un droit pour le genie ?
+En seriez-vous jaloux ?
+MOMUS.
+Oui, si parmi les Dieux,
+Nous connaissions les humaines miseres ;
+Mais enfin nous venons chercher des caracteres,
+Et, pour vous aider de mon mieux,			[80]
+Je crois que cet habit sera bien a la chose.
+THALIE.
+Comment donc ?
+MOMUS.
+Je serais surpris
+Si par le choix heureux de ma metamorphose
+Nous n'attirions pas tout Paris.
+THALIE.
+Vous croyez donc la charlatanerie 			[85]
+Une chose bien rare ?
+MOMUS.
+Non.
+THALIE.
+Expliquez-moi donc, je vous prie,
+Comment par cet habit vous croyez tout de bon
+Faire accourir des gens de toutes les especes.
+MOMUS.
+Outre l'habit, je fais repandre des adresses.			[90]
+THALIE.
+Tout le monde en est regorge.
+MOMUS.
+J'en conviens : mais point corrige.
+Les miennes sont d'ailleurs si subtilement faites, 
+Que je veux en trois jours tourner toutes les tetes. 
+Ecoutez. Consultations,			[95]
+Blanc eternel, vrais cosmetiques,
+Essences, preparations ; 
+Secrets inconnus, alchimiques : 
+Et pour mieux appeler les Grands et les Petits,
+J'ai mis un mot divin.
+THALIE.
+Et ce mot, c'est ?			[100]
+MOMUS.
+Gratis.			[100]
+On ne me prendra pas, je crois, cet artifice.
+THALIE.
+Oh ! Je ne doute plus que tout ne reussisse. 
+MOMUS.
+L'un y viendra par avarice.
+THALIE.
+Un autre, ce sera par curiosite.
+MOMUS.
+Oui, tout Paris sera des notres.			[105]
+THALIE.
+Vous oubliez la nouveaute :
+Dans le pays de la frivolite,
+Ce motif seul vaut tous les autres.
+Les avez-vous deja vos imprimes ?
+MOMUS.
+Oui ; dedans sont bien exprimes			[110]
+Cent secrets differents, des cures incurables 
+De noms qualifies, de gens bien introuvables.
+THALIE.
+N'oubliez pas surtout le Pont-Neuf, les Cafes, 
+Ni les portes des Promenades.
+MOMUS.
+Je vous en garantis tous les sots bien coiffes			[115]
+Tant je connais a fond cet art des embuscades. 
+THALIE.
+Comme les Medecins vont en etre etonnes !
+MOMUS.
+Ils auront tous un pied de nez ;
+Je ne tuerai pas mes malades.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE II.
+THALIE, seule.
+Il est railleur ce Dieu Momus,			[120]
+Et quelque legere nuance
+Aura suffi sans doute a ses yeux prevenus,
+Pour m'annoncer qu'on ne rit plus
+Dans mon charmant pays de France.
+Non, non : j'en crois peu ses discours.			[125]
+Ah ! si mes chers Francais, que j'aimerai toujours,
+De leurs tristes voisins avoient pris la manie, 
+Je dois voler a leur secours ;
+Et c'est un trait bien digne de Thalie
+Que de les rappeler a l'aimable folie,			[130]
+Qui fut pour eux l'epoque des beaux jours.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'entends du bruit ; tachons de nous contraindre ;
+Ce voile-ci va cacher mes efforts :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si je vois que l'on m'aime, alors
+Il ne sera plus temps de feindre.			[135]
+SCENE III. Thalie, Sosie : il entre en chantant, sa Lanterne a la main.
+THALIE.
+Eh ! te voila, mon cher ami Sosie ?
+SOSIE.
+Qui ? moi, votre ami ! quelque sot !
+De cette amitie-la ne croyez pas un mot ;
+Et ca pour raison, je vous prie.
+THALIE.
+Toujours ta brusque repartie...			[140]
+SOSIE, examinant avec sa lanterne
+N'etes-vous pas la Nuit ?
+THALIE.
+Et quand cela serait ?
+SOSIE.
+Certains coups de baton dont vous futes la cause...
+THALIE.
+Ce n'est rien, va.
+SOSIE.
+Peut-etre il me faudrait
+Vous dire encor grand merci de la chose.
+De me louer de vous, oui, sans doute, j'ai lieu.			[145]
+Que ne me dites-vous aussi, comme Mercure,
+Que les coups de baton d'un Dieu
+Font honneur a qui les endure ?
+THALIE.
+Je ne dis pas cela ; mais de ce deplaisir,
+Dont tu dois tirer peu de gloire,			[150]
+Faut-il toujours t'entretenir ?
+SOSIE.
+Je tache en vain d'en perdre la memoire,
+Et ce n'est pas faute de boire
+Que j'en garde le souvenir.
+THALIE.
+Le voila bien, le cher Sosie ; 			[155]
+Toujours gai, toujours mon ami. 
+SOSIE.
+Quand vous me cajolez ainsi, 
+Je le vois, vous avez envie 
+Que je vous serve en tout ceci.
+Je gage de nouveau, pour tromper un mari,			[160]
+Que quelqu'ordre secret ici-bas vous ramene.
+THALIE.
+Mais en ce cas quel serait ton souci ?
+SOSIE.
+C'est que depuis le temps qu'on vous vit sur la scene,
+Tout est bien change la-dessus ;
+Les maris ne se fachent plus,			[165]
+Et les femmes ont moins de peine.
+THALIE.
+J'entends ; les moeurs...
+SOSIE.
+Vous m'etonnez.
+Je pensais que de ces affaires
+Vous ne vous embarrassiez gueres,
+Et que vos soins etaient toujours bornes			[170]
+A presider tout bas aux amoureux mysteres.
+THALIE.
+Si tu me connaissais !...
+SOSIE, a part.
+Ah ! Voici le roman,
+Femme de qui la vertu cloche
+En a toujours un dans la poche
+Pour accrocher ou duper un amant.			[175]
+THALIE.
+Pour revenir a mon histoire,
+Je suis veuve.
+SOSIE.
+Depuis longtemps ?
+THALIE.
+Tu ne me voudras jamais croire,
+Si je te dis que c'est depuis cent ans.
+SOSIE.
+Va pour cent ans, je vous les passe ; 			[180]
+Mais aussi faites-moi la grace
+De ne pas vous apercevoir
+Si je m'endors sans vous dire bon soir.
+THALIE.
+Tu crois donc que je fais un conte ?
+SOSIE.
+Et quand cela serait, je ne m'en plaindrais pas.			[185]
+D'un conte, s'il est gai, je fais assez de cas ;
+Et je vous avouerai sans honte,
+Que j'aime encore a rire quelquefois,
+Quoique le rire soit bourgeois ;
+Il faut se mesurer justement a sa toise.			[190]
+THALIE.
+A chaque mot, si tu me cherches noise,
+Je ne finirai pas.
+SOSIE.
+Continuez.
+THALIE, lentement
+L'epoux
+Que m'enleva le fort jaloux
+Dans le brillant de sa noble carriere... 
+SOSIE.
+Apres ?
+THALIE.
+Il s'appelait.			[195]
+SOSIE.
+Eh ! bien, comment ?			[195]
+THALIE.
+Moliere. 			[195]
+SOSIE.
+Quoi ! Moliere ? Que dites-vous ?
+THALIE.
+Rien que de vrai.
+SOSIE.
+Vous etes donc Thalie ?
+THALIE.
+Oui.
+SOSIE.
+Levez ce voile.
+THALIE, otant son voile.
+Tiens, vois.
+SOSIE.
+A cette mine rejouie, 
+Qui ne reconnaitrait ?... Permettez que Sosie			[200]
+Dans son transport, vous embrasse une fois.
+THALIE.
+Soit.
+SOSIE, jetant sa lanterne.
+Eh ! Ma lanterne. Deux ? 
+THALIE.
+Trois.
+SOSIE, apres s'etre livre a toute sa joie, laisse tomber ses bras, et dit en soupirant :
+Oh ! comme c'est touchant, une reconnaissance !
+Me voila pret a pleurer de plaisir.
+THALIE.
+Pleurer ! Fi, quelle extravagance !			[205]
+Toi qui dis que ton seul desir
+Est de m'accompagner sans cesse.
+SOSIE.
+J'aurais grand tort, je le confesse,
+D'aller pleurnicher pres de vous.
+Non, des symboles de tristesse			[210]
+Ne doivent point gater des passe-temps si doux.
+THALIE.
+Suis-je encore ton ennemie ?
+SOSIE.
+Comble de vos faveurs, o divine Thalie,
+Je n'ai plus d'ennemis ; mais j'aurai des jaloux.
+THALIE.
+Va, de les desesperer tous,			[215]
+Momus et moi, nous savons la maniere. 
+SOSIE.
+Bon. Cette bonte singuliere
+Voudrait-elle lever un scrupule que j'ai ? 
+THALIE.
+Parle.
+SOSIE.
+Sur cet hymen de vous et de Moliere.
+Si par hasard j'etais interroge...			[220]
+THALIE.
+Eh bien ! C'etait un hymen arrange.
+SOSIE.
+Ou ? Quand ? Comment ? Un curieux s'informe...
+THALIE.
+Je t'entends. Tu diras que mon contrat en forme
+Fut par Apollon redige.
+SOSIE, etonne
+La-haut, l'on s'epouse ?
+THALIE.
+Et l'on s'aime.			[225]
+SOSIE.
+C'est la moitie plus qu'a Paris.
+Passe encor pour des favoris.
+Mais je n'en reviens pas, quand vous dites vous-meme
+Que les Muses ont des maris.
+THALIE.
+Melpomene est au quatrieme.			[230]
+SOSIE.
+Bon. Me voila bien eclairci ;
+Et je n'ai plus d'autre souci
+Que d'etre occupe de vous plaire.
+A present de ce qu'il faut faire,
+Instruisez-moi donc.
+THALIE.
+Le voici. 			[235]
+Premierement que ma venue ici
+Pour tout autre soit un mystere.
+SOSIE.
+Soit.
+THALIE.
+Jupiter, lasse de s'ennuyer,
+Avec Momus, qui me sert d'Ecuyer, 
+M'a commande de venir sur la terre,			[240]
+Et de lui rapporter au sejour du Tonnerre,
+Quelques travers nouveaux qui puissent l'egayer. 
+SOSIE.
+Vous pourriez avoir de la peine.
+On a bien appauvri la scene.
+THALIE.
+Que m'importe ? J'ai de bons yeux.			[245]
+SOSIE.
+Aussi bons que jolis. Tant mieux.
+Peste ! ou prend mon esprit toute sa gentillesse.
+THALIE.
+Songe ensuite qu'il faut que je passe pour Niece 
+De Momus : nous venons ensemble expres ceans,
+Pour tacher de saisir un nouveau caractere.			[250]
+SOSIE.
+C'est prendre assez mal votre temps
+Et ce ne sera pas une petite affaire.
+THALIE.
+Comment ?
+SOSIE.
+C'est qu'il parait que la plupart des gens
+Ont donne dans le gout fantasque,
+De n'avoir, pour eux tous, qu'un masque ;			[255]
+Et qui les reconnait a des yeux bien percants.
+THALIE.
+Pour qu'ils se montrent sans contrainte,
+D'un habit de Docteur Momus s'est revetu.
+Se douteront-ils de la feinte ?
+La, dis-le-moi, qu'en penses-tu ?			[260]
+SOSIE.
+S'il faut parler avec franchise,
+Moi j'imagine qu'un projet
+Fonde sur l'humaine sottise
+Manque rarement son effet.
+THALIE.
+Ca, tu peux nous servir.
+SOSIE.
+Eh ! de quelle maniere 			[265]
+Puis-je meriter vos faveurs ?
+THALIE.
+Aux gens qui nous viendront en faisant les honneurs.
+SOSIE.
+Et s'il se presentait des sujets de Moliere ?
+THALIE.
+Tu railles, ils sont morts. 
+SOSIE.
+Eux, morts ? Oh, par ma foi,
+Ils se portent tous mieux que moi,			[270]
+Et je crois qu'ils feront douze fois ma carriere.
+THALIE.
+De ton zele empresse je connais tout le prix ;
+Compte sur ma reconnaissance.
+SOSIE.
+Vous avez bien raison de cherir les Petits ;
+Et des Petits la bienveillance 			[275]
+Vaut, en plus d'une occasion,
+Cette vaine protection 
+Dont un Grand fait la recompense,
+Et du Sot qui le sert avec affection
+Et du vil flatteur qui l'encense.			[280]
+THALIE, a part
+Tant de bon sens dans un Valet !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)On a frappe ; va voir qui c'est.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Nous en allons avoir de toutes les especes.
+Et je jouerais d'un malheur peu commun, 
+Si dans la quantite je n'en attrapais un.			[285]
+Oh ! Ma foi, vive les adresses !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh bien ?
+SOSIE.
+C'est un beau cavalier.
+THALIE.
+Et son nom ?
+SOSIE.
+C'est Monsieur Lelie.
+THALIE.
+Il n'a pas change de metier :
+A la plus nouvelle folie			[290]
+Un etourdi court toujours le premier.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV. Lelie, Thalie.
+LELIE, entrant avec empressement 
+Ah ! Que le ciel m'oblige, en offrant a ma vue
+Les celestes attraits dont vous etes pourvue. 
+Madame, un Charlatan qui me fait accourir,
+Du mal que font vos yeux sait-il aussi guerir ?			[295]
+Oh ! Qu'il le sache ou non, qu'il garde sa recette.
+Que mon bonheur est grand ! Que ma joie est complete !
+Et pouvais-je esperer de trouver en ces lieux,
+Au lieu d'un ignorant, cette grace et ces yeux ?
+THALIE.
+Ils sont bien obscurcis par ma douleur extreme.			[300]
+LELIE.
+Je vous consolerai, puisqu'enfin je vous aime,
+Et que me voila pret a finir vos malheurs.
+THALIE.
+Vous savez donc, Monsieur, le sujet de mes pleurs ?
+LELIE.
+Et qu'en est-il besoin ! pour l'imaginative,
+Croyez que je ne cede a personne qui vive :			[305]
+Si j'avais un valet que je regrette encore,
+Mascarille ; il valait, ma foi, son pesant d'or.
+THALIE.
+Que m'importe un valet, a moi ?
+LELIE.
+Quand je le cite,
+C'est qu'il convient toujours d'honorer le merite.
+THALIE.
+Il etait donc bien grand, ce merite ?
+LELIE.
+Au besoin,			[310]
+D'imaginer pour moi je lui laissais le soin.
+THALIE.
+Ainsi de ma douleur il aurait su la cause ?
+LELIE.
+Mieux que vous : et tenez, quand tout seul je suppose 
+Votre coeur en secret par l'amour lutine,
+Avouez franchement, n'ai-je pas devine ?			[315]
+THALIE.
+De l'art d'imaginer donnez une autre preuve.
+LELIE.
+Pourquoi donc, s'il vous plait, Madame ?
+THALIE.
+Je suis veuve.
+LELIE.
+Bon ! pour mieux me cacher le sujet de vos pleurs,
+Faut-il vous aviser du moindre des malheurs ?
+THALIE.
+Monsieur, encore un coup je suis veuve, vous dis-je. 			[320]
+LELIE.
+Tant mieux : votre douleur en tient plus du prodige.
+THALIE.
+Vous vous doutez assez que depuis ce trepas, 
+Et faite comme on est, ayant quelques appas... 
+LELIE, interrompant
+J'entends. Pour adoucir les horreurs du veuvage,
+Vous n'avez pas voulu deroger a l'usage			[325]
+Des amants.
+THALIE.
+Un Joueur et puis un Glorieux 
+Fixerent, j'en conviens, et mon coeur et mes yeux :
+Mais d'un dernier, surtout, mon ame est enivree.
+LELIE.
+Et c'est ?...
+THALIE.
+Il est connu.
+LELIE.
+Son nom ?
+THALIE.
+De l'Empiree.
+J'en eus d'autres encor ; j'aime a le publier.			[330]
+LELIE.
+N'importe : me voila pour les faire oublier.
+THALIE.
+Qui ? vous, Monsieur ?
+LELIE.
+Oui, moi : moi, vous dis-je, Madame.
+Vous n'imaginez pas tout l'exces de ma flamme ;
+Et mon coeur est capable, en son transport jaloux,
+De vous aimer toujours, fusse-je votre epoux.			[335]
+Oui, je jure...
+SCENE V. Sosie, Lelie, Thalie
+SOSIE, a Lelie.
+Eh ! doit-on jurer de telle sorte, 
+Monsieur ? La, la, calmez l'ardeur qui vous transporte.
+LELIE.
+Ce maraud-la me tient des propos bien hardis.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Sais-tu que, si j'etais un de ces etourdis
+Capables de manquer a ce qu'on doit aux Belles,			[340]
+Un baton sur ton dos m'en dirait des nouvelles
+SOSIE, avec ironie.
+Bon ! vous n'avez pas l'air de ces etourdis-la.
+LELIE.
+Je n'en ai pas l'air.
+SOSIE, de meme.
+Non.
+LELIE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu vas voir.
+SOSIE.
+Ah ! Ah ! Ah !
+Au secours, au secours, voisins, je vous en prie.
+LELIE.
+Comment ! bourreau, tu fais des cris !			[345]
+SOSIE.
+De mille coups tu me meurtris,
+Et tu ne veux pas que je crie ?
+LELIE.
+Madame, pardonnez.
+THALIE.
+Quoi ! votre etourderie...
+Sortez d'ici, Monsieur.
+LELIE.
+Il y va de ma vie.
+Cruelle ! A vos genoux...
+SOSIE.
+Madame, tenez bon.			[350]
+THALIE.
+Mon Oncle, qui parait, va me faire raison
+De votre extravagance et de votre furie.
+LELIE.
+Il saura pardonner un peu d'etourderie
+A ce coeur pour vos yeux si fortement epris. 
+SCENE VI. Momus, Thalie, Lelie, Sosie.
+MOMUS, en entrant
+N'ai-je pas entendu des cris ? 			[355]
+THALIE, a Momus
+Ah ! Mon Oncle !
+LELIE.
+Ah ! Monsieur, cette charmante niece
+Peut vous dire l'ardeur qui pour elle me presse ;
+Et je dois ajouter qu'il nous serait bien doux
+D'obtenir votre aveu pour devenir epoux.
+THALIE.
+Avant de s'epouser, il faut bien se connaitre.			[360]
+MOMUS.
+On se marierait peu. 
+LELIE.
+Des qu'on m'a vu paraitre,
+Je suis connu. 
+THALIE.
+Tant pis. Soyez sur qu'en ce cas
+C'est plutot un bonheur de ne vous avoir pas.
+LELIE.
+Oh ! puisque vous osez en venir aux injures,
+Je conterai partout toutes vos aventures ;			[365]
+Je connais un Poete, il vous chansonnera.
+MOMUS.
+Chansons !
+LELIE, a Momus.
+Vous...
+MOMUS.
+Je m'en moque.
+LELIE.
+Eh bien ! on le saura.
+Et je vous couvrirai si bien de ridicule,
+Que vous ne vendrez pas une seule pilule,
+Pas un petit paquet.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VII. Momus, Sosie, Thalie.
+MOMUS, a Lelie qui sort
+Je ris de vos raisons ;			[370]
+Quoi que vous disiez, peu m'importe.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Toi, que vas-tu chercher a cette porte ?
+SOSIE.
+Voir s'il prend le chemin des petites maisons.
+MOMUS.
+Vit-on jamais pareille etourderie ?
+THALIE.
+Vous n'avez pas tout vu. Demandez a Sosie :			[375]
+Comme il en est tres fidele temoin,
+Mieux que personne il pourra vous le dire.
+SOSIE, revenant a la porte, ou il a paru parler a quelqu'un.
+Si vous avez sujet de rire,
+Je ne dois pas avoir le meme soin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, a cette porte un homme 			[380]
+Qui n'a pas voulu qu'on le nomme,
+Dit en secret avoir affaire a vous.
+Il est vetu de noir et parle d'un ton doux. 
+MOMUS.
+Son nom.
+SOSIE.
+Je vous ai dit qu'il ne veut pas le dire.
+MOMUS.
+Fais entrer.
+THALIE.
+Moi je me retire			[385]
+Pour vous le laisser recevoir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Sosie, Momus.
+SOSIE.
+Et vous consentez a le voir
+Tete-a-tete ?
+MOMUS.
+Oui.
+SOSIE.
+Mais c'est une folie.
+MOMUS.
+Je ris de ta poltronnerie.
+SOSIE.
+D'accord, je suis poltron ; on en vit plus longtemps.			[390]
+Vous autres Dieux, vous etes gais, contents ;
+Vous ne mourez jamais de votre vie ;
+Mais aux pauvres humains il ne faut rien qu'un coup.
+MOMUS.
+Fais-le toujours venir.
+SOSIE.
+Vous hasardez beaucoup. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX. Tartuffe, Momus, Sosie.
+TARTUFFE.
+Que le Ciel a jamais par sa toute bonte			[395]
+Et de l'ame et du corps vous donne la sante.
+Monsieur ; le bien de vous que partout on publie...
+MOMUS.
+Arrive d'aujourd'hui... 
+TARTUFFE.
+Permettez, je vous prie : 
+Il est juste, et je crois tout ce qu'on dit de vous :
+Je ne suis, grace au Ciel, envieux ni jaloux ;			[400]
+Mais j'ai vu si souvent les horreurs de l'envie
+Empoisonner les jours d'une innocente vie,
+Que j'ai cru vous devoir ce secret entretien,
+Ou mon zele empresse va ne vous cacher rien.
+MOMUS.
+Parlez, Monsieur.
+TARTUFFE.
+Mon coeur de douleur se dechire,			[405]
+Quand je vois les mechants agrandir leur empire.
+MOMUS, a part.
+Je te connais. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ou tend ce discours ?
+TARTUFFE.
+Le voici ; 
+Et vous en allez etre a l'instant eclairci.
+On dit (mais je crois peu ce propos condamnable) 
+Que vous avez chez vous un objet jeune, aimable ;			[410]
+Que sa beaute fragile, appelant tous les coeurs,
+Peut malheureusement decrediter vos moeurs. 
+Et mon zele...
+MOMUS.
+Je sais ce qu'il convient d'en croire :
+Mais pensez-vous qu'on puisse avoir l'ame assez noire ?...
+TARTUFFE, avec vivacite
+Oui, Monsieur. Arrive depuis fort peu de temps,			[415]
+Vous n'imaginez pas la malice des gens ;
+Et combien la vertu jadis si respectee,
+Est partout aujourd'hui bassement insultee,
+Sur vous, qu'autant que moi, je crois homme de bien,
+Je ne repondrais pas qu'on ne repandit rien,			[420]
+Etant amis tous deux. La vertu reunie,
+Avec plus de succes, fera taire l'envie :
+Je suis connu.
+MOMUS.
+Sans doute.
+TARTUFFE.
+Et mon zele discret 
+Peut, dans votre maison, faire un tres bon effet.
+MOMUS, a part
+Le Cafard ! 
+TARTUFFE.
+En voyant votre charmante niece,			[425]
+Mes avis paternels guideraient sa jeunesse,
+Et je la sauverais peut-etre d'un ecueil. 
+MOMUS.
+Peut-etre, est trop modeste. 
+TARTUFFE.
+Oh ! Je hais tant l'orgueil !
+MOMUS.
+Fort bien ; mais je craindrais qu'on ne dit qu'une flamme
+En secret...
+TARTUFFE, avec un mouvement d'horreur.
+Moi, Monsieur, j'aimerais une femme ! 			[430]
+Vous m'objectez en vain ce motif de refus ;
+On sait bien que j'ai fait mes preuves la-dessus.
+MOMUS, a part
+Je vais, pour le punir, l'envoyer chez Thalie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je me rends. Oui, je vois que toute votre envie
+Est de contribuer a mon contentement ;			[435]
+Et vous pouvez passer dans son appartement.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X. Sosie, Momus.
+SOSIE, se rapprochant.
+Qu'en dites-vous, Seigneur ? Parle-t-il avec force ? 
+Voila l'homme de bien.
+MOMUS.
+Ce n'en est que l'ecorce.
+Jusqu'a quand verra-t-on l'homme simple et les sots 
+Trompes indignement par l'abus des grands mots ?			[440]
+SOSIE.
+Avez-vous su son nom ?
+MOMUS.
+Tartuffe.
+SOSIE.
+De Moliere ?
+A sa tournure singuliere,
+Je l'aurais pris, ma foi, pour un homme de bien :
+Sur la mine jamais je ne croirai plus rien.
+SCENE XI. Madame Pernelle, Phlipotte, Momus, Sosie.
+MADAME PERNELLE.
+Allons, Phlipotte, allons.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Faites-vous votre compte			[445]
+Que j'attendrai longtemps ? N'est-ce pas une honte,
+A vous, le beau Docteur, qu'on ne trouve chez vous
+Que des impertinents, des fripons et des fous ?
+MOMUS.
+Pourquoi donc y venir ?
+MADAME PERNELLE.
+Pourquoi ? Mort de ma vie !
+Evitez, croyez-moi, de me mettre en furie.			[450]
+Et si Tartuffe ici n'avait porte ses pas,
+Soyez sur que chez vous vous ne me verriez pas.
+SOSIE.
+Mais vous en voulez donc beaucoup a ce pauvre homme ?
+MOMUS.
+Moliere a corrige...
+MADAME PERNELLE.
+Je veux que l'on m'assomme,
+Si lui ni ses pareils se tiennent pour battus ;			[455]
+Car j'en vois tous les jours, et je crois meme plus.
+Mais enfin ce maroufle est ici. 
+MOMUS.
+Non, Madame ; 
+Il n'a fait que passer.
+MADAME PERNELLE.
+Ou donc ?
+MOMUS.
+Chez une femme.
+MADAME PERNELLE.
+Ah ! Que je crains pour elle ! 
+MOMUS.
+Oh ! moi je ne crains rien. 
+MADAME PERNELLE.
+Vous etes donc tres sur qu'elle est femme de bien ?			[460]
+MOMUS.
+Oh !
+MADAME PERNELLE.
+Malgre tout cela, j'ai quelque inquietude.
+Une femme de bien peut n'etre qu'une prude ;
+Et je vais vous conter le fait qui m'engagea
+A penser de la sorte...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oui, ricanez deja.
+Chercher ailleurs vos fous qui vous donnent a rire,			[465]
+Ce n'est pas moi, toujours ; adieu, je me retire.
+Vous apprendrez bientot, Messieurs les Charlatans,
+Avant d'en rire, au moins, a connaitre vos gens.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons, vous ; vous revez et bayez aux corneilles.
+Jour de Dieu ! je saurai vous frotter les oreilles.			[470]
+Marchons, gaupe, marchons. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XII. Sosie, Momus.
+SOSIE.
+C'est pire qu'un Demon
+Cette dame Pernelle. 
+MOMUS.
+Elle a souvent raison.
+Mais s'il ne vient jamais que des gens de Moliere,
+A Jupiter qui veut un nouveau caractere, 
+Que dire ?
+SOSIE.
+Que les gens de bon sens sont d'avis			[475]
+Qu'on ne doit point changer, quand on craint d'etre pis.
+SCENE XIII. Harpagon, Momus, Sosie.
+HARPAGON.
+On lit dans votre adresse, Monsieur, que vous guerissez gratis ; et s'il n'y a point de friponnerie (comme il s'en rencontre toujours dans ces sortes d'ecrits) il est tout naturel que vous me voyiez chez vous.
+MOMUS.
+Il convient d'abord de savoir quel est le genre de votre maladie ? 
+HARPAGON.
+Eh ! Ne le devinez-vous pas a mon air ?
+MOMUS.
+Non... A moins que ce ne soit la goutte.
+HARPAGON.
+Vous moquez-vous ? Ai-je l'air d'un homme assez riche pour cette maladie-la ?
+MOMUS.
+Le poumon ?
+HARPAGON.
+Non.
+MOMUS.
+L'estomac ?
+HARPAGON.
+Non. 
+SOSIE.
+Vous verrez que ce sera la tete.
+HARPAGON.
+A l'autre ! Non. 
+MOMUS.
+M'y voila. Le coeur ?
+HARPAGON.
+Non, non, non. De par tous les Diables, c'est depenser bien du temps a se ruiner en questions. 
+MOMUS.
+Donnez-nous donc vous-meme l'exemple de l'economie.
+HARPAGON.
+En deux mots le voici : c'est un appetit devorant. Tout est fort cher a present ; je me ruine pour vivre, et cela altere ma sante.
+MOMUS.
+S'il ne faisait pas aussi cher mourir, je vous conseillerais, moi...
+HARPAGON.
+Et je ne le sais que trop. On n'a pas la moindre petite ressource ; mais enfin, voyons toujours de vos remedes ; ils feront ce qu'ils pourront.
+MOMUS.
+Vous prendrez...
+HARPAGON, tendant son chapeau
+Tenez, mettez la-dedans.
+MOMUS.
+De quoi ?
+HARPAGON.
+De vos drogues.
+SOSIE, a part
+Il les irait vendre.
+MOMUS.
+De mes drogues ? Je n'en donne point.
+HARPAGON.
+Et que diable donnez-vous donc ?
+MOMUS.
+Des conseils.
+HARPAGON.
+Des conseils ? C'est-a-dire, des paroles ; mais voyez donc la belle merveille de donner des paroles gratis ! 
+SOSIE.
+Monsieur, Monsieur, ne vous moquez pas tant ; il y a bien des gens qui les vendent.
+MOMUS.
+Eh ! Tenez, voila Monsieur Trissotin qui vous en dira des nouvelles.
+SCENE XIV. Trissotin, et les acteurs precedents.
+TRISSOTIN.
+Qui de vous trois, Messieurs, est Medecin ? 
+HARPAGON.
+Ce n'est pas moi toujours.
+SOSIE.
+Ni moi non plus.
+TRISSOTIN.
+Enfin,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ce sera donc Monsieur. Sachez que ma presence
+Peut ramener chez vous une heureuse abondance.			[480]
+HARPAGON, a part.
+Prenons-lui sa recette. 
+TRISSOTIN.
+Et ma prose et mes vers
+Font un bruit assez grand.
+MOMUS.
+Ou ?
+TRISSOTIN.
+Dans tout l'univers. 
+HARPAGON.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quel fou !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand un conseil me sera necessaire, 
+Monsieur, je viendrai vous revoir.
+Je vois bien que chez vous je n'ai plus rien a faire,			[485]
+Et je vous prete le bon soir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XV. Trissotin, Sosie, Momus.
+TRISSOTIN, en ricanant
+D'honneur, je crois que c'est l'Avare de Moliere ;
+O le plaisant original ! 
+SOSIE, a Trissotin
+Vous l'avez devine ? Ce n'est pas voir trop mal,
+Et vous ne lui ressemblez guere.			[490]
+TRISSOTIN.
+A son propos qui ne le connaitrait ?
+SOSIE, a Momus
+Mais revenons au bruit dont Monsieur nous parlait. 
+TRISSOTIN, a Momus
+On lit avec fureur mon recueil d'epigrammes
+Contre les Beaux esprits, les savants et les femmes.
+L'avez-vous lu, Monsieur ?
+MOMUS.
+Qui ? moi ? 			[495]
+TRISSOTIN.
+Vous. 			[495]
+MOMUS.
+Point du tout.			[495]
+TRISSOTIN.
+Tant pis pour vous. Jamais la justesse et le gout
+N'ont d'un si grand eclat brille dans la critique,
+Et tout homme occupe de la chose publique,
+Poete, Medecin, Artiste, Bel esprit,
+Ne peut etre estime qu'autant que je l'ai dit.			[500]
+MOMUS.
+Seriez-vous, par hasard, un de ces gens sans titres,
+Qu'on a vu depuis peu s'eriger en arbitres
+Du gout et des talents qu'ils ne peuvent avoir ? 
+TRISSOTIN.
+Chacun peut, a son gre, s'arroger ce pouvoir.
+MOMUS.
+Contre cette manie, et folle et singuliere,			[505]
+Que vous etes heureux qu'on n'ait plus de Moliere !
+Il vous corrigerait bien vite a vos depens.
+TRISSOTIN.
+Bon ! Moliere et Boileau, propos de vieilles gens !
+On fut dupe autrefois de leur verve caustique.
+Qu'etait-ce dans le fond ? Rien que du vieux comique ;			[510]
+Tous nos honnetes gens font blases la-dessus,
+Et la preuve, tenez, c'est que l'on n'en fait plus.
+SCENE XVI. Alceste, et les acteurs precedents.
+SOSIE, annoncant
+Monsieur Alceste. 
+MOMUS, quitte brusquement Trissotin, et va recevoir Alceste avec beaucoup de respect, et veut le faire asseoir dans le fauteuil de Moliere. 
+Oh ! Oh !
+ALCESTE.
+Point de ceremonie ;
+Supprimez avec moi les facons, je vous prie.
+MOMUS.
+Je sais trop le respect...
+ALCESTE.
+Je veux etre debout.			[515]
+MOMUS, insistant
+Monsieur.
+SOSIE, de meme
+Monsieur. 
+TRISSOTIN.
+Laissez chacun vivre a son gout.
+SOSIE, retire le fauteuil.
+Enfin.
+ALCESTE, montrant Trissotin
+Monsieur, sans doute, est un de vos confreres ? 
+MOMUS.
+A peu de chose pres.
+TRISSOTIN.
+Je hais trop les chimeres,
+Pour oser tourmenter par des remedes vains
+Les jours infortunes des malheureux humains. 			[520]
+ALCESTE.
+Vous les plaignez donc ?
+TRISSOTIN.
+Moi ?
+ALCESTE.
+Pour moi, je les deteste.
+TRISSOTIN.
+Oh ! J'en fais bien autant.
+ALCESTE.
+De leur rage funeste
+Je pretends par la suite au moins me garantir.
+Mais de ce monde affreux avant que de sortir,
+J'ai voulu, par mes yeux, faire l'experience,			[525]
+Si je pourrais trouver dans la veste science
+Qu'on voit briller en vous, (a ce que chacun dit,)
+Le moyen de fixer un doute qui m'aigrit.
+Dites-moi donc, Messieurs, si mon humeur austere
+Vient de temperament, ou bien de caractere ?			[530]
+MOMUS.
+Monsieur...
+ALCESTE.
+Vous hesitez, Monsieur ?
+TRISSOTIN.
+On peut, je crois ;
+Expliquer tout cela par de certaines lois.
+ALCESTE.
+Voyons un peu ces lois.
+TRISSOTIN.
+En entrant dans le monde,
+Les vices, les travers dont notre espece abonde
+Inspirent la pitie.....
+ALCESTE.
+Dites plutot, l'horreur.			[535]
+Des hommes sans vertu, des femmes sans pudeur,
+Des obscurs parvenus l'insolente bassesse,
+Des jeunes gens tares la degoutante ivresse ;
+De nos femmes de bien l'horrible faussete,
+De nos freles Auteurs l'auguste vanite,			[540]
+Des vices affiches la morgue fastueuse
+Rallument dans mon coeur la haine vigoureuse
+Qu'a ces exces cruels doit tout homme bien ne.
+TRISSOTIN.
+A penser comme vous je me sens destine,
+Et la meme fureur dans mon ame s'eleve ;			[545]
+Mon coeur la commenca, votre tableau l'acheve :
+Il est temps que je montre a tous nos Beaux esprits
+Ce que je sens pour eux de haine et de mepris,
+Et joignant le sarcasme au fiel de la satire....
+ALCESTE.
+La satire, Monsieur ? que voulez-vous donc dire !			[550]
+TRISSOTIN.
+Ne craignez rien Monsieur pour vous-meme. 
+ALCESTE.
+Et pourquoi ?
+TRISSOTIN.
+C'est que vous paraissez du meme avis que moi.
+ALCESTE.
+Et cela fut-il vrai, vous auriez la bassesse
+D'aller aux yeux de tous encenser ma faiblesse !
+TRISSOTIN.
+Nous savons la-dessus ce qui nous est permis ;			[555]
+Nul ne doit etre honnete, hors nous et nos amis.
+ALCESTE.
+Et vous osez pretendre a l'estime publique ?
+TRISSOTIN.
+Pourquoi non, s'il vous plait ? Sachez que la critique
+Est utile pour moi.
+ALCESTE.
+Je le vois.
+TRISSOTIN.
+Et pour l'art.
+Il faut se faire un nom, je vous parle sans fard.			[560]
+ALCESTE.
+Quel nom ! Ainsi que vous, je parlerai sans feinte.
+Recueillir les mepris en repandant la crainte,
+N'est pas, a mon avis un fort joli metier ;
+Et j'estime bien plus l'honnete Savetier,
+Qui, tranquille en un coin sans offenser personne,			[565]
+Gagne, tout en chantant, le pain que je lui donne,
+Que celui dont le coeur, aussi bas que l'esprit, 
+Ose insulter en lache au talent dont il vit.
+TRISSOTIN, outre.
+Vous apprendrez bientot...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVII. Alceste, Sosie, Momus.
+ALCESTE.
+L'execrable folie !
+Voila, voila des gens a livrer a Thalie.			[570]
+SOSIE.
+On l'y verra.
+MOMUS.
+Comment, avec si peu d'esprit, 
+Ce petit homme a-t-il une telle arrogance ?
+ALCESTE.
+C'est en pesant son importance
+Au poids du fatras qu'il ecrit.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVIII. Momus, Sosie.
+MOMUS.
+Quoi donc ? Quand nous cherchons un nerveux caractere,			[575]
+Nous ne verrons ici que des gens de Moliere ?
+SOSIE.
+Je vous l'avais bien dit.
+MOMUS.
+Dois-je ecouter un fat ?
+SOSIE.
+Tous les discours sont des sottises,
+Venant d'un homme sans eclat :
+Ce seraient paroles exquises,			[580]
+Si c'etait un Grand qui parlat. 
+Voila encore des femmes : je voudrais, pour beaucoup, qu'elles fussent aussi de Moliere.
+SCENE XIX. Angelique, Claudine, Clitandre, Momus, Sosie.
+ANGELIQUE, a Claudine.
+Restez a cette porte, petite fille, et si par malheur vous voyez arriver mon bourgeois de Mari, Monsieur George Dandin, vous nous avertirez ; entendez-vous ?
+CLAUDINE.
+Cela suffit, Madame ; faudra-t-il lui dire que vous etes venue avec Monsieur ?
+ANGELIQUE.
+Eh ! Non, petite sotte.
+CLITANDRE, a Angelique.
+Voila, Madame, le fameux Medecin dont on a tant parle ce matin chez Monsieur le Baron de Sotenville, Monsieur votre pere.
+ANGELIQUE, a Momus.
+Monsieur, parmi les secrets merveilleux que vous avez apportes des Pays Etrangers, je desirerais bien qu'il y eut une recette contre les migraines de l'espece de la mienne ; votre fortune serait faite. Ensuite des vapeurs dont j'ai ete devoree, il m'en est reste une qui revient regulierement tous les jours a la meme heure.
+MOMUS.
+Et quelle est cette heure-la ?
+ANGELIQUE.
+Dans ce temps-ci, environ six heures du soir.
+MOMUS.
+Et vous n'imaginez point de cause etrangere a laquelle vous puissiez attribuer le retour de cette migraine.
+CLITANDRE.
+Madame ne voit ordinairement a cette heure-la que son, mari, qui revient de ses courses vers la fin du jour, et je crois avoir remarque que, l'Ete, les attaques sont	moins longues.
+MOMUS, a Angelique
+Madame, vous etes bienheureuse d'avoir aupres de vous un observateur comme Monsieur, et quand on connait aussi bien les symptomes d'une maladie, il est aise de la guerir.
+CLITANDRE, a Angelique
+Madame, vous entendez ?
+ANGELIQUE.
+A merveille, Monsieur.
+CLAUDINE, accourant
+Le voila ! Le voila !
+MOMUS.
+Qui donc ? Qui donc ?
+ANGELIQUE.
+Clitandre ? Mon mari ?
+MOMUS, a part
+Et la migraine ? 
+SCENE XX. George Dandin, et les Acteurs precedents.
+GEORGE DANDIN, en entrant, a sa femme.
+Il sera donc dit, Madame, que vous ne sortirez jamais sans avoir Monsieur avec vous ? Est-ce que votre servante Claudine ne suffit pas ?
+ANGELIQUE.
+Une femme comme moi, Monsieur, ne saurait sortir sans avoir quelqu'un qui lui donne la main, et je vous declare positivement que, tant que vous ne me donnerez pas un Laquais, je prierai Monsieur de m'accompagner, ne fut-ce que pour aller chez Monsieur le Baron de Sotenville.
+GEORGE DANDIN.
+Voila bien les impertinences auxquelles je dois m'attendre. Ah ! Pauvre George Dandin ! Tu l'as voulu ; a qui te plaindre ? Tu le sais bien toi, Claudine.
+CLAUDINE.
+Moi, Monsieur ! Je ne sais rien.
+GEORGE DANDIN.
+Non, Madame : il ne sera pas dit que vous me manquiez toujours de la sorte ; je porterai mes plaintes, il faudra en venir a une separation. 
+MOMUS.
+Vous paierez encore ces frais-la, au moins.
+GEORGE DANDIN.
+Et n'est-ce pas moi qui fais les frais de tout.
+ANGELIQUE, a son mari.
+Vous avez bonne grace de vous plaindre ; ce serait moi qui devrais le faire : moi qui ai ete sacrifiee, moi qui pouvais epouser un homme de qualite.
+SCENE XXI. Monsieur Jourdain, et les Acteurs precedents.
+MONSIEUR JOURDAIN entre en chaise a porteur. En entendant les derniers mots de la scene avant de sortir de sa chaise, dont les stores sont baisses, il dit :
+Un homme de qualite ! Qui est-ce qui parle de moi, la ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh ! Bien, qu'est-ce, mes amis ? Voyons, me voila.
+MOMUS.
+Oh ! Oh ! Eh ! C'est Monsieur Jourdain, en robe de chambre ! En cet equipage, venez-vous du bal ? 
+JOURDAIN.
+Non : je sors de chez Poitevin ; c'est le rendez-vous des gens les plus qualifies : et...
+MOMUS.
+Et vous n'avez garde de ne pas vous y trouver ?
+JOURDAIN.
+Vous croyez peut-etre que c'est par ton ? Point du tout ; et si ce n'etait pour des raisons de sante...
+MOMUS.
+Vous paraissez pourtant vous porter a merveille.
+JOURDAIN.
+N'est-ce pas qu'on ne voit guere de gens de qualite se porter aussi bien que moi ?
+MOMUS.
+Je ne peux pas vous dissimuler que cet embonpoint a l'air un peu bourgeois. 
+JOURDAIN.
+Que je suis malheureux ! Allez, allez, laissez-moi faire, j'y mettrai bon ordre ; en vous comptant, voila le huitieme Medecin que je vois.
+SOSIE, a part.
+Quand nous serons a dix, nous ferons une croix.
+MOMUS, a Jourdain.
+Peste ! Vous devez avoir un temperament de fer.
+JOURDAIN.
+Ce qu'il y a de plus desolant pour moi, c'est que je n'ai pas meme la ressource des chagrins pour maigrir. Ma femme est morte.
+MOMUS.
+Cette pauvre Madame Jourdain ! Et de quoi ?
+JOURDAIN.
+De jalousie : parce que les Maitresses de mes amis de la Cour auxquels je prete quelquefois de l'argent venaient chez moi ; et que je suis un peu aimable, elle s'est alle fourrer dans la tete... Enfin elle est morte, et me voila veuf.
+MOMUS.
+Et pret a vous remarier ?
+JOURDAIN.
+C'est selon ; je ne dis pas que, si je trouvais une personne d'une certaine facon... Quelle est cette Dame-la ?
+MOMUS.
+C'est une Dame de qualite avec son mari.
+JOURDAIN.
+Une Dame de qualite ? Et c'est son mari, ca ?
+SOSIE.
+Pourquoi vous en moquer ? Est-ce que Monsieur n'en a pas bien la mine, oui ?
+JOURDAIN.
+Vous allez voir. Madame, que je suis fache que vous soyez tombee en de si pauvres mains ! Mais, en verite, c'est un meurtre : j'espere au moins que vous ne faites pas l'honneur a Monsieur de le traiter comme votre mari ?
+ANGELIQUE.
+Helas ! Pardonnez-moi. Malheureusement, j'ai ete trop bien elevee pour manquer a mes devoirs.
+SOSIE.
+Aussi elle le deteste.
+SCENE XXII. Les Acteurs precedents, Thalie, Tartuffe, Trissotin.
+Ces deux derniers sont fort empresses autour de Thalie.
+THALIE, a tous deux
+Vous me pressez en vain : ce n'est qu'aux yeux de tous
+Que je peux donner a connaitre
+Les sentiments qu'en moi votre ardeur a fait naitre :
+Encore je crains... 
+TARTUFFE.
+Peut-on craindre de nous ? ...			[585]
+THALIE.
+Oui, je crains qu'un transport jaloux
+Dans ce moment ne fasse disparaitre
+L'amitie qui regne entre vous ;
+Car vous etes amis...
+MOMUS.
+Et tres dignes de l'etre.
+THALIE.
+Avant de m'expliquer, jurez a mes genoux,			[590]
+Que l'un de vous, sans haine et sans envie,
+Dans cet instant, par force abandonne,
+Verra son rival fortune
+Triompher avec modestie.
+TRISSOTIN.
+Oh ! De grand coeur, nous le jurons.			[595]
+TARTUFFE, a part.
+Jurons toujours ; ensuite nous verrons.
+THALIE.
+Quoi ! N'acceptez-vous pas ce que je vous propose ?
+TARTUFFE.
+La volonte du Ciel soit faite en toute chose.
+THALIE, a Tartuffe
+Partager sa bouche et son coeur
+Entre les vertus et les vices			[600]
+Me parait un exces d'horreur,
+Dont vous avez trop de complices.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Au moins Monsieur...
+TRISSOTIN, interrompant d'un air de satisfaction, et a part.
+Je le savais bien, moi. 
+THALIE, reprenant
+Au moins, Monsieur, d'une feinte inutile 
+Ne s'est pas impose la Loi ;			[605]
+Et le poison que sa plume distille
+Est un crime de bonne foi.
+MOMUS.
+Les voila bien payes chacun en leurs especes. 
+SOSIE.
+Pour vous guerir de vos faiblesses,
+Cet avis-la vous parait-il suspect ?			[610]
+TRISSOTIN.
+J'ecrirai...
+TARTUFFE.
+Je dirai...
+TRISSOTIN.
+Vous apprendrez, ma mie...
+THALIE.
+Tout beau, Messieurs ; vous manquez de respect :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Sous ces traits connaissez Thalie.
+TRISSOTIN.
+O Ciel !
+TARTUFFE.
+Je suis perdu ! 
+MONSIEUR JOURDAIN.
+Je la trouve jolie,
+Malgre son petit air tant soi peu goguenard ;			[615]
+Et ces yeux eveilles m'inspirent pour ma part
+Certain desir de faire une folie.
+SOSIE.
+Votre Marquise si jolie,
+Convenez-en, Monsieur Jourdain,
+N'avait pas ce regard malin, 			[620]
+Ni cette mine rejouie.
+MONSIEUR JOURDAIN.
+Non, sans doute ; enfin l'on sait bien 
+Qu'une mortelle, ce n'est rien
+Aupres de la moindre Deesse, 
+Fut-elle-meme et Marquise et Princesse.			[625]
+MOMUS.
+Bravo ! L'ami Jourdain ! C'est parler tout au mieux ;
+Je ne repondrais pas qu'un jour au rang des Dieux
+Avec eclat on ne vous vit paraitre.
+MONSIEUR JOURDAIN.
+Quoi ! Cela se pourrait ?
+MOMUS.
+Vous en etes le maitre :
+Il ne faut seulement...
+SCENE XXIII. Lelie, et les Acteurs precedents.
+LELIE, accourant.
+Craignez tous le Docteur ;			[630]
+Il n'est pas Medecin, ce n'est qu'un imposteur :
+Je le sais par la voix commune.
+SOSIE.
+Peste de l'etourdi ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, d'un tour de main,
+Par votre presence importune, 
+Vous faites perdre au bon Monsieur Jourdain			[635]
+La plus eclatante fortune.
+LELIE.
+J'en suis desespere, d'honneur ;
+Car je n'ai pas cette basse manie
+De nuire avec gaite de coeur,
+Et j'ai fait une etourderie.			[640]
+THALIE.
+Vous le deviez...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Rendez grace aux bienfaits
+Que repandit sur vous un immortel genie,
+En vous peignant de ces grands traits 
+Que les fureurs du Temps, ni celles de l'Envie 
+Ne pourront effacer jamais.			[645]
+MOMUS.
+Vous l'entendez : contre le caractere
+Mes remedes sont sans credit ;
+Et, comme la Deesse a dit, 
+Chacun de vous l'a recu de son pere :
+Il faut s'en plaindre a celui qui vous fit. 			[650]
+LELIE.
+Ou le chercher ?
+THALIE, montrant la statue de Moliere qui se decouvre.
+Le voila.
+TOUS LES ACTEURS.
+C'est Moliere :
+Courons embrasser ses genoux.
+SOSIE, aux coulisses.
+Acteurs, Souffleur, Ballets, Messieurs, accourez tous ;
+Qu'apres cent ans complets, ce vif et pur hommage
+A tous les yeux retrace au moins l'image			[655]
+Des transports de nos coeurs a le revoir chez nous. 
+SCENE XXIV, et derniere. Tous les Acteurs de la Comedie, en habit de caractere des pieces de Moliere, sur l'aile droite du Theatre, et tous les Acteurs de la Tragedie en habit Tragique, sur l'aile gauche.
+MONSIEUR LE KAIN, a la tete de la Tragedie.
+De quel eclat nouveau brille aujourd'hui la Scene ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Madame, voyez, en des moments si doux,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Les Enfants les plus chers au coeur de Melpomene,
+Partager leur encens entre Moliere et vous.			[660]
+THALIE, a M. le Kain et aux autres.
+Soyez assures que Thalie
+Goute une douceur infinie
+A voir en ce beau jour tous les coeurs reunis.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je commence une galerie,
+Ou les vrais Enfants du genie,			[665]
+Apres cent ans, rivaux, mais generaux amis,
+De l'immortalite partageront le prix.
+Deja ces piedestaux attendent... 
+MONSIEUR LE KAIN.
+Nous savons ce qu'ils nous demandent,
+Et vos voeux seront accomplis.			[670]
+MONSIEUR BRIZARD, en Auguste.
+Le Souverain d'un vaste Empire,
+Sous cet habit represente,
+Peut-il en ce beau jour etre mieux imite,
+Qu'en partageant un si noble delire ?
+Si des Humains il devint le premier,			[675]
+Rome et Paris ne sont qu'une meme patrie ;
+Et le plus bel emploi d'un immortel laurier,
+Doit etre de briller sur le front du genie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CHOEUR.
+Vivat, vivat, cent fois vivat,
+Solus auitor qui tam tene parlat. 			[680]
+MOMUS, a Thalie
+Thalie, eh bien ! ce nouveau caractere,
+Que nous devions rapporter a Moliere,
+Le voyez-vous parmi ces gens ?
+En faveur de sa Centenaire,
+Vous le lui promettez depuis assez longtemps.			[685]
+THALIE.
+Eh ! ne suffit-il pas, pour feter un bon Pere, 
+De lui presenter ses Enfants ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MARCHE.
+Air de la Marche des Apothicaires du Malade Imaginaire, alternativement avec une Marche caracteristique pour la Tragedie. La Comedie est conduire par Sosie en tete, sa lanterne a la main. La Tragedie, par M. le Kain, en habit de Rodrigue dans le Cid, l'epee a la main. On va saluer la statue de Moliere deux a deux ; et quand Thalie et Momus sont aupres de la statue, ils attachent au piedestal, l'un sa marotte, l'autre son masque, et Sosie place sa lanterne dans l'attitude de Diogene.
+Ballet de caractere.
+Des principaux Divertissements de Moliere.
+VAUDEVILLE.
+THALIE.
+Amis, que l'eclat de ce jour
+Vous anime et vous interesse :
+De reconnaissance et d'amour			[690]
+Les Dieux nous permettent l'ivresse.
+Dans les coeurs amis des talents,
+Que sa place soit la premiere ;
+Et qu'on redise apres cent ans : 
+Vive la gaiete de Moliere !			[695]
+CHOEUR.
+Et qu'on redise, etc.
+MOMUS.
+Les jours passes chez mes Francais
+Furent pour moi dignes d'envie.
+Joyeux, malins, plaisants et gais,
+Qu'ils soient toujours chers a Thalie ;			[700]
+Et s'ils s'endormaient une fois
+Dans leur agreable carriere, 
+Qu'ils se rappellent qu'autrefois, 
+Je dis mon secret a Moliere.
+CHOEUR.
+Qu'ils se rappellent, etc.			[705]
+SOSIE.
+Au genre humain deplait souvent
+Une triste Philosophie,
+Quand elle pretend gauchement
+Corriger les gens qu'elle ennuie.
+Egayer la lecon des moeurs			[710]
+Est la seule bonne maniere.
+Charmer l'esprit, former les coeurs,
+Pour cet art il n'est que Moliere.
+CHOEUR.
+Charmer l'esprit, etc.
+MADAME PERNELLE.
+A se moquer des vieilles gens,			[715]
+On voit s'occuper la Jeunesse ;
+Et de nos Catons de vingt ans,
+L'ennui fait toute la sagesse.
+O vous qui de la verite 
+Craignez la demarche trop fiere,			[720]
+Sous le masque de la gaIte,
+Vous la gouterez chez Moliere.
+CHOEUR.
+Sous le masque, etc.
+ANGELIQUE.
+Quand deux coeurs, pour un doux soupir,
+Forment une amoureuse chaine,			[725]
+De s'opposer a leur desir,
+C'est temps perdu, c'est plainte vaine.
+Infortunes maris jaloux,
+Qu'Amour irrite et desespere,
+Venez prendre lecon chez nous ;			[730]
+Vous la recevrez de Moliere.
+CHOEUR.
+Venez prendre lecon, etc.
+SOSIE.
+Bien des gens plus huppes que moi,
+En ce bas monde, ont plus d'un pere.
+Mais, plus qu'eux, je suis, sur ma foi,			[735]
+Fier de leur devoir la lumiere.
+Fils de Plaute, on vit commencer
+Et mes succes, et ma carriere ;
+Mais il fallait, pour l'achever, 
+Me voir adopter par Moliere.			[740]
+CHOEUR.
+Mais il fallait, etc.
+THALIE, au Parterre.
+En nous accordant vos faveurs, 
+Messieurs, pour cette bagatelle,
+Daignez n'y voir que de nos coeurs
+La reconnaissance et le zele ;			[745]
+Et si nous avions quelques torts,
+Etant empresses a vous plaire,
+Pardonnez nos faibles efforts
+En faveur du nom de Moliere. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MOMUS, a Monsieur Jourdain
+A vous, Monsieur Jourdain ; allons, vous ne donnerez pas quelque chose ?
+MONSIEUR JOURDAIN.
+Est-ce du bon ton de chanter ? La, franchement, foi de Gentilhomme, je ne le crois pas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'en dites-vous, Monsieur ?
+ALCESTE.
+Est-ce qu'on chante ?
+MONSIEUR JOURDAIN.
+Tous ces airs la !... Je n'en sais rien, moi ; attendez, voici... Oui... :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)En faveur de l'ami Moliere,			[750]
+Que je protege ouvertement,
+Je parle a la Cour tres souvent :
+J'y mets son eloquence entiere ;
+C'est l'ouvrage d'un moment.
+MOMUS, a Alceste.
+Et vous, Monsieur du Ruban-vert ?			[755]
+ALCESTE.
+Ma foi, louer, chanter, n'est pas mon caractere ;
+Mais j'y veux deroger, seulement pour Moliere.
+Au surplus, je ne sais qu'un air.
+MOMUS et MONSIEUR JOURDAIN.
+Chantez, chantez toujours.
+ALCESTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Du Roi sans un ordre expres, 			[760]
+Non, jamais d'Oronte
+Je ne louerai les Sonnets :
+Mais je dis, sans honte, 
+Qu'en reverant les talents 
+De nos auteurs excellents,			[765]
+J'aime mieux Moliere,
+O gue,
+J'aime mieux Moliere. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+	==================================================

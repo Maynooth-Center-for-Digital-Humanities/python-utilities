@@ -1,0 +1,570 @@
+********************************************************
+	DC.Title                  = LES MUSES RIVALES, COMEDIE.
+	DC.Author                 = LA HARPE, Jean-Francois de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:22.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/LAHARPE_MUSESRIVALES.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LES MUSES RIVALES EN UN ACTE, ET EN VERS LIBRES.M. DCC. LXXIX. Avec Approbation et Privilege du Roi.
+PAR M. DE LA HARPE, DE L'ACADEMIE FRANCAISE.
+	
+	
+	Representee pour la premiere fois par les Comediens Francais, le 1er fevrier 1779.
+	Madame,
+En payant ce tribut a la memoire d'un grand homme qui m'honorait de son amitie, j'ai rempli le premier de mes devoirs. Je crois m'acquitter du second, en vous, offrant cette piece que le nom de M. de Voltaire et le souvenir de ce qu'on lui devait, ont fait accueillir au Theatre. Si ce triomphe que la reconnaissance publique a decerne a ses manes, n'a pas suivi de plus pres celui dont nous avons vu jouir les derniers jours de fa vieillesse, vous savez, MADAME, quels obstacles m'ont arrete. Vous n'ignorez pas aujourd'hui que cette piece a ete composee peu de temps apres que nous reunies perdu (Elle etait entre les mains de M. le Comte d'Argental, dans les premiers jours de Septembre, et c'est ce respectable ami de M. de Voltaire qui sans connaitre l'Auteur des Muses rivales, a bien voulu prendre tous les soins necessaires pour la representation de la Piece.). Vous vous rappelez les circonstances qui ont suivi sa mort et quelle reserve elles m'imposaient. Il fallait attendre et se taire. La patience et le secret etaient d'une necessite indispensable ; et si l'une devint ensuite pour moi d'un usage penible, l'autre , que je portais dans mon coeur, servait a me consoler de tout.
+Cet hommage tout faible qu'il est en lui-meme, interessera sans doute la niece de M. de Voltaire, celle qui fut trente ans sa compagne inseparable, et qui n'a point eu de sentiment plus cher et plus sacre que celui de la tendresse et de la veneration qu'elle lui portait. Personne n'a su mieux que moi, MADAME, combien les soins que vous aimiez a lui rendre, lui etaient precieux et necessaires ; et qui peut ignorer qu'au milieu, des jouissances, de la gloire, on a souvent besoin des consolations de l'amitie ? On sait combien la votre fut active et courageuse. L'histoire de la vie de M. de Voltaire sera votre plus bel eloge, et vous rendra chere a tous ceux qui l'ont aime. Une auguste souveraine qui lui avait donne les marques les plus flatteuses et les plus distinguees d'une bonte particuliere y a cru ne pouvoir mieux honorer sa memoire ; qu'en repandant les memes faveurs sur la plus tendre amie qu'il ait eue, sur celle qui a pris foin d'embellir la derniere moitie de sa longue carriere.
+C'est aux habitants de l'heureuse Colonie qu'il a fondee et qui le pleure, a rendre temoignage a vos vertus bienfaisantes : c'est a eux a publier tout le bien que vous y avez fait avec lui. Le dernier present dont Ferney vous est. redevable, et le plus beau sans doute, c'est, MADAME, votre, charmante eleve (Madame la Marquise de Villette a qui Ferney appartient aujourd'hui.), que vous leur avez donnee pour protectrice. Formee sous vos yeux, adoptee par leur bienfaiteur, combien elle doit leur etre chere ! Combien ils doivent aimer cette bonte naturelle dont le sentiment est dans son ame, et l'expression dans tous ses traits ! La reconnaissance quelle vous conserve est le garant de leur bonheur, et c'est a elle y c'est a son heureux epoux y d'achever l'ouvrage de M. de Voltaire, et le votre, 
+Je suis avec un respect infini, MADAME,
+Votre tres humble et tres obeissant serviteur,
+DE LA HARPE.
+PREFACE
+Voici ce que dit un auteur Chinois, traduit en Espagnol par le celebre Navarette.
+Si tu composes quelque ouvrage, ne le montre qu'a tes amis ; crains le public et tes confreres ; car on falsifiera, on empoisonnera ce que tu auras fait, et on imputera ce que tu n'auras pas fait. La calomnie, qui a cent trompettes, les fera sonner pour te perdre, tandis que la verite, qui est muette, restera aupres de toi. Le celebre Ming fut accuse d'avoir mal pense du Tien et du Xi et de l'Empereur Vang. On trouva le vieillard moribond qui achevait le panegyrique de Vang, et un hymne au Tien et au Li, etc. Volt...
+
+PERSONNAGES.
+APOLLON.
+MERCURE.
+MOMUS.
+URANIE
+ERATO
+CALLIOPE.
+CLIO.
+THALIE.
+MELPOMENE.
+EUPHROSINE.
+Les deux graces, personnages muets
+La Scene est au Parnasse.
+
+
+
+			
+
+
+SCENE PREMIERE. Erato, Uranie.
+Le theatre represente un Bocage orne de tous les attributs des Arts.
+ERATO.
+C'est donc en ces beaux lieux, c'est dans ce sanctuaire,
+Aux arts de tout temps consacre,
+De leurs attributs decore,
+Que les Muses bientot vont recevoir Voltaire.
+Mercure qu'Apollon vient de lui depecher,			[5]
+Deja dans l'Elysee est alle le chercher.
+Le puissant Dieu de l'harmonie
+Separe ce mortel heureux
+De la foule des morts fameux,
+Qu'il surpassa pendant sa vie.			[10]
+Il l'appelle, et lui-meme enfin
+Lui veut assurer un destin
+Unique, ainsi que son genie.
+Il prodigua tous ses bienfaits
+Sur ce rare ecrivain que lui-meme il admire ;			[15]
+Il pretend parmi nous le fixer a jamais :
+Avec lui du Parnasse il partage l'empire.
+Mercure ici doit l'amener.
+Mais d'un hote si grand digne depositaire,
+Qui de nous, o ma soeur ! Presentera Voltaire			[20]
+Au Dieu qui va le couronner ?
+Nous briguons toutes cette gloire.
+URANIE.
+Nous l'avons toutes inspire.
+ERATO.
+Mais a qui cet honneur sera-t-il defere ?
+Qui doit obtenir la victoire ?			[25]
+URANIE.
+De chacune de nous egalement cheri,
+Notre divinite lui fut toujours propice.
+ERATO.
+Mais celle dont surtout il fut le favori,
+Doit seule etre sa conductrice.
+URANIE.
+Y pretendriez-vous ?
+ERATO.
+Mais je crois le pouvoir,			[30]
+Et j'ai bien quelques droits que je ferai valoir.
+A l'Amour Erato preside ;
+J'apprends a le chanter ; j'embrase de ses feux
+L'auteur qui me prend pour son guide,
+Et je me plais surtout aux amours malheureux.			[35]
+Je transforme en poete un amant qui soupire ;
+J'amollis sous ses doigts les cordes de sa lyre.
+De Tibulle autrefois j'ai recueilli les pleurs ;
+De ses tendres, chagrins j'etais la confidente,:
+Et seule je donnais a sa voix gemissante,			[40]
+Ce charme que l'amour fait meler aux douleurs.
+Je permets quelquefois, par caprice ou par grace,
+A d'aimables voluptueux,
+De m'interesser a leurs jeux.
+Je fus assez souvent assise aupres d'Horace,			[45]
+Quoiqu'il m'ait fait rougir un peu.
+J'aimais a repeter les chansons de Chaulieu,
+Et souris a l'esprit d'Ovide.
+Je cadencai les vers du sensible Quinault.
+Aux bords de l'Eridan je pris un vol plus haut:			[50]
+Le Tasse eut mes crayons, quand il peignit Armide.
+Deux Poetes surtout, deux chantres adores,
+De mes dons les plus beaux se virent honores.
+De grace et de douceur je composai leur style.
+Au bucher de Didon je transportai Virgile.			[55]
+Dans ce tableau funeste il epuisa mon art;
+Moi-meme de mes pleurs, j'arrosai le poignard.
+Je le remis depuis dans, les mains de Racine ;
+Erato fut sa muse, et ma faveur divine
+En a fait mon eleve, en a fait pour toujours			[60]
+Le poete du coeur, le peintre des amours.
+C'est au seul Apollon, ou bien a Melpomene
+D'assigner a leur gre la palme de la scene.
+Je ne decide point ; mais si l'on croit enfin
+Ce sexe, de l'amour le Juge souverain,			[65]
+Qui doit au sentiment et ses droits et ses charmes,
+Si l'on en croit ses yeux embellis par les larmes ;
+A tous mes titres les plus doux,
+Voltaire en joignit un qui les surpasse tous,
+Il fut porter plus loin les talents que j'inspire,			[70]
+Et pour qui sait aimer, mon chef-d'oeuvre est Zaire.
+URANIE.
+Ce titre est assez beau ; mais, soit dit entre nous,
+Croyez-vous donc que Melpomene
+Ne le reclame pas sur vous ?
+Pour moi, je ne suis pas si vaine,			[75]
+Et l'austere Uranie aime peu les debats.
+J'ai mes droits comme une autre, et ne veux rien pretendre.
+Dans vos rivalites, dans tous ces vains eclats,
+Je ne veux point me faire entendre.
+C'est bien assez pour moi, parmi mes favoris,			[80]
+D'avoir jadis compte Voltaire;
+C'est assez que lui seul, de tant de grands esprits,,
+De vos dons seduisants et de vos arts epris,
+Ait penetre mon sanctuaire.
+Je marchai, je l'avoue, au devant de ses pas ;			[85]
+J'osai me presenter devant l'auteur d'Alzire ,
+Et je placai pres de sa lyre
+Mon astrolabe et mon compas.
+J'ouvris a ses regards les spheres infinies.
+Il rencontra Newton dans les hauteurs des Cieux.			[90]
+C'est moi qui rapprochai ces deux vastes genies,
+Ils s'entretinrent sous mes yeux.
+J'obtins ma juste recompense.
+Heureux, d'avoir appris mes immortels secrets,
+Voltaire a mes lecons preta son eloquence,			[95]
+Et m'embellit de ses attraits.
+J'empruntai de ses vers la parure pompeuse.
+Je parus, etalant des vetements nouveaux,
+Et gardant, sous les traits dont m'ornaient ses pinceaux,
+Une beaute majestueuse.			[100]
+Je ne dus qu'a lui seul ces brillants attribut ;
+C'est par lui que la Poesie
+Fit entendre des sons aux mortels inconnus,
+Et que le voile d'Uranie
+Devint l'echarpe de Venus.			[105]
+C'est de ce jour aussi que l'ame de Voltaire
+S'enflamma pour la verite ;
+Et vos illusions, si bien faites pour plaire,
+N'en effacerent point la severe beaute.
+Il poursuivit Terreur, ce tyran de la terre,			[110]
+Le fanatisme affreux*, par Terreur enfante
+Et le malheur et l'innocence
+Imploraient son genie en leur faveur armee
+Sa voix osait parler a l'injuste puissance,
+Et devant l'univers plaidait pour l'opprime.			[115]
+Graces a son zele intrepide,
+L'esprit des nations, trop longtemps arrete,
+A pris un mouvement rapide,
+Que suivra la posterite.
+Voila, voila, ma soeur, des titres respectables ;			[120]
+Je les rappelle ici sans nulle vanite.
+Contente de l'utilite,
+A vos fictions agreables
+Je ne dispute point leur charme si vante.
+Ce n'est pas au pays des fables,			[125]
+Qu'on couronne la verite.
+Mais j'apercois Thalie, et toujours prete a rire.
+SCENE II. Erato, Uranie, Thalie.
+THALIE.
+Mais je ris volontiers, et c'est assez mon gout ?
+Les ris, vous le savez, sont nes sous mon empire.
+La mode, il est vrai, passe, et le temps change tout :			[130]
+On veut me les oter ; mais vous, par aventure,
+Etiez-vous toutes deux en contestation
+Sur le message de Mercure ?
+Vous parliez avec action.
+Je ne presume pas, ou je suis fort trompee,			[135]
+Que tout l'art d'Apollon puisse vous accorder.
+Calliope et Clio, l'Histoire et l'Epopee,
+Ne font pas d'humeur a ceder.
+Ce n'est pas tout encor, mes soeurs, et Melpomene ?
+Je crois deja la voir et l'entendre tonner.			[140]
+Oh ! Vous verrez la bonne scene
+Que ces debats vont nous donner.
+Je cherche a m'amuser de tout ce qui se passe ;
+J'observe et me tiens a l'ecart.
+Le Burin, la Trompette et surtout le Poignard,			[145]
+Vont diviser tout le Parnasse.
+URANIE.
+La paisible Thalie y prendra peu de part.
+THALIE.
+Je me rends justice sans peine,
+Il faut que chacun ait son tour.
+Ce fut jadis le mien : j'ai regne sur la scene;			[150]
+Mais votre grand Voltaire a ma soeur Melpomene
+A fait assidument sa cour.
+Ce fut par passe-temps qu'il me rendit visite.
+Je n'en rendrai pas moins hommage a son merite.
+J'aime ses Euphemons ; je leur applaudis fort,			[155]
+Et mon ami Preville est charmant dans Friport.
+Je conserve ses ces fruits de sa plume immortelle.
+Je conviens qu'avant moi d'autres doivent passer ;
+Je vous laisse briguer la place la plus belle ;
+Mais, Nanine a la main, je pretends l'embrasser.			[160]
+ERATO.
+Je cours pres d'Apollon me ranger la premiere ;
+C'est a lui seul de nous juger.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)URANIE.
+Mais, je vais m'informer de notre Messager.
+Adieu, Thalie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III.
+THALIE.
+On vient. A sa demarche altiere,
+Je reconnais Calliope ma soeur.			[165]
+Elie a l'air d'avoir de l'humeur.
+Clio la suit, et moi, pour achever la scene,
+Je m'en vais chercher Melpomene,
+Les mettre aux prises toutes trois.
+Je ne sais pas pourquoi je ris de leurs querelles ;			[170]
+Car si j'avais les memes droits,
+Ma foi, j'en ferais autant qu'elles.
+SCENE IV. Clio, Calliope.
+CALLIOPE.
+Eh ! Quoi ? Dans ce grand jour, vous pensez preceder 
+La Muse de Virgile et du Tasse et d'Homere ?
+Ce serait a moi de ceder !			[175]
+Sur le Pinde toujours j'ai marche la premiere,
+CLIO.
+Vous l'avez pretendu; mais cette primaute
+Pourrait bien etre une chimere,
+Et la loi de l'egalite
+Doit paraitre plus sage et nous etre plus chere/			[180]
+Les arts font freres et rivaux :
+Eclairer les humains et consoler la terre,
+Voila le but de leurs travaux,
+Et cet auguste emploi les a faits tous egaux.
+Leur emulation s'excite			[185]
+Par la diversite des gouts et des esprits.
+Tel prefere les pleurs, et tel autre les ris ;
+L'un vit avec Homere et l'autre avec Tacite.
+Les mortels occupes du sort des nations,
+S'amusent des accents de votre voix brillante,			[190]
+Mais ils ont pour objet d'une etude constante,
+Mes solides instructions.
+CALLIOPE.
+C'est moi qui de Voltaire illustrai le jeune age.
+CLIO.
+Il courtisa Clio dans sa maturite,
+CALLIOPE.
+Le chantre de Henri, dont je dictai l'ouvrage,			[195]
+Me dut ses premiers droits a l'immortalite.
+De cet eclat naissant la France fut frappee ;
+A ses titres d'honneur il manquait l'epopee.
+On fit ce seul reproche au siecle de Louis ;
+Et Voltaire, a vingt ans, en vengea son pays.			[200]
+CLIO.
+De ce siecle fameux je lui tracai l'histoire ;
+J'ordonnai sous ses mains cet immense tableau.
+Je broyai les couleurs qu'employa son pinceau.
+Aux Courtisans de la Victoire,
+Il montra ce Heros, l'epouvante du Nord,			[205]
+Et dont le nom rappelle au temple de Memoire,
+Toutes les faveurs de la gloire,
+Et tous les outrages du sort. /
+La, j'ai de mon Burin signale l'energie ;
+Moi-meme j'ai place ces chefs-d'oeuvres nouveaux,			[210]
+Pres des monuments les plus beaux
+De la Grece et de l'Italie.
+Il en est un ou l'avenir
+Doit reconnaitre encore une main plus robuste
+Quand Voltaire eleva cet edifice auguste,			[215]
+Il batit sans modele, et dut seul en servir.
+La, tous les peuples de la terre,
+Sont a mon tribunal par sa voix appeles ;
+Il fixe sous ses yeux les siecles ecoules,
+Interroge leur caractere,			[220]
+Les crimes du pouvoir et les erreurs des lois ;
+Partout, il cherche l'homme, et lui rend tous ses droits ;
+Partout, des oppresseurs il brise la statue,
+Et relevant avec grandeur
+L'humanite sacree, a leur pieds abattue,			[225]
+Comme il en est le peintre, il en est le vengeur,
+CALLIOPE.
+Moi, dans des vers divins, j'ai consacre l'image
+Du Roi le plus cher aux Francais,
+Sujet le plus heureux du plus heureux ouvrage.
+Voltaire n'a point eu de plus brillant succes.			[230]
+J'abjurai pour lui seul ces fictions antiques,
+Dont la Grece emprunta le charme de ses vers ;
+De ces mensonges poetiques
+Ma voix assez longtemps amusa l'univers.
+Le Chantre de Henri dut plaire sans la fable ;			[235]
+L'Epopee eut alors de plus males attraits,
+Et pour un heros veritable
+Employa des crayons plus vrais.
+Ce n'est plus cet Achille, arme par un Dieu-meme,
+Achille invulnerable, ecrasant les mortels ;			[240]
+C'est un Roi bienfaisant, dont les soins paternels
+Nourrissent des sujets qu'il combat et qu'il aime.
+Voltaire eternisa ce triomphe supreme.
+O Henri ! Desormais ensemble confondus,
+Et ton nom et le sien iront, malgre l'envie,			[245]
+De la posterite recevoir les tributs ;
+On adorera son genie
+Aussi longtemps que tes vertus.
+On dira qu'a lui seul j'ai remis ma trompette.
+Cet unique bienfait l'emporte sur vos droits,			[250]
+Autant que le Heros qu'a chante mon poete,
+L'emporta sur les autres Rois.
+Vous ne repondez rien... Mais voici Melpomene.
+SCENE V. Clio, Calliope, Melpomene.
+MELPOMENE.
+Qu'ai-je entendu, mes soeurs? Est-il vrai qu'aujourd'hui
+Par une rivalite vaine,			[255]
+On me dispute un droit dont je me crus certaine,
+Et la seule douceur qui reste a mon ennui ?
+C'etait donc peu des pleurs qu'il m'a fallu repandre.
+Au tombeau de Le Kain, objet de ma douleur !
+J'ai dans la meme tombe a la fois vu descendre,			[260]
+Et mon poete et mon acteur.
+J'ai perdu de mon' art le modele supreme.
+Voltaire, helas, n'est plus! Et quand je pense au moins
+A son ombre, en ces lieux, rendre mes derniers soins,
+Et devant Apollon le conduire moi-meme,			[265]
+De tout ce que j'ai fait on veut m'oter le prix !
+Je souffrirai qu'une autre a ses honneurs preside !
+Qu'une autre enfin serve de guide
+Au plus grand de mes favoris ?
+Et sur quoi fondez-vous l'orgueil qui vous enivre ?			[270]
+CALLIOPE.
+Je chante les Heros.
+CLIO.
+Moi, j'enseigne a les suivre.
+MELPOMENE.
+Melpomene les fait revivre.
+Ne pour m'appartenir, de mon art enchanteur,
+Voltaire, au premier pas, atteignit la hauteur;
+Et prompt a s'elancer loin des bornes prescrites,			[275]
+Recula de cet art les antiques limites.
+Le Theatre, agrandi sous son brillant pinceau,
+Offrit des Nations le mobile tableau,
+Fit passer sous les yeux les rapides images
+Des prejuges, des moeurs, des lois et des usages.			[280]
+Le coeur toujours emu, de plaisir transporte,
+S'ouvrant au sentiment, recut la verite.
+Ainsi des passions que le theatre exprime,
+Voltaire sut tirer la morale sublime ;
+Et ne se bornant a de steriles pleurs.			[285]
+Attendrit les humains pour les rendre meilleurs.
+Quelles hautes lecons donna l'epoux d'Alzire,
+Seide, au nom du ciel assassinant Zopire !
+Et sous quelles couleurs il a represente
+Ce Mahomet sublime en son atrocite !			[290]
+Combien a de mon art signale la magie,
+Ce chef-d'oeuvre effrayant d'horreur et d'energie!
+Que ne puis-je a vos yeux offrir ici, mes soeurs,
+La scene qu'animaient ses talents createurs !
+Que de Zaire, o ciel! La voix avait de charmes !			[295]
+Que Merope et son fils ont fait verser de larmes !
+C'est peu de raconter ; non, mes soeurs, venez voir
+Amenaide en pleurs, Tancrede au desespoir,
+Au tombeau de Nihus, Semiramis mourante,
+Ninias et le fer que tient fa main sanglante,			[300]
+Idame prosternee aux genoux de Gengis ,
+Et Brutus ordonnant le trepas de son fils,
+Vendome ivre d'amour et forcene de rage, \
+Et Zamore si grand dans' fa fureur sauvage.
+Voyez a ce spectacle un peuple rassemble,			[305]
+A la voix du poete incessamment trouble;
+Voyez les mouvements de cette foule immense;
+Entendez les sanglots sortir d'un long silence,
+Et l'amour, la pitie, la joie et les douleurs,
+Ne formant qu'un seul cri du cri de tous les coeurs ;			[310]
+C'est la, si vous l'osez, mes soeurs, qu'il faut vous rendre ;
+Et s'il est vrai qu'au prix que je dois remporter,
+Vous puissiez encore pretendre,
+C'est la qu'il faut le disputer.
+CLIO.
+Vous avez vaincu, Melpomene,			[315]
+Je ne saurais vous resister.
+CALLIOPE.
+Peut-etre plus longtemps je pourrais contester ;
+Mais le coeur est pour vous, et ce juge m'entraine.
+Je cede... Eh ! quoi ? Momus !
+SCENE VI. Melpomene, Clio, Calliope, Momus.
+MOMUS.
+Le Dieu de la gaite
+Doit etre de toutes les fetes.			[320]
+Je fais les apprets que vous faites ;
+J'espere parmi vous n'etre point rebute.
+On dit qu'a votre Cour vous appelez Voltaire &gt;
+Il recevra mon compliment :
+Nous sommes bons amis, vraiment ;			[325]
+Et quand vos grands objets (soit dit sans vous deplaire)
+Avaient fatigue son cerveau,
+Je venais sans ceremonie
+Me glisser pres de son bureau
+Et lui conter quelque saillie.			[330]
+J'en fus toujours tres bien traite ;
+Je ne veux point m'en faire accroire ;
+Mais j'etais bon a sa sante,
+Et ne nuisis point a sa gloire.
+Nous causions tous les deux : il avait plus d'un ton,			[335]
+Et goutait volontiers le notre.
+Tout Francais est gai, nous dit-on,
+Et Voltaire en ce sens fut plus Francais qu'un autre.
+C'est pour le delasser qu'avec lui j'ai vecu.
+Je doute qu'on me le reproche.			[340]
+J'ai dicte les "vous" et les "tu"
+Et j'ai Candide dans ma poche.
+CLIO.
+Seigneur Momus, ici soyez le bien venu.
+MOMUS.
+Mais je le fuis partout, et dans l'Olympe meme,
+Ou du grand Jupiter la majeste supreme			[345]
+Se divertit de mes bons mots,
+Et deride son front a mes joyeux propos.
+A mes jeux Minerve s'abaisse,
+Et permet que les ris soient pres de la sagesse.
+Mais ce qui doit surtout me donner du renom,			[350]
+J'ai fait rire jusqu'a Junon ;
+Ce jour-la Jupiter la trouva plus jolie.
+Aux Dieux comme aux mortels, je suis d'un grand secours
+Sans moi dans l'Olympe on s'ennuie,
+Tout comme dans les autres Cours.			[355]
+CLIO.
+Votre gaite vive et legere
+N'est point au Parnasse etrangere.
+Thalie est avec vous, ce me semble, assez bien.
+MOMUS.
+Je dois vous l'avouer : je me plais sur la terre.
+Il est vrai que des gens dont l'humeur est austere			[360]
+Parfois m'y traitent en vaurien,
+Me refusent d'abord l'acces que je demande ;
+Mais de leur echapper le moyen, est aise :
+Cache sous le manteau, je passe deguise,
+Et comme un Dieu de contrebande.			[365]
+Ainsi je les mets en defaut ;
+Eux-memes quelquefois usant de complaisance,
+Ils m'ont dit avec indulgence :
+« Ris, on te le permet; rire est ce qu'il nous faut ;
+Mais ne te nomme pas, et ne ris pas trop haut. »			[370]
+CALLIOPE.
+ Cet avis est un bon office.
+MOMUS.
+Oh ! Vraiment qans cela je vous aurais conte
+Les folatres acces de verve et de gaite,
+Ou j'eus Voltaire pour complice ;
+Nous y mettions parfois quelque peu de malice.			[375]
+Mais il faut bien etre discret ;
+Le public meme ici me prescrit de me taire ;
+Son exemple est pour moi la lecon du mystere ;
+Ce public, qui sait tout, nous garde le secret.
+CALLIOPE.
+Momus est devenu bien sage.			[380]
+SCENE VII. Melpomene, Clio, Calliope, Momus, Apollon, Les Graces, Erato, Thalie, Uranie, Euterpe, Therpsicore, Polymnie.
+MOMUS.
+Ah ! Je puis enfin au seigneur Apollon
+Presenter ici mon hommage.
+Quoi ! Les Graces aussi dans le sacre vallon !
+APOLLON.
+Elles daignent souvent m'accorder leur presence.
+Aux Graces, comme aux Arts, ce Temple est consacre»			[385]
+EUPHROSINE.
+En des lieux ou Voltaire a droit d'etre honore,
+On eut remarque notre absence.
+Nous avons toutes trois entoure son berceau,
+Et c'est a nous qu'il dut, dans le cours de sa vie,
+Cette facilite, le present le plus beau			[390]
+Que nous puissions faire au genie.
+Les Graces a Voltaire ont appris leurs secrets,
+Cet art de briller sans parure,
+D'etre grand sans effort, elegant sans apprets,
+Et de rester toujours aupres de la nature.			[395]
+Il a compose sous nos yeux
+Ces bagatelles si charmantes
+Et tous ces riens si precieux,
+De son gout delicat inimitables jeux,
+Et de l'esprit francais les fleurs les plus brillantes.			[400]
+Nous cultivions, son gout et son urbanite ;
+Et ceux que touche sa memoire,
+En deplorant sa perte, ont encor regrette
+Ces agrements si doux dans la societe,
+Qui font pardonner a la gloire.			[405]
+APOLLON.
+La sienne m'est bien chere, et vous allez le voir.
+Les honneurs que pour lui j'apprete....
+Mais ecoutons Mercure : il est tems de savoir
+Si nous aurons ici le Heros de la fete.
+SCENE VIII et DERNIERE. Les acteurs precedents, Mercure.
+MERCURE.
+Je ne saurais vous en flatter ;			[410]
+APOLLON.
+Comment, il faut que j'y renonce ?
+Quoi !
+MERCURE.
+Tres fidelement je vais vous rapporter
+Et mon message et sa reponse.
+Dans l'Elysee a peine on le faisait entrer,
+Quand je suis descendu sur cet heureux rivage ;			[415]
+Et le premier objet qui vint a son passage,
+C'est ce Roi si cheri qu'il a su celebrer.
+D'un mouvement involontaire,
+Le chantre et le heros l'un vers l'autre ont vole ;
+Et l'Elysee a vu, sur leurs pas rassemble,			[420]
+Henri quatre embrassant Voltaire.
+Je m'approche, et lui dis que pour le couronner,
+Apollon le mande au Parnasse.
+« De ses bontes je lui rends grace,
+(Me repond-il ) vers lui vous pouvez retourner.			[425]
+Je retrouve l'objet de mon culte fidele.
+Tout ce que vous m'offrez serait d'un moindre prix.
+Si j'ai vecu trop peu sous le jeune Louis,
+Je demeure a jamais aupres de son modele. »
+APOLLON.
+Il dut faire un tel choix, et j'y dois deferer.			[430]
+Si de le posseder nous perdons l'avantage,
+Au moins rendons a son image
+Les honneurs que pour lui j'aimais a preparer.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Graces, couvrez-la de guirlandes.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Arts, sujets d'Apollon, portez-lui vos offrandes.			[435]
+Muses, vos attributs sont les siens desormais.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Suivez l'exemple que je donne.
+Moi-meme sur son front je pose ma couronne.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que Voltaire soit a jamais,
+Et le Dieu du Theatre et l'Apollon Francais.			[440]
+Vous, Therpsicore, Euterpe et Polymnie,
+Qu'a sa gloire aujourd'hui vos jeux soient consacres.
+Il faut que tous les arts honorent son genie,
+Puisqu'il les a tous honores.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)APOLLON.
+Et vous a qui ma voix saura se faire entendre,			[445]
+Vous, ses concitoyens, mes plus chers favoris,
+Peuple heureux, dont la gloire ira partout s'etendre
+Avec celle de ses ecrits ;
+Parmi vous a jamais consacrez cet hommage
+Que nous venons de rendre a ses manes cheris ;			[450]
+Que chez vos neveux attendris
+Il soit repete d'age en age.
+Je recois par vos mains les tributs les plus doux
+Des beaux arts dans vos murs la foule est reunie ;
+Et pour les y fixer, Apollon veut chez vous			[455]
+Fonder la fete du genie.
+
+	==================================================

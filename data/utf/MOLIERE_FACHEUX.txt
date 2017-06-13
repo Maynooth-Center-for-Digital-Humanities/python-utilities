@@ -1,0 +1,1314 @@
+********************************************************
+	DC.Title                  = LES FACHEUX, COMEDIE
+	DC.Author                 = MOLIERE
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:25.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/MOLIERE_FACHEUX.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LES FACHEUX COMEDIEREPRESENTEE SUR le Theatre du Palais-Royal.M. DC. LXII.
+Par J.B.P MOLIERE
+	A PARIS, Chez GUILLAUME DE LUYNE, Libraire jure, au Palais, dans la Salle des Merciers, a la Justice.
+	Acheve d'imprimer le 18 fevrier 1662. Registre sur le livre de la communaute le 13 fevrier 1662. Signe DUBRAY, syndic. Les exemplaires ont ete fournis.
+	
+	SIRE,
+J'ajoute une scene a la comedie ; et c'est une espece de facheux insupportable, qu'une homme qui dedie un livre. Votre majeste en sait des nouvelles plus que personne de son royaume, et ce n'est pas d'aujourd'hui qu'elle se voit en butte a la furie des epitres dedicatoires. Mais, bien que je suive l'exemple des autres, et me mette moi-meme au rang de ceux que j'ai joues, j'ose dire toutefois a VOTRE MAJESTE que ce que j'en ai fait n'est pas tant pour lui presenter un livre, que pour avoir de lui rendre graces du succes de cette comedie. Je le dois dire, SIRE, ce succes qui a passe mon attente, non seulement a cette glorieuse approbation dont votre majeste honora d'abord la piece, et qui a entraine si hautement celle de tout le monde, mais encore a l'ordre qu'elle me donna d'y ajouter un caractere facheux dont elle eut la bonte de m'ouvrir les idees elle-meme, et qui a trouve partout le plus beau morceau de l'ouvrage. Il faut avouer, SIRE, que je n'ai jamais rien fait avec tant de facilite, ni si promptement, que cet endroit ou votre majeste me commanda de travailler. J'avais une joie a lui obeir qui me valait bien mieux qu'Appollon et toutes les muses ; et je concois par la ce que je serais capable d'executer par une comedie entiere, si j'etais inspire par de pareils commandements. Ceux qui sont nes dans un rang eleve peuvent se proposer l'honneur de servir votre majeste dans les grands emplois ; mais pour moi, toute la gloire ou je puisse aspirer, c'est de la rejouir. Je borne la l'ambition de mes souhaits ; et je crois qu'en quelque facon ce n'est pas etre inutile a la France que de contribuer en quelque chose au divertissement de son roi. Quand je n'y reussirais pas, ce ne sera jamais un defaut de zele ni d'etude, mais seulement par un mauvais destin qui suit assez souvent les meilleures intentions, et qui sans doute affligerait sensiblement, SIRE, 
+de VOTRE MAJESTE le tres humble, tres obeissant et tres fidele serviteur,
+J.P.B. MOLIERE.
+PREFACE
+Jamais entreprise au theatre ne fut si precipitee que celle-ci ; et c'est une chose, je crois, toute nouvelle, qu'une comedie ait ete concue, faite, apprise et representee en quinze jours. Je ne dis pas cela pour me piquer de l'Impromptu, et en pretendre de la gloire, mais seulement pour prevenir certaines gens qui pourraient trouver a redire que je n'aie pas mis ici toutes les especes de Facheux qui se trouvent. Je sais que le nombre en est grand, et a la Cour, et dans la ville, et que, sans episodes, j'eusse bien pu en composer une comedie de cinq actes bien fournis, et avoir encore de la matiere de reste. Mais, dans le peu de temps qui me fut donne, il m'etait impossible de faire un grand dessein, et de rever beaucoup sur le choix de mes personnages et sur la disposition de mon sujet. Je me reduisis donc a ne toucher qu'un petit nombre d'Importuns ; et je pris ceux qui s'offrirent d'abord a mon esprit, et que je crus les plus propres a rejouir des augustes personnes devant qui j'avais a paraitre : et, pour lier promptement toutes ces choses ensemble, je me servis du premier noeud que je pus trouver. Ce n'est pas mon dessein d'examiner maintenant si tout cela pouvait etre mieux, et si tous ceux qui s'y sont divertis ont ri selon les regles ; Le temps viendra de faire imprimer mes remarques sur les pieces que j'aurai faites, et je ne desespere pas de faire voir un jour, en grand auteur, que je puis citer Aristote et Horace. En attendant cet examen, qui peut-etre ne viendra point, je m'en remets assez aux decisions de la multitude, et je tiens aussi difficile de combattre un ouvrage que le public approuve, que d'en defendre un qu'il condamne.
+Il n'y a personne qui ne sache pour quelle rejouissance la piece fut composee ; et cette fete a fait un tel eclat, qu'il n'est pas necessaire d'en parler : mais il ne sera pas hors de propos de dire deux paroles des ornements qu'on a meles avec la Comedie.
+Le dessein etait de donner un ballet aussi ; et, comme il n'y avait qu'un tres petit nombre choisi de danseurs excellents, on fut contraint de separer les entrees de ce ballet, et l'avis fut de les jeter dans les Entre-Actes de la Comedie, afin que ces intervalles donnassent temps aux memes baladins de venir sous d'autres habits ; de sorte que, pour ne point rompre aussi le fil de la piece par ces manieres d'intermedes, on avisa de les coudre au sujet du mieux que l'on put, et de ne faire qu'une seule chose du ballet et de la comedie : mais comme le temps etait fort precipite, et que tout cela ne fut pas regle entierement par une meme tete, on trouvera peut-etre quelques endroits du ballet qui n'entrent pas dans la Comedie aussi naturellement que d'autres. Quoi qu'il en soit, c'est un melange qui est nouveau pour nos theatres, et dont on pourrait chercher quelques autorites dans l'Antiquite ; Et comme tout le monde l'a trouve agreable, il peut servir l'idee a d'autres choses qui pourraient etre meditees avec plus de loisir.
+D'abord que la toile fut levee, un des acteurs, comme vous pourriez dire de moi, parut sur le theatre en habit de ville, et, s'adressant au roi avec le visage d'une homme surpris, fit des excuses en desordre de ce qu'il se trouvait la seul, et manquait de temps et d'acteurs pour donner a sa majeste le divertissement qu'elle semblait attendre. En meme temps, au milieu de vingt jets d'eau naturels, s'ouvrit cette coquille que tout le monde a vue ; et l'agreable naiade qui parut dedans s'avanca au bord du theatre, et d'un air heroique prononca les vers que Monsieur Pelisson avait faits, et qui servent de Prologue.
+
+ACTEURS
+ERASTE, amoureux d'Orphise.
+LA MONTAGNE, valet d'Eraste.
+ALCIDOR, facheux.
+ORPHISE.
+LISANDRE, facheux.
+ALCANDRE, facheux.
+ALCIPPE, facheux.
+ORANTE, facheux.
+CLIMENE, facheux.
+DORANTE, facheux.
+CARITIDES, facheux.
+ORMIN, facheux.
+FILINTE, facheux.
+DAMIS, tuteur d'Orphise.
+L'EPINE, valet de Damis.
+LA RIVIERE, et deux autres valets d'Eraste.
+Personnages du Ballet.
+JOUEURS du MAIL, du premier acte.
+CURIEUX, du premier acte.
+JOUEURS de BOULE, du second acte.
+FRONDEURS, du second acte.
+SAVETIERS et SAVETIERES, du second acte.
+Un JARDINIER, du second acte.
+SUISSES, du troisieme acte.
+QUATRE BERGERS, du troisieme acte.
+BERGERE, du troisieme acte.
+La Scene est a Paris.
+
+
+
+			PROLOGUE
+
+
+
+Le theatre represente un jardin ordonne de terme et de plusieurs jets d'eau.
+UNE NAIADE, sortant des eaux dans une coquille.
+Pour voir en ces beaux lieux le plus grand roi du monde,
+Mortels, je viens a vous de ma grotte profonde.
+Faut-il, en sa faveur, que la terre ou que l'eau
+Produisent a vos yeux un spectacle nouveau ?
+Qu'il sache, ou qu'il souhaite, il n'est rien d'impossible			[5]
+Lui-meme n'est-il pas un miracle visible ?
+Son regne, si fertile en miracles divers,
+N'en demande-t-il pas a tout cet univers ?
+Jeune, victorieux, sage, vaillant, auguste,
+Aussi doux que severe, aussi puissant que juste ;			[10]
+Regler et ses etats et ses propres desirs ;
+Joindre aux nobles travaux les plus nobles plaisirs ;
+En ces justes projets jamais ne se meprendre ;
+Agir incessamment, tout voir et tout entendre ;
+Qui peut cela peut tout : il n'a qu'a tout oser,			[15]
+Et le ciel a ses voeux ne peut rien refuser.
+Ces termes marcheront, et, si Louis l'ordonne,
+Ces arbres parleront mieux que ceux de Dedone.
+Hotesses de leurs troncs, moindres divinites,
+C'est Louis qui le veut, sortes, nymphes, sortez ;			[20]
+Je vous montre l'exemple : il s'agit de lui plaire.
+Quittez pour quelque temps votre forme ordinaire,
+Et paraissons aux yeux des spectateurs
+Pour ce nouveau theatre autant de vrais acteurs.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous, soin de ses sujets, sa plus charmante etude,			[25]
+Heroique souci, royale inquietude,
+Laissez le respirer, et souffrez qu'un moment
+Son grand coeur s'abandonne au divertissement :
+Vous le verrez demain, d'une force nouvelle ;
+Sous le fardeau penible ou votre voix l'appelle,			[30]
+Faire obeir les lois, partager les bienfaits,
+Par ses propres conseils prevenir vos souhaits,
+Maintenir l'univers dans une paix profonde,
+Et s'oter le repos pour le donner au monde.
+Qu'aujourd'hui tout lui plaise, et semble consentir			[35]
+A l'unique dessein de le bien divertir.
+Facheux, retirez-vous ; ou s'il faut qu'on vous voie,
+Que ce soit seulement pour exciter sa joie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			ACTE I
+
+
+SCENE PREMIERE. Eraste, La Montagne.
+ERASTE.
+Sous quel astre, bon Dieu, faut-il que je sois ne,
+Pour etre de facheux toujours assassine !			[40]
+Il semble que partout le sort me les adresse,
+Et j'en vois chaque jour quelque nouvelle espece ;
+Mais il n'est rien d'egal au facheux d'aujourd'hui ;
+J'ai cru n'etre jamais debarrasse de lui,
+Et cent fois j'ai maudit cette innocente envie			[45]
+Qui m'a pris a dine de voir la comedie,
+Ou, pensant m'egayer, j'ai miserablement
+Trouve de mes peches le rude chatiment.
+Il faut que je te fasse un recit de l'affaire,
+Car je m'en sens encor tout emu de colere.			[50]
+J'etais sur le theatre, en humeur d'ecouter
+La piece, qu'a plusieurs j'avais oui vanter ;
+Les acteurs commencaient, chacun pretait silence,
+Lorsque d'un air bruyant et plein d'extravagance,
+Un homme a grands canons est entre brusquement,			[55]
+En criant : « Hola-ho ! Un siege promptement ! »
+Et de son grand fracas surprenant l'assemblee,
+Dans le plus bel endroit a la piece troublee.
+He ! Mon Dieu ! Nos Francais, si souvent redresses,
+Ne prendront-ils jamais un air de gens senses,			[60]
+Ai-je dit, et faut-il sur nos defauts extremes
+Qu'en theatre public nous nous jouions nous-memes,
+Et confirmions ainsi par des eclats de fous
+Ce que chez nos voisins on dit partout de nous ?
+Tandis que la-dessus je haussais les epaules,			[65]
+Les acteurs ont voulu continuer leurs roles ;
+Mais l'homme pour s'asseoir a fait nouveau fracas,
+Et traversant encor le theatre a grands pas,
+Bien que dans les cotes il put etre a son aise,
+Au milieu du devant il a plante sa chaise,			[70]
+Et de son large dos morguant les spectateurs,
+Aux trois quarts du parterre a cache les acteurs.
+Un bruit s'est eleve, dont un autre eut eu honte ;
+Mais lui, ferme et constant, n'en a fait aucun compte,
+Et se serait tenu comme il s'etait pose,			[75]
+Si, pour mon infortune, il ne m'eut avise.
+"Ha ! Marquis, m'a-t-il dit, prenant pres de moi place,
+Comment te portes-tu ? Souffre que je t'embrasse."
+Au visage sur l'heure un rouge m'est monte
+Que l'on me vit connu d'un pareil evente.			[80]
+Je l'etais peu pourtant ; mais on en voit paraitre,
+De ces gens qui de rien veulent fort vous connaitre,
+Dont il faut au salut les baisers essuyer,
+Et qui sont familiers jusqu'a vous tutoyer.
+Il m'a fait a l'abord cent questions frivoles,			[85]
+Plus haut que les acteurs elevant ses paroles.
+Chacun le maudissait ; et moi, pour l'arreter :
+" Je serais, ai-je dit, bien aise d'ecouter.
+- Tu n'as point vu ceci, marquis ? Ah ! Dieu me damne,
+Je le trouve assez drole, et je n'y suis pas ane ;			[90]
+Je sais par quelles lois un ouvrage est parfait,
+Et Corneille me vient lire tout ce qu'il fait. "
+La-dessus de la piece il m'a fait un sommaire,
+Scene a scene averti de ce qui s'allait faire ;
+Et jusques a des vers qu'il en savait par coeur,			[95]
+Il me les recitait tout haut avant l'acteur.
+J'avais beau m'en defendre, il a pousse sa chance,
+Et s'est devers la fin leve longtemps d'avance ;
+Car les gens du bel air, pour agir galamment,
+Se gardent bien surtout d'ouir le denouement.			[100]
+Je rendais grace au ciel, et croyais de justice
+Qu'avec la comedie eut fini mon supplice ;
+Mais, comme si c'en eut ete trop bon marche,
+Sur nouveaux frais mon homme a moi s'est attache,
+M'a conte ses exploits, ses vertus non communes,			[105]
+Parle de ses chevaux, de ses bonnes fortunes,
+Et de ce qu'a la cour il avait de faveur,
+Disant qu'a m'y servir il s'offrait de grand coeur.
+Je le remerciais doucement de la tete,
+Minutant a tous coups quelque retraite honnete ;			[110]
+Mais lui, pour le quitter me voyant ebranle :
+" Sortons, ce m'a-t-il dit, le monde est ecoule ; "
+Et sortis de ce lieu, me la donnant plus seche :
+" Marquis, allons au cours faire voir ma caleche ;
+Elle est bien entendue, et plus d'un Duc et Pair			[115]
+En fait a mon faiseur faire une du meme air. "
+Moi de lui rendre grace, et pour mieux m'en defendre,
+De dire que j'avais certain repas a rendre.
+" Ah ! Parbleu ! J'en veux etre, etant de tes amis,
+Et manque au marechal, a qui j'avais promis.			[120]
+- De la chere, ai-je fait, la dose est trop peu forte,
+Pour oser y prier des gens de votre sorte.
+- Non, m'a-t-il repondu, je suis sans compliment,
+Et j'y vais pour causer avec toi seulement ;
+Je suis des grands repas fatigue, je te jure.			[125]
+- Mais si l'on vous attend, ai-je dit, c'est injure...
+- Tu te moques, marquis : nous nous connaissons tous,
+Et je trouve avec toi des passe-temps plus doux. "
+Je pestais contre moi, l'ame triste et confuse
+Du funeste succes qu'avait eu mon excuse,			[130]
+Et ne savais a quoi je devais recourir
+Pour sortir d'une peine a me faire mourir,
+Lorsqu'un carrosse fait de superbe maniere,
+Et comble de laquais et devant et derriere,
+S'est avec un grand bruit devant nous arrete,			[135]
+D'ou sautant un jeune homme amplement ajuste,
+Mon importun et lui courant a l'embrassade
+Ont surpris les passants de leur brusque incartade ;
+Et tandis que tous deux etaient precipites
+Dans les convulsions de leurs civilites,			[140]
+Je me suis doucement esquive sans rien dire,
+Non sans avoir longtemps gemi d'un tel martyre,
+Et maudit ce facheux, dont le zele obstine
+M'otait au rendez-vous qui m'est ici donne.
+LA MONTAGNE.
+Ce sont chagrins meles aux plaisirs de la vie :			[145]
+Tout ne va pas, monsieur, au gre de notre envie.
+Le ciel veut qu'ici-bas chacun ait ses facheux,
+Et les hommes seraient sans cela trop heureux.
+ERASTE.
+Mais de tous mes facheux le plus facheux encore,
+C'est Damis, le tuteur de celle que j'adore,			[150]
+Qui rompt ce qu'a mes voeux elle donne d'espoir,
+Et fait qu'en sa presence elle n'ose me voir.
+Je crains d'avoir deja passe l'heure promise,
+Et c'est dans cette allee ou devait etre Orphise.
+LA MONTAGNE.
+L'heure d'un rendez-vous d'ordinaire s'etend,			[155]
+Et n'est pas resserree aux bornes d'un instant.
+ERASTE.
+Il est vrai ; mais je tremble, et mon amour extreme
+D'un rien se fait un crime envers celle que j'aime.
+LA MONTAGNE.
+Si ce parfait amour, que vous prouvez si bien,
+Se fait vers votre objet un grand crime de rien,			[160]
+Ce que son coeur pour vous sent de feux legitimes,
+En revanche lui fait un rien de tous vos crimes.
+ERASTE.
+Mais, tout de bon, crois-tu que je sois d'elle aime ?
+LA MONTAGNE.
+Quoi ? Vous doutez encor d'un amour confirme... ?
+ERASTE.
+Ah ! C'est malaisement qu'en pareille matiere			[165]
+Un coeur bien enflamme prend assurance entiere ;
+Il craint de se flatter, et dans ses divers soins,
+Ce que plus il souhaite est ce qu'il croit le moins.
+Mais songeons a trouver une beaute si rare.
+LA MONTAGNE.
+Monsieur, votre rabat par devant se separe.			[170]
+ERASTE.
+N'importe.
+LA MONTAGNE.
+Laissez-moi l'ajuster, s'il vous plait.
+ERASTE.
+Ouf ! Tu m'etrangles, fat ; laisse-le comme il est.
+LA MONTAGNE.
+Souffrez qu'on peigne un peu...
+ERASTE.
+Sottise sans pareille !
+Tu m'as d'un coup de dent presque emporte l'oreille.
+LA MONTAGNE.
+Vos canons...
+ERASTE.
+Laisse-les, tu prends trop de souci.			[175]
+LA MONTAGNE.
+Ils sont tout chiffonnes.
+ERASTE.
+Je veux qu'ils soient ainsi.
+LA MONTAGNE.
+Accordez-moi du moins, pour grace singuliere,
+De frotter ce chapeau, qu'on voit plein de poussiere.
+ERASTE.
+Frotte donc, puisqu'il faut que j'en passe par la.
+LA MONTAGNE.
+Le voulez-vous porter fait comme le voila ?			[180]
+ERASTE.
+Mon Dieu, depeche-toi.
+LA MONTAGNE.
+Ce serait conscience.
+ERASTE, apres avoir attendu.
+C'est assez.
+LA MONTAGNE.
+Donnez-vous un peu de patience.
+ERASTE.
+Il me tue.
+LA MONTAGNE.
+En quel lieu vous etes-vous fourre ?
+ERASTE.
+T'es-tu de ce chapeau pour toujours empare ?
+LA MONTAGNE.
+C'est fait.
+ERASTE.
+Donne-moi donc.			[185]
+LA MONTAGNE, laissant tomber le chapeau.
+Hai !			[185]
+ERASTE.
+Le voila par terre :			[185]
+Je suis fort avance. Que la fievre te serre !
+LA MONTAGNE.
+Permettez qu'en deux coups j'ote...
+ERASTE.
+Il ne me plait pas.
+Au diantre tout valet qui vous est sur les bras,
+Qui fatigue son maitre, et ne fait que deplaire
+A force de vouloir trancher du necessaire !			[190]
+SCENE II. Orphise, Alcidor, Eraste, la Montagne.
+Orphise traverse le fond du theatre ; Alcidor lui donne la main.
+ERASTE.
+Mais vois-je pas Orphise ? Oui, c'est elle qui vient.
+Ou va-t-elle si vite, et quel homme la tient ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III. Eraste, la Montagne.
+ERASTE.
+Quoi ? Me voir en ces lieux devant elle paraitre,
+Et passer en feignant de ne me pas connaitre !
+Que croire ? Qu'en dis-tu ? Parle donc, si tu veux.			[195]
+LA MONTAGNE.
+Monsieur, je ne dis rien, de peur d'etre facheux.
+ERASTE.
+Et c'est l'etre en effet que de ne me rien dire
+Dans les extremites d'un si cruel martyre.
+Fais donc quelque reponse a mon coeur abattu.
+Que dois-je presumer ? Parle, qu'en penses-tu ?			[200]
+Dis-moi ton sentiment.
+LA MONTAGNE.
+Monsieur, je veux me taire,
+Et ne desire point trancher du necessaire.
+ERASTE.
+Peste l'impertinent ! Va-t'en suivre leurs pas,
+Vois ce qu'ils deviendront, et ne les quitte pas.
+LA MONTAGNE, revenant sur ses pas.
+Il faut suivre de loin ?...
+ERASTE.
+Oui.			[205]
+LA MONTAGNE, revenant sur ses pas.
+Sans que l'on me voie			[205]
+Ou faire aucun semblant qu'apres eux on m'envoie ?
+ERASTE.
+Non, tu feras bien mieux de leur donner avis
+Que par mon ordre expres ils sont de toi suivis.
+LA MONTAGNE, revenant sur ses pas.
+Vous trouverai-je ici ?
+ERASTE.
+Que le ciel te confonde,
+Homme, a mon sentiment, le plus facheux du monde !			[210]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV.
+ERASTE.
+Ah ! Que je sens de trouble, et qu'il m'eut ete doux
+Qu'on me l'eut fait manquer, ce fatal rendez-vous !
+Je pensais y trouver toutes choses propices,
+Et mes yeux pour mon coeur y trouvent des supplices.
+SCENE V. Lisandre, Eraste.
+LISANDRE.
+Sous ces arbres, de loin, mes yeux t'ont reconnu,			[215]
+Cher marquis, et d'abord je suis a toi venu.
+Comme a de mes amis, il faut que je te chante
+Certain air que j'ai fait de petite courante,
+Qui de toute la cour contente les experts,
+Et sur qui plus de vingt ont deja fait des vers.			[220]
+J'ai le bien, la naissance, et quelque emploi passable,
+Et fais figure en France assez considerable ;
+Mais je ne voudrais pas, pour tout ce que je suis,
+N'avoir point fait cet air qu'ici je te produis.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La, la, hem, hem, ecoute avec soin, je te prie.			[225]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)N'est-elle pas belle ?
+ERASTE.
+Ah !
+LISANDRE.
+Cette fin est jolie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Comment la trouves-tu ?
+ERASTE.
+Fort belle assurement.
+LISANDRE.
+Les pas que j'en ai faits n'ont pas moins d'agrement,
+Et surtout la figure a merveilleuse grace.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tiens, l'homme passe ainsi ; puis la femme repasse ;			[230]
+Ensemble ; puis on quitte, et la femme vient la.
+Vois-tu ce petit trait de feinte que voila ?
+Ce fleuret ? Ces coupes courant apres la belle ?
+Dos a dos ; face a face, en se pressant sur elle.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que t'en semble, marquis ?
+ERASTE.
+Tous ces pas la sont fins.			[235]
+LISANDRE.
+Je me moque, pour moi, des maitres baladins.
+ERASTE.
+On le voit.
+LISANDRE.
+Les pas donc... ?
+ERASTE.
+N'ont rien qui ne surprenne.
+LISANDRE.
+Veux-tu, par amitie, que je te les apprenne ?
+ERASTE.
+Ma foi, pour le present, j'ai certain embarras...
+LISANDRE.
+Eh bien ! Donc, ce sera lorsque tu le voudras.			[240]
+Si j'avais dessus moi ces paroles nouvelles,
+Nous les lirions ensemble, et verrions les plus belles.
+ERASTE.
+Une autre fois.
+LISANDRE.
+Adieu : Baptiste le tres cher
+N'a point vu ma courante, et je le vais chercher.
+Nous avons pour les airs de grandes sympathies,			[245]
+Et je veux le prier d'y faire des parties.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI.
+ERASTE.
+Ciel ! Faut-il que le rang, dont on veut tout couvrir,
+De cent sots tous les jours nous oblige a souffrir,
+Et nous fasse abaisser jusques aux complaisances
+D'applaudir bien souvent a leurs impertinences ?			[250]
+SCENE VII. Eraste, La Montagne.
+LA MONTAGNE.
+Monsieur, Orphise est seule, et vient de ce cote.
+ERASTE.
+Ah ! D'un trouble bien grand je me sens agite :
+J'ai de l'amour encor pour la belle inhumaine,
+Et ma raison voudrait que j'eusse de la haine.
+LA MONTAGNE.
+Monsieur, votre raison ne sait ce qu'elle veut,			[255]
+Ni ce que sur un coeur une maitresse peut.
+Bien que de s'emporter on ait de justes causes,
+Une belle d'un mot rajuste bien des choses.
+ERASTE.
+Helas ! Je te l'avoue, et deja cet aspect
+A toute ma colere imprime le respect.			[260]
+SCENE VIII. Orphise, Eraste, La Montagne.
+ORPHISE.
+Votre front a mes yeux montre peu d'allegresse :
+Serait-ce ma presence, Eraste, qui vous blesse ?
+Qu'est-ce donc ? Qu'avez-vous ? Et sur quels deplaisirs,
+Lorsque vous me voyez, poussez-vous des soupirs ?
+ERASTE.
+Helas ! Pouvez-vous bien me demander, cruelle,			[265]
+Ce qui fait de mon coeur la tristesse mortelle ?
+Et d'un esprit mechant n'est-ce pas un effet
+Que feindre d'ignorer ce que vous m'avez fait ?
+Celui dont l'entretien vous a fait a ma vue
+Passer...
+ORPHISE, riant.
+C'est de cela que votre ame est emue ?			[270]
+ERASTE.
+Insultez, inhumaine, encore a mon malheur.
+Allez, il vous sied mal de railler ma douleur,
+Et d'abuser, ingrate, a maltraiter ma flamme,
+Du faible que pour vous vous savez qu'a mon ame.
+ORPHISE.
+Certes il en faut rire, et confesser ici			[275]
+Que vous etes bien fou de vous troubler ainsi.
+L'homme dont vous parlez, loin qu'il puisse me plaire,
+Est un homme facheux dont j'ai su me defaire,
+Un de ces importuns et sots officieux
+Qui ne sauraient souffrir qu'on soit seule en des lieux,			[280]
+Et viennent aussitot avec un doux langage
+Vous donner une main contre qui l'on enrage.
+J'ai feint de m'en aller pour cacher mon dessein,
+Et jusqu'a mon carrosse il m'a prete la main ;
+Je m'en suis promptement defaite de la sorte,			[285]
+Et j'ai pour vous trouver rentre par l'autre porte.
+ERASTE.
+A vos discours, Orphise, ajouterai-je foi,
+Et votre coeur est-il tout sincere pour moi ?
+ORPHISE.
+Je vous trouve fort bon de tenir ces paroles,
+Quand je me justifie a vos plaintes frivoles.			[290]
+Je suis bien simple encore, et ma sotte bonte...
+ERASTE.
+Ah ! Ne vous fachez pas, trop severe beaute ;
+Je veux croire en aveugle, etant sous votre empire,
+Tout ce que vous aurez la bonte de me dire.
+Trompez, si vous voulez, un malheureux amant :			[295]
+J'aurai pour vous respect jusques au monument.
+Maltraitez mon amour, refusez-moi le votre,
+Exposez a mes yeux le triomphe d'un autre ;
+Oui, je souffrirai tout de vos divins appas :
+J'en mourrai ; mais enfin je ne m'en plaindrai pas.			[300]
+ORPHISE.
+Quand de tels sentiments regneront dans votre ame,
+Je saurai de ma part...
+SCENE IX. Alcandre, Orphise, Eraste, La Montagne.
+ALCANDRE, a Orphise.
+Marquis, un mot. Madame,
+De grace, pardonnez si je suis indiscret,
+En osant, devant vous, lui parler en secret.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X. Alcandre, Eraste, La Montagne.
+ALCANDRE.
+Avec peine, marquis, je te fais la priere ;			[305]
+Mais un homme vient la de me rompre en visiere,
+Et je souhaite fort, pour ne rien reculer,
+Qu'a l'heure de ma part tu l'ailles appeler :
+Tu sais qu'en pareil cas ce serait avec joie
+Que je te le rendrais en la meme monnaie.			[310]
+ERASTE, apres avoir un peu demeure sans parler.
+Je ne veux point ici faire le capitan ;
+Mais on m'a vu soldat avant que courtisan ;
+J'ai servi quatorze ans, et je crois etre en passe
+De pouvoir d'un tel pas me tirer avec grace,
+Et de ne craindre point qu'a quelque lachete			[315]
+Le refus de mon bras me puisse etre impute.
+Un duel met les gens en mauvaise posture,
+Et notre roi n'est pas un monarque en peinture :
+Il sait faire obeir les plus grands de l'etat,
+Et je trouve qu'il fait en digne potentat.			[320]
+Quand il faut le servir, j'ai du coeur pour le faire ;
+Mais je ne m'en sens point quand il faut lui deplaire ;
+Je me fais de son ordre une supreme loi :
+Pour lui desobeir, cherche un autre que moi.
+Je te parle, vicomte, avec franchise entiere,			[325]
+Et suis ton serviteur en toute autre matiere.
+Adieu.
+SCENE XI. Eraste, La Montagne.
+ERASTE.
+Cinquante fois au diable les facheux !
+Ou donc s'est retire cet objet de mes voeux ?
+LA MONTAGNE.
+Je ne sais.
+ERASTE.
+Pour savoir ou la belle est allee,
+Va-t'en chercher partout : j'attends dans cette allee.			[330]
+BALLET DU PREMIER ACTE.
+Premiere Entree.
+Premiere Entree.
+Premiere Entree.
+Premiere Entree.
+
+
+			ACTE II
+
+
+SCENE PREMIERE.
+ERASTE.
+Mes facheux a la fin se sont-ils ecartes ?
+Je pense qu'il en pleut ici de tous cotes.
+Je les fuis, et les trouve ; et pour second martyre,
+Je ne saurais trouver celle que je desire.
+Le tonnerre et la pluie ont promptement passe,			[335]
+Et n'ont point de ces lieux le beau monde chasse.
+Plut au ciel, dans les dons que ses soins y prodiguent,
+Qu'ils en eussent chasse tous les gens qui fatiguent !
+Le soleil baisse fort, et je suis etonne
+Que mon valet encor ne soit point retourne.			[340]
+SCENE II. Alcippe, Eraste.
+ALCIPPE.
+Bonjour.
+ERASTE, a part.
+Eh quoi ? Toujours ma flamme divertie !
+ALCIPPE.
+Console-moi, Marquis, d'une etrange partie
+Qu'au piquet je perdis hier contre un Saint-Bouvain,
+A qui je donnerais quinze points et la main.
+C'est un coup enrage, qui depuis hier m'accable,			[345]
+Et qui ferait donner tous les joueurs au diable,
+Un coup assurement a se pendre en public.
+Il ne m'en faut que deux ; l'autre a besoin d'un pic :
+Je donne, il en prend six, et demande a refaire ;
+Moi, me voyant de tout, je n'en voulus rien faire.			[350]
+Je porte l'As de Trefle (admire mon malheur),
+L'As, le Roi, le Valet, le Huit et Dix de Coeur,
+Et quitte, comme au point allait la politique,
+Dame et Roi de Carreau, Dix et Dame de Pique.
+Sur mes cinq Coeurs portes la Dame arrive encor,			[355]
+Qui me fait justement une quinte major.
+Mais mon homme avec l'As, non sans surprise extreme,
+Des bas Carreaux sur table etale une sixieme.
+J'en avais ecarte la Dame avec le Roi ;
+Mais lui fallant un Pique, je sortis hors d'effroi,			[360]
+Et croyais bien du moins faire deux points uniques.
+Avec les sept Carreaux il avait quatre Piques,
+Et jetant le dernier, m'a mis dans l'embarras
+De ne savoir lequel garder de mes deux As.
+J'ai jete l'As de Coeur, avec raison, me semble ;			[365]
+Mais il avait quitte quatre Trefles ensemble,
+Et par un six de Coeur je me suis vu capot,
+Sans pouvoir, de depit, proferer un seul mot.
+Morbleu ! Fais-moi raison de ce coup effroyable :
+A moins que l'avoir vu, peut-il etre croyable ?			[370]
+ERASTE.
+C'est dans le jeu qu'on voit les plus grands coups du sort.
+ALCIPPE.
+Parbleu ! Tu jugeras toi-meme si j'ai tort,
+Et si c'est sans raison que ce coup me transporte ;
+Car voici nos deux jeux, qu'expres sur moi je porte.
+Tiens, c'est ici mon port, comme je te l'ai dit,			[375]
+Et voici...
+ERASTE.
+J'ai compris le tout par ton recit,
+Et vois de la justice au transport qui t'agite ;
+Mais pour certaine affaire il faut que je te quitte :
+Adieu. Console-toi pourtant de ton malheur.
+ALCIPPE.
+Qui moi ? J'aurai toujours ce coup-la sur le coeur,			[380]
+Et c'est pour ma raison pis qu'un coup de tonnerre.
+Je le veux faire, moi, voir a toute la terre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Un six de coeur ! Deux points !
+ERASTE.
+En quel lieu sommes-nous ?
+De quelque part qu'on tourne, on ne voit que des fous.
+Ah ! Que tu fais languir ma juste impatience !			[385]
+SCENE III. Eraste, La Montagne.
+LA MONTAGNE.
+Monsieur, je n'ai pu faire une autre diligence.
+ERASTE.
+Mais me rapportes-tu quelque nouvelle enfin ?
+LA MONTAGNE.
+Sans doute ; et de l'objet qui fait votre destin
+J'ai, par un ordre expres, quelque chose a vous dire.
+ERASTE.
+Et quoi ? Deja mon coeur apres ce mot soupire :			[390]
+Parle.
+LA MONTAGNE.
+Souhaitez-vous de savoir ce que c'est ?
+ERASTE.
+Oui, dis vite.
+LA MONTAGNE.
+Monsieur, attendez, s'il vous plait.
+Je me suis, a courir, presque mis hors d'haleine.
+ERASTE.
+Prends-tu quelque plaisir a me tenir en peine ?
+LA MONTAGNE.
+Puisque vous desirez de savoir promptement			[395]
+L'ordre que j'ai recu de cet objet charmant,
+Je vous dirai... Ma foi, sans vous vanter mon zele,
+J'ai bien fait du chemin pour trouver cette belle ;
+Et si...
+ERASTE.
+Peste soit fait de tes digressions !
+LA MONTAGNE.
+Ah ! Il faut moderer un peu ses passions ;			[400]
+Et Seneque...
+ERASTE.
+Seneque est un sot dans ta bouche,
+Puisqu'il ne me dit rien de tout ce qui me touche.
+Dis-moi ton ordre, tot.
+LA MONTAGNE.
+Pour contenter vos voeux,
+Votre Orphise... Une bete est la dans vos cheveux.
+ERASTE.
+Laisse.
+LA MONTAGNE.
+Cette beaute de sa part vous fait dire...			[405]
+ERASTE.
+Quoi ?
+LA MONTAGNE.
+Devinez.
+ERASTE.
+Sais-tu que je ne veux pas rire ?
+LA MONTAGNE.
+Son ordre est qu'en ce lieu vous devez vous tenir,
+Assure que dans peu vous l'y verrez venir,
+Lorsqu'elle aura quitte quelques provinciales,
+Aux personnes de cour facheuses animales.			[410]
+ERASTE.
+Tenons-nous donc au lieu qu'elle a voulu choisir.
+Mais, puisque l'ordre ici m'offre quelque loisir,
+Laisse-moi mediter.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'ai dessein de lui faire
+Quelques vers sur un air ou je la vois se plaire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV. Orante, Climene, Eraste, dans un coin du theatre sans etre apercu.
+ORANTE.
+Tout le monde sera de mon opinion.			[415]
+CLIMENE.
+Croyez-vous l'emporter par obstination ?
+ORANTE.
+Je pense mes raisons meilleures que les votres.
+CLIMENE.
+Je voudrais qu'on ouit les unes et les autres.
+ORANTE, apercevant Eraste.
+J'avise un homme ici qui n'est pas ignorant :
+Il pourra nous juger sur notre differend.			[420]
+Marquis, de grace, un mot : souffrez qu'on vous appelle
+Pour etre entre nous deux juges d'une querelle,
+D'un debat qu'ont emu nos divers sentiments
+Sur ce qui peut marquer les plus parfaits amants.
+ERASTE.
+C'est une question a vider difficile,			[425]
+Et vous devez chercher un juge plus habile.
+ORANTE.
+Non : vous nous dites la d'inutiles chansons ;
+Votre esprit fait du bruit, et nous vous connaissons :
+Nous savons que chacun vous donne a juste titre...
+ERASTE.
+He ! De grace...
+ORANTE.
+En un mot, vous serez notre arbitre :			[430]
+Et ce sont deux moments qu'il vous faut nous donner.
+CLIMENE, a Orante.
+Vous, retenez ici qui vous doit condamner ;
+Car enfin, s'il est vrai ce que j'en ose croire,
+Monsieur a mes raisons donnera la victoire.
+ERASTE, a Orante.
+Que ne puis-je a mon traitre inspirer le souci			[435]
+D'inventer quelque chose a me tirer d'ici !
+ORANTE, a Climene.
+Pour moi, de son esprit j'ai trop bon temoignage,
+Pour craindre qu'il prononce a mon desavantage.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Enfin, ce grand debat qui s'allume entre nous,
+Est de savoir s'il faut qu'un amant soit jaloux.			[440]
+CLIMENE.
+Ou, pour mieux expliquer ma pensee et la votre,
+Lequel doit plaire plus d'un jaloux ou d'un autre.
+ORANTE.
+Pour moi, sans contredit, je suis pour le dernier.
+CLIMENE.
+Et dans mon sentiment, je tiens pour le premier.
+ORANTE.
+Je crois que notre coeur doit donner son suffrage			[445]
+A qui fait eclater du respect davantage.
+CLIMENE.
+Et moi, que si nos voeux doivent paraitre au jour,
+C'est pour celui qui fait eclater plus d'amour.
+ORANTE.
+Oui ; mais on voit l'ardeur dont une ame est saisie
+Bien mieux dans le respect que dans la jalousie.			[450]
+CLIMENE.
+Et c'est mon sentiment, que qui s'attache a nous
+Nous aime d'autant plus qu'il se montre jaloux.
+ORANTE.
+Fi ! Ne me parlez point, pour etre amants, Climene,
+De ces gens dont l'amour est fait comme la haine,
+Et qui, pour tous respects et toute offre de voeux,			[455]
+Ne s'appliquent jamais qu'a se rendre facheux ;
+Dont l'ame, que sans cesse un noir transport anime,
+Des moindres actions cherche a nous faire un crime,
+En soumet l'innocence a son aveuglement,
+Et veut sur un coup d'oeil un eclaircissement ;			[460]
+Qui, de quelque chagrin nous voyant l'apparence,
+Se plaignent aussitot qu'il nait de leur presence,
+Et lorsque dans nos yeux brille un peu d'enjouement,
+Veulent que leurs rivaux en soient le fondement ;
+Enfin, qui prenant droit des fureurs de leur zele,			[465]
+Ne vous parlent jamais que pour faire querelle,
+Osent defendre a tous l'approche de nos coeurs,
+Et se font les tyrans de leurs propres vainqueurs.
+Moi, je veux des amants que le respect inspire,
+Et leur soumission marque mieux notre empire.			[470]
+CLIMENE.
+Fi ! Ne me parlez point, pour etre vrais amants,
+De ces gens qui pour nous n'ont nuls emportements,
+De ces tiedes galants, de qui les coeurs paisibles
+Tiennent deja pour eux les choses infaillibles,
+N'ont point peur de nous perdre, et laissent chaque jour			[475]
+Sur trop de confiance endormir leur amour,
+Sont avec leurs rivaux en bonne intelligence,
+Et laissent un champ libre a leur perseverance.
+Un amour si tranquille excite mon courroux.
+C'est aimer froidement que n'etre point jaloux ;			[480]
+Et je veux qu'un amant, pour me prouver sa flamme,
+Sur d'eternels soupcons laisse flotter son ame,
+Et par de prompts transports donne un signe eclatant
+De l'estime qu'il fait de celle qu'il pretend.
+On s'applaudit alors de son inquietude,			[485]
+Et s'il nous fait parfois un traitement trop rude,
+Le plaisir de le voir, soumis a nos genoux,
+S'excuser de l'eclat qu'il a fait contre nous,
+Ses pleurs, son desespoir d'avoir pu nous deplaire,
+Est un charme a calmer toute notre colere.			[490]
+ORANTE.
+Si pour vous plaire il faut beaucoup d'emportement,
+Je sais qui vous pourrait donner contentement ;
+Et je connais des gens dans Paris plus de quatre
+Qui, comme ils le font voir, aiment jusques a battre.
+CLIMENE.
+Si pour vous plaire il faut n'etre jamais jaloux,			[495]
+Je sais certaines gens fort commodes pour vous,
+Des hommes en amour d'une humeur si souffrante,
+Qu'ils vous verraient sans peine entre les bras de trente.
+ORANTE.
+Enfin par votre arret vous devez declarer
+Celui de qui l'amour vous semble a preferer.			[500]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ERASTE.
+Puisqu'a moins d'un arret je ne m'en puis defaire,
+Toutes deux a la fois je vous veux satisfaire ;
+Et pour ne point blamer ce qui plait a vos yeux,
+Le jaloux aime plus, et l'autre aime bien mieux.
+CLIMENE.
+L'arret est plein d'esprit ; mais...
+ERASTE.
+Suffit, j'en suis quitte.			[505]
+Apres ce que j'ai dit, souffrez que je vous quitte.
+SCENE V. Orphise, Eraste.
+ERASTE, apercevant Orphise, et allant au devant d'elle.
+Que vous tardez, madame, et que j'eprouve bien... !
+ORPHISE.
+Non, non, ne quittez pas un si doux entretien.
+A tort vous m'accusez d'etre trop tard venue,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et vous avez de quoi vous passer de ma vue.			[510]
+ERASTE.
+Sans sujet contre moi voulez-vous vous aigrir,
+Et me reprochez-vous ce qu'on me fait souffrir ?
+Ha ! De grace, attendez...
+ORPHISE.
+Laissez-moi, je vous prie,
+Et courez vous rejoindre a votre compagnie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI.
+ERASTE.
+Ciel ! Faut-il qu'aujourd'hui facheuses et facheux			[515]
+Conspirent a troubler les plus chers de mes voeux !
+Mais allons sur ses pas, malgre sa resistance,
+Et faisons a ses yeux briller notre innocence.
+SCENE VII. Dorante, Eraste.
+DORANTE.
+Ha ! Marquis, que l'on voit de facheux, tous les jours,
+Venir de nos plaisirs interrompre le cours !			[520]
+Tu me vois enrage d'une assez belle chasse,
+Qu'un fat... C'est un recit qu'il faut que je te fasse.
+ERASTE.
+Je cherche ici quelqu'un, et ne puis m'arreter.
+DORANTE, le retenant.
+Parbleu, chemin faisant, je te le veux conter.
+Nous etions une troupe assez bien assortie,			[525]
+Qui pour courir un cerf avions hier fait partie ;
+Et nous fumes coucher sur le pays expres,
+C'est-a-dire, mon cher, en fin fond de forets.
+Comme cet exercice est mon plaisir supreme,
+Je voulus, pour bien faire, aller au bois moi-meme ;			[530]
+Et nous conclumes tous d'attacher nos efforts
+Sur un cerf qu'un chacun nous disait cerf dix-cors ;
+Mais moi, mon jugement, sans qu'aux marques j'arrete,
+Fut qu'il n'etait que cerf a sa seconde tete.
+Nous avions, comme il faut, separe nos relais,			[535]
+Et dejeunions en hate avec quelques oeufs frais,
+Lorsqu'un franc campagnard, avec longue rapiere,
+Montant superbement sa jument pouliniere,
+Qu'il honorait du nom de sa bonne jument,
+S'en est venu nous faire un mauvais compliment,			[540]
+Nous presentant aussi, pour surcroit de colere,
+Un grand benet de fils aussi sot que son pere.
+Il s'est dit grand chasseur, et nous a pries tous
+Qu'il put avoir le bien de courir avec nous.
+Dieu preserve, en chassant, toute sage personne			[545]
+D'un porteur de huchet qui mal a propos sonne,
+De ces gens qui, suivis de dix hourets galeux,
+Disent "ma meute", et font les chasseurs merveilleux !
+Sa demande recue et ses vertus prisees,
+Nous avons ete tous frapper a nos brisees.			[550]
+A trois longueurs de trait, tayaut ! Voila d'abord
+Le cerf donne aux chiens. J'appuie, et sonne fort.
+Mon cerf debuche, et passe une assez longue plaine,
+Et mes chiens apres lui, mais si bien en haleine,
+Qu'on les aurait couverts tous d'un seul justaucorps.			[555]
+Il vient a la foret. Nous lui donnons alors
+La vieille meute ; et moi, je prends en diligence
+Mon cheval alezan. Tu l'as vu ?
+ERASTE.
+Non, je pense.
+DORANTE.
+Comment ? C'est un cheval aussi bon qu'il est beau,
+Et que ces jours passes j'achetai de Gaveau.			[560]
+Je te laisse a penser si sur cette matiere
+Il voudrait me tromper, lui qui me considere :
+Aussi je m'en contente ; et jamais, en effet,
+Il n'a vendu cheval ni meilleur ni mieux fait :
+Une tete de barbe, avec l'etoile nette ;			[565]
+L'encolure d'un cygne, effilee et bien droite ;
+Point d'epaules non plus qu'un lievre ; court-jointe,
+Et qui fait dans son port voir sa vivacite ;
+Des pieds, morbleu ! Des pieds ! Le rein double (a vrai dire,
+J'ai trouve le moyen, moi seul, de le reduire ;			[570]
+Et sur lui, quoique aux yeux il montrat beau semblant,
+Petit-Jean de Gaveau ne montait qu'en tremblant),
+Une croupe en largeur a nulle autre pareille,
+Et des gigots, Dieu sait ! Bref, c'est une merveille ;
+Et j'en ai refuse cent pistoles, crois-moi,			[575]
+Au retour d'un cheval amene pour le roi.
+Je monte donc dessus, et ma joie etait pleine
+De voir filer de loin les coupeurs dans la plaine ;
+Je pousse, et je me trouve en un fort a l'ecart.
+A la queue de nos chiens, moi seul avec Drecar.			[580]
+Une heure la dedans notre cerf se fait battre.
+J'appuie alors mes chiens, et fais le diable a quatre ;
+Enfin jamais chasseur ne se vit plus joyeux.
+Je le relance seul, et tout allait des mieux,
+Lorsque d'un jeune cerf s'accompagne le notre :			[585]
+Une part de mes chiens se separe de l'autre,
+Et je les vois, marquis, comme tu peux penser,
+Chasser tous avec crainte, et Finaut balancer.
+Il se rabat soudain, dont j'eus l'ame ravie ;
+Il empaume la voie ; et moi, je sonne et crie :			[590]
+« A Finaut ! A Finaut ! » J'en revois a plaisir
+Sur une taupiniere, et resonne a loisir.
+Quelques chiens revenaient a moi, quand pour disgrace
+Le jeune cerf, marquis, a mon campagnard passe.
+Mon etourdi se met a sonner comme il faut,			[595]
+Et crie a pleine voix « Tayaut ! Tayaut ! Tayaut ! »
+Mes chiens me quittent tous, et vont a ma pecore ;
+J'y pousse, et j'en revois dans le chemin encore ;
+Mais a terre, mon cher, je n'eus pas jete l'oeil,
+Que je connus le change et sentis un grand deuil.			[600]
+J'ai beau lui faire voir toutes les differences
+Des pinces de mon cerf et de ses connaissances,
+Il me soutient toujours, en chasseur ignorant,
+Que c'est le cerf de meute ; et par ce differend
+Il donne temps aux chiens d'aller loin. J'en enrage,			[605]
+Et pestant de bon coeur contre le personnage,
+Je pousse mon cheval et par haut et par bas,
+Qui pliait des gaulis aussi gros que les bras :
+Je ramene les chiens a ma premiere voie,
+Qui vont, en me donnant une excessive joie,			[610]
+Requerir notre cerf, comme s'ils l'eussent vu.
+Ils le relancent ; mais ce coup est-il prevu ?
+A te dire le vrai, cher marquis, il m'assomme :
+Notre cerf relance va passer a notre homme,
+Qui croyant faire un trait de chasseur fort vante,			[615]
+D'un pistolet d'arcon qu'il avait apporte
+Lui donne justement au milieu de la tete,
+Et de fort loin me crie : « Ah ! J'ai mis bas la bete ! »
+A-t-on jamais parle de pistolets, bon Dieu !
+Pour courre un cerf ? Pour moi, venant dessus le lieu,			[620]
+J'ai trouve l'action tellement hors d'usage,
+Que j'ai donne des deux a mon cheval, de rage,
+Et m'en suis revenu chez moi toujours courant,
+Sans vouloir dire un mot a ce sot ignorant.
+ERASTE.
+Tu ne pouvais mieux faire, et ta prudence est rare ;			[625]
+C'est ainsi des facheux qu'il faut qu'on se separe.
+Adieu.
+DORANTE.
+Quand tu voudras, nous irons quelque part,
+Ou nous ne craindrons point de chasseur campagnard.
+ERASTE, seul.
+Fort bien. Je crois qu'enfin je perdrai patience.
+Cherchons a m'excuser avec diligence.			[630]
+BALLET DU SECOND ACTE.
+Premiere entree.
+Premiere entree.
+Premiere entree.
+Premiere entree.
+Premiere entree.
+Premiere entree.
+Premiere entree.
+Premiere entree.
+
+
+			ACTE III
+
+
+SCENE PREMIERE. Eraste, La Montagne.
+ERASTE.
+Il est vrai, d'un cote, mes soins ont reussi,
+Cet adorable objet enfin s'est adouci ;
+Mais, d'un autre, on m'accable, et les astres severes
+Ont contre mon amour redouble leurs coleres.
+Oui, Damis, son tuteur, mon plus rude facheux,			[635]
+Tout de nouveau s'oppose aux plus doux de mes voeux,
+A son aimable niece a defendu ma vue,
+Et veut d'un autre epoux la voir demain pourvue.
+Orphise toutefois, malgre son desaveu,
+Daigne accorder ce soir une grace a mon feu ;			[640]
+Et j'ai fait consentir l'esprit de cette belle
+A souffrir qu'en secret je la visse chez elle.
+L'amour aime surtout les secretes faveurs ;
+Dans l'obstacle qu'on force il trouve des douceurs ;
+Et le moindre entretien de la beaute qu'on aime,			[645]
+Lorsqu'il est defendu, devient grace supreme.
+Je vais au rendez-vous : c'en est l'heure a peu pres ;
+Puis je veux m'y trouver plutot avant qu'apres.
+LA MONTAGNE.
+Suivrai-je vos pas ?
+ERASTE.
+Non : je craindrais que peut-etre
+A quelques yeux suspects tu me fisses connaitre.			[650]
+LA MONTAGNE.
+Mais...
+ERASTE.
+Je ne le veux pas.
+LA MONTAGNE.
+Je dois suivre vos lois ;
+Mais au moins si de loin...
+ERASTE.
+Te tairas-tu, vingt fois ?
+Et ne veux-tu jamais quitter cette methode
+De te rendre a toute heure un valet incommode ?
+SCENE II. Caritides, Eraste.
+CARITIDES.
+Monsieur, le temps repugne a l'honneur de vous voir :			[655]
+Le matin est plus propre a rendre un tel devoir ;
+Mais de vous rencontrer il n'est pas bien facile,
+Car vous dormez toujours, ou vous etes en ville :
+Au moins, messieurs vos gens me l'assurent ainsi ;
+Et j'ai, pour vous trouver, pris l'heure que voici.			[660]
+Encore est-ce un grand heur dont le destin m'honore,
+Car deux moments plus tard, je vous manquais encore.
+ERASTE.
+Monsieur, souhaitez-vous quelque chose de moi ?
+CARITIDES.
+Je m'acquitte, monsieur, de ce que je vous dois,
+Et vous viens... Excusez l'audace qui m'inspire			[665]
+Si...
+ERASTE.
+Sans tant de facons, qu'avez-vous a me dire ?
+CARITIDES.
+Comme le rang, l'esprit, la generosite,
+Que chacun vante en vous...
+ERASTE.
+Oui, je suis fort vante.
+Passons, monsieur.
+CARITIDES.
+Monsieur, c'est une peine extreme
+Lorsqu'il faut a quelqu'un se produire soi-meme ;			[670]
+Et toujours pres des grands on doit etre introduit
+Par des gens qui de nous fassent un peu de bruit,
+Dont la bouche ecoutee avec poids debite
+Ce qui peut faire voir notre petit merite.
+Enfin j'aurais voulu que des gens bien instruits			[675]
+Vous eussent pu, monsieur, dire ce que je suis.
+ERASTE.
+Je vois assez, monsieur, ce que vous pouvez etre,
+Et votre seul abord le peut faire connaitre.
+CARITIDES.
+Oui, je suis un savant charme de vos vertus,
+Non pas de ces savants dont le nom n'est qu'en us :			[680]
+Il n'est rien si commun qu'un nom a la latine ;
+Ceux qu'on habille en grec ont bien meilleure mine ;
+Et pour en avoir un qui se termine en es,
+Je me fais appeler monsieur Caritides.
+ERASTE.
+Monsieur Caritides soit. Qu'avez-vous a dire ?			[685]
+CARITIDES.
+C'est un placet, monsieur, que je voudrais vous lire,
+Et que, dans la posture ou vous met votre emploi,
+J'ose vous conjurer de presenter au roi.
+ERASTE.
+He ! Monsieur, vous pouvez le presenter vous-meme.
+CARITIDES.
+Il est vrai que le roi fait cette grace extreme ;			[690]
+Mais par ce meme exces de ses rares bontes,
+Tant de mechants placets, monsieur, sont presentes,
+Qu'ils etouffent les bons ; et l'espoir ou je fonde,
+Est qu'on donne le mien quand le prince est sans monde.
+ERASTE.
+Eh bien ! Vous le pouvez, et prendre votre temps.			[695]
+CARITIDES.
+Ah ! Monsieur, les huissiers sont de terribles gens !
+Ils traitent les savants de faquins a nasardes,
+Et je n'en puis venir qu'a la salle des gardes.
+Les mauvais traitements qu'il me faut endurer
+Pour jamais de la cour me feraient retirer,			[700]
+Si je n'avais concu l'esperance certaine
+Qu'aupres de notre roi vous serez mon mecene.
+Oui, votre credit m'est un moyen assure...
+ERASTE.
+Eh bien ! Donnez-moi donc : je le presenterai.
+CARITIDES.
+Le voici ; mais au moins oyez-en la lecture.			[705]
+ERASTE.
+Non...
+CARITIDES.
+C'est pour etre instruit : monsieur, je vous conjure.
+AU ROI.
+« Sire,
+Votre tres humble, tres obeissant, tres fidele et tres savant sujet et serviteur, Caritides, francais de nation, grec de profession, ayant considere les grands et notables abus qui se commettent aux inscriptions des enseignes des maisons, boutiques, cabarets, jeux de boule, et autres lieux de votre bonne ville de Paris, en ce que certains ignorants compositeurs desdites inscriptions renversent, par une barbare, pernicieuse et detestable orthographe, toute sorte de sens et raison, sans aucun egard d'etymologie, analogie, energie, ni allegorie quelconque, au grand scandale de la republique des lettres, et de la nation francaise, qui se decrie et deshonore par lesdits abus et fautes grossieres envers les etrangers, et notamment envers les Allemands, curieux lecteurs et inspectateurs desdites 
+Inscriptions,... »
+ERASTE.
+Ce placet est fort long, et pourrait bien facher...
+CARITIDES.
+Ah ! Monsieur, pas un mot ne s'en peut retrancher.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)« ... Supplie humblement votre majeste de creer, pour le bien de son etat et la gloire de son empire, une charge de controleur, intendant, correcteur, reviseur, et restaurateur general desdites inscriptions, et d'icelle honorer le suppliant, tant en consideration de son rare et eminent savoir, que des grands et signales services qu'il a rendus a l'Etat et a votre majeste en faisant l'anagramme de votre dite majeste en francais, latin, grec, hebreu, syriaque, chaldeen, arabe... »
+ERASTE, l'interrompant.
+Fort bien. Donnez-le vite, et faites la retraite :
+Il sera vu du roi ; c'est une affaire faite.			[710]
+CARITIDES.
+Helas ! Monsieur, c'est tout que montrer mon placet.
+Si le roi le peut voir, je suis sur de mon fait ;
+Car comme sa justice en toute chose est grande,
+Il ne pourra jamais refuser ma demande.
+Au reste, pour porter au ciel votre renom,			[715]
+Donnez-moi par ecrit votre nom et surnom ;
+J'en veux faire un poeme en forme d'acrostiche
+Dans les deux bouts du vers et dans chaque hemistiche.
+ERASTE.
+Oui, vous l'aurez demain, monsieur Caritides.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ma foi, de tels savants sont des anes bien faits.			[720]
+J'aurais dans d'autres temps bien ri de sa sottise.
+SCENE III. Ormin, Eraste.
+ORMIN.
+Bien qu'une grande affaire en ce lieu me conduise,
+J'ai voulu qu'il sortit avant que vous parler.
+ERASTE.
+Fort bien ; mais depechons, car je veux m'en aller.
+ORMIN.
+Je me doute a peu pres que l'homme qui vous quitte			[725]
+Vous a fort ennuye, monsieur, par sa visite :
+C'est un vieux importun, qui n'a pas l'esprit sain,
+Et pour qui j'ai toujours quelque defaite en main.
+Au Mail, a Luxembourg et dans les Tuileries,
+Il fatigue le monde avec ses reveries ;			[730]
+Et des gens comme vous doivent fuir l'entretien
+De tous ces savants qui ne sont bons a rien.
+Pour moi, je ne crains pas que je vous importune,
+Puisque je viens, monsieur, faire votre fortune.
+ERASTE, bas, a part.
+Voici quelque souffleur, de ces gens qui n'ont rien,			[735]
+Et vous viennent toujours promettre tant de bien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous avez fait, monsieur, cette benite pierre
+Qui peut seule enrichir tous les rois de la terre ?
+ORMIN.
+La plaisante pensee, helas ! Ou vous voila !
+Dieu me garde, monsieur, d'etre de ces fous-la !			[740]
+Je ne me repais point de visions frivoles,
+Et je vous porte ici les solides paroles
+D'un avis que pour vous je veux donner au roi,
+Et que tout cachete je conserve sur moi :
+Non de ces sots projets, de ces chimeres vaines,			[745]
+Dont les surintendants ont les oreilles pleines ;
+Non de ces gueux d'avis, dont les pretentions
+Ne parlent que de vingt ou trente millions ;
+Mais un qui, tous les ans, a si peu qu'on le monte,
+En peut donner au roi quatre cents de bon conte,			[750]
+Avec facilite, sans risque, ni soupcon,
+Et sans fouler le peuple en aucune facon :
+Enfin c'est un avis d'un gain inconcevable,
+Et que du premier mot on trouvera faisable.
+Oui, pourvu que par vous je puisse etre pousse...			[755]
+ERASTE.
+Soit, nous en parlerons. Je suis un peu presse.
+ORMIN.
+Si vous me promettiez de garder le silence,
+Je vous decouvrirais cet avis d'importance.
+ERASTE.
+Non, non, je ne veux point savoir votre secret.
+ORMIN.
+Monsieur, pour le trahir, je vous crois trop discret,			[760]
+Et veux, avec franchise, en deux mots vous l'apprendre.
+Il faut voir si quelqu'un ne peut point nous entendre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cet avis merveilleux, dont je suis l'inventeur,
+Est que...
+ERASTE.
+D'un peu plus loin, et pour cause, Monsieur.
+ORMIN.
+Vous voyez le grand gain, sans qu'il faille le dire,			[765]
+Que de ces ports de mer le roi tous les ans tire.
+Or l'avis, dont encor nul ne s'est avise,
+Est qu'il faut de la France, et c'est un coup aise,
+En fameux ports de mer mettre toutes les cotes.
+Ce serait pour monter a des sommes tres hautes,			[770]
+Et si...
+ERASTE.
+L'avis est bon, et plaira fort au roi.
+Adieu : nous nous verrons.
+ORMIN.
+Au moins, appuyez-moi
+Pour en avoir ouvert les premieres paroles.
+ERASTE.
+Oui, oui.
+ORMIN.
+Si vous vouliez me preter deux pistoles,
+Que vous reprendriez sur le droit de l'avis,			[775]
+Monsieur...
+ERASTE, donne deux louis a Ormin.
+Oui, volontiers.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Plut a Dieu qu'a ce prix
+De tous les importuns je pusse me voir quitte !
+Voyez quel contretemps prend ici leur visite !
+Je pense qu'a la fin je pourrai bien sortir.
+Viendra-t-il point quelqu'un encor me divertir ?			[780]
+SCENE IV. Filinte, Eraste.
+FILINTE.
+Marquis, je viens d'apprendre une etrange nouvelle.
+ERASTE.
+Quoi ?
+FILINTE.
+Qu'un homme tantot t'a fait une querelle.
+ERASTE.
+A moi ?
+FILINTE.
+Que te sert-il de le dissimuler ?
+Je sais de bonne part qu'on t'a fait appeler ;
+Et comme ton ami, quoi qu'il en reussisse,			[785]
+Je te viens contre tous faire offre de service.
+ERASTE.
+Je te suis oblige ; mais crois que tu me fais...
+FILINTE.
+Tu ne l'avoueras pas ; mais tu sors sans valets.
+Demeure dans la ville, ou gagne la campagne,
+Tu n'iras nulle part que je ne t'accompagne.			[790]
+ERASTE.
+Ah ! J'enrage !
+FILINTE.
+A quoi bon de te cacher de moi ?
+ERASTE.
+Je te jure, marquis, qu'on s'est moque de toi.
+FILINTE.
+En vain tu t'en defends.
+ERASTE.
+Que le ciel me foudroie,
+Si d'aucun demele... !
+FILINTE.
+Tu penses qu'on te croie ?
+ERASTE.
+Eh ! Mon Dieu, je te dis, et ne deguise point,			[795]
+Que...
+FILINTE.
+Ne me crois pas dupe, et credule a ce point.
+ERASTE.
+Veux-tu m'obliger ?
+FILINTE.
+Non.
+ERASTE.
+Laisse-moi, je te prie.
+FILINTE.
+Point d'affaire, marquis.
+ERASTE.
+Une galanterie
+En certain lieu ce soir...
+FILINTE.
+Je ne te quitte pas ;
+En quel lieu que ce soit, je veux suivre tes pas.			[800]
+ERASTE.
+Parbleu ! Puisque tu veux que j'aie une querelle.
+Je consens a l'avoir pour contenter ton zele :
+Ce sera contre toi, qui me fais enrager,
+Et dont je ne me puis par douceur degager.
+FILINTE.
+C'est fort mal d'un ami recevoir le service ;			[805]
+Mais puisque je vous rends un si mauvais office,
+Adieu : videz sans moi tout ce que vous aurez.
+ERASTE.
+Vous serez mon ami quand vous me quitterez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais voyez quels malheurs suivent ma destinee !
+Ils m'auront fait passer l'heure qu'on m'a donnee.			[810]
+SCENE V. Damis, L'Epine, Eraste, La Riviere et ses compagnons.
+DAMIS, a part.
+Quoi ? Malgre moi le traitre espere l'obtenir ?
+Ah ! Mon juste courroux le saura prevenir.
+ERASTE, a part.
+J'entrevois la quelqu'un sur la porte d'Orphise.
+Quoi ? Toujours quelque obstacle aux feux qu'elle autorise !
+DAMIS, a L'Epine.
+Oui, j'ai su que ma niece, en depit de mes soins,			[815]
+Doit voir ce soir chez elle Eraste sans temoins.
+LA RIVIERE, a ses compagnons.
+Qu'entends-je a ces gens-la dire de notre maitre ?
+Approchons doucement, sans nous faire connaitre.
+DAMIS, a L'Epine.
+Mais avant qu'il ait lieu d'achever son dessein,
+Il faut de mille coups percer son traitre sein.			[820]
+Va-t'en faire venir ceux que je viens de dire,
+Pour les mettre en embuche aux lieux que je desire,
+Afin qu'au nom d'Eraste on soit pret a venger
+Mon honneur, que ses feux ont l'orgueil d'outrager,
+A rompre un rendez-vous qui dans ce lieu l'appelle,			[825]
+Et noyer dans son sang sa flamme criminelle.
+LA RIVIERE, attaquant Damis avec ses compagnons.
+Avant qu'a tes fureurs on puisse l'immoler,
+Traitre, tu trouveras en nous a qui parler.
+ERASTE.
+Bien qu'il m'ait voulu perdre, un point d'honneur me presse
+De secourir ici l'oncle de ma maitresse.			[830]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je suis a vous, monsieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DAMIS, apres leur fuite.
+O ciel ! Par quel secours
+D'un trepas assure vois-je sauver mes jours ?
+A qui suis-je oblige d'un si rare service ?
+ERASTE, revenant.
+Je n'ai fait, vous servant, qu'un acte de justice.
+DAMIS.
+Ciel ! Puis-je a mon oreille ajouter quelque foi ?			[835]
+Est-ce la main d'Eraste... ?
+ERASTE.
+Oui, oui, Monsieur, c'est moi,
+Trop heureux que ma main vous ait tire de peine,
+Trop malheureux d'avoir merite votre haine.
+DAMIS.
+Quoi ? Celui dont j'avais resolu le trepas
+Est celui qui pour moi vient d'employer son bras ?			[840]
+Ah ! C'en est trop : mon coeur est contraint de se rendre ;
+Et quoi que votre amour ce soir ait pu pretendre,
+Ce trait si surprenant de generosite
+Doit etouffer en moi toute animosite.
+Je rougis de ma faute, et blame mon caprice.			[845]
+Ma haine trop longtemps vous a fait injustice ;
+Et pour la condamner par un eclat fameux,
+Je vous joins des ce soir a l'objet de vos voeux.
+SCENE VI. Orphise, Damis, Eraste.
+ORPHISE, venant avec un flambeau d'argent a la main.
+Monsieur, quelle aventure a d'un trouble effroyable... ?
+DAMIS.
+Ma niece, elle n'a rien que de tres agreable,			[850]
+Puisque apres tant de voeux que j'ai blames en vous,
+C'est elle qui vous donne Eraste pour epoux.
+Son bras a repousse le trepas que j'evite,
+Et je veux envers lui que votre main m'acquitte.
+ORPHISE.
+Si c'est pour lui payer ce que vous lui devez,			[855]
+J'y consens, devant tout aux jours qu'il a sauves.
+ERASTE.
+Mon coeur est si surpris d'une telle merveille,
+Qu'en ce ravissement je doute si je veille.
+DAMIS.
+Celebrons l'heureux sort dont vous allez jouir,
+Et que nos violons viennent nous rejouir.			[860]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ERASTE.
+Qui frappe la si fort ?
+L'EPINE.
+Monsieur, ce sont des masques,
+Qui portent des crin-crins et des tambours de Basques.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ERASTE.
+Quoi ? Toujours des facheux ! Hola ! Suisses, ici !
+Qu'on me fasse sortir ces gredins que voici.
+BALLET DU TROISIEME ACTE.
+Premiere Entree.
+Premiere Entree.
+Premiere Entree.
+Premiere Entree.
+
+	==================================================

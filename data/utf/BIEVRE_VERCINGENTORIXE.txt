@@ -1,0 +1,465 @@
+********************************************************
+	DC.Title                  = VERCINGENTORIXE, TRAGEDIE.
+	DC.Author                 = BIEVRE, Marquis de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:10.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/BIEVRE_VERCINGENTORIXE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+VERCINGENTORIXE TRAGEDIE.OEUVRE POSTHUME du SIEUR DE BOIS FLOTTE, etudiant en droit-fil : suivie de NOTES HISTORIQUES de l'AUTEUR.M. DCC. LXX.
+
+	
+	[sans marque d'acheve d'imprime]
+	(non represente)
+	AVIS
+Le sieur de Bois-Flotte a couvert de fleurs le tombeau de l'Abbe Quille ; j'en ai jete quelques uns sur le sien. Combine je dois me trouver heureux de voir ma destinee liee a celle de ces deux grand hommes ! Combien je dois m'applaudir du soin que j'ai pris de les rendre a la gloire : le succes inoui de l'ouvrage que j'ai mis au jour, assure a son auteur le brevet d'immortalite que je n'avais point ose lui promettre. Ainsi, que l'on cesse dons de nous redire que les ressorts de l'esprit humains sont uses, que le bon gout se perd, que la raison s'affaiblit. Si ce feu que nous communique sa valeur vient a languir faute de nourriture, direz-vous que l'element du feu a perdu de ses proprietes ? Au lieu de ce beau raisonnement, pendant lequel il pourrait s'eteindre tout-a-fait, vous lui fournirez des aliments faits pour se combiner avec sa substance, et des lors il reprendra une nouvelle force et une nouvelle vie. Cette comparaison doit suffire pour prouver que le bon gout n'a jamais cesse d'exister et qu'il existera toujours tant qu'on saura lui fournir des objets dignes de l'entretenir et de le fixer. Mais ce succes, ces applaudissements, ces eloges, en assurant au public mon eternelle reconnaissance, me font un devoir de soumettre a ses lumieres un ouvrage plus digne de lui etre offert.
+La Tragedie de Vercingentorixe est le fruit des veilles du sieur Bois-Flotte. Elle etait sous presse, lorsque les Lettres ont eu le malheur de la perdre. Le manuscrit en est reste entre les mains de la comtesse Tation, qui a rassemble avec l'exactitude la plus scrupuleuse les ouvrages de ce grand homme. Cette dame, qui s'est toujours fait un honneur de soutenir et d'encourager les Arts, ayant ete temoin du succes de la piece qu'elle m'avait confiee, a cru rendre un nouveau service au public, en m'envoyant cette tragedien qui avait recueilli plus d'un suffrage (j'ai joint ci-apres la Lettre que cette Dame m'a fait l'honneur de m'ecrire a ce sujet). Elle est precedee d'une preface et d'observations dramatiques de l'auteur. Il y a joint quelques notes historiques tres instructives, et qui offriront au public plusieurs objets interessants; Il avait aussi el projet de composer deux memoires tres importants : le premier sur l'Abbe Quille ; le second sur Silvie. Il voulait les remplir de decouvertes nouvelles, et de recherches qui avaient echappe a tout le monde. Mais la tombe a tout enseveli avec lui. Sans cela on aurait pu avoir du reccueil de ses oeuvres un volume d'une certaine epaisseur. Malgre cela, on a cru devoir imprimer cette tragedie dans la meme format que la premiere brochure dont on vient de donner une nouvelle edition, les autres ayant ete epuisees par l'empressement prodigieux du public. On espere par ce moyen ne point deplaire a ceux qui n'attendent que le moment pour rassembles tous les ouvrages de l'auteur.
+On a cru devoir ecrire dans l'ancien style ce qui n'est accessoire a l'ouvrage, tel que l'avis, la preface, les observations dramatiques, les notes pour regler le jeu des acteurs, les notes historiques, etc, etc, etc. Il n'est pas indifferent aussi d'ajouter qu'on a suivi la methode a laquelle de grands maitres se sont assujettis. On a imprime en lettres italiques, les mots qui indiquent le genre de style. C'est a dire, ces mots qui enrichissent et multiplient l'idee, en la presentant sous plusieurs formes differentes (Voyez la preface de la lettre a Madame la Comtesse Tation). On a employe les points... et les ,,,, pour l'usage ordinaire. C'est ainsi qu'on s'est fait une etude d'epargner au public tout le penible de la lecture pour ne lui laisser que le plaisir : de meme que l'amant passionne qui porte une rose a sa maitresse n ote avec soin les eipnes qui pourraient dechirer son sein.
+
+LETTRE de MADAME LA COMTESSE TATION a l'EDITEUR en lui envoyant la tragedie du sieur de Bois-Flotte
+J'ai toujours le coeur gros [de tour], monsieur, depuis la mort du sieur de Bois-Flotte. Il n'est plus de fate [de maison] pour moi : le moindre eclat [de rire] blesse mes oreilles [de soulier]. Pour peu que cela dure [comme du fer], il n'est point de voie [d'eau] que je n'emploie pour faire cesser l'humeur [froide] dont je suis. Si vous croyez avoir la faculte [de medecine] de me guerir, venez me tenir compagnie [de Houzards] ; mais c'est une cure [de village] au-dessus de vos forces. Tout me deplait. Vous ne verrez plus sur mon visage, ni rouge[-gorge], ni mouches [cantarides]. Je ne quitte plus ma chambre [aux deniers], sous pretexte que j'ai envoye mes chevaux au verd [de gris]; Si je peux me distraire avec des livres [de beurre], a peine mes yeux ont-ils parcouru deux pages [de la petite ecurie], qu'ils ne voient plus, et je serais tentee de mettre sur mon nez une paire de lunettes [de commodite]. Enfin, l'autre jour, j'etais priee d'un bal pare [du demi-cercle] chez une belle blonde [reblanchie] de votre connaissance. Je m'y laissai entrainer par complaisance : comme je ne dansais point, on me proposa une partie [casuelle] que j'acceptai. A tout moment je jouais avant mon tour [de couvent]. Il y eut un coup [de poing] entre autres, ou je crus mettre le roi de carreau [de vitre], et a peine avait-je lache ma carte [sur les armes], que je vis que ce n'etait que le neuf [du jour]. Mes distractions auront, je crois, ete fort commodes [a dessus de marbre] pour ceux qui jouaient avec moi. Aussi ai-je perdu je ne sais combine de fiches [ton nez dans mon epaule]. C'etait un piquet [de cavalerie]. Je ne jouais que trente fois [comme les gueux] la fiche [de la comedie], j'ai trouve encore le moyen de perdre pres de quatre-vingt francs[-macons].
+Cette malheureuse partie me rappelait a tout moment celle que je fis un jour avec l'Abbe Quille et ce pauvre Bois-Flotte. Il faisait une chaleur affreuse ce jour-ka, et comme je passais mon mouchoir sur mon cou, l'abbe qui m'avait deja fait repic et capot plusieurs fois, me dit :cette fois-ci : Madame la Comtesse, vous ne direz point que vous essuyez [un vilain coup]. Quand ils etaient ensemble, ils etaient charmants. Un jour Bois-Flotte dinait chez moi. Apres diner, voulant ecrire a une femme de mes amies je lui donnai la clef de mon secretaire por aller ma chercher ce qu'il fallait. Il ne rapporta qu'une plume et du papier. Je lui dit : comment voulez-vous donc que j'ecrive sans encre ? Madame, repondit-il en souriant : ne sais-je pas bien que vous avez [le cornet] ? Deux minutes apres on annonca l'Abbe Quille qui venait le prendre pour aller, je ne ma rappelle plus ou : comme il etait en grand deuil, l'Abbe , qui ne s'attendait pas a le voir en pleureuse et en manchette de baptiste, commenca par lui dire : il faut convenir, mon ami, que tu as bien l'air [d'un Saint-Jean-Baptiste]; Ils me compterent ensuite l'histoire d'un pauvre domestique qui etant a donner du cor le soir sur les boulevards, s'etait pris de parole avec un soldat aux gardes, qui avait fini par lui plonger son epee [dans le corps], heureusement sans lui faire de mal. Mais ce qui me fit rire aux larmes, c'etait Bois-Flotte en sortant qui voulait absolument se mettre sur le devant du carrosse de l'Abbe, parce qu'il pretendait que des qu'on etait assis dans une voiture on etait toujours [sur le derriere]. Un autre jour, je les avais tous deux chez moi lorsqu'on vint annoncer Madame la Superieure. Comme le carrosse etait a moitie tourne pour entrer, passe un etourdi [en diable] qui nous accroche de maniere que nous avons pense etre verse a plat. L'Abbe Quille se fache et dit en propres mots au jeune homme : Monsieur, qui que vous soyez, sachez que Madame, est superieure de ce Couvent : vous la prenez apparemment pour une soeur [converse] ?
+C'etait ainsi que nous passions la vie ; mais tous ces ressouvenirs ne font que redoubler mes regrets. Puisque les gens de lettres [majuscules] revivent dans leurs ouvrages, je vous envoie une tragedie du sieur de Bois-Flotte digne de l'etat qu'il avait embrasse [sur le front]. Je vous prie de la faire imprimer. C'est une service [des morts] que vous lui rendrez, ainsi qu'a toute la famille, qui est composee d'honnetes gens-[farine]. Il a un oncle pas bien loin de chez moi qui vit dans un petit chateau ou il y a des tours de [Comus] et un colombier a pied [et a cheval] Il avait un cousin enseigne de vaisseau [capillaire] : un beau-frere qui fut tue dans une mine [de feves] que l'on fit sauter et qui couta la vie a presque tous les mineurs [emancipes]. J'espere, Monsieur, qu'il me sera permis de compter sur ous, et que je vous aurai a diner un de ces jours, mais a condition que vous vous contenterez de la fortune du pot [de chambre]. J'ai quitte mon ancienne maison : je loge actuellement dans la rue [Barbe] , la seconde porte apres la rue [Brique] tout vis-a-vis le cul-de-sac [et de corde]. Il y a un metteur en oeuvre [de chair] sur le devant.
+On ne peut rien ajouter aux sentiments distingues avec lesquels je suis [a la piste], Monsieur, votre tres humble et tres obeissante servante,
+La COMTESSE TATION.
+
+PREFACE de L'AUTEUR.
+Si je pouvais etre soupconne de vanite, l'accueil sans exemple de la Nation, a honore ma lettre a Madame le Comtesse Tation, me justifierait egalement aux yeux de mes amis et de mes ennemis. Quoi qu'il en soit, j'ai cru devoir consacrer a jamais les dons que j'ai recus de la nature a la perfection d'un genre couronne par une predilection si marquee. Je me suis attache principalement a conserver partout la vrai style dramatique, et cette harmonie brillante de Racine, trop negligee de nos jours. Je m'imagine que le public voudra bine m'accorder ma grace, si je mets dans la bouche des mes heros des vers qui ne blessent pas les oreilles. Quelque soit mon gout pour la belle poedie, je lui en aurais encore fait le sacrifice, si content de travailler pour mon siecle, je n'aiavis pas cru devoir aussi mes soins a la posterites.
+OBSERVATIONS NOUVELLES sur l'Art dramatique, et en particulier sur Vercingentorixe.
+J'ai voulu etre utile a ma patrie, et j'ai compose « Vencingentorixe ». J'ai pense qu'elle venait avec plaisir sur la scene ces braves Gaulois de qui nous descendons. Mais je n'aurais pas rempli mon plan, si je n'avais pas su peindre que les egarement de l'amour et de la haine, les suites funestes de l'ambition et de la mollesse : et si je n'avais pas expose aux yeux des spectateurs que le crime puni et la vertu triomphante, je serais reste loin du but avec Corneille, Racine, Crebillon, et Monsieur de Voltaire, je distinguerai cependant Crebillon, qui les devances de quelques pas dans cettte scene si tendre, ou Thyeste est pres de boire le sang de son fils. Mais il s'arrete : il rend sa coupe. L'imagination du spectateur recoit (si'l m'est permis de la dire) une saccade violente qui l'oblige a retourner sur ses pas, et le coup de theatre est manque. l'ame de Racine, mollement agitee par les peines, et les plaisirs de l'amour, ne connaissait pas ces elans sublimes ; mais son esprit plus sain l'eloignait toujours. Il le designe evidemment par ces vers que Clytemnestre adresse a Agamamemnon. 
+Cependant le genre et le style de ces auteurs ont des partisans : l'habitude, les prejuges de l'education leur conserve encore des admirateurs. Je sens qu'il est temps de lever le bandeau qui couvre les yeux et de ramener l'esprit du public. Comme il y aurait bine des choses a dire la-dessus, je me propose d'employer quinze ou vingt ans a une poetique un peu meilleure que celle qu'on nous a donnees jusqu'a present, et d'apres laquelle il n'y aurait plus de question a faire.
+SUITE des OBSEVATIONS DRAMATIQUES.
+Le mot tragedie viet de deux mots gracs , bouc et chant, d'ou on a fait le mot « Tragique » : c'est a dire « funeste » [Voyez le « Jardin des Racines grecques », page 19 de l'addition de plusieurs mots , etc. ]. Ainsi, plus une tragedie est funeste, plus elle a rempli son plan : et moins elle est terrible, moins elle approche de la perfection. Le sujet de ma piece m'a paru se preter a cette combinaison, et je l'ai choisi de preference. Le titre seul de « Vencingentorixe », renferme je ne sais quoi d'effrayant et de sombre. Je ne cacherai point la source ou j'ai puise les beautes de ma piece. Les « Commentaires de Cesar » ont ete tres connus et les militaires les lisent avec plaisir. Les campagnes de ce grand capitaine y sont decrites avec une clarte et une verite qui en impose. Vous croyez etre a ses cotes dans ses marches et contremarches : vous le suivez aux attaques de villes, aux passages des rivieres et des fleuves, vous l'entendez donner des ordres, vous voyez le signal de la retraite et du carnage. La reputation de cet ouvrage m'a determine a ne point choisir ailleurs le sujet de ma tragedie : et j'ai cru devoir le faire par les raisons suivantes. 
+Quant aux noms, ceux de Vercingentorixe, Catuat, Critognat, etc m'ont paru trop harmonieux pour entreprendre de les changer. Celui de Silvie demande quelque remarque a part. Ce personnage est entierement de mon invention. Cependant, il es si bien lie au sujet, qu'on n'est point etonne de le voir. Je me flatte meme que me lecteurs me sauront gre de l'avoir employe pour rendre la piece plus interessante, avec cela le nom de Silvie doux et flatteur a l'oreille, m'a paru contraster agreablement avec ceux de mes heros. Au reste, ceci n'est point une innovation ; Racine et nos grand maitres ont quelquefois ajoute a des pieces tirees de l'Histoire des personnages de leur invention. 
+A l'egard du lieu de la scene, le public peut juger que je ne pouvais me dispenser de choisir Alexie, parce que voulant mettre dans ma piece un conseil de guerre qui devait etre trouble par l'arrivee de Silvie, il etait plus naturel de la faire tenir dans le ville que dans un camp ou je n'avais pu introduire une femme sans choquer la delicatesse de quelques personnes.
+Quant aux evenements, j'ai retranche ceux qui n'etaient point vraiment tragiques, pour en ajouter d'autres qui me l'ont paru davantage ; et je me flatte de ceux -ci de n'etre pas reste au dessous de son modele. Ce qui m'a fait recourir a cet artifice, c'est l'obligation que je me suis faite d'etablir dans ma piece un plan moral qui put offrir des instructions interessantes a tous les ordres du militaire. Ainsi, j'ai cru devoir introduire sur la scene un simple soldat, pour que les sentinelles retirassent quelque profit de la representation de ma tragedie. De meme, si je faisais une comedie, je voudrais que toutes les chasses se la societe civile y trouvassent des lecons, et j'aurais soin d'y faire paraitre un moucheur de chandelles pour qu'elle ne fut point indifferente aux garcons de theatre. D'ailleurs, un soldat n'est point un personnage episodique : c'est lui qui determine Vercingentorixe a s'eloigner de Silvie et voler sur les remparts.
+L'amitie, l'amour et la tendresse fraternelle n'avaient point ete representes avant moi come ils pouvaient l'etre, j'en ai fait le sujet de cette tragedie. Mais ce sujet, accompagne des circonstances dont j'ai cru devoir l'embellir, etait peut-etre difficile et plus dangereux qu'aucun de ceux qui sont au theatre. Pour que ma piece fit plus d'impression dans l'ame du spectateur, il fallait le surprendre ; ainsi les scenes les plus ordinaires devaient etre traitees d'une maniere toute nouvelle, et lorsque le fond etait connu, il etait indispensable qu'il fut neuf par les details. Le recit meme devait avoir une forme nouvelle. Comme tout se passe en action, s'il n'eut point fait partie de l'action, il l'aurait affaiblie. Il n'y avait donc qu'un parti a prendre. C'etait de la mettre dans le bouche d'un des principaux personnages qui meme serait prie de la faire. Ainsi c'est Critognat, qui a la priere de Vercingentorixe, l'instruit du sort d'Eporedorixe et de Convictolitan. Je ne sais si cet artifice paraitra heureux.
+Ce n'est pas tout : pour augmenter la surprise des spectateurs, Critognat qui doit faire le recit parait tout ignorer. Il se met a table comme les autres. Il recoit meme dans son assiette un morceau du corps du malheureux Convictolitan son ami. Un calme profond parait sur son visage et pret a s'arracher la vie, il semble user avec les autres des tristes ressources qu'ils emploient pour ignorer la mort:
+J'ai fait plus : j'ai voulu qu'il se frappat avec le couteau qui lui servirait a table,sans employer ni epee, ni poignard, afin que le spectateur le vit expirer sans se douter seulement du coup qui terminerait ses jours. C'est un moyen qui pourra ne pas plaire a tout le monde. Au reste, si des gens difficiles exigent absolument qu'il se tue avec un poignard, il est sensible qu'il en faudra pas de longs travaux pour parvenir a les satisfaire.
+J'ai fait encore plus : j'ai feint que Vercingentorixe etait frere de Convictolitan, ce qui n'est pas point dans l'histoire pour rendre plus horrible le moment ou Critognat devoilant tout cet affreux mystere, le roi s'ecrie ; Ah ! Mon frere !
+Enfin, voila les ressources que j'ai cru devoir employer pour que ma tragedie fut vraiment terrible; La scene du repas ou Silvie mange son amant, Vercingentorixe son frere, Catuat, Critognat, etc leur ami, le moment ou ces genereux gaulois sont etendus par terre mourants de leur propre main, celui ou Silvie annonce qu'elle veut se laisser mourir de faim, me paraissent des moments de terreur tels que les atheniens les ont en vain desire et tels que les francais les desiraient avant ma piece. C'est un article que je detaillerai d'une maniere plus etendue dans la Poetique que je dois donner au public; mais que je serai peut-etre force de lui faire desirer longtemps. Au reste, les auteurs tragiques pourront en attendant m'envoyer leurs ouvrages et je me ferai un vrai plaisir de les corriger selon les regles de mon art.
+Pour etre sur de donner au public un bon ouvrage, je l'ai consulte lui-meemn et par des lettres multipliees je suis venu a bout de la porter au point de perfection ou il est aujourd'hui. J'ai remarque que l'instant qui faisait couler le plus de larmes est celui ou Silvie, inquiete du sort de Convictolitan, demande pourquoi on ne le voit point paraitre. Pour calmer ses alarmes, Critognat dit ce mot terrible : « il va venir ». Le moment d'apres on sert sur la table la corps du heros. J'avouerai que je regarde cet endroit de ma piece comme le mieux fini et le plus pathetique ; Ainsi mes auditeurs etaient dechires. Telle etait l'impression qu'elle faisait a la lecture. Si mes lecteurs l'eprouvaient de meme, ce qui n'est pas a presumer, tous mes voeux seraient combles, m'etant toujours propose de reunir dans ma piece ce qu'on pourrait desirer de plus parfait sur tous les theatres du monde.
+La Mercure, le seul de tous les journaux qui ait le sens commun [j'en nommerais encore plusieurs autres], a parle de mon style de la maniere du monde la plus flatteuse et s'est cru force d'ajouter, que personne apres moi ne pourrait aller aussi avant dans la « carriere brillante » que je commencais a parcourir. Un grand homme m'a comble a ce sujet de tant de louanges, que je le soupconnerais de s'etre moque de moi si j'etais moins sur de mon merite : les termes de sa lettre ne sont point faits pour etre oublies.
+« J'ai lu votre ouvrage dans un joli cercle [de geometrie]... l'on comparait votre production [marine] a ces chefs d'oeuvres de l'art [jaune] qui ont fait l'admiration de nos peres [de l'eglise]. L'autre admirait le sel [de glaubert] repandu dans votre livre [de cerises] : un troisieme louait [en chambre garnie] les graces [demi-nues] de votre diction et cette fuite de beaute [de la rue Saint Honore], qui ravissent le lecteur a chaque pas [de Marcel]. 
+Mais revenons a ma tragedie. Pour que toutes les situation de ma piece fussent terribles, il fallait que la scene tendre entre Convictolitan et Silvie ne fut point eloignee de la catastrophe : ce contraste doit naturellement porter dans l'a^me du spectateur une horreur dont elle ne peut se defendre ; mais pour cela, le commencement de la piece devait etre sans amour ; rien n'etait plus difficile ; le piquant de cette nouveaute m'a fait oublier les obstacles que j'avais a surmonter ; on verra si par-la j'ai ralenti la marche de ma piece, et si les premiere scenes laissent quelque chose a desirer.
+Je suis force de convenir que le personnage d'Eporedorixe est ce qui m'a coute le plus ; il etait de la plus grand difficulte a mettre au theatre : si j'avais fait un personnage vertueux, l'ordre que donne Vercongentorixe de la faire perir, pour le manger ensuite, revolterait le bon sens et blesserait toutes les lois de l'humanite : si j'avais fait un personnage endurci dans le crime, on entendrait avec plaisir l'arret de sa condamnation, et cette situation ne serait point tragique. Pour me tirer de cet embarras  lorsqu'il est accuse de trahison , il se contente de s'ecrier : « Ah ! Seigneur ! ». On l'arrete; et il se laisse entrainer sans se plaindre de son sort, ni de l'inflexibilite de son general qui le condamne sans l'entendre : par la il laisse le spectateur incertain de son crime et son trepas fait meme verser des larmes. Disons un mot de Cotus.
+L'Histoire dit peu de chose de ce Corus ; tout ce qu'lle nous apprend de lui, c'est qu'il fut en rivalite avec Convictolitan pour la premiere place de sa republique, et que ce dernier l'emporta sur l'ui. Dans une piece ou je me suis promis tant de fictions, j'ai cru devoir conserver a Cotus le caractere que l'Histoire lui donne, le public fera a portee de juger si ce caractere est soutenu comme il doit l'etre et s'il se dement un instant.
+Enfin, le but moral de cet ouvrage est de montrer jusqu'ou peut aller la fidelite des sujets pour leur roi, des citoyens pour leur patrie, sentiments respectables que les Gaulois semblent avoir pour jamais transmis a leurs enfants. Si ce plan est rempli, je pourrais terminer ici une dissertation peut-etre un peu longue, mais qui doit etre justifiee par celle que nous lisons a la tete de quelques autres ouvrages immortels. Cependant, il faut prevenir les objections, repondre aux critiques, puisque c'est une nouvelle occasion de rectifier le gout que nos nouveaux docteurs ont trop egare.
+On me demandera peut-etre pourquoi j'ai intitule ma piece Vercingentorixe, tandis qu'un autre de mes heros parait avoir un role plus etendu ? Je leur dirai d'abord : vous avez lu ma piece, ainsi vous avez du voir lequel des deux personnages est le plus considerable, si le role du roi est moins interessant que celui du sujet ? Si cela est, je n'entreprends plus de me justifier : mais je croirai permis a mon tour de demander si dans « La Mort de Pompee », l'epoux de Cornelie est le personnage le plus interessant ? Si dans « L'Orphelin de la Chine », le heros qui donne le titre a la piece s'y trouve dans les situations les plus touchantes ? D'ailleurs, si Vercingentorixe soutient jusqu'a la fin l'eclat de la majeste roayle, si les vers qui sont dans sa bouche peignent par leur noblesse et leur hamonie pompeuse, la grandeur de ce genereux prince, si le recit de critognat exprime par sa force et son energie la courage et le zele ardent d'un sujet, si l'on ne decouvre nulle part aucun de ces defauts dont notre versification fourmille, le lecteur sans doute voudra bien ne pas me condamner.
+Quant aux autres critiques, il faudrait pour y repondre renoncer a mes engagements. Je n'ai jamais vu l'envie de persecuter la merite avec autant d'ignorance. Les uns disent que mon style n'est point le crai style tragique ; les autres, que le role de Cotus est d'un froid a glacer. Un de ces messieurs a ose dire que mes heros etaient trpo connus, pour qu'il ne fut permis de falsifier l'Histoire : mais c'est trop m'arretr a refuter des platitudes ; il n(y a que des imbeciles qui puissent faire de pareilles critiques ; j'etais bien aise seulement de faire voir au public que je sais tout ce qu'il dit de moi. Finissons par un objet plus interessant.
+Malheureusement, de semblables discours font des proges dans l'esprit des auteurs. Dans le temps de ma lettre a Madame le Comtesse Tation, j'avais engage les jeunes poetes a prendre mon style pour modele et je me flattais d'etre ecoute : cependant tous les ouvrages qui ont paru depuis sont toujours dans l'ancien style : les arts vont tomber dans la barbarie, et lorsque je veux eclairer mon siecle, mes avis ont le sort des predictions de Cassandre ; enfin, je crois ne pouvoir employer de ressources plus sures pour detromper mes confreres, que d'exposer ici une lettre que j'ai recu d'un caporal des gardes suisses qui m'ecrit a ce sujet au nom de tous ses camarades. Puisqu'il y a quelques temps que je l'ai recue, on ne dira pas que l'amour-propre me la fait publier. La voici.
+« Le bruit de tambour de votre ouvrage [a corne] a retenti jusqu'a nos oreilles [d'ane], Monsieur. Jugeant par le rapport [d'expert], qu'il est sans prix [d'arquebuse], nous n'userons point de detour [de rue] et nous nous adresserons a vous pour l'avoir de la premiere main[-levee]. Au reste, [fils d'Agamemnon] votre jugement [dernier]vous fera voir que nous sommes [d'argent] de votre connaissance litteraire, puisque nous parlons votre meme langue [de carpe]. Nous osons vous faire la demande de votre oeuvre [de Marguillier]. De ce service [damasse], nous vous aurons une obligation [ar devant Notaire] qui ne finira qu'avec la vie. »
+Sans doute, il est difficile de ne pas se rendre a des temoignages aussi authentiques ; ainsi j'espere que nous allons voir nos jeunes auteurs s'empresser sur la route que je viens de frayer. Si j'ai pu creer le vrai style et le vrai genre tragique, pourquoi ne jouiraient-ils pas du fruit de mes travaux ? Puisse-je ne pas former un vain espoir ! Et puisse la tragedie s'elancer d'un vol rapide au-dela des bornes etroites ou le mauvais gout la tient encore resserree.
+
+AVERTISSEMENT
+On trouvera dans cette preface quelques anachronismes. Le sieur de Bois-Flotte y parle de son ouvrage, comme s'il eut ete donne de son vivant. La public sera peut-etre etonne qu'il ait fait une faute aussi considerable : je me reserve le soin de la justifier dans une dissertation importante que je donnerai sur ce sujet.
+
+NOTES HISTORIQUES
+Les commentaires de Cesar vont encore me servir de guides dans les notes qui suivent. Ce heros, apres avoir remporte plusieurs avantages sur l'armee gauloire, avait contraint Vercingentorixe a rassembler les debris de ses troupes dans Alexie, dont il vient a l'instant former la siege. La premier soin du general assiege, fut de detacher sa cavalerie pour rassembler des secours. Telle est la situation d'Alexie dans ma tragedie : mais le moment ou elle commence est ainsi decrit par Cesar.
+ »Il qui Alesias obsidebantur, practicura die qua suarum auxilia expectaverunt, consumpto omni frumento, inscii quid in Acdius generetur, consilio coacto de exitu fortnarum fuarum consultabant ac variis dictis, sententiis, quarum pars, deditionem : pars, deum vires suppeterent, eruptionem censebant ; non practerunda videtur oratio Critognati propter ejus singularem ac nesarias crudelatarem.
+Il rapporte ensuite la discours de Critognat, que j'ai traduit presque mot pour mot dans les endroits les plus energiques. Les auteurs a qui le latin n'est pas familier, pourront egalement suivre le plan de ma tragedie dans l'admirable histoire du Pere Catrou. Par-la, tout le monde sera a porte de connaitre avec quelle adresse et quel menagement un poete doit employer les fictions dans les sujets tires de l'Histoire, et en meme temps avec quelle hardiesse il peut les entendre et les prodiguer lorsqu'elles ne blessent point les regles du theatre et qu'elles ne choquent point la vraisemblance.
+Vercingentorixe, a la fleur de l'age, reunissait la qualites d'un roi, les vertus d'un citoyen et les talents d'un general. Ne dans le sein d'un etat libre, ses compatriotes l'avaient nomme leur roi et lui avaient confie le commandement general des troupe. Les soldats qui combattraient sous ses ordres, defendaient chacun leur cause particulieres, leurs foyers et la liberte. Mais son mauvais destin lui avait donne Cesar pour ennemi ; il fut vaincu, apres avoir epuise toues les ressources de son courage et de son genie. J'ai pense qu'un jeune prince , environne des officiers generaux qui l'ont porte sur le trone et occupe a rassembler leurs avis pour le soutien de la cause commune, offrirait un spectacle interessant por tous le speuples de l'univers.
+Cet endroit semble demander une explication : pour avoir une parfait idee de cette belle camapgne de Cesar, il n'est pas inutile de jeter un coup d'oeil sur les precedentes.
+Les Suessiones ayant nomme Galba leur genralissime, les Attribiates et les Ambianois vinrent se ranger sous ses enseignes a l'exemple des Moriniens et des Minapiens. Bientot les Caletiens, les Vilocasses et les Veromanduens, vinrent grossir son armee ; et les Aduatiques, les Condrutiens et les Ebruons sachant que les Cereses et les Penans avaient suivi son parti, l'acocmpagnerent au siege de Bribas, pendant que Divitiac ravageait la pays des Allobroges. Mais Cesar victorieux vint assieger Noriodun et Brantuspance se rendit a lui. Ses lieutenants en meme temps soumettaient les Venetes et les Unelles, trop mal defendus par les Osmiens et les Curiosolits, a qui les Suresiens, les Aulerques et les Rhedonois avaient promis de plus puissant secours. De son cote Crassus vainquit Tarbelles, les Bigerriens et les Preciens : et les Vocates, les Tarusates et les Elusates ne se defendirent pas mieux que les Garites, les Ausciens et les Garumnois ; ni ceux-ci mieux que les Sibuzates et les Cocozates. Cesar eut le meme succes sur les Tenctires et les Usipetes. Mais Ambiorixe et Cativulce, a la sollicitation du Trevirois Induciomare, se souleverent et vainquirent Cotta. Cesar fut informe de cet echec par un esclave gaulois, nomme Vecticor.
+L'annee d'apres, il ne se passa rien de remarquable que la revolte d'Accor. Mais la campagne suivante est a jamais memorable par la belle defense de Vencingentorixe, assiege a Alexie. On peut aisement concevoir actuellement avec quel empressement les Eduens, les Ambivaretes et les Brannoviens vinrent le secourir, aussi bine que les Cadurus, les Gabeles et les Velaures ; ce qui decida les sequanes, les Bituriges et les Xantons, par consequent les Rutheniens, les Carnutes et les Andes, et surttout les Lemorices, les Pictons et les Turons, ainsi que les Suessions, les Mediomatrices et les Pretocoriens, de meme que les Nerviens, les Nitiobriges, les Aulerques et les Cenomans, par les meme raisons ques les Attrebates, les Bellorasses et les Ebutorices qui naturelllement devaient suivre l'exemple des Rautaques et des Boiens, qui en cela ne faisaient qu'imiter les Armorites et les Rhedons, a qui les Ambilares et les Caletes avaient deja montre leur devoir.
+On ne sera peut-etre pas fache d'apprendre ici une particularite de ce siege, qui pensa sauver la ville. Cesar ayant fait transporter un belier pendant la nuit sur le haut de la montagne, entreprit de faire breche a une tour de la citadelle, d'ou les assieges incommodaient considerablement ses troupes. Apres de frequentes secousses, la tour s'ecroula dans un fracas epouvantable ; mais chaque pierre du bond qu'elle fit en tombant, vint se replacer a l'endroit ou elle etait auparavant de maniere que la tour presque aussitot retablie qu'abattue.
+Cet evenement, quelque naturel qu'il soit, n'en fut pas moins regarde dans Alexie comme un prodige, et c'est peut-etre ce qui inspira a ses defenseurs cette constance inebranlable qui les soutint dans les plus cruelles extremites.
+Ce grand capitaine ayant su les preparatifs de l'ennemi, prevoyant que lui-meme allait etre assiege dans osn camp, mit tout en oeuvre pour le defendre. Voici comment le Pere Catron decrit les soins et l'activite de Cesar dans son excellent morceau d'Histoire de la Republique Romaine.
+« Outre le double fosse dont il environna le terre-plein fraise et palissade dont il borda les fosses, et outre les tours qu'il y disposa par intervalles, il fit creuser en avant des trous remplis en dedans de pieux pointus et couverts d'un peu de gazon, pour servir de piece a ceux qui voudraient approcher. »
+Le personnage de ce soldat offre aux rois de grandes lecons : tels sont les hommes a qui la fortune confie quelquefois la destinee de leurs etats. Quoique cette aventure ne soit pas au nombre de celles qui ont rendu ce siege si fameux, elle n'en est pas moins historique.
+J'ai dit plus haut, que Cesar deux ans auparavant ne sut la defaite de cotta que pas un esclave gaulois nomme Vertican qui etait a son service. J'ai pense qu'il me serait permis de preter a mon soldat le meme zele et la meme generosite qui avaient decide Vertican. D'ailleurs, la morale que les sentinelles pourront en retirer, sera sans doute beaucoup plus pure. Vertican servait son maitre et trahissait sa patrie, au lieu que mon soldat sert a la fois son prince et son pays.
+C'est aussi l'occasion de rendre justice encore a la memoire de Vercingentorixe. On ne saurait trop admirer avec quelle generosite il sacrifie des instants agreables pour s'exposer a des dangers certains. Quoique cette circonstance ne soit pas historique, elle etait cependant necessaire pour peindre l'ame de mon heros. C'est mettre en action ses vertus. En effet, ce prince occupe entierement du sort de sa patrie, ne consacrait aucun de ses moments au besoin des voluptes : il se mefiait meme de l'enjouement du plaisir. On peut dire de lui, que c'etait l'homme de son siecle le moins partisan de l'interet personnel.
+Cette scene est d'un genre tout neuf, mais elle etait de la plus grande delicatesse a manier. Aussi je ne l'aurais pas risquee, si elle n'avait ete necessaire a la marche de ma tragedie. Cependant elle n'est pas sans beaute : et le public jugera si je me suis tire avec adresse d'un pas aussi embarrassant.
+On a dit qu'il eut ete plus beau que Convictolitan oubliant son amour, eut suivi son roi sur les remparts. Cette objection parait juste ; mais en meme-temps, il fallait considerer que Silvie aurait ete seule longtemps, et qu'ainsi j'aurais ete oblige d'etendre beaucoup ce monologue, ce qui aurait ete deplace parmi les coups bruyants de theatre qui soutiennent l'interet de ma piece, il fallait donc qu'elle fut quelque temps en scene avec un des personnages. Il etait plus piquant de la faire rester avec son amant ; mais en meme-temps il fallait sauver la gloire de Convictolitan : ce qui n'etait pas aise. Voyez les moyens que j'ai pris, lorsqu'il sort du Palais avec le Roi, Silvie le rappelle ; il cede a ses prieres, il revient pour s'eloigner d'elle une seconde fois. Enfin, Silvie a recours a la colere, moyen plus puissant que les larmes. La crainte de perdre les femmes interesse plus l'amour-propre des hommes que le bonheur de les attendrir. C'est ce qui lui fait dire a Convictolitan : « Pars [de gateau], cruel ». Ce mot le retient et le spectateur concoit qu'il puisse alors oublier ses devoirs. Mais, a l'arrivee imprevue de Critognat qui vient devoiler sa faiblesse, comme un autre Renaud il brise les liens de fleurs qui l'enchainent et vole au combat apres avoir fait a Silvie ces adieux touchants qui justifient dans ce moment sa genereuse absence. J'avouerai malgre moi que je me trouve heureux, mais tres heureux d'avoir pu filer cette scene avec autant de succes precisement le temps dont j'vais besoin, sans me rapporter a toutes ces objections ridicules qui naissent dans de faibles cerveaux et disparaissent devant le genie. D'ialleurs c'etait un beau champ pour developper agreablement l'origine de la galanterie francaise.
+Je me flatte que cette catastrophe paraitra neuve a mes lecteurs, et que Sophocle, Eurirpide, etc ne leur offriront nulle part une semblable : je me suis bien garde d'en parler dans ma preface, afin de leur laisser le plaisir de la surprise, mais c'est comme on dit reculer pour mieux sauter, et je vais prendre ma revanche dans cette note, qui d'ailleurs sera on ne peut plus dramatique.
+On concoit qu'il fallait employer des ressorts nouveaux pour le denouement d'une tragedie qui servira de modele aux auteurs de mon siecle, et meme des siecles a venir, mais que de difficultes j'avais a surmonter ! J'ai designe plus haut les ressources que j'ai mises en oeuvre, pour rendre plus tragique l'instant ou Eporedrixe est condamne ; mais si l'arret de sa mort avait ete execute a la lettre, cette catastropphe aurait ete sans effet, parce qu'elle aurait ete presentee par le spectateur des le commencement de la piece : il fallait donc pour la perfection du denouement, que le heros de ma piece le plus aimable et le plus aime, subit le sort du personnage le plus odieux et le plus deteste ; mais le moyen de s'y meprendre ! Si j'avais voulu noircir sa vie et rendre l'honneur au traitre Eporedorixe ; j'aurais attire sur moi l'indignation du spectateur ; on conciendra que jamais poete tragique ne s'est trouve dans une situation aussi delicate. Voici donc le parti que l'ai pris.
+Je suppose que Convictolitan est tue dans une sortie, et que Cesar ayant appris la mort d'Eporedorixe et le triste sort reserve a sa depouille mortelle, veut en tirer une eclatante vengeance : pour cela il a recours a la ruse le plus insigne que l'esprit humain ait invente ; il faut trancher la tete de Convictolitan et d'Eporedorixe, fait mettre le cadavre de l'un pres de la tete de l'autre ; de maniere que les gaulois en allant reconnaitre leurs morts, trouvent la tete de Convictolitan pres d'un corps qu'ils croient etre le sien et qu'ils honorent par de magnifiques obseques, tandis que le tronc du heros aupres duquel on a place secretement la tete d'Eporedorixe, est mis en pieces et devore ensuite par ceux dont il etait l'ami, le frere, l'amant.
+C'est ainsi que Cesar est suppose se venger par les mains de ses ennemis meme ; et c'est ainsi que je donne au denouement de ma piece un appareil theatral et un interet qui doivent en imposer la posterite la plus reculee.
+
+ERRATA
+Page 11, ligne 4, « un vilain coup », lisez « un vilain cou ».
+Ibid. ligne 15, « la cornet », lisez le « corps net ».
+Ibid. ligne 23, « d'un Saint-Jean-Baptiste » lisez, « d'un singe en baptiste ».
+Ibid. ligne 27, « dans le corps », lisez « dans le cor ».
+Page 12, ligne 3, « sur le derriere », lisez sur le derriere.
+Ibid. ligne 12, « diable », lisez diable.
+Ibid. Ligne 18, « soeur conserve », lisez « soeur qu'on serve ».
+
+PERSONNAGES.
+VERCINGENTORIXE, generalissime des Gaulois, elu roi des Arvernes.
+CATUAT, officier-general de l'armee Gauloise.
+CONUTODUN, officier-general de l'armee Gauloise.
+
+CRITOGNAT, officier-general de l'armee Gauloise.
+CONVICTOLITAN, officier-general de l'armee Gauloise.
+COTUS, officier-general de l'armee Gauloise.
+EPOREDORIXE, officier-general de l'armee Gauloise.
+SYLVIE, princesse aimee de Convictolitan.
+UN SOLDAT.
+GARDES.
+La scene est dans Alexie.
+
+
+
+			
+
+Le theatre represente le palais de Vercingentorixe.
+
+SCENE PREMIERE. Vercingentorixe, environne de ses officiers, tient un conseil de guerre, Conutodun, Catuat, Convictolitan sont assis a sa droite, Eporedorixe, Cotus et Critognat sont assis a sa gauche.
+VERCINGENTORIXE.
+Dans ces lieux a l'anglaise, ou ma voix vous amene,
+Il faut de nos malheurs rompre le cours la reine.
+Amis, vous dont l'esprit est plus mur mitoyen,
+Donnez-moi des conseils dignes d'un citoyen ;
+Et surtout de droguet, dans nos vertus antiques,			[5]
+Retablissons le sort de mes sujets lyriques.
+Non, tout n'est pas perdu, j'ai pour moi les Boyens,
+Les Pictons, les Turons et les Pretocoriens;
+Et j'ai su que bientot, aides des Lemovices,
+Les Xantons s'uniraient aux Mediomatrices.			[10]
+Avec moins de secours et de bras de fauteuil,
+Des Romains autrefois je creusai le cercueil.
+Je sues comme un cochon resister a leurs armes,
+Et je pues comme un bouc dissiper vos alarmes,
+Pensez-vous que Cesar les voyant approcher,			[15]
+Ose continuer le siege du cocher ?
+Parlez, Conutodun ; vous Eporedorixe,
+Vous repondrez ensuite a Vercingentorixe.
+CONUTODUN.
+C'est a mon chef Saint-Jean que ma bouche de four
+Ose devoiler tout de point en point du jour.			[20]
+Je sais bien viager que le secours approche,
+Mais nos remparts detruits, nos forts, nos tours de broche
+Nous instruisent assez qu'apres mille hasards,
+L'ennemi de nos champs s'est rendu maitre es-arts.
+D'ou peut naitre, Seigneur, l'espoir qui vous console ?			[25]
+Nous mangeons des chevaux tous crus sur leur parole,
+Des souris gracieux et des rats de Saint-Maur,
+Secours vain de Bourgogne aux portes de la mort,
+Avant que l'ennemi puisse monter en graine
+Sur nos murs ebranles qui subsistent a peine,			[30]
+Sur nos forts de la halle et sur nos tours de main.
+Il faut le prevenir par quelque effort de rein.
+Usons du droit canon que le temps peut permettre;
+Confondons cette nuit leur adresse de lettre,
+Et ne leur faisons point de quartier de soulier,			[35]
+Perissons ou vengeons les Gaules d'ecuyer.
+EPOREDORIXE, avec embarras.
+C'est mon avis, seigneur, et mon coeur de laitue...
+VERCINGENTORIXE.
+Vous, Catuat, parlez.
+CATUAT.
+Seigneur, ce point de vue
+Merite un examen plus clair de procureur;
+Le secours ne vient point et Cesar est vainqueur;			[40]
+Le meilleur parti... peut-etre est de se rendre.
+CRITOGNAT, vivement.
+Vous, Catuat, o ciel ! seigneur, daignez m'entendre;
+Non, je ne puis souffrir ni ce plan de maison,
+Ni le noble dessein a la mine de plomb,
+D'attaquer les Romains dans leur poste royale.			[45]
+Ce dernier me plairait ; mais dans le fond de cale,
+Si nous y perissons, c'est en vain frelate
+Que nous voulons sauver de la captivite
+Et nos enfants trouves, et nos femmes de chambre;
+Et Cesar parvenant a ses fins comme l'ambre,			[50]
+A la patrie entiere imposera ses lois.
+Or moulu, quel sera le perfide Gaulois,
+Dont l'ame de soufflet assez basse de viole
+Recevra des Romains pour ses maitres d'ecole ?
+Attendons le secours, il n'est pas loin de nous :			[55]
+Cesar fait dans son camp doubler les gardes fous.
+Loin de nous attaquer, il songe a se defendre;
+A de grands coups de fouet il a l'air de s'attendre.
+Si la faim nous assiege et trompant nos efforts,
+De nos corps de logis affaiblit les ressorts,			[60]
+De nos peres de bas imitons la constance,
+Devorons les soldats qui dans leur defaillance,
+Ne sont que pour la montre a repetition.
+Par la bemol, seigneur, du destin d'Ilion
+Nous sauverons ces murs ; et des preteurs sur gage			[65]
+N'aurons pas de Calais le flatteur avantage
+D'asservir sous leurs lois un peuple genereux,
+Et sur le sol diese ou regnaient vos aieux.
+CONVICTOLITAN.
+Oui, nous sommes, Seigneur, si bas de Segovie,
+Qu'un remede d'eau chaude utile a la patrie			[70]
+Ne peut trop s'acheter.
+VERCINGENTORIXE.
+Eh bien ?
+SCENE II. Les Precedents, Sylvie.
+SYLVIE, entrant precipitamment.
+Ciel ! de mon lit,
+Prenez garde malade, o prince ! On vous trahit :
+C'est Eporedorixe.
+EPOREDORIXE.
+Ah ! Seigneur !
+SYLVIE, avec vehemence.
+Oui, barbare,
+Tu croyais m'abuser par ton air de guitare;
+Mais plus que toi, Sylvie est adroite en entrant.			[75]
+VERCINGENTORIXE.
+Qu'a nos corps epuises il serve d'aliment :
+Soldats, obeissez a mon ordre ionique;
+Qu'on apporte en ces lieux ma table alphabetique.
+SCENE III. Les precedents, un soldat.
+LE SOLDAT, a Vercingentorixe.
+Seigneur, je voudrais bien vous celer et brider
+Que...
+VERCINGENTORIXE, lui parle a l'oreille, ensuite il dit :
+Cours de botanique, et fais tout decider.			[80]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Madame, pardonnez, je souffre d'allumette,
+En m'eloignant de vous, mais l'etat de mes dettes
+Dans sa chute de reins se repose sur moi ;
+Il est bien temps d'arret de lui montrer son roi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV. Sylvie, Convictolitan.
+SYLVIE, rappelant Convictolitan pret a sortir avec les autres.
+Cher Convictolitan !
+CONVICTOLITAN, se retournant.
+O ma chere Sylvie !			[85]
+Je vole dans la poche au secours d'Alexie.
+SYLVIE.
+Qu'avez-vous au plus fort ? Assure d'etre aime,
+Vos yeux, ces si beaux yeux, sont eteints retame;
+Vous n'avez plus cet air serein de Canarie.
+Quoi ! vous me preferez votre ingrate patrie ?			[90]
+Ne peut-on vivre heureux sans elle de dindon ?
+CONVICTOLITAN.
+Ah ! Cessez d'arreter mes pas de rigaudon;
+Je vois trop de cheval ce qui cause vos peines;
+Mais ce sang de marron qui circule en mes veines,
+Doit couler pour la ville ou je suis ne morveux.			[95]
+SYLVIE.
+Va, nous savons de Naples ou tu portes tes voeux ;
+Pars de gateau, cruel ! Laisse-moi.
+CONVICTOLITAN.
+Non, Sylvie ;
+Votre coeur d'opera fait toute mon envie :
+Je meritais plutot d'etre plaint comme un oeuf :
+Pourquoi ce ton sale ? prenez un air de boeuf.			[100]
+Qui ne redouble point mes maux a double entente.
+SYLVIE.
+Pardonne au feu gregeois dont brule ton amante :
+Helas ! je sens mauvais ce que tu fais pour moi.
+CONVICTOLITAN.
+Voulais-tu m'eprouver ?
+SYLVIE.
+Non propre.
+CONVICTOLITAN.
+Eh bien ! Pourquoi
+Souiller nos noeuds coulants par une erreur cruelle ?			[105]
+Notre chaine de montre est si forte et si belle !
+Tu me seras toujours chere de professeur :
+Oui, toujours.
+SYLVIE.
+Je t'entends, j'admire ta valeur;
+Ne soit point de cote dans la froideur stoique,
+Tout parti par le coche est toujours heroique,			[110]
+En epurant l'amour et son flambeau d'argent.
+Dans la guerre le sort nous trompe d'elephant,
+Et nous joue avec presse : ainsi que notre flamme
+Soit le coeur de ton coeur et l'ame de ton ame;
+L'Etat peut employer d'autres mains de papier,			[115]
+Et dans le sein des arts de ce siecle grossier,
+Nous vivrons tous les deux a l'abri champenoise.
+CONVICTOLITAN.
+Je ne puis tres profond vivre sans toi d'ardoise :
+Mais ne dois-pas rendre un compte de Grecourt
+De la place de fiacre on m'a nomme la cour ?			[120]
+Sans ce triste devoir je secherais tes larmes,
+J'epargnerais mes jours, et par cent heros d'armes,
+Il serait repete que Convictolitan,
+Las d'amour de chercher un trepas eclatant,
+Eut la force de corps de preferer la vie			[125]
+Pour etre de raison aussi grand que Sylvie.
+SCENE V. Les prececent, Critognat.
+CRITOGNAT, l'epee a la main, et couvert de sang comme un homme qui sort du combat.
+C'est trop livrer vos coeurs a ce combat naval;
+L'amour dans ce heros est un vice-amiral,
+Lorsqu'il doit de la main defendre sa patrie.
+Viens, Convictolitan.
+CONVICTOLITAN, a Sylvie.
+Vous venez de l'entendre...			[130]
+Je te suis, Critognat... Dieux !
+SYLVIE.
+Tu n'oublieras pas
+Ta maitresse a chanter dans l'horreur des combats ?
+CONVICTOLITAN.
+L'amour va m'y conduire, et par sa main divine,
+Ton image en mon coeur sera peinte ou chopine.
+SYLVIE, avec transport.
+Je suis remise au mois par cet espoir charmant.			[135]
+Adieu...
+CONVICTOLITAN.
+Je pars...
+SYLVIE.
+Eh bien !
+CONVICTOLITAN, les larmes aux yeux.
+Sylvie !...
+SYLVIE.
+Ah ! Quel moment !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI.
+SYLVIE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Nous attendrissons les cieux de mon carrosse.
+Quel serait l'avenir, si le present de noce
+Nous reduit solitaire a tant d'affreux tourments...
+Jette un coup d'oeil de boeuf sur deux tendres amants !			[140]
+Les memes traits de cuir, puissant maitre du monde,
+Ont ouvert de ton coeur la blessure profonde,
+Lorsque tu vins d'Arbois sur ces bords de chapeau,
+Deposer en justice un precieux fardeau,
+Et que la belle Europe interdite, tremblante,			[145]
+Mit le comble du toit a la ruse innocente...
+Cher Convictolitan, tes derniers mots de rein
+Ne sortiront jamais de mon esprit de vin.
+"Ton image en mon coeur sera peinte ou chopine. "
+Ah ! Crois de Saint-Andre, que cette ardeur divine			[150]
+A dans mon sein patron nourri les memes feux...
+Mais ces gardes mangers que font-ils en ces lieux ?
+Je vois les apprets tout de ce festin barbare.
+Quel est le coup de pied que ce moment prepare ?
+Une secrete horreur me glace au chocolat...			[155]
+SCENE VII. Vercingentorixe, Critognat, Conutodun, Catuat, Cotus, Sylvie, Gardes.
+VERCINGENTORIXE, a Sylvie.
+Princesse, il fut un temps ou les graces d'etat,
+Les ris de veau jouaient autour de ma couronne.
+Les jeux de main alors embellissaient mon trone
+Il plut a verse aux dieux de m'enlever ces biens...
+Helas ! Sans eux brouilles que peuvent les humains ?			[160]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous, soldats, avancez la table des matieres.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est votre place aux veaux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oublions nos miseres.
+SYLVIE.
+Mais Convictolitan ne parait point ferme.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je tremble.
+CRITOGNAT.
+Il va venir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je reste inanime !...
+VERCINGENTORIXE.
+Voici ce corps de chasse ou logeaient tous les vices.			[165]
+Consolons-nous, amis, reprenons nos sens suisses.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous, Madame, damee.
+SYLVIE.
+Ah ! Seigneur.
+VERCINGENTORIXE, en servant Catuat et les autres.
+Catuat...
+Cotus... Conutodun...
+CONUTODUN.
+Ah ! Prince.
+VERCINGENTORIXE, en servant Critognat.
+Critognat...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dieux ! Je sens fermenter la brulante amertume...
+L'amour dans ces plats pieds est-ce ton sang qui fume			[170]
+Helas ! Sous ces couteaux tranchants du grand seigneur
+Si ces lambeaux epars... O soupcons pleins d'horreur !
+VERCINGENTORIXE.
+Eh quoi ! Je participe a vos vives alarmes,
+Et ne puis souterrain commander a mes larmes...
+Critognat ne dis rien...
+CRITOGNAT.
+Je pense mon cheval.			[175]
+VERCINGENTORIXE.
+Romps en visiere, ami, ce silence fatal.
+CRITOGNAT.
+Je voulais vous cacher une action des fermes,
+Qui pourrait accabler les ames les plus fermes;
+Vous l'ordonnez, seigneur, je me livre tournois :
+Ecoutez Critognat... pour la derniere fois.			[180]
+L'ennemi deployait ses enseignes a biere,
+Par bandes de billard couvrait la plaine entiere.
+Il semblait dedaigner ces lignes a pecher :
+En marchant de bijoux je le vois s'approcher.
+Ah ! Pardonnez, seigneur, a ce soupir de croche,			[185]
+Vous savez qu'il nous a menes battant de cloche :
+Tous nos meilleurs soldats sont pris de version,
+Ou tailles de la pierre en pieces de gazon.
+Et Convictolitan, ce prince sage femme,
+Dont mille vertus bleu decoraient la grande ame,			[190]
+Ce heros qui parait votre cour a fumier,
+Tombe perce d'un coup de lance du panier :
+Je veux le secourir... vains efforts de poitrine,
+A d'autres coups de vin son malheur le destine.
+Dieux ! Son sang de piquet coule a gros bouillons blancs			[195]
+Par terre d'opera les chardons degoutants
+En sont teints bourgeonnes... Un soldat dans sa rage,
+De Mars, avril, mai, juin, vient consommer l'ouvrage;
+Sans tete a tete, helas ! ce prince infortune
+Expire... Le Romain, d'un revers galonne			[200]
+La separe du tronc pour les pauvres malades...
+Retourne dans tes murs, retourne les salades,
+Ajoute-t-il... Je crie : Arrete, lache, un pet,
+Ou je vais te percer de ce fer a toupet...
+Un ordre de Cesar commis a la barriere			[205]
+Au zele du soldat qui porte de derriere
+La tete du heros pres du corps de logis
+Du traitre dont par vous les jours furent proscrits.
+VERCINGENTORIXE.
+Ami, tout mon courage est a bout de chandelle.
+SYLVIE, fondant en larmes.
+Ah ! b, c, d...
+CRITOGNAT.
+Seigneur, la suite est plus cruelle.			[210]
+Le meme garde meuble a cote du heros,
+Met la tete de clou de l'auteur de nos maux,
+Pendant jusqu'aux talons cette scene sanglante,
+On preparait deja cette pompe aspirante
+Que l'on croyait devoir a ses manes d'osier.			[215]
+SYLVIE, dans le dernier accablement.
+Oh ! p, q...
+CRITOGNAT.
+J'avais bien jure comme un charretier
+Mais c'etait en vain points d'arreter un echange,
+Devant causer tout haut quelque meprise etrange,
+Les Romains furieux m'ont empeche mortel,
+De mettre fin canine a leur dessein cruel;			[220]
+De facon de l'habit que le traitre s'enivre
+Des honneurs qu'en ces lieux on rend aux morts de cuivre.
+Et que sa cendre chaude est couverte de pleurs...
+Et dans ces plats pays... O comble des horreurs !
+VERCINGENTORIXE, vivement.
+Dieux ! Convictolitan !
+CRITOGNAT.
+Oui, Seigneur.			[225]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)VERCINGENTORIXE.
+Ah ! mon frere.			[225]
+CONUTODUN et CATUAT, ensemble.
+Cher ami !
+SYLVIE.
+Cher amant !
+VERCINGENTORIXE.
+En faisant de bruyere
+Ce qu'a fait Critognat, je m'acquitte envers toi !
+Dans tes bras seculiers recois ton frere.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CONUTODUN, saisissant un couteau.
+Et moi
+Je ne veux sur leurs pas d'autres guides de laine.
+CATUAT, prenant aussi un couteau.
+Ah ! De votre main d'oeuvre, ami, guidez la mienne.			[230]
+CONUTODUN.
+Et le courage, ami.
+CATUAT.
+L'avez-vous les pieds ?
+CONUTODUN.
+Non.
+CATUAT.
+Ne me refusez point; car de conversion,
+Vous me rendrez enfin un service de table.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SYLVIE, se levant et s'avancant sur la scene.
+Pour moi, quand mes flancs d'oeufs dans ce jour deplorable,
+Ont recu quittance le cors de mon amant,			[235]
+Le mien ne sera point souille par le fer blanc.
+Je vais me retirer dans ma tente ou ma niece,
+Et j'attendrai la mort de la faim de la piece.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+	==================================================

@@ -1,0 +1,516 @@
+********************************************************
+	DC.Title                  = LE LIBERATEUR
+	DC.Author                 = MERCIER, Louis Sebastien
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 22/07/2016 a 07:42:23.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/MERCIER_LIBERATEUR.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE LIBERATEUR COMEDIE EN DEUX ACTES ET EN PROSE.1797.
+Par M. MERCIER.
+	A PARIS, CERCLE SOCIAL, rue du Theatre FRancais, n°4. Imprime par BERTHOMIER, rue Notre-Dame de Nazareth, n°130.
+	
+	
+	PERSONNAGES
+RANSOMET, banquier.
+ANTONINE, sa fille.
+HUGUES, son premier commis.
+DAVIS, fils d'un negociant qui a manque.
+JULIENNE, suivante d'Antonine.
+DRAKE, garcon de bureau.
+La scene est a Londres, dans la maison de Ransomet.
+
+
+
+			ACTE PREMIER
+
+
+SCENE PREMIERE.
+RANSOMET.
+Ce billet est echu depuis un mois, et point d'acquit ; pas meme de reponse a mes deux lettres : attendons encore une quinzaine, et nous vous parlerons serieusement, monsieur Le Lord...Cinq cent guinees chez d'Athol ! Celle-la sont perdues, l'ami d'Atol est decede ; je lui en fait present... Et Crosby aussi, qui retarde son paiement !...  Cet homme entreprend  trop ; il chavirera... Que de mauvaises creances ! Comment ne se rend-on pas compte a soi-meme tous les jours, de ce qu'on a, et de ce qu'on doit ! La corruption du plus beau fruit  commence par une petite tache ; ainsi, la ruine d'une maison de commerce provient toujours d'une premiere negligence.
+SCENE II. Ransomet, Hugues,  s'approchant de son bureau en silence, et en salutant respactusement Monsieur Ransomet.
+RANSOMET.
+Bonjour monsieur Hughes ; avez-vous passe chez mon huissier ?
+HUGHES.
+Oui, Monsieur.
+RANSOMET.
+Davis payera-t-il ?
+HUGUES.
+Je ne crois pas.
+RANSOMET.
+Qu'il reste donc en prison ; le fourbe ! Ses pareils, et lui, pensent qu'il n'y a plus de deshonneur a ne pas payer ses dettes. Voila donc les hommes d'aujourd'hui ! Les uns commencent par monter leur maison avec beaucoup d'eclat ; ils inspirent de la confiance ; ils attirent chez eux de tous cotes, les marchandises de leurs confreres ; et, pour s'enrichir tout d'un coup, ils cessent, a jour prepare, leurs paiements. D'autres empruntent les traits modestes, et meme la timidite d'un honnete homme; ils vous peignent leurs malheurs avec emotion ; ils s'efforcent de s'attendrir jusqu'aux larmes, jusqu'a ce qu'enfin ils aient touche nos coeurs ; mais, des que leurs mains subtiles ont saisi l'argent de nos veilles, ils s'envolent, et leurs ames viles s'applaudissent en secret de nous avoir trompes ;... mon coeur sera desormais ferme pour eux leurs larmes ne me toucheront plus. Davis me payerai ou bien il tiendra prison.
+HUGUES.
+Je desire que vous soyez paye, mais...
+RANSOMET.
+Je le serai, car il faut que je le sois.
+HUGUES.
+Vous pourriez craindre.
+RANSOMET.
+On n'est pas fripon pour devoir, disent tous nos honnetes gens du jour : excellentes dispositions pour retenir le bien d'autrui !
+HUGUES.
+Je pense que, s'il avait pu prevoir certaine revers...
+RANSOMET.
+Jamais homme ne manque a son devoir, sans avoir eu quelque pressentiment des malheurs qui l'en ont justement puni... Ces trois mille guinees sont mon argent ; son emprunt est un vol ;... et l'on dit que je suis bon ?
+HUGUES.
+Oui, monsieur, on le dit.
+RANSOMET.
+Eh bien ! Je ne veux pas que l'on dise cela... car mon intention est de n'etre plus ni faible, ni dupe. Je vois enfin qu'il faut etre dur a ceux qui, rompant toute circulation, tuent le credit, le commerce ; c'est-a-dire, la vie de de l'etat :  or ce Davis m'a trompe !
+HUGUES.
+Cela peut etre ; mais dans les faillites d'Amsterdam, vous savez qu'il a beaucoup perdu.
+RANSOMET.
+On l'avait averti du danger mais ces messieurs-la s'imaginent qu'on viole la fortune... Oh ! Elle veut des soins particuliers, et meme des soins delicats... sans quoi elle echappe, quand on croit la saisir.
+HUGUES.
+Il y a des circonstances que l'esprit le plus percant, et que la plus sage experience ne sauraient encore prevoir. Il croyait faire valoir avantageusement ses fonds...
+RANSOMET.
+Il croyait ! Mes chers confreres pensent ne manquer jamais d'argent, quand ils en savent ou quand ils en croient dans la bourse des autres. Et puis, nous autres bonnes gens, nous devons ceder et voler a leur secours...
+HUGUES.
+Pardonnez-moi, monsieur, si j'ose...
+RANSOMET.
+Je vous dis, monsieur, que c'est m'irritera, que de me croire bon car je dois user d'une juste severite envers ceux qui manquent a leurs obligations. Le commerce a ses lois, et c'est leur application severe qui fait la surete publique.
+HUGUES.
+Mais, monsieur...
+RANSOMET.
+Je ne concois pas que vous preniez ici les interets de cet homme ni que vous me supposiez un de ces caracteres faciles dont on abuse. Je veux etre impitoyable cette fois. J'ai resolu que je serais paye, je le serai ; et, au lieu de m'appeler bon, comme l'on fait, eh bien ! L'on m'appellera, mechant... Soit... Me voila mechant. Je suis mechant... Monsieur, c'est dit... C'est decide, je suis mechant...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III.
+HUGUES, arrangeant ses livres de compte.
+Il est en colere ! Il faut bien l'empecher de ceder a un premier mouvement car je crois qu'il se repentira un jour d'avoir sevi contre cette maison. Un fripon, un fripon, dit-il, et il se laisse arreter... Or, la premiere regle d'un fripon, l'experience me l'a prouve, est de ne point se laisser prendre... Les grands fripons sont plutot hors de prison que dedans...
+SCENE IV. Hughes, Julienne, une tasse de chocolat a la main.
+JULIENNE.
+Monsieur n'est pas ici ?
+HUGHES, lisant des lettres de change.
+Au quinze du mois prochain, je payerai comptant... Plut a Dieu ! Comptant ! Et Dieu sait combien il y aura de mensonges et de vides dans tous ces comptes-la !
+JULIENNE, s'approchant du bureau du commis.
+Voici le chocolat de monsieur : il n'est pas ici ?... Mais, ou est-il donc ?
+HUGHES.
+Dans son cabinet, mademoiselle...
+JULIENNE. 
+Peut-on entrer ?
+HUGHES.
+Je ne sais ; voyez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)JULIENNE, s'approchant du cabinet.
+Mais, la porte est fermee ?
+HUGHES.
+Eh bien ! Attendez qu'elle soit ouverte.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)JULIENNE. 
+Vous avez eu, avec monsieur, une petite querelle !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tachons de l'amadouer.
+HUGHES.
+Qui vous l'a dit.
+JULIENNE. 
+C'est que j'ai un peu ecoute a la porte, a ne vous rien taire.
+HUGHES.
+Oui !
+JULIENNE. 
+Mais tres peu, en verite, c'etait en entrant. Monsieur grondait... L'interet que je prends...
+HUGHES.
+Tout de bon ? Ah ! Ah !
+JULIENNE, va poser la tasse sur le bureau.
+Ah ! Mon cher monsieur Hughes, j'ai toujours en tant a coeur tout ce qui se passe ici ; car tout m'y interesse ; pourquoi donc a-t-il gronde ? Dites-le moi.
+HUGHES, conduisant Julienne loin du cabinet, avec un air de mystere.
+Savez-vous garder un secret ?
+JULIENNE.
+Comme si c'etait le mien.
+HUGHES.
+Oh ! En ce cas-la je n'aurais plus rien a vous dire.
+JULIENNE.
+Vous pourriez cependant... Hasarder... Oh ! Je vous en prie, vous serez si aimable ?
+HUGHES.
+Eh bien ! Soit mais surtout ce que je vais vous reveler, motus :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur a beaucoup gronde de la consommation considerable que l'on fait ici depuis quelque temps en linons, en mousselines, en rubans.
+JULIENNE.
+Vraiment ! Il songe a cela ?
+HUGHES.
+C'est qu'il songe a tout... Il dit que les comptes de la marchande de modes et les memoires du parfumeur sont du double plus forts, depuis que Julienne est entree au service de Mademoiselle.
+JULIENNE.
+Comment ? Son genie calculateur s'abime dans ces miseres-la !... Un millionnaire... Ah!
+HUGHES.
+Et que mademoiselle Julienne, indiscrete dans toutes ses expressions, fait des caquets !... Parle a tort et a travers de tous les gens de la maison... Excepte qu'elle a toujours bien de douces paroles et attentions pour monsieur le Caissier, le blondin...
+JULIENNE.
+Quelle perspicacite !
+HUGHES.
+Qu'elle ecoute tres souvent aux portes, et qu'elle veut savoir ce qui ne la regarde point... Mais n'allez pas dire cela a d'autres... Je vous en prie... Chut... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah, ah, ah.
+JULIENNE, prend la tasse, et sort.
+Ne craignez rien... En m'eclairant ainsi sur mes petits defauts... Vous m'avez revele tous les votres... Je suis satisfaite, adieu :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Nous ne serons pas longtemps bons amis.
+SCENE V.
+HUGHES, seul, riant.
+Ah ! Je pense qu'elle ne me questionnera pas de sitot : il ne  nous manquerait plus que cela... Voir les femmes de chambre mettre le nez dans nos livres de compte... C'est deja beaucoup trop, quand leurs maitresses s'en avisent :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je ne sais pourquoi je suis toujours chagrin du revers de ce pauvre Davis : on devine aisement, par sa correspondance, que c'est un honnete commercant : car, je le repete, il ne serait pas en prison, s'il eut, comme tant d'autres, arrange ou premedite sa faillite.
+SCENE VI. Ransomet, Hughes.
+RANSOMET, sortant du cabinet, et se promenant.
+Davis !  Davis ! Tu as endurci mon coeur : et qui me repondra que tous ces commercants, qui viendront, comme toi implorer mon assistance, ne seront pas aussi des imposteurs ? Ces hommes adroits se gardent bien de commencer par des injustices : au contraire ils n'epargnent rien pour gagner d'abord la confiance et l'estime publique. Ils ne jettent le masque, et ne frappent les grands coups, que quand leur partie est bien liee, et qu'on n'en peut plus revenir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Or, je suis fort etonne, Monsieur Hughes ; je ne vous le dissimulerai pas, que vous ayez pris sur vous de plaider contre moi, si chaudement, les interets d'un subtil et veritable escroc ; oui, le terme est lache qui me vole plus de trois mille guinees.
+HUGHES.
+Monsieur, j'ai l'honneur de travailler avec vous depuis vingt-deux ans, il me semble que ma conduite aurait du vous apprendre que mes devoirs me sont connus ; il m'est bien sensible, je vous jure, d'entendre a mon age, des reproches que je n'ai point merites.
+RANSOMET.
+Et de moi, l'on dira, par tonte la cite, que je cede aux moindres soupirs ; que l'on me petrit avec des larmes que les industrieux, pour peu qu'ils conversent avec moi, savent me retourner... Je m'entends...
+HUGHES.
+Si je vous ai parie, monsieur, en faveur de Davis, ce fut aussi par mon extreme attachement pour vous.
+RANSOMET.
+Comment ?
+HUGHES.
+C'est que je suis persuade qu'en le tenant en prison, votre creance en deviendra plus mauvaise ; vous ferez perdre, a cette maison, le credit qui lui restait : eh ! Comment pourra-t-il vous payer, si vous lui en otez tous les moyens ? Reflechissez donc a cela, monsieur, de grace...
+RANSOMET, en colere.
+J'y ai reflechi : eh bien ! Soyons d'une complaisance molle, imbecile, coupable ; que Davis sorte anjourd'hui de sa prison, puisque vous le voulez. Allez, monsieur, portez a votre protege cette nouvelle qui doit completement enhardir tous les autres ; allez le delivrer, voila la clef de ma caisse ; prenez ; payez toutes ses dettes, disposez de ma fortune, dispersez mon argent, et reduisez-nous moi et ma fille, a n'avoir plus rien. Voila ce que vous exigez, ce que vous desirez... Je suis intraitable... Je suis un barbare, qui fait enfermer un si honnete homme... La somme volee est, d'ailleurs, une somme si mince... Je dois perpetuer, dans tout Londres, la renommee d'etre un bon homme, qu'un gemissement hypocrite attendrit, et qui ne pourra jamais executer ce qu'il a une fois resolu.
+HUGHES.
+Je connais mes devoirs, monsieur ; mais je pourrais les oublier, si je restais ici plus longtemps... Permettez...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VII.
+RANSOMET, seul, il se jette dans un fauteuil.
+Je  l'ai fache, cet honnete vieillard, ses intentions sont toujours bonnes : oh ! J'ai agi avec trop de precipitation mais je ne pretends point non plus avoir en ce monde la reputation d'un homme trop facile...
+SCENE VIII. Ransomet, Antonine, Julienne.
+ANTONINE.
+Bonjour, mon pere : mais quoi ! Vous avez l'air bien emu ?
+RANSOMET.
+Il est vrai, ma fille. C'est que j'ai essuye une perte ;... Un negociant de cette ville, m'a fait un tort...
+ANTONINE.
+Un tort considerable ?
+RANSOMET.
+Oui ; et de plus, il m'a joue indignement ; et l'on voudrait ?... Non... Il faut que je sorte pour surveiller moi-meme cette affaire car tout le monde ici veut que je lui fasse grace mais comme c'est evidemment un.... M'etant bien consulte point de pitie pour lui.
+ANTONINE.
+Oh ! Qu'il n'aie pas du moins le triste pouvoir d'alterer encore voire repos on votre sante ; prenez, je vous en supplie...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)RANSOMET, le remettant.
+Non ; cela me ferait mal ma fille : je suis trop oppresse, il faut que j'aille chercher le grand air. A tantot, mon enfant, nous causerons.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX. Antonine, Julienne.
+JULIENNE.
+Nous voila seules ; il  y a longtemps que je n'ai vu monsieur si en colere il faut que ce negociant-la soit un grand miserable ! Car monsieur est sorti du calme qui l'accompagne ordinairement.
+ANTONINE.
+Peut-etre ce negociant n'est-il que malheureux car je ne puis concevoir que l'on veuille tromper autrui par systeme et je crois que les hommes sont plus genereux qu'on ne le pense, qu'on ne le dit. Eh ! Si je n'en avais pas rencontre un qui eut expose sa vie pour sauver la mienne. Dieu !
+JULIENNE.
+Et pourquoi vous attrister toujours de cet evenement, au lieu de vous rejouir de l'issue ; vous n'etes plus si gaie, ni si enjouee qu'autrefois ? Oui, depuis votre retour de la campagne, vous etes changee prenez-y garde, votre beaute s'en alterera ;... d'ailleurs, le danger que vous avez couru, est passe depuis plus d'un grand mois.
+ANTONINE.
+Il est sans cesse present a mes esprits : que je veille, que je sommeille, je me vois toujours sur le chemin d'Oxfort, arretee par ces brigands ;... Deja l'un d'eux, avait porte sur moi ses mains homicides et je m'evanouissais de surprise et de terreur, lorsqu'un jeune homme apparait comme un ange tutelaire, s'elance dans un clin d'oeil, fait briller l'epee qui les met tous en fuite : il semblait se multiplier avec l'eclair de son glaive, et je crus d'abord devoir la vie a plusieurs ;... je ne vis qu'un seul homme : ah ! Nul au monde, ne lui ressemble, Julienne ! Et son image, a jamais gravee, par la reconnaissance est empreinte dans ma memoire.
+JULIENNE.
+Et peut-etre aussi dans votre coeur ?... Osez un peu vous l'avouer a vous-meme l'amour aura pris ce moment terrible pour vous blesser de ses traits, et je le crois, a ne vous rien taire ; car, depuis ce jour, toujours inquiete, reveuse, vous chercher la solitude, et vous soupirez...
+ANTONINE.
+Eh bien ! S'il faut te dire, je crains que ce ne soit amour, au lieu de reconnaissance, mais amour sans bornes... Mais, que dis-tu ? Nous delivrer, ma tante et moi, d'une situation aussi hasardeuse, nous conduire en surete jusqu'a deux lieues de la, et s'evader sans que nous ayons pu savoir son nom, ni le lieu qu'il habitd : il a disparu :... Eh ! Ne pouvait-il pas imaginer que dans ce sein palpite un coeur...  reconnaissant, qui a su apprecier sa bravoure ; ne m'aurait-il conserve la vie, que pour la devouer au tourment, a la honte de ne pouvoir m'acquitter dignement envers lui ?
+JULIENNE.
+Quoi ! Depuis, vous n'avez eu aucune connaissance ?...
+ANTONINE.
+Non.
+JULIENNE.
+Oh ! S'il est brave, il n'est pas galant dedaigner jusqu'a un remerciement de votre bouche... Ah !...
+ANTONINE.
+J'ignore, te dis-je jusque son nom ; je ne connais de lui que son courage ; il a su defendre une inconnue avec une valeur et un desinteressement rare...
+JULIENNE.
+Oh ! Oui, bien rare...
+ANTONINE.
+C'est qu'il a voulu se cacher, je n'en saurais plus douter. J'ai prie cependant ma tante de faire quelques recherches a ce sujet ; ses dernieres lettres ne disent rien encore.
+JULIENNE.
+Il faut redouter nos promenades ; nous le rencontrerons quelque part,  j'en ai un pressentiment secret vous le reconnaitrez aisement, n'est-il pas vrai ?
+ANTONINE.
+Une petite mechancete de ta part, Julienne ?
+JULIENNE.
+Aussitot reconnu, je l'arrete en votre nom : je lui dis, monsieur, ce n'est pas assez d'avoir risque sa vie pour ta beaute ; on vient en personne lui dire : j'accours pour contempler les attraits que j'ai eu le bonheur de sauver ; et, si je m'enorgueillis de cette victoire, ce n'est que du moment que je ai vous revue delivree. Vous revez ?... Mais pourquoi n'avez-vous pas voulu faire confidence de cette aventure a Monsieur votre pere ?
+ANTONINE.
+C'est qu'il en aurait concu un trop grand effroi, et que peut-etre j'aurais ete privee, par cet aveu, du plaisir de retourner encore a la campagne, et d'y embrasser ma tante ; mes beaux jours, tu le sais, ne sont que chez elle.
+JULIENNE.
+Il faut que je le trouve moi ; mes regards, au defaut des votres, interrogeront tous les visages ; je ne l'ai pas vu mais je compte deviner, au premier coup d'oeil, votre beau liberateur.
+ANTONINE.
+Comment sais-tu qu'il est beau ?
+JULIENNE.
+D'abord, celui qui vous a conserve la vie ne saurait me paraitre ; autrement mais je soutiens, de plus, qu'il a du sa valeur a un de vos gestes, de vos regards, de vos cris ; que sais-je, moi et qu'il doit vous apporter son coeur.
+ANTONINE.
+Laisse, laisse, Julienne peut-etre aussi est il d'un de ces caracteres uniques ? En effet, me sauver la vie, et mettre au-dessous de soi tout droit a la reconnaissance, joindre a l'heroisme le calme,... c'est se montrer superieur a tout ; c'est posseder une sorte de fierte qui annonce, comme je te le dis, un caractere a part : tandis que tous ceux qui viennent ici nous rendre visite ne sont que des calculateurs avides, interesses, qui parlent, agissent, chacun par l'amour de la fortune, et qui n'ont d'autre passion que l'argent ;... Lui.... Dans une noble indifference...
+JULIENNE.
+Bon Dieu ! Qui n'aime pas l'argent !
+ANTONINE.
+Je suis presque sure qu'il n'est point marie ;... Je suis fille unique ; eh bien ! Il n'a pas fait une seule visite a mon pere.
+JULIENNE.
+Mais votre liberateur est peut-etre un Lord tres- opulent ?
+ANTONINE.
+Non, non ; les Lords n'ont pas le courage aussi prompt, ni le bras aussi sur ; et la bouche d'un Lord aurait d'ailleurs annonce, avec emphase, a tout Londres et dans tous les papiers, un tel exploit...
+JULIENNE.
+Ce n'est pas trop mal les connaitre.
+ANTONINE.
+Et vous, ma chere tante vous qui m'aimez, vous n'aurez encore rien fait pour mon bonheur, si vous ne pouvez me dire ou je le rencontrerai cet inconnu ; car il pourrait croire aussi, de son cote, que je me plais a me renfermer dans le silence de l'ingratitude ;... Et l'ingratitude est a mes yeux, Julienne, un vice abominable.
+JULIENNE.
+Non ; vous n'etes point ingrate... Vous ne le serez point... J'en reponds.
+ANTONINE.
+J'entends, malicieuse Julienne.... Mais j'ai aussi mon orgueil. Sache qu'une generosite aussi profondement silencieuse blesse presque autant mon ame, qu'une injure...
+JULIENNE.
+Quand nous l'aurons rencontre, il faudra l'en bien punir ; et je m'y prepare. Je lui garde... Venez, nous en causerons.
+
+
+			ACTE SECOND.
+
+
+SCENE PREMIERE. Ransomet, Hughes, Drake.
+RANSOMET.
+Tous les courriers sont-ils arrives ?
+DRAKE.
+Celui de France ne l'est pas encore.
+RANSOMET, a Hughes.
+Monsieur Hughes, voila nos lettres, ayez la bonte de les lire.
+HUGHES.
+Oui, Monsieur.
+RANSOMET.
+Si l'on m'apporte des traites a accepter, vous les garderez ; sans rancune, mon ami.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ma fille va-t-elle venir ?
+DRAKE.
+Oui, Monsieur, la voici.
+RANSOMET.
+Qu'on nous laisse seuls.
+SCENE II. Ramsomet, Antonine.
+RANSOMET.
+Eh bien ! Ma chere Antonine, comment trouves-tu ton pretendu ?... Tu gardes le silence ; il parait que tu sais peu reconnaitre mon attention a te choisir un homme riche et assez considere.
+ANTONINE.
+Mon pere !...
+RANSOMET.
+Il ne te plait donc pas ?
+ANTONINE.
+Un homme qui me dit en face qu'il ne demande que ma main, que la fortune supplee a tout, que sans elle l'amour est une illusion, n'est pas trop fait pour me plaire.
+RANSOMET.
+Il peut avoir tort ; mais, ma chere enfant, nous ne sommes plus dans le siecle des amants ; ceux-ci avaient des vertus qui ne sont plus les notres. Aux yeux de notre monde eclaire, la richesse est la premiere qualite qui rende une fille aimable.
+ANTONINE.
+Vous ne parlez pas serieusement ; je connais votre bonte vous ne voudriez pas me rendre malheureuse ?
+RANSOMET.
+Malheureuse ! A Dieu ne plaise ; mais mon enfant, est-ce un malheur que d'epouser un homme qui a de la fortune ?
+ANTONINE.
+C'en serait un pour moi si...
+RANSOMET.
+Mais si ton pretendu etait plus jeune ? Dis...
+ANTONINE.
+Mon pere !...
+RANSOMET.
+S'il connaissait le prix de ton ame delicate, sensible, aimante ; et s'il ne demandait ta main que pour s'assurer a jamais de ton coeur ?
+ANTONINE.
+Mon pere !...
+RANSOMET.
+Si nn tel homme te voulait en mariage, et qu'il obtint mon consentement, serais-tu encore malheureuse ?.... Parle... a coeur ouvert.
+ANTONINE.
+Comme vous me tourmentez !...
+RANSOMET.
+Je te tourmente ; tu t'es trahie, tu aimes !
+ANTONINE, vivement.
+Moi ? Non ; je vous assure...
+RANSOMET.
+Non mais tu rougis, tu trembles pourquoi n'oses tu me regarder ? Autonine, tu aimes... Tu me dois... Tu me feras la confidence entiere... A tantot.
+SCENE III. Ransomet, Antonine, Hughes.
+HUGHES.
+Parmi les lettres, Monsieur, en voici une qui vous regarde personnellement, et qui a ete ouverte...
+RANSOMET, prenant le lettre.
+Voyons... Eh ! C'est de ma soeur : elle etait pour toi, je pense ? Oui, nons allons la lire ensemble depuis quelque temps ses lettres sont bien tardives.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)« Vous avez bien fait, ma chere niece, de n'avoir point parle au meilleur des peres, de l'attaque imprevue de ces brigands : l'image du peril est souvent plus dangereuse que le peril meme. »
+Qu'est-ce ? Comment, ma fille ?... Que veut dire ?...
+ANTONINE.
+Ah ! C'est un evenement que nous avons voulu vous cacher.
+RANSOMET.
+Pourquoi me cacher quelque chose ?
+ANTONINE.
+Parce que nous connaissons votre tendresse inquiete, et qui se serait vivement alarmee, si...
+RANSOMET.
+Quoi ! Tu as connu un danger, et je suis a le savoir ?... Pour m'eparguer un moment d'effroi, tu l'augmentes par cette reserve... Quel danger as-tu couru, mon enfant ?... Dis.
+ANTONINE.
+Le plus grand de tous : ma tante et moi, en revenant d'Oxfort, nous ayons ete attaquees sur la route.
+RANSOMET.
+Attaquees !...  O Dieu !...
+ANTONINE.
+Et delivrees par un inconnu...
+RANSOMET.
+Un inconnu ?
+ANTONINE.
+Son intrepidite a fait fuir les scelerats et ia rapidite de l'evenement me le ferait considerer comme un songe, si la reconnaissance que nous devonS a ce genereux defenseur, n'avait point grave si profondement son image dans mon ame, que je le reconnaitrais, de loin au seul son de sa voix...
+RANSOMET.
+Quoi il ne s'est point fait connaitre ?... Moi, qui, deja, brule de m'acquitter envers lui. 
+ANTONINE.
+Il nous a laissees completement ignorer qui il etait ; apres nous avoir marque toute la joie qu'il ressentait, d'avoir contribue a notre delivrance, et nous avoir accompagnees jusqu'au bourg voisin, ce brave jeune homme s'est eloigne.
+RANSOMET, a part.
+Ah ! C'est un jeune homme ! Bon ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais je blame beaucoup votre tante de n'avoir pas insiste pour savoir, au moins, son nom : c'est-la une distraction coupable, et qui pourrait etre interpretee comme une disposition a l'ingratitude.
+ANTONINE.
+Il eludait toutes nos questions avec une modestie,... et puis le trouble ou j'etais...
+RANSOMET.
+Je n'ai jamais ete ingrat : quoi ! On a sauve ma fille, et l'on dedaignera de savoir si j'y suis sensible, et si je saurai reconnaitre un tel service !... Quel affront !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Du moins, ma fille, nous saurons le nom de ton liberateur.
+ANTONINE, vivement agitee.
+Quoi son nom ! Il est dans cette lettre, il y serait, mon pere ?
+RANSOMET.
+Oui, il y est : tu vas le connaitre... Ecoute.
+ANTONINE, a part.
+Dieu ! Quel nom va sortir ! Je sens que c'est ma destinee.
+RANSOMET, lisant.
+«  J'ai fait tant de recherches de tous cotes ; ma niece, pour apprendre enfin a qui nous deviosn la vie, que sur plusieurs renseignements de lieu et du temps, du coursier, et sur tout de la figure du jeune homme ; l'on assure que notre liberateur se nomme Philippon : voila tout ce que nous avons pu en savoir. »
+ANTONINE.
+Il se nomme Philippon ! Mais que nous sert de savoir son nom, s'il reste invisible pour nous ?
+RANSOMET.
+Philippon ! Ah ! Je le deterrerai, celui-la, fut-il alle aux Grandes-Indes ! Je veux l'amener ici ; le serrer dans mes bras ; lui dire : voila ma fille, voila mon tresor en lui sauvant la vie, vous avez beaucoup plus fait que si vous eussiez sauve la mienne : quelle recompense voulez-vous, monsieur ? Demandez, ma fortune, sa main, tout est a vous ; car vous avez tous les droits d'un liberateur, ceux d'un epoux, et je vous cede, de plus encore, tous les miens,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)On verra si je suis reconnaissant ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu m'es rendue, et par lui !... Ah! Quand l'embrasserai-je ici, comme je t'embrasse !
+ANTONINE.
+Mon pere, nous n'avons que son nom.
+RANSOMET.
+Eh bien ! Tous ceux qui le portent a Londres, me seront chers desormais. Je les inviterai tous a venir ici, afin que je retrouve enfin celui a qui je dois tant... Je sors, de ce pas, je cours toute la ville, je fais parler tous les papiers, je rappelle a moi des quatre coins du monde ; il faut que je tienne ici mon Philippon. Je suis emu, ma fille ; mais c'est de joie ; et deja je m'abreuve d'un plaisir nouveau, de l'avant-gout delectable de la plus vive, de la plus entiere, plus de la extreme reconnaissance... Nous la lui devons, et...
+SCENE IV. Les precedents, Drake.
+DRAKE.
+Un monsieur demande a vous parler.
+RANSOMET.
+En ce moment, qu'il me dispense, s'il est possible.
+DRAKE.
+C'est, dit-il, pour une affaire tres importante, et qui ne peut se differer.
+RANSOMET.
+He bien qu'il entre. Laisse-nous mon Antonine, et passe dans ce cabinet. Si jamais tu disposes de ton coeur, donne-moi, avant tout, ta confiance, pleine, entiere : je l'exige, car j'ai mes raisons pour cela.
+ANTONINE.
+Mon pere !... Jamais je ne vous cacherai rien.
+RANSOMET.
+Prends-moi, te dis-je, pour confident, et de preference a tout autre. Tu n'en trouveras pas de meilleur, ni de plus indulgent je t'en assure...
+SCENE V. Ramsomet, Davis fils, Drake.
+RANSOMET, seul.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu aimes... Nous saurons qui... Nous apprendrons... Ah ! Si c'etait... Celui...
+DAVIS, entre.
+Est-ce monsieur Ransomet a qui j'ai l'honneur de parler ?
+RANSOMET.
+Oui monsieur, c'est moi-meme.
+DAVIS.
+Je desirerais vous entretenir, an moment, sans temoin.
+RANSOMET, a Drake.
+Vous ne laisserez entrer personne.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DAVIS, a part.
+Ce n'est pas ainsi que l'on peint la cruaute ; son oeil annonce un coeur sensible : ciel ! Prete en ce moment, a mon discours, le charme de l'eloquence que je reste ensuite muet pour jamais !
+RANSOMET.
+Nous sommes seuls, monsieur ; qu'avez-vous a me dire ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Asseyez-vous. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DAVIS.
+Je suis le fils d'un pere infortune, qu'un creancier irrite a fait jeter dans les prisons, pour n'avoir pu lui rendre, sur-le-champ, une somme d'argent qu'il lui avait pretee.
+RANSOMET, a part.
+Ah ! J'y suis... Voila le fils de mon fripon !... Tenons-nous ferme :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cela est cruel, monsieur !...
+DAVIS.
+Je n'ai appris le malheur de mon pere que d'hier, en revenant d'un voyage assez long ; je ne saurais vous peindre la douleur, dont ce triste evenement m'a tout-a-coup saisi mon pere en prison, ma mere en pleurs, et nous tous consternes, souffrants pour lui, et plus que lui !
+RANSOMET.
+Cela doit affecter un coeur honnete, tel que le votre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ce Davis fils ne m'attendrira point, quoi qu'il fasse.
+DAVIS.
+J'ai couru chez tous ceux qui se disaient nos amis helas un malheureux n'a plus d'amis !... Je les ai conjures j'ai implore leurs secours,, mais en vain ces barbares ont tous oublie ce qu'ils doivent a mon pere.
+RANSOMET.
+Ce sont des barbares !...
+DAVIS.
+Tous sont restes sourds a mes prieres : un seul moyen bien hardi me restait je l'ai tente, non sans avoir eu besoin de m'affermir d'avance ; mais j'ai ose... Je suis alle, en personne, demander des secours, le croiriez-vous, au creancier de mon pere...
+RANSOMET.
+Cela est hardi, en effet ; mais non pas condamnable cependant.
+DAVIS.
+Ah ! Peut-etre, me suis-je dit, trouverai-je en lui un coeur plus sensible que chez tous ces parasites, qui souriaient a mon pere, et a sa table avant son infortune. Oui, j'ai ose m'adresser au creancier inflexible, qui a fait arreter l'auteur de mes jours me voici a ses pieds ; et jusqu'a ce qu'il me rende mon pere, j'embrasserai ses genoux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)RANSOMET.
+Que faites-vous ?... On n'attaque point ainsi...
+DAVIS.
+Vous etes ce creancier ; car je suis le fils de Davis.
+RANSOMET.
+Laissez-moi, jeune homme, laissez-moi : n'essayez point de m'attendrir ; vous n'y parviendrez point.
+DAVIS.
+Vous paraissez emu. Ah ! Si mes prieres ont trouve le chemin de votre coeur, homme genereux, vous me rendrez celui pour qui je vous implore.
+RANSOMET.
+Non, monsieur.
+DAVIS, se leve.
+Vous detournez la vue ; votre coeur pourra-t-il me repousser ? Non je lis, sur votre front, le combat qui se passe, en ce moment, dans votre ame. Oh ! Que votre coeur, qui balance, se decide en ma faveur.
+RANSOMET.
+Je ne puis laisser sortir votre pere de prison ; et pour cause...
+DAVIS.
+Est-il possible !... Homme cruel ?
+RANSOMET.
+Non, je suis juste, jeune homme ; je vous estime ; j'admire votre piete filiale : mais je me vois force de vous refuser la grace que vous me demandez.
+DAVIS.
+Et comment voudriez-vous qu'il vous payat, si vous lui otez les moyens de regagner son credit ? Qu'il soit libre ; instruit par les revers, il dirigera mieux ses entreprises son commerce n'est pas tellement ruinee, qu'il ne soit plus possible de le retablir.
+RANSOMET, le prenant par la main.
+Ecoutez moi monsieur. Tout le monde connait l'extreme facilite de mon caractere. J'etais tout amitie, tout sentiment, toute confiance pour ceux qui avaient recours a moi ; mais les hommes, a force de torts et de fraudes, ont change ce coeur trop tendre : plusieurs ont trahi ma confiance, insulte a ma generosite ; et en peu d'annees, j'ai perdu trente-six mille livres sterlings... Je suis pere, et, par consequent, oblige de veiller sur l'edifice de ma fortune, qui s'ecroulerait... D'ailleurs, l'etablissement de ma fille est aujourd'hui mon premier devoir. J'ai toujours donne, prodigue a autrui je n'ai jamais ete dur envers mes debiteurs : mais ce serait alienation d'esprit, faiblesse coupable, que de livrer mon bien a des gens sans probite.
+DAVIS.
+Mais mon pere...
+RANSOMET.
+Il m'a trompe... Pesez ce mot...
+DAVIS.
+Monsieur.
+RANSOMET.
+Or, il est aise de tromper un homme de bien, mais tres difficile ensuite de le detromper.
+DAVIS, du meme ton.
+Monsieur...
+RANSOMET.
+Il savait qu'il etait ruine ; au lieu d'un aveu franc, ouvert, et qu'exigeait le devoir, il vient m'emprunter adroitement une somme non moins considerable. Avec mon argent, il paye a ses autres creanciers et moi, sous pretexte que je suis bon, car tout le monde ici veut que je sois bon, c'est-a-dire... He bien votre pere me fait tout perdre. Dites est-ce-la agir avec cette probite, qui doit caracteriser le negociant ?
+DAVIS.
+Monsieur, et ce n'est pas-la vous faire injure ; oui, il avait compte sur votre bonte.
+RANSOMET.
+Eh bien ! Ne voila-t-il pas encore ma bonte !... Ah !...
+DAVIS.
+Mais il avait lieu de croire, alors, qu'il pourrait relever son credit. Vos rigueurs prolongees, et, j'ose le dire, gratuites, ont aneanti son commerce, et vous voulez encore lui ravir son honneur.
+RANSOMET.
+Monsieur...
+DAVIS.
+Vous ne jouissez que d'une reputation usurpee quand on vous dit indulgent, vous n'etes qu'un homme inhumain.
+RANSOMET.
+Le temps d'etre rigoureux, est venu.
+DAVIS.
+Je croyais trouver, en vous un coeur : l'avarice l'a glace.
+RANSOMET.
+Monsieur...
+DAVIS.
+Votre physionomie promet une ame ; elle ment. Vous etes un barbare, peut-etre un vindicatif et vos pareils se ressemblent tous.
+RANSOMET.
+C'est trop sortez de chez moi.
+DAVIS.
+Oui, je sors honteux d'avoir pu tomber aux pieds d'un homme aussi intraitable, j'ajouterai aussi injuste.
+RANSOMET.
+Imprudent oubliez vous que le sort de votre pere est entre mes mains ?
+DAVIS.
+Vous n'etes capable que d'une atrocite ; et vous ne suivez en cela que les mouvements de votre coeur. Jouis de nos malheurs... Laisse languir mon pere dans la captivite... Entraine, dans sa ruine, sa femme et son fils ; et assouvis ton coeur avare, ton coeur de tigre, des larmes que tu fais verser je me reproche de les verser devant toi.
+RANSOMET.
+On m'insulte a ce point !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Hola, quelqu'un... qu'on vienne...
+SCENE VI et derniere. Les precedents, Antonine.
+On entre.
+ANTONINE, sortant du cabinet.
+C'est lui, c'est lui !... Dieu ! Qui vous etes servi de son bras...
+DAVIS.
+C'est elle cette beaute si interessante !... Je serais chez !...
+ANTONINE, a Davis.
+Oui, mon pere, c'est lui.
+RANSOMET.
+Qui ?
+ANTONINE.
+Mon liberateur.
+RANSOMET.
+Se peut-il ?... Ce serait Davis qui, sous un autre nom, aurait...
+ANTONINE.
+Vous nous avez fui... Et pourquoi ? Recevez le nom qui vous est du, vous qui m'avez sauve du plus grand peril.
+DAVIS.
+Entendez-vous, monsieur !... Mais, mon pere sera toujours votre debiteur.
+RANSOMET, avec ame.
+Votre pere sera libre.
+DAVIS.
+Le voir en liberte et me mettre a sa place, c'est tout ce que je veux vous serez paye de tout.
+RANSOMET.
+Noble jeune homme ! Vous ne voudrez pas m'offenser !... Oh ! C'est vous qui etes mon creancier !... Allez, je vous dois trop ;... Votre pere !... Jamais sa joie n'egalera la mienne.
+ANTONINE.
+Il a du vous plaire jusques dans son egarement.
+RANSOMET.
+Je l'avoue juste Ciel ! Que ne m'as-tu donne un fils semblable ! Approchez-vous de mon coeur ; venez donc dans mes bras... Je suis votre debiteur, votre eternel debiteur ; mais, pourquoi vous nommait-on Philippon ?
+DAVIS.
+Je suis Davis ; je connais Philippon quelque ressemblance d'age et de traits, l'aura, sans doute, fait prendre pour moi.
+RANSOMET.
+Oh ! Je vous aurais reclame, cherche, demande a tout l'Univers et, pour vous prouver que je ne m'acquitte pas de ce que je vous dois par des paroles vagues, inspirees par la joie, et qui s'oublient a l'instant, que cette maison-ci, desormais, soit la votre !...
+DAVIS, avec sensibilite.
+Monsieur !...
+RANSOMET.
+En attendant, soyez le frere de ma fille vous la connaitrez, et il ne tiendra qu'a vous que le pere du brave jeune homme me pardonne un instant de rigueur. Nous ne ferons plus alors qu'une famille... J'ai vu, je vois vos coeurs dans vos regards...
+ANTONINE.
+O le meilleur des peres !... Vous saurez tout.
+RANSOMET.
+Va, j'ai tout devine.
+DAVIS.
+Je serai donc son frere ?...
+RANSOMET.
+Sans doute, et elle sera ta soeur ; mais elle m'en perdra jamais la tendresse. Pourquoi ne seriez-vous point la consolation de mes vieux jours ? Pourquoi, en etudiant de plus en plus ses vertus, ne voudriez-vous pas rendre agreable a ma fille une vie que vous lui avez conservee ?... Elle ne me contredira point.
+DAVIS, embrassant Ransomet.
+Comptez que mon pere sera, desormais, votre meilleur ami !
+RANSOMET.
+Courons le delivrer : que j'etais aveugle ! Et puissent, desormais, mes bienfaits... Ah ! Jamais ils ne pourront egaler le service que vous m'avez rendu.
+
+	==================================================

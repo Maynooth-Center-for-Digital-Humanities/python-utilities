@@ -1,0 +1,643 @@
+********************************************************
+	DC.Title                  = LA FEMME FIDELE
+	DC.Author                 = MARIVAUX
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 14:24:42.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/MARIVAUX_FEMMEFIDELE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LA FEMME FIDELE COMEDIE en un acte et en prose M DCC L..
+MARIVAUX
+	
+	
+	Representee pour la premiere fois au Chateau de Berny les dimanches 24 aout et le lundi 25 aout 1750.
+	ACTEURS.
+LE MARQUIS.
+LA MARQUISE, sa femme.
+MADAME ARGANTE, mere de la Marquise.
+DORANTE.
+FRONTIN, valet du Marquis.
+LISETTE, femme de Frontin.
+JEANNOT, amant de Lisette.
+COLAS, jardinier du Marquis.
+La scene est dans le jardin du Chateau d'Ardeuil.
+
+
+
+			
+
+
+SCENE PREMIERE. Le marquis, Frontin, en captifs.
+FRONTIN.
+Le jardin est bien change depuis dix ans, et nous allons savoir si nos femmes sont de meme. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE MARQUIS.
+Regarde, n'est-ce pas la mon jardinier qui vient a nous ? 
+FRONTIN.
+C'est Colas que Madame a conserve ! 
+LE MARQUIS.
+J'ai toujours peur qu'on ne nous reconnaisse. 
+FRONTIN.
+Il n'y a pas de danger : on nous croit du temps du deluge ! 
+LE MARQUIS.
+Colas s'avance, previens-le, et dis-lui que je souhaite parler a la Marquise : mais surtout point d'etourderie, vois, tu y es sujet ; n'oublie pas ta vieillesse. 
+SCENE II. Le Marquis, Frontin, Colas.
+FRONTIN.
+Serviteur, Maitre Colas ! 
+COLAS.
+Oh ! Oh ! Qu'est-ce qui vous a dit mon nom, bonhomme ? 
+FRONTIN.
+C'est le village. 
+COLAS
+Et qu'est-ce que vous voulez ? Faut-il entrer comme ca dans le jardin des personnes sans demander ni quoi ni qu'est-ce ? 
+FRONTIN.
+Peut-etre avons-nous affaire dans le jardin des personnes. 
+COLAS.
+Vous venez donc chercher quelqu'un ici ? 
+FRONTIN.
+Nous venons de la part de feu Monsieur le Marquis d'Ardeuil apporter des nouvelles de sa sante a Madame la Marquise, sa veuve. 
+COLAS.
+Des nouvelles de la sante d'un mort ? Vela-t-il pas une belle acabit de sante ? Helas ! Le pauvre Monsieur le Marquis, je savons bian qu'il est defunt, vous ne nous apprenez rian de nouviau, il y a deja queuque temps que j'avons recu le darnier certificat de son trepassement. 
+LE MARQUIS.
+Le certificat, dites-vous ? 
+COLAS.
+Oui, Monsieur. 
+FRONTIN.
+Il ne vous aura pas dit les circonstances. 
+COLAS.
+Oh ! Si fait. Je savons tous les tenants et les aboutissants... C'est la peste qui a etouffe Monsieur le Marquis. 
+LE MARQUIS.
+Il a raison ; c'est cette contagion qui a emporte tant de captifs. 
+FRONTIN.
+Nous en mourumes tous. 
+COLAS.
+Je ne dis pas qu'alle vous etouffit vous autres, puisque vous vela ; je dis tant seulement qu'alle tuit Monsieur le Marquis. 
+FRONTIN.
+Nous pensames en mourir aussi. 
+COLAS.
+Helas ! Il ne pensait pas, li ; il en fut tue tout a fait. 
+LE MARQUIS.
+On le regrette donc beaucoup ici ? 
+COLAS.
+Ah ! Monsieur, je ne l'aurons jamais en oubliance. Jamais je ne varrons son pareil. C'est un hasard que noute dame n'en a perdu l'esprit ; la mort de l'homme fut quasiment l'entarement de la femme ; et depuis qu'alle est rechappee, alle a biau faire, cette miserable perte lui est toujours restee dans le coeur. 
+LE MARQUIS.
+Que je la plains ! Quand son mari mourut, il me chargea de lui rendre une lettre qu'il ecrivit, de lui dire meme de certaines choses, si j'etais assez heureux pour revenir dans ma patrie ; et je viens m'acquitter de ma commission, malgre l'age ou je suis. 
+COLAS.
+C'est l'effet de votre bonte : car vous paraissez bian caduc et bien casse. Vous avez donc ete tous deux pris des Turcs, votre valet et vous, avec note maitre ? 
+LE MARQUIS.
+Nous avons ete plus de neuf ans ensemble sous differents patrons. 
+COLAS.
+Il m'est avis que c'est de vilain monde ; eh ! Dites-moi, braves gens, ce pauvre Frontin qui s'embarquit de compagnie avec noute maitre, que lui est-il arrive ? Est-il mort emporte itou ? 
+FRONTIN.
+Qui ? Moi, Maitre Colas ? 
+COLAS.
+Comment, vous ? Est-ce qu'ous etes Frontin ? 
+LE MARQUIS.
+C'est qu'il porte le meme nom. 
+FRONTIN.
+Je suis le grand-oncle du defunt. 
+COLAS, apres l'avoir examine.
+Boutez-vous la, que je vous contemple... Oh ! Morgue ! Il n'y a barbe qui tienne ; a cette heure que j'y regarde, je vais parier que vous etes le defunt du grand-oncle. 
+LE MARQUIS.
+Quelle vision ! 
+FRONTIN.
+Defunt vous-meme ! 
+COLAS.
+Jarnigue ! C'est li, vous dis-je... Et cela me fait rever itou que son camarade... Eh ! Palsangue, Monsieur !... C'est encore vous ! C'est Monsieur le Marquis, c'est Frontin ; je me moque des barbes, ce n'est que des manigances ; je sis trop aise, ca me transporte, il faut que je crie... Faut que j'aille conter ca : queu plaisir ! Faut que tout le village danse, c'est moi qui menerai le branle ! Vela Monsieur le Marquis, vela Frontin, vela les defunts qui ne sont pas morts ! Allons, morgue ! De la joie ! Je vas dire qu'on sonne le tocsin. 
+LE MARQUIS.
+Doucement donc ! Ne crie point ; tais-toi, Maitre Colas, tais-toi ; oui, c'est moi ; mais je t'ordonne de me garder le secret, je te l'ordonne. 
+FRONTIN.
+Je perdrais jusqu'a mon dernier sou avec toi et ton tocsin. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE MARQUIS.
+Etourdi, que fais-tu ? Si quelqu'un allait venir ? 
+FRONTIN.
+Voila ma caducite retablie. 
+COLAS.
+Ouf ! Laissez-moi reprendre mon vent !... Queu contentement !... Comme vous vela faits ! D'ou viant vous ajancer comme ca des barbes de grands-peres ? 
+LE MARQUIS.
+J'ai mes raisons : tu sais combien j'aimais la Marquise ; il n'y avait qu'un mois que nous etions maries, quand je fus oblige de la quitter pour ce malheureux voyage en Sicile, au retour duquel nous fumes pris par un corsaire d'Alger ; nous avons depuis passe dix ans dans de differents esclavages, sans qu'il m'ait ete possible de donner de mes nouvelles a la Marquise, et, malgre cette longue absence, je reviens toujours plein d'amour pour elle, fort en peine de savoir si ma memoire lui est encore chere, et c'est avec l'intention d'eprouver ce qui en est que j'ai pris ce deguisement. 
+COLAS.
+Il est certain qu'alle vous aime autant que ca se peut pour un trepasse, et dres qu'alle vous varra, qu'alle vous touchera, mon avis est qu'il y aura de la pamoison dans la revoyance. 
+FRONTIN.
+Et ma femme se pamera-t-elle ? 
+COLAS.
+Non. 
+FRONTIN.
+[...] La masque ! 
+LE MARQUIS.
+Tais-toi. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Elle va pourtant se marier, Colas, on me l'a dit dans le village. 
+COLAS.
+Que voulez-vous, nout'maitre !... Alle a ete quatre ans dans les syncopes et pis encore deux ou trois ans dans les melancolies, pus etique... Pus chetive... Pus langoureuse... Alle faisait compassion a tout le monde, alle n'avait appetit a rien, un oiseau mangeait plus qu'elle... Il n'y avait pas moyen de la ragouter ; sa mere lui en faisait reproche : Eh mais ! Mon enfant, qu'est-ce que c'est que ca, queu train menez-vous donc ? Il est vrai que vout'homme est mort ; mais il en reste tant d'autres ! Mais il y en a tant qui le valent ! Et nonobstant tout ce qu'an lui reprochait, la pauvre femme n'amendait point. A la parfin, il y a deux ans, je pense, que la mere, vers la moisson, amenit au chateau une troupe de monde, parmi quoi il y avait un grand monsieur qui en fut affole dres qu'il l'envisagit, et c'est c'ti-a qui va la prendre pour femme... Ils se promenaient tout a l'heure envars ici, et il a eu bian du mal apres elle. Il n'y a que trois mois qu'alle peut l'endurer : la v'la stapendant qui se ravigote, et je pense que le tabellion doit venir tantot de Paris. 
+LE MARQUIS.
+Juste ciel ! Et l'aime-t-elle ? 
+COLAS.
+Mais... oui... tout doucement, a condition qu'ous etes mort. 
+FRONTIN.
+Et ma femme ? 
+COLAS.
+Oh ! si vous etes defunt, tenez-vous-y. 
+FRONTIN.
+Ah ! La maudite creature ! 
+COLAS.
+Tenez, Monsieur, vela voute veuve et son pretendu qui prenont leur tournant ici avec voute belle-mere. 
+LE MARQUIS.
+Je suis si emu que je ferai mieux de ne les pas voir en ce moment-ci... Dis-moi ou je puis me retirer. 
+COLAS.
+Enfilez ce chemin, il y a au bout ma cabane ou vous vous nicherez. 
+LE MARQUIS.
+Garde-moi le secret, Colas ; et toi, Frontin, reste ici et dis a la Marquise qu'un gentilhomme qui arrive d'Alger, et qui est dans ce village, envoie savoir s'il peut la voir pour lui parler de feu son mari. 
+FRONTIN.
+Oui, Monsieur, ne vous embarrassez pas. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III. La Marquise, Dorante, Madame Argante, Frontin, Colas.
+FRONTIN.
+Est-ce la ce grand monsieur qui s'emploie a ravigoter la Marquise ? 
+COLAS.
+Lui-meme. 
+FRONTIN.
+Eh bien ! Notre retour ne le ravigotera guere. 
+COLAS.
+Faut avoir quatre-vingts ans en leur parlant au moins, faut tousser beaucoup. 
+FRONTIN.
+Hem ! Hem ! Hem ! 
+DORANTE.
+Je compte que le notaire sera ici sur les six heures. 
+LA MARQUISE.
+Point de compagnie surtout ; je n'en veux pas. 
+MADAME ARGANTE.
+Personne n'est averti, ma fille... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'est-ce que c'est que ce vieillard-la ? 
+LA MARQUISE.
+C'est un captif, si je ne me trompe. Colas, avec qui etes-vous ? 
+COLAS.
+Avec un vieux qui, sauf vote respect, reviant du pays barbare, note dame. 
+FRONTIN.
+Oui, Madame, du pays d'Alger. 
+LA MARQUISE.
+D'Alger ? Est-ce la ou vous avez ete captif ? Y avez-vous demeure longtemps ? C'est un pays ou Monsieur le Marquis d'Ardeuil est mort ; peut-etre l'avez-vous connu ? 
+FRONTIN.
+J'ai surtout connu son valet, Frontin, qui est aussi, et qui se privait de tout pour le faire vivre. 
+MADAME ARGANTE.
+Oui, oui, ce Frontin etait un domestique affectionne. 
+COLAS.
+Une bonne pate de garcon, je l'avions eleve tout petit. 
+LA MARQUISE.
+Je ne saurais le recompenser, puisqu'il n'est plus. 
+MADAME ARGANTE.
+Allez, allez, bon vieillard, en voila assez. 
+DORANTE.
+Laissez-nous. 
+LA MARQUISE.
+Attendez. Mon mari etait donc avec vous ? 
+FRONTIN.
+Il me semble que je vois encore sa brouette a cote de la mienne. 
+LA MARQUISE.
+Ah ! Ciel !... Entendez-vous, ma mere ? Il faut donc qu'il ait bien souffert. 
+FRONTIN.
+Considerablement. 
+LA MARQUISE.
+Ah ! Dorante, n'etes-vous pas penetre de ce qu'il dit la ? 
+DORANTE.
+Cet entretien, en un tel jour, est bien mal a propos, et je souhaiterais qu'on nous l'epargnat. 
+MADAME ARGANTE, a Frontin.
+Que ne vous retirez-vous, puisqu'on vous le dit ? Voila un vieillard bien importun avec ses relations. Que venez-vous faire ici ? 
+LA MARQUISE.
+Ma mere, ne le brusquez point. Je voudrais pouvoir soulager tous ceux qui ont langui dans les fers avec mon mari. 
+MADAME ARGANTE.
+Eh bien ! Qu'on ait soin de lui. Colas, menez-le la-bas. 
+COLAS.
+Il n'y a qu'a le mener a l'office. 
+FRONTIN.
+J'oubliais le principal. 
+MADAME ARGANTE.
+Encore ! 
+FRONTIN.
+Mon maitre m'envoie demander s'il peut voir Madame la Marquise : c'est un gentilhomme des plus respectables et des plus decrepis. 
+LA MARQUISE.
+A-t-il ete captif aussi ? 
+FRONTIN.
+Il apporte d'Alger certaines circonstances touchant le defunt Marquis d'Ardeuil. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MADAME ARGANTE.
+Mais d'aujourd'hui nous ne finirons de captifs, tout Alger va fondre ici ! 
+DORANTE.
+Je vais l'aller voir et je vous rapporterai ce qu'il m'aura dit, Madame. 
+LA MARQUISE.
+Non, Dorante, je veux qu'il vienne. Quoi ! Refuser de recevoir un homme qui a ete l'ami de mon mari, et qui vient expres ici pour m'en parler, vous n'y songez pas, Dorante ; ce n'est point la me connaitre. Allez, Colas, allez avec ce domestique dire de ma part a son maitre qu'il me fera beaucoup d'honneur, et que je l'attends. 
+FRONTIN.
+Je suis touche de voir un aussi bon coeur de veuve. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV. La Marquise, Dorante, Madame Argante.
+MADAME ARGANTE.
+Tout ceci n'aboutira qu'a vous replonger dans vos tristesse, ma fille. Je ne vous concois pas : y a-t-il de la raison a aimer ce qui chagrine, et ne voyez-vous pas d'ailleurs que vous affligez Dorante ? 
+DORANTE.
+Il est vrai... J'aurais pu penser que mon amour tint lieu de quelque consolation a Madame. 
+LA MARQUISE.
+Vous vous trompez, Dorante, et je ne vous epouserais pas si votre attachement pour moi ne m'avait point touchee. Mais de quoi vous plaignez-vous ? Ce n'est point un amant, c'est un epoux que je regrette ; vous l'avez connu, vous m'avez avoue vous-meme qu'il meritait mes regrets ; ne lui enviez point mes larmes, elles ne prennent rien sur les sentiments que j'ai pour vous : vous etes peut-etre le seul homme du monde a qui je puisse consentir de me donner apres avoir ete a lui, et vous devez etre content. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V. Madame Argante, Dorante, La Marquise, Frontin, Le Marquis.
+LE MARQUIS, voyant baiser la main de la Marquise.
+Ah ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je viens, Madame, m'acquitter d'une parole... 
+MADAME ARGANTE.
+Vous vous trompez, Monsieur, ce n'est point moi que ceci regarde, c'est ma fille que voici. 
+LA MARQUISE, tristement.
+Venez, Monsieur, j'aurais a me plaindre de vous. Vous etiez bien en droit de regarder la maison de Monsieur le Marquis comme la votre, et de descendre ici tout d'un coup, sans s'arreter dans le village. 
+FRONTIN.
+D'autant que le vin du cabaret est detestable. 
+LE MARQUIS.
+Tais-toi !... Je vous rends mille graces, Madame. Il est vrai qu'on ne saurait etre plus unis que nous l'avons ete, Monsieur le Marquis et moi... Ah !... 
+LA MARQUISE.
+Vous soupirez, Monsieur, vous le regrettez aussi. 
+LE MARQUIS.
+Toutes ses infortunes ont ete les miennes, et je ne puis meme jeter les yeux sur vous, Madame, sans me sentir penetre de toutes les tendresses dont il m'a charge en mourant de vous assurer. 
+LA MARQUISE.
+Ah ! 
+DORANTE.
+Ouf ! 
+LE MARQUIS.
+Je vous demande pardon si je m'attendris moi-meme ; je trouble peut-etre quelque engagement nouveau : il me semble que ma commission n'est pas ici au gre de tout le monde. 
+MADAME ARGANTE au Marquis, en montrant Dorante.
+A vous dire vrai, Monsieur, voila Monsieur, a qui vous auriez fait grand plaisir de la negliger : il va epouser ma fille, mettez-vous a sa place. 
+LE MARQUIS.
+Mon ami est donc heureux de ne plus vivre et d'avoir ignore ce mariage ; du moins est-il mort avec la douceur de penser que Madame serait inconsolable. 
+MADAME ARGANTE.
+Inconsolable !... Avec votre permission, Monsieur, cette pensee dans laquelle il est mort ne valait rien du tout ; le ciel nous preserve qu'elle soit exaucee ! Croyez-moi, passons la-dessus. 
+LA MARQUISE, tout d'un coup.
+Vous ne sauriez croire combien vous m'affligez, ma mere, vous ne vous y prenez pas bien, vous me desesperez. Ne m'otez point la consolation d'ecouter Monsieur. Je veux tout savoir, ou je me facherai, je romprais tout. Non, Monsieur, que rien ne vous retienne ; ne m'epargnez point, repetez-moi tous les discours du Marquis, toutes ses tendresses qui me seront eternellement cheres, et pardonnez a l'amitie que ma mere a pour moi la repugnance qu'elle a a vous entendre. 
+LE MARQUIS.
+Remettons plutot ce qui me reste a vous dire, Madame ; vous serez peut-etre seule une autre fois, et je reviendrai. 
+MADAME ARGANTE.
+Eh non, Monsieur, achevons ; que peut-il vous rester tant ? Le Marquis l'aimait beaucoup, il vous l'a dit, il est mort en vous le repetant, ce doit etre la tout, il ne saurait guere y en avoir davantage. 
+FRONTIN.
+[...] Nous ne sommes pas au bout. 
+LE MARQUIS.
+Voici toujours un portrait qui est de vous, Madame, qu'il emporta d'ici en vous quittant, qu'il m'a recommande de vous rendre, que nos patrons, tout barbares qu'ils sont, n'ont pas eu la cruaute d'arracher a sa tendresse, et qu'il a conserve mille fois plus cherement que sa vie. 
+LA MARQUISE, pleurant.
+Helas ! Je le reconnais, c'est le dernier gage qu'il recut de mon amour, et il l'a garde jusqu'a la mort. Ah ! Dorante, souffrez que je vous laisse, je ne saurais a present en ecouter davantage ; j'ai besoin de quelque moment de liberte ; et vous, Monsieur, demeurez quelques jours ici pour vous reposer, ne me refusez pas cette grace : je vais donner des ordres pour cela... Ah !... 
+DORANTE.
+Ne me confierez-vous pas ce portrait, Madame ? Il m'est permis de le souhaiter. 
+LE MARQUIS.
+Il m'est echappe de vous dire qu'il vous priait de ne le donner a personne. 
+DORANTE.
+Vous avez bien de la memoire, Monsieur. 
+LA MARQUISE, a Dorante.
+Laissez-moi me conformer a ce qu'il a desire, Dorante ; c'est un respect que je lui dois. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Madame Argante, Dorante, Frontin, Le Marquis.
+LE MARQUIS salue Madame Argante.
+Je suis votre serviteur, Madame ; je vais me reposer un peu en attendant de revoir Madame la Marquise. 
+DORANTE.
+Ne voyez-vous pas que vous l'affligez, Monsieur, avec vos narrations ? 
+MADAME ARGANTE, sechement.
+Vous rejouissez-vous a faire pleurer ma fille ? Vous avez les facons bien algeriennes ! 
+LE MARQUIS.
+Je ne veux faire de peine a personne. Je m'acquitte d'un devoir que j'ai promis de remplir. 
+FRONTIN.
+Nous sommes des personnages tout a fait benins. 
+MADAME ARGANTE.
+Monsieur, dites a ce vieux valet de se taire. 
+LE MARQUIS.
+Il faut l'excuser ; il est devenu familier a force d'etre mon camarade. 
+FRONTIN.
+Nous etions dans la meme condition. 
+LE MARQUIS.
+Paix !... 
+MADAME ARGANTE.
+Ah ca, Monsieur, apres tout, vous avez l'air d'un galant homme ; a votre age, on a eu le temps de le devenir, et je crois que vous l'etes. 
+LE MARQUIS.
+Vous me rendez justice, Madame. 
+MADAME ARGANTE.
+On le voit a votre physionomie. 
+FRONTIN.
+Si mon maitre voulait, vous le verriez encore mieux. 
+LE MARQUIS a Frontin.
+Encore !... 
+MADAME ARGANTE.
+Ne nuisez donc point a Monsieur, ne reculez point son mariage. Vous avez dit a ma fille que vous aviez encore a lui parler. Abregez avec elle, et menagez sa faiblesse la-dessus : a quoi bon l'attendrir pour un homme qui n'est plus au monde ? Ne vous reprocheriez-vous pas d'etre venu nous troubler pour satisfaire aux injustes fantaisies d'un mort ? 
+LE MARQUIS.
+Vous avez raison ; mais heureusement Monsieur n'a rien a craindre ; on a, ce me semble, beaucoup de tendresse pour lui. 
+DORANTE.
+Cette tendresse ne saurait resister quand on lui parle du defunt. 
+MADAME ARGANTE.
+Figurez-vous que depuis dix ans nous n'osons pas prononcer son nom devant elle ; qu'elle a vecu dans l'accablement pendant pres de huit ans, qu'elle a refuse vingt mariages meilleurs que celui du Marquis. 
+LE MARQUIS.
+Elle lui etait donc extremement attachee ? 
+MADAME ARGANTE.
+Ah ! Monsieur, cela passe toute imagination. Il est vrai que c'etait un homme de merite, un homme estimable, il avait des qualites... Mais enfin il n'est plus, et si vous connaissiez Monsieur, vous verriez qu'elle ne perd pas au change. 
+DORANTE.
+Madame est prevenue en ma faveur. 
+LE MARQUIS.
+Je ferai donc en sorte que Madame la Marquise ne le regrette pas davantage. 
+DORANTE.
+Vous me rendrez ainsi le plus grand service du monde. 
+MADAME ARGANTE.
+Mais a quoi donc se reduit ce que vous avez a lui dire ? 
+LE MARQUIS.
+A presque rien : j'ai une lettre a lui remettre. 
+DORANTE.
+Une lettre du defunt ? 
+LE MARQUIS.
+Oui, Monsieur. 
+MADAME ARGANTE, en criant.
+Encore une lettre ! 
+LE MARQUIS.
+Oui, Madame. 
+DORANTE.
+Je vous demande de la supprimer, Monsieur ; vous risquez de me perdre en la rendant. 
+LE MARQUIS.
+La supprimer, Monsieur ? Il ne m'est pas possible : j'ai fait serment de la remettre, il y va de mon honneur. 
+MADAME ARGANTE.
+Quoi ! Il y va de votre honneur d'oter la vie a ma fille ? 
+LE MARQUIS.
+Ce n'est pas mon dessein, Madame. 
+DORANTE.
+Ne la lui remettez donc pas, elle s'en trouvera mieux. 
+MADAME ARGANTE.
+Le ciel nous aurait fait une grande grace de vous laisser a Alger. 
+LE MARQUIS.
+Il m'en a fait une plus grande de m'en tirer. Frontin ou Dorante.Je ne compte plus sur rien. 
+MADAME ARGANTE.
+Voila, je vous l'avoue, un etrange mort, avec sa miserable lettre ! Et plus etrange encore le vieillard qui s'en est charge ! 
+LE MARQUIS.
+Vous me traitez bien mal, Madame. 
+DORANTE.
+[...] 
+FRONTIN.
+[...] nous sommes cruellement houspilles. 
+LE MARQUIS.
+J'ai quelquefois trouve plus d'accueil chez les barbares. 
+MADAME ARGANTE.
+Et moi, souvent plus de raison chez les enfants. 
+FRONTIN.
+Aussi leur donne-t-on des soufflets par mauvaise coutume. 
+MADAME ARGANTE.
+Impertinent, vous en meriteriez sans votre age. 
+LE MARQUIS.
+Doucement, Madame, doucement. 
+MADAME ARGANTE.
+Retirons-nous, Dorante ; je sens que le feu me monte a la tete. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VII. Le Marquis, Frontin, Colas.
+FRONTIN.
+Ils aimeraient nous voir morts, mais nous pretendons vieillir bien davantage, ah ! ah ! 
+COLAS.
+Eh bian, noute maitre, j'ons vu que vous parliez a Madame. N'avez-vous pas eu contentement d'elle ? N'est-ce pas que c'est une brave femme que voute femme ? 
+LE MARQUIS.
+Oui, je n'ai pas lieu de m'en plaindre, et malgre ce mariage qui allait se terminer, je crois qu'elle ne sera pas fachee de me retrouver. 
+COLAS.
+Je vous avartis qu'alle se lamente la-bas dans ce petit cabinet de vardure, alle a la face toute trempee : j'ons vu ses deux yeux qui vont quasiment comme des arrosoirs, c'est une piquee. Faut l'apaiser, Monsieur, faut li montrer le defunt. 
+LE MARQUIS.
+J'ai encore a l'entretenir. Je veux voir jusqu'ou va son inclination pour mon rival, et si la lettre que je lui rendrai l'engagera sans peine a rompre son mariage. 
+FRONTIN.
+Et moi, je veux voir ce que fait ma masque de femme. 
+COLAS.
+Oh ! Il n'y a rian la de biau a voir, la curiosite est bian chetite. Tenez, la vela qui viant avec son nouviau galant qui batifole a l'entour d'elle. 
+FRONTIN.
+Je vais les faire batifoler a grands coups de houssine. 
+LE MARQUIS.
+Prends garde a ce que tu feras. 
+SCENE VIII. Le Marquis, Frontin, Colas, Lisette, Jeannot.
+LISETTE.
+Monsieur, n'etes-vous pas l'homme d'Alger ? 
+LE MARQUIS.
+Je suis du moins l'homme qui en arrive. 
+LISETTE.
+Je vais vous montrer votre appartement, Monsieur, si vous souhaitez vous y retirer. 
+LE MARQUIS.
+Je vais m'y rendre... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Scapin, vous irez chercher mes hardes. 
+FRONTIN.
+Oui, Monsieur, tout a l'heure. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX. Frontin, Colas, Lisette, Jeannot.
+COLAS.
+Tenez, bonhomme, vela cette demoiselle Lisette que vous charchez. 
+JEANNOT.
+Est-ce la la derniere mode de la-bas ? 
+COLAS.
+Arretez-vous donc, petit garcon ; faut-il badiner comme ca avec la barbe du vieux monde ? 
+LISETTE.
+Laissez-moi libre avec le bon vieillard. 
+COLAS.
+Oui, oui, ca est juste : faut pas que les gens du dehors sachiont les petites broutilles du menage ; j'allons nous jeter de cote, Jeannot et moi. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X. Lisette, Frontin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XI. Frontin, l'epee a la main, Lisette, puis Colas, Jeannot.
+LISETTE.
+Jeannot ! Colas ! A moi ! Au secours ! 
+COLAS.
+Quoi donc ? Est-ce qu'il y a du massacre ici ? 
+LISETTE.
+Appelez donc du secours, Colas ! 
+COLAS.
+Bellement, noute ancien, rengainez donc, remettez dans le fourriau. 
+FRONTIN.
+Je n'ai qu'une oreille a vous abattre. 
+COLAS.
+Non, non, laissez li la paire d'oreilles. 
+FRONTIN.
+Ce pauvre Frontin avait bien devine qu'elle etait comme ma femme qui m'etait infidele. 
+COLAS.
+Vela le biau sorcier, c'etait deviner qu'alle etait une femme. 
+FRONTIN.
+Et je garderai le legs, puisque ce galant a su faire broncher la fidelite de la coquine. 
+COLAS.
+Faudra donc pas de poche a la veuve pour sarrer ca. 
+FRONTIN.
+A moi la somme ! 
+SCENE XII. Frontin, Lisette, Colas, Jeannot, Madame Argante, Dorante.
+MADAME ARGANTE.
+Voici son valet ; essayons de le gagner, et qu'il nous instruise. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Vous voila, bonhomme, nous vous cherchons. 
+LISETTE.
+[...] 
+FRONTIN.
+Je suis legataire et non pas voleur. 
+MADAME ARGANTE.
+Allez, Lisette, laissez-nous, nous verrons cela. 
+FRONTIN.
+[...] 
+LISETTE.
+J'ai cru entendre la voix du mort. 
+COLAS.
+Ah ! Ah ! Ah ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIII. Frontin, Madame Argante, Dorante.
+MADAME ARGANTE.
+Ah ca, dites-nous, mon bonhomme, votre maitre pretend-il rester longtemps ici ? 
+FRONTIN.
+Il pretend y prendre son quartier d'hiver. 
+MADAME ARGANTE.
+Son quartier d'hiver ! 
+DORANTE.
+C'est un homme intrepide ! 
+MADAME ARGANTE.
+Doucement, Dorante, il y a du remede a tout : voici un vieillard qui me parait un honnete homme. Il me semble lui avoir entendu dire qu'il avait vu mourir le Marquis, et il ne nous refusera pas de l'assurer a ma fille, si son maitre disait le contraire ; il sera bien aise de nous servir ; n'est-ce pas, bonhomme ? 
+FRONTIN.
+Il y va de mon honneur, et je parle bon francais. 
+MADAME ARGANTE.
+Non, pas trop bon, car on ne vous entend pas. Que voulez-vous qu'on fasse ? 
+FRONTIN.
+Vous avez pourtant su nous taxer d'honnetes gens. 
+MADAME ARGANTE.
+Ah ! J'y suis, c'est de l'argent qu'il demande. 
+FRONTIN, prenant la bourse qu'on lui donne, et a part.
+Ce ne sera pas ma faute s'il en rechappe. 
+MADAME ARGANTE.
+Voici votre maitre et j'ai envie que nous lui parlions. 
+FRONTIN.
+Comme il vous plaira. 
+SCENE XIV. Frontin, Madame Argante, Dorante, Le Marquis.
+LE MARQUIS.
+Je vous demande pardon, Madame, et je me retire. Je croyais Madame la Marquise avec vous. 
+MADAME ARGANTE, a part les premiers mots.
+Voyons ce qu'il dira... Approchez, Monsieur, vous n'etes point de trop : votre valet nous parlait du Marquis qu'il a vu mort. 
+LE MARQUIS.
+Mon valet se trompe, car, a parler exactement, le Marquis etait pres d'expirer quand je l'ai quitte ; mais il vivait encore, et j'ai meme un scrupule d'avoir dit qu'il n'etait plus. 
+DORANTE.
+Sans doute avez-vous d'autres raisons que votre valet pour etre de ce sentiment-la. 
+LE MARQUIS.
+Mais, Scapin, vous n'y pensez pas ? 
+DORANTE.
+Je l'ai si bien vu mort, nous disait-il, qu'il me semble le voir encore. 
+LE MARQUIS.
+Vous etes un fripon, Scapin. 
+FRONTIN, a part.
+Ah ! le fourbe ! 
+MADAME ARGANTE, a Frontin.
+Allons, parlez-lui donc, otez-lui son scrupule. 
+FRONTIN, bas au Marquis.
+Qu'importe ? Vous ne vous en portez pas plus mal. 
+MADAME ARGANTE.
+Il a vu, ce qui s'appelle vu. 
+DORANTE, a Frontin.
+Vous, mon bon homme, vous m'avez l'air de mediter pour essayer de vous dedire. 
+MADAME ARGANTE, au Marquis.
+Et vous, Monsieur, vous avez tout l'air d'un aventurier qui par son industrie veut prolonger ici un sejour qui l'accommode. 
+LE MARQUIS.
+Un aventurier, moi, Madame ? 
+DORANTE.
+Quittez le chateau, Monsieur, nous vous donnerons de l'argent pour faire votre voyage. 
+LE MARQUIS.
+Je n'ai besoin de rien, Monsieur. 
+MADAME ARGANTE, vivement.
+Que de passer ici l'hiver. 
+LE MARQUIS.
+Tout le temps que je voudrai, Madame. 
+MADAME ARGANTE.
+Comment donc, radoteur, vous prenez le ton de maitre ? 
+DORANTE.
+Il apprendra a qui il se joue. 
+LE MARQUIS.
+Vous en apprendrez plus que moi. 
+MADAME ARGANTE.
+Jusqu'au revoir. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XV. Frontin, Le Marquis.
+LE MARQUIS.
+D'ou vient donc que tu me raies du nombre des vivants ? 
+FRONTIN, montrant la bourse.
+Voila ce qui en efface. 
+LE MARQUIS.
+Ah ! Je te le pardonne ; mais laisse-nous, voici la Marquise. 
+SCENE XVI. Le Marquis, La Marquise.
+LA MARQUISE.
+Eh bien, Monsieur, nous voici seuls, et vous pouvez en liberte me parler de mon mari ; ne prenez point garde a ma douleur, elle m'est mille fois plus chere que tous les plaisirs du monde. 
+LE MARQUIS.
+Non, Madame, j'ai change d'avis, dispensez-moi de parler : mon ami, s'il pouvait savoir ce qui se passe, approuverait lui-meme ma discretion. 
+LA MARQUISE.
+D'ou vient donc, Monsieur ? Quel motif avez-vous pour me cacher le reste ? 
+LE MARQUIS.
+Ce que vous voulez savoir n'est fait que pour une epouse qui serait restee veuve, Madame. 
+Le Marquis ne l'a adresse qu'a un coeur qui se serait conserve pour lui. 
+LA MARQUISE.
+Ah ! Monsieur, comment avez-vous le courage de me tenir ce discours, dans l'attendrissement ou vous me voyez ? Que pourrait lui-meme me reprocher le Marquis ? Je le pleure depuis que je l'ai perdu et je le pleurerai toute ma vie. 
+LE MARQUIS.
+Vous allez cependant donner votre main a un autre, Madame, et ce n'est point a moi a y trouver a redire ; mais je ne saurais m'empecher d'etre sensible a la consternation ou il en serait lui-meme... Son epouse prete a se remarier ! Ce n'est pas un crime, et cependant il en mourrait, Madame. Je finis ma vie dans les plus grands malheurs, me disait-il ; mais mon coeur a joui d'un bien qui les a tous adoucis : c'est la certitude ou je suis que la Marquise n'aimera jamais que moi. Et cependant il se trompait, Madame, et mon amitie en gemit pour lui. 
+LA MARQUISE.
+Helas, Monsieur ! J'aime votre sensibilite, et je la respecte, mais vous n'etes pas instruit ; c'est l'ami de mon mari meme que je vais prendre pour juge : ne vous imaginez pas que mon coeur soit coupable ; que le votre ne gemisse point, le Marquis n'est point trompe. 
+LE MARQUIS.
+Il est question d'un mariage, Madame, et, suivant toute apparence, vous ne vous mariez pas sans amour. 
+LA MARQUISE.
+Attendez, Monsieur, il faut s'expliquer ; oui, les apparences peuvent etre contre moi ; mais laissez-moi vous dire ; je merite bien qu'on m'ecoute. Je connaissais bien le Marquis, et j'ai peut-etre porte la douleur au dela meme de ce qu'un coeur comme le sien l'aurait voulu. Oui, je suis persuadee qu'il aimerait mieux que je l'oubliasse, que de savoir ce que je souffre encore. 
+LE MARQUIS, a part.
+Ah ! J'ai peine a me contraindre. 
+LA MARQUISE.
+Vous me trouvez prete a terminer un mariage, et je ne vous dis pas que je haisse celui que j'epouse ; non, je ne le hais point, j'aurais tort : c'est un honnete homme. Mais pensez-vous que je l'epouse avec une tendresse dont mon mari put se plaindre ? Ai-je pour lui des sentiments qui pussent affliger le Marquis ? Non, Monsieur, non, je n'ai pas le coeur epris, je ne l'ai que reconnaissant de tous les services qu'il m'a rendus, et qui sont sans nombre. C'est d'ailleurs un homme qui depuis pres de deux ans vit avec moi dans un respect, dans une soumission, avec une deference pour ma douleur, enfin dans des chagrins, dans des inquietudes pour ma sante qui est considerablement alteree, dans des frayeurs de me voir mourir, qu'a moins d'avoir une ame depouillee de tout sentiment, cela a du faire quelque impression sur moi ; mais quelle impression, Monsieur ? La moindre de toutes : je l'ai plaint, il m'a fait pitie, voila tout.
+LE MARQUIS.
+Et vous l'epousez ? 
+LA MARQUISE.
+Dites donc que j'y consens, ce qui est bien different, et que j'y consens tourmentee par une mere a qui je suis chere, qui me doit l'etre, qui n'a jamais rien aime tant que moi, et que mes refus desolent. On n'est pas toujours la maitresse de son sort, Monsieur, il y a des complaisances inevitables dans la vie, des especes de combats qu'on ne saurait toujours soutenir. J'ai vu cette mere mille fois desesperee de mon etat, elle tomba malade : j'en etais cause ; il ne s'agissait pas moins que de lui sauver la vie, car elle se mourait, mon opiniatrete la tuait. Je ne sais point etre insensible a de pareilles choses, et elle m'arracha une promesse d'epouser Dorante. J'y mis pourtant une condition, qui etait de renvoyer une seconde fois a Alger ; et tout ce qu'on m'en apporta fut un nouveau certificat de la mort du Marquis. J'avais promis, cependant. Ma mere me somma de ma parole ; il fallut me rendre, et je me rendis. Je me sacrifiai, Monsieur, je me sacrifiai. Est-ce la de l'amour ? Est-ce la oublier le Marquis ? Est-ce la epouser avec tendresse ? 
+LE MARQUIS, a part.
+Voyons si elle rompra... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Non, je concois meme par ce detail que vous seriez bien aise de revoir le Marquis. 
+LA MARQUISE, enchantee.
+Ah ! Monsieur, le revoir, helas ! Il n'en faudrait pas tant ; la moindre lueur de cette esperance arreterait tout ; il y a dix ans que je ne vis pas, et je vivrais. 
+LE MARQUIS.
+Je n'hesiterai donc plus a vous donner cette lettre ; elle ne viendra point mal a propos, elle vous convient encore. 
+LA MARQUISE, avec ardeur.
+Une lettre de lui, Monsieur ? 
+LE MARQUIS.
+Oui, Madame, et qu'il vous ecrivit en mourant. J'etais present. 
+LA MARQUISE, baisant la lettre.
+Ah ! Cher Marquis ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE MARQUIS, a part.
+Ah ! Madame, je commence a craindre de vous avoir trop attendrie. 
+LA MARQUISE.
+Je ne sais plus ou je suis. Lisons. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je me meurs, chere epouse, et je n'ai pas deux heures a vivre ; je vais perdre le plaisir de vous aimer. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est le seul bien qui me restait, et c'est apres vous le seul que je regrette. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il faut que je respire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Consolez-vous, vivez, mais restez libre ; c'est pour vous que je vous en conjure : personne ne saurait le prix de votre coeur. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je reconnais le sien. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ma faiblesse me force de finir, mon ami part, on l'entraine, et il ne peut pas sans risquer sa vie attendre mon dernier soupir. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Comment, Monsieur, il vivait donc encore quand vous l'avez quitte ? 
+LE MARQUIS.
+Oui, Madame, on s'est trompe ; il est vrai que la plus grande partie des captifs mourut a Alger pendant que nous y etions ; mais nous trouvames le moyen de nous sauver, et c'est notre disparition qui a fait l'erreur : je suis dans le meme cas, et le Marquis mourut dans notre fuite, ou du moins il se mourait quand je fus oblige de le quitter.
+LA MARQUISE, vivement.
+Mais vous n'etes donc sur de rien, il a donc pu en revenir ? Parlez, Monsieur ; deja je romps tout : plus de mariage ! Mais de quel cote irait-on ? Quelles mesures prendre ? Ou pourrait-on le trouver ? Vous etes son ami, Monsieur, l'abandonnerez-vous ? 
+LE MARQUIS.
+Vous souhaitez donc qu'il vive ? 
+LA MARQUISE.
+Si je le souhaite ! Ne me promettez rien que de vrai ; j'en mourrais. 
+LE MARQUIS.
+S'il n'avait hesite de paraitre que dans la crainte de n'etre plus aime ? S'il m'avait pre de venir ici pour pouvoir l'informer de vos dispositions ? 
+LA MARQUISE.
+Tout mon coeur est a lui. Ou est-il ? Menez-moi ou il est. 
+LE MARQUIS, un moment sans repondre.
+Il va venir dans un instant, et vous l'allez voir. 
+LA MARQUISE.
+Je vais le voir ! Je vais le voir ! Marchons, hatons-nous, allons le trouver, je me meurs de joie, je vais le voir ! Vous etes apres lui ce qui me sera le plus cher.
+LE MARQUIS, otant sa barbe et se jetant a ses genoux.
+Non, je vous suis aussi cher qu'il vous l'est lui-meme. 
+LA MARQUISE, se reculant.
+Qu'est-ce que c'est donc ? Qui etes-vous ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Cher Marquis ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que je suis heureuse ! 
+LE MARQUIS.
+Voici votre mere. 
+SCENE XVII.Le Marquis, La Marquise, Madame Argante, Dorante, Colas, Frontin, Lisette.
+MADAME ARGANTE.
+Ma fille, je vous avertis que nous faisons arreter cet homme-la qui refuse par pur interet de certifier que le Marquis est mort.
+LE MARQUIS.
+Je ne saurais, Madame, il faut en conscience que je certifie qu'il vit encore. 
+MADAME ARGANTE.
+Ah ! Que vois-je ? C'est lui-meme ! 
+LA MARQUISE.
+Oui, ma mere, c'est lui, c'est lui que je tiens et que j'embrasse. 
+MADAME ARGANTE.
+Monsieur, je n'ai plus rien a dire, jugez de mon embarras, et je me sauve bien confuse de tout ce qui s'est passe. 
+DORANTE, s'enfuyant.
+Personne ici n'est plus deplace que moi. 
+LA MARQUISE.
+Ni personne qui puisse me le disputer en ravissement. 
+FRONTIN.
+[...] 
+LISETTE.
+Ah ! Le coquin ! 
+COLAS.
+Mon ami le defunt, commencons par aller boire sur votre testament. 
+
+	==================================================

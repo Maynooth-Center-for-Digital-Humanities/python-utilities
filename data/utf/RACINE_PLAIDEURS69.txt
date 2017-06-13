@@ -1,0 +1,1875 @@
+********************************************************
+	DC.Title                  = LES PLAIDEURS, COMEDIE.
+	DC.Author                 = RACINE, Jean
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 31/05/2016 a 06:42:32.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/RACINE_PLAIDEURS69.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LES PLAIDEURS COMEDIEM. DC. LXIX. AVEC PRIVILEGE DU ROI.
+
+	A PARIS, Chez CLAUDE BARBIN, au Palais, sur le Second Perron de la Sainte-Chapelle.
+	
+	Represente pour la premiere fois fin octobre ou debut novembre 1668 au Theatre de l'Hotel de Bourgogne.
+	AU LECTEUR.
+Quand je lus les Guepes d'Aristophane, je ne songeais guere que j'en dusse faire les Plaideurs. J'avoue qu'elles me divertirent beaucoup, et que j'y trouvai quantite de plaisanteries qui me tenterent d'en faire part au public ; mais c'etait en les mettant dans la bouche des Italiens, a qui je les avais destinees, comme une chose qui leur appartenait de plein droit. Le juge qui saute par les fenetres, le chien criminel et les larmes de sa famille me semblaient autant d'incidents dignes de la gravite de Scaramouche. Le depart de cet acteur interrompit mon dessein, et fit naitre l'envie a quelques-uns de mes amis de voir sur notre theatre un echantillon d'Aristophane. Je ne me rendis pas a la premiere proposition qu'ils m'en firent. Je leur dis que quelque esprit que je trouvasse dans cet auteur, mon inclination ne me porterait pas a le prendre pour modele si j'avais a faire une comedie, et que j'aimerais beaucoup mieux imiter la regularite de Menandre et de Terence, que la liberte de Plaute et d'Aristophane. On me repondit que ce n'etait pas une comedie qu'on me demandait, et qu'on voulait seulement voir si les bons mots d'Aristophane auraient quelque grace dans notre langue. Ainsi, moitie en m'encourageant, moitie en mettant eux-memes la main a l'oeuvre, mes amis me firent commencer une piece qui ne tarda guere a etre achevee.
+Cependant la plupart du monde ne se soucie point de l'intention ni de la diligence des auteurs. On examina d'abord mon amusement comme on aurait fait une tragedie. Ceux memes qui s'y etaient le plus divertis eurent peur de n'avoir pas ri dans les regles et trouverent mauvais que je n'eusse pas songe plus serieusement a les faire rire. Quelques autres s'imaginerent qu'il etait bienseant a eux de s'y ennuyer et que les matieres de palais ne pouvaient pas etre un sujet de divertissement pour les gens de cour. La piece fut bientot jouee a Versailles. On ne fit point de scrupule de s'y rejouir ; et ceux qui avaient cru se deshonorer de rire a Paris furent peut-etre obliges de rire a Versailles pour se faire honneur.
+Ils auraient tort, a la verite, s'ils me reprochaient d'avoir fatigue leurs oreilles de trop de chicane. C'est une langue qui m'est plus etrangere qu'a personne, et je n'en ai employe que quelques mots barbares que je puis avoir appris dans le cours d'un proces que ni mes juges ni moi n'avons jamais bien entendu.
+Si j'apprehende quelque chose, c'est que des personnes un peu serieuses ne traitent de badineries le proces du chien et les extravagances du juge. Mais enfin je traduis Aristophane, et l'on doit se souvenir qu'il avait affaire a des spectateurs assez difficiles. Les Atheniens savaient apparemment ce que c'etait que le sel attique ; et ils etaient bien surs, quand ils avaient ri d'une chose, qu'ils n'avaient pas ri d'une sottise.
+Pour moi, je trouve qu'Aristophane a eu raison de pousser les choses au-dela du vraisemblable. Les juges de l'Areopage n'auraient pas peut-etre trouve bon qu'il eut marque au naturel leur avidite de gagner, les bons tours de leurs secretaires et les forfanteries de leurs avocats. Il etait a propos d'outrer un peu les personnages pour les empecher de se reconnaitre. Le public ne laissait pas de discerner le vrai au travers du ridicule ; et je m'assure qu'il vaut mieux avoir occupe l'impertinente eloquence de deux orateurs autour d'un chien accuse, que si l'on avait mis sur la sellette un veritable criminel et qu'on eut interesse les spectateurs a la vie d'un homme.
+Quoi qu'il en soit, je puis dire que notre siecle n'a pas ete de plus mauvaise humeur que le sien, et que si le but de ma comedie etait de faire rire, jamais comedie n'a mieux attrape son but. Ce n'est pas que j'attende un grand honneur d'avoir assez longtemps rejoui le monde ; mais je me sais quelque gre de l'avoir fait sans qu'il m'en ait coute une seule de ces sales equivoques et de ces malhonnetes plaisanteries qui coutent maintenant si peu a la plupart de nos ecrivains, et qui font retomber le theatre dans la turpitude d'ou quelques auteurs plus modestes l'avaient tire.
+
+ACTEURS
+DANDIN, juge.
+LEANDRE, fils de Dandin.
+CHICANNEAU, bourgeois.
+ISABELLE, fille de Chicanneau.
+LA COMTESSE.
+PETIT-JEAN, portier.
+L'INTIME, secretaire.
+LE SOUFFLEUR.
+La scene est dans une ville de Basse-Normandie.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE.
+PETIT-JEAN, trainant un gros sac de proces.
+Ma foi, sur l'avenir, bien fou qui se fiera.
+Tel qui rit vendredi, dimanche pleurera.
+Un juge, l'an passe, me prit a son service,
+Il m'avait fait venir d'Amiens pour etre Suisse.
+Tous ces Normands voulaient se divertir de nous, 			[5]
+On apprend a hurler, dit l'autre, avec les loups.
+Tout Picard que j'etais, j'etais un bon apotre,
+Et je faisais claquer mon fouet tout comme un autre.
+Tous les plus gros monsieurs me parlaient chapeau bas.
+Monsieur de Petit-Jean, ah, gros comme le bras,			[10]
+Mais sans argent, l'honneur n'est qu'une maladie ;
+Ma foi j'etais un franc portier de comedie,
+On avait beau heurter et m'oter son chapeau,
+On n'entrait point chez nous sans graisser le marteau.
+Point d'argent, point de suisse, et ma porte etait close. 			[15]
+Il est vrai qu'a Monsieur j'en rendais quelque chose.
+Nous comptions quelquefois. On me donnait le soin
+De fournir la maison de chandelle et de foin,
+Mais je n'y perdais rien. Enfin vaille que vaille,
+J'aurais sur le marche fort bien fourni la paille. 			[20]
+C'est dommage. Il avait le coeur trop au metier,
+Tous les jours le premier aux plaids, et le dernier,
+Et bien souvent tout seul, si l'on l'eut voulu croire,
+Il y serait couche sans manger et sans boire.
+Je lui disais parfois : « Monsieur Perrin Dandin, 			[25]
+Tout franc, vous vous levez tous les jours trop matin.
+Qui veut voyager loin, menage sa monture ;
+Buvez, mangez, dormez, et faisons feu qui dure. »
+Il n'en a tenu compte. Il a si bien veille,
+Et si bien fait, qu'on dit que son timbre est brouille. 			[30]
+Il nous veut tous juger les uns apres les autres.
+Il marmotte toujours certaines patenotres
+Ou je ne comprends rien. Il veut bon gre, mal gre,
+Ne se coucher qu'en robe, et qu'en bonnet carre.
+Il fit couper la tete a son coq de colere, 			[35]
+Pour l'avoir eveille plus tard qu'a l'ordinaire :
+Il disait qu'un plaideur, dont l'affaire allait mal,
+Avait graisse la patte a ce pauvre animal.
+Depuis ce bel arret, le pauvre homme a beau faire,
+Son fils ne souffre plus qu'on lui parle d'affaire,			[40]
+Il nous le fait garder, jour et nuit, et de pres.
+Autrement serviteur, et mon homme est aux plaids.
+Pour s'echapper de nous, Dieu sait s'il est allegre.
+Pour moi, je ne dors plus. Aussi je deviens maigre,
+C'est pitie. Je m'etends, et ne fais que bailler. 			[45]
+Mais veille qui voudra, voici mon oreiller,
+Ma foi, pour cette nuit, il faut que je m'en donne,
+Pour dormir dans la rue on n'offense personne.
+Dormons.
+SCENE II. L'Intime, Petit-Jean.
+L'INTIME.
+Ay, Petit-Jean, Petit-Jean.
+PETIT-JEAN.
+L'Intime.
+Il a deja bien peur de me voir enrhume. 			[50]
+L'INTIME.
+Que diable ! Si matin que fais-tu dans la rue ?
+PETIT-JEAN.
+Est-ce qu'il faut toujours faire le pied de grue,
+Garder toujours un homme, et l'entendre crier ?
+Quelle gueule ! Pour moi, je crois qu'il est sorcier.
+L'INTIME.
+Bon.
+PETIT-JEAN.
+Je lui disais donc en me grattant la tete, 			[55]
+Que je voulais dormir. Presente ta requete
+Comme tu veux dormir, m'a-t-il dit gravement.
+Je dors en te contant la chose seulement.
+Bonsoir.
+L'INTIME.
+Comment bonsoir ? Que le diable m'emporte
+Si... Mais j'entends du bruit au dessus de la porte.			[60]
+SCENE III. Dandin, L'intime, Petit-Jean.
+DANDIN, a la fenetre.
+Petit-Jean. L'Intime.
+L'INTIME, a Petit-Jean.
+Paix.
+DANDIN.
+Je suis seul ici.
+Voila mes guichetiers en defaut, Dieu merci.
+Si je leur donne temps, ils pourront comparaitre.
+Ca, pour nous elargir, sautons par la fenetre.
+Hors de cour.
+L'INTIME.
+Comme il saute.			[65]
+PETIT-JEAN.
+Ho, Monsieur, je vous tiens. 			[65]
+DANDIN.
+Au voleur, au voleur.
+PETIT-JEAN.
+Ho, nous vous tenons bien.
+L'INTIME.
+Vous avez beau crier.
+DANDIN.
+Main-forte. L'on me tue.
+SCENE IV. Leandre, Dandin, L'Intime, Petit-Jean.
+LEANDRE.
+Vite, un flambeau. J'entends mon pere dans la rue.
+Mon pere, si matin qui vous fait deloger ?
+Ou courez-vous, la nuit ?
+DANDIN.
+Je veux aller juger. 			[70]
+LEANDRE.
+Et qui juger ? Tout dort.
+PETIT-JEAN.
+Ma foi, je ne dors guere.
+LEANDRE.
+Que de sacs ! Il en a jusques aux jarretieres.
+DANDIN.
+Je ne veux de trois mois rentrer dans la maison.
+De sacs et de proces j'ai fait provision.
+LEANDRE.
+Et qui vous nourrira ?
+DANDIN.
+Le buvetier, je pense. 			[75]
+LEANDRE.
+Mais ou dormirez-vous, mon pere ?
+DANDIN.
+A l'audience.
+LEANDRE.
+Non, mon pere, il vaut mieux que vous ne sortiez pas.
+Dormez chez vous. Chez vous faites tous vos repas.
+Souffrez que la raison enfin vous persuade ;
+Et pour votre sante...
+DANDIN.
+Je veux etre malade.			[80]
+LEANDRE.
+Vous ne l'etes que trop. Donnez-vous du repos.
+Vous n'avez tantot plus que la peau sur les os.
+DANDIN.
+Du repos ? Ah, sur toi tu veux regler ton pere.
+Crois-tu qu'un juge n'ait qu'a faire bonne chere,
+Qu'a battre le pave comme un tas de galants, 			[85]
+Courir le bal la nuit, et le jour les brelans ?
+L'argent ne nous vient pas si vite que l'on pense.
+Chacun de tes rubans me coute une sentence.
+Ma robe vous fait honte. Un fils de juge ! Ah, fi.
+Tu fais le gentilhomme. He, Dandin, mon ami,			[90]
+Regarde dans ma chambre, et dans ma garde-robe,
+Les portraits des Dandins. Tous ont porte la robe,
+Et c'est le bon parti. Compare prix pour prix
+Les etrennes d'un juge, a celles d'un Marquis ;
+Attends que nous soyons a la fin de decembre. 			[95]
+Qu'est-ce qu'un gentilhomme ? Un pilier d'antichambre.
+Combien en as-tu vu, je dis des plus huppes,
+A souffler dans leurs doigts dans ma cour occupes,
+La manteau sur le nez, ou la main dans la poche,
+Enfin, pour se chauffer, venir tourner ma broche. 			[100]
+Voila comme on les traite. He, mon pauvre garcon,
+De ta defunte mere est-ce la la lecon ?
+La pauvre Babonnette ! Helas, lorsque j'y pense,
+Elle ne manquait pas une seule audience,
+Jamais, au grand jamais, elle ne me quitta, 			[105]
+Et Dieu sait bien souvent ce qu'elle en rapporta ;
+Elle eut du buvetier emporte les serviettes,
+Plutot que de rentrer au logis les mains nettes.
+Et voila comme on fait les bonnes maisons. Va,
+Tu ne seras qu'un sot.
+LEANDRE.
+Vous vous morfondez la, 			[110]
+Mon pere. Petit-Jean, ramenez votre maitre,
+Couchez-le dans son lit, fermez porte, fenetre,
+Qu'on barricade tout, afin qu'il ait plus chaud.
+PETIT-JEAN.
+Faites donc mettre au moins des garde-fous la-haut.
+DANDIN.
+Quoi ! L'on me menera coucher sans autre forme ?			[115]
+Obtenez un arret comme il faut que je dorme.
+LEANDRE.
+He, par provision, mon pere, couchez-vous.
+DANDIN.
+J'irai, mais je m'en vais vous faire enrager tous.
+Je ne dormirai point.
+LEANDRE.
+He bien, a la bonne heure.
+Qu'on ne le quitte pas. Toi, l'Intime, demeure. 			[120]
+SCENE V. Leandre, L'Intime.
+LEANDRE.
+Je veux t'entretenir un moment sans temoin.
+L'INTIME.
+Quoi, vous faut-il garder ?
+LEANDRE.
+J'en aurais bon besoin.
+J'ai ma folie, helas, aussi bien que mon pere.
+L'INTIME.
+Ho ! Vous voulez juger ?
+LEANDRE.
+Laissons la le mystere.
+Tu connais ce logis.
+L'INTIME.
+Je vous entends enfin ; 			[125]
+Diantre, l'amour vous tient au coeur de bon matin.
+Vous me voulez parler sans doute d'Isabelle.
+Je vous l'ai dit cent fois, elle est sage, elle est belle ;
+Mais vous devez songer que Monsieur Chicanneau,
+De son bien, en proces consume le plus beau. 			[130]
+A qui n'en veut-il point ? Je crois qu'a l'audience
+Il fera, s'il ne meurt, venir toute la France.
+Tout aupres de son juge il s'est venu loger.
+L'un veut plaider toujours, l'autre toujours juger ;
+Et c'est un grand hasard s'il conclut votre affaire, 			[135]
+Sans plaider le cure, le gendre, et le notaire. 
+LEANDRE.
+Je le sais comme toi. Mais malgre tout cela,
+Je meurs pour Isabelle.
+L'INTIME.
+He bien, epousez-la.
+Vous n'avez qu'a parler, c'est une affaire prete.
+LEANDRE.
+He, cela ne va pas si vite que ta tete. 			[140]
+Son pere est un sauvage, a qui je ferais peur. 
+A moins que d'etre huissier, sergent, ou procureur,
+On ne voit point sa fille. Et la pauvre Isabelle,
+Invisible et dolente, est en prison chez elle,
+Elle voit dissiper sa jeunesse en regrets, 			[145]
+Mon amour en fumee, et son bien en proces.
+Il la ruinera, si l'on le laisse faire.
+Ne connaitrais-tu point quelque honnete faussaire,
+Qui servit ses amis, en le payant s'entend,
+Quelque sergent zele ?
+L'INTIME.
+Bon, l'on en trouve tant. 			[150]
+LEANDRE.
+Mais encor.
+L'INTIME.
+Ah, Monsieur, si feu mon pauvre pere
+Etait encor vivant, c'etait bien votre affaire.
+Il gagnait en un jour plus qu'un autre en six mois,
+Ses rides sur son front gravaient tous ses exploits.
+Il vous eut arrete le carrosse d'un Prince. 			[155]
+Il vous l'eut pris lui-meme ; et si dans la province
+Il se donnait en tout vingt coups de nerfs de boeuf,
+Mon pere pour sa part en emboursait dix-neuf.
+Mais de quoi s'agit-il ? Suis-je pas fils de maitre ?
+Je vous servirai.
+LEANDRE.
+Toi ?			[160]
+L'INTIME.
+Mieux qu'un sergent peut-etre.			[160]
+LEANDRE.
+Tu porterais au pere un faux exploit ?
+L'INTIME.
+Quoi donc ? 
+LEANDRE.
+Tu rendrais a la fille un billet ?
+L'INTIME.
+Pourquoi non ?
+Je suis des deux metiers.
+LEANDRE.
+Viens, je l'entends qui crie,
+Allons a ce dessein rever ailleurs.
+SCENE VI. Chicanneau, Petit-Jean.
+CHICANNEAU, allant et revenant.
+La Brie !
+Qu'on garde la maison, je reviendrai bientot. 			[165]
+Qu'on ne laisse monter aucune ame la-haut, 
+Fais porter cette lettre a la poste du Maine.
+Prends-moi dans mon clapier trois lapins de garenne,
+Et chez mon procureur porte-les ce matin.
+Si son clerc vient ceans, fais lui gouter mon vin. 			[170]
+Ah ! Donne-lui ce sac qui pend a ma fenetre.
+Est-ce tout ? Il viendra me demander, peut-etre,
+Un grand homme sec, la, qui me sert de temoin,
+Et qui jure pour moi lorsque j'en ai besoin.
+Qu'il m'attende. Je crains que mon juge ne sorte,			[175]
+Quatre heures vont sonner. Mais frappons a sa porte. 
+PETIT-JEAN, entr'ouvrant la porte.
+Qui va la ?
+CHICANNEAU.
+Peut-on voir Monsieur ?
+PETIT-JEAN, refermant la porte.
+Non.
+CHICANNEAU.
+Pourrait-on
+Dire un mot a Monsieur son secretaire ?
+PETIT-JEAN.
+Non.
+CHICANNEAU.
+Et Monsieur son portier ?
+PETIT-JEAN.
+C'est moi-meme.
+CHICANNEAU.
+De grace,
+Buvez a ma sante, Monsieur.
+PETIT-JEAN.
+Grand bien vous fasse. 			[180]
+Mais revenez demain.
+CHICANNEAU.
+He ! Rendez donc l'argent.
+Le monde est devenu, sans mentir, bien mechant.
+J'ai vu que les proces ne donnaient point de peine,
+Six ecus en gagnaient une demi-douzaine.
+Mais aujourd'hui, je crois que tout mon bien entier			[185]
+Ne me suffirait pas pour gagner un portier.
+Mais j'apercois venir madame la Comtesse
+De Pimbesche. Elle vient pour affaire qui presse.
+SCENE VII. Chicanneau, La Comtesse.
+CHICANNEAU.
+Madame, on n'entre plus.
+LA COMTESSE.
+He bien, l'ai-je pas dit.
+Sans mentir, mes valets me font perdre l'esprit. 			[190]
+Pour les faire lever, c'est en vain que je gronde,
+Il faut que tous les jours j'eveille tout mon monde.
+CHICANNEAU.
+Il faut absolument qu'il se fasse celer.
+LA COMTESSE.
+Pour moi, depuis deux jours, je ne lui puis parler.
+CHICANNEAU.
+Ma partie est puissante, et j'ai lieu de tout craindre. 			[195]
+LA COMTESSE.
+Apres ce qu'on m'a fait, il ne faut plus se plaindre.
+CHICANNEAU.
+Si pourtant j'ai bon droit.
+LA COMTESSE.
+Ah, Monsieur, quel arret !
+CHICANNEAU.
+Je m'en rapporte a vous. Ecoutez, s'il vous plait.
+LA COMTESSE.
+Il faut que vous sachiez, Monsieur, la perfidie.
+CHICANNEAU.
+Ce n'est rien dans le fond.
+LA COMTESSE.
+Monsieur, que je vous die... 			[200]
+CHICANNEAU.
+Voici le fait. Depuis quinze ou vingt ans en ca,
+Au travers d'un mien pre, certain anon passa,
+S'y vautra, non sans faire un notable dommage
+Dont, je formai ma plainte au juge du village.
+Je fais saisir l'anon. Un expert est nomme. 			[205]
+A deux bottes de foin le degat estime :
+Enfin au bout d'un an sentence par laquelle
+Nous sommes renvoyes hors de cour. J'en appelle.
+Pendant qu'a l'audience on poursuit un arret,
+Remarquez bien ceci, Madame, s'il vous plait, 			[210]
+Notre ami Drolichon, qui n'est pas une bete,
+Obtient pour quelque argent, un arret sur requete,
+Et je gagne ma cause. A cela que fait-on ?
+Mon chicaneur s'oppose a l'execution.
+Autre incident. Tandis qu'au proces on travaille, 			[215]
+Ma partie en mon pre laisse aller sa volaille,
+Ordonne qu'il sera fait rapport a la Cour
+Du foin que peut manger une poule en un jour.
+Le tout joint au proces enfin, et toute chose
+Demeurant en etat, on appointe la cause. 			[220]
+Le cinquieme ou sixieme avril cinquante-six,
+J'ecris sur nouveaux frais. Je produis, je fournis
+De dits, de contredits, enquetes, compulsoires,
+Rapports d'experts, transports, trois interlocutoires,
+Griefs et faits nouveaux, baux, et proces verbaux. 			[225]
+J'obtiens lettres royaux, et je m'inscris en faux.
+Quatorze appointements, trente exploits, six instances,
+Six-vingt productions, vingt arrets de defenses,
+Arret enfin. Je perds ma cause avec depens,
+Estimes environ cinq a six mille francs. 			[230]
+Est-ce la faire droit ? Est-ce la comme on juge ?
+Apres quinze ou vingt ans ? Il me reste un refuge,
+La requete civile est ouverte pour moi,
+Je ne suis pas rendu. Mais vous, comme je vois,
+Vous plaidez.
+LA COMTESSE.
+Plut a Dieu.			[235]
+CHICANNEAU.
+J'y brulerai mes livres. 			[235]
+LA COMTESSE.
+Je...
+CHICANNEAU.
+Deux bottes de foin cinq a six mille livres !
+LA COMTESSE.
+Monsieur, tous mes proces allaient etre finis.
+Il ne m'en restait plus que quatre ou cinq petits.
+L'un contre mon mari, l'autre contre mon pere,
+Et contre mes enfants. Ah, Monsieur, la misere ! 			[240]
+Je ne sais quel biais ils ont imagine,
+Ni tout ce qu'ils ont fait. Mais on leur a donne
+Un arret, par lequel moi vetue et nourrie,
+On me defend, Monsieur, de plaider de ma vie.
+CHICANNEAU.
+De plaider !
+LA COMTESSE.
+De plaider.			[245]
+CHICANNEAU.
+Certes, le trait est noir, 			[245]
+J'en suis surpris.
+LA COMTESSE.
+Monsieur, j'en suis au desespoir.
+CHICANNEAU.
+Comment ! Lier les mains aux gens de votre sorte ?
+Mais cette pension, Madame, est-elle forte ?
+LA COMTESSE.
+Je n'en vivrais, Monsieur, que trop honnetement.
+Mais vivre sans plaider, est-ce contentement ? 			[250]
+CHICANNEAU.
+Des chicaneurs viendront nous manger jusqu'a l'ame,
+Et nous ne dirons mot ? Mais s'il vous plait, Madame,
+Depuis quand plaidez-vous ?
+LA COMTESSE.
+Il ne m'en souvient pas,
+Depuis trente ans au plus.
+CHICANNEAU.
+Ce n'est pas trop.
+LA COMTESSE.
+Helas !
+CHICANNEAU.
+Et quel age avez-vous ? Vous avez bon visage. 			[255]
+LA COMTESSE.
+He, quelque soixante ans.
+CHICANNEAU.
+Comment ! C'est le bel age
+Pour plaider.
+LA COMTESSE.
+Laissez faire, ils ne sont pas au bout.
+J'y vendrai ma chemise, et je veux rien, ou tout.
+CHICANNEAU.
+Madame, ecoutez-moi. Voici ce qu'il faut faire.
+LA COMTESSE.
+Oui Monsieur, je vous crois comme mon propre pere. 			[260]
+CHICANNEAU.
+J'irais trouver mon juge.
+LA COMTESSE.
+Oh, oui, Monsieur, j'irai.
+CHICANNEAU.
+Me jeter a ses pieds.
+LA COMTESSE.
+Oui, je m'y jetterai.
+Je l'ai bien resolu.
+CHICANNEAU.
+Mais daignez donc m'entendre.
+LA COMTESSE.
+Oui, vous prenez la chose, ainsi qu'il la faut prendre.
+CHICANNEAU.
+Avez-vous dit, Madame ?
+LA COMTESSE.
+Oui, Monsieur.			[265]
+CHICANNEAU.
+J'irais donc			[265]
+Trouver mon juge.
+LA COMTESSE.
+Helas, que ce Monsieur est bon !
+CHICANNEAU.
+Si vous parlez toujours, il faut que je me taise.
+LA COMTESSE.
+Ah que vous m'obligez ! je ne me sens pas d'aise.
+CHICANNEAU.
+J'irais trouver mon juge, et lui dirais...
+LA COMTESSE.
+Oui.
+CHICANNEAU.
+Vois.
+Et lui dirais, Monsieur...
+LA COMTESSE.
+Oui, Monsieur.			[270]
+CHICANNEAU.
+Liez-moi... 			[270]
+LA COMTESSE.
+Monsieur, je ne veux point etre liee.
+CHICANNEAU.
+A l'autre !
+LA COMTESSE.
+Je ne la serai point.
+CHICANNEAU.
+Quelle humeur est la votre !
+LA COMTESSE.
+Non.
+CHICANNEAU.
+Vous ne savez pas, Madame, ou je viendrai.
+LA COMTESSE.
+Je plaiderai, Monsieur, ou bien je ne pourrai.
+CHICANNEAU.
+Mais...
+LA COMTESSE.
+Mais je ne veux point, Monsieur que l'on me lie. 			[275]
+CHICANNEAU.
+Enfin quand une femme en tete a sa folie...
+LA COMTESSE.
+Fou, vous-meme.
+CHICANNEAU.
+Madame !
+LA COMTESSE.
+Et pourquoi me lier ?
+CHICANNEAU.
+Madame...
+LA COMTESSE.
+Voyez-vous, il se rend familier.
+CHICANNEAU.
+Mais, Madame...
+LA COMTESSE.
+Un crasseux qui n'a que sa chicane,
+Veut donner des avis.
+CHICANNEAU.
+Madame !			[280]
+LA COMTESSE.
+Avec son ane ! 			[280]
+CHICANNEAU.
+Vous me poussez.
+LA COMTESSE.
+Bonhomme, allez garder vos foins.
+CHICANNEAU.
+Vous m'excedez.
+LA COMTESSE.
+Le sot !
+CHICANNEAU.
+Que n'ai-je des temoins !
+SCENE VIII. Petit-Jean, La Comtesse, Chicanneau.
+PETIT-JEAN.
+Voyez le beau sabbat qu'ils font a notre porte.
+Messieurs, allez plus loin tempeter de la sorte.
+CHICANNEAU.
+Monsieur, soyez temoin...
+LA COMTESSE.
+Que monsieur est un sot. 			[285]
+CHICANNEAU.
+Monsieur, vous l'entendez, retenez bien ce mot.
+PETIT-JEAN.
+Ah, vous ne deviez pas lacher cette parole.
+LA COMTESSE.
+Vraiment c'est bien a lui de me traiter de folle.
+PETIT-JEAN.
+Folle ? Vous avez tort. Pourquoi l'injurier ?
+CHICANNEAU.
+On la conseille.
+PETIT-JEAN.
+Oh.			[290]
+LA COMTESSE.
+Oui, de me faire lier. 			[290]
+PETIT-JEAN.
+Oh, Monsieur.
+CHICANNEAU.
+Jusqu'au bout que ne m'ecoute-t-elle ?
+PETIT-JEAN.
+Oh, Madame.
+LA COMTESSE.
+Qui moi, souffrir qu'on me querelle ?
+CHICANNEAU.
+Une crieuse !
+PETIT-JEAN.
+He paix.
+LA COMTESSE.
+Un chicaneur.
+PETIT-JEAN.
+Hola !
+CHICANNEAU.
+Qui n'ose plus plaider !
+LA COMTESSE.
+Que t'importe cela ?
+Qu'est-ce qui t'en revient, faussaire abominable ? 			[295]
+Brouillon, voleur.
+CHICANNEAU.
+Et bon, et bon, de par le diable,
+Un sergent, un sergent !
+LA COMTESSE.
+Un huissier, un huissier !
+PETIT-JEAN.
+Ma foi, juge, et plaideurs, il faudrait tout lier.
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Leandre, L'Intime.
+L'INTIME.
+Monsieur encore un coup, je ne puis pas tout faire,
+Puisque je fais l'huissier, faites le commissaire,			[300]
+En robe sur mes pas il ne faut que venir,
+Vous aurez tout moyen de vous entretenir.
+Changez en cheveux noirs votre perruque blonde.
+Ces plaideurs songent-ils que vous soyez au monde ?
+He ! Lorsqu'a votre pere ils vont faire leur cour,			[305]
+A peine seulement savez-vous s'il est jour.
+Mais n'admirez-vous pas cette bonne Comtesse
+Qu'avec tant de bonheur la fortune m'adresse,
+Qui des qu'elle me voit donnant dans le panneau,
+Me charge d'un exploit pour Monsieur Chicanneau, 			[310]
+Et le fait assigner pour certaine parole,
+Disant qu'il la voudrait faire passer pour folle,
+Je dis folle a lier, et pour d'autres exces
+Et blasphemes, toujours l'ornement des proces ?
+Mais vous ne dites rien de tout mon equipage ? 			[315]
+Ai-je bien d'un sergent le port et le visage ?
+LEANDRE.
+Ah fort bien.
+L'INTIME.
+Je ne sais. Mais je me sens enfin
+L'ame et le dos six fois plus durs que ce matin.
+Quoi qu'il en soit, voici l'exploit, et votre lettre.
+Isabelle l'aura, j'ose vous le promettre. 			[320]
+Mais pour faire signer le contrat que voici,
+Il faut que sur mes pas vous vous rendiez ici.
+Vous feindrez d'informer sur toute cette affaire,
+Et vous ferez l'amour en presence du pere.
+LEANDRE.
+Mais ne va pas donner l'exploit pour le billet. 			[325]
+L'INTIME.
+Le pere aura l'exploit, la fille le poulet.
+Rentrez.
+SCENE II. L'Intime, Isabelle.
+ISABELLE.
+Qui frappe ?
+L'INTIME.
+Ami. C'est la voix d'Isabelle.
+ISABELLE.
+Demandez-vous quelqu'un, Monsieur ?
+L'INTIME.
+Mademoiselle,
+C'est un petit exploit, que j'ose vous prier
+De m'accorder l'honneur de vous signifier. 			[330]
+ISABELLE.
+Monsieur, excusez-moi, je n'y puis rien comprendre.
+Mon pere va venir, qui pourra vous entendre.
+L'INTIME.
+Il n'est donc pas ici, Mademoiselle ?
+ISABELLE.
+Non.
+L'INTIME.
+L'exploit, Mademoiselle, est mis sous votre nom.
+ISABELLE.
+Monsieur, vous me prenez pour une autre sans doute ;			[335]
+Sans avoir de proces, je sais ce qu'il en coute ;
+Et si l'on n'aimait pas a plaider plus que moi,
+Vos pareils pourraient bien chercher un autre emploi.
+Adieu.
+L'INTIME.
+Mais permettez...
+ISABELLE.
+Je ne veux rien permettre.
+L'INTIME.
+Ce n'est pas un exploit.
+ISABELLE.
+Chanson.			[340]
+L'INTIME.
+C'est une lettre. 			[340]
+ISABELLE.
+Encor moins.
+L'INTIME.
+Mais lisez.
+ISABELLE.
+Vous ne m'y tenez pas.
+L'INTIME.
+C'est de Monsieur...
+ISABELLE.
+Adieu.
+L'INTIME.
+Leandre.
+ISABELLE.
+Parlez bas.
+C'est de Monsieur ?
+L'INTIME.
+Que diable, on a bien de la peine
+A se faire ecouter, je suis tout hors d'haleine.
+ISABELLE.
+Ah, l'Intime, pardonne a mes sens etonnes. 			[345]
+Donne.
+L'INTIME.
+Vous me deviez fermer la porte au nez.
+ISABELLE.
+Et qui t'aurait connu deguise de la sorte ?
+Mais donne.
+L'INTIME.
+Aux gens de bien ouvre-t-on votre porte ?
+ISABELLE.
+He, donne donc !
+L'INTIME.
+La peste...
+ISABELLE.
+Oh, ne donnez donc pas.
+Avec votre billet, retournez sur vos pas. 			[350]
+L'INTIME.
+Tenez. Une autre fois ne soyez pas si prompte. 
+SCENE III. Chicanneau, Isabelle, L'Intime.
+CHICANNEAU.
+Oui ? Je suis donc un sot, un voleur, a son compte ?
+Un sergent s'est charge de la remercier,
+Et je lui vais servir un plat de mon metier.
+Je serais bien fache que ce fut a refaire, 			[355]
+Ni qu'elle m'envoyat assigner la premiere.
+Mais un homme ici parle a ma fille. Comment ?
+Elle lit un billet ? Ah, c'est de quelque amant !
+Approchons.
+ISABELLE.
+Tout de bon, ton maitre est-il sincere ?
+Le croirai-je ?
+L'INTIME.
+Il ne dort non plus que votre pere, 			[360]
+Il se tourmente. Il vous...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)fera voir aujourd'hui
+Que l'on ne gagne rien a plaider contre lui.
+ISABELLE.
+C'est mon pere. Vraiment, vous leur pouvez apprendre,
+Que si l'on nous poursuit, nous saurons nous defendre.
+Tenez, voila le cas qu'on fait de votre exploit. 			[365]
+CHICANNEAU.
+Comment ! C'est un exploit que ma fille lisait ?
+Ah, tu seras un jour l'honneur de ta famille.
+Tu defendras ton bien. Viens, mon sang, viens, ma fille.
+Va, je t'acheterai "Le Praticien Francais".
+Mais, diantre, il ne faut pas dechirer les exploits. 			[370]
+ISABELLE.
+Au moins dites-leur bien que je ne les crains guere,
+Ils me feront plaisir, je les mets a pis faire.
+CHICANNEAU.
+He ! Ne te fache point.
+ISABELLE.
+Adieu, Monsieur.
+SCENE IV. Chicanneau, L'Intime.
+L'INTIME.
+Or ca,
+Verbalisons.
+CHICANNEAU.
+Monsieur, de grace, excusez-la.
+Elle n'est pas instruite. Et puis, si bon vous semble, 			[375]
+En voici les morceaux que je vais mettre ensemble.
+L'INTIME.
+Non.
+CHICANNEAU.
+Je le lirai bien.
+L'INTIME.
+Je ne suis pas mechant,
+J'en ai sur moi copie.
+CHICANNEAU.
+Ah ! Le trait est touchant.
+Mais je ne sais pourquoi, plus je vous envisage,
+Et moins je me remets, Monsieur, votre visage. 			[380]
+Je connais force huissiers.
+L'INTIME.
+Informez-vous de moi,
+Je m'acquitte assez bien de mon petit emploi.
+CHICANNEAU.
+Soit. Pour qui venez-vous ?
+L'INTIME.
+Pour une brave dame,
+Monsieur, qui vous honore, et de toute son ame
+Voudrait que vous vinssiez a ma sommation			[385]
+Lui faire un petit mot de reparation.
+CHICANNEAU.
+De reparation ? Je n'ai blesse personne.
+L'INTIME.
+Je le crois, vous avez, Monsieur, l'ame trop bonne.
+CHICANNEAU.
+Que demandez-vous donc ?
+L'INTIME.
+Elle voudrait, Monsieur,
+Que devant des temoins vous lui fissiez l'honneur			[390]
+De l'avouer pour sage, et point extravagante.
+CHICANNEAU.
+Parbleu, c'est ma Comtesse.
+L'INTIME.
+Elle est votre servante.
+CHICANNEAU.
+Je suis son serviteur.
+L'INTIME.
+Vous etes obligeant,
+Monsieur.
+CHICANNEAU.
+Oui, vous pouvez l'assurer qu'un sergent
+Lui doit porter pour moi tout ce qu'elle demande. 			[395]
+He quoi donc ? Les battus, ma foi, paieront l'amende.
+Voyons ce qu'elle chante. Hon... « Sixieme janvier.
+Pour avoir faussement dit, qu'il fallait lier,
+Etant a ce porte par esprit de chicane,
+Haute et puissante dame Yolande Cudasne,			[400]
+Comtesse de Pimbesche, Orbesche, et caetera.
+Il soit dit que sur l'heure il se transportera
+Au logis de la dame, et la d'une voix claire,
+Devant quatre temoins assistes d'un notaire, »
+Zeste ! « ledit Hierome avouera hautement			[405]
+Qu'il la tient pour sensee, et de bon jugement.
+Le Bon. » C'est donc le nom de votre Seigneurie ?
+L'INTIME.
+Pour vous servir. Il faut payer d'effronterie.
+CHICANNEAU.
+Le Bon ? Jamais exploit ne fut signe le Bon.
+Monsieur le Bon.
+L'INTIME.
+Monsieur.			[410]
+CHICANNEAU.
+Vous etes un fripon. 			[410]
+L'INTIME.
+Monsieur, pardonnez-moi, je suis fort honnete homme.
+CHICANNEAU.
+Mais fripon le plus franc qui soit de Caen a Rome.
+L'INTIME.
+Monsieur, je ne suis pas pour vous desavouer.
+Vous aurez la bonte de me le bien payer.
+CHICANNEAU.
+Moi payer ? En soufflets.
+L'INTIME.
+Vous etes trop honnete. 			[415]
+Vous me le paierez bien.
+CHICANNEAU.
+Oh, tu me romps la tete,
+Tiens, voila ton paiement.
+L'INTIME.
+Un soufflet ! Ecrivons.
+« Lequel Hierome apres plusieurs rebellions,
+Aurait atteint, frappe moi sergent, a la joue,
+Et fait tomber d'un coup, mon chapeau dans la boue. »			[420]
+CHICANNEAU.
+Ajoute cela.
+L'INTIME.
+Bon, c'est de l'argent comptant,
+J'en avais bien besoin. « Et de ce non content,
+Aurait avec le pied reitere. » Courage .
+« Outre plus, le susdit serait venu de rage,
+Pour lacerer ledit present proces-verbal. »			[425]
+Allons, mon cher Monsieur, cela ne va pas mal.
+Ne vous relachez point.
+CHICANNEAU.
+Coquin.
+L'INTIME.
+Ne vous deplaise,
+Quelques coups de baton, et je suis a mon aise.
+CHICANNEAU.
+Oui-da. Je verrai bien s'il est sergent.
+L'INTIME, en posture d'ecrire.
+Tot donc,
+Frappez. J'ai quatre enfants a nourrir.
+CHICANNEAU.
+Ah, pardon.			[430]
+Monsieur, pour un sergent je ne pouvais vous prendre,
+Mais le plus habile homme enfin peut se meprendre.
+Je saurai reparer ce soupcon outrageant.
+Oui, vous etes sergent, Monsieur, et tres sergent.
+Touchez la. Vos pareils sont gens que je revere, 			[435]
+Et j'ai toujours ete nourri par feu mon pere,
+Dans le crainte de Dieu, Monsieur, et des sergents.
+L'INTIME.
+Non, a si bon marche l'on ne bat point les gens.
+CHICANNEAU.
+Monsieur, point de proces !
+L'INTIME.
+Serviteur. Contumace,
+Baton leve, soufflet, coup de pied. Ah !
+CHICANNEAU.
+De grace, 			[440]
+Rendez-les moi plutot.
+L'INTIME.
+Suffit qu'ils soient recus,
+Je ne les voudrais pas donner pour mille ecus.
+SCENE V. Leandre, Chicanneau, L'Intime.
+L'INTIME.
+Voici fort a propos Monsieur le Commissaire.
+Monsieur, votre presence est ici necessaire.
+Tel que vous me voyez, Monsieur ici present			[445]
+M'a d'un fort grand soufflet fait un petit present.
+LEANDRE.
+A vous, Monsieur ?
+L'INTIME.
+A moi, parlant a ma personne.
+« Item », un coup de pied ; plus, les noms qu'il me donne.
+LEANDRE.
+Avez-vous des temoins ?
+L'INTIME.
+Monsieur, tatez plutot,
+Le soufflet sur ma joue est encore tout chaud. 			[450]
+LEANDRE.
+Pris en flagrant delit. Affaire criminelle.
+CHICANNEAU.
+Foin de moi !
+L'INTIME.
+Plus, sa fille, au moins soi-disant telle,
+A mis un mien papier en morceaux, protestant
+Qu'on lui ferait plaisir, et que d'un oeil content,
+Elle nous defiait.
+LEANDRE.
+Faites venir la fille.			[455]
+L'esprit de contumace est dans cette famille.
+CHICANNEAU.
+Il faut absolument qu'on m'ait ensorcele.
+Si j'en connais pas un, je veux etre etrangle.
+LEANDRE.
+Comment, battre un huissier ? Mais voici la rebelle.
+SCENE VI. Leandre, Isabelle, Chicanneau, L'Intime.
+L'INTIME, a Isabelle.
+Vous le reconnaissez.
+LEANDRE.
+He bien, Mademoiselle, 			[460]
+C'est donc vous qui tantot braviez notre officier,
+Et qui si hautement osez nous defier ?
+Votre nom ?
+ISABELLE.
+Isabelle.
+LEANDRE, a l'Intime.
+Ecrivez. Et votre age ?
+ISABELLE.
+Dix-huit ans.
+CHICANNEAU.
+Elle en a quelque peu davantage,
+Mais n'importe.
+LEANDRE.
+Etes-vous en pouvoir de mari ? 			[465]
+ISABELLE.
+Non, Monsieur.
+LEANDRE.
+Vous riez ? Ecrivez qu'elle a ri.
+CHICANNEAU.
+Monsieur, ne parlons point de maris a des filles ;
+Voyez-vous, ce sont la des secrets de familles.
+LEANDRE.
+Mettez qu'il interrompt.
+CHICANNEAU.
+He je n'y pensais pas,
+Prends bien garde, ma fille, a ce que tu diras. 			[470]
+LEANDRE.
+La, ne vous troublez point. Repondez a votre aise,
+On ne veut pas rien faire ici qui vous deplaise.
+N'avez-vous pas recu de l'huissier que voila
+Certain papier tantot ?
+ISABELLE.
+Oui, Monsieur.
+CHICANNEAU.
+Bon cela.
+LEANDRE.
+Avez-vous dechire ce papier sans le lire ? 			[475]
+ISABELLE.
+Monsieur, je l'ai lu.
+CHICANNEAU.
+Bon.
+LEANDRE.
+Continuez d'ecrire.
+Et pourquoi l'avez-vous dechire ?
+ISABELLE.
+J'avais peur
+Que mon pere ne prit l'affaire trop a coeur,
+Et qu'il ne s'echauffat le sang a sa lecture.
+CHICANNEAU.
+Et tu fuis les proces ? C'est mechancete pure. 			[480]
+LEANDRE.
+Vous ne l'avez donc pas dechire par depit,
+Ou par mepris de ceux qui vous l'avaient ecrit ?
+ISABELLE.
+Monsieur, je n'ai pour eux ni mepris, ni colere.
+LEANDRE.
+Ecrivez.
+CHICANNEAU.
+Je vous dis qu'elle tient de son pere
+Elle repond fort bien.
+LEANDRE.
+Vous montrez cependant			[485]
+Pour tous les gens de robe un mepris evident.
+ISABELLE.
+Une robe toujours m'avait choque la vue ;
+Mais cette aversion a present diminue.
+CHICANNEAU.
+La pauvre enfant ! Va, va, je te marierai bien,
+Des que je le pourrai, s'il ne m'en coute rien. 			[490]
+LEANDRE.
+A la justice donc vous voulez satisfaire ?
+ISABELLE.
+Monsieur, je ferai tout, pour ne vous pas deplaire.
+L'INTIME.
+Monsieur, faites signer.
+LEANDRE.
+Dans les occasions
+Soutiendrez-vous aux moins vos depositions ?
+ISABELLE.
+Monsieur, assurez-vous qu'Isabelle est constante. 			[495]
+LEANDRE.
+Signez. Cela va bien, la justice est contente.
+Ca, ne signez-vous pas, Monsieur ?
+CHICANNEAU.
+Oui-da, gaiement,
+A tout ce qu'elle a dit, je signe aveuglement.
+LEANDRE, a Isabelle.
+Tout va bien. A mes voeux le succes est conforme,
+Il signe un bon contrat ecrit en bonne forme, 			[500]
+Et sera condamne tantot sur son ecrit.
+CHICANNEAU.
+Que lui dit-il ? Il est charme de son esprit.
+LEANDRE.
+Adieu. Soyez toujours aussi sage que belle,
+Tout ira bien. Huissier, ramenez-la chez elle.
+Et vous, Monsieur, marchez.
+CHICANNEAU.
+Ou Monsieur ?			[505]
+LEANDRE.
+Suivez-moi. 			[505]
+CHICANNEAU.
+Ou donc ?
+LEANDRE.
+Vous le saurez. Marchez, de par le roi.
+CHICANNEAU.
+Comment ?
+SCENE VII. Petit-Jean, Leandre, Chicanneau.
+PETIT-JEAN.
+Hola, quelqu'un n'a-t-il point vu mon maitre ?
+Quel chemin a-t-il pris, la porte ou la fenetre ?
+LEANDRE.
+A l'autre !
+PETIT-JEAN.
+Je ne sais qu'est devenu son fils.
+Et pour le pere, il est ou le diable l'a mis. 			[510]
+Il me redemandait sans cesse ses epices,
+Et j'ai tout bonnement couru dans les offices
+Chercher la boite au poivre. Et lui pendant cela
+Est disparu.
+SCENE VIII. Dandin, Leandre, Chicanneau, L'Intime, Petit-Jean.
+DANDIN.
+Paix, paix, que l'on se taise la.
+LEANDRE.
+He grand Dieu.
+PETIT-JEAN.
+Le voila, ma foi, dans les gouttieres. 			[515]
+DANDIN.
+Quelles gens etes-vous ? Quelles sont vos affaires ?
+Qui sont ces gens en robe ? Etes-vous avocats ?
+Ca, parlez.
+PETIT-JEAN.
+Vous verrez qu'il va juger les chats.
+DANDIN.
+Avez-vous eu le soin de voir mon secretaire ?
+Allez-lui demander si je sais votre affaire ?			[520]
+LEANDRE.
+Il faut bien que je l'aille arracher de ces lieux.
+Sur votre prisonnier, huissier, ayez les yeux.
+PETIT-JEAN.
+Ho, ho, Monsieur.
+LEANDRE.
+Tais-toi sur les yeux de ta tete ;
+Et suis-moi.
+SCENE IX. Dandin, Chicanneau, La Comtesse, L'Intime.
+DANDIN.
+Depechez. Donnez votre requete.
+CHICANNEAU.
+Monsieur, sans votre aveu, l'on me fait prisonnier. 			[525]
+LA COMTESSE.
+He mon Dieu, j'apercois Monsieur dans son grenier.
+Que fait-il la ?
+L'INTIME.
+Madame, il y donne audience,
+Le champ vous est ouvert.
+CHICANNEAU.
+On me fait violence,
+Monsieur, on m'injurie, et je venais ici
+Me plaindre a vous.
+LA COMTESSE.
+Monsieur, je viens me plaindre aussi.			[530]
+CHICANNEAU, LA COMTESSE.
+Vous voyez devant vous mon adverse partie.
+L'INTIME.
+Parbleu, je me veux mettre aussi de la partie.
+CHICANNEAU, LA COMTESSE et L'INTIME.
+Monsieur je viens ici pour un petit exploit.
+CHICANNEAU.
+He, Messieurs, tour a tour, exposons notre droit. 
+LA COMTESSE.
+Son droit ? Tout ce qu'il dit sont autant d'impostures. 			[535]
+DANDIN.
+Qu'est-ce qu'on vous a fait ?
+CHICANNEAU, L'INTIME et LA COMTESSE.
+On m'a dit des injures.
+L'INTIME, continuant.
+Outre un soufflet, Monsieur, que j'ai recu plus qu'eux.
+CHICANNEAU.
+Monsieur, je suis cousin de l'un de vos neveux.
+LA COMTESSE.
+Monsieur, pere Cordon vous dira mon affaire. 
+L'INTIME.
+Monsieur, je suis batard de votre apothicaire. 			[540]
+DANDIN.
+Vos qualites ?
+LA COMTESSE.
+Je suis Comtesse.
+L'INTIME.
+Huissier.
+CHICANNEAU.
+Bourgeois.
+Messieurs...
+DANDIN.
+Parlez toujours, je vous entends tous trois.
+CHICANNEAU.
+Monsieur...
+L'INTIME.
+Bon, le voila qui fausse compagnie.
+LA COMTESSE.
+Helas !
+CHICANNEAU.
+He quoi ! Deja l'audience est finie ;
+Je n'ai pas eu le temps de lui dire deux mots.			[545]
+SCENE X. Chicanneau, Leandre sans robe, etc.
+LEANDRE.
+Messieurs voulez-vous bien nous laisser en repos ?
+CHICANNEAU.
+Monsieur, peut-on entrer ?
+LEANDRE.
+Non, Monsieur, ou je meure.
+CHICANNEAU.
+He pourquoi ? J'aurai fait en une petite heure,
+En deux heures, au plus.
+LEANDRE.
+On n'entre point, Monsieur. 
+LA COMTESSE.
+C'est bien fait, de fermer la porte a ce crieur. 			[550]
+Mais moi...
+LEANDRE.
+L'on n'entre point, Madame, je vous jure.
+LA COMTESSE.
+Ho, Monsieur, j'entrerai.
+LEANDRE.
+Peut-etre.
+LA COMTESSE.
+J'en suis sure.
+LEANDRE.
+Par la fenetre donc.
+LA COMTESSE.
+Par la porte.
+LEANDRE.
+Il faut voir.
+CHICANNEAU.
+Quand je devrais ici demeurer jusqu'au soir. 
+SCENE XI. Petit-Jean, Leandre, Chicanneau, etc.
+PETIT-JEAN, a Leandre.
+On ne l'entendra pas, quelque chose qu'il fasse.			[555]
+Parbleu, je l'ai fourre dans notre salle basse,
+Tout aupres de la cave.
+LEANDRE.
+En un mot, comme en cent,
+On ne voit point mon pere.
+CHICANNEAU.
+He bien donc. Si pourtant
+Sur toute cette affaire il faut que je le voie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais que vois-je ? Ah, c'est lui que le ciel nous renvoie.			[560]
+LEANDRE.
+Quoi par le soupirail ?
+PETIT-JEAN.
+Il a le diable au corps.
+CHICANNEAU.
+Monsieur...
+DANDIN.
+L'impertinent, sans lui j'etais dehors.
+CHICANNEAU.
+Monsieur...
+DANDIN.
+Retirez-vous, vous etes une bete.
+CHICANNEAU.
+Monsieur, voulez-vous bien...
+DANDIN.
+Vous me rompez la tete.
+CHICANNEAU.
+Monsieur, j'ai commande...
+DANDIN.
+Taisez-vous, vous dit-on.			[565]
+CHICANNEAU.
+Que l'on portat chez vous...
+DANDIN.
+Qu'on le mene en prison.
+CHICANNEAU.
+Certain quartaut de vin.
+DANDIN.
+He je n'en ai que faire.
+CHICANNEAU.
+C'est de tres bon muscat.
+DANDIN.
+Redites votre affaire.
+LEANDRE, a l'Intime.
+Il faut les entourer ici de tous cotes.
+LA COMTESSE.
+Monsieur, il vous va dire autant de faussetes. 			[570]
+CHICANNEAU.
+Monsieur, je vous dis vrai.
+DANDIN.
+Mon Dieu, laissez-la dire.
+LA COMTESSE.
+Monsieur, ecoutez-moi.
+DANDIN.
+Souffrez que je respire.
+CHICANNEAU.
+Monsieur...
+DANDIN.
+Vous m'etranglez.
+LA COMTESSE.
+Tournez les yeux vers moi.
+DANDIN.
+Elle m'etrangle. Ay. ay.
+CHICANNEAU.
+Vous m'entrainez, ma foi.
+Prenez garde, je tombe.
+PETIT-JEAN.
+Ils sont sur ma parole,			[575]
+L'un et l'autre encaves.
+LEANDRE.
+Vite, que l'on y vole,
+Courez a leur secours. Mais au moins je pretends
+Que Monsieur Chicanneau, puisqu'il est la-dedans,
+N'en sorte d'aujourd'hui. L'Intime, prends-y garde.
+L'INTIME.
+Gardez le soupirail.
+LEANDRE.
+Va vite, je le garde.			[580]
+SCENE XII. La Comtesse, Leandre.
+LA COMTESSE.
+Miserable ! Il s'en va lui prevenir l'esprit.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, ne croyez rien de tout ce qu'il vous dit.
+Il n'a point de temoins. C'est un menteur.
+LEANDRE.
+Madame,
+Que leur contez-vous la ? Peut-etre ils rendent l'ame.
+LA COMTESSE.
+Il lui fera, Monsieur, croire ce qu'il voudra. 			[585]
+Souffrez que j'entre.
+LEANDRE.
+Oh non, personne n'entrera.
+LA COMTESSE.
+Je le vois bien, Monsieur, le vin muscat opere
+Aussi bien sur le fils que sur l'esprit du pere.
+Patience. Je vais protester comme il faut,
+Contre Monsieur le juge, et contre le quartaut. 			[590]
+LEANDRE.
+Allez donc, et cessez de nous rompre la tete.
+Que de fous ! Je ne fus jamais a telle fete.
+SCENE XIII. Dandin, L'Intime, Leandre.
+L'INTIME.
+Monsieur, ou courez-vous ? C'est vous mettre en danger,
+Et vous boitez tout bas.
+DANDIN.
+Je veux aller juger.
+LEANDRE.
+Comment, mon pere, allons, permettez qu'on vous panse. 			[595]
+Vite, un chirurgien.
+DANDIN.
+Qu'il vienne a l'audience.
+LEANDRE.
+He, mon pere, arretez...
+DANDIN.
+Ho ! Je vois ce que c'est,
+Tu pretends faire ici de moi ce qui te plait.
+Tu ne gardes pour moi respect ni complaisance.
+Je ne puis prononcer une seule sentence. 			[600]
+Acheve, prends ce sac, prends vite.
+LEANDRE.
+He doucement,
+Mon pere. Il faut trouver quelque accommodement.
+Si pour vous, sans juger, la vie est un supplice,
+Si vous etes presse de rendre la justice,
+Il ne faut point sortir pour cela de chez vous, 			[605]
+Exercez le talent, et jugez parmi nous.
+DANDIN.
+Ne raillons point ici de la magistrature.
+Vois-tu. Je ne veux point etre un juge en peinture.
+LEANDRE.
+Vous serez, au contraire un juge sans appel,
+Et juge du civil comme du criminel. 			[610]
+Vous pourrez tous les jours tenir deux audiences,
+Tout vous sera chez vous matiere de sentences.
+Un valet manque-t-il de rendre un verre net ?
+Condamnez-le a l'amende, ou s'il le casse, au fouet.
+DANDIN.
+C'est quelque chose. Encor passe quand on raisonne. 			[615]
+Et mes vacations, qui les paiera ? Personne.
+LEANDRE.
+Leurs gages vous tiendront lieu de nantissement.
+DANDIN.
+Il parle, ce me semble, assez pertinemment.
+LEANDRE.
+Contre un de vos voisins...
+SCENE XIV. Dandin, Leandre, L'Intime, Petit-Jean.
+PETIT-JEAN.
+Arrete, arrete, attrape.
+LEANDRE.
+Ah, C'est mon prisonnier sans doute qui s'echappe. 			[620]
+L'INTIME.
+Non, non, ne craignez rien.
+PETIT-JEAN.
+Tout est perdu... Citron...
+Votre chien... vient la-bas de manger un chapon,
+Rien n'est sur devant lui. Ce qu'il trouve, il l'emporte.
+LEANDRE.
+Bon, voila pour mon pere une cause. Main forte.
+Qu'on se mette apres lui. Courez tous. 
+DANDIN.
+Point de bruit, 			[625]
+Tout doux. Un amene sans scandale suffit.
+LEANDRE.
+Ca, mon pere, il faut faire un exemple authentique.
+Jugez severement ce voleur domestique.
+DANDIN.
+Mais je veux faire au moins la chose avec eclat ;
+Il faut de part et d'autre avoir un avocat.			[630]
+Nous n'en avons pas un.
+LEANDRE.
+He bien, il en faut faire,
+Voila votre portier, et votre secretaire,
+Vous en ferez, je crois, d'excellents avocats,
+Ils sont fort ignorants.
+L'INTIME.
+Non pas, Monsieur, non pas.
+J'endormirai Monsieur tout aussi bien qu'un autre.			[635]
+PETIT-JEAN.
+Pour moi, je ne sais rien, n'attendez rien du notre.
+LEANDRE.
+C'est ta premiere cause, et l'on te la fera.
+PETIT-JEAN.
+Mais je ne sais pas lire.
+LEANDRE.
+He l'on te soufflera.
+PETIT-JEAN.
+Je vous entends. Oui, mais d'une premiere cause,
+Monsieur, a l'avocat revient-il quelque chose ?			[640]
+LEANDRE.
+Ah fi. Garde toi bien d'en vouloir rien toucher.
+C'est la cause d'honneur, on l'achete bien cher,
+On ferme des billets par toute le famille ;
+Et le petit garcon, et la petite fille,
+Oncle, tante, cousins, tout vient, jusqu'au chat			[645]
+Dormir au plaidoyer de Monsieur l'avocat.
+DANDIN.
+Allons nous preparer. Ca, Messieurs point d'intrigue.
+Fermons l'oeil aux presents, et l'oreille a la brigue. 
+Vous, Maitre Petit-Jean, serez le demandeur.
+Vous, Maitre l'Intime, soyez le defendeur.			[650]
+
+
+			ACTE III
+
+
+SCENE PREMIERE. Chicanneau, Leandre, Le Souffleur.
+CHICANNEAU.
+Oui, Monsieur, c'est ainsi qu'il ont conduit l'affaire.
+L'huissier m'est inconnu, comme le commissaire.
+Je ne mens pas d'un mot.
+LEANDRE.
+Oui, je crois tout cela;
+Mais si vous m'en croyez, vous les laisserez la.
+En vain vous pretendez les pousser l'un et l'autre,			[655]
+Vous troublerez bien moins leur repos que le votre.
+Les trois quarts de vos biens sont deja depenses
+A faire enfler des sacs l'un sur l'autre entasses,
+Et dans une poursuite a vous-meme funeste,
+Vous en voulez encore absorber tout le reste.			[660]
+Ne vaudrait-il pas mieux, sans soucis, sans chagrins
+Et de vos revenus regalant vos voisins,
+Vivre en pere jaloux du bine de sa famille,
+Pour en laisser un jour le fonds a votre fille ;
+Que de nourrir un tas d'officiers afames,			[665]
+Qui moissonnent les champs que vous avez semes
+Dont la main toujours pleine, et toujours indigente
+S'engraisse impunement de vos chapons de rente
+Le beau plaisir d'aller tout mourant de sommeil,
+A la porte d'un juge, attendre son reveil,			[670]
+Et d'essuyer le vent qui vous souffle vos oreilles,
+Tandis que Monsieur dort, et cuve vos bouteilles
+Ou bien si vous entres, de passer tout un jour
+A conter, en grondant, les carreaux de la cour !
+He, Monsieur, croyez-moi, quittez cette misere.			[675]
+CHICANNEAU.
+Vraiment, vous me donnez un conseil salutaire,
+Et devant qu'il soit peu, je veux en profiter.
+Mais je vous prie au moins de bien solliciter.
+Puisque Monsieur Dandin va donner audience,
+Je vais faire venir ma fille en diligence.			[680]
+On peut l'interroger, elle est de bonne foi,
+Et meme elle saura mieux repondre que moi.
+LEANDRE.
+Allez et revenez, l'on vous fera justice.
+LE SOUFFLEUR.
+Quel homme !
+SCENE II. Leandre, Le Souffleur.
+LEANDRE.
+Je me sers d'un etrange artifice.
+Mais mon pere est un homme a se desesperer,			[685]
+Et d'une cause en l'air il le faut bien leurrer.
+D'ailleurs j'ai mon dessein, et je veux qu'il condamne
+Ce fou qui reduit tout au pied de la chicane.
+Mais voici tous nos gens qui marchent sur nos pas. 
+SCENE III. Dandin, Leandre, L'Intime, Petit-Jean, Le Souffleur
+DANDIN.
+Ca, qu'etes-vous ici ?
+LEANDRE.
+Ce sont les avocats.			[690]
+DANDIN.
+Vous ?
+LE SOUFFLEUR.
+Je viens secourir leur memoire troublee.
+DANDIN.
+Je vous entends. Et vous ?
+LEANDRE.
+Moi ? Je suis l'assemblee.
+DANDIN.
+Commencez donc.
+LE SOUFFLEUR.
+Messieurs.
+PETIT-JEAN.
+Ho prenez le plus bas,
+Si vous soufflez si haut, l'on ne m'entendra pas. 
+Messieurs...
+DANDIN.
+Couvrez-vous.			[695]
+PETIT-JEAN.
+O ! Mes...			[695]
+DANDIN.
+Couvrez-vous, vous dis-je.			[695]
+PETIT-JEAN.
+Oh, Monsieur ? Je sais bien a quoi l'honneur m'oblige.
+DANDIN.
+Ne te couvre donc pas.
+PETIT-JEAN, se couvrant.
+Messieurs... Vous doucement ;
+Ce que je sais le mieux, c'est mon commencement.
+Messieurs, quand je regarde avec exactitude, 
+L'inconstance du monde, et sa vicissitude ;			[700]
+Lorsque je vois parmi tant d'hommes differents,
+Pas une etoile fixe, et tant d'astres errants ;
+Quand je vois les Cesars, quand je vois leur fortune,
+Quand je vois le soleil, et quand je vois la lune ; 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand je vois les Etats des Babiboniens			[705]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Transferes des Serpans, aux Nacedoniens ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand je vois les Lorrains de l'etat depotique
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Passer au Democrite, et puis au monarchique ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quand je vois le Japon...
+L'INTIME.
+Quand aura-t-il tout vu ? 
+PETIT-JEAN.
+Oh, pourquoi celui-la m'a-t-il interrompu ?			[710]
+Je ne dirai plus rien.
+DANDIN.
+Avocat incommode,
+Que ne lui laissez-vous finir sa periode ?
+Je suais sang et eau pour voir si du Japon
+Il viendrait a bon port au fait de son chapon, 
+Et vous l'interrompez par un discours frivole.			[715]
+Parlez donc, avocat.
+PETIT-JEAN.
+J'ai perdu la parole.
+LEANDRE.
+Acheve, Petit-Jean, c'est fort bien debute.
+Mais que font la tes bras pendants a ton cote ?
+Te voila sur tes pieds droit comme une statue, 
+Degourdis-toi. Courage ; allons, qu'on s'evertue.			[720]
+PETIT-JEAN, remuant les bras.
+Quand... je vois... Quand... je vois...
+LEANDRE.
+Dis donc ce que tu vois.
+PETIT-JEAN.
+Oh dame, on ne court pas deux lievres a la fois.
+LE SOUFFLEUR.
+On lit...
+PETIT-JEAN.
+On lit...
+LE SOUFFLEUR.
+Dans la...
+PETIT-JEAN.
+Dans la...
+LE SOUFFLEUR.
+Metamorphose.
+PETIT-JEAN.
+Comment ?
+LE SOUFFLEUR.
+Que la metem...
+PETIT-JEAN.
+Que la metem...
+LE SOUFFLEUR.
+Psycose. 
+PETIT-JEAN.
+Psycose.
+LE SOUFFLEUR.
+He le cheval !			[725]
+PETIT-JEAN.
+Et le cheval.			[725]
+LE SOUFFLEUR.
+Encor !
+PETIT-JEAN.
+Encor !
+LE SOUFFLEUR.
+Le chien !
+PETIT-JEAN.
+Le chien.
+LE SOUFFLEUR.
+Le butor !
+PETIT-JEAN.
+Le butor.
+LE SOUFFLEUR.
+Peste de l'avocat !
+PETIT-JEAN.
+Ah peste de toi-meme !
+Voyez cet autre avec sa face de careme.
+Va-t'en au diable.
+DANDIN.
+Et vous venez au fait. Un mot			[705]
+Du fait.
+PETIT-JEAN.
+Eh faut-il tant tourner autour du pot ?
+Il me font dire aussi des mots longs d'une toise,
+De grands mots qui tiendraient d'ici jusqu'a Pontoise.
+Pour moi, je ne sais point tant faire de facon,
+Pour dire qu'un matin vient de prendre un chapon. 			[710]
+Tant y a qu'il n'est rien que votre chien ne prenne !
+Qu'il a mange la-bas un bon chapon du Maine ;
+Que la premiere fois que je l'y trouverai,
+Son proces est tout fait, et je l'assommerai.
+LEANDRE.
+Belle conclusion, et digne de l'exorde ! 			[715]
+PETIT-JEAN.
+On l'entend bien toujours. Qui voudra mordre, y morde.
+DANDIN.
+Appelez les temoins.
+LEANDRE.
+C'est bien dit, s'il le peut.
+Les temoins sont fort chers, et n'en a pas qui veut.
+PETIT-JEAN.
+Nous en avons pourtant, et qui sont sans reproche.
+DANDIN.
+Faites-les donc venir.
+PETIT-JEAN.
+Je les ai dans ma poche. 			[720]
+Tenez, voila la tete, et les pieds du chapon.
+Voyez-les, et jugez.
+L'INTIME.
+Je les recuse.
+DANDIN.
+Bon !
+Pourquoi les recuser ?
+L'INTIME.
+Monsieur, ils sont du Maine.
+DANDIN.
+Il est vrai que du Mans il en vient par douzaine.
+L'INTIME.
+Messieurs...
+DANDIN.
+Serez-vous long, avocat ? Dites-moi. 			[725]
+L'INTIME.
+Je ne reponds de rien.
+DANDIN.
+Il est de bonne foi.
+L'INTIME, d'un ton finissant en fausset.
+Messieurs. Tout ce qui peut etonner un coupable,
+Tout ce que les mortels ont de plus redoutable,
+Semble s'etre assemble contre nous par hasard,
+Je veux dire la brigue, et l'eloquence. Car			[730]
+D'un cote le credit du defunt m'epouvante,
+Et de l'autre cote l'eloquence eclatante
+De Maitre Petit-Jean m'eblouit.
+DANDIN.
+Avocat,
+De votre ton vous-memes adoucissez l'eclat.
+L'INTIME.
+Oui-da, j'en ai plusieurs. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que nous doive donner la susdite eloquence,
+Et le susdit credit : ce neanmoins, Messieurs,
+L'ancre de vos bontes nous rassure d'ailleurs.
+Devant le grand Dandin l'innocence est hardie,
+Oui, devant ce Caton de Basse-Normandie, 			[740]
+Ce soleil d'equite qui n'est jamais terni,
+Victrix causa diis placuit, sed victa Catoni.
+DANDIN.
+Vraiment il plaide bien.
+L'INTIME.
+Sans craindre aucune chose,
+Je prends donc la parole, et je viens a ma cause.
+Aristote, primo, peri Politicon... 			[745]
+Dit fort bien...
+DANDIN.
+Avocat, il s'agit d'un chapon,
+Et non point d'Aristote, et de sa Politique.
+L'INTIME.
+Oui, mais l'autorite du Peripatetique
+Prouverait que le bien et le mal...
+DANDIN.
+Je pretends
+Qu'Aristote n'a point d'autorite ceans. 			[750]
+Au fait.
+L'INTIME.
+Pausanias, en ses Corinthiaques...
+DANDIN.
+Au fait.
+L'INTIME.
+Rebuffe...
+DANDIN.
+Au fait ! Vous dis-je.
+L'INTIME.
+Le grand Jacques...
+DANDIN.
+Au fait, au fait, au fait !
+L'INTIME.
+Armen[o] Pul in Prompt...
+DANDIN.
+Ho ! Je te vais juger.
+L'INTIME.
+Ho ! Vous etes si prompt.
+Voici le fait. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Un chien vient dans une cuisine, 			[755]
+Il y trouve un chapon, lequel a bonne mine.
+Or celui pour lequel je parle est affame.
+Celui contre lequel je parle autem plume.
+Et celui pour lequel je suis, prend en cachette
+Celui contre lequel je parle. L'on decrete. 			[760]
+On le prend. Avocat pour et contre appele.
+Jour pris. Je dois parler, je parle, j'ai parle.
+DANDIN.
+Ta, ta, ta, ta. Voila bien instruire une affaire.
+Il dit fort posement ce dont on n'a que faire,
+Et court le grand galop quand il est a son fait. 			[765]
+L'INTIME.
+Mais le premier, Monsieur, c'est le beau.
+DANDIN.
+C'est le laid.
+A-t-on jamais plaide d'une telle methode ?
+Mais qu'en dit l'assemblee ?
+LEANDRE.
+Il est fort a la mode.
+L'INTIME, d'un ton vehement.
+Qu'arrive-t-il, Messieurs ? On vient. Comment vient-on ?
+On poursuit ma partie. On force une maison. 			[770]
+Quelle maison ? Maison de notre propre juge.
+On brise le cellier qui nous sert de refuge.
+De vol, de brigandage, on nous declare auteurs.
+On nous traine, on nous livre a nos accusateurs.
+A Maitre Petit-Jean, Messieurs. Je vous atteste :			[775]
+Qui ne sait que la loi Si quis canis, Digeste,
+De vi, paragrapho, Messieurs, Caponibus,
+Est manifestement contraire a cet abus ?
+Et quand il serait vrai que Citron ma partie
+Aurait mange, Messieurs, le tout, ou bien partie			[780]
+Dudit chapon, qu'on mette en compensation
+Ce que nous avons fait avant cette action.
+Quand ma partie a-t-elle ete reprimandee ?
+Par qui votre maison a-t-elle ete gardee ?
+Quand avons-nous manque d'aboyer au larron ? 			[785]
+Temoin trois procureurs dont icelui Citron
+A dechire la robe. On en verra les pieces.
+Pour nous justifier, voulez-vous d'autres pieces ?
+PETIT-JEAN.
+Maitre Adam...
+L'INTIME.
+Laissez-nous.
+PETIT-JEAN.
+L'Intime...
+L'INTIME.
+Laissez-nous.
+PETIT-JEAN.
+S'enroue.
+L'INTIME.
+He laissez-nous. Euh, Euh.			[790]
+DANDIN.
+Reposez-vous. 			[790]
+Et concluez.
+L'INTIME, d'un ton pesant.
+Puis donc, qu'on nous, permet, de prendre,
+Haleine, et que l'on nous, defend, de nous, etendre,
+Je vais, sans rien omettre, et sans prevariquer,
+Compendieusement enoncer, expliquer,
+Exposer a vos yeux, l'idee universelle			[795]
+De ma cause, et des faits, renfermez, en icelle.
+DANDIN.
+Il aurait plutot fait de dire tout vingt fois,
+Que de l'abreger une. Homme, ou qui que tu sois,
+Diable, conclus, ou bien que le Ciel te confonde.
+L'INTIME.
+Je finis.
+DANDIN.
+Ah !			[800]
+L'INTIME.
+Avant la naissance du monde... 			[800]
+DANDIN, baillant.
+Avocat, ah, Passons au deluge.
+L'INTIME.
+Avant donc, 
+La naissance du monde, et sa creation.
+Le monde, l'univers, tout, la Nature entiere
+Etait ensevelie au fond de la matiere.
+Les elements, le feu, l'air, et la terre, et l'eau, 			[805]
+Enfonces, entasses, ne faisaient qu'un monceau,
+Une confusion, une masse sans forme,
+Un desordre, un chaos, une cohue enorme.
+Unus erat toto naturæ vultus in orbe
+Quem Græci dixere chaos, rudis indigestaque moles...			[810]
+LEANDRE.
+Quelle chute ! Mon pere ?
+PETIT-JEAN.
+Ay, Monsieur ! Comme il dort.
+LEANDRE.
+Mon pere, eveillez-vous.
+PETIT-JEAN.
+Monsieur, etes-vous mort ?
+LEANDRE.
+Mon pere.
+DANDIN.
+He bien, he bien. Quoi ! Qu'est-ce ? Ah ! Ah quel homme !
+Certes, je n'ai jamais dormi d'un si bon somme.
+LEANDRE.
+Mon pere, il faut juger.
+DANDIN.
+Aux galeres.			[815]
+LEANDRE.
+Un chien			[815]
+Aux galeres !
+DANDIN.
+Ma foi, je n'y concois plus rien.
+De monde, de chaos, j'ai la tete troublee.
+He concluez.
+L'INTIME, lui presentant de petits chiens.
+Venez, famille desolee.
+Venez, pauvres enfants, qu'on veut rendre orphelins,
+Venez faire parler vos esprits enfantins. 			[820]
+Oui, Messieurs, vous voyez ici notre misere.
+Nous sommes orphelins. Rendez-nous notre pere,
+Notre pere par qui nous fumes engendres,
+Notre pere qui nous...
+DANDIN.
+Tirez, tirez, tirez.
+L'INTIME.
+Notre pere, Messieurs...
+DANDIN.
+Tirez donc. Quels vacarmes ! 			[825]
+Ils ont pisse partout.
+L'INTIME.
+Monsieur, voyez nos larmes.
+DANDIN.
+Ouf. Je me sens deja pris de compassion.
+Ce que c'est qu'a propos toucher la passion !
+Je suis bien empeche. La verite me presse.
+Le crime est avere, lui-meme il le confesse. 			[830]
+Mais s'il est condamne, l'embarras est egal,
+Voila bien des enfants reduits a l'hopital.
+Mais je suis occupe, je ne veux voir personne.
+SCENE DERNIERE. Chicanneau, Isabelle, etc.
+CHICANNEAU.
+Monsieur...
+DANDIN.
+Oui, pour vous seuls l'audience se donne.
+Adieu. Mais, s'il vous plait, quel est cet enfant-la ? 			[835]
+CHICANNEAU.
+C'est ma fille, Monsieur.
+DANDIN.
+He tot, rappelez-la.
+ISABELLE.
+Vous etes occupe.
+DANDIN.
+Moi ? Je n'ai point d'affaire.
+Que ne me disiez-vous que vous etiez son pere ?
+CHICANNEAU.
+Monsieur...
+DANDIN.
+Elle sait mieux votre affaire que vous.
+Dites. Qu'elle est jolie, et qu'elle a les yeux doux !			[840]
+Ce n'est pas tout, ma fille, il faut de la sagesse.
+Je suis tout rejoui de voir cette jeunesse.
+Savez-vous que j'etais un compere autrefois ?
+On a parle de nous.
+ISABELLE.
+Ah, Monsieur, je vous crois.
+DANDIN.
+Dis-nous, a qui veux-tu faire perdre la cause ? 			[845]
+ISABELLE.
+A personne.
+DANDIN.
+Pour toi je ferai toute chose.
+Parle donc.
+ISABELLE.
+Je vous ai trop d'obligation.
+DANDIN.
+N'avez-vous jamais vu donner la question ?
+ISABELLE.
+Non, et ne le verrai, que je crois, de ma vie.
+DANDIN.
+Venez, je vous en veux faire passer l'envie. 			[850]
+ISABELLE.
+He Monsieur, peut-on voir souffrir des malheureux ?
+DANDIN.
+Bon, cela fait toujours passer une heure, ou deux.
+CHICANNEAU.
+Monsieur, je viens ici pour vous dire...
+LEANDRE.
+Mon pere,
+Je vous vais en deux mots dire toute l'affaire. 
+C'est pour un mariage, et vous saurez d'abord			[855]
+Qu'il ne tient plus qu'a vous, et que tout est d'accord.
+Le fille le veut bien. Son amant le respire ;
+Ce que la fille veut, le pere le desire.
+C'est a vous de juger.
+DANDIN, se rasseyant.
+Mariez, au plus tot. 
+Des demain, si l'on veut ; aujourd'hui, s'il le faut. 			[860]
+LEANDRE.
+Mademoiselle, allons, voila votre beau-pere,
+Saluez-le.
+CHICANNEAU.
+Comment ?
+DANDIN.
+Quel est donc ce mystere ?
+LEANDRE.
+Ce que vous avez dit, se fait de point en point.
+DANDIN.
+Puisque je l'ai juge, je n'en reviendrai point.
+CHICANNEAU.
+Mais on ne donne pas une fille sans elle. 			[865]
+LEANDRE.
+Sans doute, et j'en croirai la charmante Isabelle.
+CHICANNEAU.
+Es-tu muette ? Allons. C'est a toi de parler.
+Parle.
+ISABELLE.
+Je n'ose pas, mon pere, en appeler.
+CHICANNEAU.
+Mais j'en appelle moi.
+LEANDRE.
+Voyez cette ecriture,
+Vous n'en appellerez pas de votre signature. 			[870]
+CHICANNEAU.
+Plait-il ?
+DANDIN.
+C'est un contrat en fort bonne facon.
+CHICANNEAU.
+Je vois qu'on m'a surpris, mais j'en aurai raison.
+De plus de vingt proces ceci sera la source.
+On a la fille, soit. On n'aura pas la bourse.
+LEANDRE.
+He, Monsieur, qui vous dit qu'on vous demande rien ? 			[875]
+Laissez-nous votre fille, et gardez votre bien.
+CHICANNEAU.
+Ah !
+LEANDRE.
+Mon pere, etes-vous content de l'audience ?
+DANDIN.
+Oui-da, que les proces viennent en abondance,
+Et je passe avec vous le reste de mes jours.
+Mais que les avocats soient desormais plus courts. 			[880]
+Et notre criminel ?
+LEANDRE.
+Ne parlons que de joie ;
+Grace, grace, mon pere.
+DANDIN.
+He bien, qu'on le renvoie.
+C'est en votre faveur, ma bru, ce que j'en fais.
+Allons nous delasser a voir d'autres proces. 
+
+	==================================================

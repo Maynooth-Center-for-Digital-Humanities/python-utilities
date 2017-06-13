@@ -1,0 +1,2640 @@
+********************************************************
+	DC.Title                  = LE MARQUIS RIDICULE, OU LA COMTESSE Faite a la hate. COMEDIE.
+	DC.Author                 = SCARRON, Paul
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:29.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/SCARRON_MARQUISRIDICULE.XML
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE MARQUIS RIDICULE OU LA COMTESSE FAITE A LA HATE.COMEDIEM DC LVI. Avec Privilege du Roi.
+PAR Mr SCARRON.
+	A PARIS, Chez Antoine de Sommaville, dans la Galerie des Merciers, a l'Ecu de France.
+	Acheve d'imprimer le 8. Fevrier 1656.
+	Represente pour le premiere fois en 1646.
+	Monsieur,
+Une personne, qui vous entendant nommer, demanderait qui vous seriez ; passerait bien pour un Campagnard tres ignorant des affaires du monde : vous y etes en telle reputation, qu'enfin, lorsque l'on parlera de vous, on en viendra a ne dire que, MONSIEUR L'ABBE, comme on dit aujourd'hui Monsieur le Cardinal, comme on a dit autrefois du dernier grand Ministre, et comme on a dit toujours de tous ceux, qui se sont rendus importants par leur merite. Ce vous est une gloire, d'etre a votre age, un des plus considerables hommes de l'Etat ; mais ne vous est-ce point une grande fatigue ? Votre grand credit ne vous accable-t-il point de prieres inciviles ? Et ne vous fait-il point trouver quelquefois dans votre antichambre, une haie d'importuns, qui vous attendent au passage ? Je pense meme que quelqu'un s'imaginera que c'est ce qui vous a attire le livre que je vous dedie : mais que tous faiseurs de jugements temeraires sachent que j'ai pris mes suretes de ce cote-la, et que devant que de vous destiner une maniere de present, qui plait souvent moins a celui qui le recoit, qu'a celui qui le fait ; j'ai voulu savoir, si vous trouveriez bon que je vous le fisse. Vous m'avez fait dire que vous ne l'aviez pas desagreable : et en verite, MONSIEUR, vous ne deviez pas recevoir moins obligeamment, l'envie que j'ai d'etre votre serviteur : mais ce n'est pas assez que je le veuille, il faut que vous le vouliez aussi ; et apres que vous l'aurez bien voulu, il faudra peut-etre encore savoir, si je merite de l'etre. Si vous m'en voulez croire, vous n'y regarderez pas de trop pres, et vous m'accorderez l'honneur de votre bienveillance, comme a fait Monsieur le Procureur General votre frere. En attendant que vous ayez pris votre resolution sur une affaire, qui m'est aussi importante, que sont importants a l'Etat, les services que vous lui rendez, tous les jours, je vous supplie de lire ma Comedie : c'est a mon gre la mieux ecrite de toutes celles que j'ai donnees au Public, depuis que mon malheur m'a reduit a n'avoir rien de meilleur a faire, et ce sera celle qui m'aura le mieux reussi, si elle a votre approbation, que je prefere a tous les applaudissements des Theatres, comme je fais tout ce qui me pourrait arriver de plus heureux, a la qualite de 
+MONSIEUR, Votre tres humble et tres obeissant serviteur. 
+SCARRON. 
+
+ACTEURS.
+DON BLAIZE-POL, Marquis de la Victoire. .
+DON SANCHE, son frere.
+DON COSME de Vargas.
+BLANCHE, fille de Don Cosme.
+LIZETTE, suivante de Blanche.
+STEFANIE, Dame Portugaise.
+LOUISE, suivante de Stefanie. 
+OLIVARES, Ecuyer de Stefanie. 
+ORDUGNO, Ecuyer de Don Blaize.
+MERLIN, valet de Don Blaize, servant Don Sanche.
+La Scene est a Tolede.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Stefanie, Louize.
+LOUISE.
+Madame excusez-moi, si je vous interromps ;
+Mais le soleil ici donne sur nous a plomb,
+Sans parasol, sans mante, au Soleil, a telle heure,
+Etre au cours, c'est jouer a se perdre, ou je meure,
+Voulez-vous faire ici de l'astre radieux,			[5]
+Et de votre bel oeil morguer celui des cieux ?
+Sauf l'honneur que je dois a votre noble essence,
+Ce dessein romanesque a de l'extravagance.
+STEFANIE.
+Tu me parles toujours avecque liberte.
+LOUISE.
+Mais Madame apres tout, je dis la verite ;			[10]
+Car au cours, a midi, que voulez-vous donc faire ?
+STEFANIE.
+Ignorant mon dessein, tu n'as rien qu'a te taire.
+LOUISE.
+Au moins m'avouerez-vous que l'on y vient que tard,
+Et qu'on n'y laisse point son carrosse a l'ecart.
+STEFANIE.
+Tais-toi. Je te disais tout a l'heure Louise  !			[15]
+Qu'a moins que d'un Seigneur, je ne puis etre eprise.
+Je hais le petit noble a l'egal du bourgeois ;
+L'ecu seul a couronne est l'objet de mon choix :
+Enfin, nul, quel qu'il soit, n'aura sur moi d'empire,
+Si dans ses qualites il n'entre du Messire.			[20]
+LOUISE.
+Et Don Sanche, Madame, est-il un grand Seigneur,
+A qui si franchement vous donnez votre coeur ?
+Ma foi ; d'un grand Seigneur, il n'a pas l'equipage,
+Et son train jusqu'ici, ne peche pas en page.
+STEFANIE.
+Si tu voyais bien clair, tu connaitrais qu'il est,			[25]
+Quoique avec peu de train, autre qu'il ne parait.
+LOUISE.
+Et sur quoi fondez-vous pareille conjecture ?
+STEFANIE.
+Sur ce qu'il a l'air grand, et de fort bon augure ;
+Sur ce qu'en l'approchant mon ame m'avertit
+Qu'il est ne grand Seigneur ; mais qu'il se travestit.			[30]
+Je ne me suis jamais d'un Seigneur approchee,
+Que d'un instinct secret je n'aie ete touchee ;
+Mais je me pique aussi d'etre de mon cote,
+Le veritable aimant des gens de qualite,
+Titre, que je prefere au beau titre de Reine.			[35]
+LOUISE.
+Vous etes Portugaise ?
+STEFANIE.
+Il est vrai, je suis vaine.
+LOUISE.
+Mais par l'ordre du ciel a qui tout est sujet,
+Si Don Sanche n'est pas un Seigneur contrefait,
+Lui ferez-vous encor, de l'humeur dont vous etes,
+La mine, et les doux yeux, que partout vous lui faites ?			[40]
+STEFANIE.
+Il est vrai que je dis ce que je ne fais pas ;
+Il est vrai qu'a le voir, je trouve trop d'appas ;
+Et bien qu'il ne m'ait pas par mon faible attaquee,
+Qu'il m'a pourtant vaincue.
+LOUISE.
+Ou du moins detraquee.
+Pour moi, si je brulais, je cacherais mon feu,			[45]
+Ou je n'en ferais voir que quelquefois un peu :
+Car s'il voit, fin qu'il est, en pareille matiere,
+Que vous en ayez tant, il n'en recevra guere.
+Il est doux, complaisant, fort civil, grand flatteur,
+Avec ces qualites, on peut etre imposteur ;			[50]
+Avec ces qualites, on trompe dans le monde,
+Et si c'est la-dessus que votre esprit se fonde,
+Pour croire que le sien vous est assujetti,
+J'ai peur que votre amour n'en est le dementi.
+Ou je sais peu de chose en l'amoureux martyre,			[55]
+Ou c'est modestement que pour vous il soupire,
+Et je n'ai pas grand peur que sa famille un jour,
+Vous plaide a son sujet pour un meurtre d'amour.
+Fut-il Comte, ou Marquis, etant ce que vous etes,
+Il ferait pour le moins le chemin que vous faites,			[60]
+Votre rare beaute fait tout pour l'acquerir,
+Voit-on sur votre amour, son amour encherir ?
+STEFANIE.
+Oui, meme avec exces.
+LOUISE.
+Chacun en croit de meme,
+Chacun croit aisement qu'on l'aime autant qu'il aime,
+Vous autres deites, vous avez l'esprit vain :			[65]
+Ha ! Sortez vitement de ce doute incertain ;
+Qu'il decline son nom, son pays, sa naissance ;
+Il est temps qu'a son tour, il fasse quelque avance.
+S'il a ce qu'il vous faut, un Notaire, un Cure ;
+S'il n'est pas ce qu'on croit, fit-il bien l'eplore,			[70]
+Fermez-lui votre porte, et m'en cherchez un autre,
+Dont vous serez le fait, comme il sera le votre.
+STEFANIE.
+Je sais que bien souvent, il se promene ici.
+Et c'est pour ce sujet, que je m'y trouve aussi.
+Afin qu'en m'y voyant, seule, a pied, sans livree,			[75]
+Il s'aille figurer ma conquete assuree,
+Et que pour me connaitre, il vienne m'approcher.
+LOUISE.
+Qu'esperez-vous par la ?
+STEFANIE.
+Je lui veux reprocher,
+Qu'il donne a tout.
+LOUISE.
+Ma foi, ce n'est pas gain de cause,
+Pour vos nobles desseins, il faut bien autre chose.			[80]
+STEFANIE.
+Cela me peut servir a le faire expliquer ;
+A connaitre s'il m'aime, ou s'il se veut moquer,
+Car puisque tout mon bien est ma seule industrie,
+Je redoute surtout la contrefourberie.
+LOUISE.
+Par ma foi, je le tiens aussi fourbe que nous.			[85]
+STEFANIE.
+Mais il n'est pas aussi le seul but de mes coups.
+LOUISE.
+Ce financier coquet, que vous couchiez en joue,
+Et qui ne vous hait pas, le valait bien.
+STEFANIE.
+Il joue ;
+Son humeur m'est suspecte ; on croit qu'il doit au Roi,
+Et n'est pas dans Madrid cru pour homme de foi.			[90]
+LOUISE.
+Et ce beau courtisan, qui vous suit a la piste ?
+STEFANIE.
+Le madre veut savoir en quoi mon bien consiste,
+Ne t'imagine pas a voir ma vanite,
+Que je m'attache tant aux gens de qualite :
+Si je trouve ou Bourgeois, ou vieillard qui soit riche,			[95]
+Par d'honnetes faveurs dont je ne suis pas chiche,
+Je saurai le gagner ; lors ma condition
+Se pourra bien passer de mon invention,
+Et lors avec honneur, sans faire de bassesse,
+Je pourrai soutenir l'eclat de ma noblesse :			[100]
+Pour cet effet, je vole aux oiseaux passagers,
+Et notre politique en veut aux etrangers.
+J'ai de bons espions dans les hotelleries,
+Dans les postes, bureaux, coches, messageries,
+Tu m'es un bon second, et notre Olivares,			[105]
+Pour nos nobles desseins est comme fait expres,
+Aux yeux de cent jaloux, il sait faire un message.
+LOUISE.
+Bref votre Olivares est un grand personnage.
+STEFANIE.
+Il a su decouvrir, qu'un certain vrai Marquis,
+Arrive dans Madrid, et sait bien son logis.			[110]
+Ce Seigneur etranger, si j'ai bonne memoire,
+A nom Don Blaize Pol marquis de la Victoire ?
+LOUISE.
+La peste que de noms !
+STEFANIE.
+Cela sent son Seigneur.
+LOUISE.
+Madame j'apercois votre ecuyer d'honneur.
+STEFANIE.
+Il nous apprendra quelques bonnes nouvelles.			[115]
+LOUISE.
+C'est le Phenix, l'extrait, des ecuyers fideles.
+STEFANIE.
+Dis-moi la verite que tu ne le hais pas ?
+LOUISE.
+Je pense aussi pour lui ne manquer pas d'appas.
+He bien ! Surintendant des depeches secretes !
+Qu'as-tu de bon ?
+SCENE II. Olivares, Stefanie, Louise.
+OLIVARES.
+Tais-toi, Sultane des coquettes !			[120]
+Je me suis informe comme vous m'aviez dit
+Du logis de Don Sanche, et je sais comme il vit,
+Et que pour le servir, il n'a qu'une personne.
+Mais on m'a dit de plus, et c'est ce qui m'etonne,
+Que son appartement, dont je me suis enquis,			[125]
+Etait l'appartement de meme Marquis,
+De ce Don Blaize Pol qu'on attend de Castille,
+STEFANIE.
+He bien ! C'est un Matois, un petit noble, un drille,
+Vois-tu ! Je me connais en gens de qualite.
+OLIVARES.
+En sortant de chez lui, je l'ai trouve botte.			[130]
+LOUISE.
+Et moi je l'apercois.
+STEFANIE.
+Mon bonheur me l'amene.
+LOUISE.
+Ou vient-il si matin ?
+STEFANIE.
+Il faut que je l'apprenne,
+Cachons-nous.
+SCENE III. Don Sanche, Merlin.
+DON SANCHE.
+Tu dis donc, que mon frere est venu ?
+MERLIN.
+Oui Monsieur, craignant fort d'etre un animal cornu,
+Et que cette beaute qu'ici l'on lui destine,			[135]
+Ne sois pour son repos trop aimable, et trop fine.
+DON SANCHE.
+Comment se porte-t-il ?
+MERLIN.
+Ma foi, trop bien pour vous,
+Au reste, avant l'hymen le Seigneur est jaloux,
+Sa lettre qu'il m'a lue, et que je vous apporte,
+Vous fera voir comment son Marquisat se porte,			[140]
+Il pretend se cacher quelque temps dans Madrid,
+Faisant la guerre a l'oeil, s'eclaircissant l'esprit
+Du renom, et des moeurs de l'epouse promise,
+Qui payera bien cher le titre de Marquise.
+DON SANCHE.
+La femme qu'il prendra, doit bien se preparer			[145]
+A mal passer son temps, et beaucoup endurer.
+J'avais comme tu vois aujourd'hui pris la botte,
+Pour aller au-devant de ce franc Don Quichotte.
+MERLIN.
+Vous l'avez mieux nomme que vous n'avez pense.
+Il n'est pas dans le monde un homme moins sense,			[150]
+Vous ne croiriez jamais le chagrin, et la peine,
+Que je souffre a servir une tete mal saine.
+DON SANCHE.
+Que les Peres ont tort de tenir leurs enfants,
+Eloignes de la Cour, a se rouiller aux champs.
+MERLIN.
+Et vos lettres Monsieur ?
+DON SANCHE.
+Gardez-les ; qu'ai-je a faire,			[155]
+De lire les fatras d'un impertinent frere ?
+Puisqu'il est dans Madrid, et que je le vais voir ;
+Mais dis-tu vrai Merlin, que tu n'as pu savoir
+Le nom, ni le logis de sa femme future ?
+MERLIN.
+Vous savez comme il est defiant de nature,			[160]
+Qu'il fait secret de tout, et de rien bien souvent,
+Et qu'il n'a pour conseil que son chef plein de vent :
+Mais vous, mon cher Seigneur, qu'il ne vous en deplaise,
+Comment vont vos amours avec la Portugaise ?
+DON SANCHE.
+Stefanie ?
+MERLIN.
+Elle-meme.			[165]
+DON SANCHE.
+Elles vont assez bien ;			[165]
+Car elle me caresse, et ne demande rien.
+MERLIN.
+Tant mieux.
+DON SANCHE.
+Je la vais voir, parce que sa demeure
+Est proche de la mienne, et qu'on m'ouvre a toute heure ;
+Et l'on m'y voit souvent n'ayant que faire ailleurs,
+Et manque aussi d'avoir des passe-temps meilleurs ;			[170]
+J'y demeure parfois pour changer moins de place ;
+J'en sors pour en changer, quand la mienne me lasse ;
+J'y revai par coutume, et jamais par amour ;
+Ma paresse souvent m'y retient tout un jour.
+Quand j'y reve, elle croit, comme elle est vaine et belle,			[175]
+Que je ne puis rever pour autre que pour elle,
+Et lorsque je me tais par taciturnite,
+Que c'est par le respect que j'ai pour sa beaute.
+Je lui dis des douceurs, qui ne me coutent guere,
+Et souvent je me plais de lui rompre en visiere			[180]
+Pour diversifier la conversation,
+Ou faisant le jaloux par ostentation,
+J'ai le plaisir de voir comment elle s'efforce,
+D'apaiser un amant, qui parle de divorce.
+Je paye ses faveurs de vers bien ou mal faits			[185]
+Et nous aimons ainsi tous deux a peu de frais.
+Juge si mon amour me rend fort miserable.
+MERLIN.
+Votre relation me la rend toute aimable,
+N'avez-vous point appris a sa rare beaute
+Votre nom ?
+DON SANCHE.
+Oui Merlin, non pas ma qualite,			[190]
+Non plus que mon pays : mais elle s'imagine
+Que je suis pour le moins de Royale origine.
+Un infant d'Aragon, ou bien de Portugal ;
+Car cette Portugaise, un franc original,
+Ne recoit dans ses fers que des gens de la sorte,			[195]
+A tous autres galants elle ferme la porte,
+Elle en souffre parfois par maxime d'Etat,
+Ou pour rendre jaloux quelque gros Potentat,
+Ou bien pour faire voir qu'a ses yeux rien n'echappe
+Et qu'indifferemment tout le monde elle attrape.			[200]
+MERLIN.
+La Dame, ou je me trompe, est faible de cerveau.
+DON SANCHE.
+A cela pres, elle est aimable ; a l'esprit beau,
+Et mille en cette Cour avecque moins de charmes,
+Se font rendre tribut de soupirs, et de larmes.
+MERLIN.
+Elle est fort mal en meuble, et je gagerais bien			[205]
+Qu'elle est franche friponne, et qu'elle ne vaut rien,
+L'autre jour sa suivante, en colere contre elle,
+Disait tout haut qu'a peine elle etait Damoiselle.
+STEFANIE, cachee.
+Nous ne pouvons ouir ce qu'ils disent d'ici.
+DON SANCHE.
+Mais, nous avons manque, dont j'ai bien du souci,			[210]
+Cette jeune beaute que nous avions suivie,
+Pour la revoir encor, si tu cheris ma vie,
+Avancons jusqu'au pont.
+MERLIN.
+C'est autant de perdu,
+DON SANCHE.
+Viens. Qu'importe ?
+LOUISE.
+Il s'en va le Marquis pretendu.
+STEFANIE.
+Appelle son valet, si tu m'aimes, Louise.			[215]
+LOUISE.
+Cavalier ?
+MERLIN.
+Que me veut l'ecueil de ma franchise ?
+LOUISE.
+Converser un moment.
+MERLIN.
+Beau magasin d'attraits,
+Mon Maitre est deja loin, il faut que j'aille apres,
+Sans cela, croyez-moi, ma chere Imperatrice,
+Qu'il n'est rien ici-bas pour vous que je ne fisse.			[220]
+LOUISE.
+Demeure ici, Merlin.
+MERLIN.
+Je n'en n'ai pas le temps,
+Adieu, moule adorable a faire des enfants.
+STEFANIE.
+Je l'arreterai bien. Dis-moi mon cher de grace,
+Le pays de Don Sanche, et son bien et sa race,
+Et quelle est la beaute qu'il adore a la cour ?			[225]
+MERLIN.
+On vous a donc appris l'objet de son amour ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je viens de lui donner du martel.
+STEFANIE, a part.
+Ha le traitre !
+MERLIN.
+Mon Maitre n'est pas tel qu'il tache de paraitre.
+STEFANIE.
+Dis-moi donc son pays, sa qualite, son bien.
+Tiens.
+MERLIN.
+Vous m'avez charme par ce doux mot de Tiens,			[230]
+Le diamant est bon ?
+STEFANIE.
+Fort bon.
+MERLIN.
+Un peu jaunatre.
+Bas de Bizot ?
+LOUISE.
+Vois-tu, l'on te bat comme platre,
+Si tu ne parles vite.
+MERLIN.
+Encore faut-il bien
+Savoir, si ce qu'on donne est quelque chose ou rien.
+STEFANIE.
+Dis-moi donc son pays, son bien et sa naissance.			[235]
+MERLIN.
+Vous me demandez-la des choses d'importance.
+Et dont jusques ici, mon Maitre homme discret,
+Et sage au dernier point m'a toujours fait secret ;
+Mais comme les Valets ont l'ame curieuse,
+Et que je vous connais Dame tres genereuse,			[240]
+Je veux vous avouer avec sincerite,
+Que quant a son pays, son bien, sa qualite,
+Quoique votre present j'aye bien voulu prendre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je n'en sais rien du tout, et n'en puis rien apprendre.
+STEFANIE.
+Le coquin m'a jouee, il faut aller apres.			[245]
+OLIVARES.
+Mon bras est impuissant, ou le sont vos attraits.
+STEFANIE.
+Il a laisse tomber en fuyant quelque chose,
+Va-t'en le ramasser.
+OLIVARES.
+C'est une lettre close.
+STEFANIE.
+Apporte.
+OLIVARES.
+Ou c'en sont deux en un meme paquet.
+STEFANIE.
+Il faut voir ce que c'est, romps vite le cachet,			[250]
+La date est d'aujourd'hui, la lettre est fraiche faite,
+Nous allons decouvrir quelque affaire secrete,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mon frere,
+Je suis dans Madrid, et qui pis est, j'y suis pour me marier. J'ai grand peur, qu'un bourreau de beau-pere ne m'aille tromper, et ne m'est promis plus de beurre que de pain. Je ne me mouche pas sur ma manche, comme vous savez, et il en faudrait venir au coupe-gorge. Je vais donc faire la guerre a l'oeil ; car de deux accidents il faut eviter le pire. Informez-vous de ses vie et moeurs de votre cote, comme je ferai du mien, et me sachez bon gre de la confidence. Je vous adresse une lettre que j'ecris a ma future epouse, afin qu'elle ne me soupconne pas d'etre a Madrid. Le dessus de la lettre vous apprendra sa demeure. 
+LOUISE.
+A-t-on jamais ecrit plus extravagamment ;
+En des termes plus bas, avec moins d'agrement ?
+Le style repond mal a l'esprit de Don Sanche.			[255]
+Avez-vous remarque CE MOUCHE SUR LA MANCHE ?
+STEFANIE.
+On ecrit mal parfois, quoique l'on parle bien.
+LOUISE.
+Et tous ces quolibets qui ne servent de rien ?
+STEFANIE.
+Qu'importe. Mais helas ! Il importe qu'un traitre
+M'ait donne de l'amour sans se faire connaitre,			[260]
+Il est Marquis le Fourbe, et d'une qualite,
+Qui peut a mon souhait borner ma vanite,
+Il traite cependant d'un autre mariage,
+Et me fait le jouet de son esprit volage.
+LOUISE.
+Je n'eusse jamais cru qu'il eut ecrit si mal,			[265]
+Il nous deguisait bien son esprit de cheval,
+STEFANIE.
+Personne n'est exempt d'avoir quelque faiblesse,
+Quelque tendre, ou d'abord qu'on le touche, on le blesse,
+Il est jaloux sans doute, et quand son mal le prend
+D'agreable qu'il est ridicule il se rend.			[270]
+Il verra si je suis de mon cote jalouse.
+Voyons comment il parle a sa divine Epouse.
+L'adresse est A MADRID POUR BLANCHE DE VARGAS
+DONT LA MAISON CONTIENT UN APPARTEMENT BAS,
+PEINT DE NEUF, ET GRILLE, QUI DONNE EN LA GRAND RUE.			[275]
+LOUISE.
+Vraiment l'adresse est rare, et de grande etendue.
+OLIVARES.
+J'irais les yeux bandes. Je connais la maison.
+STEFANIE.
+Tant mieux. Verifions sa noire trahison.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ma chere Epouse, 
+Quelques affaires m'empechent de vous appeler de plus pres de ce doux nom. Recevez-le d'ou vous etes, je vous le donne d'ou je puis, et cependant je consens, et ma volonte est que cette lettre ait la force d'une promesse de mariage, en attendant que nous le consommions dans Madrid apres la benediction du Pretre. 
+Don BLAIZE POL, Marquis de la Victoire.
+LOUISE.
+Il entre, ce me semble, ici quelque mystere ;
+Car Madame il ecrit de Madrid a son frere,			[280]
+Son frere apparemment est aussi dans Madrid,
+STEFANIE.
+Il n'est pas question de se lasser l'esprit,
+A deviner le sens, dont la lettre est ecrite :
+Mais il est question que mon ame s'irrite ;
+Qu'on se moque de moi ; qu'on me fait enrager,			[285]
+Et que je veux tout faire, afin de me venger.
+Oui perfide, oui mechant, j'irai chez ta Maitresse,
+Lui faire le recit de ta fausse finesse.
+Louise, Olivares, il faut me seconder,
+A rompre cet hymen, ou bien le retarder :			[290]
+Mais ce n'est pas assez de rompre un hymenee
+Il faut bien davantage a ma rage obstinee,
+Je veux apres avoir fait manquer cet hymen,
+Qu'il en meure le traitre.
+LOUISE.
+Oui qu'il meure.
+OLIVARES.
+Amen.
+STEFANIE.
+Perdons le scelerat qui s'attaque a ma gloire.			[295]
+OLIVARES.
+Soyons victorieux de la meme victoire.
+STEFANIE.
+L'allusion me plait, elle est pleine d'esprit.
+Tantot pour cela seul, je te donne un habit.
+LOUISE.
+A moi Madame ?
+STEFANIE.
+A toi ! Je te donne une jupe.
+LOUISE.
+Malheur sur le Marquis qui nous a pris pour dupe.			[300]
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Blanche, Lizette.
+LISETTE.
+Pour moi quand vos chevaux s'emporteront si fort,
+Je dis mon in manus, et j'attendis la mort.
+Si je ne l'avais vu, je croirais impossible
+Que la peur fit en nous un effet si terrible ;
+Car vous chutes sur moi, sans pouls, sans sentiment,			[305]
+Et j'en suis pale encor d'y songer seulement.
+BLANCHE.
+Notre liberateur me vit-il de la sorte ?
+LISETTE.
+Et craignit comme moi que vous ne fussiez morte.
+Pourquoi garder aussi des chevaux si fringants ?
+Et des chiens de cochers tous les jours s'enivrant ?			[310]
+BLANCHE.
+Comment se trouva-t-il en ce lieu solitaire,
+Ce jeune cavalier, cet ange tutelaire ?
+LISETTE.
+Je ne sais pas comment, mais je benirai Dieu,
+Qui nous le fit trouver a telle heure, en tel lieu.
+BLANCHE.
+Qu'il me parut civil ! Qu'il est bien fait, Lizette ?			[315]
+LISETTE.
+Je croirais bien aussi qu'il vous trouva bien faite.
+BLANCHE.
+Comme j'etais Lizette ?
+LISETTE.
+Oui, comme vous etiez
+Toute pale, a ses yeux autant vous eclatiez,
+Qu'il eclatait alors aux votres par sa mine.
+BLANCHE.
+Mais de cet accident, qui fut donc l'origine ?			[320]
+LISETTE.
+Votre malheur, le mien, un bourreau de cocher
+Toujours saoul, des laquais qu'il faudrait ecorcher,
+Ecoutez comme quoi nous l'echappames belle,
+Dont, ma foi, nous devons une belle chandelle.
+Nous passions sur le pont, sans beaucoup nous hater,			[325]
+Et sans avoir dessein de nous precipiter.
+Votre cocher etait comme vous savez ivre,
+Et vos laquais s'etaient dispenses de vous suivre.
+Nous regardions les eaux du clair Mansanarez,
+Quand un chien, l'on eut dit qu'il l'eut fait tout expres,			[330]
+Fit peur a vos chevaux, dont l'ivrogne de guide
+Accable de sommeil ne tenait plus la bride.
+Du chien effarouches, ils galopaient fougueux,
+Vers ou le bord du fleuve a voir meme est affreux,
+Lorsque ce Cavalier, ou plutot ce bon Ange			[335]
+Vola vers vos chevaux d'une vitesse etrange,
+Et coupa leur harnois de son acier tranchant,
+Sur le point qu'ils s'allaient jeter dans le penchant.
+Nous etions cependant, vous, dans mes bras pamee,
+Moi, de vous voir ainsi toute a fait alarmee.			[340]
+Vous revintes apres votre pamoison,
+Et lors vos yeux ingrats par grande trahison,
+Firent au Cavalier une amoureuse plaie.
+Voila de l'accident la relation vraie.
+BLANCHE.
+Folle plains-moi plutot, et ne me raille point.			[345]
+Le plaisir qu'on m'a fait, m'inquiete a tel point,
+Par la crainte que j'ai de ne le pouvoir rendre,
+Que de m'en attrister je ne me puis defendre.
+LISETTE.
+Je crois cette tristesse une naissante amour,
+Qui parait dans vos yeux claire comme le jour.			[350]
+BLANCHE.
+Amour ? Moi ?
+LISETTE.
+Vous ? Amour ? Etes-vous une souche ?
+BLANCHE.
+Non : mais j'ai de l'honneur.
+LISETTE.
+Qui vous rend bien farouche.
+BLANCHE.
+Quand j'aurais repugnance a vivre sous ses lois,
+Une fille prend-elle un Epoux a son choix ?
+N'attends-je pas le mien aujourd'hui ?
+LISETTE.
+Mais Madame !			[355]
+S'il est mal fait de corps aussi bien que de l'ame ?
+BLANCHE.
+Si mon pere me donne un Epoux odieux,
+Pour de mieux faits que lui je fermerai les yeux.
+LISETTE.
+Si quelque amour secret l'oblige a la depense ?
+BLANCHE.
+Je reglerai la mienne, et prendrai patience.			[360]
+LISETTE.
+S'il est jaloux, avare, impertinent, railleur ?
+S'il est facheux, malpropre, ivrogne, ou grand parleur ?
+S'il est joueur, s'il perd ses terres et les votres ?
+Si cagot, pour et nuit il dit ses patenotres ?
+S'il est chauve, gaucher, rousseau, louche, ou cagneux ?			[365]
+BLANCHE.
+Le Ciel ne sera pas pour moi si rigoureux :
+Mais quand il serait tel que le fait ta peinture,
+L'ennemi du bon sens, l'horreur de la nature,
+Un injuste tyran, de son ombre jaloux,
+Pour l'aimer, il suffit qu'il serait mon epoux.			[370]
+LISETTE.
+Madame, si l'Epoux que le ciel vous destine,
+A de ce Cavalier le visage et la mine,
+S'il est d'esprit, de biens et de vertus pourvu.
+On peut tout esperer devant que l'avoir vu.
+Que sait-on ?
+BLANCHE.
+Ha Lizette ! Il faudrait etre heureuse.			[375]
+LISETTE.
+Ha ! Madame, ma foi vous etes amoureuse.
+BLANCHE.
+Tais-toi, je vois mon pere.
+SCENE II. Don Cosme, Blanche, Lizette.
+DON COSME.
+He bien ! Votre accident,
+De la faveur du Ciel est un signe evident.
+BLANCHE.
+Si vous saviez Monsieur, par quel bonheur etrange
+Sans le secours d'un homme, ou plutot d'un bon Ange...			[380]
+DON COSME.
+L'on m'a de point en point conte ce grand malheur,
+Dont je vous voie sauvee, et quitte pour la peur.
+Comment vous portez-vous ?
+BLANCHE.
+De ma peur etourdie,
+Je me sens faible encor ; mais c'est sans maladie.
+SCENE III. Merlin, Don Cosme, Blanche, Lizette.
+MERLIN surpris de voir Don Cosme.
+Madame de la part. Mais...
+DON COSME.
+Que demandez-vous ?			[385]
+MERLIN, a part.
+Je suis pris. Un laquais etait venu chez nous.
+Demander un juillep pour votre fille morte,
+Je suis apothicaire, et c'est ce que j'apporte.
+DON COSME.
+On n'en a pas besoin.
+LISETTE, a part.
+Peste de l'etourdi.
+BLANCHE.
+Mon ami ! Je vous trouve a mentir bien hardi.			[390]
+Vous feriez soupconner surpris comme vous etes,
+Qu'il se passe entre nous des affaires secretes.
+Monsieur, c'est le valet, ou je me trompe fort,
+Du Cavalier sans qui vous pleureriez ma mort ?
+LISETTE.
+Je ne suis pas a lui ; mais je suis a son frere.			[395]
+DON COSME.
+Comment s'appelle-t-il ?
+MERLIN.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)O le curieux Pere !
+Puisqu'il vous faut parler dans feintise, et sans dol,
+Mon Maitre est un Seigneur nomme Don Blaize Pol.
+DON COSME.
+Marquis de la Victoire ?
+MERLIN.
+Oui Monsieur.
+DON COSME.
+C'est mon gendre.
+Est-il ici ?
+MERLIN.
+Lui-meme.			[400]
+DON COSME.
+Et me veut-il surprendre ?			[400]
+Que ne m'ecrivait-il qu'il venait et pourquoi,
+A-t-il voulu descendre autre part que chez moi ?
+MERLIN.
+Il est d'un naturel surprenant.
+LISETTE.
+Ha Madame !
+Vous allez donc bientot etre Marquise, et femme ?
+DON COSME.
+Tu sais ou le trouver ?
+MERLIN.
+Oui, Monsieur ?			[405]
+DON COSME.
+C'est assez.			[405]
+Ajustez-vous ma fille, et vous rejouissez,
+Je pretends des ce soir achever votre noce.
+Qu'on mette vivement les chevaux au carrosse.
+Lizette, et vous ma fille obtenez dessus vous,
+De paraitre plus gaie aux yeux de votre epoux.			[410]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)BLANCHE.
+Notre aventure helas ! m'a bien moins etonnee,
+Que ne fait le penser de mon proche Hymenee.
+LISETTE.
+Passer de fille a femme est sans doute un grand saut ;
+Mais quelque grand qu'il soit, on le franchit bientot.
+BLANCHE.
+O Dieu ! Que vois-je encore ?
+SCENE IV. Don Sanche, Blanche, Lizette.
+DON SANCHE.
+Apres vous avoir vue,			[415]
+De tant de dons du Ciel si richement pourvue,
+Je ne puis m'empecher de revoir vos beaux yeux
+Pour leur offrir encor mon coeur comme a mes Dieux.
+Deja de leurs regards la menace severe
+Fait craindre a mon amour leur injuste colere ;			[420]
+Leur dedain redoutable est pret de chatier,
+Un crime que ma mort seule peut expier ;
+Mais que leur cruaute contre moi tout emploie ;
+Tout supplice m'est doux pourvu que je les voie.
+BLANCHE.
+Quand mon pere m'amene un Epoux que j'attends,			[425]
+Me venir voir encor, c'est mal prendre son temps.
+DON SANCHE.
+Je venais m'informer de l'etat ou vous etes.
+BLANCHE.
+Si vous saviez Monsieur, la peur que vous me faites,
+Ou plutot a quel mal vous m'exposez ici,
+Vous ne me viendriez pas rendre visite ainsi.			[430]
+Il est vrai, je vous dois la vie, et je le confesse,
+Que mon coeur genereux me le redit sans cesse ;
+Mais dans le meme temps qu'il m'apprend mon devoir,
+Il m'avertit aussi que j'ai tort de vous voir.
+DON SANCHE.
+Vous ne m'avez rien du, dont vous ne soyez quitte,			[435]
+Mais j'ai cru vous devoir au moins une visite,
+Ou plutot je l'ai cru devoir a mon repos,
+Puisque eloigne de vous j'endure mille maux.
+BLANCHE.
+Bien que j'aye pour vous toute sorte d'estime,
+Je ne puis plus longtemps vous ecouter sans crime,			[440]
+Vous revoir, c'est manquer a ce que je me dois,
+Et peu faire pour vous ; mais beaucoup contre moi.
+Emmenez-le Lizette.
+LISETTE.
+Allons, allons, mon brave !
+Et si vous devenez notre amoureux esclave,
+Comme vous en avez tout a fait la facon,			[445]
+Sachez qu'un jeune coeur n'est pas toujours glacon,
+Que Lizette vous peut servir, et que Lizette
+A pour vous dans son ame une estime parfaite.
+DON SANCHE.
+Si c'etait l'offenser que l'aimer, ardemment,
+Elle m'aurait traite trop peu cruellement ;			[450]
+Mais si c'est de l'amour que les Dieux nous demandent,
+Si c'est par nos respects, qu'a nos voeux ils se rendent
+Doit elle recevoir d'un oeil si rigoureux,
+Et mes respects soumis, et mes soins amoureux ?
+BLANCHE.
+Lizette ! Hate-toi, veux-tu donc que mon pere			[455]
+Le trouve ?
+LISETTE.
+Allons Monsieur.
+DON SANCHE.
+O Dieu qu'elle est severe !
+LISETTE.
+J'entends Monsieur qui vient, vite cachez-vous la.
+BLANCHE.
+Lizette ! Quel malheur !
+LISETTE.
+Ne craignez rien.
+SCENE V. Don Blaize et ses gens, Don Cosme, Blanche, Lizette.
+DON BLAIZE.
+Hola !
+Ne vous dispensez pas ma sotte valetaille,
+En un jour important comme un jour de bataille,			[460]
+En un temps ou l'amour mon ennemi cruel
+Contre un fier basilic me suscite un duel ;
+Car ma belle en est un, dont la mortelle vue,
+Fait d'un homme vivant un mort a l'imprevue.
+Ne vous dispensez pas, dis-je, mes sottes gens,			[465]
+D'etre au moindre clin d'oeil, a ma voix diligents,
+Afin que la Deesse a qui mon coeur encense
+Juge de mon esprit par votre obeissance.
+M'entendez-vous ?
+DON COSME.
+Monsieur, vous commandez ici
+Comme Maitre absolu.
+DON BLAIZE.
+Je l'entends bien ainsi.			[470]
+Mon beau-pere, notez, que vous avez la draitte,
+Notez de la facon qu'avecque vous je traite :
+Je ne la donne pas a tous, en bonne foi.
+Et ce rencontre ici ne fait pas une loi.
+Mais allons de plus pres deployer la faconde,			[475]
+Devant cette merveille a nulle autre seconde.
+Mieux vaut un oisillon qu'on tient dessus le poing
+Qu'un grand oiseau de prix volant dans l'air bien loin,
+Vous meritiez un Roi merveille sans egale,
+Vous n'aurez qu'un Marquis sous la loi conjugale.			[480]
+Ordugno ! Que dis-tu de l'application ?
+ORDUGNO.
+Qu'elle est digne de vous.
+DON BLAIZE.
+Elle est d'invention,
+Et sans doute elle aura la donzelle attendrie.
+ORDUGNO.
+Il n'en faut point douter.
+LISETTE.
+Quelle pedanterie !
+Madame !
+BLANCHE.
+Ha tais-toi donc, Lizette !			[485]
+DON COSME, a part.
+Avec le temps			[485]
+La Cour pourra changer le style, et l'air des champs.
+DON BLAIZE.
+Vous etes un long temps, me semble, a me repondre,
+Devrait-on la-dessus avoir a vous semondre ?
+BLANCHE.
+Quand bien on m'offrirait ce qui ne se peut pas,
+Un Epoux plus que vous a mes yeux plein d'appas			[490]
+Et dont la qualite fut plus considerable,
+Ce qui n'est pas possible, encore moins croyable ;
+Quand au lieu de Marquis, vous seriez un grand Roi,
+Le pouvoir qu'a mon pere a toujours eu sur moi,
+Qui n'ai jamais songe qu'a l'aimer, a lui plaire,			[495]
+M'aurait fait consentir au bon choix de mon pere,
+Ainsi pour deux raisons j'aime un si digne Epoux,
+Et parce qu'il le veut, et parce que c'est vous.
+DON BLAIZE.
+Ordugno ! Qu'ente dis-tu ? La Sibylle Gomee,
+M'eut moins par son discours l'ame enthousiasmee.			[500]
+Ordugno ! L'artisan qui peignit son portrait
+N'a pu le fat qu'il est la rendre trait pour trait.
+Ordugno ! J'ai grand peur qu'une femme si belle
+De moi son papillon deviendra la chandelle,
+Ordugno !
+ORDUGNO.
+Quoi, Monsieur ?			[505]
+DON BLAIZE.
+Elle en tient.			[505]
+ORDUGNO.
+Surement !			[505]
+DON BLAIZE.
+Mais a bon chat bon rat, j'en tiens pareillement.
+Ordugno ! La maison me choque en sa structure,
+Il en faudrait changer toute l'architecture,
+La chambre est en bicoin, tout au moins il faudrait
+Abattre l'angle aigu, pour en faire un droit.			[510]
+Ordugno !
+ORDUGNO, d'un ton chagrin comme ennuye d'etre tant appele..
+Monseigneur !
+DON BLAIZE.
+Quelle facon maudite
+De repondre ! Est-ce point que le faquin s'irrite
+D'entendre si souvent Ordugno repeter.
+Sais-tu que c'est ainsi qu'on se fait maltraite ?
+Sais-tu que qui t'as fait, te pourra bien defaire ?			[515]
+ORDUGNO.
+Je crois n'avoir rien fait qui puisse vous deplaire.
+DON BLAIZE.
+Je l'ai fait favori de Page fort galeux,
+Dont un meilleur que lui se tiendrait fort heureux,
+Et le gredin qu'il est, se fait tirer l'oreille.
+A cause que parfois a lui je me conseille,			[520]
+Tous valets sont valets.
+ORDUGNO.
+Mais Seigneur...
+DON BLAIZE.
+Il suffit.
+Ne me va point chercher dans ton mauvais esprit
+De mauvaises raisons, ou nous aurons querelle,
+Viens a moi sans gronder alors que je t'appelle ;
+Ne me parle jamais qu'etant interroge,			[525]
+Et jamais sans respect, ou bien prends ton conge.
+DON COSME.
+Ne trouvez-vous pas bon, Monsieur, que j'aille faire
+Preparer une chambre a Monsieur votre frere ?
+Car je ne prends pas qu'il loge hors de chez moi.
+DON BLAIZE.
+C'est fort mal pretendu, mon beau-pere.			[530]
+DON COSME.
+Et pourquoi ?
+DON BLAIZE.
+Parce qu'en un logis ou dormira ma femme,
+De mon consentement ne dormira corps d'ame ;
+Par corps d'ame, j'entends tous parents, tous amis,
+Tous valets, meme aussi, s'il m'est ainsi permis,
+Tous chiens, chats, et chevaux males, toute peinture,			[535]
+Qui represente au vif masculine figure.
+Sans doute, vous direz, et vous dires bien vrai,
+Que je suis fort jaloux ; mais je m'en sait bon gre.
+DON COSME.
+On ne saurait faillir par trop de prevoyance.
+DON BLAIZE.
+Vous me parlez ainsi par pure complaisance.			[540]
+Vous etes un adroit, Don Cosme, et je vois bien
+Que vous accordez tout, et ne contester rien.
+Ces maudits esprits doux sont personnes a craindre ;
+Mais jusqu'ici de vous je n'ai pas a me plaindre.
+Ordugno !
+ORDUGNO.
+Monseigneur.			[545]
+DON BLAIZE.
+Dis-moi quelle heure il est ?			[545]
+ORDUGNO.
+Il est deja bien tard.
+DON BLAIZE.
+Le diner est-il pret ?
+ORDUGNO.
+Il le sera bientot.
+DON BLAIZE.
+Qu'om me mene a ma chambre ;
+Qu'on ne m'y brule point de pastilles a l'ambre ;
+Que le repas aussi soit sobre, et limite ;
+Car je ne puis souffrir la superfluite.			[550]
+Ordugno !
+ORDUGNO.
+Monseigneur.
+DON BLAIZE.
+Fais bien la sentinelle.
+Furette bien partout.
+ORDUGNO.
+Je vous serai fidele.
+DON BLAIZE.
+Allons, Don Cosme, allons, montrez-moi le chemin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Adieu jusqu'au souper belle au teint de jasmin !
+BLANCHE.
+Ha Lizette !
+LISETTE.
+Ha Madame ! A quelle destinee			[555]
+Vous reduit votre pere avec son hymenee.
+Avait-il de bons yeux quand il vous a choisi
+Ce Marquis campagnard, fantasque en cramoisi ?
+BLANCHE.
+Ha ! Ne m'en parle point qu'avec respect Lizette,
+Je te l'ai deja dit, encor qu'il me maltraite,			[560]
+Quelques cruels tourments qu'il me fasse endurer,
+Il ne m'est pas permis meme d'en murmurer.
+Fais vitement sortir ce cavalier. Je tremble
+Que quelqu'un du logis ne vous rencontre ensemble ;
+Dis-lui que je l'estime autant que je le dois,			[565]
+Et que de l'Action qu'il a faite pour moi,
+La memoire en mon coeur par le devoir tracee,
+Par la longueur du temps ne peut etre effacee ;
+Et que je n'aurais pas refuse de le voir,
+Si je l'avais pu faire, et suivre mon devoir.			[570]
+LISETTE.
+On va bientot souper. Tous nos gens vont et viennent,
+Et ceux de ce Marquis tous les passages tiennent,
+Je crois qu'ils sont payes pour en user ainsi :
+Mais je prendrai mon temps, et pour vous hors d'ici,
+Allez dans votre chambre, et cependant Lizette			[575]
+Tirera le captif de sa noire cachette.
+
+
+			ACTE III
+
+
+SCENE PREMIERE. Lizette, Don Sanche.
+LISETTE.
+Les valets du Marquis a leur Maitre fideles,
+Avaient si bien partout place leurs sentinelles,
+Que durant le souper meme, je n'ai pas pu,
+Tirer hors de son trou notre amant morfondu.			[580]
+Il me fait grand pitie ; car il est fort aimable :
+Mais, ma foi, le Marquis ne sera pas traitable,
+Et je me trompe fort, s'il est moins diligent,
+A garder sa moitie qu'a garder son argent.
+Sortez mon Cavalier, sortez en diligence :			[585]
+Vous m'avez aujourd'hui coute plus d'une transe,
+Nous avons un mari jaloux comme un damne.
+DON SANCHE.
+Helas ! Il est mon frere, et de plus mon aine.
+LISETTE.
+Dites-vous ?
+DON SANCHE.
+Et de plus, c'est le dernier des hommes.
+LISETTE.
+Nous sommes bien a plaindre en l'etat ou nous sommes ;			[590]
+Moi d'avoir un tel Maitre, et vous un frere tel.
+J'en fais des aujourd'hui mon ennemi mortel ;
+Il ne meritait pas une femme si belle.
+DON SANCHE.
+Ni moi de l'eprouver si fiere, et si cruelle.
+LISETTE.
+Vous l'avez obligee, et vous etes bien fait ;			[595]
+Esperez : son esprit est sensible au bienfait ;
+Et quoique par vertu sa peine il dissimule,
+Je sais qu'il est choque d'un mari ridicule.
+Si peu qu'un sot Epoux a nos yeux fasse mal
+Le temps change en mepris le respect conjugal,			[600]
+Et si peu qu'un Mari de rende meprisable,
+Il ne manque au Galant qu'une heure favorable.
+SCENE II. Don Blaize, Lizette, Don Sanche, Ordugno.
+DON BLAIZE.
+Ordugno !
+LISETTE.
+Le voici, mon Dieu, que ferons-nous ?
+DON BLAIZE.
+Et viens donc, Ordugno ?
+LISETTE.
+Vite, recachez-vous,
+Maudit soit, l'Ordugno, je tremble en chaque membre			[605]
+DON BLAIZE.
+Ordugno !
+ORDUGNO.
+Pourquoi donc sortir de votre chambre ?
+DON BLAIZE.
+Mes amoureux soupirs en ont echauffe l'air,
+Et pourraient a la fin moi-meme m'y bruler.
+ORDUGNO.
+Que ne reposez-vous votre personne lasse ?
+DON BLAIZE.
+Je ne puis demeurer longtemps en une place,			[610]
+Triste comme je suis.
+ORDUGNO.
+Pourquoi triste ?
+DON BLAIZE.
+Pourquoi ?
+Quel mortel ici-bas doit l'etre plus que moi ?
+Je veux absolument me cacher d'un beau-pere,
+Qui me trouve d'abord, grace a mon sot de frere :
+Qui contre l'ordre expres a lui par moi donne,			[615]
+A lui frere cadet par moi son frere aine ;
+Qui contre l'ordre donc, porte dans ma missive,
+De ne reveler pas a personne qui vive
+Que je suis dans Madrid, a d'abord decouvert
+L'infaillible moyen de me prendre sans vert.			[620]
+ORDUGNO.
+Et qu'ordonniez-vous a Don Sanche ?
+DON BLAIZE.
+De faire
+Investigation de Blanche, et de son pere,
+Savoir ce qu'on en dit dans la Cour de Madrid,
+Car si quelqu'un de Blanche avait surpris l'esprit,
+Par consequent le corps, je n'aurais que son reste,			[625]
+Et ma honte bientot deviendrait manifeste,
+Ainsi Don Blaize Pol encorne plus qu'un boeuf,
+Aurait a souhaiter de se voir bientot veuf ;
+Au lieu que si mon frere eut cache ma venue.
+Cette maison bientot m'aurait ete connue :			[630]
+Et, cela fait, suivant mon information,
+Ou bien j'aurais agi par consommation,
+Ou bien j'aurais d'abord rompu mon mariage ;
+Mais il n'en n'est plus temps, Ordugno, dont j'enrage,
+Qui pis est, le beau-pere est de ces esprits doux,			[635]
+Qui sur tout, en tout temps sont d'accord avec vous ;
+Qui ne quittent jamais leur douce procedure,
+Et qui rient au nez quand on leur fait injure.
+DON SANCHE, a part d'ou il est cache.
+Le fantasque qu'il est m'aurait pris en defaut,
+S'il n'eut ainsi parle de sa lettre tout haut ;			[640]
+Mais je puis maintenant dire que je l'ai lue.
+Quoique a vrai dire son valet l'ait perdue.
+DON BLAIZE.
+Mais epluchons un peu la future moitie,
+Qu'en dis-tu ?
+ORDUGNO.
+Qu'elle est belle !
+DON BLAIZE.
+Et trop de la moitie,
+Et de cette suivante un peu trop familiere ?			[645]
+ORDUGNO.
+Qu'elle me plait beaucoup.
+DON BLAIZE.
+Elle ne me plait guere.
+Comment ! A sa maitresse ; a la barbe des gens,
+Elle parle a l'oreille, a toute heure, en tout temps.
+Loin de moi, loin de moi soubrette qui conseille,
+On dispose du coeur de qui l'on a l'oreille ;			[650]
+On dispose du corps, de qui on a le coeur,
+Cela fait, un mari se trouve sans honneur.
+Va, va-t'en dans ma chambre, apporte une lumiere ;
+Je ne veux pas laisser le moindre coin derriere
+Ou je n'ai porte mes regards, et mes mains,			[655]
+Si j'allais y trouver le malheur que je crains,
+Quelque Galant cache, je ferais rumeur telle
+Que mon maudit hymen se romprait par querelle.
+DON SANCHE, dans sa cachette.
+Si cet extravagant cherche partout ainsi,
+Il ne faut point douter qu'il ne me trouve ici,			[660]
+Mais je me puis sauver tandis qu'il ne voit goutte.
+DON BLAIZE.
+J'entends marcher quelqu'un aupres de moi sans doute,
+Qui va-la ?
+DON SANCHE.
+Qui va-la toi-meme !
+DON BLAIZE.
+Es-tu mortel,
+Ou fantome ?
+DON SANCHE.
+Je suis homme vivant, et tel,
+Que pour avoir ose profaner la demeure			[665]
+Et l'honneur d'un Marquis, je t'etrangle sur l'heure.
+DON BLAIZE.
+Tu me serres la gorge homme trop ponctuel !
+Mais je t'etranglerai d'un effort mutuel.
+Demon ! Car tu ne peux etre un homme ordinaire
+Apres le mal cruel que tu me viens de faire,			[670]
+Que cherches-tu ceans ?
+DON SANCHE.
+J'y cherche a t'y punir.
+DON BLAIZE.
+Et d'ou prends-tu l'audace, et le droit d'y venir ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ordugno ! L'etourdi m'a brule le visage.
+ORDUGNO.
+Qui Diable vous croyait aussi dans mon passage ?
+DON SANCHE.
+Ha, mon frere ! Est-ce vous ? A la voix d'Ordugno,			[675]
+Je vous ai reconnu.
+DON BLAIZE.
+Frere ou plutot bourreau,
+A quoi bon m'etrangler ?
+DON SANCHE.
+A dessein de vous plaire.
+DON BLAIZE.
+La belle invention pour heriter d'un frere !
+DON SANCHE.
+Vous me l'aviez ecrit.
+DON BLAIZE.
+Oui de vous informer
+De Blanche, et de ses moeurs, non de vous enfermer			[680]
+Dans son logis de nuit : mon cadet ! C'est trop faire,
+C'est transgresser mon ordre, enfin c'est me deplaire.
+DON SANCHE.
+Je n'ai point eu dessein que de vous obeir.
+DON BLAIZE.
+Mais n'avez-vous point eu celui de me trahir.
+DON SANCHE.
+Votre lettre en mes mains, ne fut pas plutot mise,			[685]
+Qu'afin d'executer vos ordres sans remise,
+J'entrai dans ce logis.
+DON BLAIZE.
+Ou je vous vois cache.
+Qui vous y fit entrer ?
+DON SANCHE.
+Je suis bien empeche.
+DON BLAIZE.
+Parlez donc : Qu'avez-vous a vous gratter la tete ?
+Eutes-vous pour cela quelque pretexte honnete !			[690]
+Car on n'introduit pas pour rien, et sans sujet
+Dans un logis d'honneur, un cavalier suspect.
+DON SANCHE.
+Je priai, je promis, je gagnai sa suivante,
+Feignant pour sa Maitresse une amour violente,
+DON BLAIZE.
+N'avais-je pas bien dis ? La friponne qu'elle est			[695]
+A la fidelite prefere l'interet :
+Je m'en veux eclaircir, puisqu'il y va du notre.
+Prenez cette casaque, et me donnez la votre,
+Et cependant, allez dans ma chambre. Ordugno !
+Vous tiendrez compagnie a ce Godelureau.			[700]
+Je vais bien attraper la maudite soubrette :
+Elle croira venir tirer de sa cachette
+Mon frere, et me prendra pour ce larron d'honneur,
+Et je decouvre ainsi ce qu'elle a sur le coeur.
+DON SANCHE.
+Il va tout decouvrir, o la sotte defaite			[705]
+Dont je me suis servi !
+DON BLAIZE.
+La maudite soubrette
+Sur la foi des manteaux truques si prudemment,
+Pour Don Sanche aura pris dom Blaize assurement.
+Elle viendra bientot le tirez de sa geole,
+Et lors, je ne dis pas que sur sa tendre epaule			[710]
+Coups orbes, et pesants par moi ne soient donnes :
+Mais je lui veux devant tirer les vers du nez.
+LISETTE, croyant parler a Don Sanche.
+Le sot homme est sorti.
+DON BLAIZE, a part.
+Peste ! Comme on me nomme.
+LISETTE.
+Ha ! Que n'est-il deja doublement un sot homme.
+DON BLAIZE, contrefaisant sa voix.
+Bon. Du plaisir recu je me revancherai.			[715]
+LISETTE.
+Je n'ai rien fait au prix de ce que je ferai.
+Sortez donc. Ce Marquis nous fera de la peine,
+Fantasque comme il est.
+DON BLAIZE, a part.
+Ha ! La double vilaine.
+LISETTE, entend venir Don Sanche 
+qu'elle croit Don Blaize.
+Dieu me veuille assister ! Ne le voila-t-il pas ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Songez a vous, pour moi je me sauve a grand pas.			[720]
+DON BLAIZE.
+Ha ! C'est vous, pourquoi donc venir sitot mon frere.
+DON SANCHE.
+Le desir de savoir le secret d'une affaire,
+Ou notre honneur commun peut-etre interesse
+En est cause.
+DON BLAIZE.
+Ma foi, vous etiez bien presse.
+DON SANCHE.
+Qu'avez-vous donc appris ?
+DON BLAIZE.
+Trop. D'abord la traitresse.			[725]
+M'a promis sa faveur aupres de sa maitresse,
+Puis m'a donne du sot, et du fantasque aussi :
+Mais je lui veux apprendre a me traiter ainsi.
+Chaque chose a son temps, et quant a vous Don Sanche,
+Je veux que vous feigniez d'etre amoureux de Blanche.			[730]
+Je veux par votre amour adroitement joue,
+Decouvrir si son coeur vous peut etre voue,
+Et je pourrai peut-etre avec la meme feinte
+Decouvrir, si ce coeur n'a point eu d'autre atteinte.
+Vous pouvez bien penser que je serais gate,			[735]
+S'il fallait que la belle en eut deja tate.
+L'adresse a ce dessein n'est pas peu necessaire,
+N'y faites pourtant pas tout ce qui s'y peut faire,
+Que votre feint amour n'ait rien d'incontinent.
+DON SANCHE.
+Ce Mari curieux, qu'on nomme impertinent,			[740]
+N'en a jamais tant fait.
+DON BLAIZE.
+Vous me voulez instruire,
+Vous malheureux cadet qu'un aine peut detruire,
+Vous m'osez conseiller ; vous me traitez de sot,
+Moi tous sens, tout esprit, moi Don Blaize en un mot.
+DON SANCHE.
+Mais que peut-on penser d'un homme qui s'ingere			[745]
+D'aimer une beaute destinee a son frere ?
+Et quelle opinion aurait-elle de moi ?
+Qui ferait un tel crime.
+DON BLAIZE.
+Et n'est-ce pas de quoi
+Donner une couleur a pareille entreprise,
+Que feindre que votre ame est des longtemps eprise ?			[750]
+DON SANCHE.
+Je ne l'ai jamais vue.
+DON BLAIZE.
+Et suis-je donc un fou ?
+Et n'avez-vous pas vu son portrait a mon cou ?
+N'est-il pas digne assez de votre idolatrie ?
+Mais foin, je l'ai laisse dans notre hotellerie,
+Je m'en vais le querir.
+DON SANCHE.
+J'irai bien.			[755]
+DON BLAIZE.
+Volontiers,			[755]
+Vous iriez fureter ma male et mes papiers.
+Rengainez, rengainez votre offre officieuse,
+Que ces freres cadets ont l'ame curieuse !
+Je suis des curieux l'ennemi capital.
+DON SANCHE, a part.
+La belle occasion que m'offre ce brutal !			[760]
+DON BLAIZE.
+Que dites-vous tout bas.
+DON SANCHE.
+Que je suis pret de faire
+Tout ce qu'il vous plaira.
+DON BLAIZE.
+M'obeir c'est me plaire.
+Ordugno !
+ORDUGNO.
+Monseigneur ?
+DON BLAIZE.
+Ordugno !
+ORDUGNO.
+Monseigneur ?
+DON BLAIZE.
+Faut-il pour mes peches qu'un valet soit dormeur ?
+Ordugno ?
+ORDUGNO.
+Monseigneur ?			[765]
+DON BLAIZE.
+Dieu te puisse confondre,			[765]
+Monseigneur, Monseigneur, ce n'est la que repondre ;
+Mais ce n'est pas venir.
+ORDUGNO.
+He bien que voulez-vous ?
+DON BLAIZE.
+Sortir.
+ORDUGNO.
+Sortir si tard, c'est a faire a des fous.
+DON BLAIZE.
+Parle pour toi croquant. Sais-tu bien ce qu'engendre
+L'indulgence d'un Maitre au valet bon a pendre ?			[770]
+Certaines libertes, qui lassent a la fin.
+Et qui font tot ou tard qu'on le traite en faquin :
+Va querir mon epee, et prends aussi la tienne,
+Et lanterne, et poignard.
+ORDUGNO.
+Faut-il que Merlin vienne ?
+DON BLAIZE.
+Non. Qu'on m'ouvre, aussitot qu'on m'entendra siffler,			[775]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je reviens a l'instant.
+MERLIN.
+Ou veut-il donc aller
+Si tard ?
+DON SANCHE.
+Tu le sauras devant que la nuit passe,
+D'ou viens-tu toi ?
+MERLIN.
+Je viens de perdre a tope et masse
+Un petit diamant, dont m'avait fait regal
+La belle Stefanie honneur de Portugal :			[780]
+Il n'en est pas au monde une plus folle qu'elle,
+Je la viens de trouver avec sa sequelle,
+C'est-a-dire Louise, et son Olivares,
+Assiegeant ce logis, et de loin et de pres.
+Elle, ou quelqu'un des siens, n'en quitte pas la porte			[785]
+Guignant les gens au nez, soit qu'on entre ou qu'on sorte.
+Dans ses mains par malheur je suis tantot tombe.
+Et sous ses questions j'ai quasi succombe.
+Elle m'a fait sur vous mille et mille demandes,
+Quand elle m'aurait fait autant de reprimandes,			[790]
+Je crois sur mon honneur, qu'elle m'eut moins pese,
+Quelqu'un dans son esprit vous a demarquise,
+Je l'en trouve pour vous un peu moins echauffee,
+Et meme je la tiens de Don Blaize coiffee,
+Et que c'est pour lui seul qu'elle bat le pave.			[795]
+DON SANCHE.
+Je voudrais de bon coeur qu'elle l'eut enleve.
+MERLIN.
+Le Marquisat sans doute a donne dans son tendre,
+Un Marquisat aussi n'est pas mauvais a prendre.
+DON SANCHE.
+Plut a Dieu que ses yeux fissent un meme effet
+Sur ce cher frere aine, qui serait bien son fait,			[800]
+Et que d'elle amoureux, il me cedat mon ange.
+MERLIN.
+Qui ne pleurerait pas peut-etre d'un tel change :
+Mais songez vous encore a la prise d'un coeur
+Si regulierement retranche dans l'honneur,
+Un coeur, qu'on peut nommer la plus dure des roches,			[805]
+Qui ne peut pas souffrir seulement des approches.
+Vous m'allez alleguer ses yeux astres jumeaux.
+D'accord ; mais c'est tirer votre poudre aux moineaux.
+DON SANCHE.
+A peine croiras-tu Merlin ! Par quelle voie,
+Un espoir surprenant ressuscite ma joie.			[810]
+MERLIN.
+Dites-la, vous verrez si je la crois ou non.
+DON SANCHE.
+Aussi jaloux que fou, mon frere tout de bon,
+Veut que... mais quelqu'un vient ; je te dirai le reste
+Tantot.
+SCENE III. Lizette, Don Sanche, Merlin.
+LISETTE.
+Mon cher Monsieur, notre Maitresse peste
+D'une etrange facon contre vous.
+DON SANCHE.
+Et pourquoi ?			[815]
+LISETTE.
+Que sait-elle ? Elle peste encore plus contre moi.
+Mais si pres du Marquis vous etes bien tranquille,
+Que fait-il donc ? Dort-il ?
+DON SANCHE.
+Le Marquis est en ville
+A l'heure que je parle.
+LISETTE.
+Et qu'y fait-il si tard,
+Cet ennemi commun ?
+DON SANCHE.
+C'est une affaire a part.			[820]
+Vous saurez seulement, que Don Blaize, et Don Sanche
+Sont fort bien. Que ne suis-je aussi bien avec Blanche ?
+LISETTE.
+Si vous etiez sorti, vous y seriez fort bien.
+Jamais esprit ne fut moins ferme que le sien.
+O le sot animal qu'une fille timide !			[825]
+A force de pleurer, elle a la tete vide :
+Mais lorsque la pauvrette a su qui vous etiez
+D'aise elle m'a baisee, et fait cent amities.
+DON SANCHE.
+Sait-elle que je suis le deplorable frere
+Du trop heureux Marquis ?
+LISETTE.
+Elle se desespere			[830]
+De n'avoir pas le choix de Don Blaize, et de vous,
+Et de se voir reduite a prendre un tel epoux.
+DON SANCHE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Merlin ! On a siffle. C'est mon frere va vite
+Ouvrir la porte.
+LISETTE.
+Et moi je regagne mon gite.
+DON SANCHE.
+Ne m'abandonnez pas au besoin.
+LISETTE.
+Je ferai			[835]
+Des merveilles pour vous, ou bien j'y perirai :
+Parce que je crois faire une oeuvre charitable,
+En faisant reussir une amitie sortable ;
+Outre que j'ai pour vous autant d'affection
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que j'ai pour le Marquis de juste aversion.			[840]
+SCENE IV. Don Blaize, Don Sanche, Merlin, Ordugno.
+DON BLAIZE.
+Ordugno !
+ORDUGNO.
+Monseigneur ?
+DON BLAIZE.
+Que je perisse infame,
+Si le prend dans Madrid belle ni laide femme.
+Comment ! Un etranger y parait-il, soudain
+Les femmes du pays le courent comme un daim.
+Mon frere, justement au sortir de la porte,			[845]
+Deux dames de qui l'une a l'autre sert d'escorte,
+Et certain Quinola qui sert a la mener,
+Comme un lievre gite me sont venu tourner ;
+Et celle qui des deux m'a paru la Maitresse,
+D'une demarche fiere, et d'un air de Princesse,			[850]
+M'est venu sottement, soit pour mal, soit pour bien,
+Regarder sous le nez, et m'a cache le sien.
+J'ai cru cette action d'abord une passade,
+Et l'inutile effet d'une folle boutade :
+Mais Maitresse, suivante, et le vieil Ecuyer,			[855]
+N'ont point abandonne leur pretendu gibier :
+Ils m'ont depuis ceans jusqu'a l'Hotellerie
+Toujours envisage de la meme furie :
+La Dame cheminant tantot a mon cote,
+Tantot me devancant d'un pas precipite,			[860]
+Et tantot se faisant par moi laisser derriere.
+Le retour s'est passe de la meme maniere :
+La-dessus j'ai siffle, vous m'avez fait ouvrir.
+La Dame que mes yeux font sans doute mourir,
+(Et ce n'est pas ici le premier de leurs crimes,			[865]
+Ils ont bien fait ailleurs d'autres victimes)
+M'a fait comme j'entrais entendre un grand soupir,
+Tres infaillible effet d'un amoureux desir,
+Et de la je conclus, que je serais peu sage,
+Si j'allais dans Madrid me joindre en mariage,			[870]
+Ou d'abord que j'arrive, on me court nuit et jour,
+Ou l'homme est le cruel ; la femme y fait l'amour,
+Ou l'on obsede un homme au milieu d'une rue,
+Ou l'on peut etre pris pour une malotrue.
+Et que serais-ce donc, si sejournant ici,			[875]
+Quelque autre chaque jour m'entreprenait ainsi,
+Quoi ? Si je me trouvais au milieu de cent d'elles,
+Et qu'etant convoite de ces cent Demoiselles,
+Mon corps de cent cotes fut a la fois tire,
+Don Blaize en cent morceaux se verrait dechire ?			[880]
+Ordugno ! Notre noce, ou je me trompe, est faite,
+Je veux des ce matin deloger sans trompette.
+ORDUGNO.
+Et tous vos beaux habits ?
+DON BLAIZE.
+Nous nous en servirons.
+ORDUGNO.
+Et ceux de votre train ?
+DON BLAIZE.
+Nous nous en deferons.
+ORDUGNO.
+On ne se defait pas de tels habits sans perte ?			[885]
+DON BLAIZE.
+Veux-tu que je me jette en une fosse ouverte ?
+Et qu'etant marie, je sois encornaille ?
+Mais d'un bien plus grand soin je me sens travaille,
+Il faudra que je trouve une excuse valable
+A Don Cosme, un vieillard d'une humeur detestable.			[890]
+Un bourreau d'esprit doux, qui vous accorde tout,
+Et vous fait compliment en vous poussant a bout ;
+Qui ne manquera pas de louer ma prudence ;
+Qui dira, quoiqu'il perde en ma chere alliance,
+Qu'il rompra mon Hymen tout comme il me plaira ;			[895]
+Et dans le meme temps qu'il me le promettra,
+Le malheureux qu'il est, quoi que je puisse faire,
+Malgre mes dents et moi se fera mon beau-pere.
+Mortel, est-il jamais un embarras pareil ;
+Mais la nuit la-dessus nous donnera conseil.			[900]
+Vous ne laisserez pas de toute votre adresse,
+De dire des douceurs a ma jeune Maitresse,
+A propos nous aurions besoin d'une clarte,
+Pour bien voir son portrait que j'avais apporte !
+Mais la Lune est fort claire, approchons la fenetre,			[905]
+Ici comme en plein jour il ne saurait paraitre,
+Mais...
+STEFANIE, qui est dans la rue, passant la main a la fenetre de la salle basse et arrachant le portrait, dit.
+Donne.
+DON BLAIZE.
+Hay ! Bon Dieu comme on me l'a ravi :
+C'est le meme dragon qui m'a tantot suivi.
+DON SANCHE.
+Qu'avez-vous ?
+DON BLAIZE.
+Ce que j'ai ? La demande est plaisante !
+Et n'avez-vous pas vu l'action violente			[910]
+Que l'on me vient de faire, et comme on m'a grippe
+Mon portrait de la rue, apres m'avoir frappe ?
+DON SANCHE.
+Vous me surprenez fort.
+DON BLAIZE.
+Ha par ma foi c'est elle.
+DON SANCHE.
+Et qui ?
+DON BLAIZE.
+La meme Dame avec sa sequelle,
+Qui me courrait tantot. Peste ! Qu'elle m'a fait			[915]
+Une grande ecorchure en prenant mon portrait.
+DON SANCHE.
+On peut aller apres.
+DON BLAIZE.
+Ma foi, la larronnesse,
+En vitesse de pieds surpasse une Tigresse,
+Aussi bien qu'un portrait, on y perdrait ses pas.
+Encore un coup ici l'on ne m'attrape pas :			[920]
+Mais allons nous coucher. A propos notre frere
+Coucher avec quelqu'un n'est pas mon ordinaire,
+Passe pour une fois. O Don Cosme ! O Madrid !
+O maudit mariage ! O Marquis sans esprit !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DON SANCHE.
+O destin ! O amour ! O toute aimable Blanche !			[925]
+Pourrez-vous rendre heureux un autre que dom Sanche !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MERLIN.
+O Don Blaize ! O Don Sanche ! O cher couple de fous !
+Que le pauvre Merlin va souffrir avec vous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ORDUGNO.
+O cher ami Merlin ! Que les fievres quartaines,
+Puissent serrer bien fort ces deux tetes malsaines.			[930]
+
+
+			ACTE IV
+
+
+SCENE PREMIERE. Blanche, Lizette.
+BLANCHE.
+Il ne savait donc pas mon futur Hymenee
+Et qu'a son frere aine l'on m'avait destinee ?
+LISETTE.
+Il ne le savait pas : vous n'auriez jamais cru
+Quelle fut sa douleur aussitot qu'il l'a su.
+Si vous eussiez oui ses amoureuses plaintes,			[935]
+Votre coeur en eut eu de sensibles atteintes.
+Jamais un malheureux au fort de son tourment,
+N'a maudit son destin plus pitoyablement.
+Je n'ai pas pour autrui le coeur autrement tendre :
+Mais quand je songe en lui, je sens le mien se fendre.			[940]
+Son frere est bienheureux.
+BLANCHE.
+Son frere est ce qu'il est,
+Puisqu'il est approuve par mon pere, il me plait,
+Mais j'entends un carrosse.
+LISETTE, regarde par la fenetre de la salle.
+Il est vrai, qui s'arrete
+Chez nous.
+BLANCHE.
+Est-ce pour moi ?
+LISETTE.
+Feignez un mal de tete,
+Si ce sont des facheux : je vais les recevoir,			[945]
+Et vous irai querir si ce sont des gens a voir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cette Dame ici viendrait-elle a la noce ?
+SCENE II. Stefanie, Olivares, Louise, Lizette, Blanche.
+STEFANIE.
+Olivares !
+OLIVARES.
+Madame ?
+STEFANIE.
+Envoyez le carrosse.
+Pourrais-je dire un mot a Blanche de Vargas ?
+LISETTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je m'en vais l'avertir de descendre ici bas.			[950]
+STEFANIE.
+Il etait de mon train, et de ma bonne mine,
+De ne pas faire ici ma visite en gredine :
+Quelque mauvais que soit un carrosse emprunte,
+Il nous donne toujours beaucoup d'autorite.
+OLIVARES.
+Mais quel noble dessein allez-vous entreprendre ?			[955]
+STEFANIE.
+Digne de mon esprit.
+OLIVARES.
+J'ai peine a le comprendre.
+STEFANIE.
+Tu me verras Marquise, ou bien je perirai.
+OLIVARES.
+Ma foi, vous le serez comme je volerai.
+STEFANIE.
+N'ai-je pas plaisamment attrape la peinture,
+L'aimable marmouset de l'epouse future ?			[960]
+OLIVARES.
+Quel bien vous viendra-t-il d'avoir pris un portrait ?
+STEFANIE.
+J'en aurai du plaisir.
+OLIVARES.
+J'en aurai du cotret.
+STEFANIE.
+Homme de peu de foi !
+OLIVARES.
+Sans beaucoup d'apparence,
+Je ne me flatte point d'une vaine esperance.
+STEFANIE.
+Et je m'en flatte moi : mais n'as-tu pu savoir			[965]
+Ou le Marquis allait si vite hier au soir ?
+OLIVARES.
+J'ai fait ce que j'ai pu pour le pouvoir apprendre.
+STEFANIE.
+Il fut couru des mieux.
+OLIVARES.
+Courir, ce n'est pas prendre.
+SCENE I.I. Lizette, Stefanie, Blanche, Olivares, Louise.
+LISETTE.
+Madame va venir dans un petit moment.
+STEFANIE.
+N'aurais-je point trouble son divertissement ?			[970]
+Ne lui ferais-je point de visite importune ?
+Mais je la vois venir : sa beaute non commune
+Est encore au-dessus du grand bruit qu'on en fait,
+Et pour tout dire enfin, efface son portrait.
+Madame, trouvez bon devant que vous rien dire,			[975]
+Que je vous considere, et que je vous admire
+Je n'ai jamais rien vu de si charmant que vous.
+BLANCHE.
+Je n'attendais pas moins d'un visage si doux,
+Que des civilites et des cajoleries.
+STEFANIE.
+Qui ne vous en ferait ?
+BLANCHE.
+Treve de railleries.			[980]
+STEFANIE.
+Je rends ce que je dois a ce que vous valez.
+BLANCHE.
+Apprenez-moi plutot ce que vous me voulez.
+De vous pouvoir servir, je me tiendrais heureuse.
+STEFANIE, a sa suivante.
+Louise ! Qu'en dis-tu ?
+LOUISE.
+J'en serais amoureuse.
+STEFANIE.
+Et deja je la suis, et j'en hais doublement			[985]
+Le mechant qui la veut, tromper si lachement !
+LOUISE.
+Comment peut-il tromper cette belle personne ?
+STEFANIE.
+Comment me trompe-t-il ?
+BLANCHE.
+Ce langage m'etonne.
+Savez-vous qui je suis ?
+STEFANIE.
+Non, je ne le sais pas !
+Ce n'est pas votre nom que Blanche de Vargas ?			[990]
+BLANCHE.
+Je l'avoue.
+STEFANIE.
+Et j'ignore aussi qu'on vous marie !
+Mais vous savez-vous bien la noire perfidie,
+Qu'un Traitre, qu'un Marquis Don Blaize...
+BLANCHE.
+Ha taisez-vous,
+Ne venez point ici decrier mon epoux.
+STEFANIE.
+Il est donc votre epoux ?
+BLANCHE.
+Au moins il le doit etre.			[995]
+STEFANIE.
+Elle me fait pitie Louise !
+LOUISE.
+O le grand traitre !
+BLANCHE.
+Ces discours surprenants, et pleins d'obscurite,
+M'empechent de repondre a vos civilites.
+STEFANIE.
+Je m'expliquerai mieux, quelque mal qu'il m'arrive ;
+Mais qu'on ne dise point a personne qui vive,			[1000]
+Et surtout au Marquis, que l'on m'ait vu ici :
+Ce n'est pas sans raison que je vous parle ainsi.
+Je veux bien l'avouer : il y va de ma vie ;
+Mais pour avoir le bien de vous avoir servie,
+Je hasarderais tout, excepte mon honneur.			[1005]
+Vous gagnez a tel point mon estime, et mon coeur,
+Que je ferais pour vous de meme ardeur zelee,
+Quand dans vos interets je serais moins melee.
+BLANCHE.
+Mon estime et mon coeur ne sont pas moins a vous :
+Mais si vos interets sont communs, entre nous,			[1010]
+Contentez le desir, que j'ai de les apprendre.
+STEFANIE.
+J'ai toujours dans l'esprit que l'on nous peut surprendre.
+Madame encore un coup, suis-je ici surement.
+BLANCHE.
+Ne craignez rien Madame, et parler seulement.
+STEFANIE.
+Faites donc s'il vous plait sortir votre suivante.			[1015]
+BLANCHE.
+Je ne lui cache rien.
+STEFANIE.
+Elle est pourtant servante.
+BLANCHE.
+Oui : mais elle a le don de garder un secret.
+STEFANIE.
+Vous reconnaissez bien cet aimable portrait ?
+BLANCHE.
+Et qui vous l'a donne ?
+STEFANIE.
+C'est la personne meme
+A qui vous avez fait cette faveur extreme.			[1020]
+BLANCHE.
+Mais pourquoi le Marquis l'a-t-il mis dans vos mains ?
+STEFANIE.
+Don Blaize est, en un mot, le dernier des humains.
+Quand vous mariez-vous ?
+BLANCHE.
+Aujourd'hui.
+STEFANIE, a part.
+L'infidele !
+LOUISE, a Olivares.
+Il n'est pas dans le monde une plus fourbe qu'elle.
+OLIVARES.
+Fourbissime.
+STEFANIE.
+Et Don Blaize a signe le contrat ?			[1025]
+BLANCHE.
+Des longtemps.
+STEFANIE.
+O bon Dieu ! Pardonne au scelerat,
+Il n'en peut accomplir la principale clause,
+Ni vous donner la main.
+BLANCHE.
+Puisque tout s'y dispose,
+Que mon pere le veut, que j'en ai convenu ;
+Et que c'est pour cela que Don Blaize est venu.			[1030]
+Qui l'en peut empecher ?
+STEFANIE.
+Helas ! C'est moi Madame !
+Moi qui l'ai fait regner des longtemps dans mon ame,
+Sa qualite, son bien, ses serments et ses pleurs,
+Son langage flatteur, et ses feintes douleurs.
+Ma jeunesse credule, et mon ame trop tendre,			[1035]
+Ma folle vanite trop aisee a surprendre.
+Enfin tout ce que peut d'ennemis assembler
+La rigueur d'un destin qui voulait m'accabler,
+Favorisa si bien les desseins de ce traitre,
+Que je ne puis l'hair quelque ingrat qu'il puisse etre,			[1040]
+Qu'il obtint... mais helas ma rougeur, et mes pleurs
+Vous declarent assez jusqu'ou vont mes malheurs :
+Mais aussi, je vous suis encor si peu connue,
+Que vous pourriez douter, si je suis ingenue,
+Et sans me faire tort, mettre en doute ma foi,			[1045]
+Si j'etais sans temoins qui parlassent pour moi,
+Deux enfants malheureux d'un infidele pere,
+Joindraient leur faible voix a celle de leur mere,
+Et ces deux innocents auront bien le credit
+De vous persuader tout ce qu'elle vous dit.			[1050]
+BLANCHE.
+Si mon coeur vous pouvait aussi bien que ma bouche,
+Temoigner a quel point votre malheur me touche,
+Vous ne douteriez pas de la juste douleur,
+Que me fait ressentir votre cruel malheur.
+LISETTE, entre toute effrayee.
+Tout est perdu.
+BLANCHE.
+Quoi donc ?			[1055]
+LISETTE.
+Ils vont venir Madame.			[1055]
+BLANCHE.
+Qui ?
+LISETTE.
+Don Blaize, et Don Cosme.
+STEFANIE.
+O malheureuse femme !
+Et que ferai-je donc en cet accablement ?
+LISETTE.
+Vous pouvez vous cacher en son appartement ?
+La clef tient a la porte.
+DON SANCHE.
+Ouvre vite, Lizette.
+LISETTE.
+Sauvez-vous vite Dame, Ecuyer, Soubrette ?			[1060]
+Et vous defendez bien si l'on vous veut forcer.
+SCENE IV. Don Blaize, Don Cosme, Don Sanche, Blanche, Lizette, Merlin, Ordugno.
+DON BLAIZE.
+Et je soutiens encor qu'il ne faut rien presser.
+DON COSME.
+Et je soutiens aussi qu'une semblable affaire
+Se hasarde beaucoup, alors qu'on la differe.
+DON BLAIZE.
+Et moi je resoutiens qu'on ne hasarde rien,			[1065]
+Quand on differe un peu ce qu'on retrouve bien.
+Si les grands de la Cour n'etaient pas ma noce
+Si j'allais emprunter, ou louer un carrosse,
+Pour aller a l'Eglise, au lieu d'en avoir un
+En propre, et d'un ouvrage au-dela du commun :			[1070]
+Si Blanche en pareil jour etait si mal en ordre,
+Que le moindre bourgeois y put trouver a mordre :
+Enfin si j'epousait votre fille en gredin,
+Ne me croirait-on pas un fou, vous un badin ?
+Ne passerais-je pas, o trop hate Don Cosme !			[1075]
+Pour le plus grand vilain qui soit dans le Royaume,
+Ne serais-je pas fat, et meme plus que vous ?
+(Ceci soit dit pourtant sans vous mettre en courroux)
+Si je ne rendais pas celebre la journee
+Qui se pourra vanter de mon noble Hymenee.			[1080]
+Je veux que bals, festins, musiques, et taureaux,
+Carrousels, et combats de barriere aux flambeaux,
+Fassent parler en Cour de ma magnificence :
+Je differerai donc avec votre licence.
+DON COSME.
+Il faut donc differer, je ne conteste plus ;			[1085]
+Mais bals, festins, tournois sont des frais superflus,
+A la cour aujourd'hui, l'on ne s'en pique guere,
+Il n'est donc pas besoin pour cela qu'on differe.
+DON BLAIZE.
+Cet homme me fera bientot desesperer.
+Il ne conteste plus, il veut bien differer,			[1090]
+Et dans le meme temps qu'il accorde la chose,
+Le drole la refuse, et meme en dit la cause.
+DON COSME.
+Je ne refuse rien.
+DON BLAIZE.
+Nous differerons donc ?
+DON COSME.
+Ha non.
+DON BLAIZE.
+O mal plaisant vieillard, s'il en fut onc ?
+Voulez-vous differer ou non ?
+DON COSME.
+Je ne veux faire			[1095]
+Que ce que vous voudrez.
+DON BLAIZE.
+He bien donc qu'on differe.
+DON COSME.
+Mais si nous differons, qu'est-ce que l'on dira ?
+DON BLAIZE.
+Rien, sauf, hormis, sinon, que l'on differera.
+Je veux absolument differer l'hymenee,
+Dussiez-vous enrager en votre ame obstinee.			[1100]
+DON COSME.
+Je ne puis differer.
+DON BLAIZE.
+Et pour moi, je le puis.
+DON COSME.
+Je ne puis differer.
+DON BLAIZE.
+Etant ce que je suis
+Il faut que je differe, et j'en ai dit la cause.
+DON COSME.
+Je ne puis differer.
+DON BLAIZE.
+Ha parlons d'autre chose,
+Ou nous nous brouillerons.
+DON COSME.
+Je ne puis differer.			[1105]
+DON BLAIZE.
+Messieurs ! Sur mon honneur, il le faut separer.
+Ne voyez-vous pas bien qu'il n'est deja pas sage ?
+Et que sera-ce donc, si jamais il enrage ?
+BLANCHE, tout bas a son pere. 
+On peut bien differer les noces pour un temps,
+J'ai recu la-dessus des avis importants.			[1110]
+DON COSME.
+Je ne puis differer.
+DON BLAIZE.
+Quel detestable flegme !
+Ha dites-moi plutot quelque vieil apophtegme,
+De ceux dont vous m'avez tantot assassine.
+DON COSME.
+Je ne puis differer.
+DON BLAIZE.
+Maudit soit l'obstine.
+DON SANCHE.
+Puisqu'il vous presse tant, c'est un fort mauvais signe.			[1115]
+DON BLAIZE.
+C'en est un tres certain qu'il est un fourbe insigne,
+Mais allons faire un tour, pour rafraichir un peu
+Mes esprits echauffes, et mon visage en feu.
+BLANCHE.
+Ce n'est pas sans raison que je vous dis, mon pere,
+Que vous devez aussi souhaiter qu'on differe.			[1120]
+Je sais que le Marquis aime depuis deux ans,
+Une Dame, et de plus qu'il en a deux enfants.
+DON COSME.
+Tous les gens comme lui n'en font-ils pas de meme ?
+Etant en Portugal, par un bonheur extreme,
+Je pus gagner le coeur d'une jeune beaute,			[1125]
+Aimable pour l'esprit, riche, et de qualite.
+Je deguise mon nom, a cause qu'en Castille
+J'avais l'inimitie de toute une famille,
+Pour avoir fait perir a mes pieds un Rival,
+Dont la mort me retint deux ans au Portugal.			[1130]
+Cette belle avait nom Elvire de Pacheque,
+Moi, j'avais pris celui de Don Juan Palomeque,
+Nous nous aimions tous deux avecque passion,
+Mais ayant obtenu mon abolition,
+Je sortis de Lisbonne, et revins en Castille.			[1135]
+Laissant vire en pleurs, et grosse d'une fille.
+Je devais retourner l'epouser ; mais la Cour
+Bannit de mon esprit Elvire et mon amour.
+A quelque temps de la, j'epousai votre mere.
+STEFANIE, cachee.
+Dans la relation que je viens d'ouir faire,			[1140]
+Je trouve assurement l'infaillible moyen,
+D'obtenir si je veux, et Don Blaize, et son bien.
+DON COSME.
+Le voici qui revient.
+SCENE V. Don Blaize, Don Sanche, Ordugno, Don Cosme, Blanche.
+DON BLAIZE.
+Je vous croirai, Don Sanche ?
+Mais allez de ce pas parler d'amour a Blanche
+J'entretiens cependant cet ennuyeux vieillard.			[1145]
+Don Cosme ! Pourrait-on vous parler a l'ecart ?
+DON COSME.
+Je suis a vous.
+DON BLAIZE.
+He bien ! Notre aimable beau-pere ?
+Consentez-vous enfin que l'hymen se differe ?
+Ou m'entendrai-je encor l'oreille penetrer
+Par cet impertinent, je ne puis differer ?			[1150]
+DON COSME.
+Je n'eusse pas use de paroles pareilles,
+Pour peu que j'eusse cru vous blesser les oreilles.
+Je ne ferai jamais que ce que vous voudrez.
+DON BLAIZE.
+O que les hommes doux sont souples, et madres !
+DON COSME.
+Mais Monsieur, vous disiez tantot, ou je me trompe,			[1155]
+Que vous haissiez fort le vain luxe, et la pompe,
+Et ce qui peut passer pour superfluite :
+A quelque bourgeois riche, et ne sans qualite,
+On pourrait pardonner une folle depense ;
+Mais elle est condamnee en l'homme de naissance.			[1160]
+DON BLAIZE, a part.
+Ce qu'il me vient de dire, a quelque fondement.
+DON SANCHE, a l'autre bout du Theatre.
+Je ne puis plus tenir contre tant de tourment.
+Ou vous serez bientot de mes larmes flechie,
+Ou bien votre orgueil verra finir ma vie.
+BLANCHE.
+Etes-vous furieux, Don Sanche, et croyez-vous,			[1165]
+Que je puisse longtemps retenir mon courroux ?
+DON SANCHE.
+Ne la retenez pas point cette juste colere,
+Perdez un miserable ; aimez son heureux frere.
+Avancez mon trepas par vos dedains cruels,
+J'en sortirai plutot de mes maux eternels.			[1170]
+DON BLAIZE.
+Mon frere ! A mon secours. Il me tourne, il me vire,
+Il me fait enrager, et ne fait que sourire.
+STEFANIE, cachee.
+Le frere aine m'echappe, et le cadet trompeur
+De mon esprit jaloux augmente la fureur.
+Louise ! Olivares ! Ecoutez...
+DON BLAIZE.
+O Don Cosme !			[1175]
+Dans Madrid, ou plutot dans tout ce grand Royaume,
+Trouvez-vous quelquefois quelqu'un fait comme vous ?
+Croyez-vous que la paix soit longtemps entre nous ?
+Moi chaud comme le feu, vous froid comme la glace,
+Et quoi que l'on vous dise, et quoi que l'on vous fasse,			[1180]
+Vous allez toujours droit ou vous voulez aller :
+Vous me deplaisez fort, je vous veux quereller,
+Et vous m'assassiner a force de me plaire,
+Il n'est pas dans le monde un plus parfait beau-pere.
+Mais que vois-je ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mes yeux ont vu sa trahison.			[1185]
+Mais je sais le moyen d'en avoir la raison.
+Eloignons ce mechant.
+DON COSME.
+Et quelles gens peut-ce etre,
+Qui se cachent chez moi sans se faire connaitre !
+DON BLAIZE.
+Quel escadron en deuil vient me choquer ici ?
+Pourquoi diable, a moi seul s'adresse-t-il ainsi ?			[1190]
+Connaissez-vous quelqu'un de cette noire bande,
+Dites-le moi Don Cosme ?
+DON COSME.
+Et je vous le demande.
+Qui le sais mieux que vous ?
+DON BLAIZE.
+Je n'en sais rien ma foi :
+Je les ai d'abord pris pour les gens d'un convoi.
+BLANCHE, tout bas a son pere.
+Monsieur, c'est cette Dame, Epouse de Don Blaize,			[1195]
+Dont il a des enfants.
+DON COSME.
+Il en use a son aise.
+Je n'ai jamais ete choque si rudement,
+J'en suis quasi tombe par terre lourdement.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais le savez-vous bien ?
+BLANCHE.
+Oui Monsieur, c'est la meme.
+DON COSME.
+Ha ! C'est nous mepriser d'une insolence extreme,			[1200]
+Je me plains justement de votre procede,
+Don Blaize.
+DON BLAIZE.
+Et parbleu bon, je suis reprimande,
+Je n'eusse jamais cru qu'un doux a triple etage,
+De se mettre en colere eut jamais le courage.
+DON COSME.
+Il n'entre point chez moi de semblable gibier,			[1205]
+C'est me faire une offense, et c'est me decrier.
+DON BLAIZE.
+Mais que je sache donc, Don Cosme, je vous prie,
+Et ce qui vous offense, et ce qui me decrie ?
+DON COSME.
+Vous manquer de respect a ma fille.
+DON BLAIZE.
+Etes-vous
+Parfois capricieux, vous autres esprits doux ?			[1210]
+BLANCHE.
+Mon pere a grand sujet de trouver fort etrange.
+DON BLAIZE.
+Quand est du temps present, vous vous tairez, bel ange !
+Et quand est du futur, bel ange, vous saurez
+Que vous me plairez fort, lorsque vous vous tairez,
+Mais enfin, sachons donc ce que vous voulez dire ?			[1215]
+DON COSME.
+Que lorsque vous aurez un legitime empire
+Sur Blanche, qu'elle aura bien souvent a souffrir
+De pareils deplaisirs.
+DON BLAIZE.
+Que je puisse mourir,
+Si Don Cosme ne croit que j'ai fait entrer en cachette
+Entrer dans sa maison quelque amitie secrete,			[1220]
+Mon frere allez apres.
+DON SANCHE.
+J'y cours.
+DON BLAIZE.
+Mais a grand pas.
+DON SANCHE, a part.
+O Amour ! Si l'hymen par la ne se fait pas.
+DON BLAIZE.
+Allez donc ! Qu'avez-vous a regarder les nues.
+Quand des cornes seraient a mes tempes venues,
+Je n'aurais pas ete davantage etonne :			[1225]
+C'est quelque Dame a qui j'ai de l'amour donne,
+Ordugno !
+ORDUGNO.
+Monseigneur ?
+DON BLAIZE.
+En sais-tu quelque chose ?
+ORDUGNO.
+Rien du tout.
+DON BLAIZE.
+Avais-tu tenu ma chambre close ?
+ORDUGNO.
+A double tour.
+DON BLAIZE.
+Ma foi je n'y connais donc rien.
+Vous vous coulez, Don Cosme, allez vous faites bien.			[1230]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et vous l'astre d'amour qui suivez votre pere,
+Empechez l'esprit doux de se mettre en colere.
+Ordugno !
+ORDUGNO.
+Monseigneur ?
+DON BLAIZE.
+Il faut assurement,
+Que le Ciel m'ait donne de ses biens largement.
+O les rares talents que je laisse detruire !			[1235]
+Je n'ai pas plutot fait mon merite reluire
+Dans Madrid, et j'y suis, a grand peine arrive
+Qu'on m'y court, que j'y suis peu s'en faut enleve.
+Il n'est ma foi rien tel que d'etre ne bel homme,
+J'eusse voulu donner une notable somme ;			[1240]
+Afin que mon hymen pour un temps fut remis ;
+Mais sans ces gens masques sans doute mes amis,
+Je n'eusse jamais pu differer l'hymenee
+Avec un tel vieillard, de qui l'ame obstinee
+N'eut jamais demordu de son premier projet,			[1245]
+Et quoi que j'eusse dit, et quoi que j'eusse fait.
+Allons voir la-dessus ce qu'aura fait mon frere,
+Encore un coup, beaute, que tu m'es salutaire !
+
+
+			ACTE V
+
+
+SCENE PREMIERE. Don Sanche, Merlin.
+DON SANCHE.
+Tout est perdu pour moi, puisque Blanche est perdue,
+Ne m'en parlez donc plus, ma mort est resolue.			[1250]
+MERLIN.
+Quand vous parlez de mort, parlez-vous tout de bon ?
+Si j'etais, comme vous, beau comme Cupidon ;
+Si j'avais, comme vous, un satyre pour frere ;
+Si j'avais, comme vous, des qualites a plaire ;
+Si Blanche, comme a vous, me faisait les doux yeux,			[1255]
+Si l'amour, comme vous, me rendait furieux ;
+Je pousserais ma pointe, il n'est frere qui tienne,
+Tant que je verrais Blanche en espoir d'etre mienne,
+Et lorsque je verrais la belle en d'autre bras,
+J'en serais bien fache ; mais je n'en mourrais pas.			[1260]
+DON SANCHE.
+Je suis ce que tu dis : mon frere est meprisable ;
+Mais mon frere est heureux, et je suis miserable,
+Et pour faire fortune en l'empire amoureux,
+Il faut etre a la fois aimable, et bien heureux.
+Blanche m'a foudroye des traits de sa colere ;			[1265]
+Blanche sera bientot dans les bras de mon frere.
+Quand d'un bien d'ou depend notre felicite,
+Par haine, ou par mepris l'espoir nous est ote,
+Les timides conseils ne sont plus bons a suivre,
+Qui n'a pu plaire a Blanche, est indigne de vivre.			[1270]
+Contentons sa rigueur, et delivrons ses yeux
+D'un Esclave inutile aussi bien qu'odieux.
+MERLIN.
+Mais Monsieur, sauf l'honneur de votre noble envie,
+Savez-vous ce que c'est que de perdre la vie ?
+Il n'est rien tel que vivre.
+DON SANCHE.
+Il n'est rien tel pour toi ?			[1275]
+Mais la vie est a charge aux amants comme a moi,
+Que l'amour n'a flatte d'une vaine esperance,
+N'a trompe par l'eclat d'une belle apparence,
+Qu'afin que le penser d'avoir pu vivre heureux,
+Accrut le desespoir de son coeur amoureux.			[1280]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais ce frere odieux a mon repos funeste,
+Ne vient-il pas m'oter le seul bien qui me reste ?
+Ne vient-il pas encor mon trepas empecher,
+Apres m'avoir ravi ce qui me fut plus cher ?
+Helas ! Si je lui dis que Blanche est vertueuse,			[1285]
+N'est-ce pas augmenter son ardeur amoureuse ?
+Si je lui dis que Blanche ne l'est pas,
+N'est-ce pas offenser un Ange plein d'appas ?
+Et ne sera-ce point par une action lache,
+A l'honnetete meme avoir fait une tache ?			[1290]
+Ha ! N'offensons jamais cette Divinite,
+Et jusqu'au dernier jour disons la verite.
+SCENE II. Don Blaize, Don Sanche, Ordugno, Merlin.
+DON BLAIZE.
+Que disiez-vous tout seul mon frere ?
+DON SANCHE.
+Que vous etes
+Le plus heureux du monde en tout ce que vous faites.
+Et que le Ciel vous donne une chere moitie,			[1295]
+Digne de votre choix, et de votre amitie.
+Mes plaintes, mes serments, mes prieres, mes larmes
+Contre elle n'ont ete que d'inutiles armes,
+N'ont fait que m'attirer les traits de son courroux.
+Et je n'espere pas de l'apaiser sans vous.			[1300]
+Va-t'en m'a-t-elle dit de colere embrasee ;
+Va-t-en chercher ailleurs une conquete aisee ;
+Va-t'en corrompre ailleurs les innocents esprits,
+Et n'attend plus de moi que haine, et que mepris.
+DON BLAIZE.
+Ne me trompez-vous point mon dissimule frere ?			[1305]
+DON SANCHE.
+Envoyez-la querir de la part de son pere,
+Et vous tenez cache quand elle passera,
+Vous verrez de quel air elle me parlera.
+DON BLAIZE.
+L'invention me plait : ca, ca, que je me gite.
+Ordugno !
+ORDUGNO.
+Monseigneur ?			[1310]
+DON BLAIZE.
+Va la querir, va vite.			[1310]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'y vais.
+DON SANCHE.
+Mortel eut-il jamais pire destin ?
+DON BLAIZE.
+A qui parlez-vous la ?
+DON SANCHE.
+Je parlais a Merlin.
+DON BLAIZE.
+Mais s'il arrive aussi que la Donzelle tarde ;
+Si Lizette hardie autant que babillarde
+De discours superflus me la va retenir,			[1315]
+Je pourrai m'ennuyer.
+DON SANCHE.
+Je l'apercois venir,
+Retire-toi Merlin !
+SCENE III. Blanche, Don Sanche.
+BLANCHE.
+O Dieu ! Je vois Don Sanche.
+DON SANCHE.
+Je vous obeirai, trop inhumaine Blanche !
+Vous n'aurez pas plutot rendu mon frere heureux,
+Que j'executerai votre arret rigoureux :			[1320]
+Oui, je contenterai votre cruelle envie,
+J'irai loin de vos yeux, les astres de ma vie :
+Mes veritables Dieux, mais des Dieux ennemis.
+Qui me vont tout oter, et m'avaient tout promis.
+DON BLAIZE, cache.
+Il la presse un peu trop le fripon, et je gage,			[1325]
+Qu'apres un autre assaut, la Dame n'est plus sage.
+BLANCHE.
+Don Sanche ! O ma vertu que vais-je dire ici ?
+Qui vous oblige donc a nous quitter ainsi ?
+DON SANCHE.
+Qui le sais mieux que vous trop cruelle personne !
+Qui le peut mieux savoir que celle qui l'ordonne ?			[1330]
+BLANCHE.
+Celle dont la rigueur vous afflige si fort,
+N'a guere moins que vous a se plaindre du sort.
+Elle n'empeche point, que Don Sanche n'espere,
+Elle le saura bien distinguer de son frere,
+Quand par un juste choix, d'ou depend son honneur,			[1335]
+Sa bouche publiera ce que cache son coeur,
+Elle veut bien encor qu'il sache qu'une absence
+Peut nuire a ses desseins beaucoup plus qu'il ne pense,
+Nous nous verrons Don Sanche.
+DON SANCHE.
+O Dieu ! Tout est perdu.
+Blanche m'aime, et Don Blaize aura tout entendu.			[1340]
+DON BLAIZE sortant de sa cachette.
+Ha, ha petit cadet, vous l'avez debauchee,
+Cette jeune beaute de vertu non tachee,
+Ce riche don du Ciel, cette chere moitie,
+Et digne de mon choix et de mon amitie ;
+Contre qui vos serments, vos prieres, vos larmes			[1345]
+N'ont ete, dites-vous, que d'inutiles armes ;
+Qui vous a fait sentir les traits de son courroux ;
+Que vous n'esperez pas de rapaiser sans nous.
+Vous courez donc ainsi sur le marche d'un frere ?
+DON SANCHE.
+Et ne m'avez-vous pas commande de le faire ?			[1350]
+De lui porter dans l'ame un sentiment d'amour ?
+DON BLAIZE.
+Et c'est dont je me plains, Godelureau de Cour !
+Je vous avais bien dit, de lui parler de flamme,
+Afin de decouvrir ce qu'elle avait dans l'ame ;
+Mais de la coqueter, comme vous l'avez fait,			[1355]
+Ha ! C'est une action d'infidele cadet.
+Ma foi, de la facon qu'il me l'a muguetee,
+De la place ou j'etais, j'avais l'ame tentee.
+Le fripon lui tirait ses coups a bout portant,
+La plus laide guenon qui m'en dirait autant,			[1360]
+Triompherait bientot de notre continence.
+Ordugno !
+ORDUGNO.
+Monseigneur ?
+DON BLAIZE.
+Va-t'en en diligence,
+Arreter des chevaux, et les tiens prets sans bruit,
+Je ne veux pas coucher a Madrid cette nuit :
+Tache de me trouver aussi ce vieil Don Cosme,			[1365]
+L'homme le plus facheux qui soit dans le Royaume
+Je lui rends sa parole, et je reprends aussi
+La mienne, et cela fait, eloignons-nous d'ici.
+DON SANCHE.
+Je suis bien malheureux d'avoir fait pour vous plaire,
+Ce qu'un autre que vous ne m'eut jamais fait faire ;			[1370]
+Et d'avoir reussi dans mon dessein si mal,
+Que vous me soupconnez d'etre votre Rival.
+DON BLAIZE.
+Si vous me dites vrai, la chose est pardonnable ;
+Mais vous l'avez rendue un peu trop vraisemblable.
+Car vous la cajoliez de si bonne facon,			[1375]
+Que la Dame a d'abord mordu a l'hamecon :
+Puisqu'elle est si facile en pareille matiere,
+Et qu'elle est en un mot de coquette maniere,
+Nous n'avons qu'a songer a des partis meilleurs,
+Et Don Cosme n'aura qu'a se pourvoir ailleurs.			[1380]
+Je lui donne s'il veut signer devant Notaire,
+Que je lui remets Blanche en faveur de mon frere ;
+Car quant a l'epouser je n'ai pas le loisir,
+Il s'en fachera ; mais : tel est notre plaisir,
+Tout le regret que j'ai n'est que de mes livrees ;			[1385]
+Un faquin de Tailleur me les a chamarrees
+Comme si le galon ne m'avait rien coute ;
+Tu me l'as conseille, confident evente !
+Et de charger mon train de laquais et de pages,
+Mais je me vengerai sur l'argent de tes gages.			[1390]
+Allons chercher Don Cosme et cependant, cadet,
+Puisque je le permets, poussez votre bidet.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'ai d'etranges soupcons de ce cher petit frere.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DON SANCHE.
+Blanche approuve ma flamme, et veut bien que j'espere.
+Quel plaisir est pareil a celui d'un amant			[1395]
+Qui recoit de son Ange un tel consentement ?
+O mon coeur ! Moderez vos transports d'allegresse,
+Reservez-les, mon coeur, aux yeux de ma Deesse,
+Mais je la vois venir avec tous ses appas.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous voulez donc encor differer mon trepas ?			[1400]
+Et satisfaire enfin d'une injuste souffrance,
+Vous me permettez donc d'avoir de l'esperance,
+SCENE IV. Blanche, Don Sanche, Don Blaize.
+BLANCHE.
+Oses-tu bien tenir de semblables discours
+A qui te voudrait voir a la fin de tes jours ?
+Oses-tu m'eprouver par de laches atteintes,			[1405]
+Et me choisir encor pour l'objet de tes feintes ?
+J'avais d'abord puni, comme tout autre eut fait,
+D'une juste colere un amour indiscret ;
+Mais depuis soupconnant que tu feignais ta flamme,
+Pour tenter ma vertu, pour eprouver mon ame :			[1410]
+Car qui jamais eut cru qu'un amour criminel,
+Eut banni de ton coeur le respect fraternel ?
+J'ai feint de compatir a ta peine insensee ;
+J'ai feint que ton amour m'avait l'ame blessee :
+Tes yeux m'ont vu rougir, et m'ont vu soupirer,			[1415]
+Et ma feinte bonte t'a permis d'esperer ;
+Mais maintenant je sais que ton coeur est capable
+Du crime le plus noir et le plus detestable :
+Sache aussi que le mien est aussi vertueux ;
+Que le tien est ingrat, lache, et presomptueux,			[1420]
+Et quand il deviendrait d'un crime susceptible,
+Qu'il ne serait jamais a ton amour sensible.
+Sache qu'il cherira ton frere tendrement,
+Et qu'il te haira toujours mortellement.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DON BLAIZE, pensif.
+Qu'en dites-vous cadet ? Blanche et vous, ce me semble			[1425]
+Quoi qu'aimable tous deux, n'etes pas bien ensemble.
+Ordugno !
+ORDUGNO.
+Monseigneur ?
+DON BLAIZE.
+Et c'est parler cela ;
+C'est comme il faut traiter un coquet Quinola,
+O la Maitresse fille ! Et Porcie, et Lucrece,
+Ne l'ont jamais value avecque leur prouesse :			[1430]
+Lucrece avec Tarquin se donna du bon temps,
+Et l'autre se brula la gorge a contretemps.
+Dieu ! Qu'elle est raisonnable et qu'elle est forte en bouche,
+Celle que je croyais une sainte N'y touche.
+Ma foi je me marie au son de maint rebec,			[1435]
+Et Don Sanche n'aura qu'a s'en torcher le bec,
+Je veux des cette nuit avec grande energie,
+Ebaucher en draps blancs ma genealogie ;
+Et cependant cadet, vous ferez la-dessus,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Des stances, ou du moins des regrets superflus.			[1440]
+MERLIN, par ironie.
+Que Don Sanche est heureux ! Sa Maitresse l'adore.
+DON SANCHE.
+Ce froid bouffon vient-il m'importuner encore ?
+O Blanche ! Vous aimer, est-ce un juste sujet
+De me desesperer, comme vous avez fait ?
+Et que puis-je penser d'une fille inconstante ?			[1445]
+Qui tantot rigoureuse, et tantot obligeante,
+Prend en moins d'un moment deux sentiments divers,
+M'eleve sur le trone, et me met dans les fers.
+Ha Lizette...
+SCENE V. Lizette, Don Sanche.
+LISETTE.
+Je sais ce que vous m'allez dire :
+Mais quand bien on aurait d'un plus cruel martyre			[1450]
+Punit votre malice, et votre trahison,
+Vous auriez toujours tort, et Blanche aurait raison.
+DON SANCHE.
+Vous m'abandonnez donc o fille trop cruelle ?
+LISETTE.
+J'abandonne un amant que je crois infidele.
+DON SANCHE.
+Moi Lizette ?
+LISETTE.
+Oui vous ; car mon beau cavalier !			[1455]
+Puisqu'il vous faut convaincre, oserez-vous nier
+Que par un feint amour, une lache finesse,
+Vous n'ayez attente d'eprouver ma Maitresse ;
+Elle s'en douta bien, et pour s'en assurer,
+Elle feignit aussi, vous permit d'esperer ;			[1460]
+Don Sanche y fut trompe ; car l'amour de soi-meme ;
+Persuade aisement un jeune homme qu'on l'aime :
+Mais il ne savait pas que Blanche l'ecoutait,
+Lorsqu'au Marquis jaloux jurant il protestait !
+Que c'etait seulement a dessein de lui plaire.			[1465]
+Qu'il s'etait declare de Blanche tributaire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous m'avez commande de feindre, je feignais ;
+Mais mon coeur n'etait pas d'accord avec ma voix.
+Ce sont vos memes mots, on me les vient d'apprendre.
+DON SANCHE.
+Il est vrai, ce les sont ; mais voulez-vous m'entendre ?			[1470]
+LISETTE.
+De bon coeur.
+DON SANCHE.
+Si je crois les avoir offenses
+Ces yeux injustement contre moi courrouces ;
+Que puisse-je a jamais leur etre detestable,
+Si je ne vous fais pas un recit veritable,
+Et si vous n'avouez que je n'ai point de tort,			[1475]
+Que puisse-je tomber a vos pieds raide mort.
+LISETTE.
+Il, faut que Dieu m'ait fait le naturel bien tendre,
+Quand je vois quelque amant qui parle de se pendre,
+Ou bien de se donner un grand coup de poignard.
+C'est comme s'il percait mon coeur de part en part.			[1480]
+J'ai brule comme un autre, et sait combien vaut l'aune
+De cette passion qui fait devenir jaune.
+Pour revenir a vous, si vous me faites voir
+Que vous n'avez rien fait que votre devoir,
+J'espere d'etre utile au bien de vos affaires :			[1485]
+Mais monsieur, si l'amour aime les temeraires,
+Allons tout droit a Blanche, embrassez ses genoux,
+Pleurez, et soupirez, et laissez faire a nous,
+Aussi bien, il nous faut deguerpir de la place ;
+Voici notre vieillard.
+SCENE VI. Don Cosme, Stefanie, Louise, Olivares.
+DON COSME.
+J'ai de votre disgrace			[1490]
+Beaucoup de deplaisir, et suis fort etonne,
+De l'important avis que vous m'avez donne.
+STEFANIE.
+Je vous apporte ici sa trompeuse promesse :
+Dans l'oubli de moi-meme, ou me met ma tristesse,
+Je ne m'avisais pas de vous la faire voir.			[1495]
+DON COSME.
+Donnez.
+LOUISE a Olivares tout bas.
+C'est le papier que Merlin laissa choir.
+Le valet de Don Sanche.
+STEFANIE, qui l'entend, lui dit aussi tout bas. 
+Et c'est par la, Louise ,
+Que tu verras bientot ta Maitresse Marquise.
+LOUISE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais si l'on va savoir que vous ne soyez pas
+La fille du vieillard, la machine est a bas ;			[1500]
+C'est a vous d'y penser.
+STEFANIE.
+Mon Dieu, laisse-moi faire.
+OLIVARES.
+Elle va s'attirer quelque mechante affaire,
+Et nous faire donner quelques mauvais presents.
+DON COSME.
+C'est une lettre ecrite en termes fort plaisants.
+Il veut qu'elle ait, dit-il, force d'une promesse,			[1505]
+J'y reconnais sa main partout, fors dans l'adresse.
+Vous vous appelez donc Comtesse d'Alcalca ?
+STEFANIE.
+C'est le nom d'une ville aupres de Malacca :
+Quand le Mars Portugais, Albuquerque en fut Maitre,
+De cette recompense il daigna reconnaitre			[1510]
+Les services rendus par defunt mon Mari.
+Helas ! Son souvenir m'a le coeur attendri.
+Je ne puis retenir mes pleurs, quand je le nomme.
+DON COSME.
+Il faut que le Marquis soit un tres mechant homme,
+Oui bien que vous soyez plus mechante que lui :			[1515]
+Quant a sa lettre, elle est pour vous de peu d'appui,
+J'y vois des nullites qui sont peu recevables.
+Vous avez deux enfants ?
+STEFANIE.
+Deux petits miserables.
+Tous deux des plus jolis, et les vivants portraits
+Du pere.
+DON COSME.
+Vous aurez a faire de grands frais			[1520]
+Contre un homme puissant.
+STEFANIE.
+Quoique pauvre etrangere,
+Mon pere fait ici sa demeure ordinaire ;
+Il ne laissera pas une fille au besoin :
+De lui, jusqu'a ce jour, je me cache avec soin,
+Redoutant son courroux, de ma faute honteuse,			[1525]
+Mais je sais bien qu'il a l'ame fort genereuse,
+Je suis pour vous parler avec sincerite,
+Fille d'un Castillan homme de qualite :
+Il devint de Lisbonne amoureux de ma mere,
+Qui n'a point eu depuis nouvelles de mon pere.			[1530]
+DON COSME.
+Homme de qualite ?
+STEFANIE.
+Noble comme le Roi.
+DON COSME.
+Et s'appelle ?
+STEFANIE.
+Don Juan Palomeque.
+DON COSME.
+Est-ce moi ?
+Bons Dieux ! Et votre mere ?
+STEFANIE.
+Elvire de Pacheque.
+DON COSME.
+Ha ma fille ! Je suis ce Don Juan Palomeque.
+Qui deguisais mon nom dans Lisbonne, o bon Dieu !			[1535]
+Que je recois de joie a vous voir en ce lieu,
+Et que je suis fache, de vous voir de la sorte :
+Mais apprenez-moi donc, comment elle se porte,
+Cette aimable beaute, de qui l'oeil mon vainqueur,
+Malgre l'eloignement, regne encor dans mon coeur.			[1540]
+STEFANIE.
+Helas ! Un sort cruel me l'a trop rot ravie,
+Et depuis, le malheur m'a toujours poursuivie.
+DON COSME.
+Sa perte m'est sensible avec juste raison ;
+Mais ici les regrets ne sont pas de saison.
+Travaillons maintenant comme au plus necessaire,			[1545]
+A vous tirer de peine, aussi bien que d'affaire.
+STEFANIE.
+Vous avez dans vos mains mon honneur, et mon bien.
+DON COSME.
+Mettez-vous en repos, votre honneur est le mien,
+Je ne suis pas d'avis qu'on vous fasse paraitre,
+Qu'on ne soit eclairci du dessein de ce traitre ;			[1550]
+Entrez donc dans ma chambre.
+SCENE VII. Don Blaize, Ordugno, Don Cosme, Stefanie, Louise, Olivares, etc.
+DON BLAIZE.
+Ordugno !
+ORDUGNO.
+Monseigneur ?
+DON BLAIZE.
+Je veux absolument qu'on batte mon tailleur,
+Mon habit est mal fait. He bien mon cher beau-pere,
+Je ne suis plus d'avis que l'hymen se differe.
+DON COSME.
+Et moi j'en suis d'avis.
+DON BLAIZE.
+Ceci serait plaisant.			[1555]
+DON COSME.
+Il est pourtant ainsi.
+DON BLAIZE.
+Cet esprit malfaisant
+Sait parfaitement bien faire enrager le monde.
+Civil beau-pere en qui toute douceur abonde,
+Expliquez-nous un peu vos desseins ambigus !
+Vous voulez une chose, et ne la voulez plus.			[1560]
+Savez-vous, si l'hymen ne se fait dans une heure,
+Il ne sera pas de six mois, ou je meurs ?
+DON COSME.
+Si vous disiez jamais, je vous en croirais mieux.
+DON BLAIZE.
+J'avais toujours bien dit que son grand serieux
+Pourrait degenerer a la fin en folie,			[1565]
+Et je repete encor qu'il faudra qu'on le lie.
+DON COSME.
+Don Blaize il n'est plus temps de vous rien deguiser,
+Vous etes decouvert ; c'est pourquoi sans ruser,
+Achever votre hymen avecque Stefanie
+Comtesse d'Alcalca.
+DON BLAIZE.
+Sa nouvelle manie			[1570]
+Me fait peur, ou prend-il cet etrange Comte,
+Dont le nom sent si fort son esprit demonte ?
+DON COSME.
+Ma fille est votre femme, elle a votre promesse,
+Et de plus, deux enfants, de plus elle est Comtesse.
+DON BLAIZE.
+Vous etes fou Don Cosme, et de plus, fou facheux,			[1575]
+Et de plus, incurable, et nous en serions deux,
+Si j'allais me facher de vos folles boutades,
+Que je veux desormais recevoir en gambades.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DON COSME.
+Reconnaissez-vous bien cette ecriture ?
+DON BLAIZE.
+Oui-da :
+Mais je ne connais point la dame d'Alcalca.			[1580]
+J'ecrivis cette lettre a votre fille Blanche,
+Je l'avais adressee a mon frere Don Sanche.
+C'est toi qui la portas Merlin ?
+MERLIN.
+Je n'en sais rien,
+Je n'ai point de memoire, et vous le savez bien.
+DON BLAIZE.
+Ha voici ma Maitresse, et mon cadet. Mon frere !			[1585]
+Et vous Blanche, venez songez a votre pere.
+DON COSME a la porte de la chambre, 
+ou Stefanie est cachee. 
+Sortez, sortez, Madame ; il n'est plus de saison
+De menager l'esprit d'un homme sans raison.
+DON BLAIZE.
+La Dame est assez belle.
+DON SANCHE.
+Et c'est la Portugaise.
+Merlin !
+MERLIN.
+Sur mon honneur, on en veut a Don Blaize.			[1590]
+DON SANCHE.
+Tant mieux ami Merlin ?
+DON COSME.
+Don Blaize, vous voyez,
+Que je ne suis pas fou, comme vous le croyez.
+Pouvez-vous bien trahir cet objet plein de charmes ?
+STEFANIE, pleurant.
+Je ne puis retenir mes sanglots et mes larmes.
+OLIVARES, pleurant.
+Madame ! Voulez-vous incessamment pleurer ?			[1595]
+LOUISE, pleurant.
+Quel plaisir prenez-vous a vous desesperer ?
+STEFANIE, pleurant.
+Ha mes amis pleurons un malheur sans remede ;
+Ayons recours aux pleurs, quand la constance cede.
+DON BLAIZE.
+Et qu'est-ce qu'elle a donc a s'affliger ainsi ?
+Et celui qui la mene, et sa suivante aussi.			[1600]
+DON COSME, pleurant.
+Ils me font grand pitie.
+DON BLAIZE, pleurant.
+S'ils pleurent davantage,
+Il faudra bien aussi humecter son visage.
+Peste soit des pleureurs.
+DON COSME.
+Ha ma fille ! Vos pleurs,
+Au lieu de vous servir, aigrissent vos douleurs.
+STEFANIE.
+Adorable ennemi ! Que je hais ; que j'adore,			[1605]
+Tes injustes rigueurs durent-elles encore ?
+DON BLAIZE.
+Belle qui pleureux tant, inconnue a mes yeux,
+Voudriez-vous pleurer moins, ou vous expliquer mieux ?
+STEFANIE, lui sautant aux yeux.
+Tu ne me connais pas ingrat ? Ha ! Tout a l'heure.
+Il faut que je t'etrangle, ou qu'un de nous deux meure.			[1610]
+DON BLAIZE.
+Haye, Haye, Haye, Ordugno ! Mon cher frere ! Merlin
+Venez me delivrer de cet esprit malin.
+STEFANIE.
+Perfide ! Scelerat !
+DON BLAIZE.
+Seigneur en qui j'espere ?
+N'etait-ce pas assez de ce maudit beau-pere,
+Sans lacher contre moi la Dame d'Angola ?			[1615]
+STEFANIE.
+Dis d'Alcalca, mechant, aupres de Malacca.
+DON BLAIZE.
+D'Angola, d'Alcalca, Malacca, que m'importe
+De bien dire son nom, que le Diable m'emporte,
+Si je t'ai jamais vue, et si je crois jamais
+Te voir.
+DON COSME.
+Vous ne pouvez refuser desormais			[1620]
+D'epouser en public ma fille.
+DON BLAIZE.
+Ha cher beau-pere !
+De bon coeur. Venez donc ma belle.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DON SANCHE.
+Non mon frere,
+Blanche n'est plus a vous, Blanche n'est plus qu'a moi,
+En matiere d'amour nul ne me fait la loi.
+DON BLAIZE, a Blanche.
+Et vous y consentez ?
+BLANCHE.
+Que mon pere y consente,			[1625]
+Et je m'estime heureuse, honoree et contente.
+DON BLAIZE.
+Et vous Don Cosme ?
+DON COSME.
+Et moi je vous dirai qu'il faut
+Que vous donniez la main a ma fille au plutot.
+DON BLAIZE.
+Je le veux.
+DON COSME.
+Mais ma fille est cette belle Dame
+Comtesse d'Alcalca.
+DON BLAIZE.
+Grand dieu que je reclame,			[1630]
+Est-ce pour mes peches, que je suis a Madrid !
+DON COSME.
+Mais peut-on contester contre son propre ecrit,
+Ma fille etant bien faite ?
+DON BLAIZE.
+Ha diantre ! Elle est trop belle,
+Et c'est pour cela seul que je ne veux point d'elle.
+Mon front serait gate s'il devenait cornu,			[1635]
+Et je n'epouse point de visage inconnu.
+Don Blaize, il faut quitter cette maudite terre,
+Ou tout le genre humain me declare la guerre ;
+Ou l'on voit tant de fous ; ou l'on force les gens
+Au facheux joug d'hymen, meme malgre leurs dents.			[1640]
+Don Cosme pour t'avoir ma maudite promesse,
+Et pour n'epouser pas ta fille, ou ta Comtesse,
+Un dangereux dragon, qui m'a pris au gosier,
+Et qui me derobant certain portrait hier,
+M'egratigna les mains (je reconnais sa taille,)			[1645]
+Et je gagerais bien, que ce n'est rien qui vaille :
+Pour m'en delivrer donc, et partir a l'instant,
+Je veux bien qu'il m'en coute un peu d'argent comptant.
+DON COSME, a Stefanie.
+Il le faut prendre au mot, vous ne sauriez mieux faire.
+DON BLAIZE.
+Et pour me delivrer de mon faquin de frere,			[1650]
+Je veux le partager, meme grossir son fait,
+Ainsi je me verrai sans femme et sans cadet.
+DON COSME.
+Je veux savoir quel bien, vous donnez a Don Sanche.
+DON BLAIZE.
+Plus que vous n'en donnez a votre fille Blanche,
+Et pour ne vous voir plus, Comtesse d'Alcalca,			[1655]
+Apprenez que j'irais plus loin que Malacca.
+
+	==================================================

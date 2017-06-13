@@ -1,0 +1,1322 @@
+********************************************************
+	DC.Title                  = LA COQUETTE, OU L'ACADEMIE DES DAMES, COMEDIE EN TROIS ACTES
+	DC.Author                 = REGNARD, Jean-Francois
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 01/06/2016 a 06:38:28.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/REGNARD_COQUETTE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LA COQUETTE, OU L'ACADEMIE DES DAMES. COMEDIE en TROIS ACTESM. DC. LXXXXI.
+Jean-Francois Regnard
+	
+	
+	Representee pour la premiere fois le 17 janvier 1691 a l'Hotel de Bourgogne.
+	AVERTISSEMENT DE L'EDITEUR SUR LA COQUETTE. [1823]
+Cette comedie a ete representee pour la premiere fois le 17 janvier 1691. 
+Les auteurs des Anecdotes dramatiques ont ajoute, a l'article de cette piece, la note suivante « On desirerait que les editeurs des OEuvres de ce poete comique (Regnard) y eussent insere quelques scenes des pieces que cet auteur a donnees au Theatre italien, au lieu de tous ces ouvrages mediocres dont ils ont rempli le quatrieme volume de leur edition. » 
+C'est avec raison que ces auteurs souhaitent de voir reunies aux autres uvres de notre poete les meilleures scenes de son theatre italien et la comedie de la Coquette etait plus propre qu'aucune autre a faire naitre cette idee. 
+Cette piece est, en effet, l'une des plus plaisantes et des mieux intriguees de ce recueil. Le caractere de la Coquette est un des meilleurs que Regnard ait mis au theatre : on la voit recevoir, avec un egal empressement, les hommages de tout le monde, et ne pas meme dedaigner ceux de son valet Pierrot. Quant au bailli du Maine, Arlequin, c'est une caricature digne du Theatre italien. On y trouve beaucoup de traits de ressemblance avec le Pourceaugnac de Moliere ; et le Bailli marquis est aussi ridicule et d'une charge aussi grotesque que le Gentilhomme limousin deguise en femme de qualite. 
+Cette piece n'a point ete reprise. 
+
+
+TRAFIQUET.
+COLOMBINE, fille de Trafiquet.
+ISABELLE, niece de Trafiquet.
+LE COMTE, amant de Colombine. Octave.
+ARLEQUIN, bailli du Maine.
+PIERROT, domestique de Trafiquet.
+MARINETTE, domestique de Trafiquet.
+MEZZETIN, valet du Comte.
+PASQUARIEL, valet du Comte.
+BAGATELLE, laquais de Colombine.
+MONSIEUR NIGAUDIN, conseiller au presidial de Beauvais. Mezzetin.
+MADAME PINDARET, bel esprit.
+MARGOT, couturiere.
+UN CAPITAINE. Arlequin.
+UN SERGENT.
+UN LAQAUIS de Monsieur Nigaudin.
+UN LAQUAIS de Madame Pindaret.
+FOURBES de la suite de Mezzetin, et autres personnages muets.
+La scene est a Paris, chez Trafiquet.
+
+
+
+			ACTE I
+
+
+SCENE I.
+ARLEQUIN, en colere, se retournant, a la cantonade. 
+Vous en avez menti, messieurs les commis de la barriere, je ne dois rien : vous etes des fripons. On est plus assure au milieu des bois que dans ce maudit pays-ci : on ne saurait faire un pas qu'on ne trouve un filou. Il n'y a pas une demi-heure que je suis arrive dans Paris, et me voila deja presque tout deshabille... Au voleur ! Au voleur ! Quelle maudite nation ! A peine suis-je entre dans la ville, qu'on fait derriere mon cheval l'operation a ma valise ; on en tire les hardes, et on la fait accoucher avant terme. En descendant a l'hotellerie, on m'escamote ma casaque. Je fais deux pas dans la rue, un fiacre me couvre de boue depuis les pieds jusqu'a la tete ; un porteur de chaise me donne d'un de ses batons dans le dos : il vient un homme me saluer ; je lui ote mon chapeau, un coquin par derriere m'arrache ma perruque ; et, pour comble de friponneries, on veut me faire payer l'entree a la porte comme bete a cornes, parce que je viens pour me marier... Attendez donc que je sois... 
+SCENE II. Arlequin, Mezzetin.
+ARLEQUIN.
+Monsieur, n'etes-vous pas un coupeur de bourses ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III. Colombine, Isabelle.
+Le theatre change, et represente l'appartement de Colombine ; elle est a sa toilette, et Isabelle prelude sur un clavecin.
+COLOMBINE.
+Hola, quelqu'un ! N'ai-je la personne ? Cascaret, Jasmin, Pierrot, Bagatelle, Bagatelle ! 
+SCENE IV. Colombine, Isabelle, Pierrot, Bagatelle.
+COLOMBINE, a Bagatelle. 
+D'ou vient, petit garcon, qu'il faut vous appeler tant de fois ? 
+BAGATELLE.
+Mademoiselle, c'est que j'achevais ma main au lansquenet. 
+COLOMBINE.
+N'est-il venu personne me demander ? 
+BAGATELLE.
+Il est venu cinq ou six personnes ; mais j'ai oublie leurs noms et ce qu'elles m'ont dit. 
+COLOMBINE.
+Le petit etourdi !
+PIERROT.
+Monsieur le conseiller a dit qu'il allait revenir. Il est venu aussi cette grande femme qui a le visage si creux, qui vous viendra voir tantot, quand elle aura ete chez son libraire. 
+COLOMBINE.
+C'est notre bel esprit ; je la tiens quitte de sa visite des a present.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Venez ca ; allez chez ma couturiere, et dites-lui que je veux avoir mon habit aujourd'hui. 
+BAGATELLE.
+Ne lui dirai-je pas aussi de nous faire des culottes ? La mienne est toute dechiree entre les jambes, et ma chemise passe, reverence parler, par... 
+COLOMBINE.
+Taisez-vous, petit sot, et faites ce que je vous dis.
+SCENE V. Isabelle, Colombine.
+ISABELLE.
+He bien, cousine, as-tu bientot mis la derniere main a ton visage ? 
+COLOMBINE.
+Dis-moi, je te prie, comment me trouves-tu aujourd'hui ? 
+ISABELLE.
+A charmer. 
+COLOMBINE.
+J'ai beau arranger mes traits, il me semble qu'il y en a toujours quelqu'un qui se revolte contre mon economie. 
+ISABELLE.
+Je t'assure que tu es d'un air a faire payer contribution a tous les coeurs de la ville. 
+COLOMBINE.
+Je sais bien, sans vanite, que j'ai quelque agrement ; mais avec un peu de beaute, et trois ou quatre mouches sur le nez, une fille ne va pas loin dans le siecle ou nous sommes. Il faut de cela pour plaire ...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et pour attraper un epoux, qui est le point difficile. Nous commencons tout doucement a monter en graine, et nous sommes assez fortes pour bien soutenir une these en mariage. 
+ISABELLE.
+J'en tombe d'accord. Crois-tu, cousine, que j'aie le coeur plus dur que toi ? Je sens quelquefois qu'une fille n'est pas nee pour vivre seule ; je t'avouerai meme que j'emploie tout mon esprit pour attirer quelque amant dans le filet conjugal. Mais les hommes sont des pestes de poissons ruses qui viennent badiner autour de l'appat, et qui mordent rarement a l'hamecon. Le mariage se decrie de jour en jour ; je crois, pour moi, que nous allons voir la fin du monde. 
+COLOMBINE.
+Que tu es folle ! Quoique le mariage ne soit plus guere a la mode, les hommes ont beau faire, ils ne sauraient se passer de nous. Leur repugnance pour le mariage vient de la simplicite des filles qui ne savent pas jouer leur role. L'homme est un animal qui veut etre trompe. 
+ISABELLE.
+Je ne m'applique nuit et jour a autre chose. Je releve, avec art, les agrements que la nature m'a donnes : je joins a quelque brillant d'esprit les talents de la poesie et de la musique : pour mes manieres, elles sont douces et insinuantes ; et, avec tout cela, point d'epouseurs. 
+COLOMBINE.
+Mais que pretendent donc tous ces petits messieurs-la ? 
+ISABELLE.
+C'est ce que je ne concois pas. On sait bien qu'il y a de certaines avances qui accrochent quelquefois. Mais vous en aurez menti, messieurs les soupirants ; et si j'accorde quelque faveur, ce ne sera, ma foi, que par-devant notaire, et en vertu d'un bon parchemin bien signe. 
+COLOMBINE.
+Cependant ce n'est pas une chose si difficile que tu le penses, d'engager un homme. Savoir risquer un billet dans son temps, marcher sur le pied a l'un, tendre la main a l'autre, se brouiller avec celui-ci, se raccommoder avec celui-la : crois-moi, avec ce petit manege-la, il faut, bon gre, mal gre, que quelque bete donne dans les toiles. 
+ISABELLE.
+Il me semble que tu copies assez bien une coquette d'apres nature. Prends-y garde, au moins : on ne fait plus guere de fortune a ce metier-la. 
+COLOMBINE.
+Bon ! Il n'y a plus que les sottes qui se persuadent d'attraper des hommes par des airs composes. Cousine, le monde m'en a plus appris qu'a toi, et je te suis caution qu'une fille n'est piquante qu'autant qu'elle a pris sel dans la coquetterie. 
+ISABELLE.
+Vraiment ! Ce ne sont pas la les maximes de ma mere, qui me prone tous les jours que la coquetterie est l'antipode du mariage ; et j'ai oui dire cent fois a mon oncle qu'une fille coquette ressemble a ces vins petillants dont tout le monde veut tater, et dont personne ne veut acheter pour son ordinaire. 
+COLOMBINE.
+Voila-t-il pas mes contes de grand'meres, qui condamnent dans leurs enfants les plaisirs que l'age leur refuse ! Je veux, moi, te donner des conseils pour le mariage, plus courts et plus faciles : et afin que tu les retiennes mieux, je vais te les lire en vers. 
+ISABELLE.
+En vers, ma petite ! Ah ! C'est ma folie. 
+COLOMBINE.
+N'en perds pas une syllabe. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Portrait d'une Coquette, ou la vraie morale d'une Fille a marier.
+Une fille qui veut se faire 
+Un epoux parmi ses amants, 
+Doit changer a tous les moments 
+Et de visage et de maniere ; 
+Tantot, d'un air modeste, elle entre dans un coeur, 			[5]
+Sous un faux semblant de sagesse ; 
+Et tantot, rallumant un feu de belle humeur, 
+Elle y porte a la fois la joie et la tendresse ; 
+Elle sait finement, par un melange heureux, 
+Delaver la douceur avecque la rudesse ; 			[10]
+Du frein ou de l'epron usant avec adresse, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Suivant que l'animal est vif ou paresseux.
+ISABELLE.
+Je ne sais pas comment sera le reste, mais le debut est fort vif. 
+COLOMBINE.
+Rien ne se dementira. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour conserver les coeurs qu'elle a su preparer, 
+Elle tient toujours la balance 
+Entre la crainte et l'esperance, 			[15]
+Laissant un pauvre amant doucement s'enferrer. 
+Si quelqu'un, rebute de son trop long martyre, 
+Cherche a s'echapper du filet, 
+Par de fausses bontes alors on le retire : 
+On ecrit, et Dieu sait le style du billet ! 			[20]
+Un roi ne paierait pas tout ce qu'on lui promet : 
+On se desespere, on soupire ; 
+Trac, l'oiseau rentre au trebuchet. 
+ISABELLE.
+Au trebuchet ! Un mari ne se prend pas comme un oiseau ; il faut bien d'autres pieges. 
+COLOMBINE.
+Je te dis qu'en amour ils sont si niais, qu'une fille qui sait un peu son metier en va duper trente a la fois.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Lui parle-t-on d'amour... 
+ISABELLE.
+Encore ? 
+COLOMBINE.
+Voici le dernier. Dame ! Il entre bien des ingredients dans la composition d'une coquette.
+Lui parle-t-on d'amour, vante-t-on ses appas, 
+Elle impose silence en faisant la novice ; 			[25]
+Elle fait expliquer ceux qui n'en parlent pas, 
+Et sait se demonter a visse : 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)D'un rire obeissant son visage est pare ; 
+Le robinet des pleurs s'ouvre et ferme a son gre ; 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et, dispensant ainsi la rigueur, la tendresse, 			[30]
+Crois-moi, cousine, en cet etat, 
+C'est jouer de malheur, apres tant de souplesse, 
+Si quelque dupe enfin ne tate du contrat.
+ISABELLE.
+Savante comme tu l'es, tu devrais te mettre a montrer le coquettisme en ville : tu serais bientot riche. 
+COLOMBINE.
+Je n'y gagnerais pas de l'eau : toutes les filles savent cela. Dans le fond, on n'a que de bonnes intentions. Et quel reproche peut faire un homme quand une fille ne le trompe qu'en vue de mariage ? 
+SCENE VI. Colombine, Isabelle, Bagatelle.
+BAGATELLE.
+Mademoiselle, voila monsieur le comte Octave. 
+COLOMBINE.
+Qu'il entre.
+SCENE VII. Isabelle, Colombine.
+ISABELLE.
+Je te laisse avec lui ; car apparemment c'est un epouseur : et ma mere m'attend. 
+COLOMBINE.
+Bon ! Ta mere t'attend : va, va, elle est la maitresse, elle attendra tant qu'elle voudra : demeure ici ; tu en apprendras plus avec moi en un quart d'heure, que tu ne feras en toute ta vie avec ta mere. C'est une facon de mari. 
+ISABELLE.
+Tu l'aimeras donc ? 
+COLOMBINE.
+Que tu es sotte ! Ne t'ai-je pas dit cent fois que j'aime tout le monde sans aimer personne. Mon pere m'a defendu de le voir, parce qu'il me destine a un bailli du Maine, qui doit arriver dans peu. Ne suis-je pas bien malheureuse ! Car imagine-toi ce que c'est qu'un bailli, et un bailli du Maine ! Mais voici Octave.
+SCENE VIII. Colombine, Isabelle, Octave, Mezzetin.
+OCTAVE.
+Malgre la rigueur de votre pere, je viens vous assurer, mademoiselle, que je perdrai plutot la vie que l'esperance d'etre un jour votre epoux. 
+MEZZETIN.
+Oui, mademoiselle, nous avons resolu cela : et s'il ne vous epouse, je vous epouserai, moi.
+ISABELLE, bas, a Colombine. 
+Cousine, voila un gibier a trebuchet. 
+COLOMBINE.
+Vous savez, monsieur le Comte, quels sont mes sentiments pour vous : cela vous doit suffire. Ne parlons point d'amour, si ce n'est en chansons. Vous chantez bien : voila ma cousine qui accompagne parfaitement du clavecin : je veux vous entendre ensemble. 
+OCTAVE.
+Mais, mademoiselle, chanter dans l'etat ou je suis ; penetre de douleur, desespere... 
+COLOMBINE.
+Bon, bon ! Si vous n'avez pas la force de chanter, vous soupirerez : c'est la langue la plus familiere aux amants. Allons, qu'on approche le clavecin. Mezzetin, prenez bien garde que mon pere ne vienne. 
+ISABELLE.
+Tu me mets la, cousine, a une rude epreuve.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX. Colombine, Isabelle, Octave, Mezzetin, Trafiquet, Pierrot.
+TRAFIQUET appelle en entrant sur la scene. 
+Hola, quelqu'un, Pierrot, Pierrot !
+PIERROT.
+Me voila, me voila, monsieur. Vous criez plus fort qu'un fiacre mal graisse.
+TRAFIQUET, sans voir Octave. 
+Avec qui diable es-tu donc ? Il faut toujours t'appeler vingt fois. 
+PIERROT.
+Je suis avec l'amour. 
+TRAFIQUET.
+Oh, oh ! Voila du nouveau. Tu es donc amoureux ? 
+PIERROT.
+Je ne dors ni ne veille ; je sens toujours la un tintamarre, comme s'il y avait un regiment de lutins. 
+TRAFIQUET.
+Il faut entendre patience.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais que vois-je ? C'est Octave ! He ! Que faites-vous donc ici, s'il vous plait ? Ne vous avais-je pas prie de n'y plus venir ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PIERROT.
+Puisque monsieur vous l'a defendu, pourquoi y revenez-vous ? 
+TRAFIQUET.
+Est-ce que vous pretendez, mon petit monsieur, epouser ma fille malgre moi ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PIERROT.
+Monsieur, n'allez pas souffrir cela ; on vous prendrait pour un insense. 
+TRAFIQUET.
+Mais, monsieur, encore une fois, je n'ai que faire de vos reverences : repondez a ce que je vous demande.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X. Trafiquet, Colombine, Isabelle, Pierrot.
+TRAFIQUET.
+Vous ferez bien, messieurs de la reverence, de ne regarder ma porte qu'avec une lunette ; je vous saluerais d'une maniere... Quelle plaisante conversation ! Toujours des reverences ! 
+PIERROT.
+Va, va, tu n'as qu'a y revenir ; je te ferai danser un branle de sortie sans violons.
+TRAFIQUET, a Colombine. 
+Et vous, mademoiselle l'impertinente, ne vous ai-je pas defendu de le voir ? Savez-vous que quand je commande, je veux etre obei ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PIERROT.
+Elles ont appris a danser du meme maitre. 
+TRAFIQUET.
+Ne t'ai-je pas dit que je ne voulais pas que tu songeasses davantage a cet homme-la pour etre ton epoux ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PIERROT.
+Fi ! Ce n'est pas la votre fait. 
+TRAFIQUET.
+Ecoutez, ne m'echauffez pas les oreilles ; il y a des maisons a Paris ou l'on reduit les filles desobeissantes. Merci de ma vie ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XI. Trafiquet, Pierrot.
+PIERROT.
+Ma foi, monsieur, il faut dire la verite ; voila des filles bien civiles. 
+TRAFIQUET.
+Mais que veulent donc dire toutes ces ceremonies-la ? Voila une nouvelle maniere de repondre. Allons, allons, il faut faire cesser tout ce manege-la. J'attends aujourd'hui un gendre qui me vient du Bas-Maine ; je veux envoyer savoir s'il est venu. Pierrot ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah, monsieur le maraud ! Je crois que vous voulez rire aussi. Si je prends un baton... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quoi ! Tu t'en meles aussi ? 
+PIERROT.
+Mais, monsieur, est-ce que vous voulez m'empecher d'etre civil ? Qu'est-ce que vous me voulez ? 
+TRAFIQUET.
+Je veux que tu passes chez monsieur Fesse-Mathieu, pour le prier de venir ici ; et que tu ailles de la dans la rue de la Huchette, savoir si le messager du Mans est arrive. 
+PIERROT.
+Bon, bon, bon, monsieur. Vous attendez donc quelque panier de volaille ? 
+TRAFIQUET.
+J'attends le bailli de Laval, qui vient pour etre mon gendre. 
+PIERROT.
+Quoi ! Tout de bon ? Un homme du Maine pour etre le mari de votre fille ? 
+TRAFIQUET.
+Assurement. 
+PIERROT.
+Fi ! Monsieur, n'en faites rien ; il ne vient que des chapons de ce pays-la.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XII. Colombine, Pierrot.
+COLOMBINE plie une lettre. 
+Une bougie ? Est-ce que tu n'entends pas que je demande une bougie pour cacheter une lettre ?
+PIERROT, faisant des mines a Colombine. 
+Pardonnez-moi... mais... c'est que... en verite... mademoiselle ; je m'en vais... 
+COLOMBINE.
+Pour moi, je ne sais plus quelle maladie a attaque le cerveau de cet animal-la : il ne voit plus, il n'entend plus ; il a assurement quelque chose de brouille dans son timbre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu veux donc que je cachette une lettre avec un manchon ? Je te demande une bougie, m'entends-tu ? Je crois qu'il me fera perdre l'esprit. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oh, oh ! Voila une nouvelle folie que je ne lui connaissais pas encore. Depuis quand as-tu perdu la parole ? Parle, reponds ; dis donc a qui tu en as.
+PIERROT.
+Je n'oserais ; je sens la un tourbillon, un etouffement de la nature... heurtant contre l'amour. Tenez, voila une lettre qui vous dira tout cela. 
+COLOMBINE.
+Que signifie donc cette ceremonie-ci ? Je trouve cela assez plaisant. Voyons donc ce que dit cette lettre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Comme il n'y a point d'animal dans le monde qui n'aime quelque autre animal, c'est ce qui fait que je vous aime. Autre chose ne peut vous dire votre tres humble serviteur et fidele amant, Pierrot.
+Mon tres humble serviteur et fidele amant, Pierrot. Ah, ah ! Voila donc ou le bat vous blesse, monsieur l'amoureux ! En verite, je suis ravie d'avoir fait une pareille conquete. 
+PIERROT.
+He ! Mademoiselle, je sais bien que mon merite n'est pas capable de meriter ;... mais, d'un autre cote,... voila que l'occasion,... votre beaute... Je ne suis pas bien riche ; mais, ma foi, je suis un bon garcon. 
+COLOMBINE.
+J'entends cela le mieux du monde ; mais je vous prie, monsieur Pierrot, d'etouffer un peu vos hoquets de tendresse, et d'aller porter cette lettre a monsieur de la Maltotiere.
+PIERROT, en s'en allant. 
+Ah ! Petit cocodrille ! Ouf ! 
+SCENE XIII.
+COLOMBINE, seule. 
+La conquete de Pierrot n'est pas bien illustre : je sens neanmoins une secrete joie de voir que rien ne m'echappe. Quelque severite qu'affectent les femmes, elles ne sont jamais fachees de s'entendre dire qu'on les aime. 
+SCENE XIV. Colombine, un Laquais.
+LE LAQUAIS, annoncant. 
+Mademoiselle, voila monsieur le conseiller Nigaudin. 
+SCENE XV. Colombine, Nigaudin, en habit de ville et en epee ; un Laquais de Nigaudin.
+COLOMBINE.
+En verite, monsieur Nigaudin, j'ai lieu de louer votre diligence : nous ne devons partir pour la Comedie que dans deux heures, et je suis ravie de pouvoir pendant ce temps-la profiter de votre conversation.
+NIGAUDIN, toussant. 
+Mademoiselle, quand il s'agira de venir vous offrir ses hommages, on n'obtiendra point de defaut contre moi : en cas de rendez-vous aupres des dames, je ne me laisse jamais contumacer, et je me rends bien vite a l'ajournement personnel. 
+COLOMBINE.
+Ah, monsieur ! Que vous dites les choses galamment ! Vous avez un tour aise et naturel dans les expressions, que les autres n'ont point ; et il semble toujours que vous demandiez le coeur, quelque indifferente chose que vous puissiez dire. 
+NIGAUDIN.
+Moi, mademoiselle ! Je ne vous demande rien ; vous me prenez donc pour un escroc ? Il est vrai que nous autres gens de robe, la plupart, nous avons la belle elocution a commandement. Tout franc, mademoiselle, les gens d'epee n'ont point le boute-dehors comme nous. 
+COLOMBINE.
+Fi ! Ne me parlez point des gens d'epee ; ils n'auraient jamais rien a vous dire, s'ils ne vous etourdissaient de leurs bonnes fortunes, et s'ils ne vous faisaient le calcul du nombre des bouteilles qu'ils ont videes. Pour moi, je ne concois pas bien la manie de la plupart des femmes d'aujourd'hui ; on ne saurait leur plaire, si l'on ne revient de Flandre ou d'Allemagne, et si l'on ne rapporte a leurs pieds un coeur tout persille de poudre a canon. 
+NIGAUDIN.
+Ma foi, il y a bien de l'entetement ; car, entre nous, il n'y a point de gens qui tiennent une procedure si irreguliere aupres des dames que les gens de guerre : ils sont brusques et entreprenants sur le fait des faveurs, et n'observent jamais les delais fixes par l'ordonnance de l'amour. 
+COLOMBINE.
+Il est vrai qu'on n'est point en surete contre leurs entreprises ; et quand ils sont chez les dames, ils s'imaginent etre dans un quartier d'hiver a vivre a discretion. 
+NIGAUDIN.
+A propos de quartier d'hiver, mademoiselle, il me semble qu'ils sont venus cette annee quinze jours plus tot pour moi. 
+COLOMBINE.
+Pourquoi donc, monsieur ? 
+NIGAUDIN.
+J'avais hypotheque speciale sur votre coeur, sans ce visage d'epetier qui est arrive, et qui se pretend privilegie sur la chose : mais, ventrebleu ! Nous verrons. 
+COLOMBINE.
+Eh ! Que craint-on, monsieur, quand on est fait comme vous ? 
+NIGAUDIN.
+Il est vrai qu'un juge craint fort peu de chose ; mais la plupart de ces gens de guerre sont des brutaux qui usent d'abord des voies de fait. Nous autres, nous faisons notre affaire en douceur, et nous n'aimons pas le fracas de la brette. 
+COLOMBINE.
+Vous avez assez d'autres endroits pour vous faire distinguer. 
+NIGAUDIN.
+Ce n'est pas, ventrebleu ! Qu'on n'ait du coeur. Je voudrais que vous me vissiez aux buvettes : je fais tout trembler ; et si tous mes confreres les praticiens me ressemblaient, il ne se recevrait pas le quart des nasardes qui se donnent tous les jours. 
+COLOMBINE.
+Je gagerais, a votre air, que vous opinez l'epee a la main ? Et je vous prendrais quelquefois pour un colonel de robe. 
+NIGAUDIN.
+Vous trouvez donc mon habit joli ? C'est un petit deshabille de chasse que je me suis fait faire pour la cour. N'est-il pas vrai que l'epee me sied bien ? 
+COLOMBINE.
+A charmer. 
+NIGAUDIN.
+Je sens quelquefois des convulsions de bravoure que je ne saurais retenir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'etais ne pour la guerre : mais mon pere, voyant que j'avais trop d'esprit pour ce metier-la, me mit dans notre presidial de Beauvais, et m'acheta une charge d'assesseur. 
+COLOMBINE.
+Ah, monsieur l'assesseur ! Si vous debrouillez aussi bien un proces que vous savez vous faire jour dans un coeur, que vous etes un juge eclaire !
+NIGAUDIN.
+Tout franc, mademoiselle, je ne me plains pas de mes lumieres, et je vous avoue que j'ai une penetration d'esprit qui me surprend quelquefois. Je jugeai dernierement un gros proces a l'audience, dont je n'avais pas entendu un mot. 
+COLOMBINE.
+Pas un mot ! Et comment avez-vous pu rendre la justice ? 
+NIGAUDIN.
+Bon ! Dans tous les proces, il n'y a qu'une routine. L'une des parties m'avait envoye un carrosse de cent pistoles, et l'autre deux chevaux gris de six cents ecus ; vous jugez bien qui avait le bon droit ? 
+COLOMBINE.
+Oh ! Je sais que deux chevaux gris menent un proces bien rondement. 
+NIGAUDIN.
+Ma foi, vous avez raison ; les chevaux entrainerent le carrosse.
+SCENE XVI. Le Capitaine, Colombine, Nigaudin, Laquais de Nigaudin.
+LE CAPITAINE en dedans. 
+Parbleu ! Mon ami, je crois que tu ne me connais pas. 
+COLOMBINE.
+Ah, monsieur ! Vous etes perdu si cet homme-la vous trouve ici. 
+NIGAUDIN.
+Comment donc ? 
+COLOMBINE.
+C'est un officier qui est jaloux a la fureur ; il a deja tue cinq ou six hommes pour n'avoir fait que me regarder. 
+NIGAUDIN.
+Cinq ou six hommes ! Voila qui est bien brutal. Hola ! He, laquais.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)COLOMBINE.
+He, que faites-vous, monsieur ? A quoi vous amusez-vous la ? 
+NIGAUDIN.
+Je sais bien ce que je fais. Il faudra qu'il soit bien lache, s'il me bat sans epee. Pour plus grande surete, vite, qu'on me donne ma robe. 
+COLOMBINE.
+Votre robe ! Et ou est-elle ? 
+NIGAUDIN.
+Je ne vais jamais sans cela : on ne sait pas ce qui peut arriver. 
+COLOMBINE.
+Ah, monsieur ! Ne vous y fiez pas ; vous auriez toutes les robes du Palais sur le corps, qu'il... 
+LE CAPITAINE, toujours en dedans. 
+Par la mort ! Par la tete ! Si tu ne me laisses entrer, je mettrai le feu a la maison. 
+COLOMBINE.
+Que je suis malheureuse ! Le voila qui entre. Tenez, cachez-vous vite sous cette table-la, et ne remuez pas. 
+NIGAUDIN, se mettant sous la table. 
+Ah ! Ma maudite toux me va trahir. 
+LE CAPITAINE entre sur la scene.
+Comment ! Mordi, mademoiselle : il est plus difficile d'entrer chez vous que de prendre trois demi-lunes l'epee a la main. Si vous ne changez de portier, ma foi, il faudra rompre tout commerce avec vous. Malepeste ! Une cravate de Malines qui n'est plus propre qu'a faire de la charpie ! Voila qui est fait, je ne rends plus de visites qu'a des portes batardes. 
+COLOMBINE.
+Monsieur, je suis bien fachee de l'accident de votre cravate : mais... 
+LE CAPITAINE. 
+Mais, mademoiselle, on est bien aise de conserver le peu qu'on a de linge. Je suis revenu trente fois de l'assaut en meilleur equipage. Il est vrai qu'une jolie personne comme vous est un redoutable ouvrage a cornes.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Hem, plait-il ? 
+COLOMBINE.
+Ce n'est rien, monsieur... Que voila un habit bien entendu !
+LE CAPITAINE.
+Je ne suis pas mal fait, oui ; je dois ma taille a une douzaine de bouteilles de vin que je bois reglement par jour : un grand ventre sied bien a la tete d'un bataillon.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ouais ! Qu'est-ce donc que j'entends ? 
+COLOMBINE.
+Ce n'est rien, vous dis-je. Voila vos inquietudes qui vous prennent ; vous voudriez deja etre hors d'ici, et vous ne songez pas qu'il y a un siecle qu'on ne vous a vu. 
+LE CAPITAINE.
+J'y viendrais plus souvent : mais tout le genre humain y aborde. Voyez-vous, mademoiselle, je suis le gentilhomme de France du meilleur commerce ; mais, ventrebleu ! Je ne m'accommode point de vos neutralites. 
+COLOMBINE.
+Mon Dieu ! Monsieur, je menage tout le monde pour des raisons particulieres ; mais je sais donner la preference a qui le merite. Je me distingue en voyant des gens de cour ; les officiers me font plaisir ; je trouve des ressources avec les financiers : et pour peu qu'on aime les bagatelles, c'est le moins qu'on puisse avoir que deux ou trois petits abbes dans une maison. 
+LE CAPITAINE.
+Pour les abbes, passe : on sait bien que cette graine-la est necessaire aux femmes : mais j'enrage de voir a vos trousses un tas de gens de robe, qui sont pour la plupart des croquants, a qui l'esprit n'a ete donne que comme le sel aux jambons pour les conserver. 
+COLOMBINE.
+Bon ! L'ete les femmes les souffrent faute d'officiers : mais ce sont des oiseaux de semestre qui disparaissent avec les hirondelles. Et puis les affaires viennent sans qu'on y pense ; on a tous les jours, malgre soi, des proces ; et vous savez qu'aupres d'un juge sensible, l'enjouement d'une jolie femme est toujours la meilleure piece d'un sac. 
+LE CAPITAINE.
+Vous voyez entre autres un certain... Trigaudin... Nigaudin ; un petit friquet de chicane. Par la ventrebleu ! Si jamais je l'y rencontre ; je n'aime pas le bruit, mais assurement je lui couperai les oreilles.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)COLOMBINE.
+He ! Fi, monsieur, ne m'en parlez point ; je ne le saurais souffrir : c'est une eponge a sottises.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE CAPITAINE.
+Qu'avez-vous donc, mademoiselle ? Vous me paraissez bien enrhumee. 
+COLOMBINE.
+Ce n'est rien, monsieur ; on ne peut pas toujours se porter si bien que vous. Mon Dieu ! Que vous avez bon visage ! 
+LE CAPITAINE.
+Je le crois, ma foi, qu'il est hon ; il y a plus de trente ans que je m'en sers jour et nuit ; je ne suis pas comme ces femmes qui le mettent le soir sur leur toilette.
+SCENE XVII. Le Capitaine, Colombine, Nigaudin, sous la table, un Sergent.
+LE SERGENT. 
+Mon capitaine, ne voulez-vous pas arreter les parties de ce marchand a fourni les justaucorps de la compagnie ? 
+COLOMBINE.
+C'est-a-dire, monsieur le capitaine, que vous ne manquez pas de moyens pour trouver de l'argent. 
+LE CAPITAINE.
+Je veux etre un infame, si j'ai le premier sou pour faire ma compagnie : ce qui me console, c'est que je dois beaucoup. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons, tirez. Allons, tirez. Pour une demoiselle, il me semble que vous avez la un vilain matin sous votre table. 
+COLOMBINE.
+Vous revez, je crois, avec vos matins. 
+LE CAPITAINE.
+Brin-d'amour ?
+LE SERGENT. 
+Mon capitaine. 
+LE CAPITAINE.
+Chassez-moi ce chien de dessous cette table. 
+LE SERGENT, avec sa canne. 
+Allons, tirez ; a la paille. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE CAPITAINE.
+Oh, oh ! Mon petit ami, et que faites-vous donc ici, s'il vous plait ? 
+NIGAUDIN.
+La Violette, laquais, prenez ma robe. 
+LE CAPITAINE.
+Mon petit ami, si vous ne denichez au plus vite, je vous ferai amoureusement descendre par la fenetre. 
+COLOMBINE.
+Monsieur le capitaine, vous etes un extravagant de vous emporter sans raison. N'ai-je pas fait mon devoir de faire cacher monsieur pour vous epargner du chagrin ? Tant pis pour vous, si vous allez chercher ou vous n'avez que faire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et vous, monsieur, de quoi vous avisez-vous de faire du bruit mal a propos ? Il n'y a qu'un homme de robe et officier d'un presidial capable de tousser quand on le cache sous une table. Puisque vous avez fait la sottise, demelez la fusee comme il vous plaira. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVIII. Le Capitaine, Nigaudin.
+NIGAUDIN.
+Adieu, monsieur ; nous ne serons pas toujours seul a seul ; et s'il vous tombe jamais quelque decret sur le corps, je vous apprendrai ce que c'est que de scandaliser un juge chez des femmes.
+LE CAPITAINE.
+Va, va, petit regrattier de la justice, je me moque de toi et de tes decrets ; je suis en garnison dans une bonne citadelle. 
+NIGAUDIN.
+On ne traite pas comme cela un conseiller assesseur, et je m'en plaindrai a votre citadelle. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			ACTE II
+
+
+SCENE I. Trafiquet, Pierrot.
+PIERROT.
+Monsieur, je viens de chez votre notaire ; il vous prie bien fort de l'excuser ; il ne saurait venir aujourd'hui. 
+TRAFIQUET.
+Il faut prendre patience, pourvu qu'il vienne demain. 
+PIERROT.
+Ni demain non plus : il lui est survenu une petite affaire ; je ne crois pas qu'il puisse venir si tot. 
+TRAFIQUET.
+Et quelle est donc cette affaire ? 
+PIERROT.
+C'est, monsieur, qu'il est mort. 
+TRAFIQUET.
+Il est mort ! Tu as raison ; je ne crois pas qu'il revienne de longtemps. C'est bien dommage ; c'etait le seul honnete homme de notaire que j'aie encore trouve. He ! Dis-moi, as-tu des nouvelles de notre homme ? 
+PIERROT.
+Ho ! Oui, monsieur ; pour celui-la, on m'a dit qu'il etait arrive par le poulailler du Maine, et qu'il demeurait tout rasibus de chez nous. 
+TRAFIQUET.
+Le ciel en soit loue ! Je me deferai peut-etre a la fin de ma fille, et je ne verrai plus dans ma maison des animaux de toute sorte d'especes, et particulierement cette assemblee de femmes, ou plutot cette academie de folles qui s'y tenait. 
+PIERROT.
+Tout franc, monsieur, je commencais a etre bien las de toutes ces visageresses, et j'etais resolu de prendre mon conge ou de vous donner le votre. Mais, monsieur, je voudrais bien vous lacher un petit mot, tandis que je sommes sur la chose du mariage. 
+TRAFIQUET.
+Parle, Pierrot ; que me veux-tu ? 
+PIERROT.
+Monsieur, regardez-moi bien ; tel que vous me voyez, je me vais marier. 
+TRAFIQUET.
+Toi, te marier ! Es-tu fou ? 
+PIERROT.
+Ce qui me console ; monsieur, c'est que celle que j'epouse est aussi folle que moi. 
+TRAFIQUET.
+Et qui est donc cette malheureuse-la ? 
+PIERROT.
+Oh ! Monsieur, vous la connaissez bien ; c'est... mademoiselle votre fille. 
+TRAFIQUET.
+Ma fille ? Ma fille Colombine ? 
+PIERROT.
+Vraiment, monsieur, cela est tout pret ; on n'attend plus que votre consentement et le sien. 
+TRAFIQUET.
+Je ne sais, maraud, a quoi il tient que je ne t'assomme de coups. 
+PIERROT.
+Mais, monsieur, il ne faut pas se facher ; cela n'est pas si inegal. Je suis un garcon, une fois, et elle est une fille ; et puis, monsieur, je ne sais ce que c'est que de faire le bleche : vous me donnez quinze ecus par an ; j'aime mieux n'en gagner que dix et etre votre gendre. Voila comme je parle, moi. 
+TRAFIQUET lui donne des coups de canne. 
+Et moi, voila comme je reponds. 
+PIERROT.
+Eh ! Fi donc, monsieur ; est-ce comme ca qu'on parle de mariage ?
+SCENE II. Arlequin, Trafiquet, Pierrot.
+PIERROT.
+Tenez, voila votre diable de bailli ; est-ce qu'il est mieux fait que moi ? 
+ARLEQUIN.
+Je crois, monsieur, que vous avez plus d'impatience de me faire votre gendre, que je n'en ai de vous voir mon beau-pere. Vous avez une fille : ergo vous etes pourvu d'une drogue dont vous voudriez etre defait ; car une fille, c'est une fleur qui se fane, si elle n'est cueillie dans sa saison ; c'est un quartaut de vin de Champagne qui jaunit, s'il n'est bu dans sa primeur. 
+PIERROT.
+Monsieur du quartaut, vous n'en aurez peut-etre que la baissiere. 
+TRAFIQUET.
+J'espere, monsieur, que vous ne vous repentirez pas de l'affaire que vous faites ; car je puis vous assurer que je vous livre une fille toute neuve, et qui vous fera dans la suite un tres bon use. 
+ARLEQUIN.
+Ah ! Cette marchandise-la ne dure toujours que trop. Vous pouvez aussi vous vanter que vous serez le beau-pere de France le mieux engendre. Je n'ai aucune mauvaise qualite ; je hais le vin a la mort ; j'ai une aversion incroyable pour le jeu, et je suis fort aise a vivre : je ne crois pas avoir assomme plus de vingt paysans ; et si, ce n'etait que pour des bagatelles, quelques rentes seigneuriales. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)TRAFIQUET, a part. 
+Voila cet homme si doux, qui ne joue et qui ne boit pas !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous dites donc, monsieur, que ma fille sera doucement avec vous ; et qu'est-ce que c'est que cela, s'il vous plait ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Je porte toujours cela sur moi, car je n'aime pas a etre contredit. 
+TRAFIQUET.
+Vous m'assurez que sa dot ne court point de risque entre vos mains, et que vous ne jouez point ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Fi, monsieur ! Il n'y a que des fripons qui s'amusent a ce metier-la. Je porte quelquefois des cartes et des des par complaisance ; mais je ne m'en sers qu'en compagnie, et je vous assure que si j'etais seul je ne jouerais jamais. 
+PIERROT.
+Je vous l'ai toujours dit, monsieur ; il n'y a que les mauvaises compagnies qui gatent la jeunesse. 
+TRAFIQUET.
+Pour du vin, vous n'en buvez pas ? 
+ARLEQUIN.
+La crapule me fait horreur. Est-ce que les honnetes gens boivent du vin ? 
+TRAFIQUET.
+Je vois pourtant la quelque chose qui a assez la physionomie d'une bouteille. 
+PIERROT.
+Bon ! Monsieur, vous avez la berlue. 
+ARLEQUIN.
+Oui, parbleu ! Il l'a ; ce n'est que de l'eau-de-vie que je porte a une femme de qualite qui est en couche. 
+TRAFIQUET.
+Allons, allons, il faut passer par la-dessus : on ne fera pas un homme expres pour moi. Apparemment vous n'epouserez pas ma fille sans la voir ? Pierrot, dis a Colombine qu'elle vienne saluer monsieur. 
+PIERROT.
+Elle n'est pas ici. 
+TRAFIQUET.
+Elle n'est pas ici ? 
+PIERROT.
+Non, monsieur ; j'ai vu un chevalier avec un abbe qui sont venus pour l'emprunter jusqu'a sept heures. 
+ARLEQUIN.
+L'emprunter ! Comment donc ! Est-ce la cette fille si neuve ? Si on me l'emprunte comme cela quand elle sera ma femme, elle ne durera pas si longtemps que je pensais. Mon garcon, la fille de monsieur se prete donc quelquefois de main en main quand on la demande ? 
+PIERROT.
+Oui, monsieur, tous les jours ; il y a tout plein d'honnete monde qui la vient prendre pour la divertir. 
+ARLEQUIN.
+Oui, monsieur du beau-pere ! En tout cas, si dans six mois ou un an je ne m'accommodais pas de votre fille, en perdant quelque chose dessus, vous la reprendriez. 
+TRAFIQUET.
+Il n'y a rien a perdre sur cette fille-la ; vous en trouverez toujours votre argent. 
+SCENE III. Trafiquet, Arlequin, Colombine, Pierrot.
+PIERROT.
+On ne parle point du loup qu'on n'en voie la queue. Tenez, la voila. Ne vous avais-je pas bien dit qu'elle viendrait souper avec vous ? Il n'y a point de fille a Paris si bien morigenee ; elle ne couche jamais en ville. 
+TRAFIQUET.
+Ma fille, voila le bailli en question : tu ne voudras peut-etre pas lui ouvrir ton coeur en ma presence ? Monsieur, je ne vous rends pas un mechant office de vous laisser seul avec votre maitresse. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IV. Colombine, Trafiquet.
+ARLEQUIN, reculant. 
+Ne vous etonnez pas, mademoiselle, si vous me voyez reculer trois pas au frontispice de vos charmes : vous avez des yeux capables d'embraser tout le bailliage de mon coeur ; et depuis qu'on porte des bouches, on n'a jamais bouchonne un bouchon si bouchonnable. 
+COLOMBINE.
+Je suis confuse de vos civilites, monsieur ; et il faudrait avoir plus d'esprit que je n'en ai pour repondre a un compliment aussi bien tourne. 
+ARLEQUIN.
+Il est vrai que pour des compliments, il n'y a personne dans notre province qui ose me preter le collet. J'ai harangue une fois notre intendant pendant deux heures, avec tant d'eloquence, qu'il s'endormit tout debout, et ne s'eveilla qu'une heure apres que j'eus fini. 
+COLOMBINE.
+De pareils efforts d'esprit sont bons pour la province ; mais a Paris on aime a parler terre a terre.
+ARLEQUIN.
+Bon ! A-t-on de l'esprit a Paris ? Sitot qu'il y a un fat dans un pays, on l'y envoie ; c'est le rendez-vous de tous les sots de la France ; et, de tous les Parisiens, je ne vois que les Normands et les Manceaux qui aient un peu de brillant. 
+COLOMBINE.
+A vous entendre parler, vous ne paraissez pas content des cavaliers de ce pays-ci ; et les dames, qu'en dites-vous ? 
+ARLEQUIN.
+La la ; elles sont d'assez bonne amitie : j'en ai trouve quelques unes de jolies en mon chemin ; mais, tout franc, je n'en ai point encore vu une de votre calibre. 
+COLOMBINE.
+Il faut pourtant tomber d'accord qu'elles ont un tour d'esprit et des manieres de se mettre que les femmes de province n'ont pas. 
+ARLEQUIN.
+Oui-da, oui-da, je trouve qu'elles se coiffent raisonnablement haut, et je crois que leurs maris ne sont guere coiffes plus bas, 
+COLOMBINE.
+Ou passe-t-on le temps avec plus d'economie ? Aujourd'hui a l'Opera, demain a la Comedie, un autre jour au bal ; on entrelace cela de parties de jeu et de promenades. Vous voyez bien qu'il n'y a point de lieu ou une femme soit si faconniere. 
+ARLEQUIN.
+Pour moi, je trouve cela le plus joli du monde ; mais que disent les maris a Paris ? 
+COLOMBINE.
+Les maris disent ce qu'ils veulent, et les femmes font ce qui leur plait ; c'est la mode du pays. 
+ARLEQUIN.
+Les femmes feront durer cette mode-la le plus qu'elles pourront. Et, s'il vous plait, quand une femme revient du bal a cinq heures du matin avec un cavalier, qu'elle eveille toute la maison, que disent les maris a Paris ? 
+COLOMBINE.
+Ils ne disent rien ; des que la femme est rentree, ils se rendorment. 
+ARLEQUIN.
+Un homme qui a le sommeil si bien en main n'a pas besoin d'etre berce. Mais, je vous prie, lorsqu'une femme vend ses pierreries pour faire l'equipage de quelque galant homme qui va a l'armee, que disent les maris a Paris ? 
+COLOMBINE.
+Oh ! Les Parisiens sont trop bons serviteurs du Roi pour trouver cela mauvais. 
+ARLEQUIN.
+Je ne m'en dedis point, voila de bonnes gens que ces Parisiens-la. Vaille que vaille, puisque j'ai fait les frais du voyage, je vous epouserai ; mais a condition que, des le lendemain de la noce, vous vous mettrez dans la carriole du Mans pour venir regenter les chapons de ma basse-cour : l'air de Paris donne trop de maux de tete. 
+COLOMBINE.
+Quelque loi que vous m'imposiez, elle me paraitra toujours douce, pourvu que je sois sure de passer avec vous le reste de mes jours : vous me tenez lieu de tout ; et du moment que je vous ai vu, j'ai senti pour vous... Ah ! Ne m'obligez pas de m'expliquer ; j'en dirais peut-etre plus que je ne veux. 
+ARLEQUIN.
+Les filles de ce pays-ci sont faites avec des etoupes ; il ne faut qu'une etincelle... 
+COLOMBINE.
+J'ai une grace a vous demander : les filles, comme vous savez, ont beaucoup d'ambition sur le fait du mariage ; j'ai eu toute ma vie une noble horreur pour les baillis du Maine ; ne pourriez-vous point changer de charge, et vous faire homme de qualite ? 
+ARLEQUIN.
+Tres volontiers ; rien n'est plus aise : aussi bien je suis en pourparler avec un marquis de nos cantons qui s'en va a l'armee ; et, comme il a besoin d'argent, il veut me vendre sa charge de marquis avec sa pratique. 
+COLOMBINE.
+Oh, monsieur ! Que cela me fera de plaisir ! Mais, en achetant une charge de marquis, n'oubliez pas, s'il vous plait, de vous faire donner les airs dehanches de ces messieurs-la. 
+ARLEQUIN.
+Oh ! Je n'en ai que faire : quand on a ete toute sa vie eleve dans le Bas-Maine, les airs de cour ne sont que trop familiers. Adieu, ma belle enfant ; touchez la : dans une heure au plus tard je vous fais marquise ou baillivesse ; vous choisirez.
+SCENE V.
+COLOMBINE, seule.
+La sotte pecore qu'un homme qui a le mariage en tete ! Une fille un peu savante sur l'article le manie comme un chamois. Voyez, je vous prie, cet idiot de bailli qui va se faire marquis. Pour m'essayer, le premier marquis qui me tombera sous la patte, j'en ferai un procureur fiscal.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Trafiquet, Colombine.
+TRAFIQUET.
+Je vous prie, mademoiselle ma fille, de ne point m'echauffer les oreilles ; je sais ce qu'il vous faut, et c'est a vous d'obeir quand je vous ai choisi un mari, entendez-vous ? 
+COLOMBINE.
+Comme je suis une partie des plus interessees dans l'affaire, je crois, mon pere, que mon choix est du moins aussi necessaire que le votre ; et je vous dirai franchement que cet homme-la n'est point fait pour moi. 
+TRAFIQUET.
+N'est point fait pour vous ! J'en suis d'avis ; il faut vous l'essayer. Mais voyez, je vous prie, comme cela fait la raisonneuse !
+COLOMBINE.
+Je vous dis encore une fois, mon pere, laissez-moi mener cette affaire-la. Vous etes plus vieux que moi, j'en conviens ; mais je me connais mieux en maris que vous. 
+TRAFIQUET.
+Et que trouvez-vous, s'il vous plait, a redire au mari que je vous propose ? 
+COLOMBINE.
+Bon ! C'est un homme qui se presente de front au mariage, et ne sait pas ce que c'est qu'un preliminaire d'amour. 
+TRAFIQUET.
+He ! De par tous les diables ! Comment veux-tu donc qu'il se presente ? Tant mieux, s'il entre tout de suite en matiere ; en fait de mariage, je n'aime point a voir preluder. 
+COLOMBINE.
+Quoi ! Mon pere, vous voudriez... 
+TRAFIQUET.
+Oui, je le veux. 
+COLOMBINE.
+Vous pretendez qu'un homme que je n'ai jamais vu... 
+TRAFIQUET.
+Oui, je le pretends. 
+COLOMBINE.
+J'ai trop de raison pour... 
+TRAFIQUET.
+Si tu as de la raison tu dois m'obeir, et prendre le parti qui se presente.
+SCENE VII. Trafiquet, Colombine, Octave.
+OCTAVE, dans le fond du theatre, fait des mines a Colombine, sans etre vu de Trafiquet.
+COLOMBINE.
+Le parti qui se presente ? 
+TRAFIQUET.
+Oui, le parti qui se presente. 
+COLOMBINE.
+Assurement ? 
+TRAFIQUET.
+Oui, s'il vous plait ; il ne faut point tant faire de gestes et de grimaces : est-ce qu'il lui manque quelque chose ? 
+COLOMBINE.
+Je ne dis pas cela. 
+TRAFIQUET.
+Est-il tortu ou bossu ? 
+COLOMBINE.
+Je trouve sa taille degagee et engageante. 
+TRAFIQUET.
+Est-ce qu'il n'a point d'esprit ? Va, va, ce n'est pas le plus necessaire en menage. 
+COLOMBINE.
+Son esprit me charme, et je connais peu de gens qui en aient plus que lui. 
+TRAFIQUET.
+Et pourquoi donc n'en veux-tu point ? 
+COLOMBINE.
+Moi, je n'en veux pas ! Il faudrait, mon pere, que je fusse bien aveugle ou bien insensible pour, refuser un tel parti. 
+TRAFIQUET.
+Oh ! Que ne parles-tu donc ? J'allais me mettre en colere. Voyez, je vous prie, quand on ne s'entend pas. Viens, ma fille, que je t'embrasse. 
+COLOMBINE.
+Que cet embrassement me fait de plaisir !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)TRAFIQUET.
+Tu reponds dignement aux soins que j'ai pris de ton education. 
+COLOMBINE.
+J'aimerais mieux mourir, mon pere, que de vous desobliger. 
+TRAFIQUET.
+Tu me promets donc de ne plus songer a cet etourdi ? 
+COLOMBINE.
+Je ne le verrai de ma vie ; c'est un homme que je ne puis souffrir. 
+TRAFIQUET.
+Et moi, pour reconnaitre ton obeissance, je te promets d'augmenter ton trousseau de six chemises, et d'aller te voir toutes les fetes et dimanches quand tu seras au Maine. 
+COLOMBINE.
+Au Maine, mon pere ! Et que faire la ? 
+TRAFIQUET.
+Accompagner ton mari. 
+COLOMBINE.
+Mon mari ! Ce n'est pas son dessein de quitter Paris. 
+TRAFIQUET.
+Vraiment si ; il est bailli du Maine. 
+COLOMBINE.
+Octave est bailli du Maine ! Depuis quand donc ? 
+TRAFIQUET.
+Que diable veux-tu donc dire avec ton Octave ? Je crois que tu es folle. 
+COLOMBINE.
+Quoi ! Ce n'est pas Octave que vous voulez me donner pour mari ? 
+TRAFIQUET.
+Non, assurement. 
+COLOMBINE.
+Bon, bon ! Vous voulez rire. 
+TRAFIQUET.
+Je ne ris point, et je veux... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Trafiquet, Colombine.
+TRAFIQUET.
+C'est donc ainsi, coquine, que tu fais etat de mes remontrances, et que tu te moques de moi !
+COLOMBINE.
+Mon pere... 
+TRAFIQUET.
+Va, je t'abandonne. 
+COLOMBINE.
+He ! Mon pere... 
+TRAFIQUET.
+Je te desherite. 
+COLOMBINE, d'un ton doux. 
+Mon petit papa !
+TRAFIQUET.
+Je te donne ma malediction, et tu mourras vieille fille. 
+SCENE IX.
+COLOMBINE, seule. 
+Oh ! Criez tant qu'il vous plaira. Je n'irai pas perdre un amant pour la mauvaise humeur d'un pere : nous sommes dans un temps ou il faut garder le peu qu'on en a. 
+SCENE X. Colombine, Pierrot.
+COLOMBINE.
+Voici notre amoureux Pierrot ; il faut l'ecouter un moment et nous en divertir.
+PIERROT, sans voir Colombine. 
+Enfin, Pierrot, te voila dans le bourbier jusqu'au cou. De quoi t'avises-tu d'etre amoureux ? Tu ne fais plus que quatre repas par jour ; tu ne saurais plus t'eveiller qu'a midi sonne : tu vois bien qu'en cet etat-la tu ne peux pas faire longue vie. He bien, je mourrai. Tu mourras ! Sais-tu bien qu'il n'y a rien de si triste que la mort ? Il n'importe ; je ne verrai plus cette ingrate, cette.... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)COLOMBINE.
+Que dis-tu la ? 
+PIERROT.
+Je dis... Je dis, mademoiselle, que quand je serai mort, je ne verrai plus goutte. 
+COLOMBINE.
+C'est donc a dire que ta folie te dure toujours ? 
+PIERROT.
+Mademoiselle, assurement vous me ferez faire quelque mauvais coup : je me serais deja jete vingt fois par la fenetre de notre grenier, s'il avait ete seulement un etage plus bas. 
+COLOMBINE.
+Tu te moques, Pierrot ; quand on est bien amoureux, on n'est pas a un etage pres. Je te conseille, de ce pas, d'aller faire ce saut-la pour l'amour de moi. 
+PIERROT.
+Allez, vilain petit porc-epic, le ciel vous punira. O amour ! Amour ! O Pierrot ! Pierrot !
+SCENE XI. Colombine, un Laquais.
+LE LAQUAIS.
+Mademoiselle, voila la comtesse de Flameche et la marquise de Bistoquet qui demandent a vous voir. 
+COLOMBINE.
+La comtesse de Flameche et la marquise de Bistoquet ! Je ne connais point cela. De quel mauvais vent ces femmes-la abordent-elles chez moi ? Il faut que ce soient des provinciales. 
+LE LAQUAIS.
+Ce sont des dames qui disent qu'elles demeurent depuis peu dans le quartier. 
+COLOMBINE.
+Faites-les entrer. Voila de ces chiennes de visites que l'on ne saurait eviter.
+SCENE XII. Colombine, Mezzetin, en comtesse de Flameche ; Pasquariel, en marquise de Bistoquet.
+Octave envoie Mezzetin et Pasquariel sous ce deguisement, pour achever de degouter Colombine du bailli. Le laquais qui tient la queue de la Marquise, la tient fichee dans sa culotte, et de ses deux mains casse des noix. Colombine, Mezzetin et Pasquariel parlent tous trois ensemble.
+MEZZETIN.
+He ! Bonjour, mademoiselle ; comment vous portez-vous ? Il y a mille ans que j'ai envie de vous venir voir, et de profiter de l'honneur de votre voisinage. 
+PASQUARIEL.
+On a du vous dire, mademoiselle, que mon equipage s'est arrete vingt fois a votre porte ; mais vous etes introuvable, et toute des plus rares. 
+COLOMBINE.
+En verite, mesdames, je suis dans la derniere confusion d'avoir si mai profite de l'honneur de votre visite. Hola ! Quelqu'un, des sieges.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MEZZETIN.
+Peut-on savoir, la belle, quels sont vos plaisirs ? Vous etes toujours dans le grand monde ; on dit que c'est vous qui faites l'honneur du quartier. 
+PASQUARIEL.
+Mais voyez ce teint, je vous prie, madame la Comtesse.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Apparemment que vous l'avez pris du bon faiseur ; je n'ai jamais rien vu d'aussi charmant.
+COLOMBINE.
+Je suis ravie, mesdames, d'avoir un voisinage aussi agreable que le votre. Quand vous voudrez, nous jouerons ensemble ; mais je vous avertis que je suis la plus malheureuse fille du monde. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MEZZETIN.
+Nous faisons nos visites de quartier. Une charrette de foin a fait un embarras, ce qui nous a obligees de nous sauver chez Lamy, ou nous avons bu chacune trois bouteilles de vin pour nous desennuyer. 
+COLOMBINE.
+Six bouteilles de vin a deux femmes ! 
+PASQUARIEL.
+Il faut dire la verite ; madame la Comtesse porte le vin comme un charme. 
+MEZZETIN.
+Madame la Marquise veut qu'on lui rende justice, et qu'on lui dise qu'il n'y a point de Breton qu'elle ne boive par-dessous la jambe ; c'est bien le plus hardi vin de femme ! 
+COLOMBINE.
+Avec ces talents-la, mesdames, il est a presumer que vous etes mariees en Bourgogne ou en Champagne. 
+MEZZETIN.
+Vous ne vous trompez point. A propos de mariage, ma belle voisine, on m'a dit que vous couchiez la noce en joue. Une fille comme vous peut-elle se resoudre a cette vilenie-la ? 
+COLOMBINE.
+Pour moi, madame, je ne trouve rien de vilain a faire tout ce que le monde fait, et ce que vous avez fait vous-meme. 
+MEZZETIN.
+Il est vrai ; mais je n'avais que quinze ans pour lors ; vous savez que c'est un age terriblement scabreux pour une fille. Pourrez-vous abandonner votre taille aux accidents du mariage ? 
+COLOMBINE.
+J'ai assez de peine a m'y resoudre ; mais que voulez-vous ? Il faut bien prendre le benefice avec les charges. 
+PASQUARIEL.
+Faites comme moi, mademoiselle ; depuis que j'ai epouse mon mari, nous ne couchons plus ensemble. 
+MEZZETIN.
+Cela est fort bon pour vous, madame la Marquise, qui avez quantite d'enfants de votre premier lit ; mais une fille qui se marie est bien aise de savoir au juste a quoi elle est propre. 
+PASQUARIEL.
+Pour moi, je suis malheureuse en garcons ; je n'en saurais elever ; je n'en ai plus que dix-sept. 
+COLOMBINE.
+Dix-sept ! En verite, madame, l'etat vous est bien oblige de lui donner tant de bons sujets. 
+MEZZETIN.
+J'en aurais bien eu vingt-cinq ou trente, si tout etait venu a profit ; mais les fausses couches ont fait de terribles breches dans ma famille. Le dirait-on a ma taille ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)COLOMBINE.
+Elle est d'une finesse extraordinaire ; on croirait que vous allez rompre. 
+MEZZETIN.
+Depuis deux ans, Dieu merci, j'en suis un peu la maitresse ; j'ai oblige monsieur le Comte a faire lit a part ; car je suis presentement bien revenue de la bagatelle. 
+COLOMBINE.
+Et monsieur votre epoux prendra-t-il toujours ce petit divorce en patience ? 
+MEZZETIN.
+Madame, il fera comme il pourra. 
+PASQUARIEL.
+Peut-on savoir, ma chere, qui vous epousez ? 
+COLOMBINE.
+Plusieurs partis me recherchent ; mais mon pere me destine a un bailli du Maine, et... 
+PASQUARIEL.
+A un bailli !... A un bailli !... Ah ! Ouf ! Je me trouve mal ! Un bailli ! Ah ! Quelle ordure !
+COLOMBINE.
+Comment donc, madame ! Avez-vous des vapeurs ? 
+MEZZETIN.
+Ah, mademoiselle ! Vous ne deviez jamais lacher le mot de bailli. A l'heure qu'il est, cela me devoie. Un bailli ! Encore si c'etait un procureur fiscal ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)COLOMBINE.
+Ah ! Que je suis malheureuse ! Voila deux femmes qui vont me demeurer dans les mains. Hola, quelqu'un ! Mes laquais, ma femme de chambre ! 
+MEZZETIN et PASQUARIEL, ensemble. 
+Un bailli ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PASQUARIEL.
+Non, madame, assurement je ne passerai pas, ou la peste m'etouffe ! 
+MEZZETIN.
+Si je passe la premiere, je veux que cinq cent mille diables me tordent le cou !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIII.
+COLOMBINE, seule. 
+Non, je ne crois pas que de memoire d'homme on ait recu une visite aussi impertinente. Elles n'ont que faire de me tant degouter du bailli ; si je l'epouse, ce ne sera qu'a mon corps defendant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIV. Arlequin, Mezzetin, Pasquariel, Deux Bohemiens, suite de Bohemiens.
+Mezzetin et Pasquariel, deguises en Bohemiens, abordent Arlequin, dansent et chantent autour de lui.
+ARLEQUIN.
+Quand vous serez las de chanter, vous me direz peut-etre ce que vous me voulez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur le meneur de ballets, peut-on savoir qui sont ces sauterelles-la ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MEZZETIN.
+Monsieur, ce sont des filles surnaturelles, qui connaissent les astres, les langues, et tout ce qu'il y a de plus extraordinaire au monde et hors du monde ; elles ne parlent qu'en vers : enfin, ce sont des filles d'un merite sublime. 
+ARLEQUIN.
+Puisque ces creatures -la savent tant de belles choses, elles pourront donc bien me determiner sur un mariage ? 
+MEZZETIN.
+Vous ne pouvez pas mieux vous adresser.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XV. Arlequin, les deux Bohemiennes.
+ARLEQUIN, se mettant an milieu d'elles. 
+Mesdames, pour venir a la conclusion, 
+Vous saurez que je sens une convulsion, 			[35]
+Un appetit, nomme vapeurs de mariage ; 
+Un... la... quelque Arlequin qui demande passage. 
+Me dois-je marier ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oh ! Vous avez raison. 
+Et vous, a votre avis, me marierai-je, ou non ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est bien dit ; a ces mots il n'est point de replique. 			[40]
+Dans leur langue, a mon tour, il faut que je m'explique. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous m'entendez donc bien : enfin, sans tant parler, 
+(Car cela vous fait mal) devrais-je convoler ? 
+PREMIERE BOHEMIENNE.
+Oui. 
+SECONDE BOHEMIENNE.
+Non.
+ARLEQUIN.
+Comment ?
+PREMIERE BOHEMIENNE.
+Oui.
+SECONDE BOHEMIENNE.
+Non.
+ARLEQUIN.
+Quelle peste de gamme !
+PREMIERE BOHEMIENNE.
+C'est manquer de bon sens que de vivre sans femme. 			[45]
+SECONDE BOHEMIENNE.
+Et pour se marier, il faut etre archi-fou.
+ARLEQUIN.
+Celle-ci, par ma foi, lui rive bien son clou.
+PREMIERE BOHEMIENNE.
+Oui, l'hymen est des dieux le plus parfait ouvrage ; 
+C'est le port assure: dans le libertinage, 
+Le noeud qui nous unit avec de doux accords, 			[50]
+La porte des plaisirs qu'on goute sans remords, 
+Le bridon qui retient la jeunesse fougueuse, 
+L'onguent qui guerit seul la brulure amoureuse, 
+Des blessures du coeur l'appareil souverain, 
+Et la forge, en un mot, de tout le genre humain.			[55]
+ARLEQUIN.
+J'en connais bien pourtant de plus d'une fabrique, 
+Qui ne furent jamais faits dans cette boutique ; 
+Enfants du pur hasard ; et, sans aller plus loin, 
+J'en trouverais peut-etre ici plus d'un temoin. 
+SECONDE BOHEMIENNE.
+Non, l'hymen, quel qu'il soit, est un dur esclavage, 			[60]
+Une mer ou l'honneur bien souvent fait naufrage, 
+Un grand chemin rempli de voleurs dangereux, 
+Une terre fertile en bois malencontreux, 
+Un magasin de fraude, ou l'on fait de commande 
+Marchandise melee et bien de contrebande ; 			[65]
+C'est l'ecueil du plaisir : pour tout dire en un mot, 
+C'est une souriciere ou l'on attrape un sot. 
+ARLEQUIN, a la premiere Bohemienne. 
+Cet avis, a mon gout, vaut bien l'autre, madame. 
+PREMIERE BOHEMIENNE.
+Un homme ne saurait vivre content sans femme ; 
+Sans elle une maison irait tout de travers : 			[70]
+Elle sait du destin partager les revers ; 
+Elle sert un mari, soulage sa vieillesse : 
+La femme est dans le monde un miroir de sagesse, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Le temple de l'honneur, le chef-d'oeuvre des cieux ; 
+La beaute fut son lot, l'esprit son apanage, 			[75]
+La vertu son domaine, et l'honneur son partage.
+ARLEQUIN.
+Oui, cela se disait du temps de Jean-de-Vert. 
+SECONDE BOHEMIENNE.
+Plutot que prendre femme, epousez un desert : 
+Par elle une maison va tout en decadence ; 
+Elle ne met jamais de frein a sa depense ; 			[80]
+Elle accroit les chagrins, loin de les partager : 
+La femme est en tout temps un eminent danger, 
+Un vaisseau sur lequel le nocher le plus sage 
+Apprehende le calme autant qu'il fait l'orage ; 
+C'est l'arsenic du coeur : la fureur la conduit ; 			[85]
+L'inconstance en tout temps ou l'escorte ou la suit, 
+Et la vengeance, enfin, est toujours devant elle.
+ARLEQUIN.
+Oh ! Vous avez raison ; je sais qu'une femelle 
+Qui pretend se venger d'un epoux offensif, 
+Devient des animaux le plus vindicatif. 			[90]
+PREMIERE BOHEMIENNE.
+Quand on la nomme un mal et doux et necessaire, 
+C'est qu'on lui voit toujours quelque vertu pour plaire ; 
+Si le ciel ne l'a pas faite avec un beau corps, 
+Il aura sur l'esprit repandu ses tresors ; 
+Si des biens de fortune elle n'est point fournie, 			[95]
+Elle se fait un fonds de son economie : 
+La sotte d'ordinaire a l'esprit complaisant, 
+La folle quelquefois plait par son enjouement ; 
+Dans une femme, enfin, toujours quelque merite 
+De ses petits defauts aisement nous racquitte.			[100]
+ARLEQUIN.
+Qui nous racquittera, dites-nous, s'il vous plait, 
+Lorsque de notre honneur elle tire interet ? 
+SECONDE BOHEMIENNE.
+Si de quelques vertus les femmes sont pourvues, 
+Ces vertus de defauts sont souvent corrompues ; 
+La belle est toujours bete, ou croit qu'un teint fleuri 			[105]
+Est un trop beau morceau pour un sot de mari ; 
+La savante ne dit que vers, metamorphose, 
+Et meprise un epoux qui ne parle qu'en prose : 
+Celle qui d'un beau sang voit ses peres issus, 
+Vous compte ses aieux pour toutes ses vertus. 			[110]
+Non, quelque qualite qui regne dans son ame, 
+Quelque vertu qu'elle ait, c'est toujours une femme ; 
+C'est-a-dire attentive a l'amant qui languit, 
+Et vous savez, casta quam nemo rogavit.
+ARLEQUIN.
+Voila, je vous l'avoue, un extrait de sorciere, 			[115]
+Que les femmes devraient jeter dans la riviere : 
+Elle en dit peu de bien. 
+SECONDE BOHEMIENNE.
+Touchez la, j'en dirai, 
+Foi de fille d'honneur, sitot que j'en saurai. 
+ARLEQUIN, a la premiere Bohemienne. 
+Mais parlez-moi francais ;... la, si je me marie, 
+Ne serai-je point,... la... 
+PREMIERE BOHEMIENNE.
+Quoi, la ?			[120]
+ARLEQUIN.
+Je vous en prie, 			[120]
+Ne me deguisez rien. 
+PREMIERE BOHEMIENNE.
+Quoi donc ? 
+ARLEQUIN.
+La, ce qu'etait 
+Peut-etre votre epoux dans le temps qu'il vivait. 
+PREMIERE BOHEMIENNE.
+Voila donc l'enclouure et le mot peremptoire : 
+Sur ce point douloureux on en fait bien accroire, 
+Et l'on en dit bien plus qu'on n'en fait a Paris ; 			[125]
+Ce sont la des terreurs pour les petits esprits... 
+ARLEQUIN.
+Et pour les grands parfois. 
+PREMIERE BOHEMIENNE.
+Des visions cornues 
+Que les hommes vont mettre en leurs tetes fourchues. 
+ARLEQUIN.
+Ce sont elles, morbleu, qui nous les plantent la, 
+De par Belzebuth. 
+PREMIERE BOHEMIENNE.
+Bon ! Approchez, venez ca ; 			[130]
+Regardez-moi bien. Non, vous n'avez point la mine 
+De recevoir echec de la gent feminine. 
+Vous etes beau, joli, bien fait...
+ARLEQUIN.
+Assurement. 
+PREMIERE BOHEMIENNE.
+Vous avez de l'esprit, le port fier, l'air charmant ; 
+Allez, ne craignez rien. 
+ARLEQUIN.
+Mauvaise sauvegarde 			[135]
+Contre les accidents qu'une femme vous garde. 
+SECONDE BOHEMIENNE.
+Moi je dis, a vous voir seulement par le dos... 
+ARLEQUIN.
+Ah, ciel ! Nous y voila. 
+SECONDE BOHEMIENNE.
+Je vous dis en deux mots 
+Que vous avez tout l'air, la physionomie, 
+L'oeil, le nez, la facon, la metoposcopie 			[140]
+D'un homme a qui l'on doit faire un mauvais parti. 
+Je vois sur votre teint bien du brouillamini. 
+Vos aspects sont malins, vous avez le front large ; 
+Vous me portez tout l'air d'en avoir une charge.
+ARLEQUIN.
+Ah ! Je sens deja la... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PREMIERE BOHEMIENNE.
+Animal defiant, 			[145]
+Vous croyez donc... 
+ARLEQUIN.
+Ma foi ! Je crois a l'ascendant. 
+Ce grand front, cet aspect... Dans cette conjoncture, 
+Je crains bien de payer un jour avec usure 
+Tous les frais de la guerre. Allons, tant que quelqu'un 
+Plus courageux que moi prendra femme en commun, 			[150]
+Je pretends me servir des droits du voisinage, 
+Et laisser qui voudra gouter du mariage. 
+En ces occasions, on court plus de danger 
+A batir sur son fonds que sur un etranger. 
+Je ne taterai point de la ceremonie. 			[155]
+PREMIERE BOHEMIENNE.
+Vous n'en taterez point ! Halte-la, je vous prie. 
+SECONDE BOHEMIENNE.
+Point de femme, morbleu ! 
+PREMIERE BOHEMIENNE.
+Si vous n'en prenez pas, 
+Vous n'avez pas encor trois jours a vivre.
+ARLEQUIN.
+Helas ! 
+SECONDE BOHEMIENNE.
+Et si vous en prenez, moi, je vous signifie 
+Que demain, au plus tard, vous n'etes pas en vie. 			[160]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+C'en est fait, je suis mort ! Je n'en puis revenir. 
+Prediseuses du diable, ah ! Laissez-moi partir. 
+PREMIERE BOHEMIENNE.
+Avant de vous quitter, il faut que je vous voie 
+A cote d'une femme.
+ARLEQUIN.
+Ah ! Plutot qu'on me noie !
+SECONDE BOHEMIENNE.
+Pour vous laisser, je veux vous mettre hors d'etat 			[165]
+De pouvoir a jamais sortir du celibat.
+ARLEQUIN.
+N'en faites rien ; je suis le dernier de ma race. 
+PREMIERE BOHEMIENNE.
+Que de bruit !
+SECONDE BOHEMIENNE.
+Qu'on me suive.
+ARLEQUIN.
+He ! Mesdames, de grace ! 
+Un accord : je serai six mois de l'an garcon, 
+Et six mois marie. 
+PREMIERE BOHEMIENNE.
+Marchez. 			[170]
+SECONDE BOHEMIENNE.
+Que de facon ! 			[170]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+			ACTE III
+
+
+SCENE I.
+COLOMBINE, seule. 
+Je n'entends point parler de notre bailli ; il faut que le traite de cette charge de marquis l'arrete chez quelque notaire. Il n'en est pas encore ou il pense ; je lui garde le meilleur pour le dernier. 
+SCENE II. Colombine, un Laquais.
+LE LAQUAIS.
+Mademoiselle, voila un bel esprit qui monte, madame Pindaret.
+SCENE III. Colombine, Mme Pindaret.
+MADAME PINDARET.
+Ah, ma chere belle ! Que je suis heureuse de vous rencontrer ! Car vous etes la fille de France la plus introuvable. 
+COLOMBINE.
+On ne m'a point dit, madame, que vous m'ayez fait cet honneur-la. Il est vrai que j'ai le domestique du monde le plus brutal : qu'une femme de qualite me vienne voir, on ne m'en dit rien ; qu'une procureuse frappe a ma porte, on vient m'en faire la honte en pleine compagnie. 
+MADAME PINDARET.
+En verite, mademoiselle, il faut que votre train soit travaille d'un prodigieux devoiement de memoire ; oui, je crois que je suis venue ici plus de dix fois depuis les calendes du mois dernier. 
+COLOMBINE.
+Comment dites-vous cela, s'il vous plait ? Les cal... 
+MADAME PINDARET.
+Les calendes, mademoiselle ; c'est la maniere de compter des Romains, et la mienne. Si ma servante datait sa depense autrement, elle ne coucherait pas chez moi deux jours de suite. Je veux de l'erudition jusque dans ma cuisine. 
+COLOMBINE.
+Que vous etes heureuse, madame, de savoir tant de belles choses ! Si j'avais l'avantage de vous voir souvent, je crois que je deviendrais une habile fille. 
+MADAME PINDARET.
+Il faut dire la verite ; on se decrasse en ma compagnie, et tout le monde avoue que je n'ai point la conversation roturiere. 
+COLOMBINE.
+Ah ! Que cela est bien dit ! La conversation roturiere ! Comment pouvez-vous fournir a la depense d'esprit que vous faites ? Si vous ne vous menagez, vous n'en aurez jamais assez pour le reste de vos jours. 
+MADAME PINDARET.
+Bon ! Cela ne coute rien a une femme comme moi, qui se joue des auteurs ; j'entretiens commerce avec les anciens, et je fraye aussi avec les modernes. 
+COLOMBINE.
+Avec les anciens, madame ! 
+MADAME PINDARET.
+Assurement, mademoiselle ; j'en attrape assez le vrai, et je veux vous faire voir quelle est ma lecture quotidienne. Laquais ! Petit garcon ! 
+SCENE IV. Mme Pindaret, Colombine, un Laquais, de madame Pindaret.
+MADAME PINDARET.
+Donnez-moi mon Juvenal. 
+LE LAQUAIS.
+Qu'est-ce que c'est, madame, que votre Juvenal ? 
+MADAME PINDARET.
+Ce livre in-quarto que je vous ai donne tantot. 
+LE LAQUAIS.
+A moi, madame, un quartaut ! Vous ne m'avez donne ni quartaut ni bouteille. 
+MADAME PINDARET.
+Eh ! Le petit ignorant ! Qu'il vous arrive une autre fois de l'oublier !
+SCENE V. Mme Pindaret, Colombine.
+MADAME PINDARET.
+Je prends toujours la precaution de me faire escorter de ce livre-la, quand je vais en visite de femmes, pour me dedommager des minuties de leur conversation. 
+COLOMBINE.
+Voila ce qui s'appelle mettre a profit jusqu'a son ennui. 
+MADAME PINDARET.
+Etes-vous comme moi, ma chere ? Toutes les visites de femmes me donnent la colique. 
+COLOMBINE.
+Non, madame, je ne suis point d'une complexion si delicate. A vous dire le vrai, j'aime beaucoup mieux la conversation des hommes, et je voudrais parfois qu'il n'y eut que moi de femme au monde. 
+MADAME PINDARET.
+Vous auriez de la chalandise. J'allai voir, il y a quelque temps, une marquise ; je ne fus qu'un quart d'heure avec elle, c'etait pendant la canicule : sa conversation ne laissa pas de m'enrhumer si fort, que je me suis mise au gruau pendant trois semaines pour en revenir. 
+COLOMBINE.
+Cela etant, madame, quand vous allez en visite de marquise, de crainte de vous enrhumer une seconde fois, il faudrait faire porter un manteau fourre avec votre Juvenal. 
+MADAME PINDARET.
+Vous ne sauriez vous imaginer jusqu'ou va l'ignorance de cette femme-la. 
+COLOMBINE.
+Une femme de qualite ignorante ! Vous me surprenez. 
+MADAME PINDARET.
+Ignorantissime ! Croiriez-vous ?... Mais non ; cela n'entre point dans l'esprit. 
+COLOMBINE.
+Mais encore ? 
+MADAME PINDARET.
+Croiriez-vous qu'elle ne put jamais me dire dans quelle olympiade mourut Epaminondas ? 
+COLOMBINE.
+Ah, ciel ! Quelle ignorance ! En verite, madame, vous futes bien heureuse d'en etre quitte pour un rhume ; cela valait bien la peine de tomber en apoplexie. 
+MADAME PINDARET.
+Il ne tint qu'a moi. A propos, mademoiselle, avec-vous vu mon madrigal ? 
+COLOMBINE.
+Non, madame ; cela n'est pas venu jusqu'a moi. 
+MADAME PINDARET.
+Vous n'etes donc pas de ce monde ? C'est une piece qui a deja souffert la troisieme edition, et qui a marie les trois filles de mon libraire. Je vais vous le lire. 
+COLOMBINE.
+Vous me ferez, je vous assure, un sensible plaisir. 
+MADAME PINDARET, parcourant plusieurs papiers.
+Ce n'est pas cela ; c'est un rondeau sur une absence, que je laisse quelque temps mitonner sur le rechaud de la reflexion... Ni cela ; c'est la vie de Themistocle, en vers burlesques. Je tiens un poeme epique aux cheveux, qui surprendra tout Paris. Ah ! Voici notre madrigal.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MADRIGAL, Sur l'inconstance d'une maitresse qui changea d'amant, parce qu'il avait soupire par le derriere. 
+Vous entendez bien cela ?
+COLOMBINE.
+Oh ! Oui, cela s'entend de reste ; peu s'en faut que je ne le sente.
+MADAME PINDARET continue de lire. 
+Quoi ! Pour avoir laisse sauver un prisonnier 
+Qui n'a de voix que pour crier, 
+Votre coeur fait la pirouette, 
+Et se fait un nouvel amant !
+On dira, volage Lisette, 			[175]
+Que ce coeur est si girouette, 
+Qu'il change au moindre petit vent.
+COLOMBINE.
+Ah, madame ! Quel merveilleux talent vous avez pour la poesie ! 
+MADAME PINDARET.
+J'ai d'assez belles humanites, comme vous voyez ; mais je vais me donner a la physique. 
+COLOMBINE.
+A la physique, madame ! 
+MADAME PINDARET.
+Oui, mademoiselle. C'est une des plus nobles sciences qu'il y ait ; elle a pour objet tout ce qui tombe sous les sens, et par consequent, le corps humain, qui est la plus belle et la plus parfaite de toutes les structures humaines. Adieu, mademoiselle ; je sens que ma colique veut me reprendre. 
+COLOMBINE.
+Quoi ! Si tot, madame ! 
+MADAME PINDARET.
+Je ne me prostitue jamais a une longue conversation, et j'aime les visites breves et laconiques.
+SCENE VI. Arlequin, en marquis ridicule, Colombine, Mme Pindaret.
+ARLEQUIN entre en chantant et dansant. 
+He bien, morbleu ! Madame, les airs de cour nous sont-ils naturels ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)La, lore, la. Vous allez voir comme je vous chamarre une danse serieuse. He ! Laquais, laquais ! Lache-nous un coup de chanterelle. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je veux tracer un menuet avec vous. 
+COLOMBINE.
+Je vous prie, monsieur, de m'en dispenser ; je suis d'une fatigue outree, et voila huit nuits de suite que je cours le bal. 
+ARLEQUIN.
+Il faut donc que madame danse a votre place ? 
+MADAME PINDARET.
+Moi, monsieur ! Excusez-moi, s'il vous plait ; je ne danse point, je fais des vers. 
+ARLEQUIN.
+Parbleu ! Madame, vous danserez en vers, ou vous creverez en prose. 
+COLOMBINE.
+Allons, courage, madame ; voulez-vous qu'on envoie querir votre Juvenal ?
+ARLEQUIN danse avec madame Pindaret. 
+Madame Pindaret se laisse tomber. 
+Voila un vers a qui il manque un pied.
+MADAME PINDARET.
+Ah, ah ! Voila un menuet qui m'a mise sur les dents. J'aimerais mieux faire vingt sonnets que de... Ah, ah ! Souffrez, mademoiselle, que je vous quitte pour aller me mettre au lit. 
+ARLEQUIN.
+Adieu, madame ; allez vous faire tirer trois palettes d'epigrammes de la veine poetique.
+SCENE VII. Arlequin, Colombine.
+ARLEQUIN.
+He bien, mademoiselle, ne vous avais-je pas bien dit qu'il n'y avait guere de marquis plus ridicule que moi ? 
+COLOMBINE.
+A vous sincerement, pour un marquis de nouvelle impression, vous ne jouez pas mal votre role, et l'on croirait que vous l'auriez etudie toute votre vie. 
+ARLEQUIN.
+Etudie ! Moi, etudie ! Palsembleu ! Vous ne le prenez pas mal. Etudie ! Vous ne savez donc pas que je suis homme de qualite ? A peine sais-je ecrire mon nom !
+COLOMBINE.
+Vous voulez vous divertir ; je sais ce que je dois croire, et j'appelle de votre modestie. 
+ARLEQUIN.
+Cela est, parbleu, comme je vous le dis ; et je veux que le diable m'emporte si jamais j'ai eu d'autres livres qu'un almanach avec un Parfait Marechal. Bon ! Que nous faut-il a nous autres gens de cour ? Beaucoup de bonne opinion, saupoudree de quelques grains d'effronterie. Voila toute notre science aupres des femmes.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)COLOMBINE.
+Mais ou allez-vous donc ? Vous avez des inquietudes horribles dans les jambes, et vous ne sauriez vous tenir un moment en place. 
+ARLEQUIN.
+Ma foi, mademoiselle, il faut du plain-pied a un marquis. Je voudrais que vous vissiez a la Comedie le terrain que j'occupe sur le theatre. Oh, parbleu ! La scene n'est jamais vide avec moi. Il n'y a que le theatre de l'Opera ou je me trouve un peu en brassiere ; je n'y saurais pirouetter a ma fantaisie. 
+COLOMBINE.
+C'est-a-dire que vous n'oseriez pas y faire le fanfaron comme ailleurs. 
+ARLEQUIN.
+Je suis pourtant toujours sur le bord du theatre. Il y a longtemps que j'ai secoue la pudeur de ces demi-gens de qualite qui commencent a se donner au public. Ventrebleu ! Je ne tate point des coulisses ; sur l'orchestre, morbleu ! Sur l'orchestre. 
+COLOMBINE.
+Je ne sais pas, pour moi, quel plaisir prennent certaines gens, a la Comedie, de venir etouffer un acteur jusque sur les chandelles. Comment voulez-vous qu'un pauvre diable de comedien se fasse entendre au bout d'une salle ? Il faut donc qu'il creve ? 
+ARLEQUIN.
+Parbleu ! Qu'il creve s'il veut ; il est paye pour cela. 
+COLOMBINE.
+Mais, de bonne foi, monsieur le Marquis, croyez-vous que ce soit pour voir peigner votre perruque, prendre du tabac, et faire votre carrousel sur le theatre, que le parterre donne ses quinze sols ? 
+ARLEQUIN.
+N'est-ce pas bien de l'honneur pour lui de voir des gens de qualite ? Ma foi, quand il n'aurait que ce plaisir-la, cela vaut bien une mauvaise comedie. 
+COLOMBINE.
+Assurement ; c'est ce qui fait qu'il s'est mis en droit de vous siffler aussi bien que les mechantes pieces. 
+ARLEQUIN.
+Il est vrai que le parterre devient terriblement orgueilleux : ce sont ces Italiens qui ont acheve de le gater. Savez-vous bien que cet ete ils l'ont traite de monseigneur dans un placet ? Le parterre monseigneur ! J'enrage ! 
+COLOMBINE.
+Vous avez beau pester, le parterre fait du bien a tout le monde ; il redresse les auteurs, il tient les comediens en haleine ; un fat ne se campe point impunement devant lui sur les bancs du theatre : en un mot, c'est l'etrille de tous ceux qui exposent leurs sottises au public. Que ne vous mettez-vous dans les loges ? On ne vous examinera pas de si pres. 
+ARLEQUIN.
+Moi, dans les loges ! Je vous baise les mains : je n'entends point la comedie dans une loge comme un sansonnet ; je veux, morbleu ! Qu'on me voie de la tete aux pieds, et je ne donne mon ecu que pour rouler pendant les entr'actes, et voltiger autour des actrices. 
+SCENE VIII. Arlequin, Colombine, un Laquais.
+LE LAQUAIS.
+Mademoiselle, voila votre couturiere.
+SCENE IX. Arlequin, Colombine, Margot.
+COLOMBINE.
+He bien, Margot, m'apportez-vous mon manteau ? 
+MARGOT.
+Oui, mademoiselle j'espere qu'il vous habillera parfaitement bien : depuis que je travaille, je n'ai jamais vu d'habit si bien taille. 
+ARLEQUIN.
+Ni moi de fille si ragoutante. Voila, mordi ! Une petite creature bien emerillonnee. Ecoutez, ma fille, ou demeurez-vous ? 
+MARGOT.
+Pas loin d'ici. 
+ARLEQUIN.
+Tant mieux.
+COLOMBINE prend le manteau. 
+Vous voulez bien, monsieur le Marquis ; me permettre d'essayer mon manteau ? 
+ARLEQUIN.
+Oui-da, mademoiselle ; vous pouvez vous habiller jusqu'a la chemise inclusivement.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Margot est, ma foi, toute des plus jolies, et il y aurait plaisir de lui margotter le coeur ; je m'assure qu'elle n'a pas quinze ans. Peut-on voir votre minois, petite femelle tenebreuse ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)COLOMBINE.
+Allons donc, monsieur le Marquis, soyez sage. Que ne vous laissez-vous voir aussi, Margot, vous qui etes si jolie ? 
+MARGOT.
+Je n'oserais, mademoiselle. 
+COLOMBINE.
+Pourquoi ? 
+MARGOT.
+C'est que monsieur Harpillon m'a defendu de regarder les hommes ; et il serait fache s'il savait que je me fusse montree. 
+COLOMBINE.
+Qui est donc ce monsieur Harpillon ? 
+MARGOT.
+C'est un des gros fermiers, qui est mon parrain ; il fait du bien a toute notre famille, et il a deja donne un bon emploi a mon grand frere. 
+ARLEQUIN.
+J'entends, j'entends ; monsieur Harpillon a mis le frere dans un bureau, et mettra, s'il peut, la soeur en chambre. 
+MARGOT.
+Oh ! Monsieur, il n'y a point de ce que vous pensez a son fait : c'est un homme qui n'a que de bons desseins ; il m'a promis de m'epouser ; et pour preuve de cela, il m'a deja envoye une housse verte avec une bergame. 
+ARLEQUIN.
+Fi ! Une bergame a une fille comme vous ! Si tu voulais, Margot, m'epouser a la Harpillon, j'irais moi jusqu'a une verdure. 
+MARGOT.
+Je vous remercie, monsieur ; cela ferait jaser le monde. Tenez, monsieur, pour avoir ete un jour promener avec mon cousin, vous ne sauriez croire quels contes on a faits. Il y a les plus maudites langues dans notre montee. 
+ARLEQUIN.
+Ecoutez, Margot, votre montee a peut-etre raison, et il pourrait bien y avoir quelque chose a refaire a votre reputation. 
+COLOMBINE.
+Margot peut aller partout, monsieur le Marquis ; elle est sage, et j'en reponds corps pour corps. 
+ARLEQUIN.
+La bonne caution ! Croyez-moi, les environs de Paris sont terriblement dangereux. N'allez-vous point quelquefois au bois de Boulogne ? 
+MARGOT.
+Dieu m'en garde, monsieur ! Ma mere me l'a defendu, et m'a dit que c'etait un vrai coupe-gorge pour une fille. 
+ARLEQUIN.
+C'est peut-etre la que votre mere a ete egorgee. Ma foi, cette fille me plait. Ma mie, me voudrais-tu tailler une chemise et quelques calecons ? 
+MARGOT.
+Je suis votre servante, monsieur ; on ne travaille point en homme au logis. 
+ARLEQUIN.
+He bien, viens les faire chez moi. 
+COLOMBINE.
+Justement ! On garde des filles de cet age-la pour votre commodite ! Vous n'avez qu'a vous y attendre. Mais il me semble, Margot, que ce manteau-la monte bien haut ; on ne voit point ma gorge. 
+MARGOT.
+Ce n'est peut-etre pas la faute du manteau, mademoiselle. 
+COLOMBINE.
+Taisez-vous, Margot ; vous etes une sotte : tenez, remportez votre manteau ; j'y suis faite comme je ne sais quoi.
+ARLEQUIN a Margot. 
+Plus je vois cette enfant-la, plus elle me plait... Un petit mot : j'ai besoin d'une fille de chambre ; je crois que tu serais assez mon fait. Sais-tu raser ? 
+MARGOT.
+Moi, raser ! Je vois bien que vous etes un gausseur: je mourrais de peur, si je touchais un homme seulement du bout du doigt. Adieu, mademoiselle ; dans un quart d'heure je vous rapporterai votre manteau avec de la gorge. 
+ARLEQUIN.
+Adieu, adieu, petite nymphe du bois de Boulogne.
+SCENE X. Arlequin, Colombine.
+ARLEQUIN.
+Elle n'est, morbleu, pas sotte, et je m'aimerais presque autant que vous. Nous autres gens de qualite, nous aimons quelquefois a rabattre sur la grisette. Et de notre mariage qu'en dirons-nous ? 
+COLOMBINE.
+Je vous dirai, monsieur le Marquis, qu'avant que de vous epouser, je vous demande encore une grace. Nous sommes un certain nombre de filles qui avons fait serment de ne point prendre de mari qui n'ait ete recu auparavant dans notre academie. Il faut vous y faire recevoir. 
+ARLEQUIN.
+Moi, dans votre academie de filles ! Vous vous moquez ; j'ai des empechements plus que legitimes. Et que faut-il faire pour cela ? 
+COLOMBINE.
+Ne vous mettez pas en peine : on vous habillera en femme ; on vous fera peut-etre faire serment d'etre un epoux commode, de laisser faire a votre femme tout ce qu'il lui plaira, de n'etre point de ces maris coquets qui vivent de rapine, et laissent leurs femmes pour aller picorer sur le commun. 
+ARLEQUIN.
+Quand on a de cette besogne-la toute taillee chez soi, on n'a guere envie d'aller travailler en ville. Allons, faisons ce qu'il vous plaira. Voila qui est bien drole, qu'il faille, pour vous epouser, commencer par se deshumaniser !
+SCENE XI. Arlequin, Mezzetin, en Sibylle, plusieurs Fourbes de la suite de Mezzetin.
+Cette scene de travestissement d'Arlequin consiste en jeu purement italien ; les Fourbes chantent et dansent, pendant que Mezzetin depouille Arlequin et l'habille en femme, et Mezzetin chante ce qui suit.
+MEZZETIN chante. 
+O toi qui veux epouser Colombine, 			[180]
+Recois l'honneur que sa main te destine: 
+Tu n'etais qu'un vilain magot, 
+Un ostrogot, 
+Un escargot ; 
+Tu vas etre aussi beau qu'une fille 			[185]
+Gentille, 
+Ou peu s'en faut. 
+LE CHOEUR.
+Tu n'etais qu'un vilain magot, etc.
+MEZZETIN.
+Recois cette coiffure en malice feconde ; 
+Avec cet ornement, 			[190]
+Tu peux facilement 
+Insulter hardiment 
+Et la brune et la blonde ; 
+Avec cet ornement, 
+Tu charmeras tout le monde. 			[195]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Micropoli, chariba, charistac. 
+Baroquina, bocardo, merlinbrac. 
+Ministres de mon art, 
+Versez tout votre fard 
+Sur ce nez en pied de marmite ; 			[200]
+Barbouillez vite ce museau, 
+Et nettoyez votre pinceau 
+Sur cette trogne hermaphrodite. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Je peux presentement resister a la pluie ; me voila bien peint.
+MEZZETIN chante. 
+Ah ! Qu'il est beau!... oh, oh !
+Le damoiseau 			[205]
+Au museau 
+De couleur de pruneau ; 
+Faisons le pied de veau : 
+Ah !qu'il est beau !... oh, oh !
+LE CHOEUR.
+Ah ! Qu'il est beau !... oh, oh !			[210]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XII. Arlequin, Trafiquet, Colombine, Pierrot.
+TRAFIQUET.
+Que veut donc dire, s'il vous plait, cette mascarade-ci ? 
+ARLEQUIN.
+Monsieur, je vous prie de me dire si je suis male ou femelle ; car, ma foi, je n'y connais rien. 
+TRAFIQUET.
+Vous etes un fou, voila ce que vous etes.
+PIERROT, riant. 
+Ha, ha, ha ! Essuyez-vous, monsieur le bailli, vous etes tout barbouille. 
+COLOMBINE.
+Je suis, mon pere, disposee a vous obeir ; mais je ne crois pas que vous vouliez me donner pour mari un homme qui est capable de pareilles extravagances. 
+ARLEQUIN.
+Oh, oh ! Voila qui est assez drole. Par ma foi ! S'il y en a, c'est vous qui les avez faites, et qui avez voulu que je me sois fait et marquis et ce que me voila... Voyez, ne me voila-t-il pas bien designe ? 
+COLOMBINE.
+Moi, je vous ai fait faire ces extravagances-la ? Ma foi, monsieur le bailli, vous revez. 
+PIERROT.
+Monsieur, quand je vous ai dit que j'etais mieux le fait de votre fille que cet homme-la, est-ce que je me trompais ? Il faudra pourtant que vous y veniez. 
+TRAFIQUET.
+Ce que j'ai vu tantot, et ce que je vois presentement, m'oblige de vous dire, monsieur le bailli, que vous pouvez, tout de ce pas, vous en retourner dans le Bas-Maine, manger vos chapons ; car pour ma fille, vous n'en croquerez que d'une dent. 
+PIERROT.
+Que d'une dent, monsieur le bailli, que d'une dent. 
+ARLEQUIN.
+Allez-vous-en au diable, vous et votre fille, petit vilain grigou raccourci. Adieu, la belle ; je ne crois pas qu'il y ait au monde un animal plus mechant que vous. Il faut qu'un provincial ait bien le diable au corps, pour venir s'equiper d'une femme a Paris. 
+COLOMBINE.
+Et qu'une fille a Paris soit bien pres de ses pieces pour epouser un bailli du Bas-Maine. 
+
+	==================================================

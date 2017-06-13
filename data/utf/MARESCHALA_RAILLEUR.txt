@@ -1,0 +1,2405 @@
+********************************************************
+	DC.Title                  = LE RAILLEUR, OU LA SATYRE DU TEMPS.
+	DC.Author                 = MARESCHAL, Andre
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 30/09/2016 a 15:09:25.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/MARESCHALA_RAILLEUR.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE RAILLEUR OU LA SATIRE DU TEMPSCOMEDIEM. DC. XXXVIII. Avec Privilege du Roi.
+PAR LE SIEUR MARESCHAL.
+	
+	Acheve d'imprimer le dernier jour de Novembre 1637. Les Exemplaires ont ete fournies, conformement au Privilege.
+	Represente pour la premiere fois en 1636.
+	MONSEIGNEUR,
+Ce n'est pas pour me fortifier de votre jugement, qui s'est declare en faveur de cette Piece a sa premiere vue, ni pour prevenir celui de toute la France qui doit suivre legitimement le votre, que je publie qu'elle n'a point deplu a VOTRE EMINENCE. J'ajoute que c'est bien encore moins pour m'en glorifier ; puisque les faveurs que vous faites sont des graces purement divines, que votre bonte donne sans qu'on le merite, et qu'on ne peut meriter qu'en s'en confessant indigne. C'est donc un acte de reconnaissance, et non pas un effet de vanite ; et si LE RAILLEUR s'offre pour la seconde fois a V. E. C'est pour vous rendre graces seulement de l'honneur qu'il a recu de votre approbation, et non pas pour s'en prevaloir. En ceci, MONSEIGNEUR, mes sentiments sont justes et peut-etre genereux, quand je dis que la gloire la plus grande qu'un Esprit se puisse proposer pour le fruit de ses veilles, est l'honneur de vous plaire ; que ce prix doit contenter la plus haute ambition,, et qu'on recoit infiniment de vous, lorsque l'on vous a donne quelque chose qui vous peut etre agreable. Vos plaisirs font notre plus belle recompense, puisqu'ils nous laissent une marque de vertu, et que tout ce qui est assez parfait pour servir a vos divertissements, sert aussi de beaucoup a notre reputation. En effet MONSEIGNEUR, qui peut conter entre ses biens l'honneur de votre estime n'en doit point souhaiter d'autres, quoique vos liberalites previennent les desirs, et surpassent les esperances de tous ceux qui les meritent. Pour moi, qui n'aspire point a ceux-ci, que je n'ai jamais merites, et qui regardent mon devoir et vos vertus plutot que vos grandeurs et ma fortune, je m'attache aux premiers dont je me trouve encore plus indigne ; et je ne considere la faveur que vous avez faite au RAILLEUR de l'estimer, que comme un bien qui vient de pure grace, que vous lui avez bien donne, mais qu'il n'a point acquis. Apres cela, de vous payer a l'ordinaire de louanges qui le plus souvent offensent votre modestie et vos oreilles, et qui sont toujours au-dessous de vos Vertus ; et de se montrer temeraire de peur de paraitre ingrat, ce serait un effort qui me ferait rougir de ma faiblesse, et vous de ma presomption. L'humilite aupres de vos pareils, est une louange muette qui s'exprime et qui s'entend par le respect, qui sans parole parle mieux que la plus flatteuse eloquence, et qui dans le silence et parmi la confusion temoigne une reconnaissance discrete et sans fard. J'ai cherche quelque fois, pour vous louer, des termes assez releves : mais il faut confesser que je vous voyais toujours plus haut et plus glorieux, dans vos propres effets que dans mes Vers. Je vous ai depeint souvent dans mes ouvrages sous le nom d'un autre, pour m'oter cette crainte que j'avais de profaner des choses si sacrees comme sont vos qualites et vos louanges, et pour m'essayer dans ce jeu d'esprit a me familiariser avecque vos Vertus. J'aurais fort peu de grace a rapporter ici ce que j'ai condamne : et toutefois il faut que j'implore pardon pour quatre qui me vont echapper, et que j'ai insere dans une Piece de Theatre, ou je tachais de decrire un puissant Ministre, et un homme aussi grand et aussi parfait que vous l'etes. Jugez s'il vous plait si l'on peut parler de vous en d'autres termes. 
+Il est dans le Conseil ce qu'il est dans la guerre,
+Et partout Compagnon des Maitres de la Terre,
+Des Monarques voisins c'est l'amour ou l'effroi,
+Enfin l'on trouve en lui ce qu'on cherche en un Roi. 
+Tout cela, MONSEIGNEUR, ne m'a point satisfait, partout je demeure infiniment au-dessous de ce que je concois de vous, le trop de sujet cause ma sterilite : et lorsque j'ai bien travaille et fait beaucoup de vers a votre honneur, souvent je n'en laisse pas un, et il ne reste sur mon papier que ces mots en prose : Je suis, 
+MONSEIGNEUR, 
+De votre Eminence
+Le tres humble et tres obeissant serviteur 
+A. MARESCHAL.
+AU LECTEUR.
+C'est presque sans sujet que je te veux eclaircir le Sujet de cette Piece, puisqu'il est assez facile et assez net pour se faire entendre de soi-meme dans la suite, et que j'ai juge qu'un Argument ne lui serait qu'inutile. Ce que j'ai a te dire, est que je te donne en Francais une agreable Comedie a l'Italienne, et le tout pourtant de ma seule invention ; qui te dois plaire davantage quand tu considereras que je n'ai rien emprunte d'etranger, et que Paris m'a fourni toutes mes Idees. Pour faire la Satire, et railler avec quelque grace, j'ai pris pour objets cinq ou six conditions assez comiques pour te faire rire, et trop communes en ce temps pour n'etre pas connues. J'ai pense qu'une Courtisane plus adroite que vilaine, et un Filou son protecteur, valaient mieux qu'un Parasite et qu'une effrontee dedans Plaute, et chez les Italiens : j'ai cru qu'un Financier, aussi vain que riche et prodigue, ne tiendrait pas mal sa partie en la Satire, que la Muguette et la Niaise donneraient beaucoup d'eclat a la Gaillarde, et dans leurs accords ou dans leurs disputes j'ai depeint les fantaisies et les esprits de nos Dames. Au reste pour ne desobliger personne en particulier, quoi que je touche en general, j'ai decrit mille humeurs et mille vices Poetiques sous le nom d'un Poete seul ; et pour n'irriter aucun de nos Fanfarons, qui se fussent imagines qu'on eut du lire leur nom dessous le Tableau du Capitan, je l'ai fait Espagnol originaire, combien que sa vanite soit francaise autant que son langage. Je serais aussi vain que lui, si je voulais louer cette Comedie, et c'est moins pour l'estimer que pour la justifier, que je dis qu'elle est dans toutes les regles. Le sujet est petit, aussi la Comedie n'en demande pas un grand ; et ceux qui l'ont vu representer au Louvre, a l'Hotel de Richelieu, et aux Marais, n'ignorent point comment il a ete recu, et la raison qui a fait cesser cette representation. Je suis bien plus en peine de savoir comme tu la dois recevoir, puisqu'il est vrai qu'aux pieces purement Comiques comme est celle-ci, le papier ote beaucoup de leur grace, et que l'action en est l'ame. Ces vers coupes, et tous ces petits mots interrompus qui sont du jeu Comique, et qui pour etre familiers entrent si facilement dans l'imagination, lorsqu'ils sont pousses chaudement ; languissent lorsqu'ils sont ecrits. Toutefois on me surprendra rarement en ce defaut, et mon Hylas a montre que mes vers en leur naivete sont plus eleves que rampants. Je t'en laisse le jugement en cette Piece, et s'il m'est favorable comme je l'espere, tu m'obligeras a te faire voir de suite le Chef-d'oeuvre de mes comedies, sous le nom du Capitan ou du Fanfaron, que j'ai tire de Plaute et accommode a notre Theatre aussi bien qu'a notre Histoire et a notre temps. Le premier que j'ai insere dedans cette Satire n'est qu'un essai et qu'une ebauche pour l'autre que je te promets, et je dirai pourtant en sa faveur que c'est le premier Capitan en vers qui a paru dans la Scene Francaise, qu'il n'a point eu d'exemple et de modele devant lui, et qu'il a precede (au moins du temps) deux autres qui l'ont surpasse en tout le reste, et qui sont sortis de deux plumes si fameuses et Comiques, dans l'Illusion et dans les Visionnaires. Ce n'est pas pour venir en concurrence avecque ces puissants Genies que je te promets ce dernier Capitan, mais seulement pour reparer les fautes que tu pourras connaitre en celui-ci, et te porter a me les pardonner. Excuse-les, afin de me donner envie de t'en montrer un meilleur, qui autrement ne paraitra qu'afin de me venger de ta rigueur ou de ta medisance. 
+
+LES ACTEURS.
+CLARIMAND, Le Railleur. 
+CLORINDE, Sa Soeur, Maitresse d'Amedor.
+AMEDOR, Financier, Amant de Clorinde. 
+CLYTIE, Sa Soeur, Amante de trois. 
+TAILLEBRAS, Capitan, Amant de Clytie. 
+BEAUROCHER, Volontaire.
+LA DUPRE, Courtisane, sa Maitresse.
+DE LYZANTE, Poete, Amant de Clytie. 
+La Scene est a Paris.
+
+
+
+			ACTE I
+
+
+SCENE I. Clarimand, Clorinde.
+CLARIMAND.
+Clorinde, je l'ai dit, et je vous le commande ;
+C'est vous prescrire un point que votre esprit demande ;
+Caressez Amedor ; pensez a m'obeir.
+CLORINDE.
+M'ordonnant de l'aimer, on me le fait hair.
+CLARIMAND.
+Ma soeur, est-ce avec moi qu'il faut faire la fine ?			[5]
+Je sais juger du coeur en depit de la mine ;
+J'oserais bien jurer, lisant dans ton esprit,
+Quand ta bouche s'en plaint que ton ame en sourit :
+Appelle-moi cruel, blame mon insolence ;
+C'est te faire une aimable et douce violence ;			[10]
+Te porter a l'amour ? Ah ! L'etrange action !
+Mais qu'on souffre aisement cette punition !
+Bien, je veux t'epargner ; ton respect me surmonte,
+Ton silence me plait qui parle par ta honte,
+Et sans plus te presser j'entends a cette fois			[15]
+Pour avoir trop d'amour que tu n'as point de voix.
+CLORINDE.
+Mauvais, vous me feriez folle par complaisance.
+CLARIMAND.
+Donne ta modestie a ma seule presence,
+Devant moi fais la froide, ajuste un entretien
+Ou me faisant honneur on connaisse le tien,			[20]
+Parle peu, reponds moins, qu'a peine on me regarde :
+Ailleurs, contre tes traits qu'un coeur n'ait point de garde,
+Emploie un meme esprit et discret, et charmant,
+A me traiter en Frere, Amedor en Amant.
+CLORINDE.
+Pour vous plaire il faut donc que je me sacrifie.			[25]
+CLARIMAND, parlant bas.
+Assez facilement, comme je m'en defie.
+CLORINDE.
+Et bien, vous me verrez complaisante a ce point...
+CLARIMAND, parlant bas.
+Peut-etre d'accomplir ce que je ne veux point.
+CLORINDE.
+D'accorder a vos voeux ce qu'aux siens je refuse,
+Et vos commandements me serviront d'excuse :			[30]
+Est-ce peu de faveur, le souffrir et le voir ?
+Mes yeux rechercheront des traits dans mon miroir,
+Dont l'agreable effort plein de force et de charmes
+Semblera le combattre en lui rendant les armes ;
+Je le dirai mon coeur, mon ame, mon desir,			[35]
+Et vivrai tellement qu'il mourra de plaisir.
+CLARIMAND.
+Tout doux, au premier mot tu vas dans l'amourette :
+Mais quoi ? Pour m'obliger tu ferais l'indiscrete ?
+Ah ! Vraiment c'est montrer un exces d'amitie,
+Et ton aveuglement me porte a la pitie ;			[40]
+Tu prends deja l'amorce, et tu ressens l'atteinte,
+Simple, et tu ne vois pas que ce n'est qu'une feinte,
+Que pour faire l'essai de ta legerete
+J'ai donne ce combat contre ta fermete ;
+Ton humeur deviendrait coupable d'innocente,			[45]
+Je t'aime plus farouche et moins obeissante :
+Non non, retranche un peu de tout ce beau dessein ;
+Crois-tu que je te mette un Amant dans le sein ?
+Que j'assemble vos coeurs, et sa bouche a la tienne ?
+Ce qu'un autre eut puni, qu'un Frere le soutienne ?			[50]
+Qu'etant de ta vertu moi-meme suborneur,
+J'achete mes plaisirs au prix de ton honneur ?
+A prendre ainsi la loi que j'ose te prescrire,
+Tu me ferais rougir ou je ne veux que rire.
+CLORINDE.
+Que vous m'embarrassez en d'inutiles soins !			[55]
+Que demandez-vous donc ?
+CLARIMAND.
+Que tu me donnes moins ;
+Que flattant Amedor d'une simple caresse,
+Tu ne prennes de lui que le nom de Maitresse :
+Afin qu'en cet acces, tous ses esprits contents
+M'en donnent chez Clytie, ou je passe mon temps.			[60]
+CLORINDE.
+Doncque vous nous jouez, ainsi l'une pour l'autre ;
+Pour aller a sa soeur, vous lui donnez la votre.
+CLARIMAND.
+Du moins en apparence ; et je crois que ton coeur,
+Sans y mettre du tien, se rendra son vainqueur :
+Ainsi, par une flamme ingrate et mensongere,			[65]
+Je rirai de la Soeur, et tu riras du Frere.
+CLORINDE.
+Vous ne regardez en cela que pour vous,
+Ce travail est facheux, qui vous sera bien doux ;
+Vous demandez de moi la vertu par le vice,
+Que je me tienne droite au fonds d'un precipice ;			[70]
+Mais il est difficile autant comme ennuyeux
+D'avoir un coeur de glace, et le feu dans les yeux.
+CLARIMAND.
+Tu te moques, ma Soeur : aujourd'hui c'est l'usage ;
+Le coeur plus froid saura payer d'un bon visage ;
+Le mensonge obligeant attire notre foi :			[75]
+Engage tes appas, et ne retiens que toi ;
+Fais jouer les ressorts des yeux et de la bouche,
+Touche un Dieu, si tu peux, garde que rien te touche ;
+Parle, flatte, promets, et ne tiens rien du tout ;
+C'est comme on les surprend, comme on en vient a bout :			[80]
+Rire, tromper un homme, est-il plus douce peine ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mis en voici l'objet, que le hasard t'amene :
+Courage, tu palis ; je vois tes sens blesses ;
+Mors ta levre et tes gants ; tiens les yeux abaisses ;
+Ce vermillon mele rend ta blancheur plus vive.			[85]
+CLORINDE.
+C'est que mon front rougit qu'on me traite en captive.
+SCENE II. Clarimand, Amedor, Clorinde.
+CLARIMAND, s'avancant pour recevoir Amedor.
+Serait-ce pour me voir qu'Amedor vient ici ?
+Je n'ai, pour l'obliger, qu'a dire, (la voici :)
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Que vous m'en voulez bien moins qu'a cette Belle !
+Vous ne venez ca moi, qu'afin d'etre avec elle ;			[90]
+Meme votre oeil me dit, en cherchant ses appas,
+Que celui qui me rit ne m'y demande pas.
+AMEDOR.
+Non plus que votre coeur m'appelle vers Clytie,
+Lorsque vous y dressez sans moi quelque partie.
+CLARIMAND, parlant bas.
+J'en dresse une en effet que tu ne peux savoir.			[95]
+C'est pourquoi je vous laisse, et je m'en vais la voir.
+AMEDOR.
+Traitez humainement ma Soeur, a la pareille.
+CLARIMAND.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)N'epargnez pas la mienne, et je vous le conseille.
+Toutefois elle est simple, et lui si glorieux,
+Que je crains qu'un eclat lui donne dans les yeux :			[100]
+Ces beaux mignons frises, avecque leurs moustaches
+Echauffent plus le sang que ne font les pistaches ;
+La cadenette, l'or, la plume, et les brillants
+Leur donnent ces faux noms de beaux et de vaillants ;
+Et c'est par ou une fille s'engage,			[105]
+Qui juge sottement de l'oiseau par la cage.
+Que de ceremonie, et de sourds compliments !
+Voyons-les, ecoutons leurs discours de Romans.
+AMEDOR, etant entre avec Clorinde dans un Cabinet.
+Accordez a mes voeux cette faveur entiere,
+Madame, vous prendrez le siege la premiere.			[110]
+CLORINDE.
+Si je fais cette faute, et dans votre maison,
+C'est pour vous obeir plutot que par raison.
+CLARIMAND, les ayant ecoutes, et parlant bas.
+Voila suivre les tons d'une commune gamme ;
+Apres, sur cet accord ils chanteront...
+AMEDOR.
+Mon ame !
+CLARIMAND.
+Justement, c'est le mot ; acheve.
+AMEDOR.
+Mon desir !			[115]
+Mes yeux aupres de vous ne savent que choisir ;
+La bouche ici me rit, la votre sein m'attire,
+Ils font tous deux ma joie, et tous deux mon martyre :
+Helas !...
+CLORINDE.
+Tranchez ce mot trop intentionne.
+CLARIMAND, bas.
+C'est pourtant du plaintif et du passionne.			[120]
+CLORINDE.
+Pour cette belle humeur dont un Amant se pique
+Vous etes serieux et trop melancolique.
+AMEDOR.
+Vous avez dans vos yeux de quoi me divertir.
+CLORINDE, se levant avec une grande reverence.
+Je vous cede, Monsieur, et n'ose repartir.
+CLARIMAND, parlant bas.
+La traite, en ce chemin ne sera pas trop grande ;			[125]
+Attends qu'il ait parle d'encens, de voeux, d'offrande.
+CLORINDE, voyant qu'Amedor releve son masque qu'elle avait laisse tomber.
+Que de peine ! Monsieur ; c'est un masque tombe.
+CLARIMAND, continuant bas.
+S'il parle de son coeur, tu l'auras derobe ;
+Laisse-lui dire au moins (Je meurs, je vous proteste,)
+Et tous autres mots qui lui seront de reste :			[130]
+Ah ! Ce masque facheux a trouble sa lecon.
+CLORINDE.
+Ne le trouvez-vous pas d'une belle facon ?
+AMEDOR, considerant le masque.
+Les yeux sont bien fendus, le front fait a garcette.
+CLARIMAND, bas.
+Mets-y la bouche encore.
+AMEDOR.
+Et l'etoffe est fort nette :
+Que j'aime ce velours, et qu'il est d'un beau noir !			[135]
+CLORINDE.
+Faut-il un compliment encore a vous asseoir ?
+AMEDOR, lui tendant son masque et lui prenant un noeud.
+Souffrez qu'en vous rendant...
+CLORINDE.
+Ah ! vraiment, peu de chose.
+AMEDOR.
+Je prenne ce galon.
+CLARIMAND, bas.
+Rimez, couleur de rose.
+AMEDOR.
+De qui le vif eclat et s'efface, et se plaint
+Que l'incarnat palit aupres de votre teint.			[140]
+CLARIMAND, bas.
+Il donne dans l'esprit, et va dans les pensees ;
+Ce style est de haut prix, et pour les mieux chaussees :
+Muette a ces beaux mots la Niaise rougit.
+CLORINDE.
+Ce n'est que d'un ruban, apres tout, qu'il s'agit :
+Mais vous n'en portez point qui ne soit a la mode.			[145]
+CLARIMAND, bas.
+Voila ce qu'au discours l'ignorance accommode :
+Puisqu'ils y sont tombes, laissons-les en ce point
+Coucher tout le Palais sur un mechant pourpoint ;
+Je puis, dans un jargon qui deja m'importune,
+Les remettre a leur foi sans crainte de fortune.			[150]
+CLORINDE, considerant Amedor.
+A cause du faux jour, et d'un volet ferme,
+Je pensais que ce noeud fut de Diable enrhume ;
+Je suis d'avecque vous pour l'Espagnol malade,
+La couleur en est morne, insensible, et trop fade,
+Astree a fait son temps ; Celadon est laisse ;			[155]
+Vous etes aujourd'hui dessus l'amant blesse ;
+Que votre assortiment merite qu'on l'admire !
+Vous n'avez rien sur vous qui ne me semble rire ;
+Ce demi-parasol que fait votre collet
+Tient Genes, Pontinar, et Venise au filet ;			[160]
+Je vous trouve le pied pour le bas et la botte
+La tete pour la plume elevee ou qui flotte,
+Tout vous sied noblement, et casaque et manteau,
+Dirai-je sans rougir que je vous trouve beau ?
+AMEDOR.
+Madame, epargnez-moi ; cette louange extreme			[165]
+Comme indigne plutot me fait rougir moi-meme ;
+C'est presque me chasser de chez vous tout a fait.
+CLORINDE, le voyant leve pour s'en aller.
+Cette cause aurait-elle un si mauvais effet ?
+AMEDOR.
+Non, mais un Cavalier qui peut tout sur mon ame
+M'attend au rendez-vous...
+CLORINDE.
+Ou plutot une Dame.			[170]
+AMEDOR, en souriant.
+On ne me compte pas au nombre des heureux.
+CLORINDE.
+Ni des plus languissants, ni des plus amoureux.
+SCENE III. Clarimand, Clytie.
+CLARIMAND.
+Vous en riez, Clytie ?
+CLYTIE.
+En ces fausses alarmes
+C'est bien vous qui ririez si je versais des larmes.
+CLARIMAND.
+Et toutefois sans moi le scandale etait grand ;			[175]
+Connaissez le service au moins que l'on vous rend.
+CLYTIE.
+Vous faut-il embrasser ici pour recompense ?
+Oui, vous le souffririez ; mais l'heure m'en dispense ;
+Ces Amants que ma porte avait mis en debat
+Ne nous permettent pas un si plaisant combat.			[180]
+CLARIMAND.
+Comme ils se disputaient tous deux la preference
+J'ai su les accorder en cette occurrence,
+Partageant a chacun la porte pour entrer ;
+Avouez que le sort, qui m'a fait rencontrer,
+Vous oblige autant qu'eux en rompant leur querelle...			[185]
+CLYTIE.
+Grande, et qui meritait de me mettre en cervelle ;
+On ne me vit jamais triste a si bon marche,
+Meme on tient que je ris quand je pleure un peche.
+CLARIMAND.
+Cette humeur est du temps, elle est fort agreable ;
+D'autres ont l'esprit fort, mais bien moins sociable,			[190]
+Qu'aucun mal n'intimide et rien ne flatte aussi,
+Froids parmi les plaisirs comme dans le souci ;
+Vous donnez seule au mal un visage de joie,
+Et pour devenir gai c'est assez qu'on vous voie.
+Mais ce couple d'Amants vient comme il est instruit,			[195]
+Qui ne vous fera pas l'amour a petit bruit.
+CLYTIE.
+Ils en ont deja fait assez devant la porte
+Pour croire tout perdu, toute la maison morte.
+CLARIMAND.
+Ils n'ont dans ce combat epargne que du sang :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Les voici ; mais voyez comme ils tiennent leur rang.			[200]
+CLYTIE.
+Sans la loi qu'en entrant vous leur avez prescrite
+Ils n'eussent pu jamais accorder leur merite.
+CLARIMAND.
+Cet honneur de l'entree en a fait detester
+D'aussi sots a l'offrir qu'eux a le disputer.
+CLYTIE.
+On dirait que l'orgueil a pas comptes chemine.			[205]
+CLARIMAND.
+Faites la serieuse, et tenez bonne mine.
+SCENE IV. Taillebras Capitan, Lyzante Poete, Clytie, Clarimand.
+TAILLEBRAS, saluant Clytie.
+Le foudre des combats, l'effroi de l'Univers.
+LYZANTE, le faisant aussi.
+L'Apollon de ce siecle, et le maitre des Vers.
+TAILLEBRAS.
+M'interrompre ? Parler ? Ah ! Ventre ! Quelle audace :
+Jette ce Mirmidon jusques dessus Parnasse ;			[210]
+Que la, de ses desirs amoureux et hautains
+Il aille entretenir ses neuf vieilles Putains,
+Et que ce farfadet pour guerir sa migraine
+Boive tout l'Helicon, puise tout l'Hippocrene :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Coeur royal, sois moins noble, et daigne le hair ;			[215]
+Il monterait Pegase en vain pour me fuir ;
+Ah ! Que s'il meritait... Mais excusez, ma Reine ;
+L'amour demande seul et mes feux et ma peine,
+Le respect qui me lie oblige mon courroux
+D'epargner des transports qui ne sont dus qu'a vous ;			[220]
+Sans cela...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLARIMAND, se moquant de lui.
+Vos regards le reduiraient en poudre.
+LYZANTE.
+Ce sont de vains eclairs qui n'ont jamais de foudre ;
+Eut-il celui du Ciel, pour me faire un affront,
+Le laurier que je porte en garantit mon front.
+CLARIMAND.
+Il pare du Phebus, qui lui vaut une lame ;			[225]
+Sa lepre est dans les os, et passe jusqu'a l'ame.
+LYZANTE.
+Parlez mieux ; la Poesie est un poison divin.
+CLARIMAND.
+Oui, mele dans le jus qu'on appelle du vin :
+C'est un art a mentir, a flatter, a medire,
+Qui charme un ignorant, pour ce qu'il se fait lire,			[230]
+Qu'on le nomme l'auteur d'Armide ou de Thysbe,
+Qu'il nous vante pour sien, ce qu'il a derobe,
+Qu'au Marais, a l'Hotel, l'un et l'autre Theatre
+Rendent un peuple entier de ses vers idolatre :
+Un essaim d'Avortons que le siecle produit			[235]
+Bat l'oreille des Grands, les assiege, les suit ;
+Paris en est farci, chaque Hotel en fourmille,
+Il n'est point de reduit ou l'un d'eux ne babille ;
+Ils se fourrent partout, les ruelles des lits
+S'empetrent de leurs mots de roses er de lys.			[240]
+LYZANTE.
+Non, pour ceux qu'au metier un premier jour applique,
+Je passe le commun, je suis poete comique ;
+Mercenaire ? Jamais grace a Dieu, j'ai du bien.
+CLARIMAND.
+O le noble courage ! Il y mange le sien :
+L'oisivete, la faim a cet Art les appelle,			[245]
+Sont-ils accommodes ? Au Diable un qui s'en mele ;
+Eussent-ils moins de force ou de rang qu'un Oison,
+L'un vante son courage, et l'autre sa Maison ;
+Et quoiqu'ils suivent tous la fortune apparente,
+Le vent seul est leur fonds, la fumee est leur rente ;			[250]
+Le laurier, pour montrer l'espoir qui les seduit,
+A la feuille fort belle, et n'a qu'un mauvais fruit ;
+Leurs titres les plus grands sont au front d'un Volume,
+Et leurs biens etablis sur le son et la plume ;
+La terre de Parnasse est sterile en moissons,			[255]
+Elle a divers ruisseaux, pas un n'a de poissons ;
+Comme voleurs de nuit ils se servent de lime ;
+De pointe encore plus que les maitres d'escrime,
+De cadence et de pieds plus que les baladins,
+Et font regle nouvelle a se montrer badins.			[260]
+LYZANTE.
+Vous, qui meme inventez des plaisirs qu'on ignore,
+En voulez-vous bannir un que le siecle adore ?
+Blamer la Comedie, ou vous allez souvent ?
+CLYTIE.
+En effet, il a tort, il passe trop avant ;
+Il vous presque tous condamnes au supplice,			[265]
+Et ma chambre eut passe pour celle de Justice ;
+Les galeres etaient votre moindre tourment ;
+Mais j'eusse eu le rappel pour un si noble Amant
+TAILLEBRAS.
+Amant ? C'est le flatter ; et tout autre est indigne
+D'un titre qui n'est du qu'a mon amour insigne :			[270]
+Et souffrir mon merite etre en comparaison
+Avec un ?...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Monsieur, que vous avez raison !
+Vous m'avez derobe ce que je voulais dire ;
+Vous etes galant homme, et propre a la Satire ;
+De parler apres vous ? Dieu me damne, on ne peut ;			[275]
+Et celle-ci
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour moi parle quand elle veut :
+Au milieu d'une armee on s'anime a l'entendre,
+Ou le canon, de peur fuit, et n'ose l'attendre ;
+Elle a mis sur les pres plus d'hommes a l'envers
+Que les Poetes du temps n'ont fagote de vers,			[280]
+Plus epanche de sang a rougir mille plaines
+Qu'eux d'encre a charbonner des feuilles toutes pleines ;
+Seule, et sans implorer ces vendeurs de renom,
+Au Temple de Memoire elle a grave mon Nom ;
+On le lit a l'entour des Colonnes d'Hercule,			[285]
+Peint en lettres de feu dessus le Mont qui brule ;
+Sur le Caucase aussi les neiges de cent ans
+Le gardent par respect a l'epreuve du temps ;
+C'est de lui qu'on oit bruire et le Gange, et l'Euphrate ;
+Ce nom de Taillebras dans tout le monde eclate ;			[290]
+Il n'est point de pays qui lui soit etranger,
+Il est Turc a Byzance, et More dans Alger ;
+Les Etats n'ont de loi qu'il ne leur ait permise,
+Il fait les Rois en France, et les Ducs a Venise :
+L'Espagne m'a nourri moins de lait que d'orgueil,			[295]
+L'honneur de mon berceau m'affranchit du cercueil ;
+Ou, si je dois mourir, c'est d'un coup de tonnerre,
+Il faut pour mon sepulcre un tremblement de terre.
+CLARIMAND.
+Comme l'Impertinent extravague a son tour !
+Il fait son Epitaphe, et croit faire l'amour :			[300]
+Tous ces exploits en l'air, que tes discours nous vantent,
+Loin de te faire aimer au sexe, l'epouvantent.
+CLYTIE.
+C'est un vice du ventre, et de la Nation.
+CLARIMAND.
+On ne croit tes pareils qu'a bonne caution
+TAILLEBRAS.
+Tes pareils ? Ventre ! Tes ? Est-ce ainsi qu'on me berne ?			[305]
+Moi, qui n'ai d'element...
+CLARIMAND.
+Que l'air d'une taverne.
+TAILLEBRAS.
+Que celui de la gloire, et de tant de splendeurs,
+Dont je refuis l'eclat, ennoye des Grandeurs ;
+Et me sangler d'un tes ? Moi, moi, qui fais litiere
+D'Excellence, d'Altesse, et de telle matiere ?			[310]
+Tes pareils ? Mais j'ai tort de me plaindre en ce point ;
+Il parle de pareils, et moi je n'en ai point.
+CLARIMAND.
+Il est vrai ; mais il faut ajouter, de folie.
+CLYTIE.
+Un amant en fureur, l'autre en melancolie ?
+Dedans un desespoir l'un et l'autre jetes ?			[315]
+C'est trop d'exces vers moi, vers eux de cruautes.
+LYZANTE.
+Souffrez-vous ce pouvoir qui n'est pas legitime ?
+Celui touche a l'Autel, qui corrompt la victime ;
+Il vous offense en nous, et cruel a nos voeux
+L'insensible qu'il est pense eteindre nos feux ;			[320]
+Mais...
+TAILLEBRAS.
+Quoi, mais ? Oses-tu hors ce point y pretendre ?
+CLYTIE.
+Cessez vos differents, je ne les puis entendre ;
+Je remets ce debat a mon premier loisir :
+Allons au cabinet rire de ce plaisir.
+
+
+			ACTE II
+
+
+SCENE I. Beaurocher Volontaire, La Dupre Courtisane.
+BEAUROCHER, en la baisant.
+Encore un, ma Mignonne, et mon ardeur s'apaise ;			[325]
+Que tu cherches de grace a faire la mauvaise !
+LA DUPRE.
+Arrete, Beaurocher ; mais non, poursuis toujours.
+BEAUROCHER.
+Que ne puis-je baiser encore ton discours !
+Mon coeur, a ce signal d'une douce escarmouche,
+Va recueillir ces mots jusques dessus ta bouche ;			[330]
+Tes yeux rendent aux miens par mille traits volants
+Des paroles de feu pour des baisers parlants ;
+Cet art dont tu souris tu l'as appris a Rome,
+Ce n'est pas d'aujourd'hui que tu sais prendre un homme.
+LA DUPRE.
+Ni toi ces fruits d'amour derobes sans parler ;			[335]
+Un autre les demande, et tu les sais voler,
+Un baiser accorde te semblerait trop fade,
+A ton gout peu de fiel assaisonne une oeillade,
+Tu veux de mes faveurs qui te plaisent le mieux
+Le refus par la bouche, et le don par les yeux :			[340]
+Ton gre m'est un miroir, ou mon front s'etudie,
+Qui me rend l'action plus douce, ou plus hardie,
+Qui compose ma mine, et regle mes attraits.
+BEAUROCHER.
+Mon nom te garantit aussi de mille traits :
+J'ai chasse de ta porte un gros de Janissaires ;			[345]
+Tu ne redoutes plus Filous ni Commissaires ;
+Je t'ai faite, en un mot, par l'effort de ma main
+Reine en titre forme du faubourg saint Germain ;
+On adore tes yeux, comme on craint mon courage ;
+Tu contemples du port tes Soeurs dans le naufrage ;			[350]
+L'Anglaise, la Flamande, ou Lyze, ou Colichon,
+N'oseraient regarder l'ombre de ton manchon ;
+Qui te fache, il est mort, autant j'en expedie ;
+On t'offre le tapis meme a la Comedie,
+On y marque ta loge, et le vaillant Portier			[355]
+A te la conserver signale son metier ;
+Ton carrosse est suivi de Laquais, et de Pages,
+Tes Soeurs les craignent tant, tu les as a tes gages ;
+Le nombre des Seigneurs qui passent par tes bras
+Hausse a deux mille ecus la rente de tes draps ;			[360]
+Ton navire, flottant a voiles depliees
+Rend deja tes faveurs des Princes enviees ;
+Tant !...
+LA DUPRE.
+Quoi ?
+BEAUROCHER.
+De Cordons bleus, de panne, et de velours !
+LA DUPRE.
+N'en etant point fache, n'en es-tu pas jaloux ?
+BEAUROCHER.
+Non, je me charge peu de peine imaginaire.			[365]
+LA DUPRE.
+Ils ne l'ont qu'a l'emprunt, et tu l'as ordinaire.
+Mais j'entends quelque bruit : esquive promptement,
+Passe la. Non reviens ; c'est l'Ami Clarimand.
+SCENE II. Clarimand, La Dupre, Beaurocher.
+CLARIMAND, se retirant d'un pas.
+Puis-je aller plus avant ? J'ai trouble le mystere.
+LA DUPRE.
+Clarimand rit toujours, et ne saurait se taire.			[370]
+CLARIMAND.
+Vos visages contraints n'ont pas leur action ;
+Je devine le reste, et sait la faction,
+Peu de temps vous a mis ou mettait a la crise ;
+Ou la belle Dupre contrefait la surprise.
+LA DUPRE.
+Je la suis en effet, mais c'est de voir ici			[375]
+Un qui n'a plus de nous memoire ni souci.
+BEAUROCHER.
+Un, qui donne du nez dedans le mariage,
+Et n'apprehende point ce perilleux voyage.
+LA DUPRE.
+Qui dit, ne s'attachant qu'a des filles de bien,
+Fi des Dames d'amour, et de leur entretien ;			[380]
+Mais enfin degoute d'une meme viande
+Ce pigeon viendra chercher de plus friande,
+Et lors...
+CLARIMAND.
+Je pourrai bien crier cent fois (De l'eau !)
+Que l'on me laissera bruler dedans ma peau.
+LA DUPRE.
+Garde au moins, que surpris de ces flammes nouvelles			[385]
+Il n'y laisse pour gage ou le bec, ou les ailes.
+CLARIMAND, souriant.
+Encore en auriez-vous peut-etre quelque ennui,
+Vous pleureriez demain sur ma mort d'aujourd'hui,
+Vous n'avez jusqu'ici debaptise personne,
+Humaine, pitoyable, aumoniere, et trop bonne.			[390]
+LA DUPRE.
+Doncque vous en contez, agreable Moqueur ?
+CLARIMAND.
+Ce ne sont pas de ceux qui touchent votre coeur ;
+Ces grands conteurs ne font rien moins que votre conte,
+Qui laissent, au lieu d'or, du vent et de la honte :
+Le meilleur qu'il vous faut c'est un Comte Allemand ;			[395]
+Je veux qu'il soit cheval, et parle vieux Roman ;
+Et qu'il n'ait rien de noble, excepte la depense ;
+Si la crasse en est jaune, on le frotte, on le panse ;
+On devient honnete homme a vos yeux par le cout :
+Est-il froid d'appetit, lui faut-il un ragout ?			[400]
+Aussitot on mettra la ceruse en campagne,
+Les essences, le blanc et vermillon d'Espagne,
+Ou les plus raffines qui baisent en Francais,
+De peur de s'engraisser, n'y mettent pas les doigts.
+Si l'ennui du logis vous chasse dans le Temple,			[405]
+C'est pour mieux faire un mal dessus un bon exemple ;
+Au milieu du respect, des voeux, de l'oraison
+Vous melez des attraits, des feux, et du poison ;
+Vous savez mollement jouer de la prunelle,
+L'un des yeux contre terre, et l'autre en sentinelle ;			[410]
+Ne trouvant pas Roger, vous songez a Roland,
+Et vous allez a Dieu pour chercher un galant :
+C'est peu de se farder jusques dans les yeux meme,
+Se pincer, s'embellir par un tourment extreme,
+Porter au lieu de mouche, et comme incisions,			[415]
+Des sieges sur la joue et des occasions ;
+Vous feriez comme Iris, qui docte en votre vie
+Se fit meme fouetter pour en donner envie.
+BEAUROCHER.
+C'etait de nos froideurs, sur elle se venger :
+Iris, est-elle ici ? C'est un nom etranger.			[420]
+LA DUPRE.
+Je l'ai connue a Rome, et quoique plus novice,
+Avec elle j'etais...
+CLARIMAND.
+Compagne d'exercice ?
+LA DUPRE.
+Peu d'autres la voudraient imiter a ce prix.
+CLARIMAND.
+D'elle viennent ces traits que vous avez appris.
+LA DUPRE.
+L'usage fait cet art ; qu'y pouvais-je connaitre ?			[425]
+Je n'avais pas douze ans, et commencais a naitre.
+CLARIMAND.
+Naitre, en termes d'honneur et pour bien discourir,
+C'est lorsqu'un pucelage est eclos pour mourir ;
+Selon vous c'est le point ou l'on commence a vivre.
+Mais Iris, Beaurocher, n'etait pas sur son livre ;			[430]
+Vous tenez en Greffiers registres des Berlans,
+Et semblez ces Oiseaux qu'on met pour appelants.
+BEAUROCHER.
+Appelants ? Cette secte est trop mon ennemie ;
+Si je passe mon temps, c'est hors de l'infamie ;
+Noble...
+CLARIMAND.
+Un peu malaise.			[435]
+BEAUROCHER.
+Ce plaisir m'est permis :			[435]
+Laissons toute riotte, et vivons en amis.
+CLARIMAND.
+Je le veux ; et du moins le sujet qui m'amene
+Te servira de foi d'une amitie certaine.
+Tu sais que mon humeur est de rire en tous lieux,
+Que je vois du faux or aux Idoles des Dieux,			[440]
+Et n'etait que le Ciel ou s'eloigne ou se cache
+Que je m'efforcerais d'y trouver quelque tache :
+N'aimant pas la fureur d'aller mordre si haut,
+Pour tomber de plus bas j'eleve moins le saut ;
+Je regarde le Monde en diverse posture			[445]
+D'age, de qualite, de sexe, et de nature ;
+Riche, pauvre, vilain, le noble, tout me sert ;
+Et je passe mon temps a voir comme on le perd :
+Je m'attache, il est vrai, depuis peu chez Clytie,
+Dont je trouve l'humeur a la mienne assortie ;			[450]
+Du dessein ? Que j'en ai ! C'est ou je pense moins ;
+Et je pourrais tous deux vous en faire temoins.
+LA DUPRE.
+On en parle pourtant ; c'est une prophetie...
+CLARIMAND.
+Que ce siecle jamais ne verra reussie.
+On y parle Gazette, et d'Intrigue, et de Cour,			[455]
+Les plus polis du temps y font lecon d'amour ;
+Mais la meilleure piece, et qui vaut plus a rire,
+C'est d'un vain Capitan... Aidez-moi pour le dire.
+BEAUROCHER.
+Est-ce un de ceux qu'on doit jouer a ces jours gras ?
+Rodomont, Scanderberg, Fracasse, ou Taillebras ?			[460]
+CLARIMAND.
+Ce dernier.
+BEAUROCHER.
+Je connais le galant.
+CLARIMAND.
+C'est lui-meme :
+Un Poete avec lui, froid, d'un visage bleme,
+Mais fantasque d'humeur autant que l'autre est prompt,
+Sont les deux d'aujourd'hui je veux te mettre en front :
+Souffrez pour un moment que je vous le derobe.			[465]
+LA DUPRE.
+Monsieur, a tout besoin disposez de ma robe.
+CLARIMAND.
+Ces deux visages sont pieces de Cabinet.
+BEAUROCHER.
+Voyons-les, qu'a chacun je leur taille un bonnet.
+SCENE III. Clytie, Lyzante, Taillebras.
+CLYTIE, tenant en mains un Sonnet du Poete Lyzante.
+Vos vers trop eleves vont dans l'idolatrie;
+J'y vois beaucoup d'esprit, mais plus de flatterie.			[470]
+LYZANTE.
+Pour n'y rien affecter, parmi les traits polis
+J'ai pourtant evite les roses et les lys ;
+J'ai cherche dans le doux la cadence et la rime ;
+On n'y trouvera pas une voyelle en crime :
+La Consonne n'a rien de rude ou discordant ;			[475]
+J'ai passe le bas style, et fui le pedant ;
+Comme vous n'etes pas seule dedans le Monde,
+J'ai decrit vos beautes sans dire sans seconde.
+CLYTIE.
+Que tout y soit divin, les couleurs et le trait ;
+On ne me connaitra jamais a ce portrait :			[480]
+Souvent, pour trop flatter, le mensonge importune ;
+Vous m'y depeignez blanche, et voyez, je suis brune :
+Vous deviez accorder votre esprit a vos yeux,
+Me mettre sur la terre, et non pas dans les Cieux.
+LYZANTE.
+Ou pourriez vous mieux etre, etant un si bel Ange ?			[485]
+TAILLEBRAS.
+Dans mon coeur, comme un lieu de plus digne louange :
+C'est ou l'Honneur reside en un trone eleve ;
+Ou le Sultan ferait gloire d'etre grave ;
+Ou meme l'Empereur, et les plus grands Monarques
+Viennent pour s'exempter de la rigueur des Parques :			[490]
+Mais si je les admets dans ce noble sejour,
+C'est pour y respecter vos traits, et mon amour ;
+On les y voit tremblants, afin de me complaire,
+Adorer a genoux ce bel oeil qui m'eclaire,
+Offrir a votre Image, avecque mon ardeur,			[495]
+Titres, et Majeste, Couronnes, et Grandeur.
+CLYTIE.
+Couronnes ? Je serais a ce compte une Reine.
+TAILLEBRAS.
+Sur toutes la premiere, et la plus souveraine.
+CLYTIE.
+Mon extreme regret, c'est que de tant de bien
+Tout soit a mon portrait, et que je n'en ai rien,			[500]
+Passant pour mon Image, ah ! L'accident etrange !
+Que je vaudrais bien plus, et gagnerais au change !
+Mais qu'est-ce, qu'ajouter a mon etat premier
+Des Royaumes en l'air, en terre du fumier ?
+Batir sans fondement des fortunes en songe ?			[505]
+Flatter la pauvrete par un rude mensonge ?
+La paille est preferable a tous ces vains tresors ;
+Ce sont, Reines de carte, et qui n'ont point de corps :
+A juger de nous deux selon cette posture,
+Vos feux et mes appas ne sont rien qu'en peinture ;			[510]
+Mais si la verite se doit dire a tous deux,
+Rien ne peut accorder mas appas et vos feux.
+TAILLEBRAS.
+Je sais bien qu'elle m'aime, et qu'elle me revere ;
+Elle rit, (Dieu me damne,) en faisant la severe ;
+Elle me tate, et veut dessous un feint malheur			[515]
+Voir si ma patience egale ma valeur ;
+Mais, (ventre !) nous avons evente cette mine :
+Adoucis-toi, mon coeur, et tenons bonne mine :
+Et bien, ne vois-tu pas deja qu'elle sourit ?
+CLYTIE.
+Sa disgrace le flatte, et le vent le nourrit,			[520]
+Il tourne mes rigueurs au sujet de sa gloire.
+TAILLEBRAS.
+Et son mauvais destin fait naitre ma victoire ;
+Puis-je vous rendre grace autrement qu'a genoux ?
+CLYTIE.
+A l'autre ! Ils sont tous deux aussi vains comme fous :
+Ma cruaute leur plait, en vain je les irrite ;			[525]
+L'un vante son courage, et l'autre son merite.
+Suis-je plus sage qu'eux ? M'ose-je hasarder ?
+On pourrait devenir folle a les regarder ;
+Ma foi, tout mon esprit n'est qu'un faible remede.
+Mais voici du secours : accourez a mon aide.			[530]
+SCENE IV. Beaurocher, Clarimand, Taillebras, Clytie, Lyzante.
+BEAUROCHER.
+Elle crie ; avancons.
+CLARIMAND.
+Rien ne nous doit presser :
+Que font-ils, ces Amants ? Voudraient-ils vous forcer ?
+CLYTIE.
+Leur posture paisible assure le contraire ;
+L'un se mire en sa mine, et l'autre n'en a guere.
+BEAUROCHER, voyant le Capitan qui s'ebranle a un bout du Theatre.
+O le plaisant manege ! Et comme il tourne en rond !			[535]
+TAILLEBRAS, bas.
+Quitte mes sens, audace, et parais sur mon front ;
+Que parmi les assauts d'un si cruel orage
+On n'y lise qu'ardeur, que gloire, et que courage ;
+Fais trembler ces temoins, de tant de fermete,
+Et sois plus genereux que tu n'es maltraite.			[540]
+CLARIMAND, apres avoir parle a Clytie longtemps a l'oreille.
+Le tout n'ira que bien ; laissez faire ; il faut rire.
+CLYTIE.
+Ce Sonnet que voici...
+CLARIMAND.
+Donnez ; je le veux lire.
+CLYTIE.
+Et quelques vains discours de ce lardeur de chiens
+M'ont tenue a la Croix ; par des sots entretiens.
+TAILLEBRAS.
+Pour detourner un flux d'injures nonpareilles			[545]
+Montre beaucoup de coeur et quasi point d'oreilles,
+Joue ici de la mine et morgue le destin,
+Deguise cet affront du geste plus mutin.
+LYZANTE, voyant que Clarimand veut lire son sonnet.
+Une grace, Monsieur ; je l'attends a mains jointes ;
+Si vous lisez, je perds la moitie de mes pointes ;			[550]
+Que je prenne l'honneur, vous le contentement
+Que mes vers soient ouis selon leur ornement ;
+On est assez d'ailleurs sujet a la censure ;
+Et je suis delicat pour la moindre blessure.
+CLYTIE.
+Sa demande est fort juste ; on ne peut refuser...			[555]
+CLARIMAND, lui donnant le sonnet.
+A lui-meme sa voix, afin de s'accuser.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LYZANTE.
+Pour vous rendre, Clytie, un assez digne hommage,
+Il n'est rien ici-bas de sortable a vos yeux
+On ne vous peut donner que le nom precieux
+D'etre enfin la merveille et l'honneur de notre age.			[560]
+CLARIMAND, l'interrompant.
+Ah ! Quel ton ! Quel accent ! O Dieu ! Qu'il est plaisant !
+Il mignarde sa voix, puis il fait le pesant,
+Il a les yeux ardents comme un chat que l'on berne,
+La hure d'un Lion qui sort de sa caverne ;
+Il fronce le sourcil, qui plus fier qu'un Huissier			[565]
+Semble dire Paix la, Silence, il est sorcier,
+Sans cracher, sans tousser ecoutez ses Oracles ;
+Il faut apres cela s'ecrier, Aux miracles :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Donne ; ta voix m'ecorche et l'oreille et les reins ;
+Il fallait une pause entre les deux quatrains.			[570]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+	Pour vous rendre, Clytie, un assez digne hommage,
+	Il n'est rien ici-bas de sortable a vos yeux ;
+	On ne vous peut donner que le nom precieux
+	D'etre enfin la merveille et l'honneur de notre age.
+
+
+	Vous voir, et s'eblouir, n'aimer que son dommage,
+	Ce sont de nos transports les plus officieux ;
+	Nous faisons ce que fait le Soleil dans les Cieux,
+	Qui sans parler, en vous admire son image.
+
+
+	Que cet Original vous cede en tous ses traits !
+	Vous avez ses rayons ; il n'a pas vos attraits,
+	Ni la blancheur du teint, ni les graces encore ;
+
+
+	Je vous trouve pourtant semblables en un point ;
+	C'est que ces deux objets, que la Nature adore,
+	Enflamment tout le monde, et ne s'echauffent point.
+
+			[0]
+DE LYZANTE.
+De Lyzante ? Ah ! Ce (De) temoigne sa Noblesse :			[585]
+C'est ou la vanite les seduit et les blesse ;
+Ils tranchent du Monsieur, et dans leurs vains projets
+Ils sont Nobles sans fiefs, et Seigneurs sans sujets.
+LYZANTE.
+J'ai titre...
+CLARIMAND.
+Au carrefour, et dedans les affiches.
+LYZANTE.
+Et le droit de chasser...
+CLARIMAND.
+Oui, meme jusqu'aux biches ;			[590]
+Mais ce celles, sans plus, qui dans les lieux d'honneur
+Vous font selon l'argent passer pour un Seigneur :
+On rit d'une Noblesse et si courte et camuse ;
+Quittez cette Batarde, er caressez la Muse.
+Celle-ci, Beaurocher te plait-elle ?
+BEAUROCHER.
+Fort peu.			[595]
+CLARIMAND.
+Qu'en dis-tu ?
+BEAUROCHER.
+Que ces vers meriteraient le feu.
+CLARIMAND.
+Voila trop de rigueur : et vous ?
+CLYTIE.
+C'est ma creance,
+Que j'avais suspendue avecque patience :
+Tu fais le temeraire encore, et tu souris ?
+Va, crois-tu me pecher avec des vers pourris ?			[600]
+Mais tous mis en morceaux, je les rends a la terre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LYZANTE.
+Frappez, Dieux, achevez ce grand coup de tonnerre ;
+Venez, justes Fureurs, avancez mon trepas ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et toi, ne dois-tu pas t'ouvrir dessous mes pas ?
+CLARIMAND.
+Courage ; il couche gros ; dans l'humeur qui le pique			[605]
+Tous les termes suivront d'un depit poetique.
+LYZANTE, continuant.
+Mais j'invoque une ingrate et sourde a mes clameurs,
+La terre qui prend tout, me fuit lorsque je meurs ;
+Cherchons le feu, le fer, un roc, un precipice,
+Ou la plus prompte mort me soit la plus propice.			[610]
+BEAUROCHER, se presentant avec ses armes.
+La pitie me surmonte ; il m'en faut approcher :
+Pour mourir promptement, vois, je t'offre un rocher :
+Veux-tu ce pistolet, ce poignard, cette epee ?
+Ton sang s'offenserait qu'elle s'en vit trempee :
+Faisons mieux ; honorons, en te jetant dans l'eau,			[615]
+La Seine et le Pont-neuf des depouilles d'un Veau.
+LYZANTE.
+Quoi ? Sans punition vous souffrez ce blaspheme ;
+Et voulez, Dieux ingrats, encore qu'on vous aime ?
+En quelle surete se verront vos autels,
+Si l'on choque mes vers, comme vous immortels ?			[620]
+Je veux les employer a demolir vos Temples,
+Passer a des fureurs qui n'auront point d'exemples,
+Ensevelir vos noms, indignes d'etre ecrits
+Sur le front seulement de leur honteux debris ;
+Et toi, dont la rigueur me porte a cet outrage,			[625]
+Objet de mon amour, maintenant de ma rage ;
+Apprends, que pour te peindre enfin mon desespoir
+Va chercher en Enfer un crayon assez noir.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLYTIE.
+Va-t-on si vite au Diable ? Adieu donc ; bon voyage.
+CLARIMAND.
+Il sera bon pour lui, s'il en revient plus sage :			[630]
+Hors l'humeur toutefois, ses vers pleins de douceurs
+Montrent qu'il a baise mille fous les neuf Soeurs.
+TAILLEBRAS, voyant Lyzante sorti.
+Son malheur a plus fait ici que mon audace ;
+Je reste triomphant et maitre de la place.
+BEAUROCHER.
+Jusqu'a ce que mon bras te la fasse vider,			[635]
+Impudent ; tu souris, tu m'oses regarder,
+Mais plutot pour ton mieux regarde cette porte.
+TAILLEBRAS.
+Parler de la facon aux hommes de ma sorte ?
+Ah ! Tuons... Toutefois le vilain est arme,
+Et ne m'attaque pas sans un dessein forme.			[640]
+CLARIMAND.
+Vous craignez ?
+CLYTIE.
+Tant soit peu ; quel malheur, je vous prie,
+S'il tournait a bon jeu toute la raillerie ?
+CLARIMAND.
+C'est dont je vous assure, et prenez en ma foi.
+BEAUROCHER.
+Apres deux mots, sortons, madame, vous et moi.
+Te voir encore ici ? Tes oreilles m'attendent,			[645]
+Poltron ; ca, qu'au plancher a cette heure elles pendent.
+TAILLEBRAS.
+Poltron ? Le fils aine qu'enfanta la Valeur ?
+BEAUROCHER.
+Ah ! Vraiment, l'on en voit la marque en ta paleur.
+Mais c'est trop discourir ; degainons.
+TAILLEBRAS.
+Qu'on me presse ?
+Que je souffre un affront, aux yeux de ma Maitresse ?			[650]
+Sus ! Il en faut decoudre. Ah ! Respect, mon bourreau,
+Entends plaindre ce fer que tu tiens au fourreau.
+Dieux ! Un objet m'empeche, et l'autre me convie :
+Mais le premier l'emporte, et te sauve la vie.
+BEAUROCHER.
+C'est moi, qui te l'accorde en ce meme souci,			[655]
+Pour te la faire perdre en autre lieu qu'ici ;
+Ce peu de temps qu'il faut pour conduire Madame,
+Tu le peux employer a songer a ton ame.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLARIMAND.
+Son epee a vos yeux veut montrer sa lueur :
+Quoi ? Votre front distille d'une froide sueur ?...			[660]
+TAILLEBRAS.
+C'est que mon coeur bouillonne, et par la s'evapore.
+CLARIMAND.
+Votre oeil s'appesantit, le teint blemit encore,
+Vous tremblez.
+TAILLEBRAS.
+Comme fait de colere un Lion :
+Mettrai-je ce combat avec un million ?
+Que dirait tant de Preux, de qui je suis l'Alcide ?			[665]
+Qui respectent ce bras qui fut leur homicide ?
+Ne se plaindront-ils point de ce qu'un lache sang
+Deshonore ma main, et fait honte a leur rang ?
+Non non, je ne lui puis accorder cette gloire.
+CLARIMAND.
+Quoi ? Perdrez-vous la votre, a vous faire accroire ?			[670]
+Vous qui suivez l'honneur parmi les plus constants
+Savez-vous pas que c'est un doux monstre du temps ?
+Qui ne recoit ni droit, ni respect, ni remise,
+Qui pour nous voir a nu nous fait mettre en chemise,
+Qui combat la Nature, arme frere et parents,			[675]
+Montre un espoir douteux, mille maux apparents,
+Qui confisque nos biens...
+TAILLEBRAS.
+Ah ! Ventre ! C'est tout dire ;
+Ce Gueux n'a rien a perdre, et j'ai plus d'un Empire ;
+Je ne hasarde point ma tete ni mon fonds.
+CLARIMAND.
+Inutiles pensers, encore qu'ils soient bons ;			[680]
+En ce branle mortel la Mode nous entraine ;
+La raison n'est qu'esclave, et l'autre est une Reine ;
+C'est un mal violent qui veut avoir son cours :
+Pour les biens ; quelque Ami nous les sauve toujours ;
+On fait passer le tout sous un nom de rencontre :			[685]
+Et c'est le seul chemin qu'apres tout je vous montre ;
+Battez-vous sourdement.
+TAILLEBRAS.
+Mes coups font trop de bruit.
+CLARIMAND.
+Sans suite, sans second, dans la rue, et la nuit ;
+La lune dans son plein fournira de lumiere :
+Vous seriez decrie, fuyant cette carriere.			[690]
+Vous y songez encore ? Est-il temps de rever ?
+TAILLEBRAS.
+C'en est fait, je le veux ; faites-le moi trouver.
+CLARIMAND.
+Pour ne vous point chercher, il a trop de courage.
+TAILLEBRAS, bas.
+Mon esprit sait le vent qu'il faut a son naufrage.
+
+
+			ACTE III
+
+
+SCENE I. Amedor, Clorinde.
+AMEDOR.
+Cette faute, Madame, est-elle sans pardon ?			[695]
+Avecque mes amis je suis a l'abandon,
+Je deferre a leur gre plutot qu'a mon Genie,
+Et ne saurais fausser la moindre compagnie.
+CLORINDE.
+Encore moins pour moi qui le merite peu.
+AMEDOR.
+C'est jeter en mon coeur de l'huile sur du feu ;			[700]
+Votre desir, d'un temps m'est rude et favorable,
+Mon bonheur me trahit, et me tend miserable,
+Trop de faveur me nuit, humble et vain a l'instant,
+Que je serais heureux si je ne l'etais tant !
+Ou si l?ingrat Demon qui gouverne ma flamme			[705]
+M'eut du moins averti des secrets de votre ame,
+Que votre volonte m'appelait devers vous ?
+O Dieux ! Que le penser me flatte et m'en est doux !
+CLORINDE.
+Il fallait employer, comme je m'imagine,
+Pour vous tirer d'ici, lettre, Page, et machine ?			[710]
+Comment ? Avoir passe trois heures sans me voir ?
+Et puis, j'ai dessus vous un extreme pouvoir ?
+Vous viendrez froidement me dire quelque conte,
+Qu'il n'est rose ni lys que mon teint ne surmonte,
+Que hors de ma presence, il n'est point de moment			[715]
+Qui ne vous coute (Helas) un siecle de tourment ;
+Que pour chasser du front une couleur blemie
+L'un vous entraine au bal, l'autre a l'Academie ;
+Que le Cours, ou chacun trouve a se contenter,
+Sert a vous divertir moins qu'a vous tourmenter ;			[720]
+Que le Louvre vous gene aux devoirs necessaires,
+L'Eglise, le Palais, les sermons, les affaires ;
+Que mon objet, ma chambre est tout votre element,
+Et que vous ne jurez que par moi seulement :
+Tandis qu'au Cabinet, et sans vouloir paraitre,			[725]
+Clorinde est solitaire et comme dans un Cloitre,
+Qu'attendent vos chevaux de cent lieux embourbes
+Elle se plaint d'un temps que vous lui derobez :
+Aujourd'hui que je suis hors de l'indifference
+Je pretends de l'Empire et de la preference,			[730]
+Que vous me rendiez compte et du coeur et des pas,
+Que seule je vous sois jeu, Cour, plaisirs, appas.
+AMEDOR.
+N'ayant point espere l'honneur de ce reproche,
+Par trop de sentiment je deviens une roche ;
+Confus, que puis-je dire ? Ou que viens-je d'ouir ?			[735]
+Dois-je ici m'excuser, ou bien me rejouir ?
+Je trouve ma victoire en cette douce plainte,
+Ma peine et mon plaisir en une meme atteinte ;
+Ce qu'ordonnent vos lois a mes voeux complaisants
+Mon service eut-il pu l'esperer en dix ans ?			[740]
+Que l'Amour est subtil a punir une faute !
+Qui fait d'un chatiment ma gloire la plus haute ;
+Que vous plaire et vous voir s'appellent mes travaux ?
+Et mettre votre amour au nombre de mes maux ?
+Madame, a quels devoirs cette bonte m'oblige !			[745]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLORINDE.
+A souffrir qu'un conge sur l'heure vous afflige :
+Mais dois-je vous porter a m'etre obeissant ?
+Helas ! Je me punis, meme en vous punissant.
+Mon Frere me demande, et cette mauvaise heure
+Ne vous permet ici de plus longue demeure :			[750]
+Pour nous entretenir plus a l'aise, et nous voir,
+Venez a ma fenetre et m'attendez ce soir ;
+On ne court au quartier aucun danger de vie.
+AMEDOR.
+Les Dieux me l'oteront avant que cette envie.
+SCENE II.
+CLARIMAND, seul et descendu de la fenetre.
+Cet accord en deux mots me semble des plus beaux ;			[755]
+Et puis fiez des Soeurs a ces Galants nouveaux ?
+Tous deux en cette humeur de s'aimer et se plaire
+Se donneraient beau jeu, qui les laisserait faire ;
+Mais je leur vendrai cher, un plaisir si heureux,
+Et je serai plus fin qu'ils ne sont amoureux.			[760]
+Ce jeune Financier, en faveur de la somme,
+S'est fait en supputant baptiser Gentilhomme ;
+Il morgue en Cavalier et fait du revolte,
+La plume sur la tete, et l'epee au cote ;
+Il sacrifie au Louvre, a grand feu se consume,			[765]
+S'echauffe ou tete nue a la fin l'on s'enrhume,
+Et croyant sur son bien se rendre plus exquis
+Le depense plus mal qu'on ne l'avait acquis ;
+Il se pique d'esprit, d'amour, de gentillesse,
+Et pense par la Dame elever sa Noblesse ;			[770]
+Son cheval dans la rue, en secouant l'arcon,
+Superbe semble dire, (Au jeune, au beau garcon !)
+Mais ce n'est pas de quoi me donner dans la vue ;
+Je veux te voir, ma Soeur, a l'aise et mieux pourvue,
+Et vous faisant peser la charge sur le cou			[775]
+Rendre l'une plus sage, en montrant l'autre fou :
+Voici qui pourra bien aider a l'entreprise.
+SCENE III. Clarimand, Lyzante.
+CLARIMAND, se retirant d'un pas.
+Est-ce une illusion, qui mon ame ait surprise ?
+Fantome, ou Pelerin venu des pays bas,
+Dites-nous en nouvelle, etes-vous pas fort las ?			[780]
+Est-ce toujours vous-meme ? Et dessous quel auspice
+Revenez-vous au Monde apres un precipice ?
+Les Poetes sont connus dans la noire Maison ;
+Elle est leur promenade, a nous une prison ;
+Ils en portent la clef, et comme par trophee			[785]
+Vont et viennent d'Enfer dessus les pas d'Orphee ;
+Ce Pays est mauvais, je le juge en ce point
+Qu'ils y mettent chacun et n'y demeurent point.
+LYZANTE.
+Je le porte au contraire, et mon sort deplorable
+Fait un Enfer du coeur d'un Amant miserable ;			[790]
+Ou l'irais-je chercher, si je l'ai dedans moi ?
+Mes vrais supplices sont ma constance, et ma foi,
+Qui me forcent, rendant mes peines eternelles,
+De mourir en moi-meme, et de revivre en elles :
+Quelques traits que Clytie emploie a ma langueur,			[795]
+J'ai plus de fermete qu'elle n'a de rigueur,
+Le desir de souffrir s'augmente par ma peine,
+Ma gloire va plus haut, plus elle est inhumaine ;
+Esclave volontaire, aussi vain que constant,
+Je baiserai ma chaine encore, en la portant ;			[800]
+Et puisque mes tourments lui tournent a delices,
+Je la veux obliger par mes propres supplices.
+CLARIMAND.
+J'approuve ce dessein, quoique fort rigoureux :
+C'est en vain, qu'a mourir on cherche d'etre heureux ;
+La mort me semble un port de mauvaise retraite,			[805]
+Le sage la detourne, et le fou la souhaite ;
+On abuse du nom, le mal est bien divers
+De mourir en effet, ou de mourir en vers ;
+Les poetes, les amants, quand l'ardeur les convie,
+Meurent tous, et jamais ils ne perdent la vie.			[810]
+Je sens un mouvement, qui me vient exciter
+D'entreprendre un miracle a vous ressusciter,
+J'entends de vous remettre avec votre Maitresse ;
+Si j'en ai le dessein, j'en aurai bien l'adresse.
+LYZANTE.
+Et comment amollir ce rocher endurci ?			[815]
+CLARIMAND.
+Par un moyen facile, en trois mots eclairci.
+Apprenez que Clytie enfin vous est contraire
+Par les seuls mouvements que lui donne son Frere,
+Que ce jeune evente lui figure a tous coups
+Les Poetes sans courage, et mis au rang des fous,			[820]
+Que leur soin, leur esprit n'est qu'en la reverie,
+Que l'art en est honteux, et le nom les decrie ;
+Et voila le sujet de tout ce traitement
+Qu'il a cru qu'on pouvait vous faire impunement :
+Chassez l'opinion dans son esprit empreinte,			[825]
+Montrez-vous courageux, donnez-lui de la crainte,
+Menacez, parlez haut ; ce Vaillant a demi,
+Pour etre en surete se rendra votre Ami :
+Or je sais comme il faut commencer la brisee,
+Par une occasion heureuse et fort aisee ;			[830]
+Amoureux de ma Soeur, il viendra sur la nuit
+Lui parler des la rue, en secret et sans bruit ;
+Armez-vous, et venez le surprendre sans suite,
+Aussitot qu'attaque vous le mettez en fuite.
+LYZANTE.
+Mais...
+CLARIMAND.
+Qu'avez-vous a craindre ?			[835]
+LYZANTE.
+A beau jeu, beau retour.			[835]
+CLARIMAND.
+Rien moins ; il n'a de coeur qu'a paraitre en amour.
+LYZANTE.
+Quoi ? S'il ne va jamais sans une longue brette ?
+CLARIMAND.
+Mon logis vous soutient, et vous sert de retraite :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Qu'il est malaise d'animer un poltron !
+LYZANTE.
+Prendrai-je pas l'ecu du moins ou le plastron ?			[840]
+CLARIMAND, bas.
+Dieu ! Qu'une infame peur en cet esprit domine !
+Il ne faut que l'epee, encore est-ce par mine,
+Plus pour servir d'eclat que pour autre besoin.
+LYZANTE.
+Vous m'accompagnerez, ou ne serez pas loin ?
+SCENE IV. Taillebras, Clarimand, Lyzante.
+TAILLEBRAS, abordant le poete.
+Avez-vous fait suer Apollon, et les Muses ?			[845]
+Leurs graces a ce coup vont sont-elles infuses ?
+Le Parnasse a-t-il pu fournir a mon Cartel
+Des homicides vers, un style assez mortel ?
+L'oreille a chaque mot doit comme etre frappee
+D'un coup de pistolet, de mousquet ou d'epee,			[850]
+La rime ne porter que de taille et d'estoc,
+Ni les lettres s'unir qu'au son de chic, et choc ;
+Que le point soit hardi, la virgule vaillante,
+Ne rendez que de sang votre veine coulante,
+Et pour ma gloire il faut, qu'honorant le metier,			[855]
+Une peau de tambour vous serve de papier.
+CLARIMAND, bas.
+Il fait plus qu'il en dit, qu'autant moins on en croie ;
+Son coeur tremble de peur, et sa bouche foudroie.
+LYZANTE.
+Si votre bras est tel que je l'ai figure,
+Vous pouvez surmonter tout l'Enfer conjure ;			[860]
+Voyez si le Cartel vous plaira de la sorte,
+Et si j'ai bien suivi l'ardeur qui vous emporte,
+Vos sens l'approuveront comme il est reforme ;
+Beaurocher s'en verra d'un seul mot alarme ;
+Pour me venger de lui j'ai forme ce tonnerre.			[865]
+TAILLEBRAS.
+J'y suis depeint au moins comme un foudre de guerre ?
+LYZANTE.
+Ecoutez seulement. L'Alcide.
+TAILLEBRAS.
+Arrete-toi ;
+Chapeau bas, a genoux, tremble en parlant de moi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LYZANTE, le lit tout haut.
+L'Alcide Occidental, l'honneur des Pyrenees,
+La Parque des mortels, qui fait leurs destinees,			[870]
+Qui d'un bras peut lancer la Terre dans les Cieux ;
+Pour perdre un Impudent qui deja n'est qu'une Ombre,
+Pousse d'un coup de pied sur la barbe des Dieux
+Le fait tomber de la dans le Royaume sombre.
+TAILLEBRAS.
+Et voila ce qui dut faire trembler des Rois ?			[875]
+Il le faut reformer encore une autre fois ;
+Quoi ? Tu n'as point parle de canons, de trompettes ?
+CLARIMAND.
+Sur un si haut dessein melez-vous des sornettes ?
+Ce Cartel comprend tout :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous le cachez en vain ;
+Je m'offre a vous servir, et vous prete la main.			[880]
+TAILLEBRAS.
+La main ? Ventre !
+CLARIMAND.
+Tout doux.
+TAILLEBRAS.
+Et que dirait la mienne ?
+CLARIMAND.
+Je verrai Beaurocher, et je ferai qu'il vienne.
+TAILLEBRAS.
+Parlez-vous de Second ? Ce bras n'en eut jamais.
+CLARIMAND.
+Non, je ne trouble point vos exploits et vos faits ;
+Je rendrai seulement ce billet en main sure.			[885]
+TAILLEBRAS.
+Que ma gloire n'en ait ni honte, ni blessure :
+Tenez ; je vous remets un gage precieux...
+CLARIMAND, souriant.
+Qui me va mettre au Monde, et vous dedans les Cieux.
+TAILLEBRAS.
+Dans deux heures au plus...
+CLARIMAND.
+Je l'amene, en la rue.
+TAILLEBRAS.
+Qu'il ne me laisse pas longtemps faire la grue.			[890]
+Et vous, de qui l'esprit m'assiste en ce besoin,
+Que je rends de mes faits le glorieux temoin,
+Rival ingenieux, cherchez dans ma puissance
+A votre courtoisie une reconnaissance ;
+Ni ce bras ni ce fer ne sont jamais ingrats.			[895]
+LYZANTE.
+Je demande l'epee, et vous laisse le bras ;
+Par elle je tiendrai ma victoire certaine,
+Elle peut cette nuit me faire Capitaine.
+TAILLEBRAS.
+Ah ! Ah !
+LYZANTE.
+N'en riez point.
+TAILLEBRAS.
+Il dit vrai s'il ne ment ;
+On devient genereux a me voir seulement :			[900]
+Parlez ; quoi ?
+LYZANTE.
+J'ai dessein.
+TAILLEBRAS.
+Sur quelqu'un ?
+LYZANTE.
+Dans une heure.
+TAILLEBRAS.
+Je m'en vais de ce pas lui commander qu'il meure.
+LYZANTE.
+Autre que moi ne peut aller a ce devoir.
+TAILLEBRAS.
+Bien doncque, prenez-la, voila de quoi le voir ;
+Mon duel projete demande une autre epee :			[905]
+Celle-ci fut toujours en Turquie occupee ;
+Il faudrait pour compter tous ceux qu'elle a mis bas,
+Figurer mille assauts, vingt sieges, cent combats ;
+Du sang qu'elle a verse pour le Roi Catholique
+Elle a fait une mer plus rouge qu'en Afrique :			[910]
+Qu'est-ce ?
+LYZANTE, mets les pieds sur la garde pour la tirer du fourreau.
+Tous mes efforts n'ont pu la convertir ;
+Elle est opiniatre, et ne veut point sortir.
+TAILLEBRAS, la tirant.
+Nouveau sang tous les jours et la tache, et la souille.
+LYZANTE, la regardant.
+Du sang ? Qu'il est epais ! C'est de la fine rouille.
+TAILLEBRAS.
+Que dis-tu ?
+LYZANTE.
+Qu'a l'eclat je me sens tout ravir.			[915]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Puisque l'heure me presse, il m'en faudra servir.
+SCENE V. Amedor, Clorinde.
+AMEDOR, seul.
+Que cette nuit est claire, et qu'elle a peu de voiles !
+Ma flamme et mon amour allument les etoiles,
+Et la Lune a dessein redouble ses clartes,
+Pour mieux voir avec moi Clorinde, et ses beautes ;			[920]
+Mille petits flambeaux qui ne font que de naitre
+Brillent dedans le Ciel, pour luire a sa fenetre,
+Et le voyant jeter tous ses yeux dessus nous
+Ma passion les prend pour autant de jaloux.
+CLORINDE, a la fenetre.
+Je reconnais sa voix ; sans doute c'est lui-meme.			[925]
+AMEDOR.
+C'est un, qui vient montrer a quel point il vous aime ;
+Que vous dussiez, Clorinde, asservi sous vos lois
+Connaitre par le coeur plutot que par la voix.
+CLORINDE.
+L'une me plait autant comme j'estime l'autre.
+AMEDOR.
+Egalement aussi tous deux me disent votre.			[930]
+CLORINDE.
+L'heure et la liberte de vous parler ici
+Vous disent mieux pour moi mon amoureux souci.
+AMEDOR.
+Cette faveur est grande, et je suis sur la place
+Moins pour la recevoir qu'afin d'en rendre grace.
+CLORINDE.
+Donnez dans l'entretien quelque chose a mes yeux ;			[935]
+Montez un peu plus haut, et je vous verrai mieux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Clarimand, Amedor, Lyzante, Clorinde.
+CLARIMAND.
+Le voila ; je vous laisse.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LYZANTE, seul, et arme.
+Irai-je sans escorte ?
+Et quoi ? Si Clarimand ne m'ouvrait point la porte ?
+Tout maille que je suis, pourrais-je soutenir ?
+Dieu ! Qu'il m'obligerait deja de revenir !			[940]
+Ah ! Que j'entre a regret dedans cette carriere !
+Je n'ose aller avant, ni tirer en arriere.
+Il fit mille actions de Poltron, tantot en s'avancant,
+et tantot reculant, pour donner le temps aux autres de parler.
+CLORINDE, Amedor l'ayant baisee.
+L'exces de mes faveurs vous en fait abuser.			[945]
+AMEDOR.
+J'imite ce rayon qui semble vous baiser.
+CLORINDE.
+Comme lui vous viendrez dedans ma chambre encore ?
+AMEDOR.
+Oui, porte du desir vers l'objet que j'adore ;
+Mais les ailes manquant, je me sens arrete ;
+J'ai bien assez de feux, non de legerete.			[950]
+CLORINDE.
+Que cherche votre main dessus mon sein timide ?
+Mauvais, ce bracelet lui servira de bride.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LYZANTE.
+C'est trop trembler enfin ; sus, il faut commencer :
+Mon coeur retient mon pied, quand je veux l'avancer.
+Crions donc :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Aux voleurs : c'est trop bas ; et la crainte,			[955]
+Qui me glace le sang, tient ma voix en contrainte :
+Ah !... Je n'ose : il le faut.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Traitres, fuyez-vous ?
+Croiriez-vous eviter et Lyzante et ses coups ?
+A moi ; tournez ici.
+CLORINDE.
+L'alarmez est dans la rue ;
+Sauvez-vous.
+LYZANTE.
+Que j'ai peur ! Mais pourtant crions (Tue ;)			[960]
+Ah ! J'en tiens deja l'un.
+AMEDOR.
+Lyzante, ou va ce bruit ?
+Que veux-tu ?
+LYZANTE.
+T'envoyer en l'eternelle nuit ;
+Assassin, tu mourras.
+AMEDOR.
+Ce fou passe a l'outrage.
+LYZANTE, regardant si Clarimand le vient secourir.
+Vient-il ? S'il n'ouvre tot, je n'ai plus de courage.
+CLARIMAND, sortant l'epee en main.
+Courage.
+LYZANTE, le voyant.
+O doux Echo !			[965]
+CLARIMAND, se portant contre Lyzante.
+Qu'il ne puisse echapper.			[965]
+LYZANTE, se voyant attaque par Clarimand.
+Loin de me secourir donc il me vient frapper ?
+Traitre, au moins au besoin je saurai faire gille.
+CLARIMAND, relevant l'epee du fuyard.
+Recevez son epee : et ce lieu pour Asile.
+AMEDOR.
+C'est m'obliger au double.
+CLARIMAND.
+Avancez-vous ; entrons :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que j'ai bien partage la peur a deux poltrons !			[970]
+SCENE VII. Taillebras, Beaurocher.
+TAILLEBRAS, seul.
+Pourrait-on discerner cette epee a la Lune ?
+On dirait que le Ciel eclaire a ma fortune ;
+Les Astres, pour montrer la gloire qui me suit
+Me font un second tour au milieu de la nuit :
+Toutefois la clarte m'est ici dangereuse,			[975]
+Le trop de jour rendrait ma fourbe moins heureuse :
+Pour tromper un Brutal, mon jeu le plus certain
+Lui met, au lieu d'epee, un fleuret en la main ;
+Ce fer est sans tranchant, sa pointe est rabattue,
+Je pardonne ma mort a quiconque m'en tue ;			[980]
+Fut-il Gladiateur, et le Roi des Filous,
+Je le vais bien frotter de sa lame aux vieux loups
+Je l'entends : choisissons la meilleure posture.
+BEAUROCHER, a part soit. 
+Il n'aura pas ose tenter cette aventure ;
+Clarimand m'aura fait le chercher a credit ;			[985]
+Son humeur m'en assure, et le coeur me le dit.
+TAILLEBRAS.
+Hop ! Fea !
+BEAUROCHER.
+Toutefois je le vois qui m'appelle,
+Et qui se tient deja sur sa garde mortelle :
+Me voici, Compagnon ; a l'approche.
+TAILLEBRAS, le voyant en posture.
+Tout doux !
+Il se faut battre en forme, Ami, visitons-nous.			[990]
+BEAUROCHER, jetant son pourpoint.
+Je n'ai que la chemise, et ce pourpoint qui vole ;
+Je te laisse le busque a la mode Espagnole.
+Ca, disons en trois mots, en defense.
+TAILLEBRAS, se voyant presse.
+Tout beau !
+Vous avez longue epee, et je n'ai qu'un couteau :
+Arme egale ; autrement...
+BEAUROCHER.
+Quoi ? Tu fuiras, peut-etre ?			[995]
+Poltron, donne-le-moi ; je te veux battre en Maitre.
+TAILLEBRAS, tenant l'epee de l'autre.
+C'est a ce coup enfin que je suis triomphant :
+Mais quoi ? Dois-je employer ce bras contre un enfant ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)BEAUROCHER.
+Sa peau resiste au fer, et le rend inutile.
+TAILLEBRAS.
+C'est d'autant que je suis de la race d'Achille.			[1000]
+BEAUROCHER.
+Combats-je point en songe ? Ecartons ce sommeil.
+TAILLEBRAS, l'ayant blesse.
+Alexandre jamais n'eut le sang plus vermeil.
+BEAUROCHER.
+Rompons-lui la mesure, allons, donnons de taille,
+Poussons a tour de bras.
+TAILLEBRAS.
+Comme Diable il chamaille !
+Cherchons un autre gite, il fait ici trop chaud.			[1005]
+BEAUROCHER, le voyant fuir.
+Ah ! Le Poltron m'echappe, il a gagne le haut ;
+Il emporte d'un coup mon sang et mon epee :
+Celle-ci... Mais que vois-je ? O vaillance trompee !
+O malice du sort ! O sensible regret !
+Et je cherche du sang sur un simple fleuret ?			[1010]
+L'infame doit sa vie a sa lachete meme :
+Ah ! Clarimand sans doute a fait le stratageme ;
+Je lui sers d'instrument, afin de m'outrager :
+Sus ; il faut punir l'un, de l'autre se venger.
+
+
+			ACTE IV
+
+
+SCENE I. Clytie, Amedor, Clarimand.
+CLYTIE.
+Si matin ? Pressez-vous les Dames de la sorte ?			[1015]
+Me chasser de mon lit, et faire que j'en sorte ?
+Quand le Soleil, a peine en se levant de l'eau,
+Tout endormi regarde encore son berceau.
+AMEDOR.
+J'ai pris, je le confesse, une grande licence.
+CLYTIE.
+Qu'on ne peut comparer qu'a mon obeissance.			[1020]
+AMEDOR.
+Importun je t'oblige ; o l'aimable tourment,
+Qui t'ote le sommeil, et te donne un Amant ;
+Voici qui rend ma faute et douce et legitime ;
+Sa vue aupres de toi ne passe pas pour crime.
+CLARIMAND.
+Du moins suis-je assure que mes yeux innocents,			[1025]
+Pour la blesser, n'ont point de traits assez puissants.
+CLYTIE.
+C'est un secret, qui n'est que pour ma conscience ;
+Vous n'etes pas de ceux qui pechent sans science.
+AMEDOR.
+J'ai besoin de repos ; adieu, je reconnais
+Qu'un si libre entretien se ferait mieux sans moi :			[1030]
+Pour mettre son merite au-dessus de l'envie,
+Souviens-toi seulement que je lui dois la vie ;
+Et contre ces Amants, auteurs de mon danger,
+Je vous laisse a tous deux le soin de me venger.
+CLYTIE.
+L'effet suivra de pres en cela votre attente.			[1035]
+CLARIMAND, bas, et tandis que Clytie reconduit son frere.
+Peu de chose le fache, et bien moins le contente ;
+Il se repait de vent ; qu'un Poltron desarme
+Le doit rendre a la Cour superbe et renomme !
+Il va faire marquer de sang sa cadenette,
+Et porter apres lui tous les jours une brette :			[1040]
+Mais je fais mal ici la charge d'amoureux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que vous avez, Clytie, un frere valeureux !
+CLYTIE.
+C'est accuser la Soeur de n'etre pas fort belle
+De ne songer qu'a lui quand on est aupres d'elle.
+CLARIMAND.
+Lui vouloir envier ce peu de charite ?			[1045]
+Ce n'est pas etre Soeur dedans l'integrite.
+CLYTIE.
+Et voila de ces mots qui vous servent a rire ?
+Je connais votre humeur ; que vous en alliez dire !
+CLARIMAND.
+Si peu qu'on m'eut presse ; pour feindre l'Orateur,
+Il est vrai que j'allais faire l'adorateur,			[1050]
+J'eusse admire vos yeux, votre sein, votre joue,
+J'eusse dit que l'Amour sur vos levres se joue,
+Que vos cheveux sont d'or, et votre front d'argent ;
+Puis feignant de languir, d'un accent negligent
+Soupirant un discours, a genoux, extatique,			[1055]
+Je vous aurais baisee ainsi qu'une Relique.
+CLYTIE.
+Moi, qui suis d'ordinaire instruite en ces lecons,
+Je vous aurais paye de mille autres Chansons ;
+D'un souris j'aurais dit, Monsieur, en conscience,
+Avez-vous pour me voir assez de patience ?			[1060]
+Je ne semble precher que tristesse et qu'ennui,
+Je n'ai pas mon visage, et fais peur aujourd'hui ;
+Mon miroir s'en est plaint, j'en ai casse la glace,
+J'ai pris en m'y cherchant presque une autre en ma place ;
+De blanc qu'etait mon teint, vous diriez qu'il palit ;			[1065]
+Et sans vous je serais maintenant dans le lit.
+En effet, pour finir ici la raillerie,
+J'y devrais retourner.
+CLARIMAND.
+Et moi, je vous en prie ;
+C'est ou je jurerais, en vous baisant les bras,
+Qu'ils sont plus doux que marbre, et plus blancs que vos draps.			[1070]
+CLYTIE.
+Je dirais, la plus froide ainsi que la plus vaine,
+Je vous baise les mains, n'en prenez pas la peine.
+CLARIMAND.
+Que ne puis-je a ce jeu porter notre entretien
+La nous ferions merveille, et nous ne faisons rien.
+CLYTIE.
+Vous menacez de loin ; et que croiriez-vous faire ?			[1075]
+CLARIMAND.
+Qui le demande ainsi, le sait ; il faut le taire.
+CLYTIE.
+Plutot que perdre en vain le temps a babiller ;
+Mais qui pourrait bien mieux servir a m'habiller.
+CLARIMAND.
+Adieu ; c'est doucement chasser un qui nous presse ;
+J'ai de la complaisance autant que vous d'adresse.			[1080]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLYTIE, seule.
+Ingrat et doux objet de mon affection,
+Dis que j'ai plus d'amour, que toi de passion :
+Comme c'est en riant qu'il fait son entreprise,
+C'est en riant aussi que je me trouve prise ;
+Mais quelque etrange Aimant qui serve a l'attirer,			[1085]
+Je n'y pretendrai rien s'il se gagne a pleurer.
+SCENE II.
+LYZANTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+
+	Sorti des flots et de l'orage,
+	Ou l'Amour et le sort preparaient mon naufrage,
+	Encore tout mouille j'arrive dans le port ;
+	Et voyant mon amour de tant de maux suivie,
+	Je benis ce mortel effort
+	Qui tire mon salut du peril de ma vie.
+	Enfin ma raison revenue
+	Se presente a mes sens comme une image nue
+	Dont la vive clarte passe a mon jugement,
+	Les charmes de l'oubli partout s'y vont repandre,
+	Et d'un si grand embrasement
+	A peine dans mon coeur en connais-je la cendre.
+	Auteur d'aventures funestes,
+	Dont le flambeau Amour, ne produit que des pestes,
+	Des naufrages certains, de volontaires morts ;
+	Tyran delicieux, je renonce a tes charmes ;
+	Et la tempete dont je sors
+	Me sauve, eteint tes feux, et submerge tes armes.
+	Dans ma retraite genereuse
+	Mon ame se contente, et n'est plus amoureuse
+	Que d'un repos heureux qui suit la liberte ;
+	J'oublie avec mes maux le langage des plaintes ;
+	Mon esprit goute en verite
+	Des plaisirs dont l'Amour ne donne que des feintes.
+	Porte sur le haut du Parnasse,
+	Ou jamais on n'entend du foudre la menace,
+	Ni des tristes Amants les pitoyables cris ;
+	Mon esprit va choisir un immortel Empire,
+	Et me permets par mes Ecrits
+	Une seconde vie ou mon renom aspire.
+
+			[0]
+SCENE III. La Dupre, Clorinde, Clytie.
+LA DUPRE.
+Faut-il ainsi payer un salutaire avis ?
+CLORINDE.
+La souffrez-vous, ma Soeur, en ces honteux devis ?
+Son seul aspect ferait soupconner l'innocence,
+Et c'est presque un peche d'avoir sa connaissance.			[1120]
+CLYTIE.
+Mais puisqu'elle est chez moi, la pourrais-je chasser ?
+Le bien qu'elle nous veut se doit-il effacer ?
+Sa visite m'oblige, et n'est pas infertile,
+N'etant point honorable, au moins elle est utile ?
+Quoi ? M'avertir ici des ruses d'un Amant ?			[1125]
+CLORINDE.
+Ce n'est pas que je veuille accuser Clarimand ;
+Mais dessous ce pretexte elle traite en Compagne.
+CLYTIE.
+Qui ne la connaitrait serait bien d'Allemagne.
+LA DUPRE.
+Vous tranchez de la Reine, et s'il en faut conter,
+Toutes vos actions vont a nous imiter ;			[1130]
+Vous blamez et suivez ce doux libertinage,
+Qui flatte la severe, et tente la plus sage ;
+Mille attraits, que nos jeux en public ont produits,
+Vous les etudies dans vos chastes reduits,
+Et par une honteuse et libre flatterie			[1135]
+Ce qui nous est peche vous est galanterie ;
+Vous imitez nos yeux, nos gestes, nos propos ;
+Nous decouvrons le sein, vous, la moitie du dos :
+Nous voyons, sans meler le Ciel a nos sottises.
+Nos Amants dans la chambre, et vous dans les Eglises ;			[1140]
+Vos jeunes, vos respects sont plus pernicieux
+Que nos deportements ne semblent vicieux ;
+Vous avez l'action et le coeur en conteste,
+L'un des yeux affete lorsque l'autre est modeste ;
+Et l'ingrate contrainte ou vos voeux sont genes			[1145]
+Enflamme vos desirs, plus ils sont enchaines.
+CLORINDE.
+Que nos desirs soient grands, quoi qu'on s'en imagine,
+C'est les dompter assez, s'il faut qu'on les devine ;
+Votre secte, qui cherchent ou mieux ils paraitront,
+Les etale en discours, les porte sur le front,			[1150]
+Et d'un mauvais effet en faisant un bon compte
+Vous tirez vanite d'ou depend votre honte.
+CLYTIE.
+Vous le prenez, Clorinde, un peu trop serieux,
+Cet entretien serait bientot injurieux ;
+Leur conscience a part, et leur gloire asservie,			[1155]
+Le siecle fait trouver des charmes en leur vie :
+Qu'appelez-vous ? D'avoir sur la bourse d'un Fou
+Des diamants aux doigts, et des perles au cou ?
+Posseder a grand train une Maison complete ?
+Faire piafe au Cours et la Reine Gillette ?			[1160]
+Reposer a l'Eglise en faveur d'un carreau ?
+Marchant, avoir en main quelque Godelureau ?
+Eriger de son lit sa table, et son domaine ?
+Et compter de bon temps dix jours en la semaine ?
+De Pages, de Laquais, de carrosse suivant			[1165]
+Faire fendre la presse et detourner le vent ?
+Tirer d'un Patient jusqu'au toit qui le couvre,
+Et plus de pensions qu'on en retranche au Louvre ?
+Porter dans les cheveux la rose de rubis ?
+En mettre cent a nu, pour payez deux habits ?			[1170]
+Briller sous le drap d'or, et mepriser la soie ?
+Ne permettre qu'a peine aux fetes qu'on la voie ?
+Affecter a son teint tout ce qui l'embellit,
+De jour le masque en chambre, et les gants dans le lit ?
+N'est-ce pas un peche d'une aimable teinture ?			[1175]
+A leur faute une belle et rude couverture ?
+CLORINDE.
+Dans la pompe du train, dans le luxe et le flux.
+Il est vrai qu'aujourd'hui l'on ne les connait plus ;
+Le moindre de leurs pas vaut un coeur, vaut une ame,
+Tant elles savent bien contrefaire la Dame.			[1180]
+LA DUPRE.
+Les Dames d'autre part aussi nous contrefont,
+Jalouses de nous voir plus d'art qu'elles n'en ont ;
+Portent ainsi que nous la tete a la fantasque ;
+Ont rallonge la jupe, et retranche le masque ;
+Et si quelque Galant d'elles est visite,			[1185]
+Prennent la Hongreline a la commodite,
+Le collet bas ouvert, la simarre a la mode,
+Et ce qui sur un lit n'est jamais incommode ;
+Meme a l'occasion font servir le mimi,
+Afin de reveiller quelque chat endormi :			[1190]
+Mais, ce qui plus encore est digne de risee,
+L'une voudra de l'autre etre galantisee ;
+Entre elles on n'entend que ces infames noms
+D'amants, de serviteurs, de galants, de menons :
+Comment vous trouvez-vous aujourd'hui, (mon Fidele ?)			[1195]
+A peine en lui parlant croit-on que ce soit d'elle ;
+A lui voir la moustache et les yeux enhardis,
+Dom Quichot la prendrait pour une jeune Amadis,
+Et Marays la sifflant a la mode nouvelle
+La dirait Damoiseau plutot que Damoiselle ;			[1200]
+Pour montrer qu'elle est homme, au moins plus de moitie,
+Tous leurs mots sont d'amour, et pas un d'amitie ;
+Ce Galant contrefait cajole sa Compagne,
+Met toute a la louer l'eloquence en campagne,
+Flatte, caresse, admire, adore ses beautes,			[1205]
+Languit, soupire, meurt par des maux inventes ;
+Et se feignant par jeu ce qu'en effet nous sommes,
+Elles se font l'amour ne l'osant faire aux hommes :
+Dirai-je les poulets, leurs lettres, leurs ecrits ?
+A peindre leurs beautes ce qu'elles ont d'esprit ?			[1210]
+CLORINDE.
+Ah ? Fermons-lui la bouche, ou je ferme l'oreille.
+CLYTIE.
+Elle nous a rendu justement la pareille.
+CLORINDE.
+Avec elle je hais toute comparaison.
+CLYTIE.
+Cela ne conclut point qu'elle n'ait pas raison ;
+J'en connais qui font pis.
+LA DUPRE.
+Et seules je les touche.			[1215]
+CLORINDE.
+Et leur honneur m'invite a vous fermer la bouche.
+LA DUPRE.
+Vous me priez pourtant vous-meme de l'ouvrir,
+Sachant ce qu'a vos sens elle peut decouvrir ;
+Venue a ce dessein sans que l'on m'interrompe,
+Pourrai-je dire...
+CLYTIE.
+Quoi ?			[1220]
+LA DUPRE.
+Que Clarimand vous trompe ;			[1220]
+Traitant l'une d'amour, et l'autre de douceur,
+Qu'il joue en meme temps sa Maitresse, et sa Soeur ;
+Beaurocher qui m'envoie a reconnu sa ruse,
+Et ne peut plus longtemps souffrir qu'on vous abuse :
+Trouvant sur toutes deux de quoi se divertir			[1225]
+Le Traitre sait vos voeux, et feint d'y consentir,
+Il regale Amedor, cherche a lui rendre office ;
+Mais tous ces beaux effets sont pieces d'artifice.
+CLYTIE.
+Nous connaissons deja sa portee et ses coups.
+CLORINDE.
+S'il faut se declarer franchement parmi nous,			[1230]
+Il est vrai qu'a dessein de vous rendre prospere,
+Moi-meme il m'a portee a jouer votre frere ;
+Mais en le captivant j'ai bati ma prison.
+LA DUPRE.
+Beaurocher a vos maux promet la guerison ;
+Pour tromper un Trompeur il fera son possible.			[1235]
+CLYTIE.
+Et plus qu'il ne croirait, s'il nous le rend sensible.
+SCENE IV. Taillebras, Clytie, Clorinde, La Dupre.
+TAILLEBRAS.
+Des hommes et des Dieux, l'amour, et la terreur ;
+Qui recoit le tribut des Rois, de l'Empereur ;
+Qui soutient le Turban, quand il veut le renverse ;
+Et de qui le Sophi releve dans la Perse ;			[1240]
+Que le Tartare craint ; a qui le grand Mogor
+A fait dresser Idole et des Images d'or ;
+Qui tient assujettis le Ciel, la terre, et l'onde,
+Et d'un doigt fait mouvoir toute la Masse ronde ;
+Qui semble etre, a qui voit ses triomphes divers,			[1245]
+(Comme il est l'honneur,) l'Ame de l'Univers ;
+Qui tient l'ambition sous ses pas etouffes ;
+Vient ici vous offrir les marques d'un trophee ;
+Faisant une grande reverence a Clytie,
+et lui presentant l'epee de Beaurocher.			[1250]
+Qui montrent desarme l'Impudent Beaurocher ;
+Que ce bras, le pouvant, n'a pas voulu hacher.
+CLYTIE.
+Gloire des Champions, Createur des merveilles.
+TAILLEBRAS.
+Que ne puis-je a ces mots emprunter mille oreilles.
+CLYTIE.
+Puissant Mars Espagnol, genereux Paladin ;			[1255]
+Que vous prenez de peine a faire le badin !
+TAILLEBRAS.
+Encore un terme, ou deux ; et j'etais en extase :
+Mais vous quittez le ton, et sortez de l'emphase.
+CLYTIE.
+C'est toi-meme plutot qui sors de la raison,
+More, a qui je defends ma porte et ma maison,			[1260]
+Maitre fou, qui devrais avoir place aux Petites,
+Portes-y cette epee et tes divins merites.
+TAILLEBRAS.
+Quoi ? Refuser un don ? Que la Reine...
+CLYTIE.
+Tais-toi ;
+Va, suis tes Reines d'ombre, ainsi que l'est ta foi.
+CLORINDE.
+Cet outrage est sanglant, et passe un peu les bornes.			[1265]
+TAILLEBRAS.
+Ah ! Ventre ! On ne me fait jamais deux fois les cornes :
+Et l'epee, et mon coeur, que l'Ingrate rendra,
+Soient donc a celles-ci, qui des deux les voudra.
+CLYTIE.
+Il vous croit enrichir d'un bien qui m'importune.
+TAILLEBRAS.
+Les yeux clos, j'en remets le choix a la fortune.			[1270]
+LA DUPRE, a Clorinde.
+Madame, par honneur je vous cede ce don.
+CLORINDE.
+Je meprise un tresor qu'on met a l'abandon ;
+L'humeur et le present de ce grand Personnage
+Font ornement chez vous, sont pieces de menage ;
+Sa moustache pourra dans le Temple d'Amour			[1275]
+Servir d'epouvantail aux Oiseaux d'alentour ;
+Le commerce au surplus en a souvent affaire.
+TAILLEBRAS.
+Et quoi ? Ce jugement est-il encore a faire ?
+CLORINDE.
+Le refus est faveur a qui n'y pretend rien.
+TAILLEBRAS.
+A qui ? Deux fois, a qui ?
+LA DUPRE.
+Je l'attends ; il est mien.			[1280]
+TAILLEBRAS.
+Et l'epee, et le coeur ; je vous les donne ensemble.
+LA DUPRE.
+Je cheris la valeur, et ce qui lui ressemble.
+TAILLEBRAS.
+Le sort est complaisant a mon affection ;
+Sans lui, vous me gagniez par mon election :
+Vantez-vous aujourd'hui d'avoir un Alexandre,			[1285]
+Qui perd vos Ennemis et les reduit en cendre.
+CLYTIE.
+Sans doute il met le Maitre ici pour son cheval,
+Bucephale a gourmette, au prix de son Rival.
+Mais le voici qui vient ; voyons chance nouvelle :
+Son seul abord l'effraie, et le tient en cervelle.			[1290]
+SCENE V. Amedor, Taillebras, Beaurocher, Clytie, Clorinde, La Dupre.
+AMEDOR, montrant le Capitan a Beaurocher.
+Le voici justement ou je l'ai demande.
+TAILLEBRAS, bas.
+L'Enfer est aujourd'hui contre moi debande :
+Je vois la mon Demon, de qui l'aspect me tue ;
+Il faut que mon courage a ce coup s'evertue.
+BEAUROCHER.
+Lui dois-je pas casser son fleuret sur le dos ?			[1295]
+TAILLEBRAS, bas.
+Je sens deja fremir de crainte tous mes os.
+AMEDOR, l'abordant.
+N'avez-vous jamais vu ni tenu cette lame ?
+Et traitre...
+TAILLEBRAS.
+Qu'on m'ecoute, avant que l'on me blame.
+AMEDOR.
+La preter a Lyzante, et pour m'assassiner ?
+TAILLEBRAS.
+J'ignorais son dessein ; qui l'eut pu deviner ?			[1300]
+BEAUROCHER.
+Et celui, de m'oter mon epee a ce change,
+Te fut-il inconnu comme il nous semble etrange ?
+Ce fleuret ?
+CLYTIE.
+Ah ! Le tour n'etait pas mal plaisant.
+BEAUROCHER.
+Est-il a te convaincre un temoin suffisant ?
+CLORINDE.
+Le voila tout muet, et froid comme une souche.			[1305]
+CLYTIE.
+Lui, qui n'avait tantot pas moins qu'un flux de bouche.
+BEAUROCHER.
+Quoi ? Tu ne reponds rien ?
+AMEDOR.
+Son silence y consent.
+CLORINDE.
+Naguere pour un mot il en eut donne cent.
+BEAUROCHER.
+Parle.
+AMEDOR.
+Il n'en ferait rien, pour le sceptre des Gaules.
+BEAUROCHER, le frappant.
+Non ? Je ferai du moins repondre ses epaules.			[1310]
+TAILLEBRAS.
+Ah ! Ventre !
+LA DUPRE.
+Donnez grace a mon amant nouveau.
+AMEDOR.
+Qu'il parait effronte, meme a faire le veau !
+BEAUROCHER.
+Amant ? Votre fortune est hautement campee.
+LA DUPRE.
+J'ai pour gage assure son coeur, et cette epee ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Qu'au refus de Clytie il est venu m'offrir.			[1315]
+CLYTIE.
+Et par des vanites que je n'ai pu souffrir :
+On eut fit qu'il venait des conquetes fameuses
+Du Perou, du Bresil, ou des Iles heureuses ;
+A son dire, il sortait d'un triomphe forme,
+Et son bras glorieux vous avait desarme.			[1320]
+CLORINDE.
+Son orgueil en etait furieux et sauvage.
+TAILLEBRAS, bas.
+Tais-toi, mon Ame ; souffre, avale ce breuvage.
+BEAUROCHER.
+La patience enfin m'echappe a cette fois ;
+Il faut que sur son dos je lui casse des noix,
+Le servir du fleuret au lieu de bastonnades.			[1325]
+TAILLEBRAS.
+Quoi ? Si peu de respect a tant de canonnades ?
+Ce dos, si l'on le touche, aux ressorts du cliquet
+Vomira contre vous cent balles de mousquet.
+BEAUROCHER.
+Je lui veux seulement tailler une cuirasse.
+TAILLEBRAS.
+Hola... Que si l'honneur souffrait que je jurasse.			[1330]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oui, ventre, tete, mort ! On me roue ; au secours.
+LA DUPRE.
+Cher Amant, regardez au moins comme j'y cours :
+De grace, en ma faveur laissez lui prendre haleine.
+TAILLEBRAS.
+Sans armes ? Sans baton ? L'action est vilaine ;
+M'attaquer a main forte.
+AMEDOR.
+En est-on sur cela ?			[1335]
+Ne faut-il qu'une epee ? Ah ? Tenez ; la voila :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Courage, Beaurocher ; le Poltron y veut mordre.
+TAILLEBRAS, remettant son epee au fourreau.
+Non ; Je suis, Dieu me damne ! Ennemi du desordre :
+Devant elles ce fer sait qu'il est defendu.
+Mille graces a vous qui me l'avez rendu.			[1340]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CLYTIE.
+Et bien vit-on jamais telle galanterie ?
+CLORINDE.
+Je pense voir un charme, ou quelque momerie.
+LA DUPRE.
+Le plaisir m'en est double, et j'y gagne un Amant.
+BEAUROCHER.
+Ces troubles nous sont tous donnes par Clarimand ;
+Mais puisqu'aucun respect ne l'en a pu distraire,			[1345]
+Jurons tous contre lui, faisons ligue contraire ;
+Si vous suivez mes soins, d'un conseil entrepris,
+Celui qui veut tromper, lui-meme sera pris ;
+Je pretends de donner par un coup de partie
+A Clorinde Amedor, Clarimand a Clytie.			[1350]
+AMEDOR.
+Travaille, je te prie, a ce commun desir.
+BEAUROCHER.
+Il faut prendre le temps ; et je le vais choisir.
+
+
+			ACTE V
+
+
+SCENE I. Clarimand, Beaurocher.
+CLARIMAND, tenant en main une lettre que Beaurocher lui a faite pour Clytie.
+On ne peut faire mieux, cette divine lettre
+A les plus doux appas que l'on y pouvait mettre ;
+J'admire ton esprit plein de subtilites ;			[1355]
+Eut-on cru celle-ci parmi tes qualites ?
+J'apprends qu'egalement un double feu t'allume,
+Et celui de l'epee, et celui de la plume,
+Que tu sais doucement sur un style flatteur
+Ecrire en Cavalier, et non pas en Auteur ;			[1360]
+Je n'ai vu la-dedans terme qui ne ravisse,
+Mais il faut achever ce notable service ;
+Et que la meme main qui decrit ma langueur,
+Comme sur ce papier, l'imprime dans son coeur :
+Va doncque vers Clytie accomplir ce message ;			[1365]
+Tu n'es pas des nouveaux en cet apprentissage ;
+Pour la persuader, que ton esprit fecond
+Assiste ce poulet, lui serve de second ;
+Crois-tu qu'il puisse plus vers elle que ma bouche ?
+BEAUROCHER.
+Tondez-moi, si ce trait ne vous met dans sa couche :			[1370]
+Celle, qui sans rougir peut combattre, se rend ;
+La vive voix l'offense, et l'ecrit la surprend ;
+Le seul oui difficile, alors qu'on le marchande,
+Leur fait honte a donner, plus a qui le demande ;
+L'ecrit les porte au but, sans voir qu'elles y vont,			[1375]
+Et fait joindre les corps quand les esprits le sont.
+CLARIMAND.
+La lisiere a la fin vaudra mieux que l'etoffe ;
+Comment ? C'est raisonner en demi Philosophe ;
+Le Galant parle mieux encore qu'il n'ecrit ;
+As-tu chez Camusat derobe cet esprit ?			[1380]
+C'est du style plus fin qui soit dans sa boutique,
+Ou les plus Puritains en forment la pratique :
+Je puis tout esperer par un tel Confident ;
+Va, parle, fais, defais ; mon bien est evident.
+BEAUROCHER.
+Signez donc au-dessus.
+CLARIMAND.
+Et qu'est-il necessaire ?			[1385]
+Le nom dans un poulet se cache d'ordinaire.
+BEAUROCHER.
+Le votre le confirme, et me doit avouer
+Vers une qui vous croit d'humeur a la jouer ;
+Ce nom contre un soupcon aura beaucoup de force,
+Et ne lui sera pas une petite amorce.			[1390]
+CLARIMAND.
+Te plaindrais-je en ceci quoi qui te puisse aider ?
+Sin, procure, transport ; tu n'as qu'a demander.
+BEAUROCHER, en tournant la feuille de papier, et presentant l'autre feuillet.
+...
+CLARIMAND.
+Que tu fais de mystere !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Est-il selon tes voeux, et d'un bon caractere ?
+BEAUROCHER.
+Oui, vous etes deja dans son lit, autant vaut.			[1395]
+CLARIMAND.
+Adieu ; conduis le reste.
+BEAUROCHER, seul.
+Il est pris comme il faut,
+Son mariage fait n'attend plus que la Messe,
+Lui-meme en a signe l'accord et la promesse ;
+J'ai mis subtilement sur un double feuillet
+D'un cote la promesse, et de l'autre un Poulet ;			[1400]
+Jamais invention ne fut mieux terminee ;
+Il a lu celle-ci, mais l'autre il la signee ;
+Seulement sur mon gant j'ai tourne le papier ;
+Faussaires, apprenez de moi votre metier ;
+Quelque subtilite qu'a vos esprits l'on donne,			[1405]
+Ce tour aupres de vous merite une couronne.
+Mais coupons ces feuillets qui sont si differents :
+Quel service, Clytie, aujourd'hui je te rends !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE II. La Dupre, Taillebras, Beaurocher.
+LA DUPRE, montrant Beaurocher au Capitan.
+Voici votre ennemi, mais qui n'est plus a craindre :
+TAILLEBRAS.
+Le respect de mon nom enfin l'a su contraindre :			[1410]
+Il est brave pourtant, je l'aime infiniment.
+LA DUPRE.
+Je m'en vais lui porter pour vous ce compliment.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Des papiers ? Une plume ? O Dieu ! L'homme d'affaire !
+Beaurocher deviendra de Courtisan Notaire.
+BEAUROCHER.
+J'en viens de pratiquer au moins une action ;			[1415]
+Qu'on ne saura qu'au point de sa perfection.
+Mais parlons de vous-meme : et bien j'ai vu votre homme,
+Que j'ai, comme un enfant, apaise d'une pomme ;
+Il ne faut que flatter un peu cet Arrogant,
+Vous le rendez traitable et plus souple qu'un gant ;			[1420]
+Le parti serait riche : et vous savez la mode ;
+On souffre pour le bien quelque humeur incommode
+La plus fine a ce jeu sait elire le sien,
+L'une epouse un Mari, l'autre epouse le bien ;
+On mettra celui-ci doucement dans la route.			[1425]
+LA DUPRE.
+Tu dis vrai ; le voila ; parle bas ; il ecoute.
+BEAUROCHER.
+Je ferai bien jouer le reste des ressorts :
+Il vous attend ; adieu ; l'heure presse ; je sors.
+TAILLEBRAS, le voyant partir.
+Adieu, mon Gentilhomme.
+LA DUPRE.
+Une affaire l'appelle.
+TAILLEBRAS.
+Sans doute un coup d'epee, ou quelque autre querelle ?			[1430]
+Son courage toujours le porte dans les coups.
+LA DUPRE.
+Il est de nos amis, et vaillant comme vous ;
+Il n'est point d'escrimeur qui sous vous deux ne tremble ;
+Et je l'aime bien plus, d'autant qu'il vous ressemble.
+TAILLEBRAS.
+Quelle Dame eut jamais le sentiment plus sain ?			[1435]
+Je vous trouve l'esprit aussi beau que le sein,
+Vos vertus sont l'honneur du sexe et notre age ;
+Quoi ? Vous estimez donc les hommes de courage ?
+Ah ! Ventre ! Voici bien chaussure a votre point :
+Moi, qu'en chemise on voit plus souvent qu'en pourpoint,			[1440]
+Qui gate plus de pres a faire boucherie
+Qu'on n'en mange par an dans la grande Ecurie :
+Ma dextre, qui n'a point d'egale ni de prix,
+Souffre a peine sa Soeur, et la tient a mepris :
+Cent fois elle l'aurait inutile coupee,			[1445]
+Sinon qu'elle me sert a mieux tenir l'epee,
+Et qu'etant du cote qui demande, (En veux-tu ?)
+Par droit de voisinage elle a quelque vertu.
+LA DUPRE.
+Tout respire sur vous valeur, guerre, et bataille :
+Que j'admire ce port ! Que j'aime cette taille !			[1450]
+Ce visage de feu, ce front, ces yeux ardents
+Montrent qu'un grand courage est enclos au-dedans.
+TAILLEBRAS.
+Ah ! Ce trait delicat me chatouille et me pince.
+LA DUPRE.
+Vous avez l'air Royal, et la jambe d'un Prince.
+TAILLEBRAS.
+Qu'elle decouvre bien tout ce que j'ai de beau !			[1455]
+LA DUPRE.
+Que ce corps de Geant remplirait un tableau !
+Appelons Ferdinand, que je vous fasse peindre !
+Je doute s'il pourrait a vos graces atteindre :
+Allons a cet effet l'attendre au cabinet.
+TAILLEBRAS.
+Il faudrait pour me peindre un second Freminet.			[1460]
+SCENE III. Clarimand, Beaurocher.
+CLARIMAND.
+Ne me vends point si cher ma fortune a l'attendre ;
+Le vent est-il heureux ? Dis, que puis-je pretendre ?
+Que faut-il esperer ?
+BEAUROCHER.
+Ce qu'un Victorieux
+Qui soumet une Ville a son joug glorieux :
+Cette place rendue ouvre a vos voeux la porte ;			[1465]
+Meme en voici la clef que je vous en apporte ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Clytie en ce papier vous engage sa foi.
+CLARIMAND.
+Et je puis adorer un autre Dieu que toi ?
+BEAUROCHER.
+Que d'assauts de ma part ! Combien de resistance !
+Voici qui vous dira ma peine, et sa constance.			[1470]
+CLARIMAND, ouvrant la lettre.
+Quel exces de bonheur ! Ah ! Je me sens saisir,
+Et je manque de vie a force de plaisir :
+Un peu d'eau sur le feu d'une amoureuse joie.
+BEAUROCHER, parlant bas.
+L'orage n'est pas loin ; garde qu'il ne te noie.
+CLARIMAND.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si ma honte ne cedait a vos charmes, et si mon amour n'etait plus puissante que ma crainte, vous n'auriez pas ce temoignage que je vous envoie de votre victoire entiere sur mes sens. Vous avez eu pourtant dans ce combat moins de force a me vaincre, que moi de volonte d'etre vaincue : et j'ai cette assurance encore de vous appeler a mes depouilles et a votre proie. Venez donc en ce lieu sur le Midi, cueillir les fruits d'une amour que mon Frere Clarimand n'approuve point, que l'honneur me defend, mais que ma passion plus forte ne peut refuser a Amedor. 
+CLORINDE.
+Quel Astre, quel Demon, quel sort malicieux			[1475]
+Me fait lire ma honte, et l'expose a mes yeux ?
+Traitre, tu changes donc la faveur en outrage ?
+BEAUROCHER, bas.
+Il le faut quelque temps laisser en cet orage.
+CLARIMAND.
+Quoi ? Ce billet recherche un autre possesseur ?
+Il m'a promis Clytie, et lui livre ma Soeur ;			[1480]
+Et par l'effet honteux d'une vaine assurance
+Je vois le fruit d'un autre ou fut mon esperance ?
+Ah ! Perfide ; les traits de mon ressentiments...
+BEAUROCHER.
+Pour moi se changeront que l'heure en compliment !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voici qui vous va rendre et l'espoir, et la vie,			[1485]
+Que ce premier billet vous a presque ravie,
+Clytie en ses faveurs dissipera ce fiel ;
+Souffrez qu'apres l'Enfer je vous ouvre le Ciel ;
+Il fallait moderer l'exces de vos delices :
+Et j'ai fait a dessein ces petites malices			[1490]
+CLARIMAND, recevant une autre lettre.
+Je vois tous mes plaisirs sous une autre couleur ;
+Las ! Ils ne couvrent pas la moitie du malheur ;
+Le feu de ces Amants est de l'eau pour ma flamme ;
+Puis-je approuver en moi ce point qu'en eux je blame ?
+BEAUROCHER.
+Ce poulet dans vos mains, et n'etant pas donne ;			[1495]
+Pourquoi faire si fort le froid et l'etonne ?
+Je ne m'en suis charge, qu'a fin de vous le rendre,
+Et prevenir un mal qui ne peut plus surprendre.
+CLARIMAND, se resolvant.
+Ton esprit, cher Ami, m'oblige encore moins
+Aux faveurs que j'attends que dans ces autres soins.			[1500]
+BEAUROCHER.
+N'avais-je pas predit qu'on me ferait caresse ?
+CLARIMAND.
+Oui, Mechant... Mais Clytie accuse ma paresse
+Lisons ce cher ecrit si longtemps differe,
+Et goutons par les yeux un plaisir espere.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Quelque impression difficile, cher Amant, que votre humeur legere ait faite en mon esprit, et de quelque jeu dont le votre l'ait entretenu, je ne feins point aujourd'hui d'avouer, que j'ai quitte mes froideurs a mesure que vous etes sorti de vos feintes. Les gages que vous m'envoyez, et les raisons de votre Confident, ont arrache comme par force de moi ce consentement, que ma seule inclination vous eut donne, si vous en eussiez recherche les formes par une affection toute ouverte. Maintenant que vous etes declare, je n'attends qu'a vous recevoir entre mes bras, et vous montrer par mes caresses une amour qui fut toujours extreme, et qui n'a rien de comparable que votre merite. Venez doncque vous assurer d'une possession acquise, et me faire trouver en vos effets un contentement qui acheve celui des paroles. 
+CLYTIE.
+BEAUROCHER.
+Et bien ; sais-je operer a la facon commune ?			[1505]
+Eussiez-vous attendu sans moi cette fortune ?
+CLARIMAND.
+Ici ma passion confesse te devoir
+Tous les contentements que je vais recevoir ;
+Ah ! Que cette faveur a deux ne se partage !
+Tu prendrais la moitie de ce doux heritage.			[1510]
+Mais elle plaint ce temps qui passe a discourir :
+Adieu ; dispense-moi ; va ; laisse-moi courir.
+BEAUROCHER, le voyant en alle.
+Qu'il se hate a chercher son malheur en sa source !
+Il trouvera sa honte au bout de cette course :
+Mais donnons-lui du moins le temps d'etre decu,			[1515]
+Et cachons un affront lorsqu'il n'est pas recu.
+SCENE IV.
+CLYTIE.
+Qu'il ait contre mes sens dresse sa tromperie ;
+Je le tiens le pipeur dedans sa piperie,
+Il ne peut echapper a ce filet tendu
+Ou (voulant l'eviter) lui-meme s'est rendu ;			[1520]
+Une promesse en forme, et de sa main signee
+Sert de gage et d'espoir a ma flamme obstinee,
+Beaurocher a l'effet de ce qu'il entreprit ;
+J'admire mon bonheur autant que son esprit :
+Amour nous autorise, et permet que la ruse			[1525]
+Aide a gagner un bien quand le sort le refuse ;
+Pourvu qu'on soit heureux, il n'importe comment :
+Je ne suis pas d'humeur a garder un tourment,
+A manger du charbon, des cendres de la cire,
+Plutot que de lacher un mot qu'ose dire ;			[1530]
+Sans faire la sucree en un point resolu
+Qu'on lise dans mes voeux que je l'ai bien voulu ;
+Cette severite me rendrait mal apprise
+Pour un si vain respect si je lachais la prise.
+Mais voici Clarimand : preparons-nous un peu			[1535]
+A le bien recevoir, et couvrir tout le jeu.
+SCENE V. Clarimand, Clytie.
+CLARIMAND.
+Qu'un souris vous sied mieux qu'a faire la farouche !
+Vos yeux par mille attraits parlent pour votre bouche ;
+Ce langage est muet, et mon coeur seulement
+A le droit de l'entendre en ce doux mouvement ;			[1540]
+Qu'est-ce que ce regard ne me semble promettre ?
+Ou mon espoir est peint mieux que dans votre lettre,
+Ou tous mes sens ravis d'ardeur et de plaisir
+S'attachent pour y lire un amoureux desir.
+CLYTIE.
+Quelque trait qui paraisse en ma flamme elancee,			[1545]
+J'en garde le meilleur au fonds de la pensee ;
+Et l'effet qui bientot suivra ma passion
+Vous montrera mes voeux et mon intention :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pardonnez a mon front, s'il faut que je rougisse,
+Et qu'une honnete honte encore la regisse,			[1550]
+Donnez la liberte du moins a ma pudeur
+Qu'en vous montrant mes feux elle en cache l'ardeur ;
+Je redoute vos yeux d'un temps, et les desire ;
+Ah ! Fuyons ces temoins...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est trop feindre sans rire.
+CLARIMAND, se tournant aussi de l'autre cote, et parlant bas.
+Sa raison reprend force, et la veut secourir ?			[1555]
+Que cet honneur combat, avant que de mourir !
+Il expire pourtant ; et venue a ce terme
+Sa constance parait plus honteuse que ferme.
+CLYTIE, revenant a lui.
+Une crainte restait, que je viens d'etouffer ;
+Maintenant absolu vous pouvez triompher.			[1560]
+CLARIMAND.
+Ah ! Ce triomphe offert augmente mon servage,
+Et d'un Empire acquis je tombe en esclavage ;
+Ma victoire est la votre, et vos combats soufferts
+Changent par vos appas mes Myrtes en mes fers ;
+J'aime tant la douceur de force accompagnee			[1565]
+Que je me suis perdu quand je vous ai gagnee ;
+Ce pouvoir dessus vous m'en ote plus sur moi ;
+Loin de vous la donner je recois votre loi ;
+Et cet amour, qui meurt dedans la jouissance,
+Va prendre en vos faveurs sa seconde naissance,			[1570]
+Il m'attache d'un noeud qu'on ne rompra jamais.
+CLYTIE.
+C'est bien dans mon dessein ce que je me promets ;
+Un serment toutefois m'assure votre flamme.
+CLARIMAND.
+Je jure par le Ciel, que ma bouche reclame.
+CLYTIE.
+Que votre foi tiendra ce qu'elle m'a promis ?			[1575]
+CLARIMAND.
+Ou que je puisse avoir les destins ennemis.
+CLYTIE.
+De parole, ou d'ecrit ?
+CLARIMAND.
+Et meme de pensee.
+CLYTIE.
+Mon amour a ce prix est trop recompensee.
+Mais entrons au logis, quelqu'un semble approcher.
+SCENE VI. Clarimand, Beaurocher, Clytie, Amedor, Clorinde, La Dupre, Taillebras.
+CLARIMAND, voyant Beaurocher suivi de quatre autres.
+A quoi trainer tout ce monde ? Ou viens-tu, Beaurocher ?			[1580]
+BEAUROCHER.
+Les faire tous de fete, entrer en votre joie,
+Partager la faveur que le Ciel vous envoie,
+Lire votre contrat, et nous rendre temoins
+D'un mariage heureux que vous savez le moins.
+CLARIMAND, lui parlant bas.
+Que ton extravagance a ce coup m'importune !			[1585]
+En cette folle humeur va parler a la Lune ;
+Ou retire plutot, afin de m'obliger,
+Ceux dont l'abord ici ne peut que m'affliger ;
+Ah ! Que j'etais heureux sans ce facheux obstacle !
+Qu'on me rompt un beau coup !
+BEAUROCHER, tout haut en riant.
+Vous eussiez fait miracle !			[1590]
+A d'autres, Clarimand ; quittez cette fureur ;
+Il est temps de sortir d'une si vaine erreur ;
+La fortune pour vous change et tourne sa roue ;
+Vous jouez tout le monde, aujourd'hui l'on vous joue ;
+Vous souffrez pour Clytie ? Et vous serez gueri,			[1595]
+Vous la possederez, mais comme son Mari ;
+Qu'un dessein plus honnete a la fin vous engage,
+Confirmez votre foi dont je porte le gage,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voyez cette promesse, et connaissez le fin,
+Lisez, sans y toucher, de crainte d'un larcin :			[1600]
+CLARIMAND, ayant lu la promesse.
+O Ciel ! Et qui put faire une telle malice ?
+BEAUROCHER.
+Vous en voyez l'auteur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)En voici la complice :
+Je vous la fis signer, au lieu de cet ecrit
+Qui subornait Clytie, et dont elle se rit.
+CLYTIE.
+Avouez, Clarimand, sa fourbe et ma victoire ;			[1605]
+Etouffons dans les ris cette plaisante histoire ;
+Pour nous joindre, voyez que le Ciel a permis
+Que vous fussiez trahi par l'un de vos Amis :
+Je veux bien qu'en mes mains votre destin balance,
+Vous gagner par amour non pas de violence,			[1610]
+Et ce fruit, qui me vient de sa subtilite,
+Je ne le veux devoir qu'a ma fidelite.
+CLARIMAND.
+Que d'etranges succes, o Dieu ! Que de merveilles
+Me ravissent les yeux, le coeur, et les oreilles !
+Le Ciel visiblement opere en cet effet.			[1615]
+BEAUROCHER.
+Et produit a ce jour un miracle parfait :
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ces deux Amants unis, sur votre foi donnee
+Vont chanter a l'antique un Io Hymenee ;
+Pour eux, comme pour vous, j'ai cherche ce moment,
+Qui fait naitre vos feux et finit leur tourment ;			[1620]
+Taillebras au festin, ou son ardeur l'emporte,
+Vous servira de Suisse, et gardera la porte.
+TAILLEBRAS.
+Quoi ? Me croit-on de taille a garder le mulet ?
+Moi, qui dedaignerais un Prince pour valet.
+BEAUROCHER.
+Son mariage ici, quoi qu'il fasse et qu'il die,			[1625]
+Viendra comme la farce apres la Comedie :
+Pour faire triompher et la joie et l'amour,
+Il faut que nous ayons trois noces : en un jour ;
+J'ai deja mon habit et mes souliers de danse :
+Vous serez de ce branle et suivrez la cadence ;			[1630]
+Vous defrayerez le bal ou nous vous appelons.
+CLARIMAND.
+Oui, j'en payerai bien cher au moins les violons ;
+Mais par contagion s'il faut faire la bete,
+Je ne puis eviter d'etre valet de fete :
+Je releve, Amedor, ici votre interet.			[1635]
+AMEDOR.
+Bien plus ; vous me rendez la vie en cet Arret,
+Puisqu'un commun accord doit faire que j'obtienne
+Votre Soeur en partage en vous donnant la mienne :
+Les biens aux deux partis sont assez de raison,
+Et nous ferons toux deux une seule Maison ;			[1640]
+Quoi que l'on puisse oter ou joindre a mon estime,
+Une si sainte amour rend mon voeu legitime,
+Et Clorinde avouera que jamais un Amant...
+CLARIMAND.
+Ne fut plus assure de son contentement ;
+Sans l'en interroger, et sans que je la presse,			[1645]
+Il est dans ce poulet ecrit en forme expresse.
+CLORINDE, prenant la lettre que Clarimand lui tend.
+Un poulet ? De ma part ? Quelle malice ? O Dieu !
+CLARIMAND.
+Feignez, jurez ; il faut le nier en ce lieu.
+CLORINDE.
+Jugez sans passion d'une telle imposture ;
+C'est mon style aussi peu que c'est mon ecriture.			[1650]
+CLARIMAND.
+Je connais mon erreur.
+BEAUROCHER.
+Et moi la verite ;
+Remerciez l'auteur de cette charite :
+Ce Billet contrefait vient du Bureau d'adresse,
+Et de la meme main qui fit votre promesse ;
+Ces deux traits m'ont venge de mon sang epanche. v			[1655]
+CLARIMAND, regardant le Capitan.
+Le poltron fit le mal ; j'en lave le peche.
+LA DUPRE.
+Epargnez mon amant ; qui noble, de sa vie
+Ne fit mal a personne, et n'en a point d'envie.
+TAILLEBRAS.
+Feindrai-je d'avouer comme je l'ai dupe ?
+Puisqu'ici tout le monde est trompeur ou trompe.			[1660]
+CLARIMAND.
+De peur qu'aucun de nous contre l'autre ne crie
+Commencons a tourner le tout en raillerie ;
+Et puisque mon esprit a la fin se resout,
+Embrassons-nous, mon ame, il faut rire de tout.
+CLYTIE.
+C'est maintenant qu'au vrai vous possedez Clytie.			[1665]
+BEAUROCHER.
+Tous se baisent ; et moi je reste sans partie :
+Puis-je aider a quelqu'un de second dans ces jeux ?
+A mon tour, Capitan ; vous en avez pour deux.
+LA DUPRE, le baisant et lui parlant bas.
+Et le reste ferait encore un bon partage.
+AMEDOR, ayant baise Clorinde.
+Vous posseder, Clorinde ? O Dieu ! Quel avantage !			[1670]
+CLORINDE.
+J'adore l'accident qui nous a suscite
+D'un moment, sans espoir, notre felicite ;
+Et quoi qu'entre vos bras a present je me trouve,
+Ma creance resiste et doute dans la preuve.
+CLARIMAND.
+Ah ! Ce soupir, Clytie, est deja pour la nuit.			[1675]
+CLYTIE.
+Il rappelle mon coeur, qui me quitte et vous suit :
+Ce mariage heureux ne peut qu'il ne nous rie,
+Qui n'est fait que par jeu, que par galanterie.
+TAILLEBRAS.
+Allons tirer du croc nos casques, nos harnais ;
+Cavaliers, honorons ce jour de cent Tournois.			[1680]
+BEAUROCHER.
+La Dupre doit en vain reclamer sa vaillance,
+Si, comme de l'epee, il est faible de lance.
+TAILLEBRAS.
+Je veux seul contre tous etre le Soutenant.
+Toutefois le Soleil est trop chaud maintenant.
+BEAUROCHER.
+Il vaut mieux jusqu'au soir remettre la partie ;			[1685]
+Et faites cependant un branle de sortie.
+CLARIMAND.
+Sans toi notre plaisir ne sera qu'imparfait.
+BEAUROCHER.
+Je dirai la Chanson (Pensez a votre fait :)
+Je vais chercher Lyzante ; et si Phebus l'enflamme,
+Je l'amene au festin faire l'Epithalame.			[1690]
+
+	==================================================

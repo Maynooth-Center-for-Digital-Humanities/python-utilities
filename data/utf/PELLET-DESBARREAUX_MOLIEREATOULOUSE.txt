@@ -1,0 +1,1333 @@
+********************************************************
+	DC.Title                  = MOLIERE A TOULOUSE, COMEDIE EN UN ACTE ET EN VERS.
+	DC.Author                 = PELLET DESBARREUX, Hyacinthe
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 02/10/2016 a 16:50:52.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/PELLET-DESBARREAUX_MOLIEREATOULOUSE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+MOLIERE A TOULOUSE COMEDIE EN UN ACTE ET EN VERS LIBRESM. DCC. LXXXVII. AVEC PERMISSION.
+Par M. PELLET DESBARREAUX
+	A TOULOUSE ; Au Magasin general des Pieces de TheAtre ; Chez BROULHIET, Libraire, rue Saint-Rome.
+	
+	Representee a Toulouse, pour la premiere fois le 15 Mars 1787
+	PREFACE.
+C'est en 1646 que le celebre Moliere vint a Toulouse, muni d'un Privilege du Roi, pour y faire ses premieres armes ; il se montra d'autant plus jaloux du suffrage des Toulousains, que les Arts qui fleurissaient deja dans leur ville, naissaient seulement ailleurs. Je n'ai point pretendu mettre en action ce qui se passa exactement a cette epoque ; mon intention a ete seulement de rendre hommage a la memoire de Moliere, dans une ville ou je n'ai de ressemblance avec ce grand homme, que le vif desir de meriter la bienveillance d'un Public aussi encourageant pour la timide mediocrite, que juste appreciateur de la perfection. Pour celebrer plus dignement la ville de Toulouse, j'aurais pu tirer un trait plus interessant de son histoire, mais il aurait fallu prendre un vol plus eleve. Et quand j'aurais choisi une epoque plus eclatante, qu'aurais-je pu dire aux Toulousains de plus flatteur, que de leur rappeler que c'est aux encouragements qu'ils donnerent a ses premiers travaux, que la Nation est redevable du plus grand homme qui ait illustre la scene francaise ?
+L'accueil qu'on a fait a ce faible essai m'a paye au centuple de mon travail. Je ne repondrai pas aux differentes observations de mes juges les plus severes. Le role de Pirlon en a choque quelques-uns, mais M. Goldoni m'en a fourni l'idee dans la piece italienne, qui a pour titre : il Moliere. J'ai cru pouvoir transporter sur notre theatre un caractere dont Moliere lui-meme est le premier peintre, et qui le frappa tellement dans le monde, des son aurore, qu'il vint enfin a bout de le demasquer dans son chef-d'oeuvre du Tartuffe.
+Quant aux dates, qui ne paraissent pas exactes a ceux qui y tiennent, le grand Corneille etait deja celebre, que Moliere etait encore ignore. Le Cid fut joue en 1636, et l'Etourdi ne le fut a Paris qu'en 1658. Je n'oublierai jamais l'indulgence du Public a mon egard, non plus que le zele de mes camarades, qui ont joue dans la piece ; je voudrais pouvoir donner a chacun d'eux le tribut d'eloges qui leur est du, par les soins qu'ils ont mis a voiler mes defauts, mais comme j'avais prevu leurs efforts, ils doivent etre bien surs de la duree de ma reconnaissance.
+
+PERSONNAGES.
+MOLIERE.		M. Dumege.
+MADAME BEJART, actrice de la troupe de Moliere, Madame Fleury
+MADEMOISELLE BRECOUR, actrice de la troupe de Moliere, Mademoiselle Valville.
+LAGRANGE, acteur de la troupe de Moliere, Monsieur Clavareau.
+MONSIEUR DE SAINT FIRMIN, Citoyen de Toulouse.	M. Dalainville.
+LE MARQUIS. Monsieur Fleury.
+PIRLON, faux Devet, Italien de nation.	M. Morin.
+LESBIN, domestique de Moliere.	M. Chevalier.
+La Scene est a Toulouse, dans l'appartement de Moliere.
+
+
+
+			
+
+
+SCENE PREMIERE. Madeleine Bejart, Lagrange.
+MADAME BEJART.
+Savez-vous bien cher Lagrange, aujourd'hui,
+Qu'avant que le Soleil commencat sa carriere,
+Nous avons vu sortir Moliere,
+Et qu'il n'est point encor rentre chez lui ?
+LAGRANGE.
+Les Magistrats qu'il sollicite,			[5]
+Ont peut-etre en ce jour voulu le recevoir,
+Ils ont dans tous les temps honore le merite ;
+Moliere serait-il econduit sans espoir ?
+Ses talents, il est vrai, ne paraissent encore
+Que dans leur plus modeste eclat ;			[10]
+Mais quoiqu'il soit, a leur aurore,
+Je predis qu'ils feront la gloire de l'Etat.
+MADELEINE BEJART.
+Examinez pourtant quel destin est le notre,
+Quels infatigables travaux !
+Quel sort ! Moliere eut pu s'en procurer un autre.			[15]
+Courant de treteaux en treteaux 
+Nous promenant de foire en foire,
+Portant partout un oeil observateur,
+Tous les jours il me dit qu'il court apres la gloire ;
+La gloire rarement conduit l'homme au bonheur.			[20]
+LAGRANGE.
+Ah ! Madame Bejart jugez mieux je vous prie
+De ce que pour les arts l'Etat fait aujourd'hui ;
+De notre entrepreneur si vous etes l'amie,
+Ne vous alarmez pas pour lui.
+Si nous vivions encor dans ces temps d'ignorance,			[25]
+Ou les sots commandaient en France ;
+Corneille eut ete sans appui,
+Mais voyez quelle difference !
+Partout les Arts sont accueillis,
+Leur regne a la fin recommence,			[30]
+Et Moliere ornera le siecle de Louis.
+MADELEINE BEJART.
+Lagrange, avec plaisir j'en accepte l'augure.
+Les obstacles pourtant qu'il trouve a chaque pas,
+Ne sont pas ce qui me rassure.
+A jouer en ces lieux s'il ne reussit pas,			[35]
+A quel sort faut-il nous attendre ?
+Comment faire eclater en un mot ce savoir,
+Sur qui vous fondez notre espoir,
+Si l'on fait en tous lieux refus de nous entendre ?
+LAGRANGE.
+Je me flatte plus que jamais ;			[40]
+On lui fera sans doute un accueil agreable ;
+Mais veuillez me promettre, en cas d'un plein succes,
+Que vous me serez favorable,
+Pour obtenir de Moliere en ce jour,
+La main de la beaute que j'aime ;			[45]
+Que vous l'engagerez vous-meme,
+A vouloir en ces lieux couronner mon amour.
+MADELEINE BEJART.
+Depuis assez longtemps, il vous a fait connaitre
+Quel interet il prend a la jeune Brecour ; 
+En la lui confiant son pere le fit maitre			[50]
+De lui faire choix d'un etat ;
+S'il craint de faire une imprudence
+En couronnant votre constance,
+Pourriez-vous le blamer d'etre si delicat ?
+Voyez a quels dangers le Theatre abandonne,			[55]
+Un jeune coeur a qui d'heureux talents,
+Qu'avec plaisir chacun couronne,
+Attirant un flatteur encens,
+Et dont l'essaim qui l'environne 
+Colore ses discours pour enivrer ses sens.			[60]
+Tant que le coeur se tait ; oui l'actrice sommeille
+Dans un agreable repos,
+Elle n'est point sensible aux seduisants propos
+Dont on etourdit son oreille ;
+Mais quand sentant les prix qu'on met a ses travaux,			[65]
+Son amour propre enfin s'eveille,
+Les galants lieux communs lui paraissent nouveaux ;
+Elle ecoute avec complaisance
+L'hommage dangereux des papillons du jour,
+Facile et sans experience			[70]
+Le plus flatteur pour elle a le moins de detour ;
+Et souvent elle perd sa naive innocence,
+Pour ne pas voir que l'on encense
+Sa vanite credule et non pas son amour.
+A vous unir si Moliere recule,			[75]
+C'est qu'il connait ces revers dangereux,
+Et veut, faisant s'il peut, le bonheur de tous deux,
+La sauver d'un travers et vous d'un ridicule.
+LAGRANGE.
+Ainsi vous croyez qu'au bonheur
+Dont peuvent jouir tous les hommes,			[80]
+Dans l'etat penible ou nous sommes,
+Il faudra fermer notre coeur :
+Parce que le vice sans cesse
+Par notre organe est combattu,
+Il faudra dans mon ame etouffer la tendresse,			[85]
+Peut-etre meme encor rougir de la vertu.
+Ah ! Madame Bejart, cette idee est affreuse,
+Et de notre union detruirait tout l'accord.
+Cette peinture douloureuse
+Empoisonnerait notre sort.			[90]
+Ecartons a jamais ces images penibles,
+Il serait affligeant meme de presumer,
+Que les hommes les plus sensibles ;
+Doivent le plus craindre d'aimer.
+MADELEINE BEJART.
+Vous avez pris trop a la lettre			[95]
+Ce que je venais d'avancer ;
+Pourrais-je, sans me compromettre...
+Croire qu'aux bonnes moeurs, il nous faut renoncer ?
+A l'honneur parmi nous il n'est rien qui deroge,
+Le plus grand de nos Rois vient de le confirmer ;			[100]
+Il ne m'appartient point de faire notre eloge ;
+Mais raisonnablement peut-on mesestimer
+Ceux qui penseront bien, suivant notre carriere ?
+Repondez aux Censeurs qui pourraient la blamer, 
+Que c'etait celle de Moliere.			[105]
+Gardons-nous cependant d'enivrer notre orgueil
+De ce que les succes nous donnent d'avantages ;
+Quel que soit du public le favorable accueil,
+Au moment ou l'on croit etre exempt des orages.
+Souvent on rencontre un ecueil.			[110]
+Ils sont bien plus frequents pour l'actrice jolie
+Que pour tout autre assurement. 
+Reflechissez-y murement,
+N'allez pas alterer le cours de votre vie
+Pour le delire d'un moment ;			[115]
+Et si jamais l'hymen l'un a l'autre vous lie,
+Que la raison toujours guide le sentiment ;
+Surtout fermez l'oreille aux rapports de l'envie,
+Dans le palais de la folie
+Les faux rapports souvent a la chaste Thalie,			[120]
+Ont donne Momus pour amant......
+.....
+Croyez qu'a vous servir je serai la premiere,
+Vous me feriez tort d'en douter.
+Je sors pour quelques soins dont je dois m'acquitter ;			[125]
+Veuillez attendre ici Moliere.
+SCENE II.
+LAGRANGE, seul.
+Non, Madame Bejart, vous ne presumez pas
+Que plus longtemps je puisse attendre.
+L'amour, jeune Brecour, qui m'enchaine a vos pas,
+A votre main me permet de pretendre.			[130]
+Pourquoi differe-t-on de couronner des noeuds,
+Qu'un rapport mutuel a forme des l'enfance ?
+Moliere se rendra, voyant notre constance,
+Son plaisir fut toujours de faire des heureux.
+SCENE III. Lagrange, Mademoiselle Brecour.
+LAGRANGE.
+Ah ! La voila celle que j'aime !			[135]
+Savez-vous, charmante Brecour,
+Que plus nous avancons, plus ma peine est extreme,
+Nul espoir jusqu'ici ne luit a mon amour.
+Je viens encor de parler de ma flamme
+A votre bonne amie, a Madame Bejart ;			[140]
+Elle sait a quel point vous regnez sur mon ame,
+Mais je vois qu'a mes voeux elle prend peu de part,
+Et peut-etre vous-meme avez-vous peu d'envie,
+De voir mes desirs satisfaits ?
+Mon attente jamais ne peut etre remplie,			[145]
+Si vous ne secondez les efforts que je fais.
+MADEMOISELLE BRECOUR.
+Pourquoi faut-il que je vous dise,
+Que vous avez encor agi sans reflechir ?
+Aujourd'hui qui vous autorise
+A dire qu'a mon sort vous voulez vous unir ?			[150]
+C'est a moi qu'il fallait en parler la premiere ;
+Je vous aurais epargne surement,
+Une demarche irreguliere,
+Qui ne saurait en ce moment
+Que beaucoup deplaire a Moliere ;			[155]
+Peut-etre ses efforts seront-ils impuissants
+Pour surmonter la cabale jalouse
+Qui tremble que pour quelque temps
+On ne veuille aujourd'hui le fixer a Toulouse.
+Quel pays cependant fut plus digne de lui !			[160]
+Les Arts qui n'ont ailleurs qu'une estime frivole,
+Ici trouvant un legitime appui,
+Sont couronnes au Capitole. 
+Ainsi ne pensons en ce jour
+Qu'au projet de Moliere ou ce qui l'interesse,			[165]
+Et par egard pour sa tendresse,
+Nous devons un moment oublier notre amour.
+LAGRANGE.
+J'ai peut-etre, il est vrai, trop mis de petulance ;
+En me plaignant de sa rigueur.
+Il peut douter de ma constance, 			[170]
+Mais je rends justice a son coeur.
+S'il souffre quelquefois, c'est de voir que le vice
+Peur dans ce siecle corrompu,
+Semer de fleurs les bords du precipice
+Dont il voudrait pouvoir garantir la vertu.			[175]
+S'il se plaint d'etre ne dans le siecle ou nous sommes ;
+C'est que sous un masque trompeur,
+Il voit que l'interet guide aujourd'hui les hommes,
+Ou jadis ils etaient attires par l'honneur.
+A sa connaissance profonde			[180]
+Rien n'echappe, nos moeurs, nos defauts, nos travers,
+Les cabales des sots, les intrigues du monde
+Les froids discours, les mauvais vers
+Tout est en bute a sa ferule ;
+Il ne se sert, en depit des railleurs,			[185]
+Pour rendre les hommes meilleurs,
+Que des armes du ridicule.
+MADEMOISELLE BRECOUR.
+Promettez-moi que desormais,
+Vous montrerez plus de prudence,
+Quand de vos amoureux projets			[190]
+Vous ferez une confidence.
+Ce Toulousain si vertueux
+Qui des arts parcourt la carriere,
+Monsieur de Saint-Firmin, qui ne forme des voeux.
+Que pour le succes de Moliere,			[195]
+Hier nous assura qu'au gre de nos desirs,
+Enfin tout allait se conclure ;
+J'en eprouve d'avance une volupte pure.
+Moliere nous aima toujours sans imposture,
+Nous devons bien au moins partager ses plaisirs.			[200]
+LAGRANGE.
+Mais ce maudit Monsieur Pirlon,
+Ce suppot de l'hypocrisie,
+Qui semble etre venu du fonds de l'Italie,
+Pour semer la division,
+Arme, dit-on, la ville entiere			[205]
+Et la souleve adroitement
+Contre les projets de Moliere.
+Il s'est ingenieusement
+Introduit jusqu'en cet asile,
+Pour semer les soupcons de sa haine subtile,			[210]
+Mais son plan est trop bien connu de votre amant.
+MADEMOISELLE BRECOUR.
+Du moindre trait d'ingratitude,
+On ne vous soupconna jamais,
+Le vice en votre coeur ne peut avoir d'acces, 
+Le mien en est la certitude.			[215]
+LAGRANGE.
+Aussi pour notre ami, je pense comme vous,
+C'est en ces lieux qu'il vient se livrer a l'etude ;
+S'il se soustrait aux yeux jaloux
+Des importuns et de la multitude,
+Il s'occupe depuis longtemps			[220]
+D'un livre qui peindra ses moeurs et sa sagesse ;
+Car c'est pour traduire Lucrece
+Qu'il passe seul ici quelques heureux moments.
+SCENE IV. Lagrange, Mademoiselle Br2cour, Lesbin.
+LESBIN, a Mademoiselle Brecour.
+Madame Bejart vous demande.
+LAGRANGE, impatiente.
+On ne peut vous voir un moment.			[225]
+MADEMOISELLE BRECOUR.
+Mon amie a des droits.
+LAGRANGE.
+Je le vois bien vraiment.
+LESBIN.
+Faut-il lui dire qu'elle attende ?
+MADEMOISELLE BRECOUR.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Non, j'y vais ; 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)donnez-moi la main.
+LAGRANGE.
+Ah ! Pardonnez a ma tendresse.
+MADEMOISELLE BRECOUR.
+Je vois bien qu'il faudra vous pardonner sans cesse.			[230]
+Ton maitre est-il rentre Lesbin ?
+LESBIN.
+Non Mamzelle, bon il trotte ;
+Il m'a dit de prendre en partant,
+Sa plus grande perruque et d'aller promptement
+La mettre sous la papillote,			[235]
+Et je n'ai pas trouve du papier seulement.
+MADEMOISELLE BRECOUR, en s'en allant.
+Tu peux en prendre sur la table. 
+SCENE V.
+LESBIN seul, allant a une table garnie de livres et de papiers.
+C'est pas du papier blanc qu'il me faudra choisir ;
+Il me parait plus convenable
+D'employer ce cahier qui ne peut plus servir.			[240]
+Ce griffonnage est d'une etrange espece,
+Il ne doit etre bon a rien.
+Avant tout, cependant, examinons-le bien.
+Poeme traduit de Lucrece.
+.................			[245]
+Qu'est-ce que c'est que Lucrece ?...
+Autant que je peux m'y connaitre,
+Sur la perruque de mon maitre,
+Ce Lucrece parait tres propre a figurer.
+SCENE VI. Pirlon, Lesbin.
+PIRLON.
+Quoique j'aie en ces lieux liberte toute entiere,
+Veuillez me dire, mon enfant,			[250]
+S'il serait possible un moment
+D'entretenir Monsieur Moliere.
+LESBIN.
+Monsieur il n'est pas au logis,
+De ce que vous voulez, vous n'avez qu'a m'instruire.
+De ce qu'on me dit de lui dire,			[255]
+Lorsque je m'en souviens toujours je l'avertis.
+PIRLON.
+Vous avez donc de la memoire ?
+LESBIN.
+Mais oui Monsieur, dans certains cas.
+Souvent il vient des gens qui m'en font presque accroire,
+D'en parler a Monsieur je ne me souviens pas.			[260]
+PIRLON.
+Votre ingenuite me plait je vous assure.
+LESBIN.
+Non pas la votre ; tenez, car votre tournure, 
+Votre ton radouci, votre voix de lenteur,
+Votre trop benigne figure,
+Ca ne me gagne pas le coeur.			[265]
+PIRLON.
+Vous changeriez bientot, mon enfant, de langage,
+Si vous saviez qu'ici je viens pour vous servir,
+Et que je n'y pretends remplir
+Que les devoirs d'un devot personnage.
+LESBIN.
+Tant pis, car mon maitre m'a dit,			[270]
+Et pour sa probite partout on le renomme,
+Qu'avant d'etre devot il faut etre honnete homme.
+PIRLON.
+Je vois qu'on vous a mal instruit.
+Comment avec votre droiture,
+De Moliere avez-vous adopte les travers ?			[275]
+Je pretends aujourd'hui vous montrer l'imposture
+Et l'esprit dangereux d'un homme aussi pervers.
+Vous vous perdez a jamais dans le monde
+Si vous gardez encor ce maitre corrompu ;
+Il n'est de citoyen que son esprit ne fronde.			[280]
+Dans ses vers tout est combattu ;
+Sous pretexte d'armer contre l'hypocrisie,
+Il a concu, dit-on, la criminelle envie
+D'oser censurer la vertu.
+Gardez-vous bien chez lui de rester davantage ;			[285]
+Je pretends vous placer ailleurs,
+Et si l'on a besoin de votre temoignage,
+Pour avoir des details sur ses gouts, sur ses moeurs ;
+Pieusement nous avons lieu d'attendre
+Que vous voudrez alors bien vous preter.....
+LESBIN.
+A rien.			[290]
+D'apres donc ce qu'ici vous me faites entendre,
+Mon maitre est le mechant et vous l'homme de bien.
+Plus je vous vois, plus ca m'etonne.
+A votre ton mysterieux,
+Malgre votre roulement d'yeux,			[295]
+Gageons que cet avis n'est celui de personne.
+PIRLON.
+Comment donc malheureux, vous oseriez penser....
+LESBIN.
+Je pense qu'il est temps, Monsieur, que je vous quitte ;
+Pour annoncer votre heureuse visite.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VII.
+PIRLON, seul.
+Il fera bien de m'annoncer.			[300]
+Combien ce Moliere a d'empire
+Sur tous ceux qui sont pres de lui !
+Si je venais a bout de pouvoir le detruire,
+Je l'empecherais bien de nous nuire aujourd'hui.
+Sa morale partout est celle qu'on epouse.			[305]
+Les sentiments bientot seront changes ;
+En vain j'alleguerai nos anciens prejuges,
+Il les aneantit s'il se fixe a Toulouse.
+A l'eloigner employons tous nos soins.
+J'ai des intolerants renouvele la brigue ;			[310]
+Qu'au moment qu'il prevoit le moins,
+Il se trouve ecrase sous le poids de l'intrigue.
+Je fais sur lui courir des bruits divers
+Que ma cabale fera croire ;
+Je perdrais a jamais mon credit et ma gloire,			[315]
+Si des faibles humains les yeux etaient ouverts.
+Tandis qu'aupres des grands je travaille en silence
+Pour m'opposer a ses projets ;
+Detruisons, s'il se peut, l'etroite intelligence
+Qui regne dans sa troupe et ses divers sujets.			[320]
+SCENE VIII. Lagrange, Pirlon.
+LAGRANGE.
+Qu'est-ce, Monsieur Pirlon, ici qui vous attire ?
+Vous aviez renonce disiez-vous a nous voir.
+Qu'avez-vous encor a nous dire ?
+A votre opinion pensez-vous me reduire ?
+Perdez a jamais cet espoir.			[325]
+Vous le savez, nos coeurs coutent trop a surprendre ;
+Ainsi, Monsieur, n'insistez plus,
+De vos raisonnements je reconnais l'abus,
+Dispensez-moi de les entendre.
+PIRLON.
+Quoi ! Vous osez ainsi taxer de faussete			[330]
+Un coeur pur que le zele inspire ;
+Car quel autre desir aupres de vous m'attire,
+Que de vous faire enfin sentir la verite.
+Je ne puis voir, sans une peine extreme,
+Que sans egard pour mes avis			[335]
+Vous partagiez des gouts, que sans doute vous-meme
+Vous vous repentirez un jour d'avoir suivis.
+De quelque facon qu'on le nomme,
+D'apres ses projets differents,
+Il n'en est pas moins vrai que Moliere est un homme			[340]
+Dont on devrait etouffer les talents.
+LAGRANGE.
+Monsieur Pirlon, cessez de grace,
+D'oser insulter sans pitie
+Un coeur droit, dont toujours j'ai cherche l'amitie ;
+Ou je vais vous ceder la place.			[345]
+Vous ne futes jamais instruit
+De ses moeurs, ni de sa droiture,
+Mais vous savez les traits qu'il garde a l'imposture ;
+Pour lui trouver des torts, cela seul vous suffit.
+Sans croire ce qu'ici votre parti publie,			[350]
+Interrogez les siens, frequentez sa maison,
+Passez chaque acte de sa vie
+A l'examen de la raison ;
+Vous apprendrez que l'innocence
+Trouva souvent un asile chez lui,			[355]
+Que de la honteuse indigence
+Il a toujours ete le plus solide appui.
+S'est-il montre jaloux d'en vouloir faire accroire ;
+En publiant le plus leger bienfait ?
+L'avez-vous entendu louer d'une autre gloire			[360]
+Que de celle qu'il a d'obliger en secret ?
+Si sans blesser sa modestie,
+Je publiais ici l'exacte verite,
+Sa scrupuleuse loyaute,
+Vous rougiriez avec l'envie			[365]
+De l'avoir ose croire un mortel corrompu ;
+Vous l'estimeriez tous, si vous pouviez m'entendre ;
+Mais non, car vos discours me font assez comprendre
+Que vous estimez tout, excepte la vertu.
+PIRLON.
+J'admire cependant le zele qui vous presse			[370]
+Pour cet homme de bien, qui vient en ce moment
+De soustraire tres decemment
+A son intime ami, la main de sa maitresse.
+LAGRANGE.
+Que dites-vous, Monsieur Pirlon ?
+PIRLON.
+Rien, car sans doute je m'abuse,			[375]
+Ou peut-etre ceci n'est encor qu'une ruse,
+Pour surprendre votre raison ;
+Mais dussiez-vous me faire un crime
+De ma franchise a votre egard,
+De votre bonne foi, vous etes la victime ;			[380]
+Je crains que seulement vous le sachiez trop tard.
+Depuis longtemps de l'ardeur la plus tendre
+Vous brulez, je le sais, pour la jeune Brecour,
+Vous etes meme en droit d'attendre
+Le prix qu'on doit a votre amour ;			[385]
+Mais dedaignant votre tendresse,
+Moliere a votre insu va, d'un coeur inhumain,
+A l'un de ses parents unir votre maitresse,
+Qui dans trois jours aura sa main.
+LAGRANGE.
+Ce trait, o ciel ! Est-il croyable ?			[390]
+Je ne saurais, Monsieur, croire votre rapport ;
+Je cederais a mon transport,
+Mais d'un tel procede Moliere est incapable.
+Si je le soupconnais de nuire a mon bonheur,
+Et de m'avoir trompe, sous un dehors sincere,			[395]
+Jusqu'ou ne pourrait pas m'emporter ma fureur ?
+Celui qui jusqu'ici m'a tenu lieu de pere,
+Aussi cruellement dechirerait mon coeur ?
+PIRLON.
+Vous pouvez la-dessus en croire ma franchise ;
+Opposez-vous a ce lien,			[400]
+Votre bon droit vous autorise,
+Et tout ici vous doit en fournir le moyen.
+Aujourd'hui, sur le soir, sans rien faire paraitre,
+Si vous avez l'aveu de la jeune Brecour,
+On peut furtivement la faire disparaitre,			[405]
+Et favoriser votre amour.
+Adroitement je saurai vous instruire
+Du plan que vous aurez a suivre a ce sujet ;
+Par mes soins laissez-vous conduire,
+Je garantis votre projet.			[410]
+LAGRANGE.
+Vous feignez d'etre mon complice,
+Pour pouvoir mieux, en me pretant les mains,
+De Moliere aujourd'hui renverser les desseins.
+Abjurez croyez-moi, ce grossier artifice ;
+Ne souillez plus notre maison ; 			[415]
+Des faux rapports de l'imposture,
+N'y venez plus de votre langue impure
+Insolemment distiller le poison :
+De mon coeur indigne vous avez tout a craindre.
+Redoutez mon juste courroux ;			[420]
+Tremblez, que las de me contraindre,
+Je ne devienne enfin aussi lache que vous.
+Attendez-vous que votre zele impie...
+PIRLON, tirant sa montre.
+Il est, Monsieur, six heures et demie,
+Je dois prier le ciel pour votre repentir,			[425]
+Et ce pieux devoir m'oblige de sortir.
+SCENE IX.
+LAGRANGE, seul.
+Voila ceux que Moliere a pourtant a combattre ;
+Ce sont ces fleaux corrupteurs,
+Qui partout cherchent a l'abattre,
+Et qui si lachement insultent a ses moeurs.			[430]
+Ce parti qui le calomnie,
+Et que l'on croit avec legerete,
+Prouve que l'homme de genie
+A chaque pas doit etre epouvante,
+Lorsqu'il porte dans sa patrie			[435]
+Le flambeau de la verite.
+Si Moliere pourtant avait ete capable
+De ne se montrer qu'a demi ;
+S'il etait en effet coupable,
+Envers les siens et son ami...			[440]
+Rejetons a jamais ce soupcon qui l'offense :
+Je dois cependant l'aviser
+Du tort qu'un tel soupcon fait a son innocence,
+Un mot lui suffira pour me desabuser :
+Mais justement le voici qui s'avance.			[445]
+SCENE X. Lagrange, Moliere.
+MOLIERE.
+Nous sommes, cher Lagrange, encor au meme point,
+Tout me denie un sort prospere ;
+Je sollicite, on delibere,
+On propose, on s'agite et l'on ne conclut point.
+J'allegue vainement le motif qui m'attire ;			[450]
+Rien ne peut desarmer mes hardis detracteurs ;
+Le faux zele qui les inspire
+Jette de toute part des soupcons sur mes moeurs.
+Qu'ai-je donc fait pour meriter l'orage.
+Qu'on veut faire fondre sur moi ?			[455]
+A la vertu je rends hommage,
+Je respecte l'Etat, ma Patrie et mon Roi.
+Le faux gout du siecle ou nous sommes,
+A quelquefois eprouve ma rigueur,
+Mais jamais je ne parle aux hommes			[460]
+Que pour leur faire voir le chemin du bonheur.
+Pourquoi donc a ce point suis-je en butte a l'envie ?
+De ce vice aujourd'hui je serais mieux traite,
+Si moins choque de la difformite,
+J'en avais fait l'apologie.			[465]
+LAGRANGE.
+Eh quoi ! Moliere encor... Vous paraissez surpris
+Des contrarietes que votre plan eprouve ;
+Du merite souvent, tel est le premier prix :
+Mais malgre l'obstacle qu'il trouve,
+Il ne doit point fixer ses pas ;			[470]
+Des qu'il a franchi la barriere
+Les lauriers de la gloire ont pour lui trop d'appas,
+Pour qu'il ne vole pas au bout de la carriere.
+En vain on entend quelques voix
+Qui font des efforts pour vous nuire,			[475]
+Ne vous rebutez pas vous saurez les reduire ;
+Le talent de tout temps a Toulouse eut des droits,
+Que ses concitoyens ne laissent pas detruire.
+Je viens de voir encor le cher Monsieur Pirlon,
+Cet Italien hypocrite			[480]
+Que sitot qu'il vous sait dehors de la maison,
+Vient vous calomnier en nous rendant visite. 
+MOLIERE.
+Aussi pourquoi le recevoir :
+J'ai pris depuis longtemps le soin de vous instruire,
+Que c'etait seulement pour nuire			[485]
+Que cet homme venait nous voir.
+Ouvrez a chaque instant ma demeure tranquille
+A l'indigence honnete, a l'homme vertueux,
+Surtout quand je pourrai leur devenir utile.
+Il est doux d'obliger ceux qu'on sait malheureux ;			[490]
+Mais les mechants jamais n'y trouveront d'asile,
+Qu'on ne la ferme que pour eux.
+LAGRANGE.
+Il est venu tres poliment me dire,
+Que j'aspirais en vain a la jeune Brecour,
+Qu'a l'un de vos parents, qui pour elle soupire,			[495]
+Vous alliez l'allier, pour braver mon amour.
+MOLIERE.
+L'imposteur ! Cependant, cher Lagrange, j'augure
+Que malgre cet avis trompeur,
+Vous n'avez point doute de ma droiture,
+Ni meme soupconne mon coeur.			[500]
+Je ne fais jamais rien dont je ne vous avise,
+Ainsi rassurez-vous sur ce projet cruel ;
+Ce procede serait d'un homme plein de fiel ;
+Aussi n'en dois-je point disculper ma franchise.
+J'ai bien pu quelque fois meler a mes discours			[505]
+D'un peu trop vives incartades ;
+Mais mes plus chers amis furent vraiment toujours,
+Mes egaux et mes camarades.
+Laissez en paix glapir Monsieur Pirlon,
+Qu'il ne puisse entre nous semer aucun soupcon,			[510]
+Et conservons pour lui, ces haines vigoureuses,
+Que doit donner le vice aux ames vertueuses.
+LAGRANGE.
+Convaincu de sa faussete,
+Ainsi que je l'etais de son hypocrisie,
+Je veux voir a quel point, masquant la verite,			[515]
+Sait se plier la calomnie.
+MOLIERE.
+Non, payez-le, Monsieur, d'un souverain mepris,
+De ces complots cruels, tel doit etre le prix.
+Tetebleu, ce me sont de mortelles blessures
+De voir qu'envers cet homme on garde des mesures,			[520]
+Car dans ce siecle corrompu
+Il n'est point pour mon coeur de plus cruel supplice,
+Que de voir tous les jours lachement faire au vice
+Le meme accueil qu'a la vertu. 
+Notre usuelle bienseance,			[525]
+Dont chacun aujourd'hui parait s'enorgueillir,
+Autorise l'impertinence,
+Dont les mechants savent se revetir.
+Etes-vous vertueux ? Je vous accueille en homme
+Interessant, consolateur.			[530]
+Vicieux, je vous fuis, et hautement vous nomme
+A la societe comme son corrupteur.
+LAGRANGE.
+Vous ne dites rien que mon coeur n'autorise,
+Mais cependant cher Moliere, entre nous,
+N'apprehendez-vous point qu'un exces de franchise			[535]
+N'indispose en ces lieux bien des gens contre vous ?
+Je ne crois pas cela le moyen preferable.
+Quand de l'homme du monde on veut etre ecoute,
+Il faut souvent parer des roses de la Fable,
+Le miroir de la verite.			[540]
+MOLIERE.
+Je conviens de mon tort, et que mes recidives
+Arrivent un peu frequemment ;
+Mais convenez que ces ames passives
+Que rien n'affecte vivement,
+Dont l'apathique indifference			[545]
+Envisage sans s'emouvoir,
+Et du meme oeil l'homme qui pense,
+Ou celui qui trahit et manque a son devoir,
+Ne sont pas celles qu'on prefere ;
+Tout leur parait du meme ton ;			[550]
+Mais l'homme de bien au contraire,
+Jetant sur chaque objet un regard plus severe,
+Censure ou soumet tout aux lois de la raison.
+Soyez sur que mon caractere
+N'est pas ce qui pourra renverser mon projet,			[555]
+Pour s'alarmer on croit avoir un autre objet.
+Le theatre n'est point assez celebre encore,
+Il s'etendra de plus en plus ;
+Et comme en France, il n'est qu'a son aurore
+On sent son avantage, et l'on craint ses abus.			[560]
+J'ai peur qu'a ma demande on ne soit sans reponse.
+Ou qu'on n'y veuille consentir,
+Peut-etre qu'a Toulouse il faut que je renonce ;
+C'est un des vrais regrets qu'on m'aura fait sentir.
+Qu'il eut ete flatteur, commencant ma carriere,			[565]
+Si je dois acquerir quelques celebrites,
+De faire dire un jour ; de toutes nos Cites,
+Toulouse daigna la premiere
+Accueillir autrefois les essais de Moliere. 
+SCENE XI. Lesbin, Lagrange, Moliere.
+LESBIN, accourant.
+Monsieur de Saint-Firmin :
+MOLIERE.
+Eh bien faites entrer ;			[570]
+De l'annoncer on n'est pas dans l'usage, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est un homme de bien, un philosophe, un sage,
+Dont l'entretien me dedommage
+Des ennuis qu'autre part on me fait eprouver.
+SCENE XII. Monsieur de Saint Firmin, Moliere, Lagrange, Madeleine Bejart, Mademoiselle Brecour.
+MONSIEUR DE SAINT FIRMIN.
+Peut-etre mon entree est chez vous importune,			[575]
+Si vous vous occupez surtout en cet instant ;
+Mais je viens pour votre fortune
+Prendre un avis interessant.
+Est-il vrai qu'au regret de la patrie entiere,
+Malgre les voeux de ceux qu'on doit considerer,			[580]
+Nous ne pouvons plus esperer
+De fixer en ces lieux la troupe de Moliere ?
+MOLIERE.
+Ce bruit est venu jusqu'a nous ;
+Comme il est incertain je n'ose encor m'en plaindre.
+Nous n'aurions pas un tel revers a craindre,			[585]
+Si chacun en ces lieux eut pense comme vous.
+MONSIEUR DE SAINT FIRMIN.
+Ne nous affligeons point, ce bruit est faux peut-etre :
+On n'aura pas eu soin de vous bien informer.
+A mon pays c'est peu de vous faire connaitre,
+Je pretends vous en faire aimer.			[590]
+Si de quelque credit je jouis dans la vie,
+J'en veux appuyer vos projets ; 
+Et je ne m'en servis jamais
+Que pour etre vraiment utile a ma patrie.
+Il est beau d'arreter au sein de nos remparts			[595]
+Celui qui de nos moeurs montre l'insuffisance ;
+Qui moissonne deja la palme des beaux arts,
+Dans les champs qu'autrefois a defriche Terence ;
+Un artiste qui sait au nom d'homme de bien,
+Reunit comme vous le talent d'etre utile ;			[600]
+Fixer un tel homme en sa Ville,
+Est l'acte d'un vrai citoyen.
+MOLIERE.
+Ah ! Louez un peu moins un auteur ordinaire,
+Votre esprit je le vois est comme votre coeur,
+Indulgent a juger, comme enclin a bien faire :			[605]
+Je ne merite pas votre eloge flatteur.
+Veuillez m'epargner, je vous prie,
+Au poids de la raison, Monsieur, je m'apprecie ;
+Je ne marche encor qu'a pas lent,
+Et ne regarde qu'en tremblant			[610]
+Le roc ou l'on placa les lauriers du genie.
+MONSIEUR DE SAINT FIRMIN.
+Je vois bien que la modestie
+Est l'apanage du talent ;
+Aussi, Monsieur, je n'envisage,
+En vous arretant parmi nous,			[615]
+Que le glorieux avantage
+De prouver que chacun a Toulouse est jaloux
+De vous decerner son suffrage.
+MOLIERE.
+Vous me parlez du seul bonheur
+Apres lequel ma troupe osait pretendre :			[620]
+Si vous saviez combien il en coute a mon coeur
+De ne pouvoir me faire entendre,
+Dans la Ville ou les Arts fleurissent aujourd'hui ;
+Mais peu connu dans la carriere,
+Le franc et modeste Moliere			[625]
+N'a trouve qu'en vous seul un genereux appui.
+MONSIEUR DE SAINT FIRMIN.
+Le monde vous connait ; il craint votre censure :
+Par vous qu'il ne soit point flatte.
+Du vice montrez vous le fleau redoute,
+Et poursuivez-le sans mesure.			[630]
+De ses replis toujours nouveaux
+Moliere, faites-nous justice ;
+Ce serait etre son complice
+Que ne pas enhardir vos utiles travaux.
+MOLIERE.
+Ah ! Du meme oeil que vous, Monsieur, je l'envisage ;			[635]
+Mais le cruel a differents soutiens,
+Je le voudrais combattre avec courage,
+Et l'on m'en ote les moyens.
+Sous differents dehors je le vois qui circule
+Et portant en tous lieux un visage apprete,			[640]
+Sous le manteau du ridicule
+Infecte la societe.
+De la simplicite le style est trop gothique
+Pour nos savantes de renom,
+En langage de rhetorique			[645]
+Elles ordonnent un pompon,
+Et leur jargon scientifique
+De chaque tete a banni la raison.
+En vain d'Agnes Arnolphe estime l'innocence,
+Elle sait avec art tromper sa prevoyance			[650]
+Et le vieillard enfin apprend a ses depens
+Que l'hiver doit toujours faire place au printemps.
+Je vois en parcourant le monde,
+De sots et de facheux que l'univers abonde.
+Damon de ses yeux m'etourdit tout un jour,			[655]
+Et dit qu'avec raison il est bien a la Cour.
+Des moeurs du temps Alceste en vain fait la satire ;
+Si le vice le choque, il a tort de le dire ;
+Soyez dissimule, complaisant lui dit-on,
+Pliez-vous par faiblesse aux regles du bon ton ;			[660]
+Sa vertu se revolte, il s'emporte, il declame ;
+On rit de sa franchise et son ami l'en blame,
+Il est force, lasse d'essuyer des dedains,
+De fuir dans un desert l'approche des humains.
+Voit-on sans s'indigner avec quelle bassesse.			[665]
+De ce vieillard un fourbe a surpris la faiblesse ;
+Comme affectant un air pieux,
+L'imposteur d'un dehors toujours officieux
+Adroitement sait colorer son crime,
+Et comme sans parler de ses detours cruels			[670]
+Il arrive au moment d'entrainer dans l'abime
+Le plus credule des mortels.
+Cet autre de ses jours ne fait plus qu'un supplice,
+Pour trop veiller a son tresor
+En proie a sa vile avarice			[675]
+Tout son merite est dans son or.
+Ce rustre ose trouver son epouse infidele,
+Et l'imbecile ne voit pas
+Que quel que soit l'affront qu'il recoive par elle,
+Il y doit trouver des appas,			[680]
+Puisque sa femme est demoiselle.
+Jadis ce bon vieillard etait maitre chez lui,
+Il grondait a son gre sa fille et sa servante,
+Mais il n'a plus le droit de parler aujourd'hui,
+Sa soeur est philosophe et sa femme est savante.			[685]
+Ce bourgeois engoue d'une fausse grandeur,
+Veut que de quelque titre a la fin on le nomme ;
+Il se ruine au profit d'un fade adulateur,
+Qui lui dit qu'il pourra passer pour gentilhomme.
+Cet autre a chaque instant tremble pour sa sante,			[690]
+D'apres le docte avis de son apothicaire ;
+Mais le sot ne voit pas dans son absurdite,
+Que son mal est imaginaire.
+Que d'oisifs importuns que d'esprits a l'envers !
+Je ne suffirais pas a vouloir les decrire,			[695]
+Mais aux hommes, Monsieur, que ferait ma satire ?
+Ils ne les quittent pas ils changent leurs travers.
+MONSIEUR DE SAINT FIRMIN, avec emotion.
+De vos succes ici j'ose presque repondre,
+A mes concitoyens je vais ouvrir mon coeur ;
+Et de vos ennemis quelle que soit l'aigreur			[700]
+D'un mot je saurai les confondre.
+MOLIERE.
+Ah ! Voila bien cette chaleur
+Que de votre vertu, j'etais en droit d'attendre ;
+L'homme le plus instruit est encor le plus tendre,
+Et comme vous, sent les peines d'autrui.			[705]
+MONSIEUR DE SAINT FIRMIN.
+A mes principes aujourd'hui
+Ne croyez pas que je deroge ;
+A vos talents je dois servir d'appui,
+Et le devoir jamais n'a merite d'eloge.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MOLIERE.
+Ah Monsieur je vous suis.
+MONSIEUR DE SAINT FIRMIN.
+Demeurez en ces lieux,			[710]
+Tous vos moments sont precieux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, de ce qu'ici pour vous je sollicite
+Viendra vous annoncer le refus malheureux,
+Ou vous porter la reussite.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIII. Madeleine Bejart, Mademoiselle Brecour.
+MADEMOISELLE BRECOUR.
+Ah ! Madame Bejart, si Monsieur Saint Firmin			[715]
+Peut avoir reussite entiere,
+Vous ne vous plaindrez plus du rigoureux destin
+Qui, dites-vous, poursuit Moliere.
+MADELEINE BEJART.
+Je compte beaucoup sur ses soins ;
+C'est un homme de bien et que chacun honore ;			[720]
+Mais ne nous flattons point encore
+Tout nous manque souvent, quand on le croit le moins.
+MADEMOISELLE BRECOUR.
+Mais pensez-vous, ma bonne amie,
+Si tout se terminait au gre de vos desirs,
+Que Moliere voudrait couronner nos soupirs,			[725]
+Et qu'a Lagrange enfin je pourrais etre unie.
+MADELEINE BEJART.
+Quand Moliere est rentre, j'en ai dit quelques mots ;
+Mais il ne trouve point cet hymen a propos.
+De le trop appuyer sa franchise m'accuse :
+Vous prenez, dit-il, en ce jour			[730]
+Liberte qui vous abuse
+Mal-a-propos pour l'amour ;
+Et lorsque vous serez en age de connaitre
+Et de mieux vous juger tous deux,
+Vous vous repentirez peut-etre			[735]
+D'avoir trop tot serre vos noeuds.
+MADEMOISELLE BRECOUR.
+Ah ! Madame Bejart, jamais je vous assure.
+Plus j'ecoute la voix de mon penchant flatteur,
+Et plus mon jeune amant me fait lire en son coeur,
+Moins je lui trouve d'imposture.			[740]
+L'hymen, ce dieu consolateur,
+Qui sous sa chaine nous appelle,
+Recoit souvent des lois de l'interet trompeur,
+Mais il en recevra pour faire mon bonheur,
+De notre flamme mutuelle.			[745]
+MADELEINE BEJART.
+Moliere jusqu'ici fut seul votre soutien,
+Au pouvoir qu'autrefois lui donna votre pere,
+Peut-etre seulement voulez-vous vous soustraire,
+Quand vous recherchez ce lien.
+MADEMOISELLE BRECOUR.
+Quand on aurait egard a ma priere			[750]
+En ce moment, je ne presume pas
+Que votre ami, le genereux Moliere,
+Puisse me supposer des sentiments si bas.
+Vous avez tous les deux pris soin de mon enfance ;
+Vous avez vu des mes plus jeunes ans			[755]
+S'ouvrir mon coeur a la reconnaissance,
+Et rien ne changera jamais dans aucun temps,
+Votre amitie ni mon obeissance.
+Quels que soient de l'hymen les devoirs obligeants,
+Ne craignez pas o mon amie !			[760]
+Qu'on altere les sentiments,
+Qui depuis mon berceau l'un a l'autre nous lie.
+Ma mere infortunee, en me donnant le jour,
+A vu terminer sa carriere ;
+Elle vous transmit son amour,			[765]
+Et vous avez ouvert mes yeux a la lumiere ;
+Par l'honneur, votre coeur fut toujours inspire
+Dans ce que j'eprouvai dans notre union pure,
+Aussi notre lien n'est il pas moins sacre,
+Que s'il avait ete forme par la nature.			[770]
+MADELEINE BEJART.
+Ah ! Conservez toujours ce naturel heureux,
+Ne defigurez point ce charmant caractere ;
+Comme ma fille enfin je vous traite en tous lieux,
+Traitez-moi comme votre mere.
+SCENE XIV. Le Marquis, Madeleine Bejart, Mademoiselle Brecour.
+LE MARQUIS.
+Mesdames, pardonnez a mon empressement,			[775]
+Ma demarche peut-etre est trop peu reguliere,
+Mais ceci, m'a-t-on dit, etait l'appartement,
+Ou je devais trouver Moliere.
+MADELEINE BEJART.
+C'est bien en effet en ces lieux 
+Ou, s'il se trouve seul, quelquefois il medite ;			[780]
+Pourrait-on, sans montrer un esprit curieux
+Savoir, Monsieur, l'objet d'une telle visite ?
+LE MARQUIS.
+Mais s'il est occupe, je pourrai revenir,
+Je ne crois rien avoir de pressant a lui dire ;
+C'est sa gloire ici qui m'attire,			[785]
+Et pour son interet je veux l'entretenir.
+MADELEINE BEJART.
+Souffrez qu'on l'avertisse.
+LE MARQUIS.
+Oh ! Non pas je vous prie,
+Les moments que l'on passe avec lui sont fort doux ;
+Mais personne, je le parie,			[790]
+Ne les prefere a ceux qu'on passe aupres de vous.
+MADELEINE BEJART.
+Je ne m'attendais pas a cette repartie,
+Aussi l'on devine aisement
+A ce ton de galanterie
+Que la Cour est votre element.			[795]
+LE MARQUIS.
+Mais sans vouloir m'en faire accroire
+J'y vois citer souvent ma bravoure et mon nom ;
+Le Roi, que j'ai suivi dans plus d'une victoire,
+Et qui connait l'eclat de ma maison
+Sur moi repand parfois un rayon de sa gloire ;			[800]
+Aussi c'est un pays ou je donne le ton.
+Quelque importun toujours m'y sollicite,
+Mon suffrage exalte ou detruit ;
+Et s'il faut assigner quelque rang au merite,
+C'est moi que l'on consulte et mon gout que l'on suit.			[805]
+Un artiste parait, c'est moi qui le conseille,
+Je suis assez fete parmi les beaux esprits ;
+Du talent a plusieurs, j'ai decerne le prix,
+Et j'ai donne souvent des avis a Corneille.
+MADELEINE BEJART.
+Comment donc vous resolvez-vous			[810]
+A vous en eloigner, vous courtisan habile ?
+Car de vivre a la Cour il doit etre bien doux,
+Quand, comme vous, l'on y peut etre utile.
+LE MARQUIS.
+On n'abandonne pas, il est vrai, sans regret
+Un pays ou l'on joue un certain personnage ;			[815]
+Mais enfin quel que soit ce flatteur avantage,
+Il faut sacrifier au public interet ;
+Et lui seul en ce jour ordonne mon voyage.
+Non loin d'ici mes soins sont appeles 
+Dans ce moment aupres du jeune prince			[820]
+Qui dicte tous les ans aux Etats assembles,
+Le bonheur de cette province.
+J'apprends en promenant mon esprit curieux
+Qu'un auteur vient ici commencer sa carriere,
+Et je n'ai pas voulu m'eloigner de ces lieux			[825]
+Sans avoir presente mon hommage a Moliere.
+MADELEINE BEJART.
+D'un tel empressement il doit etre honore ;
+Quoiqu'il n'attende point, Monsieur, votre visite,
+Rien ne flatte autant le merite,
+Que l'accueil d'un homme eclaire.			[830]
+LE MARQUIS.
+Ainsi que vous j'ose le croire.
+Mais sans doute entre vous il est quelque rapport ;
+Vous etes surement compagnes de sa gloire,
+Et l'une de vous deux maitresse de son sort ?
+MADELEINE BEJART.
+Un simple sentiment l'un a l'autre nous lie,			[835]
+Aucun autre rapport ne nous attache a lui ;
+Il voit en moi sa plus sincere amie,
+Comme Mademoiselle en lui trouve un appui.
+LE MARQUIS.
+Vous cultivez un art dont je suis idolatre,
+Je lui consacre mes loisirs,			[840]
+Et je ne connais pas de plus piquants plaisirs,
+Que ceux que l'on goute au theatre ;
+J'y fais meme, entendre ma voix,
+J'ai declame plus d'une scene ;
+Et la Cour m'a vu plusieurs fois			[845]
+Lui repeter les vers de l'amant de Chimene.
+J'en ai tres bien saisi le ton
+La passion, l'idee entiere ;
+Si jamais a Paris on appelle Moliere,
+Je lui pourrai donner lecon.			[850]
+MADELEINE BEJART.
+Nous vous croyons, Monsieur, un esprit infaillible,
+Notre ami souscrira sans doute a ce dessein ;
+Quand on a, comme vous, un jugement certain,
+Rien ne doit sembler impossible ;
+Mais Moliere parait. 
+SCENE XV. Les Precedents et Moliere.
+MADELEINE BEJART.
+Vous etes en ces lieux			[855]
+Attendu par Monsieur, courtisan curieux,
+Qui des divers talents que son esprit rassemble,
+Veut faire un expose bien modeste a vos yeux,
+Et pour le gener moins nous vous laissons ensemble.
+SCENE XVI. Le Marquis, Moliere.
+LE MARQUIS.
+Moi Monsieur, j'ai voulu visiter le sejour			[860]
+Ou vous devez vous faire entendre ;
+Je verrai vos succes et j'en espere rendre
+Un compte fidele a la Cour ;
+Et comme elle n'est point ingrate
+Envers les talents ni les arts,			[865]
+Avant peu, du moins je m'en flatte,
+Nous vous verrons attirer ses regards.
+MOLIERE.
+D'un sort peu fait pour moi, vous me montrez l'image ;
+Si de plaire en ces lieux j'obtenais l'avantage ;
+Si Toulouse en un mot me trouvait a son choix,			[870]
+Croyez que j'aurais le courage
+D'aller alors faire entendre ma voix
+Aux echo de Paris comme aux palais des Rois ;
+Mais quoiqu'ici le gout m'approuve,
+Notre art n'a point encor fait assez de progres,			[875]
+Pour m'assurer d'un plein succes
+Et pour me garantir des ennuis que j'eprouve.
+LE MARQUIS.
+Quoi ! Vous n'etes pas sur de jouer en ces lieux ?
+Je croyais la chose finie ; 
+Mais votre attente ici sera bientot remplie,			[880]
+Je vais leur parler de mon mieux ;
+Je crois qu'en me faisant connaitre
+A mes avis en se rendra ;
+Le Roi seul a le droit de s'exprimer en maitre ;
+Mais je parle en son nom et tout se resoudra.			[885]
+MOLIERE.
+Epargnez-vous, Monsieur, ces inutiles peines,
+Si je dois reussir, j'ai des coeurs vertueux
+Dont le credit n'est pas douteux
+Ni les demarches incertaines,
+Et qui me servent de leur mieux.			[890]
+LE MARQUIS.
+Ma demarche parbleu n'eut pas ete futile,
+Mon ton eut produit son effet ;
+Mais au moins sur un autre objet,
+J'ai l'orgueil de vouloir vraiment vous etre utile.
+Le theatre, Monsieur, demande un plan nouveau ;			[895]
+Son gout actuel est difforme ;
+Seul vous avez le droit d'y porter le flambeau,
+Et d'en publier la reforme.
+Il est fait, il est vrai, pour corriger nos moeurs ;
+Mais il faut braver les scrupules ;			[900]
+Et si vous y voulez fronder nos ridicules,
+Ecartez-vous un peu de nos anciens auteurs.
+Votre Plaute et votre Menandre
+Que l'on nous vante a tous propos
+Et dont on cite les bons mots,			[905]
+Sans avoir l'art de les entendre ;
+Ces auteurs froids et reguliers
+Pouvaient bien convenir a des peuples grossiers,
+Qui n'ayant pas le gout qui nous epure
+S'en tenaient bonnement a la simple nature ;			[910]
+Mais nous, pour qui Monsieur une autre clarte luit,
+Nous qui savons fixer les plaisirs sur nos traces,
+Et que l'esprit adroitement conduit,
+Sous les tentes de Mars, comme aux temples des Graces,
+Nous meritons d'autres censeurs			[915]
+Qui finement sachent nous faire rire
+Et qui repandent sur nos moeurs
+Ingenieusement le sel de la satire.
+MOLIERE.
+C'est-a-dire, Monsieur, qu'on voudrait en ce jour
+Qu'un Philosophe dramatique			[920]
+Fit plutot le panegyrique,
+Que le tableau des vices de la Cour.
+Je respecte beaucoup sans doute 
+Cette Cour dont je vois que l'on fait tant de cas ;
+De la fortune elle montre la route,			[925]
+Mais au bonheur elle ne conduit pas ;
+Et l'ecrivain, l'homme qui pense
+N'est point jaloux d'un triomphe douteux ;
+La fortune n'est point sa seule recompense.
+C'est aux lauriers que pretendent ses voeux,			[930]
+Et ces lauriers, Monsieur, le public les dispense.
+LE MARQUIS.
+Mais cependant le ton par excellence,
+Ce ton que l'on cherche partout,
+C'est a la Cour qu'en est l'essence,
+Ce n'est que la qu'on a du gout,			[935]
+Quand vous aurez dans votre humeur caustique,
+Tache de peindre plusieurs fois,
+Du vernis de votre critique,
+Le cercle limite de vos heros bourgeois ;
+Comptez-vous que par la vous serez dans l'histoire			[940]
+Cheri de la posterite ?
+C'est en parlant de nous qu'on acquiert de la gloire
+Et qu'on parvient a la celebrite.
+MOLIERE.
+Trouvez bon en ce cas Monsieur, que j'y renonce.
+Chez ces bourgeois que vous mesestimez,			[945]
+Un caractere se prononce,
+Les coeurs y sont tels qu'ils furent formes.
+Le fard trompeur de l'imposteur
+A moins defigure leurs traits,
+Et comme ils sont encor plus pres de la nature,			[950]
+On peut plus surement en faire les portraits.
+La censure pour eux rarement est futile,
+Ils prisent ses rapports divers ;
+Et la morale ailleurs, tres souvent inutile,
+Les corrige de leurs travers.			[955]
+Que peut peindre a la Cour un censeur incommode !
+Chacun y dit son nom, nul n'y vante ses moeurs,
+Dans ce pays tout est de mode
+Les vices comme les couleurs ;
+Et comme au meme but tout homme ose pretendre,			[960]
+Soit pour etre trompe, soit pour etre trompeur,
+C'est les defauts de ceux que l'on fait en faveur,
+Que chacun s'etudie a prendre.
+LE MARQUIS.
+Je comptais sur vos soins, mais j'avais tort d'attendre ;
+La scene n'aura plus bientot aucun appui.			[965]
+MOLIERE.
+Le theatre est-il donc si desert aujourd'hui ?
+LE MARQUIS.
+Mais on y va, comme ailleurs, par ennui.
+On y veut bien preter l'oreille
+Quelquefois par respect aux vers du grand Corneille ;
+Il convenait a nos aieux,			[970]
+D'ecouter une piece a-peu-pres reguliere ;
+Mais on rirait de moi parmi nos curieux
+Si j'en entendais une entiere.
+MOLIERE.
+Ainsi donc nos meilleurs auteurs
+Parmi vos juges femmelettes			[975]
+Et vos insipides caillettes,
+Ne sont plus que de froids rimeurs.
+Vous voulez oublier que leur male genie
+Du siecle en epurant les moeurs
+Fait la gloire de la patrie.			[980]
+Sybarites effemines,
+Vous detruisez le caractere
+Du pays ou vous etes nes,
+Indecemment vous persiflez
+Des noms que l'Europe revere.			[985]
+Des anciens ecrivains que vous n'entendez pas,
+En vain vous faites la satire,
+A les imiter, a les lire,
+Toujours l'homme de gout trouvera des appas.
+Je crois bien qu'en effet dans le siecle ou nous sommes,			[990]
+Leurs vers ne disent rien a vos coeurs corrompus ;
+Ils ecrivirent pour des hommes
+Et parmi vous deja peut-etre il n'en est plus !
+LE MARQUIS.
+Vous tenez beaucoup a l'antique ;
+Je ne veux point condamner votre gout ;			[995]
+Je vous dirai pourtant, entre nous, que surtout
+Il parait un peu trop gothique,
+Quoique vous blamiez hautement
+L'esprit que j'approuve et que j'aime,
+Je m'abstiens de louer ici mon sentiment,			[1000]
+Pour moins choquer votre systeme.
+Comme vous ne traitez que de graves objets,
+Je vais vous quitter la partie,
+Vous reviendrez un jour a mes projets,
+Malgre votre brusque sortie.			[1005]
+Croyez pourtant, Monsieur, que j'apprecie
+La sagesse et votre raison.
+Je veux vous voir ici triompher de l'envie ;
+A vos admirateurs aujourd'hui je m'allie,
+Et je veux leur prouver en leur donnant le ton			[1010]
+Vos talents et ma modestie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVII.
+MOLIERE, seul.
+C'est donc a ce jargon, a ces airs pretendus
+Qu'il n'est plus rien que l'on n'immole.
+Pourquoi donc o Francais ! Sous un dehors frivole
+Cherchez-vous a vouloir etouffer vos vertus ?			[1015]
+Il allait echauffer ma bile.
+Puisqu'on me laisse seul enfin,
+Appliquons la derniere main
+Au moins a quelque ouvrage utile.
+Que je travaille lentement ! 			[1020]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Et cependant tout le monde me presse,
+Remettons nous vite un moment
+A traduire mon cher Lucrece.
+Mais je le cherche vainement
+Je ne le trouve plus : quel funeste presage !			[1025]
+Quelque indiscret assurement
+M'aura derobe cet ouvrage.
+Lesbin, hola Lesbin !
+SCENE XVIII. Lesbin, Moliere.
+Il sort.
+LESBIN.
+Monsieur que voulez-vous ?
+MOLIERE.
+De ceux qui sont venus chez nous,
+En as-tu vu quelqu'un qui te parut capable			[1030]
+D'avoir pris sans egard des papiers sur ma table ?
+LESBIN.
+D'abord, Monsieur, je n'ai rien vu.
+MOLIERE.
+Le coquin n'a jamais rien su.
+LESBIN.
+C'est vrai, mais quel papier, Monsieur, ca peut-il etre ?
+MOLIERE.
+Tiens, voila son semblable.
+LESBIN.
+Attendez, c'est peut-etre			[1035]
+Moi qui vous l'aurai pris.
+MOLIERE.
+Oui reviens sur tes pas.
+Mais qu'en aurais-tu fait ?
+LESBIN.
+Oh ne vous fachez pas.
+Il vient de m'etre utile on ne peut d'avantage,
+Vous n'en auriez jamais fait un meilleur usage.
+MOLIERE.
+Explique-toi donc traitre.
+LESBIN.
+Oh ! Je suis tout uni,			[1040]
+Mais si vous vous fachez, Monsieur, tout est fini.
+MOLIERE.
+Acheve donc bourreau.
+LESBIN.
+Pourquoi cet air severe ?
+Vous auriez tout sujet de vous mettre en colere
+Si je m'etais servi de quelque bon papier ;
+Mais j'ai bien pris le soin, Monsieur, de l'employer,			[1045]
+Parce qu'il etait vieux, tout rempli de ratures,
+Allez, je connais bien les bonnes ecritures.
+MOLIERE.
+Au moins je puis le voir, pourquoi me le cacher ?
+LESBIN.
+Ah ! Si vous le voulez je vais vous le chercher,
+Vous serez bien content de le voir de la sorte.			[1050]
+MOLIERE.
+Mais veux tu donc aller,
+LESBIN.
+Vela que je l'apporte... 
+SCENE XIX.
+MOLIERE, seul.
+Peut-etre je pourrai le rassembler au moins,
+Le retranscrire en y mettant des soins,
+Et ne pas perdre ainsi le fruit de ma jeunesse. 
+SCENE XX. Moliere, Lesbin, qui entre avec une grosse perruque toute en papillotes.
+LESBIN.
+Tenez. Monsieur, voila votre Lucrece ;			[1055]
+Vous en etes content j'espere cette fois.
+MOLIERE.
+Comment donc insolent, et qu'est-ce que je vois ?
+LESBIN.
+Surtout ce que qu'on me dit, Monsieur, je fais des notes,
+Vous m'en donnates l'ordre avant que de sortir
+Et bravement je suis venu querir			[1060]
+Ce papier pour pouvoir la mettre en papillotes. 
+MOLIERE.
+Comment donc traitre oser me dechirer ainsi,
+Qui t'a fait me porter un coup aussi funeste ?
+LESBIN.
+Dame, j'ai cru bien faire aussi,
+Et fort innocemment j'ai brule tout le reste. 			[1065]
+MOLIERE.
+Sors d'ici malheureux, redoute mon courroux.
+LESBIN.
+Tres volontiers, quand un maitre est colere,
+Il est toujours prudent de l'eloigner de nous.
+SCENE XXI.
+MOLIERE, seul.
+Cet accident me desespere,
+Un ouvrage soigne, dont depuis si longtemps			[1070]
+Je m'occupais avec constance,
+Un sot, par ses soins imprudents
+Me fait perdre le fruit de ce travail immense.
+SCENE XXII, et derniere. Monsieur de Saint Firmin, Lagrange, Moliere, Madeleine Bejart, Mademoiselle Brecour.
+LAGRANGE, accourant.
+Vive, vive Moliere ; ah ! Quel heureux moment ;
+De jouer en ces lieux vous avez l'agrement.			[1075]
+MOLIERE, avec la plus grande joie.
+Est-ce vrai cher Lagrange ?
+MONSIEUR DE SAINT FIRMIN.
+Oui, j'en ai la parole,
+Et je ne viens ici que pour la confirmer.
+MOLIERE.
+Ah ! De tous mes chagrins ce moment me console ;
+Je n'ai pas attendu cela pour vous aimer,
+Comment vous temoigner que ma reconnaissance...			[1080]
+MONSIEUR DE SAINT FIRMIN.
+Le plaisir de vous voir sera ma recompense ;
+Charme de vous fixer enfin dans ce sejour,
+Si vous aviez egard a ma priere,
+Vous uniriez Lagrange a la jeune Brecour,
+Et si ce jour est heureux pour Moliere,			[1085]
+Il le serait aussi pour leur amour.
+MOLIERE.
+Puis-je rien refuser, Monsieur, a votre instance ?
+Souvenez-vous ami du don que je vous fais,
+En couronnant votre constance.
+MADEMOISELLE BRECOUR.
+O vous ! Qui prites soin de ma plus tendre enfance ;			[1090]
+Que puis-je faire apres tant de bienfaits ?...
+MOLIERE.
+Les meriter toujours, et n'en parler jamais.
+Tous nos voeux sont combles en ce jour d'allegresse,
+Dans le moment ou nous l'esperions moins,
+Je couronne votre tendresse,			[1095]
+Et j'obtiens le prix de mes soins.
+Puisse-je faire un jour repeter d'age en age,
+Pour prix de ce bonheur longtemps inattendu ;
+Toulouse de Moliere eut le premier hommage,
+Et recut, accueillant son plus ancien ouvrage,			[1100]
+Le premier voeu public qu'il fit pour la vertu.
+
+	==================================================

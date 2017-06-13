@@ -1,0 +1,426 @@
+********************************************************
+	DC.Title                  = LES VERITABLES PRECIEUSES, COMEDIE
+	DC.Author                 = SOMAIZE, Antoine Baudeau de
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 21/05/2016 a 17:53:29.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/SOMAIZE_VERITABLESPRECIEUSES.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LES VERITABLES PRECIEUSES COMEDIEM. DC. LX AVEC PRIVILEGE DU ROI.
+PAR Mr SOMAIZE.
+	A PARIS, Chez JEAN RIBOU, au Palais, dans la Salle Royale, a l'Image a Saint Louis.
+	Achevee d'imprimer le septieme Janvier 1660.
+	Represente pour la premiere fois en 1660 a l'Hotel de Bourgogne.
+	PREFACE
+Depuis que la modestie et l'insolence sont deux contraires, on ne les a jamais vues mieux unies qu'a fait dans la Preface l'Auteur des Precieuses Ridicules : Car si nous examinons ses paroles, il semble qu'il soit assez modeste pour craindre de faire mettre son nom sous la presse, cependant il cache sous cette fausse vertu tout ce que l'insolence a de plus effronte, et met sur le theatre une Satire, qui quoi que sous des images grotesques ne laisse pas de blesser tous ceux qu'il a voulu accuser ; il fait plus de Critique, il s'erige en Juge, et condamne a la berne les Singes, sans voir qu'il prononce un Arret contre lui en le prononcant contre eux, puisqu'il est certain qu'il est Singe en tout ce qu'il fait, et que non seulement il a copie les Precieuses de Monsieur l'Abbe de Pure, jouees par les Italiens ; Mais encore qu'il a imite par une singerie dont il est seul capable le Medecin volant, et plusieurs autres pieces des memes Italiens qu'il n'imite pas seulement en ce qu'ils ont joue sur leur theatre ; mais encore en leurs postures, contrefaisant sans cesse sur le sien et Trivelin et Scaramouche ; mais qu'attendre d'un homme qui tire toute sa gloire des Memoires de Gillot-Gorgeu, qu'il a achete de sa veuve, et dont il s'adopte tous les Ouvrages. 
+Mais c'est assez parler des Precieuses Ridicules, il est temps de dire un mot des Vraies, et tout ce que j'en dirai, c'est seulement que je leur ai donne ce Nom, parce qu'elles parlent veritablement le langage qu'on attribue aux Precieuses, et que je n'ai pas pretendu par ce titre parler de ces personnes Illustres qui sont trop au-dessus de la Satire pour faire soupconner que l'on ait dessein de les y inserer : j'ai encore eu d'autres raisons de les nommer ainsi, qui n'etant connues de personne ne sauraient etre condamnees, que si l'on m'accuse de condamner la Satire, et pourtant d'en composer je ne m'en defendrai pas ici, puisqu'elle est toujours permise contre ceux qui font profession de l'exposer en public. 
+Il ne peut plus rester qu'un scrupule dans l'esprit du Lecteur : Savoir, pourquoi je fais que mes Acteurs parlent tantot en insenses, et tantot en gens tout a fait raisonnables ; Mais qui examinera bien les Personnages qu'ils representent, discernera aisement que ce qu'ils disent de juste, c'est seulement par oui-dire, et qu'en ce qu'ils disent d'eux-memes ils ne dementent point leurs caracteres. 
+
+MONSEIGNEUR,
+Je n'etalerai point ici la grandeur de votre Naissance, ni les services considerables que vous avez rendus, et que vous rendez tous les jours a l'Etat. Je ne dirai point que quelque eclat que vous soyez environne, et que quelques illustres que soient vos Charges, elles en tirent plus de vous, qu'elles ne vous en donnent. Ce n'est pas a moi d'entreprendre un Panegyrique, ou le merite surpasse de bien loin la plus haute Idee que l'on s'en puisse former : Vous devez a vous-meme toute votre gloire, et il vous appartient seul de faire quelque chose a votre avantage, et pour moi, bien que j'ai assez d'ardeur pour souhaiter de dire quelque chose a votre louange, je n'ai pas assez de temerite pour l'entreprendre : je serai trop heureux si je puis contribuer quelque chose a votre divertissement, et si la lecture de ces Vraies Precieuses, que je vous offre peut vous delasser un moment de vos penibles, et continuelles occupations. Je [page suivante] sais bien qu'a considerer cet Ouvrage sortant de mes mains, il perd quelque chose de son prix, et que le nom de son Auteur pourrait, par la reputation qu'il s'est acquis, vous le rendre plus considerable ; Mais je ne veux rien devoir a autrui, ou il s'agit de vous etre oblige : Oui, MONSEIGNEUR, je prefere l'honneur de vous etre redevable a vous seul de la protection que je vous demande pour cette Comedie, a tous les avantages que je pourrais avoir de vous offrir un Livre qui meriterait et par lui, et par le nom de celui qui l'aurait fait, l'aveu d'une personne Illustre, comme vous ; car au moins, vous jugerez qu'un zele tout pur m'a fait oter ce que j'entreprends, et que qui cherche a vous divertir, cherchera toujours avecque tout l'empressement possible les moyens de meriter la qualite qu'il prend avec votre permission. 
+MONSEIGNEUR, 
+De votre tres humble, tres obeissant, et tres fidele serviteur JEAN RIBOU. 
+
+PERSONNAGES
+ARTEMISE, Precieuse.
+ISCARIE, Precieuse..
+LE BARON, de la Taupiniere.
+BEATRIX, suivante d'Artemise.
+ISABELLE, suivante d'Iscarie.
+FLANQUIN, valet de la Taupiniere.
+PICOTIN, Poete.
+MONSIEUR GREVAL, Bourgeois, voisin d'Iscarie.
+La Scene est a Paris
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Iscarie, Isabelle.
+ISCARIE.
+Que l'attente d'Artemise, me cause de chagrin, je suis la personne du monde la plus impatiente. Allez lui dire que je suis dans le dernier emportement de ne la point voir.
+ISABELLE.
+Je vais vous obeir Madame, mais la voici qui vient.
+SCENE II. Iscarie, Artemise, Beatrix, Isabelle.
+ISCARIE.
+Vraiment ma chere je suis en humeur de pousser le dernier rude contre vous, vous n'avez guere d'exactitude dans vos promesses, le temps a deja marque deux pas depuis que je vous attends.
+ARTEMISE.
+Ah ! Ma chere il faut que vous sachiez qu'un certain Marquis, m'est venu voir.
+ISCARIE.
+He ! Comment s'appelle-t-il ce Marquis ?
+ARTEMISE.
+Il s'appelle le Marquis de Mazarcantara, il sait tout a fait l'air de la ruelle, c'est un Galant de plein pied qui s'exprime sans aucune incertitude, et je n'ai jamais vu d'homme qui dise les choses plus congrument. J'ai pourtant remarque un defaut en lui qui m'a pense faire perdre mon serieux.
+ISCARIE.
+He quel ?
+ARTEMISE.
+Il ne peut s'empecher de faire la reverence en point d'Hongrie.
+ISCARIE.
+Ah ! Ma chere, il ressemble donc au Marquis de Mascarille.
+ARTEMISE.
+Ce que vous dites est une verite toute pure.
+ISCARIE.
+Je crois que vous avez dessein de faire bien des assauts d'appas, je vous trouve dans votre bel aimable, l'invisible n'a pas encore gate l'economie de votre reste, vous ne futes jamais mieux sous les armes que vous etes, que vos taches avantageuses sont bien placees, que vos graces donnent eclat a votre col et que les tenebres qui environnent votre reste relevent bien la blancheur de ce beau tout.
+ARTEMISE.
+Ah ! Ma chere vous faites trop de depense en beau discours pour me dauber serieusement ; mais n'importe tout vous est licite et l'empire que vous avez sur mon esprit fait que je n'excite pas mon fier contre vous.
+ISCARIE.
+Ce que vous me dites-la est du dernier obligeant ; mais si vous voulez que je vous donne un quart d'heure de divertissement, entrons dans mon cabinet je vous ferai voir un innocent que l'on m'a envoye, dont l'encombrement du style est capable de faire changer l'assiette de votre ame. 
+SCENE III. Beatrix, Isabelle.
+BEATRIX.
+Dites-moi donc quelle langue est-ce la que parlent nos Maitresses. Ma foi je n'entends point ce jargon et s'il faut qu'elles continuent a parler de la sorte, elles seront contraintes de nous donner un Maitre pour apprendre ce langage et de nous remettre a l'a b c.
+ISABELLE.
+Que vous avez peu de lumiere et que votre esprit est opaque. Est-il possible que vous ayez demeure si longtemps chez une Precieuse et que vous n'ayez pas encore pris aucune teinture de l'elegance de leur style !
+BEATRIX.
+Vous etes donc aussi folle qu'elles a ce que je vois, et vous affectez aussi de dire des maux a longue queue.
+ISABELLE.
+Ah ! Plut-il a Dieu que je pusse etre l'inventrice, comme je ne suis que l'echo de ces maux graves et ampoules qui par un sens mysterieux etalent la vraie et pure signification des choses.
+BEATRIX.
+He bien ! Puisque vous avez cette pensee, l'envie me prend de disputer contre vous : aussi bien puisque ce langage n'est invente que par la fantaisie de certaines femmes, une femme peut bien disputer contre sans que cela paraisse extraordinaire, et pour vous montrer qu'il n'y a rien de plus extravagant que cette facon de parler, je m'en vais vous dire de certains mots que j'ai retenus qui choquent tout a fait notre langue naturelle.
+ISABELLE.
+Votre engagement est inconsidere ; mais j'ai assez d'indulgence pour vous tirer de l'erreur ou vous a precipite l'epaisseur de votre esprit.
+BEATRIX.
+Bon, je suis ravie que vous ayez des indulgences chez vous, j'avais fait dessein d'en aller querir a Rome ; mais vous m'epargnez cette peine.
+ISABELLE.
+Voila une superfluite a votre dispute et n'alambiquez point mon esprit de fadaises.
+BEATRIX.
+Ca dites-moi ! S'il y a rien de plus ridicule que de nommer un lavement le bouillon des deux soeurs. A-t-on jamais oui dire qu'un Medecin est un batard d'Hipocrate : Voila bien honorer la Medecine ma foi et c'est la le moyen d'encourager ces Messieurs les Medecins a nous tirer les bras du vieil reveur, ou plutot de l'Empire de Morphee, ou pour mieux m'expliquer du lit, a qui vos savantes ont donne ces noms. C'est encore assez bien debuter que de nommer les pieds « les chers souffrants », le boire « le cher necessaire » et d'appeler le potage « l'union des deux Elements ». A quoi bon toutes ces obscurites, et pourquoi dire en quatre mots ce que nous disons en deux. Est-ce qu'il ne serait pas mieux dit : « Soufflez ce feu » que « Excitez cet Element combustible ?», « Donnez-moi du pain » que « Apportez le soutien de la vie », « Voila une maison », que de dire « Voila une garde necessaire », et seriez-vous bien assez opiniatre pour me vouloir soutenir que le pot de chambre que vous nommez l'« urinal virginal », l'est encore quand les filles et les garcons ont donne dans l'amour permis, qui est selon le langage de vos Precieuses le mariage.
+ISABELLE.
+En verite votre desordre est terrible et me jette dans une souffrance inconcevable.
+BEATRIX.
+Il n'est pas encore temps de m'interrompre et je n'ai pas encore fini.
+ISABELLE.
+Poursuivez donc et rendez vite votre discours complet.
+BEATRIX.
+Je vous dis encore, que quoi que vous puissiez dire, qu'il n'y a rien de plus insupportable que de nommer les dents « un ameublement de la bouche » et de dire, pour faire voir que l'on a longtemps balance a faire une chose, « qu'il est monte des incertitudes a la gorge ». Dites moi un peu, y a-t-il aucun sens a cela, non plus que de dire qu'une femme a des absences de raison pour expliquer qu'elle est jeune, et dites-moi enfin s'il y a rien de plus extravagant que d'appeler des traitres les « Paravents », le Miroir un « Peintre de la derniere fidelite », un eventail un « Zephir », et une Porte la « fidele gardienne ». Si par hasard un jaloux qui aurait ferme une porte sur sa femme et en aurait la clef, etait trompe par un Galant qui en aurait une fausse, doit-il, venant a savoir la chose, appeler encore la porte la « fidele gardienne » ? Je pourrais vous en dire encore quantite, mais je meprise si fort cette facon de parler que je ne m'en saurais donner la peine.
+ISABELLE.
+Ah ! Je vais bien vous montrer... Mais voici Flanquin, le Precieux.
+BEATRIX.
+Quoi ! Le valet du Baron de la Taupiniere, qui vous fait les doux yeux est donc aussi de ce nombre ? Vraiment il merite qu'on l'ecoute et c'est une chose assez divertissante a mon avis, que d'entendre un valet parler precieux.
+SCENE IV. Isabelle, Beatrix, Flanquin.
+FLANQUIN.
+Ah ! ma chere, ma toute aimable, que je suis heureux de vous voir.
+ISABELLE.
+Qui t'amene ici ?
+FLANQUIN.
+Je viens savoir si votre Maitresse est en pouvoir de recevoir visite.
+ISABELLE.
+Je m'en vais m'en instruire et dans peu ma reponse desembarrassera ton ame de cette affaire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FLANQUIN.
+Il faut avouer que la methode de s'exprimer dont on se sert maintenant est une chose qui sert merveilleusement a nous distinguer du commun, et est tout a fait dechargee de la matiere, et a dire le vrai, c'est quelque chose de bien satisfaisant de pouvoir fendre la presse et de faire quelque nombre parmi les gens canonises dans les ruelles.
+BEATRIX.
+Tirez-moi d'erreur ! Ce que vous venez de me dire, n'est-ce point un compliment, que votre maitre a compose pour dire en quelque ruelle et dont vous avez lu le brouillon.
+FLANQUIN.
+Je vois bien que vous n'etes pas encore instruite de ce que je vaux, et que la pauvrete de mes habits vous fait juger a mon desavantage de celle de mes pensees.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais je vous depersuaderai une autre fois. Voici l'enthousiasme de mes yeux, l'aimant de mon coeur, en un mot mon unique. Il faut que je lui fasse connaitre qu'elle encapucine l'ame et qu'elle me cendre le coeur.
+ISABELLE.
+Ton maitre viendra quand il lui plaira.
+FLANQUIN.
+Ah mon ange ! Que vous avez bien fait de rapporter en ce lieu le merite qui s'en etait eloigne, que nous avions besoin dans l'opacite de cette salle, que vos yeux vinssent servir de supplement au Soleil : non que leurs chaleurs ne reduisent mon corps a une secheresse qui m'apprend qu'un bain interieur me serait fort utile.
+BEATRIX.
+La plaisante facon de demander a boire.
+FLANQUIN.
+Oui, un bain interieur ou l'agrement donne entre les deux soeurs peuvent maintenant empecher la metempsychose de mon ame, qui va bientot s'emanciper de sa demeure, si l'on ne la secourt par l'un de ces remedes, ou si vous ne souffrez que je goute avec vous la volupte de l'amour permis.
+ISABELLE.
+Voyez ! Ma compagne, qu'il a bien du succes de tout ce que la Carte de Coquetterie lui a pu dogmatiser de tendresse.
+FLANQUIN.
+Quoi ! Point de quartier ni de treve, toujours, cette jupe modeste m'empechera de contempler la friponne.
+BEATRIX.
+Ce n'est pas une petite joie de voir un valet precieux faire l'amour.
+ISABELLE.
+Vraiment vous etes aujourd'hui sur votre grand second.
+FLANQUIN.
+Il est vrai. Je n'en finirai point avec vous, mon estime est trop superlative a votre egard pour ne pas transiger avec vous d'une verite constante, qui est, que mon coeur est en frange de mouvements.
+FLANQUIN.
+Il faut tomber d'accord que l'amour a terriblement defriche votre coeur.
+ISABELLE.
+N'aurait-il point defriche le votre, mais que j'applique la reflexion de ma bouche sur cette belle mouvante. Ah Dieu ! Faut-il qu'un gant du dernier fendu me fasse un si outrageant obstacle. Ouf ! Une de vos fendues m'a pique extremement peu !
+BEATRIX.
+La drole de sangsue qu'une epingle.
+FLANQUIN.
+Mais je n'oublie a l'opposite de vos appats que la lenteur de mes chers souffrants peut faire bouillonner le benin cerveau de mon Maitre. Je m'en vais donc faire faire diete a mes yeux de leurs astres tutelaires.
+ISABELLE.
+Je partirai beaucoup par le contrecoup de ce quittement.
+BEATRIX.
+Adieu beau Precieux.
+FLANQUIN.
+Adieu l'heteroclite du beau langage.
+SCENE V. Artemise, Iscarie, Beatrix, Isabelle.
+ARTEMISE, tenant un papier a la main.
+Quelle pauvrete ma chere ! Il n'y pas une chose de raisonnable la-dedans !
+ISCARIE.
+Ah ! Pour moi, c'est l'effroi des effrois, et il faut que je vous avoue que les bras m'en tombent. Quoi ! Scander cinq ou six Stances sans y trouver un mot de pompeuse mesure.
+ARTEMISE.
+Il est vrai que cela n'est point digerable, et surtout la penultieme ou avant derniere Stance de cet insupportable portrait ne fournit rien a l'oreille qui puisse exercer son avidite. Voyez plutot encore une fois si cela n'est pas du dernier inintelligible.
+ISCARIE, prenant le papier.
+Je me serais contentee du chagrin de la premiere lecture ; mais pour vous je veux bien faire ce passe avant, aussi bien a quoi tuerions-nous notre Saturne dans l'expectation que nous faisons ici du Baron de la Taupiniere.
+ARTEMISE.
+Lisez donc.
+ISCARIE, lit.
+Puis lorsque ton pinceau d'une legere touche 
+Aura trace ses yeux, tu traceras sa bouche ; 
+La d'un doux coloris, l'agreable rougeur 
+Par sa vivacite dementira la rose,
+Et s'il y manque quelque chose 			[5]
+Pour en peindre l'eclat tu prendras mon ardeur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Peut-on voir des vers plus indigestes, et ne connait-on pas bien a les voir que la severite des capables n'y a pas passe, et que ce petit vers qui menace de la fin pourrait seul gater le plus bel ouvrage. Ah ! Ne m'avouerez-vous pas que ceux-ci qui depeignent le langage des beaux yeux d'une belle, ont tout une autre pompe.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Par une avidite qui tient de la divine, 
+Elle chante partout qu'elle est son origine ; 
+Son langage pourtant, n'a rien que de muet, 
+Ses sourcilleux ardents font toutes ses harangues, 			[10]
+Elle brave avecque eux les plus rapides langues, 
+Et leurs seuls branlements composent son caquet.
+Pour moi, je suis pour ces sortes de vers qui s'eloignent du vulgaire ; mais nous contemplerons le reste a loisir : car voici Monsieur le Baron.
+SCENE VI. Le Baron de La Taupiniere, Iscarie, Artemise, Isabelle, Beatrix.
+LE BARON, les saluant.
+Vous aurez beau sujet, Mesdames, de trouver mon procede audacieux, mais il est bien difficile de ne pas visiter souvent l'extrait de l'esprit humain.
+ISCARIE.
+Ah ! Monsieur, c'est nous mettre trop avant dans le rang favori de votre pensee, et nous sommes trop sensibles a la gratitude de vos termes de ruelles.
+LE BARON.
+Ce n'est pas d'aujourd'hui que je sais que vous faites les choses justes aimablement, que vous possedez entierement le vent du Bureau, et que devant vous les plus beaux esprits ne sauraient faire feu.
+ARTEMISE.
+Votre louange se distancie trop de notre merite, pour hasarder le paquet serieux contre vous.
+ISCARIE.
+Ma commune.
+ISABELLE.
+Plait-il, Madame ?
+ISCARIE.
+Fournissez ici les trones de la ruelle.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARTEMISE.
+Monsieur prenez figure, s'il vous plait.
+LE BARON.
+Avez-vous grande foule d'Alcovistes chez vous ? Qui preside ? Qui est de quartier ?
+ISABELLE.
+Nous en avons plusieurs, et de la vieille roche, meme des femmes de la petite vertu ; et quoi que nous ayons quelques diseuses de pas-vrai, nous n'avons point de ces diseuses d'inutilites, qui ignorent la force des mots et le friand du gout.
+LE BARON.
+Sans doute quantite de celles qui vous viennent voir, vous servent de mouche, et l'on y en pourrait trouver aussi dont la neige du visage se fond.
+ARTEMISE.
+Il est vrai que l'on y en pourrait trouver qui lustrent leurs visages ; mais outre que celles-la sont graves par leur antiquite, les troupes auxiliaires de leur esprit soutiennent assez leurs ambiguites d'appats.
+LE BARON.
+Il faut avouer, Mesdames, qu'il y a grand plaisir a faire figure dans le monde.
+ISCARIE.
+Vous l'y faites sans doute bien avantageusement, puisque vous avez dix mille livres de rente en fonds d'esprit, qu'aucun creancier ne peut saisir ni arreter.
+LE BARON.
+De grace, arretez-la ce discours obligeant : car je me verrais reduit dans l'incapacite de vous repondre ; mais j'oubliais a vous dire qu'un de mes amis m'a amene ce matin un certain Poete nouveau qui fait des vers scientifiquement bien, et comme il avait deux pieces a me lire, je lui ai promis de l'ecouter, apres avoir donne a nature les necessites meridionales. Flanquin le doit conduire ici des qu'il sera venu, afin que nous prenions ensemble les extasiens divertissements de lecture.
+ISCARIE.
+Ma chere, et moi, aimons si demesurement les Poemes Dramatiques, que nous ne trouvons point de paroles assez energiques pour vous rendre des graces conformes a une obligation qui est dans un degre superlatif.
+LE BARON.
+Ce discours continue a me faire voir la magnifique elevation de votre esprit. Mais a propos, je fus il y a quelque temps chez Madame ****. Que dites-vous d'elle ?
+ARTEMISE.
+C'est une personne qui a des lumieres eloignees.
+ISCARIE.
+Pour moi je tiens qu'elle a l'ame mal demeuree.
+LE BARON.
+Et moi je ne sais qu'en croire, il y a quantite de gens qui tiennent qu'elle a un oeuf cache sous la cendre.
+ARTEMISE.
+Si vos sentiments sont partialises la-dessus vous devez au moins avouer qu'elle a les miroirs de l'ame fort doux, la bouche bien faconnee, qu'elle est d'une vertu severe, et qu'elle articule bien sa voix.
+ISCARIE.
+Mais, ce qui est de plus facheux, c'est qu'elle est unie a un inquiet, et qu'elle est de la petite portion.
+LE BARON.
+Je voudrais bien la voir ici ; car je ne l'ai jamais vue qu'avec l'instrument de la curiosite sur le visage.
+ISCARIE.
+C'est une chose qui est de la derniere impossibilite, car elle ressent a present les contrecoups de la volupte permise.
+LE BARON.
+Mais il me semble que notre Poete devrait etre ici, puisque j'ai ordonne qu'on l'amenat dans mes quatre corniches tirees par deux de mes pluches.
+ARTEMISE.
+Vous n'avez pas mal fait, car le troisieme element qui tombe sur l'eminence degre, l'aurait fait un illustre poete crotte.
+ISCARIE.
+Ce Poete n'est donc pas normand puisqu'il n'a point de carrosse.
+LE BARON, entendant heurter.
+On fait parler le muet, sans doute le voici. Oui, c'est lui-meme que Flanquin amene.
+SCENE VII. Le Baron de la Taupiniere, Iscarie, Artemise, Isbelle, Beatrix, Flanquin, Le Poete.
+LE POETE.
+Ah ! Vraiment Monsieur, je ferai chanter a Calliope en vers bien montes, et d'une veine bien guindee, les remerciements que je vous dois de l'heureuse et inesperee connaissance que vous me procurez de ces deux divinites charmeresses dont les beaux yeux vont eclairer mon esprit et embraser mon Uranie, d'un feu plus devorant, que n'est celui de ce mont si renomme dans la Sicile, ou le vieux boiteux tenait jadis sa forge, et bien plus endoctrinant que celui qu'Apollon inspire aux neufs soeurs.
+ISCARIE.
+On connait bien, Monsieur, que vous avez appris a commandement l'eau d'Hypocrenne et que vous etes le frere aine des neufs soeurs.
+ARTEMISE.
+Je vous l'avouerai, je n'ai jamais oui de style plus pompeux et qui fasse plus de tour dans l'oreille que le votre.
+LE POETE.
+Je sais parler emphibologetiquement : le langage des Dieux m'est ordinaire, et je ne me plains point quand on me dit que l'on ne m'entend pas, car c'est signe que je parle en oracle.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)FLANQUIN, se mettant en un coin.
+Moi, je m'en vais me mettre ici pour faire inventaire des grands mots qui se diront. Ca, n'en laissons point passer qu'ils ne soient enregistres sur nos tablettes et jouons bien notre role.
+LE BARON.
+Dites-nous donc un peu, Monsieur au net, votre sentiment sur les pieces qui se sont jouees depuis peu de temps ; car j'en ai fort peu vu : meme je fus l'autre jour aux Precieuses de Bourbon, mais je ne pus entendre parce que je ne pouvais regler aucune posture.
+FLANQUIN.
+Bon, en voila un.
+LE POETE.
+Pour ce qui est des Precieuses, comme ce n'est qu'un Ouvrage en Prose, je vous dirai mon sentiment en peu de mots. Premierement il faut que vous sachiez qu'elle est plus agee de trois ans que l'on ne pense, et que des ce temps-la les Comediens Italiens, y gagnerent dix mille ecus, et cela sans faire courre le billet, comme les Bourbonnais en ont amene la coutume.
+LE BARON.
+Le bruit commun m'a deja donne quelque legere connaissance de cela ; mais Mascarille pourtant soutient n'avoir imite en rien celle des Italiens.
+LE POETE.
+Ah ! Que dites-vous la, c'est la meme chose, ce sont deux valets tout de meme qui se deguisent pour plaire a deux femmes, et que leurs Maitres battent a la fin ; il y a seulement cette petite difference, que dans la premiere les valets le font a l'insu de leurs Maitres, et que dans la derniere, ce sont eux qui leur font faire. Je ne pus m'empecher de lui en dire mon sentiment chez un Marquis de mes amis, qui loge au quartier du Louvre ou il la lut avec Don Garcie, avant que l'on la jouat.
+ISCARIE.
+Ce que vous nous dites est furieusement incroyable ; car il me souvient bien que dans ces Precieuses, il improuve ceux qui lisent leurs pieces avant qu'on les represente, et par-la vous me diriez qu'il s'est tourne lui-meme en ridicule.
+LE POETE.
+Il est vrai que je n'aurais pas pense qu'il eut brigue comme il a fait ; mais je sais de bonne part qu'il a tire des Limbes son depit amoureux a force de coups de chapeau, et d'offrir les loges a deux pistoles.
+LE BARON.
+C'est assez parler de sa methode, puisque vous avez oui dire de son Don Garcie, dites-nous un peu ce que c'est !
+LE POETE.
+Ma foi si nous consultons son dessein il a pretendu faire une piece serieuse ; mais si nous en consultons le sens commun, c'est une fort mechante comedie ; car l'on y conte plus d'incidents que dans son Etourdi.
+LE BARON.
+Mais, Monsieur...
+ARTEMISE.
+Ah ! C'est trop d'interruptions, brisons-la nos interrogations, et sachons au long de Monsieur, son sentiment sur toutes les pieces que l'on a jouees cet hiver.
+LE BARON.
+Volontiers.
+FLANQUIN, a demi bas.
+Nous aurons tantot de quoi faire une autre Precieuse.
+LE POETE.
+Je veux bien Mesdames, vous obeir en cette rencontre, et malgre cette animosite que le destin du Parnasse a seme entre les Poetes, je les vois trop au-dessous de moi pour apprehender aucunement de vous etre suspect en vous parlant d'eux. Je vous dirai donc en quel ordre il les faut mettre et le cas qu'il en faut faire. Il y en a de certains qui ne meritent pas d'etre mentionnes dans le Catalogue des Illustres, pour n'etre venus au monde qu'incognito, n'y avoir paru qu'en passant, et avoir fait naufrage avant que d'avoir ete en pleine mer. Il y en a d'autres aussi dont la voix publique parle assez sans que j'en dise mot, et parmi les Dramatiques dont est question, Corneille, l'aine tient seul cette place. Il n'en va pas tout a fait de meme pour son cadet, et quoi que ce soit une Divinite parmi les Comediens, les encens qu'on lui donne ne sont pas si generaux que ceux de son frere : ne croyez pourtant pas que j'en veuille dire du mal, au contraire, je tiens que c'est celui de tous les auteurs qui pense plus profondement, et sans doute l'envie avouera elle-meme que son Stilicon est tout a fait beau. Nous avons encore vu cet hiver le Federic qui a fort reussi, et c'est sans doute avec quelque raison, puisqu'il ne part rien de la veine de son auteur, qui ne soit plein de feu, temoin sa Clotilde, ou la boutade est bien exprimee. Ces deux pieces ont ete accompagnees de la Stratonice dont le style est tout different, l'auteur de cette piece ne s'attachant qu'a faire des vers tendres, ou il reussit fort bien. Quoi que je ne me sois engage qu'a vous parler des auteurs dont l'on a joue les pieces cet hiver, je ne me puis empecher de vous dire que le theatre a perdu l'illustre Abbe de Boisrobert, qui par generosite s'en est retire lui-meme, de peur que ses pieces n'etouffassent celles des fameux auteurs qui se sont remis au theatre depuis peu. Il y en a encore un dont je n'ai point parle, qui joint l'epee a la plume, il sait faire des vers mieux qu'Homere, et se bat aussi bien qu'Alexandre. On a joue cet hiver au Petit-Bourbon une piece de lui nommee Zenobie.
+ARTEMISE.
+Il est vrai que j'ai oui dire qu'il y avait de fort beaux vers.
+LE POETE.
+Comment de beaux vers ! Nos plus grands auteurs en mettraient moins dans une douzaine qu'il y en a dans celle-la. On y remarquait pourtant un grand defaut.
+ISCARIE.
+He ! Quel defaut ?
+LE BARON.
+Ah ! Je sais quel est ce defaut mieux que personne, et un des mes amis le dit plaisamment a son auteur, il fut jusques chez lui le trouver, lui ne le connaissant point, lui demanda ce qu'il souhaitait ; mais il fut bien surpris quand il entendit qu'on avait trouve un grand defaut dans sa piece, qui n'etait inconnu a personne.
+ISCARIE.
+Ah ! Ne nous tenez plus en langueur, dites-le nous vite !
+LE BARON.
+Ce defaut est en un mot, que les Comediens ne jouaient rien qui vaille, et qu'ils ne sont bons a rien qu'a jouer la farce.
+LE POETE.
+Il est tout vrai que si l'hotel de Bourgogne eut joue cette piece, elle eut extremement reussi ; car c'est un merveilleux assaisonnement a une piece que les bons comediens, et tels malgre toute la fortune de leur nom, tels malgre la force de leur brigue ne reussiraient pas comme ils font, si l'on jouait leurs pieces a Bourbon.
+ARTEMISE.
+Quoi ! Monsieur, il ne brigue donc point du tout.
+LE POETE.
+Point du tout, et il n'a jamais lu sa piece qu'a deux de ses amis ! Encore les y a-t-il fait entrer pour rien.
+LE BARON.
+Mais, Monsieur, c'est assez parler des autres, et je crois que ces Dames sont dans une furieuse impatience d'entendre la lecture de vos pieces, et qu'elles sont deja assez persuadees de votre merite, pour vous promettre avec moi-meme sans les entendre, d'y applaudir de la belle maniere, quand on les representera.
+ISCARIE.
+Sans doute.
+LE POETE.
+Je vous dirai donc pour entrer d'abord en matiere que j'ai fait deux pieces de style different, car l'une est une Tragedie nommee, La Mort de LUSSE-TU-CRU.
+ARTEMISE.
+Le sujet est bien du temps.
+ISCARIE.
+Mais quelle en est la catastrophe, car c'est la la pierre d'achoppement des Tragedies.
+LE POETE.
+Je le fais lapider par les femmes.
+LE BARON.
+Ah ! Mesdames qu'il a bien rencontre, qu'elle est bien imaginee ! Qu'il s'est bien devulgarise ! Ah ! Que cela me met dans la derniere demangeaison de savoir le nom de votre Comedie.
+LE POETE.
+Je l'intitule, Les Noces de Pantagruel.
+LE BARON.
+Il ne s'est point dementi, ce titre est incomparable.
+ISABELLE.
+Cela stupeficie mon ame.
+ARTEMISE.
+Pour moi, cela m'enleve jusqu'au troisieme ciel.
+LE POETE.
+Je m'en vais donc commencer.
+LA MORT DE LUSSE-TU-CRU LAPIDE PAR LES FEMMES.
+TRAGEDIE.
+ACTE I.
+SCENE PREMIERE. LUSSE-TU-CRU, seul ouvre le Theatre.
+LUSSE-TU-CRU.
+Jamais l'hydre fecond en mille et mille tetes, 
+N'excita tant de bruit ni de telles tempetes.
+Que cause de douleurs en moi Lusse-tu-cru, 			[15]
+La femme acariatre, et gueuse de vertu, 
+Par sa langue maudite et toujours empestee, 
+A me persecuter on la voit a heurtee, 
+Je l'ai voulu changer, mais, O ! Grands Dieux, helas !
+Bien loin d'en retirer profit, lot, ou soullas, 			[20]
+La mauvaise me suit de taverne en taverne, 
+Me frappe, m'injurie, [m']egratigne et me berne, 
+J'en ai partout la fievre, et je ne sais pas ou, 
+Pour pouvoir me fourrer je puis trouver un trou.
+LE BARON.
+Ah ! Monsieur, arretez et donnez-nous le loisir de nous extasier sur la magnificence de vos signifiantes expressions.
+ISCARIE.
+Il faut avouer que ces vers tonnent delicatement bien.
+LE POETE.
+Ils parlent un peu contre le sexe, mais dans mon Pantagruel, je le justifie comme il faut.
+ARTEMISE.
+Ah ! Que j'ai d'empressement d'ouir ce qui fait pour nous.
+LE BARON.
+Je crois que vous avez raison ; car aussi bien il faut avoir plus de temps pour lire une piece serieuse.
+LE POETE.
+He bien ! Je commence sans faconner. Pantagruel entre avec un confident et dit :
+Ou sont les violons ? As-tu vu Dulcinee, 			[25]
+Pour qui mon ame est, fut et sera calcinee.
+LE BARON.
+Calcinee, que ce mot est emphatique. 
+LE POETE.
+LE CONFIDENT.
+Les violons sont prets, et vous allez dans peu 
+Oeillader comme il faut l'objet de votre feu.
+PANTAGRUEL.
+Ah ! Que de tourbillons excitent dans mon ame 
+La bouillonnante ardeur de ma flottante flamme.			[30]
+Ah ! Je sens que l'amour, ce fretillant nabot, 
+Drisle dedans mon coeur, comme des pois en pot, 
+Il virvolte, il se tourne, il y fait la patrouille, 
+Sautille comme en l'eau ferait une grenouille, 
+Il reymbe, il s'etend comme un cheval fougueux, 			[35]
+Qui prend le mors aux dents, et bondit furieux, 
+Il va, monte, et descend dans la chambre et le bouge, 
+Il furte tous les coins, et si jamais ne bouge.
+ISCARIE.
+Ah ! Laissez-moi admirer ces similitudes ! Je trouve ces vers-la tout a fait epais.
+LE POETE.
+He de grace ! Ne m'interrompez point ! Ces sortes de choses veulent de larges poumons, et pour les faire paraitre, il ne faut pas s'arreter au milieu.
+ARTEMISE.
+Ah ! Vous les lisez a pleine bouche.
+LE POETE.
+Sans mon ecoulement de nez je les aurais lu d'un ton bien plus fortifie.
+FLANQUIN.
+Elles donnent dans le panneau.
+SCENE DERNIERE. Le Baron de La Taupiniere, Iscarie, Artemise, Beatrix, Isabelle, Flanquin, Le Poete, Monsieur Greval.
+ISABELLE.
+Madame, voila Monsieur de Greval qui vient.
+ISCARIE.
+Il peut entrer.
+LE POETE, en se levant.
+Ah ! Qu'il vient mal a propos empecher mon Apologie d'eclater : car j'en suis a cet endroit.
+ISCARIE.
+Monsieur, vous pouvez poursuivre, bien que ce soit un bourgeois, il n'est point faconnier, et ce n'est point un esprit de Marguillier.
+ARTEMISE.
+C'est une ame du premier ordre.
+FLANQUIN, a part.
+Je n'oublierai pas ceux-ci.
+ISCARIE, a sa suivante.
+Ne vous eloignez pas de la portee de ma voix.
+GREVAL, les ayant saluees, et se tournant vers le Poete.
+Mesdames que faites-vous donc de cet honnete homme ici ?
+LE POETE, a part.
+Tout est gate.
+FLANQUIN, a part.
+La meche est decouverte.
+ISCARIE, montrant le Baron.
+C'est un grand poete, que Monsieur nous a amene, et qui nous a charme des beaux vers qu'il nous a recites.
+GREVAL.
+Vous voulez m'en donner ! C'est le valet de feu Monsieur Durier, je l'ai vu cent fois chez lui.
+LE POETE.
+Ma foi, puisque vous me connaissez si bien, je vais vous dire la verite de la chose. Mon maitre etant mort, je me trouvai fort embarrasse de ma personne parce que je me trouvais fort gueux, et que je n'avais gagne a son service que la methode de faire des vers cocy cocy. Le sieur de la Force, dit Gille le Niais, voyant que je ne savais ou donner de la tete, et que je lui pouvais etre utile dans sa troupe, me pria d'y entrer : j'y resistai d'abord, ne voulant point passer pour un Farceur, mais il me representa que toutes les personnes les plus illustres de Paris, allaient tous les jours voir la farce au Petit-Bourbon, et me persuada si bien que les siennes etaient aussi honnetes que plusieurs de celles que Mascarille a faites, que je me laissai vaincre, et que j'entrai dans sa troupe. Quelque temps apres voyant que Bourbon nous otait tous nos chalands, il fit dessein de jouer dans un lieu ferme, de me faire composer quelques Comedies, de mettre de bonnes Farces au bout, et d'y prendre de l'argent de meme que les autres, et comme il savait que le succes de ces Pieces ne dependait pas tant de leur bonte, que de la brigue de leurs Auteurs, il a trouve le moyen de m'introduire dans les Compagnies, et il y a deja plus de deux cents personnes qui sont infatuees de mes pieces.
+ISCARIE.
+Et quoi, Monsieur ! Souffrez-vous sans l'assommer qu'un coquin vous joue de la sorte, car enfin c'est vous qui avez ete le premier dupe.
+LE BARON.
+Dites, dites plutot qu'il n'y a que vous seules, et pour vous le persuader apprenez que je suis la Force, dit Gilles le Niais en mon nom de Theatre, que je vous ai rendu trois ou quatre visites pour connaitre votre humeur, et qu'ayant vu que vous etiez faciles a decevoir, nous nous sommes enquis mon camarade et moi, de la reputation de tous les Auteurs, de leurs pieces nouvelles. Nous avons appris [page 69] quelques mots precieux, et nous sommes demeures d'accord qu'il viendrait ici quand je serais avec vous, qu'il lirait ses pieces, et que j'admirerais tout, pour vous faire donner dans le panneau. Flanquin, que voila avec moi, et qui est de notre troupe a bien joue son role, et en contrefaisant le precieux a bien su duper la suivante.
+ARTEMISE.
+Je demeure muette d'etonnement.
+GREVAL.
+Ce trait est hardi, et s'il etait arrive a quelques autres qu'a vous j'en rirais de bon coeur.
+ISCARIE.
+Un Farceur chez moi ! Ah ! Si vous ne fuyez...
+LE BARON.
+Nous craignons peu vos menaces, et nous sommes tous trois bien resolus de nous defendre si l'on nous attaque. Sachez donc avant que je sorte, que puisque Mascarille vous rend visite, vous devez bien me souffrir, que s'il s'est acquis par ses Farces la reputation d'avoir de l'esprit, que j'en fais aussi bien que lui sans l'aide des Italiens, et qu'enfin si la veuve de Guilotgorju, mon Maitre et le sien, ne lui eut vendu, ces Farces ne lui eussent jamais donne tant de gloire.
+ISCARIE.
+Ah ! Je me lasse de vous entendre, et si vous ne sortez j'enverrai querir un mauvais ange des criminels.
+LE BARON.
+Puisque mon role est acheve, il faut bien que je sorte. Allons mes compagnons. Adieu Mesdames.
+FLANQUIN, a part en tirant Isabelle.
+Si tu veux venir dans notre Troupe, nous gagnerons bien de l'argent, car nous allons jouer trois Docteurs et les Precieuses ridicules.
+
+	==================================================

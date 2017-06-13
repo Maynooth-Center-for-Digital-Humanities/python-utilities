@@ -1,0 +1,2976 @@
+********************************************************
+	DC.Title                  = LE FEINT ASTROLOGUE, COMEDIE
+	DC.Author                 = CORNEILLE, Thomas
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 02/06/2016 a 19:05:33.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CORNEILLET_FEINTASTROLOGUE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE FEINT ASTROLOGUE COMEDIEM. DC. LI.
+par Monsieur Thomas Corneille
+	A ROUEN, Chez LAURENS MAURRY, pres le Palais. AVEC PRIVILEGE DU ROY. Et se vendent A PARIS, Chez CHARLES DE SERCY, au Palais, dans la salle Dauphine, a la bonne Foi Couronnee.
+	Acheve d'imprimer le dernier mai mil six cent cinquante et un.
+	Represente pour la premiere fois en 1648 au Theatre de l'Hotel de Bourgogne.
+	MONSIEUR,
+Je crains bien de me rendre un mauvais office en voulant m'acquitter d'une dette, et je doute si je ne detruis point l'estime que vous m'avez temoigne faire de cet ouvrage, quand je tache de la reconnaitre par le present que je vous en fais. Le theatre lui a donne des graces qu'il est bien difficile qu'il conserve dans le cabinet, et ces sortes de poemes ne pouvant etre soutenus ni par la majeste des vers, ni par la beaute des pensees, l'on en voit fort peu qui ne perdent presque tous leurs avantages hors de la bouche de ceux qui savent en relever la simplicite du style. Ainsi j'ai sujet d'apprehender que cette comedie dont la representation vous a diverti tant de fois, ne vous semble froide sur le papier, et que vous n'ayez peine a y remarquer les memes naivetes qui vous ont fait rire, accompagnees de la grace de l'action. Si vous avez la curiosite de la lire en original, et de voir si j'ai bien exactement suivi mon guide espagnol, vous la trouverez dans la seconde partie de celles de Calderon, qui l'a traitee sous le meme titre de El Astrologo Fingido. Pour moi, je me serais contente du succes qu'elle a eu au theatre, sans l'abandonner a la presse, si je n'avais voulu detromper beaucoup de personnes qui en ont cru mon frere l'auteur, a cause de la conformite du nom qui m'est commun avec lui. Trouvez donc bon, MONSIEUR, que je prenne ici l'occasion de les tirer d'une erreur, qui fait tort a sa reputation, et que je les assure que cette piece, bien loin d'etre un coup de maitre, n'est que le coup d'essai de votre tres humble serviteur, 
+T. CORNEILLE.
+ACTEURS
+LEONARD, pere de Lucrece.
+DON JUAN, amant de Lucrece, et aime de Leonor.
+DON FERNAND.
+DON LOPE, amoureux de Leonor.
+DON LOUIS, ami de Don Fernand et de Don Lope.
+LUCRECE, maitresse de Don Juan.
+LEONOR, amoureuse de Don Juan et aimee de Don Lope. 
+BEATRIX, servante de Lucrece.
+JACINTE, suivante de Leonor.
+MENDOCE, vieux domestique de Leonard.
+PHILIPIN, valet de Don Fernand.
+La scene est a Madrid.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE. Don Fernand, Philipin.
+DON FERNAND
+Que ce que tu me dis m'embarrasse l'esprit !
+Est-il vrai, Philipin ?
+PHILIPIN
+Beatrix me l'a dit.
+DON FERNAND
+Que Lucrece en effet...
+PHILIPIN
+Oui, que votre Lucrece
+N'aurait jamais pitie de l'ardeur qui vous presse,
+Que vous faisiez en vain de l'amoureux transi, 			[5]
+Et qu'elle avait sujet de vous traiter ainsi.
+DON FERNAND
+Enfin de ses mepris je devine la cause,
+Sans doute elle aime ailleurs.
+PHILIPIN
+Je crois la meme chose,
+Au discours de tantot je l'ai trop reconnu ;
+Et si le bon vieillard ne fut point survenu, 			[10]
+J'allais savoir, Monsieur, tout au long le mystere,
+Etre fille suffit pour ne se pouvoir taire,
+Puisqu'il n'en fut jamais qui dans l'occasion
+Peut garder un secret sans indigestion.
+DON FERNAND
+Si bien que Beatrix...
+PHILIPIN
+Cessez d'etre en cervelle, 			[15]
+J'en saurai tout, vous dis-je, et je vous repons d'elle ;
+Car soit pour me trouver l'esprit un peu gaillard,
+Soit pour me voir comme elle assez grand babillard,
+J'ai le don de lui plaire, et sur tout la methode
+Dont nous traitons l'amour n'est pas fort incommode, 			[20]
+Elle n'engage a rien : Mais, Monsieur, franchement ?
+Ne vous lassez-vous point d'aimer si constamment ?
+Autrefois en tous lieux vous disiez, Je vous aime,
+A peine un demi-jour vous etiez a la meme,
+Et cependant Lucrece avec tous ses mepris 			[25]
+Vous tient depuis un mois de ses beautes epris !
+C'est etre bien change.
+DON FERNAND
+Philipin, je confesse
+Que je romps ma coutume en faveur de Lucrece :
+Mais ecoute, c'est trop te laisser alarme
+De ce qu'un meme objet soit si long-temps aime. 			[30]
+Si l'amour m'engagea d'abord a son service,
+Aujourd'hui cet amour n'est plus rien qu'un caprice,
+Son peu de complaisance a flatter mon espoir
+Est l'unique raison qui m'oblige a la voir ;
+Non pas que sa personne en effet me soit chere, 			[35]
+Mais parce que je prends plaisir a lui deplaire,
+Et me venger sur elle, en la persecutant,
+De la honte que j'ai qu'on m'estime constant.
+PHILIPIN
+Quel tort je vous faisais faute de bien l'entendre !
+Ainsi donc les devoirs que vous semblez lui rendre 			[40]
+Ne sont plus un effet de votre passion ?
+DON FERNAND
+Je la sers seulement par obstination,
+Et si quand je lui dis le secret de mon ame
+Avec moins de rigueur elle eut traite ma flamme,
+Dans ma facon de vivre et suivant mon humeur 			[45]
+Une autre eut eu bientot le present de mon coeur :
+Mais voir qu'a contre-temps on prenne un front severe,
+Qu'un soupir, qu'un regard fasse entrer en colere,
+C'est lors que je m'obstine a faire les yeux doux.
+PHILIPIN
+Qu'il fait mauvais, Monsieur, avoir affaire a vous !			[50]
+Quoi ? quand de vous aimer on se trouve incapable
+On n'ose l'avouer sans se rendre coupable !
+Ah, Lucrece a grand tort avec tous ses refus.
+Mais quand pretendez-vous enfin n'y penser plus ?
+DON FERNAND
+Lorsque par ton adresse et par ton entremise			[55]
+Je connaitrai celui pour qui l'on me meprise.
+PHILIPIN
+C'est peut-etre Don Juan.
+DON FERNAND
+Don Juan ?
+PHILIPIN
+Oui, ce Don Juan
+Qui, comme vous savez, la sert depuis un an.
+Vous riez !
+DON FERNAND
+Le parti serait pour elle honnete,
+Et ne m'a point encor donne martel en tete. 			[60]
+PHILIPIN
+Quoi que pauvre, il peut plaire.
+DON FERNAND
+Ah, ne presume pas
+Que jamais tant d'orgueil jette les yeux si bas.
+Elle a le coeur trop haut pour souffrir un tel maitre,
+Et chacun sait ici ce que Don Juan peut etre ;
+Outre qu'il n'en recut jamais que des mepris. 			[65]
+PHILIPIN
+C'est quelquefois par la que les plus fins sont pris,
+Ce peut etre une feinte.
+DON FERNAND
+Et la peux-tu comprendre ?
+Il a quitte la ville et doit passer en Flandre,
+Et malgre tout cela tu veux qu'ils soient d'accord ?
+PHILIPIN
+On voit assez souvent...
+DON FERNAND
+Tais-toi, Beatrix sort, 			[70]
+Tache a t'en eclaircir, fais qu'elle se declare,
+J'attends a ce detour l'heure qui t'en separe .
+PHILIPIN
+Je sais quel est mon role, et je le jouerai bien.
+SCENE II. Philipin, Beatrix.
+BEATRIX
+A quoi donc penses-tu ?
+PHILIPIN
+Moi ? je ne pense a rien.
+BEATRIX
+Rever en me voyant, en voyant ce qu'on aime ! 			[75]
+PHILIPIN
+Mon maitre n'aime plus, je n'aime plus de meme.
+BEATRIX
+Tout de bon, Philipin ?
+PHILIPIN
+Tout de bon, Beatrix.
+BEATRIX
+Tu veux m'abandonner, toi ?
+PHILIPIN
+Moi-meme.
+BEATRIX
+Tu ris,
+Et peut-etre demain...
+PHILIPIN
+Cela va sans peut-etre,
+Un valet suit toujours la fortune d'un maitre : 			[80]
+Fais qu'on aime le mien, et tu verras qu'apres,
+S'il faut mourir pour toi, je mourrai tout expres.
+BEATRIX
+Ne me demande point une chose impossible.
+PHILIPIN
+Ta maitresse a l'amour est donc bien insensible ?
+BEATRIX
+Non pas tant, mais...
+PHILIPIN
+Quoi, mais ?			[85]
+BEATRIX
+Mon pauvre Philipin, 			[85]
+Tu m'avais tant promis...
+PHILIPIN
+Venons au mais enfin,
+Poursuis.
+BEATRIX
+Que te dirai-je ?
+PHILIPIN
+A quel dessein Lucrece
+Traite ainsi Don Fernand avec tant de rudesse,
+Et si l'aimer encore est pour lui temps perdu.
+BEATRIX
+Je te le dirais bien, mais il m'est defendu : 			[90]
+Si pourtant tu jurais de garder le silence...
+PHILIPIN
+Va, dis-moi ton secret avec toute assurance,
+Je suis fort taciturne, et tel que tu me vois
+Je ne conte jamais qu'une chose a la fois,
+Avec peu de raison ta crainte me soupconne. 			[95]
+BEATRIX
+Tu n'en diras donc mot ?
+PHILIPIN
+Mot du tout.
+BEATRIX
+A personne ?
+PHILIPIN
+Non.
+BEATRIX
+Tu me le promets ?
+PHILIPIN
+Est-ce fait ?
+BEATRIX
+Jure tot.
+PHILIPIN
+Oui, foi de Philipin, jurai-je comme il faut ?
+BEATRIX
+Non pas meme a ton maitre ?
+PHILIPIN
+Est-ce a dessein de rire ?
+Dis-le moi tout d'un coup si tu me le veux dire, 			[100]
+Pourquoi tant de facons ? vois-tu, sans te flatter
+Si je meurs pour l'ouir, tu meurs pour le conter,
+Tant de precaution est ici ridicule.
+BEATRIX
+Tu sauras donc enfin...
+PHILIPIN
+Parle sans preambule.
+BEATRIX
+Que si tu vois toujours ton maitre mal-traite,			[105]
+C'est parce que Lucrece...
+PHILIPIN
+Aime d'autre cote ?
+BEATRIX
+Tu devines !
+PHILIPIN
+Et bien ? Le nom du personnage ?
+Acheve.
+BEATRIX
+Tu veux donc en savoir davantage ?
+PHILIPIN
+Ah, d'un homme d'honneur c'est trop se defier,
+Tu le nommes ?
+BEATRIX
+Don Juan.			[110]
+PHILIPIN
+Ce pauvre cavalier ?			[110]
+BEATRIX
+Lui-meme ; il est galant, noble, de bonne mine.
+PHILIPIN
+Et la galanterie echauffe la cuisine !
+BEATRIX
+Elle l'adore enfin.
+PHILIPIN
+Ma foi, tu m'interdis.
+Mais s'il en est aime comme tu me le dis,
+Pourquoi l'abandonner pour s'en aller en Flandre ? 			[115]
+BEATRIX
+Chacun le croit ici comme il l'a fait entendre,
+Mais dans un tel voyage, a te parler sans fard,
+S'il etait pris des Turcs nous courrions grand hasard.
+PHILIPIN
+A ce compte, il est donc en pays d'assurance ?
+BEATRIX
+Entre nous deux il l'est, et plus qu'on ne le pense, 			[120]
+Dans Madrid.
+PHILIPIN
+Dans Madrid !
+BEATRIX
+Et n'en a point sorti.
+PHILIPIN
+Qui diable eut jamais cru qu'il eut si bien menti,
+Et que pour mieux tromper tout autre que Lucrece,
+Il eut fait ses Adieux avecque tant d'adresse !
+BEATRIX
+Ainsi depuis huit jours que tu le crois absent 			[125]
+Il voit de nuit Lucrece, et Lucrece y consent.
+Juge que peut ton maitre esperer de sa flamme.
+PHILIPIN
+Mais ne craint-elle point qu'un voisin la diffame?
+Car enfin il en est qui pendant tout un mois
+Comme des loups garous ne dorment qu'une fois. 			[130]
+Leur curieuse humeur toujours les inquiete,
+Et si dans le quartier il est quelque amourette,
+Du soir jusqu'au matin ils demeurent au guet
+Pour tenir bon papier de tout ce qui s'y fait .
+BEATRIX
+Pour s'en mettre a couvert, l'accord est fait de sorte, 			[135]
+Qu'il va droit au jardin par une fausse porte,
+Je la laisse entrouverte, et la commodement
+Lucrece l'entretient de son appartement,
+Sa fenetre y repond.
+PHILIPIN
+La partie est bien faite ;
+Mais quand il l'a quittee, ou fait-il sa retraite ? 			[140]
+BEATRIX
+Chez Don Lope, ou de jour il garde la maison,
+Sans que Don Lope meme en sache la raison,
+Sous un autre pretexte il le loge, et je pense
+Qu'ils ne m'auraient pas mis dedans leur confidence
+S'ils avaient eu moyen de se passer de moi, 			[145]
+Mais Adieu, touche .
+PHILIPIN
+Adieu.
+BEATRIX
+Tu me promets ta foi,
+Philipin ?
+PHILIPIN
+Quelle foi ?
+BEATRIX
+Celle de mariage.
+PHILIPIN
+Va, je te la promets quand nous serons en age.
+SCENE III.
+PHILIPIN
+C'est donc la cet honneur qu'elle nous vantait tant !
+Ah combien en est-il de ce sexe inconstant 			[150]
+Qui contrefont de jour une vertu parfaite,
+Et la laissent de nuit dormir sous leur toilette !
+Donc l'amour a Lucrece a brouille le cerveau !
+Qu'un secret a garder est un pesant fardeau !
+J'enrage pour le dire, et je me persuade, 			[155]
+Pour peu que je l'ai tu, que j'en serai malade .
+Mais mon maitre revient, voici ma guerison.
+SCENE IV. Don Fernand, Philipin.
+DON FERNAND
+Et bien ? De ma disgrace as-tu su la raison ?
+Lucrece a-t-elle ailleurs engage sa franchise ?
+Est-ce haine, est-ce orgueil qui fait qu'on me meprise ? 			[160]
+Tu ne me reponds rien, es-tu sourd, ou sans voix ?
+Pourquoi grincer les dents, et te serrer les doigts ?
+Parle, es-tu possede ?
+PHILIPIN
+Monsieur, laissez-moi faire.
+DON FERNAND
+Dis donc ce que tu fais.
+PHILIPIN
+Je tache de me taire,
+On me l'a commande, mais pour ne rien cacher, 			[165]
+Deja, loin d'obeir, je suis las de tacher,
+Oyez. Ce cavalier poli, galant, honnete,
+Qui ne vous a jamais donne martel en teste,
+Ce Don Juan dont tantot je vous avais parle,
+Qui fait croire par tout qu'en Flandre il est alle, 			[170]
+Par l'ordre de Lucrece, et sans qu'aucun le sache,
+En secret dans Madrid chez Don Lope se cache.
+DON FERNAND
+Que dis-tu, par son ordre ?
+PHILIPIN
+Il en est adore.
+DON FERNAND
+Quoi, Don Juan est ici ?
+PHILIPIN
+Rien n'est plus assure,
+Il a feint ce depart pour vous donner la baille.			[175]
+DON FERNAND
+Si faut-il toutefois qu'un des deux me la paye .
+PHILIPIN
+Et que resolvez-vous ?
+DON FERNAND
+Le dessein en est pris,
+Je veux revoir Lucrece.
+PHILIPIN
+Ah, pauvre Beatrix !
+Monsieur, vous parlerez, sa fortune est perdue.
+DON FERNAND
+Non, crois-moi.
+PHILIPIN
+De quoi donc vous guerira sa vue ? 			[180]
+DON FERNAND
+Je veux me rire d'elle, et pour me venger mieux
+Lui jurer de nouveau que j'adore ses yeux :
+Si j'en suis meprise, du moins j'aurai la joie
+De la payer sur l'heure en la meme monnaie,
+La railler doucement, et lui faire sentir			[185]
+Que je n'ai fait l'amant que pour me divertir.
+Mais d'un si rare amour acheve moi l'histoire,
+Don Juan la voit de nuit a ce que je puis croire ?
+Apres tout, son bonheur me rend un peu jaloux.
+PHILIPIN
+Suffit jusqu'a tantot. Don Louis vient a vous. 			[190]
+DON FERNAND
+Laisse-moi lui parler, et cours avec adresse
+T'informer d'un voisin si je puis voir Lucrece,
+C'est a dire...
+PHILIPIN
+J'entends. Vous craignez le vieillard ?
+DON FERNAND
+Va donc.
+SCENE V. Don Fernand, Don Louis.
+DON LOUYS
+De votre joie, ami, faites-moi part.
+Vous me semblez tout gai. Pour moi je m'imagine			[195]
+Que Lucrece a present vous fait meilleure mine,
+Son coeur est adouci, je le juge a vous voir.
+DON FERNAND
+Au contraire, jamais je n'eus si peu d'espoir,
+Tout est perdu pour moi quelque effort que je fasse.
+DON LOUYS
+Peut-on vous consoler d'une telle disgrace ? 			[200]
+DON FERNAND
+A vous dire le vrai, je la perds sans regret,
+Et si vous etiez homme a garder un secret...
+DON LOUYS
+Vous n'en pouvez douter sans me faire une injure.
+DON FERNAND
+Sachez donc en deux mots quelle est mon aventure.
+J'ai decouvert pourquoi l'on m'a traite si mal ; 			[205]
+Par ces mepris Lucrece obligeait un rival,
+Depuis un an elle aime, on me le vient d'apprendre,
+Jugez si j'ai raison de n'y plus rien pretendre.
+DON LOUYS
+Quoi, Lucrece aimerait ?...
+DON FERNAND
+C'est de quoi s'etonner,
+Qu'on ait touche son coeur, qu'elle ait pu le donner, 			[210]
+Elle qui se parant d'une vertu forcee
+Du moindre mot d'amour se tenait offensee.
+DON LOUYS
+Mais de grace, quel est cet heureux qui lui plait ?
+DON FERNAND
+Vous serez etonne quand vous saurez qui c'est.
+Don Juan.
+DON LOUYS
+Vous me raillez, ou bien on vous abuse. 			[215]
+DON FERNAND
+Croyez qu'il est ainsi, son depart n'est que ruse,
+Pour la voir sans soupcon il fait courir ce bruit,
+Voyez le digne choix, et pour qui l'on me fuit,
+Pour un homme sans biens.
+DON LOUYS
+Perdez cette croyance,
+Je connais trop Lucrece, et je sais d'assurance 			[220]
+Que Don Juan en secret brule d'un autre feu.
+DON FERNAND
+Pour qui ?
+DON LOUYS
+Pour Leonor.
+DON FERNAND
+Vous la connaissez ?
+DON LOUYS
+Peu,
+Et je sais seulement qu'elle est assez galante,
+Qu'elle vit chez un Oncle, et que Don Juan la hante;
+Ce peut etre en effet par obligation 			[225]
+Autant et plus encor que par affection,
+Il doit a Leonor beaucoup plus qu'on ne pense,
+Son plus intime ami m'en a fait confidence,
+Et se tiendrait heureux que l'on vous eut dit vrai.
+DON FERNAND
+Mais c'est de Beatrix enfin que je le sais. 			[230]
+J'en puis parler sans doute, et je me desespere
+D'etre pour l'amour d'elle oblige de me taire :
+Mais pour ne vous pas dire un secret a demi,
+Il se tient tout le jour cache chez votre ami,
+Chez Don Lope.
+DON LOUYS
+Le Ciel a propos me l'envoie, 			[235]
+Je vais savoir de lui ce qu'il faut que j'en crois,
+Il m'avouera le tout si je ne suis decu.
+Adieu, je vous dirai ce que j'en aurai su.
+SCENE VI. Don Lope, Don Louis.
+DON LOUYS
+Et quoi ? Toujours reveur.
+DON LOPE
+Et toujours miserable.
+DON LOUYS
+Don Lope, quel malheur de nouveau vous accable ? 			[240]
+DON LOPE
+Pourquoi m'obligez-vous a vous redire encore
+Que depuis si longtemps j'adore Leonor,
+Et qu'un ami l'aimant, je suis dans la contrainte
+De n'oser seulement me permettre la plainte ?
+Il n'est point de tourments qui puissent egaler 			[245]
+Celui d'aimer beaucoup et n'oser en parler.
+DON LOUYS
+Un semblable respect en vain vous embarrasse,
+Don Juan par son depart vous a cede sa place,
+L'occasion est belle, allez offrir vos voeux.
+DON LOPE
+Je n'en suis pas, ami, de beaucoup plus heureux. 			[250]
+DON LOUYS
+De vrai, mais entre nous, quelqu'un me vient d'apprendre
+Qu'il termine en Madrid son voyage de Flandre.
+DON LOPE
+Qui peut vous l'avoir dit ?
+DON LOUYS
+Bien plus, il court un bruit
+Qu'il est cache chez vous, et ne sort que de nuit.
+Sans faire le surpris avouez-moi la dette . 			[255]
+DON LOPE
+J'avais cru jusqu'ici l'affaire fort secrete.
+DON LOUYS
+Elle l'est en effet, et vous craignez en vain :
+Mais que peut-il pretendre, et quel est son dessein ?
+DON LOPE
+Sans avoir penetre plus avant dans son ame
+J'ai su que cette feinte importait a sa flamme, 			[260]
+Et j'ose presumer a ce qu'il m'en a dit,
+Qu'un peu de jalousie embrouille son esprit,
+Et que par ce faux bruit d'une si longue absence
+Il veut savoir au vrai ce que Leonor pense,
+Lui voir mettre pour lui ses sentiments au jour, 			[265]
+Et par son deplaisir juger de son amour.
+DON LOUYS
+Le bruit court toutefois qu'il adore Lucrece.
+DON LOPE
+C'est d'un peuple grossier l'ordinaire faiblesse.
+Parce qu'il est galant, et voit cette beaute,
+Quoiqu'il en soit toujours assez mal ecoute, 			[270]
+On veut croire son coeur esclave de ses charmes,
+Et meme Leonor en a verse des larmes ;
+Mais il a su toujours s'en defendre si bien,
+Qu'elle a trop reconnu qu'il n'en fut jamais rien.
+DON LOUYS
+Est-elle encor la meme ?
+DON LOPE
+Oui, toujours trop fidele. 			[275]
+C'est peu qu'il soit parti sans prendre conge d'elle,
+Elle-meme avec soin cherche a l'en excuser,
+Et m'ote chaque jour tout lieu de rien oser.
+Cependant, et c'est la que ma peine est extreme,
+Je lui rends des devoirs pour lui contre moi-meme, 			[280]
+Je la vois pour lui plaire, et pour l'entretenir
+D'un feu qui n'est que trop dedans son souvenir,
+Au seul nom de Don Juan elle-meme ravie,
+Pour en parler souvent, a la voir me convie,
+Et moi sans perdre espoir j'en attends le succes ;			[285]
+Ce m'est toujours beaucoup d'avoir chez elle acces,
+Et peut-etre qu'un jour si par quelque caprice
+Le Sort pour les brouiller use de sa malice,
+Elle se souviendra que l'on voit rarement
+Que qui fut bon ami soit infidele Amant. 			[290]
+DON LOUYS
+Je le souhaite ainsi, mais Adieu, je vous quitte,
+C'est trop vous empecher de lui rendre visite.
+SCENE VII.
+DON LOPE
+En quel facheux etat me trouvai-je reduit !
+Tout le soin que je prends m'est contraire et me nuit,
+O cruaute du Ciel qui n'eut jamais d'exemple ! 			[295]
+Mais ne la vois-je point qui vient ici du Temple ?
+C'est elle, Amour, cessons de craindre son courroux,
+Parlant pour un ami, parlons un peu pour nous,
+Et s'il faut succomber sous le sort qui nous brave,
+Qu'elle apprenne du moins qu'elle a plus d'un esclave. 			[300]
+SCENE VIII. Don Lope, Leonor, Jacinte.
+LEONOR
+C'est un bonheur pour moi de vous avoir trouve.
+Don Juan a Saragosse enfin est arrive,
+Et du moins une lettre apaise ma colere ?
+DON LOPE
+Madame, j'en attends tantot par l'ordinaire.
+LEONOR
+Si je m'en plains, Don Lope, au moins j'en ai bien lieu. 			[305]
+M'avoir ainsi quittee, et sans me dire Adieu !
+DON LOPE
+Daignez juger par la de l'exces de sa flamme,
+L'eut-il pu prononcer, et ne pas rendre l'ame,
+Voir un si grand merite et des charmes si doux,
+Et dire sans mourir, Je prends conge de vous ? 			[310]
+LEONOR
+Don Lope, en sa faveur j'aime que l'on m'abuse,
+Aussi bien mon amour fait assez son excuse,
+Mais par quelque motif qu'il ait pu s'eloigner,
+S'il m'aimait, il a su fort mal le temoigner.
+DON LOPE
+Je ne l'excuse point, Madame, il est coupable, 			[315]
+Je sais de quels bienfaits il vous est redevable,
+Qu'a pleines-mains sur lui vous les avez verses,
+Que toujours...
+LEONOR
+Brisons-la, Don Lope, c'est assez,
+Un bienfait perd sa grace alors qu'on le publie,
+Qui peut s'en souvenir merite qu'on l'oublie, 			[320]
+Et pour moi, si je l'ose avouer aujourd'hui,
+Je m'obligeais moi-meme en m'employant pour lui,
+Je rendais seulement justice a son merite ;
+Je veux bien toutefois ne le pas tenir quitte,
+En juger comme vous avec plus de rigueur, 			[325]
+Mais s'il m'est oblige, c'est du don de mon coeur,
+Et c'est de ce don seul qu'il faut qu'il se souvienne,
+Si son affection est egale a la mienne.
+DON LOPE
+C'est de ce don aussi qu'il fait le plus d'etat,
+Et pour n'en etre pas entierement ingrat,			[330]
+Dans la necessite de quitter ce qu'il aime
+Il tache a vous laisser la moitie de soi-meme,
+Il vous laisse en partant Don Lope aupres de vous,
+Et comme l'amitie ne fait plus qu'un de nous,
+Si son eloignement vous tient lieu de disgrace,			[335]
+Je ferai mon possible a bien remplir sa place,
+Des soupirs continus vous peindront ses ennuis,
+Pour mieux etre Don Juan, j'oublierai qui je suis,
+Le beau feu qui l'anime echauffera mon ame,
+Et par le doux effort de cette vive flamme... 			[340]
+LEONOR
+Il me suffit, je crains que sous cette couleur
+Vous ne parliez enfin avec trop de chaleur,
+Pour n'ouir rien de plus, Adieu, je me retire,
+L'amitie vous surprend et vous en fait trop dire,
+Don Lope, une autre fois soyez plus modere.			[345]
+DON LOPE
+Suivons le triste Sort qui nous est prepare.
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Lucrece, Beatrix.
+BEATRIX
+Madame, de nouveau je jure de me taire,
+Mais encore apres tout que pretendez-vous faire ?
+LUCRECE
+Que te puis-je repondre, et que demandes-tu ?
+De cent soucis divers mon coeur est combattu, 			[350]
+En l'etat ou je suis moi-meme je l'ignore.
+BEATRIX
+Mais vous aimes Don Juan ?
+LUCRECE
+Dis plus, que je l'adore.
+BEATRIX
+Voir en vous un amour et si prompt et si grand,
+Madame, a dire vrai, c'est ce qui me surprend ;
+Don Juan plus de cent fois vous a fait voir sa peine 			[355]
+Sans meriter de vous que mepris et que haine,
+Ce n'etaient que froideurs, ce n'etaient que refus,
+Cependant en huit jours votre coeur n'en peut plus !
+LUCRECE
+Ah, si pour moi Don Juan depuis un an soupire,
+Que n'ai-je point souffert sans oser t'en rien dire ! 			[360]
+Car pourquoi plus tenir ce secret enferme ?
+Des l'instant qu'il me vit, s'il m'aima, je l'aimai,
+Mais jugeant que mon pere en ayant connaissance,
+Pour un homme sans biens aurait peu d'indulgence,
+J'accusai fort longtemps mes yeux de trahison, 			[365]
+Cent fois a mon secours j'appelai ma raison.
+Helas, combien en vain me suis-je defendue
+Avant qu'aimer en lui la vertu toute nue !
+Quels efforts n'ai-je faits, jusqu'a forcer mon coeur
+D'affecter des mepris et s'armer de rigueur ! 			[370]
+Peut-on plus maltraiter jamais ce que l'on aime ?
+Tu l'as vu, tu le sais, et que Don Juan lui-meme
+Lasse de voir son feu recompense si mal
+Fit dessein de quitter un sejour si fatal,
+Et qu'ennuye d'aimer sans voir rien a pretendre, 			[375]
+Il prit conge de moi pour s'en aller en Flandre.
+Ce fut lors que ce coeur n'osant se dementir
+Fit ses derniers efforts pour le laisser partir,
+Mais il n'etait plus temps de s'armer de courage,
+Don Juan par sa presence avait trop d'avantage, 			[380]
+Et dans un tel rencontre en sut user si bien...
+Mais a quoi m'arreter, tu vis notre entretien,
+Et que son bon destin pour braver mes caprices
+Me fit en ce moment accepter ses services,
+Et malgre mon orgueil conclure enfin ce point 			[385]
+Qu'il feindrait de partir, et ne partirait point.
+BEATRIX
+Vous avez merite sans doute d'etre plainte ;
+Mais que peut a tous deux importer cette feinte ?
+LUCRECE
+Ce pretendu voyage avait trop eclate
+Pour l'oser ainsi rompre avec legerete, 			[390]
+A force d'en chercher la veritable cause
+Peut-etre en eut-on pu deviner quelque chose,
+Quitte ainsi pour un temps a se cacher de jour,
+Et sous quelque couleur feindre apres son retour.
+Mais voici Don Fernand. O la vue importune ! 			[395]
+SCENE II. Don Fernand, Lucrece, Beatrix, Philipin.
+DON FERNAND
+J'accuse avec raison ma mauvaise fortune.
+On ne vous saurait voir ! Toujours seule chez vous !
+De vous meme a la fin je deviendrai jaloux.
+LUCRECE
+La retraite me plait, et chez moi solitaire
+Du moins je ne vois rien qui me puisse deplaire. 			[400]
+Qui vous porte a troubler le repos ou je suis ?
+DON FERNAND
+Vous n'aurez donc jamais pitie de mes ennuis ?
+LUCRECE
+Plaignez-vous-en ailleurs, pour moi je les ignore.
+DON FERNAND
+L'amour...
+LUCRECE
+Ne parlez point d'un tyran que j'abhorre.
+DON FERNAND
+Mais un amant qui souffre...
+LUCRECE
+Otez ce nom d'amant, 			[405]
+Il me choque, il me blesse.
+DON FERNAND
+Ah, c'est injustement,
+Puisqu'avec moins d'appas le Ciel vous eut formee,
+S'il n'avait pas voulu que vous fussiez aimee.
+LUCRECE
+Ne finirez-vous point cet importun discours ?
+DON FERNAND
+Voulez-vous etre aimable et cruelle toujours ? 			[410]
+Que j'ai de passion pour de si grands merites !
+LUCRECE
+Que j'ai d'aversion pour ce que vous me dites !
+DON FERNAND
+Que j'aime ces beaux yeux ! qu'ils ont d'attraits pour moi !
+LUCRECE
+Que je hais le soleil qui fait que je vous vois !
+DON FERNAND
+Oui la lune en effet vous est plus favorable,			[415]
+Et vous fait voir sans doute un objet plus aimable.
+LUCRECE
+Que me voulez-vous dire ?
+DON FERNAND
+Ah, de grace, il suffit,
+A qui m'entend assez je n'en ai que trop dit.
+LUCRECE
+Par ce discours obscur vous voulez qu'on vous craigne.
+DON FERNAND
+Je pourrai l'eclaircir s'il faut qu'on m'y contraigne.			[420]
+LUCRECE
+Je me retire donc apres un tel avis,
+Vous etes en colere, et je crains de voir pis.
+DON FERNAND
+Sans ouir mes raisons ?
+LUCRECE
+Je ne puis les entendre.
+DON FERNAND
+Malgre vous toutefois je vous les veux apprendre.
+C'est un proces d'amour ou j'ai quelque interet,			[425]
+Je vous en fais le Juge, et j'attends votre arret ;
+Mais ayant a loisir ecoute ma partie,
+Et peut-etre du fait etant mal avertie,
+J'ose vous demander audience a mon tour,
+Puisqu'il l'a bien de nuit, je puis l'avoir de jour. 			[430]
+Je ne dis pas pourtant que de la meme sorte
+On me fasse couler par une fausse porte,
+Qu'on la laisse le soir entrouverte, et qu'enfin
+Tout bas par la fenestre on me parle au jardin,
+Que Beatrix au guet rompe toute surprise, 			[435]
+Qu'un galant quoi qu'absent vienne a l'heure promise,
+Qu'un voyage a dessein soit longtemps publie.
+PHILIPIN
+Il a bonne memoire, il n'a rien oublie ;
+Au diable soit le maitre avecque sa harangue.
+Ou me suis-je adresse pour jouer de la langue ? 			[440]
+LUCRECE
+Est-il vrai, l'ai-je oui ?
+PHILIPIN a Don Fernand.
+Monsieur, qu'avez-vous fait ?
+DON FERNAND v
+D'un injuste mepris tu vois le juste effet.
+LUCRECE
+Qu'on m'ait ainsi trahie ! Helas, je suis perdue.
+Ah, Beatrix.
+BEATRIX
+Croyez...
+LUCRECE
+Tais-toi, tu m'as vendue.
+Malheur a qui se fie a de pareils esprits. 			[445]
+PHILIPIN a Don Fernand.
+Voyez, on va chasser la pauvre Beatrix.
+BEATRIX a Lucrece.
+Plut au Ciel que vous-meme avec votre colere
+N'eussiez pas avoue ce que j'avais su taire,
+Et que par ce reproche...
+LUCRECE
+Encore un coup, tais-toi.
+PHILIPIN a Don Fernand.
+Je puis avoir bon dos, tout va tomber sur moi. 			[450]
+DON FERNAND a Philipin.
+Que veux-tu, c'en est fait, mais pour moi, pour toi-meme,
+Tache a remedier a ce desordre extreme,
+Tu n'es que trop adroit pour en venir a bout,
+Invente, fourbe, mens, jure, j'avouerai tout.
+LUCRECE a Beatrix.
+C'est un point resolu, n'en dis pas davantage. 			[455]
+BEATRIX a Lucrece.
+Et bien, vous le voulez, il faut plier bagage,
+Mais je puisse a vos yeux si j'ai parle de rien...
+LUCRECE
+Ah, l'innocence meme ! O la fille de bien!
+PHILIPIN a Don Fernand.
+Monsieur, j'ai grande peine a bien mentir pour l'heure,
+Celle-ci passera faute d'une meilleure. 			[460]
+DON FERNAND
+Bonne ou mauvaise enfin, parle, je t'aiderai.
+PHILIPIN tout haut.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dussiez-vous me chasser, Monsieur, je le dirai.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Madame, ecoutez-moi, que ce courroux s'apaise.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous me faites en vain signe que je me taise.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Jamais de votre amour Beatrix n'a parle, 			[465]
+Et le Ciel, oui, le Ciel lui seul l'a revele.
+LUCRECE
+Que dit cet importun ?
+PHILIPIN
+Vous en doutez peut-etre ?
+Mais sachez en deux mots que Don Fernand mon maitre,
+Celui qu'ici present vous voyez interdit,
+Pour l'esprit qu'il possede a le corps trop petit. 			[470]
+Dedans l'astrologie il n'a point son semblable,
+Enfin c'est un prodige, ou plutot un vrai diable,
+Rien pour lui n'est secret, et sans de grands efforts,
+Je pense qu'il ferait meme parler les morts.
+BEATRIX
+Ton maitre est astrologue !
+PHILIPIN
+Astrologogissime. 			[475]
+DON FERNAND
+Sa fourbe va bientot me mettre en bonne estime.
+Quoi, maraud...
+PHILIPIN
+Oui, Monsieur.
+BEATRIX
+Plut a Dieu qu'on le crut.
+PHILIPIN
+Vous etes Astrologue, ou jamais il n'en fut.
+Je sais qu'en l'avouant je perds tous mes services,
+Mais j'aime Beatrix Reine des Beatrices, 			[480]
+De tout soupcon ici j'ai du la degager.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Depuis plus de huit jours il me fait enrager,
+Il contemple le ciel meme aux nuits plus obscures,
+Il feuillette un grand livre, et fait mille figures,
+C'est sans doute par la qu'il a su vos amours. 			[485]
+DON FERNAND
+Donc, jaseur insolent, tu causeras toujours !
+T'a-t-on ici gage pour conter une fable ?
+PHILIPIN
+Je n'ai rien dit, Monsieur, qui ne soit veritable.
+Ne me fites-vous pas encore hier au soir
+Remarquer un jardin dedans un grand miroir, 			[490]
+Et quelque temps apres n'y vis-je pas paraitre
+Un homme qu'attendait Madame a sa fenestre ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je ne le pus entendre alors qu'il vous parla,
+Mais parmi plus de cent je dirais, Le voila,
+Tant je me remets bien son air et son visage. 			[495]
+DON FERNAND a Lucrece.
+Il me perdra d'honneur s'il en dit davantage,
+Et bientot a l'ouir vous me croirez Sorcier :
+Mais puisque je voudrais en vain vous le nier,
+Madame, j'avouerai qu'en mon voyage en France
+Du grand Nostradamus j'acquis la connaissance,			[500]
+Avec tant de bonheur qu'il m'enseigna son Art,
+Et n'eut point de secrets dont il ne me fit part.
+Ce fut donc a hanter ce rare et grand Genie
+Qu'en assez peu de temps j'appris l'Astrologie :
+Mais pour oser ici m'en servir librement 			[505]
+Je connais trop le peuple et son dereglement,
+Il hait cette science, et croit que qui l'exerce
+Doit avec les demons avoir quelque commerce ;
+Ainsi craignant sa langue et d'en faire l'essai,
+J'ai toujours avec soin cache ce que je sais, 			[510]
+Tant que las de souffrir votre rigueur extreme,
+J'en ai voulu savoir la cause de moi-meme,
+J'ai consulte le ciel, et l'ai trouvee enfin,
+J'ai trouve la fenestre avecque le jardin,
+Du trop heureux Don Juan j'ai su la feinte absence.			[515]
+Mais n'apprehendez rien de cette connaissance,
+Mon interet m'oblige ici d'etre discret,
+Notre sort est pareil, c'est secret pour secret,
+On vous a dit le mien, j'ai decouvert le votre,
+Assurez-moi de l'un, je vous repons de l'autre. 			[520]
+BEATRIX
+O l'habile homme !
+PHILIPIN a Lucrece.
+Et bien, vous avais-je menti ?
+BEATRIX
+La verite, Madame, enfin prend mon parti.
+Pour moi j'avais bien su par un confus murmure
+Qu'il se melait un peu de la Bonne aventure ;
+Mais je vous ai vendu, il a tout su de moi. 			[525]
+LUCRECE
+J'avais assez de peine a soupconner ta foi,
+Mais enfin, Beatrix, sans son Astrologie
+Eut-il rien pu savoir a moins qu'on m'eut trahie ?
+DON FERNAND a Philipin.
+Tout va bien, Philipin, la fourbe a reussi.
+PHILIPIN a Don Fernand.
+La bonne Dame en tient, et n'est pas sans souci,			[530]
+Vous verrez son orgueil reduit a la priere.
+LUCRECE
+Genereux Don Fernand, esprit plein de lumiere,
+D'un amant dedaigne je craindrais le courroux
+S'il fallait faire excuse a tout autre qu'a vous,
+Mais dans le haut degre de science ou vous estes			[535]
+Vous connaissez du Ciel les pratiques secretes,
+Et qu'agissant en nous d'un pouvoir absolu
+On ne saurait changer ce qu'il a resolu.
+BEATRIX
+Madame, brisez-la, j'apercois votre pere.
+DON FERNAND
+Ah, que cette rencontre etait peu necessaire !			[540]
+SCENE III. Leonard, Don Fernand, Lucrece, Beatrix,
+LEONARD
+Quelle affaire avez-vous avec ce Cavalier ?
+LUCRECE
+C'est curiosite, je ne le puis nier,
+Depuis deux ou trois jours j'ai su par une amie
+Qu'il etait fort expert dedans l'Astrologie,
+Et je le consultais pour savoir au certain 			[545]
+A quel epoux le Ciel a destine ma main.
+DON FERNAND a Philipin.
+Elle veut eprouver si ma science est vraie.
+LEONARD
+Souvent un Astrologue en mensonges nous paye,
+Et l'effet rarement confirme son rapport,
+Mais que vous a-t-il dit qui vous trouble si fort ? 			[550]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DON FERNAND
+Je lui parlais, Monsieur, de certaine disgrace,
+Dont je vois clairement que le Ciel la menace,
+Elle s'en fache un peu, comme vous pouvez voir.
+LEONARD
+Mais en si peu de temps qu'avez-vous pu savoir ?
+DON FERNAND
+Que l'epoux trop heureux que le ciel lui destine 			[555]
+Est pauvre, et pour tout bien n'a que sa bonne mine.
+LEONARD
+Il ne faut pas ainsi craindre legerement,
+Ma fille.
+BEATRIX bas.
+De quel front le bon Cavalier ment !
+LUCRECE
+Cette prediction me met beaucoup en peine.
+LEONARD
+Ne vous alarmez point, je la puis rendre vaine. 			[560]
+LUCRECE
+Toutefois Don Fernand qui me predit ce point
+Est un grand Astrologue, et ne se trompe point,
+Bien d'autres en ma place auraient inquietude.
+LEONARD
+Certes, l'Astrologie est une grande etude,
+Bien digne d'occuper un esprit curieux,			[565]
+Et noble d'autant plus qu'elle s'attache aux Cieux.
+Si vous la possedez dans le degre supreme
+Peu savent les moyens d'y reussir de meme,
+La speculation n'est pas bonne pour tous.
+Quoi qu'il en soit enfin, Monsieur, je suis a vous.			[570]
+J'eus toujours grande ardeur pour ceux dont la science
+Releve le bon sang qu'ils ont de leur naissance,
+Et s'il faut librement vous en faire l'aveu,
+Dans mon jeune age aussi je m'en melais un peu,
+Mais differents soucis, l'embarras des affaires			[575]
+M'ont fait prendre depuis des soins plus necessaires.
+Dites-moi cependant. Auriez-vous pour suspect
+Saturne regardant Venus d'un trine aspect,
+Et peut-on justement tirer un bon augure
+De la conjonction d'Hecate avec Mercure ?			[580]
+DON FERNAND
+Il parle hebreu pour moi, je suis pris, c'en est fait.
+PHILIPIN a Don Louis.
+Il aurait besoin d'etre Astrologue en effet.
+DON FERNAND, bas.
+N'importe, efforcons-nous, et payons d'impudence.
+Pour vous dire en deux mots, Monsieur, ce que j'en pense,
+Venus aux amoureux promet beaucoup de biens, 			[585]
+Et Saturne peut tout sur les Saturniens :
+Mais la triplicite de cette conjoncture
+Ainsi que l'union d'Hecate avec Mercure
+Combinant leurs aspects, ou les retrogradant
+Sur l'horizon fatal d'un bizarre ascendant, 			[590]
+Pourrait paralaxer sur un cerveau si tendre...
+LEONARD
+Ce discours est si haut que j'ai peine a l'entendre,
+De grace, en ma faveur pour eclaircissement
+Expliquez-vous un peu plus populairement .
+DON FERNAND
+Ce sont termes de l'art.
+LEONARD
+Pardonnez a mon age 			[595]
+Qui n'en conserve plus qu'une confuse image,
+Ces termes en mon temps n'etaient pas fort connus,
+Mais la science augmente, et ce temps-la n'est plus.
+DON FERNAND
+Tout s'y voit si change depuis quelques annees,
+Qu'en autre caractere on lit les destinees, 			[600]
+Meme Nostradamus mon maitre en ce grand Art
+Avait et son langage et ses regles a part,
+C'est pourquoi le discours ou mon esprit s'applique,
+Tient un peu de l'obscur et de l'enigmatique,
+Je dois suivre ses pas comme son ecolier. 			[605]
+LEONARD
+Mais si vous vouliez etre un peu plus familier ?
+SCENE IV. Leonard, Don Fernand, Don Louis, Lucrece, Beatrix, Mendoce, Philipin.
+MENDOCE a Leonard.
+Monsieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LEONARD
+Que me veux-tu ?
+PHILIPIN a Don Fernand.
+Votre esprit s'evertue
+Monsieur, c'est tout de bon.
+DON FERNAND
+Tu vois comme j'en sue.
+PHILIPIN
+Le galimatias ira-t-il encor loin ?
+DON FERNAND
+Philipin, un ami se connait au besoin.			[610]
+Fais-moi quelque message, et par un tour d'adresse
+Dans un pas si mauvais...
+LEONARD a Don Fernand.
+C'est affaire qui presse,
+Monsieur, excusez-moi, je vous quitte a regret,
+Et brulais de savoir ce langage secret,
+Mais nous nous reverrons touchant cette science, 			[615]
+Et nous pourrons ensemble en faire experience.
+Adieu.
+SCENE V. Don Fernand, Don Louis, Philipin.
+DON FERNAND a Philipin.
+Sans ton secours le peril est passe.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que tout a l'heure, ami, j'etais embarrasse !
+Mon aventure est rare et digne qu'on l'admire.
+DON LOUYS
+Sachez que Philipin m'en a deja fait rire, 			[620]
+Et qu'a dix pas d'ici nous ecoutions comment
+Le vieillard vous parlait astrologiquement.
+DON FERNAND
+J'ai repondu de meme et l'ai fait perdre terre.
+DON LOUYS
+Mais vous ne l'avez pas vaincu de bonne guerre,
+Il vous entendait mal.
+DON FERNAND
+Je m'entendais bien moins. 			[625]
+DON LOUYS
+Pour vous mieux expliquer, vous prendrez quelques soins,
+Et sur ces mots nouveaux vous lui rendrez visite ?
+DON FERNAND
+Par celle d'aujourd'hui j'en pretends etre quitte.
+DON LOUYS
+Mais un grand Astrologue, ou pour tel avoue...
+DON FERNAND
+Il connaitra bientot que je l'aurai joue. 			[630]
+Les belles questions cependant qu'il m'a faites
+A moi qui ne connais ni signes ni planetes !
+DON LOUYS
+Oui, mais en recompense un discours si hardi
+S'il ne l'a terrasse l'a si bien etourdi,
+Que j'oserais gager qu'en ce qui vous regarde 			[635]
+Vous le pourrez longtemps mettre encor hors de garde .
+De grace achevez donc, jouez-le jusqu'au bout,
+Faites la piece entiere, il admirera tout ;
+Il vous serait honteux qu'elle fut imparfaite,
+De votre haut savoir je serai le trompette,			[640]
+J'en vais semer le bruit, et s'il apprend d'ailleurs
+Que vous ayez de l'art les secrets les meilleurs,
+Si ce bruit surprenant de vos fausses merveilles
+Par la ville epandu vient frapper ses oreilles,
+Comme il en a deja l'esprit preoccupe, 			[645]
+Jamais plus galamment homme ne fut dupe.
+DON FERNAND
+Non, mais ce passe-temps un peu trop me hasarde,
+Au peril qui le suit vous ne prenez pas garde,
+Et que c'est engager ma gloire et mon repos.
+DON LOUYS
+Aussi nous connaitrons combien il est de sots,			[650]
+Et quand meme on saura que ce soit raillerie,
+Le tout ne passera que pour galanterie.
+DON FERNAND
+Mais quelque bon succes que j'en puisse esperer
+Ce plaisir apres tout ne peut long-temps durer ;
+Car si publiquement ce bruit par tout se coule,			[655]
+On viendra chaque jour me consulter en foule,
+Mes reponses bientot m'acquerront grand renom.
+PHILIPIN
+Qu'importe ? vous direz tantot oui, tantot non,
+Vous aurez quelque egard a l'age, a la personne,
+Et du reste, Monsieur, Dieu la leur donne bonne,			[660]
+Jamais un Astrologue est-il garant de rien ?
+DON LOUYS
+Le hasard fait souvent prophetiser fort bien.
+Vous devez seulement mettre beaucoup d'etude
+A ne rien affirmer avecque certitude,
+Du present, du passe discourir rarement,			[665]
+Toujours de l'avenir parler obscurement,
+Examiner la chose, en peser l'importance.
+Mais j'apercois de loin Don Lope qui s'avance,
+Laissez-moi, c'est par lui que je veux commencer.
+DON FERNAND
+Je m'abandonne a vous.
+SCENE VI. Don Louis, Don Lope.
+DON LOUYS feignant de ne point voir Don Lope.
+Qui l'aurait pu penser ?			[670]
+O surprenant prodige ! incroyable merveille !
+N'est-ce point quelque songe, est-il vrai que je veille ?
+DON LOPE
+Qu'avez-vous, Don Louis ?
+DON LOUYS
+A peine en sais-je rien,
+Et je doute aujourd'hui si je me connais bien.
+Effets miraculeux !
+DON LOPE
+Ne puis-je les apprendre ? 			[675]
+DON LOUYS
+Je crains...
+DON LOPE
+Nous sommes seuls, on ne peut vous entendre.
+DON LOUYS
+Mais il faut du secret.
+DON LOPE
+Fiez-vous sur ma foi.
+DON LOUYS
+Sachez que Don Fernand vient de s'ouvrir a moi.
+DON LOPE
+Et bien ?
+DON LOUYS
+Et qu'il a fait en suite en ma presence
+Des choses que j'avoue etre hors de croyance, 			[680]
+J'ai peine a m'en remettre.
+DON LOPE
+Achevez, qu'a-t-il fait ?
+DON LOUYS
+Je ne connus jamais un esprit si parfait.
+Dans un degre si haut il sait l'astrologie
+Que je l'accuserais volontiers de magie.
+Il a su de ma vie, et presque en un moment, 			[685]
+Ce qu'on n'en peut savoir que par enchantement ;
+Et cela, de ma main tirant des conjectures,
+Et puis sur du papier tracant quelques figures.
+Qui croirait a le voir si galant...
+DON LOPE
+N'est-ce pas
+Cet esprit enjoue, Don Fernand Centellas, 			[690]
+Dont on prise a l'envi les graces non pareilles ?
+DON LOUYS
+Oui, c'est lui dont je parle, et qui fait ces merveilles.
+Certes il faut qu'il aie un secret inconnu.
+DON LOPE
+Je crois deux ou trois fois l'avoir entretenu,
+Mais je remarquais bien, non qu'il eut connaissance 			[695]
+De cette merveilleuse et divine science,
+Mais du moins qu'il etait homme de grand esprit.
+DON LOUYS
+Vous serez donc encor beaucoup plus interdit
+Si vous m'accompagnez un jour chez ce rare homme
+Qu'il me doit faire voir une dame de Rome,			[700]
+Qui pendant que j'y fus me voulut quelque bien.
+DON LOPE
+Se peut-il qu'en effet...
+DON LOUYS
+Ce n'est encor la rien ;
+Car pour vous dire au vrai toute mon aventure,
+Il a fait devant moi parler une peinture,
+C'est ce qui me confond au point que vous voyez. 			[705]
+DON LOPE
+Vous croirai-je, est-il vrai ?
+DON LOUYS
+Si vous ne me croyez,
+Vous avez de bons yeux, et les croirez peut-etre.
+DON LOPE
+Je vous en prie, ami, faites-le moi connaitre,
+Sans doute il m'apprendra si Don Juan est jaloux,
+Et par quelle raison...
+DON LOUYS
+J'ai su cela pour vous, 			[710]
+Il trompe Leonor, et voit de nuit Lucrece.
+DON LOPE
+Pour certain ?
+DON LOUYS
+Pour certain .
+DON LOPE
+O Ciel, que d'allegresse !
+DON LOUYS
+Adieu, mais prenez garde a ne parler de rien,
+On pourrait l'accuser d'etre Magicien.
+En voici du moins un deja dedans le piege. 			[715]
+SCENE VII.
+DON LOPE
+En quel etonnement aujourd'hui me trouvai-je ?
+A peine puis-je encor rassembler mes esprits
+Tant mes sens sont ensemble et confus et surpris.
+Don Fernand Astrologue, et Don Juan infidele !
+Je te rends grace, amour, l'occasion est belle. 			[720]
+J'imagine un moyen qui peut me rendre heureux,
+Et Don Fernand l'inspire a mon coeur amoureux.
+Allons voir Leonor, vantons-lui sa science,
+Et de Don Juan en suite examinant l'absence
+Faisons naitre en son coeur le desir de le voir 			[725]
+Par l'effet merveilleux de son divin pouvoir.
+Que si pour s'y resoudre elle est assez hardie,
+Elle apprendra de lui toute sa perfidie,
+Verra que c'est un fourbe, et qu'il est a Madrid,
+Et lors, que ne peut point la honte et le depit ? 			[730]
+Oui, de sa folle erreur etant desabusee,
+Son coeur sera sans doute une conquete aisee,
+Et je puis esperer, si je prends bien mon temps,
+De voir dans peu de jours tous mes desirs contents.
+Ne differons donc plus, et sans perdre courage 			[735]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons quoi qu'il en soit commencer cet ouvrage.
+
+
+			ACTE III
+
+
+SCENE PREMIERE. Don Fernand, Don Louis, Philipin.
+DON LOUYS
+Astrologue excellent, miraculeux esprit,
+Vous faites aujourd'hui l'entretien de Madrid,
+Comme il ne fut jamais de fourbe mieux concue,
+Jamais avec plus d'heur fourbe ne fut recue,			[740]
+Chacun egalement en est persuade,
+Avec respect deja vous estes regarde,
+Et si quelque incident ne vient troubler la fete,
+Vous passerez bientot pour un nouveau prophete.
+DON FERNAND
+Aussi pour confirmer ce que l'on croit de moi,			[745]
+Je ne perds point de temps.
+PHILIPIN
+Ces livres en font foi,
+Voyez.
+DON LOUYS ouvrant les deux livres.
+Un Almanach, un traite de la sphere.
+PHILIPIN
+Il en disputerait s'il etait necessaire,
+Vous ne vites jamais Astrologue pareil.
+DON LOUYS
+Vous connaissez du moins les maisons du Soleil ?			[750]
+DON FERNAND
+Je connais meme encor le zenith, l'ecliptique,
+Le tropique du Cancre, et le pole antarctique,
+Ces termes de Jupin s'opposant a Venus,
+Grace a mon Almanach, ne m'epouvantent plus,
+Et meme en un besoin par quelque preambule			[755]
+Je brouillerais l'esprit d'une femme credule.
+Je n'ai fait toutefois dans ce commencement
+Qu'un effort de memoire, et non de jugement,
+Il me faut fuir encor le pere de Lucrece.
+Avez-vous cependant pousse bien loin la piece ? 			[760]
+DON LOUYS
+Assez loin, et peut-etre en rirez-vous un peu.
+J'ai su trouver d'abord une maison de jeu,
+Ou j'ai tout debite dans une troupe amie
+De ceux qu'on nomme la piliers d'Academie,
+De ces preteurs a poste, et comme tout le jour 			[765]
+Attendant la rencontre ils tiennent la leur cour,
+Vous savez que de tout curieux ils s'informent,
+Que sur chaque nouvelle ils taillent, ils reforment ;
+Jugez si je pouvais m'etre mieux adresse.
+Chez les Comediens de la je suis passe, 			[770]
+Ou pour mieux faire croire une telle merveille
+J'en ai dit a beaucoup le secret a l'oreille,
+Et cette confidence a si bien pullule,
+Que d'oreille en oreille il s'est par tout coule.
+Au sortir de ce lieu (souffrez qu'encor j'en rie) 			[775]
+Un ami m'a conte ma propre menterie,
+Avec tant de serments que c'etait verite,
+Que moi-meme a l'ouir j'en ai presque doute.
+Enfin le jour manquant j'ai passe par la place,
+Ou pour vous un certain mentait de bonne grace, 			[780]
+Et recitait, tout pret d'en jurer au besoin,
+Cent choses dont lui-meme il se disait temoin.
+Cinq ou six l'ecoutaient, je m'approche, et pour rire
+J'ai sur ce qu'il disait voulu le contredire,
+Mais lui plein de colere et d'indignation, 			[785]
+M'interrompant soudain avec emotion,
+Je dis ce que j'ai vu, m'a-t-il dit, et peut-etre
+Vous en parlez ainsi faute de le connaitre,
+Ou vous portez envie aux hommes de vertu ;
+Et moi sur ce ton-la craignant d'etre battu, 			[790]
+Je me suis retire pour en rire a mon aise.
+DON FERNAND
+L'histoire est excellente.
+DON LOUYS
+Elle n'est pas mauvaise.
+DON FERNAND
+Que l'on trouve a Madrid d'impertinents menteurs !
+DON LOUYS
+Les nouveautes par tout trouvent des sectateurs,
+Mais ce qui me surprend dedans cette aventure...			[795]
+PHILIPIN
+Une Dame, Monsieur, d'assez belle stature
+Demande a vous parler sans temoins un moment.
+DON FERNAND
+Ami, retirez-vous dans cet appartement,
+Ne s'agirait-il point ici d'astrologie ?
+DON LOUYS
+Plut a Dieu, j'en aurais l'ame toute ravie,			[800]
+Aussi bien vous faut-il par un effort d'esprit
+En tromper deux ou trois pour vous mettre en credit.
+DON FERNAND
+Quoi que ce soit, d'ici vous le pourrez entendre.
+SCENE II. Don Fernand, Leonor, Jacinte, Philipin.
+LEONOR
+Une telle visite a droit de vous surprendre.
+DON FERNAND
+Elle m'honore trop, et j'en suis tout confus.			[805]
+LEONOR
+Pour vous voir, Don Fernand, j'aurais fait encor plus,
+Puisqu'avec passion j'ai souhaite connaitre
+L'homme le plus savant qu'on ait jamais vu naitre.
+Ah, Jacinte, je tremble, et n'ose m'expliquer.
+DON FERNAND
+Madame, a ce discours je ne puis repliquer,			[810]
+Un eloge si haut m'en met dans l'impuissance :
+Je possede en effet quelque faible science,
+Mais...
+LEONOR
+Non, non, c'est en vain que vous vous ravalez,
+Je sais votre merite et ce que vous valez,
+Et que faire parler un corps prive de vie			[815]
+N'est que le moindre effet de votre astrologie.
+DON FERNAND
+Ce que vous en croyez m'est trop avantageux,
+Mais puis-je vous servir ? Je m'en tiendrais heureux.
+LEONOR
+Ah, Don Fernand. D'ou vient que votre coeur soupire ?
+LEONOR
+Vous pourriez m'epargner la honte de le dire.			[820]
+Puisque ce haut savoir dont chacun est jaloux
+Vous fait connaitre assez ce que je veux de vous.
+DON FERNAND
+Et par cette raison votre raison est vaine,
+Car enfin si je sais le sujet qui vous mene,
+Ce que vous me direz en cette occasion 			[825]
+Ne saurait augmenter votre confusion.
+LEONOR
+Mais que vous servira d'entendre ma faiblesse ?
+Vous ne savez que trop le desir qui me presse,
+Me montrer a vos yeux, c'est vous ouvrir mon coeur :
+Ne me traitez donc point avec tant de rigueur, 			[830]
+Et puisqu'a vous parler je suis si peu hardie
+Faites ce que je veux sans que je vous le die.
+PHILIPIN a Don Fernand.
+Elle dit bien, Monsieur, songez a l'obliger.
+DON FERNAND a Philipin.
+Je crois qu'elle a dessein de me faire enrager,
+Deviner sa pensee ! est-elle raisonnable ? 			[835]
+Et suis-je pour cela Magicien ou Diable.
+PHILIPIN
+Payez encor un coup de galimatias,
+Et dites de grands mots qu'elle n'entende pas.
+DON FERNAND a Leonor.
+Sans vouloir feindre ici, je confesse Madame,
+Que je puis penetrer les secrets de votre ame, 			[840]
+Voir a nu votre coeur, lire dans votre sein,
+Mais sachez que pour vous je m'emploierais en vain,
+Si vous ne temoigniez par un recit sincere
+Votre consentement a ce qu'il faudra faire.
+Peut-etre tachez-vous de voir par cet essai 			[845]
+Si je suis ce qu'on dit, et si ce bruit est vrai,
+Mais gardez d'empecher l'effet de ma science,
+Car enfin il y faut beaucoup de confiance,
+J'ai mes regles a part, et n'agis pas toujours
+Selon qu'apparemment les Astres ont leur cours. 			[850]
+La force de mon Art passe un peu l'ordinaire,
+Et pour vous en donner une preuve bien claire,
+Je vais vous decouvrir, si vous le souhaitez,
+Quelle est votre pensee, a quoi vous la portez,
+Si votre coeur est libre, ou quel objet l'enflamme, 			[855]
+Et ce que vous avez de plus cache dans l'ame :
+Mais cela fait aussi, ne me demandez rien,
+Je ne puis rien pour vous.
+LEONOR
+Quel malheur est le mien,
+Qu'il faille me resoudre a vivre infortunee,
+Ou rougir d'un recit ou je suis condamnee. 			[860]
+J'aime, et le digne objet qui regne sur mon coeur
+Par cent et cent devoirs s'en est rendu vainqueur,
+Mais encor que pour lui j'eusse une amour fort tendre,
+Il m'a quittee enfin pour s'en aller en Flandre,
+Avec tant de mepris que sans me dire Adieu 			[865]
+Il a pu se resoudre a partir de ce lieu.
+On m'en vient toutefois d'apporter cette lettre
+Qui me promet encor ce qu'il m'osa promettre,
+Et m'assurant pour lui d'une immuable amour
+Me fait avec ardeur souhaiter son retour. 			[870]
+Je brule de le voir, et quoi qu'en apparence
+L'effet de ce desir passe toute puissance,
+J'ai su que par votre art de tous si fort vante
+Vous pourriez surmonter cette difficulte,
+Et des ce meme soir faire a mes yeux paraitre 			[875]
+Celui qui de mon ame a su se rendre maitre.
+Ainsi, si d'un beau feu jamais la noble ardeur
+Pour un objet aimable echauffa votre coeur,
+Par l'amour, par ce Dieu que chacun apprehende,
+Ne me refusez point ce que je vous demande. 			[880]
+DON FERNAND a Philipin.
+Que lui pourrai-je enfin repondre la dessus ?
+PHILIPIN a Don Fernand.
+Appelez au secours le grand Nostradamus.
+DON FERNAND
+Le vieillard astrologue etait moins redoutable.
+PHILIPIN
+Dites qu'il lui faut faire un pacte avec le Diable.
+DON FERNAND a Leonor.
+Madame, je ne sais pour qui vous me prenez, 			[885]
+Ni ce que de mon art vous vous imaginez,
+Car ou pretendez-vous que je puisse aller prendre
+Un homme que vous meme avouez etre en Flandre ?
+LEONOR
+Ah, vous faites encor des prodiges plus grands,
+J'en suis bien informee et j'en ai bons garants. 			[890]
+PHILIPIN
+J'en eusse ose jurer.
+DON FERNAND
+Croyez qu'on vous abuse,
+L'impossibilite fait seule mon excuse,
+Mon Art pour vous servir n'est point assez puissant
+S'il faut faire a vos yeux paraitre un homme absent,
+C'est ce qu'on ne fait point par simple astrologie, 			[895]
+Ces fantomes parlants ne vont que par Magie,
+Dont la noire science etant sujette aux lois
+D'un courage bien noble est rarement le choix ;
+D'ailleurs, la vision est fort melancolique
+D'un esprit enferme dans un corps fantastique, 			[900]
+Cette apparition pleine d'horreur en soi
+Fait palir bien souvent les plus hardis d'effroi,
+Et vous y manqueriez sans doute de courage.
+LEONOR
+Non, non, de mon amant si ce spectre a l'image,
+Dans cette vision, dans ce charme trompeur, 			[905]
+J'aurai plus de plaisir que je n'aurai de peur.
+Mais vous vous defiez peut-etre d'une femme,
+Et croyez qu'un secret soit mal sur...
+DON FERNAND
+Non, Madame,
+Car je confesse enfin puisque vous m'en pressez,
+Que pour vous obeir j'en sais peut-etre assez, 			[910]
+Et si j'ai dit d'abord qu'il m'etait impossible
+C'est parce que j'y trouve un obstacle invincible ;
+Vous m'avez dit qu'en Flandre est cet amant heureux,
+Ainsi je ne puis rien, la mer est entre-deux,
+Cet element sauvage a mes charmes s'oppose, 			[915]
+Et fait de mon refus la vraie et seule cause.
+LEONOR
+Cet obstacle de mer est facile a lever,
+Car de longtemps en Flandre il ne peut arriver,
+Puisque depuis huit jours ayant quitte la ville
+A Saragosse encor sa presence est utile, 			[920]
+Un proces l'y retient.
+DON FERNAND a Philipin.
+A ce coup m'y voici.
+PHILIPIN a Don Fernand.
+Chacun croit depuis peu Don Juan parti d'ici.
+Si c'etait lui, Monsieur ?
+DON FERNAND a Philipin.
+Cela pourrait bien etre,
+Sans nous trop engager tachons de le connaitre.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)S'il est ainsi, Madame, il reste seulement 			[925]
+A me faire savoir le nom de votre amant,
+C'est une circonstance ou vous manquez encore,
+J'en dois etre informe, non pas que je l'ignore,
+Car enfin avouez qu'etant ne de bon sang
+Il a fort peu de bien a soutenir son rang, 			[930]
+Que nous sommes tous deux environ du meme age.
+LEONOR
+Je ne le puis nier.
+DON FERNAND a Philipin.
+C'est lui-meme, courage.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Peut-etre croirez-vous qu'avec peu de raison
+Puisque je le connais je demande son nom ?
+Mais si je ne l'apprends de votre propre bouche			[935]
+Je ne puis satisfaire au desir qui vous touche,
+Notre art de ce tribut se rend un peu jaloux.
+LEONOR
+Helas, qu'a prononcer ce nom me sera doux !
+Il s'appelle Don Juan. Que faut-il encore dire
+Pour obtenir de vous le bonheur ou j'aspire ? 			[940]
+DON FERNAND
+Puisque la mer enfin ne m'embarrasse plus,
+Madame, il ne me reste aucun lieu de refus.
+Regardez-moi l'oeil fixe.
+LEONOR
+O fille fortunee !
+DON FERNAND
+Montrez-moi votre main. Quel jour etes-vous nee ? 
+LEONOR
+L'onzieme de Juillet.
+DON FERNAND
+Cet amant si cheri ?			[945]
+Enfin vous voulez voir 
+LEONOR
+S'il se peut des ce soir.
+De ce desir mon ame est si fort possedee...
+DON FERNAND
+Il me faut faire un pacte avecque son Idee,
+Ce charme est innocent, mais pour un tel dessein
+J'ai besoin d'un billet ecrit de votre main. 			[950]
+LEONOR
+Puis-je rien refuser pour ce que je souhaite ?
+DON FERNAND
+Je le dechirerai ma figure etant faite.
+Depeche, Philipin, de l'encre et du papier.
+LEONOR a Jacinte.
+Et bien, qu'en penses-tu ?
+JACINTE
+Madame, il est sorcier,
+Et si vous ecrivez, c'est chose indubitable			[955]
+Qu'il portera soudain votre billet au Diable,
+On parlera de vous ce soir dans le Sabbat,
+Je l'en refuserais.
+LEONOR
+Ton coeur trop tot s'abat,
+Et pour mon interet tu te mets trop en peine.
+DON FERNAND
+Je m'en vais vous dicter, ecrivez.
+PHILIPIN a Jacinte pendant que Leonor ecrit.
+Et bien, Reine ? 			[960]
+JACINTE
+Que ton maitre est savant !
+PHILIPIN
+Bien plus qu'il ne parait.
+JACINTE
+Je pense qu'avec lui tu peux bien marcher droit,
+Puisqu'il lit dans les coeurs en voyant les personnes.
+PHILIPIN
+Quand il en sait le nom, c'est assez.
+JACINTE
+Tu m'etonnes,
+Comment se peut cela n'en sachant que le nom ? 			[965]
+PHILIPIN
+C'est que toujours en poche il a quelque Demon.
+JACINTE
+Un Demon ! Et tu sers un tel maitre ?
+PHILIPIN
+Qu'importe ?
+Un Diable quelquefois n'est pas mauvaise escorte,
+J'entends un familier, ne t'epouvante pas.
+DON FERNAND a Leonor.
+Votre nom manque encore, il faut le mettre au bas. 			[970]
+LEONOR
+Est-ce assez ?
+DON FERNAND
+Oui, Madame.
+LEONOR
+Adieu, je vous le laisse,
+Souvenez-vous de moi.
+DON FERNAND
+Je tiendrai ma promesse.
+JACINTE se cachant le visage.
+Faut-il qu'il me regarde ! Helas, je meurs de peur.
+DON FERNAND a Jacinte.
+Tu te caches les yeux, et je vois dans ton coeur.
+JACINTE
+Si vous savez, Monsieur, le secret ou je pense, 			[975]
+Que ma maitresse au moins n'en ait point connaissance,
+Elle ferait chasser Fabrice assurement.
+SCENE III. Don Fernand, Don Louis, Philipin.
+DON FERNAND
+Enfin m'en voila quitte, et sans enchantement.
+DON LOUYS
+Un si bon tour joue vous va donner la vogue
+D'un savant personnage, et d'un grand Astrologue, 			[980]
+Votre renom bientot s'en accroitra par tout.
+DON FERNAND
+J'ai bien encor sue pour en venir a bout,
+Je ne souffris jamais un plus cruel martyre.
+DON LOUYS
+J'avais beaucoup de peine a m'empecher de rire,
+Et sur tout mon plaisir ne se peut exprimer 			[985]
+Alors qu'elle a detruit votre obstacle de mer .
+DON FERNAND
+J'etais lors, je l'avoue, en mauvaise posture.
+DON LOUYS
+Vous aviez fort mal pris aussi votre mesure,
+On va par terre en Flandre aussi bien que par eau.
+DON FERNAND
+Et que sait une fille ? Il serait fort nouveau 			[990]
+Qu'elle fut plus savante en la Cosmographie
+Que je ne suis moi-meme en mon Astrologie.
+J'avais encor de quoi me sauver a demi
+Sur ce qu'il faut passer en pays ennemi,
+Ce passage eut detruit la force de mes charmes. 			[995]
+DON LOUYS
+Elle vous a pourtant donne bien des alarmes ?
+DON FERNAND
+Jusques a me voir presque au bout de mon Latin.
+DON LOUYS
+La plaisante aventure ! Et son billet enfin ?
+DON FERNAND
+Lisez, ce ne sont pas choses pour vous secretes.
+DON LOUYS lit.
+Don Juan, je sais bien ou vous etes, 			[1000]
+Venez me voir des cette nuit.
+LEONOR
+L'artifice est assez bien conduit,
+Et vous pouvez beaucoup avecque cette lettre.
+DON FERNAND
+Dans les mains de Don Juan il faudra la remettre,
+Qui sans doute croyant qu'on l'a fait epier 			[1005]
+Ira voir Leonor pour se justifier,
+Se trahira lui-meme ; ainsi par cette adresse
+Je me venge, et detruis les plaisirs de Lucrece.
+Si d'ailleurs Leonor trop credule en ce point
+Le prend pour un fantome et ne l'ecoute point, 			[1010]
+On ne peut inventer fourbe plus accomplie
+Pour confirmer le bruit de mon Astrologie.
+Reste a faire tenir maintenant ce billet .
+PHILIPIN
+De ce souci, Monsieur, chargez votre valet.
+DON FERNAND
+Mais il le faut donner en main propre.
+PHILIPIN
+A lui-meme, 			[1015]
+J'en sais bien les moyens.
+DON FERNAND
+Et par quel stratageme ?
+PHILIPIN
+Il n'est pas grand, Monsieur, et vous l'allez savoir.
+Dans son jardin Lucrece attend Don Juan ce soir,
+Voici meme a peu pres l'heure qu'il s'y doit rendre, 
+C'est la que de ce pas je veux l'aller attendre, 			[1020]
+Et si je ne lui fais changer de rendez-vous...
+DON LOUYS
+Cet avis en effet est le meilleur de tous.
+DON FERNAND
+Va donc vite. Je meurs d'en savoir des nouvelles.
+PHILIPIN
+Vous en saurez bientot, Monsieur, et des plus belles,
+La porte du jardin n'est pas bien loin d'ici. 			[1025]
+SCENE IV.
+PHILIPIN
+Quel intrigue jamais a valu celui-ci,
+Et que j'ai bien de quoi faire aujourd'hui le rogue
+D'avoir fait eriger mon maitre en astrologue !
+Que l'on croit de leger, et qu'a ce que je vois
+Il en est a Madrid de plus badauds que moi ! 			[1030]
+Mais j'enrage deja d'avoir fait mon message,
+Don Juan en pestera je crois de bon courage,
+Et n'aura pas grand soin de me bien regaler
+Lors que de Leonor il m'entendra parler.
+Bon, voici le jardin, occupons-en la porte, 			[1035]
+Il ne peut m'echapper soit qu'il entre ou qu'il sorte,
+N'en etant point connu, je ne hasarde rien ;
+J'entends marcher quelqu'un, si c'est lui, tout va bien.
+SCENE V. Don Juam, Philipin.
+DON JUAN heurtant Philipin comme il va pour entrer.
+Qui va la ?
+PHILIPIN
+J'y venais, Monsieur, pour vous attendre.
+Leonor m'a donne ce billet a vous rendre, 			[1040]
+Et vous prie instamment de la voir cette nuit,
+Voila quel est mon ordre.
+DON JUAN
+Ou me vois-je reduit !
+Ami, de grace, ecoute.
+SCENE VI.
+DON JUAN
+Il fuit, il m'abandonne,
+Et dans l'obscurite, je ne vois plus personne :
+Quel Demon ennemi, quel infidele esprit 			[1045]
+A pu lui decouvrir que je suis a Madrid ?
+Ah, je n'en puis douter, la preuve en est trop claire,
+Don Lope m'a trahi pour tacher de lui plaire,
+Il l'adore, et j'ai trop reconnu pour mon mal
+Qu'en lui j'avais bien moins un ami qu'un rival. 			[1050]
+O disgrace ! o malheur a qui tout autre cede !
+Mais il faut s'il se peut, y donner prompt remede,
+L'aller voir de ce pas, pour detruire l'espoir
+Qu'un ami deloyal peut deja concevoir.
+Si ce billet aussi n'etait qu'une imposture ? 			[1055]
+Voyons auparavant si c'est son ecriture,
+Et s'il est de sa main allons au rendez-vous,
+Et tachons des ce soir d'apaiser son courroux.
+Je vois de la lumiere, avancons, l'heure presse.
+SCENE VII. Leonor, Jacinte
+JACINTE
+Mais croyez-vous encor qu'il tienne sa promesse, 			[1060]
+Et qu'en si peu de temps Don Fernand au besoin
+Puisse obliger Don Juan a venir de si loin ?
+LEONOR
+Pauvre esprit ! Esprit faible ! Avec ton ignorance
+Voudrais-tu limiter cette haute science,
+Qui pourvu que la mer ne fut point entre-deux			[1065]
+Produirait des effets cent fois plus merveilleux ?
+Sans doute qu'il viendra, non lui mais son image,
+Un spectre tout pareil de port et de visage.
+JACINTE
+Et quel plaisir, Madame, aurez-vous de le voir ?
+Pourquoi le souhaiter ?
+LEONOR
+Tu ne le peux savoir			[1070]
+Si tu ne sais qu'amour, ce charmant adversaire,
+Lui-meme est la raison de tout ce qu'il fait faire.
+JACINTE
+Et bien, vous le verrez, je veux vous l'accorder.
+Mais si c'est un fantome, un corps qui n'est que d'air,
+N'aurez-vous point de peur ?
+LEONOR
+Point du tout : mais on frappe. 			[1075]
+JACINTE
+Vous palissez, Madame, un soupir vous echappe !
+Vous croyez que c'est lui peut-etre ?
+LEONOR
+Aucunement,
+Mais va voir ce que c'est. D'ou vient ce changement ?
+Quelle secrete horreur s'empare de mon ame ?
+Je tremble, qu'ai-je a craindre !
+SCENE VIII. Don Juan, Leonor, Jacinte.
+JACINTE laissant tomber la lumiere qu'elle porte.
+Ah Madame, ah Madame, 			[1080]
+C'est lui-meme, sinon qu'il est beaucoup plus grand.
+LEONOR fuyant.
+Ah Ciel, Ah !
+DON JUAN
+Cet accueil, Leonor, me surprend.
+LEONOR
+Ma curiosite ne sert qu'a me confondre,
+C'est la voix de Don Juan, mais je ne puis repondre,
+Et quand j'ai pris dessein de le faire appeler 			[1085]
+J'ai souhaite le voir, et non pas lui parler.
+JACINTE cachee.
+Que je crains que ce spectre, ou bien plutot ce Diable
+Ne me vienne chercher jusques sous cette table.
+DON JUAN
+Quelle confusion, et quel charme est-ce cy !
+Leonor, c'est donc moi que vous traitez ainsi ? 			[1090]
+Moi qui vient tout expres vous donner assurance
+Que sur mon coeur vous seule avez toute puissance ?
+LEONOR fuyant toujours.
+Je ne veux point de toi, j'abhorre ce pouvoir,
+Et c'est le vrai Don Juan que je souhaite voir.
+DON JUAN
+Je suis toujours le meme, et ma foi n'est point fausse. 			[1095]
+LEONOR
+Fantome, laisse-moi, retourne a Saragosse.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DON JUAN
+Et de grace, ecoutez mes raisons de plus pres.
+Leonor. Est-ce feinte, est-ce jeu fait expres ?
+Que fais-tu la, Jacinte ?
+JACINTE se retirant avec violence de dessous la table qu'elle fait tomber avec la lumiere qui s'eteint.
+A l'aide, je suis morte,
+C'en est fait.
+DON JUAN seul.
+Qui jamais fut recu de la sorte ?			[1100]
+Ai-je perdu l'esprit ? Suis-je moi-meme encor ?
+Jacinte, a m'ecouter oblige Leonor.
+Leonor. L'une et l'autre est sourde a ma priere,
+Personne ne repond, et je suis sans lumiere.
+Qui la peut obliger a se cacher de moi ?			[1105]
+Est-ce haine ? est-ce horreur pour mon manque de foi ?
+En quels doutes mon ame est-elle ensevelie !
+N'importe, laissons-la jouir de sa folie,
+Et cependant allons a l'autre rendez-vous
+Tacher d'y recevoir un traitement plus doux.			[1110]
+
+
+			ACTE IV
+
+
+SCENE PREMIERE. Don Juan, Lucrece, Beatrix.
+DON JUAN
+Un chagrin si profond me surprend et m'afflige,
+Madame, a soupirer quel sujet vous oblige ?
+Doutez-vous de mon coeur ? doutez-vous de ma foi ?
+LUCRECE
+Je crains tout, je l'avoue, et pour vous et pour moi,
+Et ne puis empecher ma vertu de s'abattre,			[1115]
+Voyant quels ennemis nous avons a combattre.
+Songez-y bien, Don Juan, un amant meprise
+Jamais a sa vengeance a-t-il rien refuse ?
+Croyez-vous Don Fernand plus genereux qu'un autre ?
+Son interet sur lui peut-il moins que le notre ?			[1120]
+Il sait que j'ai de nuit souffert votre entretien,
+Jugez si pour nous perdre il epargnera rien,
+S'il pourra se dompter jusques a ne point nuire
+Au bonheur d'un rival quand il le peut detruire.
+DON JUAN
+Ses efforts seront vains si vous m'aimez encor.			[1125]
+LUCRECE
+Je n'en dis pas autant de ceux de Leonor.
+DON JUAN
+Ah, Madame ! c'est faire un outrage a ma flamme.
+LUCRECE
+Qu'est-ce qu'un premier feu ne peut point sur une ame ?
+Nommez si vous voulez cet amour un devoir,
+Enfin elle est aimable, et vous la devez voir,			[1130]
+Et si vous refusez votre coeur a ses charmes,
+Le refuserez-vous a l'effort de ses larmes ?
+DON JUAN
+Ah, ce doute cruel me touche au dernier point,
+Et bien, si vous voulez je ne la verrai point.
+Qu'elle menace, tonne, eclate de colere, 			[1135]
+Je mettrai seulement tout mes soins a vous plaire,
+Et de quelque malheur que je sente les coups
+Je vivrai trop heureux etant aime de vous.
+Mais d'une autre douleur je sens la vive atteinte,
+Et si j'ose a mon tour vous expliquer ma crainte, 			[1140]
+Que ne tentera point votre pere alarme
+S'il apprend que de vous Don Juan soit estime ?
+Que n'emploiera-t-il point pour chasser de votre ame
+Tout ce qui peut nourrir une si belle flamme ?
+Il vous menacera, vous craindrez son courroux, 			[1145]
+Et lors peut-etre, et lors m'abandonnerez-vous,
+Et direz comme lui que c'est une faiblesse
+Ou le bien a manque, d'estimer la noblesse,
+D'aimer un bon courage...
+LUCRECE
+Ah, jugez mieux de moi,
+La vertu suffit seule a soutenir ma foi, 			[1150]
+Et je ne porte point un coeur assez esclave
+Pour effacer par crainte un portrait qu'elle y grave,
+J'y conserve le votre.
+DON JUAN
+O trop heureux amant !
+LUCRECE
+Pour gage de ma foi prenez ce Diamant,
+Sur que je suis a vous, et que quoi qu'il advienne 			[1155]
+Jamais sa fermete n'egalera la mienne.
+DON JUAN
+Dans l'exces du plaisir je ne me connais plus,
+Et de tant de bontes et surpris et confus
+Ne sachant que vous dire, et ne pouvant me taire...
+LUCRECE
+Vous poursuivrez tantot, voici venir mon pere. 			[1160]
+SCENE II. Leonard, Lucrece, Don Juan, Beatrix.
+LEONARD
+Ne vois-je pas Don Juan ? Quoi, deja de retour ?
+DON JUAN
+Un proces imprevu me renvoie a la Cour,
+Et me fait differer mon voyage de Flandre.
+Je viens de Saragosse.
+LEONARD
+Et que fait-la mon gendre ?
+DON JUAN
+D'un favorable accueil je lui suis oblige, 			[1165]
+Il vous avait ecrit, et m'en avait charge :
+Mais je me suis muni d'un valet si fidele,
+Qu'il m'a vole ma malle et la lettre avec elle.
+LEONARD
+Ainsi vous avez fait un retour malheureux.
+DON JUAN
+Ainsi pour moi le Ciel est toujours rigoureux ; 			[1170]
+Car enfin ce malheur m'est d'autant plus contraire
+Qu'il ne vous ecrivait que touchant mon affaire,
+Vous priant de m'aider en ce dont il s'agit
+Et de votre conseil et de votre credit.
+LEONARD
+Je n'ai credit, amis, ni conseil qu'avec joie, 			[1175]
+Si je puis vous servir, au besoin je n'emploie,
+Je m'offre sans reserve, et si vous m'epargnez
+Ce sera me montrer que vous me dedaignez.
+DON JUAN
+C'est faire trop de grace au peu que je merite :
+Mais vous m'excuserez, Monsieur, si je vous quitte, 			[1180]
+Quiconque a des proces est a soi rarement,
+J'ai quelque ordre a donner ou je cours promptement,
+Pardonnez si j'en use avec tant de franchise.
+LEONARD
+Il n'en est point, Don Juan, qu'un proces n'autorise .
+SCENE III. Leonard, Lucrece, Beatrix.
+LEONARD
+Quoi, contre ton humeur tu reveras toujours ? 			[1185]
+D'ou ce pesant chagrin peut-il prendre son cours ?
+Tire-moi de souci.
+LUCRECE
+Ce n'est rien.
+LEONARD
+Mais encore ?
+Ne me le cele point.
+LUCRECE
+Moi-meme je l'ignore,
+C'est peut-etre un effet de mon temperament.
+LEONARD
+Ah, Lucrece !
+LUCRECE
+S'il faut l'avouer librement,			[1190]
+J'ai perdu quelque nippe, et c'est la seule cause
+Qui fait en mon humeur cette metamorphose.
+LEONARD
+Et bien, qu'as-tu perdu ?
+LUCRECE
+J'en suis toute en courroux.
+LEONARD
+Dis donc.
+LUCRECE
+Ce diamant que je tenais de vous.
+LEONARD
+Ne t'inquiete point, un peu de patience,			[1195]
+On le retrouvera.
+LUCRECE
+J'en ai peu d'esperance ;
+J'ai fait chercher par tout, sans doute il est perdu.
+M'eut-il coute le double, et me fut-il rendu !
+LEONARD
+L'occasion peut-etre a quelqu'un s'est offerte,
+Mais il est fort aise d'en reparer la perte,			[1200]
+Il en est de plus beaux, en travail, en valeur.
+LUCRECE
+Ils me consoleraient fort peu de ce malheur,
+Celui-la me plaisait.
+LEONARD
+L'attachement etrange !
+Pour beau que fut un autre elle perdrait au change.
+Va, quitte ce chagrin, je vais tout maintenant 			[1205]
+Sur cet anneau perdu consulter Don Fernand.
+BEATRIX
+Pour excuser l'humeur qui vous rend si reveuse,
+Vous avez tout gate.
+LUCRECE
+Que je suis malheureuse !
+BEATRIX
+Taisez-vous, il revient.
+LEONARD
+Dis-moi, ce diamant,
+De quand est-il perdu ?
+LUCRECE
+D'aujourd'hui seulement. 			[1210]
+LEONARD
+L'heure ?
+LUCRECE
+Entre neuf et dix.
+SCENE IV. Lucrece, Beatrix.
+LUCRECE
+Quel conseil dois-je prendre ?
+BEATRIX
+De ce chien d'astrologue il s'en va tout apprendre,
+Pour moi je tiens deja votre amour decouvert.
+LUCRECE
+Ce n'est que Don Fernand en effet qui me perd,
+Mais quoi qu'il entreprenne, et quoi qu'il puisse faire, 			[1215]
+Mon amour craindra peu l'autorite d'un pere,
+Mon coeur est a Don Juan, rien ne le peut forcer,
+Et son espoir est vain s'il pretend l'en chasser.
+BEATRIX seule.
+Que ne peut une fille ayant l'amour en teste !
+Mais il faut divertir l'orage qui s'apprete, 			[1220]
+Instruire Philipin de ce qui s'est passe,
+De peur que Don Fernand ne soit embarrasse,
+Et que rompant commerce avec l'astrologie
+Il n'apprenne au vieillard toute la tromperie.
+SCENE V. Don Fernand, Don Louis.
+DON FERNAND
+En quelle extremite me vois-je ici reduit! 			[1225]
+DON LOUYS
+Mais c'est par votre aveu que j'ai seme ce bruit.
+DON FERNAND
+Oui, de l'astrologie, et non pas d'autre chose ;
+Cependant de l'enfer on croit que je dispose,
+Peu s'en faut qu'en la rue on ne me montre au doigt.
+DON LOUYS
+Un mensonge toujours en moins de rien s'accroit, 			[1230]
+On y change, et chacun le debite a sa mode :
+Mais qu'a pour vous encor ce bel art d'incommode ?
+De quoi vous plaignez-vous ?
+DON FERNAND
+De voir petits et grands
+Me venir proposer cent doutes differents,
+Je ne me vis jamais en pareil exercice ; 			[1235]
+Et comme je repons seulement par caprice,
+J'aurai bientot acquis le renom d'imposteur.
+DON LOUYS
+Le meilleur Astrologue est le plus grand menteur,
+Et c'est toujours beaucoup que par ce tour d'adresse
+Vous vous estes venge des mepris de Lucrece, 			[1240]
+Votre Rival vous craint, vous troublez ses plaisirs,
+Et tout semble d'accord avecque vos desirs .
+DON FERNAND
+Croyez que sans regret je lui cede la place,
+Je ne travaille point a causer sa disgrace,
+Et mon amour eteint, il m'importe fort peu 			[1245]
+Que Lucrece aujourd'hui recompense son feu.
+DON LOUYS
+Que n'avouiez-vous donc le tout avec franchise,
+Sans vous faire Astrologue ?
+DON FERNAND
+Admirez ma sottise ;
+Car a dire le vrai je ne me comprends pas,
+De m'etre mis moi-meme en un tel embarras, 			[1250]
+Sans que la piece ait eu cause plus importante
+Que la crainte de voir chasser une servante.
+J'avais bien pour ce coup la cervelle a l'envers.
+DON LOUYS
+Cessez d'en murmurer, puisque je vous y sers
+J'ai part a l'imposture, et je prends pour mon compte 			[1255]
+En l'osant divulguer la moitie de la honte.
+Mais y peut-on trouver rien indigne de nous ?
+SCENE VI. Don Fernand, Don Louis, Leonor, Jacinte.
+LEONOR
+J'ai bien lieu, Don Fernand, de me plaindre de vous.
+DON FERNAND
+Voici pour m'achever, l'incommode personne !
+Vous, Madame, de moi ! Ce reproche m'etonne. 			[1260]
+En quoi le puis-je avoir depuis hier merite ?
+LEONOR
+Si Don Juan en effet ne s'est point absente,
+S'il etait a Madrid, puisque votre science
+Des plus obscurs secrets vous donne connaissance,
+Dites, a quel dessein me l'avez-vous cele ? 			[1265]
+DON FERNAND
+Je l'ignorais encor lors que je vous parlai,
+Et ne l'ai decouvert qu'en faisant ma figure,
+Mais a bien regarder toute cette aventure
+Rien n'y saurait tourner a ma confusion ;
+Au lieu de son fantome et d'une illusion, 			[1270]
+Si quoi qu'il se cachat avec un soin extreme,
+A vous aller trouver je l'ai contraint lui-meme,
+Puis-je mieux temoigner la force de mon art,
+Et qu'il n'est ni trompeur ni sujet au hasard ?
+LEONOR
+Cette raison l'emporte, il faut que je lui cede ; 			[1275]
+Mais a mon deplaisir donnez quelque remede.
+Le parjure au mepris de tant de voeux offerts
+D'une beaute nouvelle ose porter les fers,
+C'est pour elle aujourd'hui qu'a Madrid il s'arrete,
+J'ai su tout le detail de cette amour secrete, 			[1280]
+Et que les astres seuls a qui vous commandez
+Sont les temoins du feu dont ils sont possedes :
+Puisqu'a votre science il n'est rien d'impossible,
+Empechez ce commerce a mon coeur trop sensible,
+Rompez les tristes noeuds de cet attachement, 			[1285]
+Aux yeux qui l'ont surpris derobez mon amant,
+Faites qu'il se repente, et que pour ma vengeance
+Ma Rivale a son tour pleure son inconstance.
+DON FERNAND
+Ayez de votre amant des sentiments meilleurs,
+On vous trompe sans doute, il n'aime point ailleurs, 			[1290]
+Et quoi qu'il soit un peu blamable en sa conduite,
+Du sujet qui l'arrete on vous a mal instruite,
+Vous en estes la cause, et son esprit jaloux
+A voulu se guerir en se cachant de vous,
+Pour vous faire observer il a feint ce voyage ; 			[1295]
+Mais, Madame, cessez d'en avoir de l'ombrage,
+Car enfin il vous aime, et toute sa rigueur
+Assure a vos beautes l'empire de son coeur,
+D'un faux mepris peut-etre il couvrira sa flamme,
+Mais quoi qu'il dissimule, il vous adore en l'ame. 			[1300]
+LEONOR
+Agreable assurance ! Helas, pardonne-moi,
+Don Juan, si sans raison j'ai doute de ta foi.
+Le Ciel, o Don Fernand, vous soit toujours propice,
+Adieu.
+SCENE VII. Don Fernand, Don Louis.
+DON LOUYS
+La pauvre Dame est toute sans malice,
+Et de votre reponse a grande joie au coeur. 			[1305]
+DON FERNAND
+Sa priere a ce coup ne m'a point fait de peur,
+Et je me doutais bien, comme elle est fort credule,
+Que je l'endormirais d'un espoir ridicule.
+Me voici libre enfin.
+DON LOUYS
+Non pas trop libre encore,
+Et quelqu'un...
+DON FERNAND
+Ah, c'est la bien pis que Leonor. 			[1310]
+SCENE VIII. Leonard, Don Fernand, Don Louis.
+LEONARD
+Don Fernand.
+DON FERNAND
+Ah, Monsieur, quel sujet vous amene ?
+LEONARD
+Je viens pour vous prier de me tirer de peine.
+DON FERNAND
+Que sera-ce ?
+LEONARD
+Excusez si j'agis librement,
+Et commence par la mon premier compliment,
+Avecque mes amis c'est ainsi que je traite . 			[1315]
+DON FERNAND
+Une telle franchise est ce que je souhaite.
+LEONARD
+Un certain diamant qu'on a perdu chez moi
+Fait soupconner mes gens, et douter de leur foi,
+Et comme ce desordre y cause grand murmure,
+Daignez en ma faveur faire quelque figure, 			[1320]
+Pour decouvrir au vrai ce qu'il est devenu.
+DON LOUYS a Don Fernand.
+O qu'en bonne saison le vieillard est venu !
+DON FERNAND a Don Louis.
+Pour durer plus d'un jour la fourbe est trop grossiere,
+Je vous l'avais bien dit.
+LEONARD a Don Louis, voyant rever Don Fernand.
+Il reve a ma priere,
+Sans doute il l'examine avec attention.			[1325]
+DON LOUYS a Leonard.
+Ce metier a besoin de speculation,
+Et je l'ai vu souvent en rencontre semblable
+Dans une reverie a peine concevable,
+Il semble que l'esprit abandonne le corps.
+LEONARD
+Aussi faut-il en faire agir tous les ressorts, 			[1330]
+Et que jusques au ciel sa vivacite monte.
+DON FERNAND
+Oui, le vouloir fourber c'est me couvrir de honte,
+Je n'en puis esperer qu'un embarras plus grand.
+LEONARD a Don Louis.
+Voyez pour m'obliger quelles peines il prend.
+DON LOUYS
+A vous rendre content sans doute il se dispose. 			[1335]
+LEONARD a Don Fernand.
+Et bien, m'en allez-vous apprendre quelque chose ?
+DON FERNAND
+Comme a vous abusez je n'ai point d'interet,
+Sachez qu'on croit de moi beaucoup plus qu'il n'en est.
+Je ne le cele point, j'ai bien quelque principe
+De cette Astrologie ou tant de monde pipe,			[1340]
+Et sur ce fondement mes amis indiscrets
+Ont feint d'en avoir vu de merveilleux effets ;
+Mais quoi qu'on en publie, et quoi que l'on en pense,
+Aucun n'en vit jamais la moindre experience,
+Et si par leur exemple a cette feinte instruit 			[1345]
+Moi-meme quelquefois j'ai confirme ce bruit,
+Ce n'a jamais ete que quand la raillerie
+Loin de passer pour crime etait galanterie :
+Mais ici qu'il s'agit de vous parler sans fard,
+Quel que soit le renom que m'ait acquis cet art, 			[1350]
+La reputation ne m'en est point si chere,
+Que pour la conserver je veuille vous rien taire.
+Ainsi croyez qu'en vain touchant ce diamant
+Vous attendez de moi quelque eclaircissement,
+En quelque main qu'il soit, et quoi qu'il en puisse etre, 			[1355]
+Par le peu que je sais je n'en puis rien connaitre.
+LEONARD
+Quand je n'aurais pas su par le rapport d'autrui
+Que vous estes l'honneur des savants d'aujourd'hui,
+Et que l'on fait de vous par tout un cas extreme,
+Cette humilite seule a parler de vous-meme 			[1360]
+Me persuaderait de ce que vous savez.
+DON FERNAND
+Perdez ces sentiments pour moi trop releves,
+Je ne sais rien du tout, et je vous le proteste.
+LEONARD
+La preuve du contraire est par la manifeste.
+Ainsi les plus savants, ainsi les plus parfaits 			[1365]
+Doivent etre toujours modestes et discrets,
+Et ne pas obscurcir l'eclat de leur science
+Par le faste insolent d'une vaine arrogance.
+DON LOUYS
+Il passe bien son temps.
+DON FERNAND
+O le vieillard maudit !
+Si j'etais en effet ce que l'on vous a dit,			[1370]
+Quand meme je voudrais me cacher a tout autre,
+Je donnerais ici mon interet au votre,
+Et je vous en dirais la pure verite.
+LEONARD
+Je vous le dis encor que cette humilite
+Plus que votre science est en vous estimable,			[1375]
+Elle est d'un grand esprit la marque indubitable ;
+Quiconque sait beaucoup presume peu de soi,
+La vanite jamais ne lui donne la loi,
+Il descend en soi-meme, il tache a se connaitre,
+C'est n'etre pas savant que s'imaginer l'etre,			[1380]
+Et quelque Art que ce soit, pour en discourir bien,
+Qui croit y tout savoir sans doute n'y sait rien.
+Mais pour venir enfin a ce qui me regarde...
+DON FERNAND
+Il me va rendre fou, si je n'y prends bien garde.
+LEONARD
+Ce diamant perdu semblait d'autant plus beau			[1385]
+Qu'il servait de cachet aussi-bien que d'anneau,
+Je l'avais fait graver. Et s'il est d'importance
+Que vous sachiez encor cette autre circonstance,
+C'est entre neuf et dix qu'on croit l'avoir perdu.
+SCENE IX. Leonard, Don Fernand, Don Louis, Philipin.
+PHILIPIN, tout haut, presentant un papier a Don Fernand.
+Monsieur, l'autre ce soir vous doit etre rendu. 			[1390]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est pretexte, ecoutez.
+LEONARD a Don Louis.
+D'ou vient qu'il me refuse ?
+DON LOUYS
+Peut-etre de Magie il craint qu'on ne l'accuse,
+On est prompt a medire, et le peuple ignorant
+Attribue aux Demons tout ce qui le surprend,
+C'est par cette raison que vous le voyez feindre. 			[1395]
+LEONARD
+Je sais ce qu'il faut taire, il n'a pas lieu de craindre.
+PHILIPIN a Don Fernand.
+C'est ce que maintenant m'a conte Beatrix.
+DON FERNAND a Philipin.
+Ton secours vient a temps, et sans toi j'etais pris.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pardonnez devant vous si j'ai recu message,
+Je sais bien le respect que l'on doit a votre age,			[1400]
+Mais l'affaire pressait.
+LEONARD
+Vous me rendez confus :
+Mais de grace avec moi ne dissimulez plus.
+DON FERNAND
+Si j'en savait assez...
+L'excuse est inutile,
+Une bague perdue, est-il rien plus facile ?
+DON FERNAND
+Monsieur, encore un coup, je vous le dis sans fard... 			[1405]
+LEONARD
+Monsieur, encore un coup laissons la feinte a part,
+Et m'apprenez enfin ce que je veux apprendre.
+DON FERNAND
+De peur de vous facher je voulais m'en defendre,
+Mais vous m'y contraignez.
+LEONARD
+Rien ne me peut facher.
+DON FERNAND
+Oyez donc ce qu'en vain j'ai voulu vous cacher,			[1410]
+Et sachez que deja revant a votre affaire
+J'ai fait en mon esprit ce qu'il a fallu faire.
+Celui qui ce matin vous a fait compliment
+En habit de campagne, a votre diamant.
+LEONARD
+Qui l'aurait soupconne d'une si noire tache,			[1415]
+Et qu'etant si bien fait il eut l'ame si lache ?
+Mais quoi ! c'est un effet de la necessite
+Qui du sang le plus pur rend un sang tout gate.
+Vous voyez, Don Fernand, qu'en vain vous vouliez taire
+Ce dont sur votre front je vois le caractere.			[1420]
+Quand je dis une fois, Cet homme a de l'esprit,
+C'est un savant du siecle, il l'est sans contredit,
+Adieu.
+SCENE X. Don Fernand, Don Louis, Philipin.
+DON LOUYS
+Sans Philipin il vous la baillait belle.
+DON FERNAND
+Mais rencontrant Don Juan, s'il faut qu'il le querelle,
+Comme l'ayant vole, ce sera bien le bon. 			[1425]
+PHILIPIN
+Qu'importe s'il le prend pour gendre, ou pour larron ?
+C'est bien la meme chose, et l'un et l'autre en somme
+Pour en avoir le bien veut la mort du bonhomme.
+DON FERNAND
+Quoi que tout jusqu'ici m'ait succede fort bien
+Je suis las d'un metier ou je ne connais rien, 			[1430]
+Mais afin d'en sortir avecque plus de gloire,
+Puisque je vois le pere en humeur de tout croire,
+Je veux faire si bien, loin d'en etre jaloux,
+Que Don Juan de Lucrece aujourd'hui soit l'epoux,
+Et confesse devoir a ma feinte science 			[1435]
+De son fidele amour la juste recompense.
+Mais quelqu'un entre encor.
+DON LOUYS
+Quel est ce bon vieillard ?
+DON FERNAND
+Depuis plus de trente ans il sert chez Leonard.
+SCENE XI. Don Fernand, Don Louis, Mendoce, Philipin.
+DON FERNAND
+Ah, Mendoce.
+MENDOCE
+Ah, Monsieur, en faveur de Lucrece,
+Lucrece notre bonne et commune maitresse,			[1440]
+Si j'osais vous prier.
+DON FERNAND
+Parle, acheve, de quoi ?
+MENDOCE
+De peu de chose.
+DON FERNAND
+Dis, je ferai tout pour toi.
+MENDOCE
+Las de servir toujours, il m'a pris une envie
+De revoir mon pays pour y finir ma vie,
+J'y porte quelque argent, le fruit de mes sueurs : 			[1445]
+Mais comme les chemins sont remplis de voleurs,
+Pour y tenir ma bourse a couvert du pillage,
+Et meme pour gagner les frais d'un long voyage,
+Je voudrais bien, Monsieur, que par enchantement
+Vous me fissiez chez moi porter en un moment. 			[1450]
+DON FERNAND, a Don Louis.
+Vous pouvez voir par la ce que l'on me croit etre.
+PHILIPIN, a Mendoce.
+Il suffira de moi sans employer mon maitre,
+J'en sais trop pour cela, je t'y ferai porter.
+DON FERNAND
+Mendoce, pour ce soir va toujours t'appreter,
+Philipin aura soin de ce qu'il faudra faire. 			[1455]
+MENDOCE
+Monsieur, je m'en defie.
+DON FERNAND
+N'en apprehende rien.
+Il n'ose me deplaire,
+DON LOUYS
+Il est tout satisfait.
+DON FERNAND
+Allons en rire un peu dedans mon cabinet ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Feins que je suis sorti si quelqu'un me demande.
+SCENE XII. Mendoce, Philipin.
+MENDOCE
+Fais pour moi ce qu'il faut, ton maitre le commande,			[1460]
+Mais tu te meles donc aussi de son metier ?
+PHILIPIN
+Depuis que je le sers, je suis demi Sorcier.
+MENDOCE
+Mais est-il si savant ?
+PHILIPIN
+C'est un terrible esprit.
+Plus qu'on ne s'imagine,
+MENDOCE
+Il en a bien la mine.
+PHILIPIN
+On dirait a l'ouir quand il parle d'autrui, 			[1465]
+Qu'il lit dedans les coeurs, ou le Diable pour lui.
+MENDOCE
+Qu'un valet est a plaindre avec tel personnage !
+Ainsi si quelquefois allant faire un message
+Un ami par hasard te vient prendre en defaut,
+Et t'oblige a tarder un peu plus qu'il ne faut, 			[1470]
+Tu n'oses lui donner cette bourde legere :
+Le Courrier est venu plus tard qu'a l'ordinaire,
+J'ai long temps attendu que Monsieur eut ecrit,
+J'ai vu chez le tailleur s'il faisait votre habit,
+Et ce que nous fournit en diverse rencontre 			[1475]
+La peur d'etre chasses, ou de recevoir monstre .
+Pour moi, j'aimerais mieux et gueuser et patir,
+Que de servir un maitre et n'oser lui mentir.
+PHILIPIN
+D'abord ainsi qu'a toi cela m'etait bien rude,
+Mais on se fait a tout avec un peu d'etude. 			[1480]
+MENDOCE
+Tu n'oserais d'ailleurs, quoi qu'avec gens discrets,
+Ny medire de lui, ni conter ses secrets,
+Ou s'il arrive enfin quand sa bile le presse
+Qu'a bons coups de baton il te fasse caresse,
+Tu n'oserais t'en plaindre, et dire a quelque ami			[1485]
+Qu'il est fantasque, et plus que Lutin et demi,
+Ou si le cas echoit, avecque ses semblables
+Le donner de grand coeur a trente mille diables.
+Quelques coups dont jamais j'aie ete regale,
+Quand j'avais fait cela j'etais tout console. 			[1490]
+PHILIPIN
+Le mien est indulgent.
+MENDOCE
+Facile, ou difficile,
+En une belle nuit ma foi je ferais gille.
+PHILIPIN
+Ne saurait-il pas bien mon dessein en ce cas ?
+MENDOCE
+Autre incommodite que je ne comptais pas.
+Mais ou je trouve encor de grands desavantages			[1495]
+S'il voit dedans les coeurs et lit sur les visages,
+Le moyen en servant d'amasser un teton ?
+Remplit-on le gousset sans le tour du baton ?
+Et pouvons-nous avoir de quoi faire debauche
+Sans ces menus profits qui nous viennent a gauche ?			[1500]
+Tu sais que de l'argent qui tombe en notre main
+Selon l'occasion on retient le douzain,
+Et que peu de valet en font quelque scrupule.
+PHILIPIN
+C'est a dire en deux mots que tu ferres la mule ?
+C'est un bon revenu dont il me faut passer, 			[1505]
+Mon maitre hait le vol plus qu'on ne peut penser,
+Et je crois pour cinq sols que sans misericorde
+Il me ferait apprendre a danser sous la corde :
+Meme je te plains fort de l'etre venu voir,
+Te servant du talent et l'ayant fait valoir, 			[1510]
+Car comme en te voyant il l'aura pu connaitre,
+Il pourra bien tantot en avertir ton maitre.
+MENDOCE
+En avertir mon maitre ! Helas, je suis perdu.
+PHILIPIN
+Pourquoi ? ton pis aller n'est que d'etre pendu.
+MENDOCE
+He de grace, en faveur d'un compagnon d'office, 			[1515]
+Empeche si tu peux qu'il ne l'en avertisse.
+PHILIPIN
+As-tu bien derobe ?
+MENDOCE
+Peu de chose a la fois.
+PHILIPIN
+Mais souvent ?
+MENDOCE
+Environ vingt ou trente par mois.
+PHILIPIN
+A te dire le vrai, je n'y sais qu'un remede.
+MENDOCE
+Dis-le-moi promptement afin que je m'en aide. 			[1520]
+PHILIPIN
+Mon maitre a maintenant tant de soins en l'esprit,
+Que sans qu'il pense a toi tu peux quitter Madrid :
+N'attends donc point ce soir a faire ton voyage,
+Cours vite de ce pas dresser ton equipage.
+Que ton vieillard apres soit de tout averti, 			[1525]
+T'enverra-t-il chercher quand tu seras parti ?
+MENDOCE
+Etant en mon pays je ne le craindrais guere,
+Mais c'est bien loin d'ici.
+PHILIPIN
+Donne ordre a tes affaires,
+Je t'y rends aujourd'hui quelque loin que ce soit,
+Mais il te faut munir en l'air contre le froid ; 			[1530]
+La soufflent certains vents ennemis de nature,
+C'est l'incommodite d'une telle voiture,
+Mais le voyage est fait en moins d'une heure, ou deux.
+MENDOCE
+Et la monture ?
+PHILIPIN
+Douce ainsi que tu la veux.
+Va cependant m'attendre au jardin de ton maitre, 			[1535]
+Je m'y rendrai bientot.
+MENDOCE
+Que ce soit sans peut-etre.
+PHILIPIN
+Soit tout pret a partir.
+MENDOCE
+Aussi, si tu n'y viens ?
+PHILIPIN
+Je m'y rendrai, te dis-je. Ah, vieux loup, je te tiens.
+
+
+			ACTE V
+
+
+SCENE PREMIERE.
+DON JUAN
+Enfin ma prison cesse, et par cette retraite
+En vain j'ai cru tenir ma passion secrete, 			[1540]
+Ma mauvaise fortune a su la reveler ;
+J'ai de quoi toutefois encor m'en consoler,
+Sous ce pretexte faux de proces et d'affaire
+Mon retour a Madrid passe pour necessaire,
+Et malgre mon rival cette feinte me sert 			[1545]
+A trouver chez Lucrece un acces plus ouvert.
+C'est en vain, Leonor, que ton coeur en murmure,
+Je ne suis point ingrat, je ne suis point parjure,
+Mes sentiments pour toy sont les memes encor,
+Leonor a mes yeux est toujours Leonor,			[1550]
+Cent bienfaits dans ton sort font que je m'interesse,
+Tu les versas sur moi toujours avec largesse,
+Mais quoi qu'ils n'aient pas mis mon coeur dans tes liens,
+Ils ne sont pas perdus puisque je m'en souviens,
+N'exige rien de plus, j'ai pour toi grande estime, 			[1555]
+Mais je ne puis t'aimer sans me noircir d'un crime,
+Lucrece a sur mon ame un absolu pouvoir,
+Mes visites en vain ont flatte ton espoir,
+Pouvais-je moins te rendre, et par reconnaissance
+Ne te devais-je pas un peu de complaisance ? 			[1560]
+SCENE II. Leonard, Don Juan.
+LEONARD
+Je vous cherchais, Don Juan.
+DON JUAN
+Mes voeux sont satisfaits,
+Et l'heur de vous servir fait mes plus grands souhaits,
+Que me commandez-vous ?
+LEONARD bas.
+Ah, que c'est grand dommage
+Que cette lachete noircisse un bon courage,
+Et qu'un homme sorti d'un sang dont on fait cas			[1565]
+L'ose deshonorer par un vice si bas !
+Qui le prendrait jamais pour voleur a la mine ?
+DON JUAN bas.
+D'ou vient qu'en parlant seul des yeux il m'examine ?
+Aurait-il pu deja decouvrir notre amour,
+Et que pour l'abuser je feins un faux retour ?			[1570]
+O Destin ! o Fortune a me nuire trop prompte !
+LEONARD bas.
+Je ne puis me resoudre a le couvrir de honte.
+Parlons-lui, mais feignons de croire seulement
+Que de quelqu'autre main il tient mon diamant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour vous dire en deux mots le sujet qui m'amene,			[1575]
+C'est pour certain bijou dont je suis fort en peine,
+On me vient d'assurer qu'il est entre vos mains.
+DON JUAN bas.
+Qu'en peu de temps le Sort renverse mes desseins !
+LEONARD bas.
+Le voila tout confus.
+DON JUAN bas.
+Que je suis miserable !
+LEONARD
+Je ne dis pas, Don Juan, que vous soyez coupable,			[1580]
+Mais la main seulement de qui vous le tenez.
+DON JUAN bas.
+Qu'a me persecuter les Cieux sont obstinez !
+LEONARD
+Non, je ne doute point, quoi qu'on m'ait voulu taire,
+Que qui vous l'a donne n'ait eu droit de le faire,
+Cessez de prendre soin de vous justifier,			[1585]
+Vous l'etes avec moi.
+DON JUAN
+Je ne le puis nier,
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)J'ai votre diamant, et veux bien vous le rendre :
+Mais sans doute, Monsieur, on tache a vous surprendre,
+Et si la verite doit ici s'exprimer,
+Je suis le seul coupable et le seul a blamer.			[1590]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Plutot mourir cent fois que d'accuser Lucrece.
+LEONARD bas.
+Plus je cache son crime, et plus il le confesse.
+DON JUAN
+Oui, de ce procede moi seul j'ai tout le tort,
+Et vous dire autre chose est faire un faux rapport.
+LEONARD bas.
+A quel point son erreur le seduit et l'abuse ! 			[1595]
+Je tache a l'excuser, et lui-meme s'accuse.
+DON JUAN
+Je vous le dis encor, quand je pris ce dessein...
+LEONARD
+Contre la verite vous disputez en vain,
+Elle ne vous peut nuire encor que je la sache.
+DON JUAN
+Puisque vous la savez, en vain je vous la cache, 			[1600]
+Et veux dissimuler en cette occasion.
+Je le confesse donc a ma confusion,
+Mon vol est trop hardi, je suis un temeraire,
+Mais si mon crime est tel qu'il puisse vous deplaire,
+Pour ma defense au moins sachez que malgre moi			[1605]
+D'un Astre dominant j'ai reconnu la loi,
+Dont la necessite m'a mis dans la contrainte
+De vous donner enfin juste sujet de plainte.
+Si le peu que je vaux me defend d'esperer,
+Par vos bontes, Monsieur, j'ose vous conjurer... 			[1610]
+LEONARD
+Non, non, je ne suis point un juge inexorable,
+Je connais trop de quoi la jeunesse est capable,
+Et que l'occasion force la volonte.
+DON JUAN
+Puisque vous l'excusez avec tant de bonte,
+Pour me justifier autorisez mon crime, 			[1615]
+Rendez de mes erreurs la cause legitime,
+Et daignez consentir qu'a Lucrece demain
+En qualite d'epoux Don Juan donne la main.
+LEONARD
+A ma fille ? A quel droit ose-t-il y pretendre ?
+DON JUAN
+Faites-moi grace entiere en m'acceptant pour gendre, 			[1620]
+J'ai le coeur franc et noble, et si j'ai peu de bien,
+Au moins suis-je d'un sang qui ne redoute rien,
+Mon mal sans ce remede ira jusqu'a l'extreme.
+LEONARD bas.
+Est-il dans son bon sens, ou suis-je fou moi-meme ?
+Revai-je, ou se peut-il qu'il parle tout de bon ? 			[1625]
+Trouvant trop de peril au metier de larron,
+Aux depens de mon bien il veut se rendre sage,
+Et m'ose demander ma fille en mariage.
+O le plus plaisant fou qui jamais se verra !
+Qu'il vole, qu'il derobe autant qu'il lui plaira, 			[1630]
+Sans me desobliger il peut se faire pendre,
+Mais qu'il n'espere pas etre jamais mon gendre.
+Don Juan, je vous promets, quoi que vous m'ayez dit...
+DON JUAN
+Votre fille, Monsieur ?
+LEONARD
+Le secret, il suffit,
+Adieu.
+DON JUAN seul.
+Vit-on jamais une telle surprise ?			[1635]
+A lui confesser tout lui-meme il m'autorise,
+Et quand il sait le feu dont je me sens bruler,
+Il promet de se taire, et de n'en point parler ;
+O trop bizarre effet de ma triste fortune !
+Mais que mal a propos je vois cette importune !			[1640]
+Tachons de l'eviter.
+SCENE III. Don Juan, Leonor, Jacinte.
+LEONOR
+Arretez un moment,
+Don Juan, et recevez du moins mon compliment,
+La civilite seule a cela vous convie.
+Une autre sous ses lois tient votre ame asservie,
+Et ce coeur si longtemps captif de ma beaute, 			[1645]
+Trouve enfin des appas dans l'infidelite :
+Et bien, ce changement est assez ordinaire,
+Je le vois sans regret puisqu'il a pu vous plaire,
+Mais fuir a ma rencontre, et faire le surpris,
+C'est de l'indifference aller jusqu'au mepris, 			[1650]
+Souvenez-vous du moins que vous m'avez aimee.
+DON JUAN
+Dites mieux, que de moi vous futes estimee.
+Oui, Madame, si j'ose enfin parler sans fard,
+L'amour dans mes devoirs n'eut jamais grande part :
+Je vous devais beaucoup, et faisais mon possible 			[1655]
+Pour vous montrer un coeur a vos bienfaits sensible,
+Mais il n'est plus saison de vous rien deguiser,
+Cessez d'etre credule et de vous abuser,
+D'un si charmant objet je reconnais l'empire
+Qu'avant que de changer il faudra que j'expire . 			[1660]
+LEONOR a Jacinte.
+Avec combien d'adresse il feint pour m'eprouver !
+DON JUAN
+Par vos commandements je fus hier vous trouver,
+Vous ne voulutes lors ni me voir, ni m'entendre,
+Apres ce traitement rien ne vous doit surprendre,
+Ne vous etonnez point de ce que je vous fuis, 			[1665]
+C'est votre ordre, Madame, et je vous obeis.
+SCENE IV. Leonor, Jacinte.
+JACINTE
+Il meurt d'amour pour vous, vous le croyez encore ?
+LEONOR
+Lorsqu'il me traite mal c'est alors qu'il m'adore.
+JACINTE
+D'un autre feu lui-meme il se confesse epris.
+LEONOR
+C'est expres qu'il affecte un si cruel mepris, 			[1670]
+Il feint, et ne me donne un peu de jalousie
+Que pour mieux voir l'amour dont mon ame est saisie.
+Je vois ce qu'il pretend, et j'en crois Don Fernand.
+JACINTE
+Si j'ose avec franchise en parler maintenant,
+Ce n'est qu'un imposteur, a fourber il est maitre, 			[1675]
+Et par son procede vous le pouvez connaitre,
+Ne vous y fiez plus, quoi qu'il vous en ait dit,
+Il vous trompe, Madame, et Don Juan vous trahit :
+En doutez-vous encore, et sans trop de faiblesse
+Pouvez-vous ignorer qu'il adore Lucrece ? 			[1680]
+Don Lope vous l'a dit.
+LEONOR
+Don Lope m'est suspect,
+Tu sais pour son ami qu'il n'a plus de respect,
+Qu'il me parle d'amour sans craindre ma colere,
+Le rapport d'un rival est rarement sincere,
+Et quoi que de Don Juan il puisse me conter, 			[1685]
+J'ai toujours lieu de craindre et sujet de douter.
+SCENE V. Don Lope, Leonor, Jacinte.
+DON LOPE
+Ne doutez plus, Madame, et croyez qu'au contraire
+Le rapport de Don Lope est un rapport sincere.
+Mon amour quoi qu'extreme ecoute la raison,
+Je ne vous pretends point par une trahison,			[1690]
+Je n'ai ni le coeur bas, ni l'ame interessee,
+Et bien loin d'avoir eu jamais cette pensee,
+Tant que j'ai cru Don Juan a vos charmes soumis,
+Qu'ai-je fait ? Qu'ai-je dit ? que me suis-je permis ?
+D'un silence obstine j'ai subi la contrainte,			[1695]
+Je me suis defendu meme jusqu'a la plainte,
+Et si quelque soupir m'echappait quelquefois,
+Comme un enfant mal ne je le desavouais.
+Mais puisque d'un ami le change illegitime
+Me permet aujourd'hui de soupirer sans crime,			[1700]
+Souffrez que je decouvre aux yeux qui m'ont charme
+Le beau feu qu'en mon ame ils avaient allume,
+Et qu'un facheux respect me contraignait de taire
+Jusqu'a m'etre moi-meme a moi-meme contraire,
+Vous parler pour un autre, et faire mon effort			[1705]
+Pour hater un Hymen dont j'attendais la mort.
+LEONOR
+Mais me dites-vous vrai ? Don Juan n'est-il qu'un traitre ?
+DON LOPE
+Un violent amour de son coeur est le maitre.
+LEONOR
+Il me quitte ?
+DON LOPE
+Peut-etre il vous quitte a regret,
+Mais par son propre aveu je trahis son secret. 			[1710]
+LEONOR
+Et pour Lucrece enfin l'ingrat m'est infidele ?
+DON LOPE
+Encor tout maintenant il vient d'entrer chez elle.
+LEONOR
+Puis-je m'en assurer ?
+DON LOPE
+Je l'ai vu de mes yeux.
+LEONOR
+O le plus lache amant qui soit dessous les Cieux !
+Ne nous aveuglons plus, punissons son offense, 			[1715]
+Qu'il ne soit plus pour moi qu'un objet de vengeance.
+Don Lope, m'aimez-vous ?
+DON LOPE
+Madame !
+LEONOR
+Suivez-moi.
+Leonor est a vous, je vous promets ma foi,
+Mais pour servir ma haine, et venger mon injure,
+Je ne vous la promets que devant ce parjure, 			[1720]
+Ruinant son amour, et vous donnant la main,
+Je veux qu'il se repente, et se repente en vain,
+Qu'il me voie a regret entre les bras d'un autre,
+Que son bonheur detruit etablisse le votre,
+Et que perdant l'espoir dont il s'ose flatter 			[1725]
+Il regrette ce coeur qu'il n'a su meriter.
+SCENE VI.
+MENDOCE en equipage de voyageur, dans le jardin de Leonard.
+Adieu, Madrid, Adieu, sans regret je te quitte,
+Le desir du repos enfin m'en sollicite,
+Je prefere le chaume a tes plus beaux Palais,
+Et te dis derechef un Adieu pour jamais. 			[1730]
+J'abandonne tes murs, on n'y vit qu'avec trouble,
+A peine bien souvent y gagne-t-on le double.
+Quoique j'ai toujours servi par interet,
+Ma bourse est si legere...
+SCENE VII. Philipin, Mendoce.
+PHILIPIN
+Et bien, es-tu tout pret ?
+MENDOCE
+Tu vois, la grosse cape avec de bonnes bottes.			[1735]
+PHILIPIN
+Mets-toi dedans ce rond.
+MENDOCE
+Qu'est-ce que tu marmotes ?
+PHILIPIN
+C'est deja fait, il reste a te bander les yeux.
+MENDOCE
+Pourquoi !
+PHILIPIN
+Laisse-moi faire.
+MENDOCE
+En volerai-je mieux ?
+PHILIPIN
+Tu pourrais t'eblouir, et tomber cul sur tete.
+MENDOCE
+Bande donc, mais dis-moi, la monture ?
+PHILIPIN
+Elle est prete,			[1740]
+Je n'ai rien qu'a siffler, on me l'amenera.
+MENDOCE
+Une mule ?
+PHILIPIN
+Une mule.
+MENDOCE
+Et qui me conduira ?
+Si j'allais m'egarer ?
+PHILIPIN
+O la vision bleue !
+Quelque Diable follet suivra ta mule en queue.
+MENDOCE
+Il est donc, Philipin, des Diables muletiers ?			[1745]
+PHILIPIN
+Doutes-tu qu'il n'en soit presque de tous metiers ?
+Il en est de sergents, il en est de Notaires,
+Il en est de barbiers comme d'apothicaires,
+Il en est de greffiers, il en est de voleurs,
+Il en est de devots et de monopoleurs,			[1750]
+Il en est de tout poil, il en est de tous ages,
+Il en est d'usuriers et de preteurs sur gages,
+De souffleurs d'alchimie et de rogneurs d'ecus,
+Il en est de jaloux, et meme de cocus.
+MENDOCE
+De cocus ?
+PHILIPIN
+Sans cela d'ou leur viendraient les cornes ?			[1755]
+Il en est de lourdauds, de hargneux, et de mornes,
+Il en est d'enjoues, il en est de grondants,
+De danseurs sur la corde et d'arracheurs de dents,
+Il en est de village, il en est du grand monde,
+Il en est a la mode, il en est a la fronde,			[1760]
+Enfin, que te dirai-je ? il en est de galants,
+De bretteurs, de filous, et de passe-volants,
+Il en est de mutins, il en est d'amiables,
+Il en est de mechants ainsi que tous les diables.
+Mais c'est trop s'arreter, voici le mien venu,			[1765]
+Monte.
+MENDOCE
+Debande-moi, pour voir s'il est cornu,
+J'ai curiosite de voir un Diable en face.
+PHILIPIN
+Il t'epouvanterait, il fait laide grimace,
+Suffit qu'il te conduise.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MENDOCE monte pendant que Philipin le lie.
+Ah, Monsieur le Lutin,
+Ne m'abandonne pas au milieu du chemin,			[1770]
+Tu me ferais donner bientot du nez en terre.
+PHILIPIN
+Tout ira comme il faut.
+MENDOCE
+Au Diable comme il serre,
+Relache tant soit peu .
+PHILIPIN
+Te voila bien ainsi.
+MENDOCE
+Qui me detachera ?
+PHILIPIN
+N'en sois point en souci,
+Et sache seulement qu'alors que l'on arrive			[1775]
+L'on entend une voix et dolente et plaintive,
+En suite de grands cris, mais va, quitte ce lieu,
+Adieu, marche. Ah Mendoce, Adieu Mendoce, Adieu.
+O comme tu fends l'air !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)MENDOCE
+Je sens bien que je vole,
+Car a peine j'entends le son de sa parole.			[1780]
+Quel bonheur ! je verrai mon pays aujourd'hui.
+PHILIPIN
+S'il est vole, je m'offre a repondre pour lui.
+MENDOCE
+Cette Mule endiablee est sans mentir bien douce,
+Elle va toute seule et sans que je la pousse,
+Elle n'ebranle point, j'y suis comme en mon lit.			[1785]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je crois que l'on acquiert en l'air grand appetit.
+Mais il m'en avait bien averti, le maroufle,
+Diable, qu'il fait de froid, et quel vilain vent souffle !
+J'en ai la barbe prise et le nez tout gele.
+PHILIPIN
+On vient dans le jardin, et quelqu'un a parle.			[1790]
+Medaille du vieux temps, on te la sauve belle.
+SCENE VIII. Don Juan, Lucrece, Beatrix, Mendoce, Philipin.
+LUCRECE
+Quoi, sitot decouverts ! O la triste nouvelle !
+Cessons de nous flatter, tout espoir est perdu.
+DON JUAN
+Il me l'a demande, je l'ai soudain rendu
+Ce gage precieux d'une amour toute pure :			[1795]
+Mais a ce deplaisir donnez quelque mesure,
+Je ne saurais me plaindre encor de sa rigueur,
+Il m'a parle toujours avec grande douceur,
+Et peut-etre, Madame, il sera moins farouche,
+Quand il saura de vous que mon amour vous touche.			[1800]
+LUCRECE
+S'il ne tient qu'a cela, Don Juan, soyez certain
+Que Lucrece est a vous peut-etre des demain.
+DON JUAN
+O charmante parole !
+LUCRECE
+Enfin je vous la donne
+D'etre a vous pour jamais, ou de n'etre a personne.
+DON JUAN
+Que je me tiens heureux de vivre sous vos lois !			[1805]
+MENDOCE
+Je discerne avec peine un bruit confus de voix,
+Je passe assurement sur quelque grande ville.
+DON JUAN
+Ainsi le Ciel pour vous en miracles fertile...
+BEATRIX
+Madame.
+LUCRECE
+Que veux-tu ? Quelqu'un vient-il ici ?
+BEATRIX
+Oui, notre bon vieillard, et l'Astrologue aussi, 			[1810]
+Ils entrent au jardin.
+LUCRECE
+Quel obstacle a ma joie !
+DON JUAN
+Ne puis-je m'echapper ?
+LUCRECE
+Non pas sans qu'on vous vois,
+Cachez-vous promptement, et croyez qu'en tout cas,
+S'il faut parler pour vous, je ne me tairai pas.
+SCENE IX. Leonard, Don Fernand, Lucrece, Beatrix, Mendoce, Philipin.
+DON FERNAND
+Que ce jardin est beau!
+LEONARD
+C'est l'amour du bonhomme,			[1815]
+Et comme je m'y plais, tout mon soin s'y consomme.
+DON FERNAND
+Sur tout de ce ruisseau le murmure est charmant.
+LEONARD
+Ma fille, approche-toi, voici ton diamant.
+LUCRECE a Beatrix.
+Faut-il souffrir ici cet objet de ma haine ?
+LEONARD lui rendant sa bague.
+Rends grace a Don Fernand qui nous tire de peine.			[1820]
+DON FERNAND
+Madame, si le Ciel repond a mes souhaits,
+Vous connaitrez mon zele a de plus grands effets .
+LUCRECE
+Vous m'obligez, Monsieur, plus que je ne merite.
+LEONARD voyant entrer Leonor.
+Que nous veut cette Dame ?
+MENDOCE
+O que je vole vite !
+Je passe sur un lieu de l'autre differend,			[1825]
+Et le bruit qu'on y fait est de beaucoup plus grand.
+SCENE X. Leonard, Don Fernand, Don Lope, Leonor, Lucrece, Beatrix, Mendoce, Philipin.
+LEONOR
+Ne vous etonnez point si j'ose ici paraitre,
+Je n'y viens, Leonard, que pour chercher un traitre,
+Et pour vous avertir qu'au mepris de ses feux
+Un parjure insolent nous affronte tous deux.			[1830]
+S'il aime votre fille, il est adore d'elle,
+Ce reciproque amour me le rend infidele,
+Il est cache ceans ce lache suborneur,
+Faites-m'en la raison et vengez votre honneur.
+LUCRECE bas.
+O malheur imprevu !
+MENDOCE
+J'entends la voix plaintive,			[1835]
+Sans doute a mon pays c'est signe que j'arrive.
+LEONARD regardant Lucrece.
+Un homme ici cache !
+LUCRECE
+De quoi m'accusez-vous ?
+LEONARD
+Sois sans crime, autrement redoute mon courroux.
+Mais je veux me purger de ce soupcon infame,
+Il faut chercher partout, allons, venez, Madame.			[1840]
+Voyons tout le jardin.
+LEONOR
+Serait-il point ici ?
+SCENE XI. Leonard, Don Fernand, Don Juan, Don Lope, Leonor, Lucrece, Beatrix, Jacinte, Philipin, Mendoce.
+DON JUAN se montrant.
+Ne cherchez plus Don Juan, Madame, le voici.
+LEONOR
+Ingrat, traitre.
+DON JUAN
+Ah, cessez de me faire une injure
+En me donnant les noms d'ingrat et de parjure.
+LEONARD
+Le destin de ma fille agit bizarrement,			[1845]
+Je rencontre un voleur en cherchant son amant.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous pretendiez encor jouer un tour de maitre,
+Et pour nous derober vous vous cachiez peut-etre ?
+LEONOR
+On perd ici l'esprit, ou je n'y connais rien.
+Pour qui le prenez-vous ?
+LEONARD
+Madame, il m'entend bien.			[1850]
+DON JUAN
+Si je vous entends bien, certes au moins j'ignore
+Pourquoi j'ai merite que l'on me deshonore.
+Je ne suis point voleur, et j'ai le coeur trop haut
+Pour souffrir qu'on m'impute un si lache defaut,
+Pour me justifier d'une telle bassesse 			[1855]
+Il faut qu'aux yeux de tous la verite paraisse.
+Oui, j'aime votre fille, et cet objet vainqueur
+Depuis un an entier dispose de mon coeur,
+Cette bague tantot que je vous ai rendue,
+C'est de sa propre main que je l'avais recue,			[1860]
+Et si vous lui donnez liberte de parler,
+Elle m'estime assez pour ne le pas celer.
+LEONARD a Lucrece.
+Dit-il vrai ? L'aimes-tu ? parle sans craindre un pere.
+LUCRECE
+Puisque vous m'ordonnez de ne vous plus rien taire,
+J'avouerai ma faiblesse, et que depuis un an			[1865]
+J'ai donne mon estime aux vertus de Don Juan.
+LEONARD tirant Don Fernand a part.
+De grace, Don Fernand.
+LEONOR
+Il ne le faut pas croire,
+Il ne fait que fourber.
+LEONARD
+Pour conserver ma gloire
+Que faut-il que je fasse ?
+DON FERNAND
+Ouvrez enfin les yeux,
+Et ne resistez plus aux volontes des Cieux.			[1870]
+Je vous en ai tantot deja dit ma pensee,
+Que d'un semblable hymen elle etait menacee :
+Puisqu'un homme sans biens doit etre son epoux,
+Pour faire un meilleur choix, ou le chercherez-vous ?
+Don Juan est de sang noble et d'illustre famille,			[1875]
+Puisqu'avec tant d'ardeur il aime votre fille,
+D'un mot de votre bouche autorisant son feu
+Donnez a cet Hymen un genereux aveu.
+LEONARD
+Suivant l'ordre du Ciel on ne se peut meprendre.
+Embrassez-moi, Don Juan, je vous recois pour gendre. 			[1880]
+DON JUAN
+O joie inesperee ! O supreme bonheur !
+LEONOR
+Est-ce ainsi, Leonard, qu'on venge mon honneur ?
+LEONARD
+Le mien interesse demandait ce remede.
+LEONOR a Don Juan.
+Ecoute aveuglement l'ardeur qui te possede,
+Va, traitre, rends hommage a l'infidelite, 			[1885]
+Le Ciel me vengera de ta deloyaute.
+Allons, Don Lope, allons, je vous tiendrai parole.
+SCENE XII. Leonard, Don Fernand, Don Juan, Beatrix, Philippin, Mendoce.
+DON JUAN
+D'une femme en courroux la menace est frivole.
+MENDOCE
+Ah je suis arrive, de ce coup je le crois,
+J'entends force grands cris, Lutin, debande-moi. 			[1890]
+LEONARD detournant la tete et apercevant Mendoce.
+Quel spectacle est-ce ci ?
+PHILIPIN a Don Fernand.
+La tromperie est bonne.
+C'est notre voyageur, que rien ne vous etonne,
+Il se croit deja loin.
+DON FERNAND
+O qu'il est ingenu !
+Il faut le delier.
+MENDOCE descendu de la palissade.
+Enfin je suis venu,
+Et je ne fis jamais voyage tant a l'aise. 			[1895]
+O ma terre natale, il faut que je te baise.
+LEONARD
+C'est Mendoce, est-il fou ?
+MENDOCE
+Que mes yeux sont ravis !
+Vous etes donc aussi, Monsieur, en mon pays !
+Mais pour vous y porter, otez-moi de scrupule,
+Le Diable vous a-t-il aussi fourni de mule ? 			[1900]
+LEONARD
+As-tu l'esprit trouble, c'est ici mon jardin,
+Ne le connais-tu pas ?
+MENDOCE
+Ah, traitre Philipin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)PHILIPIN
+Le charme t'a manque.
+LEONARD
+Sont-ils fous l'un et l'autre ?
+DON FERNAND
+Excusez un valet qui s'est joue du votre.
+LEONARD
+Tout s'excuse aisement vous ayant pour ami. 			[1905]
+DON FERNAND
+Vous ne me connaissez encore qu'a demi.
+LEONARD
+Votre art si merveilleux...
+DON FERNAND
+Brisons-la je vous prie,
+Je vous entretiendrai de mon Astrologie,
+Mais il faut que ce soit avec plus de loisir.
+LEONARD
+Je vous ecouterai toujours avec plaisir.			[1910]
+Tandis pour degager ma parole donnee,
+Il faut de nos amants terminer l'hymenee,
+Allons-y donner ordre, et d'un esprit content
+Assurer a Don Juan le bonheur qu'il attend.
+
+	==================================================

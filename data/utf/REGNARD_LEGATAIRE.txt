@@ -1,0 +1,3047 @@
+********************************************************
+	DC.Title                  = LE LEGATAIRE UNIVERSEL, COMEDIE
+	DC.Author                 = REGNARD, Jean-Francois
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 a 19:30:27.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/REGNARD_LEGATAIRE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+LE LEGATAIRE UNIVERSEL COMEDIE en CINQ ACTES1704
+par Regnard
+	
+	
+	Representee pour la premiere fois le lundi 9 janvier 1708 au Theatre de la rue des Fosses Saint-Germain.
+	AVERTISSEMENT SUR LE LEGATAIRE UNIVERSEL.
+Cette comedie a ete representee pour la premiere fois le lundi 9 janvier 1708. Elle eut un succes complet ; et vingt representations que l'on en donna de suite dans sa nouveaute suffirent a peine pour satisfaire l'empressement du public. 
+M. de Voltaire a dit que celui qui ne se plaisait point avec Regnard n'etait pas digne d'admirer Moliere ; c'est surtout au Legataire que nous parait devoir s'appliquer ce mot : il n'est point de comedie d'un comique glus gai, et qui justifie mieux ce que disait de notre auteur le legislateur du Parnasse. Quelqu'un, croyant lui faire sa cour, traitait Regnard de poete mediocre : Despreaux repondit qu'il n'etait pas mediocrement plaisant. 
+Cependant la comedie du Legataire, malgre son succes, a ete vivement critiquee. On a reproche au poete d'avoir sacrifie la decence et les bonnes moeurs a son gout pour la plaisanterie, de n'avoir introduit sur la scene que des personnages vicieux, et d'avoir voulu faire rire le public, en mettant sous ses yeux des friponneries faites pour meriter le dernier supplice. 
+La meilleure de ces critiques est une lettre inseree dans le nouveau Mercure imprime a Trevoux, en fevrier 1708, page 110. Comme cette lettre contient quelques observations justes, quoique trop severes, nous en rapporterons ici quelques traits. 
+Apres avoir rendu justice en general au merite de la piece et a son effet theatral, l'anonyme passe en revue les principaux personnages. Voici ce qu'il dit de Lisette : « C'est une fille d'humeur assez gaie, et qui s'est mise depuis longtemps en possession de dire au vieux Geronte toutes ses verites, ou une bonne partie ; et cela, avec une liberte qu'elle peut avoir heritee de la Toinette du Malade imaginaire, ou de la Dorine du Tartufe, mais non pas tout a fait avec les memes graces. » 
+On convient avec l'anonyme qu'il y a beaucoup de ressemblance entre Lisette et les deux suivantes de Moliere ; mais on ajoute qu'elle n'est pas tant au-dessous de ses modeles qu'on voudrait le faire croire ; que la liberte qu'elle prend de donner son avis sur tout, et le ton de maitresse qu'elle s'arroge, convient parfaitement a la gouvernante d'un vieux goutteux, dont elle compose tout le domestique, et avec qui elle vivait depuis longtemps avec beaucoup de familiarite. 
+« Pour Crispin (continue le critique anonyme), valet du neveu, et amant declare de la servante de Geronte, c'est un valet a qui l'on veut donner de l'esprit, et dont on fait le principal intrigant de toute la piece. Il est deja veuf, et emploie, le mieux qu'il peut, ses talents et l'experience que l'age lui donne, a seconder l'inclination qu'il a d'etre fripon ; il jase beaucoup, promet merveilles, se met a tout, et tient le de dans les grands desseins et les coups d'importance. » 
+C'est effectivement cet intrigant qui est le principal personnage de la piece, et c'est a lui qu'on reproche aussi d'etre un fripon et un homme sans moeurs. Ce reproche ne devrait pas s'adresser particulierement a Regnard. De tout temps les poetes dramatiques ont mis des intrigants sur la scene, et ces intrigants sont toujours des fripons. 
+Si Moliere emploie le secours d'un intrigant pour tromper Pourceaugnac et le contraindre de retourner dans sa province, c'est dans la derniere classe des fripons qu'il choisit son Sbrigani. Voici comme il le peint lui-meme : « C'est un homme qui, vingt fois en sa vie, pour servir ses amis, a genereusement affronte les galeres ; qui, au peril de ses bras et de ses epaules, sait mettre noblement a fin les aventures les plus difficiles, et qui est exile de son pays pour je ne sais combien d'actions honorables qu'il a genereusement entreprises. » Nerine, qui seconde Sbrigani, est digne d'un pareil collegue. Sbrigani, en repondant au portrait que nous venons de citer, la loue de la gloire qu'elle s'est acquise. « Lorsque avec tant d'honnetete, lui dit-il, vous pipates au jeu, pour douze mille ecus, ce jeune seigneur etranger que l'on mena chez vous ; lorsque vous fites galamment ce faux contrat qui ruina toute une famille ; lorsque, avec tant de grandeur d'ame, vous sutes nier le depot qu'on vous avait confie, et que si genereusement on vous vit preter votre temoignage a faire pendre ces deux personnes qui ne l'avoient pas merite. » Lisette et Crispin ne sont pas plus vicieux que Sbrigani et Nerine. 
+Regnard a fait d'ailleurs tout ce qu'il a pu pour rendre ces deux personnages odieux ; il voulait qu'ils fussent plaisants, mais il n'a pas voulu qu'ils pussent interesser. Lisette, gouvernante du vieux Geronte, est une fille de moeurs suspectes. Crispin n'ignore pas qu'elle a vecu scandaleusement avec son maitre. Voici l'aveu qu'il en fait ; il dit a Eraste, acte IV, scene VII : 
+Elle est un peu de la famille. 
+Votre oncle, si l'on croit le lardon scandaleux, 
+N'a pas ete toujours impotent et goutteux ; 
+Et j'ai du lui laisser un peu de subsistance 
+Pour l'acquit de son ame et de ma conscience. 
+Quant a Crispin, qui est sur le point d'epouser Lisette, malgre la connaissance qu'il a de sa mauvaise conduite, c'est un homme vil, sans delicatesse, et qui compte pour rien les moeurs et la probite. 
+Bien loin de savoir mauvais gre a Regnard d'avoir ainsi caracterise ces deux fourbes, nous croyons qu'il y a de l'art d'avoir rassemble sur ces deux personnages tout ce qui pouvait les rendre meprisables ; c'est le seul moyen qui puisse excuser l'amusement que donnent leurs friponneries, et qui puisse empecher que leur exemple ne seduise. 
+On ne doit jamais se permettre, dans un drame, de faire faire a un personnage vertueux et interessant une action honteuse qui demente ses principes, et affaiblisse l'interet qu'il avait commence d'inspirer. On n'a pu souffrir dans un drame moderne l'image d'un fils volant son pere ; tandis que, dans la comedie de l'Avare, Cleanthe traverse le theatre, suivi de son valet qui emporte le tresor de son pere Harpagon. Ces deux actions, qui sont exactement les memes, ont neanmoins produit des effets bien differents. La derniere fait rire aux depens du vieil avare, qui recoit la juste punition de sa sordide avarice, et l'autre a generalement revolte. 
+En voila assez pour justifier Regnard, et pour repondre a la critique des auteurs de lHistoire du Theatre Francais. Lisette, disent-ils, est une soubrette d'assez mauvais exemple ; ils lui passent les bouillons de bouche et posterieurs qu'elle prend soin de donner a Geronte, mais il leur semble qu'une honnete fille n'aurait pas du ajouter : 
+De ma main il les trouve meilleurs : 
+Aussi, sans me targuer d'une vaine science, 
+J'entends ce metier-la mieux que fille de France. 
+Une fille honnete sans doute ne se serait pas permis un pareil propos. Mais Lisette n'est pas et ne devait pas etre une personne honnete : amante et complice de Crispin, elle devait etre peinte des memes couleurs. 
+Par une suite de leur premier raisonnement, les memes auteurs trouvent mauvais que Crispin soit instruit du lardon scandaleux qui attaque la reputation de la soubrette qu'il est sur le point d'epouser. C'est, disent-ils, le propre d'un homme depourvu de delicatesse. 
+Nous repetons encore que le poete aurait manque son but, s'il eut rendu Crispin susceptible de quelque espece d'honneur que ce soit. Aussi, non content de lui faire epouser de sang-froid une coquette, il le peint encore comme un homme accoutume a supporter de pareils affronts, et qui les compte meme pour si peu, qu'il se permet d'en railler. Voici comment il parle de sa premiere femme ; et ce qui met le comble a son effronterie, c'est a Lisette, qu'il doit epouser, qu'il tient ce discours : 
+Ma premiere femme etait assez gentille ; 
+Une Bretonne vive, et coquette surtout, 
+Qu'Eraste, que je sers, trouvait fort de son gout. 
+Je crois, comme toujours il fut aime des dames, 
+Que nous pourrions bien etre allies par les femmes ; 
+Et de monsieur Geronte il s'en faudrait bien peu 
+Que par la je ne fusse un arriere-neveu. 
+Un troisieme personnage, sur lequel s'exerce la critique de l'anonyme, est l'apothicaire Clistorel. « Le dernier de tous les personnages, dit-il, ou du moins celui que je mets le dernier, parce qu'il est le plus inutile... est un M. Clistorel, dont le nom seul vous fera aisement deviner la profession. Cest un apothicaire, reverence parler, mais un apothicaire renforce, qui est tout a la fois et l'apothicaire, et le medecin, et le chirurgien du vieillard. Quoiqu'il renferme en lui seul tous ces trois degres de la Faculte, il n'en est pas pour cela d'un plus grand volume, et on en fait un petit homme contrefait, a peu pres de la taille et de la figure du Diable boiteux : je ne sais pourquoi ; car je ne vois pas que les apothicaires soient faits autrement que les autres hommes : mais il ne faut pas chicaner la-dessus. Comme c'est une espece de personne episodique, et qui sert si peu a la piece, que quand elle n'y serait pas, elle n'en serait pas moins complete, on a pu, en cette qualite, le batir comme on a voulu. On pretend qu'il faut de ces sortes d'objets au parterre... Pour vous dire vrai, j'aurais mauvaise idee de son gout, si un nom tire de la seringue, et autres gentillesses de cette nature, lui faisaient grand plaisir a entendre. Moliere a mis en jeu les apothicaires, mais il l'a fait a propos, et par la il a plu. C'est une chose a quoi ceux qui travaillent pour le theatre ne font pas assez d'attention : parce qu'un medecin, un apothicaire, ont reussi sur le theatre, ils croient qu'il n'y a qu'a y mettre des medecins et des apothicaires ; et ils ne songent pas que ces personnages ont reussi, non pas parce que c'etaient des medecins et des apothicaires, mais parce que ces medecins et apothicaires etaient dans leur place, et parlaient a propos » .
+Voila une sortie bien longue contre une caricature episodique que le poete a inseree dans sa piece, sans autre dessein que celui de faire rire, dessein qui lui a parfaitement reussi. On ne peut disconvenir que ce personnage ne soit inutile ; on avoue avec les critiques que son role a beaucoup de ressemblance avec celui de Purgon dans le Malade imaginaire ; mais il n'est nullement vrai que ce personnage soit deplace et qu'il fasse tort a la piece. 
+La petitesse de sa taille n'est pas aussi indifferente qu'on se l'imagine ; elle donne a sa mutinerie, a sa colere, a son orgueil, un caractere de ridicule original et des plus plaisants : c'est le Ragotin du Roman comique, qui vaudrait beaucoup moins, s'il etait d'une taille et d'une structure ordinaires. Quant a son nom, il est tire de sa profession, ainsi que ceux des Purgon et des Diafoirus. 
+Non que nous approuvions l'usage ou sont les comediens de jouer ce role en marchant sur les genoux, ou de le faire jouer par un enfant : ces charges trop outrees ne sont dignes que des treteaux des foires ; la vraisemblance et le bon gout en sont egalement choques. 
+Nous n'entendons pas ce que l'anonyme veut dire en reprochant a ce personnage de n'etre point place a propos. S'il entend qu'il est purement episodique, et que la piece pouvait se passer de sa presence, nous sommes de son avis. S'il pretend que c'est un personnage deplace, dont rien ne motive l'apparition, et qui choque la vraisemblance, nous croyons qu'il se trompe. 
+Clistorel est le medecin et l'apothicaire de Geronte ; en ces qualites il lui donne ses soins. Il apprend que ce vieux goutteux songe a se marier, et qu'il a pris ce parti sans le consulter : la bile du petit Esculape s'echauffe ; il court chez son malade le quereller comme il convient, et le punir de sa folie en lui annoncant qu'il l'abandonne. Cette scene, calquee peut-etre sur celle de Purgon du Malade imaginaire, n'est ni plus deplacee, ni plus denuee de vraisemblance que son modele. 
+Les deux scenes episodiques, dans lesquelles Crispin prend les noms et les ajustements du neveu Normand et de la niece du Maine, pour indisposer le vieillard contre ces deux parents, et l'empecher de leur laisser a chacun une somme de vingt mille livres, sont, comme l'observe l'anonyme, imitees des anciennes scenes italiennes. On doit convenir avec les critiques que cette ruse est d'une invention ancienne, et que c'est un stratageme use au theatre. Mais si Regnard n'a pas le faible merite d'avoir imagine ces scenes, il a celui de les avoir superieurement traitees, d'y avoir repandu ce comique, cette gaite, qui lui etaient propres, et qui en ont fait tout le succes. 
+Le succes de ces sortes de scenes, dont l'effet est toujours sur au theatre, depend absolument de la maniere dont elles sont mises en oeuvre. C'est ainsi que, posterieurement a Regnard, Le Sage a su plaire dans Crispin rival de son maitre, en employant une scene imitee d'un ancien canevas italien, mais a laquelle il a su donner tout le charme de la nouveaute. 
+On a pretendu que le sujet du Legataire universel etait tire d'un fait arrive du temps de Regnard. Nous n'avons pas de connaissance de ce fait. Quoi qu'il en soit, l'auteur en a tire le plus grand parti, et en a compose une piece qui merite une place distinguee dans notre theatre. 
+L'auteur de la lettre critique dont nous avons cite plusieurs traits a pretendu que le jeu des acteurs avait beaucoup contribue au succes de la piece, et qu'elle perdrait la lecture. Sa prediction ne s'est pas verifiee ; et c'est a ce critique que Palaprat adressa le rondeau suivant : 
+RONDEAU sur le legataire universel. 
+Il est aise de dire avec hauteur 
+Fi d'une piece, en faisant le docteur 
+Qui, pour arret, nous donne sa grimace. 
+Contre Regnard la grenouille croasse ; 
+En est-il moins au gout du spectateur ? 
+Je le soutiens, et ne suis point flatteur, 
+De notre scene il sait l'art enchanteur. 
+Il y fait rire, il badine avec grace, 
+Il est aise. 
+Sans le secours des charmes de l'acteur, 
+Le Legataire aura chez le lecteur 
+Le meme sort. Malgre toi, vile race, 
+Bas envieux, chose rare au Parnasse, 
+Outre qu'en tout Regnard est bon auteur, 
+Il est aise. 
+Note : Croasser exprime le cri du corbeau ; et coasser, celui de la grenouille. Il faudrait donc ici la grenouille coasse. On trouve la meme faute dans les Folies amoureuses, acte II, scene VII. 
+
+AVERTISSEMENT de l'edition stereotype de 1801.
+On sait qu'un fait veritable a donne l'idee de la piece du Legataire. La scene du testament fut en effet jouee longtemps avant que Regnard imaginat d'en faire une comedie : mais ce que tout le monde ne sait pas, c'est que ce furent les jesuites de Rome qui l'executerent. Cette anecdote est assez curieuse pour que nous nous empressions de la mettre sous les yeux de nos lecteurs. Les details que nous publions sont extraits des notes qui suivent la tragedie des Jammabos. L'auteur assure qu'ils n'ont jamais ete imprimes, et croit pouvoir en garantir l'authenticite. Voici cette anecdote : 
+EXTRAIT DES NOTES qui suivent la tragedie des Jammabos. 
+Antoine-Francois Gauthiot, seigneur d'Ancier, etait d'une famille noble de Franche-Comte, et y possedait de grands biens. Riche, et vieux garcon, c'etait un titre pour meriter l'attention des jesuites : aussi ceux de la ville de Besancon, ou il faisait sa demeure, n'oublierent rien pour gagner son amitie et sa succession. Ils ecrivirent a leurs confreres de Rome, quand M. d'Ancier y alla, en 1626, et ils recommanderent beaucoup cet interessant voyageur, en les informant des vues qu'ils avaient sur lui. Notre Franc-Comtois en recut donc le plus grand accueil. Il tomba malade, et ne put alors refuser a leurs instances d'aller prendre un logement chez eux, c'est-a-dire dans la maison du grand Jesus, habitee par le general meme de la societe. Cependant la maladie empira ; M. d'Ancier mourut ; et, ce qui etait le plus facheux pour ses hotes, il mourut ab intestat.
+Grande desolation parmi les compagnons de Jesus. Heureusement pour eux, ils avaient alors un frere qui etait reste longtemps a leur maison de Besancon. Ce modele des Crispins, voyant la douleur generale, entreprend de la calmer. Son esprit inventif lui fait apercevoir du remede a un malheur qui n'en parait pas susceptible ; et le digne serviteur apprend a ses maitres qu'il connait en Franche-Comte un paysan dont la voix ressemble tellement a celle du defunt, que tout le monde s'y trompait. A ce coup de lumiere, l'esperance des peres se ranime : ils conviennent de cacher la mort de l'ingrat qui est parti sans payer son gite, et de faire venir l'homme que la Providence a mis en etat de les servir dans cette importante occasion. 
+C'etait un nomme Denis Euvrard, fermier d'une grange appartenante a M. d'Ancier lui-meme, et situee au village de Montferrand, pres de Besancon. Mais comment le determiner a entreprendre ce voyage ? Le frere jesuite avait donne l'idee du projet ; on le charge de l'execution. Le voila parti pour la Franche-Comte. Il arrive, et va trouver Denis Euvrard. Il ne l'aborde qu'en secret, et commence par le faire jurer de ne rien reveler, meme a sa femme, de ce qu'il lui vient apprendre. Alors il lui dit que M. d'Ancier est malade a Rome, et veut faire son testament ; mais qu'ayant auparavant des choses essentielles a lui communiquer, il l'envoie chercher, et promet de le recompenser genereusement. Le fermier ne balance pas : sans parler de son voyage a personne, il se met en route avec le frere, et tous deux se rendent a Rome dans la maison du grand Jesus. 
+Des que Denis Euvrard y est entre, deux jesuites viennent a sa rencontre : « Ah, mon pauvre ami ! lui disent-ils avec l'air et le ton de la douleur, vous arrivez trop tard ; M. dAncier est mort : c'est une grande perte pour nous et pour vous. Son intention etait de vous donner sa grange de Montferrand, et de leguer le reste de ses biens a nos peres de Besancon : mais il n'y faut plus songer » Alors ils le conduisent dans une chambre ; on l'y laisse se reposer ; et il demeure seul, abandonne a ses tristes reflexions. Le lendemain, un des memes peres qui l'avaient entretenu la veille revient le voir, et la conversation retombe sur le meme sujet. « Mon cher Euvrard, lui dit le jesuite, il me vient une idee. C'etait l'intention de M. d'Ancier de faire son testament : il voulait vous donner sa grange de Montferrand, et nous laisser le surplus de ce qu'il possedait. Vous avouerez qu'il etait maitre de ses biens ; il pouvait en disposer comme il le jugeait convenable : ainsi l'on peut regarder ces biens comme nous etant deja donnes devant Dieu. Il ne manque donc que la formalite du testament ; mais c'est un petit defaut de forme qu'il est possible de reparer. Je me suis apercu que vous avez la voix entierement semblable a celle de M. d'Ancier : vous pourriez facilement le representer dans un lit, et dicter un testament conforme a ses intentions. Surtout vous n'oublierez pas de vous donner la grange de Montferrand. » 
+Le bon fermier se rendit sans peine a l'avis du casuiste. Le pere jesuite, que le frere avait parfaitement instruit des biens du defunt, fit faire a Denis Euvrard plusieurs repetitions du role qu'il devait jouer. Enfin, lorsque celui-ci parut assez exerce, il fut mis dans un lit ; on manda le notaire ; et deux hommes distingues de la Franche-Comte, l'un conseiller au parlement, l'autre chanoine de la metropole, qui se trouvaient alors Rome, furent invites de la part de Mr. d'Ancier a venir assister a son testament. Il faut observer que, depuis quelque temps, ces deux personnes s'etaient souvent presentees pour voir M. d'Ancier, et qu'on leur avait toujours repondu qu'il n'etait pas en etat de les recevoir. 
+Quand le notaire et tous les temoins furent arrives, le soi-disant moribond, bien enfonce dans le lit, son bonnet sur les yeux, le visage tourne contre le mur, et ses rideaux a peine entr'ouverts, dit quelques mots a ses deux compatriotes ; puis on s'occupa de l'acte pour lequel on etait assemble. 
+Apres le preambule ordinaire, le testateur revoque tout testament qu'il pourrait avoir fait precedemment, et tout autre qu'il pourrait faire par la suite, a moins qu'il ne commence par ces mots, Ave, Maria, gratia plena. Il elit sa sepulture dans l'eglise des reverends peres jesuites de Rome, sous le bon plaisir et vouloir du reverend pere general. Il donne et legue une somme de cinquante francs a chacune des pauvres communautes religieuses de Besancon, et une autre somme aussi tres modique, avec un tableau, a l'un de ses parents. « Item, continue-t-il, je donne et legue a Denis Euvrard, mon fermier, ma grange de Montferrand el toutes ses dependances. » - A ces derniers mots, le jesuite, qui etait assis aupres du lit, parut fort etonne. L'acteur ajoutait a son role, et ce n'etait point ainsi qu'on l'avait fait rep6ter. L'enfant d'Ignace observa donc au testateur que ces dependances etaient considerables, puisqu'elles comprenaient un moulin, un petit bois, et des cens; mais l'homme qui etait dans le lit ne voulut en rien rabattre, et soutint qu'il avait les plus grandes obligations a ce fermier. 
+Item, je donne et legue audit Denis Euvrard ma vigne situee a la cote des Macons, et de la contenance de quatre-vingts ouvrees. » - Nouvelle observation de la part .du reverend pere ; meme reponse de la part du testateur. 
+Item, je donne et legue audit Denis Euvrard mille ecus a choisir dans mes meilleures constitutions de rente, et tout ce qu'il peut me redevoir de termes arrieres pour son bail de la grange de Montferrand. 
+Ici le jesuite, outre de depit, voulut encore faire des remontrances ; mais il n'en eut pas le temps, et la parole lui fut coupee par le malade.
+Item, je donne et legue une somme de cinq cents francs a l'enfant de la niece dudit Denis Euvrard : sans doute que cet enfant est de mes oeuvres. 
+Le reverend pere etait reste sans voix ; mais il etouffait de colere. Enfin le testateur declara que, « quant au surplus de ses biens, il nommait, instituait ses heritiers seuls et universels pour le tout les peres jesuites de la maison de Besancon, a la charge par eux de batir leur eglise suivant le plan projete, d'y eriger une chapelle sous l'invocation de saint Antoine et de saint Francois, ses bons patrons, et de celebrer dans ladite chapelle une messe quotidienne pour le repos de son ame. » 
+Tel est ce testament singulier qui a servi de modele a celui de Crispin, et qui n'est certainement pas moins plaisant. Mais M. d'Ancier ne fit point comme Geronte, il ne revint pas. Sa mort fut annoncee le lendemain ; on publia le testament a l'officialite de Besancon ; et les jesuites furent mis en possession de cet heritage. 
+Quelques annees apres, Denis Euvrard se trouva veritablement dans l'etat qu'il avait si bien joue a Rome. Voyant qu'il touchait a la fin de sa vie, il sentit des remords, et fit a son cure l'aveu de tout ce qui s'etait passe. Celui-ci, qui n'avait point etudie la morale dans les casuistes de la Societe de Jesus, representa au moribond l'enormite de son crime. Ce pasteur eclaire lui dit que, devant un notaire, assiste du juge du lieu et de plusieurs temoins, il fallait declarer dans le plus grand detail la manoeuvre a laquelle il s'etait prete, et faire en meme temps aux heritiers de M. d'Ancier un abandon, non seulement des biens qu'il s'etait donnes, mais encore de tout ce qu'il possedait. La declaration et l'abandon furent faits dans toutes les formes, et suivis de la mort de Denis Euvrard. 
+Des que les heritiers naturels de M. d'Ancier eurent en main des pieces si fortes, ils se pourvurent contre le testament. Ils gagnerent d'abord a Besancon, dans le premier degre de juridiction. On en appela au parlement de Dole ; ils gagnerent encore. Une derniere ressource restait a la Societe, et le proces fut porte au conseil supreme de Bruxelles (car la Franche-Comte, soumise a l'Espagne, dependait alors du gouvernement de Flandre). Dans ce dernier tribunal le credit et les intrigues des jesuites prevalurent enfin ; les deux premiers jugements furent casses ; les peres furent maintenus dans la possession des biens dont ils jouissaient, et on lit encore sur le frontispice de leur eglise, possedee a present par le college de Besancon : Ex munificentia domini d'Ancier. 
+On ne peut douter que Regnard, qui voyagea beaucoup dans sa jeunesse, n'ait eu connaissance de cette anecdote. Il en fut vraisemblablement instruit a Bruxelles, ou il alla en 1681, c'est-a-dire dans un temps ou l'on devait y conserver encore la memoire de ce singulier proces, puisqu'il avait eu pour temoins tous ceux des habitants de cette ville qui se trouvaient alors ages de cinquante a soixante ans. Quand le poete composa dans la suite sa comedie du Legataire, il se garda bien de citer la source qui lui en avait fourni l'idee ; c'etait l'epoque de la plus grande puissance des jesuites : il eut donc la prudence de cacher ce que sa piece leur devait, et ces peres eurent la modestie de ne pas le reclamer.
+Il parait cependant que Regnard ne s'attribua point la gloire de l'invention, ou du moins qu'elle lui fut contestee. C'est ce que semble indiquer un passage du Dictionnaire portatif des Theatres. « On pretend, y est-il dit a l'article du Legataire, qu'un fait veritable a donne l'idee de cette piece. » Mais ce fait n'etait guere connu que dans la Franche-Comte, ou il a toujours ete de notoriete publique. 
+
+PERSONNAGES
+GERONTE, oncle d'Eraste.
+ERASTEERASTE, amant d'Isabelle.
+MADAME ARGANTE, mere d'Isabelle.
+ISABELLE, fille de Mme Argante. 
+LISETTE, servante de Geronte.
+CRISPIN, valet d'Eraste.
+MONSIEUR CLISTOREL, apothicaire.
+MONSIEUR SCRUPULE, notaire.
+MONSIEUR GASPARD, notaire.
+UN LAQUAIS.
+La scene est a Paris, chez Monsieur Geronte.
+
+
+
+			ACTE I
+
+
+SCENE I. Lisette, Crispin.
+LISETTE.
+Bonjour, Crispin, bonjour. 
+CRISPIN.
+Bonjour, belle Lisette. 
+Mon maitre, toujours plein du soin qui linquiete, 
+Menvoie a ton lever, zele collateral, 
+Savoir comment son oncle a passe la nuit. 
+LISETTE.
+Mal. 
+CRISPIN.
+Le bon homme, charge de fluxions, d'annees, 			[5]
+Lutte depuis longtemps contre les destinees, 
+Et pare de la mort le trait fatal en vain ; 
+Il nevitera pas celui du medecin. 
+Il garde le dernier ; et ce corps cacochyme 
+Est a son art fatal devoue pour victime. 			[10]
+Nous prevoyons dans peu qu'un petit ou grand deuil 
+Etendra de son long Geronte en un cercueil. 
+Si mon maitre pouvait etre fait legataire, 
+Je ferais de bon coeur les frais du luminaire. 
+LISETTE.
+Un remede par moi lui vient d'etre donne, 			[15]
+Tel que l'apothicaire en avait ordonne. 
+J'ai cru que ce serait le dernier de sa vie ; 
+Il est tombe sur moi deux fois en lethargie- 
+CRISPIN.
+De ses bouillons de bouche, et des posterieurs, 
+Tu prends soin ? 
+LISETTE.
+De ma main il les trouve meilleurs : 			[20]
+Aussi, sans me targuer d'une vaine science, 
+J'entends ce metier-la mieux que fille de France. 
+CRISPIN.
+Peste, le beau talent ! Tu te fais bien payer, 
+Je crois, de tous les soins qu'il te fait employer. 
+LISETTE.
+Il ne me donne rien ; mais j'ai, pour recompense, 			[25]
+Le droit de lui parler avec toute licence. 
+Je lui dis, a son nez, des mots assez piquants : 
+Voila tous les profits que j'ai depuis cinq ans. 
+C'est le plus ladre vert qu'on ait vu de la vie. 
+Je ne puis t'exprimer ou va sa vilenie. 			[30]
+Il trouve tous les jours, dans son fecond cerveau, 
+Quelque trait d'avarice admirable et nouveau. 
+Il a pour medecin pris un apothicaire 
+Pas plus haut que ma jambe, et de taille sommaire : 
+Il croit qu'etant petit, il lui faut moins d'argent ; 			[35]
+Et qu'attendu sa taille, il ne paiera pas tant. 
+CRISPIN.
+S'il est court, il fera de tres longues parties. 
+LISETTE.
+Mais dans son testament ses graces departies 
+Doivent me racquitter de son avare humeur : 
+Ainsi je renouvelle avec soin mon ardeur. 			[40]
+CRISPIN.
+Il fait son testament ? 
+LISETTE.
+Dans peu de temps, j'espere 
+Y voir coucher mon nom en riche caractere. 
+CRISPIN.
+C'est tres bien esperer : j7espere bien encor 
+Y voir aussi coucher le mien en lettres d'or. 
+LISETTE.
+Tout beau, l'ami, tout beau ! L'on dirait, a t'entendre, 			[45]
+Qu'a la succession tu peux aussi pretendre.
+Deja ne sont-ils pas assez de concurrents, 
+Sans t'aller mettre encore au rang des aspirants ? 
+Il a tant d'heritiers, le bon seigneur Geronte, 
+Il en a tant et tant, que parfois j'en ai honte : 			[50]
+Des oncles, des neveux, des nieces, des cousins, 
+Des arriere-cousins remues de germains ; 
+J'en comptai l'autre jour, en lignes paternelles, 
+Cent sept males vivants : juge encor des femelles. 
+CRISPIN.
+Oui ! Mais mon maitre aspire a la plus grosse part : 			[55]
+J'en pourrais bien aussi tirer ma quote-part ; 
+Je suis un peu parent, et tiens a la famille. 
+LISETTE.
+Toi ? 
+CRISPIN.
+Ma premiere femme etait assez gentille, 
+Une Bretonne vive, et coquette surtout, 
+Qu'Eraste, que je sers, trouvait fort a son gout : 			[60]
+Je crois, comme toujours il fut aime des dames, 
+Que nous pourrions bien etre allies par les femmes ; 
+Et de monsieur Geronte il s'en faudrait bien peu 
+Que par la je ne fusse un arriere-neveu. 
+LISETTE.
+Oui-da ; tu peux passer pour parent de campagne, 			[65]
+Ou pour neveu, suivant la mode de Bretagne. 
+CRISPIN.
+Mais, raillerie a part, nous avons grand besoin 
+Qu'a faire un testament Geronte prenne soin. 
+Si mon maitre, primo, n'est nomme legataire, 
+Le reste de ses jours il fera maigre chere. 			[70]
+Secundo, quoiqu'il soit diablement amoureux, 
+Madame Argante, avant de couronner ses feux, 
+Et de le marier a sa fille Isabelle, 
+Veut qu'un bon testament, bien sur et bien fidele, 
+Fasse ledit neveu legataire de tout. 			[75]
+Mais ce qui doit le plus etre de notre gout, 
+C'est qu'Eraste nous fait trois cents livres de rente, 
+Si nous reussissons au gre de son attente : 
+Ce don, de notre hymen formera les liens. 
+Ainsi tant de raisons sont autant de moyens 			[80]
+Que j'emploie a prouver qu'il est tres necessaire 
+Que le susdit neveu soit nomme legataire ; 
+Et je conclus enfin qu'il faut conjointement 
+Agir pour arriver au susdit testament. 
+LISETTE.
+Comment diable ! Crispin, tu plaides comme un ange ! 			[85]
+CRISPIN.
+Je le crois. Mon talent te parait-il etrange ? 
+J'ai brille dans l'etude avec assez d'honneur, 
+Et l'on m'a vu trois ans clerc chez un procureur. 
+Sa femme etait jolie ; et, dans quelques affaires, 
+Nous jugions a huis clos de petits commissaires. 			[90]
+LISETTE.
+La boutique etait bonne. Eh ! Pourquoi la quitter ? 
+CRISPIN.
+L'epoux un peu jaloux m'en a fait deserter. 
+Un procureur n'est pas un homme fort traitable : 
+Sur sa femme il m'a fait des chicanes de diable. 
+J'ai bataille, ma foi, deux ans sans en sortir ; 			[95]
+Mais je fus a la fin contraint de deguerpir. 
+SCENE II. Eraste, Lisette, Crispin.
+CRISPIN.
+Mais mon maitre parait. 
+ERASTE.
+Ah ! Te voila, Lisette ! 
+Gueris-moi, si tu peux, du soin qui m'inquiete. 
+He bien ! Mon oncle est-il en etat d'etre vu ? 
+LISETTE.
+Ah, monsieur ! Depuis hier il est encor dechu ; 			[100]
+J'ai cru que cette nuit serait sa nuit derniere, 
+Et que je fermerais pour jamais sa paupiere. 
+Les lettres de repit qu'il prend contre la mort 
+Ne lui serviront guere, ou je me trompe fort. 
+ERASTE.
+Ah, ciel ! Que dis-tu la ? 
+LISETTE.
+C'est la verite pure. 			[105]
+ERASTE.
+Quel que soit mon espoir, je sens que la nature 
+Excite dans mon coeur de tristes sentiments. 
+CRISPIN.
+Je sentis autrefois les memes mouvements, 
+Quand ma femme passa les rives du Cocyte 
+Pour aller en bateau rendre aux defunts visite. 			[110]
+J'en avais dans le coeur un plaisir plein d'appas, 
+Comme tant de maris l'auraient en pareil cas ; 
+Cependant la nature, excitant la tristesse, 
+Faisait quelque conflit avecque l'allegresse, 
+Qui par certains ressorts et melanges confus, 			[115]
+Combattaient tour a tour, et prenaient le dessus ; 
+En sorte que l'espoir... la douleur legitime... 
+L'amour... On sent cela bien mieux qu'on ne l'exprime. 
+Mais ce que je puis dire, en vous accusant vrai, 
+C'est que, tout a la fois, j'etais et triste et gai. 			[120]
+ERASTE.
+Je ressens pour mon oncle une amitie sincere ; 
+Je donne dans son sens en tout pour lui complaire ; 
+Quoi qu'il dise ou qu'il fasse, ayant le droit ou non, 
+Je conviens avec lui qu'il a toujours raison. 
+LISETTE.
+Il faut que le vieillard soit mal dans ses affaires, 			[125]
+Puisqu'il m'a commande d'aller chez deux notaires. 
+CRISPIN.
+Deux notaires, helas ! Cela me fend le coeur. 
+LISETTE.
+C'est pour instrumenter avecque plus d'honneur. 
+ERASTE.
+He ! Dis-moi, mon enfant, en pleine confidence, 
+Puis-je, sans me flatter, former quelque esperance ? 			[130]
+LISETTE.
+Elle est tres bien fondee ; et, depuis quelques jours, 
+Avec madame Argante il tient certains discours 
+Ou l'on parle tout bas de legs, de mariage : 
+Je n'ai de leur dessein rien appris davantage. 
+Votre maitresse est mise aussi dans l'entretien. 			[135]
+Pour moi, je crois qu'il veut vous laisser tout son bien, 
+Et vous faire epouser Isabelle. 
+ERASTE.
+Ah ! Lisette, 
+Que tu flattes mes sens ! Que ma joie est parfaite ! 
+Ce n'est point l'interet qui m'anime aujourd'hui ; 
+Un dieu beaucoup plus fort et plus puissant que lui, 			[140]
+L'Amour, parle en mon coeur : la charmante Isabelle 
+Est de tous mes desirs une cause plus belle, 
+Et pour le testament me fait faire des voeux... 
+LISETTE.
+L'Amour et l'interet seront contents tous deux. 
+Serait-il juste aussi qu'un si bel heritage 			[145]
+De cent coheritiers devint le sot partage ? 
+Verrais-je d'un oeil sec dechirer par lambeaux, 
+Par tant de campagnards, de pieds-plats, de nigauds, 
+Une succession qui doit, par parenthese, 
+Vous rendre un jour heureux, et nous mettre a notre aise ? 			[150]
+Car vous savez, monsieur... 
+ERASTE.
+Va, tranquillise-toi ; 
+Ce que j'ai dit est dit ; repose-toi sur moi. 
+LISETTE.
+Si votre oncle vous fait le bien qu'il se propose, 
+Sans trop vanter mes soins, j'en suis un peu la cause : 
+Je lui dis tous les jours qu'il n'a point de neveux 			[155]
+Plus doux, plus complaisants, ni plus respectueux ; 
+Non par l'espoir du bien que vous pouvez attendre, 
+Mais par un naturel et delicat et tendre. 
+CRISPIN.
+Que cette fille-la connait bien votre coeur ! 
+Vous ne sauriez, ma foi, trop payer son ardeur. 			[160]
+Je dois, dans peu de temps, contracter avec elle. 
+Regardez-la, monsieur ; elle est et jeune et belle : 
+N'allez pas en user comme de l'autre, non ! 
+LISETTE.
+Monsieur Geronte vient, il faut changer de ton. 
+Je n'ai point eu le temps d'aller chez les notaires. 			[165]
+Toi, qui m'as trop longtemps parle de tes affaires, 
+Va vite, cours, dis-leur qu'ils soient prets au besoin. 
+L'un s'appelle Gaspard, et demeure a ce coin ; 
+Et l'autre un peu plus bas, et se nomme Scrupule. 
+CRISPIN.
+Voila pour un notaire un nom bien ridicule. 			[170]
+SCENE III. Geronte, Eraste, Lisette, un Laquais.
+GERONTE.
+Ah ! Bonjour, mon neveu. 
+ERASTE.
+Je suis, en verite, 
+Charme de vous revoir en meilleure sante. 
+Le Laquais apporte une chaise. 
+De grace, asseyez-vous. Ote donc cette chaise ; 
+Mon oncle en ce fauteuil sera plus a son aise. 			[175]
+Le Laquais ote la chaise, apporte un fauteuil, et sort. 
+SCENE IV. Geronte, Eraste, Lisette.
+GERONTE.
+J'ai, cette nuit, ete secoue comme il faut, 
+Et je viens d'essuyer un dangereux assaut : 
+Un pareil, a coup sur, emporterait la place. 
+ERASTE.
+Vous voila beaucoup mieux ; et le ciel, par sa grace, 			[180]
+Pour vos jours en peril nous permet d'esperer. 
+Il faut presentement songer a reparer 
+Les desordres qu'a pu causer la maladie, 
+Vous faire desormais un regime de vie, 
+Prendre de bons bouillons, de surs confortatifs, 			[185]
+Nettoyer l'estomac par de bons purgatifs, 
+Enfin ne vous laisser manquer de nulles choses. 
+GERONTE.
+Oui, j'aimerais assez ce que tu me proposes ; 
+Mais il faut tant d'argent pour se faire soigner, 
+Que, puisqu'il faut mourir, autant vaut l'epargner. 			[190]
+Ces porteurs de seringue ont pris des airs si rogues !... 
+Ce n'est qu'au poids de l'or qu'on achete leurs drogues. 
+Qui pourrait s'en passer et mourir tout d'un coup, 
+De son vivant, sans doute, epargnerait beaucoup. 
+ERASTE.
+Oui, vous avez raison ; c'est une tyrannie : 			[195]
+Mais je ferai les frais de votre maladie. 
+La sante dans le monde etant le premier bien, 
+Un homme de bon sens n'y doit menager rien. 
+De vos maux negliges vous guerirez sans doute. 
+Tachons a reparer vos forces, quoi qu'il coute. 			[200]
+GERONTE.
+C'est tout argent perdu dans cette occasion ; 
+La maison ne vaut pas la reparation. 
+Je veux, mon cher neveu, mettre ordre a mes affaires. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)As-tu dit qu'on allat me chercher deux notaires ? 
+LISETTE.
+Oui, monsieur, et dans peu vous les verrez ici. 			[205]
+GERONTE.
+Et dans peu vous saurez mes sentiments aussi ; 
+Je veux, en bon parent, vous les faire connaitre. 
+ERASTE.
+Je me doute a peu pres de ce que ce peut etre. 
+GERONTE.
+J'ai des collateraux... 
+LISETTE.
+Oui vraiment, et beaucoup. 
+GERONTE.
+Qui, d'un regard avide, et d'une dent de loup, 			[210]
+Dans le fond de leur coeur devorent par avance 
+Une succession qui fait leur esperance. 
+ERASTE.
+Ne me confondez pas, mon oncle, s'il vous plait, 
+Avec de tels parents. 
+GERONTE.
+Je sais ce qu'il en est. 
+ERASTE.
+Votre sante me touche, et me plait davantage 			[215]
+Que tout l'or qui pourrait me tomber en partage. 
+GERONTE.
+J'en suis persuade. Je voudrais me venger 
+D'un vain tas d'heritiers, et les faire enrager ; 
+Choisir une personne honnete et qui me plaise, 
+Pour lui laisser mon bien et la mettre a son aise. 			[220]
+ERASTE.
+Vous devez la-dessus suivre votre desir. 
+LISETTE.
+Non, je ne comprends pas de plus charmant plaisir 
+Que de voir d'heritiers une troupe affligee, 
+Le maintien interdit, et la mine allongee, 
+Lire un long testament ou, pales, etonnes, 			[225]
+On leur laisse un bonsoir avec un pied de nez. 
+Pour voir au naturel leur tristesse profonde, 
+Je reviendrais, je crois, expres de l'autre monde. 
+GERONTE.
+Quoique deja je sois atteint et convaincu, 
+Par les maux que je sens, d'avoir longtemps vecu ; 			[230]
+Quoiqu'un sable brulant cause ma nephretique, 
+Que j'endure les maux d'une acre sciatique, 
+Qui, malgre le baton que je porte en tout lieu, 
+Fait souvent qu'en marchant je dissimule un peu ; 
+Je suis plus vigoureux que l'on ne s'imagine, 			[235]
+Et je vois bien des gens se tromper a ma mine. 
+LISETTE.
+Il est de certains jours de barbe, ou, sur ma foi, 
+Vous ne paraissez pas plus malade que moi. 
+GERONTE.
+Est-il vrai ? 
+LISETTE.
+Dans vos yeux un certain eclat brille. 
+GERONTE.
+J'ai toujours reconnu du bon dans cette fille. 			[240]
+Je veux pourtant songer a mettre ordre a mon bien, 
+Avant qu'un prompt trepas m'en ote le moyen. 
+Tu connais et tu vois parfois madame Argante ? 
+ERASTE.
+Oui : dans ses procedes elle est toute charmante. 
+GERONTE.
+Et sa fille Isabelle, euh, la connais-tu ? 
+ERASTE.
+Fort. 			[245]
+C'est une fille sage, et qui charme d'abord. 
+GERONTE.
+Tu conviens que le ciel a verse dans son ame 
+Les qualites qu'on doit chercher en une femme ? 
+ERASTE.
+Je ne vois point d'objet plus digne d'aucuns voeux, 
+Ni de fille plus propre a rendre un homme heureux. 			[250]
+GERONTE.
+Je m'en vais l'epouser. 
+ERASTE.
+Vous, mon oncle ? 
+GERONTE.
+Moi-meme. 
+ERASTE.
+J'en ai, je vous l'avoue, une allegresse extreme. 
+LISETTE.
+Misericorde ! Helas ! Ah ciel ! Assiste-nous. 
+De quelle malheureuse allez-vous etre epoux ?
+GERONTE.
+D'Isabelle, en ce jour ; et, par ce mariage, 			[255]
+Je lui donne, a ma mort, tout mon bien en partage. 
+ERASTE.
+Vous ne pouvez mieux faire, et j'en suis tres content : 
+Je voudrais, comme vous, en pouvoir faire autant. 
+LISETTE.
+Quoi ! Vous, vieux et casse, fievreux, epileptique, 
+Paralytique, etique, asthmatique, hydropique, 			[260]
+Vous voulez de l'hymen allumer le flambeau, 
+Et ne faire qu'un saut de la noce au tombeau ! 
+GERONTE.
+Je sais ce qu'il me faut : apprenez, je vous prie, 
+Que meme ma sante veut que je me marie. 
+Je prends une compagne, et de qui tous les jours 			[265]
+Je pourrai, dans mes maux, tirer de grands secours. 
+Que me sert-il d'avoir une avide cohorte 
+D'heritiers, qui toujours veille et dort a ma porte ; 
+De gens qui, furetant les clefs du coffre-fort, 
+Me detendront mon lit peut-etre avant ma mort ? 			[270]
+Une femme, au contraire, a son devoir fidele, 
+Par des soins conjugaux me marquera son zele ; 
+Et de son chaste amour recueillant tout le fruit, 
+Je me verrai mourir en repos et sans bruit. 
+ERASTE.
+Mon oncle parle juste, et ne saurait mieux faire 			[275]
+Que de se menager un secours necessaire. 
+Une femme econome et pleine de raison, 
+Prendra seule le soin de toute la maison. 
+GERONTE, l'embrassant.
+Ah ! Le joli garcon ! Aurais-je du m'attendre 
+Qu'il eut pris cette affaire ainsi qu'on lui voit prendre ? 			[280]
+ERASTE.
+Votre bien seul m'est cher. 
+GERONTE.
+Va, tu n'y perdras rien ; 
+Quoi qu'il puisse- arriver, je te ferai du bien, 
+Et tu ne seras pas frustre de ton attente. 
+SCENE V. Geronte, Eraste, Lisette, un Laquais.
+GERONTE.
+Mais quelqu'un vient ici. 
+UN LAQUAIS.
+Monsieur, madame Argante 
+Et sa fille sont la. 
+ERASTE.
+Je vais les amener. 			[285]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Geronte, Lisette, le Laquais.
+GERONTE.
+Mon chapeau, ma perruque. 
+LISETTE.
+On va vous les donner. 
+Les voila. 
+GERONTE.
+Ne va pas leur parler, je te prie, 
+Ni de mon lavement, ni de ma lethargie. 
+LISETTE.
+Elles ont toutes deux bon nez ; dans un moment 
+Elles le sentiront de reste assurement. 			[290]
+SCENE VII. Mme Argante, Isabelle, Geronte, Eraste, Lisette, le Laquais.
+MADAME ARGANTE.
+Nous avons, ce matin, appris de vos nouvelles, 
+Qui nous ont mis pour vous en des peines mortelles. 
+Vous avez, ce dit-on, tres mal passe la nuit. 
+GERONTE.
+Ce sont mes heritiers qui font courir ce bruit ; 
+Ils me voudraient deja voir dans la sepulture : 			[295]
+Je ne me suis jamais mieux porte, je vous jure : 
+ERASTE.
+Mon oncle a le visage, ou du moins peu s'en faut, 
+D'un galant de trente ans. 
+LISETTE, a part.
+Oui, qui mourra bientot. 
+GERONTE.
+Je serais bien malade, et plus qu'a l'agonie, 
+Si des yeux aussi beaux ne me rendaient la vie. 			[300]
+MADAME ARGANTE.
+Ma fille, en ce moment vous voyez devant vous 
+Celui que je vous ai destine pour epoux. 
+GERONTE.
+Oui, madame, c'est vous (pour le moins je m'en flatte) 
+Qui guerirez mes maux mieux qu'un autre Hippocrate. 
+Vous etes pour mon coeur comme un julep futur, 			[305]
+Qui doit le nettoyer de ce qu'il a d'impur : 
+Mon hymen avec vous est un sur emetique ; 
+Et je vous prends enfin pour mon dernier topique. 
+ISABELLE.
+Je ne sais pas, monsieur, pour quoi vous me prenez ; 
+Mais ce choix m'interdit, et vous me surprenez. 			[310]
+MADAME ARGANTE.
+Monsieur, vous epousant, vous fait un avantage 
+Qui doit faire oublier et ses maux et son age ; 
+Et vous n'aurez pas lieu de vous en repentir. 
+ISABELLE.
+Madame, le devoir m'y fera consentir ; 
+Mais peut-etre monsieur, par cette loi severe, 			[315]
+Ne trouvera-t-il pas en moi ce qu'il espere. 
+Je sais ce que je suis, et le peu que je vaux, 
+Pour etre, comme il dit, un remede a ses maux ; 
+Il se trompe bien fort, s'il pretend, sur ma mine, 
+Devoir trouver en moi toute la medecine : 			[320]
+Je connais bien mes yeux ; ils ne feront jamais 
+Une si belle cure et de si grands effets. 
+ERASTE.
+Au pouvoir de ces yeux je rends plus de justice. 
+GERONTE.
+Au feu que je ressens si l'amour est propice, 
+Avant qu'il soit neuf mois, sans trop me signaler, 			[325]
+Tous mes collateraux auront a qui parler : 
+Dans le monde on saura, dans peu, de mes nouvelles. 
+LISETTE, a part.
+Ah ! Par ma foi, je crois qu'il en fera de belles. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si le diable vous tente et vous veut marier, 
+Qu'il cherche un autre objet pour vous apparier. 			[330]
+Je m'en rapporte a vous : madame est vive et belle ; 
+Il lui faut un epoux qui soit aussi vif qu'elle, 
+Bien fait, et de bon air, qui n'ait pas vingt-cinq ans ; 
+Vous, vous etes majeur, et depuis tres longtemps. 
+A votre age, doit-on parler de mariages ? 			[335]
+Employez le notaire a de meilleurs usages : 
+C'est un bon testament, un testament, morbleu, 
+Bien fait, bien cimente, qui doit vous tenir lieu 
+De tendresse, d'amour, de desir, de menage, 
+De femme, de contrats, d'enfants, de mariage. 			[340]
+J'ai parle, je me tais. 
+GERONTE.
+Vraiment, c'est fort bien fait. 
+Qui vous a donc si bien affile le caquet ? 
+LISETTE.
+La raison. 
+GERONTE, a madame Argante et a Isabelle.
+De ses airs ne soyez point blessees : 
+Elle me dit parfois librement ses pensees ; 
+Je le souffre en faveur de quelques bons talents, 			[345]
+LISETTE.
+Je ne sais ce que c'est que de flatter les gens. 
+ERASTE.
+Vous avez tres grand tort de parler de la sorte ; 
+Je voudrais me porter comme monsieur se porte. 
+Il veut se marier ; et n'a-t-il pas raison 
+D'avoir un heritier, s'il peut, de sa facon ? 			[350]
+Quoi ! Refusera-t-il une aimable personne 
+Que son heureux destin lui reserve et lui donne ? 
+Ah ! Le ciel m'est temoin si je voudrais jamais 
+De sort plus glorieux pour combler mes souhaits ! 
+ISABELLE.
+Vous me conseillez donc de conclure l'affaire ? 			[355]
+ERASTE.
+Je crois qu'en verite vous ne sauriez mieux faire. 
+ISABELLE.
+Vos conseils amoureux et vos rares avis, 
+Puisque vous le voulez, monsieur, seront suivis. 
+MADAME ARGANTE.
+Ma fille sait toujours obeir quand j'ordonne. 
+ERASTE.
+Oui, je vous soutiens, moi, qu'une jeune personne, 			[360]
+Malgre sa repugnance et l'orgueil de ses sens, 
+Doit suivre aveuglement le choix de ses parents ; 
+Et mon oncle, apres tout, n'a pas un si grand age, 
+A devoir renoncer encore au mariage ; 
+Et soixante et huit ans, est-ce un si grand declin, 			[365]
+Pour... 
+GERONTE.
+Je ne les aurai qu'a la Saint-Jean prochain. 
+LISETTE.
+Il a souffert le choc de deux apoplexies, 
+Qui ne sont, par bonheur, que deux paralysies ; 
+Et tous les medecins qui connaissent ses maux 
+Ont jure Galien, qu'a son retour des eaux, 			[370]
+Il n'aurait surement ni goutte sciatique, 
+Ni gravelle, ni point, ni toux, ni nephretique. 
+GERONTE.
+Ils m'ont meme assure que, dans fort peu de temps, 
+Je pourrais de mon chef avoir quelques enfants. 
+LISETTE.
+Je ne suis medecin non plus qu'apothicaire, 			[375]
+Et je jurerais, moi, cependant du contraire. 
+GERONTE, bas, a Lisette.
+Lisette, le remede agit a certain point... 
+LISETTE.
+Et dussiez-vous crever, ne le temoignez point. 
+ERASTE.
+Mon oncle, qu'avez-vous ? Vous changez de visage. 
+GERONTE.
+Mon neveu, je n'y puis resister davantage. 			[380]
+Ah ! Ah !... Madame, il faut que je vous dise adieu ; 
+Certain devoir pressant m'appelle en certain lieu. 
+MADAME ARGANTE.
+De peur d'incommoder, nous vous cedons la place. 
+GERONTE.
+Eraste, conduis-les. Excusez-moi, de grace, 
+Si je ne puis rester plus longtemps avec vous. 			[385]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Mme Argante, Isabelle, Eraste, Lisette.
+LISETTE, a Isabelle.
+Madame, vous voyez le pouvoir de vos coups : 
+Un seul de vos regards, d'un mouvement facile, 
+Agite plus d'humeurs, detache plus de bile, 
+Opere plus en lui, des la premiere fois, 
+Que les medicaments qu'il prend depuis six mois. 			[390]
+O pouvoir de l'amour ! 
+MADAME ARGANTE.
+Adieu, je me retire. 
+GERONTE.
+Madame, accordez-moi l'honneur de vous conduire. 
+SCENE IX.
+LISETTE, seule.
+Moi, je vais la-dedans vaquer a mon emploi ; 
+Le bon homme m'attend, et ne fait rien sans moi. 
+Pour le premier debut d'une noce conclue, 			[395]
+Voila, je vous l'avoue, une belle entrevue ! 
+
+
+			ACTE II
+
+
+SCENE I. Mme Argante, Isabelle, Eraste.
+MADAME ARGANTE.
+Cest trop nous retenir, laissez-nous donc partir. 
+ERASTE.
+Je ne puis vous quitter ni vous laisser sortir 
+Que vous ne me flattiez d'un rayon d'esperance. 
+MADAME ARGANTE.
+Je voudrais vous pouvoir donner la preference. 			[400]
+ERASTE.
+Quoi ! Vous aurez, madame, assez de cruaute 
+Pour conclure a mes yeux cet hymen projete, 
+Apres m'avoir promis la charmante Isabelle ? 
+Pourrai-je, sans mourir, me voir separe d'elle ? 
+MADAME ARGANTE.
+Quand je vous la promis, vous me fites serment 			[405]
+Que votre oncle, en faveur de cet engagement, 
+Vous ferait de ses biens donation entiere. 
+En epousant ma fille, il offre de le faire : 
+Ai-je tort ? 
+ERASTE, a Isabelle.
+Vous, madame, y consentiriez-vous ? 
+ISABELLE.
+Assurement, monsieur, il sera mon epoux. . 			[410]
+Et ne venez-vous pas de me dire vous-meme 
+Qu'une fille, malgre la repugnance extreme 
+Qu'elle trouvait a prendre un parti presente, 
+Devait de ses parents suivre la volonte ? 
+ERASTE.
+Et ne voyez-vous pas que, par cet artifice, 			[415]
+Pour rompre ses projets, je flattais son caprice ? 
+Il est certains esprits qu'il faut prendre de biais, 
+Et que, heurtant de front, vous ne gagnez jamais. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mon oncle est ainsi fait. L'interet peut-il faire 
+Que vous sacrifiiez une fille si chere ? 			[420]
+MADAME ARGANTE.
+Mais le bien qu'il lui fait... 
+ERASTE.
+Donnez-moi votre foi 
+De rompre cet hymen ; et je vous promets, moi, 
+De tourner aujourd'hui son esprit de maniere 
+Que les choses iront ainsi que je l'espere, 
+Et qu'il fera pour moi quelque heureux testament. 			[425]
+MADAME ARGANTE.
+S'il le fait, ma fille est a vous absolument. 
+Je vais d'un mot d'ecrit lui mander que son age, 
+Que sa frele sante repugne au mariage ; 
+Que je serais bientot cause de son trepas ; 
+Que l'affaire est rompue, et qu'il n'y pense pas. 			[430]
+ISABELLE.
+Je me fais d'obeir une joie infinie. 
+ERASTE.
+Que mon sort est heureux ! Qu'il est digne d'envie ! 
+Mais Lisette s'avance, et j'entends quelque bruit. 
+SCENE II. Lisette, Mme Argante, Isabelle, Eraste.
+ERASTE, a Lisette.
+Comment mon oncle est-il ? 
+LISETTE.
+Le voila qui me suit. 
+MADAME ARGANTE, a Eraste.
+Je vous laisse avec lui ; pour moi, je me retire. 			[435]
+Mais, avant de partir, je vais la-bas ecrire. 
+Vous, de votre cote, secondez mon ardeur. 
+ERASTE.
+Le prix que j'en attends vous repond de mon coeur. 
+SCENE III. Eraste, Lisette.
+LISETTE.
+Eh bien ! Vous souffrirez que votre oncle, a son age, 
+Fasse, devant vos yeux, un si sot mariage ; 			[440]
+Qu'il vous frustre d'un bien que vous devez avoir ! 
+ERASTE.
+Helas ! Ma pauvre enfant, j'en suis au desespoir. 
+Mais l'affaire n'est pas encore consommee, 
+Et son feu pourrait bien s'en aller en fumee. 
+La mere, en ma faveur, change de volonte, 			[445]
+Et va, d'un mot d'ecrit entre nous concerte, 
+Remercier mon oncle, et lui faire comprendre 
+Qu'il est un peu trop vieux pour en faire son gendre. 
+LISETTE.
+Je veux dans le complot entrer conjointement. 
+Et que deviendrait donc enfin le testament 			[450]
+Sur lequel nous fondons toutes nos esperances, 
+Et qui doit cimenter un jour nos alliances, 
+Et faire le bonheur d'Eraste et de Crispin ? 
+Il faut, par notre esprit, faire notre destin, 
+Et rompre absolument l'hymen qu'il pretend faire. 			[455]
+J'en ai fait dire un mot a son apothicaire ; 
+C'est un petit mutin, qui doit venir tantot, 
+Et qui lui lavera la tete comme il faut. 
+Je ne veux pas rester dans une nonchalance 
+Qu'il faut laisser aux sots. Mais Geronte s'avance. 			[460]
+SCENE IV. Geronte, Eraste, Lisette, le Laquais.
+GERONTE.
+Ma colique m'a pris assez mal a propos ; 
+Je n'ai senti jamais a la fois tant de maux. 
+N'ont-elles point ete justement irritees 
+De ce que je les ai si brusquement quittees ? 
+ERASTE.
+On sait que d'un malade on doit excuser tout. 			[465]
+LISETTE.
+Monsieur a fait pour vous les honneurs jusqu'au bout : 
+Je dirai cependant qu'en entrant en matiere, 
+Vous n'avez pas la fait un beau preliminaire. 
+ERASTE.
+Mon oncle fera mieux une seconde fois : 
+Suffit qu'en epousant il ait fait un bon choix. 			[470]
+GERONTE.
+Il est vrai. Cependant j'ai quelque repugnance 
+De songer, a mon age, a faire une alliance : 
+Mais, puisque j'ai promis... 
+LISETTE.
+Ne vous contraignez point ; 
+On n'est pas aujourd'hui scrupuleux sur ce point. 
+Monsieur acquittera la parole donnee. 			[475]
+GERONTE.
+Le sort en est jete, suivons ma destinee. 
+Je voudrais inventer quelque petit cadeau 
+Qui coutat peu d'argent, et qui parut nouveau. 
+ERASTE.
+Reposez-vous sur moi des soins de cette fete, 
+Des habits, du repas qu'il faut que l'on apprete : 			[480]
+J'ordonne sur ce point bien mieux qu'un medecin. 
+GERONTE.
+Ne va pas m'embarquer dans un si grand festin. 
+LISETTE.
+Il faut que l'abondance, avec soin repandue, 
+Puisse nous racquitter de votre triste vue : 
+Il faut entendre aussi ronfler les violons ; 			[485]
+Et je veux avec vous danser les cotillons. 
+GERONTE.
+Je valais, dans mon temps, mon prix tout comme un autre. 
+LISETTE, a part.
+Cela fait que bien peu vous valez dans le notre. 
+SCENE V. Un Laquais de Madame Argante, Geronte, Eraste, Lisette, le Laquais de Geronte.
+LE LAQUAIS de Madame Argante.
+Ma maitresse, qui sort dans ce moment d'ici, 
+M'a dit de vous donner le billet que voici. 			[490]
+GERONTE, prenant le billet.
+Pour ma sante, sans doute, elles sont inquietes. 
+Lisons. Va me chercher, Lisette, mes lunettes. 
+LISETTE.
+Cela vaut-il le soin de vous tant preparer ? 
+Donnez-moi le billet, je vais le dechiffrer. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Depuis notre entrevue, monsieur, j'ai fait reflexion sur le mariage propose, et je trouve qu'il ne convient ni a l'un ni a l'autre ; ainsi vous trouverez bon, s'il vous plait, qu'en vous rendant votre parole, je retire la mienne, et que je sois votre tres humble et tres obeissante servante, 
+ARGANTE.
+Et plus bas, 
+ISABELLE.
+Vous pouvez maintenant, sans que l'on vous punisse, 			[495]
+Vous retirer chez vous, et quitter le service ; 
+Voila votre conge bien signe. 
+GERONTE.
+Mon neveu, 
+Que dis-tu de cela ? 
+ERASTE.
+Je m'en etonne peu. 
+Mais, sans vous arreter a cet ecrit frivole, 
+Il faut les obliger a tenir leur parole. 			[500]
+GERONTE.
+Je me garderai bien de suivre ton avis, 
+Et d'un plaisir soudain tous mes sens sont ravis. 
+Je ne sais pas comment, ennemi de moi-meme, 
+Je me precipitais dans ce peril extreme : 
+Un sort a cet hymen m'entrainait malgre moi, 			[505]
+Et point du tout l'amour. 
+LISETTE.
+Sans jurer, je le crois. 
+Que diantre voulez-vous que l'amour aille faire 
+Dans un corps moribond, a ses feux si contraire ? 
+Ira-t-il se loger avec des fluxions, 
+Des catarrhes, des toux, et des obstructions ? 			[510]
+GERONTE, en laquais de madame Argante.
+Attends un peu la-bas, et que rien ne te presse ; 
+Je vais faire, a l'instant, reponse a ta maitresse. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VI. Geronte, Eraste, Lisette, le Laquais de Geronte.
+GERONTE.
+Voyez comme je prends promptement mon parti ! 
+De l'hymen tout d'un coup me voila departi. 
+LISETTE.
+Il faut chanter, monsieur, votre nom par la ville. 			[515]
+Voila ce qui s'appelle une action virile. 
+ERASTE.
+C'etait temerite, dans l'age ou vous voila, 
+Malsain, fievreux, goutteux, et pis que tout cela, 
+De prendre femme, et faire, en un jour si celebre, 
+Du flambeau de lhymen une torche funebre. 			[520]
+GERONTE.
+Mais tu louais tantot mon dessein et mes feux. 
+ERASTE.
+Tantot vous faisiez bien, et maintenant bien mieux. 
+GERONTE.
+Puisque je suis tranquille, et qu'un conseil plus sage 
+Me guerit des vapeurs d'amour, de mariage, 
+Je veux mettre ordre au bien que j'ai recu du ciel, 			[525]
+Et faire en ta faveur un legs universel 
+Par un bon testament. 
+ERASTE.
+Ah, monsieur ! Je vous prie, 
+Epargnez cette idee a mon ame attendrie : 
+Je ne puis, sans soupir, vous ouir prononcer 
+Le mot de testament ; il semble m'annoncer, 			[530]
+Avant qu'il soit longtemps, le sort qui doit le suivre, 
+Et le malheur auquel je ne pourrai survivre : 
+Je fremis, quand je pense a ce moment cruel. 
+GERONTE.
+Tant mieux ; c'est un effet de ton bon naturel. 
+Je veux donc te nommer mon legataire unique. 			[535]
+J'ai deux parents encor pour qui le sang s'explique : 
+L'un est fils de mon frere, et tu sais bien son nom, 
+Gentilhomme normand, assez gueux, ce dit-on ; 
+Et l'autre est une veuve avec peu de richesse, 
+La fille de ma soeur, par consequent ma niece, 			[540]
+Qui jadis dans le Maine epousa, quoique vieux, 
+Certain baron qui n'eut pour bien que ses aieux. 
+Je veux donc, en faveur de l'amitie sincere 
+Qu'autrefois je portais a leur pere, a leur mere, 
+Leur laisser a chacun vingt mille ecus comptant, 			[545]
+LISETTE.
+Vingt mille ecus ! Le legs serait exorbitant. 
+Un neveu bas-normand, une niece du Maine, 
+Pour acheter chez eux des proces par douzaine, 
+Jouiront, pour plaider, d'un bien comme cela ! 
+Fi ! C'est trop des trois quarts pour ces deux cancres-la. 			[550]
+GERONTE.
+Je ne les vis jamais ; ce que je puis vous dire, 
+C'est qu'ils se sont tous deux avises de m'ecrire 
+Qu'ils voulaient a Paris venir dans peu de temps, 
+Pour me voir, m'embrasser, et retourner contents. 
+Je crois que tu n'es pas fache que je leur laisse 			[555]
+De quoi vivre a leur aise, et soutenir noblesse. 
+ERASTE.
+N'etes-vous pas, monsieur, maitre de votre bien ? 
+Tout ce que vous ferez, je le trouverai bien. 
+LISETTE.
+Et moi, je trouve mal cette derniere clause ; 
+Et de tout mon pouvoir a ce legs je m'oppose. 			[560]
+Mais vous ne songez pas que le laquais attend. 
+GERONTE.
+Je vais l'expedier, et reviens a l'instant. 
+LISETTE.
+Avez-vous oublie qu'une paralysie 
+S'est de votre bras droit depuis un mois saisie, 
+Et que vous ne sauriez ecrire ni signer ? 			[565]
+GERONTE.
+Il est vrai : mon neveu viendra m'accompagner ; 
+Et je vais lui dicter une lettre d'un style 
+Qui de madame Argante emouvra la bile ; 
+J'en suis bien assure. Viens, Eraste ; suis-moi. 
+ERASTE.
+Vous obeir, monsieur, est ma supreme loi. 			[570]
+SCENE VII.
+LISETTE, seule.
+Nos affaires vont prendre une face nouvelle, 
+Et la fortune enfin nous rit et nous appelle. 
+SCENE VIII. Crispin, Lisette.
+LISETTE.
+Ah ! Te voila, Crispin ! Et d'ou diantre viens-tu ? 
+CRISPIN.
+Ma foi, pour te servir j'ai diablement couru ; 
+Ces notaires sont gens d'approche difficile. 			[575]
+L'un n'etait pas chez lui, l'autre etait par la ville. 
+Je les ai deterres ou l'on m'avait instruit, 
+Dans un jardin, a table, en un petit reduit, 
+Avec dames qui m'ont paru de bonne mine. 
+Je crois qu'ils passaient la quelque acte a la sourdine. 			[580]
+Mais dans une heure au plus ils seront ici. 
+LISETTE.
+Bon. 
+Sais-tu pourquoi Geronte ici les mandait ? 
+CRISPIN.
+Non. 
+LISETTE.
+Pour faire son contrat de mariage. 
+CRISPIN.
+Oh, diable ! 
+A son age, il voudrait nous faire un tour semblable ! 
+LISETTE.
+Pour Isabelle, un trait decoche par l'Amour 			[585]
+Avait, ma foi, perce son pauvre coeur a jour ; 
+Et, frustrant des neveux l'esperance uniforme, 
+Lui-meme il voulait faire un heritier en forme : 
+Mais le ciel, par bonheur, en ordonne autrement ; 
+Il pense maintenant a faire un testament 			[590]
+Ou ton maitre sera nomme son legataire. 
+CRISPIN.
+Pour lui, comme pour nous, il ne pouvait mieux faire. 
+La nouvelle est trop bonne ; il faut qu'en sa faveur 
+Je t'embrasse et rembrasse, et, ma foi, de bon coeur ; 
+Et qu'un epanchement de joie et de tendresse, 			[595]
+En te congratulant... L'amour qui m'interesse... 
+La nouvelle est charmante, et vaut seule un tresor. 
+Il faut, ma chere enfant, que je t'embrasse encor. 
+LISETTE.
+Dans tes emportements sois sage et plus modeste. 
+CRISPIN.
+Excuse si la joie emporte un peu le geste. 			[600]
+LISETTE.
+Mais, comme en ce bas monde il n'est nuls biens parfaits, 
+Et que tout ne va pas au gre de nos souhaits, 
+Il met au testament une facheuse clause. 
+CRISPIN.
+He, dis-moi, mon enfant, quelle est-elle ? 
+LISETTE.
+Il dispose 
+De son argent comptant quarante mille ecus 			[605]
+Pour deux parents lointains, et qu'il n'a jamais vus. 
+CRISPIN.
+Quarante mille ecus d'argent sec et liquide ! 
+De la succession voila le plus solide. 
+C'est de l'argent comptant dont je fais plus de cas. 
+Vous en aurez menti, cela ne sera pas, 			[610]
+C'est moi qui vous le dis, mon cher monsieur Geronte ; 
+Vous avez fait sans moi trop vite votre compte. 
+Et qui sont ces parents ? 
+LISETTE.
+L'un est un Bas-Normand 
+Gentilhomme, natif d'entre Falaise et Caen : 
+L'autre est une baronne et veuve sans douaire, 			[615]
+Qui dans le Maine fait sa demeure ordinaire, 
+Plaideuse s'il en fut, comme on m'a dit souvent, 
+Qui, de vingt-cinq proces, en perd trente par an. 
+CRISPIN.
+C'est tirer du metier toute la quintessence. 
+Puisque pour les proces elle a si bonne chance, 			[620]
+Il faut lui faire perdre encore celui-ci. 
+LISETTE.
+L'un et l'autre bientot arriveront ici. 
+Il faut, mon cher Crispin, tirer de ta cervelle, 
+Comme d'un arsenal, quelque ruse nouvelle 
+Qui deporte Geronte a leur faire ce legs. 			[625]
+CRISPIN.
+A-t-il vu quelquefois ces deux parents ? 
+LISETTE.
+Jamais. 
+Il a su seulement, par une lettre ecrite, 
+Qu'ils viendraient a Paris pour lui rendre visite. 
+CRISPIN.
+Mon visage chez vous n'est-il point trop connu ? 
+LISETTE.
+Geronte, tu le sais, ne t'a presque point vu : 			[630]
+Et, pour te dire vrai, je suis persuadee 
+Qu'il n'a de ta figure encore nulle idee. 
+CRISPIN.
+Bon. Mon maitre sait-il ce dangereux projet, 
+L'intention de l'oncle, et le tort qu'on lui fait ? 
+LISETTE.
+Il ne le sait que trop : dans son coeur il enrage, 			[635]
+Et voudrait que quelqu'un detournat cet orage. 
+CRISPIN.
+Je serai ce quelqu'un, je te le promets bien. 
+De la succession les parents n'auront rien ; 
+Et je veux que Geronte a tel point les haisse, 
+Qu'ils soient desherites ; de plus, qu'il les maudisse, 			[640]
+Eux et leurs descendants a perpetuite, 
+Et tous les rejetons de leur posterite. 
+LISETTE.
+Quoi ! Tu pourrais, Crispin... 
+CRISPIN.
+Va, demeure tranquille ; 
+Le prix qui m'est promis me rendra tout facile : 
+Car je dois t'epouser, si... 
+LISETTE.
+D'accord... mais enfin... 			[645]
+CRISPIN.
+Comment donc ! 
+LISETTE.
+Tu m'as l'air d'etre un peu libertin. 
+CRISPIN.
+Ne nous reprochons rien. 
+LISETTE.
+On sait de tes fredaines. 
+CRISPIN.
+Nous sommes but a but, ne sais-je point des tiennes ? 
+LISETTE.
+Tu dois de tous cotes, et tu devras longtemps. 
+CRISPIN.
+J'ai cela de commun avec d'honnetes gens. 			[650]
+Mais enfin sur ce point a tort tu t'inquietes ; 
+Le testament de l'oncle acquittera mes dettes ; 
+Et tel n'y pense pas qui doit payer pour moi. 
+Mais on vient. 
+LISETTE.
+C'est Geronte. Adieu ; sauve-toi. 
+Va m'attendre la-bas : dans peu j'irai t'instruire 			[655]
+De ce que pour ton role il faudra faire et dire. 
+CRISPIN.
+Va, va, je sais deja tout mon role par coeur ; 
+Les gens d'esprit n'ont point besoin de precepteur. 
+SCENE IX. Geronte, Eraste, Lisette.
+GERONTE, tenant une lettre.
+Je parle en cet ecrit comme il faut a la mere : 
+Je voudrais que quelqu'un me contat la maniere 			[660]
+Dont elle recevra mon petit compliment ; 
+Je crois qu'elle sera surprise assurement. 
+ERASTE.
+Si vous voulez, monsieur, me charger de la lettre, 
+Moi-meme entre ses mains je promets de la mettre, 
+Et de vous rapporter ce qu'elle m'aura dit, 			[665]
+Et ce qu'elle aura fait en lisant votre ecrit. 
+GERONTE.
+Cela sera-t-il bien que toi-meme on te voie ? 
+ERASTE.
+Vous ne sauriez, monsieur, me donner plus de joie. 
+GERONTE.
+Dis-leur de bouche encor qu'elles ne pensent pas 
+A renouer l'hymen dont je fais peu de cas... 			[670]
+ERASTE.
+De vos intentions je sais tout le mystere. 
+GERONTE.
+Que je vais a l'instant te nommer legataire. 
+Te donner tout mon bien. 
+ERASTE.
+Je connais leur esprit, 
+Elles en creveront toutes deux de depit. 
+Demeurez en repos ; je sais ce qu'il faut dire, 			[675]
+Et de notre entretien je reviens vous instruire. 
+SCENE X. Geronte, Lisette.
+GERONTE.
+Oui, depuis que j'ai pris ce genereux dessein, 
+Je me sens de moitie plus leger et plus sain. 
+LISETTE.
+Vous avez fait, monsieur, ce que vous deviez faire. 
+Mais j'apercois quelqu'un. 
+SCENE XI. Monsieur Clistorel, Geronte, Lisette.
+LISETTE.
+C'est votre apothicaire, 			[680]
+Monsieur Clistorel. 
+GERONTE, a Clistorel.
+Ah ! Dieu vous garde en ces lieux ! 
+Je suis, quand je vous vois, plus vif et plus joyeux. 
+CLISTOREL, fache.
+Bonjour, monsieur, bonjour. 
+GERONTE.
+Si je m'y puis connaitre, 
+Vous paraissez fache. Quoi ! 
+CLISTOREL.
+J'ai raison de l'etre. 
+GERONTE.
+Qui vous a mis si fort la bile en mouvement ? 			[685]
+CLISTOREL.
+Qui me l'a mise ? 
+GERONTE.
+Oui. 
+CLISTOREL.
+Vos sottises. 
+GERONTE.
+Comment ? 
+CLISTOREL.
+Je viens, vraiment, d'apprendre une belle nouvelle, 
+Qui me rejouit fort. 
+GERONTE.
+Eh ! Monsieur, quelle est-elle ? 
+CLISTOREL.
+N'avez-vous point de honte, a l'age ou vous voila, 
+De faire extravagance egale a celle-la ? 			[690]
+GERONTE.
+De quoi s'agit-il donc ? 
+CLISTOREL.
+Il vous faudrait encore, 
+Malgre vos cheveux gris, quelques grains d'hellebore. 
+On m'a dit par la ville, et c'est un fait certain, 
+Que de vous marier vous formez le dessein. 
+LISETTE.
+Quoi ! Ce n'est que cela ? 
+CLISTOREL.
+Comment donc ! Dans la vie, 			[695]
+Peut-on faire jamais de plus haute folie ? 
+GERONTE.
+Et quand cela serait : pourquoi vous recrier, 
+Vous que depuis un mois on vit remarier ? 
+CLISTOREL.
+Vraiment, c'est bien de meme ! Avez-vous le courage 
+Et la male vigueur requise en mariage ? 			[700]
+Je vous trouve plaisant ! Et vous avez raison 
+De faire avecque moi quelque comparaison ! 
+J'ai fait quatorze enfants a ma premiere femme, 
+Madame Clistorel (Dieu veuille avoir son ame !) ; 
+Et, si dans mes travaux la mort ne me surprend, 			[705]
+J'espere a la seconde en faire encore autant. 
+LISETTE.
+Ce sera tres bien fait. 
+CLISTOREL.
+Votre corps cacochyme 
+N'est point fait, croyez-moi, pour ce genre d'escrime. 
+J'ai lu dans Hippocrate, il n'importe en quel lieu, 
+Un aphorisme sur ; il n'est point de milieu : 			[710]
+« Tout vieillard qui prend fille alerte et trop fringante, 
+De son propre couteau sur ses jours il attente. » 
+Virgo libidinosa senem jugulat.
+LISETTE.
+Quoi ! Monsieur Clistorel, vous savez du latin ! 
+Vous pourriez, dans un jour, vous faire medecin. 
+CLISTOREL.
+Moi ! Le ciel m'en preserve ! Et ce sont tous des anes, 			[715]
+Ou du moins les trois quarts : ils m'ont fait cent chicanes 
+Au proces qu'ils nous ont sottement intente ; 
+Moi seul j'ai fait bouquer toute la Faculte. 
+Ils voulaient obliger tous les apothicaires 
+A faire et mettre en place eux-memes leurs clysteres, 			[720]
+Et que tous nos garcons ne fussent qu'assistants. 
+LISETTE.
+Fi donc ! Ces medecins sont de plaisantes gens ! 
+CLISTOREL.
+Il m'aurait fait beau voir, avecque des lunettes, 
+Faire, en jeune apprenti, ces fonctions secretes ! 
+C'etait, a soixante ans, nous mettre a l'ABC. 			[725]
+Voyez, pour tout un coros quel affront c'eut ete ! 
+GERONTE.
+Vous avez fort bien fait, dans cette procedure, 
+D'avoir jusques au bout soutenu la gageure. 
+CLISTOREL.
+J'etais bien resolu, plutot que de plier, 
+D'y manger ma boutique, et jusqu'a mon mortier. 			[730]
+LISETTE.
+Leur dessein, en effet, etait bien ridicule. 
+CLISTOREL.
+Je suis, quand je m'y mets, plus tetu qu'une mule. 
+GERONTE.
+C'est bien fait. Ces messieurs voulaient vous offenser : 
+Mais que vous ai-je fait, moi, pour vous courroucer ? 
+CLISTOREL.
+Ce que vous m'avez fait ? Vous voulez prendre femme, 			[735]
+Pour crever ; et moi seul j'en aurai tout le blame. 
+Prendre une femme, vous ! Allez, vous etes fou. 
+GERONTE.
+Monsieur... 
+CLISTOREL.
+Il vaudrait mieux qu'on vous tordit le cou. 
+GERONTE.
+Mais, monsieur... 
+CLISTOREL.
+Prenez-moi de bonnes medecines, 
+Avec de bons sirops et drogues anodines ; 			[740]
+De bon catholicon... 
+GERONTE.
+Monsieur... 
+CLISTOREL.
+De bon sene, 
+De bon sel polychreste extrait et raffine... 
+GERONTE.
+Monsieur, un petit mot. 
+CLISTOREL.
+De bon tartre emetique, 
+Quelque bon lavement fort et diuretique : 
+Voila ce qu'il vous faut : mais une femme !... 
+GERONTE.
+Mais... 			[745]
+CLISTOREL.
+Ma boutique pour vous est fermee a jamais... 
+S'il lui fallait... 
+LISETTE.
+Monsieur... 
+CLISTOREL.
+Dans un peril extreme, 
+Le moindre lenitif, ou le moindre apozeme, 
+Une goutte de miel, ou de decoction... 
+Je le verrais crever comme un vieux mousqueton. 			[750]
+O le beau jouvenceau, pour entrer en menage ! 
+LISETTE.
+Mais, monsieur Clistorel... 
+CLISTOREL.
+Le plaisant mariage ! 
+Le beau petit mignon ! 
+LISETTE.
+Monsieur, ecoutez-nous ! 
+CLISTOREL.
+Non, non, je ne veux plus de commerce avec vous. 
+Serviteur, serviteur. 
+SCENE XII. Geronte, Lisette.
+LISETTE.
+Que le diable t'emporte ! 			[755]
+Non, je ne vis jamais animal de la sorte : 
+A le bien mesurer, il n'est pas, que je crois, 
+Plus haut que sa seringue, et glapit comme trois. 
+Ces petits avortons ont tous lhumeur mutine. 
+GERONTE.
+Il ne reviendra plus ; son depart me chagrine. 			[760]
+LISETTE.
+Pour un, vous en aurez mille tout a la fois. 
+Un de mes bons amis, dont il faut faire choix, 
+Qui s'est fait, depuis peu, passer apothicaire, 
+M'a promis qu'a bon prix il ferait votre affaire ; 
+Et qu'il aurait pour vous quelque sirop a part, 			[765]
+Casse, sene, rhubarbe, et le tout de hasard, 
+Qui fera plus d'effet et de meilleur ouvrage, 
+Que ce qu'on vous vendait quatre fois davantage. 
+GERONTE.
+Fais-le-moi donc venir. 
+LISETTE.
+Je n'y manquerai pas. 
+GERONTE.
+Allons nous reposer. Lisette, suis mes pas. 			[770]
+Ce monsieur Clistorel m'a tout emu la bile. 
+LISETTE.
+Souvenez-vous toujours, quand vous serez tranquille, 
+Dans votre testament de me faire du bien. 
+GERONTE, bas, a part.
+Je t'en ferai, pourvu qu'il ne m'en coute rien. 
+
+
+			ACTE III
+
+
+SCENE I. Geronte, Lisette.
+GERONTE.
+Eraste ne vient point me rendre de reponse. 			[775]
+Qu'est-ce que ce delai me predit et m'annonce ? 
+LISETTE.
+Et pourquoi, s'il vous plait, vous inquieter tant ? 
+Suffit que vous devez etre de vous content : 
+Vous n'avez jamais fait rien de plus heroique 
+Que de rompre un hymen aussi tragi-comique. 			[780]
+GERONTE.
+Je suis content de moi dans cette occasion, 
+Et monsieur Clistorel a fort bonne raison. 
+C'etait, la pierre au cou, la tete la premiere, 
+M'aller precipiter au fond de la riviere. 
+LISETTE.
+Bon ! C'etait cent fois pis encor que tout cela. 			[785]
+Mais enfin tout va bien. 
+SCENE II. Crispin, en gentilhomme campagnard, Geronte, Lisette.
+CRISPIN, dehors, heurtant.
+Hola, quelqu'un, hola ! 
+Tout est-il mort ici, laquais, valet, servante ? 
+J'ai beau heurter, crier, aucun ne se presente. 
+Le diable puisse-t-il emporter la maison ! 
+LISETTE.
+Eh ! Qui diantre chez nous heurte de la facon ? 			[790]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que voulez-vous, monsieur ? Quel demon vous agite ? 
+Vient-on chez un malade ainsi rendre visite ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dieu me pardonne ! C'est Crispin ; c'est lui, ma foi ! 
+CRISPIN, bas, a Lisette.
+Tu ne te trompes pas, ma chere enfant ; c'est moi. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Bonjour, bonjour, la fille. On m'a dit par la ville 			[795]
+Qu'un Geronte en ce lieu tenait son domicile ; 
+Pourrait-on lui parler ? 
+LISETTE.
+Pourquoi non ? Le voila. 
+CRISPIN, lui secouant le bras.
+Parbleu, j'en suis bien aise. Ah, monsieur ! Touchez la. 
+Je suis votre valet, ou le diable m'emporte. 
+Touchez la derechef. Le plaisir me transporte 			[800]
+Au point que je ne puis assez vous le montrer. 
+GERONTE.
+Cet homme assurement pretend me demembrer. 
+CRISPIN.
+Vous paraissez surpris autant qu'on le peut etre. 
+Je vois que vous avez peine a me reconnaitre ; 
+Mes traits vous sont nouveaux : savez-vous bien pourquoi ? 			[805]
+C'est que vous ne m'avez jamais vu. 
+GERONTE.
+Je le crois. 
+CRISPIN.
+Mais feu monsieur mon pere, Alexandre Choupille, 
+Gentilhomme normand, prit pour femme une fille 
+Qui fut, a ce qu'on dit, votre soeur autrefois, 
+Et qui me mit au jour au bout de quatre mois. 			[810]
+Mon pere se facha de cette diligence ; 
+Mais un ami sense lui dit, en confidence, 
+Qu'il est vrai que ma mere, en faisant ses enfants, 
+N'observait pas encore assez l'ordre des temps ; 
+Mais qu'aux femmes l'erreur n'etait pas inouie, 			[815]
+Et qu'elle ne manquait qu'a la chronologie. 
+GERONTE.
+A la chronologie ! 
+LISETTE.
+Une femme, en effet, 
+Ne peut pas calculer comme un homme aurait fait. 
+CRISPIN.
+Or donc cette femelle, a concevoir si prompte, 
+Qu'a tout considerer quelquefois j'en ai honte, 			[820]
+En me mettant au jour, soit disgrace ou faveur, 
+M'a fait votre neveu, puisqu'elle est votre soeur. 
+GERONTE.
+Apprenez, mon neveu, si par hasard vous l'etes, 
+Que vous etes un sot, aux discours que vous faites. 
+Ma soeur fut sage ; et nul ne peut lui reprocher 			[825]
+Que jamais sur l'honneur on l'ait pu voir broncher. 
+CRISPIN.
+Je le crois : cependant, tant qu'elle fut vivante, 
+On tient que sa vertu fut un peu chancelante. 
+Quoi qu'il en soit enfin, legitime ou batard, 
+Soit quon m'ait mis au monde ou trop tot ou trop tard ? 			[830]
+Je suis votre neveu, quoi qu'en dise l'envie ; 
+De plus, votre heritier, venant de Normandie 
+Expres pour recueillir votre succession. 
+GERONTE.
+C'est bien fait ; et je loue assez l'intention. 
+Quand vous en allez-vous ? 
+CRISPIN.
+Voudriez-vous me suivre ? 			[835]
+Cela depend du temps que vous avez a vivre. 
+Mon oncle, soyez sur que je ne partirai 
+Qu'apres vous avoir vu, bien cloue, bien mure, 
+Dans quatre ais de sapin reposer a votre aise. 
+LISETTE, bas, a Geronte.
+Vous avez un neveu, monsieur, ne vous deplaise, 			[840]
+Qui dit ses sentiments en pleine liberte. 
+GERONTE, bas, a Lisette.
+A te dire le vrai, j'en suis epouvante. 
+CRISPIN.
+Je suis persuade, de l'humeur dont vous etes, 
+Que la succession sera des plus completes, 
+Que je vais manier de l'or a pleine main ; 			[845]
+Car vous etes, dit-on, un avare, un vilain. 
+Je sais que, pour un sou, d'une ardeur heroique 
+Vous vous feriez fesser dans la place publique. 
+Vous avez, dit-on meme, acquis, en plus d'un lieu, 
+Le titre d'usurier et de fesse-mathieu. 			[850]
+GERONTE.
+Savez-vous, mon neveu, qui tenez ce langage, 
+Que, si de mes deux bras j'avais encor l'usage, 
+Je vous ferais sortir par la fenetre. 
+CRISPIN.
+Moi ? 
+GERONTE.
+Oui, vous ; et, dans l'instant, sortez. 
+CRISPIN.
+Ah ! Par ma foi, 
+Je vous trouve plaisant de parler de la sorte ! 			[855]
+C'est a vous de sortir et de passer la porte. 
+La maison m'appartient : ce que je puis souffrir, 
+C'est de vous y laisser encor vivre et mourir. 
+LISETTE.
+Ah, ciel ! Quel garnement ! 
+GERONTE, bas.
+Ou suis-je ? 
+CRISPIN.
+Allons, ma mie, 
+Au bel appartement mene-moi, je te prie. 			[860]
+Est-il voisin du tien ? Je te trouve a mon gre ; 
+Et nous pourrons, la nuit, converser de plain-pied. 
+Bonne chere, grand feu : que la cave enfoncee 
+Nous fournisse, a pleins brocs, une liqueur aisee : 
+Fais main basse sur tout ; le bon homme a bon clos, 			[865]
+Et l'on peut hardiment le ronger jusqu'aux os. 
+Mon oncle, pour ce soir il me faut, je vous prie, 
+Cent louis neufs comptant, en avance d'hoirie ; 
+Sinon, demain matin, si vous le trouvez bon, 
+Je mettrai, de ma main, le feu dans la maison. 			[870]
+GERONTE, a part.
+Grands dieux ! Vit-on jamais insolence semblable ? 
+LISETTE, bas, a Geronte.
+Ce n'est pas un neveu, monsieur ; mais c'est un diable. 
+Pour le faire sortir employez la douceur. 
+GERONTE.
+Mon neveu, c'est a tort qu'avec tant de hauteur 
+Vous venez tourmenter un oncle a l'agonie ; 			[875]
+En repos laissez-moi finir ma triste vie, 
+Et vous heriterez au jour de mon trepas. 
+CRISPIN.
+D'accord. Mais quand viendra ce jour ? 
+GERONTE.
+A chaque pas 
+L'impitoyable mort s'obstine a me poursuivre ; 
+Et je n'ai, tout au plus, que quatre jours a vivre. 			[880]
+CRISPIN.
+Je vous en donne six ; mais apres, ventrebleu, 
+N'allez pas me manquer de parole, ou dans peu 
+Je vous fais enterrer mort ou vif. Je vous laisse. 
+Mon oncle, encore un coup, tenez votre promesse, 
+Ou je tiendrai la mienne. 
+SCENE III. Geronte, Lisette.
+LISETTE.
+Ah ! Quel homme voila ! 			[885]
+Quel neveu vos parents vous ont-ils donne la ? 
+GERONTE.
+Ce n'est point mon neveu ; ma soeur etait trop sage 
+Pour elever son fils dans un air si sauvage : 
+C'est un fieffe brutal, un homme des plus fous. 
+LISETTE.
+Cependant, a le voir, il a quelque air de vous : 			[890]
+Dans ses yeux, dans ses traits, un je ne sais quoi brille ; 
+Enfin, on s'apercoit qu'il tient de la famille. 
+GERONTE.
+Par ma foi, s'il en tient, il lui fait peu d'honneur. 
+Ah ! Le vilain parent ! 
+LISETTE.
+Et vous auriez le coeur 
+De laisser votre bien, une si belle somme, 			[895]
+Vingt mille ecus comptant, a ce beau gentilhomme ? 
+GERONTE.
+Moi, lui laisser mon bien ! J'aimerais mieux cent fois 
+L'enterrer pour jamais. 
+LISETTE.
+Ma foi, je m'apercois 
+Que monsieur le neveu, si j'en crois mon presage, 
+N'aura pas trop gagne d'avoir fait son voyage, 			[900]
+Et que le pauvre diable, arrive d'aujourd'hui, 
+Aurait aussi bien fait de demeurer chez lui. 
+GERONTE.
+Si c'est sur mon bien seul qu'il fonde sa cuisine, 
+Je t'assure deja qu'il mourra de famine, 
+Et qu'il n'aura pas lieu de rire a mes depens. 			[905]
+LISETTE.
+C'est fort bien fait : il faut apprendre a vivre aux gens. 
+Voila comme sont faits tous ces neveux avides, 
+Qui ne peuvent cacher leurs naturels perfides : 
+Quand ils n'assomment pas un oncle assez age, 
+Ils pretendent encor qu'il leur est oblige. 			[910]
+Mais Eraste revient, et nous allons apprendre 
+Comment tout s'est passe. 
+SCENE IV. Eraste, Geronte, Lisette.
+GERONTE.
+Tu te fais bien attendre ! 
+Tu m'as abandonne dans un grand embarras. 
+Un malheureux neveu m'est tombe sur les bras. 
+ERASTE.
+Il vient de m'accoster la-bas tout hors d'haleine, 			[915]
+Et m'a dit en deux mots le sujet qui l'amene. 
+GERONTE.
+Que dis-tu de ses airs ? 
+ERASTE.
+Je les trouve etonnants. 
+Il peste, il jure, il veut mettre le feu ceans. 
+GERONTE.
+J'aurais bien eu besoin ici de ta presence 
+Pour reprimer l'exces de son impertinence ; 			[920]
+Lisette en est temoin. 
+LISETTE.
+Ah ! Le mauvais pendard, 
+A qui monsieur voulait de son bien faire part ! 
+GERONTE.
+J'ai bien change d'avis : je te donne parole 
+Qu'il n'aura de mon bien jamais la moindre obole. 
+ERASTE.
+Je me suis acquitte de ma commission, 			[925]
+Et tout s'est fait au gre de notre intention. 
+Votre lettre a produit un effet qui m'enchante. 
+On a montre d'abord une ame indifferente ; 
+D'un faux air de mepris voulant couvrir leur jeu, 
+Elles me paraissaient s'en soucier fort peu : 			[930]
+Mais quand je leur ai dit que vous vouliez me faire 
+Aujourd'hui de vos biens unique legataire, 
+(Car vous m'avez prescrit de parler sur ce ton...) 
+GERONTE.
+Oui, je te l'ai promis ; c'est mon intention. 
+ERASTE.
+Elles ont toutes deux temoigne des surprises 			[935]
+Dont elles ne seront de six mois bien remises. 
+GERONTE.
+J'en suis persuade. 
+ERASTE.
+Mais ecoutez ceci, 
+Qui doit bien vous surprendre, et m'a surpris aussi ; 
+C'est que madame Argante, aimant votre famille, 
+M'a propose, tout franc, de me donner sa fille, 			[940]
+Et d'acquitter ainsi, par un commun egard, 
+La parole donnee et d'une et d'autre part. 
+GERONTE.
+Et qu'as-tu su repondre a ces belles pensees ? 
+ERASTE.
+Que je ne voulais point aller sur vos brisees, 
+Sans avoir, sur ce point, su votre sentiment, 			[945]
+Et de plus, obtenu votre consentement. 
+GERONTE.
+Ne t'embarrasse point encor de mariage. 
+Que mon exemple ici serve a te rendre sage. 
+LISETTE.
+Moi, j'approuverais fort cet hymen et ce choix : 
+Il est tel qu'il le faut, et j'y donne ma voix. 			[950]
+Il convient a monsieur de suivre cette envie, 
+Non a vous, qui devez renoncer a la vie. 
+GERONTE.
+A la vie ! Et pourquoi ? Suis-je mort, s'il vous plait ? 
+LISETTE.
+Je ne sais pas, monsieur, au vrai ce qu'il en est ; 
+Mais tout le monde croit, a votre air triste et sombre, 			[955]
+Qu'errant pres du tombeau, vous n'etes plus qu'une ombre, 
+Et que, pour des raisons qui vous font differer, 
+Vous ne vous etes pas encor fait enterrer. 
+GERONTE.
+Avec de tels discours et ton air d'insolence, 
+Tu pourrais, a la fin, lasser ma patience. 			[960]
+LISETTE.
+Je ne sais point, monsieur, farder la verite, 
+Et dis ce que je pense avecque liberte. 
+SCENE V. Le Laquais, Geronte, Eraste, Lisette.
+LE LAQUAIS.
+Une dame, la-bas, monsieur, avec sa suite, 
+Qui porte le grand deuil, vient vous rendre visite, 
+Et se dit votre niece. 
+GERONTE.
+Encore des parents ! 			[965]
+LE LAQUAIS.
+La ferai-je monter ? 
+GERONTE.
+Non, je te le defends. 
+LISETTE.
+Gardez-vous bien, monsieur, d'en user de la sorte ; 
+Et vous ne devez pas lui refuser la porte. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Va-t'en la faire entrer. 
+SCENE VI. Geronte, Eraste, Lisette.
+LISETTE, a Geronte.
+Contraignez-vous un peu : 
+La niece aura l'esprit mieux fait que le neveu. 			[970]
+Entre tant de parents, ce serait bien le diable 
+S'il ne s'en trouvait pas quelqu'un de raisonnable. 
+SCENE VII. Crispin en veuve, un petit dragon lui portant la queue, Geronte, Eraste, Lisette, Le Laquais de Geronte.
+CRISPIN fait des reverences au Laquais de Geronte qui lui ouvre la porte. Le petit dragon sort.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Permettez, s'il vous plait, que cet embrassement 
+Vous temoigne ma joie et mon ravissement : 
+Je vois un oncle enfin, mais un oncle que j'aime, 			[975]
+Et que j'honore aussi cent fois plus que moi-meme. 
+LISETTE, bas, a Eraste.
+Monsieur, c'est la Crispin. 
+ERASTE, bas, a Lisette.
+C'est lui, je le sais bien ; 
+Nous avons eu la-bas un moment d'entretien. 
+GERONTE, a Eraste.
+Elle a de la douceur et de la politesse. 
+Qu'on donne promptement un fauteuil a ma niece. 			[980]
+CRISPIN, au Laquais de Geronte.
+Ne bougez, s'il vous plait ; le respect m'interdit. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Un fauteuil pres mon oncle ! Un tabouret suffit. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)GERONTE.
+Je suis assez content deja de la parente. 
+ERASTE.
+Elle sait vraiment vivre, et sa taille est charmante. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VIII. Geronte, Crispin, en veuve, Eraste, Lisette.
+CRISPIN.
+Fi donc ! Vous vous moquez, je suis a faire peur. 			[985]
+Je n'avais autrefois que cela de grosseur ; 
+Mais vous savez l'effet d'un fecond mariage, 
+Et ce que c'est d'avoir des enfants en bas age : 
+Cela gate la taille, et furieusement. 
+LISETTE.
+Vous passeriez encor pour fille assurement. 			[990]
+CRISPIN.
+J'ai fait du mariage une assez triste epreuve. 
+A vingt ans mon mari m'a laisse mere et veuve. 
+Vous vous doutez assez qu'apres ce prompt trepas, 
+Et faite comme on est, ayant quelques appas, 
+On aurait pu trouver a convoler de reste ; 			[995]
+Mais du pauvre defunt la memoire funeste 
+M'oblige a devorer en secret mes ennuis. 
+J'ai bien de facheux jours, et de plus dures nuits : 
+Mais d'un veuvage affreux les tristes insomnies 
+Ne m'arracheront point de noires perfidies ; 			[1000]
+Et je veux chez les morts emporter, si je peux, 
+Un coeur qui ne brula que de ses premiers feux. 
+ERASTE.
+On ne poussa jamais plus loin la foi promise. 
+Voila des sentiments dignes d'une Artemise. 
+GERONTE, a Crispin.
+Votre epoux, vous laissant mere et veuve a vingt ans, 			[1005]
+Ne vous a pas laisse, je crois, beaucoup d'enfants. 
+CRISPIN.
+Rien que neuf ; mais, le coeur tout gonfle d'amertume, 
+Deux ans encore apres j'accouchai d'un posthume. 
+LISETTE.
+Deux ans apres ! Voyez quelle fidelite ! 
+On ne le croira pas dans la posterite. 			[1010]
+GERONTE, a Crispin.
+Peut-on vous demander, sans vous faire de peine, 
+Quel sujet si pressant vous fait quitter le Maine ? 
+CRISPIN.
+Le desir de vous voir est mon premier objet ; 
+De plus, certain proces qu'on m'a sottement fait, 
+Pour certain four banal sis en mon territoire. 			[1015]
+Je propose dabord un bon declinatoire ; 
+On passe outre : je forme empechement formel ; 
+Et, sans nuire a mon droit, j'anticipe l'appel. 
+La cause est au bailliage ainsi revendiquee : 
+On plaide, et je me trouve enfin interloquee ! 			[1020]
+LISETTE.
+Interloquee ! Ah, ciel ! Quel affront est-ce la ! 
+Et vous avez souffert qu'on vous interloquat ! 
+Une femme d'honneur se voir interloquee ! 
+ERASTE.
+Pourquoi donc de ce terme etre si fort piquee ? 
+C'est un mot du barreau. 
+LISETTE.
+C'est ce qu'il vous plaira ; 			[1025]
+Mais juge, de ses jours, ne m'interloquera : 
+Le mot est immodeste, et le terme m'en choque ; 
+Et je ne veux jamais souffrir qu'on m'interloque. 
+GERONTE, a Crispin.
+Elle est folle, et souvent il lui prend des acces... 
+Elle ne parle pas si bien que vous proces 			[1030]
+CRISPIN.
+Ce proces n'est pas seul le sujet qui m'amene, 
+Et qui m'a fait quitter si brusquement le Maine. 
+Ayant appris, monsieur, par gens dignes de foi, 
+Qui m'ont fait un recit de vous, et que je crois, 
+Que vous etiez un homme atteint de plus d'un vice, 			[1035]
+Un ivrogne, un joueur... 
+ERASTE.
+Comment donc ? Quel caprice ! 
+CRISPIN.
+Qui hantiez certains lieux et le jour et la nuit, 
+Ou l'honnetete souffre et la pudeur gemit... 
+GERONTE.
+Est-ce a moi, s'il vous plait, que ce discours s'adresse ? 
+CRISPIN.
+Oui, mon oncle, a vous-meme. A-t-il rien qui vous blesse, 			[1040]
+Puisqu'il est copie d'apres la verite ? 
+GERONTE, a part.
+Je ne sais ou j'en suis. 
+CRISPIN.
+On m'a meme ajoute 
+Que, depuis tres longtemps, avec mademoiselle, 
+Vous meniez une vie indigne et criminelle, 
+Et que vous en aviez deja plusieurs enfants. 			[1045]
+LISETTE.
+Avec moi ! Juste ciel ! Voyez les medisants ! 
+De quoi se melent-ils ? Est-ce la leur affaire ? 
+GERONTE.
+Je ne sais qui retient l'effet de ma colere. 
+CRISPIN.
+Ainsi, sur le rapport de mille honnetes gens, 
+Nous avons fait, monsieur, assembler vos parents ; 			[1050]
+Et pour vous empecher, dans ce desordre extreme, 
+De manger notre bien et vous perdre vous-meme, 
+Nous avons resolu, d'une commune voix, 
+De vous faire interdire, en observant les lois. 
+GERONTE.
+Moi, me faire interdire ! 
+LISETTE.
+Ah ciel ! Quelle famille ! 			[1055]
+CRISPIN.
+Nous savons votre vie avecque cette fille, 
+Et voulons empecher qu'il ne vous soit permis 
+De faire un mariage un jour in extremis. 
+GERONTE, se levant.
+Sortez d'ici, madame, et que de votre vie 
+Remettre le pied il ne vous prenne envie ; 			[1060]
+Sortez d'ici, vous dis-je, et sans vous arreter... 
+CRISPIN.
+Comment ! Battre une veuve et la violenter ! 
+Au secours ! Aux voisins ! Au meurtre ! On m'assassine. 
+GERONTE.
+Voila, je vous avoue, une grande coquine. 
+CRISPIN.
+Quoi ! Contre votre sang vous osez blasphemer ! 			[1065]
+Cela peut bien aller a vous faire enfermer. 
+LISETTE.
+Faire enfermer monsieur ! 
+CRISPIN.
+Ne faites point le fiere ;
+On peut aussi vous mettre a la Salpetriere.
+LISETTE.
+A la Salpetriere ! 
+CRISPIN.
+Oui ma mie, et sans bruit. 
+De vos deportements on n'est que trop instruit. 			[1070]
+ERASTE.
+Il faut developper le fond de ce mystere. 
+Que l'on m'aille a l'instant chercher un commissaire. 
+CRISPIN.
+Un commissaire a moi ! Suis-je donc, s'il vous plait, 
+Gibier a commissaire ? 
+ERASTE.
+On verra ce que c'est ; 
+Et dans peu nous saurons, avec un tel tumulte, 			[1075]
+Si l'on vient chez les gens ainsi leur faire insulte. 
+Vous, mon oncle, rentrez dans votre appartement ; 
+Je vous rendrai raison de tout dans un moment. 
+GERONTE.
+Ouf ! Ce jour-ci sera le dernier de ma vie. 
+LISETTE, a Crispin.
+Miserable ! Tu mets un oncle a l'agonie ! 			[1080]
+La mauvaise famille et du Maine et de Caen ! 
+Oui, tous ces parents-la meritent le carcan. 
+SCENE IX. Eraste, Crispin.
+ERASTE.
+Est-il bien vrai, Crispin ? Et ton ardeur sincere.... 
+CRISPIN.
+Envoyez donc, monsieur, chercher un commissaire : 
+Je l'attends de pied ferme. 
+ERASTE.
+Ah ! Juste ciel ! C'est toi. 			[1085]
+Je ne me trompe point. 
+CRISPIN.
+Oui, ventrebleu, c'est moi. 
+Vous venez de me faire une rude algarade. 
+ERASTE.
+Ta pudeur a souffert d'une telle incartade. 
+CRISPIN.
+L'ardeur de vous servir m'a donne cet habit ; 
+Et, comme vous voyez, mon projet reussit. 			[1090]
+Avec de certains mots j'ai conjure l'orage : 
+Ici de deux parents j'ai fait le personnage ; 
+Et j'ai dit, en leur nom, de telles duretes, 
+Qu'ils seront, par ma foi, tous deux desherites. 
+ERASTE.
+Quoi ! 
+CRISPIN.
+Si vous m'aviez vu tantot faire merveille, 			[1095]
+En noble campagnard, le plumet sur l'oreille, 
+Avec un feutre gris, longue brette au cote, 
+Mon air de Bas-Normand vous aurait enchante. 
+Mais il faut dire vrai, cette coiffe m'inspire 
+Plus d'intrepidite que je ne puis vous dire : 			[1100]
+Avec cet attirail, j'ai vingt fois moins de peur ; 
+L'adresse et l'artifice ont passe dans mon coeur. 
+Qu'on a, sous cet habit, et d'esprit et de ruse ! 
+ERASTE.
+Enfin de ses neveux l'oncle se desabuse ; 
+Il fait un testament qui doit combler mes voeux. 			[1105]
+Est-il dans l'univers un mortel plus heureux ? 
+SCENE X. Eraste, Crispin, Lisette.
+LISETTE.
+Ah, monsieur ! Apprenez un accident terrible ; 
+Monsieur Geronte est mort. 
+ERASTE.
+Ah ciel ! Est-il possible ? 
+CRISPIN.
+Quoi ! L'oncle de monsieur serait defunt ? 
+LISETTE.
+Helas ! 
+Il ne vaut guere mieux, tant le pauvre homme est bas. 			[1110]
+Arrivant dans sa chambre et se trainant a peine, 
+Il s'est mis sur son lit sans force et sans haleine ; 
+Et, raidissant les bras, la suffocation 
+A tout d'un coup coupe la respiration ; 
+Enfin il est tombe, malgre mon assistance, 			[1115]
+Sans voix, sans sentiment, sans pouls, sans connaissance. 
+ERASTE.
+Je suis au desespoir. C'est ce dernier transport 
+Ou tu l'as mis, Crispin, qui causera sa mort. 
+CRISPIN.
+Moi, monsieur ! De sa mort je ne suis point la cause ; 
+Et le defunt, tout franc, a fort mal pris la chose. 			[1120]
+Pourquoi se saisit-il si fort pour des discours ? 
+J'en voulais a son bien, et non pas a ses jours. 
+ERASTE.
+Ne desesperons point encore de sa vie ; 
+Il tombe assez souvent dans une lethargie 
+Qui ressemble au trepas, et nous alarme fort. 			[1125]
+LISETTE.
+Ah, monsieur ! Pour le coup, il est a moitie mort ; 
+Et moi, qui m'y connais, je dis qu'il faut qu'il meure, 
+Et qu'il ne peut jamais aller encore une heure. 
+ERASTE.
+Ah ! Juste ciel ! Crispin, quel triste evenement ! 
+Non oncle mourra donc sans faire un testament ; 			[1130]
+Et je serai frustre, par cette mort cruelle, 
+De l'espoir d'obtenir la charmante Isabelle ! 
+Fortune, je sens bien l'effet de ton courroux ! 
+LISETTE.
+C'est a moi de pleurer, et je perds plus que vous. 
+CRISPIN.
+Allons, mes chers enfants, il faut agir de tete, 			[1135]
+Et presenter un front digne de la tempete : 
+Il n'est pas temps ici de repandre des pleurs ; 
+Faisons voir un courage au-dessus des malheurs. 
+ERASTE.
+Que nous sert le courage, et que pouvons-nous faire ? 
+CRISPIN.
+Il faut premierement, d'une ardeur salutaire, 			[1140]
+Courir au coffre-fort, sonder les cabinets, 
+Demeubler la maison, s'emparer des effets. 
+Lisette, quelque temps tiens la bouche cousue, 
+Si tu peux : va fermer la porte de la rue ; 
+Empare-toi des clefs, de peur d'invasion. 			[1145]
+LISETTE.
+Personne n'entrera sans ma permission. 
+CRISPIN.
+Que l'ardeur du butin et d'un riche pillage 
+N'emporte pas trop loin votre bouillant courage ; 
+Surtout, dans l'action, gardons le jugement. 
+Le sort conspire en vain contre le testament : 			[1150]
+Plutot que tant de bien passe en des mains profanes, 
+De Geronte defunt j'evoquerai les manes ; 
+Et vous aurez pour vous, malgre les envieux, 
+Et Lisette, et Crispin, et l'enfer, et les dieux. 
+
+
+			ACTE IV
+
+
+SCENE I. Eraste, Crispin.
+ERASTE, tenant le portefeuille de Geronte.
+Ah ! Mon pauvre Crispin, je perds toute esperance. 			[1155]
+Mon oncle ne saurait reprendre connaissance : 
+L'art et les medecins sont ici superflus ; 
+Le pauvre homme n'a pas a vivre une heure au plus. 
+Le legs universel qu'il pretendait me faire, 
+Comme tu vois, Crispin, ne m'enrichira guere. 			[1160]
+CRISPIN.
+Lisette et moi, monsieur, pour finir nos projets, 
+Nous comptions bien aussi sur quelque petit legs. 
+ERASTE.
+Quoiqu'un cruel destin, a nos desirs contraire, 
+Epuise contre nous les traits de sa colere, 
+Nos soins ne seront pas infructueux et vains ; 			[1165]
+Quarante mille ecus que je tiens dans mes mains, 
+Triste et fatal debris d'un malheureux naufrage, 
+Seront mis, si je veux, a l'abri de orage. 
+Voila tous bons billets que j'ai trouves sur lui. 
+CRISPIN, voulant prendre les billets.
+Souffrez que je partage avec vous votre ennui. . 			[1170]
+Ce petit lenitif, en attendant le reste, 
+Pourra nous consoler d'un coup aussi funeste. 
+ERASTE.
+Il est vrai, cher Crispin ; mais enfin tu sais bien. 
+Que cela ne fait pas presque le quart du bien 
+Qu'en la succession mes soins pouvaient pretendre, 			[1175]
+Et que le testament me donnait lieu d'attendre : 
+Des maisons a Paris, des terres, des contrats, 
+Offraient bien a mon coeur de plus charmants appas. 
+Non que l'ardeur du gain et la soif des richesses 
+Me fissent ressentir leurs indignes faiblesses ; 			[1180]
+C'est d'un plus noble feu dont mon coeur est epris. 
+Je devais epouser Isabelle a ce prix : 
+Ce n'est qu'avec ce bien, qu'avec ces avantages, 
+Que je puis de sa mere obtenir les suffrages ; 
+Faute de testament, je perds, et pour toujours, 			[1185]
+Un bien dont dependait le bonheur de mes jours. 
+CRISPIN.
+J'entre dans vos raisons ; elles sont tres plausibles : 
+Mais ce sont de ces coups imprevus et terribles, 
+Dont tout l'esprit humain demeure confondu, 
+Et qui mettent a bout la plus male vertu. 			[1190]
+Pour marquer au vieillard sa derniere demeure, 
+O mort ! Tu devais bien attendre encore une heure ; 
+Tu nous aurais tous mis dans un parfait repos, 
+Et le tout se serait passe bien a propos. 
+ERASTE.
+Faudra-t-il qu'un espoir fonde sur la justice, 			[1195]
+En steriles regrets passe et s'evanouisse ? 
+Ne saurais-tu, Crispin, parer ce coup fatal, 
+Et trouver promptement un remede a mon mal ? 
+Tantot tu meditais un heroique ouvrage : 
+C'est dans les grands dangers qu'on voit un grand courage. 			[1200]
+CRISPIN.
+Oui, je croyais tantot reparer cet echec ; 
+Mais a present j'echoue, et je demeure a sec. 
+Un autre, en pareil cas, serait aussi sterile. 
+S'il fallait, par hasard, d'un coup de main habile, 
+Soustraire, escamoter sans bruit un testament 			[1205]
+Ou vous seriez traite peu favorablement, 
+Peut-etre je pourrais, par quelque coup d'adresse, 
+Exercer mon talent et montrer ma prouesse : 
+Mais en faire trouver alors qu'il n'en est point, 
+Le diable avec sa clique, et reduit a ce point, 			[1210]
+Fort inutilement s'y casserait la tete ; 
+Et cependant, monsieur, le diable n'est pas bete. 
+ERASTE.
+Tu veux donc me confondre et me desesperer ? 
+SCENE II. Lisette, Eraste, Crispin.
+LISETTE, a Eraste.
+Les Notaires, monsieur, viennent la-bas d'entrer ; 
+Je les ai mis tous deux dans cette salle basse. 			[1215]
+Voyez ; que voulez-vous, s'il vous plait, qu'on en fasse ? 
+ERASTE.
+Je vois a tous moments croitre mon embarras. 
+Fais-en, ma pauvre enfant, tout ce que tu voudras. 
+Savent-ils que mon oncle a perdu connaissance, 
+Et qu'il ne peut parler ? 
+LISETTE.
+Non, pas encor, je pense.			[1220]
+ERASTE.
+Crispin... 
+CRISPIN.
+Monsieur ! 
+ERASTE.
+Helas ! 
+CRISPIN.
+Helas ! 
+ERASTE.
+Juste ciel ! 
+CRISPIN.
+Ha ! 
+ERASTE.
+Que ferons-nous, dis-moi ? 
+CRISPIN.
+Tout ce qu'il vous plaira. 
+ERASTE.
+Quoi ! Les renverrons-nous ? 
+CRISPIN.
+Eh ! Qu'en voulez-vous faire ? 
+Qu'en pouvons-nous tirer qui nous soit salutaire ? 
+LISETTE.
+Je vais donc leur marquer qu'ils n'ont qu'a s'en aller. 			[1225]
+ERASTE, arretant Lisette.
+Attends encore un peu. Je me sens accabler. 
+Crispin, tu vas me voir expirer a ta vue. 
+CRISPIN.
+Je vous suivrai de pres, et la douleur me tue. 
+LISETTE.
+Moi ! Je n'irai pas loin. Faut-il nous voir, tous trois, 
+Comme d'un coup de foudre, ecraser a la fois ? 			[1230]
+CRISPIN.
+Attendez... Il me vient... Le dessein est bizarre ; 
+Il pourrait par hasard... J'entrevois... Je m'egare, 
+Et je ne vois plus rien que par confusion. 
+LISETTE.
+Peste soit l'animal, avec sa vision ! 
+ERASTE.
+Fais-nous part du dessein que ton coeur se propose. 			[1235]
+LISETTE.
+Allons, mon cher Crispin, tache a voir quelque chose. 
+CRISPIN.
+Laisse-moi donc rever... Oui-da... Non... Si, pourtant... 
+Pourquoi non ?... On pourrait... 
+LISETTE.
+Ne reve donc point tant ; 
+Les Notaires la-bas sont dans l'impatience : 
+Tout ici ne depend que de la diligence. 			[1240]
+CRISPIN.
+Il est vrai ; mais enfin j'accouche d'un dessein 
+Qui passera l'effort de tout esprit humain. 
+Toi, qui parais dans tout si legere et si vive, 
+Exerce a ce sujet ton imaginative ; 
+Voyons ton bel esprit. 
+LISETTE.
+Je t'en laisse l'emploi. 			[1245]
+Qui peut en fourberie etre si fort que toi ? 
+L'amour doit ranimer ton adresse passee. 
+CRISPIN.
+Paix... Silence... Il me vient un surcroit de pensee. 
+J'y suis, ventrebleu ! 
+LISETTE.
+Bon. 
+CRISPIN.
+Dans un fauteuil assis... 
+LISETTE.
+Fort bien... 
+CRISPIN.
+Ne troublez pas l'enthousiasme ou je suis. 			[1250]
+Un grand bonnet fourre jusque sur les oreilles ; 
+Les volets bien fermes... 
+LISETTE.
+C'est penser a merveilles. 
+CRISPIN.
+Oui, monsieur, dans ce jour, au gre de vos souhaits, 
+Vous serez legataire, et je vous le promets. 
+Allons, Lisette, allons, ranimons notre zele ; 			[1255]
+L'amour a ce projet nous guide et nous appelle. 
+Va de l'oncle defunt me chercher quelque habit, 
+Sa robe de malade, et son bonnet de nuit : 
+Les depouilles du mort feront notre victoire., 
+LISETTE.
+Je veux en elever un trophee a ta gloire, 			[1260]
+Et je cours te servir. Je reviens sur mes pas. 
+SCENE III. Eraste, Crispin.
+ERASTE.
+Tu m'arraches, Crispin, des portes du trepas. 
+Si ton dessein succede au gre de notre envie, 
+Je veux te rendre heureux le reste de ta vie. 
+Je serais legataire ! Et, par meme moyen, 			[1265]
+J'epouserais l'objet qui fait seul tout mon bien ! 
+Ah, Crispin ! 
+CRISPIN.
+Cependant une terreur secrete 
+S'empare de mes sens, m'alarme et m'inquiete : 
+Si la Justice vient a connaitre du fait, 
+Elle est un peu brutale, et saisit au collet. 			[1270]
+Il faut faire un faux seing ; et ma main alarmee 
+Se refuse au projet dont mon ame est charmee. 
+ERASTE.
+Ton trouble est mal fonde : depuis deux ou trois mois 
+Geronte ne pouvait se servir de ses doigts ; 
+Ainsi sa signature, ailleurs si necessaire, 			[1275]
+N'est point, comme tu vois, requise en notre affaire ; 
+Et tu declareras que tu ne peux signer. 
+CRISPIN.
+A de bonnes raisons je me laisse gagner ; 
+Et je sens tout a coup renaitre en mon courage 
+L'ardeur dont j'ai besoin pour un si grand ouvrage. 			[1280]
+SCENE IV. Lisette, apportant les hardes de Geronte, Eraste, Crispin.
+LISETTE, jetant le paquet.
+Du bon homme Geronte, en gros comme en detail, 
+Comme tu l'as requis, voila tout l'attirail. 
+CRISPIN, se deshabillant.
+Ne perdons point de temps, que l'on m'habille en hate. 
+Monsieur, mettez la main, s'il vous plait, a la pate. 
+La robe ; depechons, passez-la dans mes bras. 			[1285]
+Ah ! Le mauvais valet ! Chaussez chacun un bas. 
+Ca, le mouchoir de cou. Mets-moi vite ce casque. 
+Les pantoufles. Fort bien. L'equipage est fantasque. 
+LISETTE.
+Oui, voila le defunt ; dissipons notre ennui. 
+Geronte n'est point mort, puisqu'il revit en lui : 			[1290]
+Voila son air, ses traits ; et lon doit s'y meprendre. 
+CRISPIN.
+Mais, avec son habit, si son mal m'allait prendre ? 
+ERASTE.
+Ne crains rien, arme-toi de resolution. 
+CRISPIN.
+Ma foi, deja je sens un peu d'emotion : 
+Je ne sais si la peur est un peu laxative, 			[1295]
+Ou si cet habit a la vertu purgative. 
+LISETTE.
+Je veux te mettre encor ce vieux manteau fourre, 
+Dont aux jours de remede il etait entoure. 
+CRISPIN.
+Tu peux, quand tu voudras, appeler les Notaires ; 
+Me voila maintenant en habits mortuaires. 			[1300]
+LISETTE.
+Je vais dans un moment les amener ici. 
+CRISPIN.
+Secondez-moi bien tous dans cette affaire-ci. 
+SCENE V. Eraste, Crispin.
+CRISPIN.
+Vous, monsieur, s'il vous plait, fermez porte et fenetre ; 
+Un eclat indiscret peut me faire connaitre. 
+Avancez cette table. Approchez ce fauteuil. 			[1305]
+Ce jour mal condamne me blesse encore l'oeil. 
+Tirez bien les rideaux, que rien ne nous trahisse. 
+ERASTE.
+Fasse un heureux destin reussir l'artifice ! 
+Si j'ose me porter a cette extremite, 
+Malgre moi j'obeis a la necessite. 			[1310]
+J'entends du bruit. 
+CRISPIN, se jetant brusquement sur un fauteuil.
+Songeons a la ceremonie ; 
+Et ne me quittez pas, monsieur, a l'agonie. 
+ERASTE.
+Un dieu, dont le pouvoir sert d'excuse aux amants, 
+Saura me disculper de ces emportements. 
+SCENE VI. Lisette, Monsieur Scrupule, Monsieur Gaspard, Eraste, Crispin.
+LISETTE, aux Notaires.
+Entrez, messieurs, entrez. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Voila les deux notaires, 			[1315]
+Avec qui vous pouvez mettre ordre a vos affaires. 
+CRISPIN, aux Notaires.
+Messieurs, je suis ravi, quoiqu'a l'extremite, 
+De vous voir tous les deux en parfaite sante. 
+Je voudrais bien encore etre a lage ou vous etes ; 
+Et si je me portais aussi bien que vous faites, 			[1320]
+Je ne songerais guere a faire un testament. 
+MONSIEUR SCRUPULE.
+Cela ne vous doit point chagriner un moment ; 
+Rien n'est desespere : cette ceremonie 
+Jamais d'un testateur n'a raccourci la vie ; 
+Au contraire, monsieur, la consolation 			[1325]
+D'avoir fait de ses biens la distribution, 
+Repand au fond du coeur un repos sympathique, 
+Certaine quietude et douce et balsamique, 
+Qui, se communiquant apres dans tous les sens, 
+Retablit la sante dans quantite de gens. 			[1330]
+CRISPIN.
+Que le ciel veuille donc me traiter de la sorte ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Messieurs, asseyez-vous. Toi, va fermer la porte. 
+MONSIEUR GASPARD.
+D'ordinaire, monsieur, nous apportons nos soins 
+Que ces actes secrets se passent sans temoins. 
+Il serait a propos que monsieur prit la peine 			[1335]
+D'aller, avec madame, en la chambre prochaine. 
+LISETTE.
+Moi, je ne puis quitter monsieur un seul moment. 
+ERASTE.
+Mon oncle, sur ce point, dira son sentiment. 
+CRISPIN.
+Ces personnes, messieurs, sont sages et discretes ; 
+Je puis leur confier mes volontes secretes, 			[1340]
+Et leur montrer l'exces de mon affection. 
+MONSIEUR SCRUPULE.
+Nous ferons tout au gre de votre intention. 
+L'intitule sera tel que l'on doit le faire, 
+Et l'on le reduira dans le style ordinaire. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Par-devant... fut present... Geronte... et caetera. 			[1345]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Dites-nous maintenant tout ce qu'il vous plaira. 
+CRISPIN.
+Je veux premierement qu'on acquitte mes dettes. 
+ERASTE.
+Nous n'en trouverons pas, je crois, beaucoup de faites. 
+CRISPIN.
+Je dois quatre cents francs a mon marchand de vin, 
+Un fripon qui demeure au cabaret voisin. 			[1350]
+MONSIEUR SCRUPULE.
+Fort bien. Ou voulez-vous, monsieur, qu'on vous enterre ? 
+CRISPIN.
+A dire vrai, messieurs, il ne m'importe guere. 
+Qu'on se garde surtout de me mettre trop pres 
+De quelque procureur chicaneur et mauvais ; 
+Il ne manquerait pas de me faire querelle ; 			[1355]
+Ce serait tous les jours procedure nouvelle, 
+Et je serais encor contraint de deguerpir. 
+ERASTE.
+Tout se fera, monsieur, selon votre desir. 
+J'aurai soin du convoi, de la pompe funebre, 
+Et n'epargnerai rien pour la rendre celebre. 			[1360]
+CRISPIN.
+Non, mon neveu, je veux que mon enterrement 
+Se fasse a peu de frais et fort modestement. 
+Il fait trop cher mourir, ce serait conscience. 
+Jamais, de mon vivant, je n'aimai la depense ; 
+Je puis etre enterre fort bien pour un ecu. 			[1365]
+LISETTE, a part.
+Le pauvre malheureux meurt comme il a vecu. 
+MONSIEUR GASPARD.
+C'est a vous maintenant, s'il vous de nous dire 
+Les legs qu'au testament vous voulez faire ecrire. 
+CRISPIN.
+C'est a quoi nous allons nous employer dans peu. 
+Je nomme, j'institue Eraste, mon neveu, 			[1370]
+Que j'aime tendrement, pour mon seul legataire, 
+Unique, universel. 
+ERASTE, affectant de pleurer.
+O douleur trop amere ! 
+CRISPIN.
+Lui laissant tout mon bien, meubles, propres, acquets, 
+Vaisselle, argent comptant, contrats, maisons, billets ; 
+Desheritant, en tant que besoin pourrait etre, 			[1375]
+Parents, nieces, neveux, nes aussi bien qu'a naitre, 
+Et meme tous batards, a qui Dieu fasse paix, 
+S'il s'en trouvait aucuns au jour de mon deces. 
+LISETTE, affectant de la douleur.
+Ce discours me fend lame. Helas ! Mon pauvre maitre ! 
+Il faudra donc vous voir pour jamais disparaitre ! 			[1380]
+ERASTE, de meme. 
+Les biens que vous m'offrez n'ont pour moi nuls appas, 
+S'il faut les acheter avec votre trepas. 
+CRISPIN.
+Item. Je donne et legue a Lisette presente... 
+LISETTE, de meme.
+Ah ! 
+CRISPIN.
+Qui depuis cinq ans me tient lieu de servante, 
+Pour epouser Crispin en legitime noeud, 			[1385]
+Non autrement,... 
+LISETTE, tombant comme evanouie.
+Ah ! Ah ! 
+CRISPIN.
+Soutiens-la, mon neveu. 
+Et pour recompenser l'affection, le zele 
+Que de tout temps, pour moi, je reconnus en elle... 
+LISETTE, affectant de pleurer.
+Le bon maitre, grands dieux ! Que je vais perdre la ! 
+CRISPIN.
+Deux mille ecus comptant en espece. 
+LISETTE, de meme.
+Ah ! Ah ! Ah ! 			[1390]
+ERASTE, a part. 
+Deux mille ecus ! Je crois que le pendard se moque. 
+LISETTE, de meme.
+Je n'y puis resister, la douleur me suffoque. 
+Je crois que j'en mourrai. 
+CRISPIN.
+Lesquels deux mille ecus, 
+Du plus clair de mon bien seront pris et percus. 
+LISETTE, a Crispin.
+Le ciel vous fasse paix d'avoir de moi memoire, 			[1395]
+Et vous paie au centuple une oeuvre meritoire ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il m'avait bien promis de ne pas m'oublier. 
+ERASTE, bas.
+Le fripon m'a joue d'un tour de son metier. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je crois que voila tout ce que vous voulez dire. 
+CRISPIN.
+J'ai trois ou quatre mots encore a faire ecrire. 			[1400]
+Item. Je laisse et legue a Crispin... 
+ERASTE, bas.
+A Crispin ! 
+Je crois qu'il perd l'esprit. Quel est donc son dessein ? 
+CRISPIN.
+Pour les bons et loyaux services... 
+ERASTE, bas.
+Ah, le traitre ! 
+CRISPIN.
+Qu'il a toujours rendus, et doit rendre a son maitre... 
+ERASTE.
+Vous ne connaissez pas, mon oncle, ce Crispin : 			[1405]
+C'est un mauvais valet, ivrogne, libertin, 
+Meritant peu le bien que vous voulez lui faire. 
+CRISPIN.
+Je suis persuade, mon neveu, du contraire ; 
+Je connais ce Crispin, mille fois mieux que vous : 
+Je lui veux donc leguer, en depit des jaloux... 			[1410]
+ERASTE, a part. 
+Le chien ! 
+CRISPIN.
+Quinze cents francs de rentes viageres, 
+Pour avoir souvenir de moi dans ses prieres. 
+ERASTE, a part. 
+Ah ! Quelle trahison ! 
+CRISPIN.
+Trouvez-vous, mon neveu, 
+Le present malhonnete, et que ce soit trop peu ? 
+ERASTE.
+Comment ! Quinze cents francs ! 
+CRISPIN.
+Oui, sans laquelle clause 			[1415]
+Le testament sera nul, et pour cause. 
+ERASTE.
+Pour un valet, mon oncle, a-t-on fait un tel legs ? 
+Vous n'y pensez donc pas ? 
+CRISPIN.
+Je sais ce que je fais ; 
+Et je n'ai point l'esprit si faible et si debile. 
+ERASTE.
+Mais... 			[1420]
+CRISPIN.
+Si vous me fachez, j'en laisserai deux mille. 			[1420]
+ERASTE.
+Si... 
+LISETTE, bas, a Eraste.
+Ne l'obstinez point, je connais son esprit. 
+Il le ferait, monsieur, tout comme il vous le dit. 
+ERASTE, bas, a Lisette.
+Soit, je ne dirai mot ; cependant, de ma vie, 
+Je n'aurai de parler une si juste envie. 
+CRISPIN.
+N'aurais-je point encor quelqu'un de mes amis 			[1425]
+A qui je pourrais faire un fideicommis ? 
+ERASTE, bas.
+Le scelerat encor rit de ma retenue ; 
+Il ne me laissera plus rien, s'il continue. 
+MONSIEUR SCRUPULE, a Crispin.
+Est-ce fait ? 
+CRISPIN.
+Oui, monsieur. 
+ERASTE, a part.
+Le ciel en soit beni ! 
+MONSIEUR GASPARD.
+Voila le testament heureusement fini. 			[1430]
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous plait-il de signer ? 
+CRISPIN.
+J'en aurais grande envie ; 
+Mais j'en suis empeche par la paralysie 
+Qui depuis quelques mois me tient sur le bras droit. 
+MONSIEUR GASPARD, ecrivant.
+Et ledit testateur declare, en cet endroit, 
+Que de signer son nom il est dans l'impuissance, 			[1435]
+De ce l'interpellant au gre de l'ordonnance. 
+CRISPIN.
+Qu'un testament a faire est un pesant fardeau ! 
+M'en voila delivre ; mais je suis tout en eau. 
+MONSIEUR SCRUPULE, a Crispin.
+Vous n'avez plus besoin de notre ministere ? 
+CRISPIN, a Monsieur Scrupule.
+Laissez-moi, s'il vous plait, l'acte qu'on vient de faire. 			[1440]
+MONSIEUR SCRUPULE.
+Nous ne pouvons, monsieur ; cet acte est un depot 
+Qui reste dans nos mains ; je reviendrai tantot, 
+Pour vous en apporter moi-meme une copie. 
+ERASTE.
+Vous nous ferez plaisir ; mon oncle vous en prie, 
+Et veut recompenser votre peine et vos soins. 			[1445]
+MONSIEUR GASPARD.
+C'est maintenant, monsieur, ce qui presse le moins. 
+CRISPIN.
+Lisette, conduis-les. 
+SCENE VII. Eraste, Crispin.
+CRISPIN, remettant en place la table et les chaises.
+Ai-je tenu parole ? 
+Et, dans l'occasion, sais-je jouer mon role, 
+Et faire un testament ? 
+ERASTE.
+Trop bien pour mon profit. 
+Dis-moi donc, malheureux ! As-tu perdu l'esprit, 			[1450]
+De faire un testament qui m'est si dommageable ? 
+De laisser a Lisette une somme semblable ? 
+CRISPIN.
+Ma foi, ce n'est pas trop. 
+ERASTE.
+Deux mille ecus comptant ! 
+CRISPIN.
+Il faut, en pareil cas, que chacun soit content. 
+Pouvais-je moins laisser a cette pauvre fille ? 			[1455]
+ERASTE.
+Comment donc, traitre ! 
+CRISPIN.
+Elle est un peu de la famille : 
+Votre oncle, si l'on croit le lardon scandaleux, 
+N'a pas ete toujours impotent et goutteux ; 
+Et j'ai du lui laisser, un peu de subsistance, 
+Pour l'acquit de son ame et de ma conscience. 			[1460]
+ERASTE.
+Et de ta conscience ! Et ces quinze cents francs 
+De pension, a toi payables tous les ans, 
+Que tu t'es fait leguer avec tant de prudence, 
+Est-ce encor pour l'acquit de cette conscience ? 
+CRISPIN.
+Il ne faut point, monsieur, s'estomaquer si fort : 			[1465]
+On peut en un moment nous mettre tous d'accord. 
+Puisque le testament que nous venons de faire, 
+Ou je vous institue unique legataire, 
+Ne peut avoir l'honneur d'obtenir votre aveu, 
+Il faut le dechirer et le jeter au feu. 			[1470]
+ERASTE.
+M'en preserve le ciel ! 
+CRISPIN.
+Sans former d'entreprise, 
+Laissons la chose au point ou votre oncle l'a mise. 
+ERASTE.
+Ce serait cent fois pis ; j'en mourrais de douleur. 
+CRISPIN.
+Il s'eleve, aussi bien, dans le fond de mon coeur 
+Certain remords cuisant, certaine synderese, 			[1475]
+Qui furieusement sur l'estomac me pese. 
+ERASTE.
+Rentrons, Crispin ; je tremble, et suis persuade 
+Que nous allons trouver mon oncle decede, 
+Ou que, dans ce moment, pour le moins il expire. 
+CRISPIN.
+Helas ! Il etait temps, ma foi, de faire ecrire. 			[1480]
+ERASTE.
+Le laurier dont tu viens de couronner ton front 
+Ne peut avoir un prix ni trop grand, ni trop prompt. 
+CRISPIN.
+Il faut donc, s'il vous plait, m'avancer une annee 
+De cette pension que je me suis donnee : 
+Vous ne sauriez me faire un plus charmant plaisir. 			[1485]
+ERASTE.
+C'est ce que nous verrons avec plus de loisir. 
+SCENE VIII. Lisette, Eraste, Crispin.
+LISETTE, se jetant dans le fauteuil.
+Misericorde ! Ah, ciel ! Je me meurs : je suis morte. 
+ERASTE, a Lisette.
+Qu'as-tu donc, mon enfant, a crier de la sorte ? 
+LISETTE.
+J'etouffe. Ouf, ouf, la peur m'empeche de parler. 
+CRISPIN, a Lisette.
+Quel vertigo soudain a donc pu te troubler ? 			[1490]
+Parle donc, si tu veux. 
+LISETTE.
+Geronte... 
+CRISPIN.
+He bien, Geronte... . 
+LISETTE, se levant brusquement.
+Ah ! Prenez garde a moi. 
+CRISPIN.
+Veux-tu finir ton conte ? 
+LISETTE.
+Un grand fantome noir... 
+ERASTE.
+Comment donc ! Que dis-tu ? 
+LISETTE.
+Helas ! Mon cher monsieur, je dis ce que j'ai vu. 
+Apres avoir conduit ces messieurs dans la rue, 			[1495]
+Ou la mort du bon homme est deja repandue, 
+Ou meme le crieur a voulu, malgre moi, 
+Faire entrer, avec lui, l'attirail d'un convoi ; 
+De la chambre, ou gisait votre oncle sans escorte, 
+Il m'a semble d'abord entendre ouvrir la porte ; 			[1500]
+Et, montant l'escalier, j'ai trouve nez pour nez, 
+Comme un grand revenant, Geronte sur ses pieds. 
+CRISPIN.
+De la crainte d'un mort ton ame possedee 
+T'abuse et te fais voir un fantome en idee. 
+LISETTE.
+C'est lui, vous dis-je ; il parle... Ah ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CRISPIN.
+Pourquoi ce grand cri ? 			[1505]
+LISETTE.
+Excuse, mon enfant, je te prenais pour lui. 
+Enfin criant, courant, sans detourner la vue, 
+Essoufflee et tremblante, ici je suis venue 
+Vous dire que le mal de votre oncle en ces lieux 
+N'est qu'une lethargie, et qu'il n'en est que mieux. 			[1510]
+ERASTE.
+Avec quelle constance, au branle de sa roue, 
+La fortune ennemie et me berce et me joue ! 
+LISETTE.
+O trop flatteur espoir ! Projets si bien concus, 
+Et mieux executes, qu'etes-vous devenus ? 
+CRISPIN.
+Voila donc le defunt que le sort nous renvoie ! 			[1515]
+Et l'avare Acheron lache encore sa proie ! 
+Vous le voulez, grands dieux ! Ma constance est a bout. 
+Je ne sais ou j'en suis, et j'abandonne tout. 
+ERASTE.
+Toi que j'ai vu tantot si grand, si magnanime, 
+Un seul revers te rend faible et pusillanime ! 			[1520]
+Reprends des sentiments qui soient dignes de toi : 
+Offrons-nous aux dangers ; viens signaler ta foi : 
+Quelque coup de hasard nous tirera d'affaire. 
+CRISPIN.
+Allons-nous abuser encor quelque notaire ? 
+ERASTE.
+Je vais, sans perdre temps, remettre ces billets 			[1525]
+Dans les mains d'Isabelle : ils feront leurs effets ; 
+Et nous en tirerons peut-etre un avantage 
+Qui pourrait bien servir notre mariage. 
+Vous, rentrez chez mon oncle, et prenez bien le soin 
+D'appeler le secours dont il aura besoin. 			[1530]
+Pour retourner plus tot, je pars en diligence, 
+Et viens vous rassurer ici par ma presence. 
+SCENE IX. Crispin, Lisette.
+CRISPIN.
+Ne me voila pas mal avec mon testament ! 
+Je vois ma pension payee en un moment. 
+LISETTE.
+Et mes deux mille ecus pour prix de mon service ? 			[1535]
+CRISPIN.
+Juste ciel ! Sauve-moi des mains de la justice ! 
+Tout ceci ne vaut rien, et m'inquiete fort : 
+Je crains bien d'avoir fait mon testament de mort. 
+
+
+			ACTE V
+
+
+SCENE I. Mme Argante, Isabelle, Eraste.
+MADAME ARGANTE, a Eraste.
+Quel est votre dessein, et que voulez-vous faire ? 
+Puis-je de ces billets etre depositaire ? 			[1540]
+On me soupconnerait d'avoir prete les mains 
+A faire reussir en secret vos desseins ; 
+Maintenant que votre oncle a pu, malgre son age, 
+Reprendre de ses sens heureusement l'usage, 
+Le parti le meilleur, sans user de delais, 			[1545]
+Est de lui reporter vous-meme ses billets. 
+ERASTE.
+Ce n'est pas d'aujourd'hui que je connais, madame, 
+Les nobles sentiments qui regnent dans votre ame : 
+Nous ne pretendons point, vous ni moi, retenir 
+Un bien qui ne nous peut encore appartenir. 			[1550]
+Mais gardez ces billets quelques moments, de grace ; 
+Le ciel m'inspirera ce qu'il faut que je fasse. 
+Je le prends a temoin, si, dans ce que j'ai fait, 
+L'amour n'a pas ete mon principal objet. 
+Helas ! Pour meriter la charmante Isabelle, 			[1555]
+J'ai peut-etre un peu trop fait eclater mon zele ; 
+Mais on pardonnera ces transports amoureux : 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mon excuse, madame, est ecrite en vos yeux. 
+ISABELLE, a Eraste.
+Puisque pour notre hymen j'ai l'aveu de ma mere, 
+Je puis faire paraitre un sentiment sincere. 			[1560]
+Les biens dont vous pouvez heriter chaque jour 
+N'ont point du tout pour vous determine l'amour : 
+Votre personne seule est le bien qui me flatte ; 
+Et tous les vains brillants dont la fortune eclate 
+Ne sauraient eblouir un coeur comme le mien. 			[1565]
+ERASTE.
+Si je l'obtiens ce coeur, non, je ne veux plus rien. 
+MADAME ARGANTE.
+Tous ces beaux sentiments sont fort bons dans un livre. 
+L'amour seul, tel qu'il soit, ne donne point a vivre : 
+Et je vous apprends, moi, que l'on ne s'aime bien, 
+Quand on est marie, qu'autant qu'on a de bien. 			[1570]
+ERASTE.
+Mon oncle maintenant, par sa convalescence, 
+Fait revivre en mon coeur la joie et l'esperance ; 
+Et je vais l'exciter a faire un testament. 
+MADAME ARGANTE.
+Mais ne craignez-vous rien de son ressentiment ? 
+Ces billets detournes ne peuvent-ils point faire 			[1575]
+Qu'il prenne a vos desirs un sentiment contraire ? 
+ERASTE.
+Et voila la raison qui me fait hasarder 
+A vouloir quelque temps encore les garder. 
+Pour revoir ce depot rentrer en sa puissance, 
+Il accordera tout, sans trop de resistance. 			[1580]
+Il faut, mademoiselle, en ce peril offert, 
+Etre un peu, dans ce jour, avec nous de concert. 
+Voila tous bons billets qu'il faut, s'il vous plait, prendre. 
+ISABELLE.
+Moi ! 
+ERASTE.
+N'en rougissez point, ce n'est que pour les rendre. 
+ISABELLE.
+Mais je ne sais, monsieur, en cette occasion, 			[1585]
+Si je dois accepter cette commission : 
+De ces billets surpris on me croira complice : 
+En restitution je suis encor novice. 
+ERASTE.
+Mais j'entends quelque bruit. 
+SCENE II. Crispin, Mme Argante, Isabelle, Eraste.
+ERASTE.
+C'est Crispin que je vois. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)A qui donc en as-tu ? Te voila hors de toi. 			[1590]
+CRISPIN.
+Allons, monsieur, allons ; en homme de courage, 
+Il faut ici, ma foi, soutenir l'abordage. 
+Monsieur Geronte approche. 
+ERASTE.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)O ciel ! En ce moment, 
+Souffrez que je vous mene a mon appartement. 
+J'ai de la peine encore a m'offrir a sa vue : 			[1595]
+Laissons evaporer un peu sa bile emue ; 
+Et quand il sera temps, tous unanimement 
+Nous viendrons travailler ensemble au denouement. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour toi, reste ici ; vois l'humeur dont il peut etre, 
+Et tu m'informeras s'il est temps de paraitre. 			[1600]
+SCENE III.
+CRISPIN, seul.
+Nous voila, grace au ciel, dans un grand embarras. 
+Dieu veuille nous tirer d'un aussi mauvais pas ! 
+SCENE IV. Geronte, Crispin, Lisette.
+GERONTE, appuye sur Lisette. 
+Je ne puis revenir encor de ma faiblesse : 
+Je ne sais ou je suis : l'eclat du jour me blesse ; 
+Et mon faible cerveau, de ce choc ebranle, 			[1605]
+Par de sombres vapeurs est encor tout trouble. 
+Ai-je ete bien longtemps dans cette lethargie ? 
+LISETTE.
+Pas tant que nous croyions. Mais votre maladie 
+Nous a tous mis ici dans un derangement, 
+Une agitation, un soin, un mouvement 			[1610]
+Qu'il n'est pas bien aise, dans le fond, de decrire : 
+Demandez a Crispin, il pourra vous le dire. 
+CRISPIN.
+Si vous saviez, monsieur, ce que nous avons fait, 
+Lorsque de votre mal vous ressentiez l'effet, 
+La peine que j'ai prise, et les soins necessaires 			[1615]
+Pour pouvoir, comme vous, mettre ordre a vos affaires, 
+Vous seriez etonne, mais d'un etonnement 
+A n'en pas revenir si tot assurement. 
+GERONTE.
+Ou donc est mon neveu ? Son absence m'ennuie. 
+CRISPIN.
+Ah ! Le pauvre garcon, je crois, n'est plus en vie. 			[1620]
+GERONTE.
+Que dis-tu la ? Comment ! 
+CRISPIN.
+Il s'est saisi si fort, 
+Quand il a vu vos yeux tourner droit a la mort, 
+Que, n'ecoutant plus rien que sa douleur amere, 
+Il s'est alle jeter... 
+GERONTE.
+Ou donc ? Dans la riviere ? 
+CRISPIN.
+Non, monsieur, sur son lit, ou, baigne de ses pleurs, 			[1625]
+L'infortune garcon gemit de ses malheurs. 
+GERONTE.
+Va donc lui redonner et le calme et la joie ; 
+Et dis-lui, de ma part, que le ciel lui renvoie 
+Un oncle toujours plein de tendresse pour lui, 
+Qui connait son bon coeur, et qui veut aujourd'hui 			[1630]
+Lui montrer des effets de sa reconnaissance. 
+CRISPIN.
+S'il n'est pas encor mort, en toute diligence 
+Je vous l'amene ici. 
+SCENE V. Geronte, Lisette.
+GERONTE.
+Mais, a ce que je vois, 
+J'ai donc, Lisette, ete plus mal que je ne crois ? 
+LISETTE.
+Nous vous avons cru mort pendant une heure entiere. 			[1635]
+GERONTE.
+Il faut donc, expliquer ma volonte derniere, 
+Et, sans perdre de temps, faire mon testament. 
+Les Notaires sont-ils venus ? 
+LISETTE.
+Assurement. 
+GERONTE.
+Qu'on aille de nouveau les chercher ? Et leur dire 
+Que dans le meme instant je veux les faire ecrire. 			[1640]
+LISETTE.
+Ils reviendront dans peu. 
+SCENE VI. Eraste, Geronte, Crispin, Lisette.
+CRISPIN, a Eraste.
+Le ciel vous l'a rendu. 
+ERASTE.
+Helas ! A ce bonheur me serais-je attendu ? 
+Je revois mon cher oncle ; et le ciel, par sa grace, 
+Sensible a mes douleurs, permet que je l'embrasse ! 
+Apres l'avoir cru mort, il parait a mes yeux ! 			[1645]
+GERONTE.
+Helas ! Mon cher neveu, je n'en suis guere mieux : 
+Mais je rends grace au ciel de prolonger ma vie, 
+Pour pouvoir maintenant executer l'envie 
+De te donner mon bien par un bon testament. 
+LISETTE.
+Ce garcon-la, monsieur, vous aime tendrement. 			[1650]
+Si vous aviez pu voir les syncopes, les crises 
+Dont, par la sympathie, il sentait les reprises, 
+Il vous aurait perce le coeur de part en part. 
+CRISPIN.
+Nous en avons, tous trois, eu notre bonne part. 
+LISETTE.
+Enfin le ciel a pris pitie de nos miseres. 			[1655]
+SCENE VII. Monsieur Scrupule, Geronte, Eraste, Lisette, Crispin.
+LISETTE, bas, a Crispin.
+Mais j'apercois quelqu'un. C'est un des deux Notaires. 
+GERONTE.
+Bonjour, monsieur Scrupule. 
+CRISPIN, a part.
+Ah! Me voila perdu ! 
+GERONTE.
+Ici depuis longtemps vous etes attendu. 
+MONSIEUR SCRUPULE.
+Certes, je suis ravi, monsieur, qu'en moins d'une heure 
+Vous jouissiez deja d'une sante meilleure. 			[1660]
+Je savais bien qu'ayant fait votre testament, 
+Vous sentiriez bientot quelque soulagement. 
+Le corps se porte mieux lorsque l'esprit se trouve 
+Dans un parfait repos. 
+GERONTE.
+Tous les jours je l'eprouve. 
+MONSIEUR SCRUPULE.
+Voici donc le papier que, selon vos desseins, 			[1665]
+Je vous avais promis de remettre en vos mains. 
+GERONTE.
+Quel papier, s'il vous plait ? Pour quoi ? Pour quelle affaire ? 
+MONSIEUR SCRUPULE.
+C'est votre testament que vous venez de faire. 
+GERONTE.
+J'ai fait mon testament ! 
+MONSIEUR SCRUPULE.
+Oui, sans doute, monsieur. 
+LISETTE, bas.
+Crispin, le coeur me bat. 
+CRISPIN, bas.
+Je frissonne de peur. 			[1670]
+GERONTE.
+Eh ! Parbleu, vous revez, monsieur ; c'est pour le faire 
+Que j'ai besoin ici de votre ministere. 
+MONSIEUR SCRUPULE.
+Je ne reve, monsieur, en aucune facon ; 
+Vous nous l'avez dicte plein de sens et raison. 
+Le repentir si tot saisirait-il votre ame ? 			[1675]
+Monsieur etait present, aussi bien que madame : 
+Ils peuvent la-dessus dire ce qu'ils ont vu. 
+ERASTE, bas.
+Que dire ? 
+LISETTE, bas.
+Juste ciel ! 
+CRISPIN, bas.
+Me voila confondu ! 
+GERONTE.
+Eraste etait present ? 
+MONSIEUR SCRUPULE.
+Oui, monsieur, je vous jure. 
+GERONTE.
+Est-il vrai, mon neveu ? Parle, je t'en conjure. 			[1680]
+ERASTE.
+Ah ! Ne me parlez point, monsieur, de testament ; 
+C'est m'arracher le coeur trop tyranniquement. 
+GERONTE.
+Lisette, parle donc. 
+LISETTE.
+Crispin, parle en ma place ; 
+Je sens, dans mon gosier, que ma voix s'embarrasse. 
+CRISPIN, a Geronte.
+Je pourrais la-dessus vous rendre satisfait ; 			[1685]
+Nul ne sait mieux que moi la verite du fait. 
+GERONTE.
+J'ai fait mon testament ? 
+CRISPIN.
+On ne peut pas vous dire 
+Qu'on vous l'ait vu tantot absolument ecrire ; 
+Mais je suis tres certain qu'au lieu ou vous voila, 
+Un homme, a peu pres mis comme vous etes la ; 			[1690]
+Assis dans un fauteuil aupres de deux notaires, 
+A dicte mot a mot ses volontes dernieres. 
+Je n'assurerai pas que ce fut vous ; pourquoi ? 
+C'est qu'on peut se tromper. Mais c'etait vous, ou moi. 
+MONSIEUR SCRUPULE, a Geronte.
+Rien n'est plus veritable, et vous pouvez m'en croire. 			[1695]
+GERONTE.
+Il faut donc que mon mal m'ait ote la memoire ; 
+Et c'est ma lethargie. 
+CRISPIN.
+Oui, c'est elle en effet. 
+LISETTE.
+N'en doutez nullement ; et, pour prouver le fait, 
+Ne vous souvient-il pas que, pour certaine affaire, 
+Vous m'avez dit tantot d'aller chez le notaire ? 			[1700]
+GERONTE.
+Oui. 
+LISETTE.
+Qu'il est arrive dans votre cabinet ; 
+Qu'il a pris aussitot sa plume et son cornet, 
+Et que vous lui dictiez a votre fantaisie ? 
+GERONTE.
+Je ne m'en souviens point. 
+LISETTE.
+C'est votre lethargie. 
+CRISPIN.
+Ne vous souvient-il pas, monsieur, bien nettement, 			[1705]
+Qu'il est venu tantot certain neveu normand, 
+Et certaine baronne, avec un grand tumulte 
+Et des airs insolents, chez vous vous faire insulte ? 
+GERONTE.
+Oui. 
+CRISPIN.
+Que pour vous venger de leur emportement, 
+Vous m'avez promis place en votre testament, 			[1710]
+Ou quelque bonne rente au moins pendant ma vie ? 
+GERONTE.
+Je ne m'en souviens point. 
+CRISPIN.
+C'est votre lethargie. 
+GERONTE.
+Je crois qu'ils ont raison, et mon mal est reel. 
+LISETTE.
+Ne vous souvient-il pas que monsieur Clistorel... 
+ERASTE.
+Pourquoi tant repeter cet interrogatoire ? 			[1715]
+Monsieur convient de tout, du tort de sa memoire, 
+Du notaire mande, du testament ecrit. 
+GERONTE.
+Il faut bien qu'il soit vrai, puisque chacun le dit. 
+Mais voyons donc enfin ce que j'ai fait ecrire. 
+CRISPIN, a part.
+Ah ! Voila bien le diable. 
+MONSIEUR SCRUPULE.
+Il faut donc vous le lire. 			[1720]
+Fut present devant nous, dont les noms sont au bas, 
+Maitre Mathieu Geronte, en son fauteuil a bras, 
+Etant en son bon sens, comme on a pu connaitre 
+Par le geste et maintien qu'il nous a fait paraitre ; 
+Quoique de corps malade, ayant sain jugement ; 			[1725]
+Lequel, apres avoir reflechi murement 
+Que tout est ici-bas fragile et transitoire... 
+CRISPIN.
+Ah ! Quel coeur de rocher, et quelle ame assez noire 
+Ne se fendrait en quatre, en entendant ces mots ? 
+LISETTE.
+Helas ! Je ne saurais arreter mes sanglots. 			[1730]
+GERONTE.
+En les voyant pleurer, mon ame est attendrie. 
+La, la, consolez-vous ; je suis encore en vie. 
+MONSIEUR SCRUPULE, continuant de lire.
+Considerant que rien ne reste en meme etat, 
+Ne voulant pas aussi deceder intestat... 
+CRISPIN.
+Intestat !... 
+LISETTE.
+Intestat !... Ce mot me perce l'ame. 			[1735]
+MONSIEUR SCRUPULE.
+Faites treve un moment a vos soupirs, madame. 
+Considerant que rien ne reste en meme etat, 
+Ne voulant pas aussi deceder intestat... 
+CRISPIN.
+Intestat !... 
+LISETTE.
+Intestat !... 
+MONSIEUR SCRUPULE.
+Mais laissez-moi donc lire ; 
+Si vous pleurez toujours, je ne pourrai rien dire. 			[1740]
+A fait, dicte, nomme, redige par ecrit 
+Son susdit testament, en la forme qui suit. 
+GERONTE.
+De tout ce preambule et de cette legende, 
+S'il m'en souvient d'un mot, je veux bien qu'on me pende. 
+LISETTE.
+C'est votre lethargie. 
+CRISPIN.
+Ah ! Je vous en reponds. 			[1745]
+Ce que c'est que de nous ! Moi, cela me confond. 
+MONSIEUR SCRUPULE, lisant.
+Je veux, premierement, qu'on acquitte mes dettes. 
+GERONTE.
+Je ne dois rien. 
+MONSIEUR SCRUPULE.
+Voici l'aveu que vous en faites : 
+Je dois quatre cents francs a mon marchand de vin, 
+Un fripon qui demeure au cabaret voisin. 			[1750]
+GERONTE.
+Je dois quatre cents francs ! C'est une fourberie. 
+CRISPIN, a Geronte.
+Excusez-moi, monsieur, c'est votre lethargie. 
+Je ne sais pas au vrai si vous les lui devez ; 
+Mais il me les a, lui, mille fois demandes. 
+GERONTE.
+C'est un maraud qu'il faut envoyer en galere. 			[1755]
+CRISPIN.
+Quand ils y seraient tous, on ne les plaindrait guere. 
+MONSIEUR SCRUPULE, lisant.
+Je fais mon legataire unique, universel, 
+Eraste mon neveu. 
+ERASTE.
+Se peut-il ? Juste ciel ! 
+MONSIEUR SCRUPULE, lisant.
+Desheritant, en tant que besoin pourrait etre, 
+Parents, nieces, neveux, nes aussi bien qu'a naitre, 			[1760]
+Et meme tous batards, a qui Dieu fasse paix, 
+S'il s'en trouvait aucuns au jour de mon deces. 
+GERONTE.
+Comment ! Moi des batards ? 
+CRISPIN, a Geronte.
+C'est style de notaire. 
+GERONTE.
+Oui, je voulais nommer Eraste legataire. 
+A cet article-la, je vois presentement 			[1765]
+Que j'ai bien pu dicter le present testament. 
+MONSIEUR SCRUPULE, lisant.
+Item. Je donne et legue, en espece sonnante, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LISETTE.
+Ah ! Grands dieux ! 
+MONSIEUR SCRUPULE, lisant.
+Qui me sert de servante, 
+Pour epouser Crispin en legitime noeud, 
+Deux mille ecus. 
+CRISPIN, a Geronte.
+Monsieur... en verite... pour peu... 			[1770]
+Non... jamais... car enfin... ma bouche... quand j'y pense... 
+Je me sens suffoquer par la reconnaissance, 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Parle donc. 
+LISETTE, embrassant Geronte.
+Ah ! Monsieur... 
+GERONTE.
+Qu'est-ce a dire cela ? 
+Je ne suis point l'auteur de ces sottises-la. 
+Deux mille ecus comptant ! 
+LISETTE.
+Quoi ! Deja, je vous prie, 			[1775]
+Vous repentiriez-vous d'avoir fait oeuvre pie ? 
+Une fille nubile, exposee au malheur, 
+Qui veut faire une fin en tout bien, tout honneur, 
+Lui refuseriez-vous cette petite grace ? 
+GERONTE.
+Comment ! Six mille francs ! Quinze ou vingt ecus, passe. 			[1780]
+LISETTE.
+Les maris aujourd'hui, monsieur, sont si courus ! 
+Et que peut-on, helas ! avoir pour vingt ecus ? 
+GERONTE.
+On a ce que l'on peut, entendez-vous, ma mie ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il en est a tout prix. Achevez, je vous prie. 
+MONSIEUR SCRUPULE.
+Item. Je donne et legue... 
+CRISPIN, a part.
+Ah ! C'est mon tour enfin. 			[1785]
+Et l'on va me jeter... 
+MONSIEUR SCRUPULE.
+A Crispin... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)GERONTE, regardant Crispin.
+A Crispin ! 
+MONSIEUR SCRUPULE, lisant.
+Pour tous les obligeants, bons et loyaux services 
+Qu'il rend a mon neveu dans divers exercices, 
+Et qu'il peut bien encor lui rendre a lavenir... 
+GERONTE.
+Ou donc ce beau discours doit-il enfin venir 			[1790]
+Voyons. 
+MONSIEUR SCRUPULE, lisant.
+Quinze cents francs de rentes viageres, 
+Pour avoir souvenir de moi dans ses prieres. 
+CRISPIN, se prosternant aux pieds de Geronte.
+Oui, je vous le promets, monsieur, a deux genoux, 
+Jusqu'au dernier soupir, je prierai Dieu pour vous. 
+Voila ce qui s'appelle un vraiment honnete homme ! 			[1795]
+Si genereusement me laisser cette somme ! 
+GERONTE.
+Non ferai-je, parbleu ! Que veut dire ceci ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Monsieur, de tous ces legs je veux etre eclairci. 
+MONSIEUR SCRUPULE.
+Quel eclaircissement voulez-vous quon vous donne ? 
+Et je n'ecris jamais que ce que l'on m'ordonne. 			[1800]
+GERONTE.
+Quoi ! Moi, j'aurais legue, sans aucune raison, 
+Quinze cents francs de rente a ce maitre fripon, 
+Qu'Eraste aurait chasse s'il m'avait voulu croire ! 
+CRISPIN, toujours a genoux.
+Ne vous repentez pas d'une oeuvre meritoire ; 
+Voulez-vous, dementant un genereux effort, 			[1805]
+Etre avaricieux meme apres votre mort ? 
+GERONTE.
+Ne m'a-t-on point vole mes billets dans mes poches ? 
+Je tremble du malheur dont je sens les approches ; 
+Je n'ose me fouiller, 
+ERASTE, a part.
+Quel funeste embarras ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Vous les cherchez en vain, vous ne les avez pas. 			[1810]
+GERONTE? a Eraste.
+Ou sont-ils donc ? Reponds. 
+ERASTE.
+Tantot, pour Isabelle, 
+Je les ai, par votre ordre expres, portes chez elle. 
+GERONTE.
+Par mon ordre ! 
+ERASTE.
+Oui, monsieur. 
+GERONTE.
+Je ne m'en souviens point. 
+CRISPIN.
+C'est votre lethargie. 
+GERONTE.
+Oh ! Je veux, sur ce point, 
+Qu'on me fasse raison. Quelles friponneries ! 			[1815]
+Je suis las, a la fin, de tant de lethargies. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Cours chez elle ; dis-lui que, quand j'ai fait ce don, 
+J'avais perdu l'esprit, le sens, et la raison. 
+SCENE VIII. Mme Argante, Isabelle, Geronte, Eraste, Lisette, Crispin, Le Notaire.
+ISABELLE, a Geronte.
+Ne vous alarmez point, je viens pour vous les rendre. 
+GERONTE.
+O ciel ! 
+ERASTE.
+Mais sous des lois que nous osons pretendre. 			[1820]
+GERONTE.
+Et quelles sont ces lois ? 
+ERASTE.
+Je vous prie humblement 
+De vouloir approuver le present testament. 
+GERONTE.
+Mais tu n'y penses pas. Veux-tu donc que je laisse 
+A cette chambriere un legs de cette espece ? 
+LISETTE.
+Songez a linteret que le ciel vous en rend : 			[1825]
+Et plus le legs est gros, plus le merite est grand. 
+GERONTE, a Crispin.
+Et ce maraud aurait cette somme en partage ! 
+CRISPIN.
+Je vous promets, monsieur, d'en faire un bon usage : 
+De plus, ce legs ne peut en rien vous faire tort. 
+GERONTE.
+Il est vrai qu'il n'en doit jouir qu'apres ma mort. 			[1830]
+ERASTE.
+Ce n'est pas encor tout : regardez cette belle ; 
+Vous savez ce qu'un coeur peut ressentir pour elle ; 
+Vous avez eprouve le pouvoir de ses coups : 
+Charme de ses attraits, j'embrasse vos genoux ; 
+Et je vous la demande en qualite de femme. 			[1835]
+GERONTE.
+Ah ! Monsieur mon neveu... 
+ERASTE.
+Je n'ai fait voir ma flamme 
+Que, lorsqu'en ecoutant un sentiment plus sain, 
+Votre coeur moins epris a change de dessein. 
+MADAME ARGANTE.
+Je crois que vous et moi nous ne saurions mieux faire. 
+GERONTE.
+Nous verrons : mais, avant de conclure l'affaire, 			[1840]
+Je veux voir mes billets en entier. 
+ISABELLE.
+Les voila : 
+Tels que je les recus, je les rends. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LISETTE, prenant le portefeuille plus tot que Geronte.
+Halte-la. 
+Convenons de nos faits avant que de rien rendre. 
+GERONTE.
+Si tu ne me les rends, je vous ferai tous pendre. 
+ERASTE, se jetant a genoux.
+Monsieur, vous me voyez embrasser vos genoux : 			[1845]
+Voulez-vous aujourd'hui nous desesperer tous ? 
+LISETTE, a genoux.
+Eh ! Monsieur. 
+CRISPIN, a genoux.
+Eh ! Monsieur. 
+GERONTE.
+La tendresse m'accueille. 
+Dites-moi, n'a-t-on rien distrait du portefeuille ? 
+ISABELLE.
+Non, monsieur, je vous jure ; il est en son entier, 
+Et vous retrouverez jusqu'au moindre papier. 			[1850]
+GERONTE.
+He bien ! S'il est ainsi, par-devant le notaire, 
+Pour avoir mes billets, je consens a tout faire ; 
+Je ratifie en tout le present testament, 
+Et donne a votre hymen un plein consentement. 
+Mes billets ? 
+LISETTE.
+Les voila. 			[1855]
+ERASTE, a Geronte.
+Quelle action de grace !... 			[1855]
+GERONTE.
+De vos remerciements volontiers je me passe. 
+Mariez-vous tous deux, c'est bien fait ; j'y consens : 
+Mais, surtout, au plus tot procreez des enfants 
+Qui puissent heriter de vous en droite ligne ; 
+De tous collateraux l'engeance est trop maligne. 			[1860]
+Detestez a jamais tous neveux bas-normands, 
+Et nieces que le diable amene ici du Mans ; 
+Fleaux plus dangereux, animaux plus funestes 
+Que ne fusent jamais les guerres ni les pestes. 
+SCENE IX. Crispin, Lisette.
+CRISPIN.
+Laissons-le dans l'erreur, nous sommes heritiers. 			[1865]
+Lisette, sur mon front viens ceindre des lauriers : 
+Mais n'y mets rien de plus pendant le mariage. 
+LISETTE.
+J'ai du bien maintenant assez pour etre sage. 
+CRISPIN, au parterre.
+Messieurs, j'ai, grace au ciel, mis ma barque a bon port. 
+En faveur des vivants je fais revivre un mort ; 			[1870]
+Je nomme, a mes desirs, un ample legataire ; 
+J'acquiers quinze cents francs de rente viagere, 
+Et femme au par-dessus : mais ce n'est pas assez ; 
+Je renonce a mon legs, si vous n'applaudissez. 
+
+	==================================================

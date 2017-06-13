@@ -1,0 +1,1201 @@
+********************************************************
+	DC.Title                  = LE RÉVEIL D'ÉPIMÉNIDE À PARIS COMÉDIE EN UN ACTE, EN VERS.
+	DC.Author                 = CARBON DE FLINS, Claude-Marie
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Théâtre, Pièces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cité en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 26/05/2016 à 19:30:11.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/CARBONDEFLINS_REVEILEPIMENIDE.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Théâtre Classique
+***************************************************************
+
+LE RÉVEIL D'ÉPIMÉNIDE À PARIS. COMÉDIE EN UN ACTE, EN VERS.1790
+PAR M. DE FLINS
+	Chez MARADAN, libraire, rue Saint André des Arts, Hôtel de Château-Vieux. À Nates, chez LOUIS, libraire, À BRUXELLES, chez LE CHARLIER, Libraire, successeur de DUJARDIN.
+	
+	Représentée sur le Théâtre de la Nation par les Comédiens Français ordinaires du Roi, le premier Janvier 1790.
+	AVERTISSEMENT
+Cette petite pièce a été accueillie avec bonté. Le seul rôle de Censeur a excité quelques murmures. On a trouvé de l'exagération dans ce trait, « Je ne sais pas écrire » ; je n'ai qu'un mot à répondre : je connais l'original que j'ai voulu peindre, et si je le nommais, je ne trouverais plus de contradicteurs.
+Après le huitième représentation du « Réveil d'Épiménide », on a donné sur le Théâtre de Monsieur un comédie épisodique intitulée l' »Epiménide français » ; cette pièce n'est autre chose que le « Réveil d'Épiménide » arrangé pour un théâtre de foire ; on a tout pris, le sujet, les personnages, les scènes, et mêmes des vers : j'étais à la première représentation, et j'ai beaucoup applaudi ; mais j'en avais honte, car c'était applaudir à ma pièce. Je me trouvais à côté d'un bel esprit attaché à ce théâtre ; lorsque le paysans dit ce vers : 
+« Nous avons lu les droits de l'homme ; »?
+Le bel esprit s'écria : « Non, il n'y a rien d'égal à cela dans l'Épiménide qui de donne aux Français » ; cela peut être, mais ce vers est copié mot pour mot dans le Réveil d'Épiménide.
+L'auteur du Théâtre de Monsieur a gardé l'anonyme ; mais c'est, dit-on, un ancien auteur des Boulevards : si cela n'est pas, cela doit être. Messieurs les Auteurs de la Chronique de Paris, dont le journal est à la fois équitable et piquant, ont bine voulu faire la plupart de ces remarques.
+Tous les autres journalistes ont dit que le vol était permis depuis les jours de la liberté ; et ils ont jugé que pour l'esprit, le goût, la mesure et le style, l'« Épiménide du Théâtre de Monsieur » était fort supérieur à celui du Théâtre de la Nation. Ce jugement ne m'a ni fâché ni surpris ; je n'ai point été humilié par la préférence, je n'aurais pu l'être que par la comparaison.
+Il existe, dit-on, deux autres « Épiménides » ; l'une est de Poisson, et l'autre du président Haynaut : je ne les ai pas lus ; et je ne connais de comédies épisodiques que « Les Fâcheux » de Molière, le « Mercure Galand » de Boursault, et deux charmantes pièces de La Harpe, « Les Muses rivales » et « Molière à la nouvelle Salle. »
+Quelques gens trouveront peut-être un peu d'Aristocratie dans la scène du Délateur ; mais les bons esprits et les gens vraiment courageux m'en sauront gré ; nous sommes assez puissants pour pardonner : au jour du combat, le courage est dans l'audace ; au jour de la victoire ; il est dans la « Modération ».
+C'est ce même esprit qui conduira toujours ma plume dans l'ouvrage périodique si fidèle au titre de « Modérateur ». Quelques gens ont pensé que ce titre ne convenait pas à un journal rédigé par un grand poète ; mais ils ne sont pas trompés. M. de Fontanes confirme tous les jours cette vérité que les esprits les plus élevés sont aussi les plus sages, tandis que les esprits médiocres et les homme sans caractère, n'ayant point d'assiette par eux-mêmes, sont entraînés par les événements et l'esprit public, vers ces deux extrêmes, plus voisins qu'on ne croit, la licence ou la servitude. 
+
+ACTEURS
+ÉPIMÉNIDE, habillé comme au siècle de Louis XIV, joué par M. St. Fal. .
+ARISTE, joué par M. Naudet.
+JOSÉPHINE, fille d' Ariste, joué par Mme. Petit. 
+D'HARCOURT, amant de Joséphine, joué par M. Talmat. 
+MADAME BROCHURE, joué par Mlle. Joli. 
+GORGI, faiseur de feuilles, joué par M. Dazincourt. 
+FATRAS, Avocat-Général, joué par M. Dugazon. 
+UN ABBÉ, joué par M. Dazincourt. 
+RATURE, censeur royal, joué par M. Vanhove. 
+CABRIOLE, maître à danser, joué par M. Dugazon.
+CRISANTE, gentilhomme breton, joué par M. Larochelle. 
+NICOLAS, paysan, joué par M. Bellemont. 
+UN CAPITAINE, joué par M. Champville. 
+UN GRENADIER, joué par M. Gérard. 
+UN SOLDAT, joué par M. Marchand. En uniforme de la Garde Nationale.
+La scène est aux Tuileries.
+
+
+
+			
+
+
+SCÈNE PREMIÈRE. Ariste, Joséphine, D'Harcourt.
+JOSÉPHINE.
+Et c'est aujourd'hui qu'il s'éveille ? 
+ARISTE.
+Oui, ma fille, dans un moment. 
+JOSÉPHINE.
+Depuis plus de cent ans vous dites qu'il sommeille ! 
+ARISTE.
+Je vous l'ai dit, ma fille. 
+JOSÉPHINE.
+Ho ! C'est bien surprenant, 
+Mon père ; et vous nommez cet homme.... 
+ARISTE.
+Epiménide ; 			[5]
+Il ne craint point les traits de la parque homicide. 
+Lorsqu'il a vécu quelque temps, 
+Il s'assoupit ; pendant cent ans, 
+Le sommeil auquel il se livre 
+L'entoure de pavots sans cesse renaissants. 			[10]
+Il se réveille alors et recommence à vivre. 
+Du monde qui varie il voit les changements. 
+D'HARCOURT.
+Il en a vu beaucoup ! 
+ARISTE.
+Il a vu dans la Grèce 
+La perfidie et la faiblesse 
+Remplacer les mâles vertus 			[15]
+Qui, des Persans soumis, la rendirent maîtresse. 
+Il a vu s'élever les murs de Romulus, 
+Il vit la liberté sur les pas de Brutus, 
+Venger le trépas de Lucrèce ; 
+Il vit cette cité, si longtemps chère à Mars, 			[20]
+Rome, qui cinq cents ans n'avait point eu d'émule, 
+Régner par les vertus, la victoire et les arts, 
+Et ce sceptre, si grand dans la main des Césars, 
+Tomber dans les mains d'Augustule. 
+C'est en France surtout qu'il vit en peu d'instants 			[25]
+Les moeurs et les événements 
+Se succéder toujours l'un à l'autre contraires, 
+Et le trône flotter sans bornes et sans barrières, 
+Entre le Monarque et les Grands ; 
+Parmi les nobles fous qui suivaient les croisades, 			[30]
+Tous les excès s'unir à la dévotion, 
+Et le refrain d'une chanson 
+Se mêler au bruit du canon 
+Qui défendait les barricades ; 
+Il a vécu naguère en ces jours si fameux 			[35]
+Où brillèrent Condé, Turenne et la victoire, 
+Où Louis fit servir ses peuples à sa gloire, 
+Immola tout pour elle, et ne fit rien pour eux, 
+Admiré des sujets qu'il rendit malheureux. 
+JOSÉPHINE à d'Harcourt.
+Cet homme, cher d'Harcourt, doit bien savoir l'histoire ! 			[40]
+ARISTE continuant.
+Epiménide a vu ce siècle trop vanté ; 
+Il va se réveiller ; quelle métamorphose ! 
+Moins d'éclat, plus de vérité, 
+Le deuil de la sottise et de la vanité, 
+Et le peuple à la fin compté pour quelque chose, 			[45]
+JOSÉPHINE.
+Combien il me tarde de voir 
+Un si singulier personnage ! 
+Mon père, dites-moi quel âge 
+Croyez-vous bien qu'il peut avoir ? 
+ARISTE.
+Mais cinq à six mille ans, 
+JOSÉPHINE.
+Il est épouvantable, Il va me faire peur. 			[50]
+D'HARCOURT.
+Non, il ne vieillit pas. 
+JOSÉPHINE.
+Ainsi qu'à la vieillesse échapper au trépas ;
+Mais c'est tout-à-fait agréable. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Vous allez le chercher ? 
+ARISTE.
+J'y cours. Tu peux m'attendre aux Tuileries. 
+JOSÉPHINE.
+Ici seule... 
+ARISTE.
+Un époux... 			[55]
+JOSÉPHINE.
+Ce n'est que dans deux jours, 			[55]
+Et je crains les plaisanteries. 
+D'HARCOURT.
+Que pouvez-vous craindre avec moi ? 
+SCÈNE II. Joséphine, D'Harcourt.
+JOSÉPHINE.
+Tenez, mon cher d'Harcourt, soyez de bonne foi : 
+Mon père plaisante et badine, 
+Et bien loin d'être mou appui, 			[60]
+Je vois très clairement que, d'accord avec lui, 
+Vous vous moquez de Joséphine. 
+D'HARCOURT.
+Un père, un époux, un amant, 
+Sont ceux que votre coeur soupçonne ; 
+Cela s'appelle assurément 			[65]
+Ne s'en rapporter à personne. 
+JOSÉPHINE.
+Ha ! Surtout ne vous fâchez pas, 
+Cela m'attriste et m'intimide ; 
+Mais comment cet Epiménide, 
+Que ne peut frapper le trépas, 			[70]
+Fut-il gardé chez nous avec tant de mystère, 
+Le temps que dura son sommeil, 
+Et qui put avertir mon père 
+Du jour précis de son réveil ? 
+D'HARCOURT.
+Il était dès ce temps ami de la famille, 			[75]
+Et d'un de vos aïeux dût épouser la fille, 
+C'est, je m'en souviens maintenant, 
+Celle dont le portrait charmant, 
+(Elle fut peinte alors au sortir de l'enfance), 
+Nous présente avec vous beaucoup de ressemblance. 			[80]
+JOSÉPHINE.
+Cela peut devenir plaisant. 
+D'HARCOURT.
+Ainsi chez votre aïeul, le jour du mariage, 
+Il tomba tout-à-coup dans les bras du sommeil ; 
+Depuis, dans la maison, il resta pour otage, 
+Et comme il dort cent ans, ni moins, ni davantage, 			[85]
+Votre père a prévu l'instant de son réveil. 
+JOSÉPHINE.
+Je commence à trouver tout ceci très croyable, 
+Et cela peut, dans un moment, 
+Me donner devant vous le divertissement 
+De quel qu'aventure agréable. 			[90]
+D'HARCOURT.
+Une aventure ? 
+JOSÉPHINE.
+Assurément ; 
+Car, puisque je ressemble à celle qui fut chère 
+A notre illustre revenant, 
+Il va m'aimer en me voyant, 
+Et je saurai bientôt ce qu'était un amant 			[95]
+Dans le siècle de ma grand-mère. 
+D'HARCOURT.
+Mais, Joséphine, y pensez-vous ? 
+JOSÉPHINE.
+Oui Monsieur ; point de jalousie : 
+Vous êtes mon amant et non pas mon époux ; 
+À ce titre il faut filer doux, 			[100]
+Et même vous prêter à la plaisanterie : 
+D'abord, je veux que tout le jour, 
+Aux yeux du revenant, vous passiez pour mon frère, 
+C'est à lui seul que je veux plaire ; 
+Abstenez-vous surtout de me faire la cour, 			[105]
+Sinon je romps l'hymen qu'a projeté mon père. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)SCÈNE III. Épiménide, Ariste.
+ÉPIMÉNIDE.
+Combien j'aime à revoir ce jardin enchanté, 
+Que pour le grand Louis le Nôtre avait planté ! 
+Pour moi, j'ai toujours regretté, 
+Qu'à ce palais superbe, à ces nobles murailles, 			[110]
+Louis-le-Grand, avec sa Cour, 
+Ait préféré pour son séjour, 
+Le triste château de Versailles. 
+ARISTE.
+En ce cas, réjouissez-vous, 
+Un de ses descendants, l'idole de la France, 			[115]
+Est venu vivre parmi nous ; 
+Après quelques moments de trouble et de licence, 
+Son auguste et douce présence, 
+Apporte le bonheur à son peuple calmé ; 
+Il ne s'entoure point d'une garde étrangère, 			[120]
+Au sein de ses enfants, que peut craindre un bon père ? 
+Plus on le voit de près, et plus il est aimé. 
+ÉPIMÉNIDE.
+Ainsi donc a péri cette pompe orgueilleuse, 
+D'un Roi qui, dévoré de chagrins et d'ennui, 
+Mit toujours sa grandeur entre son peuple et lui. 			[125]
+ARISTE.
+Notre Prince dédaigne une Cour fastueuse. 
+Son Peuple est son plus ferme appui. 
+ÉPIMÉNIDE.
+Je le vois, la France est heureuse, 
+Et l'on a de vos jours détruit tous les abus. 
+ARISTE.
+Mais beaucoup. 
+ÉPIMÉNIDE.
+Près d'ici j'aperçus tout à l'heure, 			[130]
+Des hommes qui marchaient modestement vêtus, 
+Les bourgeois pour les voir, sortant de leur demeure, 
+S'écriaient : "Les voilà ces sages Citoyens", 
+De l'État et du Roi les plus fermes soutiens !" 
+ARISTE.
+On doit bien cet hommage à leur vertu suprême. 			[135]
+Comment ne pas bénir ceux dont le nobles voix,
+Aux peuples opprimés ont rendu tous leurs droits ? 
+ÉPIMÉNIDE.
+Les Courtisans ont donc bien changé de système ! 
+Ne vous trompez-vous pas ? 
+ARISTE.
+Vous vous trompez vous-même, 			[140]
+Ce ne sont point ses Courtisans, 
+Que consulte un Monarque sage 
+ÉPIMÉNIDE.
+Mais ce sont donc les Parlements ? 
+ARISTE.
+Les Parlements ? Pas davantage ! 
+ÉPIMÉNIDE.
+Tous ces faits sont bien surprenants ; 			[145]
+Quel est donc le conseil du Prince ? 
+ARISTE.
+Ce sont tous les honnêtes gens ; 
+Il les aime beaucoup. 
+ÉPIMÉNIDE.
+Fort bien. 
+ARISTE.
+Chaque province. 
+Envoya les siens à la Cour. 			[150]
+Tout ne put pas d'abord s'arranger dans un jour. 
+Quelques gens ont joué de vilains personnages ; 
+Mais il faut en chasser jusques au souvenir ; 
+Ce n'est point quand le ciel commence à s'éclaircir, 
+Qu'il faut rappeler les orages ; 			[155]
+Maintenant tout va bien, et nous devenons sages ; 
+Le Peuple vraiment libre, en chérissant ses Rois, 
+Obéit au Monarque, et le Monarque aux Lois. 
+ÉPIMÉNIDE.
+Légitime puissance ! Ô grandeur véritable ! 
+Que j'aurai du plaisir à vivre dans Paris 			[160]
+Parmi ce peuple respectable, 
+Qui n'était que le plus aimable, 
+Lorsqu'il était le plus soumis ! 
+Cependant pour mener une vie agréable, 
+Il y faut de l'argent, ainsi qu'au temps jadis. 			[165]
+ARISTE.
+Un peu plus. 
+ÉPIMÉNIDE.
+Vous m'avez promis 
+De voir les descendants d'un honnête notaire, 
+Qui fut longtemps de mes amis ; 
+Chez lui, de mon vivant, autrefois j'ai remis 
+Un peu d'argent qui m'est aujourd'hui nécessaire ;			[170]
+En mourant il l'aura j'espère, 
+Laissé pour me le rendre en la main de ses fils, 
+Au sujet d'une ancienne affaire, 
+Je voudrais voir un procureur, 
+Et je demande qu'un tailleur, 			[175]
+Me fasse un habit plus commode, 
+Car je vois que le mien n'est pas fort à la mode. 
+ARISTE.
+Je saurai remplir tous vos voeux. 
+SCÈNE IV.
+ÉPIMÉNIDE, seul.
+Me voici donc encore une fois de ce monde ; 
+Ma destinée est sans seconde, 			[180]
+Et je n'en suis pas plus heureux. 
+Je fais des amis sur la terre, 
+Et je deviens même amoureux ; 
+Lorsque pour moi la vie est déjà douce et chère, 
+Je m'assoupis ; pendant cent ans 			[185]
+Au sommeil mon corps s'abandonne ; 
+Quand je m'éveille après ce temps, 
+Hélas ! Maîtresse, amis, sont morts depuis longtemps, 
+Et je ne reconnais personne : 
+Mais je ne regrette rien tant 			[190]
+Que cet objet jeune et charmant, 
+À qui le noeud de l'hymen allait unir ma vie... 
+Elle n'est plus sans doute, ou par l'âge enlaidie..... 
+SCÈNE V. Épiménide, Joséphine, D'Harcourt.
+JOSÉPHINE à d'Harcourt dans l'éloignement.
+Non, laissez-moi, Monsieur, je veux le voir de près. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)ÉPIMÉNIDE apercevant Joséphine.
+C'est son geste, son port, ses traits ; 			[195]
+Oui, c'est elle, c'est Amélie !
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Le temps qui flétrit tour, respecta vos attraits, 
+Vos yeux sont aussi vifs, votre teint aussi frais ; 
+Vous êtes jeune encor. 
+JOSÉPHINE.
+La fleurette est jolie :
+Vous êtes étonné de me voir sans horreur, 			[200]
+Et vous me savez gré de ne pas faire peur. 
+ÉPIMÉNIDE.
+Non point ; mais en suivant l'ordre des destinées, 
+Je l'avouerai tout haut, je ne m'attendais pas 
+À vous retrouver tant d'appas. 
+Vous comptiez près de vingt années, 			[205]
+Alors que dans Paris je vous rendis des soins ; 
+Or, j'ai dormi cent ans, car je ne dors pas moins ; 
+Et quand je vous revois, je vous trouve embellie ; 
+Si la surprise alors s'empare de mes sens, 
+C'est qu'il n'est pas commun, quand on a cent vingt ans, 			[210]
+D'être si fraîche et si jolie... 
+Vous ne répondez point : eh ! Quel accueil, ô Dieux ! 
+Infidèle ! elle rit et détourne les yeux. 
+JOSÉPHINE.
+Infidèle est fort bon ; je le fuis donc d'avance : 
+Nous n'avons pas, Monsieur, fait encore connaissance. 			[215]
+ÉPIMÉNIDE.
+J'allais vous épouser quand le sommeil me prit.
+JOSÉPHINE.
+Jamais à mes côtés amant ne s'endormit. 
+ÉPIMÉNIDE.
+C'était l'an mil six cent.... 
+JOSÉPHINE.
+Non pas, ne vous déplaise, 
+Je n'ai pas cent vingt ans, je n'en compte que seize. 
+ÉPIMÉNIDE.
+Amélie ! 
+JOSÉPHINE.
+Ah ! Ce nom doit être respecté, 			[220]
+Car par ma bisaïeule, on dit qu'il fut porté. 
+Et des gens de ma connaissance, 
+Ont dans leurs accès de gaieté, 
+Entre elle et moi trouvé beaucoup de ressemblance. 
+ÉPIMÉNIDE.
+Je commence à tout concevoir. 			[225]
+JOSÉPHINE, à d'Harcourt.
+Venez, nous n'avons plus besoin de votre absence.
+J'ai su ce que je veux savoir, 
+Et je vous aime avec constance 
+En dépit de tous vos défauts. 
+SCÈNE VI. Les mêmes. Gorgi, un crayon à la main, écrivant sur des tablettes.
+GORGI, à part.
+Achevons maintenant la feuille de Bruxelles. 			[230]
+Combien nous faudra-il tuer d'Impériaux ? 
+Deux ou trois mille ? Bagatelles ! 
+Il me faut surpasser tous les autres journaux 
+Par de plus sanglantes nouvelles..... 
+Vingt mille homme tués dans le dernier combat... 			[235]
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Je ne vous voyais point ; pardon, je me retire. 
+ÉPIMÉNIDE.
+Pourquoi vous déranger ? Continuez d'écrire. 
+GORGI.
+Il le faut bien, c'est mon état..., 
+Si ces Messieurs voulaient souscrire ? 
+ÉPIMÉNIDE.
+Volontiers, mais auparavant, 			[240]
+Monsieur, pour quel ouvrage ? il faut nous en instruire. 
+GORGI.
+C'est pour un journal excellent, 
+Qui le matin, dès qu'on s'éveille, 
+Apprend dans tout Paris, ce qui dans le Brabant. 
+S'est à coup sûr, passé la veille. 			[245]
+D'HARCOURT.
+Moi je ne puis pas concevoir, 
+Comment de Gand ou de Bruxelles, 
+Vous pouvez le matin nous donner des nouvelles, 
+Tandis que le Courrier n'arrive que le soir. 
+GORGI.
+Je n'attends pas les faits, Monsieur, je les devine ; 			[250]
+Les Courriers sont d'une lenteur, 
+Et ce qu'on apprend d'eux après tant de longueur. 
+Ne vaut pas ce qu'on imagine. 
+ÉPIMÉNIDE.
+Mais tromper le Public ;
+GORGI.
+Le Public est si bon ! 
+Il ne veut qu'être ému, c'est à quoi je m'applique ; 			[255]
+Je ne vois que complots et conjuration ; 
+Je mets partout du fer, des mines, du canon ; 
+Ah ! Messieurs ; sans l'invention, 
+Que deviendrait la politique ! 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Je souscris donc pour un roman. 			[260]
+GORGI, continuant d'écrire.
+L'Archevêque a perdu sa cuirasse et ses bottes, 
+Et l'on égorgea près de Gand 
+Que quatre vingt-deux Patriotes. 
+SCÈNE VII. Épiménide, Joséphine, D'Harcourt.
+ÉPIMÉNIDE.
+Vous souffrez des écrits pleins de rapports si faux ! 
+D'HARCOURT.
+On rit de leurs Auteurs, même de leurs outrages. 			[265]
+Ils n'en imposent qu'à des sots. 
+ÉPIMÉNIDE.
+Et l'on n'empêche point tous ces mauvais ouvrages ? 
+D'HARCOURT.
+Pas plus que les mauvais propos. 
+ÉPIMÉNIDE.
+On fut moins doux jadis : pour la moindre vétille, 
+On allait quelque temps rêver à la Bastille. 			[270]
+D'HARCOURT.
+On n'y peut plus rêver, la Bastille n'est plus. 
+ÉPIMÉNIDE.
+Que dites-vous, Monsieur ! 
+D'HARCOURT.
+Ses murs sont abattus. 
+ÉPIMÉNIDE.
+Comment ! Cette puissante et vaste Forteresse, 
+Qui semblait à Paris devoir donner de lois. 
+Contre qui de Condé, le courage et l'adresse 			[275]
+Ont échoué pendant trois mois ? 
+JOSÉPHINE
+On est devenu plus habile :
+Il n'a, de notre temps, fallu qu'une heure ou deux. 
+D'HARCOURT.
+Quelques Citoyens généreux. 
+En ont débarrassé la ville, 			[280]
+Et détruit ces murs trop fameux, 
+Qui servaient des tyrans la fureur vengeresse, 
+Les soupçons d'un ministre ou ceux d'une maîtresse ; 
+J'ai vu s'ouvrir au jour, pour la première fois, 
+Ces Cachots ténébreux, creusés pour les coupables, 			[285]
+Qui, de tant d'innocents, ont entendu les voix. 
+Et j'ai vu ces tours formidables 
+Expier en tombant tous les crimes des Rois 
+ÉPIMÉNIDE.
+Ce que vous contez-là me paraît à merveille. 
+Jamais un fait plus désiré. 			[290]
+Ne pouvait flatter mon oreille, 
+Et je vous en sais très bon gré. 
+Malgré les agréments dont ce Paris fourmille, 
+Souvent on y courait gros jeu, 
+Il n'est pas de plaisirs que ne gâtât un peu 			[295]
+La crainte de coucher le soir à la Bastille. 
+SCÈNE VIII. Les mêmes. Mme. Brochure.
+Mme BROCHURE.
+Qui veut un ouvrage nouveau ? 
+À deux sous, Messieurs, c'est du beau, 
+Vous pourrez en faire un cadeau. 
+D'HARCOURT.
+Nous. 
+Mme BROCHURE.
+À Mademoiselle ; elle aime la lecture. 			[300]
+JOSÉPHINE.
+Eh ! Mais, c'est madame Brochure. 
+Avez-vous beaucoup de chansons ? 
+Mme BROCHURE.
+Chansons ! Je n'en vends plus, je cède aux circonstances. 
+Autres temps, autres moeurs, je vends des motions, 
+Des arrêtés et des séances. 			[305]
+JOSÉPHINE.
+Quoi ! Pas même un air des bouffons ?
+Mme BROCHURE chante.
+J'ai longtemps vendu des chansons 
+Et de galantes aventures ; 
+J'ai vendu des contes fripons, 
+Avec d'excellentes gravures. 			[310]
+Quand de jeunes gens un essaim 
+Vient près de moi pour faire emplette, 
+Moi, je leur souris à dessein, 
+Pour que tout le monde en achète. 
+Enfin, un plus noble travail 			[315]
+Maintenant me réhabilite ; 
+C'est l'esprit des Lois en détail, 
+Qu'à très bon marché je débite. 
+Riches, pauvres, accourez tous, 
+Venez près de moi faire emplette : 			[320]
+Ah ! La sagesse est à deux sous, 
+Pour que tout le monde en achète. 
+Lorsqu'ils avaient beaucoup d'argent, 
+J'aimais fort les aristocrates ; 
+Mais, citoyenne maintenant, 			[325]
+J'aime beaucoup les démocrates, 
+Messieurs, je vends de bons écrits ; 
+Venez près de moi faire emplette : 
+Ah ! J'en ai de tous les partis, 
+Pour que tout le monde en achète. 			[330]
+ÉPIMÉNIDE.
+Ah ! Madame, est libraire. 
+Mme BROCHURE.
+À peu près. 
+ÉPIMÉNIDE.
+Quel bonheur ! 
+Je vais donc retrouver en France, 
+Tous les divins écrits dont j'ai chéri l'auteur ; 
+Molière, par exemple. 
+Mme BROCHURE.
+Oh ! Sa vogue est finie. 			[335]
+ÉPIMÉNIDE.
+De ses vers excellents on s'occupe toujours ? 
+Quelquefois à la Comédie, 
+Encor sont-ce les mauvais jours. 
+ÉPIMÉNIDE.
+Et ce maître de l'art ce sublime génie, 
+Corneille.... 
+Mme BROCHURE.
+Ah ! Monsieur, quel travers ! 			[340]
+ÉPIMÉNIDE.
+Racine.... 
+Mme BROCHURE.
+On ne lit plus de vers. 
+ÉPIMÉNIDE.
+Quoi !.... 
+D'HARCOURT.
+Chaque siècle a sa manie. 
+Dix ans on raffola de l'Encyclopédie. 
+JOSÉPHINE.
+Pour la chimie encore on eut beaucoup d'amour. 
+D'HARCOURT.
+Chaque art, tour-à-tour eut la pomme. 			[345]
+JOSÉPHINE.
+Et l'on vit paraître à la Cour 
+Plus d'un économiste, et pas un économe. 
+D'HARCOURT.
+Restait la politique ; aujourd'hui c'est son tour. 
+Mme BROCHURE.
+Chacun règle l'État ; et même la coquette 
+A fait des droits de l'homme un livre de toilette. 			[350]
+D'HARCOURT.
+Un honnête Marchand endoctrine les Rois. 
+Un clerc d'huissier-priseur veut réformer les lois. 
+JOSÉPHINE.
+Un chansonnier l'Église, un danseur la marine. 
+Mme BROCHURE
+Mon boulanger plus sage écrit sur la farine. 
+Tout cela fait pitié ; mais on le vend enfin. 			[355]
+SCÈNE IX. Les mêmes, Gorgi, Rature.
+Mme BROCHURE.
+Comment vont, cher Gorgi, les feuilles du matin ! 
+GORGI continuant d'écrire.
+L'aristocrate en vain retarde sa défaite. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Encore quelques complots, et ma fortune est faite. 
+Mme BROCHURE, montrant Rature.
+Quel est donc ce Monsieur, qui paraît si chagrin ? 
+GORGI.
+Mon enfant, c'est monsieur Rature, 			[360]
+Dont tous les écrivains redoutaient la censure. 
+Mme BROCHURE.
+Qu'il a l'air de mauvaise humeur ! 
+GORGI.
+Il s'était fait de nuire une profonde étude : 
+Il ne fait plus de mal, mais il fait encore peur, 
+Et de fuir les Censeurs j'ai gagné l'habitude. 			[365]
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)SCÈNE X. Rature, Épiménide, D'Harcourt.
+RATURE.
+Cet Auteur est bien insolent. 
+Mais aujourd'hui rien ne m'étonne ; 
+Et que respecte-t-on dans le siècle présent ? 
+On abolit effrontément Une charge de la couronne : 
+On m'ôte mon empire.
+ÉPIMÉNIDE.
+Oh le trait déloyal ! 			[370]
+Qu'étiez-vous donc, Monsieur ? 
+RATURE.
+J'étais Censeur royal. 
+J'ai censuré Jean-Jacques et Voltaire et Rainal ; 
+J'ai rempli mes devoirs avec bien du scrupule. 
+Les plus grands écrivains tremblait à mon aspect ; 
+J'ai souvent raturé jusques à la virgule ; 			[375]
+Lorsque l'auteur était suspect. 
+J'opprimai les talents soumis à ma férule, 
+Et je ne fis jamais fléchir l'autorité ; 
+Quand souvent un Auteur rebelle. 
+Me forçait d'admirer l'article rejeté, 			[380]
+Je raturais encore pour mieux prouver mon zèle ; 
+Et le nom de Rature enfin m'en est resté. 
+ÉPIMÉNIDE.
+On a, je le vois bien, supprimé la censure.
+RATURE.
+C'est une fâcheuse aventure. 
+D'HARCOURT.
+Oh, oui, pour les censeurs. 
+RATURE.
+Mais bientôt on verra 			[385]
+Tous les maux que ceci va causer à la France. 
+ÉPIMÉNIDE.
+Eh bien ! Que croyez-vous qu'il en arrivera ? 
+RATURE.
+Chacun écrira ce qu'il pense. 
+D'HARCOURT.
+Le grand mal. 
+RATURE.
+Si, du moins dans cette occasion, 
+On nous avait laissé la moindre pension, 			[390]
+J'aurais pu, je le sens, garder moins de rancune ; 
+Mais, las ! Nous renvoyer sans pension aucune. 
+D'HARCOURT.
+Ah voilà le grand tort ; mais quoi ! vous pourriez bien 
+Composer au moins quelque ouvrage. 
+RATURE.
+Je raturais avec courage ; 			[395]
+Mais, moi, je n'imagine rien. 
+D'HARCOURT.
+Cependant les censeurs ont compté sur leur liste, 
+Le sage Dalembert, l'auteur de Rhadamiste, 
+Même il en est encor que l'on pourrait citer.
+RATURE.
+Ce Dalembert, Monsieur ? Bon, c'était un faux-frère. 			[400]
+Il sut, dans tous les temps, suspect au ministère ; 
+Sur lui l'on ne pouvait compter : 
+Il aurait respecté la prose de Voltaire : 
+Il aimait trop les arts : il allait tout gâter. 
+D'HARCOURT.
+Mais vous ? 
+RATURE.
+Moi, je n'ai pas ce reproche à me faire ; 			[405]
+Cependant je perds tout. 
+D'HARCOURT.
+Espérez. 
+RATURE.
+Que j'espère ? 
+D'HARCOURT.
+D'affaire, croyez-moi, vous pouvez vous tirer. 
+RATURE.
+Mon embarras, Monsieur, ne saurait se décrire. 
+D'HARCOURT.
+Mais, secrétaire un jour.... 
+RATURE.
+Je ne fais pas écrire. 
+ÉPIMÉNIDE.
+Eh ! Que savez-vous donc ? 
+RATURE.
+Je savais censurer. 			[410]
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)SCÈNE XI. D'Harcourt, Joséphine, Épiménide.
+ÉPIMÉNIDE.
+Non, je ne doute plus du destin de la France ; 
+Voilà de son bonheur la plus ferme assurance ; 
+Elle est libre : à mes yeux le plus grands des bienfaits, 
+Est, d'avoir aboli la censure, exercée 
+Pour entourer les Rois d'infortunés muets : 			[415]
+Les tyrans n'ont d'abord enchaîné la pensée 
+Que pour enchaîner les sujets. 
+JOSÉPHINE.
+Mais sa réflexions me paraît fort sensée. 
+SCÈNE XII. Les mêmes, ARISTE.
+ARISTE à Epiménide.
+Vos gens vont arriver. 
+ÉPIMÉNIDE.
+Vous prenez trop de soin. 
+Vous allez voir tous ceux dont vous avez besoin ; 			[420]
+Mais quand j'ai dit qu'Épiménide 
+Sort de ce long sommeil qui ressemble au trépas, 
+On rit, on me regarde, et l'on ne me croit pas. 
+Ils veulent tous vous voir, ils m'ont choisi pour guide, 
+Et vont vous tomber sur les bras.... 			[425]
+Justement, c'est Monsieur Fatras. 
+SCÈNE XIII. Les mêmes, FATRAS.
+FATRAS, à Epiménide.
+C'est donc vous qui venez, Monsieur, de l'autre monde, 
+Il est dans celui-ci beaucoup de changements, 
+Votre raison, sans doute, et les hait et les fronde ; 
+Car vous me paraissez être homme de bon sens. 			[430]
+ÉPIMÉNIDE.
+J'aime tout changement utile, 
+Je hais ceux qui ne le sont point. 
+FATRAS.
+Vous allez détester ceux qu'ont fait dans la Ville : 
+Nous serons d'accord en tout point ; 
+Parlons d'abord de la Justice, 			[435]
+C'est un métier que je connais. 
+J'ai vécu quarante ans de rapports et d'épice : 
+Les dossiers m'ont cent fois vu plier sous le faix, 
+Et j'usai sur mon dos dix robes de Palais ; 
+Mais la justice criminelle 			[440]
+Pour moi, dans tous les temps, eut surtout des attraits ; 
+C'est là, Monsieur, que j'excellais ; 
+Et l'on veut que j'adopte une forme nouvelle, 
+Pour rendre mes nouveaux arrêts ! 
+Ils ne respectent rien de nos anciens décrets ; 			[445]
+Ils ont abolit tout, tout jusqu'à la torture. 
+Dans la nouvelle procédure, 
+Avant de les punir, on prouve les forfaits ; 
+Et jusques au moment où le crime est notoire, 
+Le jugement est suspendu. 			[450]
+Ah ! Si l'on veut tous les en croire, 
+Aucun d'eux ne sera pendu. 
+ÉPIMÉNIDE.
+Mais cela me paraît sort sage. 
+FATRAS.
+Voilà ce qu'ils me disent tous. 
+ARISTE.
+Pourquoi donc vous mettre en courroux ? 			[455]
+D'HARCOURT.
+Je suis pour la raison.
+FATRAS.
+Moi pour l'ancien usage, 
+Je ne le vois que trop, les premiers inventeurs 
+De ces réformes exécrables, 
+Sont ces Auteurs abominables, 
+Des superstitions, infâmes délateurs. 			[460]
+Nous avons donc en vain poursuivi leur mémoire ; 
+Fait brûler leurs écrits par la main du bourreau, 
+Nos persécutions ajoutent à leur gloire : 
+Nous voyons Voltaire et Rousseau, 
+Régir l'opinion du fond de leur tombeau ; 			[465]
+Je veux, pour nous venger, faire un réquisitoire. 
+ARISTE.
+Et contre qui, Monsieur ? 
+FATRAS.
+Contre la Nation 
+Et je veux y mêler de vives apostrophes, 
+Contre un Roi qui fut assez bon, 
+Pour accorder sa sanction 			[470]
+À des Décrets de Philosophes. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)SCÈNE XIV. Joséphine, D'Harcourt, Crisante, Nicolas, Épiménide.
+JOSÉPHINE, à d'Harcourt.
+L'humeur de ce Robin est fort divertissante. 
+D'HARCOURT, à Joséphine.
+Quoi ! Vous riez de son courroux ? 
+ÉPIMÉNIDE.
+Mais quel est ce Monsieur qui s'avance vers nous ? 
+ARISTE.
+C'est un vieil Officier qui se nomme Crisante. 			[475]
+D'HARCOURT.
+Il s'agite, il grimace. 
+JOSÉPHINE.
+Et n'a pas l'air fort doux. 
+ARISTE, continuant à Epiménide.
+Gentilhomme Breton, fort de ma connaissance, 
+JOSÉPHINE.
+J'aime beaucoup sa fille Hortense. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Ah ! bonjour, Nicolas. 
+CRISANTE, à Ariste.
+C'est un de mes vassaux. 
+NICOLAS.
+Mais ce Paris est admirable. 			[480]
+CRISANTE.
+Que viens-tu faire ici ? 
+NICOLAS.
+J'ai fini les travaux ; 
+J'ai travaillé l'été, j'ai tant chassé l'automne, 
+Et je viens dans Paris prendre un peu de repos : 
+Que Monseigneur me le pardonne ! 
+CRISANTE.
+L'insolent ! Dans Paris as-tu quelque procès ? 			[485]
+NICOLAS.
+Nous en avions un grand dont je désespérais. 
+Pour tous les Paysans de France ; 
+Mais nous l'avons gagné : moi, par reconnaissance, 
+J'accours dans Paris tout exprès, 
+Pour voir tous les Auteurs de ces sages décrets, 			[490]
+Qui nous ont fait rentrer dans nos droits légitimes, 
+Ont détruit les abus, ont soulagé les maux, 
+Ont enfin aboli les dîmes ; 
+Car je ne parle pas des droits Seigneuriaux. 
+CRISANTE.
+Peut-on pousser plus loin l'audace et l'insolence ? 			[495]
+Il me parle avec assurance. 
+À l'entendre, on croirait que nous sommes égaux. 
+NICOLAS.
+Cela pourrait bien être. 
+CRISANTE.
+Autrefois dans la France, 
+La présence d'un Duc faisait taire un Marquis. 
+Devant l'homme à la Cour admis, 			[500]
+Un Gentilhomme de Province 
+N'aurait osé rester assis. 
+Un Bourgeois respectait le noble le plus mince, 
+Les plus grands imposaient toujours aux plus petits, 
+Et c'était un ordre admirable ; 			[505]
+Mais aujourd'hui dans ce Paris, 
+C'est un despotisme effroyable, 
+Tout le monde y dit son avis. 
+NICOLAS.
+Il faut bien vous y faire, ou je me donne au diable ; 
+Nous étions bêtes autrefois, 			[510]
+Lorsque nous ne savions pas lire, 
+Les plus forts avaient fait les lois ; 
+Il fallait nous laisser conduire, 
+Hélas ! Dieu sait comment ; mais tout change aujourd'hui, 
+Nous savons respecter un brave gentilhomme ; 			[515]
+Quand il se bat pour nous, nous travaillons pour lui ; 
+Mais nous ne voulons point qu'un faquin nous assomme ; 
+Nous avons lu les droits de l'homme. 
+CRISANTE.
+Je ne m'attendais point à ce dernier trait-là, 
+On peut faire à présent tout ce que l'on voudra : 			[520]
+Je vois loin de ces lieux chercher un coin de terre, 
+Où d'un peu d'esclavage on ait gardé le goût ; 
+Et me jeter dans la rivière 
+Si l'on devient libre partout. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)SCÈNE XV. Les mêmes, excepté Crisante.
+ÉPIMÉNIDE.
+Le siècle où vous vivez sera beau pour l'histoire, 			[525]
+Et le Français enfin connaissant tous ses droits, 
+Après avoir tout fait pour la grandeur des Rois, 
+Travaille pour sa propre gloire. 
+SCÈNE XVI. Les mêmes, un Abbé.
+L'ABBÉ, chantant sur l'air de « J'ai perdu mon Euridice. »
+J'ai perdu mes bénéfices, 
+Rien n'égale ma douleur.... 			[530]
+ÉPIMÉNIDE.
+Un. Puisqu'elle s'exprime en chantant 
+Deux. Sa douleur n'est pas bien amère. 
+L'ABBÉ à part.
+Avoir rendu de mon vivant, 
+La Nation mon héritière. 
+ÉPIMÉNIDE.
+Quoi donc ! 
+L'ABBÉ.
+Ces députés, ces conseils d'un bon Roi, 			[535]
+Ces hommes qu'on chérir, on ne sait pas pas pourquoi, 
+Et qui n'ont jamais fait le bien que par surprise, 
+Pour enrichir l'État nous prennent notre argent, 
+Ils vont nous obliger à vivre, en enrageant, 
+Selon les Canons de l'Église. 			[540]
+JOSÉPHINE.
+Mais c'est tout-à-fait déplacé. 
+L'ABBÉ.
+Leur politique est détestable, 
+Ce n'est pas contre moi que le piège est dressé ; 
+Je puis mener encore une vie agréable, 
+Avec le peu qu'on m'a laissé. 			[545]
+ARISTE.
+Et quel chagrin donc vous tourmente ? 
+L'ABBÉ.
+Ah ! Si je souffrais seul, j'y verrais moins de mal : 
+Mais à d'autres qu'à moi, mon malheur est fatal. 
+Tous ceux que soutenait ma vertu bienfaisante, 
+S'en vont mourir à l'hôpital ; 			[550]
+J'ai soulagé longtemps les beautés indigentes. 
+Quand j'avais des biens superflus, 
+Je donnais pas mois mille écus, 
+Pour aider mes pauvres parentes. 
+D'HARCOURT.
+Vos parentes, Monsieur ! Pourquoi pas vos parents ? 			[555]
+L'ABBÉ.
+Je n'ai point de parents, je n'ai que des cousines, 
+Ce sont d'aimables Orphelines. 
+JOSÉPHINE.
+Mais quel âge à-peu-près ? 
+L'ABBÉ.
+La plus vieille a vingt ans : 
+Vous voyez de quels sacrifices, 			[560]
+Envers tous mes parents, je m'étais fait la loi, 
+Et que ce n'était pas pour moi, 
+Que j'employais l'argent de mes six bénéfices. 
+ARISTE.
+Oui, puisque vous rendiez de si nobles services, 
+Vous auriez dû sans doute être plus ménagé. 			[565]
+L'ABBÉ.
+On nous enlève tout. 
+ÉPIMÉNIDE.
+Que j'en suis affligé. 
+D'HARCOURT.
+Que je plains ce pauvre Clergé ? 
+JOSÉPHINE.
+Que je plains ces pauvres cousines ! 
+Mais on vous laisse au moins et vêpres et matines. 
+L'ABBÉ.
+Le trait sans doute est des plus noirs ; 			[570]
+Nous prendre notre argent, nous laisser nos devoirs. 
+D'HARCOURT.
+Quand tout état subit une métamorphose. 
+Il fallait bien chez vous réformer quelque chose. 
+L'ABBÉ.
+Il fallait s'y prendre autrement. 
+C'est précisément le contraire. 			[575]
+JOSÉPHINE.
+Comment ? Et que fallait-il faire ? 
+L'ABBÉ.
+Nous ôter nos devoirs, nous laisser notre argent. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)SCÈNE XVII. Cabriole; les mêmes, excepté l'Abbé.
+CABRIOLE.
+N'est-ce pas vous, Monsieur, qu'on nomme Epiménide ? 
+ÉPIMÉNIDE.
+Oui ! 
+CABRIOLE.
+Monsieur, le respect et m'attire et me guide. 
+ÉPIMÉNIDE.
+Monsieur, vous êtes obligeant. 			[580]
+CABRIOLE.
+Vous avez vu Louis-le-Grand. 
+ÉPIMÉNIDE.
+Oui, Monsieur. 
+CABRIOLE.
+Ah ! Monsieur, le règne magnifique. 
+ÉPIMÉNIDE.
+Il avait de la majesté. 
+CABRIOLE.
+Comme il aimait les Arts, la Danse et la Musique ;
+Versailles de concerts toujours retentissait. 			[585]
+ÉPIMÉNIDE.
+Beaucoup de gens blâment sa politique. 
+CABRIOLE.
+Combien j'aurais alors brillé dans un ballet ? 
+ÉPIMÉNIDE.
+J'aime mieux le nouveau système. 
+Sa Cour..... 
+CABRIOLE.
+Ah ! Quelle Cour ! Tout le monde y dansait. 
+Les Ducs, les Maréchaux, et jusqu'au Roi lui même ; 			[590]
+Mais maintenant, hélas ! Ô regrets superflus ! 
+Tout dégénère en France, et l'on ne danse plus. 
+Les États-Généraux nous ont coupé la gorge, 
+On écrit, on écrit, de livres on regorge, 
+On est publiciste ou Soldat ; 			[595]
+Quelques hommes de Cour, dans leur adolescence, 
+Sont déjà des hommes d'État. 
+Que de gens perdus pour la danse ! 
+Non je ne fais plus rien depuis six moins entiers ; 
+Tous mes amis, hélas ! Ont fui chez les Sarmates ; 			[600]
+C'est parmi les Aristocrates 
+Qu'étaient mes meilleurs écoliers. 
+ARISTE.
+Vous pourrez en trouver parmi la bourgeoisie. 
+CABRIOLE.
+J'aimais mieux les former dans la classe choisie ; 
+Mais d'elle, je le vois, il saut me dégager, 			[605]
+Descendre un peu chez le vulgaire, 
+Suivre avec quelques Grands le parti populaire, 
+Avec Montmorency je veux bien déroger ; 
+Oui, je deviens bourgeois et change de méthode. 
+Près d'ici l'on prépare au*** bal, 			[610]
+Et je veux y donner une fête à la mode, 
+C'est un ballet national. 
+D'HARCOURT.
+Il réussira je vous jure : 
+Les affaires vont prendre une bonne tournure, 
+Et l'on rappellera cette douce gaîté, 			[615]
+Et cette aimable urbanité, 
+Qui faisaient tant chérir la France, 
+Et dont plus d'une circonstance, 
+Depuis cinq à six mois nous ont un peu privé. 
+CABRIOLE, s'en allant en dansant.
+Ainsi refleurira le grand Art de la Danse. 			[620]
+D'HARCOURT.
+Oui Monsieur.
+CABRIOLE.
+L'État est sauvé. 
+SCÈNE XVIII. Épiménide, Joséphine, Ariste, D'Harcourt, Gorgi, Rature, Mme. Brochure, Cabriole, Damon.
+ARISTE.
+Ha ! C'est Damon le Démocrate. 
+D'HARCOURT.
+C'est un Orateur excellent, 
+Qui jadis espion est Tribun maintenant. 
+DAMON, à l'Abbé, montrant Epiménide.
+C'est donc lui ? 			[625]
+L'ABBÉ.
+C'est lui-même. 			[625]
+DAMON.
+À sa large cravate, 			[625]
+À sa démarche fière, à son air imposant,
+À sa grosse perruque, on peut voir aisément 
+Que c'est là quelqu'aristocrate. 
+Mme BROCHURE.
+Croyez-vous ? 
+DAMON.
+Très certainement. 
+L'ABBÉ.
+Gorgi ne pourra le défendre, 			[630]
+Car il n'a pas souscrit. 
+Mme BROCHURE.
+Du moins on peut attendre. 
+L'ABBÉ.
+Où est donc ce pauvre Gorgi ? 
+J'espérais le trouver ici. 
+Nous nous ressemblons fort ; sa marotte est la nôtre, 			[635]
+Et souvent nos amis nous ont pris l'un pour l'autre. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)DAMON.
+Qui ? Vous que je croyais un si bon citoyen, 
+Qui dans notre District avez parlé si bien, 
+Vous présentez partout un homme qu'on soupçonne 
+De conspirer ?
+ARISTE.
+Qui, lui ? Votre idée est fort bonne ? 			[640]
+Il dort depuis un siècle, et s'éveille à présent. 
+JOSÉPHINE.
+Ah ! L'on peut quelquefois conspirer en rêvant. 
+DAMON.
+N'avez-vous pas vécu près de Louis-le-Grand ? 
+ÉPIMÉNIDE.
+Sans doute. 
+DAMON.
+Cette Cour n'était pas populaire ; 
+Et vous êtes peut-être un secret émissaire...			[645]
+JOSÉPHINE.
+Sorti de l'autre monde. 
+D'HARCOURT.
+Oh ! L'on n'y croit plus guère. 
+ARISTE.
+Eh quoi ! Vous réveillez ces soupçons éternels, 
+Qui, servant de prétexte à des hommes cruels, 
+Des lois retardent l'espérance, 
+Et voudraient consacrer ces forfaits solennels 			[650]
+Dont va longtemps rougir la France. 
+JOSÉPHINE.
+Oh ! C'est trop odieux, on ne peut le nier. 
+Je suis fidèle Démocrate. 
+Mais j'abhorre le sang, et ne puis oublier 
+Que mon malheureux cordonnier 			[655]
+Manqua d'être pendu comme un aristocrate 
+D'HARCOURT.
+N'écartons plus de nos remparts 
+Ceux qui faisaient fleurir le commerce et les arts : 
+C'est assez expier quelques moments d'ivresse ; 
+Et l'on devrait prendre le soin 			[660]
+De rappeler ici les arts et la richesse 
+Dont nous avons un grand besoin. 
+DAMON.
+Eh pourquoi vous fâcher sans cesse ? 
+Je soupçonne, Monsieur ; je le dis, je le crois, 
+Et de la liberté ce sont bien là les droits. 			[665]
+ARISTE.
+La liberté n'est pas le droit de faire outrage, 
+Et l'abus ne doit point en précéder l'usage. 
+DAMON.
+Vous le prenez, Monsieur, sur un singulier ton ; 
+Et si l'on croit ici que vous osez faire ; 
+Que devient la délation 			[670]
+Nécessaire, en tout temps, au salut d'un Empire. 
+ÉPIMÉNIDE
+Oui, l'on peut, au nom de la loi, 
+Pour suivre des complots la trame criminelle ; 
+Mais des gens de mauvaise foi 
+Ont trop souvent couvert leurs complots d'un faux zèle 			[675]
+Et vous souffrez pourtant ces abus odieux 
+Qu'on n'a jamais connu qu'en des siècles sinistres 
+Et qui servent les voeux des coupables ministres, 
+Ou des Tribuns ambitieux ? 
+D'HARCOURT.
+Oui, depuis quelque temps, on veut en faite usage. 			[680]
+JOSÉPHINE.
+On le veut, mais en vain, je gage ; 
+Les Français sont trop généreux. 
+DAMON.
+Ce n'est pas moi du moins : j'accuse avec courage 
+Les Ministres, les grands qui nous faisaient outrage. 
+Il saut venger le Peuple. 
+ARISTE.
+Il faut surtout l'aimer. 			[685]
+Il a brisé le joug de l'antique esclavage, 
+Au joug des bonnes lois il faut l'accoutumer, 
+Au lieu de l'aigrir, le calmer, 
+Et, Pour le rendre heureux, il faut le rendre sage. 
+ÉPIMÉNIDE.
+Je suis de votre avis, Monsieur ; dans tous les temps 			[690]
+Le Peuple eut ses flatteurs, ainsi que les tyrans. 
+Dans plus d'une cité guerrière, 
+J'ai vu des Citoyens adroits, 
+Adorer par orgueil la faveur populaire, 
+Eux que l'on aurait vu vivant sous d'autres lois, 			[695]
+Pour monter aux grandeurs ramper aux pieds des Rois. 
+L'honnête homme toujours à son coeur s'abandonne, 
+Dit partout ce qu'il pense et ne flatte personne. 
+DAMON.
+Mais si tout est en paix, si chacun est content, 
+Je ne serai plus important, 			[700]
+Et bientôt dans Paris je n'aurai plus d'affaires. 
+JOSÉPHINE.
+Vous pourrez retourner dans les Cours étrangères. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)SCÈNE XIX. Les acteurs précédents, excepté Damon.
+ÉPIMÉNIDE.
+Eh, quel homme, Messieurs ! 
+ARISTE.
+C'est un homme acheté, 
+Qui dans les troubles seuls a mis son espérance, 
+Et qui contre la liberté, S'efforce d'armer la licence. 			[705]
+On le connaît enfin, il n'est plus écouté. 
+Nous avons des tyrans abattu la puissance, 
+Des tribuns factieux arrêtons l'insolence : 
+De l'anarchie encor sachons nous préserver. 
+L'anarchie a souvent ramené l'esclavage ; 			[710]
+Et la seule sagesse a droit de conserver 
+Ce qu'a conquis notre courage. 
+SCÈNE XX et DERNIÈRE. Épiménide, Joséphine, Ariste, D'Harcourt, Nicolas, un Officier et deux Soldats de la Garde Nationale.
+ARISTE, à Epiménide.
+Voilà tous ces Messieurs dont vous avez besoin. 
+UN TAILLEUR. (Soldat).
+Monsieur, je suis tout prêt..... 
+ÉPIMÉNIDE.
+Vous prenez trop de soin... 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)Dites-moi quel dessein amène 			[715]
+Ces Soldats et cet Officier ? 
+Ne vous avais-je pas prié de m'envoyer 
+Un bon Tailleur ?.... 
+LE TAILLEUR.
+Est Fusilier. 
+ÉPIMÉNIDE.
+Mon Procureur ?			[720]
+LE PROCUREUR. (Soldat.)
+Est Grenadier. 
+ÉPIMÉNIDE.
+Et mon Notaire ? 
+LE NOTAIRE. (Soldat.)
+Est Capitaine. 
+D'HARCOURT.
+Nous sommes tous Guerriers, et le roi des Français. 
+Compte autant de Soldats qu'il compte de sujets ; 
+Demain chez lui je suis de Garde. 			[725]
+NICOLAS.
+Pour lui nous irions tous au feu, 
+Et si je n'ai point l'habit bleu, 
+Je porte du moins la cocarde 
+ÉPIMÉNIDE.
+Dans un moment je suis à vous. 
+Du beau nom des Français combien je suis jaloux ! 			[730]
+ARISTE.
+Demeurez à Paris. 
+ÉPIMÉNIDE.
+C'est mon voeu le plus doux. 
+D'HARCOURT, à Épiménide.
+Quand vous verrez Madame seule, 
+N'allez pas, soit dit entre nous, 
+La prendre pour sa bisaïeule. 
+***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)***************** Erreur dans l'interprétation du texte (ligne 290, programme : edition_txt.php)JOSÉPHINE.
+Lorsqu'auprès de Joséphine, 			[735]
+Quelqu'un lui fera la cour, 
+N'allez plus faire la mine, 
+Et comptez sur mon amour ; 
+Fiez-vous à votre amie, 
+Ne la veillez pas de près ; 			[740]
+Bannissez la jalousie.... 
+Ce mot-là n'est pas français. 
+D'HARCOURT.
+C'est en vain que je m'efforce 
+De rassurer mon amour ; 
+Si l'on permet le divorce, 			[745]
+Vous pouvez changer un jour.
+JOSÉPHINE.
+Je n'en veux point faire usage ; 
+Mais, fidèle à mes attraits, 
+Gardez-vous d'être volage, 
+Ne soyez pas trop Français. 			[750]
+CABRIOLE.
+J'aime la vertu guerrière 
+De nos braves Défenseurs ; 
+Mais d'un peuple sanguinaire, 
+Je déteste les fureurs. 
+À l'Europe redoutables, 			[755]
+Soyons libres à jamais ; 
+Mais soyons toujours aimables, 
+Et gardons l'esprit Français. 
+GORGI.
+Du Gazetier de Bruxelles, 
+Mesdames dites du bien ; 			[760]
+S'il invente ses nouvelles, 
+Vous pouvez n'en croire rien 
+On peut plaire avec des Fables ; 
+Vous apprîtes à vos frais, 
+Que les trompeurs sont aimables : 			[765]
+Vos amants sont des Français. 
+Mme BROCHURE.
+De la liberté nouvelle ; 
+Faisons fleurir les bienfaits ; 
+Nous avons vaincu par elle, 
+Mais vainqueurs donnons la paix ; 			[770]
+Des ennemis de la France, 
+Vengeons nous par des couplets. 
+Connaît-on d'autre vengeance, 
+Quand on a le coeur français ? 
+L'ABBÉ.
+On dérange mes affaires, 			[775]
+Je prends le tout sans humeur ; 
+Quelques-uns de mes Confrères ; 
+N'ont pas la même douceur. 
+Qu'amour, fidèle à mes traces, 
+Me conserve ses bienfaits ; 			[780]
+Je chanterai mes disgrâces, 
+Pour garder l'esprit des Français.
+ÉPIMÉNIDE.
+Maître de ma destinée, 
+Roi des Hommes et des Dieux, 
+Si ma course est terminée, 			[785]
+Que je vive dans ces lieux. 
+S'il faut qu'encor je sommeille, 
+Exauce au moins mes souhaits, 
+Fais que toujours je m'éveille, 
+Au milieu des bons Français. 			[790]
+
+	==================================================

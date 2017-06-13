@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Debate SYSTEM "../Debate.dtd"[]>
+<Debate date_iso="19290222"  DocTitle="D&aacute;il Debate" Day="Fri" Date="22" Month="Feb" Year="1929" Vol="28" No="3" DateIrish="Dé hAoine, 22 Feabhra 1929" DateEnglish="Friday, 22 February 1929" House="D" CommitteeEng="" CommitteeIr="" SubNameEng="" cnum="331">
+  <MainHeading Type="Prelude" LHead="" RHead="">
+    <Title>
+    </Title>
+    <P>
+      <Col N="331" /> Do chuaidh an Ceann Comhairle i gceannas ar 10.30 a.m.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Business of" RHead="the Dáil">
+    <Title>Business of the Dáil.</Title>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>The motion by the Minister for External Affairs relative to the Kellogg Pact is before the Dáil. It is an international instrument of very considerable importance, and as Private Member's time comes on at 12 o'clock to-day I suggest to the House that it would be an international courtesy not to interrupt the discussion on the Kellogg Pact and allow it to be concluded to-day.  If the House were in the mood to finish the Cork City Management Bill, which has come back from the Seanad with some amendments, perhaps private Deputies would be agreeable to adopt the course I have suggested.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The position is that if the First Reading of the Workmen's Compensation (Increase of Compensation) Bill, 1929, is not opposed, it might be taken to-day. The Dáil would have in any event to fix a time for considering the amendments to the Cork City Management Bill that have come from the Seanad. If it is convenient, perhaps that might be taken to-day.  The President suggests that the Kellogg Pact should be the first opposed business and, if it continues to 12 o'clock, that the discussion should not be interrupted.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I make the alternative suggestion that the debate should conclude at 12 o'clock and a decision should be then taken.  I do not see that it is necessary the discussion should proceed beyond that.</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>If a large number of members wish to speak, there may not be much time for the Minister to reply.</P>
+    </Speaker>
+    <Col N="332" />
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>If the course suggested by Deputy Lemass were adopted, perhaps the usual practice could be observed.  That is, the Minister would rise to speak at a quarter to twelve and, if he desired to speak for five or ten minutes past twelve, there would be no objection.  I do not know how long the Minister requires.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>A very short time will do me.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>In the circumstances it may be as well, if there is no opposition, to take the First Stage of the Workmen's Compensation (Increase of Compensation) Bill, then the Cork City Management Bill and then proceed with the resumed debate on the Kellogg Pact.</P>
+      <P>Ordered accordingly.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Workmen's Compensation (Increase of" RHead="Compensation) Bill, 1929&mdash;First Stage">
+    <Title>Workmen's Compensation (Increase of Compensation) Bill, 1929&mdash;First Stage.</Title>
+    <Speaker pid="VincentRice" hpid="Mr. Rice Mr. Rice">
+      <NameTxt>Mr. Rice</NameTxt>
+      <P>I beg leave to introduce a Bill entitled an Act to amend the Workmen's Compensation Act, 1906, and the Acts amending that Act in respect of the amounts of compensation payable thereunder.</P>
+      <P>Leave granted.</P>
+    </Speaker>
+    <Speaker pid="VincentRice" hpid="Mr. Rice Mr. Rice">
+      <NameTxt>Mr. Rice</NameTxt>
+      <P>Perhaps the Second Stage of this Bill could be taken next Wednesday.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I wonder would the Deputy postpone the Second Reading a little further?  I assume from the title of this Bill that this question in respect of compensation will not be a simple matter.  We have to consider the maximum figure and the matter of dependents' allowances.  These are intricate things and I would like to see the Bill compared with the Report of the Commission.</P>
+    </Speaker>
+    <Speaker pid="VincentRice" hpid="Mr. Rice Mr. Rice">
+      <NameTxt>Mr. Rice</NameTxt>
+      <P>What date does the Minister suggest?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>This day week.</P>
+      <P>Second Stage fixed for Friday, 1st March.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Cork City Management Bill," RHead="1928&mdash;From the Seanad">
+    <Title>Cork City Management Bill, 1928&mdash;From the Seanad.</Title>
+    <P>The Dáil went into Committee to consider Seanad amendments.</P>
+    <Col N="333" />
+    <Speaker pid="RichardJamesMulcahy" hpid="Minister for Local Government and Public Health (General Mulcahy) Richard (General) Mulcahy">
+      <NameTxt>Minister for Local Government and Public Health (General Mulcahy)</NameTxt>
+      <P>It is my intention to recommend the acceptance of these four amendments, which are of a very minor nature.  I do not think they will give rise to any discussion.  Amendment No. 1 reads:</P>
+      <P>In Section 3, sub-section (4) the words &ldquo;not being later than one month before the appointed day&rdquo; deleted in lines 35-36.</P>
+      <P>This is simply to delete a provision by which a month must elapse before the setting up of the Corporation and the appointed day.  It does away with an unnecessary month's delay in the new Corporation taking up business.</P>
+      <P>Question: &ldquo;That the Committee agree with the Seanad amendment,&rdquo; put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Amendment 2 reads:</P>
+      <P>Section 8, sub-section (1).  After the word &ldquo;making&rdquo; in line 38 the words &ldquo;or revoking&rdquo; inserted.</P>
+      <P>This is really a drafting amendment to make it clear that as well as dealing with matters of making regulations the Council may deal with matter revoking regulations.</P>
+      <P>Question: &ldquo;That the Committee agree with the Seanad amendment,&rdquo; put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Amendment No. 3 reads:</P>
+      <P>Section 11, sub-section (2).  After the word &ldquo;Mayor&rdquo; in line 33 the words &ldquo;and every member of the Council&rdquo; inserted.</P>
+      <P>This amendment simply proposes that the monthly statement of finance, as well as being sent to the Lord Mayor, will be sent to every member of the Council.</P>
+      <P>Question: &ldquo;That the Committee agree with the Seanad amendment,&rdquo; put and agreed to.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Amendment No. 4 reads:</P>
+      <P>Section 14, sub-section (2).  After the word &ldquo;any&rdquo; in line 58 the words &ldquo;Act or any&rdquo; inserted.</P>
+      <P>This is merely a drafting amendment also.</P>
+    </Speaker>
+    <P>
+      <Col N="334" /> Question: &ldquo;That the Committee agree with the Seanad amendment,&rdquo; put and agreed to.</P>
+    <P>The Dáil went out of Committee.</P>
+    <P>Agreement with amendments reported.</P>
+    <P>Question: &ldquo;That the Dáil agree with the Committee in its report,&rdquo; agreed to.</P>
+    <P>Message to be sent to the Seanad accordingly.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Treaty for the" RHead="Renunciation of War">
+    <Title>Treaty for the Renunciation of War.</Title>
+    <P>Debate resumed on the following motion:&mdash;</P>
+    <P>Go n-aontuíonn Dáil Eireann leis an gConnra chun Diúltú do Choga, a sighníodh i bPáris an 27adh lá de Lúnasa, 1928, agus 'nar leagadh cóip de ar Bhórd na Dála an 20adh lá so d'Fheabhra, 1929, agus go molann sí don Ard-Chomhairle gach ní is gá do dhéanamh chun an Connra san do dhaingniú.</P>
+    <P>That Dáil Eireann approves of the Treaty for the Renunciation of War, signed at Paris on the 27th day of August, 1928, a copy of which was laid upon the Table of the Dáil on this 20th day of February, 1929, and recommends the Executive Council to take the necessary steps for its ratification.&mdash;(Minister for External Affairs.)</P>
+    <Speaker pid="MichaelJKennedy" hpid="Mr. Kennedy Mr. Kennedy">
+      <NameTxt>Mr. Kennedy</NameTxt>
+      <P>What strikes me about this Kellogg Pact is that there has been a great deal of hubbub made about it and a lot of solemnity gone through in its ratification in this Oireachtas. When we analyse our position arising out of the Treaty of 1921, we see by that Treaty, as far as the people opposed to it could view it, that we renounced war as a means of settling disputes between the various members of the British Commonwealth.  When we couple with that the statement made by the British that when one member of the Commonwealth is attacked it is the concern of all, we can conclude that any war forces we have here are purely defensive, and defensive for one purpose, namely, when the Commonwealth is attacked.  Consequently it is a sheer waste of time to be taking up the time of this House debating the matter of the signing of the Pact.</P>
+    </Speaker>
+    <Col N="335" />
+    <Speaker pid="DenisJohnGorey" hpid="Mr. Gorey Mr. Gorey">
+      <NameTxt>Mr. Gorey</NameTxt>
+      <P>Hear, hear!</P>
+    </Speaker>
+    <Speaker pid="MichaelJKennedy" hpid="Mr. Kennedy Mr. Kennedy">
+      <NameTxt>Mr. Kennedy</NameTxt>
+      <P>But apart from all this, coming to the value of the Pact itself as an international instrument of peace, we can only conclude that this Pact is a mere platitude.  In this Pact there is no attempt to renounce the causes of war.  The nations come together and state: &ldquo;We renounce war.&rdquo; And yet the causes of war, like in Geneva, are left untouched and we have the blue-eyed idealists coming back from Geneva telling the Irish people that now war is at an end because they have been there.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That is the Minister for Agriculture's phrase.</P>
+    </Speaker>
+    <Speaker pid="MichaelJKennedy" hpid="Mr. Kennedy Mr. Kennedy">
+      <NameTxt>Mr. Kennedy</NameTxt>
+      <P>In spite of the assurance of the Father of this House that war will not come between the United States and England, we have, yesterday, Canada assuring us that when that conflict comes about she will be out of it.  We link up certain things which are occurring such as the statement made by the head of the Chambers of Commerce in the United States, wherein he says: &ldquo;We have 5 per cent. of the world's population, we have 55 per cent of the trade of the world, and we are going out for more.&rdquo; You have the statement by the President of the National Association of Manufacturers in the United States in which he says: &ldquo;Of practically all the commodities that America can produce it is producing regularly from 15 to 30 per cent. more than it has a capacity to consume or dispose of profitably in other available markets.  It is safe to say that a general average of 40 per cent. of all our factories that are operating at all to-day are doing so at a loss.&rdquo;  Again, Senator Reed, on the Cruiser Bill says: &ldquo;Tell me why Bermuda should be fortified?&rdquo;</P>
+    </Speaker>
+    <Speaker pid="DenisJohnGorey" hpid="Mr. Gorey Mr. Gorey">
+      <NameTxt>Mr. Gorey</NameTxt>
+      <P>Hear, hear!  Tell us that.</P>
+    </Speaker>
+    <Speaker pid="MichaelJKennedy" hpid="Mr. Kennedy Mr. Kennedy">
+      <NameTxt>Mr. Kennedy</NameTxt>
+      <P>Senator Reed goes on: &ldquo;Why should Britain cling to a ring of islands which command the Panama Canal?  From Jamaica Britain could destroy the Panama Canal with her aeroplanes in five and a half hours. If our fleet should be divided between the Atlantic and the Pacific it would be helpless.  Why does England have a <Col N="336" /> fortress near Cape Horn so that we cannot sail round South America?  I do not say that Britain is preparing for war with the United States, but I do say that her statesmen have enough sense to protect their own country. And any American statesman who does not take a lesson from this fact is not fit to represent the American people. I am in favour of a navy equal to any on earth.  I am in favour of a navy so strong that no two navies on earth could attack it.  The interest on our war debt could pay for this, and it behoves us to look after our own household.&rdquo;</P>
+      <P>If you couple that with the looms that are only doing 40 per cent. of what they could do, and if you realise that it is not, as Deputy O'Connell says, jealousy between nations or suspicion between nations that causes war, but the struggle for international markets, and when you weigh up that there is nothing in the Kellogg Pact renouncing the causes of war, that there is nothing in the Kellogg Pact is a mere platitude.  If this Dáil were to propose a resolution and adopt it, and say &ldquo;that as a means towards the internal and international peace of nations the efforts of production should be directed towards the housing, clothing and feeding of the unemployed, irrespective of whether work is available for them or not,&rdquo; that would be a platitude too.  But weighed with the Kellogg Pact it would have just as far-reaching an effect.  We have, as one of the signatories to this Pact, the British. While they are shoving cotton goods on the Indians whether they like or not, and tinned goods on other people, their own employees are going naked and unfed and unsheltered and left to charity.  Their production is directed, not towards the welfare of these millions within their own shores, but to carry out the rules of a false economy &mdash;to rush for markets where and when they can get them.</P>
+    </Speaker>
+    <P>The same thing applies all the world over.  I grant you that England does not go to war because she loves war. Neither does America.  Neither does any other country in the world.  They want peace if they can get peace.  They will do all they can to avoid war, but as a necessity to keep their places in <Col N="337" /> the sun and to carry on with that ever-expanding market which is an essential to the present economic politic outlook in the world, war will be inevitable with whoever arises as a rival.  As far as we can see the rival to England is the United States.  But whether it be the United States or whether it be Russia, war is going to come, and this Kellogg Pact is not going to avoid it, because it does not do anything to renounce and do away with the causes of war.  I grant you, too, that if you cut out the causes of war and do away with them it would effect the necessary change, even if you had large numbers of cruisers assembled.  And if you had a certain amount of disarmament, not total disarmament, quarrels would be renewed as long as the causes of war are there, whereby in the slogan as we have had it often in this Assembly, even given out by the Minister for Agriculture, &ldquo;we live by our exports.&rdquo;  That is the slogan of the nations of the world.</P>
+    <P>It does not matter a thraneen whether thousands go and starve, go unclothed and go unhoused, just as they did in the time of the Famine. We live by our exports, and show a beautiful set of statistics.  We are to judge of welfare not by the number of human beings that are happy, but by the large number of figures which we can dish up to blind a gullible public.  Deputy Lemass said last night that there was one practical proposal at Geneva&mdash;namely, from the representatives of the Soviet people, when they said that the way to prevent war was to have total disarmament. All the sophistry of the Cushenduns and the rest of them was brought to bear on the individual who said that to show how silly and ridiculous it was. In the same way any attempts to come at the causes of war will arouse the same ridicule, but what will become very evident in the next conflict is the truth of the fact that when men have to slaughter one another in war there is no shortage of food, there is no shortage of housing, and there is no shortage of clothing, and people will begin to ask themselves when that state of things can exist for the purposes of war, why can it not exist for the purposes of peace?</P>
+    <Col N="338" />
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>Following up the statement that has just been made by Deputy Kennedy, I wonder would I be in order in moving that the cost to the Free State in regard to all the negotiations leading up to the presentation of this Pact&mdash;the cost of the members attending here and of the time taken up by both Houses with this&mdash;when ascertained, be surcharged on our industrious Minister for External Affairs?  I agree with the statement made by a Deputy from West Cork, Deputy Sheehy, who said last night that the House would be better occupied in looking after drainage schemes and in trying to find means of employment for our starving people than engaging in this comic opera talk about the renunciation of war.  When I see here in this document references to the President of the German Reich, the President of the United States of America, his Majesty the King of Great Britain and Ireland and of the British Dominions beyond the seas, I ask myself if this is Ireland, or is it not?  The King of Ireland has decided to conclude a Treaty and we are expected to sign it.  Was ever the time of an assembly taken up in a more futile discussion than that?  Those opposite tell us that the King of Ireland has decided to conclude a Treaty. Yet they solemnly come in here and occupy the time of the House for days while our people outside are hungry and while we have no money to relieve their distress in any way.</P>
+    </Speaker>
+    <P>The time of the House is occupied in considering whether or not we are going to sign this Treaty.  That is one side of the picture.  The idea that they have tried carefully to foster here is that we have got sovereign power and sovereign independence.  We have ambassadors abroad and we have an envoy to the League of Nations, we that left our elected representatives lie in British dungeons after the so-called Treaty was signed.  We had not the power to get those elected representatives out.  We have sovereign power, we who left our soldiers who fought in order that this affair whatever it is&mdash; anyway it was they who got it&mdash;lie under penal servitude sentences in British dungeons after they were elected by the Irish people to sit here. <Col N="339" /> We have sovereign power.  When we consider that the time of both Houses here has been occupied for a few days on this, as well as the cost of the printing and all this gaudy show, we must admit that it is all absolutely futile because this affair has already been signed.  It has already been decided on and to bring it here and talk about it is only a farce and wasting the time of the House.</P>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy is under a misapprehension.  The House has been asked to ratify this Pact and the House has power to do that.  The House is quite competent to do what it is asked to do, and the Deputy should not call the proceedings a farce.  They are not a farce, except in so far as he makes them so.</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>Is it not a farce that when the King&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy must not call the proceedings here a farce and he must not behave in any way which would tend to make the proceedings here a farce, for that would be a reflection on the Assembly of which he is a member and upon the people who are responsible for the Assembly.  I want the Deputy to be clear about that.</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>I promise that I will cast no slur whatever on the people who sent me here.  When we see that the King of Great Britain and Ireland and of the British Dominions beyond the Seas, that the King of Ireland has decided to conclude a Treaty, what would happen if, after the King of Ireland had decided to conclude it, the Twenty-Six Counties rejected it?  I do not know would I be in order in moving that the Minister for External Affairs be surcharged for bringing this thing here.  Let us look at it in another light.  Take it that we have the right to reject this in our present position.</P>
+    </Speaker>
+    <P>We are going to agree now that we will use only pacific means in attempting to get anything more than we have, and that we are going solemnly to renounce war.  What is our present position?  A piece of an island with our industrial arm cut off, paying five and a quarter million pounds a year for the right to exist, and we are not to <Col N="340" /> look for more than that.  This Irish nation is to be bound by this repudiation of war, and is not to look for more than it has got already.  The Twenty-Six Counties have to go every second year abroad in order to borrow ten million pounds to pay this five and a quarter millions to John Bull, and we are not to look for any better national position than we have at present.  We are to go no further, and we are now solemnly to renounce war.  Parnell's statement that no man had a right to set bounds to the onward march of a nation is solemnly to be repudiated by the signing of an agreement that states that we are only to proceed by peaceful means against the British Empire. Speaking last night, the Minister for Defence said there was no fear that the Fianna Fáil Party would ever be a Government.  Doubtless, he has the idea that he can remain in power until he has this country driven into such a state of financial bankruptcy that there will be no other Government to come after him.  That is doubtless the idea that he has in his mind about that. I am definitely of opinion that we should make no move whatever to put our signature to the Kellogg Pact for the renunciation of war so long as it means that we are to go no further, that we are to be satisfied with what we have got, that we are to condemn our people to sweat and slave, and send 30,000 of our young men and women away every year in order that we may pay £5,000,000 a year to the British Empire.  We are to continue in that position and keep our people here as slaves and serfs in a country that is the fruitful mother of flocks and herds, in order that we may appear in a glorified Pact which means nothing only callousness.</P>
+    <Speaker pid="ThomasMullins" hpid="Mr. Mullins Mr. Mullins">
+      <NameTxt>Mr. Mullins</NameTxt>
+      <P>Listening to the debate in both Houses of the Oireachtas regarding this Pact for the renunciation of war, and reading the amount of comment indulged in by the Press, provincial and local here, one's mind goes back to those days in the end of 1921 when the treaty of surrender was signed in London, by which we were supposed to have achieved the sovereign independence of Ireland.  One remembers the <Col N="341" /> double column captions that then adorned the &ldquo;Irish Independent,&rdquo; the &ldquo;Cork Examiner,&rdquo; and other papers of ours.  One remembers the speeches made trying to drive down the throats of the people that though the Treaty was in the eyes of some of us black it should be in the eyes of most people absolutely white.  Contrasting that with the speeches made here in vindication of the Kellogg Pact for the renunciation of war, one is inclined to believe, and rightly so in my opinion, that the same campaign of camouflage that succeeded in deluding 90 per cent. of the country in 1921 in regard to the ultimate consequences of that treaty of surrender is being indulged in to-day to delude 90 per cent. of the people left in Ireland into the belief that this Pact is really what it is not.  Deputy Corry aroused a considerable amount of smiles from the Front Bench when he cast ridicule on the idea that we had no power or influence as regards this Pact for the renunciation of war.</P>
+      <P>It strikes me very forcibly that the very same attitude of mind, the very same mentality that is exemplified in the speeches of Deputies on the other side when there is some debate on the Department of External Affairs, the same attitude towards the status of this partitioned part of Ireland, is being taken up in the debate on this Kellogg Pact.  I will not for one moment support or vote for the ratification of the Pact, not because of the idea underlying the Pact&mdash;it is ideal if it could be carried out in practice&mdash;not because I have any objection to international peace, because I realise as well as everybody that in international peace lies the only guarantee for the future happiness and prosperity of this nation, but I propose to vote against the Pact because I believe it is a hypocritical gesture, and because those who initiated and who are promulgating it do not believe what they say, and their actions after its ratification in many Houses of Assembly since the signing of the Pact prove that, and because the hypocrisy of the speeches made with regard to this State's action on the Pact should not be allowed to pass without comment.</P>
+    </Speaker>
+    <P>There is no getting away from the <Col N="342" /> fact, and any honest person will admit it, that when it is stated here that the Irish Free State has been invited to sign the Pact for the renunciation of war, and when that is given big headings in the papers and a considerable amount of propaganda is made about it, the people of the country are apt to be deluded that this is a sovereign State.  Bluff again.  The Irish Free State received that invitation from the American Government to sign the Pact, not because the United States recognised us as a sovereign entity, not because we had achieved that position of pre-eminence in the world that Ministers speak of at election times, but because, in company with South Africa, Australia, New Zealand and Canada, as a member of the British Commonwealth of Nations, which is the British Empire; which, in effect, means that but for the fact we have a Dominion form of government under the Presidency of the British King, we certainly would not have got that invitation.  It is only because the British Government agreed that its Dominions should be invited to sign the Pact that we secured any invitation, and not because we are a sovereign State.</P>
+    <P>With regard to the Pact, I would not vote for its ratification in this Dáil or elsewhere.  The Pact contains in paragraph 2 of the Preamble the following words:&mdash;</P>
+    <P>&ldquo;Persuaded that the time has come when a frank renunciation of war as an instrument of national policy should be made to the end that the peaceful and friendly relations now existing between their peoples may be perpetuated.&rdquo;</P>
+    <P>That &ldquo;the peaceful and friendly relations now existing between their peoples may be perpetuated&rdquo;&mdash;that is to say, now existing between the Government of the Free State and Great Britain, presumably, as two of the contracting parties to this document for the renunciation of war.  Does the Government maintain that the &ldquo;peaceful and friendly&rdquo; relations existing between the peoples of Great Britain and Ireland are such that we could safely and with honour sign a Pact for the renunciation of war as an instrument of national policy, when it may <Col N="343" /> be the only means at our disposal in time to come to secure the sovereign independence of our nation?  Does the Minister maintain there is a state of peaceful and friendly relations between these peoples?  When Deputy Lemass mentioned last night that whether we liked it or not, and no matter how an attempt might be made to camouflage the position, there was a state of smothered war in this country, he was met with a cry of protest from Deputy O'Connell and other Deputies. There is no doubt about it there is a state of smothered war in this country, and that state of smothered war will always exist while this country is unfree. There is no doubt but that the attitude of any Irishman who believes in the sovereign independence of this nation, while that state of smothered war which results from subjection continues, is one which will not be the attitude contained in the Preamble to the Pact, that there are &ldquo;peaceful and friendly&rdquo; relations between our people and Great Britain.  When Deputy Lemass mentioned the fact that no matter how many pacts were ratified by this Assembly, and no matter how many gestures may be made in the belief that there are friendly relations existing, there is a body of people in this country who would not regard that as finally and legally binding on their conscience, he was more or less accused of exaggerating the position. No later than the day before yesterday, a newspaper was suppressed in this country for daring to print a small account of the Convention of the Irish Republican Army.</P>
+    <P>Article 2 of the Pact is an article that should certainly be studied very carefully by Deputies before they vote for its ratification&mdash;&ldquo;the solution of all disputes or conflicts of whatever nature or of whatever origin they may be... shall never be sought except by pacific means.&rdquo;  That is an Article in a Pact which this Dáil is asked to ratify which should not be ratified by it while this nation is unfree.  After all, we here do not represent the Irish nation; we here do not represent a unified country; we do not represent a national entity.  We represent a partitioned nation, partitioned <Col N="344" /> by one of the high contracting parties to this Treaty for the renunciation of war, partitioned in the interest of that high contracting party, which now, in conjunction with other high contracting parties, in her letter of acceptance of Mr. Kellogg's invitation to sign a Pact, states that in certain regions of the world where British interests must be safeguarded the terms of this Pact will not apply.  Somebody said last night that the Pact was a Pact to safeguard the interests of those who have against the interests of those who have not, and there is no doubt whatsoever that if you look around the world at the present moment you will see that the statement made here that there was a tremendous amount of hypocrisy attached to bringing into this House a proposal to ratify this instrument is a fact.  Take the high contracting parties at the present moment &mdash;the initial signatories to the Treaty for the renunciation of war&mdash;and what do we find?  Deputy Cassidy last night and Deputy Kennedy to-day quoted from the speech of Senator Reed in the American Senate in the debate on the Cruiser Bill, and that speech gave the bald, bare facts.  But there is no doubt whatsoever about it that of the nations which have been the original signatories to this Pact we find that every one of them is permeated with the same hypocrisy that is attached to the attempt to make the people of this country believe that, because this State was invited to sign this Pact, we have become a great moral force amongst the nations and are recognised as a sovereign, independent entity at Geneva.</P>
+    <P>The United States of America ratified the Pact and then passed a Cruiser Bill involving the construction of fifteen cruisers.  We have the Government of Great Britain accepting the principles of the Pact and approving of it, with reservations involving, I presume, Ireland, Egypt and India, and a few weeks later involving themselves in the Birkenhead naval construction programme, costing approximately £86,000,000.  The Government of France received the Pact with joy, and some time ago claimed that they were the real initiators of the idea, and the Government <Col N="345" /> of France, which proposed the renunciation of war as an instrument of national policy, is not renouncing and will not renounce war in the case of Alsace-Lorraine, will not renounce war as an instrument of national policy, as their standing army and reserves prove, in the occupation of the Rhineland&mdash;will not, for instance, renounce war when it comes to a question of the preservation of the French mastery of the air.  France does not carry out in practice the theory which she approved of in this Kellogg Pact for the renunciation of war.  Germany, which was disarmed under the Treaty of 1919, which was forced upon her at Versailles, is in the same position as the rest of them, supposed to be totally disarmed, supposed to be helpless, at the mercy of this capitalistic combine described as the allies, and Germany possesses a 9,000 tons cruiser which has made the best naval experts of the United States and Great Britain revise their ideas as to the strength and the possibility for recuperation of the nations defeated in the field.  Germany has signed the Pact with a great flourish, but is in the same position as the rest.</P>
+    <P>Then we come to another signatory &mdash;Japan.  Japan, one of the countries which agreed to the 5, 5, 3 ratio at the Washington Conference in 1922, still maintains her hold on the Chinese possessions which she acquired through war and through the weakness of the Chinese people.  All these people come along with flourishes, declaring that they will renounce war as an instrument of national policy, and yet when the only practical proposition was put up at Geneva for total disarmament and for the abolition of armies and navies, it was met with the combined propaganda of all these capitalistic Governments with statements to the effect that that was absurd.  There is no honesty in this Pact for the renunciation of war.  There is no real meaning attached to it; there is no real sincerity behind the proposals, and because of the hypocritical attitude of the Government of this State in signing a Pact which they know very well is only a Pact for keeping what they <Col N="346" /> have by the empires of the world, I for one will not vote for it.</P>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I ask the House to approach this question from a point of view which I hope will appeal to every member, and every section in it.  I ask the House to forget for a moment how we came into being, to forget the vexed constitutional questions that divide us, and to consider this question merely as an assembly of the elected representatives of the people, careful only that in whatsoever we do the dignity, the rights and the interests of that people shall be safeguarded and conserved.  It is in that spirit I would ask you to examine this instrument which has been styled &ldquo;a Treaty for the Renunciation of War.&rdquo;  I regret to say it is not the spirit manifested by the Minister when, with scarcely a word of justification or explanation, he flung this document disdainfully before us.</P>
+      <P>If this document be in fact what it holds itself out to be, a solemn Pact whereby war is for ever renounced, and if this House be in fact what Ministers have so often represented it to be, a sovereign assembly, whose every act is of serious import, because of the obligations which it may impose upon the people, then the attitude of the Government, whether expressed by the silence of the Minister for External Affairs, or in the inconsequent flippancies of the Minister for Defence, is unworthy of this House and of that document.  It is true that the silence of the one Minister is as little regarded in the House as are the inconsequences of the other.  We know how dearly in any discussion the Minister, whether he be the Tweedledum of Industry and Commerce or the Tweedledee of External Affairs, loves to lead the attack from behind.  For one whose sole armoury is misrepresentation such a position has important dialectical advantages; for in the security of the last word lies his hope of Parliamentary salvation, but, be that as it may, we are entitled on this occasion to demand more from the Minister.</P>
+    </Speaker>
+    <P>We are asked to ratify a treaty.  For any legislature that is a grave and solemn act.  By it a people is pledged by its honour to adhere to and, with other parties, jointly to assume responsibility <Col N="347" /> for the due fulfilment of a solemn compact.  Therefore ratification is not to be taken as a mere matter of form, void of all future obligation, as the Minister's viewpoint, so far as his silence expressed it, seems to be.  Nor is it to be yielded lightly, taking the document at its face value, without question and without consideration of all those known facts relevant to it which may, and in this particular instance assuredly do, vitiate everything that is therein written, as would seem to be the attitude of the leader of the Labour Party.</P>
+    <P>I know it may be urged, and indeed the Minister for Defence has gone far to suggest it, that our ratification of this document is of little consequence; that we are not in very deed a sovereign assembly; that we are but a throw-back to the Partition Parliament of 1920; that because our own liberties are fettered we are not in a position to ratify the Treaty unreservedly, and that whatever renunciations we may make under this Treaty will be nullified by our commitments under another document which, according to the Minister for Defence last night, has overriding force.</P>
+    <P>In dealing with the point that has been raised regarding Article 7 of the Treaty, the Minister for Defence, if I recollect him rightly, said it meant that if Article 7 be invoked this solemn Treaty for the renunciation of war will have to go by the board.  I know that the case might be put forward for treating this document lightly&mdash;&mdash;</P>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>The Minister for Defence never said that.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>I have not his exact words, but I have written down what I thought he said; the words are in quotation marks, and I use the phrase with the qualification &ldquo;if I recollect him rightly.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>You have not done so.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>Subject to that I make the point.  I know the case that can be advanced for treating this matter lightly, but I ask the House to repel and reject that case.  It may be true that this Assembly and this State <Col N="348" /> was engendered in evil days, in evil circumstances; but however equivocal its origin, I am not without hope that one day it will speak the accents of freedom and vindicate the rights and the liberties of a united nation.  That one day it should do that is the only justification that can be offered for the things that were done to bring it into, and to maintain it in existence.</P>
+      <P>There are others in this House, more numerous perhaps even than the members on these Benches, who are here because they cherish that hope. It is to them I would specially appeal. Do not do this thing lightly.  Remember at the very least you are pledging the honour and involving the dignity of this people, and that honour should not be pledged and that dignity should not be involved without due occasion and sufficient warrant.  And shall that honour be pledged and shall that dignity be compromised by subscribing to an open and manifest lie?  The document has been styled a Treaty for the Renunciation of War.  But has war been renounced by a single one of the greater Powers who are parties, high contracting parties, to that Treaty? Has it been renounced by the Power which in signing has reserved to itself the right to make the initial attack in a defensive war?  Has it been renounced by the Power which in signing has declared that there are certain regions&mdash;and well we know them, for we are one&mdash;where it will not tolerate interference?  Do these and the other Powers which have made similar reservations believe that their associates in that Treaty have renounced war?  The very reservations which they have made, the very statements of the Minister for Defence in this House, I believe, proclaim that they have not. And yet we are asked to take at its face value this document which practically every signatory has defaced and dishonoured in signing.</P>
+    </Speaker>
+    <P>As we are asked to be insincere, as we are asked to link ourselves and our people&mdash;and when I say ourselves I prefer not to think of the Constitution under which we exist; I prefer to think of the mandate which we hold&mdash;with this act of universal hypocrisy, would it not be a manlier and a nobler thing for this Assembly to say, taking into <Col N="349" /> account the reservations made by the high contracting parties to the Treaty, bearing in mind the honour and the dignity of this nation, and believing that treaties should be entered into solemnly and with every intention of honouring them fully, that we cannot, in view of the reservations that have been made, ratify this Treaty in the name of Dáil Eireann or of the Irish Free State, but in the name of the Irish people whom we represent.  And as we are asked to be insincere in our ratification of this Treaty we are also urged to be imprudent, and that, too, by the leader of the Labour Party.  Sign, he tells us, despite the reservations.  We can ignore them; they are not part of the compact.  One might as well say that a codicil is not part of a will.</P>
+    <Speaker pid="TomasOConnell" hpid="Mr. T.J. O'Connell Mr. T.J. O'Connell">
+      <NameTxt>Mr. T.J. O'Connell</NameTxt>
+      <P>A codicil is written into a will.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>And it is signed.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>And these reservations of Sir Austen Chamberlain are signed by Sir Austen Chamberlain.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>And we are agreeing to the will without any codicil.</P>
+    </Speaker>
+    <Speaker pid="SeanMaxEntee" hpid="Mr. MacEntee Mr. MacEntee">
+      <NameTxt>Mr. MacEntee</NameTxt>
+      <P>These reservations made by every one of these signatories are just as truly part of that Treaty as if they were all inscribed therein, and will have the same binding effect upon every signatory.  More so, in fact, because of the manner in which they have been emphasised, and I contend that every signatory, when he adheres to that Pact, by that adherence accepts as binding every one of the reservations made by the associates, and I would ask you to consider that in relation to our own particular position here.  Under another Treaty we are bound to yield certain facilities, for defensive purposes merely, we are told, to another Power.  By another Treaty we have been made, for the moment at any rate, to recognise that we are one of those regions with which his Majesty's Government has made it clear in the past, it cannot suffer interference. We are one of the people whose protection against attack is to the British Empire a measure of selfdefence. In the words of the Minister, <Col N="350" /> their protection is a measure of selfdefence, he said last night, referring to these regions.  He went on to say that it was an expression of interest in our welfare.  It reminded me of the old song we used to sing some years ago:</P>
+      <P>Old Brittania loves us still,</P>
+      <P>Whack fol de diddle di do.</P>
+      <P>It was a repetition of that phrase&mdash;I am not going to say this time without sarcasm, this time without irony or, I am sure, this time without cynicism, because the Minister for Defence, or any other Minister who has a record in national affairs, who has at any time espoused the cause of Irish independence, knows in his heart that this desire of Great Britain to safeguard us against attack is not a measure of interest in our welfare, but is, on the contrary, a desire to interfere with our legitimate aspirations and to prevent our full development politically and economically.</P>
+      <P>I say that when we endorse and ratify this Pact we will be endorsing and accepting once again the humiliating conditions of Article 7 of the Treaty, but this time because there is no coercion upon us to ratify this document we will be accepting and endorsing the conditions of Article 7 of our own free will, of our own volition and without any coercion whatsoever.  I suggest, for prudent motives and for no other, we should not lightly accept the proposition of the Minister for External Affairs, that we should reject his proposition to ratify this Treaty and say as we are not a free agent in this matter, and as we are not a free agent under Article 7 of the Treaty, as we might in time of war by virtue of Article 7 of the Treaty be compelled to yield to belligerents facilities which would involve us in war, then we cannot sign this Treaty without any intention or power of keeping it.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>There are one or two points I want to make in reference to this Pact.  My view of this is that it is an attempt to build up a solid organisation of world capitalism with a view to continuing the exploitation of the weak.  I am surprised to find any Irishman advocating the abolition of <Col N="351" /> war in view of the position we occupy at present and in view of the historical fact that war has been the only instrument that has served this nation in the past.  I am sorry also to find the leader of the Labour Party associating himself with this appeal to sign this hypocritical Pact.</P>
+    </Speaker>
+    <Speaker pid="TomasOConnell" hpid="Mr. T.J. O'Connell Mr. T.J. O'Connell">
+      <NameTxt>Mr. T.J. O'Connell</NameTxt>
+      <P>Do you know any country in the world where Labour advocates war, and you speak as an ex-Labour man here?</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>Yes, I know that the greatest leader of all Socialist thought advocates war.</P>
+    </Speaker>
+    <Speaker pid="RichardJamesMulcahy" hpid="General Mulcahy General Mulcahy">
+      <NameTxt>General Mulcahy</NameTxt>
+      <P>Who is he?</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>War of itself is not an evil thing.  Those who believe in justice should be prepared to fight for it. I might even be prepared to believe that the people who are responsible for this Pact are genuinely desirous of putting an end to war, but why? Because evolution has brought us to the state when it is no longer safe for a small group who have during the last century controlled the destinies of the people who have made war a profession and brought it into being whenever they found it necessary.  They are beginning to get afraid now.  The conscience and intelligence of the common people are wakening up, and there is that spirit of international brotherhood spreading throughout the world.</P>
+    </Speaker>
+    <P>When it is recognised that the wealth of the world is controlled by something like five per cent. and that the other ninety-five per cent. of the people have been used in the interests of that five per cent. all down to the last couple of centuries I think we can find a very good reason for believing that there is some genuine desire on the part of those high contracting parties to find some other means of continuing their exploitation.  I do say that so far as the common people of this and every other country are concerned the abolition of war will not remedy their lot.  During wars there is always a gambling chance that the under dog may come on top.  If we are to assist in our present degraded <Col N="352" /> national position, our deplorable economic position also, in solidifying the present economic system which this Pact aims at, solidifying the unchristian system which holds the common people of the world in subjection then we are certainly playing the parts of cowards.  I think it was Deputy Lemass who pointed out here last night that at the recent Geneva conference the Soviet delegates called the bluff of the other Powers when they suggested a very simple but obviously genuine method of putting an end to war by simply abolishing arms.  We know the reception that proposal got.  I think it is sufficient to indicate the amount of sincerity which animates these people. We heard the Minister for Defence say last night that when a solemn declaration was made by any State that it should be taken for granted that the solemn declaration is intended to be kept by those who make it.  What about the solemn declaration that the Minister himself and those associated with him made in January 1919 in the name of the people of this State?  In the name of the people of all Ireland there was a solemn declaration and an oath was taken to uphold that declaration.</P>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Did the Deputy say January 1919?</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>January 1919, when the Minister&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I know what the Deputy is referring to quite well. 1922 is bad enough, but 1919!  Let us keep to the Kellogg Pact.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>Are we to take it that the lapse of time obviates the necessity for keeping to those declarations?</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>Lapse of time affects relevancy.  That is my position. I am not concerned with declarations.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>I hold that was the most solemn declaration ever made in the name of the Irish people.  Because of that declaration many Irishmen are in their graves to-day and the Minister who made that statement last night was one who contributed to that.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The Deputy must go on to the Pact.</P>
+    </Speaker>
+    <Col N="353" />
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>I simply want to put the point that I believe, as a representative who considers the viewpoint of the downtrodden masses of humanity, that the instrument of war, revolution and upheaval is, at least for them, of more value than it can possibly be for the people who occupy the places of power.  By organised and intelligent action the majority of the people of the world, who are at present hewers of wood and drawers of water, can come into their own.  They cannot come into their own without having resource to war, and I say it is not a noble doctrine for an unfree people to preach the abolition of war.  Let us take, for instance, the unemployed in this city. I have visited many of their homes recently, and I have told some of them that sooner than continue to occupy their position I would prefer to go out and die on the streets, and I am not more courageous than any other man, not one bit more courageous.  I think it is a nobler thing to die fighting than to die starving, and there are millions of people throughout the world who are being compelled, because of the system which these high contracting powers have manoeuvred the world into, because of the power which they have acquired, are being condemned yearly to slow, starving deaths.  I am surprised to find the Cumann na nGaedheal Party leaders advocating the signing of this Pact, because it will take away from them their main plank.  I wonder do the backbenchers of the Cumann na nGaedheal Party recognise that at future elections they cannot go before the people and say if you do not return us to power you are risking the putting into effect of this threat of immediate and terrible war.  England holds that threat over this country, and the Fianna Fáil Party and other parties may decide to call her bluff.  It is by those threats, as we all know, that the present Government occupy the position in which they are.</P>
+    </Speaker>
+    <P>Paragraph 3 of this Pact states: &ldquo;All changes in their relations with one another should be sought only by pacific means and be the result of a peaceful and orderly process.&rdquo;  If the people of this country had been allowed to indicate their national aspirations and desires by a peaceful and orderly <Col N="354" /> process we would have a real national Government in control.  It is not by a peaceful and orderly process that we have the present Government in power, but under the threat of immediate and terrible war.  That threat has served you well in the past, and I wonder why the Government Party have now made up their minds to discard it.  There is another reason why I, personally, would not like to see, or why the section of the people we speak for would not like to see, the people of Ireland indicating their desire to end war.  I believe if there is any people on earth who should endeavour to have that instrument remain until they get some of their own back it is this people.  Those who live by the sword should perish by it.  I want to see that those who have lived by the sword, in so far as ruling this country is concerned, shall perish by it. The Ministers may smile.</P>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>It is more than a smile at that.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>Paradoxical as it may seem, I am as desirous of real peace as anybody, but while the present condition obtains, there will be no peace. It would be merely trying to patch up something which is impossible to remedy.  We should hold in our hands all the weapons we can and be ready to use them if and when circumstances dictate.  We should not limit the means by which we will be able to win out to ultimate freedom.  We have, as I said, our degraded national position to remedy.  We have our economic position to remedy.  The high contracting parties are now seeking for means of holding the gains which they have got other than war.  It is, as I said, because they are beginning to get afraid of war.  They are beginning to fear that in the event of another world upheaval other countries may do what Russia did in 1917.  They do not know which of their armies may mutiny, and deal with the people who sent them to slaughter while they themselves were fattening and battening on the victims at home.  That is the real cause of this so-called Peace Pact, the recognition by these astute diplomats that there is that growing consciousness on the part of the common people.  The international brotherhood of man is becoming <Col N="355" /> a real live force in the world, and no more will we find the millions parading behind bands and banners recognising or believing in their hearts that they are doing noble deeds.  Whilst we must admit that every man who goes into war is necessarily a courageous man and a man who deserves honour and congratulations, nevertheless, we have as a result of the last world upheaval a recognition broadcast throughout the world by the dullest of minds that they were simply used as cannon fodder in the interests of the few, and that growing discontent and disillusionment will have its repercussions for the good of the common people.  That is what these world diplomats fear, and personally I hope that this House will refuse to ratify that Pact or to assist in any way in solidifying this inhuman system of society, but rather to keep it in its present state of insecurity, so that when the next upheaval comes, as it will and must come, I hope that the people will be ready to grasp that opportunity and use it in their own interests.</P>
+    </Speaker>
+    <Speaker pid="RichardSidneyAnthony" hpid="Mr. Anthony Mr. Anthony">
+      <NameTxt>Mr. Anthony</NameTxt>
+      <P>I would not rise to speak on this motion were it not that I am urged to do so by the fact that I have heard more nonsense spoken in a serious way on this motion than I have ever listened to in my life.  I think a proper setting for the speech of the last Deputy would be Hyde Park on a Sunday morning and the notes&mdash;the tootle-tootle&mdash;of a concertina. So far as the Labour policy is concerned&mdash;and when I say Labour policy, I refer not alone to the Labour policy and programme in this country, but the Labour policy and programme throughout the world&mdash;it is opposed to war.  We have heard the terms &ldquo;cannon fodder&rdquo; used.  Who are the people who suffer in all these great wars?  The ordinary common people. The ordinary common people are made food for cannon.  I was astonished to hear a member of any party claiming to be democratic saying that war is an eminently desirable thing, because at some time or other the under dog is going to come on top.  In my view, and in the view of any other person who has given even a fraction of <Col N="356" /> thought to war, war is most undesirable. I for one have always attempted to cultivate what is the peace mind.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>On the bridge at Cork.</P>
+    </Speaker>
+    <Speaker pid="RichardSidneyAnthony" hpid="Mr. Anthony Mr. Anthony">
+      <NameTxt>Mr. Anthony</NameTxt>
+      <P>I never heard more utter piffle spoken than on this motion.  We heard talk that universal brotherhood is on the increase.  Universal brotherhood means &ldquo;Love thy neighbour as thyself,&rdquo; but in the next breath we have war advocated.  Universal brotherhood, international love and all the rest of it!  I think the sooner we get away from that kind of piffle the better.  I am prepared to accept this motion.  All I am asked to say is that Dáil Eireann approves of the Treaty for the Renunciation of War. So far as reservations are concerned, we just approve of that principle and no more.  I cannot understand the attitude of mind of people who proclaim the fact that they are democrats, democrats with a democratic programme, and who at the same time advocate war.  We heard the lurid and blood-curdling story from Deputy O'Kelly about the horrors that would ensue as a result of war with America. Does anyone imagine that this little country is going to war with England, America, or any other big Power?  All these deductions were drawn from the fact that we might at some time consider attacking America or England. There may be a humorous side to this. The Minister for Defence was inclined to deal with it in a flippant manner.</P>
+    </Speaker>
+    <P>There is, however, a much more serious side to be considered.  There is, for instance, the evil effect on the young people of the country produced by this class of speech and this type of literature.  We know what is going on in the country at present.  There are boys from sixteen to eighteen&mdash;impressionable youths who are carried away by this kind of clap-trap.  I am astonished that a man of the intelligence and education of Deputy O'Kelly should preach such stuff as that, which is absorbed by young people.  Let us see what is happening in the country. We know that there is intimidation practised here and there up and down the country.  I say that this is not a useful contribution to national politics at this time of day.  I appeal to Deputy <Col N="357" /> O'Kelly and others who should have exercised more common sense, as a result of their sad experiences of past years, to cease preaching this doctrine. We have had enough trouble arising out of armed revolutions.  I am opposed to the Government on many things, but I support them in this, and I suggest to those on the Fianna Fáil Benches that it is not useful, but rather does evil, to indulge in this class of oratory, either in this House or outside it.</P>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I am sorry that Deputy MacEntee has left the House, as he had the advantage this time of the dialectical opportunity of having the last word, but he did not make much use of it.  I want to congratulate him on one thing.  It has been in my mind to do so for a long time.  I have seen him&mdash; I use the word advisedly&mdash;deliver many speeches in this House, and I have been waiting for many months to see him, when turning over his notes, missing even one page in the hope that if he did so he would show some initiative, skill, and elasticity in trying to get away from the uninterrupted course of dulness which his speeches always display. A man who showed his capacity for changing his mind in one day with regard to politics in this country should have the same adaptability for changing his style in the middle of a debate. This should have been a serious debate. We might not have been invited to take part in the Kellogg Pact at all.  We were not invited in the first instance because we are not one of the Great Powers.  We were invited afterwards. If this debate is promulgated far and wide there will be very few other international agreements which we will be asked to sign.  It is a notable thing in the theatrical world that the man who reaches the greatest heights in tragedy always wants to play a comic rôle.  Why should any of the comedians of this House want to enter into serious debate here, and why should Deputy Mullins, Deputy Cooney and Deputy Corry insist on having their say on an international affair like this?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Mr. Mullins Mr. Mullins">
+      <NameTxt>Mr. Mullins</NameTxt>
+      <P>On a point of order. Does the Minister mean to insinuate that Deputy Mullins and Deputy Corry <Col N="358" /> were not duly elected by the people, and have not as much right as the Minister to speak here?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>When that question arises I will answer it.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Mr. Mullins Mr. Mullins">
+      <NameTxt>Mr. Mullins</NameTxt>
+      <P>I think A Chinn Chomhairle the Minister should not be allowed to make a remark of that nature.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I thought that Deputy Mullins was rising to a point of order.  If he puts a point to me and not to the Minister, I will certainly resolve it.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Mr. Mullins Mr. Mullins">
+      <NameTxt>Mr. Mullins</NameTxt>
+      <P>Is the Minister entitled to insinuate, as he has done, in his statement that Deputy Corry and Deputy Mullins are not entitled to speak in this House, were not duly elected by the people, and have not as much right to speak as he has?</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>I gathered no such insinuation from what the Minister said.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Mr. Mullins Mr. Mullins">
+      <NameTxt>Mr. Mullins</NameTxt>
+      <P>That is what he said.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>No, I think he said that Deputy Mullins and Deputy Corry were comedians.  I think that that remark should be withdrawn.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Very well.  I withdraw the expression, but I express myself in this way.  It is one thing to talk uncouthly and to be uncouth, and to have a capacity for making a faux pas.  The evil effect of that is a small thing if confined to our own domestic politics.  It is, however, another thing, once we get into the wider spheres of international matters, to have such utterances reported as those of responsible people.  There should be some responsibility upon leaders of parties as to who are to be allowed to speak on such motions.  What have we had here for the last two days?  We have had a definite statement from Deputy Mullins that there is no honesty in this proposal, and that there is no sincerity in this Pact.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Mr. Mullins Mr. Mullins">
+      <NameTxt>Mr. Mullins</NameTxt>
+      <P>Correct.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Let us apply that proposition to the people who put forward <Col N="359" /> these proposals and who invited us to sign the Pact.  Does Deputy Mullins think that it is a tactful thing; does he think that even honesty compels him to be so uncouth as to say a thing like that?</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Mr. Mullins Mr. Mullins">
+      <NameTxt>Mr. Mullins</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>took the Chair.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Will that lead to our being regarded as responsible people in international affairs when from the depths of Deputy Mullins's wisdom, aided by the wisdom which Deputy Corry always brings to bear on any subject of this kind, we are told that there is no sincerity or honesty in this Pact, that all the people behind it, that all the people who are backing the Governments behind it, are without honesty or sincerity in putting forward this proposal?  Is this House to be demeaned by having these statements go forth as the considered view of any large section of the people, that when an American statesman seeks to crown his life's work by bringing forward something which brings the ideal of world peace before the nations and which says: &ldquo;We are convinced that all changes in relation between peoples should be sought only by pacific means and be the result of a peaceful and orderly process,&rdquo; that the man who brings that forward and the American Administration who support him are to be condemned as hypocrites?</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>I suggest that the Minister should hold a private meeting of his Party, and he will get 90 per cent. of his supporters to tell him he is &ldquo;codding.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>That is as futile as anything which the Deputy has previously said, and that is saying a great deal.  It is almost impossible to carry on a debate under conditions such as those prevailing here for the last few days.  I wish we had as clean consciences about everything, that we can afford to have people standing up here and talking about the oppression of other nations of the world, that we can point the finger of scorn at America, as one Deputy said in regard to Nicaragua, <Col N="360" /> or like Deputy Mullins can roll off references to Alsace-Lorraine and other countries.  Is that supposed to be the attitude towards a pact which is put forward honestly?</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>Where is your proof of honesty?</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Would the Deputy allow the Minister to proceed?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>We were told yesterday by a particular Senator that we were not to be allowed to have peace. We are told to-day by Deputy Cooney that we are not going to have any pact in regard to peace until international capitalism has been attacked. What is the Fianna Fáil policy in all this matter?  We are not going to join in a pact of peace with people who are at present engaged in oppressing small nationalities.</P>
+      <P>Deputy Cooney takes that a step further.  I do not know whether his Party walks in step with him, but he says that we will have nothing to do with peace pacts until international capitalism and the present state of anti-Christian civilisation have been rectified.  It is a big programme.  At the same time, we would like a guaranteed neutrality in this country. That is to be guaranteed according to Deputy Little, with whom it has become a fixed idea, by England, America, Germany and France, all four countries which have been criticised by his own Party as being guilty of the oppression of small nations.  Thus though we will not join in a pact with them we will accept a declaration of guaranteed neutrality from the nations that are supposed to be oppressing small nationalities.  We will postpone that guaranteed neutrality until such time as these people have cleaned their hands and have satisfied our consciences that they are a clean people and that we can respect neutrality guaranteed by them.</P>
+    </Speaker>
+    <P>Where does the policy, if there is one, begin and end with Fianna Fáil? We want war.  We will not sign a pact of peace, on the one hand, because it is hypocritical and the people who are <Col N="361" /> asking us to sign do not mean peace but want war.  On the other hand, it is said that if we do sign we will be bound to peace, whereas we, in fact, want war.  That is not very logical. We will not join with people who want war because we know that when they ask for peace they want war.  Then we shift our balance and say: &ldquo;Why should we sign for peace because &lsquo;we ourselves&rsquo;&mdash;Deputy O'Kelly being the personification of &lsquo;we ourselves&rsquo;'&mdash; want war.&rdquo;  Deputy O'Kelly wants war, with this reservation: &ldquo;But oh, Lord, not in our time.&rdquo;  We will not sign anything that will prevent somebody junior to Deputy O'Kelly having the war which he wants against his secular enemies.  I wonder who are his spiritual enemies.  Why this outburst of warlike feeling which has surged to the top in regard to Fianna Fáil in the few days?  We will not enter into a hypocritical pact about peace when we want war.  We must have war.</P>
+    <Speaker pid="ThomasMullins" hpid="Mr. Mullins Mr. Mullins">
+      <NameTxt>Mr. Mullins</NameTxt>
+      <P>Does the Minister suggest that every nation which does not accept the Pact wants war?</P>
+    </Speaker>
+    <Speaker pid="PatrickJLittle" hpid="Mr. Little Mr. Little">
+      <NameTxt>Mr. Little</NameTxt>
+      <P>I hate to interrupt, but I think it is unfortunate that Deputy O'Kelly is not here because I do not think he would have allowed that misrepresentation of his attitude towards peace and war.  He stated clearly that he was strongly in favour of peace, and he went on to explain why it was that war conditions are there and how they must arise.  It is unfortunate that he is not here to contradict that misrepresentation.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I regret the reasons for Deputy O'Kelly's absence, but I do not believe that I am misrepresenting him.  He said he wanted war and that it was inevitable under present circumstances.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Two very different statements.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Under present circumstances he wanted it.  We are dealing with this Pact in the light of present circumstances.  What Deputy Little wants I do not know.  He made the surprising discovery that we have a tremendous advantage in having this <Col N="362" /> country entirely surrounded by water. Yesterday I listened to a Fianna Fáil Senator declaring that what was at stake in the Pact was the control of the seas, that, in fact, our greatest danger lay in the fact that we were entirely surrounded by water.  Deputy Little has a different point of view and he has again got out on the point of guaranteed neutrality.  Belgium had its neutrality guaranteed.  He realises that that is not a good example with regard to the virtue of having neutrality guaranteed as an international policy.  We are now switched on to another country.  Would he generalise again from Switzerland and say that it is a great advantage to have a country entirely surrounded by land?  And when he does make both generalisations what has he advanced for or against our acceptance of this Pact?  He said that we were going to be merged in another big country if we signed this Pact.  How, by signing this Pact, do we bring ourselves more closely up against another big war than if we do not sign?  He added the utter futility that in the next big war the Shannon Scheme would suffer.  There is a word which I have been forbidden already to use in this debate but I am at a less for a better word to describe a man who puts that forward seriously in a discussion on a pact which says that people are going to renounce any recourse to war and are going to seek a settlement of any disputes that may arise through pacific means only.  Let us assume that the Pact is not worth anything and that we want war. There are many mixed minds in the Fianna Fáil Party in regard to international affairs.  How by signing something which is, at least, called a peace pact, do we bring ourselves nearer or more closely into association with the next big war than if we stood out? Deputy Little complained that we did not sign as one of the principal signatories. Neither did we.  An invitation was not addressed to us in the first instance.  We are not one of the six great Powers and, according to the views expressed here by most people, we do not want to be one of those Powers.  We have no ambitions that way.  Is that any reason for demeaning ourselves in this Assembly, that we do <Col N="363" /> not rank in size of territory or strength of armaments as one of the six great Powers and that we were not invited to sign in the first instance?</P>
+      <P>Deputy Corry, if I may treat him seriously for a minute, wanted to know what was the force and what was the use of carrying on this discussion when the White Paper before us announced that, amongst others, his Majesty the King of Great Britain and Ireland and the British Dominions beyond the Seas had announced his desire to sign.  Does the Deputy know the difference between signing and ratifying a treaty?  Does he know we are not discussing the signature of the Treaty?  Does he know that what we are discussing is ratification of the Treaty?  Has he any idea about this matter at all?</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>I have a very good idea, and that is, that when a Minister occupies the time of the House and wastes the money of this nation, or this piece of an island rather, in bringing up a thing like that, which is absolutely futile, and which he knows is a huge joke, whilst our people are starving at home, I know there is a place for him, and it is not here.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>The Deputy has described that as a very good idea that he has.  It is probably one of the best that he has ever had.  I hope there is nobody else in the House under the same delusion in regard to this as Deputy Corry.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>Will the King ratify for us?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>We are not discussing the signature, but ratification.  The signature was affixed to this by President Cosgrave, acting under full power issued to him on the advice of the Executive Council of this State&mdash; a separate signature and separate advice tendered, and a separate reaction to that advice.  Ratification is being discussed now.  I am asked why I have not laid on the Table of the House all the documents in connection with this.  The documents passing as between the American Minister and <Col N="364" /> myself, four in all, have been published fully and accurately, and are going to appear on the records of the Seanad proceedings.  The rest of the documents are confidential.  I was prepared, in answer to intelligent questioning&mdash;and intelligent questioning could have done a great deal, but there was no intelligent questioning&mdash; to give the gist of all the documents. I was prepared to state the results, prepared to say where we were on any points raised.  The documents themselves are confidential and are not to be quoted, and will not be quoted.  I could state the result of the documents. I indicated that.  If people have suspicions as to anything that has passed between myself and some member of the British Cabinet, I only wanted to have them raised so that I should have some chance of dissipating suspicions that might be about.  There was a lot of rambling talk about international capitalism; of an island being surrounded by water; and about Article 7 of the Treaty, and the Covenant of the League of Nations; nothing relevant to the documents that passed between myself and anybody in Great Britain.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>I asked one question relevant to the documents&mdash;I do not know whether it was intelligent or not &mdash;perhaps the Minister will answer it: If in the original communication which he received from the British Government in connection with the Pact there was any reference to the reservations afterwards mentioned in the British note to the United States?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I would not like to say with regard to the first, but there was mention in a letter received by me from the British Government with regard to reservations, and the answer that went was that the reservations were their own, and we had nothing to do with them.  We were signing the Treaty unreservedly, and the only reservations, if they could be called reservations, were the two things contained in the letter which the Minister for Defence read last night, realising that there was nothing inconsistent in the Pact with any of our commitments <Col N="365" /> under the Covenant of the League of Nations&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="" hpid="A Deputy A Deputy">
+      <NameTxt>A Deputy</NameTxt>
+      <P>Article 7 of the Treaty?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Article 7 does not come in&mdash;and realising that our right to self-defence was not impugned, we accepted unreservedly the Kellogg Pact, and what our people are being asked to ratify is the Kellogg Pact as it stands on the White Paper, no reservations and no interpretations having anything to do with it as far as we are concerned.  That was the one question that was asked&mdash;I did not know that it had been asked in that form.  Is there anything else in the way of suspicion that occurs to anybody on the other side with regard to the letters that passed between us and the British Government&mdash;I would like to dissipate any suspicion there might be&mdash;or are people going to reserve to themselves the right of suspicion afterwards when they cannot be answered, instead of putting it forward here in the place where they should put it forward for answer?  Why should I lay documents on the Table which are confidential? The very attitude of Fianna Fáil the other day, when the Minister for Finance announced that the people of the country had to bear no burden on account of the settlement in the Wigg and Cochrane case, shows quite clearly that confidential documents relating to constitutional matters and showing progress in constitutional matters, should not ever be put before them. One Deputy could not understand how the Minister for Finance had been able to get a good settlement of the Wigg and Cochrane case.  He could so little understand it, that he had to put in the innuendo: &ldquo;If you got successfully through this, what was the <i>quid pro quo?&rdquo;</i></P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Was it the progress of retrogression in constitutional matters?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>In the Wigg and Cochrane case?  Will the Deputy wait?  A document has been promised <Col N="366" /> in connection with that, and there will be a Bill to implement it.  Can he not wait and argue the matter then?  At any rate, when there is definite progress made we have that attitude of mind.  There may be letters passing between the British Secretary of State and some members of this Government. When letters are published we have all this diseased suspicion breaking out in the Fianna Fáil Party.  There are questions raised as to whether that marks a little advance; and where was the balancing and retrogression?  It is clear that to the inferior minds of the Fianna Fáil Party you cannot make progress at all.  If you do make some progress you must go backward in some other way.</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>Will the Minister inform us&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I will not inform Deputy Corry of anything, as he is incapable of receiving anything.</P>
+    </Speaker>
+    <Speaker pid="ThomasMullins" hpid="Mr. Mullins Mr. Mullins">
+      <NameTxt>Mr. Mullins</NameTxt>
+      <P>The Minister is so used to giving away things that we were astonished that he got something for nothing this time.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>It is not a question of being astonished.  The Fianna Fáil Party have one big nought.  This is not a question of astonishment, Deputy Mullins should remember.  It is a question of disbelief and anger, actual anger; not any decent attitude at a question being settled satisfactorily, but anger at the thought that there was no political advantage to be gained out of the Minister for Finance having had to give nothing for something. No progress could be made, as progress is being made, on points that arise, if every document had to be laid on the Table here, and the suspicions and distrusts of the Fianna Fáil Party brought to bear upon them, these suspicions filtering out across to the people on the other side, and arousing their suspicions and their distortions as to what was happening.</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>What about the confidential documents?  The Minister asks <Col N="367" /> are there any other questions.  I should like to ask, would he be prepared now to disclose any of the confidential documents between his Government&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I am never prepared to break confidence.</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>That would be giving the game away.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I certainly shall look forward to the day when the Fianna Fáil Party comes in and decides to break confidence and publish these particular confidential documents.  I shall look forward with great pleasure to that day&mdash;to the results as shown&mdash; although I shall not take much pleasure in their action.  Deputy O'Kelly, Deputy Lemass and others spoke of Article 7, or some Article of the Constitution. The Minister for Defence pointed out that the point which had been made was as to rights which Great Britain, under the Treaty, was guaranteed here during time of war.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>And peace.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>In time of peace, it says, &ldquo;Such facilities as are set out or may be otherwise agreed upon.&rdquo;  In other words, there was the idea of a settlement of that kind of thing set out in the Treaty which the Deputies apparently do not know.  As far as the state of war side is concerned, there is a certain provision in the Treaty.  The Minister for Defence pointed out that this seeks to avoid war coming about, and therefore seeks to avoid the circumstances which would enable that annexe or Article of the Treaty to have effect.  Deputies Lemass and O'Kelly will not have it. How are we to any degree stereotyping things which people might regard as deficiencies in the Treaty by signing this document?  Not in one single particular.  This has no effect whatever on the Treaty, except that, in so far as it has honesty and sincerity behind it, it means that there is going to be less resort to war in the future than formerly.  If that happens the portions of the Treaty that depend upon a state of war are less likely to come into operation.  That seems to be regarded <Col N="368" /> as a bad thing, and we are not to sign a Treaty which will try to prevent war coming about.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Will the Minister state that the facilities in Article 7 in the Treaty will not be given to Great Britain in any war which may arise in the circumstances indicated in the British reservations?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>We have nothing to do with the British reservations with regard to this.  This House is not regarding British reservations or interpretations.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Our obligations under the Pact?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Under the Kellogg Pact?  Our obligations are that we will not resort to war.  That is simply the obligation under the Pact.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That is the point.  If I might explain.  We signed the Pact, and by doing so give that undertaking that we will not resort to war.  But, by the Treaty of 1921, we will be compelled to give military assistance to Great Britain in any war that Great Britain may embark upon.  Therefore, the British reservations are a matter of direct importance to us, because Great Britain excludes from the Pact wars arising under certain circumstances in certain regions.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>We do not.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Is that made clear to Great Britain?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>It is clear to this House.  What this House is signing is the Pact as it stands with no reservations and no interpretations other than those contained in my letter to the American Minister, that we believe that there is nothing inconsistent as between this Pact and the Covenant of the League of Nations, and that there is nothing which takes away our right of self-defence.  That is the sole interpretation, if it can be called an interpretation, with which we sign.  If the British have certain reservations and go to war under conditions which we think break this Treaty, then this Kellogg Pact <Col N="369" /> lapses according to the document itself:&mdash;</P>
+      <P>...any signatory Power which shall hereafter seek to promote its natural interests by resort to war should be denied the benefits furnished by this Treaty...</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That is not the point. The point is, if Great Britain breaks the Pact, do we stand by the Pact or stand by the Treaty of 1921?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Obviously, if one signatory to the Kellogg Pact breaks the Pact the Pact has disappeared and no longer applies to this country. Article 7 has, therefore, no connection. We are not doing anything with regard to Article 7.  We are dealing merely with the Kellogg Pact.  We are asking the people simply to sign what is before them.  We are asking the people to accept the statement:&mdash;</P>
+      <P>...that the time has come when a frank renunciation of war as an instrument of national policy should be made to the end that the peaceful and friendly relations now existing between their peoples may be perpetuated; convinced that all changes in their relations with one another should be sought only by pacific means and be the result of a peaceful and orderly process...</P>
+      <P>That is the point I think that Deputy Anthony was bringing out in opposition to Deputy Cooney.  Nobody wants to stereotype the present condition of things.  Some of the profound international philosophers of the Fianna Fáil Party have set this combination of the &ldquo;haves&rdquo; against the &ldquo;have-nots.&rdquo; Where does this stereotype the conditions in favour of the &ldquo;haves&rdquo; as against the &ldquo;have-nots?&rdquo;  How does it?  Is it the idea of Deputy Corry, Deputy Cooney and Deputy Mullins that there can only be progress against the &ldquo;haves&rdquo; by means of war, that they set out that course, and that that is the only way in which they will seek&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>Is not that clear to any man of common sense?</P>
+    </Speaker>
+    <Col N="370" />
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>If it could be shown that there was any stereotyping of present conditions, then of course people would be ill-advised to sign this.  How far is the rectification of any injustices that remain in the world, from the point of view of nationality, going to be blocked by the signature of this?  Supposing as a result of this there is some growth of the peaceful mind in the world, is there not a better chance of the pressure of decent, well-informed public opinion in the world getting injustices put right?  Is there not a better chance of that under conditions where decent, well-informed, educated people of the world can have their say and not the people that Deputy Cooney referred to who live and batten on munitions and armaments?</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>Who have made war a profession.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Supposing there is a growth of the peace mind, and the professional war-makers are not in the ascendant, is it going to be easier for oppressed people to get rid of oppressors or not?</P>
+    </Speaker>
+    <Speaker pid="EamonnCooney" hpid="Mr. Cooney Mr. Cooney">
+      <NameTxt>Mr. Cooney</NameTxt>
+      <P>There will be no change of heart.</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>That is Deputy Kennedy's suggestion.  Let us seek to remove the causes of war.  One of the causes of war, I gather, is forcing unwilling Indians to wear cotton goods. Let us remove that cause, amongst other equally learned ones, and we will stop war better than by this method. I have heard four resolutions suggested. One in the Seanad was that we should not sign this until we had tilled more land.  Then we had the folly of Deputy Corry shown here, and we had the resolution that Deputy Little suggested and one that Deputy Kennedy suggested.  I should like to have the four of them as they were stated and put them together as indicating the collective wisdom of Fianna Fáil in this whole international matter.</P>
+    </Speaker>
+    <Speaker pid="MartinJohnCorry" hpid="Mr. Corry Mr. Corry">
+      <NameTxt>Mr. Corry</NameTxt>
+      <P>Will the Minister tell us in what manner he is making an advance  <Col N="371" /> from the present position, or does he accept the present position of the Twenty-six Counties?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>This will be ratified. The instrument of ratification has already been signed.  It has been done provisionally.  It has been sent across to Washington, and will be presented when this House marks its approval, if it does mark its approval, by passing this resolution.  There are certain interesting constitutional developments that have been marked in this whole Kellogg Pact.  There has been no attention given to them.  There was attention given to them in the Seanad, because certain discussions and points that were elaborated there showed just where advance had been made.  The advance is that there has been independent negotiations as between ourselves and the United States Government over this matter.  There has been a separate and independent signature given by us to this Treaty, as I said before, with full power given to the President on the advice of the Executive Council&mdash; full power which marks itself as one of the constitutional developments since the conference of 1926, because every one of the signatories of the States that is a member of the Commonwealth of Nations signed under full powers limited to the area and the jurisdiction of the respective Parliaments.  We are now proceeding to the last stage of it. We want ratification.  We have our own separate instrument of ratification signed by the King on the advice of the Executive Council of this State, and that will be presented by our representative in Washington to the American Administration.</P>
+    </Speaker>
+    <P>We ask the House, notwithstanding all the cynicism and, I think, the bad manners there have been with regard to the attitude of the other nations signing this Pact, to accept it as an honest attempt to bring some idea of peaceful progress into the world in the hope, as somebody said&mdash;Deputy Cassidy appeared to believe that the Minister for Defence said it&mdash;that it is going to put an end to all wars.  We hope that it may.  At any rate, seeing that it is the first attempt that has been made for many years past to get <Col N="372" /> preparations for peace as well considered as preparations for war, we ask the Dáil to ratify it.  It is a simple thing to sign to.  We do not stereotype the present conditions.  We in no way take away from the particular powers we possess.  We have made the fullest use of our powers that ever has been made to date, and the reasons that are connected with the signing of a pact of peace must be apparent to any mind, and do not need emphasis here.  I ask the House to agree with the motion.</P>
+    <Speaker pid="PatrickJLittle" hpid="Mr. Little Mr. Little">
+      <NameTxt>Mr. Little</NameTxt>
+      <P>May I ask the Minister a question?  Does he admit that it is a right and proper thing for this country to try to go forward to complete freedom and unity?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>There is an implication in the question that I do not accept at all.</P>
+    </Speaker>
+    <Speaker pid="OsmondGrattanEsmonde" hpid="Mr. Esmonde Mr. Esmonde">
+      <NameTxt>Mr. Esmonde</NameTxt>
+      <P>I would like to know if all members of the Commonwealth are sending separate instruments of ratification?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>I do not think all are.  I think Canada is, and we are.</P>
+    </Speaker>
+    <Speaker pid="PatrickJLittle" hpid="Mr. Little Mr. Little">
+      <NameTxt>Mr. Little</NameTxt>
+      <P>May I ask another question? Suppose the Minister had answered my first question in the affirmative&mdash;that it was a right and proper thing for this country to go forward to freedom and to complete unity&mdash; he has by signing this Treaty excluded&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>Is that a question?</P>
+    </Speaker>
+    <Speaker pid="PatrickJLittle" hpid="Mr. Little Mr. Little">
+      <NameTxt>Mr. Little</NameTxt>
+      <P>Yes.  The Minister excludes, as I say, using the weapon of war.  Will he tell me if there is any other way of getting it except by an international agreement?</P>
+    </Speaker>
+    <Speaker pid="PatrickMcGilligan" hpid="Mr. McGilligan Mr. McGilligan">
+      <NameTxt>Mr. McGilligan</NameTxt>
+      <P>In signing the Pact we want to coerce Deputy Little into the idea that he must give up war.</P>
+    </Speaker>
+    <Speaker pid="PatrickJLittle" hpid="Mr. Little Mr. Little">
+      <NameTxt>Mr. Little</NameTxt>
+      <P>That is not an answer.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>took the Chair.</P>
+    </Speaker>
+    <P Just="Center">
+      <Col N="373" />
+      <Col N="374" /> Question put.  The Dáil divided:&mdash;Tá, 83; Níl, 50.</P>
+    <P Just="Center">Tá</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Aird, William P.<br />Alton, Ernest Henry.<br />Anthony, Richard.<br />Beckett, James Walter.<br />Bennett, George Cecil.<br />Blythe, Ernest.<br />Bourke, Séamus A.<br />Broderick, Henry.<br />Broderick, Seán.<br />Byrne, John Joseph.<br />Carey, Edmund.<br />Cassidy, Archie J.<br />Clancy, Patrick.<br />Coburn, James.<br />Cole, John James.<br />Collins-O'Driscoll, Mrs. Margt.<br />Colohan, Hugh.<br />Conlon, Martin.<br />Connolly, Michael P.<br />Cooper, Bryan Ricco.<br />Corish, Richard.<br />Cosgrave, William T.<br />Crowley, James.<br />Daly, John.<br />Davis, Michael.<br />Doherty, Eugene.<br />Dolan, James N.<br />Doyle, Edward.<br />Doyle, Peadar Seán.<br />Duggan, Edmund John.<br />Dwyer, James.<br />Egan, Barry M.<br />Esmonde, Osmond Thos. Grattan.<br />Everett, James.<br />Fitzgerald, Desmond.<br />Fitzgerald-Kenney, James.<br />Good, John.<br />Gorey, Denis J.<br />Haslett, Alexander.<br />Hassett, John J.<br />Heffernan, Michael R.<br />Hennessy, Michael Joseph.</entry>
+            <entry rowsep="1">Hennessy, Thomas.<br />Henry, Mark.<br />Hogan, Patrick (Clare).<br />Hogan, Patrick (Galway).<br />Holohan, Richard.<br />Jordan, Michael.<br />Kelly, Patrick Michael.<br />Keogh, Myles.<br />Law, Hugh Alexander.<br />Leonard, Patrick.<br />Lynch, Finian.<br />Mathews, Arthur Patrick.<br />McDonogh, Martin.<br />McFadden, Michael Og.<br />McGilligan, Patrick.<br />Mongan, Joseph W.<br />Morrissey, Daniel.<br />Mulcahy, Richard.<br />Murphy, James E.<br />Myles, James Sproule.<br />Nally, Martin Michael.<br />Nolan, John Thomas.<br />O'Connell, Richard.<br />O'Connell, Thomas J.<br />O'Connor, Bartholomew.<br />O'Donovan, Timothy Joseph.<br />O'Hanlon, John F.<br />O'Leary Daniel.<br />O'Mahony, Dermot Gun.<br />O'Sullivan, Gearoid.<br />O'Sullivan, John Marcus.<br />Reynolds, Patrick.<br />Rice, Vincent.<br />Roddy, Martin.<br />Shaw, Patrick W.<br />Sheehy, Timothy (West Cork).<br />Thrift, William Edward.<br />Tierney, Michael.<br />White, Vincent Joseph.<br />Wolfe, George.<br />Wolfe, Jaspar Travers.<br /></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Níl</P>
+    <table pgwide="1">
+      <tgroup cols="2">
+        <colspec colname="1" colnum="1" colwidth="50*" align="center">
+        </colspec>
+        <colspec colname="2" colnum="2" colwidth="50*" align="center">
+        </colspec>
+        <tbody>
+          <row>
+            <entry rowsep="1">Allen, Denis.<br />Blaney, Neal.<br />Boland, Gerald.<br />Boland, Patrick.<br />Bourke, Daniel.<br />Brady, Seán.<br />Briscoe, Robert.<br />Buckley, Daniel.<br />Carney, Frank.<br />Carty, Frank.<br />Clery, Michael.<br />Colbert, James.<br />Cooney, Eamon.<br />Corkery, Dan.<br />Corry, Martin John.<br />Crowley, Fred. Hugh.<br />Crowley, Tadhg.<br />Derrig, Thomas.<br />Fahy, Frank.<br />Flinn, Hugo.<br />Fogarty, Andrew.<br />Gorry, Patrick J.<br />Goulding, John.<br />Hayes, Seán.<br />Holt, Samuel.</entry>
+            <entry rowsep="1">Houlihan, Patrick.<br />Jordan, Stephen.<br />Kennedy, Michael Joseph.<br />Kent, William R.<br />Kerlin, Frank.<br />Killane, James Joseph.<br />Killilea, Mark.<br />Kilroy, Michael.<br />Lemass, Seán F.<br />Little, Patrick John.<br />Maguire, Ben.<br />McEllistrim, Thomas.<br />MacEntee, Seán.<br />Moore, Séamus.<br />Mullins, Thomas.<br />O'Dowd, Patrick Joseph.<br />O'Leary, William.<br />O'Reilly, Matthew.<br />O'Reilly, Thomas.<br />Ruttledge, Patrick J.<br />Sexton, Martin.<br />Sheehy, Timothy (Tipp.).<br />Smith, Patrick.<br />Walsh, Richard.<br />Ward, Francis C.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <P Just="Center">Tellers:&mdash;Tá: Deputies Duggan and P.S. Doyle.  Níl: Deputies G. Boland and Allen.</P>
+    <P>Motion declared carried.</P>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Deputies Business. - Legal Practitioners" RHead="(Qualification) Bill, 1928&mdash;Report">
+    <Title>Private Deputies Business. - Legal Practitioners (Qualification) Bill, 1928&mdash;Report.</Title>
+    <Col N="375" />
+    <Speaker pid="MartinConlon" hpid="Máirtin O Conalláin Máirtin O Conalláin">
+      <NameTxt>Máirtin O Conalláin</NameTxt>
+      <P>Ba mhaith liom an Bille seo do chur ar athló go dtí Dé Céadaoin seo chugainn.  I would like, if the House is agreeable, to have this Bill postponed until Wednesday next. There are some Deputies interested in it who are not able to be present to-day.</P>
+      <P>Ordered accordingly.</P>
+    </Speaker>
+  </MainHeading>
+  <MainHeading Type="GD" LHead="Private Deputies Business. - Oireachtas (Payment" RHead="of Members) (No. 2) Bill, 1928&mdash;Second Stage">
+    <Title>Private Deputies Business. - Oireachtas (Payment of Members) (No. 2) Bill, 1928&mdash;Second Stage.</Title>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>Before moving the Second Reading of this Bill I would like to make two or three explanatory remarks.  I would like it to be understood in the first place&mdash;and this is quite a small point&mdash;that this Bill comes from a considerable section of the Independent Group.  Rather unfortunately, I think, they asked me to be their spokesman for the Bill in this House.  But credit or discredit as the case may be, the responsibility for the Bill, at any rate, rests with that section of the Independent Group who are interested in having it brought forward.</P>
+      <P>The second point I wish to make is much more important.  That section of the Independent Group, and I, wish most emphatically to disclaim any desire to discredit the Seanad or the Senators.  On the contrary, it is our belief that the Seanad is a necessary and important part of the Constitution of this State, and most desirable; and we wish in every way we possibly can to increase rather than to decrease the importance and utility of that Second Chamber.</P>
+    </Speaker>
+    <P>The third point I wish to make refers to the particular time at which this proposal has come forward.  That is important, because of remarks to which I will later allude.  I ask the members of the Dáil to recollect that this Bill was brought forward at a time when the election to the Seanad was actually in progress.  The Bill itself was really brought before our minds by the changed method of election to the Seanad.  It was during the actual <Col N="376" /> time when the election to the Seanad was going on that the matter really became a subject of discussion with us.  We did actually discuss the desirability of taking counsel with the Seanad before putting forward in a concrete and definite form any proposal. And we should have preferred that course, but it seemed to be urgently necessary that we should make a definite proposal before the result of the election was declared.  Members of the Dáil will recollect that the Bill only appeared the very day before the result of the election was declared.  It seemed to us then, and it seems to us now, that it is a much more desirable and a much more courteous way to proceed to take the Seanad into consultation in the matter before making up our minds as to what is the best course to adopt.  Therefore, though it was impossible for us owing to that urgency of time, and though we regret that it was so impossible, we think, as a matter of fact, that the course that Deputy Tierney is adopting is a much more desirable way of proceeding.</P>
+    <P>In formally moving the Second Reading of the Bill at this stage, I intend to confine myself to that particular point rather than to the arguments for the particular Bill of which I am moving the Second Reading.  We prefer that the course should be adopted of consulting the Seanad, and we think that the course suggested by Deputy Tierney is the best way to proceed.  We are prepared to accept, in substance, his amendment, which would have the effect of setting up a joint committee of the Seanad and the Dáil to discuss the matter, and not come to a conclusion about a definite proposal until we have heard what the report of that committee is.  It would be more suitable, I think, to discuss the arguments on that amendment rather than on the Bill itself.  If that amendment should be lost, I take it that I would have the opportunity of putting forward any arguments that may occur to me on the main proposals of the Bill afterwards. Any arguments as to the need for action would naturally.  I think, come forward when Deputy Tierney is moving his amendment.  I take it that I would have the right to speak on that <Col N="377" /> amendment.  At this stage I will just formally move the Second Reading of the Bill in order to give Deputy Tierney an opportunity of moving his amendment.</P>
+    <Speaker pid="ProfMichaelTierney" hpid="Professor Tierney Professor Tierney">
+      <NameTxt>Professor Tierney</NameTxt>
+      <P>I move the following amendment:&mdash;</P>
+      <P>To delete all words after the word &ldquo;That&rdquo; and substitute therefor the words &ldquo;the second reading of the Oireachtas (Payment of Members) (No. 2) Bill, 1928, be postponed until the question of the amount of the allowance which should be paid to members of Seanad Eireann has been considered by a Joint Committee of the two Houses of the Oireachtas, or for three months whichever shall be the shorter period.&rdquo;</P>
+      <P>In view of the statement made by the mover of the Second Reading of the Bill, I do not think there is any necessity for me to delay the House very long in discussing this amendment. It seems to me to be one which should commend itself to everyone.  It is hardly desirable that the question of the allowances to be paid to members of Seanad Eireann should be discussed by the ordinary procedure of Private Bill without an opportunity being given for consultation with the body which is mainly affected by such a Bill.  It does seem that it would be much more satisfactory if the matter could be settled by the ordinary procedure of a joint committee.  Any other questions of a similar nature, besides the simple question raised in the Bill itself, which may be relevant to the matter, could also be brought up and discussed by the committee.  I, therefore, expect that the Dáil, as a whole, will agree that the procedure set forth by the amendment is the more desirable, and I therefore content myself by formally moving the amendment.</P>
+    </Speaker>
+    <Speaker pid="JohnFOHanlon" hpid="Mr. O'Hanlon Mr. O'Hanlon">
+      <NameTxt>Mr. O'Hanlon</NameTxt>
+      <P>Deputy Thrift has made it quite clear in his statement that this Bill emanates, as he says, from a certain section of the Independent Group.  Now it is found at this stage unwise, perhaps, for them hastily to <Col N="378" /> bring in this legislation without consulting others than the few who drafted this Bill which has only one clause of any importance.  This is what you might call a kind of deathbed repentance for having acted hastily, and in order to mend matters Deputy Tierney comes to the rescue with a suggestion that this matter be referred to a joint committee.  The people who are immediately concerned with the financial question which is raised in this Bill are to have representation on that joint committee.  I do not think that is right from many points of view, and I think I could raise some objections to it.  In the first place, I raise the technical objection that this procedure is in direct conflict with Article 35 of the Constitution, which precludes the Seanad from having anything at all to do with a Money Bill.  That is rather emphasised by the exception in Article 21, where it is provided that the only power the Seanad has over money is to vote the salaries for its Chairman and Vice-Chairman.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>No.  The Seanad does not vote the money.</P>
+    </Speaker>
+    <Speaker pid="JohnFOHanlon" hpid="Mr. O'Hanlon Mr. O'Hanlon">
+      <NameTxt>Mr. O'Hanlon</NameTxt>
+      <P>I should have said that the Seanad fixes the salaries but does not vote them.  As regards Article 35, I raise the point that I have just mentioned and submit it for the ruling of the Chair.  It would be, in my opinion, in conflict with the letter and the spirit of that Article of the Constitution if the Seanad which had no power to deal with money matters were to be given the privilege of nominating representatives on a committee that is to decide the salaries to be paid to themselves.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>On a point of order. I think the Deputy misunderstands the amendment.  The amendment proposes that a committee should be set up which would report but would not act. It is only when the committee's report is received that the Bill either in its present form or in a changed form would come forward.  It does not suggest that the committee should be <Col N="379" /> given any power beyond discussing the matter and making a report.</P>
+    </Speaker>
+    <Speaker pid="ProfMichaelTierney" hpid="Professor Tierney Professor Tierney">
+      <NameTxt>Professor Tierney</NameTxt>
+      <P>Deputy O'Hanlon made the suggestion that I was in some way or other the instrument of this death-bed repentance on the part of the Independent Group.  I would like the Deputy to know that I have no dealings whatever with the Independent Group.  I could not tell who the members of the Group are.  I am putting forward the amendment purely on my own responsibility.</P>
+    </Speaker>
+    <Speaker pid="StephenJordan" hpid="Mr. S. Jordan Mr. S. Jordan">
+      <NameTxt>Mr. S. Jordan</NameTxt>
+      <P>But surely you would visit the sick?</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>With regard to Deputy O'Hanlon's point, I am not clear that it is for the Chair to decide whether a motion or an amendment is in conflict with the Constitution.  The only thing I can do is to explain the implications, from the point of view of the procedure of the Dáil, of the first paragraph of Article 35 of the Constitution which says:&mdash;&ldquo;Dáil Eireann shall in relation to the subject matter of Money Bills as hereinafter defined have legislative authority exclusive of Seanad Eireann.&rdquo;  The amendment before the Dáil proposes to set up a joint committee of Senators and Deputies to consider the question of the allowances to members of Seanad Eireann.  When that joint committee reports, the report will have no effect upon the finances of the State.  That is to say, no money will flow from the Exchequer as a result of the report. Even when both Houses have approved of the report, should they approve of it, the position will still be that no money will flow from or into the Exchequer. The procedure necessary for giving effect to the approval of the two Houses will be the usual procedure. In that procedure, the Dáil by a Bill which might subsequently be deemed by the Ceann Comhairle of the Dáil to be a Money Bill, would have authority, but that authority does not seem to be impaired by this amendment.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>If we set up a precedent for previous consultation with the <Col N="380" /> Seanad upon financial matters which are definitely matters for the Dáil to deal with, it seems to me that we are setting up a precedent in consultation which, while it may not be disorderly, is certainly a remarkable change.</P>
+    </Speaker>
+    <Speaker pid="MichaelHayes" hpid="An Ceann Comhairle Michael Hayes">
+      <NameTxt>An Ceann Comhairle</NameTxt>
+      <P>The point put to me was as to the constitutional powers of this House.  I have said that I see nothing in the amendment which seems to me to take away from the powers of the Dáil in financial matters.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>Deputy Thrift said the object was to increase in every possible way the power of the Seanad.  My suggestion is that is what he is doing.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>I do not think I used the word &ldquo;power.&rdquo;  If I did I would like to modify it.</P>
+    </Speaker>
+    <Speaker pid="JohnFOHanlon" hpid="Mr. O'Hanlon Mr. O'Hanlon">
+      <NameTxt>Mr. O'Hanlon</NameTxt>
+      <P>Technically, the ruling of the Chair is, of course, quite all right, but is it not bringing in by a side wind the Seanad to deal with a matter which will afterwards be the subject of a financial resolution?  It is merely getting the Seanad in by a side wind in the same way as they were brought in to decide the form by which they would be elected.  I object entirely to getting the work of the House delegated to Joint Committees and dealing in that way with matters which should be discussed fairly and openly before the public, and the reasons given why the salaries should be reduced or left as they are.  I do not think we ought to hide behind a Committee when deciding a question of vital importance affecting this House and the taxpayers.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>When Deputy Thrift moved the First Reading of this Bill in this House the members on these Benches were very glad that action was about to be taken to reduce the cost to the people of maintaining the Seanad, and although we had no illusions in our minds as to the motives which actuated Deputy Thrift in preparing this Bill we decided to support it, and having decided to support it <Col N="381" /> we are not now going to allow the opportunity to be taken from us without at least entering a protest.  Undoubtedly the reasons which compelled us to support this Bill have nothing in common whatever with the reasons which Deputy Thrift has now given for its introduction.  I believe that the members of the Independent Group who acted primarily in this matter came together prior to the election of a number of Senators some time ago and decided to introduce this Bill. Their main desire was to find some means by which the privilege, if it is a privilege, of membership of the Seanad would be retained for that particular section of the community which they represent.  Under the system of election which prevailed before the change there were a number of people who secured membership of the Seanad who could not possibly have got that membership if popular opinion or popular vote had any influence in the matter.  A change was effected&mdash;a change with which in some respects we disagreed, but it resulted in the elimination of a number of people who, in my opinion, were undesirable in the Seanad, even though it did not make the utility of that body any greater. I believe that the motive which actuated the Independent Group here, and I think the motive which actuated certain members of the Seanad who also moved in this matter, was to ensure that it would be possible for those only to seek election to the Seanad who were provided with independent means of livelihood; in other words, that membership of that body would become the exclusive privilege of the moneyed class.  In so far as that was the motive which actuated the movers of this Bill we thoroughly disagree with it.</P>
+    </Speaker>
+    <P>We think that if the Seanad could possibly at any time serve a useful function in the Government of this State, then its members should be provided with an allowance which would make it possible for the poorest member of this community to fulfil all the functions of membership.  Whether £200 a year or £360 a year is an allowance adequate to that end, I am not going now to express an opinion, <Col N="382" /> but I would like to point out that it is possible for a shopkeeper or a professional man to carry out the functions attaching to the Dáil or the Seanad without any serious diminution of his income from his profession or business. There are very few working men earning a weekly wage who could, I think, persuade their employers to permit them to be absent from their work while the Dáil or Seanad was in session, and to return to their work during the recess.  A working man, therefore, who becomes a member of the Dáil or Seanad is practically compelled to devote all his time to it.  He is certainly not in the position to find any source of income to augment the allowance which he receives here.  It was, I think, to exclude possibly all persons without private incomes becoming members of the Seanad that this Bill was originally introduced.  The members who introduced it through Deputy Thrift assured us that the Seanad is a necessary, important and desirable part of the machinery of Government here; we disagree with them in that also.  We do not think that any case has been made in this House or outside to prove that the Seanad is a necessary, important and desirable part of the machinery of government.  We think, and in fact have often expressed our opinion, that the machinery of government would be strengthened and made to work much more freely if the Seanad, as at present constituted, did not exist.  We believe that that institution was created primarily to act as a brake upon any effort by the Irish people to effect a constitutional change in the position of the State in the direction of greater independence.  Believing that that is the prime purpose for the Seanad's existence, we have been striving for a long time past to secure its abolition. As we have not been effective in securing its abolition we have striven to reduce its cost to the nation.  When the question of the mode of election to the Seanad came before this House in the last session, we supported the idea of an election by the Dáil as against an election by the people, not because we considered an election by the Dáil preferable <Col N="383" /> to election by the people, but believing the Seanad to be useless we considered it advisable to select it by the least costly method, believing as we did that no matter how excellent the persons elected might be individually, as members of that body they would be useless nationally.</P>
+    <P>We have here a Bill to reduce the allowance paid to members of the Seanad from £360 to £200 per annum, and we are going to support that Bill, because we believe that the cost of the Seanad should be reduced to the minimum. We believe, of course, in the first instance, that the Seanad should be abolished altogether, and that nothing should be expended in relation to it.  We have not been able to achieve that, but as an alternative the Bill is a step in that direction.  There is an amendment to the motion that this Bill be read a second time.  The amendment is that the Bill be postponed until the question of the amount of the allowance which should be paid to members of Seanad Eireann has been considered by a Joint Committee of the two Houses of the Oireachtas, or for three months, whichever shall be the shorter period.  That amendment is moved by Deputy Tierney, and while Deputy O'Hanlon thinks that he has done so to get the Independent Group that sponsored the Bill out of a difficulty&mdash;&mdash;</P>
+    <Speaker pid="JohnFOHanlon" hpid="Mr. O'Hanlon Mr. O'Hanlon">
+      <NameTxt>Mr. O'Hanlon</NameTxt>
+      <P>No, I did not quite say that.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It is my opinion that he has moved it to get the party of which he himself is a member out of a difficulty.  He is, I think, the decoy duck for Cumann na nGaedheal in connection with this measure, because we have found in the past that it was always the desire of the Executive Council to be able to put the responsibility for any of their acts of omission or commission upon some committee, commission or tribunal other than themselves.  Deputies should be prepared to decide in the open whether there is to be any reduction in the allowance made to Senators.  Evil deeds love the dark, and it is because <Col N="384" /> evil deeds love the dark that I think this amendment is before the House.  It is to take the discussion on this matter away from the public so that the public will not hear the arguments against the motion which would be advanced, perhaps, by members of the Committee, or the arguments in favour of it which would be advanced by others, that we are now asked to suspend consideration of the Bill to enable this Committee to get to work.  If Deputies have reasons, which they believe to be good, for supporting this Bill, surely they will not be afraid or ashamed to state them here.  If, on the other hand, they have reasons, which they believe to be good, for opposing this Bill, let them stand up here and produce these reasons.  I think it is undesirable that they should be given an opportunity of going behind closed doors for the purpose of stating these reasons and presenting a report on which the Government would, of course, act automatically and refer all criticism to.</P>
+    </Speaker>
+    <P>The point raised in connection with the point of order by Deputy O'Hanlon is one which I think we should consider also, if not as a point of order, as a point of argument.  It is, I think, one of the fundamental tenets of democratic government in all countries that the House which secures its right of legislation direct from the people should retain under its control all matters relating to the expenditure of money.  The suggestion in this amendment is to take into consultation on what is in effect a Money Bill the members of the Second Chamber.  We have a direct responsibility to the taxpayers, and we cannot get rid of that responsibility by setting up a special committee.  Nor do I think it is right that in this matter members of the Seanad should be consulted.  I disagree altogether with the view that courtesy demands it.  It is for Deputies here present as representatives of the people to decide what, in their opinion, should be the allowance adequate to members of that Chamber, in view of its utility and the amount of work devolving on it.  We are, therefore, opposing the amendment.  We believe that those Deputies who share our view as to the utility of that Second Chamber, <Col N="385" /> and those other Deputies who are always preaching about their desire for economy, should not let this opportunity pass from them into the hands of such a special committee as is suggested. They should hold on to this Bill like grim death, a Bill that in an injudicious moment members of the Independent Group have placed before them.  They cannot withdraw the Bill without the leave of the House, and I would urge upon Deputies not to give that leave.</P>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>We do not ask you to do so.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Well, I would urge on them not to accept an amendment which amounts to the same thing.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>Oh, no, not at all.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>Deputy Thrift says &ldquo;not at all,&rdquo; but if some other method of getting rid of the Bill, while at the same time preserving their countenance before the people, could have been devised this amendment would not have been put before us.  I think this amendment was introduced to shelve the Bill and to take the responsibility of coming to a decision off the shoulders of Deputies&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>How does Deputy Thrift know it was not introduced for this purpose if he had no consultation with Deputy Tierney?</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>I was referring to our acceptance of the amendment, which I think was what Deputy Lemass said.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>In any case I urge Deputies to reject the amendment and to pass the Bill, in the first place because matters of this kind should be settled here in the Dáil, and settled after Deputies have had the opportunity of hearing all the arguments on one side or the other, and in the second place because it is not right that the Second Chamber should be taken into consideration in a matter in which money is concerned before a decision of the Dáil is made.  I would also ask them to <Col N="386" /> adopt that course because of the very fact that the Seanad, being as it is a useless encumbrance on the machinery of government, should be made to cost as little as it can be made to cost.  If we could get Deputies to agree to its abolition altogether we would be very pleased.  As we cannot get them to do that, let them at least reduce the bill which the taxpayer has to meet in relation to it.  Deputy Thrift made some reference to the time at which this Bill was introduced.  There have been some criticisms as to the method by which the recent election of Senators was carried out.  Deputies will recollect that we approved of the method of election by this Chamber&mdash;</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Surely that does not arise on this.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>It does, indirectly.  We did not approve of the method of nomination.  But this criticism of the method of election has only become vocal now, not because of any inherent defects in the method, but because five quotas were made to elect six Senators, and I think that if the result of the election had been different we would not have had the same opposition to that method as has since been expressed. I refer to that matter to give myself an opportunity of saying that the attitude of Fianna Fáil towards the Seanad has not in any way been altered by the fact that we decided to put forward candidates at that election and succeeded in electing them.  We still believe that the Seanad serves no useful function in the nation, and that it would be a wise national policy to abolish it.  Because of that we will support any legislation that is introduced designed to restrict and confine its powers, and to reduce the bill which the taxpayer has to bear in relation to it.  Therefore, we are going to support this Bill, whether the mover likes it or not, and we are going to oppose the amendment.</P>
+    </Speaker>
+    <Speaker pid="TomasOConnell" hpid="Mr. T.J. O'Connell Mr. T.J. O'Connell">
+      <NameTxt>Mr. T.J. O'Connell</NameTxt>
+      <P>The procedure that has been adopted here to-day in regard both to the motion and the amendment seems to me to be most extraordinary.  First of all we have <Col N="387" /> a motion for the Second Reading of a Bill, and the proposer of that motion gets up and says: &ldquo;As there is an amendment on the Paper, I will not move my motion.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>Oh, no.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>Well, &ldquo;I am going to accept the amendment in effect.&rdquo; Therefore he makes no case for his motion.  The mover of the amendment immediately gets up and says in effect: &ldquo;There is no reason for me to argue my amendment, as this thing seems to be accepted, generally speaking,&rdquo; and we have no case made at all, as a case ought to be made, for a change of any kind.  That is the first case that ought to be made, in my opinion, and that has not been made.  That is the duty of the proposer of this motion, and, in my opinion, that case should have been made before the House is asked to decide, one way or the other, on the motion or the amendment.  No case has been made for a change.  No case has been made, therefore, to refer this subject to a joint committee.  If we are going to have it referred to a joint committee, we ought to know why there is a change proposed.  The mover of the motion, or the mover of the amendment, has not vouchsafed that to us.  I am against the amendment, and I am also against the motion.  I listened with care to what Deputy Lemass said.  In the beginning of his speech he made a case against this Bill, from my point of view very much better and more eloquently than I could make it.  Anyone who listened to his remarks must admit that he made it clear that if this Bill is passed it will not be possible for a working man to take his seat in the Seanad. That is the position.  He made it quite clear that if this Bill were passed it would not be possible for a working man to take his seat in the Seanad.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>That would be for the good of the working man.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>It may be for the good of the working man, but I want to emphasise that point, and say that it is the view of Deputy Lemass that if this Bill is passed it will be impossible <Col N="388" /> for a working man to take his seat in the Seanad.  After that Deputy Lemass says: &ldquo;I am going to support the Bill.&rdquo;  Now we know where Deputy Lemass stands, and if his Party stands with him&mdash;&mdash;</P>
+    </Speaker>
+    <Speaker pid="WilliamTCosgrave" hpid="The President The President">
+      <NameTxt>The President</NameTxt>
+      <P>It took you a long time to find it out.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>We have it clearly that it is the policy of the Fianna Fáil Party to prevent any working man, who would have to depend on the allowance he would get, from going into the Seanad.</P>
+    </Speaker>
+    <Speaker pid="SeanFLemass" hpid="Mr. Lemass Mr. Lemass">
+      <NameTxt>Mr. Lemass</NameTxt>
+      <P>We want to prevent anyone getting into the Seanad.  We want no Seanad.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>The question of the existence of the Seanad is not an issue in this matter.  That is another matter. We have the Seanad now; we may have it for ten or twenty years.  While we have it Deputy Lemass is not going to have working men there.  I think that is a most extraordinary doctrine for Deputy Lemass, of all men, to preach in this House, and I must express my surprise at it.  I was not surprised one bit at a motion of this kind coming from the quarter it came from. It was what I expected.  I agree to a large extent with Deputy Lemass in his interpretation of the motives that inspired this measure.  I believe that coming from an Independent Deputy or a group of Independents who proposed this measure, who represent the moneyed and leisured classes very largely in this country&mdash;or say they do &mdash;that this is what I would expect them to do&mdash;to move a motion of this kind&mdash; which would tend to reserve positions in the Seanad, and such power as the Seanad may possess, to the people who are of independent means, and who can afford to be members of the Seanad, even though no allowance is paid.  As I say, I could quite understand that motive, but I cannot understand the Fianna Fáil Party and their spokesmen, after making it quite clear &mdash;clearer and with more eloquence than any member on these Benches could make it&mdash;that that would be the effect of the Bill, and still they come along and say: &ldquo;We are going to support <Col N="389" /> this measure.&rdquo;  No matter what motives they have in view, whether the motives are the same as those of Independents or not, the effect is going to be the same, on their own admission.  I am against this Bill for the reasons stated by Deputy Lemass in the opening part of his speech, that this is a class Bill&mdash;that it is class legislation which, as I say, would have the effect of keeping the working man from taking a position in the Seanad.</P>
+    </Speaker>
+    <Speaker pid="" hpid="A Deputy A Deputy">
+      <NameTxt>A Deputy</NameTxt>
+      <P>What do you mean by a working man?</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>What do I mean by a working man?  I thought that was clear to everybody.  A wage-earner in fact.  A man who is dependent entirely on the income which he gets from the Seanad.  Is that clear enough? A man who has no other source of income except the allowance which he gets from the Seanad or from the Dáil. I suppose the next step will be to bring the same measure into effect as far as members of the Dáil are concerned. I will oppose this Bill strongly, because no case has been made for a change of any kind.  I will likewise oppose the amendment.  I hope the amendment will be defeated, and I hope also that the Bill will be defeated. The amendment keeps the Bill hanging up here as it were, and until a case has been made, if a case can be made, for any change at all in the present regulations, then I am going to vote against the amendment and the Bill.</P>
+    </Speaker>
+    <Speaker pid="HughALaw" hpid="Mr. Law Mr. Law">
+      <NameTxt>Mr. Law</NameTxt>
+      <P>I can quite understand Deputy O'Connell's objection to accepting the Second Reading of the Bill, but I am at some loss to understand, even in spite of his explanation, his objections to the amendment.  He assumes that the effect of an inquiry by a joint committee must be to reduce the allowance paid to members of the Seanad.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>No, I want a case made for the change.</P>
+    </Speaker>
+    <Speaker pid="HughALaw" hpid="Mr. Law Mr. Law">
+      <NameTxt>Mr. Law</NameTxt>
+      <P>I apologise if I misunderstood the Deputy.  I understood him to say that he was against the amendment.</P>
+    </Speaker>
+    <Col N="390" />
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="HughALaw" hpid="Mr. Law Mr. Law">
+      <NameTxt>Mr. Law</NameTxt>
+      <P>He is against the amendment on the ground that the operation of the inquiry would be to reduce the allowance for the Seanad, and possibly for the Dáil.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>Oh, no.</P>
+    </Speaker>
+    <Speaker pid="HughALaw" hpid="Mr. Law Mr. Law">
+      <NameTxt>Mr. Law</NameTxt>
+      <P>Then I withdraw if I misunderstood what was said.  I thought that was the point.  But there seems to be, certainly in the mind of Deputy Lemass, that idea.  I only want to point out that all that is asked in the amendment is that there should be a preliminary inquiry.  For all I know, the result of that inquiry may be a recommendation&mdash;that is all the committee can do&mdash;that the allowance in the Seanad be increased.  There is nothing in the amendment limiting the joint committee to making a recommendation in favour of a reduction. It is asked simply to inquire into the amount of the allowance which should be paid to members of Seanad Eireann. Obviously, if a case were to be made showing the amount of work done in the Seanad, and if the expenses incurred by members of the Seanad were in excess of the amount paid them at present, then there would be a clear case made for an increase in their allowance. Deputy Lemass seemed to be labouring under a misapprehension, but I do not think he was.  I am afraid that if it had been some other member of his Party I would have given him the benefit of the doubt, and would have supposed him to be labouring under an honest misapprehension.  In the case of Deputy Lemass, I am afraid I must come to the conclusion that on this occasion, as upon some others, he has lent the brilliancy of his intellect, the weight of his statesmanlike appearance, the impressiveness of his resonant voice, to a completely unfounded suspicion. We heard from the Minister for Defence yesterday, and I think it was true, that it was characteristic of the Fianna Fáil Party to cherish unfounded suspicions.  They looked for plots, secret mysteries, something deep and dark in every action of the Government and in every quarter of the House.</P>
+    </Speaker>
+    <Col N="391" />
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>Passing round envelopes in the Seanad.  Do you remember?</P>
+    </Speaker>
+    <Speaker pid="HughALaw" hpid="Mr. Law Mr. Law">
+      <NameTxt>Mr. Law</NameTxt>
+      <P>I do not.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>Well, you ought to.</P>
+    </Speaker>
+    <Speaker pid="HughALaw" hpid="Mr. Law Mr. Law">
+      <NameTxt>Mr. Law</NameTxt>
+      <P>I am sorry, but I was not there.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>It was part of the conspiracy.</P>
+    </Speaker>
+    <Speaker pid="HughALaw" hpid="Mr. Law Mr. Law">
+      <NameTxt>Mr. Law</NameTxt>
+      <P>There is conspiracy.  You will hear that statement presently from the other great statesman.  But at any rate Deputy Lemass, in his most impressive manner, told us that the object of his friends' amendment was to take away from members of this Assembly that which was their own proper function&mdash;the determination of matters affecting the public finance, that this committee was to meet behind closed doors, that its purpose was to deny the members of the Dáil and, what was more important, the citizens of Saorstát Eireann any opportunity of knowing what were the arguments for or against this Bill.  He did not say it, he is much too clever to say anything so foolish, but I gathered that anyone who did not know what the procedure in Parliament is would naturally infer when they read his speech in the newspapers to-morrow morning that what is proposed here is that we should set up a committee with plenary powers immediately to make alterations in finance.  They will assume for the committee legislative powers which will come into operation immediately, and that what they say goes.  We know perfectly well that Deputy Lemass knows that that is not the position at all.  All that is asked here is that we should set up a joint committee, and put upon that joint committee the function of considering carefully the pros and cons of this whole matter, the work to be done by members of Seanad Eireann, the amount of time occupied by that work, and the remuneration properly to be paid to the Senators.  The Committee is to report back to this House, and nothing that the committee can possibly do can prevent the fullest, frankest and most completely open discussion here on that matter.  The whole <Col N="392" /> of this plot comes down to nothing more than that we ask a number of members of this House and the Seanad to meet here to go into the whole matter, and then come back with a full knowledge of the affair, so that we in turn may debate this matter, not ignorantly, but with an actual detailed knowledge, so that the whole of the matter in controversy may be known.</P>
+      <P>There is only one other point I will refer to.  Deputy O'Hanlon has raised a point.  I understood him to say that it was not proper that any matter affecting the public finances should go to the Seanad which, under our Constitution, is precluded from dealing with Money Bills, &ldquo;should be brought in,&rdquo; I think he said, &ldquo;by a side wind.&rdquo;  Am I correct?</P>
+    </Speaker>
+    <Speaker pid="JohnFOHanlon" hpid="Mr. O'Hanlon Mr. O'Hanlon">
+      <NameTxt>Mr. O'Hanlon</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="HughALaw" hpid="Mr. Law Mr. Law">
+      <NameTxt>Mr. Law</NameTxt>
+      <P>I am glad that for once I did not misrepresent him.  It is not quite true to say that the Seanad has no function at all in relation to Money Bills.  In Article 35 of the Constitution it has certain functions.  It is true they are very limited functions, and the question whether, in relation to any particular Bill, the Seanad has other functions depends primarily upon the certificate given by the Speaker of this House.  We do not know at present whether a Bill such as that introduced by Deputy Thrift is or is not a Money Bill.  We cannot know whether it is or is not a Money Bill until that certificate has been given, and even then it is, of course, subject to reference to the Committee of Privileges under the Constitution. Therefore we can not assume at this stage that it is a matter for which even technically the Seanad has no concern. It is quite obvious, apart from that technicality, that the Seanad is very closely concerned.  I think even if on technical grounds there was something to be objected to in this procedure, even technical grounds ought to be waived, not only as a matter of courtesy, but also because I would not like the Dáil to lie under the suggestion that we were being extremely meticulous with the money paid to other people, while we were exceedingly careful not to interfere in any way&mdash;that in any way we <Col N="393" /> were not at all anxious to court inquiry as to the payments made to ourselves. I think we should put ourselves in a very awkward position if we were to claim, on purely technical grounds, the right to judge all these matters for all these other people while removing the thing from ourselves.</P>
+      <P>For my own part I would personally welcome, not at all for the reasons Deputy O'Connell seems to suggest, the extension of this inquiry into the payments made to members of the Dáil itself.</P>
+    </Speaker>
+    <Speaker pid="JohnFOHanlon" hpid="Mr. O'Hanlon Mr. O'Hanlon">
+      <NameTxt>Mr. O'Hanlon</NameTxt>
+      <P>You would suggest the withdrawal of the Bill.</P>
+    </Speaker>
+    <Speaker pid="HughALaw" hpid="Mr. Law Mr. Law">
+      <NameTxt>Mr. Law</NameTxt>
+      <P>The reason I say that is I think the more the public is made aware of the real facts of the case and the relation between the work done, the services rendered, and the payments made to members of the Oireachtas, the better it will be for everybody, not for this section or for that, but precisely in order that the payments may be made according to services and according to need, and in order that we should get away in this as in other matters from this abominable atmosphere of suspicion which clouds so many of our proceedings.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>I rather waited because I thought the House would like to hear officially or unofficially what action the President was going to take in this matter and what the official or unofficial view of his Party might be in relation to this action of the Good-and-Thrifty party which has put forward this proposal and the stool-pigeons which have been used for the purpose of clouding the issue.  It seems to me Deputy Thrift and Deputy Tierney are going to alternate in that position. Whenever the Government makes a fool of itself with a declaration in relation to, say, the Referendum, Deputy Thrift can always be called upon for tricky moves of this kind, and whenever Deputy Thrift makes a fool of himself then Deputy Tierney will bring them back to the ark from the waters of trouble.  The branch is being sent out again.  I do not use any classical allusions, but there are people very <Col N="394" /> closely connected in history whom you do not separate automatically at least or whom you automatically connect.  I think in this House in the future the names of Deputy Thrift and Deputy Tierney will undoubtedly be associated as people who can always be called upon in an emergency to do the useful tricky thing which is necessary.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>That is a phrase which the Deputy should not use.  The Deputy should deal with the Bill rather than with personalities.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>The discussion to-day has been why this amendment has been introduced.  There have been repudiations of all sorts and kinds.  When Deputy Law rose I wrote upon my tables &ldquo;Oh, Law!&rdquo; and I could not find really much else except that he was repudiating suspicions while deliberately creating them in every word he said.  He was above suspicions, a male &ldquo;Caesar's wife.&rdquo;  At any rate Deputy Law has produced a laugh, and I do not know that he ever produced anything else in his life.</P>
+      <P>The one statesman in Europe whose mentality and whose method of speech I personally appreciated more than any other was Arthur James Balfour, and Arthur James Balfour has produced a phrase which would perfectly cover the whole of this debate and discussion. He spoke of the causes which go to form opinion as distinct from the reasons by which we afterwards justify them.</P>
+      <P>Deputy Lemass told us what he thought was the motive of Deputy Thrift, and then Deputy O'Connell told us what he thought of what Deputy Lemass thought of the motives of Deputy Thrift.  According to Deputy O'Connell&mdash;this man who does not belong to the leisured classes, who does not belong to the wealthy classes, but who does belong to a class of which there is a very small proportion in this country, those who have the wealth of the world&mdash;Deputy Lemass approves of this Bill of Deputy Thrift's for the reason that Deputy Lemass thinks Deputy Thrift had in producing it.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>I did not say any such thing.</P>
+    </Speaker>
+    <Col N="395" />
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>There will be produced in a week from now a record of the proceedings of this House.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>Yes.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>And that is good enough for me.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>And for me too.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>Deputy O'Connell said also that Deputy Lemass was approving of this because the passing of Deputy Thrift's Bill would exclude from the Seanad working men.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>Again I must protest against misrepresentation.  I said no such thing.  I said that would be the effect of Deputy Lemass's support of the measure.  I did not attribute any motive whatsoever to Deputy Lemass for supporting the Bill.  In fact I expressed my surprise that he should be supporting it.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>I am very glad to have given Deputy O'Connell an opportunity of explaining that which his method of debate had left obscure.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>Is there not another reason why it is obscure?</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>Yes&mdash;that was from the beginning&mdash;a lack of ability to express yourself clearly.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>Or to understand.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>But let us get back to the point.  The statement that this measure will exclude from the Seanad working men, and for that reason this motion should not be passed.  When did the Labour Party send to the Seanad a man who would be excluded on this ground?  Because he was a working man he had to leave his job.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>They are already there.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>Who are they?  Men of the leisured classes.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy must not on this Bill criticise members of the Seanad.</P>
+    </Speaker>
+    <Col N="396" />
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>I can discuss the question.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Deputy can discuss what he is allowed to discuss by the Chair, and nothing else.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>It will be impossible, according to Deputy O'Connell, that a working man should leave his job.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>According to Deputy Lemass.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>According to the misrepresentation of Deputy Lemass by Deputy O'Connell.  But they have never attempted to use the opportunity. They have sent there paid officials.</P>
+    </Speaker>
+    <Speaker pid="RichardCorish" hpid="Mr. Corish Mr. Corish">
+      <NameTxt>Mr. Corish</NameTxt>
+      <P>That is a lie.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>Would Deputy O'Connell be prevented from going into the Seanad?  Would he have to leave his job?  Would Deputy Davin?  Mind, I am not attacking any of them in this manner but they have other means of livelihood.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>You would confine the seats to the paid officials; that is your policy.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>Oh no, I am not doing that; you have done it.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>That is wrong.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>You have done it.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>I deny that.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>As far as I know.  We will have a list, but I understand for the moment that the Chair will not allow me to give you a list.  It is no fault of mine.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>The Chair will not allow the Deputy to criticise members of the Seanad on this amendment.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>All I am concerned with is whether I will give the list.  In other words, the very complaint that Deputy <Col N="397" /> O'Connell makes is a complaint which has no foundation, or the actual thing which he says is wrong has been their practice in this matter.</P>
+    </Speaker>
+    <Speaker pid="" hpid="Mr. O'Connell Mr. O'Connell">
+      <NameTxt>Mr. O'Connell</NameTxt>
+      <P>You will not get out of it so softly as that.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>The leisured classes&mdash;this hard driven people of the class and order and state and condition of wealth of Deputy O'Connell.  I am in favour of Deputy Thrift's motion because I believe the Seanad as at present constituted of 60 members is a thoroughly bad and wasteful expenditure of public money, and that it should for that reason be reduced.  I would not have elected anybody to fill the last vacancies. You have had two elections now to that body.  The standing aside of part of the national opinion made the first election ridiculous and made the Seanad ridiculous also.  I think it will be admitted on every side that the first popular election to the Seanad did it a great deal of damage in public opinion.  Now you have had another election and is anyone going to suggest that the second method of election has not done it as much damage as the first?  Is there anyone suggesting at the moment that it has re-habilitated itself in any way?  A good sound Labour man, a man with ideas and a man with imagination has gone into the Seanad.  He has attempted to make that Seanad work, and if there is one thing that the Seanad is solidly agreed on it is that it will not let that Labour man make it work, that it will not let it make itself a Seanad of the kind in which it will not be true, as was stated by Deputy Davin in this House, that the ordinary member for the time he spends there was paid the trades union rate of somewhere about £7: 10s. 0d. per hour.</P>
+    </Speaker>
+    <P>It is not good enough.  Until we can reorganise that Seanad, until we can reduce it to the position in which it is useful, every expenditure in relation to it is wasteful, and should be stopped. Now, it is suggested as a way out, with the able assistance of Deputy Tierney, that this should be sent to a lethal chamber.  They call it a committee. The House knows quite well what very ingenious and clever use was made of <Col N="398" /> the previous conference between this Dáil and the Seanad in relation to the Seanad.  You had there a packed chamber.  I mean that on the previous occasion you had, I think, twelve altogether, of whom nine could definitely be calculated upon for any undemocratic action in relation to that committee. That committee was regarded here as if it were an authoritative and impartial body.  In this case you would have the same thing.  Whatever suits any reaction agreed to by that Committee will be produced here to us as if it were the pure water of legislative wisdom.  Personally, I think that that ought not to be done.  The second question is also one of constitutional change, that in a matter which is definitely a financial matter, because the Bill, as it now stands, is a financial Bill, that that shall be done by the Dáil on its own authority.</P>
+    <P>It is a question whether you want it done upon the authority of this Dáil or upon the authority of the Seanad. What sort of Bill do you think will emerge from that committee?  It is now a Financial Bill which can be dealt with by this House, but does anybody believe that the Seanad representatives are such fools that the Report which comes down will not be a report which will change the Bill into a mixed Bill of finance and legislation?  That is a trap we do not want to get into. Our business is to keep financial matters in and for this House, and any attempt to send financial matters, as previously, for consultation to the Seanad definitely weakens that control.  If there could be some agreement between the Houses as to what was going to be the future of that chamber, if we could come to some understanding as to what use or benefit we were going to get out of it, we might consider it in a very different way.  At present we are considering finance in a country whose budget is unbalanced, in relation to a thing which we regard as useless, a thing which we think is intended to develop on lines which would be bankrupt of everything of use and value to the country.  As regards one group&mdash;I do not know what to call them, as they are not wholly independent, <Col N="399" /> but I call them the good&mdash; and&mdash;thrifty group&mdash;if these people were prepared to say to us, &ldquo;We, the good&mdash;and&mdash;thrifty group, desire that the Seanad shall be an economic body and run as cheaply as possible in relation to the work it does&rdquo;&mdash;do they agree?</P>
+    <Speaker pid="" hpid="A Deputy A Deputy">
+      <NameTxt>A Deputy</NameTxt>
+      <P>No.</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>Who said no?</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>It was one of those answers which should have immediately been &ldquo;Yes.&rdquo;</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>Rhetorical, surely.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>Very well.  At any rate we have thrifty agreement.  We agree that the Seanad should be as cheap as possible.  We will agree that the Seanad should be as small as possible?  Yes or No?</P>
+    </Speaker>
+    <Speaker pid="ProfWilliamEThrift" hpid="Professor Thrift Professor Thrift">
+      <NameTxt>Professor Thrift</NameTxt>
+      <P>I will answer &ldquo;Yes&rdquo; or &ldquo;No&rdquo; when it comes to my speech, but I will not interrupt the Deputy.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>Yes, but this new power in the House, this new party who are showing initiative and who are going to teach the people how to legislate and fill the gaps of inertia, surely do not possess so much mental inertia themselves as not to be able to give an immediate answer.  Does it mean that they must approach Deputy Tierney and ask him what amendment he will introduce afterwards to get them out of an admission which they made by nodding their heads?  I will suggest a line of agreement.  We will see, having regard to developments on that line, whether we might not all come to consider Seanad salaries on a different line&mdash;first, a Seanad altogether smaller than the present Seanad (ten, twelve or fifteen), a Seanad which has no legislative powers whatever, has no <Col N="400" /> powers of delay whatever except such as are required to perform its functions, a body of experts which will be chosen without any regard whatever to their political opinions but merely to their knowledge of the subject, a body to which all the legislation of this Dáil, before it is considered by the Dáil or at some future stage before it is passed by the Dáil, is sent for annotation and comment, a body of experts, a body which will take Clause 1 of a Bill and say that its implications are so-and-so and that if such-and-such a thing is not done the result will be so-and-so.  Then the Dáil will come to consider any legislation which may have gone up and been annotated with the full knowledge of what independent, competent men, whatever their political opinions were, would say about it.  It would not matter twopence halfpenny whether a man was a Unionist or an anarchist; perhaps they mean the same thing in some people's minds. You would then simply have on Clause 1 an annotation which people would consider and say: &ldquo;That seems fairly reasonable; it seems sound,&rdquo; or you would have the suggestion that if Clause 1 were read in conjunction with Clause 4 it would produce a sort of stuff that was produced by the Shannon Bill.  You would have people who would explain to this House what Deputy Good, Deputy Hewat and the other independent members who fought the Shannon Bill did not understand in the Shannon Bill.</P>
+    </Speaker>
+    <Speaker pid="PatrickHogan" hpid="An Leas-Cheann Comhairle Patrick (Clare) Hogan">
+      <NameTxt>An Leas-Cheann Comhairle</NameTxt>
+      <P>Before the Deputy goes further on the Shannon Bill, perhaps he would move the adjournment.</P>
+    </Speaker>
+    <Speaker pid="HughVFlinn" hpid="Mr. Flinn Mr. Flinn">
+      <NameTxt>Mr. Flinn</NameTxt>
+      <P>That is what I intended to do.  I move the adjournment of the debate.</P>
+      <P>The Dáil adjourned at 2 p.m. until Wednesday, 27th February.</P>
+    </Speaker>
+  </MainHeading>
+</Debate>

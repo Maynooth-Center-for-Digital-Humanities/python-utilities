@@ -1,0 +1,3093 @@
+********************************************************
+	DC.Title                  = L'ETOURDI ou LES CONTRE-TEMPS, COMEDIE
+	DC.Author                 = MOLIERE
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 07/08/2016 a 17:08:55.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/MOLIERE_ETOURDI.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+L'ETOURDI ou LES CONTRE-TEMPSCOMEDIEREPRESENTEE SUE LE THEATRE DU PALAIS ROYAL.M. DC LXIII. AVEC PRIVILEGE DU ROI.
+par J.P.B. MOLIERE
+	A PARIS, Chez Gabriel Quinet, au Palais,  dans la Galerie des Prisonniers, a l'Ange Gabriel.
+	Acheve d'imprimer pour la premiere fois le vingt et un novembre 1662. Registre sur le Livre de la Communaute, le 27 octobre 1662. Signe DUBRAY, Syndic. Les exemplaires ont ete fournis.
+	Represente pour la premiere fois en novembre 1658 a Paris au Theatre du Petit-Bourbon et avait ete joue a Lyon en 1655.
+	MONSIEUR,
+Apres voir longtemps cherche quelque chose qui fut digne de vous etre offert, pour ne pas laisser echapper aucune occasion de vous temoigner mes respects, et qui put en meme temps faire connaitre a tout le monde que j'ai essaye de rendre a votre merite quelques marques particulieres de mon zele ; j'ai cru que vous ne desavouiez pas l'Etourdi ou les Contre-temps, quand vous savez que c'est un etourdi tout couvert de gloire, de s'etre fait admirer par la plus galante Cour du Monde, et qui a recu des avantages, que de plus prudents que lui se tiendrait glorieux d'avoir pu meriter ; toutes ces choses la font voir qu'il y a de la difference entre lui, et ceux qui portent son nom ; neanmoins je crains qu'il ne perde aujourd'hui la haute reputation qu'il s'est acquise, quand on saura qu'il vient a contre-temps se presenter a vous, et vous divertir des grandes et serieuses occupations que vous donne l'illustre charge que vous possedez, et qui demande que vous ayez soin de la plus celebre ville de la Terre : Vous le faites, MONSIEUR, avec tant d'applaudissement, et vous vous acquittez de cette charges avec tant de gloire, que le Prince, et les peuples en sont egalement satisfaits ; aussi chacun sait-il que vous marchez sur les traces de vos illustres aieuls,, dont la memoire ne perira jamais. Oui, MONSIEUR, l'on se souviendra toujours de ce Denis de Riants, dont vous sortez, qui s'acquitta si dignement pour lui, et pour le Monde, de la charge d'Avocat General, et de President au Mortier, qu'il possedait dans le premier parlement de France, et qui obligea cette Auguste Compagnie de faire voir combien elle l'avait toujours estime, lorsqu'etant prie par ses parents de trouver de se trouver aux honneurs funebres que l'on lui devait rendre ; elle repondit, par l'organe de son premier president, Qu'elle etait bien marie du trepas d'un personnage de si grand savoir, et de si grande vertu, et qu'elle lui rendrait tout l'honneur qu'elle lui devait. Apres cela, MONSIEUR, l'on peut juger de la veneration que l'on a eu en France pour votre non, et s'y soutenant, comme vous faites l'eclat et la gloire de vos ancetres, je ne dois pas craindre de passer pour temeraire, en voulant faire votre panegirique. L'on sait assez que leurs grandes actions et les votres, ne fourniraient trop de matiere, s'il m'etait permis de l'entreprendre ; mais les voulant laisser a d'autres plus capables de les decrire, je serai satisfait, si je puis vous persuader que je suis, plus personne du monde,
+MONSIEUR,
+Votre tres humble et tres obeissant serviteur,
+BARBIN.
+
+ACTEURS
+LELIE, fils de Pandolphe.
+CELIE, esclave de Trufaldin.
+MASCARILLE, valet de Lelie.
+HIPPOLITE, fils d'Anselme.
+ANSELME, vieillard.
+TRUFALDIN, vieillard.
+PANDOLPHE, vieillard.
+LEANDRE, fils de famille.
+ANDRES, cru egyptien.
+ERGASTE, valet.
+UN COURRIER.
+Deux troupes de masques.
+La scene est Messine.
+
+
+
+			ACTE I
+
+
+SCENE PREMIERE.
+LELIE.
+He bien ! Leandre, he bien ! Il faudra contester :
+Nous verrons de nous deux qui pourra l'emporter,
+Qui dans nos soins communs pour ce jeune miracle,
+Aux voeux de son rival portera plus d'obstacle.
+Preparez vos efforts, et vous defendez bien,			[5]
+Sur que de mon cote je n'epargnerai rien.
+SCENE II. Lelie, Mascarille.
+LELIE.
+Ah ! Mascarille.
+MASCARILLE.
+Quoi ?
+LELIE.
+Voici bien des affaires ;
+J'ai dans ma passion toutes choses contraires :
+Leandre aime Celie, et par un trait fatal,
+Malgre mon changement, est toujours mon rival.			[10]
+MASCARILLE.
+Leandre aime Celie !
+LELIE.
+Il l'adore, te dis-je.
+MASCARILLE.
+Tant pis.
+LELIE.
+He ! Oui, tant pis, c'est la ce qui m'afflige.
+Toutefois j'aurais tort de me desesperer ;
+Puisque j'ai ton secours, je puis me rassurer :
+Je sais que ton esprit, en intrigues fertile,			[15]
+N'a jamais rien trouve qui lui fut difficile,
+Qu'on te peut appeler le roi des serviteurs,
+Et qu'en toute la terre...
+MASCARILLE.
+He ! Treve de douceurs.
+Quand nous faisons besoin, nous autres miserables,
+Nous sommes les cheris et les incomparables ;			[20]
+Et dans un autre temps, des le moindre courroux,
+Nous sommes les coquins, qu'il faut rouer de coups.
+LELIE.
+Ma foi, tu me fais tort avec cette invective.
+Mais enfin discourons un peu de ma captive ;
+Dis si les plus cruels et plus durs sentiments			[25]
+Ont rien d'impenetrable a des traits si charmants :
+Pour moi, dans ses discours, comme dans son visage,
+Je vois pour sa naissance un noble temoignage,
+Et je crois que le ciel dedans un rang si bas
+Cache son origine, et ne l'en tire pas.			[30]
+MASCARILLE.
+Vous etes romanesque avec vos chimeres.
+Mais que fera Pandolfe en toutes ces affaires ?
+C'est, monsieur, votre pere, au moins a ce qu'il dit ;
+Vous savez que sa bile assez souvent s'aigrit,
+Qu'il peste contre vous d'une belle maniere,			[35]
+Quand vos deportements lui blessent la visiere.
+Il est avec Anselme en parole pour vous
+Que de son Hippolyte on vous fera l'epoux,
+S'imaginant que c'est dans le seul mariage
+Qu'il pourra rencontrer de quoi vous faire sage ;			[40]
+Et s'il vient a savoir que, rebutant son choix,
+D'un objet inconnu vous recevez les lois,
+Que de ce fol amour la fatale puissance
+Vous soustrait au devoir de votre obeissance,
+Dieu sait quelle tempete alors eclatera,			[45]
+Et de quels beaux sermons on vous regalera.
+LELIE.
+Ah ! Treve, je vous prie, a votre rhetorique.
+MASCARILLE.
+Mais vous, treve plutot a votre politique :
+Elle n'est pas fort bonne, et vous devriez tacher...
+LELIE.
+Sais-tu qu'on n'acquiert rien de bon a me facher,			[50]
+Que chez moi les avis ont de tristes salaires,
+Qu'un valet conseiller y fait mal ses affaires ?
+MASCARILLE.
+Il se met en courroux ! Tout ce que j'en ai dit
+N'etait rien que pour rire et vous sonder l'esprit :
+D'un censeur de plaisirs ai-je fort l'encolure,			[55]
+Et Mascarille est-il ennemi de nature ?
+Vous savez le contraire, et qu'il est tres certain
+Qu'on ne peut me taxer que d'etre trop humain.
+Moquez-vous des sermons d'un vieux barbon de pere,
+Poussez votre bidet, vous dis-je, et laissez faire.			[60]
+Ma foi, j'en suis d'avis, que ces penards chagrins
+Nous viennent etourdir de leurs contes badins,
+Et vertueux par force, esperent par envie
+Oter aux jeunes gens les plaisirs de la vie !
+Vous savez mon talent : je m'offre a vous servir.			[65]
+LELIE.
+Ah ! C'est par ces discours que tu peux me ravir.
+Au reste, mon amour, quand je l'ai fait paraitre,
+N'a point ete mal vu des yeux qui l'ont fait naitre ;
+Mais Leandre a l'instant vient de me declarer
+Qu'a me ravir Celie il se va preparer.			[70]
+C'est pourquoi depechons, et cherche dans ta tete
+Les moyens les plus prompts d'en faire ma conquete ;
+Trouve ruses, detours, fourbes, inventions,
+Pour frustrer un rival de ses pretentions.
+MASCARILLE.
+Laissez-moi quelque temps rever a cette affaire.			[75]
+Que pourrais-je inventer pour ce coup necessaire ?
+LELIE.
+He bien ! Le stratageme ?
+MASCARILLE.
+Ah ! Comme vous courez !
+Ma cervelle toujours marche a pas mesures.
+J'ai trouve votre fait : il faut... Non, je m'abuse.
+Mais si vous alliez...
+LELIE.
+Ou ?			[80]
+MASCARILLE.
+C'est une faible ruse.			[80]
+J'en songeais une.
+LELIE.
+Et quelle ?
+MASCARILLE.
+Elle n'irait pas bien.
+Mais ne pourriez-vous pas... ?
+LELIE.
+Quoi ?
+MASCARILLE.
+Vous ne pourriez rien.
+Parlez avec Anselme.
+LELIE.
+Et que lui puis-je dire ?
+MASCARILLE.
+Il est vrai, c'est tomber d'un mal dedans un pire.
+Il faut pourtant l'avoir. Allez chez Trufaldin.			[85]
+LELIE.
+Que faire ?
+MASCARILLE.
+Je ne sais.
+LELIE.
+C'en est trop, a la fin ;
+Et tu me mets a bout par ces contes frivoles.
+MASCARILLE.
+Monsieur, si vous aviez en main force pistoles,
+Nous n'aurions pas besoin maintenant de rever
+A chercher les biais que nous devons trouver,			[90]
+Et pourrions, par un prompt achat de cette esclave,
+Empecher qu'un rival vous previenne et vous brave.
+De ces egyptiens qui la mirent ici
+Trufaldin, qui la garde, est en quelque souci ;
+Et trouvant son argent, qu'ils lui font trop attendre,			[95]
+Je sais bien qu'il serait tres ravi de la vendre ;
+Car enfin en vrai ladre il a toujours vecu :
+Il se ferait fesser pour moins d'un quart d'ecu,
+Et l'argent est le dieu que sur tout il revere ;
+Mais le mal, c'est...
+LELIE.
+Quoi ? C'est ?			[100]
+MASCARILLE.
+Que monsieur votre pere			[100]
+Est un autre vilain qui ne vous laisse pas,
+Comme vous voudriez bien, manier ses ducats ;
+Qu'il n'est point de ressort qui pour votre ressource
+Put faire maintenant ouvrir la moindre bourse.
+Mais tachons de parler a Celie un moment,			[105]
+Pour savoir la-dessus quel est son sentiment.
+La fenetre est ici.
+LELIE.
+Mais Trufaldin pour elle
+Fait de nuit et de jour exacte sentinelle :
+Prends garde.
+MASCARILLE.
+Dans ce coin demeurons en repos.
+Oh bonheur ! La voila qui parait a propos.			[110]
+SCENE III. Lelie, Celie, Mascarille, Trufaldin.
+LELIE.
+Ah ! Que le ciel m'oblige en offrant a ma vue
+Les celestes attraits dont vous etes pourvue !
+Et quelque mal cuisant que m'aient cause vos yeux,
+Que je prends de plaisir a les voir en ces lieux !
+CELIE.
+Mon coeur, qu'avec raison votre discours etonne,			[115]
+N'entend pas que mes yeux fassent mal a personne ;
+Et si dans quelque chose ils vous ont outrage,
+Je puis vous assurer que c'est sans mon conge.
+LELIE.
+Ah ! Leurs coups sont trop beaux pour me faire une injure ;
+Je mets toute ma gloire a cherir ma blessure,			[120]
+Et...
+MASCARILLE.
+Vous le prenez la d'un ton un peu trop haut :
+Ce style maintenant n'est pas ce qu'il nous faut.
+Profitons mieux du temps, et sachons vite d'elle
+Ce que...
+ TRUFALDIN, dans la maison.
+Celie !
+MASCARILLE.
+He bien !
+LELIE.
+Oh ! Rencontre cruelle !
+Ce malheureux vieillard devait-il nous troubler ?			[125]
+MASCARILLE.
+Allez, retirez-vous, je saurai lui parler.
+SCENE IV. Trufaldin, Celie, Mascarille, Lelie.
+ TRUFALDIN, a Celie.
+Que faites-vous dehors ? Et quel soin vous talonne,
+Vous a qui je defends de parler a personne ?
+CELIE.
+Autrefois j'ai connu cet honnete garcon,
+Et vous n'avez pas lieu d'en prendre aucun soupcon.			[130]
+MASCARILLE.
+Est-ce la le seigneur Trufaldin ?
+CELIE.
+Oui, lui-meme.
+MASCARILLE.
+Monsieur, je suis tout votre, et ma joie est extreme
+De pouvoir saluer en toute humilite
+Un homme dont le nom est partout si vante.
+TRUFALDIN.
+Tres humble serviteur.
+MASCARILLE.
+J'incommode peut-etre ;			[135]
+Mais je l'ai vue ailleurs, ou m'ayant fait connaitre
+Les grands talents qu'elle a pour savoir l'avenir,
+Je voulais sur un point un peu l'entretenir.
+TRUFALDIN.
+Quoi ? Te melerais-tu d'un peu de diablerie ?
+CELIE.
+Non, tout ce que je sais n'est que blanche magie.			[140]
+MASCARILLE.
+Voici donc ce que c'est. Le maitre que je sers
+Languit pour un objet qui le tient dans ses fers.
+Il aurait bien voulu du feu qui le devore
+Pouvoir entretenir la beaute qu'il adore ;
+Mais un dragon veillant sur ce rare tresor			[145]
+N'a pu, quoi qu'il ait fait, le lui permettre encore,
+Et ce qui plus le gene et le rend miserable,
+Il vient de decouvrir un rival redoutable :
+Si bien que pour savoir si ses soins amoureux
+Ont sujet d'esperer quelque succes heureux,			[150]
+Je viens vous consulter, sur que de votre bouche
+Je puis apprendre au vrai le secret qui nous touche.
+CELIE.
+Sous quel astre ton maitre a-t-il recu le jour ?
+MASCARILLE.
+Sous un astre a jamais ne changer son amour.
+CELIE.
+Sans me nommer l'objet pour qui son coeur soupire,			[155]
+La science que j'ai m'en peut assez instruire.
+Cette fille a du coeur, et dans l'adversite
+Elle sait conserver une noble fierte ;
+Elle n'est pas d'humeur a trop faire connaitre
+Les secrets sentiments qu'en son coeur on fait naitre ;			[160]
+Mais je les sais comme elle, et d'un esprit plus doux
+Je vais en peu de mots vous les decouvrir tous.
+MASCARILLE.
+Oh ! Merveilleux pouvoir de la vertu magique !
+CELIE.
+Si ton maitre en ce point de constance se pique,
+Et que la vertu seule anime son dessein,			[165]
+Qu'il n'apprehende pas de soupirer en vain :
+Il a lieu d'esperer, et le fort qu'il veut prendre
+N'est pas sourd aux traites, et voudra bien se rendre.
+MASCARILLE.
+C'est beaucoup, mais ce fort depend d'un gouverneur
+Difficile a gagner.
+CELIE.
+C'est la tout le malheur.			[170]
+MASCARILLE.
+Au diable le facheux qui toujours nous eclaire.
+CELIE.
+Je vais vous enseigner ce que vous devez faire.
+LELIE, les joignant.
+Cessez, o Trufaldin, de vous inquieter :
+C'est par mon ordre seul qu'il vous vient visiter,
+Et je vous l'envoyais, ce serviteur fidele,			[175]
+Vous offrir mon service, et vous parler pour elle,
+Dont je vous veux dans peu payer la liberte,
+Pourvu qu'entre nous deux le prix soit arrete.
+MASCARILLE.
+La peste soit la bete !
+TRUFALDIN.
+Ho ! Ho ! Qui des deux croire ?
+Ce discours au premier est fort contradictoire.			[180]
+MASCARILLE.
+Monsieur, ce galant homme a le cerveau blesse :
+Ne le savez-vous pas ?
+TRUFALDIN.
+Je sais ce que je sais ;
+J'ai crainte ici dessous de quelque manigance.
+Rentrez, et ne prenez jamais cette licence ;
+Et vous, filous fieffes (ou je me trompe fort),			[185]
+Mettez pour me jouer vos flutes mieux d'accord.
+MASCARILLE.
+C'est bien fait ; je voudrais qu'encore, sans flatterie,
+Il nous eut d'un baton charges de compagnie ;
+A quoi bon se montrer ? Et comme un etourdi
+Me venir dementir de tout ce que je dis ?			[190]
+LELIE.
+Je pensais faire bien.
+MASCARILLE.
+Oui, c'etait fort l'entendre.
+Mais quoi ? Cette action ne me doit point surprendre :
+Vous etes si fertile en pareils contre-temps,
+Que vos ecarts d'esprit n'etonnent plus les gens.
+LELIE.
+Ah ! Mon dieu, pour un rien me voila bien coupable !			[195]
+Le mal est-il si grand qu'il soit irreparable ?
+Enfin, si tu ne mets Celie entre mes mains,
+Songe au moins de Leandre a rompre les desseins,
+Qu'il ne puisse acheter avant moi cette belle.
+De peur que ma presence encore soit criminelle,			[200]
+Je te laisse.
+MASCARILLE.
+Fort bien. a vrai dire, l'argent
+Serait dans notre affaire un sur et fort agent ;
+Mais ce ressort manquant, il faut user d'un autre.
+SCENE V. Anselme, Mascarille.
+ANSELME.
+Par mon chef, c'est un siecle etrange que le notre !
+J'en suis confus : jamais tant d'amour pour le bien,			[205]
+Et jamais tant de peine a retirer le sien.
+Les dettes aujourd'hui, quelque soin qu'on emploie,
+Sont comme les enfants que l'on concoit en joie,
+Et dont avec peine on fait l'accouchement.
+L'argent dans une bourse entre agreablement ;			[210]
+Mais le terme venu que nous devons le rendre,
+C'est lors que les douleurs commencent a nous prendre.
+Baste, ce n'est pas peu que deux mille francs dus
+Depuis deux ans entiers me soient enfin rendus ;
+Encore est-ce un bonheur.
+MASCARILLE.
+O dieu ! La belle proie			[215]
+A tirer en volant ! Chut : il faut que je voie
+Si je pourrais un peu de pres le caresser.
+Je sais bien les discours dont il le faut bercer.
+Je viens de voir, Anselme...
+ANSELME.
+Et qui ?
+MASCARILLE.
+Votre Nerine.
+ANSELME.
+Que dit-elle de moi, cette gente assassine ?			[220]
+MASCARILLE.
+Pour vous elle est de flamme.
+ANSELME.
+Elle ?
+MASCARILLE.
+Et vous aime tant,
+Que c'est grande pitie.
+ANSELME.
+Que tu me rends content !
+MASCARILLE.
+Peu s'en faut que d'amour la pauvrette ne meure :
+" Anselme, mon mignon, crie-t-elle a toute heure,
+Quand est-ce que l'hymen unira nos deux coeurs,			[225]
+Et que tu daigneras eteindre mes ardeurs ? "
+ANSELME.
+Mais pourquoi jusqu'ici me les avoir celees ?
+Les filles, par ma foi, sont bien dissimulees !
+Mascarille, en effet, qu'en dis-tu ? Quoique vieux,
+J'ai de la mine encore assez pour plaire aux yeux.			[230]
+MASCARILLE.
+Oui, vraiment, ce visage est encore fort mettable ;
+S'il n'est pas des plus beaux, il est desagreable.
+ANSELME.
+Si bien donc...
+MASCARILLE.
+Si bien donc qu'elle est sotte de vous,
+Ne vous regarde plus...
+ANSELME.
+Quoi ?
+MASCARILLE.
+Que comme un epoux,
+Et vous veut...
+ANSELME.
+Et me veut... ?			[235]
+MASCARILLE.
+Et vous veut, quoi qu'il tienne,			[235]
+Prendre la bourse.
+ANSELME.
+La... ?
+MASCARILLE.
+La bouche avec la sienne.
+ANSELME.
+Ah ! Je t'entends. Viens ca : lorsque tu la verras,
+Vante-lui mon merite autant que tu pourras.
+MASCARILLE.
+Laissez-moi faire.
+ANSELME.
+Adieu.
+MASCARILLE.
+Que le ciel te conduise !
+ANSELME.
+Ah ! Vraiment je faisais une etrange sottise,			[240]
+Et tu pouvais pour toi m'accuser de froideur :
+Je t'engage a servir mon amoureuse ardeur,
+Je recois par ta bouche une bonne nouvelle,
+Sans du moindre present recompenser ton zele.
+Tiens, tu te souviendras...
+MASCARILLE.
+Ah ! Non pas, s'il vous plait.			[245]
+ANSELME.
+Laisse-moi.
+MASCARILLE.
+Point du tout, j'agis sans interet.
+ANSELME.
+Je le sais, mais pourtant...
+MASCARILLE.
+Non, Anselme, vous dis-je :
+Je suis homme d'honneur, cela me desoblige.
+ANSELME.
+Adieu donc, Mascarille.
+MASCARILLE.
+O long discours !
+ANSELME.
+Je veux
+Regaler par tes mains cet objet de mes voeux ;			[250]
+Et je vais te donner de quoi faire pour elle
+L'achat de quelque bague, ou telle bagatelle
+Que tu trouveras bon.
+MASCARILLE.
+Non, laissez votre argent ;
+Sans vous mettre en souci, je ferai le present,
+Et l'on m'a mis en main une bague a la mode,			[255]
+Qu'apres vous payerez si cela l'accommode.
+ANSELME.
+Soit, donne-la pour moi ; mais surtout fais si bien,
+Qu'elle garde toujours l'ardeur de me voir sien.
+SCENE VI. Lelie, Anselme, Mascarille.
+LELIE.
+A qui la bourse ?
+ANSELME.
+Ah ! Dieux ! Elle m'etait tombee,
+Et j'aurais apres cru qu'on me l'eut derobee.			[260]
+Je vous suis bien tenu de ce soin obligeant,
+Qui m'epargne un grand trouble, et me rend mon argent :
+Je vais m'en decharger au logis tout a l'heure.
+MASCARILLE.
+C'est etre officieux, et tres fort, ou je meure !
+LELIE.
+Ma foi, sans moi, l'argent etait perdu pour lui.			[265]
+MASCARILLE.
+Certes, vous faites rage, et payez aujourd'hui
+D'un jugement tres rare, et d'un bonheur extreme :
+Nous avancerons fort, continuez de meme.
+LELIE.
+Qu'est-ce donc ? Qu'ai-je fait ?
+MASCARILLE.
+Le sot, en bon francois,
+Puisque je puis le dire, et qu'enfin je le dois.			[270]
+Il sait bien l'impuissance ou son pere le laisse,
+Qu'un rival qu'il doit craindre etrangement nous presse :
+Cependant, quand je tente un coup pour l'obliger,
+Dont je cours, moi tout seul, la honte et le danger...
+LELIE.
+Quoi ? C'etait... ?
+MASCARILLE.
+Oui, bourreau, c'etait pour la captive,			[275]
+Que j'attrapais l'argent dont votre soin nous prive.
+LELIE.
+S'il est ainsi, j'ai tort ; mais qui l'eut devine ?
+MASCARILLE.
+Il fallait, en effet, etre bien raffine.
+LELIE.
+Tu me devais par signe avertir de l'affaire.
+MASCARILLE.
+Oui, je devais au dos avoir mon luminaire ;			[280]
+Au nom de Jupiter, laissez-nous en repos,
+Et ne nous chantez plus d'impertinents propos.
+Un autre apres cela quitterait tout peut-etre ;
+Mais j'avais medite tantot un coup de maitre,
+Dont tout presentement je veux voir les effets,			[285]
+A la charge que si...
+LELIE.
+Non, je te le promets,
+De ne me meler plus de rien dire ou rien faire.
+MASCARILLE.
+Allez donc, votre vue excite ma colere.
+LELIE.
+Mais surtout hate-toi, de peur qu'en ce dessein...
+MASCARILLE.
+Allez, encore un coup, j'y vais mettre la main.			[290]
+Menons bien ce projet ; la fourbe sera fine,
+S'il faut qu'elle succede ainsi que j'imagine.
+Allons voir... Bon, voici mon homme justement.
+SCENE VII. Pandolfe, Mascarille.
+PANDOLFE.
+ Mascarille.
+MASCARILLE.
+Monsieur ?
+PANDOLFE.
+A parler franchement,
+Je suis mal satisfait de mon fils.
+MASCARILLE.
+De mon maitre ?			[295]
+Vous n'etes pas le seul qui se plaigne de l'etre :
+Sa mauvaise conduite, insupportable en tout,
+Met a chaque moment ma patience a bout.
+PANDOLFE.
+Je vous croirais pourtant assez d'intelligence
+Ensemble.
+MASCARILLE.
+Moi ? Monsieur, perdez cette croyance :			[300]
+Toujours de son devoir je tache a l'avertir ;
+Et l'on nous voit sans cesse avoir maille a partir.
+A l'heure meme encore nous avons eu querelle
+Sur l'hymen d'Hippolyte, ou je le vois rebelle,
+Ou par l'indignite d'un refus criminel,			[305]
+Je le vois offenser le respect paternel.
+PANDOLFE.
+Querelle ?
+MASCARILLE.
+Oui, querelle, et bien avant poussee.
+PANDOLFE.
+Je me trompais donc bien ; car j'avais la pensee
+Qu'a tout ce qu'il faisait tu donnais de l'appui.
+MASCARILLE.
+Moi ! Voyez ce que c'est que du monde aujourd'hui,			[310]
+Et comme l'innocence est toujours opprimee.
+Si mon integrite vous etait confirmee,
+Je suis aupres de lui gage pour serviteur,
+Vous me voudriez encore payer pour precepteur.
+Oui, vous ne pourriez pas lui dire davantage			[315]
+Que ce que je lui dis pour le faire etre sage.
+"Monsieur, au nom de Dieu, lui fais-je assez souvent,
+Cessez de vous laisser conduire au premier vent,
+Reglez-vous. Regardez l'honnete homme de pere
+Que vous avez du ciel, comme on le considere ;			[320]
+Cessez de lui vouloir donner la mort au coeur,
+Et comme lui vivez en personne d'honneur. "
+PANDOLFE.
+C'est parler comme il faut. Et que peut-il repondre ?
+MASCARILLE.
+Repondre ? Des chansons, dont il me vient confondre.
+Ce n'est pas qu'en effet, dans le fond de son coeur,			[325]
+Il ne tienne de vous des semences d'honneur ;
+Mais sa raison n'est pas maintenant la maitresse.
+Si je pouvais parler avec hardiesse,
+Vous le verriez dans peu soumis sans nul effort.
+PANDOLFE.
+Parle.
+MASCARILLE.
+C'est un secret qui m'importerait fort,			[330]
+S'il etait decouvert ; mais a votre prudence
+Je puis le confier avec toute assurance.
+PANDOLFE.
+Tu dis bien.
+MASCARILLE.
+Sachez donc que vos voeux sont trahis
+Par l'amour qu'une esclave imprime a votre fils.
+PANDOLFE.
+On m'en avait parle ; mais l'action me touche,			[335]
+De voir que je l'apprenne encore par ta bouche.
+MASCARILLE.
+Vous voyez si je suis le secret confident...
+PANDOLFE.
+Vraiment, je suis ravi de cela.
+MASCARILLE.
+Cependant
+A son devoir, sans bruit, desirez-vous le rendre ?
+Il faut... (j'ai toujours peur qu'on nous vienne surprendre :			[340]
+Ce serait fait de moi s'il savait ce discours),
+Il faut, dis-je, pour rompre a toute chose cours,
+Acheter sourdement l'esclave idolatree,
+Et la faire passer en une autre contree.
+Anselme a grand acces aupres de Trufaldin :			[345]
+Qu'il aille l'acheter pour vous des ce matin.
+Apres, si vous voulez en mes mains la remettre,
+Je connais des marchands, et puis bien vous promettre
+D'en retirer l'argent qu'elle pourra couter,
+Et malgre votre fils de la faire ecarter.			[350]
+Car enfin, si l'on veut qu'a l'hymen il se range,
+A cette amour naissante il faut donner le change ;
+Et de plus, quand bien meme il serait resolu,
+Qu'il aurait pris le joug que vous avez voulu,
+Cet autre objet, pouvant reveiller son caprice,			[355]
+Au mariage encore peut porter prejudice.
+PANDOLFE.
+C'est tres bien raisonne ; ce conseil me plait fort.
+Je vois Anselme ; va, je m'en vais faire effort
+Pour avoir promptement cette esclave funeste,
+Et la mettre en tes mains pour achever le reste.			[360]
+MASCARILLE.
+Bon, allons avertir mon maitre de ceci.
+Vive la fourberie, et les fourbes aussi !
+SCENE VIII. Hippolyte, Mascarille.
+HIPPOLITE.
+Oui, traitre ? C'est ainsi que tu me rends service ?
+Je viens de tout entendre et voir ton artifice :
+A moins que de cela, l'eusse-je soupconne ?			[365]
+Tu couches d'imposture, et tu m'en as donne !
+Tu m'avais promis, lache, et j'avais lieu d'attendre
+Qu'on te verrait servir mes ardeurs pour Leandre,
+Que du choix de Lelie, ou l'on veut m'obliger,
+Ton adresse et tes soins sauraient me degager,			[370]
+Que tu m'affranchirais du projet de mon pere ;
+Et cependant ici tu fais tout le contraire.
+Mais tu t'abuseras : je sais un sur moyen
+Pour rompre cet achat ou tu pousses si bien ;
+Et je vais de ce pas...
+MASCARILLE.
+Ah ! Que vous etes prompte !			[375]
+La mouche tout d'un coup a la tete vous monte ;
+Et sans considerer s'il a raison ou non,
+Votre esprit contre moi fait le petit demon.
+J'ai tort, et je devrais, sans finir mon ouvrage,
+Vous faire dire vrai, puisqu'ainsi l'on m'outrage.			[380]
+HIPPOLITE.
+Par quelle illusion penses-tu m'eblouir ?
+Traitre, peux-tu nier ce que je viens d'ouir ?
+MASCARILLE.
+Non, mais il faut savoir que tout cet artifice
+Ne va directement qu'a vous rendre service ;
+Que ce conseil adroit, qui semble etre sans fard,			[385]
+Jette dans le panneau l'un et l'autre vieillard ;
+Que mon soin par leurs mains ne veut avoir Celie
+Qu'a dessein de la mettre au pouvoir de Lelie,
+Et faire que l'effet de cette invention
+Dans le dernier exces portant sa passion,			[390]
+Anselme, rebute de son pretendu gendre,
+Puisse tourner son choix du cote de Leandre.
+HIPPOLITE.
+Quoi ? Tout ce grand projet qui m'a mise en courroux,
+Tu l'as forme pour moi, Mascarille ?
+MASCARILLE.
+Oui, pour vous ;
+Mais puisqu'on reconnait si mal mes bons offices,			[395]
+Qu'il me faut de la sorte essuyer vos caprices,
+Et que pour recompense on s'en vient de hauteur
+Me traiter de faquin, de lache, d'imposteur,
+Je m'en vais reparer l'erreur que j'ai commise,
+Et des ce meme pas rompre mon entreprise.			[400]
+HIPPOLITE, l'arretant.
+He ! Ne me traite pas si rigoureusement,
+Et pardonne aux transports d'un premier mouvement.
+MASCARILLE.
+Non, non, laissez-moi faire, il est en ma puissance
+De detourner le coup qui si fort vous offense.
+Vous ne vous plaindrez point de mes soins desormais :			[405]
+Oui, vous aurez mon maitre, et je vous le promets.
+HIPPOLITE.
+He ! Mon pauvre garcon, que ta colere cesse :
+J'ai mal juge de toi, j'ai tort, je le confesse ;
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais je veux reparer ma faute avec ceci.
+Pourrais-tu te resoudre a me quitter ainsi ?			[410]
+MASCARILLE.
+Non, je ne le saurais, quelque effort que je fasse,
+Mais votre promptitude est de mauvaise grace.
+Apprenez qu'il n'est rien qui blesse un noble coeur
+Comme quand il peut voir qu'on le touche en l'honneur.
+HIPPOLITE.
+Il est vrai, je t'ai dit de trop grosses injures ;			[415]
+Mais que ces deux louis guerissent tes blessures.
+MASCARILLE.
+He ! Tout cela n'est rien : je suis tendre a ces coups ;
+Mais deja je commence a perdre mon courroux :
+Il faut de ses amis endurer quelque chose.
+HIPPOLITE.
+Pourras-tu mettre a fin ce que je me propose,			[420]
+Et crois-tu que l'effet de tes desseins hardis
+Produise a mon amour le succes que tu dis ?
+MASCARILLE.
+N'ayez point pour ce fait l'esprit sur des epines ;
+J'ai des ressorts tout prets pour diverses machines ;
+Et quand ce stratageme a nos voeux manquerait,			[425]
+Ce qu'il ne ferait pas, un autre le ferait.
+HIPPOLITE.
+Crois qu'Hippolyte au moins ne sera pas ingrate.
+MASCARILLE.
+L'esperance du gain n'est pas ce qui me flatte.
+HIPPOLITE.
+Ton maitre te fait signe, et veut parler a toi :
+Je te quitte ; mais songe a bien agir pour moi.			[430]
+SCENE IX. Lelie, Mascarille.
+LELIE.
+Que diable fais-tu la ? Tu me promets merveille ;
+Mais ta lenteur d'agir est pour moi sans pareille.
+Sans que mon bon genie au-devant m'a pousse,
+Deja tout mon bonheur eut ete renverse :
+C'etait fait de mon bien, c'etait fait de ma joie ;			[435]
+D'un regret eternel je devenais la proie :
+Bref, si je ne me fusse en ce lieu rencontre,
+Anselme avait l'esclave, et j'en etais frustre :
+Il l'emmenait chez lui ; mais j'ai pare l'atteinte,
+J'ai detourne le coup, et tant fait, que par crainte			[440]
+Le pauvre Trufaldin l'a retenue.
+MASCARILLE.
+Et trois :
+Quand nous serons a dix, nous ferons une croix.
+C'etait par mon adresse, o cervelle incurable !
+Qu'Anselme entreprenait cet achat favorable.
+Entre mes propres mains on la devait livrer,			[445]
+Et vos soins endiables nous en viennent sevrer ;
+Et puis pour votre amour je m'emploierais encore ?
+J'aimerais mieux cent fois etre grosse pecore,
+Devenir cruche, chou, lanterne, loup-garou,
+Et que monsieur Satan vous vint tordre le cou.			[450]
+LELIE.
+Il nous le faut mener en quelque hotellerie,
+Et faire sur les pots decharger sa furie.
+
+
+			ACTE II
+
+
+SCENE PREMIERE. Lelie, Mascarille.
+MASCARILLE.
+A vos desirs enfin il a fallu se rendre :
+Malgre tous mes serments je n'ai pu m'en defendre,
+Et pour vos interets, que je voulais laisser,			[455]
+En de nouveaux perils viens de m'embarrasser.
+Je suis ainsi facile, et si de Mascarille
+Madame la nature avait fait une fille,
+Je vous laisse a penser ce que c'aurait ete.
+Toutefois n'allez pas sur cette surete			[460]
+Donner de vos revers au projet que je tente,
+Me faire une bevue, et rompre mon attente.
+Aupres d'Anselme encore nous vous excuserons,
+Pour en pouvoir tirer ce que nous desirons ;
+Mais si dorenavant votre imprudence eclate,			[465]
+Adieu vous dis mes soins pour l'objet qui vous flatte.
+LELIE.
+Non, je serai prudent, te dis-je, ne crains rien :
+Tu verras seulement...
+MASCARILLE.
+Souvenez-vous-en bien :
+J'ai commence pour vous un hardi stratageme :
+Votre pere fait voir une paresse extreme			[470]
+A rendre par sa mort tous vos desirs contents ;
+Je viens de le tuer, de parole, j'entends :
+Je fais courir le bruit que d'une apoplexie
+Le bonhomme surpris a quitte cette vie.
+Mais avant, pour pouvoir mieux feindre ce trepas,			[475]
+J'ai fait que vers sa grange il a porte ses pas :
+On est venu lui dire, et par mon artifice,
+Que les ouvriers qui sont apres son edifice,
+Parmi les fondements qu'ils en jettent encore,
+Avaient fait par hasard rencontre d'un tresor ;			[480]
+Il a vole d'abord, et comme a la campagne
+Tout son monde a present, hors nous deux, l'accompagne,
+Dans l'esprit d'un chacun je le tue aujourd'hui,
+Et produis un fantome enseveli pour lui.
+Enfin je vous ai dit a quoi je vous engage :			[485]
+Jouez bien votre role ; et pour mon personnage,
+Si vous apercevez que j'y manque d'un mot,
+Dites absolument que je ne suis qu'un sot.
+LELIE, seul.
+Son esprit, il est vrai, trouve une etrange voie
+Pour adresser mes voeux au comble de leur joie ;			[490]
+Mais quand d'un bel objet on est bien amoureux,
+Que ne ferait-on pas pour devenir heureux ?
+Si l'amour est au crime une assez belle excuse,
+Il en peut bien servir a la petite ruse
+Que sa flamme aujourd'hui me force d'approuver			[495]
+Par la douceur du bien qui m'en doit arriver.
+Juste ciel ! Qu'ils sont prompts ! Je les vois en parole :
+Allons nous preparer a jouer notre role.
+SCENE II. Mascarille, Anselme.
+MASCARILLE.
+La nouvelle a sujet de vous surprendre fort.
+ANSELME.
+Etre mort de la sorte !
+MASCARILLE.
+Il a certes grand tort :			[500]
+Je lui sais mauvais gre d'une telle incartade.
+ANSELME.
+N'avoir pas seulement le temps d'etre malade !
+MASCARILLE.
+Non, jamais homme n'eut si hate de mourir.
+ANSELME.
+Et Lelie ?
+MASCARILLE.
+Il se bat, et ne peut rien souffrir :
+Il s'est fait en maints lieux contusion et bosse,			[505]
+Et veut accompagner son papa dans la fosse ;
+Enfin, pour achever, l'exces de son transport
+M'a fait en grande hate ensevelir le mort,
+De peur que cet objet, qui le rend hypocondre,
+A faire un vilain coup ne me l'allat semondre.			[510]
+ANSELME.
+N'importe, tu devais attendre jusqu'au soir.
+Outre qu'encore un coup j'aurais voulu le voir,
+Qui tot ensevelit bien souvent assassine,
+Et tel est cru defunt, qui n'en a que la mine.
+MASCARILLE.
+Je vous le garantis trepasse comme il faut.			[515]
+Au reste, pour venir au discours de tantot,
+Lelie (et l'action lui sera salutaire)
+D'un bel enterrement veut regaler son pere,
+Et consoler un peu ce defunt de son sort
+Par le plaisir de voir faire honneur a sa mort.			[520]
+Il herite beaucoup ; mais comme en ses affaires
+Il se trouve assez neuf et ne voit encore guere,
+Que son bien, la plupart, n'est point en ces quartiers,
+Ou que ce qu'il y tient consiste en des papiers,
+Il voudrait vous prier, ensuite de l'instance			[525]
+D'excuser de tantot son trop de violence,
+De lui preter au moins pour ce dernier devoir...
+ANSELME.
+Tu me l'as deja dit, et je m'en vais le voir.
+MASCARILLE.
+Jusques ici du moins tout va le mieux du monde ;
+Tachons a ce progres que le reste reponde,			[530]
+Et de peur de trouver dans le port un ecueil,
+Conduisons le vaisseau de la main et de l'oeil.
+SCENE III. Anselme, Mascarille, Lelie.
+ANSELME.
+Sortons, je ne saurais qu'avec douleur tres forte
+Le voir empaquete de cette etrange sorte :
+Las ! En si peu de temps ! Il vivait ce matin !			[535]
+MASCARILLE.
+En peu de temps parfois on fait bien du chemin.
+LELIE.
+Ah !
+ANSELME.
+Mais quoi ? Cher Lelie, enfin il etait homme :
+On n'a point pour la mort de dispense de Rome.
+LELIE.
+Ah !
+ANSELME.
+Sans leur dire gare elle abat les humains,
+Et contre eux de tout temps a de mauvais desseins.			[540]
+LELIE.
+Ah !
+ANSELME.
+Ce fier animal, pour toutes les prieres
+Ne perdrait pas un coup de ses dents meurtrieres :
+Tout le monde y passe.
+LELIE.
+Ah !
+MASCARILLE.
+Vous avez beau precher,
+Ce deuil enracine ne se peut arracher.
+ANSELME.
+Si malgre ces raisons votre ennui persevere,			[545]
+Mon cher Lelie, au moins, faites qu'il se modere.
+LELIE.
+Ah !
+MASCARILLE.
+Il n'en fera rien, je connais son humeur.
+ANSELME.
+Au reste, sur l'avis de votre serviteur,
+J'apporte ici l'argent qui vous est necessaire
+Pour faire celebrer les obseques d'un pere...			[550]
+LELIE.
+Ah ! Ah !
+MASCARILLE.
+Comme a ce mot s'augmente sa douleur !
+Il ne peut sans mourir songer a ce malheur.
+ANSELME.
+Je sais que vous verrez aux papiers du bonhomme
+Que je suis debiteur d'une plus grande somme ;
+Mais quand par ces raisons je ne vous devrais rien,			[555]
+Vous pourriez librement disposer de mon bien.
+Tenez, je suis tout votre, et le ferai paraitre.
+LELIE, s'en allant.
+Ah !
+MASCARILLE.
+Le grand deplaisir que sent monsieur mon maitre !
+ANSELME.
+Mascarille, je crois qu'il serait a propos
+Qu'il me fit de sa main un recu de deux mots.			[560]
+MASCARILLE.
+Ah !
+ANSELME.
+Des evenements l'incertitude est grande.
+MASCARILLE.
+Ah !
+ANSELME.
+Faisons-lui signer le mot que je demande.
+MASCARILLE.
+Las ! En l'etat qu'il est, comment vous contenter ?
+Donnez-lui le loisir de se desatrister ;
+Et quand ses deplaisirs prendront quelque allegeance,			[565]
+J'aurai soin d'en tirer d'abord votre assurance.
+Adieu : je sens mon coeur qui se gonfle d'ennui,
+Et m'en vais tout mon soul pleurer avec lui !
+Ah !
+ANSELME, seul.
+Le monde est rempli de beaucoup de traverses,
+Chaque homme tous les jours en ressent de diverses,			[570]
+Et jamais ici-bas...
+SCENE IV. Anselme, Pandolfe.
+ANSELME.
+Ah ! Bons dieux ! Je fremi !
+Pandolfe qui revient ! Fut-il bien endormi !
+Comme depuis sa mort sa face est amaigrie !
+Las ! Ne m'approchez pas de plus pres, je vous prie ;
+J'ai trop de repugnance a coudoyer un mort.			[575]
+PANDOLFE.
+D'ou peut donc provenir ce bizarre transport ?
+ANSELME.
+Dites-moi de bien loin quel sujet vous amene.
+Si pour me dire adieu vous prenez tant de peine,
+C'est trop de courtoisie, et veritablement
+Je me serais passe de votre compliment.			[580]
+Si votre ame est en peine et cherche des prieres,
+Las ! Je vous en promets, et ne m'effrayez guere :
+Foi d'homme epouvante, je vais faire a l'instant
+Prier tant Dieu pour vous que vous serez content.
+Disparaissez donc, je vous prie ;			[585]
+Et que le ciel par sa bonte
+Comble de joie et de sante
+Votre defunte seigneurie !
+PANDOLFE, riant.
+Malgre tout mon depit, il m'y faut prendre part.
+ANSELME.
+Las ! Pour un trepasse vous etes bien gaillard !			[590]
+PANDOLFE.
+Est-ce jeu ? Dites-nous, ou bien si c'est folie,
+Qui traite de defunt une personne en vie ?
+ANSELME.
+Helas ! Vous etes mort, et je viens de vous voir.
+PANDOLFE.
+Quoi ? J'aurais trepasse sans m'en apercevoir ?
+ANSELME.
+Sitot que Mascarille en a dit la nouvelle,			[595]
+J'en ai senti dans l'ame une douleur mortelle.
+PANDOLFE.
+Mais enfin, dormez-vous ? etes-vous eveille ?
+Me connaissez-vous pas ?
+ANSELME.
+Vous etes habille
+D'un corps aerien qui contrefait le votre,
+Mais qui dans un moment peut devenir tout autre.			[600]
+Je crains fort de vous voir comme un geant grandir,
+Et tout votre visage affreusement laidir.
+Pour Dieu, ne prenez point de vilaine figure ;
+J'ai prou de ma frayeur en cette conjoncture.
+PANDOLFE.
+En une autre saison, cette naivete			[605]
+Dont vous accompagnez votre credulite,
+Anselme, me serait un charmant badinage,
+Et j'en prolongerais le plaisir davantage ;
+Mais avec cette mort un tresor suppose,
+Dont parmi les chemins on m'a desabuse,			[610]
+Fomente dans mon ame un soupcon legitime :
+Mascarille est un fourbe, et fourbe fourbissime,
+Sur qui ne peuvent rien la crainte et le remords,
+Et qui pour ses desseins a d'etranges ressorts.
+ANSELME.
+M'aurait-on joue piece et fait supercherie ?			[615]
+Ah ! Vraiment, ma raison, vous seriez fort jolie !
+Touchons un peu pour voir : en effet, c'est bien lui.
+Malepeste du sot que je suis aujourd'hui !
+De grace, n'allez pas divulguer un tel conte :
+On en ferait jouer quelque farce a ma honte.			[620]
+Mais, Pandolfe, aidez-moi vous-meme a retirer
+L'argent que j'ai donne pour vous faire enterrer.
+PANDOLFE.
+De l'argent, dites-vous ? Ah ! C'est donc l'enclouure ?
+Voila le noeud secret de toute l'aventure ?
+A votre dam. Pour moi, sans m'en mettre en souci,			[625]
+Je vais faire informer de cette affaire-ici
+Contre ce Mascarille, et si l'on peut le prendre,
+Quoi qu'il puisse couter, je veux le faire pendre.
+ANSELME.
+Et moi, la bonne dupe, a trop croire un vaurien,
+Il faut donc qu'aujourd'hui je perde et sens et bien ?			[630]
+Il me sied bien, ma foi, de porter tete grise,
+Et d'etre encor si prompt a faire une sottise,
+D'examiner si peu sur un premier rapport... !
+Mais je vois...
+SCENE V. Lelie, Anselme.
+LELIE.
+Maintenant, avec ce passe-port,
+Je puis a Trufaldin rendre aisement visite.			[635]
+ANSELME.
+A ce que je puis voir, votre douleur vous quitte.
+LELIE.
+Que dites-vous ? Jamais elle ne quittera
+Un coeur qui cherement toujours la nourrira.
+ANSELME.
+Je reviens sur mes pas vous dire avec franchise
+Que tantot avec vous j'ai fait une meprise ;			[640]
+Que parmi ces louis, quoiqu'ils semblent tres beaux,
+J'en ai, sans y penser, mele que je tiens faux,
+Et j'apporte sur moi de quoi mettre en leur place.
+De nos faux-monnayeurs l'insupportable audace
+Pullule en cet etat d'une telle facon,			[645]
+Qu'on ne recoit plus rien qui soit hors de soupcon :
+Mon Dieu ! Qu'on ferait bien de les faire tous pendre !
+LELIE.
+Vous me faites plaisir de les vouloir reprendre ;
+Mais je n'en ai point vu de faux, comme je crois.
+ANSELME.
+Je les connaitrai bien ; montrez, montrez-les-moi :			[650]
+Est-ce tout ?
+LELIE.
+Oui.
+ANSELME.
+Tant mieux. Enfin je vous raccroche,
+Mon argent bien aime : rentrez dedans ma poche.
+Et vous, mon brave escroc, vous ne tenez plus rien.
+Vous tuez donc des gens qui se portent fort bien ?
+Et qu'auriez-vous donc fait sur moi, chetif beau-pere ?			[655]
+Ma foi, je m'engendrais d'une belle maniere,
+Et j'allais prendre en vous un beau-fils fort discret !
+Allez, allez mourir de honte et de regret.
+LELIE.
+Il faut dire : " J'en tiens. " quelle surprise extreme !
+D'ou peut-il avoir su sitot le stratageme ?			[660]
+SCENE VI. Mascarille, Lelie.
+MASCARILLE.
+Quoi ? Vous etiez sorti ? Je vous cherchais partout.
+He bien ! En sommes-nous enfin venus a bout ?
+Je le donne en six coups au fourbe le plus brave.
+Ca, donnez-moi que j'aille acheter notre esclave :
+Votre rival apres sera bien etonne.			[665]
+LELIE.
+Ah ! Mon pauvre garcon, la chance a bien tourne !
+Pourrais-tu de mon sort deviner l'injustice ?
+MASCARILLE.
+Quoi ? Que serait-ce ?
+LELIE.
+Anselme, instruit de l'artifice,
+M'a repris maintenant tout ce qu'il nous pretait,
+Sous couleur de changer de l'or que l'on doutait.			[670]
+MASCARILLE.
+Vous vous moquez peut-etre ?
+LELIE.
+Il est trop veritable.
+MASCARILLE.
+Tout de bon ?
+LELIE.
+Tout de bon ; j'en suis inconsolable.
+Tu te vas emporter d'un courroux sans egal.
+MASCARILLE.
+Moi, Monsieur ? Quelque sot ! La colere fait mal ;
+Et je veux me choyer, quoi qu'enfin il arrive :			[675]
+Que Celie apres tout soit ou libre ou captive,
+Que Leandre l'achete ou qu'elle reste la,
+Pour moi, je m'en soucie autant que de cela.
+LELIE.
+Ah ! N'aie point pour moi si grande indifference,
+Et sois plus indulgent a ce peu d'imprudence.			[680]
+Sans ce dernier malheur, ne m'avoueras-tu pas
+Que j'avais fait merveille, et qu'en ce feint trepas
+J'eludais un chacun d'un deuil si vraisemblable,
+Que les plus clairvoyants l'auraient cru veritable ?
+MASCARILLE.
+Vous avez en effet sujet de vous louer.			[685]
+LELIE.
+He bien ! Je suis coupable, et je veux l'avouer ;
+Mais si jamais mon bien te fut considerable,
+Repare ce malheur, et me sois secourable.
+MASCARILLE.
+Je vous baise les mains, je n'ai pas le loisir.
+LELIE.
+Mascarille, mon fils.
+MASCARILLE.
+Point.			[690]
+LELIE.
+Fais-moi ce plaisir.			[690]
+MASCARILLE.
+Non, je n'en ferai rien.
+LELIE.
+Si tu m'es inflexible,
+Je m'en vais me tuer.
+MASCARILLE.
+Soit, il vous est loisible.
+LELIE.
+Je ne te puis flechir ?
+MASCARILLE.
+Non.
+LELIE.
+Vois-tu le fer pret ?
+MASCARILLE.
+Oui.
+LELIE.
+Je vais le pousser.
+MASCARILLE.
+Faites ce qu'il vous plait.
+LELIE.
+Tu n'auras pas regret de m'arracher la vie ?			[695]
+MASCARILLE.
+Non.
+LELIE.
+Adieu, Mascarille.
+MASCARILLE.
+Adieu, monsieur Lelie.
+LELIE.
+Quoi... ?
+MASCARILLE.
+Tuez-vous donc vite : ah ! Que de longs devis !
+LELIE.
+Tu voudrais bien, ma foi, pour avoir mes habits,
+Que je fisse le sot, et que je me tuasse.
+MASCARILLE.
+Savais-je pas qu'enfin ce n'etait que grimace,			[700]
+Et quoi que ces esprits jurent d'effectuer,
+Qu'on n'est point aujourd'hui si prompt a se tuer ?
+SCENE VII. Lelie, Mascarille, Trufaldin.
+LELIE.
+Que vois-je ? Mon rival et Trufaldin ensemble !
+Il achete Celie ! Ah ! De frayeur je tremble.
+MASCARILLE.
+Il ne faut point douter qu'il fera ce qu'il peut,			[705]
+Et s'il a de l'argent, qu'il pourra ce qu'il veut.
+Pour moi, j'en suis ravi : voila la recompense
+De vos brusques erreurs, de votre impatience.
+LELIE.
+Que dois-je faire ? Dis, veuille me conseiller.
+MASCARILLE.
+Je ne sais.
+LELIE.
+Laisse-moi, je vais le quereller.			[710]
+MASCARILLE.
+Qu'en arrivera-t-il ?
+LELIE.
+Que veux-tu que je fasse
+Pour empecher ce coup ?
+MASCARILLE.
+Allez, je vous fais grace ;
+Je jette encore un oeil pitoyable sur vous :
+Laissez-moi l'observer ; par des moyens plus doux
+Je vais, comme je crois, savoir ce qu'il projette.			[715]
+TRUFALDIN.
+Quand on viendra tantot, c'est une affaire faite.
+MASCARILLE.
+Il faut que je l'attrape, et que de ses desseins
+Je sois le confident, pour mieux les rendre vains.
+LEANDRE.
+Graces au ciel, voila mon bonheur hors d'atteinte,
+J'ai su me l'assurer, et je n'ai plus de crainte :			[720]
+Quoi que desormais puisse entreprendre un rival,
+Il n'est plus en pouvoir de me faire du mal.
+MASCARILLE.
+Ahi ! Ahi ! A l'aide ! Au meurtre ! Au secours ! On m'assomme !
+Ah ! Ah ! Ah ! Ah ! Ah ! Ah ! O traitre ! O bourreau d'homme !
+LEANDRE.
+D'ou procede cela ? Qu'est-ce ? Que te fait-on ?			[725]
+MASCARILLE.
+On vient de me donner deux cents coups de baton.
+LEANDRE.
+Qui ?
+MASCARILLE.
+Lelie.
+LEANDRE.
+Et pourquoi ?
+MASCARILLE.
+Pour une bagatelle,
+Il me chasse et me bat d'une facon cruelle.
+LEANDRE.
+Ah ! Vraiment il a tort.
+MASCARILLE.
+Mais, ou je ne pourrai,
+Ou je jure bien fort que je m'en vengerai ;			[730]
+Oui, je te ferai voir, batteur que Dieu confonde !
+Que ce n'est pas pour rien qu'il faut rouer le monde,
+Que je suis un valet, mais fort homme d'honneur,
+Et qu'apres m'avoir eu quatre ans pour serviteur,
+Il ne me fallait pas payer en coups de gaules,			[735]
+Et me faire un affront si sensible aux epaules ;
+Je te le dis encore, je saurai m'en venger :
+Une esclave te plait, tu voulais m'engager
+A la mettre en tes mains, et je veux faire en sorte
+Qu'un autre te l'enleve, ou le diable m'emporte !			[740]
+LEANDRE.
+Ecoute, Mascarille, et quitte ce transport :
+Tu m'as plu de tout temps, et je souhaitais fort
+Qu'un garcon comme toi, plein d'esprit et fidele,
+A mon service un jour put attacher son zele :
+Enfin, si le parti te semble bon pour toi,			[745]
+Si tu veux me servir, je t'arrete avec moi.
+MASCARILLE.
+Oui, monsieur ; d'autant mieux que le destin propice
+M'offre a me bien venger en vous rendant service,
+Et que dans mes efforts pour vos contentements
+Je puis a mon brutal trouver des chatiments ;			[750]
+De Celie, en un mot, par mon adresse extreme...
+LEANDRE.
+Mon amour s'est rendu cet office lui-meme :
+Enflamme d'un objet qui n'a point de defaut,
+Je viens de l'acheter moins encore qu'il ne vaut.
+MASCARILLE.
+Quoi ? Celie est a vous ?
+LEANDRE.
+Tu la verrais paraitre,			[755]
+Si de mes actions j'etais tout a fait maitre ;
+Mais quoi ? Mon pere l'est : comme il a volonte
+(ainsi que je l'apprends d'un paquet apporte)
+De me determiner a l'hymen d'Hippolyte,
+J'empeche qu'un rapport de tout ceci l'irrite.			[760]
+Donc avec Trufaldin, car je sors de chez lui,
+J'ai voulu tout expres agir au nom d'autrui ;
+Et l'achat fait, ma bague est la marque choisie
+Sur laquelle au premier il doit livrer Celie.
+Je songe auparavant a chercher les moyens			[765]
+D'oter aux yeux de tous ce qui charme les miens,
+A trouver promptement un endroit favorable
+Ou puisse etre en secret cette captive aimable.
+MASCARILLE.
+Hors de la ville un peu, je puis avec raison
+D'un vieux parent que j'ai vous offrir la maison :			[770]
+La vous pourrez la mettre avec toute assurance,
+Et de cette action nul n'aura connaissance.
+LEANDRE.
+Oui, ma foi, tu me fais un plaisir souhaite ;
+Tiens donc, et va pour moi prendre cette beaute :
+Des que par Trufaldin ma bague sera vue,			[775]
+Aussitot en tes mains elle sera rendue,
+Et dans cette maison tu me la conduiras
+Quand... Mais chut, Hippolyte est ici sur nos pas.
+SCENE VIII. Hippolyte, Leandre, Mascarille.
+HIPPOLITE.
+Je dois vous annoncer, Leandre, une nouvelle ;
+Mais la trouverez-vous agreable, ou cruelle ?			[780]
+LEANDRE.
+Pour en pouvoir juger, et repondre soudain,
+Il faudrait la savoir.
+HIPPOLITE.
+Donnez-moi donc la main
+Jusqu'au temple ; en marchant je pourrai vous l'apprendre.
+LEANDRE.
+Va, va-t'en me servir sans davantage attendre.
+MASCARILLE.
+Oui, je te vais servir d'un plat de ma facon.			[785]
+Fut-il jamais au monde un plus heureux garcon ?
+Oh ! Que dans un moment Lelie aura de joie !
+Sa maitresse en nos mains tomber par cette voie !
+Recevoir tout son bien d'ou l'on attend le mal,
+Et devenir heureux par la main d'un rival !			[790]
+Apres ce rare exploit, je veux que l'on s'apprete
+A me peindre en heros un laurier sur la tete,
+Et qu'au bas du portrait on mette en lettres d'or :
+Vivat Mascarillus, fourbum imperator !
+SCENE IX. Mascarille, Trufaldin
+MASCARILLE.
+Hola !
+TRUFALDIN.
+Que voulez-vous ?			[795]
+MASCARILLE.
+Cette bague connue			[795]
+Vous dira le sujet qui cause ma venue.
+TRUFALDIN.
+Oui, je reconnais bien la bague que voila :
+Je vais querir l'esclave ; arretez un peu la.
+SCENE X. La Courrier, Trufaldin, Mascarille.
+LE COURRIER.
+Seigneur, obligez-moi de m'enseigner un homme...
+TRUFALDIN.
+Et qui ?
+LE COURRIER.
+Je crois que c'est Trufaldin qu'il se nomme.			[800]
+TRUFALDIN.
+Et que lui voulez-vous ? Vous le voyez ici.
+LE COURRIER.
+Lui rendre seulement la lettre que voici.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)"Le ciel, dont la bonte prend souci de ma vie,
+Vient de me faire ouir par un bruit assez doux
+Que ma fille, a quatre ans par des voleurs ravie,			[805]
+Sous le nom de Celie est esclave chez vous.
+Si vous sutes jamais ce que c'est qu'etre pere,
+Et vous trouvez sensible aux tendresses du sang,
+Conservez-moi chez vous cette fille si chere,
+Comme si de la votre elle tenait le rang.			[810]
+Pour l'aller retirer je pars d'ici moi-meme,
+Et vous vais de vos soins recompenser si bien,
+Que par votre bonheur, que je veux rendre extreme,
+Vous benirez le jour ou vous causez le mien.
+De Madrid.
+Don Pedro de Gusman,Marquis de Montalcane. "
+TRUFALDIN.
+Quoiqu'a leur nation bien peu de foi soit due,			[815]
+Ils me l'avaient bien dit, ceux qui me l'ont vendue,
+Que je verrais dans peu quelqu'un la retirer,
+Et que je n'aurais pas sujet d'en murmurer ;
+Et cependant j'allais par mon impatience
+Perdre aujourd'hui les fruits d'une haute esperance.			[820]
+Un seul moment plus tard tous vos pas etaient vains,
+J'allais mettre en l'instant cette fille en ses mains ;
+Mais suffit, j'en aurai tout le soin qu'on desire.
+Vous-meme vous voyez ce que je viens de lire :
+Vous direz a celui qui vous a fait venir			[825]
+Que je ne lui saurais ma parole tenir,
+Qu'il vienne retirer son argent.
+MASCARILLE.
+Mais l'outrage
+Que vous lui faites...
+TRUFALDIN.
+Va, sans causer davantage.
+MASCARILLE.
+Ah ! Le facheux paquet que nous venons d'avoir !
+Le sort a bien donne la baye a mon espoir,			[830]
+Et bien a la male-heure est-il venu d'Espagne,
+Ce courrier que la foudre ou la grele accompagne :
+Jamais, certes, jamais plus beau commencement
+N'eut en si peu de temps plus triste evenement.
+SCENE XI. Mascarille, Lelie.
+MASCARILLE.
+Quel beau transport de joie a present vous inspire ?			[835]
+LELIE.
+Laisse-m'en rire encore avant que te le dire.
+MASCARILLE.
+Ca, rions donc bien fort, nous en avons sujet.
+LELIE.
+Ah ! Je ne serai plus de tes plaintes l'objet ;
+Tu ne me diras plus, toi qui toujours me cries,
+Que je gate en brouillon toutes tes fourberies :			[840]
+J'ai bien joue moi-meme un tour des plus adroits.
+Il est vrai, je suis prompt, et m'emporte parfois ;
+Mais pourtant, quand je veux, j'ai l'imaginative
+Aussi bonne en effet que personne qui vive ;
+Et toi-meme avoueras que ce que j'ai fait part			[845]
+D'une pointe d'esprit ou peu de monde a part.
+MASCARILLE.
+Sachons donc ce qu'a fait cette imaginative.
+LELIE.
+Tantot, l'esprit emu d'une frayeur bien vive
+D'avoir vu Trufaldin avec mon rival,
+Je songeais a trouver un remede a ce mal,			[850]
+Lorsque me ramassant tout entier en moi-meme,
+J'ai concu, digere, produit un stratageme
+Devant qui tous les tiens, dont tu fais tant de cas,
+Doivent sans contredit mettre pavillon bas.
+MASCARILLE.
+Mais qu'est-ce ?
+LELIE.
+Ah ! S'il te plait, donne-toi patience :			[855]
+J'ai donc feint une lettre avec diligence,
+Comme d'un grand seigneur ecrite a Trufaldin,
+Qui mande qu'ayant su par un heureux destin
+Qu'une esclave qu'il tient sous le nom de Celie
+Est sa fille, autrefois par des voleurs ravie,			[860]
+Il veut la venir prendre, et le conjure au moins
+De la garder toujours, de lui rendre des soins ;
+Qu'a ce sujet il part d'Espagne, et doit pour elle
+Par de si grands presents reconnaitre son zele,
+Qu'il n'aura point regret de causer son bonheur.			[865]
+MASCARILLE.
+Fort bien.
+LELIE.
+Ecoute donc, voici bien le meilleur :
+La lettre que je dis a donc ete remise ;
+Mais sais-tu bien comment ? En saison si bien prise,
+Que le porteur m'a dit que sans ce trait falot
+Un homme l'emmenait, qui s'est trouve fort sot.			[870]
+MASCARILLE.
+Vous avez fait ce coup sans vous donner au diable ?
+LELIE.
+Oui, d'un tour si subtil m'aurais-tu cru capable ?
+Loue au moins mon adresse, et la dexterite
+Dont je romps d'un rival le dessein concerte.
+MASCARILLE.
+A vous pouvoir louer selon votre merite			[875]
+Je manque d'eloquence, et ma force est petite ;
+Oui, pour bien etaler cet effort releve,
+Ce bel exploit de guerre a nos yeux acheve,
+Ce grand et rare effet d'une imaginative
+Qui ne cede en vigueur a personne qui vive,			[880]
+Ma langue est impuissante, et je voudrais avoir
+Celles de tous les gens du plus exquis savoir,
+Pour vous dire en beaux vers, ou bien en docte prose,
+Que vous serez toujours, quoi que l'on se propose,
+Tout ce que vous avez ete durant vos jours,			[885]
+C'est-a-dire un esprit chausse tout a rebours,
+Une raison malade et toujours en debauche,
+Un envers du bon sens, un jugement a gauche,
+Un brouillon, une bete, un brusque, un etourdi,
+Que sais-je ? Un... Cent fois plus encore que je ne dis :			[890]
+C'est faire en abrege votre panegyrique.
+LELIE.
+Apprends-moi le sujet qui contre moi te pique :
+Ai-je fait quelque chose ? eclaircis-moi ce point.
+MASCARILLE.
+Non, vous n'avez rien fait ; mais ne me suivez point.
+LELIE.
+Je te suivrai partout, pour savoir ce mystere.			[895]
+MASCARILLE.
+Oui ? Sus donc, preparez vos jambes a bien faire,
+Car je vais vous fournir de quoi les exercer.
+LELIE.
+Il m'echappe ! Oh ! Malheur qui ne se peut forcer !
+Au discours qu'il m'a fait que saurais-je comprendre ?
+Et quel mauvais office aurais-je pu me rendre ?			[900]
+
+
+			ACTE III
+
+
+SCENE PREMIERE.
+MASCARILLE, seul.
+Taisez-vous, ma bonte, cessez votre entretien :
+Vous etes une sotte, et je n'en ferai rien.
+Oui, vous avez raison, mon courroux, je l'avoue :
+Relier tant de fois ce qu'un brouillon denoue,
+C'est trop de patience, et je dois en sortir,			[905]
+Apres de si beaux coups qu'il a su divertir.
+Mais aussi, raisonnons un peu sans violence :
+Si je suis maintenant ma juste impatience,
+On dira que je cede a la difficulte,
+Que je me trouve a bout de ma subtilite ;			[910]
+Et que deviendra lors cette publique estime
+Qui te vante partout pour un fourbe sublime,
+Et que tu t'es acquise en tant d'occasions,
+A ne t'etre jamais vu court d'inventions ?
+L'honneur, o Mascarille, est une belle chose :			[915]
+A tes nobles travaux ne fais aucune pause ;
+Et quoi qu'un maitre ait fait pour te faire enrager,
+Acheve pour ta gloire, et non pour l'obliger.
+Mais quoi ? Que feras-tu, que de l'eau toute claire,
+Traverse sans repos par ce demon contraire ?			[920]
+Tu vois qu'a chaque instant il te fait dechanter,
+Et que c'est battre l'eau de pretendre arreter
+Ce torrent effrene, qui de tes artifices
+Renverse en un moment les plus beaux edifices.
+He bien ! Pour toute grace, encore un coup du moins,			[925]
+Au hasard du succes, sacrifions des soins ;
+Et s'il poursuit encore a rompre notre chance,
+J'y consens, otons-lui toute notre assistance.
+Cependant notre affaire encore n'irait pas mal,
+Si par la nous pouvions perdre notre rival,			[930]
+Et que Leandre enfin, lasse de sa poursuite,
+Nous laissat jour entier pour ce que je medite.
+Oui, je roule en ma tete un trait ingenieux,
+Dont je promettrais bien un succes glorieux,
+Si je puis n'avoir plus cet obstacle a combattre :			[935]
+Bon, voyons si son feu se rend opiniatre.
+SCENE II. Mascarille, Leandre.
+MASCARILLE.
+Monsieur, j'ai perdu temps, votre homme se dedit.
+LEANDRE.
+De la chose lui-meme il m'a fait un recit ;
+Mais c'est bien plus, j'ai su que tout ce beau mystere
+D'un rapt d'egyptiens, d'un grand seigneur pour pere			[940]
+Qui doit partir d'Espagne et venir en ces lieux,
+N'est qu'un pur stratageme, un trait facetieux,
+Une histoire a plaisir, un conte dont Lelie
+A voulu detourner notre achat de Celie.
+MASCARILLE.
+Voyez un peu la fourbe !
+LEANDRE.
+Et pourtant Trufaldin			[945]
+Est si bien imprime de ce conte badin,
+Mord si bien a l'appat de cette faible ruse,
+Qu'il ne veut point souffrir que l'on le desabuse.
+MASCARILLE.
+C'est pourquoi desormais il la gardera bien,
+Et je ne vois pas lieu d'y pretendre plus rien.			[950]
+LEANDRE.
+Si d'abord a mes yeux elle parut aimable,
+Je viens de la trouver tout a fait adorable,
+Et je suis en suspens si, pour me l'acquerir,
+Aux extremes moyens je ne dois point courir,
+Par le don de ma foi rompre sa destinee,			[955]
+Et changer ses liens en ceux de l'hymenee.
+MASCARILLE.
+Vous pourriez l'epouser !
+LEANDRE.
+Je ne sais ; mais enfin,
+Si quelque obscurite se trouve en son destin,
+Sa grace et sa vertu sont de douces amorces,
+Qui pour tirer les coeurs ont d'incroyables forces.			[960]
+MASCARILLE.
+Sa vertu, dites-vous ?
+LEANDRE.
+Quoi ? Que murmures-tu ?
+Acheve, explique-toi sur ce mot de vertu.
+MASCARILLE.
+Monsieur, votre visage en un moment s'altere,
+Et je ferai bien mieux peut-etre de me taire.
+LEANDRE.
+Non, non, parle.
+MASCARILLE.
+He bien donc ! Tres charitablement			[965]
+Je vous veux retirer de votre aveuglement.
+Cette fille...
+LEANDRE.
+Poursuis.
+MASCARILLE.
+N'est rien moins qu'inhumaine ;
+Dans le particulier elle oblige sans peine ;
+Et son coeur, croyez-moi, n'est point roche, apres tout,
+A quiconque la sait prendre par le bon bout.			[970]
+Elle fait la sucree, et veut passer pour prude ;
+Mais je puis en parler avec certitude :
+Vous savez que je suis quelque peu d'un metier
+A me devoir connaitre en un pareil gibier.
+LEANDRE.
+Celie...
+MASCARILLE.
+Oui, sa pudeur n'est que franche grimace,			[975]
+Qu'une ombre de vertu qui garde mal la place,
+Et qui s'evanouit, comme l'on peut savoir,
+Aux rayons du soleil qu'une bourse fait voir.
+LEANDRE.
+Las ! Que dis-tu ? Croirai-je un discours de la sorte ?
+MASCARILLE.
+Monsieur, les volontes sont libres : que m'importe ?			[980]
+Non, ne me croyez pas, suivez votre dessein,
+Prenez cette matoise, et lui donnez la main :
+Toute la ville en corps reconnaitra ce zele,
+Et vous epouserez le bien public en elle.
+LEANDRE.
+Quelle surprise etrange !
+MASCARILLE.
+Il a pris l'hamecon ;			[985]
+Courage : s'il s'y peut enferrer tout de bon,
+Nous nous otons du pied une facheuse epine.
+LEANDRE.
+Oui, d'un coup etonnant ce discours m'assassine.
+MASCARILLE.
+Quoi ? Vous pourriez... ?
+LEANDRE.
+Va-t'en jusqu'a la poste, et vois
+Je ne sais quel paquet qui doit venir pour moi.			[990]
+Qui ne s'y fut trompe ? Jamais l'air d'un visage,
+Si ce qu'il dit est vrai, n'imposa davantage.
+SCENE III. Lelie, Leandre.
+LELIE.
+Du chagrin qui vous tient quel peut etre l'objet ?
+LEANDRE.
+Moi ?
+LELIE.
+Vous-meme.
+LEANDRE.
+Pourtant je n'en ai point sujet.
+LELIE.
+Je vois bien ce que c'est, Celie en est la cause.			[995]
+LEANDRE.
+Mon esprit ne court pas apres si peu de chose.
+LELIE.
+Pour elle vous aviez pourtant de grands desseins ;
+Mais il faut dire ainsi lorsqu'ils se trouvent vains.
+LEANDRE.
+Si j'etais assez sot pour cherir ses caresses,
+Je me moquerais bien de toutes vos finesses.			[1000]
+LELIE.
+Quelles finesses donc ?
+LEANDRE.
+Mon Dieu ! Nous savons tout.
+LELIE.
+Quoi ?
+LEANDRE.
+Votre procede de l'un a l'autre bout.
+LELIE.
+C'est de l'hebreu pour moi, je n'y puis rien comprendre.
+LEANDRE.
+Feignez, si vous voulez, de ne me pas entendre ;
+Mais, croyez-moi, cessez de craindre pour un bien			[1005]
+Ou je serais fache de vous disputer rien ;
+J'aime fort la beaute qui n'est point profanee,
+Et ne veux point bruler pour une abandonnee.
+LELIE.
+Tout beau, tout beau, Leandre.
+LEANDRE.
+Ah ! Que vous etes bon !
+Allez, vous dis-je encore, servez-la sans soupcon :			[1010]
+Vous pourrez vous nommer homme a bonnes fortunes.
+Il est vrai, sa beaute n'est pas des plus communes ;
+Mais en revanche aussi le reste est fort commun.
+LELIE.
+Leandre, arretons la ce discours importun.
+Contre moi tant d'efforts qu'il vous plaira pour elle ;			[1015]
+Mais sur tout retenez cette atteinte mortelle :
+Sachez que je m'impute a trop de lachete
+D'entendre mal parler de ma divinite,
+Et que j'aurai toujours bien moins de repugnance
+A souffrir votre amour qu'un discours qui l'offense.			[1020]
+LEANDRE.
+Ce que j'avance ici me vient de bonne part.
+LELIE.
+Quiconque vous l'a dit, est un lache, un pendard :
+On ne peut imposer de tache a cette fille ;
+Je connais bien son coeur.
+LEANDRE.
+Mais enfin Mascarille
+D'un semblable proces est juge competent :			[1025]
+C'est lui qui la condamne.
+LELIE.
+Oui ?
+LEANDRE.
+Lui-meme.
+LELIE.
+Il pretend
+D'une fille d'honneur insolemment medire,
+Et que peut-etre encore je n'en ferai que rire ?
+Gage qu'il se dedit.
+LEANDRE.
+Et moi gage que non.
+LELIE.
+Parbleu je le ferais mourir sous le baton,			[1030]
+S'il m'avait soutenu des faussetes pareilles.
+LEANDRE.
+Moi, je lui couperais sur-le-champ les oreilles,
+S'il n'etait pas garant de tout ce qu'il m'a dit.
+SCENE IV. Lelie, Mascarille, Leandre.
+LELIE.
+Ah ! Bon, bon, le voila : venez ca, chien maudit.
+MASCARILLE.
+Quoi ?
+LELIE.
+Langue de serpent fertile en impostures,			[1035]
+Vous osez sur Celie attacher vos morsures,
+Et lui calomnier la plus rare vertu
+Qui puisse faire eclat sous un sort abattu ?
+MASCARILLE.
+Doucement, ce discours est de mon industrie.
+LELIE.
+Non, non, point de clin d'oeil et point de raillerie :			[1040]
+Je suis aveugle a tout, sourd a quoi que ce soit ;
+Fut-ce mon propre frere, il me la payerait ;
+Et sur ce que j'adore oser porter le blame,
+C'est me faire une plaie au plus tendre de l'ame.
+Tous ces signes sont vains : quels discours as-tu faits ?			[1045]
+MASCARILLE.
+Mon Dieu, ne cherchons point querelle, ou je m'en vais.
+LELIE.
+Tu n'echapperas pas.
+MASCARILLE.
+Ahii !
+LELIE.
+Parle donc, confesse.
+MASCARILLE.
+Laissez-moi ; je vous dis que c'est un tour d'adresse.
+LELIE.
+Depeche, qu'as-tu dit ? Vide entre nous ce point.
+MASCARILLE.
+J'ai dit ce que j'ai dit, ne vous emportez point.			[1050]
+LELIE.
+Ah ! Je vous ferai bien parler d'une autre sorte.
+LEANDRE.
+Halte un peu : retenez l'ardeur qui vous emporte.
+MASCARILLE.
+Fut-il jamais au monde un esprit moins sense ?
+LELIE.
+Laissez-moi contenter mon courage offense.
+LEANDRE.
+C'est trop que de vouloir le battre en ma presence.			[1055]
+LELIE.
+Quoi ? Chatier mes gens n'est pas en ma puissance ?
+LEANDRE.
+Comment vos gens ?
+MASCARILLE.
+Encore ! Il va tout decouvrir.
+LELIE.
+Quand j'aurais volonte de le battre a mourir,
+He bien ! C'est mon valet.
+LEANDRE.
+C'est maintenant le notre.
+LELIE.
+Le trait est admirable ! Et comment donc le votre ?			[1060]
+Sans doute...
+MASCARILLE, bas.
+Doucement.
+LELIE.
+Hem, que veux-tu conter ?
+MASCARILLE, bas.
+Ah ! Le double bourreau, qui me va tout gater,
+Et qui ne comprend rien, quelque signe qu'on donne !
+LELIE.
+Vous revez bien, Leandre, et me la baillez bonne.
+Il n'est pas mon valet ?
+LEANDRE.
+Pour quelque mal commis,			[1065]
+Hors de votre service il n'a pas ete mis ?
+LELIE.
+Je ne sais ce que c'est.
+LEANDRE.
+Et plein de violence,
+Vous n'avez pas charge son dos avec outrance ?
+LELIE.
+Point du tout. Moi ? L'avoir chasse, roue de coups ?
+Vous vous moquez de moi, Leandre, ou lui de vous.			[1070]
+MASCARILLE.
+Pousse, pousse, bourreau, tu fais bien tes affaires.
+LEANDRE.
+Donc les coups de baton ne sont qu'imaginaires ?
+MASCARILLE.
+Il ne sait ce qu'il dit, sa memoire...
+LEANDRE.
+Non, non.
+Tous ces signes pour toi ne disent rien de bon ;
+Oui, d'un tour delicat mon esprit te soupconne ;			[1075]
+Mais pour l'invention, va, je te le pardonne :
+C'est bien assez pour moi qu'il m'a desabuse,
+De voir par quels motifs tu m'avais impose,
+Et que m'etant commis a ton zele hypocrite,
+A si bon compte encore je m'en sois trouve quitte.			[1080]
+Ceci doit s'appeler un avis au lecteur.
+Adieu, Lelie, adieu : tres humble serviteur.
+MASCARILLE.
+Courage, mon garcon : tout heur nous accompagne ;
+Mettons flamberge au vent et bravoure en campagne,
+Faisons l'olibrius, l'occiseur d'innocents.			[1085]
+LELIE.
+Il t'avait accuse de discours medisants
+Contre...
+MASCARILLE.
+Et vous ne pouviez souffrir mon artifice ?
+Lui laisser son erreur, qui vous rendait service,
+Et par qui son amour s'en etoait presque alle ?
+Non, il a l'esprit franc et point dissimule.			[1090]
+Enfin chez son rival je m'ancre avec adresse ;
+Cette fourbe en mes mains va mettre sa maitresse :
+Il me la fait manquer avec de faux rapports ;
+Je veux de son rival alentir les transports :
+Mon brave incontinent vient, qui le desabuse ;			[1095]
+J'ai beau lui faire signe, et montrer que c'est ruse :
+Point d'affaire, il poursuit sa pointe jusqu'au bout,
+Et n'est point satisfait qu'il n'ait decouvert tout :
+Grand et sublime effort d'une imaginative
+Qui ne le cede point a personne qui vive !			[1100]
+C'est une rare piece, et digne, sur ma foi,
+Qu'on en fasse present au cabinet d'un roi !
+LELIE.
+Je ne m'etonne pas si je romps tes attentes :
+A moins d'etre informe des choses que tu tentes,
+J'en ferais encore cent de la sorte.			[1105]
+MASCARILLE.
+Tant pis.
+LELIE.
+Au moins, pour t'emporter a de justes depits,
+Fais-moi dans tes desseins entrer de quelque chose ;
+Mais que de leurs ressorts la porte me soit close,
+C'est ce qui fait toujours que je suis pris sans vert.
+MASCARILLE.
+Je crois que vous seriez un maitre d'arme expert :			[1110]
+Vous savez a merveille, en toutes aventures,
+Prendre les contre-temps et rompre les mesures.
+LELIE.
+Puisque la chose est faite, il n'y faut plus penser :
+Mon rival en tout cas ne peut me traverser ;
+Et pourvu que tes soins, en qui je me repose...			[1115]
+MASCARILLE.
+Laissons la ce discours, et parlons d'autre chose :
+Je ne m'apaise pas, non, si facilement ;
+Je suis trop en colere. Il faut premierement
+Me rendre un bon office, et nous verrons ensuite
+Si je dois de vos feux reprendre la conduite.			[1120]
+LELIE.
+S'il ne tient qu'a cela, je n'y resiste pas :
+As-tu besoin, dis-moi, de mon sang, de mes bras ?
+MASCARILLE.
+De quelle vision sa cervelle est frappee !
+Vous etes de l'humeur de ces amis d'epee
+Que l'on trouve toujours plus prompts a degainer			[1125]
+Qu'a tirer un teston, s'il fallait le donner.
+LELIE.
+Que puis-je donc pour toi ?
+MASCARILLE.
+C'est que de votre pere
+Il faut absolument apaiser la colere.
+LELIE.
+Nous avons fait la paix.
+MASCARILLE.
+Oui, mais non pas pour nous.
+Je l'ai fait ce matin mort pour l'amour de vous :			[1130]
+La vision le choque, et de pareilles feintes
+Aux vieillards comme lui sont de dures atteintes,
+Qui sur l'etat prochain de leur condition
+Leur font faire a regret triste reflexion.
+Le bon homme, tout vieux, cherit fort la lumiere,			[1135]
+Et ne veut point de jeu dessus cette matiere ;
+Il craint le pronostic, et contre moi fache,
+On m'a dit qu'en justice il m'avait recherche :
+J'ai peur, si le logis du roi fait ma demeure,
+De m'y trouver si bien des le premier quart d'heure,			[1140]
+Que j'aie peine aussi d'en sortir par apres.
+Contre moi des longtemps on a force decrets ;
+Car enfin la vertu n'est jamais sans envie,
+Et dans ce maudit siecle est toujours poursuivie.
+Allez donc le flechir.
+LELIE.
+Oui, nous le flechirons ;			[1145]
+Mais aussi tu promets...
+MASCARILLE.
+Ah ! Mon Dieu, nous verrons.
+Ma foi, prenons haleine apres tant de fatigues,
+Cessons pour quelque temps le cours de nos intrigues
+Et de nous tourmenter de meme qu'un lutin :
+Leandre, pour nous nuire, est hors de garde enfin,			[1150]
+Et Celie, arretee avec l'artifice...
+SCENE V. Ergaste, Mascarille.
+ERGASTE.
+Je te cherchais partout pour te rendre un service,
+Pour te donner avis d'un secret important.
+MASCARILLE.
+Quoi donc ?
+ERGASTE.
+N'avons-nous point ici quelque ecoutant ?
+MASCARILLE.
+Non.
+ERGASTE.
+Nous sommes amis autant qu'on le peut etre ;			[1155]
+Je sais bien tes desseins, et l'amour de ton maitre.
+Songez a vous tantot : Leandre fait parti
+Pour enlever Celie, et j'en suis averti,
+Qu'il a mis ordre a tout, et qu'il se persuade
+D'entrer chez Trufaldin par une mascarade,			[1160]
+Ayant su qu'en ce temps, assez souvent le soir,
+Des femmes du quartier en masque l'allaient voir.
+MASCARILLE.
+Oui ? Suffit. Il n'est pas au comble de sa joie ;
+Je pourrai bien tantot lui souffler cette proie,
+Et contre cet assaut je sais un coup fourre			[1165]
+Par qui je veux qu'il soit de lui-meme enferre :
+Il ne sait pas les dons dont mon ame est pourvue.
+Adieu : nous boirons pinte a la premiere vue.
+Il faut, il faut tirer a nous ce que d'heureux
+Pourrait avoir en soi ce projet amoureux,			[1170]
+Et par une surprise adroite et non commune,
+Sans courir le danger en tenter la fortune.
+Si je vais me masquer pour devancer ses pas,
+Leandre assurement ne nous bravera pas ;
+Et la, premier que lui si nous faisons la prise,			[1175]
+Il aura fait pour nous les frais de l'entreprise,
+Puisque par son dessein deja presque evente,
+Le soupcon tombera toujours de son cote,
+Et que nous, a couvert de toutes ses poursuites,
+De ce coup hasardeux ne craindrons point les suites.			[1180]
+C'est ne se point commettre a faire de l'eclat,
+Et tirer les marrons de la patte du chat.
+Allons donc nous masquer avec quelques bons freres ;
+Pour prevenir nos gens il ne faut tarder guere.
+Je sais ou git le lievre, et me puis sans travail			[1185]
+Fournir en un moment d'hommes et d'attirail.
+Croyez que je mets bien mon adresse en usage :
+Si j'ai recu du ciel les fourbes en partage,
+Je ne suis point au rang de ces esprits mal nes
+Qui cachent les talents que dieu leur a donnes.			[1190]
+SCENE VI. Lelie, Ergaste.
+LELIE.
+Il pretend l'enlever avec sa mascarade ?
+ERGASTE.
+Il n'est rien plus certain : quelqu'un de sa brigade
+M'ayant de ce dessein instruit, sans m'arreter,
+A Mascarille lors j'ai couru tout conter,
+Qui s'en va, m'a-t-il dit, rompre cette partie			[1195]
+Par une invention dessus le champ batie ;
+Et comme je vous ai rencontre par hasard,
+J'ai cru que je devais de tout vous faire part.
+LELIE.
+Tu m'obliges par trop avec cette nouvelle :
+Va, je reconnaitrai ce service fidele.			[1200]
+Mon drole assurement leur jouera quelque trait ;
+Mais je veux de ma part seconder son projet :
+Il ne sera pas dit qu'en un fait qui me touche,
+Je ne me sois non plus remue qu'une souche.
+Voici l'heure : ils seront surpris a mon aspect.			[1205]
+Foin ! Que n'ai-je avec moi pris mon porte-respect ?
+Mais vienne qui voudra contre notre personne :
+J'ai deux bons pistolets, et mon epee est bonne.
+Hola ! Quelqu'un, un mot.
+SCENE VII. Trufaldin, Lelie.
+TRUFALDIN.
+Qu'est-ce ? Qui me vient voir ?
+LELIE.
+Fermez soigneusement votre porte ce soir.			[1210]
+TRUFALDIN.
+Pourquoi ?
+LELIE.
+Certaines gens font une mascarade,
+Pour vous venir donner une facheuse aubade :
+Ils veulent enlever votre Celie.
+TRUFALDIN.
+Oh ! Dieux !
+LELIE.
+Et sans doute bientot ils viennent en ces lieux :
+Demeurez, vous pourrez voir tout de la fenetre.			[1215]
+He bien ! Qu'avais-je dit ? Les voyez-vous paraitre ?
+Chut, je veux a vos yeux leur en faire l'affront :
+Nous allons voir beau jeu, si la corde ne rompt.
+SCENE VIII. Trufaldin, Lelie.
+TRUFALDIN.
+Oh ! Les plaisants robins qui pensent me surprendre !
+LELIE.
+Masques, ou courez-vous ? Le pourrait-on apprendre ?			[1220]
+Trufaldin, ouvrez-leur pour jouer un momon.
+Bon Dieu ! Qu'elle est jolie, et qu'elle a l'air mignon !
+He quoi ? Vous murmurez ? Mais sans vous faire outrage,
+Peut-on lever le masque et voir votre visage ?
+TRUFALDIN.
+Allez, fourbes mechants ; retirez-vous d'ici,			[1225]
+Canaille ; et vous, seigneur, bonsoir, et grand merci.
+LELIE.
+Mascarille, est-ce toi ?
+MASCARILLE.
+Nenni-da, c'est quelque autre.
+LELIE.
+Helas ! Quelle surprise ! Et quel sort est le notre !
+L'aurais-je devine, n'etant point averti
+Des secretes raisons qui l'avaient travesti ?			[1230]
+Malheureux que je suis, d'avoir dessous ce masque
+Ete sans y penser te faire cette frasque !
+Il me prendrait envie, en ce juste courroux,
+De me battre moi-meme et me donner cent coups.
+MASCARILLE.
+Adieu, sublime esprit, rare imaginative.			[1235]
+LELIE.
+Las ! Si de ton secours ta colere me prive,
+A quel saint me vouerai-je ?
+MASCARILLE.
+Au grand diable d'enfer.
+LELIE.
+Ah ! Si ton coeur pour moi n'est de bronze ou de fer,
+Qu'encore un coup, du moins, mon imprudence ait grace :
+S'il faut pour l'obtenir que tes genoux j'embrasse,			[1240]
+Vois-moi...
+MASCARILLE.
+Tarare. Allons, camarades, allons :
+J'entends venir des gens qui sont sur nos talons.
+SCENE IX. Leandre, Trufaldin.
+LEANDRE.
+Sans bruit ! Ne faisons rien que de la bonne sorte.
+TRUFALDIN.
+Quoi ? Masques toute nuit assiegeront ma porte ?
+Messieurs, ne gagnez point de rhumes a plaisir ;			[1245]
+Tout cerveau qui le fait est certes de loisir :
+Il est un peu trop tard pour enlever Celie ;
+Dispensez-l'en ce soir, elle vous en supplie :
+La belle est dans le lit, et ne peut vous parler ;
+J'en suis fache pour vous ; mais pour vous regaler			[1250]
+Du souci qui pour elle ici vous inquiete,
+Elle vous fait present de cette cassolette.
+LEANDRE.
+Fi ! Cela sent mauvais, et je suis tout gate :
+Nous sommes decouverts, tirons de ce cote.
+
+
+			ACTE IV
+
+
+SCENE PREMIERE. Mascarille, Lelie.
+MASCARILLE.
+Vous voila fagote d'une plaisante sorte.			[1255]
+LELIE.
+Tu ranimes par la mon esperance morte.
+MASCARILLE.
+Toujours de ma colere on me voit revenir ;
+J'ai beau jurer, pester, je ne m'en puis tenir.
+LELIE.
+Aussi crois, si jamais je suis dans la puissance,
+Que tu seras content de ma reconnaissance,			[1260]
+Et que, quand je n'aurais qu'un seul morceau de pain...
+MASCARILLE.
+Baste ! Songez a vous dans ce nouveau dessein.
+Au moins, si l'on vous voit commettre une sottise,
+Vous n'imputerez plus l'erreur a la surprise :
+Votre role en ce jeu par coeur doit etre su.			[1265]
+LELIE.
+Mais comment Trufaldin chez lui t'a-t-il recu ?
+MASCARILLE.
+D'un zele simule j'ai bride le bon sire :
+Avec empressement je suis venu lui dire,
+S'il ne songeait a lui, que l'on le surprendrait ;
+Que l'on couchait en joue, et de plus d'un endroit,			[1270]
+Celle dont il a vu qu'une lettre en avance
+Avait si faussement divulgue la naissance ;
+Qu'on avait bien voulu m'y meler quelque peu,
+Mais que j'avais tire mon epingle du jeu ;
+Et que, touche d'ardeur pour ce qui le regarde,			[1275]
+Je venais l'avertir de se donner de garde.
+De la, moralisant, j'ai fait de grands discours
+Sur les fourbes qu'on voit ici-bas tous les jours ;
+Que pour moi, las du monde et de sa vie infame,
+Je voulais travailler au salut de mon ame,			[1280]
+A m'eloigner du trouble, et pouvoir longuement
+Pres de quelque honnete homme etre paisiblement ;
+Que s'il le trouvait bon, je n'aurais d'autre envie
+Que de passer chez lui le reste de ma vie ;
+Et que meme a tel point il m'avait su ravir,			[1285]
+Que sans lui demander gages pour le servir,
+Je mettrais en ses mains, que je tenais certaines,
+Quelque bien de mon pere et le fruit de mes peines,
+Dont, advenant que Dieu de ce monde m'otat,
+J'entendais tout de bon que lui seul heritat :			[1290]
+C'etait le vrai moyen d'acquerir sa tendresse,
+Et comme, pour resoudre avec votre maitresse
+Des biais qu'on doit prendre a terminer vos voeux,
+Je voulais en secret vous aboucher tous deux,
+Lui-meme a su m'ouvrir une voie assez belle			[1295]
+De pouvoir hautement vous loger avec elle,
+Venant m'entretenir d'un fils prive du jour
+Dont cette nuit en songe il a vu le retour.
+A ce propos, voici l'histoire qu'il m'a dite,
+Et sur qui j'ai tantot notre fourbe construite.			[1300]
+LELIE.
+C'est assez, je sais tout : tu me l'as dit deux fois.
+MASCARILLE.
+Oui, oui, mais quand j'aurais passe jusques a trois,
+Peut-etre encore qu'avec toute sa suffisance,
+Votre esprit manquera dans quelque circonstance.
+LELIE.
+Mais a tant differer je me fais de l'effort.			[1305]
+MASCARILLE.
+Ah ! De peur de tomber, ne courons pas si fort.
+Voyez-vous, vous avez la caboche un peu dure :
+Rendez-vous affermi dessus cette aventure.
+Autrefois Trufaldin de Naples est sorti,
+Et s'appelait alors Zanobio Ruberti ;			[1310]
+Un parti qui causa quelque emeute civile,
+Dont il fut seulement soupconne dans sa ville
+(de fait, il n'est pas homme a troubler un etat),
+L'obligea d'en sortir une nuit sans eclat.
+Une fille fort jeune et sa femme laissees			[1315]
+A quelque temps de la se trouvant trepassees,
+Il en eut la nouvelle, et dans ce grand ennui,
+Voulant dans quelque ville emmener avec lui,
+Outre ses biens, l'espoir qui restait de sa race,
+Un sien fils ecolier, qui se nommait Horace,			[1320]
+Il ecrit a Bologne, ou pour mieux etre instruit
+Un certain maitre Albert jeune l'avait conduit ;
+Mais pour se joindre tous le rendez-vous qu'il donne
+Durant deux ans entiers ne lui fit voir personne ;
+Si bien que les jugeant morts apres ce temps-la,			[1325]
+Il vint en cette ville, et prit le nom qu'il a,
+Sans que de cet Albert, ni de ce fils Horace,
+Douze ans aient decouvert jamais la moindre trace.
+Voila l'histoire en gros, redite seulement
+Afin de vous servir ici de fondement.			[1330]
+Maintenant, vous serez un marchand d'Armenie,
+Qui les aurez vus sains l'un et l'autre en Turquie.
+Si j'ai plutot qu'aucun un tel moyen trouve,
+Pour les ressusciter sur ce qu'il a reve,
+C'est qu'en fait d'aventure il est tres ordinaire			[1335]
+De voir gens pris sur mer par quelque Turc corsaire,
+Puis etre a leur famille a point nomme rendus,
+Apres quinze ou vingt ans qu'on les a crus perdus.
+Pour moi, j'ai vu deja cent contes de la sorte :
+Sans nous alambiquer, servons-nous-en ; qu'importe ?			[1340]
+Vous leur aurez oui leur disgrace conter,
+Et leur aurez fourni de quoi se racheter ;
+Mais que parti plus tot, pour chose necessaire,
+Horace vous chargea de voir ici son pere,
+Dont il a su le sort, et chez qui vous devez			[1345]
+Attendre quelques jours qu'ils seraient arrives :
+Je vous ai fait tantot des lecons etendues.
+LELIE.
+Ces repetitions ne sont que superflues :
+Des l'abord mon esprit a compris tout le fait.
+MASCARILLE.
+Je m'en vais la dedans donner le premier trait.			[1350]
+LELIE.
+Ecoute, Mascarille, un seul point me chagrine :
+S'il allait de son fils me demander la mine ?
+MASCARILLE.
+Belle difficulte ! Devez-vous pas savoir
+Qu'il etait fort petit alors qu'il l'a pu voir ?
+Et puis, outre cela, le temps et l'esclavage			[1355]
+Pourraient-ils pas avoir change tout son visage ?
+LELIE.
+Il est vrai ; mais, dis-moi, s'il connait qu'il m'a vu,
+Que faire ?
+MASCARILLE.
+De memoire etes-vous depourvu ?
+Nous avons dit tantot qu'outre que votre image
+N'avait dans son esprit pu faire qu'un passage,			[1360]
+Pour ne vous avoir vu que durant un moment,
+Et le poil et l'habit deguisaient grandement.
+LELIE.
+Fort bien ; mais, a propos, cet endroit de Turquie... ?
+MASCARILLE.
+Tout, vous dis-je, est egal, Turquie ou Barbarie.
+LELIE.
+Mais le nom de la ville ou j'aurai pu les voir ?			[1365]
+MASCARILLE.
+Tunis. Il me tiendra, je crois, jusques au soir :
+La repetition, dit-il, est inutile,
+Et j'ai deja nomme douze fois cette ville.
+LELIE.
+Va, va-t'en commencer ; il ne me faut plus rien.
+MASCARILLE.
+Au moins, soyez prudent, et vous conduisez bien ;			[1370]
+Ne donnez point ici de l'imaginative.
+LELIE.
+Laisse-moi gouverner : que ton ame est craintive !
+MASCARILLE.
+Horace dans Bologne ecolier, Trufaldin
+Zanobio Ruberti, dans Naples citadin ;
+Le precepteur Albert...
+LELIE.
+Ah ! C'est me faire honte			[1375]
+Que de me tant precher : suis-je un sot a ton conte ?
+MASCARILLE.
+Non pas du tout, mais bien quelque chose approchant.
+LELIE, seul.
+Quand il m'est inutile il fait le chien couchant ;
+Mais parce qu'il sent bien le secours qu'il me donne,
+Sa familiarite jusque-la s'abandonne.			[1380]
+Je vais etre de pres eclaire des beaux yeux
+Dont la force m'impose un joug si precieux ;
+Je m'en vais sans obstacle, avec des traits de flamme,
+Peindre a cette beaute les tourments de mon ame :
+Je saurai quel arret je dois... Mais les voici.			[1385]
+SCENE II. Trufaldin, Mascarille, Lelie.
+TRUFALDIN.
+Sois beni, juste ciel, de mon sort adouci.
+MASCARILLE.
+C'est a vous de rever et de faire des songes,
+Puisqu'en vous il est faux que songes sont mensonges.
+TRUFALDIN.
+Quelle grace, quels biens vous rendrai-je, seigneur,
+Vous, que je dois nommer l'ange de mon bonheur ?			[1390]
+LELIE.
+Ce sont soins superflus, et je vous en dispense.
+TRUFALDIN.
+J'ai, je ne sais pas ou, vu quelque ressemblance
+De cet Armenien.
+MASCARILLE.
+C'est ce que je disais ;
+Mais on voit des rapports admirables parfois.
+TRUFALDIN.
+Vous avez vu ce fils ou mon espoir se fonde ?			[1395]
+LELIE.
+Oui, seigneur Trufaldin : le plus gaillard du monde.
+TRUFALDIN.
+Il vous a dit sa vie, et parle fort de moi ?
+LELIE.
+Plus de dix mille fois.
+MASCARILLE.
+Quelque peu moins, je crois.
+LELIE.
+Il vous a depeint tel que je vous vois paraitre,
+Le visage, le port...
+TRUFALDIN.
+Cela pourrait-il etre,			[1400]
+Si lorsqu'il m'a pu voir il n'avait que sept ans,
+Et si son precepteur meme depuis ce temps
+Aurait peine a pouvoir connaitre mon visage ?
+MASCARILLE.
+Le sang bien autrement conserve cette image :
+Par des traits si profonds ce portrait est trace,			[1405]
+Que mon pere...
+TRUFALDIN.
+Suffit. Ou l'avez-vous laisse ?
+LELIE.
+En Turquie, a Turin.
+TRUFALDIN.
+Turin ? Mais cette ville
+Est, je pense, en Piemont.
+MASCARILLE.
+Oh ! Cerveau malhabile !
+Vous ne l'entendez pas : il veut dire Tunis,
+Et c'est en effet la qu'il laissa votre fils ;			[1410]
+Mais les Armeniens ont tous une habitude,
+Certain vice de langue a nous autres fort rude :
+C'est que dans tous les mots ils changent nis en rin,
+Et pour dire Tunis, ils prononcent Turin.
+TRUFALDIN.
+Il fallait, pour l'entendre, avoir cette lumiere.			[1415]
+Quel moyen vous dit-il de rencontrer son pere ?
+MASCARILLE.
+Voyez s'il repondra. Je repassais un peu
+Quelque lecon d'escrime ; autrefois en ce jeu
+Il n'etait point d'adresse a mon adresse egale,
+Et j'ai battu le fer en mainte et mainte salle.			[1420]
+TRUFALDIN.
+Ce n'est pas maintenant ce que je veux savoir.
+Quel autre nom dit-il que je devais avoir ?
+MASCARILLE.
+Ah ! Seigneur Zanobio Ruberti, quelle joie
+Est celle maintenant que le ciel vous envoie !
+LELIE.
+C'est la votre vrai nom, et l'autre est emprunte.			[1425]
+TRUFALDIN.
+Mais ou vous a-t-il dit qu'il recut la clarte ?
+MASCARILLE.
+Naples est un sejour qui parait agreable ;
+Mais pour vous ce doit etre un lieu fort haissable.
+TRUFALDIN.
+Ne peux-tu sans parler souffrir notre discours ?
+LELIE.
+Dans Naples son destin a commence son cours.			[1430]
+TRUFALDIN.
+Ou l'envoyai-je jeune, et sous quelle conduite ?
+MASCARILLE.
+Ce pauvre maitre Albert a beaucoup de merite
+D'avoir depuis Bologne accompagne ce fils,
+Qu'a sa discretion vos soins avaient commis.
+TRUFALDIN.
+Ah !
+MASCARILLE.
+Nous sommes perdus, si cet entretien dure.			[1435]
+TRUFALDIN.
+Je voudrais bien savoir de vous leur aventure :
+Sur quel vaisseau le sort qui m'a su travailler...
+MASCARILLE.
+Je ne sais ce que c'est, je ne fais que bailler ;
+Mais, seigneur Trufaldin, songez-vous que peut-etre
+Ce monsieur l'etranger a besoin de repaitre,			[1440]
+Et qu'il est tard aussi ?
+LELIE.
+Pour moi, point de repas.
+MASCARILLE.
+Ah ! Vous avez plus faim que vous ne pensez pas.
+TRUFALDIN.
+Entrez donc.
+LELIE.
+Apres vous.
+MASCARILLE.
+Monsieur, en Armenie,
+Les maitres du logis sont sans ceremonie.
+Pauvre esprit ! Pas deux mots !
+LELIE.
+D'abord il m'a surpris.			[1445]
+Mais n'apprehende plus, je reprends mes esprits,
+Et m'en vais debiter avec hardiesse...
+MASCARILLE.
+Voici notre rival, qui ne sait pas la piece.
+SCENE III. Anselme, Leandre
+ANSELME.
+Arretez-vous, Leandre, et souffrez un discours
+Qui cherche le repos et l'honneur de vos jours :			[1450]
+Je ne vous parle point en pere de ma fille,
+En homme interesse pour ma propre famille,
+Mais comme votre pere emu pour votre bien,
+Sans vouloir vous flatter et vous deguiser rien,
+Bref, comme je voudrais, d'une ame franche et pure,			[1455]
+Que l'on fit a mon sang en pareille aventure.
+Savez-vous de quel oeil chacun voit cet amour,
+Qui dedans une nuit vient d'eclater au jour ?
+A combien de discours et de traits de risee
+Votre entreprise d'hier est partout exposee ?			[1460]
+Quel jugement on fait du choix capricieux
+Qui pour femme, dit-on, vous designe en ces lieux
+Un rebut de l'Egypte, une fille coureuse,
+De qui le noble emploi n'est qu'un metier de gueuse ?
+J'en ai rougi pour vous, encore plus que pour moi,			[1465]
+Qui me trouve compris dans l'eclat que je vois,
+Moi, dis-je, dont la fille, a vos ardeurs promise,
+Ne peut sans quelque affront souffrir qu'on la meprise.
+Ah ! Leandre, sortez de cet abaissement ;
+Ouvrez un peu les yeux sur votre aveuglement.			[1470]
+Si notre esprit n'est pas sage a toutes les heures,
+Les plus courtes erreurs sont toujours les meilleures.
+Quand on ne prend en dot que la seule beaute,
+Le remords est bien pres de la solennite,
+Et la plus belle femme a tres peu de defense			[1475]
+Contre cette tiedeur qui suit la jouissance :
+Je vous le dis encore, ces bouillants mouvements,
+Ces ardeurs de jeunesse et ces emportements
+Nous font trouver d'abord quelques nuits agreables ;
+Mais ces felicites ne sont guere durables,			[1480]
+Et notre passion alentissant son cours,
+Apres ces bonnes nuits donnent de mauvais jours.
+De la viennent les soins, les soucis, les miseres,
+Les fils desherites par le courroux des peres.
+LEANDRE.
+Dans tout votre discours je n'ai rien ecoute			[1485]
+Que mon esprit deja ne m'ait represente.
+Je sais combien je dois a cet honneur insigne
+Que vous me voulez faire, et dont je suis indigne,
+Et vois, malgre l'effort dont je suis combattu,
+Ce que vaut votre fille et quelle est sa vertu :			[1490]
+Aussi veux-je tacher...
+ANSELME.
+On ouvre cette porte :
+Retirons-nous plus loin, de crainte qu'il n'en sorte
+Quelque secret poison dont vous seriez surpris.
+SCENE IV. Mascarille, Lelie.
+MASCARILLE.
+Bientot de notre fourbe on verra le debris,
+Si vous continuez des sottises si grandes.			[1495]
+LELIE.
+Dois-je eternellement ouir tes reprimandes ?
+De quoi te peux-tu plaindre ? Ai-je pas reussi
+En tout ce que j'ai dit depuis... ?
+MASCARILLE.
+Coussi, coussi :
+Temoin les Turcs, par vous appeles heretiques,
+Et que vous assurez, par serments authentiques,			[1500]
+Adorer pour leurs dieux la lune et le soleil.
+Passe : ce qui me donne un depit nompareil,
+C'est qu'ici votre amour etrangement s'oublie
+Pres de Celie : il est ainsi que la bouillie,
+Qui par un trop grand feu s'enfle, croit jusqu'aux bords,			[1505]
+Et de tous les cotes se repand au dehors.
+LELIE.
+Pourrait-on se forcer a plus de retenue ?
+Je ne l'ai presque point encore entretenue.
+MASCARILLE.
+Oui, mais ce n'est pas tout que de ne parler pas :
+Par vos gestes, durant un moment de repas,			[1510]
+Vous avez aux soupcons donne plus de matiere,
+Que d'autres ne feraient dans une annee entiere.
+LELIE.
+Et comment donc ?
+MASCARILLE.
+Comment ? Chacun a pu le voir.
+A table, ou Trufaldin l'oblige de se seoir,
+Vous n'avez toujours fait qu'avoir les yeux sur elle.			[1515]
+Rouge, tout interdit, jouant de la prunelle,
+Sans prendre jamais garde a ce qu'on vous servait,
+Vous n'aviez point de soif qu'alors qu'elle buvait,
+Et dans ses propres mains vous saisissant du verre,
+Sans le vouloir rincer, sans rien jeter a terre,			[1520]
+Vous buviez sur son reste, et montriez d'affecter
+Le cote qu'a sa bouche elle avait su porter.
+Sur les morceaux touches de sa main delicate,
+Ou mordus de ses dents, vous etendiez la patte
+Plus brusquement qu'un chat dessus une souris,			[1525]
+Et les avaliez tout ainsi que des pois gris.
+Puis, outre tout cela, vous faisiez sous la table
+Un bruit, un triquetrac de pieds insupportable,
+Dont Trufaldin, heurte de deux coups trop pressants,
+A puni par deux fois deux chiens tres innocents,			[1530]
+Qui, s'ils eussent ose, vous eussent fait querelle.
+Et puis apres cela votre conduite est belle ?
+Pour moi, j'en ai souffert la gene sur mon corps ;
+Malgre le froid, je sue encore de mes efforts :
+Attache dessus vous, comme un joueur de boule			[1535]
+Apres le mouvement de la sienne qui roule,
+Je pensais retenir toutes vos actions,
+En faisant de mon corps mille contorsions.
+LELIE.
+Mon Dieu ! Qu'il t'est aise de condamner des choses
+Dont tu ne ressens point les agreables causes !			[1540]
+Je veux bien neanmoins, pour te plaire une fois,
+Faire force a l'amour qui m'impose des lois :
+Desormais...
+SCENE V. Mascarille, Trufaldin, Lelie.
+MASCARILLE.
+Nous parlions des fortunes d'Horace.
+TRUFALDIN.
+C'est bien fait. Cependant me ferez-vous la grace
+Que je puisse lui dire un seul mot en secret ?			[1545]
+LELIE.
+Il faudrait autrement etre fort indiscret.
+TRUFALDIN.
+Ecoute, sais-tu bien ce que je viens de faire ?
+MASCARILLE.
+Non, mais si vous voulez, je ne tarderai guere,
+Sans doute, a le savoir.
+TRUFALDIN.
+D'un chene grand et fort,
+Dont pres de deux cents ans ont fait deja le sort,			[1550]
+Je viens de detacher une branche admirable,
+Choisie expressement, de grosseur raisonnable,
+Dont j'ai fait sur-le-champ, avec beaucoup d'ardeur,
+Un baton a peu pres... Oui, de cette grandeur ;
+Moins gros par l'un des bouts, mais plus que trente gaules			[1555]
+Propre, comme je pense, a rosser les epaules,
+Car il est bien en main, vert, noueux et massif.
+MASCARILLE.
+Mais pour qui, je vous prie, un tel preparatif ?
+TRUFALDIN.
+Pour toi premierement ; puis pour ce bon apotre,
+Qui veut m'en donner d'une et m'en jouer d'un autre,			[1560]
+Pour cet Armenien, ce marchand deguise,
+Introduit sous l'appat d'un conte suppose.
+MASCARILLE.
+Quoi ? Vous ne croyez pas... ?
+TRUFALDIN.
+Ne cherche point d'excuse :
+Lui-meme heureusement a decouvert sa ruse,
+Et disant a Celie, en lui serrant la main,			[1565]
+Que pour elle il venait sous ce pretexte vain,
+Il n'a pas apercu Jeannette, ma fillole,
+Laquelle a tout oui parole pour parole ;
+Et je ne doute point, quoiqu'il n'en ait rien dit,
+Que tu ne sois de tout le complice maudit.			[1570]
+MASCARILLE.
+Ah ! Vous me faites tort ! S'il faut qu'on vous affronte,
+Croyez qu'il m'a trompe le premier a ce conte.
+TRUFALDIN.
+Veux-tu me faire voir que tu dis verite ?
+Qu'a le chasser mon bras soit du tien assiste :
+Donnons-en a ce fourbe et du long et du large,			[1575]
+Et de tout crime apres mon esprit te decharge.
+MASCARILLE.
+Oui-da, tres volontiers, je l'epousterai bien,
+Et par la vous verrez que je n'y trempe en rien.
+Ah ! Vous serez rosse, monsieur de l'Armenie,
+Qui toujours gatez tout.
+SCENE VI. Trufaldin, Mascarille, Lelie.
+TRUFALDIN.
+Un mot, je vous supplie.			[1580]
+Donc, monsieur l'imposteur, vous osez aujourd'hui
+Duper un honnete homme et vous jouer de lui ?
+MASCARILLE.
+Feindre avoir vu son fils en une autre contree,
+Pour vous donner chez lui plus aisement entree ?
+TRUFALDIN.
+Vidons, vidons sur l'heure.
+LELIE.
+Ah ! Coquin !			[1585]
+MASCARILLE.
+C'est ainsi			[1585]
+Que les fourbes...
+LELIE.
+Bourreau !
+MASCARILLE.
+... Sont ajustes ici.
+Garde-moi bien cela.
+LELIE.
+Quoi donc ? Je serais homme...
+MASCARILLE.
+Tirez, tirez, vous dis-je, ou bien je vous assomme.
+TRUFALDIN.
+Voila qui me plait fort ; rentre, je suis content.
+LELIE.
+A moi ! Par un valet cet affront eclatant !			[1590]
+L'aurait-on pu prevoir, l'action de ce traitre,
+Qui vient insolemment de maltraiter son maitre ?
+MASCARILLE.
+Peut-on vous demander comme va votre dos ?
+LELIE.
+Quoi ? Tu m'oses encor tenir un tel propos ?
+MASCARILLE.
+Voila, voila que c'est de ne voir pas Jeannette,			[1595]
+Et d'avoir en tout temps une langue indiscrete ;
+Mais pour cette fois-ci je n'ai point de courroux,
+Je cesse d'eclater, de pester contre vous :
+Quoique de l'action l'imprudence soit haute,
+Ma main sur votre echine a lave votre faute.			[1600]
+LELIE.
+Ah ! Je me vengerai de ce trait deloyal.
+MASCARILLE.
+Vous vous etes cause vous-meme tout le mal.
+LELIE.
+Moi ?
+MASCARILLE.
+Si vous n'etiez pas une cervelle folle,
+Quand vous avez parle naguere a votre idole,
+Vous auriez apercu Jeannette sur vos pas,			[1605]
+Dont l'oreille subtile a decouvert le cas.
+LELIE.
+On aurait pu surprendre un mot dit a Celie ?
+MASCARILLE.
+Et d'ou donc viendrait cette prompte sortie ?
+Oui, vous n'etes dehors que par votre caquet :
+Je ne sais si souvent vous jouez au piquet,			[1610]
+Mais, au moins, faites-vous des ecarts admirables.
+LELIE.
+Oh ! Le plus malheureux de tous les miserables !
+Mais encore, pourquoi me voir chasse par toi ?
+MASCARILLE.
+Je ne fis jamais mieux que d'en prendre l'emploi :
+Par la j'empeche au moins que de cet artifice			[1615]
+Je ne sois soupconne d'etre auteur ou complice.
+LELIE.
+Tu devais donc, pour toi, frapper plus doucement.
+MASCARILLE.
+Quelque sot ! Trufaldin lorgnait exactement ;
+Et puis je vous dirai, sous ce pretexte utile
+Je n'etais point fache d'evaporer ma bile :			[1620]
+Enfin la chose est faite, et si j'ai votre foi
+Qu'on ne vous verra point vouloir venger sur moi,
+Soit ou directement ou par quelque autre voie,
+Les coups sur votre rable assenes avec joie,
+Je vous promets, aide par le poste ou je suis,			[1625]
+De contenter vos voeux avant qu'il soit deux nuits.
+LELIE.
+Quoique ton traitement ait eu trop de rudesse,
+Qu'est-ce que dessus moi ne peut cette promesse ?
+MASCARILLE.
+Vous le promettez donc ?
+LELIE.
+Oui, je te le promets.
+MASCARILLE.
+Ce n'est pas encore tout, promettez que jamais			[1630]
+Vous ne vous melerez dans quoi que j'entreprenne.
+LELIE.
+Soit.
+MASCARILLE.
+Si vous y manquez, votre fievre quartaine !
+LELIE.
+Mais tiens-moi donc parole, et songe a mon repos.
+MASCARILLE.
+Allez quitter l'habit et graisser votre dos.
+LELIE.
+Faut-il que le malheur qui me suit a la trace			[1635]
+Me fasse voir toujours disgrace sur disgrace ?
+MASCARILLE.
+Quoi ? Vous n'etes pas loin ? Sortez vite d'ici ;
+Mais surtout gardez-vous de prendre aucun souci :
+Puisque je fais pour vous, que cela vous suffise ;
+N'aidez point mon projet de la moindre entreprise...			[1640]
+Demeurez en repos.
+LELIE.
+Oui, va, je m'y tiendrai.
+MASCARILLE.
+Il faut voir maintenant quel biais je prendrai.
+SCENE VII. Ergaste, Mascarille.
+ERGASTE.
+Mascarille, je viens te dire une nouvelle
+Qui donne a tes desseins une atteinte cruelle :
+A l'heure que je parle, un jeune egyptien,			[1645]
+Qui n'est pas noir pourtant, et sent assez son bien,
+Arrive accompagne d'une vieille fort have,
+Et vient chez Trufaldin racheter cette esclave
+Que vous vouliez. Pour elle il parait fort zele.
+MASCARILLE.
+Sans doute, c'est l'amant dont Celie a parle.			[1650]
+Fut-il jamais destin plus brouille que le notre ?
+Sortant d'un embarras, nous entrons dans un autre.
+En vain nous apprenons que Leandre est au point
+De quitter la partie et ne nous troubler point ;
+Que son pere, arrive contre toute esperance,			[1655]
+Du cote d'Hippolyte emporte la balance ;
+Qu'il a tout fait changer par son autorite,
+Et va des aujourd'hui conclure le traite :
+Lorsqu'un rival s'eloigne, un autre plus funeste
+S'en vient nous enlever tout l'espoir qui nous reste.			[1660]
+Toutefois, par un trait merveilleux de mon art,
+Je crois que je pourrai retarder leur depart,
+Et me donner le temps qui sera necessaire
+Pour tacher de finir cette fameuse affaire.
+Il s'est fait un grand vol ; par qui, l'on n'en sait rien ;			[1665]
+Eux autres rarement passent pour gens de bien :
+Je veux adroitement, sur un soupcon frivole,
+Faire pour quelques jours emprisonner ce drole.
+Je sais des officiers de justice alteres
+Qui sont pour de tels coups de vrais deliberes :			[1670]
+Dessus l'avide espoir de quelque paraguante,
+Il n'est rien que leur art aveuglement ne tente,
+Et du plus innocent, toujours a leur profit,
+La bourse est criminelle, et paye son delit.
+
+
+			ACTE V
+
+
+SCENE PREMIERE. Mascarille, Ergaste.
+MASCARILLE.
+Ah chien ! Ah double chien ! Matine de cervelle !			[1675]
+Ta persecution sera-t-elle eternelle ?
+ERGASTE.
+Par les soins vigilants de l'exempt Balafre,
+Ton affaire alloit bien, le drole etait coffre,
+Si ton maitre au moment ne fut venu lui-meme,
+En vrai desespere, rompre ton stratageme :			[1680]
+" je ne saurais souffrir, a-t-il dit hautement,
+Qu'un honnete homme soit traine honteusement ;
+J'en reponds sur sa mine, et je le cautionne ; "
+Et comme on resistait a lacher sa personne,
+D'abord il a charge si bien sur les recors,			[1685]
+Qui sont gens d'ordinaire a craindre pour leurs corps,
+Qu'a l'heure que je parle ils sont encore en fuite,
+Et pensent tous avoir un Lelie a leur suite.
+MASCARILLE.
+Le traitre ne sait pas que cet egyptien
+Est deja la dedans pour lui ravir son bien.			[1690]
+ERGASTE.
+Adieu : certaine affaire a te quitter m'oblige.
+MASCARILLE.
+Oui, je suis stupefait de ce dernier prodige :
+On dirait, et pour moi j'en suis persuade,
+Que ce demon brouillon dont il est possede
+Se plaise a me braver, et me l'aille conduire			[1695]
+Partout ou sa presence est capable de nuire.
+Pourtant je veux poursuivre, et malgre tous ces coups,
+Voir qui l'emportera de ce diable ou de nous.
+Celie est quelque peu de notre intelligence,
+Et ne voit son depart qu'avec repugnance :			[1700]
+Je tache a profiter de cette occasion.
+Mais ils viennent : songeons a l'execution.
+Cette maison meublee est en ma bienseance,
+Je puis en disposer avec grande licence ;
+Si le sort nous en dit, tout sera bien regle ;			[1705]
+Nul que moi ne s'y tient, et j'en garde la cle.
+O Dieu ! Qu'en peu de temps on a vu d'aventures,
+Et qu'un fourbe est contraint de prendre de figures !
+SCENE II. Andres, Celie.
+ANDRES.
+Vous le savez, Celie, il n'est rien que mon coeur
+N'ait fait pour vous prouver l'exces de son ardeur.			[1710]
+Chez les Venitiens, des un assez jeune age,
+La guerre en quelque estime avait mis mon courage,
+Et j'y pouvais un jour, sans trop croire de moi,
+Pretendre, en les servant, un honorable emploi,
+Lorsqu'on me vit pour vous oublier toute chose,			[1715]
+Et que le prompt effet d'une metamorphose
+Qui suivit de mon coeur le soudain changement,
+Parmi vos compagnons sut ranger votre amant,
+Sans que mille accidents, ni votre indifference
+Aient pu me detacher de ma perseverance.			[1720]
+Depuis, par un hasard d'avec vous separe,
+Pour beaucoup plus de temps que je n'eusse augure,
+Je n'ai pour vous rejoindre epargne temps ni peine.
+Enfin, ayant trouve la vieille egyptienne,
+Et plein d'impatience, apprenant votre sort,			[1725]
+Que pour certain argent qui leur importait fort,
+Et qui de tous vos gens detourna le naufrage,
+Vous aviez en ces lieux ete mise en otage,
+J'accours vite y briser ces chaines d'interet,
+Et recevoir de vous les ordres qu'il vous plait.			[1730]
+Cependant on vous voit une morne tristesse,
+Alors que dans vos yeux doit briller l'allegresse.
+Si pour vous la retraite avait quelques appas,
+Venise du butin fait parmi les combats
+Me garde pour tous deux de quoi pouvoir y vivre.			[1735]
+Que si comme devant il vous faut encore suivre,
+J'y consens, et mon coeur n'ambitionnera
+Que d'etre aupres de vous tout ce qu'il vous plaira.
+CELIE.
+Votre zele pour moi visiblement eclate ;
+Pour en paraitre triste il faudrait etre ingrate ;			[1740]
+Et mon visage aussi par son emotion
+N'explique point mon coeur en cette occasion :
+Une douleur de tete y peint sa violence,
+Et si j'avais sur vous quelque peu de puissance,
+Notre voyage, au moins pour trois ou quatre jours,			[1745]
+Attendrait que ce mal eut pris un autre cours.
+ANDRES.
+Autant que vous voudrez faites qu'il se differe,
+Toutes mes volontes ne butent qu'a vous plaire.
+Cherchons une maison a vous mettre en repos :
+L'ecriteau que voici s'offre tout a propos.			[1750]
+SCENE III. Andres, Mascarille.
+ANDRES.
+Seigneur suisse, etes-vous de ce logis le maitre ?
+MASCARILLE.
+Moi, pour serfir a fous.
+ANDRES.
+Pourrons-nous y bien etre ?
+MASCARILLE.
+Oui, moi pour d'estrancher chappon champre garni ;
+Mais che non point locher te gent te mechant vi.
+ANDRES.
+Je crois votre maison franche de tout ombrage.			[1755]
+MASCARILLE.
+Fous nouviau dant sti fil, moi foir a la fissage.
+ANDRES.
+Oui.
+MASCARILLE.
+La matame est-il mariage al montsieur ?
+ANDRES.
+Quoi ?
+MASCARILLE.
+S'il etre son fame, ou s'il etre son soeur ?
+ANDRES.
+Non.
+MASCARILLE.
+Mon foi, pien choli. Finir pour marchandisse,
+Ou pien pour temanter a la palais choustice ?			[1760]
+La proces il fault rien : il couter tant tarchant !
+La procurair larron, la focat pien mechant.
+ANDRES.
+Ce n'est pas pour cela.
+MASCARILLE.
+Fous tonc mener sti file
+Pour fenir pourmener, et recarter la file ?
+ANDRES.
+Il n'importe. Je suis a vous dans un moment.			[1765]
+Je vais faire venir la vieille promptement,
+Contremander aussi notre voiture prete.
+MASCARILLE.
+Li ne porte pas pien ?
+ANDRES.
+Elle a mal a la tete.
+MASCARILLE.
+Moi, chavoir de pon fin et de fromage pon.
+Entre fous, entre fous dans mon petit maisson.			[1770]
+SCENE IV. Lelie, Andres.
+LELIE.
+Quel que soit le transport d'une ame impatiente,
+Ma parole m'engage a rester en attente,
+A laisser faire un autre, et voir sans rien oser
+Comme de mes destins le ciel veut disposer.
+Demandiez-vous quelqu'un dedans cette demeure ?			[1775]
+ANDRES.
+C'est un logis garni que j'ai pris tout a l'heure.
+LELIE.
+A mon pere pourtant la maison appartient,
+Et mon valet la nuit pour la garder s'y tient.
+ANDRES.
+Je ne sais ; l'ecriteau marque au moins qu'on la loue :
+Lisez.
+LELIE.
+Certes, ceci me surprend, je l'avoue.			[1780]
+Qui diantre l'aurait mis, et par quel interet... ?
+Ah ! Ma foi, je devine a peu pres ce que c'est :
+Cela ne peut venir que de ce que j'augure.
+ANDRES.
+Peut-on vous demander quelle est cette aventure ?
+LELIE.
+Je voudrais a tout autre en faire un grand secret ;			[1785]
+Mais pour vous il n'importe, et vous serez discret.
+Sans doute l'ecriteau que vous voyez paraitre,
+Comme je conjecture au moins, ne saurait etre
+Que quelque invention du valet que je dis,
+Que quelque noeud subtil qu'il doit avoir ourdi,			[1790]
+Pour mettre en mon pouvoir certaine egyptienne
+Dont j'ai l'ame piquee, et qu'il faut que j'obtienne ;
+Je l'ai deja manquee, et meme plusieurs coups.
+ANDRES.
+Vous l'appelez ?
+LELIE.
+Celie.
+ANDRES.
+He ! Que ne disiez-vous ?
+Vous n'aviez qu'a parler, je vous aurais sans doute			[1795]
+Epargne tous les soins que ce projet vous coute.
+LELIE.
+Quoi ? Vous la connaissez ?
+ANDRES.
+C'est moi qui maintenant
+Viens de la racheter.
+LELIE.
+Oh ! Discours surprenant !
+ANDRES.
+Sa sante de partir ne nous pouvant permettre,
+Au logis que voila je venais de la mettre,			[1800]
+Et je suis tres ravi, dans cette occasion,
+Que vous m'ayez instruit de votre intention.
+LELIE.
+Quoi ? J'obtiendrais de vous le bonheur que j'espere ?
+Vous pourriez... ?
+ANDRES.
+Tout a l'heure on va vous satisfaire.
+LELIE.
+Que pourrai-je vous dire, et quel remerciement... ?			[1805]
+ANDRES.
+Non, ne m'en faites point, je n'en veux nullement.
+SCENE V. Mascarille, Lelie.
+MASCARILLE.
+He bien ! Ne voila pas mon enrage de maitre !
+Il nous va faire encor quelque nouveau bissetre.
+LELIE.
+Sous ce crotesque habit qui l'aurait reconnu ?
+Approche, Mascarille, et sois le bienvenu.			[1810]
+MASCARILLE.
+Moi souis ein chant honneur, moi non point Maquerille :
+Chai point fentre chamais le fame ni le fille.
+LELIE.
+Le plaisant baragouin ! Il est bon, sur ma foi.
+MASCARILLE.
+Alle fous pourmener, sans toi rire te moi.
+LELIE.
+Va, va, leve le masque, et reconnais ton maitre.			[1815]
+MASCARILLE.
+Partieu, tiaple, mon foi ! Jamais toi chai connaitre.
+LELIE.
+Tout est accommode, ne te deguise point.
+MASCARILLE.
+Si toi point en aller, chai paille ein cou te point.
+LELIE.
+Ton jargon allemand est superflu, te dis-je ;
+Car nous sommes d'accord, et sa bonte m'oblige :			[1820]
+J'ai tout ce que mes voeux lui pouvaient demander,
+Et tu n'as pas sujet de rien apprehender.
+MASCARILLE.
+Si vous etes d'accord par un bonheur extreme,
+Je me dessuisse donc, et redeviens moi-meme.
+ANDRES.
+Ce valet vous servait avec beaucoup de feu.			[1825]
+Mais je reviens a vous, demeurez quelque peu.
+LELIE.
+He bien ! Que diras-tu ?
+MASCARILLE.
+Que j'ai l'ame ravie
+De voir d'un beau succes notre peine suivie.
+LELIE.
+Tu feignais a sortir de ton deguisement,
+Et ne pouvais me croire en cet evenement ?			[1830]
+MASCARILLE.
+Comme je vous connais, j'etais dans l'epouvante,
+Et trouve l'aventure aussi fort surprenante.
+LELIE.
+Mais confesse qu'enfin c'est avoir fait beaucoup ;
+Au moins j'ai repare mes fautes a ce coup,
+Et j'aurai cet honneur d'avoir fini l'ouvrage.			[1835]
+MASCARILLE.
+Soit, vous aurez ete bien plus heureux que sage.
+SCENE VI. Andres, Lelie, Mascarille.
+ANDRES.
+N'est-ce pas la l'objet dont vous m'avez parle ?
+LELIE.
+Ah ! Quel bonheur au mien pourrait etre egale ?
+ANDRES.
+Il est vrai, d'un bienfait je vous suis redevable :
+Si je ne l'avouais, je serais condamnable ;			[1840]
+Mais enfin ce bienfait aurait trop de rigueur,
+S'il fallait le payer aux depens de mon coeur ;
+Jugez donc le transport ou sa beaute me jette,
+Si je dois a ce prix vous acquitter ma dette :
+Vous etes genereux, vous ne le voudriez pas.			[1845]
+Adieu pour quelques jours : retournons sur nos pas.
+MASCARILLE.
+Je ris, et toutefois je n'en ai guere envie.
+Vous voila bien d'accord, il vous donne Celie,
+Et... Vous m'entendez bien.
+LELIE.
+C'est trop : je ne veux plus
+Te demander pour moi de secours superflus ;			[1850]
+Je suis un chien, un traitre, un bourreau detestable,
+Indigne d'aucun soin, de rien faire incapable.
+Va, cesse tes efforts pour un malencontreux
+Qui ne saurait souffrir que l'on le rende heureux :
+Apres tant de malheurs, apres mon imprudence,			[1855]
+Le trepas me doit seul preter son assistance.
+MASCARILLE.
+Voila le vrai moyen d'achever son destin ;
+Il ne lui manque plus que de mourir enfin,
+Pour le couronnement de toutes ses sottises.
+Mais en vain son depit pour ses fautes commises			[1860]
+Lui fait licencier mes soins et mon appui :
+Je veux, quoi qu'il en soit, le servir malgre lui,
+Et dessus son lutin obtenir la victoire :
+Plus l'obstacle est puissant, plus on recoit de gloire,
+Et les difficultes dont on est combattu			[1865]
+Sont les dames d'atour qui parent la vertu.
+SCENE VII. Celie, Mascarille.
+CELIE.
+Quoi que tu veuilles dire et que l'on se propose,
+De ce retardement j'attends fort peu de chose :
+Ce qu'on voit de succes peut bien persuader
+Qu'ils ne sont pas encore fort pres de s'accorder ;			[1870]
+Et je t'ai deja dit qu'un coeur comme le notre
+Ne voudrait pas pour l'un faire injustice a l'autre,
+Et que tres fortement, par de differents noeuds,
+Je me trouve attachee au parti de tous deux.
+Si Lelie a pour lui l'amour et sa puissance,			[1875]
+Andres pour son partage a la reconnaissance,
+Qui ne souffrira point que mes pensers secrets
+Consultent jamais rien contre ses interets :
+Oui, s'il ne peut avoir plus de place en mon ame,
+Si le don de mon coeur ne couronne sa flamme,			[1880]
+Au moins dois-je ce prix a ce qu'il fait pour moi,
+De n'en choisir point d'autre au mepris de sa foi,
+Et de faire a mes voeux autant de violence
+Que j'en fais aux desirs qu'il met en evidence.
+Sur ces difficultes qu'oppose mon devoir,			[1885]
+Juge ce que tu peux te permettre d'espoir.
+MASCARILLE.
+Ce sont, a dire vrai, de tres facheux obstacles,
+Et je ne sais point l'art de faire des miracles ;
+Mais je vais employer mes efforts plus puissants,
+Remuer terre et ciel, m'y prendre de tout sens,			[1890]
+Pour tacher de trouver un biais salutaire,
+Et vous dirai bientot ce qui se pourra faire.
+SCENE VIII. Hippolyte, Celie.
+HIPPOLITE.
+Depuis votre sejour, les dames de ces lieux
+Se plaignent justement des larcins de vos yeux,
+Si vous leur derobez leurs conquetes plus belles			[1895]
+Et de tous leurs amants faites des infideles.
+Il n'est guere de coeurs qui puissent echapper
+Aux traits dont a l'abord vous savez les frapper,
+Et mille libertes a vos chaines offertes
+Semblent vous enrichir chaque jour de nos pertes.			[1900]
+Quant a moi toutefois, je ne me plaindrais pas
+Du pouvoir absolu de vos rares appas,
+Si lorsque mes amants sont devenus les votres,
+Un seul m'eut console de la perte des autres ;
+Mais qu'inhumainement vous me les otiez tous,			[1905]
+C'est un dur procede, dont je me plains a vous.
+CELIE.
+Voila d'un air galant faire une raillerie ;
+Mais epargnez un peu celle qui vous en prie.
+Vos yeux, vos propres yeux, se connaissent trop bien,
+Pour pouvoir de ma part redouter jamais rien :			[1910]
+Ils sont fort assures du pouvoir de leurs charmes,
+Et ne prendront jamais de pareilles alarmes.
+HIPPOLITE.
+Pourtant en ce discours je n'ai rien avance
+Qui dans tous les esprits ne soit deja passe ;
+Et sans parler du reste, on sait bien que Celie			[1915]
+A cause des desirs a Leandre et Lelie.
+CELIE.
+Je crois qu'etant tombes dans cet aveuglement,
+Vous vous consoleriez de leur perte aisement,
+Et trouveriez pour vous l'amant peu souhaitable
+Qui d'un si mauvais choix se trouverait capable.			[1920]
+HIPPOLITE.
+Au contraire, j'agis d'un air tout different,
+Et trouve en vos beautes un merite si grand,
+J'y vois tant de raisons capables de defendre
+L'inconstance de ceux qui s'en laissent surprendre,
+Que je ne puis blamer la nouveaute des feux			[1925]
+Dont envers moi Leandre a parjure ses voeux,
+Et le vais voir tantot, sans haine et sans colere,
+Ramene sous mes lois par le pouvoir d'un pere.
+SCENE IX. Mascarille, Celie, Hyppolyte.
+MASCARILLE.
+Grande, grande nouvelle, et succes surprenant,
+Que ma bouche vous vient annoncer maintenant !			[1930]
+CELIE.
+Qu'est-ce donc ?
+MASCARILLE.
+Ecoutez, voici, sans flatterie...
+CELIE.
+Quoi ?
+MASCARILLE.
+La fin d'une vraie et pure comedie.
+La vieille egyptienne a l'heure meme...
+CELIE.
+He bien ?
+MASCARILLE.
+Passait dedans la place, et ne songeait a rien,
+Alors qu'une autre vieille assez defiguree,			[1935]
+L'ayant de pres, au nez, longtemps consideree,
+Par un bruit enroue de mots injurieux
+A donne le signal d'un combat furieux,
+Qui pour armes pourtant, mousquets, dagues ou fleches,
+Ne faisait voir en l'air que quatre griffes seches,			[1940]
+Dont ces deux combattants s'efforcaient d'arracher
+Ce peu que sur leurs os les ans laissent de chair.
+On n'entend que ces mots : chienne, louve, bagace.
+D'abord leurs scoffions ont vole par la place,
+Et laissant voir a nu deux tetes sans cheveux,			[1945]
+Ont rendu le combat risiblement affreux.
+Andres et Trufaldin, a l'eclat du murmure,
+Ainsi que force monde, accourus d'aventure,
+Ont a les decharpir eu de la peine assez,
+Tant leurs esprits etaient par la fureur pousses.			[1950]
+Cependant que chacune, apres cette tempete,
+Songe a cacher aux yeux la honte de sa tete,
+Et que l'on veut savoir qui causait cette humeur,
+Celle qui la premiere avait fait la rumeur,
+Malgre la passion dont elle etait emue,			[1955]
+Ayant sur Trufaldin tenu longtemps la vue :
+" c'est vous, si quelque erreur n'abuse ici mes yeux,
+Qu'on m'a dit qui viviez inconnu dans ces lieux, "
+A-t-elle dit tout haut ; " oh ! Rencontre opportune !
+Oui, seigneur Zanobio Ruberti, la fortune			[1960]
+Me fait vous reconnaitre, et dans le meme instant
+Que pour votre interet je me tourmentais tant.
+Lorsque Naples vous vit quitter votre famille,
+J'avais, vous le savez, en mes mains votre fille,
+Dont j'elevais l'enfance, et qui par mille traits			[1965]
+Faisait voir des quatre ans sa grace et ses attraits.
+Celle que vous voyez, cette infame sorciere,
+Dedans notre maison se rendant familiere,
+Me vola ce tresor. Helas ! De ce malheur
+Votre femme, je crois, concut tant de douleur,			[1970]
+Que cela servit fort pour avancer sa vie :
+Si bien qu'entre mes mains cette fille ravie
+Me faisant redouter un reproche facheux,
+Je vous fis annoncer la mort de toutes deux ;
+Mais il faut maintenant, puisque je l'ai connue,			[1975]
+Qu'elle fasse savoir ce qu'elle est devenue. "
+Au nom de Zanobio Ruberti, que sa voix
+Pendant tout ce recit repetait plusieurs fois,
+Andres, ayant change quelque temps de visage,
+A Trufaldin surpris a tenu ce langage :			[1980]
+"Quoi donc ? Le ciel me fait trouver heureusement
+Celui que jusqu'ici j'ai cherche vainement,
+Et que j'avais pu voir sans pourtant reconnaitre
+La source de mon sang et l'auteur de mon etre !
+Oui, mon pere, je suis Horace, votre fils :			[1985]
+D'Albert, qui me gardait, les jours etant finis,
+Me sentant naitre au coeur d'autres inquietudes,
+Je sortis de Bologne, et quittant mes etudes,
+Portai durant six ans mes pas en divers lieux,
+Selon que me poussait un desir curieux.			[1990]
+Pourtant, apres ce temps, une secrete envie
+Me pressa de revoir les miens et ma patrie.
+Mais dans Naples, helas ! Je ne vous trouvai plus,
+Et n'y sus votre sort que par des bruits confus :
+Si bien qu'a votre quete ayant perdu mes peines,			[1995]
+Venise pour un temps borna mes courses vaines ;
+Et j'ai vecu depuis sans que de ma maison
+J'eusse d'autres clartes que d'en savoir le nom. "
+Je vous laisse a juger si pendant ces affaires
+Trufaldin ressentait des transports ordinaires.			[2000]
+Enfin (pour retrancher ce que plus a loisir
+Vous aurez le moyen de vous faire eclaircir
+Par la confession de votre egyptienne),
+Trufaldin maintenant vous reconnait pour sienne ;
+Andres est votre frere ; et comme de sa soeur			[2005]
+Il ne peut plus songer a se voir possesseur,
+Une obligation qu'il pretend reconnaitre
+A fait qu'il vous obtient pour epouse a mon maitre,
+Dont le pere, temoin de tout l'evenement,
+Donne a cette hymenee un plein consentement ;			[2010]
+Et pour mettre une joie entiere en sa famille,
+Pour le nouvel Horace a propose sa fille.
+Voyez que d'incidents a la fois enfantes.
+CELIE.
+Je demeure immobile a tant de nouveautes.
+MASCARILLE.
+Tous viennent sur mes pas, hors les deux championnes,			[2015]
+Qui du combat encor remettent leurs personnes ;
+Leandre est de la troupe, et votre pere aussi :
+Moi, je vais avertir mon maitre de ceci,
+Et que lorsqu'a ses voeux on croit le plus d'obstacle,
+Le ciel en sa faveur produit comme un miracle.			[2020]
+HIPPOLITE.
+Un tel ravissement rend mes esprits confus,
+Que pour mon propre sort je n'en aurais pas plus.
+Mais les voici venir.
+SCENE X. Trufaldin, Celie, Hippolyte, Andres.
+TRUFALDIN.
+Ah ! Ma fille.
+CELIE.
+Ah ! Mon pere.
+TRUFALDIN.
+Sais-tu deja comment le ciel nous est prospere ?
+CELIE.
+Je viens d'entendre ici ce succes merveilleux.			[2025]
+HIPPOLITE, a Leandre.
+En vain vous parleriez pour excuser vos feux,
+Si j'ai devant les yeux ce que vous pouvez dire.
+LEANDRE.
+Un genereux pardon est ce que je desire ;
+Mais j'atteste les cieux qu'en ce retour soudain
+Mon pere fait bien moins que mon propre dessein.			[2030]
+ANDRES, a Celie.
+Qui l'aurait jamais cru, que cette ardeur si pure
+Put etre condamnee un jour par la nature ?
+Toutefois tant d'honneur la sut toujours regir,
+Qu'en y changeant fort peu je puis la retenir.
+CELIE.
+Pour moi, je me blamais, et croyais faire faute,			[2035]
+Quand je n'avais pour vous qu'une estime tres haute :
+Je ne pouvais savoir quel obstacle puissant
+M'arretait sur un pas si doux et si glissant,
+Et detournait mon coeur de l'aveu d'une flamme
+Que mes sens s'efforcaient d'introduire en mon ame.			[2040]
+TRUFALDIN.
+Mais en te recouvrant que diras-tu de moi,
+Si je songe aussitot a me priver de toi,
+Et t'engage a son fils sous les lois d'hymenee ?
+CELIE.
+Que de vous maintenant depend ma destinee.
+SCENE XI. Mascarille, Lelie, Trufaldin, Pandolfe, Andres.
+MASCARILLE.
+Voyons si votre diable aura bien le pouvoir			[2045]
+De detruire a ce coup un si solide espoir,
+Et si contre l'exces du bien qui vous arrive
+Vous armerez encore votre imaginative.
+Par un coup imprevu des destins les plus doux,
+Vos voeux sont couronnes, et Celie est a vous.			[2050]
+LELIE.
+Croirai-je que du ciel la puissance absolue... ?
+TRUFALDIN.
+Oui, mon gendre, il est vrai.
+PANDOLFE.
+La chose est resolue.
+ANDRES.
+Je m'acquitte par la de ce que je vous dois.
+LELIE, a Mascarille.
+Il faut que je t'embrasse, et mille et mille fois,
+Dans cette joie...
+MASCARILLE.
+Ahi, ahi ! Doucement, je vous prie :			[2055]
+Il m'a presque etouffe. Je crains fort pour Celie,
+Si vous la caressez avec tant de transport.
+De vos embrassements on se passerait fort.
+TRUFALDIN, a Lelie.
+Vous savez le bonheur que le ciel me renvoie ;
+Mais puisqu'un meme jour nous met tous dans la joie,			[2060]
+Ne nous separons point qu'il ne soit termine,
+Et que son pere aussi nous soit vite amene.
+MASCARILLE.
+Vous voila tous pourvus : n'est-il point quelque fille
+Qui put accommoder le pauvre Mascarille ?
+A voir chacun se joindre a sa chacune ici,			[2065]
+J'ai des demangeaisons de mariage aussi.
+ANSELME.
+J'ai ton fait.
+MASCARILLE.
+Allons donc, et que les cieux prosperes
+Nous donnent des enfants dont nous soyons les peres.
+
+	==================================================

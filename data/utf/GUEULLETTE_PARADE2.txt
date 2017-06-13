@@ -1,0 +1,1219 @@
+********************************************************
+	DC.Title                  = DEUXIEME PARADE, FARCE.
+	DC.Author                 = GUEULLETTE, Thomas-Simon
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 02/06/2016 a 19:05:40.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/GUEULLETTE_PARADE2.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+DEUXIEME PARADE FARCE EN UN ACTE.ecrite a l'origine en 1715 ; version de 1740 transcrite par Charles Gueullette en 1885.M. DCC. XV.
+de Thomas-Simon GUEULLETTE
+	A MAHON, de l'Imprimerie GILLES LANGLOIS, a l'Enseigne de l'Eglise.
+	
+	Represente chez Gueullette a Charenton en 1715.
+	PERSONNAGES
+MONSIEUR CASSANDRE, vieillard.
+GILLES, son valet.
+PRENDS-TOUT, filou.
+LAISSE-RIEN, filou.
+UN BARBIER.
+UN PAYSAN.
+.
+
+
+
+			ACTE I
+
+
+SCENE I. Cassandre, Gilles.
+CASSANDRE.
+Venez ici, mon ami ; je compte avoir fait une bonne acquisition en prenant un valet comme vous. On m'a assure que vous etes fidele et que c'est la votre meilleure qualite. Mais, en meme temps, l'on m'a dit que vous etes la simplicite meme ; que, lorsqu'on vous donne une commission, vous la faites toujours de travers et que, quand on vous charge de porter quelque paquet, vous avez le plus souvent la betise de vous le laisser escamoter. Cela ne m'accommoderait pas.
+GILLES.
+Ce sont des gens qui m'en veulent qui vous ont parle ainsi. Il est vrai qu'il m'est arrive quelquefois d'avoir a faire a des filous bien subtils. Mais, ma foi, de plus fins que moi y auraient ete attrapes. Aujourd'hui, Monsieur, je suis plus sur mes gardes, et je veux que le diable m'arrache quatre de vos meilleures dents s'ils ont quelque prise sur moi.
+CASSANDRE.
+Parle pour les tiennes, et non pour les miennes ; je n'en ai pas trop. Mais, a la bonne heure, si tu es a present si degourdi. Rentrons, et va dejeuner. Apres cela, je te donnerai deux lapins de ma garenne que tu porteras chez mon procureur.
+GILLES.
+Oui, Monsieur. Oh ! Vous verrez comme je m'acquitterai de cette commission.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE II. Prends-Tout, Laisse-Rien.
+PRENDS-TOUT.
+Oh ! Parbleu, camarade, je viens d'entendre Monsieur Cassandre donner a Gilles une commission qui m'a fait grand plaisir. Nous n'avons rien de gras pour souper ce soir. Il faut que nous enlevions une couple de lapins qu'il va porter au procureur de ce vieux fou.
+LAISSE-RIEN.
+C'est, mordi, bien imagine.
+PRENDS-TOUT.
+Comment veux-tu que nous les mangions ? En civet ou a la broche ?
+LAISSE-RIEN.
+Je crois qu'il faudrait commencer par nous rendre maitres des lapins avant que de decider a quelle sauce nous les mangerons.
+PRENDS-TOUT.
+Cela est egal, mon ami ; je les compte a nous. Sois seulement attentif a ce qu'il faut que tu fasses pour y parvenir. Je cours promptement me deguiser.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LAISSE-RIEN.
+Cela vaut fait. Ne t'embarrasse de rien ; je jouerai bien mon role ; mais ne perds pas de temps. J'apercois Gilles, je vais commencer la fourberie et tu viendras y donner la derniere main.
+SCENE III. Laisse-Rien, Gilles.
+GILLES.
+Oh ! Parguenne, pour le coup, je veux faire voir a mon maitre que je ne suis pas un sot. Il faut que le diable s'en mele si je ne porte pas ces lapins-la a son procureur.
+LAISSE-RIEN.
+Peaux de connins ! Peaux de connins ! Qui est-ce qui veut vendre des peaux de connins ?
+GILLES.
+Oh ! Oh ! Voila un drole de marchand. Eh ! Dites-moi, s'il vous plait, mon ami, quel commerce faites-vous la ?
+LAISSE-RIEN.
+J'achete des peaux de connins, je les repasse et je les revends aux fourreurs.
+GILLES.
+Aux ?...
+LAISSE-RIEN.
+Aux fourreurs.
+GILLES.
+Diable ! Vous faites la un joli metier. Ne pourrais-je pas repasser aussi quelqu'une de ces peaux-la ?
+LAISSE-RIEN.
+Mais, Monsieur, il faut avoir appris son metier pour cela.
+GILLES.
+Bon ! Cela s'apprend tout seul.
+LAISSE-RIEN.
+Je ne vous comprends pas, Monsieur ; pour moi j'ai ete six grands mois a l'apprendre.
+GILLES.
+Oh ! Quel butor !
+LAISSE-RIEN.
+Mais, Monsieur, je vois bien que nous ne nous entendons pas. Vous pensez peut-etre a malice ?
+GILLES.
+Ah ! Que non. Les peaux de connins, cela s'entend de reste.
+LAISSE-RIEN.
+Oui, cela s'entend. Ce sont des peaux de lapins que j'achete. On conserve toujours dans les arts les mots propres, et, autrefois, les lapins ne s'appelaient pas autrement que connils et connins.
+GILLES.
+Oh ! Oh ! Je ne savais pas celui-la, et je m'imaginais tout autre chose.
+LAISSE-RIEN.
+J'ai bien vu que vous etiez dans l'erreur. Nous achetons aussi des peaux de toute sorte d'animaux : des chats, par exemple ; mais elles ne sont pas si cheres que celles des lapins. Je paie une peau de connin, suivant l'ancien style, quatre sols, et je n'en pourrais donner au plus que deux de celles des chats que vous portez.
+GILLES.
+Qu'appelez-vous chats ? Est-ce que vous etes fou ?
+LAISSE-RIEN.
+Non, vraiment.
+GILLES.
+Oh ! Parbleu, il est bon la ! Des lapins de la garenne de mon maitre, les appeler des chats !
+LAISSE-RIEN.
+Des lapins, dites-vous ? Ah ! Ah ! Ah ! Il est bouffon. Vous voulez rire, apparemment. A vous permis !
+GILLES.
+Non, parbleu ! Je ne veux pas rire.
+LAISSE-RIEN.
+Comme il vous plaira. Il m'est fort indifferent, a moi, que ce soit la un chat ou un lapin. Mais il faut ne pas avoir le sens commun pour dire que c'est la un lapin.
+GILLES.
+Et que voulez-vous donc que ce soit ? Une lapine ?
+LAISSE-RIEN.
+Non, mon ami, un chat, et cet autre encore un chat. Je le soutiendrai devant tous les garenniers et tous les ecorcheurs de France.
+GILLES.
+Ouais ! Qu'est-ce que cela veut dire ? Mon maitre voudrait-il se moquer de moi ? Mais non, parbleu ! Ce sont des lapins.
+LAISSE-RIEN.
+Voudriez-vous gager un petit ecu que ce ne sont pas des lapins ? Mais non ; il y aurait de la conscience, car je suis sur de mon fait.
+GILLES.
+Je ne possede que vingt-quatre sols, que mon maitre me doit. Mais, parbleu ! Je gagerais bien le contraire a ce prix.
+LAISSE-RIEN.
+Eh bien ! Va, mon ecu contre vos vingt-quatre sols !
+GILLES.
+Tope ! Mais qui est-ce qui nous jugera ?
+LAISSE-RIEN.
+Qui vous voudrez, pourvu que ce soit quelqu'un qui ne nous connaisse ni l'un ni l'autre.
+GILLES.
+Cela est juste. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oh ! le benet !... 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tenez, j'apercois un homme en robe qui vient de ce cote. Priez-le de decider notre differend.
+LAISSE-RIEN.
+Je le veux bien. Mais n'est-il pas de votre connaissance ?
+GILLES.
+Je vous jure que non.
+LAISSE-RIEN.
+Cela etant, je vais le prier d'etre notre juge.
+GILLES.
+L'ecu passera bientot dans ma poche ; car surement ce sont deux lapins de garenne que je tiens la.
+SCENE IV. Laisse-Rien, Gilles, Prends-Tout.
+LAISSE-RIEN.
+Monsieur, ayez la bonte de vouloir bien...
+PRENDS-TOUT, marchant gravement comme un homme qui compose ou qui etudie.
+Le Ciel t'assiste, mon ami.
+LAISSE-RIEN.
+Je ne vous demande pas l'aumone, Monsieur.
+GILLES.
+Monsieur, c'est que cet homme et moi nous sommes en dispute.
+PRENDS-TOUT.
+Eh ! Passe ton chemin et laisse-nous en repos.
+GILLES.
+Ce monsieur robin est bien difficile a aborder.
+LAISSE-RIEN.
+Il faut qu'il ait quelque chose dans la tete. C'est peut-etre un avocat.
+PRENDS-TOUT, declamant avec emphase et tenant un papier a la main.
+« Oui, Messieurs, ce n'est pas sans confusion que je me suis vu eleve, par vos suffrages, a la place d'echevin de cette ville. Je ne pouvais pas y pretendre par ma naissance. Elle devait surement m'en exclure.» Peste soit de l'animal qui a compose cette harangue ! De quoi s'avise-t-il d'aller parler de mon pere ? Oh ! je lui laverai la tete comme il faut. C'est un sot, ou j'ai l'esprit bouche...
+GILLES.
+Monsieur, si l'on osait vous interrompre pour un moment.
+PRENDS-TOUT.
+Pourquoi faire, mon ami ?
+GILLES.
+Pour vous prier d'etre juge entre cet homme et moi.
+PRENDS-TOUT.
+Cela regarde-t-il l'echevinage ?
+GILLES.
+Je ne sais pas ce que c'est que le vinage.
+PRENDS-TOUT.
+Va l'apprendre, bete que tu es, et me laisse etudier ma harangue.
+LAISSE-RIEN, a Gilles.
+C'est qu'il etudie apparemment quelque discours... Il faut lui faire a croire que notre contestation regarde l'echevinage. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php) Mon camarade ne sait pas ce qu'il dit, Monsieur. C'est un fait qui regarde la police de la ville.
+PRENDS-TOUT.
+Cela etant, je vous ecoute.
+LAISSE-RIEN.
+Monseigneur... Je crois vous reconnaitre pour vous avoir vu hier dans votre boutique...
+PRENDS-TOUT.
+Ouf ! Passez les qualites, mon ami, au fait !
+LAISSE-RIEN.
+Voici de quoi il s'agit : Le maitre de ce garcon l'a charge de porter a un des huissiers de la ville (a Gilles : Il ne faut pas lui dire que c'est au procureur de votre barbon) un present honnete ; mais je ne lui ai pas conseille de le faire.
+PRENDS-TOUT.
+Et pourquoi voulez-vous sevrer ce pauvre diable d'huissier de la galanterie qu'on veut lui faire ?
+LAISSE-RIEN.
+Pourquoi ? Vous n'avez qu'a jeter la vue sur la nature du present...
+PRENDS-TOUT.
+Il est vrai que la raillerie est un peu trop forte. On ne se moque pas ainsi d'un membre de la ville ; et son maitre et lui meriteraient qu'on les envoya pour quinze jours a la Charbonniere.
+GILLES.
+Et pour quelle raison, s'il vous plait ?
+PRENDS-TOUT.
+Parce que c'est insulter un honnete homme que de lui envoyer des chats en present.
+GILLES.
+Des chats ?
+LAISSE-RIEN.
+Vous voyez que je ne lui fais pas dire.
+PRENDS-TOUT.
+Qu'est-ce que cela signifie ?
+LAISSE-RIEN.
+C'est, Monsieur, qu'il y a un quart d'heure que ce garcon-la me veut soutenir que ce sont des lapins.
+PRENDS-TOUT.
+Ce n'est pas possible.
+LAISSE-RIEN.
+Je vous dis la verite pure, Monsieur ; j'ai eu beau lui dire que c'etaient des chats, il n'en a voulu rien croire.
+PRENDS-TOUT.
+Mais il faut etre aveugle pour ne pas voir ce que c'est.
+LAISSE-RIEN.
+Il a fait plus, il a voulu parier vingt-quatre sols que son maitre lui doit contre moi un ecu.
+PRENDS-TOUT.
+Il a surement perdu la gageure. Mais il ne convient pas que vous preniez les vingt-quatre sols. Ne voyez-vous pas bien que c'est un imbecile ?
+GILLES.
+Comment, Monsieur, ce sont la des chats ?
+PRENDS-TOUT.
+On n'en peut douter. Mais retirez-vous, vous etes juges.
+GILLES.
+Des chats !
+PRENDS-TOUT.
+Oui, des chats. Je me connais un peu en peausserie. Mon pere en vendait.
+GILLES.
+Ce ne sont pas des lapins ?
+PRENDS-TOUT.
+Non vraiment, et si vous les portiez a l'un de nos huissiers, il vous ferait donner cent coups de baton. Adieu, mon ami.
+LAISSE-RIEN.
+Savez-vous ce que je pense de ceci ? Votre maitre veut se rejouir a vos depens et vous faire payer votre bejaune. C'est un tour de carnaval. Il veut vous faire berner par les clercs de votre procureur. Allez, mon garcon, allez lui porter votre accolade de chats.
+GILLES.
+Oui-da !... Du diable si j'en suis la dupe ! Je ne suis pas assez sot pour executer cette commission. Prenne ces chats qui voudra. C'est pour l'ecorcheur.
+LAISSE-RIEN.
+Si je les ramasse, ce n'est que pour en avoir la peau.
+GILLES.
+Oh ! Faites-en ce qu'il vous plaira. Pour moi, je ne veux pas etre berne.
+LAISSE-RIEN.
+Serviteur !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Allons rejoindre Prends-Tout et manger ensemble nos lapins.
+SCENE V. Cassandre, Gilles.
+CASSANDRE.
+Sans doute que Gilles aura porte mes lapins chez mon procureur.
+GILLES.
+Ah ! Que je ne suis pas si bete !
+CASSANDRE.
+Qu'est-ce a dire ?
+GILLES.
+Oh ! Le gros fin ! Pour etre berne par ses clercs !
+CASSANDRE.
+Je ne t'entends pas.
+GILLES.
+Eh ! Oui, oui ! J'irai lui porter un chat au lieu d'un lapin, afin qu'il me fasse etriller !...
+CASSANDRE.
+Ceci est pour moi du haut allemand.
+GILLES.
+Qu'est-ce que vous m'avez donne a porter a votre procureur ?
+CASSANDRE.
+Deux lapins de ma garenne.
+GILLES.
+Ah ! Oui. Deux lapins. Fiez-vous-y ! J'etais dans la bonne foi, moi. Vous me dites : Gilles, porte ces lapins a mon procureur. J'y vais.
+CASSANDRE.
+Il les a donc recus.
+GILLES.
+Doucement ! J'allais sottement executer vos ordres...
+CASSANDRE.
+Sottement ? Et qui est-ce qui t'en a empeche ?
+GILLES.
+Un galant homme que j'ai heureusement rencontre et qui fait commerce de peaux de connins.
+CASSANDRE.
+Mais pourquoi t'en a-t-il empeche ?
+GILLES.
+Il les repasse, ces peaux de connins. Ensuite il les vend aux fou... aux fou...
+CASSANDRE.
+Aux fourreurs ?
+GILLES.
+Oui, justement, a ces gens-la.
+CASSANDRE.
+Mais viens donc au fait !
+GILLES.
+M'y voici. Il m'a demande si je voulais lui vendre la peau de mes deux chats.
+CASSANDRE.
+Quels chats ?
+GILLES.
+Eh ! Parbleu, de vos pretendus lapins de garenne.
+CASSANDRE.
+Mais tu extravagues.
+GILLES.
+Attendez, vous n'y etes pas. Ecoutez jusqu'au bout. Je me suis fache d'abord. Je lui ai soutenu que c'etaient des lapins ; il s'est moque de moi. Enfin nous avons parie, lui que c'etaient des chats, moi, des lapins, et nous avons pris pour juge le premier passant. Il s'est heureusement trouve que c'etait un echevin.
+CASSANDRE.
+Ah ! Je respire. Si veritablement c'etait un echevin, je suis certain que tu as gagne la gageure. Et en quoi consistait-elle ?
+GILLES.
+Dans les vingt-quatre sols que vous me devez.
+CASSANDRE.
+Vous n'avez donc pas mis au jeu ?
+GILLES.
+Non, pas moi ; mais lui, il a mis un ecu qu'il avait dans sa poche.
+CASSANDRE.
+Et qui a ete le depositaire de cet ecu ?
+GILLES.
+Je vous dis que c'est sa poche.
+CASSANDRE.
+Tout ceci me parait embrouille. Enfin, l'echevin a donc juge en ta faveur.
+GILLES.
+C'est ce qui vous trompe, j'ai perdu la gageure.
+CASSANDRE.
+Comment !
+GILLES.
+Il a decide gravement que c'etaient deux chats, et m'a dit que c'etait sans doute une plaisanterie de votre part pour me faire berner par les clercs de votre procureur.
+CASSANDRE.
+Quel conte ! Cela n'est pas possible.
+GILLES.
+C'est tres vrai, Monsieur.
+CASSANDRE.
+Enfin, qu'as-tu fait de mes deux lapins de garenne ?
+GILLES.
+Dites donc de vos deux chats.
+CASSANDRE.
+Comment, des chats ?
+GILLES.
+Oui, Monsieur, cela est juge.
+CASSANDRE.
+Par qui juge ?
+GILLES.
+Par cet echevin.
+CASSANDRE.
+Quelle patience il faut avoir avec ce butor ! Eh bien ! qu'as-tu fait de ces chats ?
+GILLES.
+Ah ! Vous en convenez donc !
+CASSANDRE.
+Nullement, mais c'est pour avoir de toi une reponse positive.
+GILLES.
+Parguenne, que vouliez-vous que j'en fisse ? Je les ai jetes au nez de celui contre qui j'avais gage. Il les a ramasses seulement a cause de la peau ; mais quoiqu'il eut gagne la gageure, il a eu la politesse de ne pas me demander ma piece de vingt-quatre sols.
+CASSANDRE.
+Oh ! Bete que tu es ! On ne m'a pas trompe sur ton compte. Ne te voila t'il pas encore la dupe de deux fripons qui t'ont sans doute escamote mes lapins !
+GILLES.
+Ah ! Monsieur, ce sont d'honnetes gens et qui ne se connaissaient surement pas.
+CASSANDRE.
+Je te soutiens, moi, que c'etaient deux fourbes ensemble.
+GILLES.
+Non, Monsieur ; parguenne, je m'en serais bien apercu. Je suis plus fin que vous ne pensez.
+CASSANDRE.
+Va, mon pauvre garcon, tu ne seras jamais qu'un sot. Je suis bien heureux d'en etre quitte pour si peu de chose. Ce n'est pas une tres grande perte que deux lapins, et je me sais tres bon gre de ne t'avoir pas donne a porter a Mademoiselle Isabelle, ma maitresse, un panier de gibier dans lequel il y a deux faisans et quatre becasses.
+GILLES.
+Ah ! Parguenne, Monsieur notre maitre, ne me faites pas l'affront d'en charger un autre. On ne dira pas que ce sont des chats. Au pis aller, s'il m'arrive quelque accident au sujet de ce panier, vous en rabattrez le prix sur mes gages.
+CASSANDRE.
+En ce cas, je veux bien encore hasarder d'avoir cette confiance en toi. Mais prends bien garde a te laisser encore duper.
+GILLES.
+Cela n'arrivera pas, sur ma parole. Les affaires font les hommes, et j'aurai toute l'attention possible pour que votre commission soit bien faite.
+CASSANDRE.
+Viens donc prendre ce panier avec une lettre que je vais ecrire a Mademoiselle Isabelle.
+SCENE VI. Laisse-Rien, Prends-Tout.
+PRENDS-TOUT.
+Oh ! Parbleu, Monsieur Cassandre, puisque vous etes assez bon pour confier encore a Gilles votre panier de gibier, Mademoiselle Isabelle n'en croquera que d'une dent.
+LAISSE-RIEN.
+Camarade, il faut ici user d'adresse. Gilles est sur ses gardes.
+PRENDS-TOUT.
+Malgre cela, il sera bien fin s'il nous echappe. Il faut le prendre du cote de l'interet.
+LAISSE-RIEN.
+C'est bien dit. Tu feras, pour cet effet, le comte de Regniababo.
+PRENDS-TOUT.
+Parbleu ! Mon role ne sera pas bien difficile ! Je n'ai pas le mot a dire.
+LAISSE-RIEN.
+Cela est vrai, mais il faut pourtant s'en tirer avec adresse. Je crois entendre Gilles. Mets-toi vite tout de ton long sur ce banc.
+PRENDS-TOUT.
+M'y voila.
+SCENE VII. Laisse-Rien, Gilles, Prends-Tout.
+GILLES, parlant a la cantonade.
+Je vous dis, Monsieur, que vous n'ayez aucune inquietude. Votre panier sera rendu. Parguenne ! serait-il possible que ces deux hommes de tantot fussent des filous ? Ils n'en avaient pas la mine.
+LAISSE-RIEN.
+Oh ! Malheur des malheurs ! Accident des accidents ! Ah ! Mon pauvre maitre! Quoi ! Je n'aurai pas la satisfaction de vous conduire convenablement dans vos terres !
+GILLES.
+Voila un homme qui me parait bien afflige !
+LAISSE-RIEN.
+Est-il possible que je ne trouverai personne qui veuille me rendre service en cette occasion ? Je le payerais volontiers sur le pied d'une pistole par heure.
+GILLES.
+Une pistole par heure ! Ma foi, cela est bon a gagner. Voyons un peu de quoi il s'agit. Monsieur, dites-moi un peu pourquoi vous etes si triste.
+LAISSE-RIEN.
+Ah ! Monsieur, c'est que je suis dans une grande affliction.
+GILLES.
+Je le vois bien ; mais pourquoi ?
+LAISSE-RIEN.
+Par la mort de mon bon maitre, Monsieur le comte de Regniababo.
+GILLES.
+Je concois cela, mais vous parliez de donner une pistole par heure ! Pourquoi faire, s'il vous plait ?
+LAISSE-RIEN.
+Mon ami, il faut que tu saches que mon maitre est mort a l'armee d'un boulet de canon qui lui est entre dans l'oeil.
+GILLES.
+Dans l'oeil ? Houlas!
+LAISSE-RIEN.
+Comme il avait un pressentiment que la campagne lui serait funeste, il a fait son testament. Il a ordonne qu'apres sa mort on le transporterait a sa terre de Regniababo. Il m'a charge de ce soin et me donne mille ecus pour ma peine.
+GILLES.
+Mille ecus ? Morguenne, je ne vois pas la de quoi vous desesperer.
+LAISSE-RIEN.
+Ah ! Que vous etes vif ! Ecoutez jusqu'au bout. Il est vrai qu'il me donne mille ecus, mais a condition que, dans trois jours, je le ferai conduire a sa terre sans accident et aussi entier qu'il se trouvera etre au moment de sa mort ; et le chariot qui le portait vient de verser a quatre pas d'ici.
+GILLES.
+Eh bien ! Il faut le raccommoder. Cela est-il difficile ?
+LAISSE-RIEN.
+C'est aussi ce que l'on fait. Mais, pendant ce temps, qui sera au moins de trois ou quatre heures, il faut empecher que les mouches ne mangent mon cher maitre.
+GILLES.
+Cela est plaisant ! Et qu'est-ce que ca veut dire ?
+LAISSE-RIEN.
+C'est qu'en arrivant a son chateau, si on lui trouve seulement une piqure de mouche, voila mes mille ecus perdus.
+GILLES.
+Diable ! Ca change la these et me parait de consequence pour vous. Mais quel remede y voyez-vous ?
+LAISSE-RIEN.
+C'est de trouver quelqu'un qui chasse les mouches d'autour de mon maitre pendant que je serai occupe a faire raccommoder le chariot.
+GILLES.
+Et vous donnerez une pistole par heure ?
+LAISSE-RIEN.
+Cela s'entend. Vous voyez bien que j'y gagnerai encore.
+GILLES.
+Eh bien ! J'ai trouve votre homme.
+LAISSE-RIEN.
+Serieusement ?
+GILLES.
+Oui, c'est moi-meme.
+LAISSE-RIEN.
+Ah ! Mon ami, vous me ravissez d'aise. Tenez, mettez-vous la !
+GILLES.
+Volontiers ; mais ecoutez, camarade. Quand je serai tout seul avec le mort, si je viens a avoir peur ?
+LAISSE-RIEN.
+Eh ! Fi donc ! Vous etes grand comme pere et mere. Savez-vous ce que vous ferez pour vous dissiper ? Vous n'aurez qu'a chanter.
+GILLES.
+Vous avez raison.
+LAISSE-RIEN.
+Apres tout, je ne serai qu'au tournant de la rue, chez le charron. Si la frayeur vous prenait, vous n'avez qu'a m'appeler.
+GILLES.
+Et votre nom, s'il vous plait ?
+LAISSE-RIEN.
+Abracadabra.
+GILLES.
+Abracadabra ? Voila un drole de nom. Mais avec quoi chasserai-je les mouches ?
+LAISSE-RIEN.
+Avec ce mouchoir.
+GILLES.
+Fort bien ! Vous n'avez maintenant qu'a aller a vos affaires. Ma foi, je ne suis pas trop rassure... Abracadabra, Abracadabra !
+LAISSE-RIEN.
+Qu'est-ce qu'il y a ?
+GILLES.
+J'ai jete un coup d'oeil sur votre marquis de Regniababo. Ne m'avez-vous pas dit qu'il a ete tue d'un coup de boulet de canon dans l'oeil ?
+LAISSE-RIEN.
+Oui, mon ami.
+GILLES.
+Et il a encore ses deux yeux ?
+LAISSE-RIEN.
+Cela est vrai. Le boulet ne lui a emporte que la prunelle de l'oeil gauche et est sorti par l'oreille droite. Adieu.
+GILLES.
+Houlas ! Abracadabra ! Le mort vient de me faire une grimace epouvantable.
+LAISSE-RIEN.
+Tu te trompes, mon ami. C'est que, lorsque ce boulet de canon lui passa a travers l'oeil, cela lui a cause une contraction de nerfs qui lui a derange la physionomie.
+GILLES.
+Oh ! Je ne savais pas. Et cette contradiction de nerfs lui fait faire une si laide grimace ?
+LAISSE-RIEN.
+Oui vraiment.
+GILLES.
+Cela suffit. Tu peux t'en aller.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Pour ne pas m'effrayer, je vais me placer du cote des pieds.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)GILLES, effraye.
+Abracadabra ! Abracadabra !
+LAISSE-RIEN.
+Que me veux-tu donc ?
+GILLES.
+Tiens, regarde !
+LAISSE-RIEN.
+Je ne vois rien.
+GILLES.
+Tu ne vois pas ce qui est arrive ?
+LAISSE-RIEN.
+Non vraiment.
+GILLES.
+Il n'y a qu'un moment qu'il avait les pieds la. A present il les a a la tete.
+LAISSE-RIEN.
+Erreur, mon ami. Il a toujours ete place de cette maniere.
+GILLES.
+C'est donc la peur qui me fait voir double.
+LAISSE-RIEN.
+Cela se peut. Allons, rassure-toi !
+GILLES.
+Pour le coup, je vais changer de place. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Misericorde ! je ne sais ce que je fais. Je me mets encore du cote de la tete. Songeons a mon panier de gibier, c'est essentiel. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh ! Eh ! Abracadabra !
+LAISSE-RIEN.
+A qui diable en as-tu donc ?
+GILLES.
+Tiens ! Tiens, regarde sa main en l'air. Il m'a donne un coup de poing de toute sa force.
+LAISSE-RIEN.
+La chose n'est pas impossible et ne doit pas te surprendre. Le boulet de canon l'ayant frappe droit dans la visiere, il y porta d'abord la main, et la contraction des nerfs...
+GILLES.
+Oh ! Je n'ai rien a dire a cela.
+LAISSE-RIEN.
+Et nous avons eu toute la peine du monde a lui remettre la main dans une position conforme a son etat. Vois plutot. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)GILLES.
+Parguenne ! Voila qui est bien singulier. Voyons un peu si j'en viendrais a bout.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LAISSE-RIEN.
+T'en voila bien convaincu a present.
+GILLES.
+Tu as raison.
+LAISSE-RIEN.
+La main s'abaissera tout doucement. Tiens, vois-tu, la voila a sa place. Or ca, tu me laisseras peut-etre a present en repos ?
+GILLES.
+Ah ! Oui. Tu n'as qu'a aller chez le charron. Eh ! Eh ! Abracadabra !
+LAISSE-RIEN.
+Mais ca ne finira point !
+GILLES.
+Dame ! C'est bien autre chose que le bras. Il m'a sangle deux coups de pied dans le dos.
+LAISSE-RIEN.
+Eh bien ! Cela t'etonne ?
+GILLES.
+Comment, cela m'etonne ? C'est la contradiction des nerfs, n'est-ce pas ?
+LAISSE-RIEN.
+Sans doute. Cela part du meme principe. Lorsqu'il fut atteint par le boulet de canon, il en fut renverse cul par-dessus tete et tomba les jambes en haut, comme tu le vois actuellement, et par la meme raison naturelle, c'est-a-dire par la contraction des nerfs, nous aurons bien de la peine a le redresser ; mais j'espere en venir a bout avec ton secours. Tire les jambes a toi.
+GILLES, s'appuyant sur les jambes du filou qui se trouve sur son seant et lui fait une grimace horrible.
+A moi ! A moi !
+LAISSE-RIEN.
+Qu'as-tu donc ? Ne suis-je pas avec toi ?
+GILLES.
+Ne vois-tu pas le mort qui m'embrasse avec des yeux de fureur ?
+LAISSE-RIEN.
+Je n'ai rien vu. Mais c'est le raidissement des nerfs qui fait cette operation. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Si tu me retiens toujours, je ne pourrai jamais faire raccommoder mon chariot.
+GILLES.
+Voila qui est fini. Tu peux partir... Tiens ! Tiens ! Le voila dans une autre posture !
+LAISSE-RIEN.
+C'est que tu l'avais mal place.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)GILLES.
+L'entends-tu ? Est-ce que je reve ? La ! Comment appelles-tu cela ?
+LAISSE-RIEN.
+Eh ! Mais... Cela s'appelle... Cela s'appelle faire un pet a la mort.
+GILLES.
+Il pue comme une charogne !
+LAISSE-RIEN.
+Effectivement : ca ne sent pas bon. Tiens, prends une prise de tabac.
+GILLES.
+Volontiers. Va-t'en, va ! Je ne t'appellerai plus. Ma foi, pour chasser la peur, j'ai envie de chanter. La, la, la, la ! etc.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Abracadabra ! Abracadabra !... Au secours !
+LAISSE-RIEN.
+Tu piailleras donc toujours ?
+GILLES, tout tremblant.
+Voila bien une autre paire de manches. Je chantais pour me desennuyer.
+LAISSE-RIEN.
+Eh bien ?
+GILLES.
+Eh bien ! Ne voila-t-il pas mon diable de mort qui s'est mis a danser !
+LAISSE-RIEN.
+A danser ?
+GILLES.
+Oui ! A danser! Dame, je l'ai vu. Ce ne sont pas des contes.
+LAISSE-RIEN.
+Tu te moques de moi. Il est vrai pourtant que, comme Provencal, de son vivant il aimait passionnement la danse et que, sitot qu'il entendait ou chanter ou jouer des instruments, il ne pouvait s'empecher de danser. Il faut, si tu dis vrai, que ce soient les esprits animaux qui jouent leur role.
+GILLES.
+Qu'appelles-tu esprits animaux ?
+LAISSE-RIEN.
+Esprits animaux, c'est-a-dire esprits vitaux.
+GILLES.
+Esprits vitaux ! J'entends cela. Et dans une femme, comment appelle-t-on ces esprits-la ?
+LAISSE-RIEN.
+Oh ! Que diable, avec tes questions impertinentes, tu m'occuperas tout le reste de la journee. Fais ton ouvrage et laisse-moi aller a mes affaires. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)GILLES.
+Parguenne ! Ce drole-la, avec ses esprits vitaux, de quoi diable s'avise-t-il de danser ! Je vais bien l'attraper. Je vais chanter une chanson si triste qu'il n'en aura pas d'envie.
+Monsieur Lapalice est mort,
+Il est mort de maladie.
+Helas ! S'il n'etait pas mort,
+Il serait encore en vie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Abracadabra ! Abracadabra !
+LAISSE-RIEN.
+A qui donc en as-tu ? Tu cries comme un enrage.
+GILLES, tres tremblant.
+Ah ! Parguenne, on crierait a moins. J'avais chante, il n'y a qu'un moment, sur un air gai, il s'est mis a danser. J'ai dit en moi-meme : «Je l'attraperai bien ; je vais chanter sur un ton si lugubre qu'il ne branlera pas de sa place.» A peine ai-je eu acheve ma chanson qu'il s'est leve, a grince des dents horriblement et m'a rosse a tour de bras.
+LAISSE-RIEN.
+Parbleu ! Mon ami, tu joues de malheur ! Il n'y a qu'une seule chanson capable de mettre les esprits animaux dans une pareille agitation. Il l'avait en horreur ; apparemment que tu l'auras chantee.
+GILLES.
+Et quelle est-elle ?
+LAISSE-RIEN.
+La voici : Monsieur Lapalice est mort...
+GILLES.
+Justement, c'est elle-meme que j'ai chantee. Parguenne, camarade, voyons en ta presence si elle fera sur lui le meme effet.
+LAISSE-RIEN.
+Volontiers.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LAISSE-RIEN.
+Ah ! Miserable ! Avec ta maudite chanson, je suis moulu de coups. Je ne sais a quoi il tient que je ne t'assomme !... Mais, ciel ! Voila Monsieur le comte de Regniababo parti et mes mille ecus au diable.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)GILLES.
+A moi ! A moi ! Ah ! Je n'en puis plus. Voila bien le diable. Le mort s'est sauve, l'autre court apres. Il ne rattrapera jamais, et ma pistole est bien aventuree. Mais ou est donc mon panier ! Abracadabra !... Mon panier ! Abracadabra ! Ah ! Malheureux que je suis ! Monsieur de Regniababo l'aura emporte. Au voleur ! Au secours !
+SCENE VIII. Cassandre, Gilles.
+CASSANDRE.
+Qu'est-ce donc que j'entends ? Pourquoi tout ce bruit ?
+GILLES.
+Ah ! Parguenne, notre maitre, voila une drole d'aventure.
+CASSANDRE.
+Qu'est-ce que c'est ?
+GILLES.
+Vous ne vous imagineriez jamais.
+CASSANDRE.
+De quoi s'agit-il ?
+GILLES.
+Vous m'aviez donne un panier de gibier pour porter a Mademoiselle Isabelle.
+CASSANDRE.
+Eh bien ? L'a-t-elle recue ?
+GILLES.
+Vous allez trop vite.
+CASSANDRE.
+Elle l'a refuse ?
+GILLES.
+Non, Monsieur.
+CASSANDRE.
+Et pourquoi donc n'est-il pas entre ses mains ?
+GILLES.
+C'est que je ne lui ai pas porte.
+CASSANDRE.
+Et la raison ?
+GILLES.
+La voici. C'est qu'il s'agissait d'une petite fortune pour moi.
+CASSANDRE.
+D'une petite fortune ?
+GILLES.
+Oui, Monsieur ; d'une pistole par heure.
+CASSANDRE.
+D'une pistole par heure ?
+GILLES.
+Oui, Monsieur ; et le diable vient d'emporter le mort avec le panier de gibier.
+CASSANDRE.
+Quel galimatias me fais-tu du mort, du diable et du panier ?
+GILLES.
+C'est pourtant bien clair ! Le mort s'appelait le comte de Regniababo. Il a ete tue a l'armee d'un boulet de canon qui lui est entre dans l'oeil et qui lui est sorti par l'oreille.
+CASSANDRE.
+Quelle extravagance !
+GILLES.
+Je vous dis qu'on le reportait a sa terre ; le chariot a rompu pendant qu'on le raccommodait. Il fallait quelqu'un qui chassat les mouches d'autour de lui. On m'a offert une pistole par heure pour cela ; une pistole est bonne a gagner. Je l'emouchais de toutes mes forces quand, apres plusieurs coups de poing, de pied, de baton, que le mort m'a donnes, il a disparu avec le panier de gibier.
+CASSANDRE.
+Des coups de baton que le mort t'a donnes ? Ah ! Miserable ! Je vois bien que ce sont encore des filous qui t'ont vole mon panier de gibier.
+GILLES.
+Ma foi. Monsieur, ce n'est pas ma faute ; je ne pouvais pas me mefier d'un mort. Parguenne, il faut que le monde soit bien mechant. Mais ecoutez, Monsieur, je crois avoir vu celui qui m'avait donne le mort a garder entrer dans la porte a cote de la fruitiere d'ici pres. Je m'en vas lui redemander mon panier ; vous verrez que ce n'est qu'une plaisanterie qu'on m'aura voulu faire. Tenez-vous seulement a quatre pas d'ici.
+CASSANDRE.
+Il faut avoir bien de la patience.
+SCENE IX. Cassandre, Gilles, Prends-Tout, Laisse-Rien.
+GILLES.
+Toc, toc, toc.
+PRENDS-TOUT, deguise et parlant du nez.
+Que voulez-vous, Monsieur ?
+GILLES.
+Je vous demande mon panier, Monsieur ?
+PRENDS-TOUT.
+Ton... Ton... Ton panier ?
+GILLES.
+Eh ! Oui, mon panier que vous m'avez pris pour rire.
+PRENDS-TOUT.
+Ton panier ? N'y a point de panier, n'y a point de panier, n'y a point de panier !
+GILLES, appelant son maitre et lui disant :
+Monsieur, j'ai heurte a la porte ; j'ai demande mon panier.
+CASSANDRE.
+Eh bien ?
+GILLES, parlant du nez.
+On m'a repondu : «N'y a point de panier, n'y a point de panier, n'y a point de panier.» Mais je ne me tiens pas bien battu ; j'y veux retourner. Eloignez-vous seulement.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CASSANDRE.
+Ah ! Mon pauvre garcon, je vois bien que tu n'es qu'une bete, et comme il n'est pas possible de se servir de toi, tu peux prendre ton parti et chercher un autre maitre. Je meriterais d'etre vole a chaque instant si je gardais un valet aussi sot.
+GILLES.
+Comment, Monsieur, vous me donnez effectivement mon conge ?
+CASSANDRE.
+Sans doute, mon ami. Tu peux chercher une autre condition ou te pourvoir d'un maitre plus patient que moi ; mais un autre t'aurait assomme du coup !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X. Gilles, Un Barbier.
+GILLES.
+Parguenne ! Je suis bien chanceux ! Voila qui est fini ; je ne veux plus etre valet. J'ai entendu dire que notre voisin, le barbier, avait besoin d'un garcon ; je vais me presenter chez lui. Hola ! Est-ce qu'il n'y a personne ici ?
+LE BARBIER.
+Qu'y a-t-il ?
+GILLES.
+Monsieur, on m'a dit que vous cherchiez un bon garcon pour etre a votre boutique.
+LE BARBIER.
+C'est vrai. Vous avez sans doute quelque commencement ?
+GILLES.
+Oh ! Que oui, Monsieur.
+LE BARBIER.
+Vous savez apparemment tresser ?
+GILLES.
+Oh ! Que oui, Monsieur. Je ferais tout Paris en une heure.
+LE BARBIER.
+Je ne vous dis pas tracer ; je vous dis tresser des cheveux pour faire une perruque.
+GILLES.
+Oh ! Non, Monsieur.
+LE BARBIER.
+Vous savez accommoder les cheveux ?
+GILLES.
+Nullement.
+LE BARBIER.
+Mais vous savez raser ?
+GILLES.
+Oh ! Que non, Monsieur.
+LE BARBIER.
+Mais que diable savez-vous donc faire ?
+GILLES.
+Je sais faire chauffer de l'eau pour faire la barbe.
+LE BARBIER.
+Malepeste ! Vous etes bien avance.
+GILLES.
+Je sais encore faire mousser les savonnettes et ebrecher les rasoirs.
+LE BARBIER.
+Oh ! Oh ! C'est quelque chose cela !
+GILLES.
+Mais, pour faire le poil, je ne l'ai jamais essaye que sur un barbet. Encore etait-ce avec des ciseaux.
+LE BARBIER.
+Cela suffit...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il faut que je me rejouisse un peu aux depens de ce benet-la...
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh bien ! Mon ami, malgre ton peu de capacite, comme tu me parais de bonne volonte, je te retiens a mon service et je veux, avant un mois, que tu sois un des plus habiles de notre profession. Mais je mets quelques conditions dans notre marche.
+GILLES.
+Qu'est-ce que c'est que des conditions ? Cela est-il difficile a executer ?
+LE BARBIER.
+Non ! Primo, tu ne mangeras de la soupe que deux fois par jour.
+GILLES.
+Oh ! Oh ! J'en serai fort content.
+LE BARBIER.
+Secundo, tu ne boiras pas plus de deux pintes de vin a chaque repas et tu n'auras que vingt-cinq livres de pain par semaine.
+GILLES.
+Je m'accommoderai assez de tout cela. Diantre ! Voila une bonne condition. Et de la viande ?
+LE BARBIER.
+Oh ! Tu en auras a discretion. Il y a quelque chose de plus : c'est que le premier jour qu'un garcon entre chez moi, j'ai coutume de lui donner un repas exquis et, pour commencer avec toi, je pre-tends que tu fasses tres grande chere tout a l'heure. Hola ! Que l'on apporte cette table !
+GILLES.
+Pardi, je l'apporterai bien moi-meme. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE BARBIER.
+Aimes-tu la soupe aux choux ?
+GILLES.
+Beaucoup.
+LE BARBIER.
+Allons, mettons-nous a table. Que l'on serve la soupe. Tiens ! Mange-moi une bonne assiettee de ces choux de Milan.
+GILLES, aparte.
+Ma foi, je vois bien la table et les assiettes, mais je ne vois rien dessus.
+LE BARBIER.
+Prends garde de te bruler. Eh bien ! Comment les trouves-tu, ces choux ?
+GILLES.
+Delicieux !
+LE BARBIER.
+J'ai pense me depouiller le palais.
+GILLES, aparte.
+Je n'y comprends rien. C'est une plaisanterie ! Il faut nous y preter.
+LE BARBIER.
+Ne mangeons point de bouilli. Nous avons quelque chose de meilleur.
+GILLES.
+Comme il vous plaira.
+LE BARBIER.
+Passons aux entrees. Goute de cette fricassee de pieds de mouton.
+GILLES.
+Morguenne ! Qu'ils sont delicats ! Le verjus de grain n'y est pas epargne.
+LE BARBIER, aparte.
+Ce drole-la est bouffon.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mange-moi de ces fricandeaux.
+GILLES.
+Ils sont exquis. Mais si nous buvions un coup ?
+LE BARBIER, faisant comme s'il debouchait une bouteille.
+C'est bien pense. Voila du vin de Beaune.
+GILLES.
+Il est, ma foi, excellent.
+LE BARBIER.
+Allons ! Expedie-moi cette aile de chapon !
+GILLES.
+Mais vous me faites trop manger.
+LE BARBIER.
+Bon ! Bon ! Aimes-tu la salade ?
+GILLES.
+Si je l'aime !
+LE BARBIER.
+Celle-ci est tres bien assaisonnee.
+GILLES.
+A merveille.
+LE BARBIER.
+Allons ! Il faut encore manger cet estomac de perdrix et ces deux cuisses de becasse.
+GILLES.
+Ah ! Monsieur, j'aurai bien de la peine a en venir a bout.
+LE BARBIER.
+Passons au Champagne... Pouf !
+GILLES.
+Qu'est-ce que cela ?
+LE BARBIER.
+C'est le bouchon qui saute au plancher.
+GILLES.
+Diantre ! C'est donc de grand vin ?
+LE BARBIER.
+Vois, comme il mousse !
+GILLES.
+La peste ! Il gratte le gosier.
+LE BARBIER.
+Encore un coup.
+GILLES.
+Tres volontiers.
+LE BARBIER.
+Ces pieds de porc a la Sainte-Menehould ? Ceux-la sont longtemps bouillis puis panes.
+GILLES.
+Ils sont bons, mais il faudrait un peu de moutarde.
+LE BARBIER.
+Eh ! En voila ! Que ne parles-tu ?
+GILLES.
+Le diable m'emporte si je la voyais.
+LE BARBIER.
+Allons en Champagne ! Une rasade a ta sante !
+GILLES.
+Tope ! A la votre !
+LE BARBIER.
+A tes plaisirs !
+GILLES.
+Aux votres !
+LE BARBIER.
+A qui boirons-nous, a present ?
+GILLES.
+Ah ! Mais, Monsieur, laissez-moi respirer. Vous me griserez et je vous avertis que j'ai le vin mauvais.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Rira bien qui rira le dernier.
+LE BARBIER.
+Un doigt de vin de Muscat ?
+GILLES.
+Je ne puis plus boire.
+LE BARBIER.
+Allons ! Allons ! Du courage !
+GILLES.
+Tout coup vaille ! Versez donc plein mon verre.
+LE BARBIER.
+Comme vous le sablez !
+GILLES.
+Je bois toujours ainsi le vin muscat.
+LE BARBIER.
+Eh bien ! Que dites-vous de celui-la ?
+GILLES.
+Je n'ai pas eu le temps de le gouter.
+Encore un coup pour
+Boire a son toureloure,
+Boire a son tirelire lire
+Boire a son tour.
+LE BARBIER.
+Ah ! Vous avez le vin gai.
+GILLES, faisant l'ivrogne.
+Je vous l'avais bien dit... Heu !... Voila ce que c'est !
+LE BARBIER.
+Il est, ma foi, tres bouffon !
+GILLES, lui donnant un coup de poing.
+Bouffon toi-meme. Je te trouve bien plaisant de m'insulter sur le pave du roi ! Passe ton chemin. Sais-tu bien a qui tu parles... Heu ?
+LE BARBIER.
+Non vraiment.
+GILLES.
+Eh bien ! Apprends que je suis un homme d'esprit, heu !.... Qui ai eu l'honneur, heu !... D'etre refuse a l'Academie, quoique j'aie plus use de papier a torcher mon cul que tu n'en as employe toute ta vie a ecrire.
+LE BARBIER, riant.
+Oh ! Monsieur, je le crois bien.
+GILLES.
+Et tu es un insolent dres-la de me parler comme tu fais... Heu !
+LE BARBIER.
+Je vous demande excuse.
+GILLES.
+A la bonne heure. Porte-moi donc le respect qui m'est du !
+LE BARBIER.
+Ah ! Volontiers.
+GILLES.
+Tu es un ivrogne ! Je suis sobre, moi.
+LE BARBIER.
+Il y parait. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Il joue bien son role.
+GILLES, chantant.
+Ma foi, quand j'ai bien bu, je crois			[10]
+Que toute la terre est a moi...
+LE BARBIER.
+Tu chantes a merveille.
+GILLES, se laissant tomber sur lui.
+Je chante comme je puis ! Heu...
+LE BARBIER.
+Mais, l'ami, soutenez-vous donc.
+GILLES.
+Vive qui le pourrait ! Pourquoi m'as-tu fait tant boire ?... Heu !
+LE BARBIER.
+Je suis la dupe de ce drole-la. J'ai voulu rire a ses depens, et le coquin s'est moque de moi.
+GILLES.
+Qu'appelles-tu coquin ? Coquin toi-meme. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE BARBIER.
+Oh ! Cela passe le jeu.
+GILLES.
+Eh bien ! Laisse-moi cuver mon vin.
+LE BARBIER, aparte.
+Il faut rire encore, sinon on se moquerait de moi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)C'est bien dit ; dors, mon ami. Je vais acheter de l'essence et de la poudre, et je reviens dans un quart d'heure.
+SCENE XI. Gilles, Un Paysan.
+GILLES.
+Ah ! Ma foi, Monsieur le barbier, je vous ai eu le poil.
+LE PAYSAN.
+Y a-t-il la queuqu'un ?
+GILLES.
+Me voila. Que voulez-vous ?
+LE PAYSAN.
+Est-ce ici qu'on rase proprement ?
+GILLES.
+Oui, mon ami.
+LE PAYSAN.
+Alors, depechez-vous ! Je n'ai pas le temps d'attendre, moi.
+GILLES.
+Vous etes donc bien presse ?
+LE PAYSAN.
+Oui vraiment. C'est que je me marie, et il faut que j'aille voir ma maitresse dans le moment meme.
+GILLES.
+Eh bien ! mon ami, mettez-vous la et tenez-vous bien droit. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE PAYSAN.
+Que diable voulez-vous donc faire ?
+GILLES.
+Ne dites-vous pas que vous etes presse ?
+LE PAYSAN.
+Oui.
+GILLES.
+Eh bien ! Je veux vous couper la tete afin de vous faire la barbe tout a mon aise. Vous pourrez, pendant ce temps, aller chez votre maitresse.
+LE PAYSAN.
+Queu niais ! J'aime bien mieux etre ici un peu plus longtemps.
+GILLES.
+Asseyez-vous donc comme il faut. Tenez, voila ce qui s'appelle du linge blanc.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE PAYSAN, criant.
+Que pretendez-vous donc faire avec votre bouchon de paille ?
+GILLES.
+C'est pour bruler les poils follets.
+LE PAYSAN.
+Pardi ! J'ai eu belle peur. J'ai cru que vous m'alliez griller comme un cochon.
+GILLES.
+On peut dire que voila une barbe bien faite !
+LE PAYSAN.
+Combien vous faut-il ?
+GILLES.
+Faut-il vous surfaire ?
+LE PAYSAN.
+Non.
+GILLES.
+Mais je crois que cela vaut bien quinze francs.
+LE PAYSAN.
+Quinze francs !
+GILLES.
+Eh bien ! Mettez-en douze. Ce sera six francs pour le maitre et six francs pour le garcon.
+LE PAYSAN.
+Je pense que vous vous moquez de moi. Si je vous donnais la piece tapee, je croirais vous avoir trop paye.
+GILLES.
+Monsieur le manant, je n'aime pas les plaisanteries.
+LE PAYSAN.
+Oh ! Puisque cela est serieux, il faut vous payer. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)GILLES.
+Au secours ! Au secours !
+SCENE XII. Gilles, Le Paysan, Le Barbier.
+LE BARBIER.
+Qu'est-ce donc que tout ce tapage ?
+GILLES.
+Ah ! Monsieur notre maitre... A moi !
+LE PAYSAN.
+C'est la le maitre.
+GILLES.
+Oui, c'est lui.
+LE PAYSAN.
+Ah ! Parguenne, il en aura donc sa part. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)LE BARBIER.
+Ahi ! Ahi ! Ahi ! Qu'est-ce que cela signifie ?
+GILLES.
+Cela signifie que ce drole-la nous a donne des coups de baton.
+LE BARBIER.
+Oui ; mais pourquoi les avoir donnes ?
+GILLES.
+Parce que je lui ai demande douze francs pour lui avoir fait la barbe : savoir, six francs pour le maitre et autant pour moi.
+LE BARBIER.
+Peste soit de l'impertinent ! Quatre sols etaient encore trop, et ce manant a eu raison de l'etriller. Mais moi, je n'avais que faire de cela.
+GILLES.
+Ah ! Monsieur, vous etes le maitre pour recevoir les profits de la boutique.
+LE BARBIER.
+Va-t'en au diable avec ta chienne de recepte ! Je ne sais a quoi il tient que je ne t'assomme.
+GILLES.
+Tout beau, Monsieur le raseur. C'est-a-dire que chez vous, on ne mange qu'en imagination et que l'on est battu avec realite. Eh bien ! Je suis votre serviteur. Pourvoyez-vous d'un autre garcon.
+LE BARBIER.
+Parbleu, mon ami, je n'aurai pas grande peine a te remplacer.
+SCENE XIII.
+GILLES, seul.
+Me voila donc hors de condition et sans argent. Mais, parguenne, j'oubliais bien le meilleur. Quand j'ai quitte Monsieur Cassandre, il ne m'a pas paye un memoire de la depense que j'avais faite pour lui. Il ne sera pas assez deraisonnable pour ne m'en pas rembourser. D'ailleurs, j'ai a lui remettre la lettre qu'il m'avait donnee pour Mademoiselle Isabelle et a lui rendre reponse de celle que je lui ai portee hier.
+SCENE XIV. Gilles, Cassandre.
+CASSANDRE.
+J'ai renvoye Gilles sans lui redemander ma lettre et la reponse a celle d'hier. Il faut que j'aille le chercher... Mais, le voila.
+GILLES.
+Parguenne, voici Monsieur Cassandre bien a propos. Bonjour, notre defunt maitre.
+CASSANDRE.
+Voila un sot compliment. Notre defunt ! Je suis, parbleu, bien en vie. Dieu merci ! J'avais oublie de te demander des nouvelles de mes lettres.
+GILLES.
+Je vous en rendrai bien compte ; et moi, je ne m'etais pas souvenu d'un petit memoire de depense que voici.
+CASSANDRE.
+Voyons !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)1° Pour trois rognons de mouton et un pot d'onguent pour la rogne, sept francs. Plus pour une oie rotie et un brayer pour le maitre, la somme de neuf francs.
+GILLES.
+Tout autant, Monsieur, encore n'etait-il pas neuf.
+CASSANDRE.
+Pour six pates de requete, pour le dejeuner de Monsieur Gilles et deux mesures d'avoine pour le maitre, treize francs !... Qu'est-ce a dire ?
+GILLES.
+Oh ! Monsieur, il n'y a rien a rabattre.
+CASSANDRE.
+Pour un quarteron de beurre frais pour les hemorroides de Monsieur Gilles, et pour avoir fait le poil a Monsieur, six sols.
+GILLES.
+Je suis exact, comme vous voyez.
+CASSANDRE.
+Pour avoir fait blanchir le linge a barbe dudit Cassandre et avoir fait raccommoder la lunette du prive...
+GILLES.
+Oh ! Je n'ai rien oublie.
+CASSANDRE.
+Non ! Si ce n'est d'accoler vos articles un peu mieux. Voila un fort joli memoire. Et quel est le sot qui l'a dresse ainsi ?
+GILLES.
+C'est moi, Monsieur ; je l'ai dicte a un ecrivain de dessous le charnier des Innocents.
+CASSANDRE.
+Il est d'un style bien elegant !... Vingt-neuf francs six sols ?...
+GILLES.
+Oui, Monsieur, que vous aurez la bonte de me donner, si vous n'aimez mieux me reprendre a votre service ; auquel cas je vous ferai credit.
+CASSANDRE.
+Si tu avais un peu plus d'intelligence, on pourrait faire quelque chose de toi. Mais tu es si bete ! Tu as si peu d'esprit !
+GILLES.
+Ah ! Dame, Monsieur, tout le monde n'en a pas un si grand que vous.
+CASSANDRE.
+Eh bien ! Mes lettres, qu'en as-tu fait ?
+GILLES.
+Celle d'aujourd'hui, la voila. Je ne l'ai pas rendue, comme vous savez bien. Pour celle d'hier, je l'ai donnee en mains propres. Mais, allez, j'ai eu diablement peur. Il etait arrive un grand malheur a Mademoiselle Isabelle !
+CASSANDRE.
+Tu me fais trembler. Quel malheur ?
+GILLES.
+Elle l'a, morguenne, echappee belle ! Tenez, Monsieur, quand je suis entre dans sa chambre, je l'ai trouvee pendue a sa cheminee...
+CASSANDRE.
+Oh, ciel ! Pendue ! Cela est-il possible ?
+GILLES.
+Dame, oui ! Elle ne grouillait ni pieds ni pattes. La frayeur m'a saisi d'abord, mais cependant je n'ai pas perdu le jugement. Je suis vite monte a l'echelle ; j'ai bravement coupe la corde. Patatras, voila Mademoiselle Isabelle par terre !
+CASSANDRE.
+Oh ! Mon cher Gilles, que je t'embrasse. Sans doute, alors, elle est revenue a elle ?
+GILLES.
+Non, Monsieur, pas encore. Quand j'ai vu qu'elle ne me parlait pas, j'ai pris votre lettre et je la lui ai attachee a la main avec une grosse epingle.
+CASSANDRE.
+C'est alors qu'elle a fait les hauts cris !
+GILLES.
+Non, Monsieur, elle n'en a rien senti.
+CASSANDRE.
+Oh ! Ciel, elle est donc morte ?
+GILLES.
+Non, Monsieur ; elle est revenue... de la ville un instant apres.
+CASSANDRE.
+Que veux-tu dire, revenue de la ville ?
+GILLES.
+Oui, vraiment, Monsieur, revenue de la ville. Je n'ai jamais eu si peur de la voir double.
+CASSANDRE.
+Peste soit du faquin ! Comme Mademoiselle Isabelle s'est fait peindre et qu'on devait hier lui apporter sort portrait, je parie que cet imbecile, en coupant la corde, aura fracasse toute la bordure !
+GILLES.
+Vous avez gagne, Monsieur, c'etait sa portraiture. Dame ! Je croyais que c'etait Mademoiselle Isabelle elle-meme.
+CASSANDRE.
+Sans doute qu'elle t'aura fait donner cent coups de baton pour ta balourdise !
+GILLES.
+Non, Monsieur ; elle etait d'abord bien en colere ; mais, comme il n'y a rien eu de casse, elle s'est mise a rire comme une folle en voyant ma frayeur. Ensuite, elle m'a fait asseoir a cote d'elle aupres du feu et m'a fait boire deux ou trois coups...
+CASSANDRE.
+Mademoiselle Isabelle est bien bonne !
+GILLES.
+Oh ! Pour cela, Monsieur, c'est une bonne fille. Mais, parguenne, il y a eu quelque chose de bien plus drole, allez ! C'est, ma foi, une bonne diablesse.
+CASSANDRE.
+Comment ? Insolent !
+GILLES.
+Oh ! Vous vous fachez toujours. On ne saurait vous parler... Par la sambille, j'ai vu pourtant chez elle une plaisante chose.
+CASSANDRE.
+Qu'est-ce que c'est que cette plaisante chose ?
+GILLES.
+Ma foi, je ne sais pas trop ! Mais j'ai bien ri en la voyant.
+CASSANDRE.
+Mais, enfin, qu'as-tu vu ?
+GILLES.
+Monsieur, permettez auparavant que je vous propose quelques questions. Un chat a des oreilles ?
+CASSANDRE.
+Oui, pour l'ordinaire.
+GILLES.
+Ce n'etait donc pas un chat !
+CASSANDRE.
+Mais que diable veux-tu dire ?
+GILLES.
+Tenez, Monsieur, il faut vous expliquer cela. Il faisait froid. Nous etions aupres du feu, Mademoiselle Isabelle et moi. Elle etait jambe deca, jambe dela. Les pieds sur la pomme des chenets. En voulant ramasser mon chapeau, qui etait tombe par terre... J'ai apercu...
+CASSANDRE.
+Quoi ?... Son petit chat, peut-etre ?
+GILLES.
+Monsieur, a-t-il le poil noir ?
+CASSANDRE.
+Oui.
+GILLES.
+Cela etant, c'etait son chat.
+CASSANDRE.
+Voila bien des discours pour dire que tu as vu son chat... C'est un petit folichon qui badine toujours avec elle. Il se fourre a tous moments sous ses jupons. Elle l'aime a la folie.
+GILLES.
+Il faut donc que ce soit son chat, car elle le caressait de la main. Mais, Monsieur, il me vient un scrupule. Y a-t-il des chats qui aient la gueule fendue de cette facon ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)CASSANDRE.
+Non, mon ami.
+GILLES.
+Oh ! Par la sanguenne, ce n'etait donc pas son chat que j'ai vu.
+CASSANDRE.
+Que diable veux-tu donc que ce soit ? Car, enfin, puisque tu l'as vue caresser ce petit animal, tu as pu distinguer aisement s'il relevait la queue, comme font tous ses pareils.
+GILLES.
+Oh ! Monsieur, je l'ai vu distinctement. Il n'avait pas de queue.
+CASSANDRE.
+Il n'avait pas de queue ?
+GILLES.
+Non, Monsieur, tres surement ; mais je suis sur qu'il en aurait bien voulu avoir.
+CASSANDRE.
+Peste soit de l'animal ! Va, mon ami, tu ne sais ce que tu dis.
+GILLES.
+Dame ! Si c'eut ete a moi qu'elle eut fait ces caresses-la, il y aurait eu quelque difference au moins !
+CASSANDRE.
+Tais-toi, impertinent ! Je suis bien sot de m'amuser aux mauvais propos de cet imbecile-la ! Ma lettre, enfin, quelle reponse y a-t-on faite ?
+GILLES.
+Je n'oserais vous le dire, Monsieur, vous en mourriez subitement.
+CASSANDRE.
+Qu'est-ce que cela signifie ?
+GILLES.
+Cela signifie que Mademoiselle Isabelle m'a dit de vous dire qu'elle viendrait ce soir souper avec vous.
+CASSANDRE.
+Souper avec moi ? Ah ! Mon cher Gilles, tu as raison, c'est, a mon endroit, une faveur des plus favorables, et, en faveur de cette faveur, je te reprends a mon service.
+GILLES.
+Quel galimatias ! Ma foi, Monsieur, l'amour vous fait perdre le peu d'esprit que vous aviez.
+CASSANDRE.
+Je veux lui faire un repas magnifique. Tiens, voila vingt-quatre sols. Cours vite chez Monsieur Gargot. Apporte-nous un bon morceau de boeuf a la mode, un quarteron de fromage de Hollande, des noix, une salade et une bonne bouteille de vin a six. L'heure s'avance. Ne perds point de temps.
+GILLES.
+Vous allez etre servi promptement. Je vais prendre un panier pour apporter tout cela.
+CASSANDRE.
+Moi, je rentre pour ranger dans la salle, afin d'etre en etat d'y recevoir ma maitresse.
+SCENE XV.
+PRENDS-TOUT, seul.
+Parbleu, il faut que Monsieur Cassandre soit imbecile pour avoir encore repris Gilles a son service. Il ne sera pas dit que ce sera impunement. Non, quand ce ne serait que pour me rejouir, il faut que je lui escamote la piece de 24 sols qu'il vient de lui donner. Je l'apercois, commencons notre fourberie.
+SCENE XVI. Prends-Tout, Gilles.
+PRENDS-TOUT.
+Ah ! Pauvre Monsieur Cassandre, que deviendras-tu quand tu sauras cette triste nouvelle ?
+GILLES.
+On parle de mon maitre !
+PRENDS-TOUT.
+Tu mourras de douleur quand tu apprendras que Mademoiselle Isabelle est empoisonnee.
+GILLES.
+Mademoiselle Isabelle, empoisonnee ? Houlas ! Voila bien le diable ! Dites donc, mon ami, qu'est-ce que vous parlez la tout seul de Mademoiselle Isabelle ?
+PRENDS-TOUT.
+Helas ! Je dis que, par le plus grand des malheurs, elle s'est empoisonnee.
+GILLES.
+Et comment cela ?
+PRENDS-TOUT.
+En voulant boire a la sante de Monsieur Cassandre, une araignee est tombee dans son verre, et elle l'a avalee sans s'en apercevoir.
+GILLES.
+Elle a avale une araignee !
+PRENDS-TOUT.
+Oui, mon ami, et qui avait des pattes grandes comme cela ! Dans le moment, sa langue s'est epaissie, la gorge lui a enfle, ses yeux se sont fermes, et elle allait mourir sans le secours du gros Thomas, qui heureusement passait devant sa maison au moment que toutes ses voisines temoignaient leur embarras par des cris tres percants.
+GILLES.
+Eh bien ? L'a-t-il soulagee ? J'ai cru qu'il n'arrachait que les dents.
+PRENDS-TOUT.
+Bon ! Il a des secrets merveilleux pour les maladies les plus singulieres. Il nous a d'abord rassures en nous disant qu'il avait un remede excellent pour l'accident arrive a Mademoiselle Isabelle ; il a meme commence son operation, mais il ne veut pas l'achever a moins de six francs.
+GILLES.
+Eh bien ! Il faut les lui donner.
+PRENDS-TOUT.
+C'est bien dit. Mais Mademoiselle Isabelle, qui revenait de faire ses provisions, ne se trouve pas avoir chez elle cette somme. Il ne lui reste que quatre francs seize sols, et le gros Thomas ne veut pas achever son operation a moins de six francs. Il est cher comme le diable !
+GILLES.
+Mais est-ce que ses voisines ne peuvent pas lui preter le surplus ?
+PRENDS-TOUT.
+Bon ! Quand elles ont entendu parler d'argent, elles ont aussitot decampe l'une apres l'autre.
+GILLES.
+Mais combien donc manque-t-il a Mademoiselle Isabelle ?
+PRENDS-TOUT.
+Je crois que cela peut aller a vingt-quatre sols. C'est une misere et je vais mettre mon habit engage pour cela. Mais, avant que j'aie ete a la friperie, la pauvre Mademoiselle Isabelle ne sera peut-etre plus en vie, et j'en serais bien fache, car c'est une bonne voisine.
+GILLES.
+Cela ne laisse pas que d'etre embarrassant. Mais etes-vous bien sur du remede du gros Thomas ?
+PRENDS-TOUT.
+Oh ! Tres sur. On apercoit deja les pattes de l'araignee, et je les ai vues comme je vous vois.
+GILLES.
+Vous avez vu les pattes de l'araignee ? Et ou ?
+PRENDS-TOUT.
+Je vais vous le dire. Pour faire connaitre qu'il n'est pas un charlatan, le gros Thomas n'a pas eu plutot recu les quatre francs seize sols a compte, qu'il a pris Mademoiselle Isabelle et vous l'a mise sur ses genoux comme un petit enfant que l'on veut fouetter. Il lui a trousse sa jaquette, lui a mis le derriere a l'air vis-a-vis la fenetre...
+GILLES.
+Et vous etiez la present ?
+PRENDS-TOUT.
+Sans doute ! Il n'y avait que moi et le gros Thomas. Alors il a tire de sa poche une petite boite d'ivoire dans laquelle etaient cinq ou six mouches en vie qu'il ne nourrit, a ce qu'il m'a dit, qu'avec de la cervelle de cirons, et il n'en a pas eu plutot approche une du clos Bruneau de la pauvre malade que l'araignee a montre le bout du nez et a sorti deux grandes pattes pour attraper la mouche.
+GILLES.
+Elle est donc sortie ?
+PRENDS-TOUT.
+Non, pas tout a fait. Faute des vingt-quatre sols, l'araignee est rentree, et le gros Thomas n'a pas voulu achever l'operation.
+GILLES.
+Ah ! Le miserable !
+PRENDS-TOUT.
+Depuis ce temps-la, Mademoiselle Isabelle est dans une agitation des plus violentes.
+GILLES.
+Et a-t-elle toujours le cul a l'air ?
+PRENDS-TOUT.
+Mais je crois que oui.
+GILLES.
+Cela doit etre curieux a voir.
+PRENDS-TOUT.
+Oh ! Ma foi, quand on souffre, on ne s'embarrasse pas de tout cela. Mais, vous m'amusez mal a propos. Je suis bien sot de vous raconter toutes ces choses-la pendant que je devrais avoir deja ete mettre mon habit en gage. Ce retard coutera peut-etre la vie a Mademoiselle Isabelle.
+GILLES.
+Ecoutez, mon ami, j'appartiens a Monsieur Cassandre qui, comptant avoir ce soir Mademoiselle Isabelle a souper, m'avait donne vingt-quatre sols pour aller chercher de quoi la regaler. Mais j'estime qu'ils seront bien mieux employes a donner au gros Thomas. Tenez, les voila !
+PRENDS-TOUT.
+Eh ! Que ne les avez-vous donnes il y a un quart d'heure ? Je cours a toutes jambes porter du secours a Mademoiselle Isabelle, s'il en est encore temps ; sinon, je viens vous rejoindre ici pour vous remettre la piece de vingt-quatre sols. Comment vous appelez-vous ?
+GILLES.
+Gilles Bambinois Cadet L'Aine, fort a votre service.
+PRENDS-TOUT.
+Adieu, Monsieur Gilles Cadet L'Aine.
+GILLES.
+Allez vite, sinon son derriere gagnera quelque bon rhume. Parguenne, je suis bien heureux de m'etre rencontre ici aussi a propos !
+SCENE XVI. Gilles, Cassandre.
+CASSANDRE.
+Je ne me sens pas d'aise. Quoi ! Ma charmante Isabelle viendra ce soir souper avec moi ! Je meurs d'impatience de la voir. Mais Gilles est bien longtemps a revenir de chez Monsieur Gargot et a faire ses autres emplettes. Le voici. Eh bien ! Mon ami ?
+GILLES.
+Eh bien ? Monsieur, ne voila-t-il pas un terrible accident ?
+CASSANDRE.
+Quel accident ?
+GILLES.
+Mademoiselle Isabelle !
+CASSANDRE.
+Quoi, Mademoiselle Isabelle ? Qu'y a-t-il de nouveau ?
+GILLES.
+Elle n'en mourra pas grace a moi.
+CASSANDRE.
+Qu'est-ce que cela veut dire ?
+GILLES.
+Cela veut dire que Mademoiselle Isabelle est morte, ou peu s'en faut, et que vous en etes la cause.
+CASSANDRE.
+Quel galimatias ! Est-ce encore quelque aventure, comme celle du portrait de tantot ?
+GILLES.
+Oh ! Que non ! C'est elle-meme en propre original qui s'est empoisonnee.
+CASSANDRE.
+Comment ? Empoisonnee...
+GILLES.
+Oui, Monsieur, et par rapport a vous. Mais ne vous effrayez pas encore. Mademoiselle Isabelle, en buvant a votre sante, avait avale une araignee...
+CASSANDRE.
+Juste Ciel ! Ah ! Quel malheur !
+GILLES.
+Elle se mourait. Le gros Thomas a passe par la. Il voulait bien la guerir ; mais il demandait six francs et elle n'avait que quatre francs seize sols.
+CASSANDRE.
+Eh ! Finis ton miserable recit, auquel je ne comprends rien !
+GILLES.
+Patience ! Il vous l'a couchee sur ses genoux, lui a mis au derriere une mouche d'une espece singuliere. L'araignee est venue pour la gober, et, moyennant les vingt-quatre sols que j'ai donnes pour faire la somme complete, je compte que cette vilaine bete lui est sortie du corps a l'heure que je vous parle.
+CASSANDRE.
+Je ne comprends rien a ces discours. Je crois que Gilles est devenu fou.
+GILLES.
+Non, Monsieur, je ne suis pas fou. Je vous dis la verite pure. Je la tiens d'un galant homme a qui j'ai donne les vingt-quatre sols qui manquaient a Mademoiselle Isabelle. Il m'a tout raconte comme je vous le dis.
+CASSANDRE.
+Eh ! Pauvre sot ! Sans doute encore quelque nouveau tour de filou ! Comment veux-tu, bete que tu es, qu'une araignee qui aurait ete avalee sorte toute en vie apres avoir passe a travers plus de trente aunes de boyaux ?
+GILLES.
+Trente aunes de boyaux ? Est-ce que vous avez mesure les boyaux de Mademoiselle Isabelle ? Dame ! Pour moi, je n'en sais pas tant. On me dit qu'elle est empoisonnee, qu'elle va mourir ! Que, faute de vingt-quatre sols qui manquent pour payer le gros Thomas, elle court risque de la vie. Parguenne, pour la lui sauver, je n'ai pas fait difficulte de les donner.
+CASSANDRE.
+Le motif est bon. Tu n'as peche que par ignorance et par betise. Je cours chez Mademoiselle Isabelle, que je ramenerai, j'en suis sur, en bonne sante ; et je donnerai ordre, en revenant, pour notre souper.
+GILLES.
+Je le souhaite. Mais, parguenne, je crains bien que l'histoire de l'araignee ne soit que trop vraie.
+CASSANDRE.
+Et moi, je suis tres persuade du contraire.
+GILLES.
+A propos, notre maitre, j'ai oublie de vous dire, de la part de Mademoiselle Isabelle, que vous ne lui donniez pas de tripaille. Elle dit que toutes les fois qu'elle vous voit vous ne lui presentez que du mou. Dame ! elle en est bien lasse.
+CASSANDRE.
+Tais-toi, insolent ! Mademoiselle Isabelle sera contente.
+
+	==================================================

@@ -1,0 +1,472 @@
+********************************************************
+	DC.Title                  = ARLEQUIN JALOUX
+	DC.Author                 = COUPIGNY, Andre-Francois
+	DC.Creator                = FIEVRE, Paul
+	DC.Subject                = Theatre, Pieces de
+	DC.Subject.Classification = 840
+	DC.Description            = Edition du texte cite en titre
+	DC.Publisher              = FIEVRE, Paul
+	DC.Contributor            = FIEVRE, Ernest
+	DC.Date.Issued content    = 2012-03-12
+	DC.Date.Created           = 
+	DC.Date.Modified          = Version du texte du 20/05/2016 a 06:01:58.
+	DC.Type                   = text
+	DC.Format                 = text/txt
+	DC.Identifier             = http://www.theatre-classique.fr/pages/COUPIGNY_ARLEQUINJALOUX.xml
+	DC.Language scheme        = UTF-8 content=fr
+	DC.Rights                 = Theatre Classique
+***************************************************************
+
+ARLEQUIN JALOUX COMEDIE EN UN ACTE1797.
+par Mr de COUPIGNY
+	
+	
+	Representee pour la premiere foi le 2 janvier 1797 au Theatre du Vaudeville.
+	AVANT-PROPOS. [1835]
+En 1797, M. de Coupigny donna au Vaudeville un Arlequin Jaloux, qui ne fut pas accueilli. Plus de trente ans apres, lui et l'un de ses amis en firent une petite comedie sans pretention, qu'ils n'ont jamais cherche a faire jouer, mais qui leur a paru un tableau agreable, un peu dans le genre des arlequinades de Florian, et susceptible d'etre represente en societe. Il y a quelque chose de la donnee des Deux Jaloux, que l'ingenieux M. Vial a si bien imite du Jaloux honteux de l'etre, de Dufresny. Mais ce n'est pas ici un jaloux honteux de sa jalousie ; c'est un jaloux qui a peur d'en etre puni. Le jaloux de M. Vial craint beaucoup le ridicule, et nullement sa femme : celui-ci craint beaucoup sa femme, et nullement le ridicule : c'est sans doute par cette raison qu'il n'y a pas entre les deux ouvrages une seule scene, ni meme un seul detail qui se ressemblent.
+
+ACTEURS
+ARLEQUIN.
+COLOMBINE.
+MONSIEUR DUMONT
+SCAPIN.
+La scene se passe a Paris, a peu pres de nos jours.
+
+
+
+			
+
+
+SCENE PREMIERE.
+Le theatre represente le salon assez modeste d'Arlequin. Il y a le grand fauteuil appele confortable.
+ARLEQUIN en robe de chambre, mais habille dessous.
+J'avais toujours entendu dire qu'on ne pouvait etre parfaitement heureux; j'ai cru pendant quelque temps que Rosette me ferait donner le dementi a tous les philosophes ; mais je commence a croire que ces gens-la pourront bien y voir plus clair que l'Amour. Je le crois bien : l'Amour est aveugle. Pas toujours pourtant ; et certainement il y voyait tres bien, quand il m'a donne Colombine. Mais c'est que tout le monde a aussi de bons yeux ; et je remarque depuis quelque temps que tout le monde la trouve jolie. C'est tres mal, entendez-vous : je ne veux pas qu'on trouve ma femme jolie ; je le defends. Mais j'ai beau le defendre, il y a toujours des rebelles ! Voila un an que nous sommes maries, et il me semble que j'etais plus content quand j'etais moins heureux. Ces amants sont singuliers ! Ils veulent toujours devenir epoux : c'est pourtant diablement different. Quand je poursuivais Rosette, j'attaquais ; a present que ma femme est ma femme, je me defends. Il y a une foule de personnes qui voudraient se meler de ce qui ne les regarde pas. Ah ! Les plus honnetes gens du monde sont bien fripons en ce genre-la. Mais, d'un autre cote, Colombine m'aime tant ! Ah ! La voici.
+SCENE II. Arlequin, Colombine.
+COLOMBINE.
+Te voila, mon ami... Ah ! Mon Dieu, en robe de chambre!
+ARLEQUIN.
+Oui, je craignais d'avoir froid. Mais, tu as raison, c'est inutile.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ma gentille Colombine, quand je te vois, je n'ai plus de chagrin.
+COLOMBINE.
+Comment ! Est-ce que tu as du chagrin loin de moi ?
+ARLEQUIN.
+Sans doute, puisque je ne te vois pas. Je voudrais toujours avoir cette jolie mine devant moi ; je voudrais que tu fusses toujours sous mes yeux, comme tu es toujours dans mon coeur.
+COLOMBINE.
+Tu serais donc bien heureux alors ?
+ARLEQUIN.
+Tu le demandes ! Mais ca ne se peut pas. Vois-tu, Colombine, quand tu es avec moi, avec cette douce figure , avec ces graces mignonnes, avec tout ce que tu as de charmes, je suis riche, riche ! Mais des que tu es partie, je me trouve ruine.
+COLOMBINE.
+Mais, mon cher Arlequin, sais-tu que ce que tu me dis-la est tres-aimable. Cependant ca ne dois pas me faire oublier cette visite que tu as a rendre a ton cousin Pantalon, recemment arrive de Bergame.
+ARLEQUIN.
+Tu crois ? Mais je ne peux pas faire une visite et rester a la maison. Non, non : c'est bien assez que tu partes. Je ne veux pas te quitter.
+COLOMBINE.
+Il le faut pourtant bien quelquefois. Tiens, mon ami, crois-moi : debarrasse-toi sur-le-champ de cette visite, et puis nous ne nous quitterons plus de la journee. 
+ARLEQUIN.
+Allons, tu le veux : je vais y aller Si tu savais comme ca me coute, comme ca m'inquiete de te quitter !
+COLOMBINE.
+Comme ca t'inquiete ? Est-ce que que tu serais jaloux, par hasard ?
+ARLEQUIN.
+Jaloux ! Par exemple ! Oh ! Tu me connais bien ! Moi, jaloux ! Ah ! Ah ! Ah !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)COLOMBINE.
+Tu me rassures : car tu m'as donne un peu de frayeur. Sais-tu que si je pouvais te soupconner un moment d'etre jaloux, je ne t'aimerais plus du tout.
+ARLEQUIN.
+En verite ?
+COLOMBINE.
+En verite. Ce serait plus fort que moi. Je te tromperais, je crois.
+ARLEQUIN.
+Ah ! Mon Dieu !
+COLOMBINE.
+Je deteste les jaloux ; je ne connais rien de si meprisable et de si ridicule : d'abord ce sont des sots qui veulent ce qui est impossible. Ce n'est que par le coeur qu'on peut garder une femme.
+ARLEQUIN.
+Assurement ; et si tu savais comme moi-meme je me moque des jaloux !
+COLOMBINE.
+Bien ! Et je t'en aime mieux.
+ARLEQUIN.
+Vois-tu, Colombine, il faut, sur cela et sur tout le reste, ne nous brouiller jamais, et nous raccommoder toujours.
+COLOMBINE.
+A merveille. Mais, cette visite ?
+ARLEQUIN.
+Oui, je vais la faire, si j'ai le courage de te quitter.
+COLOMBINE.
+Eh bien ! C'est moi qui te quitte. Adieu. Je suis partie.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE III.
+ARLEQUIN.
+Je tremble encore de peur. Ah ! Que j'ai bien fait de n'en pas lui dire mon secret. « Si je te croyais jaloux, je ne t'aimerais plus. » J'ai cru entendre mon arret. Oh ! Cachons bien ma jalousie, et n'en convenons jamais avec elle. D'ailleurs, elle est absurde, ma jalousie ; car Colombine m'aime, Colombine m'adore. Je ne sais pas comment cela se fait ; car elle est bien blanche, et moi je suis un peu hale. Mais enfin, c'est comme cela. Ah ! Que je suis heureux ! Gardons-nous bien de gater mon bonheur.
+SCENE IV. Arlequin, Scapin.
+ARLEQUIN.
+Ah ! C'est toi, Scapin.
+SCAPIN, un billet a la main.
+Mon maitre ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Oui, mon maitre, c'est moi.
+ARLEQUIN.
+Ou vas-tu comme cela ?
+SCAPIN.
+Faire la commission que madame vient Arlequin de me donner.
+ARLEQUIN.
+Et quelle commission ?
+SCAPIN.
+Elle m'a defendu de vous en parler.
+ARLEQUIN.
+Elle te l'a defendu !... Tu as raison, Scapin, il faut etre discret.
+SCAPIN.
+Sans doute. Adieu, monsieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Ecoute donc, Scapin.
+SCAPIN, revenant.
+Monsieur ?
+ARLEQUIN, s'appuyant sur lui avec un air d'amitie.
+Quand je t'ai demande ce dont ma femme vient de te charger, ce n'est pas que ca me tourmente, au moins. Que ce soit une emplette a faire, un cadeau a offrir, un billet a remettre, cela m'est bien egal. Je suis si parfaitement tranquille ! Tu n'as pas d'idee comme je suis tranquille !...
+SCAPIN.
+Oh ! Mon maitre, vous avez bien raison.
+ARLEQUIN, tout en cherchant a mettre la main dans la poche de Scapin.
+Scapin, depuis quelque temps, je suis beaucoup plus content de toi. J'ai bien vu le temps ou tu servais assez mal : tu etais paresseux, menteur, et je t'ai vu voleur comme une chouette.
+SCAPIN.
+Ah ! Monsieur
+ARLEQUIN.
+Allons, calme-toi ; comme une pie... Mais tu t'es corrige ; il ne te manque presque plus rien : tu es devenu un tres honnete homme..... pour un Scapin. 
+SCAPIN.
+Monsieur est d'une politesse !...
+ARLEQUIN.
+Non, je te le dis comme je le pense ; et je le pense si bien que je veux te donner une marque de ma satisfaction, et tu peux compter ce soir sur une gratification de macaroni.
+SCAPIN.
+Ah ! Monsieur, quelle generosite !
+ARLEQUIN.
+Tu sais que le macaroni est une des choses que j'estime le plus... Comment ! Tu es si froid pour une telle marque de ma satisfaction ! Tu ne te felicites pas du retour inespere de ma confiance ! Tu ne leves pas les mains au ciel !
+SCAPIN.
+Monsieur,je les leverai, si vous voulez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+C'est bien d'etre reconnaissant. Mais, Scapin, je t'ai trop retenu ; a present, va faire ta commission.
+SCAPIN.
+Oui, monsieur.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais qu'est-ce qu'il a donc, mon maitre ?
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE V.
+ARLEQUIN, regardant le billet.
+« A monsieur Dumont.» Je ne connais pas cet homme-la ; je n'en ai jamais entendu parler... Heureusement que le cachet est encore humide ; ouvrons.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)« Mon mari va sortir ; « venez, et prenez bien garde qu'il ne vous voie. » Je suis mort !... Je veux voir ce monsieur ; je veux le connaitre. 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Scapin ! Scapin ! Refermons le fatal billet. Comme cela, il est impossible de deviner que je l'ai ouvert... Ah ! Ciel, quelle decouverte ! Quelle perfidie ! Ah ! Les femmes ! Les femmes ! Peut-etre que je suis injuste envers quelqu'une de ces dames ; mais du moins, je puis toujours bien dire : Ah ! Ma femme ! Ma femme !
+SCENE VI. Arlequin, Scapin.
+SCAPIN.
+Mon maitre, vous m'avez appele ?
+ARLEQUIN.
+Certainement, je t'ai appele.
+SCAPIN.
+Que voulez-vous ?
+ARLEQUIN.
+Ce que je veux, ce que je veux ! Je ne trouve pas la clef de mon armoire ; ne l'aurais-tu pas prise par megarde ?
+SCAPIN.
+Non, monsieur.
+ARLEQUIN.
+Oh ! Tu es tres distrait. Je parie que, sans le savoir, tu l'auras mise dans tes poches.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Non, il n'y a pas de clef.
+SCAPIN, tirant le billet.
+Il n'y a dans ma poche que ce billet.
+ARLEQUIN.
+Ah ! Ce billet...
+SCAPIN.
+Un billet que m'a ecrit ma bonne amie.
+ARLEQUIN.
+C'est bien. Va ; je suis fache de t'avoir rappele pour rien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE VII.
+ARLEQUIN.
+Arlequin, mon pauvre Arlequin, que je te plains ! Je te fais mon compliment de condoleances. Mon ami, mon cher ami, mon meilleur ami, te voila comme bien d'autres ! Oh ! Peut-etre pas encore. Tu as encore le bonheur de n'etre que tres-inquiet; mais tu m'as bien l'air d'etre avant peu tout-a-fait tranquille. Gardons-nous bien de dire mon malheur ; car ce sont de ces malheurs affreux dont on ne fait que rire dans le monde. Moi-meme j'en ai ri quelquefois ! Ah ! Si la fureur etait dans le genre des Arlequins, quelle ne serait pas la mienne ! Mais on dit qu'elle nous va mal. Le chagrin du moins nous est permis, et j'en prends ma bonne part. Ah ! Colombine, Colombine !... Non, je ne peux encore la croire si perfide. J'aime encore a esperer. Veillons ; mais surtout ne laissons pas connaitre a Colombine mes soupcons... avant qu'ils soient des certitudes. Si elle se doutait de ma jalousie, elle la justifierait tout-a-fait ; elle me l'a dit elle-meme tout a l'heure. Allons, tout opprime que je suis, faisons comme les tyrans : dissimulons; et montrons, du moins, a Colombine, cette gaite qu'elle m'inspire si parfaitement !
+SCENE VIII. Arlequin, Colombine.
+COLOMBINE.
+Comment ! Te voila, Arlequin, tu n'es pas encore parti !
+ARLEQUIN.
+Non, comme tu vois. Il y a quelque chose qui me retarde, quelque chosede tres agreable, de tres amusant.
+COLOMBINE.
+Qu'est-ce que c'est ?
+ARLEQUIN.
+Je te le dirai ; c'est un secret tres-piquant, que je te menage.
+COLOMBINE.
+Oh ! Je ne suis pas curieuse.
+ARLEQUIN.
+Tu es bien heureuse. Ma foi ! Ni moi non plus. Je suis si content avec loi, si gai, si joyeux, que, vraiment, il me semble que mon education est finie, et que je n'ai plus rien a apprendre.
+COLOMBINE.
+Oui, mon cher Arlequin ; tu es bon, tu m'aimes : tu en sais assez.
+ARLEQUIN.
+Oh ! Mon Dieu, oui, j'en sais assez.
+COLOMBINE.
+Qu'est-ce que tu as donc ? 
+ARLEQUIN.
+Rien, rien du tout, que cette emotion douce que j'eprouve toujours aupres de toi.
+COLOMBINE.
+Et moi, je n'aime rien tant au monde que mon ami Arlequin.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Aye ! Aye ! Aye ! Tu me fais trop de plaisir. Je m'en vais.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE IX.
+COLOMBINE.
+Bon et excellent mari, que mon Arlequin ; il est, surtout pour moi, d'une confiance dont je lui sais bien gre. Il etait deja tres bon enfant en revenant de Bergame ; mais il a encore gagne en France, dans la societe de Monsieur Marivaux et de Monsieur Florian. Aussi, je l'aime de tout mon coeur ; il n'y a rien que je ne fisse pour lui faire plaisir ; il ne se doute pas de la surprise que je lui menage. Ah ! Voila Scapin.
+SCENE X. Colombine, Scapin.
+COLOMBINE.
+Eh bien, Scapin, as-tu trouve ce monsieur ?
+SCAPIN.
+Oui, madame.
+COLOMBINE.
+Tu lui as remis mon billet ?
+SCAPIN.
+Oui, madame.
+COLOMBINE.
+Viendra-t-il ?
+SCAPIN.
+Oui, madame.
+COLOMBINE.
+Et quand ? 
+SCAPIN.
+Tout a l'heure.
+COLOMBINE.
+Tout a l'heure, c'est trop tot. Ecoute, Scapin.
+SCAPIN.
+Que veut madame ?
+COLOMBINE.
+Je compte sur ta discretion.
+SCAPIN.
+C'est juste.
+COLOMBINE, lui donnant de l'argent.
+Je la paye, meme.
+SCAPIN.
+C'est trop.
+COLOMBINE.
+Tu vas attendre ce Monsieur Dumont a la porte.
+SCAPIN.
+Oui, madame, c'est aise.
+COLOMBINE.
+Oui, mais tu observeras si mon mari n'est pas sorti.
+SCAPIN.
+Ah ! Ah ! Oui, madame.
+COLOMBINE.
+S'il n'est pas sorti, tu prieras Monsieur Dumont d'attendre.
+SCAPIN.
+Oui, madame.
+COLOMBINE.
+Et des qu'il sera sorti, tu introduiras ce monsieur.
+SCAPIN.
+Oui, madame.
+COLOMBINE.
+Tu m'entends bien ?
+SCAPIN.
+C'est clair.
+COLOMBINE.
+Tu n'oublieras rien ?
+SCAPIN.
+Je n'ai garde.
+COLOMBINE.
+Je compte sur toi.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XI.
+SCAPIN.
+Si j'entends ! De reste. Ah ! Mon pauvre maitre, qui aurait cru ca ? Quand tout le monde fait l'eloge de madame Arlequin ; quand il est reconnu que, derogeant beaucoup aux habitudes des Colombine, elle est le vrai modele de la vertu et de la fidelite conjugale ! Ah ! Scapin, Scapin ! Que tu as bien fait de resister a ces sirenes qui se disputaient l'honneur de te seduire ! Je suis garcon, c'est ce qu'il y a de plus sur. Mais allons a notre poste pour recevoir ce monsieur Dumont. Ah ! Diavolo ! Voila mon maitre !
+SCENE XII. Scapin, Arlequin.
+ARLEQUIN,a part.
+Ah ! Voila ce coquin de Scapin, qui porte les billets doux de ma femme !... J'ai une demangeaison de le frotter ! Cela me soulagera un peu.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Eh bien ! Ou vas-tu ?
+SCAPIN.
+Je descends.
+ARLEQUIN.
+Reste ! Tu as fait la commission de ma femme ?
+SCAPIN.
+Oui, monsieur. Est-ce que monsieur en est fache ?
+ARLEQUIN.
+Moi ! Pas du tout ; au contraire, je t'en sais gre. Mais c'est de ton service que je suis mecontent.
+SCAPIN.
+Qu'est-ce que j'ai donc fait ?
+ARLEQUIN.
+Ce que tu as fait ! Ce que tu as fait ! 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Que diable ! Qu'est-ce qu'il a fait ? 
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Tu es negligent, paresseux, libertin ; tu es tres libertin !... Et l'on m'a adresse hier de vives plaintes contre toi.
+SCAPIN.
+Mais, monsieur, vous etiez si content de moi ce matin.
+ARLEQUIN.
+Moi ?
+SCAPIN.
+Oui. Cette gratification de macaroni.
+ARLEQUIN.
+C'etait pour reconnaitre ton exactitude envers ma femme, ce que tu faisais pour elle, et sans doute pour moi. Mais de nouvelles plaintes, que je viens de recevoir contre toi, raniment mon mecontentement, et il faut que je te corrige.
+SCAPIN.
+Moi ? Monsieur.
+ARLEQUIN.
+Oui ; cela te fera du bien.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCAPIN.
+Pas du tout. Aye ! aye ! aye ! aye !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)ARLEQUIN.
+Cela me fait du bien aussi, a moi.
+SCENE XIII. Arlequin, Colombine.
+COLOMBINE.
+Quel est donc ce bruit ? Quoi ! C'est encore toi, Arlequin ? Tu ne veux donc pas faire cette visite ?
+ARLEQUIN.
+Oh ! C'est qu'il y a toujours quelque chose qui m'arrete.
+COLOMBINE.
+Mais qu'a donc fait ce pauvre garcon, qui criait tout a l'heure ?
+ARLEQUIN.
+On m'a fait des plaintes contre lui, et j'ai ete oblige de le corriger ; c'est ce qui m'a retenu ici. Mais je m'en vais decidement. Adieu ; ou plutot sans adieu, ma chere Colombine, toi, qui es si bonne et qui m'aimes tant ; adieu !
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIV.
+COLOMBINE.
+Je suis etonnee qu'il ait battu Scapin, lui qui est ordinairement si doux. Il est vrai qu'il a quelquefois des moments de vivacite, ou on le croirait difficile ; mais c'est bien rare. Enfin il est parti ; il etait temps, puisque ce monsieur va arriver. Allons nous preparer nous-meme a cette entrevue.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XV.
+ARLEQUIN, rentrant sans bruit par une autre porte que celle par laquelle il est sorti.
+Personne, bon ! Scapin m'a vu sortir ; mais je suis rentre en secret, le moment d'apres, par la petite porte. A present, je puis observer; mais il faut me cacher, du moins, tant que je ne serai pas sur de mon fait, et surtout a Colombine ; car je me souviens trop de la menace qu'elle m'a faite. Mais ou me cacher ? Ah ! Mon dieu, j'ai oublie cela. Ciel ! J'entends du bruit ; on vient. Ma foi, je ne vois que ce confortable pour me recueillir, et cette robe de chambre pour me voiler.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XVI. Scapin, Dumont, Arlequin.
+SCAPIN.
+Entrez , monsieur.
+DUMONT.
+Je n'ai pas pu venir plus tot.
+SCAPIN.
+Oh ! Vous etes venu tres a propos ; monsieur Arlequin ne fait que sortir.
+ARLEQUIN, a part.
+Traitre !
+SCAPIN.
+Restez ici, monsieur, je vais avertir madame.
+DUMONT.
+J'attends.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE X.II. Dumont, Arlequin, cache.
+ARLEQUIN, a part.
+Il n'est pas mal ; il est beaucoup trop bien.
+DUMONT.
+Grace a Dieu, j'arrive au terme, et cette derniere scene va etre decisive. Jamais je n'avais eu a m'occuper d'une femme plus agreable que madame Arlequin ; et j'espere que celle-la me fera honneur dans le monde.
+ARLEQUIN, a part.
+Le scelerat!
+DUMONT.
+Il me tarde bien quelle vienne. Ahi ! La voici.
+ARLEQUIN, a part.
+Dieu ! Comme la perfide est paree !
+SCENE XVIII. Dumont, Arlequin,cache. Colombine, qui, en effet, est un peu plus paree de la tete, grace a un chapeau ou a quelque ornement.
+DUMONT.
+Madame, vous voyez que j'ai recu votre billet.
+COLOMBINE.
+Vous n'avez pas rencontre mon mari?
+DUMONT.
+Je ne crois pas, Madame.
+COLOMBINE.
+Oh ! Vous ne l'avez pas rencontre ; car vous l'auriez bien reconnu d'abord. Dans la famille des Arlequins,tous les hommes ont un caractere de figure particulier.
+DUMONT.
+C'est vrai.
+COLOMBINE.
+Je tenais bien a ce qu'il ne nous vit pas.
+DUMONT.
+Ah ! Madame, quelle jolie coiffure vous avez la !
+COLOMBINE.
+Je n'ai jamais tant desire d'etre jolie.
+DUMONT.
+Eh bien, vos voeux sont accomplis.
+COLOMBINE.
+Vous trouvez ?
+DUMONT.
+Vous etes charmante.
+COLOMBINE.
+Votre suffrage est celui qui me flatte le plus.
+DUMONT.
+Seulement, si vous me permettez de vous le dire, cette touffe de cheveux pourrait, arrangee un peu autrement, produire plus d'effet ; ceci pourrait aussi etre un peu mieux. Pardonnez-moi ces observations.
+COLOMBINE.
+Je vous en saurai gre, au contraire.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Je comprends parfaitement vos remarques ; elles sont justes, et je vais en profiter. J'entre un moment dans ma chambre, et je suis a vous.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XIV. Dumont, Arlequin.
+ARLEQUIN, se soulevant et paraissant sur le confortable.
+Je suis a vous.
+DUMONT.
+Que vois-je ! Un homme etait la ! Mais, si je ne me trompe pas, ce doit etre la Monsieur Arlequin.
+ARLEQUIN,se levant.
+Mon dieu, oui , monsieur; c'est Arlequin jaloux ; c'est Arlequin marie. C'est Arlequin. Ah ! Que vous ai-je fait, monsieur, pour me causer tant de chagrin ? Vous n'etes surement pas marie, vous ! Mais vous vous marierez un jour, et vous sentirez alors combien il est cruel de troubler un honnete homme dans sa propriete la plus chere. Vous etes aimable, j'en suis sur ; et il faut que vous le soyez beaucoup pour avoir fait oublier a Colombine toute l'amitie qu'elle avait pour moi, toutes les promesses qu'elle m'avait jurees. Mais vous trouverez peut-etre comme moi, un plus aimable que vous, qui me vengera. Non, je ne le demande pas ; et je ne suis pas assez cruel pour vous desirer tout le mal que vous me faites.
+DUMONT.
+Monsieur Arlequin, je pourrais vous dire bien des choses pour ma justification ; mais j'aime mieux m'en rapporter a ce que vous allez entendre vous-meme. Rentrez vite dans votre confortable.
+ARLEQUIN.
+Je ne comprends pas
+DUMONT.
+Elle vient ; regardez et ecoutez.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XX. Dumont, Colombine, Arlequin, cache.
+COLOMBINE.
+Est-ce bien comme cela ?
+DUMONT.
+C'est a merveille, madame.
+COLOMBINE.
+Bon. Maintenant rien ne s'oppose a ce que vous mettiez la derniere main a ce portrait, a ce portrait qui m'est si cher, puisque je veux l'offrir a mon ami Arlequin, dont c'est aujourd'hui la fete, et qui sera si surpris et si heureux de ce present. Imaginez, monsieur, que c'est le meilleur des hommes et des maris, qu'il cherche constamment tout ce qui peut me faire plaisir ; et moi, dans ma reconnaissance et dans ma tendresse, je serai si contente de lui faire ce present. Je vous en prie, monsieur, faites-moi bien jolie, pour que je lui plaise davantage. Suppleez a ce qui manque a mes traits, par l'expression du plaisir que me donne l'espoir de lui en causer. Il n'est pas tres beau, Arlequin, mais il est si bon que je l'aime mieux que tous les plus jolis garcons du monde. Allons, monsieur, me voila prete ; travaillez.
+DUMONT, prenant son pinceau ou son crayon.
+Oui, madame, et je ne puis vous dire le plaisir que j'aurai a achever ce portrait.
+SCENE XXI. Les Memes, Scapin.
+SCAPIN.
+Madame, voici une dame qui arrive en visite.
+COLOMBINE.
+Une dame ! Je ne recois personne ; je vais le lui dire et m'excuser.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)SCENE XXII. Dumont, Arlequin.
+DUMONT, decouvrant Arlequin.
+Eh bien ! Monsieur Arlequin , qu'en pensez-vous ?
+ARLEQUIN, sanglottant.
+Ah ! ah ! ah !
+DUMONT.
+Eh bien ! Qu'avez-vous donc ?
+ARLEQUIN.
+Je pleure de joie... Ah ! ah ! ah !... De ce que j'ai entendu... Ah! ah ! ah!... De ce que j'ai une si bonne femme... Ah ! ah ! ah !... Et de ce que je ne la meritais pas... Ah ! ah ! ah !...
+DUMONT.
+Allons, calmez-vous.
+ARLEQUIN, sanglottant toujours.
+Que je suis content... Ah! ah! ah!... Je suis le plus heureux des hommes... Ah! ah ! ah!...
+DUMONT.
+Mais puisque vous etes si heureux, ne pleurez donc pas.
+ARLEQUIN.
+Que j'ai de torts envers vous aussi, monsieur Dumont ! Me les pardonnez-vous?
+DUMONT.
+De tout mon coeur ; mais songez donc que madame va revenir.
+ARLEQUIN.
+C'est vrai; et si elle me trouve ici, elle se doutera bien de ma jalousie, et elle la deteste... Il y a un moyen. Monsieur Dumont, je compte sur votre discretion.
+DUMONT.
+Soyez-en sur.
+ARLEQUIN.
+Sans adieu.
+SCENE XXIII. Dumont, puis Colombine.
+DUMONT.
+J'aime beaucoup monsieur Arlequin. Il parait que je lui ai fait une terrible peur. Ma foi, il y avait de quoi ; et ne sachant pas que j'etais peintre... Il etait temps qu'il sortit, car voila sa femme.
+COLOMBINE.
+Pardon, monsieur, me voila maintenant sure de n'etre plus interrompue.
+DUMONT.
+En ce cas-la, madame, nous allons commencer.
+COLOMBINE.
+Ou et comment faut-il se placer ? 
+SCENE XXIV. Dumont, Colombine, Scapin.
+SCAPIN.
+Madame, tout est perdu ! Voila Monsieur qui arrive !
+COLOMBINE.
+Comment ! Tout est perdu ? Du tout : il peut toujours entrer.
+SCAPIN, a part.
+Ah ! Ah !
+SCENE XXV ET DERNIERE. Colombine, Dumont, Scapin, Arlequin.
+ARLEQUIN.
+Ma chere amie, j'ai trouve mon oncle Pantalon en route, c'est ce qui fait que je reviens bien plutot.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Mais, que vois-je : quel est ce monsieur ?
+COLOMBINE.
+Mon ami, je vois qu'il n'y a pas moyen de te surprendre. Monsieur est un peintre, et il vient achever mon portrait, que j'ai fait faire pour toi et pour ta fete.
+ARLEQUIN.
+En verite, Colombine, on n'est pas plus aimable que toi.
+COLOMBINE.
+Tu me disais tantot que tu voudrais m'avoir toujours devant toi. Mon portrait remplira ton but.
+ARLEQUIN.
+Apres l'original, c'est ce que j'aimerai le mieux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ah ! Que j'ai eu tort !
+SCAPIN, a part.
+Allons, ma maitresse n'est pas ce que je croyais , ni son mari non plus.
+ARLEQUIN.
+Scapin, une table, tout ce qu'il faut pour que monsieur le peintre acheve le portrait.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)DUMONT.
+Madame, voulez-vous bien vous placer la ; et moi ici, je serai a merveille.
+ARLEQUIN.
+Je voudrais bien voir le portrait.
+COLOMBINE.
+Oh ! Quand il sera fait.
+ARLEQUIN.
+Monsieur Dumont, je pense a une chose.
+DUMONT.
+A laquelle, monsieur ?
+ARLEQUIN.
+Il n'y a la qu'un portrait, n'est-ce pas ?
+DUMONT.
+Sans doute.
+ARLEQUIN.
+Eh bien ! Il faut en faire deux.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)Ajoutez-moi ainsi.
+COLOMBINE.
+Comment ! A mes genoux !
+ARLEQUIN.
+J'ai mes raisons pour ca.
+COLOMBINE, en se penchant avec tendresse vers Arlequin a ses genoux.
+Mon cher Arlequin !
+DUMONT.
+Bien ! Madame, bien ! Ne bougez pas. La pose est excellente, et le tableau sera a merveille comme cela.
+***************** Erreur dans l'interpretation du texte (ligne 290, programme : edition_txt.php)
+	==================================================
