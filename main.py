@@ -36,8 +36,8 @@ def scandir(myp,targetp):
                 scandir(mp,tp)
 
 
-mypath = "hn/"
-targetpath = "processed-hannah3/"
+mypath = "data/input/hn/"
+targetpath = "data/output/processed-hannah3/"
 
 scandir(mypath,targetpath)
 
